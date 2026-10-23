@@ -4,15 +4,15 @@
 
 | 工单 | 名称 | 前置 | 状态 | 角色 |
 |---|---|---|---|---|
-| T-00-09 | 快照与恢复包机制（pack.py、restore-check） | — | review（雏形已实现并自测） | R-OPS |
-| T-00-01 | 初始化仓库结构并放入冻结原文 | — | blocked（待用户确认 ★1–★4） | R-OPS/R-ORCH |
-| T-00-02 | 规格落库 | — | backlog | R-OPS/R-ORCH |
-| T-00-03 | 脚本 S00–S08 及自测 | — | review（脚本雏形已有） | R-OPS/R-ORCH |
+| T-00-09 | 快照与恢复包机制（pack.py、restore-check） | — | done（2026-10-24 全链复验通过） | R-OPS |
+| T-00-01 | 初始化仓库结构并放入冻结原文 | — | done（git 仓库已建并推基线；src_frozen 10/10 哈希核对；D-21 版权原文不入公开仓库） | R-OPS/R-ORCH |
+| T-00-02 | 规格落库 | — | done（pillars.yaml 10/25、exclusions、boundary_rules、schemas×3 落库，D-20） | R-OPS/R-ORCH |
+| T-00-03 | 脚本 S00–S08 及自测 | — | doing（S00–S02 完成、selftest bug 修复；S03–S08 波次3进行中） | R-OPS/R-ORCH |
 | T-00-04 | 闸门与 lint 骨架 | — | backlog | R-OPS/R-ORCH |
-| T-00-05 | 状态与日志基建、交接生成脚本 | — | backlog | R-OPS/R-ORCH |
-| T-00-06 | 复水测验题库与黄金样例占位 | — | backlog | R-OPS/R-ORCH |
-| T-00-07 | 角色提示词与开场提示词入库 | — | backlog | R-OPS/R-ORCH |
-| T-00-08 | 压力测试规程与首次干跑 | — | backlog | R-OPS/R-ORCH |
+| T-00-05 | 状态与日志基建、交接生成脚本 | — | review（status.py 渲染 STATE.md 可用、状态写回运转；make_handover 生成脚本待补） | R-OPS/R-ORCH |
+| T-00-06 | 复水测验题库与黄金样例占位 | — | done（quiz.md 15 题 ≥12；data/gold/ 占位已建） | R-OPS/R-ORCH |
+| T-00-07 | 角色提示词与开场提示词入库 | — | done（prompts/ 7 件：5 角色+开场+阶段追加段） | R-OPS/R-ORCH |
+| T-00-08 | 压力测试规程与首次干跑 | — | review（规程落盘；ST-1/4/5/6 干跑完成、ST-6 注入测试 PASS；ST-2/3 待 T-P1-12） | R-OPS/R-ORCH |
 | T-P0-01 | 建工作区，运行 S00 冻结输入 | T-00-08 | backlog | R-OPS |
 | T-P0-02 | 为每本写切分规则 split_<书码>.yaml：单元层级、容器标题… | T-P0-01 | backlog | R-OPS |
 | T-P0-03 | 运行 S01 切分 | T-P0-02 | backlog | R-OPS |

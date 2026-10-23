@@ -1,7 +1,7 @@
 ZIP ?= _打包吴军10本电子书.zip
 PY ?= python3
 
-.PHONY: restore-check freeze probe test status verify-pack verify-anchors pack
+.PHONY: restore-check freeze probe test status verify-pack verify-anchors pack split check-units p0-smoke
 
 restore-check: verify-pack freeze probe test status
 
@@ -25,3 +25,11 @@ verify-anchors:
 
 pack:
 	$(PY) scripts/pack.py
+
+split:
+	$(PY) scripts/s01_split.py --src src_frozen --rules data/split_rules --out data/units
+
+check-units:
+	$(PY) scripts/s02_consistency.py --src src_frozen --units data/units --report logs/g2g3.md
+
+p0-smoke: split check-units

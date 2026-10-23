@@ -35,7 +35,7 @@ def anchor_tests():
     with tempfile.TemporaryDirectory() as tmp:
         rows = []
         for i, b in enumerate(books):
-            dst = os.path.join(tmp, os.path.basename(b)); shutil.copy(b, dst)
+            dst = os.path.join(tmp, os.path.basename(b)); shutil.copyfile(b, dst)  # copyfile 不带权限位：源是 444 只读，副本须可写
             pr = pick_probe(dst)
             rc, out = run([tool, 'make', '--book', dst, '--probe', pr, '--id', f'T-{i}'])
             rows.append(out)
@@ -57,7 +57,7 @@ def probe_tests():
     rec('s01：与基线比对应通过', rc == 0, out.splitlines()[0] if out else '')
     with tempfile.TemporaryDirectory() as tmp:
         for p in glob.glob('src_frozen/*.md'):
-            shutil.copy(p, tmp)
+            shutil.copyfile(p, os.path.join(tmp, os.path.basename(p)))  # 同上：不复制 444 权限位
         f = glob.glob(os.path.join(tmp, '*富足*.md'))[0]
         t = open(f, encoding='utf-8').read()
         i = t.index('\n### ')
