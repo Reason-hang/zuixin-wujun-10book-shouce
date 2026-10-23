@@ -1,0 +1,7 @@
+# 见识（JS）单元切分规则（S01）
+# 参数源自 scripts/s01_probe.py BOOKS 表，与 spec/baseline_facts.json 探测基线一致；
+# 改动前先跑 make probe 确认 107 项比对仍 0 不一致。book_key 不得含 #（解析器按行内注释剔除）。
+book_code: JS
+book_key: 见识
+title_level: 2
+container_max_chars: 100

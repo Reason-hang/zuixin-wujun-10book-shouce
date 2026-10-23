@@ -7,24 +7,24 @@
 | T-00-09 | 快照与恢复包机制（pack.py、restore-check） | — | done（2026-10-24 全链复验通过） | R-OPS |
 | T-00-01 | 初始化仓库结构并放入冻结原文 | — | done（git 仓库已建并推基线；src_frozen 10/10 哈希核对；D-21 版权原文不入公开仓库） | R-OPS/R-ORCH |
 | T-00-02 | 规格落库 | — | done（pillars.yaml 10/25、exclusions、boundary_rules、schemas×3 落库，D-20） | R-OPS/R-ORCH |
-| T-00-03 | 脚本 S00–S08 及自测 | — | doing（S00–S02 完成、selftest bug 修复；S03–S08 波次3进行中） | R-OPS/R-ORCH |
-| T-00-04 | 闸门与 lint 骨架 | — | backlog | R-OPS/R-ORCH |
+| T-00-03 | 脚本 S00–S08 及自测 | — | done（S00–S08 全链自测过：make p0 复现 1,742=1,697+32+13、5,038,558；selftest 修复见 D-22） | R-OPS/R-ORCH |
+| T-00-04 | 闸门与 lint 骨架 | — | done（make gates 聚合闸门退出码 0，注入错误非零退出；lint S17 随 P5 实现） | R-OPS/R-ORCH |
 | T-00-05 | 状态与日志基建、交接生成脚本 | — | review（status.py 渲染 STATE.md 可用、状态写回运转；make_handover 生成脚本待补） | R-OPS/R-ORCH |
 | T-00-06 | 复水测验题库与黄金样例占位 | — | done（quiz.md 15 题 ≥12；data/gold/ 占位已建） | R-OPS/R-ORCH |
 | T-00-07 | 角色提示词与开场提示词入库 | — | done（prompts/ 7 件：5 角色+开场+阶段追加段） | R-OPS/R-ORCH |
 | T-00-08 | 压力测试规程与首次干跑 | — | review（规程落盘；ST-1/4/5/6 干跑完成、ST-6 注入测试 PASS；ST-2/3 待 T-P1-12） | R-OPS/R-ORCH |
-| T-P0-01 | 建工作区，运行 S00 冻结输入 | T-00-08 | backlog | R-OPS |
-| T-P0-02 | 为每本写切分规则 split_<书码>.yaml：单元层级、容器标题… | T-P0-01 | backlog | R-OPS |
-| T-P0-03 | 运行 S01 切分 | T-P0-02 | backlog | R-OPS |
-| T-P0-04 | 运行 S02：行覆盖与汉字守恒 | T-P0-03 | backlog | R-OPS |
-| T-P0-05 | 运行 S03：编号连续 | T-P0-04 | backlog | R-OPS |
-| T-P0-06 | 运行 S04：自动目录一致性（a）和谷歌作者目录（b） | T-P0-05 | backlog | R-OPS |
-| T-P0-07 | 运行 S05：重复扫描 | T-P0-06 | backlog | R-OPS |
-| T-P0-08 | 运行 S06：非原著与风险标注 | T-P0-07 | backlog | R-OPS |
-| T-P0-09 | 运行 S07：反向抽查 | T-P0-08 | backlog | R-OPS |
-| T-P0-10 | 缺号与异常逐条定性，写入异常台账 | T-P0-09 | backlog | R-OPS |
-| T-P0-11 | 运行 S08：生成 D5；冻结分母（总单元、内容单元、汉字数） | T-P0-10 | backlog | R-OPS |
-| T-P0-12 | 本轮交付：D5、进度台账 v0，并请用户确认缺号定性与分母 | T-P0-11 | backlog | R-OPS |
+| T-P0-01 | 建工作区，运行 S00 冻结输入 | T-00-08 | done（2026-10-24，10/10 登记无乱码） | R-OPS |
+| T-P0-02 | 为每本写切分规则 split_<书码>.yaml：单元层级、容器标题… | T-P0-01 | done（10 份规则，逐书层级与基线一致） | R-OPS |
+| T-P0-03 | 运行 S01 切分 | T-P0-02 | done（1,742 = 1,697+32+13，逐书与基线一致） | R-OPS |
+| T-P0-04 | 运行 S02：行覆盖与汉字守恒 | T-P0-03 | done（缺口 0、重叠 0、差 0） | R-OPS |
+| T-P0-05 | 运行 S03：编号连续 | T-P0-04 | done（缺号 SG3:48、WJ2:5 定性=编号跳号，入异常台账） | R-OPS |
+| T-P0-06 | 运行 S04：自动目录一致性（a）和谷歌作者目录（b） | T-P0-05 | done（谷歌 219/223 缺 021–024；差集逐条定性） | R-OPS |
+| T-P0-07 | 运行 S05：重复扫描 | T-P0-06 | done（跨书 118 段、书内 36 处；107 段双出处登记到单元号） | R-OPS |
+| T-P0-08 | 运行 S06：非原著与风险标注 | T-P0-07 | done（未分类 0；N13/X1运营12/问答170/互动24） | R-OPS |
+| T-P0-09 | 运行 S07：反向抽查 | T-P0-08 | done（120 位置/80 单元，差异 0） | R-OPS |
+| T-P0-10 | 缺号与异常逐条定性，写入异常台账 | T-P0-09 | done（11 条异常入 D5） | R-OPS |
+| T-P0-11 | 运行 S08：生成 D5；冻结分母（总单元、内容单元、汉字数） | T-P0-10 | done（D5 产出；分母 1,742/1,697/5,038,558 冻结） | R-OPS |
+| T-P0-12 | 本轮交付：D5、进度台账 v0，并请用户确认缺号定性与分母 | T-P0-11 | review（D5+台账 v0 已交付，待用户确认后进 P1） | R-OPS |
 | T-P1-01 | 按 §7.5 选样（脚本按条件选，我微调），列表给用户过目 | T-P0-12 | backlog | R-EXT |
 | T-P1-02 | 用户确认选样后，逐个单元按 §15.7 抽卡 | T-P1-01 | backlog | R-EXT |
 | T-P1-03 | 每张卡生成锚点并校验（S11） | T-P1-02 | backlog | R-EXT |

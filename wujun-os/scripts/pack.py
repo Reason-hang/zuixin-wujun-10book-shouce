@@ -22,8 +22,10 @@ def files(root):
     for d, ds, fs in os.walk(root):
         ds[:] = [x for x in ds if x not in EXCLUDE_DIRS]
         for f in fs:
+            if f == '.DS_Store' or f.endswith('.pyc'):
+                continue
             p = os.path.relpath(os.path.join(d, f), root)
-            if p != 'MANIFEST.sha256' and not f.endswith('.pyc'):
+            if p != 'MANIFEST.sha256':
                 out.append(p)
     return sorted(out)
 
