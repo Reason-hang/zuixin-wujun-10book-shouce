@@ -1,0 +1,10 @@
+# 书籍版权原文与源zip不入公开仓库（可用 make freeze 从zip再生）
+_书籍源文件/
+_资料包/
+wujun-os/_打包吴军10本电子书.zip
+wujun-os/src_frozen/*
+!wujun-os/src_frozen/.gitkeep
+wujun-os/.tmp/
+wujun-os/dist/
+__pycache__/
+.DS_Store
