@@ -1,0 +1,155 @@
+{
+  "unit_id": "JS-U0061",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0061-01",
+      "unit_id": "JS-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "为生活而学习，不是为专业而学习，大学应学未来生活所需的知识技能",
+      "quote": "为生活而学习，不是为专业而学习",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2936,
+        "end_line": 2938,
+        "sha1": "7c2724a19825b7819e0c38b9bb10c57758cd642b",
+        "fingerprint": [
+          "生活",
+          "专业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "为生活而学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "吴军自述转型容易的原因（经历→判断，归D02-1，兼学习目的观D02-3）；白捡一个亿也过不好生活、乐透中奖者多返贫为例证（2940）。"
+    },
+    {
+      "claim_id": "C-JS-U0061-02",
+      "unit_id": "JS-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "世界上的事情都是做出来的不是说出来的，爱说者多爱做者少给了实践者机会",
+      "quote": "世界上的事情都是做出来的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2952,
+        "end_line": 2956,
+        "sha1": "e9f07dda1cc79974a87439295eff35e41ce6e521",
+        "fingerprint": [
+          "付诸行动",
+          "实践者",
+          "习惯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "凡事付诸行动",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "大学四能力之一；特朗普当选、BAT国际化空谈、华为实做为对比例证；付诸行动习惯要年轻时养成、参加社会活动是最好的训练（2956）。"
+    },
+    {
+      "claim_id": "C-JS-U0061-03",
+      "unit_id": "JS-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "沟通和表达能力是未来生活必要能力，越强越易成功，想成为精英不能缺",
+      "quote": "沟通和表达能力实在太重要了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2960,
+        "end_line": 2964,
+        "sha1": "512eeebbcfb08d871b5016abc2f66f08c6125152",
+        "fingerprint": [
+          "表达能力",
+          "精英"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通表达是必备能力",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "成为精英需靠它调动人力资源（2964）；军校招生七成参加过辩论为例证；中国人此为短板。"
+    },
+    {
+      "claim_id": "C-JS-U0061-04",
+      "unit_id": "JS-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "表达友善和爱的能力必须学会，阶层跃迁中友善是必需品质",
+      "quote": "表达友善的能力非常重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2968,
+        "end_line": 2970,
+        "sha1": "69cc7968c616c333d8a0436c1bc24d78a823a638",
+        "fingerprint": [
+          "友善",
+          "跃迁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "表达友善与爱的能力",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "小到人际大到国与国都需要；2970想再往上跃迁几个台阶友善必需。"
+    },
+    {
+      "claim_id": "C-JS-U0061-05",
+      "unit_id": "JS-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "善于写作和记录、总结成败教训，做事才有叠加效应，否则不断重复错误",
+      "quote": "才能在下一次有叠加效应",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2974,
+        "end_line": 2974,
+        "sha1": "c6f7dcf184c54e57f0d33f139bb3b2bd71a56f78",
+        "fingerprint": [
+          "叠加",
+          "重复错误"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "写作记录与叠加效应",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "记忆力有限，第十次做事记不清前九次细节；理工科写作课、文科逻辑课的课程建议属教育议题入X5。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0061",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "大学课程设置与教育目的叙述（广义狭义学习之分、课程表针对职业而非生活、理工科开写作课文科开逻辑课的建议、慕课平台）按X5登记"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "大学四能力各项均为可独立成立判断，抽5卡；课程设置类内容按X5登记。"
+}

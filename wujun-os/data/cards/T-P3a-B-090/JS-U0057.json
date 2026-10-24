@@ -1,0 +1,164 @@
+{
+  "unit_id": "JS-U0057",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0057-01",
+      "unit_id": "JS-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "幸福来源的三个具体维度：爱情和婚姻、对未来的期望、生活的态度",
+      "quote": "还有三个具体的维度",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2726,
+        "end_line": 2732,
+        "sha1": "22893cf0439344e6844ea860b1d42ba0d89df932",
+        "fingerprint": [
+          "爱情和婚姻",
+          "对未来的期望",
+          "生活的态度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "幸福来源三维度",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "承接基因传承与成就影响力两来源后的三维度展开；对未来的期望=确定明天比今天好即有幸福感（2730）；生活态度维度与贵族式从容相关（2732，见C-JS-U0057-04）。"
+    },
+    {
+      "claim_id": "C-JS-U0057-02",
+      "unit_id": "JS-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "幸福和物质的关系真的不大，过得好不好的标准是上述维度而非赚了大钱",
+      "quote": "幸福和物质的关系真的不是那么大",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2734,
+        "end_line": 2734,
+        "sha1": "4e4de67b66c0bf8f94a995dd5cc3d9a1545b9c14",
+        "fingerprint": [
+          "赚了大钱",
+          "上述几个维度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "幸福与物质关系不大",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "2710土豪不幸福、各阶层皆有压力为例证；物质与健康进步（2708）不否定本判断。"
+    },
+    {
+      "claim_id": "C-JS-U0057-03",
+      "unit_id": "JS-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "贵族精神安身立命的三个根本：军事责任、维护治安的义务、社会活动的体面",
+      "quote": "贵族安身立命的三个根本",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2716,
+        "end_line": 2716,
+        "sha1": "7ce00eddcc361afd1008063c9f4ec82c77aa58a5",
+        "fingerprint": [
+          "军事上的责任",
+          "维护地区治安的义务",
+          "社会活动时的体面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "贵族精神三根本",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "贵族作为阶层已是历史产物（2712-2714叙述并入本卡notes）；精神层面的贵族须学三根本。"
+    },
+    {
+      "claim_id": "C-JS-U0057-04",
+      "unit_id": "JS-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "贵族从容自律优雅的气质源于内心以责任和荣誉自我约束，与钱多少关系不大",
+      "quote": "从容、自律和优雅",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2724,
+        "end_line": 2724,
+        "sha1": "07b14d34cad7b4aa54d696dfdda9f7ac336a3d10",
+        "fingerprint": [
+          "责任和荣誉",
+          "幸福生活的根本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "从容优雅源于自我约束",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军总结句；与C-JS-U0057-03同链（三根本的精神内核）。"
+    },
+    {
+      "claim_id": "C-JS-U0057-05",
+      "unit_id": "JS-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "幸福生活才是人生根本目的，其他一切不过是达成这个目的的手段",
+      "quote": "幸福生活才是根本",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2736,
+        "end_line": 2736,
+        "sha1": "defb6c373789cb48c47ef408beb244fece3c10ed",
+        "fingerprint": [
+          "手段",
+          "优雅而从容"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "幸福是目的其他是手段",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "本单元核心总结句；对应手册D02-4素材线索见识《幸福是目的，成功是手段》；科技应让人过上优雅从容生活的期望（2736）挂本卡。"
+    },
+    {
+      "claim_id": "C-JS-U0057-06",
+      "unit_id": "JS-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "践行责任、荣誉、从容、优雅、镇定十个字，能过得比18世纪贵族更好",
+      "quote": "就能过得比18世纪的贵族更好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2736,
+        "end_line": 2736,
+        "sha1": "defb6c373789cb48c47ef408beb244fece3c10ed",
+        "fingerprint": [
+          "责任",
+          "荣誉",
+          "镇定"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "责任荣誉从容优雅镇定",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "十字诀为03/04卡的可执行收束；与C-JS-U0057-05同段不同判断。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "本单元为吴军关于幸福维度与贵族精神的完整论述，含多条可独立成立判断，抽6卡。"
+}

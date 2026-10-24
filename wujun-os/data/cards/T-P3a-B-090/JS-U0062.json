@@ -1,0 +1,131 @@
+{
+  "unit_id": "JS-U0062",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0062-01",
+      "unit_id": "JS-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "个人从社会获得的回报取决于他对社会的正面影响，稀缺技能带来成倍回报",
+      "quote": "每个人从社会所获得的回报",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3002,
+        "end_line": 3002,
+        "sha1": "d31b9f6c1655446ecc8b0c7741d64e5d436e600d",
+        "fingerprint": [
+          "正面影响",
+          "稀缺",
+          "回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "回报取决于社会贡献",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "以技能换报酬和社会地位的原则未变；与生俱来（体力、色相）与人人易会（开车、家常菜）的不算技能。"
+    },
+    {
+      "claim_id": "C-JS-U0062-02",
+      "unit_id": "JS-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "成功掌握第一种技能就掌握了学新技能的方法，有信心适应各种变化",
+      "quote": "以后就有信心掌握第二种",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3008,
+        "end_line": 3008,
+        "sha1": "dd3b37dfbae8fd87562dc7a2313a146666e4d0b8",
+        "fingerprint": [
+          "新技能",
+          "信心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "技能学习的迁移与信心",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "掌握第一种技能本身就是人生一种成功。"
+    },
+    {
+      "claim_id": "C-JS-U0062-03",
+      "unit_id": "JS-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "很多时候失败不是成功之母，成功才是成功之母，做成一件事才可能举一反三",
+      "quote": "成功才是成功之母",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3008,
+        "end_line": 3008,
+        "sha1": "dd3b37dfbae8fd87562dc7a2313a146666e4d0b8",
+        "fingerprint": [
+          "成功之母",
+          "举一反三"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "成功才是成功之母",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "概念键对应CK-0509（FZ同概念）；从未做成过一件事则以后成功可能性不大；与02卡同段不同判断。"
+    },
+    {
+      "claim_id": "C-JS-U0062-04",
+      "unit_id": "JS-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "中低层的人获得幸福人生的第一步，或者说捷径，就是接受技能教育",
+      "quote": "获得幸福人生的第一步",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2984,
+        "end_line": 2984,
+        "sha1": "479a16e9b2a804946ba0fbdf54989e9d02c33ee7",
+        "fingerprint": [
+          "技能教育",
+          "幸福人生"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "阶层进阶技能与博雅",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "与C-JS-U0059-01互引同概念；技能培养与家庭出身地域关系不大、改变地位立竿见影（3004）；洪堡体系利弊为佐证。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0062",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "富兰克林创办宾大、杰斐逊创办弗吉尼亚大学、洪堡体系与普鲁士工业化等教育史叙述，可迁移判断已抽出"
+    },
+    {
+      "unit_id": "JS-U0062",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "中美大学技能训练对比、中国院校调整评述等教育制度类内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "技能教育史实叙述按X4、制度比较按X5登记；抽回报机制、技能学习、成功之母、技能教育四条判断共4卡。"
+}

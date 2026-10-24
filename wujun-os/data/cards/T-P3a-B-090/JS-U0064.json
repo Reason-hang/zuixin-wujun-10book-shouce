@@ -1,0 +1,71 @@
+{
+  "unit_id": "JS-U0064",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0064-01",
+      "unit_id": "JS-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "荣誉感、服务精神、忠诚和守诺，是任何一个想往上层走的人必须做到的",
+      "quote": "任何一个想往上层走的人必须做到",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3108,
+        "end_line": 3108,
+        "sha1": "9d8757b48ba1c040ca5c6cb569f54fd816d90d68",
+        "fingerprint": [
+          "荣誉感",
+          "服务精神",
+          "守诺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "荣誉服务忠诚守诺",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "西点对学员最基本要求，吴军评述其适用于一切想往上层走的人；荣誉感=超群脱俗戒惰性、服务精神=艰苦环境履行公职甚至付出生命、守诺=坚守岗位完成任务（定义并入本卡）。"
+    },
+    {
+      "claim_id": "C-JS-U0064-02",
+      "unit_id": "JS-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "先要学会服从才能指挥别人，西点前三年即要求学员学会服从",
+      "quote": "先要学会服从才能指挥别人",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3100,
+        "end_line": 3100,
+        "sha1": "bdf5bc7b86861d83b77e25eb46913d65252a5d3f",
+        "fingerprint": [
+          "服从",
+          "指挥"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "先服从后指挥",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "与态度《服从是学会领导的第一步》、谷歌《为什么要学会服从》同概念；西点第四年才学战术指挥。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0064",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "西点校史、美军军制与兵种、美国总统军旅履历、招生数据与推荐制度等史实叙述，可迁移判断已抽出（另3106好军人是理性思维者之论并入C-JS-U0064-01语义场）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "西点章主体为史实叙述（X4），仅抽精英四品德与先服从后指挥两条可迁移判断，共2卡。"
+}

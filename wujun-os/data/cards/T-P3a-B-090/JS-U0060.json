@@ -1,0 +1,123 @@
+{
+  "unit_id": "JS-U0060",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0060-01",
+      "unit_id": "JS-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "人生每个阶段都只有一个根本——生活二字，背离这一根本难以成功和幸福",
+      "quote": "背离了根本，人生难以成功",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2926,
+        "end_line": 2926,
+        "sha1": "112df8a4ab771ba72e150804f1595b7c90f0ab99",
+        "fingerprint": [
+          "生活",
+          "根本",
+          "幸福"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "生活是人生根本",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "学习、工作都只是生活的一部分而非全部；为吴军半世纪人生感悟之总括；呼应C-JS-U0057-05。"
+    },
+    {
+      "claim_id": "C-JS-U0060-02",
+      "unit_id": "JS-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "幸福生活才是人生的核心，故赞同把找到伴侣作为上大学目标之一",
+      "quote": "才是人生的核心",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2912,
+        "end_line": 2912,
+        "sha1": "6a50fc89f5513e694bfcbd33a6875f044ae03908",
+        "fingerprint": [
+          "幸福生活",
+          "人生的核心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "幸福是目的其他是手段",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与C-JS-U0057-05同概念键跨单元并存；2910出校门后难遇志趣相投者为佐证。"
+    },
+    {
+      "claim_id": "C-JS-U0060-03",
+      "unit_id": "JS-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "只有在平等的基础上才能倾心交往，大学同学平等故最宜交挚友",
+      "quote": "只有在平等的基础上才能倾心交往",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2920,
+        "end_line": 2920,
+        "sha1": "11a5937f093aff55e589abbc1814f679e1665907",
+        "fingerprint": [
+          "平等",
+          "倾心交往"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "平等才能深交",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "概念键对应CK-0487（TD同概念）；大学交友功利心弱、工作后你我分明（2916-2918）为例证。"
+    },
+    {
+      "claim_id": "C-JS-U0060-04",
+      "unit_id": "JS-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "多参加社会活动是年轻人从父母的孩子成长为社会人的必经之路",
+      "quote": "成长为一个社会人的必经之路",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2924,
+        "end_line": 2924,
+        "sha1": "d07c2fada3ad309300ede0d585a0aa77b11ce7e8",
+        "fingerprint": [
+          "社会活动",
+          "社会人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "参加活动成为社会人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "走出校门须100%为自己的行为负责；中国家长狠抓起跑线却不关心大学成长为背景例证。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0060",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "大学谈恋爱一节（2896-2910）属爱情议题：恋爱让人生完整、失恋使人成熟、家长不宜介入相亲破坏美感等，按X5排除"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "三件事中挚友、活动两条及生活根本判断成卡；恋爱议题按X5登记，共4卡。"
+}

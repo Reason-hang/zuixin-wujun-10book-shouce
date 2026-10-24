@@ -1,0 +1,58 @@
+{
+  "unit_id": "JS-U0059",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0059-01",
+      "unit_id": "JS-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "底层到中产靠先掌握技能，中产到精英靠博雅教育，不同阶层出发点不同",
+      "quote": "而中产阶层到精英阶层的进阶",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2812,
+        "end_line": 2812,
+        "sha1": "9116c941d6667ed99d268e041bca8c26b87998e4",
+        "fingerprint": [
+          "先掌握技能",
+          "博雅教育",
+          "出发点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "阶层进阶技能与博雅",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "企业家之子学视野、工薪之子学会计两例（2806-2810）；与C-JS-U0062-04互引（技能教育是底层幸福人生第一步）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0059",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "高考志愿与大学选择建议（城市>大学>专业、清北梯队、高势能专业、适应面广专业、选专业先看国家大机会等）属升学议题，按X5排除"
+    },
+    {
+      "unit_id": "JS-U0059",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "中国最大机会在国际化、一带一路资本输出（2828-2846）、智能时代大趋势（2876）等宏观趋势预测"
+    },
+    {
+      "unit_id": "JS-U0059",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "北大清华地位50年难撼动、作者本人高考经历等时点性叙述与个人轶事残余"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "高考志愿建议主体属X5，仅抽1条与升学无关的可迁移阶层进阶判断；其余按X5/X6/X4登记处置。"
+}

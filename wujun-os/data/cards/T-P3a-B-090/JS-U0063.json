@@ -1,0 +1,126 @@
+{
+  "unit_id": "JS-U0063",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0063-01",
+      "unit_id": "JS-U0063",
+      "speaker": "转述·第三方",
+      "claim_text": "一流学生和二流学生的主要差别不在智商和考试成绩，而在见识上",
+      "quote": "不在于智商和考试成绩",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3046,
+        "end_line": 3046,
+        "sha1": "ccb72cfcc2674ade7fc4762e3f34d2cb1875154f",
+        "fingerprint": [
+          "见识",
+          "智商"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "学生差别在见识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "格拉德威尔《异类》主要观点（被转述者注明）；吴军认同并补充：上层家庭子女为未来生活学习、寒门更看重当前成绩，后者主动学习即可弥补。"
+    },
+    {
+      "claim_id": "C-JS-U0063-02",
+      "unit_id": "JS-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "二流大学的一流战略：围绕未来生活目标主动学习，并有意识构造好圈子",
+      "quote": "要有意识地构造一个好圈子",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3054,
+        "end_line": 3056,
+        "sha1": "e4e8f1f3432528a2b06fb10adfa8edee132a211b",
+        "fingerprint": [
+          "生活目标",
+          "主动性",
+          "圈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "生活与主动性",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "本节总括卡（3056两词概括\"生活\"和\"主动性\"）；一流大学优势在选择权与同学环境（3028/3030）；与C-JS-U0063-04同链。"
+    },
+    {
+      "claim_id": "C-JS-U0063-03",
+      "unit_id": "JS-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "什么样的圈子决定了什么样的命运，要选精英圈子而非吃喝玩乐的圈子",
+      "quote": "决定了什么样的命运",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3052,
+        "end_line": 3052,
+        "sha1": "1e1ec602be94c86b72e968c9b22866a167ecae72",
+        "fingerprint": [
+          "圈子",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "圈子决定命运",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "伯克利前20%精英圈互助与末20%互拖退学圈为例证（3052）；十步之泽必有香草。"
+    },
+    {
+      "claim_id": "C-JS-U0063-04",
+      "unit_id": "JS-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "在平均水平高的圈子里自己的水平也就高了，圈子参差则影响难料",
+      "quote": "自己的水平也就高了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3030,
+        "end_line": 3032,
+        "sha1": "f6e60028893a41b154f32dfa7bec40bf3c92dc83",
+        "fingerprint": [
+          "平均水平高",
+          "圈子",
+          "环境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "高水平圈子抬高自己",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "一流大学生源与环境是成才最重要原因（3030，美国较普遍观点之引述，吴军取用）；与C-JS-U0063-03同链不同判断。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0063",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "伯克利与哈佛录取及毕业率数据、诺威格解释、斯坦福教学轶事、清华选课与霍普金斯求学经历等叙述性内容，其可迁移判断已抽为卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "二流大学一流战略两条与圈子机制成卡，格拉德威尔观点按转述卡处理，共4卡；名校数据轶事按X4登记。"
+}

@@ -1,0 +1,150 @@
+{
+  "unit_id": "JS-U0065",
+  "book_code": "JS",
+  "extractor": "EXT-JS4R",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0065-01",
+      "unit_id": "JS-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "精英和普通人的差别不完全在知识多少，而在智慧和人脉",
+      "quote": "而在于智慧和人脉",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3126,
+        "end_line": 3126,
+        "sha1": "1bf89c916333c3cb841a64b7f0dea38966f44a51",
+        "fingerprint": [
+          "智慧",
+          "人脉",
+          "同学圈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "智慧与人脉",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "哈佛商学院第一精髓\"玩儿\"即营造同学圈子；智慧靠与大师切磋、人脉靠好同学圈子，来上课是成为精英必由之路。"
+    },
+    {
+      "claim_id": "C-JS-U0065-02",
+      "unit_id": "JS-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "自己的钱留作安身立命，想做事就让别人来掏钱，这需要会销售",
+      "quote": "用别人的钱挣钱",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3134,
+        "end_line": 3134,
+        "sha1": "f9bd85c4f90f9b8805607129e8b40786c2f411de",
+        "fingerprint": [
+          "安身立命",
+          "销售"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "用别人的钱挣钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "哈佛商学院第二精髓；富二代白手起家、股市挣钱最多的是管资产的人、投行财务顾问为例证（3136/3144）；庞氏骗局警告（3156）并入本卡边界。"
+    },
+    {
+      "claim_id": "C-JS-U0065-03",
+      "unit_id": "JS-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "融不到资要么是项目不好要么是不会销售；花光父母积蓄创业的人最好别创业",
+      "quote": "要么是项目不好，要么是不会销售",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3138,
+        "end_line": 3142,
+        "sha1": "a2b5eda7d9aeadeafccdccef620fb7999ad4dcec",
+        "fingerprint": [
+          "积蓄",
+          "创业",
+          "销售"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "融资能力检验创业",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "今天不是缺钱的时代；与C-JS-U0065-02同链（销售能力）。"
+    },
+    {
+      "claim_id": "C-JS-U0065-04",
+      "unit_id": "JS-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "习惯占亲情便宜从父母拿钱，谋生本领和奋斗精神会差很多，见识难超上一代",
+      "quote": "从父母那里拿钱是在占亲情的便宜",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3146,
+        "end_line": 3150,
+        "sha1": "34f7eb99593242c0be8bb427fc7792eb2e9989ef",
+        "fingerprint": [
+          "亲情的便宜",
+          "奋斗精神",
+          "见识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "不占亲情便宜",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "特朗普仅从父亲拿启动资金赴曼哈顿发展为例证（3150）；从陌生人拿钱是立足社会的必要历练。"
+    },
+    {
+      "claim_id": "C-JS-U0065-05",
+      "unit_id": "JS-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "人必须有点儿幽默感，幽默感有助于说服别人",
+      "quote": "幽默感其实就有助于我们说服别人",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3152,
+        "end_line": 3152,
+        "sha1": "226b31de5b6c1367222fc86bb0651cd7bd6afa26",
+        "fingerprint": [
+          "幽默感",
+          "说服"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "幽默助说服",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "吴军以\"骗钱\"一词自解：幽默便于记牢原则；薛宝钗\"好风凭借力\"与马斯克、雷军、卡兰尼克借力做大为例证（并入C-JS-U0065-02语义场）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0065",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "哈佛/斯坦福商学院招生申请叙述（GMAT考智力、推荐信、面试、亲戚求学经历、商学院看重潜力）属升学议题"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "两大精髓（玩儿=圈子、用别人的钱挣钱）及衍生判断成卡共5张；招生申请类叙述按X5登记。"
+}
