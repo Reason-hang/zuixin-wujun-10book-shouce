@@ -1,0 +1,146 @@
+{
+  "unit_id": "SX-U0007",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0007-01",
+      "unit_id": "SX-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "数学思维指用逻辑发现问题、预见必做之事，而非把小账算得清楚",
+      "quote": "使用逻辑发现问题",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 606,
+        "end_line": 610,
+        "sha1": "244b1d2318712e6d79b38ef88b1c1ba0b29df551",
+        "fingerprint": [
+          "数学的思维",
+          "噪音"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学思维的定义",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "万法归一的原则是从逻辑出发想问题；复杂问题噪音多，数学是不受噪音影响的可信赖工具；本讲要点总结同义复述（原书652-655行）"
+    },
+    {
+      "claim_id": "C-SX-U0007-02",
+      "unit_id": "SX-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "复利式增长从数学上无法长期为继，基数变大后硬要维持即庞氏骗局",
+      "quote": "超过宇宙中的原子的数量",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 558,
+        "end_line": 564,
+        "sha1": "02e94c0c02a8e280528efd06f8fb121d6da21845",
+        "fingerprint": [
+          "复利",
+          "庞氏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "复利不可持续",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内例证：陶朱公铜板以年7%复利两千余年将超宇宙原子数，现实不可能；专名案例（notes）：医生贝尔（Michael Burry，电影《大空头》原型）靠坚守数学道理做空 CDS 获利最丰；巴菲特凭直觉不碰刻意包装的金融衍生品"
+    },
+    {
+      "claim_id": "C-SX-U0007-03",
+      "unit_id": "SX-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "CDS 骗局本质是赌房价永远快速上涨，变相庞氏骗局可由数学识破",
+      "quote": "都是在赌一件事",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 594,
+        "end_line": 599,
+        "sha1": "f2d0597aa0c57c748eb5189bc4faa265739d0f2b",
+        "fingerprint": [
+          "CDS",
+          "房价"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "变相庞氏骗局的识破",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：次贷链条=次级贷款→违约保险→CDS 层层打包至50万亿美元超美国房市总值；机理=复杂包装不改底层资产风险，回到“钱从哪来”的算账即可识破"
+    },
+    {
+      "claim_id": "C-SX-U0007-04",
+      "unit_id": "SX-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "用矛盾律看一带一路：中国不可能独占财富又让世界买得起，资本输出是必做之事",
+      "quote": "这时候矛盾就出现了",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 621,
+        "end_line": 636,
+        "sha1": "16dca42ea3278d7c226af9f28d2f767ec96e8c7d",
+        "fingerprint": [
+          "一带一路",
+          "矛盾"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "资本输出的数学证明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：吴军在政府座谈会上的论证——设中国年增6%、他国2.34%，40年后中国占全球GDP一半，以外4/5人口的财富买不起中国产品，违背矛盾律；19世纪英国、战后美国、80年代日本同为资本输出国"
+    },
+    {
+      "claim_id": "C-SX-U0007-05",
+      "unit_id": "SX-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "算账背后的数学工具是矛盾律：一事物不能既有A属性又没有A属性",
+      "quote": "矛盾律",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 643,
+        "end_line": 649,
+        "sha1": "e0edc8e38ec1c63315965da0b4fcbe7b06f3ccf5",
+        "fingerprint": [
+          "矛盾律",
+          "算笔账"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "矛盾律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "√2 无理数证明（P、Q 既互素又同为偶数）与中国财富悖论同用此工具；“算笔账”即基于事实用数学考量发现问题"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第04讲），CDS/一带一路两个专名案例+三原理抽5卡；英国女王问经济学家为引子并入C2背景；CDS交易结构细节（原书585-597行）为机制描述并入C3 notes"
+}

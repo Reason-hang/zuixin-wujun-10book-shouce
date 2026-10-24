@@ -1,0 +1,309 @@
+{
+ "unit_id": "GJ-U0047",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0047-01",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "投资者看好未来时大胆扩大投资，悲观时撤资逃向安全资产，几十年后结果十分迥异",
+   "quote": "结果会十分迥异",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2033,
+    "end_line": 2033,
+    "sha1": "8a9682562871267eaa33c75c1f1eae231a335cdb",
+    "fingerprint": [
+     "投资",
+     "安全",
+     "迥异"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-2"
+   ],
+   "concept_key": "心态与投资结果",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "悲观导致误判的机制总起；具体案例见 C-GJ-U0047-02/05。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-02",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "罗斯柴尔德家族因悲观误判完全撤出美国，错过1870-1890工业革命，影响力衰至19世纪初的1%",
+   "quote": "他们完全撤出了美国",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2035,
+    "end_line": 2035,
+    "sha1": "8fcbbdb33de3a9e90fe60df984e43f97e0c20ef7",
+    "fingerprint": [
+     "罗斯柴尔德",
+     "工业革命",
+     "末日"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-2"
+   ],
+   "concept_key": "罗斯柴尔德错失美国",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：机理=把社会动荡/污染/拥挤看作末日（“你难道不觉得末日已经到了吗”）→动作变形无法纠正；希特勒排犹为外在客观因素（锚内区分）。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-03",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "简单误判可迷途知返；悲观主义危害大得多：乱了方寸、看法彻底错、动作完全变形且无法纠正",
+   "quote": "动作完全变形",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2037,
+    "end_line": 2037,
+    "sha1": "f1bdd580586b082a33bf320f12221b617ceb6643",
+    "fingerprint": [
+     "迷途知返",
+     "方寸",
+     "悲观主义"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "悲观比误判更糟",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "误判与悲观的分级判断；单元题眼。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-04",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "对未来没有信心，人难免患得患失：末日情境下人什么都不管不顾，长寿情境下反而有耐心与雄心",
+   "quote": "人难免会患得患失",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2057,
+    "end_line": 2057,
+    "sha1": "462ed892a31692898e1774d1dcdd570503ff7f43",
+    "fingerprint": [
+     "末日博士",
+     "信心",
+     "患得患失"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "信心与患得患失",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "世界末日调查四件事（挥霍/隐私/表白/犯罪，2039-2049 行）与 1000 年寿命调查两种人生态度（享乐+耐心、更有雄心，2051-2055 行）为对照例证。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-05",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "鲁比尼2007年清仓躲一劫却错过最长牛市；巴菲特60年死多头持续投资才是高回报的根本原因",
+   "quote": "死多头",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2057,
+    "end_line": 2059,
+    "sha1": "45aca3d19596f2a32a7515bb96e572fac9f05db4",
+    "fingerprint": [
+     "鲁比尼",
+     "巴菲特",
+     "死多头"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2",
+    "D02-4"
+   ],
+   "concept_key": "死多头与清仓",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名对比案例独立成卡（R3）：悲观一致性（财富以现金保留错过股指翻倍）vs 一贯乐观（不论形势多差都在投资）。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-06",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "悲观主义把人变成怀疑主义者（一对孪生兄弟）：怀疑所学无用、怀疑得不到父辈的机会",
+   "quote": "一对孪生兄弟",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2063,
+    "end_line": 2065,
+    "sha1": "b923598dbc40b80273524309cb79cf88b12445cb",
+    "fingerprint": [
+     "怀疑主义",
+     "退学创业",
+     "悲观主义"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "悲观与怀疑孪生",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "大中学生觉得教育无用打算退学创业为例证（2065 行）；“相信正常教育途径学成后前途无量就不会怀疑”在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-07",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "押上身家赌空气币的逻辑错误：转瞬即逝的机会是末日技术；真能改变世界则持续几十年一直有机会",
+   "quote": "就不会急于一时做出判断和选择",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2067,
+    "end_line": 2067,
+    "sha1": "741c92773366c67fc2aaa2a7bffc88ad96b59140",
+    "fingerprint": [
+     "区块链",
+     "末日技术",
+     "爱彼迎"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D02-4"
+   ],
+   "concept_key": "末日技术与新兴技术",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：判断技术前景的二难检验；互联网20多年仍产生爱彼迎/优步/拼多多为佐证（锚内）；不怀疑未来才不急于一时。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-08",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "焦虑源于怀疑未来；想清一辈子有几十年挣钱时间，多花一两年打好基础（提高基线）不算什么",
+   "quote": "多在学校里花一两年时间不算什么",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2069,
+    "end_line": 2071,
+    "sha1": "85d86e2c6c0d41ddbbb5b9d3789e14d40944e804",
+    "fingerprint": [
+     "焦虑",
+     "基线",
+     "倒行逆施"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "焦虑与打基础",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "怀疑未来则觉得学了白学、混日子或急于没水平的创业；做不着调的事源于对正规途径失去信心（伍子胥“日暮途穷，倒行逆施”）在 2071 行。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-09",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "怀疑主义还影响日常决定：宁信网上信息不信医生、诊室里指导开处方、信阴谋论",
+   "quote": "怀疑主义在作怪",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2073,
+    "end_line": 2073,
+    "sha1": "c0f2dfdd25d5ed333b19b03e72b01c02abeded22",
+    "fingerprint": [
+     "医生",
+     "阴谋论",
+     "专业人士"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-1"
+   ],
+   "concept_key": "怀疑主义与信息辨别",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "怀疑专业人士建议、把简单事情想复杂、怀疑别人善意均在锚内；信息辨别维度挂 D01-1 辅助。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-10",
+   "unit_id": "GJ-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "悲观主义和怀疑主义本身是毒素：影响每天生活与长期做事方式，还毒害灵魂",
+   "quote": "毒害我们的灵魂",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2075,
+    "end_line": 2075,
+    "sha1": "13047053481c2cb75ada467da8234862f8a42fa9",
+    "fingerprint": [
+     "毒素",
+     "灵魂",
+     "颓废"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "悲观是毒素",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "“免费养活穷人”式善意悲观=宣布穷人没前途、让能自强者颓废的论证在锚内；恺撒懦夫论的转述见 C-GJ-U0047-11。"
+  },
+  {
+   "claim_id": "C-GJ-U0047-11",
+   "unit_id": "GJ-U0047",
+   "speaker": "转述·第三方",
+   "claim_text": "恺撒：勇士只死一次，而懦夫在倒下以前已经死了很多次",
+   "quote": "勇士只死一次",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2075,
+    "end_line": 2075,
+    "sha1": "13047053481c2cb75ada467da8234862f8a42fa9",
+    "fingerprint": [
+     "恺撒",
+     "勇士",
+     "懦夫"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "勇士与懦夫",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=恺撒（吴军引证悲观毒素论）；吴军本人判断见 C-GJ-U0047-10（R1 两卡并存互引）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0047",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "中华文明圈第一代财富主要来自房地产一次性增值、该留在一二线城市与楼市判断（2061 行）属点状行情/居住投资判断，时效性强，登记 X2 由 P4 终裁；其机理（悲观眼光错失时代机会）已由 C-GJ-U0047-01/02/05 承载"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "悲观危害 11 张：误判机制/罗斯柴尔德E3/分级判断/患得患失/鲁比尼vs巴菲特E3/怀疑孪生/区块链E3/焦虑与基础/日常怀疑/毒素论/恺撒转述；房地产行情判断记 X2"
+}

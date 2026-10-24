@@ -1,0 +1,263 @@
+{
+ "unit_id": "GJ-U0049",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0049-01",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "做事要把握常态：正是常态，奇是非常态，出奇制胜只是例外",
+   "quote": "正是常态，奇是非常态",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2125,
+    "end_line": 2125,
+    "sha1": "9abee6b79a0e1a61950b60dea85d980e767bebfb",
+    "fingerprint": [
+     "正是常态",
+     "奇是非常态"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "以正合以奇胜",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "单元总判断，对孙子兵法的取用式概括；孙子原话转述见 C-GJ-U0049-02；拿破仑奥斯特里茨战役（正面战场苏尔特为第一功臣）为同机理例证，不另立卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-02",
+   "unit_id": "GJ-U0049",
+   "speaker": "转述·第三方",
+   "claim_text": "孙子：凡战者以正合、以奇胜——正面之兵排好合乎法则，还有多余兵力者胜",
+   "quote": "凡战者，以正合，以奇胜",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2127,
+    "end_line": 2129,
+    "sha1": "6be69d2b72722569704f274a1b0f4c7942b47973",
+    "fingerprint": [
+     "孙子兵法",
+     "以正合",
+     "以奇胜"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "以正合以奇胜",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：孙子《孙子兵法·兵势篇》。吴军解读「奇」为因不成对多出的兵力，而非现代汉语的出奇制胜；吴军本人概括见 C-GJ-U0049-01。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-03",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "成功的第一要素是走正道，不要总想着出奇制胜",
+   "quote": "成功的第一要素就是走正道",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2131,
+    "end_line": 2131,
+    "sha1": "88f6431bb91701d544c6a3273d361b7d98440a32",
+    "fingerprint": [
+     "走正道",
+     "出奇制胜"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "走正道",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "展开（2133-2149）：好好读书、努力工作、理性投资是立足根本；大灾难情形（30年代德国犹太人、70年代柬埔寨越南华裔）为走正道的边界条件；高考数学得分为应用例证。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-04",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "反对弯道超车：超车靠性能与技术，发展靠实力稳步提升",
+   "quote": "我很反对弯道超车的说法",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2133,
+    "end_line": 2139,
+    "sha1": "6be2be39030664cdbf0808a82f72b5319ad34a8d",
+    "fingerprint": [
+     "弯道超车",
+     "产品性能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D08-1"
+   ],
+   "concept_key": "弯道超车不成立",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证机理同母卡不另立：中国经济靠工业指标稳步上升、华为超越朗讯思科靠产品性能与价格、常谈弯道超车的公司常无利润。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-05",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "差异化只是手段不是目的，目的是把事情做得更好",
+   "quote": "差异化本身只是手段，不是目的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2151,
+    "end_line": 2153,
+    "sha1": "b0139da30599fad2eca23ee93df43ca5c50e1e99",
+    "fingerprint": [
+     "差异化",
+     "把事情做得更好"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "差异化是手段",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "展开：大部分差异化是坏的；任一时间点的主流方法自有道理（京沪高铁类比）；把按钮改形状式差异化无意义，把事情做好自然与以前不同。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-06",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "无限长时间里变是常态；有限时间里不变和渐变是常态，巨变是非常态",
+   "quote": "变是常态，不变是非常态",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2157,
+    "end_line": 2159,
+    "sha1": "4dd33d27f7fba24d0ebcfcfeaddfd77cc825e957",
+    "fingerprint": [
+     "变是常态",
+     "渐变是常态"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "变与不变的常态",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第一个原则：看变化的时间尺度；惧怕变化者是悲观主义者；由渐变推出积累的推论见 C-GJ-U0049-07。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-07",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "世界有惯性、变化渐次发生，做事要懂得积累效应，不能狗熊掰玉米",
+   "quote": "懂得积累的效应",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2161,
+    "end_line": 2163,
+    "sha1": "94196a74a3709fe5aa185a161d6a826b571afbe5",
+    "fingerprint": [
+     "惯性",
+     "积累的效应",
+     "狗熊掰玉米"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D01-2"
+   ],
+   "concept_key": "积累效应",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "语音信号渐变为类比；阿Q为反例证；智能时代几十年内每天是渐变、有足够时间适应（趋势定性并入本卡语境）；时间尺度判断见 C-GJ-U0049-06。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-08",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "往前走是常态，回头看是非常态：以史为镜不可简单照搬，未来更重要",
+   "quote": "往前走是常态，回头看是非常态",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2163,
+    "end_line": 2167,
+    "sha1": "00de5daa9138f4155252335e77283f22de76dcb8",
+    "fingerprint": [
+     "往前走是常态",
+     "以史为镜"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "往前走是常态",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第二个原则：反思可以有但不要太多；中国历史长包袱重、美国无历史包袱、中国工业化史短易探新路、硅谷与特拉维夫无工业化传统，均为例证。"
+  },
+  {
+   "claim_id": "C-GJ-U0049-09",
+   "unit_id": "GJ-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "实力派获胜是常态，机会主义者获胜是非常态，与其想爆冷不如成为实力派",
+   "quote": "实力派获胜是常态",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2171,
+    "end_line": 2175,
+    "sha1": "22540794977fb6015731206f7c20f3a41ac34aa6",
+    "fingerprint": [
+     "实力派",
+     "机会主义者"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-2"
+   ],
+   "concept_key": "实力派获胜",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第三个原则：柯洁、费德勒为力证；盖茨扎克伯格退学创业成功是因已是实力派；结尾「临渊羡鱼不如退而结网」为总结。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读成书单元《以正合，以奇胜》，9 卡（E1×8、E2×1）覆盖正奇常态、弯道超车、差异化、三原则；无整单元级排除项。"
+}

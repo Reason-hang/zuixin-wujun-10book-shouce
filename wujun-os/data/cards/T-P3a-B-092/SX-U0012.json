@@ -1,0 +1,174 @@
+{
+  "unit_id": "SX-U0012",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0012-01",
+      "unit_id": "SX-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "老鼠会误区：从无限多人身上挣钱未必多——这是不了解级数的误解",
+      "quote": "从无限多的人身上挣钱",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1218,
+        "end_line": 1227,
+        "sha1": "4ea083e0bfc7a072f4756ce2df1d820c29c100ff",
+        "fingerprint": [
+          "老鼠会",
+          "级数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "无限人数≠无限钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内三情况：每层2下线总和仅6666.67元不够本钱（情况3）；每层3下线总和有限仅1.5万（情况2）；每层5下线才理论无限（情况1，锚外）；老鼠会难挣钱还有社会结构原因（锚外 notes）：朋友圈交集大，你想发展的和下线想发展的是同一群人"
+    },
+    {
+      "claim_id": "C-SX-U0012-02",
+      "unit_id": "SX-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "信息霸屏条件是传播因子r>1；r<1时初始投入再大读者也有限",
+      "quote": "那么这篇文章就霸屏了",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1252,
+        "end_line": 1262,
+        "sha1": "4fdee5ee8b50453788ddc682479d1490ba6854ce",
+        "fingerprint": [
+          "转发",
+          "阅读量"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "传播因子r",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "模型：第二批读者=A0*p*K*q，r=p*K*q；例：A0=5000、r=1/2总读者不到1万，r=0.9可达5万；等比级数判据 r>=1 发散、r<1 收敛（数学事实，本讲理论核心）"
+    },
+    {
+      "claim_id": "C-SX-U0012-03",
+      "unit_id": "SX-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "标题党无助提升阅读量：上当感降低转发意愿，传播因子r远小于1",
+      "quote": "标题党并没有帮助提升阅读量",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1263,
+        "end_line": 1271,
+        "sha1": "bc66b1718d3de2acf118cacdd368ab7052397bbb",
+        "fingerprint": [
+          "标题党",
+          "转发"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "标题党的传播学败因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证（E3 专名，锚外 notes）：吴军2019年约50次采访仅2篇非标题党（甲子光年、澎湃新闻），且经严格筛选与强烈要求；真实阅读量摆在那里——标题党问题只会更普遍"
+    },
+    {
+      "claim_id": "C-SX-U0012-04",
+      "unit_id": "SX-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "任何产品要成爆款都需提高转发率p：用户用后满意且愿主动宣传",
+      "quote": "要想成为爆款",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1270,
+        "end_line": 1271,
+        "sha1": "162c4964efea57f49aff543af3c1e8ee9485d2b8",
+        "fingerprint": [
+          "转发率",
+          "满意"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "爆款=转发率p",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "把级数模型迁移到产品增长：p（满意后主动宣传比例）是可运营的关键变量；与 C-SX-U0012-2 同一模型的商业应用面"
+    },
+    {
+      "claim_id": "C-SX-U0012-05",
+      "unit_id": "SX-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "临界体积=保证链式反应r>1的最小铀块体积，奥本海默靠算而非试",
+      "quote": "最小铀块体积被称为临界体积",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1277,
+        "end_line": 1288,
+        "sha1": "c2b22c5d7872e5cc63f1e479b0d08b55196e14c4",
+        "fingerprint": [
+          "临界体积",
+          "奥本海默"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "算出来的临界体积",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：天然铀矿中子撞核概率仅约百万分之一（r<1 故不会自发爆炸）；提高r=提高铀纯度+加大铀块体积；临界体积无法试验测量（会核爆），奥本海默数学算出，曼哈顿计划成功——呼应 C-SX-U0006-05 数学预见性"
+    },
+    {
+      "claim_id": "C-SX-U0012-06",
+      "unit_id": "SX-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "谣言传播因子r随时间下降，应对时千万不要挑起新事端火上浇油",
+      "quote": "千万不要挑起新的事端",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1295,
+        "end_line": 1297,
+        "sha1": "5a4ac232f8fa45279fb79c0c44b911054164bc61",
+        "fingerprint": [
+          "谣言",
+          "火上浇油"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "让r自己衰减",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本讲要点总结的应用面：传播消息希望r>1，不希望谣言扩散则盼r<1；时间使r逐步下降，主动挑事端等于人为抬r"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第09讲），级数发散收敛的应用主线抽6卡；r判据本身为数学事实不入卡（并入C2 notes）；传销三层提成规则与情况1/2/3计算过程（原书1186-1216行）为演算细节，结论性内容入C1"
+}

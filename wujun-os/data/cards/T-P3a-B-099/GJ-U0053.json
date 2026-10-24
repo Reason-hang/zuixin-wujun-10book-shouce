@@ -1,0 +1,128 @@
+{
+ "unit_id": "GJ-U0053",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0053-01",
+   "unit_id": "GJ-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "希腊困境内因：生活随意、缺乏努力挣钱的习惯，红利与福利消解危机感",
+   "quote": "缺乏一种努力工作多挣钱的习惯",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2305,
+    "end_line": 2307,
+    "sha1": "cba54a7e8386601af697ad90a9920d08f16335df",
+    "fingerprint": [
+     "太随意",
+     "努力工作多挣钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "红利消解危机感",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "藏富于民（房产税低、福利可维持生计）与自古物质欲望弱为背景；当地富豪将危机归罪外国银行，属「身在厄运之中不知道原因」（2307 行收束句）。"
+  },
+  {
+   "claim_id": "C-GJ-U0053-02",
+   "unit_id": "GJ-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "海洋文明通病：贸易中心随地理便利转移，旧中心被边缘化后难放下身段从低端做起",
+   "quote": "很难放下身段从低端做起",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2317,
+    "end_line": 2321,
+    "sha1": "15dd2dba9fb88aec5dfd90aee8f1dfe986a353dc",
+    "fingerprint": [
+     "地理位置的便利性",
+     "边缘化",
+     "贸易中心的红利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "贸易中心转移与边缘化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "历史事件只是契机，更主要是自身问题；红利太丰厚→不善于生产消费品→衰落成二流且鲜有二次焕发荣光（古希腊、文艺复兴后意大利、大航海后西葡荷、20世纪英国均入此怪圈）。"
+  },
+  {
+   "claim_id": "C-GJ-U0053-03",
+   "unit_id": "GJ-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "美国因习惯他国代工而实体经济空心化，中美贸易摩擦实质是由谁来制造之争",
+   "quote": "实体经济的空心化",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2323,
+    "end_line": 2323,
+    "sha1": "49054b131742fcbae49dee880afff426ad5d004a",
+    "fingerprint": [
+     "空心化",
+     "由谁来制造"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "制造权之争",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "美国具海洋-大陆二元属性，建国起在两端摇摆；特朗普派与无条件全球化派之争即两种文明冲突，属时代定性判断（K），非点状预测。"
+  },
+  {
+   "claim_id": "C-GJ-U0053-04",
+   "unit_id": "GJ-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "赚得太多太容易会失去立足的根本；靠劳动创造财富的文化让中国能反复复兴",
+   "quote": "失去了立足的根本",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2325,
+    "end_line": 2327,
+    "sha1": "9a3ddda323b7a9292ad7f90ea13845402c494fdb",
+    "fingerprint": [
+     "立足的根本",
+     "劳动创造财富"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "赚得容易失去根本",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "个人与国家同构；中华文明多次衰落后复兴因劳动创造财富的根本文化未丧失；对中国当下的提醒：接受恪守信用、分工合作精神，切忌被贸易红利冲昏头脑、不事生产、寅吃卯粮。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0053",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "罗马分家、1453年君士坦丁堡陷落、大航海边缘化等重大历史事件叙述（2311-2315 行）为史实背景，服务母卡 C-GJ-U0053-02 的论证，不立史实卡。"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《缺乏危机感的恶果》：4 卡（E1×4）取内因机理与通则；希腊现状描写与千年衰落史为背景叙述（X4 一条），未入主干。"
+}

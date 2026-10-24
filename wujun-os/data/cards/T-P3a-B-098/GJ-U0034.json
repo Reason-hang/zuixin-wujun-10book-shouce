@@ -1,0 +1,118 @@
+{
+ "unit_id": "GJ-U0034",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0034-01",
+   "unit_id": "GJ-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "每个人身边都不缺智者，缺的是愿意向他们学习的人；角度决定能把商人看成老师",
+   "quote": "身边都不缺智者",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1478,
+    "end_line": 1478,
+    "sha1": "2b9c4ec3eca17bd45bddcc51d811bfac3730c26e",
+    "fingerprint": [
+     "智者",
+     "角度",
+     "老师"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "身边不缺智者",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "承第五章开篇（C-GJ-U0031-01）；看待他人的角度（生意伙伴/富豪/奸商/老师）决定收获，在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0034-02",
+   "unit_id": "GJ-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "张国贤教给我的智慧就两个字：大气；与大气的人相处使我摆脱小家子气、销售境界提升一个层次",
+   "quote": "智慧加起来就两个字",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1480,
+    "end_line": 1480,
+    "sha1": "54dd766cdda5ab086ae7991983c770841c84e95a",
+    "fingerprint": [
+     "大气",
+     "小家子气",
+     "感激"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-1"
+   ],
+   "concept_key": "大气",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "“他将我做销售的境界提升一个层次”在 1494 行；张先生亦师亦友/慷慨守信用/懂技术会介绍产品等特质为例证（1478/1488 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0034-03",
+   "unit_id": "GJ-U0034",
+   "speaker": "转述·第三方",
+   "claim_text": "张先生：请客带你开眼界体会高水平生活，直接给钱会让你满足于几百元、格局太小",
+   "quote": "格局就太小了",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1492,
+    "end_line": 1492,
+    "sha1": "f8815a8dc938d41de8468b0915b1c55d621d89a6",
+    "fingerprint": [
+     "开眼界",
+     "格局",
+     "倒爷"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "开眼界不给钱",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=香港商人张国贤（Thomas），吴军经历中的恩师；吴军本人概括见 C-GJ-U0034-02（R1 两卡并存互引）。"
+  },
+  {
+   "claim_id": "C-GJ-U0034-04",
+   "unit_id": "GJ-U0034",
+   "speaker": "转述·第三方",
+   "claim_text": "张先生：满足于一台挣一千元的人水平不会提高，也永远没能力做百万级的大生意",
+   "quote": "水平是不会提高的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1492,
+    "end_line": 1492,
+    "sha1": "f8815a8dc938d41de8468b0915b1c55d621d89a6",
+    "fingerprint": [
+     "倒爷",
+     "上百万元",
+     "一台一台"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "见小利则大事不成",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=张国贤；章节标题化用《论语》“见小利，则大事不成”；吴军后来几百台上千台地卖的验证（1494 行）为后续例证。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "大气/见小利则大事不成：本人概括 2 张+张先生原话转述 2 张"
+}

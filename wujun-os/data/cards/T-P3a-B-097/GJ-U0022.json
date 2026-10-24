@@ -1,0 +1,64 @@
+{
+ "unit_id": "GJ-U0022",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0022-01",
+   "unit_id": "GJ-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "职场行为莫过于做事和做人：不能做事无长远发展，光会做事不会沟通则得不到机会和认可",
+   "quote": "莫过于做事和做人",
+   "anchor": {
+    "start_line": 894,
+    "end_line": 894,
+    "fingerprint": [
+     "沟通",
+     "长远发展"
+    ],
+    "sha1": "c5b8d3ac2157c55ce49fa315f6e793ee7430548c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-2"
+   ],
+   "concept_key": "职场=做事+做人",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "第四章职场心法总起；做事线见 D06-2，做人沟通线见 D06-3"
+  },
+  {
+   "claim_id": "C-GJ-U0022-02",
+   "unit_id": "GJ-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "职场稳定发展须提防腐食者与小人的攻击，识别和防范他们是每个人的必备技能",
+   "quote": "识别和防范他们",
+   "anchor": {
+    "start_line": 896,
+    "end_line": 896,
+    "fingerprint": [
+     "腐食者",
+     "小人"
+    ],
+    "sha1": "e3c0b22d1eecb10854a332232f9c296b511ed9a5",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "提防腐食者与小人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "腐食者能清理工作环境但要避免被盯上；小人会把个人和组织从根上毁掉；展开见格局《腐食者的作用》《如何识别和防范小人》各单元"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "章引单元：做事+做人（沟通）与防小人均为吴军本人职场判断，入主干"
+}

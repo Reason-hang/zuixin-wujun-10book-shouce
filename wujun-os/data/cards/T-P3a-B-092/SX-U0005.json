@@ -1,0 +1,147 @@
+{
+  "unit_id": "SX-U0005",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0005-01",
+      "unit_id": "SX-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "古代文明只举出特例未提出假说，特例再多也不等于发现定理",
+      "quote": "不过是举出了一些特例",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 298,
+        "end_line": 321,
+        "sha1": "ce447cf6c2428f8b8f74572cd58ae2c72cc8f9e8",
+        "fingerprint": [
+          "商高",
+          "泥板",
+          "特例"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "特例与定理之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内史实链（E3 素材）：《周髀算经》周公商高勾三股四弦五、古埃及金字塔按勾股数设计墓室、美索不达米亚泥板（耶鲁馆藏）；古埃及与美索不达米亚不争发现权正因只有特例；过程概括见 C-SX-U0004-05"
+    },
+    {
+      "claim_id": "C-SX-U0005-02",
+      "unit_id": "SX-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "命题在证明前只是猜想，总结出猜想与证明定理是两回事",
+      "quote": "只能算是猜想",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 316,
+        "end_line": 321,
+        "sha1": "ab4d5ef86b82f7706e98c5c2d18ae38910fc102f",
+        "fingerprint": [
+          "命题",
+          "哥德巴赫猜想"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "猜想与证明两回事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "猜想比举例子进一大步，但仍非定理；计算机验证的局限见 C-SX-U0005-04"
+    },
+    {
+      "claim_id": "C-SX-U0005-03",
+      "unit_id": "SX-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "测量必有误差，观察经验可给启发但不能作数学结论的依据",
+      "quote": "不能通过经验总结出来",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 334,
+        "end_line": 346,
+        "sha1": "39ec9471d62a43999b5ba808e6ab35368908f4b8",
+        "fingerprint": [
+          "尺子",
+          "逻辑严格证明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "测量与推理之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内例证：量出的3尺可能是3.01或2.99；8x8=64方格剪拼成13x5=65的视觉骗局源于微小缝隙（图示以正文为准，HC-13）；勾3.5股4.5弦≈5.7误差仅万分之一点六，物理上对而数学上错"
+    },
+    {
+      "claim_id": "C-SX-U0005-04",
+      "unit_id": "SX-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "自然科学靠实验证实且允许例外，数学必须逻辑证明且不容一个例外",
+      "quote": "数学理论必须要证明",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 372,
+        "end_line": 381,
+        "sha1": "cef1c3221c3a523c80e3496863f18d743c6ded6c",
+        "fingerprint": [
+          "反例",
+          "哥德巴赫猜想"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "证实与证明之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证（锚外）：波义耳-马略特定律被高压情形推翻但在大多数条件下依然可用——自然科学的相对性；锚内：哥德巴赫猜想在可验证范围内全对、未穷尽即不算证明"
+    },
+    {
+      "claim_id": "C-SX-U0005-05",
+      "unit_id": "SX-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "数学定理是大厦基石，出现一个反例整个数学就崩塌，故结论具有绝对性",
+      "quote": "每一个定理都是一块基石",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 382,
+        "end_line": 395,
+        "sha1": "44ac810a0ccfd2e6d01b1ad8fc014b7683860e91",
+        "fingerprint": [
+          "基石",
+          "反例"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "定理即基石",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内史实链：勾股定理确立平面算距离之法，其上建三角学、笛卡尔解析几何、再往上微积分；无线通信、航天等科技依赖定理，反例一出整个数学失效——吴军解释数学为何必须绝对严格"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第02讲），三个本质差别+史实链抽5卡；公式行a²+b²=c²为数学事实不入卡；思考题为提问不立卡；要点总结为前五卡复述不另立卡"
+}

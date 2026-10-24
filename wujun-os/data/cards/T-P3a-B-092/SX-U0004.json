@@ -1,0 +1,336 @@
+{
+  "unit_id": "SX-U0004",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0004-01",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "成年人数学通识只需一点：理解从初等数学上升到高等数学的动态规律性",
+      "quote": "上升到动态的、规律性的",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 189,
+        "end_line": 192,
+        "sha1": "24e0f06563e31c932899ae4ace7a8ad6343c63c7",
+        "fingerprint": [
+          "初等数学",
+          "高等数学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "从静态具体到动态规律",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "即把对数学概念和方法的理解从静态、具体上升到动态、规律性；数学各分支从体系到方法共通，故不需多讲内容只需线索"
+    },
+    {
+      "claim_id": "C-SX-U0004-02",
+      "unit_id": "SX-U0004",
+      "speaker": "转述·第三方",
+      "claim_text": "蒙洛迪诺：人类早期知识体系都是前科学（巫术式）的",
+      "quote": "前科学",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 196,
+        "end_line": 201,
+        "sha1": "7d7a0d6978c29ca7860481d0c2f212fecf6f0891",
+        "fingerprint": [
+          "蒙洛迪诺",
+          "巫术式"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "前科学的认知阶段",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：蒙洛迪诺（《时间简史》《大设计》共同作者）；泰勒斯、赫拉克利特、亚里士多德思维亦属前科学（加入太多主观想象）；吴军取用以引出毕达哥拉斯的划时代意义"
+    },
+    {
+      "claim_id": "C-SX-U0004-03",
+      "unit_id": "SX-U0004",
+      "speaker": "转述·第三方",
+      "claim_text": "毕达哥拉斯确立严格逻辑证明的研究方法，使数学成为方法论性质的学科",
+      "quote": "从经验上升到系统性学科",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 203,
+        "end_line": 206,
+        "sha1": "1a84ee8bf9eb43515d4d6a66356feb6120f9fd46",
+        "fingerprint": [
+          "毕达哥拉斯",
+          "逻辑证明"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学从经验到学科",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：毕达哥拉斯（吴军转述其方法论贡献）；数学由此从天文学、地理学、物理学等靠测量的学科中脱身，成为基础学科之上带方法论性质的特殊学科"
+    },
+    {
+      "claim_id": "C-SX-U0004-04",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "毕达哥拉斯的错不在拒绝无理数，而在不懂以定义新概念维系体系一致性",
+      "quote": "真正的错误在于",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 213,
+        "end_line": 221,
+        "sha1": "27e0a80340c68b871f889c87d498e8443f0a9b3b",
+        "fingerprint": [
+          "无理数",
+          "完备性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "以新定义化解危机",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军评述：毕达哥拉斯需要逻辑一致性本身是数学最基础原则，其激进行为源于维护体系完备性；无理数危机解决后数学反而发展，并未如其所想崩溃"
+    },
+    {
+      "claim_id": "C-SX-U0004-05",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "数学发展与体系构建经历从特例到引理、定理、推论再到应用的全过程",
+      "quote": "从特例到引理再到定理",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 224,
+        "end_line": 227,
+        "sha1": "ebe6c8af45b1b855cfb02098925b0633b373c79d",
+        "fingerprint": [
+          "引理",
+          "推论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "特例到应用全过程",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "U0005 要点总结（原书407-409行）复述同过程：特例→猜想→定理→推论→应用，不重复立卡，见 C-SX-U0005-01"
+    },
+    {
+      "claim_id": "C-SX-U0004-06",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "无穷大无穷小不是巨大或极小的数字，而是代表变化趋势和变化快慢",
+      "quote": "代表着变化",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 235,
+        "end_line": 241,
+        "sha1": "4e1731cec10fd404176c6edd11939ec7df3ebf29",
+        "fingerprint": [
+          "无穷大",
+          "无穷小"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "无穷是变化趋势",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "认知应随所学难度从静态到动态，但很多人学到大学对数字的理解仍停留在小学阶段"
+    },
+    {
+      "claim_id": "C-SX-U0004-07",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "数学课把听众当未来工匠而非主人，只教具体知识不教高级思维认知",
+      "quote": "当作未来的工匠",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 242,
+        "end_line": 245,
+        "sha1": "8d2a2e3f11a7493d6e84588d1b83afc9d79d1b2c",
+        "fingerprint": [
+          "工匠",
+          "思维方式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "主人而非工匠",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "与 C-SX-U0003-03 呼应：用小学思维方式学大学内容必敬而远之，病根在课程设计不在学习者"
+    },
+    {
+      "claim_id": "C-SX-U0004-08",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "虚数、方程等是人类造出的抽象工具，现实中不存在却能解决现实问题",
+      "quote": "现实的问题就好解决了",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 246,
+        "end_line": 250,
+        "sha1": "5cedcbd05a8042242b94ee3b0310cf9ebf45d68e",
+        "fingerprint": [
+          "抽象工具",
+          "虚数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "抽象工具",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数学通识教育的重要目的是让人习惯使用抽象工具（具体算术到抽象代数）"
+    },
+    {
+      "claim_id": "C-SX-U0004-09",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "函数的发明把认知从个体上升到整体，从单点联系到网状规律性联系",
+      "quote": "从个体上升为整体",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 253,
+        "end_line": 254,
+        "sha1": "b4c181426876967b1121a91fbb165125745718a6",
+        "fingerprint": [
+          "函数",
+          "网状联系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "从个体到整体",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "代数模块两大知识点之一（另一为向量，见 C-SX-U0004-10）"
+    },
+    {
+      "claim_id": "C-SX-U0004-10",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "向量和线性代数把数字从单纯数值变成有方向的数值，实现认知升级",
+      "quote": "有方向的数值",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 261,
+        "end_line": 264,
+        "sha1": "9f06ac0fa374801ffd7d080a3959075fee0216b7",
+        "fingerprint": [
+          "向量",
+          "线性代数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数值到方向",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内例证：两人拉箱子的力从直接相加（80公斤）到问方向异同（20公斤）再到问夹角（90度/120度受力不同），即小学到大学思维之别"
+    },
+    {
+      "claim_id": "C-SX-U0004-11",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "微积分的意义是把数学从静态关系转向动态瞬间规律，解题技巧毫不重要",
+      "quote": "瞬间规律的把握",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 268,
+        "end_line": 270,
+        "sha1": "d96961dac9e30fefc45464d17266205f50e8994f",
+        "fingerprint": [
+          "微积分",
+          "静态"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "从静态到瞬间动态",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军明言“很难的概念、解题技巧其实毫不重要”，通识取向；学微积分目的在理解并主动应用到工作"
+    },
+    {
+      "claim_id": "C-SX-U0004-12",
+      "unit_id": "SX-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "数学思维的演进趋势=个案到整体、具体到抽象、确定性到不确定性，亦即个人认知升级",
+      "quote": "从完全的确定性",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 276,
+        "end_line": 280,
+        "sha1": "d5561963594e3d8c1a9e2c0557a2469693fee1e7",
+        "fingerprint": [
+          "个案到整体规律",
+          "认知升级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "认知升级的路径",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军把数学史映射为个人认知升级路径的纲领句；概率统计因研究不确定世界而兴起、成为大数据思维的科学基础（原书273-274行）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（导论/学习攻略），判断密集抽12卡；课程模块预告中无独立判断的罗列不立卡"
+}

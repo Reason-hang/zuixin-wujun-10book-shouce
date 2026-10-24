@@ -1,0 +1,188 @@
+{
+ "unit_id": "GJ-U0019",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0019-01",
+   "unit_id": "GJ-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "不懂得休息的人其实不懂得工作和学习；应有意义地休息",
+   "quote": "不懂得工作和学习",
+   "anchor": {
+    "start_line": 744,
+    "end_line": 744,
+    "fingerprint": [
+     "有意义地休息"
+    ],
+    "sha1": "ccf3661f758760adcb382fe4f0dbce33a34f244c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "有意义地休息",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "章首总起；结尾「与各种人交往是幸福的重要来源、促使工作更有成效」为同链配套判断（770 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0019-02",
+   "unit_id": "GJ-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "没有谁重要到缺了他事情就不运转；多数看似必须做的事可有可无，想清楚就能放下负担",
+   "quote": "都是可有可无的",
+   "anchor": {
+    "start_line": 748,
+    "end_line": 748,
+    "fingerprint": [
+     "可有可无",
+     "放下负担"
+    ],
+    "sha1": "6cd75a58d9a1541ba4189151b35bf8daa0a99889",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "没有谁不可替代",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "支撑「可以安心休假」的判断；与 C-GJ-U0020-05（没时间是托词）互引"
+  },
+  {
+   "claim_id": "C-GJ-U0019-03",
+   "unit_id": "GJ-U0019",
+   "speaker": "转述·第三方",
+   "claim_text": "生理学家试验：搬生铁每干26分钟休息4分钟，4小时装47吨，效率提高2.7倍多",
+   "quote": "劳动效率提高了2.7倍",
+   "anchor": {
+    "start_line": 750,
+    "end_line": 750,
+    "fingerprint": [
+     "生理学家",
+     "磨刀不误砍柴工"
+    ],
+    "sha1": "c0e62077a00b04b6de6529fd1ee1abae69707b23",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "磨刀不误砍柴工",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：生理学家搬运工试验（原书未具名，R1 转述卡）；吴军取用于论证劳逸结合"
+  },
+  {
+   "claim_id": "C-GJ-U0019-04",
+   "unit_id": "GJ-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "久处一个环境必成思维定式；当变化不连续或方向相反时，定式的害处超过益处",
+   "quote": "思维定式也不那么容易摆脱",
+   "anchor": {
+    "start_line": 756,
+    "end_line": 758,
+    "fingerprint": [
+     "思维定式",
+     "认知要素"
+    ],
+    "sha1": "c5b1327ecfc0fd4d5329c3b466c72d5e1c86296c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "思维定式的成因与破除",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "休息益处一的机理分析：环境连续性固化为知识/经验/观念/做事方法；定式是思考基础不应一概否定；破心中贼原话见 C-GJ-U0019-05"
+  },
+  {
+   "claim_id": "C-GJ-U0019-05",
+   "unit_id": "GJ-U0019",
+   "speaker": "转述·第三方",
+   "claim_text": "王阳明：破山中贼易，破心中贼难；辜鸿铭：剪得掉头上的辫子，剪不掉心中的辫子",
+   "quote": "破山中贼易，破心中贼难",
+   "anchor": {
+    "start_line": 756,
+    "end_line": 756,
+    "fingerprint": [
+     "王阳明",
+     "辜鸿铭"
+    ],
+    "sha1": "4cec0687a3a55dde6dc100f85570acfe91ddd56b",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "破心中贼",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：王阳明、辜鸿铭（吴军并列引用互证思维定式难破，R1 转述卡）；吴军机理分析见 C-GJ-U0019-04"
+  },
+  {
+   "claim_id": "C-GJ-U0019-06",
+   "unit_id": "GJ-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "休息分被动与主动：被动休息必需但久则提不起精神，主动休息助走出封闭系统恢复精力",
+   "quote": "从原先封闭的系统走出来",
+   "anchor": {
+    "start_line": 764,
+    "end_line": 766,
+    "fingerprint": [
+     "被动休息",
+     "主动"
+    ],
+    "sha1": "bc993b3f6c2be34978622009d27cc8f59e55950f",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "主动休息与被动休息",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "两分法总结；「把休息等同于被动休息是对休息的误解」为配套判断"
+  },
+  {
+   "claim_id": "C-GJ-U0019-07",
+   "unit_id": "GJ-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "休息的本质是从外界获得信息和能量：封闭系统熵增，破局须打破封闭、引入负熵",
+   "quote": "打破封闭系统",
+   "anchor": {
+    "start_line": 768,
+    "end_line": 768,
+    "fingerprint": [
+     "负熵",
+     "封闭系统"
+    ],
+    "sha1": "2632611683e8c020fc5a38c46ff318873090a49e",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D04-2"
+   ],
+   "concept_key": "休息即引入负熵",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "热力学/信息论类比（能量=负熵、信息=负熵），吴军本人明示映射；高更大溪地创作例并入本卡（一般例证）；原书 768 行「引人负熵」为原文排印"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全单元为吴军本人关于休息的方法论（两分法、负熵本质）与两条名言转述，全部入主干，无 X 处置"
+}

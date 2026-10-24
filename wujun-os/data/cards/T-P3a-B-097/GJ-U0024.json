@@ -1,0 +1,215 @@
+{
+ "unit_id": "GJ-U0024",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0024-01",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "与其求人不如展示价值让对方产生主动邀约：人喜欢买东西不喜欢被卖，交往任何时候都要有主动精神",
+   "quote": "产生主动邀约的愿望",
+   "anchor": {
+    "start_line": 946,
+    "end_line": 946,
+    "fingerprint": [
+     "买东西",
+     "主动精神"
+    ],
+    "sha1": "31a192d09ad3f97ad8482e0b524c87bf93275b5e",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "展示价值而非恳求",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "单位也急于补空缺、面试成本高——理解此点就应利用交流时间让对方觉得你是最合适人选（948 行同链）；章末总结「面试核心是有效沟通并展示价值」（998 行）互引"
+  },
+  {
+   "claim_id": "C-GJ-U0024-02",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "前5分钟要让面试官对你产生兴趣：最初5分钟没产生兴趣，面试就失败了一半",
+   "quote": "面试就已经失败了一半",
+   "anchor": {
+    "start_line": 952,
+    "end_line": 952,
+    "fingerprint": [
+     "前5分钟",
+     "兴趣"
+    ],
+    "sha1": "1329c6131b7482fb4fd58de41d8ed86edf8758bf",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "前5分钟产生兴趣",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "与 C-GJ-U0023-02（倾向性前5分钟形成）跨单元互引，各记锚点"
+  },
+  {
+   "claim_id": "C-GJ-U0024-03",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "面试前做好功课：了解面试官、最初10句话准备预案；很多时候沟通本身比答案更重要",
+   "quote": "沟通本身比答案更重要",
+   "anchor": {
+    "start_line": 956,
+    "end_line": 958,
+    "fingerprint": [
+     "预案",
+     "恭维"
+    ],
+    "sha1": "a10a953c29c2ff3dd73cb9411c5a5fb99fe4df46",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试前功课",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "谦虚自信落落大方，过度自信或过度讨好都没好结果；用寒暄拉近关系并显示真诚"
+  },
+  {
+   "claim_id": "C-GJ-U0024-04",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "自我介绍两禁忌：吹牛——夸自己用名词列举事实不用形容词贴标签；讲对方听不懂的行话",
+   "quote": "用名词，而不要用形容词",
+   "anchor": {
+    "start_line": 962,
+    "end_line": 966,
+    "fingerprint": [
+     "吹牛",
+     "背诵简历"
+    ],
+    "sha1": "03486e121ba95d5adf91450d6cf641cbce35293b",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "自我介绍两禁忌",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "好的自我介绍讲简历中没有的一两处吸引点，让面试官从两个维度了解你"
+  },
+  {
+   "claim_id": "C-GJ-U0024-05",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "谷歌面试题「还有什么可改进」并非真征求意见：先肯定对方、铺垫后再讲想法，一上来挑不足常失分",
+   "quote": "先肯定对方永远会获得加分",
+   "anchor": {
+    "start_line": 968,
+    "end_line": 972,
+    "fingerprint": [
+     "反客为主",
+     "主场优势"
+    ],
+    "sha1": "c2ba2b14b400b07984b4209d58259c45c7577794",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "先肯定再建议",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "谷歌专名案例+可迁移机理（R3 独立成卡）；面试官占主场优势，反客为主是大忌"
+  },
+  {
+   "claim_id": "C-GJ-U0024-06",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "对单位有巨大价值的两个关键词：互补性（你是对方缺的人）与未来价值（今后能做的高于过去的）",
+   "quote": "互补性和未来价值",
+   "anchor": {
+    "start_line": 978,
+    "end_line": 982,
+    "fingerprint": [
+     "互补性",
+     "未来的价值"
+    ],
+    "sha1": "674479448d9a1f23ab54cf54550ca4f3bfaf8b8a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "互补性与未来价值",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "同一份简历海投没有互补性；谷歌脸书录用学生却拒绝教授本人，因更看重未来价值（982 行例证）"
+  },
+  {
+   "claim_id": "C-GJ-U0024-07",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "委婉表达自信：不打造十全十美人设，企业更看重一技之长；并让单位相信你能快速学习",
+   "quote": "能够快速学习的人",
+   "anchor": {
+    "start_line": 984,
+    "end_line": 984,
+    "fingerprint": [
+     "一技之长",
+     "快速学习"
+    ],
+    "sha1": "ad6ceb8d374c13e1b0818035633438f37fa163c7",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "一技之长与快速学习",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "变化是常态，没人能靠一个技能吃一辈子；「天生我材必有用」收尾（986 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0024-08",
+   "unit_id": "GJ-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "薪酬三要点：第一份工作重单位不重钱；有经验者重点谈职级不谈薪酬；以市场价格而非公司锚定价谈判",
+   "quote": "单位好才是最重要的",
+   "anchor": {
+    "start_line": 992,
+    "end_line": 996,
+    "fingerprint": [
+     "职级",
+     "市场的价格"
+    ],
+    "sha1": "ed26c248bcdcb67bf577939a62bf5b36e359b038",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "职级优先的薪酬谈判",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "清单式一卡（R3）：同职级薪酬浮动有限，职级高一级再不济也高于低职级天花板（五级9-12万/六级11-15万例）；公司决定录用后求职者由被动转主动；与见识《年轻人第一份工作不要太在乎工资》同源"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "主动展示价值、前5分钟、自我介绍禁忌、互补性与未来价值、薪酬谈判均为吴军本人求职方法论，入主干；无 X 处置"
+}

@@ -1,0 +1,152 @@
+{
+ "unit_id": "GJ-U0033",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0033-01",
+   "unit_id": "GJ-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "跟王作英学到用数学的方法解决工程问题：数学功底扎实才能创新而非山寨",
+   "quote": "用数学的方法解决工程问题",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1437,
+    "end_line": 1437,
+    "sha1": "f4266614a403fe7a8738b12465380460636b0b8c",
+    "fingerprint": [
+     "王作英",
+     "山寨",
+     "数学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "用数学方法解决工程问题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对几年收获的一句话概括（原文明示）；数学功底→看透模型本质并按汉语特点修改 vs 只会用模型只能山寨，机理在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0033-02",
+   "unit_id": "GJ-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "跨学科背景互补：会工具的人缺课题意识，有课题的人缺工具，跨界兼得靠主动补课",
+   "quote": "善于跨界",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1439,
+    "end_line": 1439,
+    "sha1": "fda04402700e9416b8d9c2739660c310a488ef76",
+    "fingerprint": [
+     "跨界",
+     "补课",
+     "课题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "跨界互补",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "本科计算机+研究生电子系的反事实论证（一直待在计算机系/一开始就学电子工程的两种局限）在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0033-03",
+   "unit_id": "GJ-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "好的教育不仅教专业技能，还包括教给学生能用一辈子的各种技能",
+   "quote": "好的教育不仅是教会学生专业技能",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1455,
+    "end_line": 1455,
+    "sha1": "372e62f7105d2ace1afb1ff4da0710496ae9ad0b",
+    "fingerprint": [
+     "细节",
+     "好的教育",
+     "一辈子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "用一辈子的技能",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "由库旦普训练做报告导出（0.5 小时报告 8 小时指导、纠正速度/停顿/用词 1453 行）；库旦普另两项塑造（理论严格致漂亮毕业论文 1451 行、树立做到世界第一信心做别人没条件做的难事 1457 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0033-04",
+   "unit_id": "GJ-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "职业顺利靠在好环境里被一群优秀的人从不同角度塑造，养成好习惯比早毕业更重要",
+   "quote": "而是一群优秀的人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1469,
+    "end_line": 1469,
+    "sha1": "7c2733a22646585c84c1755b7cc5b4dc1606f977",
+    "fingerprint": [
+     "一群优秀的人",
+     "好习惯",
+     "5位"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "一群人塑造",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "雅让斯基（照顾下属/帮排忧解难 1463-1465 行）、贾里尼克（请顶级学者助学生树立学术声誉 1467 行）等例证并入本卡；早一年晚两年毕业无大区别在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0033-05",
+   "unit_id": "GJ-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "从导师身上得到的收获与自己的态度成正比：当引路人主动学，而非当领导应付",
+   "quote": "和自己的态度成正比",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1471,
+    "end_line": 1471,
+    "sha1": "58ad634343f99ceb3e1da7d759122cfbb21f8723",
+    "fingerprint": [
+     "导师",
+     "引路人",
+     "超越他们"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "导师收获与态度成正比",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "本单元落点判断；把导师看成管我们的领导 vs 看成引路人的对比在锚内。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0033",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "素质教育以掌握一项技能为前提（1433 行）属教育理念判断，D02 排除清单指向教育类 X5，不入柱"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "恩师经历→判断 5 张；素质教育前提句记 X5 处置"
+}

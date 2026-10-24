@@ -1,0 +1,159 @@
+{
+ "unit_id": "GJ-U0039",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0039-01",
+   "unit_id": "GJ-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "博雅教育源于古希腊自由民教育，是区别自由民与奴隶的特征；温饱之后应做精神上的自由人",
+   "quote": "成为精神上的自由人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1711,
+    "end_line": 1711,
+    "sha1": "9c4212b289fab1708597d1648359b8168dbe6392",
+    "fingerprint": [
+     "博雅教育",
+     "自由民",
+     "精神上的自由人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-3"
+   ],
+   "concept_key": "精神上的自由人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "章节题眼；素质教育目的是培养既能适合社会也能愉悦自己的自由人（1681 行）、任何有助于成为自由人的事都值得学值得做（1727 行）并入本卡；“懂得美、热爱生活的人才能走得精彩”（1681 行）同。"
+  },
+  {
+   "claim_id": "C-GJ-U0039-02",
+   "unit_id": "GJ-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "读经典不出于功利：不带来金钱与名校，但巧读书、长见识、修身养性对成家立业大有帮助",
+   "quote": "巧读书、长见识、修身养性",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1683,
+    "end_line": 1685,
+    "sha1": "501152d0b223d14996e2f23a8149043d80e5f7e5",
+    "fingerprint": [
+     "黄金屋",
+     "天花板",
+     "修养"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "读书的非功利价值",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "反驳“读经典有什么用”：需要用时不知内容只能悔恨读书太少（1683 行）；不读书难提高经济水平、遇天花板才体会到，且难找好伴侣（1685 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0039-03",
+   "unit_id": "GJ-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "人大部分时候需要的不是战斗、征服、比别人考得好，而是要对别人有用",
+   "quote": "而是要对别人有用",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1705,
+    "end_line": 1705,
+    "sha1": "88ed5529400539b6fb758c4c641558ccdd689458",
+    "fingerprint": [
+     "战斗",
+     "征服",
+     "对别人有用"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "对别人有用",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "由 A君/B小姐/C君 择偶故事（1687-1707 行，非专名案例并入）导出；C君“人性变化很小、中国人的人性全写在红楼梦里”（1707 行）为读经典的例证，并入 C-GJ-U0039-04。"
+  },
+  {
+   "claim_id": "C-GJ-U0039-04",
+   "unit_id": "GJ-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "要读经典的三个原因：反映人性最本质的东西；描绘精致美好的生活；读懂异性心思",
+   "quote": "反映了人性最本质的东西",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1713,
+    "end_line": 1723,
+    "sha1": "b7583e5fb30fbd4d42b9c00658166f4842b0d1fe",
+    "fingerprint": [
+     "经典",
+     "人性",
+     "红楼梦"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "读经典三原因",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "清单式整体一卡（R3）：①当代中国的人性/机构关系/商业环境与《红楼梦》描写无差别（1715）；②《红楼梦》是美好生活百科全书、读经典是了解民族文化最便捷方式（1719-1721）；③关于女孩子的书（1723）；书单（梁实秋/张爱玲/鲁迅/狄更斯/雨果等，1725 行）并入。"
+  },
+  {
+   "claim_id": "C-GJ-U0039-05",
+   "unit_id": "GJ-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "有钱和生活幸福有交集，但两个集合并不重叠；给每人一亿元未必生活得更好",
+   "quote": "但是两个集合并不重叠",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1719,
+    "end_line": 1719,
+    "sha1": "0bcf49372156f7b3932b6ddb54b17717d9c51fea",
+    "fingerprint": [
+     "幸福",
+     "交集",
+     "集合"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "有钱与幸福不重叠",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "读经典第二原因段内的独立判断；物质远高于 18 世纪但未必更幸福的设问在锚内。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0039",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "高考状元刷题自豪、素质教育被牺牲、顶尖大学选人偏好等应试教育议题（1677-1681 行）属教育类，排除清单指向 X5；其中“素质教育目的是自由人”已入 C-GJ-U0039-01"
+  },
+  {
+   "unit_id": "GJ-U0039",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "择偶结论（最好的女生有情趣、聪明女生不贪图外表学历钱财、洞察人心的男生有优势，1709 行）属爱情婚姻类，排除清单指向 X5；其可迁移机理（对别人有用）已入 C-GJ-U0039-03"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精神自由人主题 5 张（自由人/读书价值/对别人有用/读经典三原因/有钱与幸福）；应试教育与择偶结论记 X5 两条"
+}

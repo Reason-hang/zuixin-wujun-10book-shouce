@@ -1,0 +1,177 @@
+{
+ "unit_id": "GJ-U0051",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0051-01",
+   "unit_id": "GJ-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "了解欧洲文明的来龙去脉，才能理解西方做事原则与中西矛盾的根本原因",
+   "quote": "理解当今西方人做事的很多原则",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2215,
+    "end_line": 2215,
+    "sha1": "8ae670ad1486f5d0a3e5d9c89d075e9916f3ceaa",
+    "fingerprint": [
+     "来龙去脉",
+     "矛盾的根本原因"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "文明特征是理解行为的钥匙",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与 C-GJ-U0050-02 同概念键互引；2197 行「了解商业文明的起源……能帮我们理解当下很多冲突的根源」为同链；中国进入商业文明时间晚、观念改变慢为背景。"
+  },
+  {
+   "claim_id": "C-GJ-U0051-02",
+   "unit_id": "GJ-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "长期贸易必须保证公平性，各方恪守信用、遵守游戏规则是海洋文明第一特点",
+   "quote": "必须保证贸易的公平性",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2205,
+    "end_line": 2211,
+    "sha1": "c17a91d9f0da24b4dfcc98f4af1d628d3566502e",
+    "fingerprint": [
+     "公平性",
+     "恪守信用",
+     "游戏规则"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "贸易公平与信用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "农耕文明生意做不成人不至于饿死，海洋文明离了贸易无法生存，故规则与信用被看得极重；罗马法物权、《威尼斯商人》夏洛克台词（莎剧文学引语，不另立卡）为承接例证。"
+  },
+  {
+   "claim_id": "C-GJ-U0051-03",
+   "unit_id": "GJ-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "荷兰以商业立国：商业信誉比政治更重要，开战也不冻结敌方资产",
+   "quote": "商业信誉比政治更重要",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2211,
+    "end_line": 2213,
+    "sha1": "4ca6c1c93e4cf7ea2be9eaea732991e06cebc5e1",
+    "fingerprint": [
+     "东印度公司",
+     "巴伦支",
+     "商业信誉"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业信誉高于政治",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理独立成卡：巴伦支等宁可饿死不动委托者货物；英国继任霸主后拿破仑战争中不中断贸易，亚当·斯密自由贸易理论以恪守合同为基础。"
+  },
+  {
+   "claim_id": "C-GJ-U0051-04",
+   "unit_id": "GJ-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "海洋文明第二特点：每个经济单元只把一两样东西做好，靠贸易换回所需",
+   "quote": "力争把一两样东西做好",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2217,
+    "end_line": 2217,
+    "sha1": "24f496bc81a7c04c350a6626c861f92813c37c83",
+    "fingerprint": [
+     "经济单元",
+     "一两样东西"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专业化与贸易交换",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "要求对商品与贸易本身有自信，相信谈判仲裁可解决贸易问题；强大海上力量保障贸易顺畅（各代海洋文明海军强、陆军弱）。"
+  },
+  {
+   "claim_id": "C-GJ-U0051-05",
+   "unit_id": "GJ-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "海洋文明第三特点：建殖民地与港口控制贸易要道，政治军事行为要算经济账",
+   "quote": "控制贸易要道",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2219,
+    "end_line": 2219,
+    "sha1": "cadf7172c49b604e67fe17cd6ea2d5ef3878bf8f",
+    "fingerprint": [
+     "殖民地",
+     "经济账"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "控制要道与算经济账",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "希腊殖民为促进贸易而非经营土地，不占内陆不灭国，与俄罗斯式内陆帝国征伐相反；古希腊败波斯后不扩疆为源头的例证。"
+  },
+  {
+   "claim_id": "C-GJ-U0051-06",
+   "unit_id": "GJ-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "取用黑格尔宗教类型论：神对精神控制弱的中国与希腊，才发展起以人为本的文化",
+   "quote": "发展起以人为本的文化",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2225,
+    "end_line": 2225,
+    "sha1": "d3fde4f51af343d4ea399ebf40578f0d60237c2f",
+    "fingerprint": [
+     "黑格尔",
+     "拟人化",
+     "人文主义"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "宗教控制弱与人文主义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：黑格尔（对不同宗教特点的论述，概括引用无原话直引）；中希的神拟人化、只算「超人」而非造物主；文艺复兴借古希腊旗号把以神为中心变回歌颂人。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《欧洲文明的起点》：6 卡（E1×5、E2×1、E3 含于其中按专名机理独立 1 张）；中希文明相似三点（包容性/生命力等）与五文明中心等纯文明史叙述未立卡，节目背景为叙述不抽。"
+}

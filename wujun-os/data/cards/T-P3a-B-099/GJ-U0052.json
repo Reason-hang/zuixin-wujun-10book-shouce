@@ -1,0 +1,177 @@
+{
+ "unit_id": "GJ-U0052",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0052-01",
+   "unit_id": "GJ-U0052",
+   "speaker": "转述·第三方",
+   "claim_text": "易中天：从野蛮到文明，就是一个大家一同守规矩的过程",
+   "quote": "从野蛮到文明",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2256,
+    "end_line": 2256,
+    "sha1": "2b859cd2ff3c7a2edd41036666098be1a5282a59",
+    "fingerprint": [
+     "易老师",
+     "野蛮到文明",
+     "守规矩"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "文明即共同守规矩",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：易中天（报告转述，广汉土匪 1913 年故事；张麻子/王麻子/李麻子为故事具名人物）。三规矩：统一收费、开票互认、共惩违规；吴军查证为真并补充细节。"
+  },
+  {
+   "claim_id": "C-GJ-U0052-02",
+   "unit_id": "GJ-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "文明人与强盗的区别：文明人懂守规则能带来长期利益，强盗不明白",
+   "quote": "文明人懂得守规则",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2266,
+    "end_line": 2266,
+    "sha1": "d2f62d48763a7a8e2b22e9856addd2268a9639c8",
+    "fingerprint": [
+     "守规则",
+     "长期的利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "守规则带来长期利益",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "北欧海盗发现规规矩矩做生意利润更多更持久后变文明人（2238 行）为同机理引入例证；吴军概括与易中天故事链见 C-GJ-U0052-01。"
+  },
+  {
+   "claim_id": "C-GJ-U0052-03",
+   "unit_id": "GJ-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "看似不合理的硬性规定，是混乱条件下维持秩序唯一可行的办法",
+   "quote": "永远有例外",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2270,
+    "end_line": 2274,
+    "sha1": "2e431d394c7aeac4ba5810a9d76719cba577d2e1",
+    "fingerprint": [
+     "硬性规定",
+     "例外"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "硬性规定是秩序起点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机理：规则一旦开口子（张麻子要政策倾斜）就有无穷例外，规则失效；大原则未必对每方绝对公平。"
+  },
+  {
+   "claim_id": "C-GJ-U0052-04",
+   "unit_id": "GJ-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "社会进步不怕慢就怕推倒重来，渐进变革常比革命更有效",
+   "quote": "不怕速度慢",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2276,
+    "end_line": 2278,
+    "sha1": "f423e5c60309788fff7b94fe7c88115d54bbf7b2",
+    "fingerprint": [
+     "约法三章",
+     "推倒重来",
+     "渐进"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "渐进优于推倒重来",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "文明进化两阶段：秩序消失后先立最简便规则保生存（刘邦约法三章类比），稳定后再协商博弈细化；破坏规则后恢复平衡需更长时间，故保守主义渐进变革优于法国式革命。"
+  },
+  {
+   "claim_id": "C-GJ-U0052-05",
+   "unit_id": "GJ-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "利益与地盘绑定才会长期治理，无归属感则短期利益最大化",
+   "quote": "只能把当地治理好",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2280,
+    "end_line": 2282,
+    "sha1": "8e61fad5be1a7c1ca30f4afd418426e2d2bca374",
+    "fingerprint": [
+     "养鸡生蛋",
+     "短期的利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "利益绑定决定长期主义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "土匪离了广汉无法生存故养鸡生蛋收 5%；国民政府官老爷不觉得属地是自己的则竭泽而渔（预征税到 2011 年，据吴思研究，转述并入）。"
+  },
+  {
+   "claim_id": "C-GJ-U0052-06",
+   "unit_id": "GJ-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "做不出操作系统不是技术问题，而是版权保护与付费生态的问题",
+   "quote": "软件生态环境的问题",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2284,
+    "end_line": 2284,
+    "sha1": "accb5711f63f1253eb55a3313775141178cf88d7",
+    "fingerprint": [
+     "操作系统",
+     "版权保护",
+     "付费"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "软件生态大于单点技术",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：操作系统无足够多软件即无意义，开发软件需版权保护与付费环境；人人偷软件=国民政府竭泽而渔，软件公司如广汉农民逃荒或转抢；愿为知识付费的人增多，文明从此开始。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《人如何变成文明人》：6 卡（E1×5、E2×1、含 E3×1）；易中天故事框架按 R1 拆转述卡与吴军概括卡互引，无整单元排除。"
+}

@@ -1,0 +1,175 @@
+{
+  "unit_id": "SX-U0009",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0009-01",
+      "unit_id": "SX-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "毕达哥拉斯用数学指导艺术和音乐，确立数学在文明成就中的中心地位",
+      "quote": "指导艺术和音乐",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 800,
+        "end_line": 803,
+        "sha1": "a6b63ca5b4e92c9d445a84b2f6806cf5d752c86d",
+        "fingerprint": [
+          "黄金分割",
+          "知识体系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学的中心地位",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "notes例证：帕特农神庙正面宽高比、《断臂的维纳斯》身高腿长比、埃菲尔铁塔主要尺寸、大金字塔斜边高比皆合黄金分割（设计者知道并刻意使用；古埃及4500年前已知比例但无无理数概念）；正五角星等腰三角形容藏1.618；吴军考据：“铁匠打铁声启发”说缺乏依据"
+    },
+    {
+      "claim_id": "C-SX-U0009-02",
+      "unit_id": "SX-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "黄金分割看上去美的原因来自几何图形层层相似性",
+      "quote": "美感来自几何图形的相似性",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 810,
+        "end_line": 817,
+        "sha1": "b109aadb02d1229fd236052eef4c8b44a733d0ce",
+        "fingerprint": [
+          "黄金分割",
+          "相似"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "相似性生美感",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内例证：从黄金矩形剪掉正方形，剩余长方形长宽比仍为黄金分割，可无限剪下去（图示以正文为准，HC-13）；X/Y=(√5+1)/2，无理数，记作Ф"
+    },
+    {
+      "claim_id": "C-SX-U0009-03",
+      "unit_id": "SX-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "等角螺线非巧合：从中心同比例放大必然如此，故人对黄金分割有亲切感",
+      "quote": "必然得到这样的形状",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 821,
+        "end_line": 831,
+        "sha1": "bf0bf6d54e08a3feb495af77a07a37f8420a96a1",
+        "fingerprint": [
+          "螺旋线",
+          "黄金分割",
+          "同比例放大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "宇宙常数的亲切感",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "蜗牛壳、龙卷风、银河系形状同构；黄金分割反映宇宙自身常数，合此例的建筑画作显得特别美（《蒙娜丽莎》主体结构对应等角螺线）"
+    },
+    {
+      "claim_id": "C-SX-U0009-04",
+      "unit_id": "SX-U0009",
+      "speaker": "转述·第三方",
+      "claim_text": "毕达哥拉斯：悦耳音乐不能随机选音阶，须按数学比例设计",
+      "quote": "根据数学上的比例设计",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 850,
+        "end_line": 865,
+        "sha1": "4a2a7aa662cac88065d04d6e45a0dc08e4378740",
+        "fingerprint": [
+          "音阶",
+          "比例"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "音律的数学比例",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：毕达哥拉斯；锚内设计：2:1成八度、4:3四度、3:2五度，4/3×3/2=2:1 还原八度，再分整声调；不按比例则是噪音；耳蜗形状为螺旋线与黄金分割吻合，可能是悦耳原因；影响及柏拉图、亚里士多德与文艺复兴"
+    },
+    {
+      "claim_id": "C-SX-U0009-05",
+      "unit_id": "SX-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "单点透视法符合视觉几何原理（相似三角形），故按此作画非常逼真",
+      "quote": "相似三角形的原理",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 884,
+        "end_line": 901,
+        "sha1": "db928d973470150e28cbbfe7cf65ee294a9be905",
+        "fingerprint": [
+          "单点透视",
+          "逼真"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "透视法的几何原理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：布鲁内莱斯基（圣母百花大教堂作者）发明单点透视；锚内机理：所见高度与距离成反比（100米处50米树在500米处显10米高，无穷远处为地平线一点）；乌切洛《圣罗马诺之战》为早期炫技；艺术可再创造两点/多点透视（人眼实际只能单点）"
+    },
+    {
+      "claim_id": "C-SX-U0009-06",
+      "unit_id": "SX-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "数学与艺术等知识体系联系千丝万缕；学不会道理时记住方法也能用",
+      "quote": "千丝万缕的联系",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 909,
+        "end_line": 914,
+        "sha1": "9fae871512c69c3dba5c112a6aaba35e7df82769",
+        "fingerprint": [
+          "黄金分割",
+          "记住"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "记住方法也能用",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "本讲要点总结：了解基本数学知识对做其他事有很多好处；下一讲优选法即“只要掌握基本原则就能直接使用”的例子；呼应 C-SX-U0003-04 讲透与 C-SX-U0008-1 理论易用"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第06讲），黄金分割与透视法主线抽6卡；帕特农/维纳斯/蒙娜丽莎/埃菲尔铁塔等史实例证并入C1 notes；吴军“铁匠打铁说缺乏依据”的考据判断并入C1 notes 不独立"
+}

@@ -1,0 +1,322 @@
+{
+ "unit_id": "GJ-U0054",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0054-01",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "贾府是中国各级组织的缩影，读懂《红楼梦》才能理解中国组织的行事方式",
+   "quote": "中国各级组织的一个缩影",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2336,
+    "end_line": 2336,
+    "sha1": "f8be798bb0ca6ef2d7c76b6265e54209e98d0691",
+    "fingerprint": [
+     "红楼梦",
+     "贾府",
+     "缩影"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "贾府是组织的缩影",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "2016 年沃顿商学院大课情境；与 C-GJ-U0050-02/C-GJ-U0051-01 同构（文学文本作为理解文明的钥匙），概念键不同故分开。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-02",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "农耕文明特点：易建集权国家搞大工程；权力中枢喜欢顶层设计与层级组织",
+   "quote": "喜欢顶层设计",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2342,
+    "end_line": 2348,
+    "sha1": "a86eeb994737eb83dfa461668c8d0e5b8d7e66b4",
+    "fingerprint": [
+     "中央集权",
+     "顶层设计",
+     "权力中枢"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "集权与顶层设计",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：金字塔、长城、路易十四、苏联项目；贾府修大观园同理。组织中不能讲平等否则无凝聚力；中国高执行力企业也少授权。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-03",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "农耕文明特点：经济自给自足、生产为消费不图销售，品牌意识不足",
+   "quote": "品牌意识不足",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2350,
+    "end_line": 2358,
+    "sha1": "4787f18c0ea1db45451db97913ccff458f9af2c3",
+    "fingerprint": [
+     "自给自足",
+     "品牌意识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "自给自足与品牌缺失",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：宁国府庄园进贡自用、皇家江南织造不入市场、官窑瓷器无品牌且技术不外溢民间粗陋。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-04",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "农耕文明特点：人际关系也自给自足，靠紧密小圈子解决问题，重土地与人口数量",
+   "quote": "非常紧密的小圈子",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2360,
+    "end_line": 2368,
+    "sha1": "014a5f231033971498deae8b931d2bdd6a3d2947",
+    "fingerprint": [
+     "小圈子",
+     "土地",
+     "人口数量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "小圈子与规模情结",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机理：依赖他人即不安全感（无人保证公平），故靠四大家族式小圈子；延伸至今天日韩中超大集团（三菱三星）与麻雀虽小五脏俱全的企业。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-05",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "商业文明做法：专注一种产品甚至一个部件做到极致，力争卖到全世界",
+   "quote": "将它做到极致",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2374,
+    "end_line": 2374,
+    "sha1": "c2c15668f1e32bb252249973a936fbbff9d2feb0",
+    "fingerprint": [
+     "专注",
+     "做到极致",
+     "卖到全世界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专注极致卖全球",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "对照：美国五大市值公司产品种类极少，东亚企业经营范围宽却各领域难进前三。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-06",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "商业文明讲究平等，难产生集权政府，地方自治为政治特色，商业力量左右一切",
+   "quote": "地方自治就成为它们的政治特色",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2376,
+    "end_line": 2376,
+    "sha1": "cdabe60ff3b1d3b65eb1c99854eccfa899123b70",
+    "fingerprint": [
+     "平等",
+     "地方自治",
+     "商业的力量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平等与地方自治",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：城邦到美国州制；东印度公司影响力大于地方政权、范德比尔特与 J.P.摩根、硅谷官员形同虚设。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-07",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "商业文明重视品牌并善销售之道，让世界为其产品买单",
+   "quote": "重视品牌",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2378,
+    "end_line": 2378,
+    "sha1": "dfa3d2300867cecec491dd6ba8f36c84956af9f2",
+    "fingerprint": [
+     "品牌",
+     "销售之道"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "品牌与销售",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "美国制造业江河日下但销售水平一流：可乐与垃圾食品全球买单、百胜居中国餐饮市场份额第一。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-08",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "商业文明笃信合作谈判妥协达成一致；东亚偏人情面子，易把可妥协之事变你死我活",
+   "quote": "通过妥协达成一致",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2380,
+    "end_line": 2380,
+    "sha1": "c25797ef28372c6d60a0effb6b9586101dcdb271",
+    "fingerprint": [
+     "妥协",
+     "谈判",
+     "丛林法则"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "谈判妥协优于丛林法则",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "纠纷谈判不成诉诸法律故律师多；美国本身靠谈判讨价还价建立；对照组：东亚讲人情情面、私下商量、信丛林法则。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-09",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "技术与经济发展可以压缩，观念转变不能；中西矛盾多在难理解对方做事方式",
+   "quote": "观念的转变不可能这么快完成",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2382,
+    "end_line": 2382,
+    "sha1": "7dec42b9369a0712388fd7dd590f94113996f44a",
+    "fingerprint": [
+     "观念的转变",
+     "做事方式"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-1"
+   ],
+   "concept_key": "观念转变慢于经济",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中国 40 年走完西方 200 年工业化信息化道路；体用之争同理（用学得快，体改变慢，2386 行）；对华建议是不寄望迅速改变、耐心等待（2396 行收束）。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-10",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "东亚企业绝大多数走不出家族企业模式，源于农耕的家国一体思维",
+   "quote": "走不出家族企业的模式",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2384,
+    "end_line": 2384,
+    "sha1": "08f5733c8a00bd9226d23f0a3740dce9785ba2ac",
+    "fingerprint": [
+     "家国一体",
+     "家族企业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "家族企业模式之困",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "家庭是独立经济体→小社会不放心交外人管理→亲情裙带师徒关系重；某成功私企创始人年老交女儿掌管、贾政期许宝玉继业，「当下企业家并不比贾政高明」。"
+  },
+  {
+   "claim_id": "C-GJ-U0054-11",
+   "unit_id": "GJ-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "三代企业演进：从农耕式航母梦到诞生即全球化，环境塑造代际做事方式",
+   "quote": "超越了农耕文明的约束",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2388,
+    "end_line": 2394,
+    "sha1": "515a94cb17870791608dc3c3ab2d9d6de1d120c6",
+    "fingerprint": [
+     "第一代企业",
+     "第二代企业",
+     "第三代企业"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "三代企业演进",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名案例群+可迁移机理：一代自家人家长制航母梦；二代（腾讯阿里网易）制度接轨但行事存农耕痕迹；三代（小米 vivo OPPO）诞生即国际；腾讯从什么都做到投资扶持也是进化。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《从红楼梦看中国商业文明》：11 卡（E1×10、E3×1），农耕六特点与商业四特点按清单拆卡（锚点 ≤800 字约束），无整单元排除。"
+}

@@ -1,0 +1,70 @@
+{
+ "unit_id": "GJ-U0050",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0050-01",
+   "unit_id": "GJ-U0050",
+   "speaker": "吴军本人",
+   "claim_text": "一个人最大的幸运，是降生在一个伟大民族的伟大时代",
+   "quote": "最大的幸运莫过于降生",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2182,
+    "end_line": 2182,
+    "sha1": "3deb5a6f3f10a4d9c69639c632b50a7d8263e1d6",
+    "fingerprint": [
+     "伟大民族",
+     "伟大时代"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "生逢伟大时代是最大幸运",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "命运观：个人时运系于民族与时代；同段「只有三种文明」为背景性史实论断，未独立成卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0050-02",
+   "unit_id": "GJ-U0050",
+   "speaker": "吴军本人",
+   "claim_text": "民族最根本的文明特征是稳固的，了解它是理解该民族当下行为方式的钥匙",
+   "quote": "理解他们当下行为方式的钥匙",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2184,
+    "end_line": 2184,
+    "sha1": "a783e5ff043bcdbf6edf4c2fbab126bdaf4e9cef",
+    "fingerprint": [
+     "文明特征",
+     "行为方式的钥匙"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "文明特征是理解行为的钥匙",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "政治制度、经济结构、宗教信仰会变，文明特征不变；为第八章中西文明比较的方法论总纲；「中国最有希望」为提及，见本单元 X 处置。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0050",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "「坚信我常说的『中国最有希望』」为预测性观点提及，非本单元论证主体，登记 X2 点状预测候选交 P4 终裁。"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第八章引言 242 字：2 卡（E1×2）+1 条 X2 提及；文明史背景不立史实卡。"
+}

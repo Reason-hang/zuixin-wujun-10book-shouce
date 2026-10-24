@@ -1,0 +1,217 @@
+{
+ "unit_id": "GJ-U0027",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0027-01",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "一个权威人士对改变我们想法的作用，超过成千上万草根的大众意见",
+   "quote": "超过成千上万的",
+   "anchor": {
+    "start_line": 1103,
+    "end_line": 1103,
+    "fingerprint": [
+     "权威人士",
+     "草根"
+    ],
+    "sha1": "26f32c74220309f40282ad14da53218623a77295",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "权威胜过大众",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "人们对与己相同的大众意见自我强化、对相左意见自认先见，大众意见影响远小于想象"
+  },
+  {
+   "claim_id": "C-GJ-U0027-02",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "PageRank 迭代发现起决定作用的意见来自权威网站：让人感觉意见的权威性，远比意见本身更重要",
+   "quote": "远比这个意见本身更重要",
+   "anchor": {
+    "start_line": 1105,
+    "end_line": 1105,
+    "fingerprint": [
+     "PageRank",
+     "权威网站"
+    ],
+    "sha1": "92c7297602823af2bc29e9d5ac6bce1e4a70e653",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "权威性重于意见本身",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "谷歌 PageRank 专名案例+可迁移机理（R3）；权威性来源=客观置信度+主观感觉，多数意见难客观衡量故主观占上风（1107 行附此）"
+  },
+  {
+   "claim_id": "C-GJ-U0027-03",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "自己非权威时：用最可靠的传播渠道传递信息，并找支持你的权威配合行动；不贴切的引经据典说服力有限",
+   "quote": "找到一个支持你的权威",
+   "anchor": {
+    "start_line": 1107,
+    "end_line": 1109,
+    "fingerprint": [
+     "引经据典",
+     "传播渠道"
+    ],
+    "sha1": "c24ce6c2af57acb13143797eeda6599b699bf737",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "借权威与选渠道",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "启蒙思想家谈公权力被误用于公司民主决策之例"
+  },
+  {
+   "claim_id": "C-GJ-U0027-04",
+   "unit_id": "GJ-U0027",
+   "speaker": "转述·第三方",
+   "claim_text": "希勒研究：94%的人买股票的决定来自亲朋好友推荐而非报纸电视；面对面口头传递对决策影响力最大",
+   "quote": "94%的人购买股票的决定",
+   "anchor": {
+    "start_line": 1111,
+    "end_line": 1111,
+    "fingerprint": [
+     "希勒",
+     "面对面"
+    ],
+    "sha1": "c971859f74b1b1ab5cab1cb2db7baa57752ebe8a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "面对面影响决策",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：罗伯特·J.希勒（诺贝尔经济学奖得主，行为心理学研究，R1 转述卡）"
+  },
+  {
+   "claim_id": "C-GJ-U0027-05",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "面对面口头交流已演化几万年、植根基因：熟人转述让人感觉可信；单位里最有效的是当面对话而非邮件微信",
+   "quote": "植根于我们的基因中",
+   "anchor": {
+    "start_line": 1127,
+    "end_line": 1127,
+    "fingerprint": [
+     "基因",
+     "口头传播"
+    ],
+    "sha1": "e35295df238e3d5dd3086d51ffb9a3ae82b1cb01",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "面对面最有效",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "有效沟通的第一原则；跨国公司据此遵守六细则（见 C-GJ-U0027-06）"
+  },
+  {
+   "claim_id": "C-GJ-U0027-06",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "沟通渠道六细则：好消息当面、坏消息视责任、主观面谈客观邮件、涉法律不留文字、公私邮箱分开、约谈时间讲究",
+   "quote": "下面6个细则",
+   "anchor": {
+    "start_line": 1127,
+    "end_line": 1127,
+    "fingerprint": [
+     "面对面",
+     "细则"
+    ],
+    "sha1": "e35295df238e3d5dd3086d51ffb9a3ae82b1cb01",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "沟通渠道六细则",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "清单式一卡（R3），细则在 1129-1155 行展开：奖金亲手交、报喜邮件只预约面谈；解雇分手必须当面；主观事不留底、客观事邮件存档立此存照；微信提意见最糟（语音更甚）；告状诉委屈不留文字；下属约领导宜晚或早、领导约下属晚饭后显刻薄"
+  },
+  {
+   "claim_id": "C-GJ-U0027-07",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "IBM并购莲花泄密案：秘书口耳相传的消息人人相信，同样的消息公开广播反而多数人怀疑",
+   "quote": "几乎所有得到消息的人都相信",
+   "anchor": {
+    "start_line": 1115,
+    "end_line": 1121,
+    "fingerprint": [
+     "莲花公司",
+     "口耳相传"
+    ],
+    "sha1": "c0a1c286bddd8d76d20423dd39aaea66751a6575",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "口耳相传的可信度",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "IBM/Lotus 1995 专名案例+可迁移机理（熟人信道可信，R3）；1987黑色星期一（1传7、机构传20）、传销面对面胜电视广告、特朗普现场拉票胜媒体轰炸为同机理例证（1123-1125 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0027-08",
+   "unit_id": "GJ-U0027",
+   "speaker": "吴军本人",
+   "claim_text": "尤斯塔斯给工程师换显示器并当面交谈：好消息与恩惠要当面交付，才能转化为信任与沟通资本",
+   "quote": "愿意帮助大家的人",
+   "anchor": {
+    "start_line": 1131,
+    "end_line": 1131,
+    "fingerprint": [
+     "尤斯塔斯",
+     "显示器"
+    ],
+    "sha1": "6f1177a9f9d79a2e122f4cb17400e32c38b6de2a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "当面交付恩惠",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "谷歌工程一把手专名案例+可迁移机理（R3）；两年上位与善于沟通的关系；六细则第一则的职场应用"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "权威性、口头传播、六细则均为吴军本人沟通战术判断入主干；希勒研究为转述卡；IBM泄密与尤斯塔斯为 E3 卡"
+}

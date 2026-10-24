@@ -1,0 +1,305 @@
+{
+ "unit_id": "GJ-U0018",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0018-01",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "走出越穷越忙怪圈两步：先慢下来避免成为积极的废人，再审视找出忙碌原因",
+   "quote": "走出这个怪圈的第一步",
+   "anchor": {
+    "start_line": 680,
+    "end_line": 680,
+    "fingerprint": [
+     "越穷越忙",
+     "慢下来"
+    ],
+    "sha1": "4c830f7be4b513347b0f09bdd4b75cda85b8563f",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "积极的废人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "总结句明示两步法；章首总起。后文三毛病为该论断的展开"
+  },
+  {
+   "claim_id": "C-GJ-U0018-02",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "忙而绩效差者除伪工作者外通常有三个毛病：干不该干的事、多任务并行、迷信速成",
+   "quote": "通常还有三个毛病",
+   "anchor": {
+    "start_line": 682,
+    "end_line": 682,
+    "fingerprint": [
+     "绩效平平",
+     "三个毛病"
+    ],
+    "sha1": "8194bea30f7c23c145443b735ceff46b1682345a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "忙而无效三毛病",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "清单式诊断总结句，整卡承接；三个毛病分别见本单元后续卡"
+  },
+  {
+   "claim_id": "C-GJ-U0018-03",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "帮亲友请求用两尺度取舍：违反原则或帮不上的不帮，对方自己能解决的客气回绝",
+   "quote": "用两个尺度判断帮还是不帮",
+   "anchor": {
+    "start_line": 694,
+    "end_line": 694,
+    "fingerprint": [
+     "亲朋好友",
+     "尺度"
+    ],
+    "sha1": "d69855e6a5836ad7f33aea24f64f5d8479e15d70",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "亲友请求两尺度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "带 iPhone/杏仁奶粉例证（一般例证并入）；结论句讲帮不帮的取舍归 D03-1；「先做好本职工作而非当好好先生」为同段配套判断"
+  },
+  {
+   "claim_id": "C-GJ-U0018-04",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分人不具备多任务能力，一心多用反而降低效率、错误不断",
+   "quote": "在同一时间只能做一件事",
+   "anchor": {
+    "start_line": 702,
+    "end_line": 702,
+    "fingerprint": [
+     "单任务",
+     "多任务"
+    ],
+    "sha1": "4afe4678b4127b086799d1c4cfbc99734f6a37c2",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "单任务工作",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "吴军自述工作状态单任务并推广为通则；MIT 带带宽数据的转述见 C-GJ-U0018-05，论证链两卡并存"
+  },
+  {
+   "claim_id": "C-GJ-U0018-05",
+   "unit_id": "GJ-U0018",
+   "speaker": "转述·第三方",
+   "claim_text": "MIT 研究：人脑带宽仅约 60 比特/秒，同步思考能力非常有限",
+   "quote": "60比特/秒",
+   "anchor": {
+    "start_line": 702,
+    "end_line": 702,
+    "fingerprint": [
+     "人脑的带宽",
+     "麻省理工"
+    ],
+    "sha1": "4afe4678b4127b086799d1c4cfbc99734f6a37c2",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "人脑带宽60比特",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：MIT 研究，《麻省理工科技评论》2009 年文章（R1 转述卡）；吴军取用见 C-GJ-U0018-04"
+  },
+  {
+   "claim_id": "C-GJ-U0018-06",
+   "unit_id": "GJ-U0018",
+   "speaker": "转述·第三方",
+   "claim_text": "海恩法则：每起严重事故背后约有 30 起轻微事故、300 起未遂事故和上千个隐患",
+   "quote": "大约30起轻微事故",
+   "anchor": {
+    "start_line": 710,
+    "end_line": 712,
+    "fingerprint": [
+     "海恩",
+     "未遂事故"
+    ],
+    "sha1": "f13d629c8b4b8a50ad5b0079922cd7c72c538680",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "海恩法则",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：帕布斯·海恩（德国飞机涡轮机发明者，R1 转述卡）；吴军向个人绩效的迁移见 C-GJ-U0018-07"
+  },
+  {
+   "claim_id": "C-GJ-U0018-07",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "海恩法则迁移：学习工作中总是小错不断的人，成绩和绩效都好不了",
+   "quote": "小错不断",
+   "anchor": {
+    "start_line": 712,
+    "end_line": 714,
+    "fingerprint": [
+     "事故隐患",
+     "成绩还是绩效"
+    ],
+    "sha1": "823c8fc0b6dffcf54d723ae3cf8d572c4f0fc51b",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-2",
+    "D06-2"
+   ],
+   "concept_key": "小错不断绩效必差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例（海恩法则）+可迁移机理（小错积累成大错）独立成卡（R3）；原话见 C-GJ-U0018-06"
+  },
+  {
+   "claim_id": "C-GJ-U0018-08",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "轻松而回报高的路径几乎不存在：取巧速成是在挑战市场有效性，套利空间会迅速消失",
+   "quote": "挑战经济学的基本原理",
+   "anchor": {
+    "start_line": 718,
+    "end_line": 720,
+    "fingerprint": [
+     "付出最少",
+     "市场的有效性"
+    ],
+    "sha1": "0f7c4641a64ff8e4154ea5abdbcc36dfef547032",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "取巧即挑战市场有效性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "总结句明示；「捷径若无门槛则无稀缺性」为同链论证；学口语两例为一般例证并入本卡"
+  },
+  {
+   "claim_id": "C-GJ-U0018-09",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "慢下来先动脑再动手：删除可做可不做的事、按部就班收尾、做完审视得失",
+   "quote": "先动脑，再动手",
+   "anchor": {
+    "start_line": 726,
+    "end_line": 726,
+    "fingerprint": [
+     "任务清单",
+     "按部就班"
+    ],
+    "sha1": "cafe5e44a2b0e71c9d1fde800c3dda37c20230ce",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "慢下来做事清单",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡（R3）：慢节奏→删任务→收尾→复盘四环节"
+  },
+  {
+   "claim_id": "C-GJ-U0018-10",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "打坏一球后承认现实、按原节奏打下一球，斩断厄运链，把坏事的影响限制在局部",
+   "quote": "把坏事的影响限制在局部",
+   "anchor": {
+    "start_line": 726,
+    "end_line": 728,
+    "fingerprint": [
+     "厄运链",
+     "承认现实"
+    ],
+    "sha1": "fb2eaea828782f8a582ff2e5168a4a79f643eba6",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D03-1"
+   ],
+   "concept_key": "斩断厄运链",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "高尔夫例+通则；配套判断：越落后越并行多做事会错误百出，应停下来做减法而非在低回报道路狂奔（格局《舍得止损，才能斩断厄运》同源）"
+  },
+  {
+   "claim_id": "C-GJ-U0018-11",
+   "unit_id": "GJ-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "接受新思维须先在心里否认自己一次；惯性思维让人拒绝新方法，方向错了越努力离目标越远",
+   "quote": "越努力离目标越远",
+   "anchor": {
+    "start_line": 732,
+    "end_line": 734,
+    "fingerprint": [
+     "惯性思维",
+     "新思维"
+    ],
+    "sha1": "9da4a0ff66739ec0ea0f746555338394f17ed4f7",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "战术勤奋掩盖战略懒惰",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "多段归纳（开放心态、本能反驳、求助认知相当者）；「战术上的勤奋掩盖战略上的懒惰」为吴军引用的流行语，出处不明，不作转述卡单列"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全单元为吴军本人方法论与案例论证（瞎忙三毛病、单任务、厄运链止损、惯性思维），全部可入主干，无 X 处置项"
+}

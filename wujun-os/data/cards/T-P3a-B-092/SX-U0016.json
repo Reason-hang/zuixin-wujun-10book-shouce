@@ -1,0 +1,204 @@
+{
+  "unit_id": "SX-U0016",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0016-01",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "现实问题有现实答案却无法直接得到，须发明不存在的东西作桥梁",
+      "quote": "发明一个不存在的东西",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1737,
+        "end_line": 1747,
+        "sha1": "30ef32832aeb69f22754b23aedc2157a803b884e",
+        "fingerprint": [
+          "虚数",
+          "桥梁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "虚构作桥梁",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：X^3-15X-4=0 显然有解 X=4，但套费拉里-塔尔塔利亚公式过程中出现 √-121（负数开方绕不过去），引入 i 后算下去正负抵消得 4（演算以正文为准，HC-13）；比喻：算到半路遇墙，借不存在的工具翻过去"
+    },
+    {
+      "claim_id": "C-SX-U0016-02",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "虚数如催化剂/传话筒/虫洞：用完即抵消，数学工具多由逻辑虚构却解现实问题",
+      "quote": "完全由逻辑虚构出来的",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1751,
+        "end_line": 1771,
+        "sha1": "eeb1a8941bac08f8de8ccf3f0487316cbf883579",
+        "fingerprint": [
+          "催化剂",
+          "传话筒",
+          "虫洞"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "媒介工具三喻",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三喻机理：催化剂反应前后不变、传话筒（夫妻借孩子带话）孩子不留存在结果、虫洞借无关宇宙穿越回本宇宙；虚数创造出来又正负相消，实数答案依然是实数"
+    },
+    {
+      "claim_id": "C-SX-U0016-03",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "虚数三层用：补全数学（一元N次方程恰有N个解）、简化极坐标、支撑量子力学",
+      "quote": "让所有的方程都变得有解",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1772,
+        "end_line": 1787,
+        "sha1": "31547ce1807f9357e39de9b291a1ba782aca5996",
+        "fingerprint": [
+          "极坐标",
+          "量子力学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "虚数的三层用途",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：实数域 X^2+1=0 无解致数学不完美，引入 i 后所有一元N次方程都有N个解没有例外；直角坐标变极坐标（飞行航海“往两点钟方向飞20公里”）实数繁复虚数极简；量子力学、相对论、信号处理、流体力学、控制系统都离不开虚数"
+    },
+    {
+      "claim_id": "C-SX-U0016-04",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "人类可能是唯一能构想不存在事物的物种——法律法人等虚构概念支撑社会运行",
+      "quote": "人类可能是唯一一个",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1788,
+        "end_line": 1796,
+        "sha1": "f423d9c6349c8735c967d19cbea950afa8394f2c",
+        "fingerprint": [
+          "宗教",
+          "法人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "构想不存在之物",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：早期人类靠宗教崇拜团结（打仗探险的仍是人）；法律、有限公司、法人团体自然界不存在却缺之社会无法运行；习惯使用虚构概念后会将其真实化、感觉和真的一样"
+    },
+    {
+      "claim_id": "C-SX-U0016-05",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "衡量认知水平的一个方法：看接受虚拟概念的能力，只认实物则水平不高",
+      "quote": "接受虚拟概念的能力",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1806,
+        "end_line": 1808,
+        "sha1": "f42efb5b6848a92465aadd733f7e5b482a1afbc6",
+        "fingerprint": [
+          "认知水平",
+          "土财主"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D01-3"
+      ],
+      "concept_key": "接受虚拟概念的能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "notes 例证（原书1797-1805行）：罗马法为处理经济纠纷把机构当法律主体——法人即数学中的虚数；告公司打官司由具体人执行赔偿但赔偿来自法人，如借虚数得实数解；只知买房置地收藏奢侈品者被称为土财主，同此理"
+    },
+    {
+      "claim_id": "C-SX-U0016-06",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "数的扩展史即认知升级：自然数→零→有理数→无理数→虚数复数",
+      "quote": "没有能突破抽象思维的瓶颈",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1809,
+        "end_line": 1824,
+        "sha1": "e2a00394339ead06e391dff878ac7ca6120ed1bd",
+        "fingerprint": [
+          "抽象思维",
+          "虚数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "数的扩展即认知升级",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：除古印度外各文明早期都没有零，人类花几千年才搞明白；减法除法逼出负数分数，毕达哥拉斯定理逼出无理数，负数开方逼出虚数；很多人觉得数学越学越难，正因未突破抽象思维瓶颈（扩展图以正文为准，HC-13）；呼应 C-SX-U0004-12 认知升级路径"
+    },
+    {
+      "claim_id": "C-SX-U0016-07",
+      "unit_id": "SX-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "复数基础在现实不存在，却能解决现实问题——三相交流电电磁波都靠它",
+      "quote": "却能解决实际问题",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1825,
+        "end_line": 1832,
+        "sha1": "fdd08120fad8713f9848e972c3b952cc82418635",
+        "fingerprint": [
+          "复数",
+          "电磁波"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "不存在基础上的强工具",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：三相交流电实实在在存在，用复数比实数加三角函数容易得多；涉及电磁波的几乎所有问题都需要复数；结尾点题：体会媒介工具作用+数字扩展史的认知升级即掌握精髓"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第13讲），虚构工具哲学+数的扩展史抽7卡；X^3-15X-4=0与√-121演算（原书1718-1736行）为数学事实并入C1 notes；结尾家长群推广语不立卡"
+}

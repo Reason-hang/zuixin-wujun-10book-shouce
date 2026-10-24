@@ -1,0 +1,318 @@
+{
+ "unit_id": "GJ-U0030",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0030-01",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "腐食者对个体致命但对整个组织有用；小人不仅害人，还会把硕大的组织从根儿上毁掉",
+   "quote": "从根儿上毁掉",
+   "anchor": {
+    "start_line": 1292,
+    "end_line": 1292,
+    "fingerprint": [
+     "小人",
+     "腐食者"
+    ],
+    "sha1": "d8ffbe0667420b53d38ca85986c71b829ac95029",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "小人毁组织",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "识别和防范小人是陌生人社会必备生活技能；与腐食者系列（C-GJ-U0028/29）衔接"
+  },
+  {
+   "claim_id": "C-GJ-U0030-02",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "费无忌案例：小人做好事为自己私利，不惜损害整个组织的利益换取小利；受惠者蠢在看不清对方目的",
+   "quote": "换取自己的小利",
+   "anchor": {
+    "start_line": 1306,
+    "end_line": 1308,
+    "fingerprint": [
+     "费无忌",
+     "楚平王"
+    ],
+    "sha1": "5915f9721e207a75ffa115f9298fe0d6f4fbd811",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "费无忌之鉴",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名史实案例+可迁移机理（R3）：劝楚平王娶孟羸→废太子→害伍奢→伍子胥破楚鞭尸（1298-1304 行）；楚平王之蠢在判断不清对自己好的目的与后果（1308 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0030-03",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "李园案例：小人先让主公觉得对自己特别好，得势后反噬——春申君利令智昏终被灭门",
+   "quote": "利令智昏",
+   "anchor": {
+    "start_line": 1314,
+    "end_line": 1318,
+    "fingerprint": [
+     "李园",
+     "春申君"
+    ],
+    "sha1": "70bd47466d062c5f16adf3356ddece74c21c1a08",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "李园之鉴",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名史实案例+可迁移机理（R3）：献孕妹于楚王换国舅地位后设伏杀春申君；朱英建议及早除掉李园未被采纳"
+  },
+  {
+   "claim_id": "C-GJ-U0030-04",
+   "unit_id": "GJ-U0030",
+   "speaker": "转述·第三方",
+   "claim_text": "司马迁评春申君：当断不断，反受其乱",
+   "quote": "当断不断，反受其乱",
+   "anchor": {
+    "start_line": 1318,
+    "end_line": 1318,
+    "fingerprint": [
+     "司马迁",
+     "千古名言"
+    ],
+    "sha1": "de0081c2d0e1af1cfa0e73deae037f1f62b0804c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "当断不断反受其乱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：司马迁（《史记》评述，R1 转述卡）；吴军引用于李园案例收尾，指向决断时机"
+  },
+  {
+   "claim_id": "C-GJ-U0030-05",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "小人多以朋友形式出现：君子不懂服侍人、小人把人服侍得舒服，吃大亏前甚至被当挚友，故难防范",
+   "quote": "以朋友的形式出现",
+   "anchor": {
+    "start_line": 1322,
+    "end_line": 1322,
+    "fingerprint": [
+     "挚友",
+     "服侍"
+    ],
+    "sha1": "c339ffb06da032363549b4a60cf3f051ad4bebaa",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "小人以友形出现",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "诸葛亮「亲贤臣远小人」为吴军工具型引用（注明，不单列转述卡）；卖保健品者让老人觉得特别好、赔钱搭房例（1324 行）；并非对我们好的都是小人，善良的人占多数（1326 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0030-06",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "辨小人一：善良的人从你最大利益出发对你好；小人利用你的弱点给局部小利，损害你长期根本的最大利益",
+   "quote": "从你的最大利益出发",
+   "anchor": {
+    "start_line": 1330,
+    "end_line": 1336,
+    "fingerprint": [
+     "最大利益",
+     "小恩小惠"
+    ],
+    "sha1": "975c1e03496484cf63efc11499d4177a939b5179",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "最大利益判据",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "费无忌让楚平王纳妃看似着想实损其最大利益、春申君最大利益在楚国稳定（1332-1334 行分析）；送小礼让违规、官员被拉下水例（1336 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0030-07",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "辨小人二：看人不仅看他对我们怎样，更要看他如何对待周围人；对别人不好者，等你无利用价值也不会对你好",
+   "quote": "还要看他对待周围的人怎么样",
+   "anchor": {
+    "start_line": 1338,
+    "end_line": 1348,
+    "fingerprint": [
+     "庞涓",
+     "鸟兽散"
+    ],
+    "sha1": "706cecc026b46b30004d471725b5e4c446dc3db0",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "观其所待",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "费无忌妒杀伯郤宛全家（1340 行）；鬼谷子从庞涓不问候老师断其刻薄忘本（1344 行）；孟尝君罢相食客散（1346 行）；辨人三「物以类聚」原书未展开（1350 行）附此"
+  },
+  {
+   "claim_id": "C-GJ-U0030-08",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "防小人一：戒贪——吃小人的亏多因贪小利而忘最大利益；不贪则黑材料有名无实，小人无从下手",
+   "quote": "贪小利而忘记自己的最大利益",
+   "anchor": {
+    "start_line": 1354,
+    "end_line": 1356,
+    "fingerprint": [
+     "贪婪",
+     "黑材料"
+    ],
+    "sha1": "e097e3099e7594f5daa50cf43a1f7f239a19e980",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "戒贪防小人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "互联网高管不贪出国便宜、政治斗争中黑材料有名无实反获信任例；马化腾证言见 C-GJ-U0030-09；收尾：人性复杂多数人非纯君子或小人（如纸必有两面），少受损失最好办法仍是戒贪（1370 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0030-09",
+   "unit_id": "GJ-U0030",
+   "speaker": "转述·第三方",
+   "claim_text": "马化腾：一个人不贪就不会染上计算机病毒——不贪则病毒没办法，小人也没办法",
+   "quote": "如果一个人不贪，就不会染上",
+   "anchor": {
+    "start_line": 1354,
+    "end_line": 1354,
+    "fingerprint": [
+     "马化腾",
+     "病毒"
+    ],
+    "sha1": "5ce37a09e1ed4018c2a5e423702c7154d0da7c5e",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "不贪则病毒无门",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：马化腾（对吴军私人所言，R1 转述卡）；贪盗版软件免费光盘打折商品才中病毒；吴军取用为戒贪论据，见 C-GJ-U0030-08"
+  },
+  {
+   "claim_id": "C-GJ-U0030-10",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "防小人二：别把过分狎昵的关系太当真——知道富贵多士贫贱寡友的人性，交往留防范，吃亏不吃大亏",
+   "quote": "即使吃亏也不至于吃大亏",
+   "anchor": {
+    "start_line": 1358,
+    "end_line": 1364,
+    "fingerprint": [
+     "泰门",
+     "冯驩"
+    ],
+    "sha1": "8340c95e76ead0340c671a9f047356bb9e089f62",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "狎昵关系留防范",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "莎士比亚《雅典的泰门》例及莎评「最初不是把人想得太好，后来也不会把人想得那么坏」（1362 行，注明被转述者莎士比亚）；冯驩原话见 C-GJ-U0030-11"
+  },
+  {
+   "claim_id": "C-GJ-U0030-11",
+   "unit_id": "GJ-U0030",
+   "speaker": "转述·第三方",
+   "claim_text": "冯驩（《史记》）：富贵多士，贫贱寡友，事之固然也",
+   "quote": "富贵多士，贫贱寡友",
+   "anchor": {
+    "start_line": 1358,
+    "end_line": 1358,
+    "fingerprint": [
+     "冯驩",
+     "孟尝君"
+    ],
+    "sha1": "66f3c5fce309e183f24826ac4db7b52e8d4a268c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "富贵多士贫贱寡友",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：冯驩，出自《史记》孟尝君列传（R1 转述卡）；孟尝君看透人性后待客如故；吴军取用见 C-GJ-U0030-10"
+  },
+  {
+   "claim_id": "C-GJ-U0030-12",
+   "unit_id": "GJ-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "防小人三：就事论事建立防火墙——合作只要求对方在此事上守信，不因关系好迁就，坏事不致灭顶之灾",
+   "quote": "建立应有的防火墙",
+   "anchor": {
+    "start_line": 1366,
+    "end_line": 1368,
+    "fingerprint": [
+     "防火墙",
+     "疾恶如仇"
+    ],
+    "sha1": "a76093465f5b69b6d42e6938e3df3b73cbc6319b",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "对事不对人的防火墙",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "警惕「不喜欢某人就讨厌其所有事」的偏见；亲密关系遇利益冲突会相互拆台暴露人性丑恶面；合作通则归 D07-2，与 D06-3 边界按结论句"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "识别三点+防范三法均入主干；费无忌/李园为专名 E3；司马迁、马化腾、冯驩原话按 R1 抽转述卡；诸葛亮句为工具型引用并入 notes"
+}

@@ -1,0 +1,147 @@
+{
+  "unit_id": "SX-U0010",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0010-01",
+      "unit_id": "SX-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "真正高水平的数学家既研究复杂理论，也为实际问题找简单可复用解法",
+      "quote": "可重复使用的解决方法",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 930,
+        "end_line": 933,
+        "sha1": "60849833aa88b301e7fef016a91d46ec2a50fc0d",
+        "fingerprint": [
+          "华罗庚",
+          "可重复"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "化繁为简的大师",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：华罗庚——20世纪唯一世界级中国数学家（数论贡献），国人记住的却是优选法，因工业生产受益；对照锚外引子：部分数学家自视高高在上、看不上实际问题（吴军亲历数学家对理论物理学家说“你们搞的怎能算数学”）"
+    },
+    {
+      "claim_id": "C-SX-U0010-02",
+      "unit_id": "SX-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "华罗庚用通俗语言把复杂数学简化给一线职工用，这才体现大师水平",
+      "quote": "把复杂的方法简单化",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1013,
+        "end_line": 1016,
+        "sha1": "008bf11e785e2c921f830d3b365ad0554542be29",
+        "fingerprint": [
+          "华罗庚",
+          "哗众取宠"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "简单化即大师水平",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军评述：反观一些专家学者故意把理论包装得高大上哗众取宠，与真正大师高下立判；背景（原书966-969行）：工厂里解线性方程一般人也做不对，华罗庚不怪一线水平低，而怪自己没把数学变简单"
+    },
+    {
+      "claim_id": "C-SX-U0010-03",
+      "unit_id": "SX-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "优选法双重最优：既找到实际问题的最佳解，也用最少试验次数找解",
+      "quote": "用最少的试验次数",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 967,
+        "end_line": 975,
+        "sha1": "76e11817d4fc30437fd42e293daffaea180bff55",
+        "fingerprint": [
+          "优选法",
+          "最佳解"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "方法本身也要最优",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "基于黄金分割（0.618法）：6.18克/3.82克对折对称，折纸法让无数学基础者秒懂；效率可严格证明：5次试验缩至9%、6次缩至6%以下；《优选法平话》初中毕业工人能学会；二维折纸法是线性规划特例"
+    },
+    {
+      "claim_id": "C-SX-U0010-04",
+      "unit_id": "SX-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "线性规划本质：把复杂非线性问题化为多个线性方程，靠死算完成",
+      "quote": "说白了就是死算",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 954,
+        "end_line": 957,
+        "sha1": "96852bb3387bf8b83c6ab14e854989f032e3be52",
+        "fingerprint": [
+          "线性规划",
+          "非线性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "非线性化为线性死算",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "1958年华罗庚率数学家下厂寻求实际问题首推线性规划；与 C-SX-U0008-6（美苏路线）同一机理：用简单可大量重复的计算换复杂推导"
+    },
+    {
+      "claim_id": "C-SX-U0010-05",
+      "unit_id": "SX-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "对细节无法了解时，简单准则（如黄金分割）总能给出不坏的结果",
+      "quote": "有准则总比没有好",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1036,
+        "end_line": 1040,
+        "sha1": "7db67a9265e2525530812a9f2b894924b01f1f4e",
+        "fingerprint": [
+          "黄金分割",
+          "准则"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "有准则胜于无",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军个人实践（E3）：拍照主角放黄金分割点；资产配比60%~65%股市+38%中25%债券（转述自述，不构成投资建议）；决策时点放0.618或0.382（创业少想多做）；任何人抱怨数学不灵活，但任何无条件硬性原则皆如此，绝大多数情况有准则比没有好"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第07讲），华罗庚优选法主线抽5卡；0.618折纸法步骤与二维折纸四步（原书979-1003行）为操作细节并入C3 notes；吴军个人资产配比细节并入C5 notes"
+}

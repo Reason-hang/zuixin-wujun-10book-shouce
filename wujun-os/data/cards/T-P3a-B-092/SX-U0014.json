@@ -1,0 +1,205 @@
+{
+  "unit_id": "SX-U0014",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0014-01",
+      "unit_id": "SX-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "《孙子算经》式解法巧妙但太不直观，无法举一反三——只对特定问题有效",
+      "quote": "太不直观",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1448,
+        "end_line": 1455,
+        "sha1": "227785c3babe41c8d2f3efc560999c5af1a79809",
+        "fingerprint": [
+          "孙子算经",
+          "特定的问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "技巧的不通用",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "锚内反例：三轮车与汽车（20辆65轮）无法套用脚数除2的套路（65不被3或4整除）；本讲开头题海战术引入：题做多自然会的路径，题目稍改又不会"
+    },
+    {
+      "claim_id": "C-SX-U0014-02",
+      "unit_id": "SX-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "中国古代数学论著给具体解法而非系统方法，再多解法也难穷尽问题",
+      "quote": "都是一个个具体问题的解法",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1456,
+        "end_line": 1459,
+        "sha1": "e05a0bee2f73d40c203c87906054c97be70506e1",
+        "fingerprint": [
+          "系统的方法",
+          "穷尽"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "解法与系统方法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与欧洲、阿拉伯数学对比的判断；深化见 C-SX-U0014-07（具体难题 vs 创造工具）"
+    },
+    {
+      "claim_id": "C-SX-U0014-03",
+      "unit_id": "SX-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "美国小学教列表笨办法：很笨但通用，能解一个就能解很多，不至无从下手",
+      "quote": "是很通用的工具",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1495,
+        "end_line": 1510,
+        "sha1": "cc0a5dcfa63188e708f78c7dff2d218455776056",
+        "fingerprint": [
+          "列表",
+          "通用的工具"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "笨但通用的工具",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：美国小学不教技巧解法，用列表试遍（兔≤24只往下试）；整数解二元一次方程都能解；附带收益：列表中感受数字变化趋势，知道从大约多少开始试；对照：中国教的聪明办法与具体问题有关，普通孩子不易举一反三，家长总怪孩子笨"
+    },
+    {
+      "claim_id": "C-SX-U0014-04",
+      "unit_id": "SX-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "方程是有一整套逻辑解法的工具，掌握一个解法可解成千上万的问题",
+      "quote": "这才是学习数学的正道",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1541,
+        "end_line": 1545,
+        "sha1": "be56d288f3b69f0ea86d050336cd9b8c272bc080",
+        "fingerprint": [
+          "工具",
+          "正道"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "工具化的正道",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：鸡兔同笼/汽车三轮车/鸡蛋三题在方程下分分钟解出；吴军定位：方程让脑子想不清的问题变直观简单；正道=掌握工具而非做更多的题"
+    },
+    {
+      "claim_id": "C-SX-U0014-05",
+      "unit_id": "SX-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "做应用题的核心是把自然语言问题翻译成数学语言——人就是翻译器",
+      "quote": "人的作用其实相当于一种翻译器",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1546,
+        "end_line": 1553,
+        "sha1": "07bce1fd28527655be28eee28c3bd842c15bd5d3",
+        "fingerprint": [
+          "翻译",
+          "自然语言"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "人是翻译器",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：学数学物理关键不在刷多少题，而在理解工具的作用+学会用数学语言表达生活问题，剩下的交给工具；呼应 C-SX-U0013-06 看趋势、C-SX-U0009-6 记住方法"
+    },
+    {
+      "claim_id": "C-SX-U0014-06",
+      "unit_id": "SX-U0014",
+      "speaker": "转述·第三方",
+      "claim_text": "张首晟：老一辈理论物理学家少轰动论文，因数学工具不如新生代",
+      "quote": "他们的数学工具不够先进",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1554,
+        "end_line": 1560,
+        "sha1": "7c352c1fec6154bee92c33d88f8b919befe53850",
+        "fingerprint": [
+          "张首晟",
+          "数学工具"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "工具决定上限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：张首晟教授（吴军当面请教）；锚内吴军延伸：掌握中学工具后小学难题变容易、掌握微积分后中学难题不值一提——工欲善其事必先利其器"
+    },
+    {
+      "claim_id": "C-SX-U0014-07",
+      "unit_id": "SX-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "学会把具体问题抽象成模型才能解更多新问题——读花拉子密一本顶万卷",
+      "quote": "把具体问题抽象成模型",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1561,
+        "end_line": 1569,
+        "sha1": "f51e04db3ae4c8c24a777c4c622371f8e67b4736",
+        "fingerprint": [
+          "花拉子密",
+          "抽象成模型"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "抽象成模型",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内：花拉子密《代数学》系统论述一次/二次方程，读一本一大堆问题都会做；只涉具体问题的书读书破万卷遇新题仍无解；与 C-SX-U0014-02（中国数学缺陷）互为表里"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第11讲），方程工具论主线抽7卡；鸡兔同笼/三轮车/鸡蛋三题的具体演算（原书1428-1443、1460-1481行）为解题过程不入卡，作为各卡例证；要点总结为C3/C5复述不另立卡"
+}

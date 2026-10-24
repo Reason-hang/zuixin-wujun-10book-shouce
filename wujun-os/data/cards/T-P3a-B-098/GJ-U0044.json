@@ -1,0 +1,329 @@
+{
+ "unit_id": "GJ-U0044",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0044-01",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "失去的朋友分三类：命运安排的疏远、交友不慎的假朋友、没处理好的关系；能做的是避免深交假朋友、经营好第三类",
+   "quote": "避免深交第二类人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1904,
+    "end_line": 1904,
+    "sha1": "f1d9ccb2fbbdcd4b5ab63ffc03a8fe073203a94f",
+    "fingerprint": [
+     "三类",
+     "假朋友",
+     "怅然"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "失去朋友三类",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "日常沟通极限百十来人的量化在锚内；第一类不遗憾、第二类不可惜、第三类怅然的情感分层在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-02",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "朋友关系分合作型、依靠型、暧昧型，对不同类型的期望值应不同；设错期望值是失去朋友的原因",
+   "quote": "设置错了期望值",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1906,
+    "end_line": 1906,
+    "sha1": "71cf231a1a8f33cbe46bb4f88b9d07a0cdc90555",
+    "fingerprint": [
+     "合作型",
+     "依靠型",
+     "期望值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "朋友关系三类型",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "本单元分类框架；暧昧型不展开（锚内声明）。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-03",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "付出和合作是合作型朋友关系的基础：放弃私心、牺牲局部利益、谋求最大的共同利益",
+   "quote": "付出和合作是这类朋友关系的基础",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1910,
+    "end_line": 1910,
+    "sha1": "fe29d6afd6ff6b2219da83e6e4aa4e7d5f139013",
+    "fingerprint": [
+     "合作",
+     "私心",
+     "共同利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "合作型基础",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "人类靠合作在与自然/其他人种/部族竞争中胜出的论证在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-04",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "任何带合作色彩的朋友关系都会因利益受损：重大利益面前不讲情面是人性的弱点",
+   "quote": "损人利己是人性的弱点",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1918,
+    "end_line": 1918,
+    "sha1": "9b5381759897542fc8ff8f3a80ea00b62858d6bb",
+    "fingerprint": [
+     "利益",
+     "人性的弱点",
+     "情面"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "利益损害朋友关系",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "三创始人共事10年认识20年、上市前撕破脸扫地出门的案例（1914 行）、中国私企上市不撕是凤毛麟角/脸书靠撕获控股权（1916 行）为例证；“共患难易共富贵难本来就是人的本性、做事前把利益分配讲清楚”在 1926 行；道德价值观约束强则关系长久在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-05",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "避免合作破裂方法一：丑话说在前面、先谈利益；谈利益不可耻，以谈利益伤感情为由坑人才可耻",
+   "quote": "谈利益不是一件可耻的事情",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1922,
+    "end_line": 1922,
+    "sha1": "89322881734e27f16b140f933516ec4bffb71767",
+    "fingerprint": [
+     "丑话说在前面",
+     "股权",
+     "隐患"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "丑话说在前面",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "出于情怀不好意思谈股权、随意承诺股权埋下隐患（锚内）；做朋友要坚持原则、给对方清晰预期（1926 行）；谷歌递简历先打预防针的实践（1946 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-06",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "脸书创始团队教训：在公司拥有巨大财富要盯紧钱包防被算计；坑害合伙人会给公司植入有毒基因",
+   "quote": "给公司植入了有毒的基因",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1924,
+    "end_line": 1924,
+    "sha1": "f3643aa8bb22b502ed6b37f0e5265ddecee8ef24",
+    "fingerprint": [
+     "扎克伯格",
+     "稀释",
+     "钱包"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "盯紧钱包",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：扎克伯格稀释早期合作者股份（细节见《社交网络》）、之后投资人不断挑战逼其退出；机理=先保护自身权益+失信的长期代价。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-07",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "避免合作破裂方法二：不跨维度帮忙——合作关系有维度，队友不宜一起做生意，不做亲友生意不代管钱财",
+   "quote": "不要跨维度地帮忙",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1928,
+    "end_line": 1930,
+    "sha1": "2a121d7b0738647c4b983126c696870175d061c7",
+    "fingerprint": [
+     "维度",
+     "队友",
+     "钱财"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "不跨维度帮忙",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "吴军拒绝管钱的标准话术“我不想失去你这个朋友”（1930 行）；轻易许诺做不到的事也属跨维度帮忙、坑了对方（1944 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-08",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "借钱要量力；借小钱要立规矩：两三天内转账、超时不追讨也不计较，显示说一不二的原则",
+   "quote": "最好两三天就转账给我",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1936,
+    "end_line": 1940,
+    "sha1": "82c8db060571856a28a61a83418298fb3840eb07",
+    "fingerprint": [
+     "借钱",
+     "不好意思",
+     "说一不二"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "借钱立规矩",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "借出金额以不影响自己生活为限（1936 行）；200元反复不还毁掉友谊的过程（1938 行）；超时还的钱坚决不要、对方以后办事知道不好糊弄（1940 行）；欧美朋友大额借贷走银行/信用卡且有合同见证的对照（1932 行）、中国只打借条致纠纷多（1934 行）并入。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-09",
+   "unit_id": "GJ-U0044",
+   "speaker": "转述·第三方",
+   "claim_text": "莎士比亚：不要借钱给朋友——你不仅可能失去本金，也可能失去朋友",
+   "quote": "不要借钱给朋友",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1942,
+    "end_line": 1942,
+    "sha1": "d0cd845d7c12b9d5cd725b52b7b3f91c67f3dfa8",
+    "fingerprint": [
+     "莎士比亚",
+     "本金",
+     "跨维度"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "不要借钱给朋友",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=莎士比亚（吴军引）；吴军本人的借钱规矩见 C-GJ-U0044-08（R1 两卡并存互引）；根源=跨维度帮助（锚内）。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-10",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "所谓纯粹、毫不功利的友谊本身就是一种功利；人与人的关系在某种程度上是彼此依赖",
+   "quote": "就是一种功利",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1952,
+    "end_line": 1952,
+    "sha1": "d3f92e36a5e7aee95c76bef4b6b7f2165b2293d8",
+    "fingerprint": [
+     "纯粹",
+     "功利",
+     "依赖"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "纯粹友谊也是功利",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "吴军对“纯粹友谊”的反直觉判断（“否则你不会把它说给我听”）；尼采孤独论的转述见 C-GJ-U0044-11。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-11",
+   "unit_id": "GJ-U0044",
+   "speaker": "转述·第三方",
+   "claim_text": "尼采：除了神灵、野兽和哲学家，人都忍受不了孤独；摆脱孤独产生对朋友的依赖需求",
+   "quote": "忍受不了孤独",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1952,
+    "end_line": 1952,
+    "sha1": "d3f92e36a5e7aee95c76bef4b6b7f2165b2293d8",
+    "fingerprint": [
+     "尼采",
+     "孤独",
+     "神灵"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "孤独与依赖",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=尼采（吴军引）；吴军本人判断（纯粹友谊也是依赖）见 C-GJ-U0044-10。"
+  },
+  {
+   "claim_id": "C-GJ-U0044-12",
+   "unit_id": "GJ-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "依靠型关系必须平等：地位不平等会让朋友疏远，一方示好也难持久；下嫁需放弃过去全部生活",
+   "quote": "都需要平等地对待对方",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1962,
+    "end_line": 1962,
+    "sha1": "559436f80d7b1bae955b610ce38f9a2ab107811a",
+    "fingerprint": [
+     "平等",
+     "下嫁",
+     "闺蜜"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "依赖关系需平等",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "留美女生照顾后因家境/男友/就业前景差异疏远（1958 行）、《早安巴比伦》兄弟因难产丧妻不再平等致悲剧（1960 行）、加拿大闺蜜因经济不平等少来往+条件好一方降低生活水平才能维持（锚内）、私立学校校服让不同背景孩子平等（锚内）为例证。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "避免失去朋友主题 12 张：分类/期望值/合作基础/利益人性/丑话在前/脸书E3/跨维度/借钱规矩/莎士比亚转述/纯粹友谊/尼采转述/平等"
+}

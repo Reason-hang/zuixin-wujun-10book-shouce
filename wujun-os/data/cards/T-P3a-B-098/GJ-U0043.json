@@ -1,0 +1,210 @@
+{
+ "unit_id": "GJ-U0043",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0043-01",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "可复制的成功靠系统方法：搞清做事的极限、起点（基线）与从起点通向边界的道路",
+   "quote": "搞清楚做事的边界或者极限",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1845,
+    "end_line": 1845,
+    "sha1": "36737a272e5aa568ea7a2e1241c333340dcdb29e",
+    "fingerprint": [
+     "可复制的成功",
+     "方法论",
+     "极限"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "三条边总纲",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三条边=基线、极限、连接路径（与 D04-3 口径核实一致）；偶尔做成靠运气 vs 系统方法在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0043-02",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "做事最有效的办法是先提高基线：通过学习到地平线水平，而不是从地下三层自己琢磨",
+   "quote": "先将自己的基线提高",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1849,
+    "end_line": 1849,
+    "sha1": "e426606e6c7bf7a3d5bd54c6f7146646f600e4c3",
+    "fingerprint": [
+     "基线",
+     "地下三层",
+     "地平线"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "先提高基线",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "民间发明家造小飞机/电动汽车基线在地下三层、蛮干胡干传递错误信息（1847 行）；专家常识 vs 他人新知（1855 行）、散户交学费不如受教育进正规机构（1857 行）、接受教育目的就是提高基线/不主张低基线退学创业（1859 行）均为应用例证并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0043-03",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "理论极限无法突破（光速、绝对零度、能量守恒）；专业人士与业余的差别在是否了解极限存在",
+   "quote": "是否了解极限的存在",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1861,
+    "end_line": 1863,
+    "sha1": "2beb53f766edc26769d789fddc028090f095d1db",
+    "fingerprint": [
+     "理论极限",
+     "光速",
+     "专业人士"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "极限意识",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "卡诺定理限定蒸汽机效率上限、不懂者追求达不到的效率（1865 行）为例证。"
+  },
+  {
+   "claim_id": "C-GJ-U0043-04",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "计算机有三个极限（图灵机、原子尺寸、冯诺依曼结构）；声称突破它们即可判定伪科学",
+   "quote": "是否声称突破了这三个极限",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1869,
+    "end_line": 1869,
+    "sha1": "e7ab436831d485737a016f0fdaa8bea0c58351b4",
+    "fingerprint": [
+     "图灵机",
+     "量子计算",
+     "伪科学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D04-2"
+   ],
+   "concept_key": "计算机三极限",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "量子计算提速百万倍也未突破三极限的判断在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0043-05",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "有基线和极限还不够，还要有向上攀登的绳索（连接路径）；专业人士做的就是编织绳索",
+   "quote": "扶着向上攀登的绳索",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1871,
+    "end_line": 1877,
+    "sha1": "b23d65faa9192fa8627cb1f7447802f54b557f15",
+    "fingerprint": [
+     "绳索",
+     "鸟巢",
+     "基线"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "连接路径",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "鸟巢案例：早建20年全世界做不到（基线太低）、总工程师李久林从勘察/设计/施工/管理建立一整套可行方案=编织绳索（1873-1875 行）；这种思维方式普遍适用（1877 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0043-06",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "L君融资：认清欠缺基线后补足它，通道之外一律回绝，把过去的天花板变成新的基础",
+   "quote": "把过去的天花板变成了后来的基础",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1883,
+    "end_line": 1887,
+    "sha1": "45a56e213d4da9468edc7ab0d12521824cb381c6",
+    "fingerprint": [
+     "基线",
+     "通道",
+     "天花板"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "编织绳索L君案例",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：机理=三条边齐全（泰斗指出名气是基础但缺管资金的基线 1883 行；台阶=行动步骤、通道外无论多大承诺都不理会 1885 行；从工业界而非金融界融资、聚集年轻人做项目、可复制的经验 1887 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0043-07",
+   "unit_id": "GJ-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "工程化=用可循、相对固定的方法解决未知问题；缺上下两线是蛮干，缺第三条线是纸上谈兵",
+   "quote": "永远只能纸上谈兵",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1889,
+    "end_line": 1895,
+    "sha1": "6daa2c1e9d1102e70c78852c3e3bf83e5513c451",
+    "fingerprint": [
+     "工程化",
+     "三条线",
+     "蛮干"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "工程化三条线",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "单元落点口诀；专业人士有训练、知上下两线、缺的只是第三条斜线（1891-1893 行）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "三条边主题 7 张：总纲/基线/极限/计算机三极限/连接路径/L君E3案例/工程化口诀"
+}

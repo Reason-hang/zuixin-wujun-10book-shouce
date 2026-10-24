@@ -1,0 +1,144 @@
+{
+ "unit_id": "GJ-U0025",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0025-01",
+   "unit_id": "GJ-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "好公司分三种：对员工好、对顾客好、对投资人好；能在一方做好、另两方不太差就已不错",
+   "quote": "对员工好，对顾客好",
+   "anchor": {
+    "start_line": 1005,
+    "end_line": 1005,
+    "fingerprint": [
+     "好公司",
+     "投资人"
+    ],
+    "sha1": "674652b0384f21735571d2904a6c02bd107ed52c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "三种好公司",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "分类总起；员工优先如星巴克/谷歌/腾讯/基因泰克，顾客优先如亚马逊/阿里/运通，投资人优先如巴菲特的现金奶牛（IBM/英特尔/苹果），例证分别见 1021-1031 行"
+  },
+  {
+   "claim_id": "C-GJ-U0025-02",
+   "unit_id": "GJ-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "员工、消费者、投资人三方利益常无法兼得：市场饱和后近乎零和，公司最终必须选一方利益优先",
+   "quote": "近乎一个零和游戏",
+   "anchor": {
+    "start_line": 1019,
+    "end_line": 1019,
+    "fingerprint": [
+     "零和游戏",
+     "郭士纳"
+    ],
+    "sha1": "2e05bfc84a832cf8161e74881bf6f91cdc8c51f3",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "三方利益零和",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "IBM 例证：小沃森时期三方都好，80年代停滞起顾不上员工，郭士纳靠省人员成本增利；行业快速发展蛋糕大时看似能兼顾；不论选哪方优先都有好公司和坏公司"
+  },
+  {
+   "claim_id": "C-GJ-U0025-03",
+   "unit_id": "GJ-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "试图同时讨好三方如水中捞月缘木求鱼，最后反而成哪方都照顾不好的坏典型",
+   "quote": "水中捞月、缘木求鱼",
+   "anchor": {
+    "start_line": 1039,
+    "end_line": 1039,
+    "fingerprint": [
+     "讨好三方",
+     "坏典型"
+    ],
+    "sha1": "5b0bd4fc75a3a50c75d04a57cc5cb153bc152f86",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "不可三方讨好",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "星巴克员工优先（临时工有医保）但对顾客不友好、对特朗普支持者表态，仍不妨碍是好公司——本论断的专名例证；对三方都不好的公司（期权行权价币种套路例）难以持久"
+  },
+  {
+   "claim_id": "C-GJ-U0025-04",
+   "unit_id": "GJ-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "职场做人同理：很难让领导、同事下属、公司三方都满意，有效生存之道是按特长保住一头",
+   "quote": "根据我们的特长保住一头",
+   "anchor": {
+    "start_line": 1041,
+    "end_line": 1043,
+    "fingerprint": [
+     "生存之道",
+     "特长"
+    ],
+    "sha1": "b70dd9abe9616a9b079e644ac676fbbba55bb91f",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-1"
+   ],
+   "concept_key": "职场保一头",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "保一头不等于损害其他两方；三种选择各自的安全机制见 1045-1047 行（公司缺不了他/领导罩着但倒台即失/同事下属锁定地位）"
+  },
+  {
+   "claim_id": "C-GJ-U0025-05",
+   "unit_id": "GJ-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "看到并发挥自己的特长，才是职场立于不败之地的法则；脚踩三只船最后只能掉水里",
+   "quote": "立于不败之地的不二法则",
+   "anchor": {
+    "start_line": 1049,
+    "end_line": 1049,
+    "fingerprint": [
+     "特长",
+     "三只船"
+    ],
+    "sha1": "1d535d49d2055163165bde272cd188a5b7f59670",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "发挥特长立身",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "章末收束判断，与 C-GJ-U0025-04 配套"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0025",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "美联航2018年拖拽乘客事件及媒体三种评论属具体公司事件/时效性内容，仅作引出三方利益问题的引子，不抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "三种好公司与职场保一头均为吴军本人判断入主干；美联航拖拽事件为具体公司事件登记 X 处置；托尔斯泰句为修辞引子不作转述卡（见批末模糊点）"
+}

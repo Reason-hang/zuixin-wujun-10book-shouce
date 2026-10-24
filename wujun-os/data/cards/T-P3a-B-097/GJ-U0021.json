@@ -1,0 +1,189 @@
+{
+ "unit_id": "GJ-U0021",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0021-01",
+   "unit_id": "GJ-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "幸福生活才是目的，个人成功只是途径和手段；为挣钱出名偏离幸福目标不会幸福",
+   "quote": "途径和手段",
+   "anchor": {
+    "start_line": 854,
+    "end_line": 854,
+    "fingerprint": [
+     "幸福生活",
+     "目的"
+    ],
+    "sha1": "684cbcfe2619cca1db65ce8e92554aafd25905ad",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福是目的成功是手段",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "与见识《幸福是目的，成功是手段》同源论断；全章总起"
+  },
+  {
+   "claim_id": "C-GJ-U0021-02",
+   "unit_id": "GJ-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "中彩票者通常10年内回到原有生活；靠劳动获得财富的人更幸福，因为懂得善用钱财",
+   "quote": "回到原有的生活",
+   "anchor": {
+    "start_line": 856,
+    "end_line": 856,
+    "fingerprint": [
+     "彩票",
+     "善用钱财"
+    ],
+    "sha1": "40b5d360efd30c7aac9bcf6990473e7f089f678a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-1"
+   ],
+   "concept_key": "劳动之财比横财幸福",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "彩票群体与幸福群体鲜有交集的归纳；财富观维度与 D09-1 相邻"
+  },
+  {
+   "claim_id": "C-GJ-U0021-03",
+   "unit_id": "GJ-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "只有财富未必幸福：首富盖蒂家族后代抑郁自杀、吸毒、身败名裂，金钱缺了别的要素反成灾难",
+   "quote": "货真价实的真金白银",
+   "anchor": {
+    "start_line": 858,
+    "end_line": 858,
+    "fingerprint": [
+     "盖蒂",
+     "魔咒"
+    ],
+    "sha1": "d68528b498dcf281d776c57a4891954f9bc7d198",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-1"
+   ],
+   "concept_key": "盖蒂家族的魔咒",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理（财富无善用能力即灾难，R3 独立成卡）；盖茨巴菲特因此决定不留太多钱给孩子；后代目标非自己定的机理见 C-GJ-U0021-07"
+  },
+  {
+   "claim_id": "C-GJ-U0021-04",
+   "unit_id": "GJ-U0021",
+   "speaker": "转述·第三方",
+   "claim_text": "比特纳《蓝色地带》：三种幸福人生——哥斯达黎加愉快式、丹麦目的式、新加坡自豪式",
+   "quote": "三种幸福人生",
+   "anchor": {
+    "start_line": 864,
+    "end_line": 864,
+    "fingerprint": [
+     "愉快式",
+     "自豪式"
+    ],
+    "sha1": "62c251ff170a1c291a33bda138ff11b721fc4a59",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "三种幸福人生",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：丹·比特纳《蓝色地带》（15年走访研究，R1 转述卡）；吴军评述：自豪式或更适合中国人，新加坡「省心=努力有回报」的确定性是幸福感来源（870 行），支撑 C-GJ-U0021-06 条件二"
+  },
+  {
+   "claim_id": "C-GJ-U0021-05",
+   "unit_id": "GJ-U0021",
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：真正的幸福来自生活的意义，丹麦人是这种幸福的实践者",
+   "quote": "真正的幸福来自生活的意义",
+   "anchor": {
+    "start_line": 868,
+    "end_line": 868,
+    "fingerprint": [
+     "亚里士多德",
+     "丹麦人"
+    ],
+    "sha1": "cf7bc7248f47ab3f9cb1a862e351704e6c123005",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-4"
+   ],
+   "concept_key": "幸福来自生活的意义",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：亚里士多德（吴军在比特纳语境中转述，R1 转述卡）；哲学维度与 D01-4 相邻"
+  },
+  {
+   "claim_id": "C-GJ-U0021-06",
+   "unit_id": "GJ-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "幸福需要4个条件：基本物质保障、不确定性小且努力有结果、能追求梦想、人生目标与环境价值观匹配",
+   "quote": "需要4个基本条件",
+   "anchor": {
+    "start_line": 872,
+    "end_line": 880,
+    "fingerprint": [
+     "物质保障",
+     "价值观匹配"
+    ],
+    "sha1": "1a202d5c6a033f226ee271b69d6bf7c8921b00e9",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福四条件",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "清单式一卡（R3）；环境维度：省心的基础新加坡靠法律、哥斯达黎加靠默契、丹麦靠国民素养（882 行）附此"
+  },
+  {
+   "claim_id": "C-GJ-U0021-07",
+   "unit_id": "GJ-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "幸福更多靠自己把控：目标（purpose）自己定，路上艰辛也是愉悦（pleasure），达成后有自豪感（pride）",
+   "quote": "脚踏实地的梦想",
+   "anchor": {
+    "start_line": 884,
+    "end_line": 884,
+    "fingerprint": [
+     "purpose",
+     "pride"
+    ],
+    "sha1": "a28a6d4298ce8cf4b59b9c016b0bee1ba974f870",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福的3P",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "3P 框架；盖蒂后代目标由父规划、违背遗嘱变卖家产反获自由（886 行）为目标须自定的反面例证，与 C-GJ-U0021-03 互引"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "幸福定义、四条件、3P 框架均入主干；盖蒂家族为专名案例抽 E3；《蓝色地带》与亚里士多德为转述卡；无 X 处置"
+}

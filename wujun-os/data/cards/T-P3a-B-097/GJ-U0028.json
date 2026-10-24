@@ -1,0 +1,162 @@
+{
+ "unit_id": "GJ-U0028",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0028-01",
+   "unit_id": "GJ-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "做空损失理论上无穷大（做多最多亏本金），故做空者慎之又慎：只攻击有致命弱点的公司，不做空基础好的公司",
+   "quote": "损失可以无穷大",
+   "anchor": {
+    "start_line": 1184,
+    "end_line": 1186,
+    "fingerprint": [
+     "做空",
+     "无穷大"
+    ],
+    "sha1": "1f8df459d010cd047b4ed430f5fa2ec8735d97f4",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "做空风险无穷大",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "源自《见识》巴菲特智慧；做空机制（借股高位卖出低位买回归还）的科普解释附此（1180-1182 行）不入卡"
+  },
+  {
+   "claim_id": "C-GJ-U0028-02",
+   "unit_id": "GJ-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "浑水做空东方纸业三板斧：蹲点取证（收入夸大27倍）、唱衰报告+做空平仓、集体诉讼，股价暴跌90%再未涨回",
+   "quote": "收入夸大了27倍",
+   "anchor": {
+    "start_line": 1190,
+    "end_line": 1190,
+    "fingerprint": [
+     "浑水",
+     "东方纸业"
+    ],
+    "sha1": "2f600257bade2fda7127219809f0d77a165c303a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "浑水三板斧",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理（财务不透明的公司必被盯上，R3）；香橼莱福特一人公司唱衰十几家中国公司同机理；做空者如腐食者专攻有致命弱点者，不做空牛气冲天的股票（1186 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0028-03",
+   "unit_id": "GJ-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "集体诉讼律师也是腐食者：强健公司（高盛付百亿和解仍第一投行）诉讼不伤筋动骨，财务不稳健者一蹶不振",
+   "quote": "一蹶不振",
+   "anchor": {
+    "start_line": 1204,
+    "end_line": 1206,
+    "fingerprint": [
+     "集体诉讼",
+     "高盛"
+    ],
+    "sha1": "2451b41b71371a793691c97fd450510957a85229",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "诉讼腐食者",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "高盛专名案例+可迁移机理（腐食者考验机体健康度，R3）；美国律所预支费用胜诉分高额赔偿的机制"
+  },
+  {
+   "claim_id": "C-GJ-U0028-04",
+   "unit_id": "GJ-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "做空机构对问题企业起揭露威慑作用，对股市健康利大于弊：美国允许裸空，退市多恰是股市健康的表现",
+   "quote": "利大于弊",
+   "anchor": {
+    "start_line": 1212,
+    "end_line": 1214,
+    "fingerprint": [
+     "裸空",
+     "退市"
+    ],
+    "sha1": "5c90bf1df62c00dd168d7fdec99a1155c7a49e13",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "做空的净化作用",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "《华尔街日报》数据：1996年7322家→2017年3671家；配套判断：中国股市缺透明度难靠监管解决，最好允许做空机构用自然法则解决（1216 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0028-05",
+   "unit_id": "GJ-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "社会需要腐食者：他们的存在督促机构和个体变得更健康，行将就木者把资源还给社会利于整体",
+   "quote": "让我们变得更好",
+   "anchor": {
+    "start_line": 1218,
+    "end_line": 1218,
+    "fingerprint": [
+     "腐食者",
+     "督促"
+    ],
+    "sha1": "b9886df81b7adf010dbaf950c498c02c256c8feb",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "腐食者的净化功能",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "庄子「人皆喜生恶死」为吴军引用的语境（1210 行，工具型引用不单列）；章首「需要腐食者同时防范他们」（1164 行）为系列总起"
+  },
+  {
+   "claim_id": "C-GJ-U0028-06",
+   "unit_id": "GJ-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "墙倒众人推、落井下石的「众人」也是某种意义上的腐食者，我们自己有时不知不觉扮演这个角色",
+   "quote": "落井下石",
+   "anchor": {
+    "start_line": 1220,
+    "end_line": 1220,
+    "fingerprint": [
+     "墙倒众人推",
+     "腐食者"
+    ],
+    "sha1": "d7b402d40c13f38287b80079cc01c47ade15fcfd",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "人人皆可成腐食者",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "承上启下：下一单元谈如何避免成为被盯上的对象；与 C-GJ-U0029-01 互引"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "腐食者作用系列（一）：做空风险、浑水香橼、集体诉讼律师、社会功能均入主干；自然界腐食者三特征为类比铺垫并入 notes 不单独成卡"
+}

@@ -1,0 +1,230 @@
+{
+  "unit_id": "SX-U0008",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0008-01",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "纯数学突破极难，但有了理论后用它做有意义的事容易得多",
+      "quote": "使用它做有意义的事情",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 721,
+        "end_line": 725,
+        "sha1": "176607958becb75f39b660dc6218fc5bebc8b323",
+        "fingerprint": [
+          "纯粹数学",
+          "比特币"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "理论易用难创",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "怀尔斯10岁立志、努力30年、证明长200页；锚内例证：比特币是理论易用的好例子；notes例证：费马大定理证明过程催生椭圆方程研究，区块链椭圆加密、比特币皆为其应用（谷山丰理论奠基，怀尔斯之后泰勒继续发展）"
+    },
+    {
+      "claim_id": "C-SX-U0008-02",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "数学是世界上最严密的知识体系，任何推导不能有丝毫纰漏",
+      "quote": "世界上最严密的知识体系",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 726,
+        "end_line": 729,
+        "sha1": "fac25aefa501d688c40aea980cec8a8c2feed117",
+        "fingerprint": [
+          "严密",
+          "纰漏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "最严密的知识体系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "怀尔斯170页证明被查出小漏洞、险些颠覆全部工作，补漏又耗时近一年（请泰勒合作）；与 C-SX-U0005-05（定理即基石）呼应：那张讲为何必须无例外，本卡讲严密性的过程体会"
+    },
+    {
+      "claim_id": "C-SX-U0008-03",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "数学在一个个定理基础上搭建，今天成就为明天奠基，获可叠加的进步",
+      "quote": "可叠加的进步",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 730,
+        "end_line": 732,
+        "sha1": "d5887c8ed7007c4a77aee7b7d7325de994a9a819",
+        "fingerprint": [
+          "定理",
+          "可叠加"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学的可叠加进步",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "毕达哥拉斯定理（平方情形）→费马大定理（N次方推广）→希尔伯特第十问题（任意多项式）即此叠加链；注意与 D05-2“做事的可叠加进步”区分，本卡指数学知识体系自身特性"
+    },
+    {
+      "claim_id": "C-SX-U0008-04",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "第十问题表明数学方法可能无法判断某些问题答案是否存在，是数学硬边界",
+      "quote": "为数学划定了一个明确的边界",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 747,
+        "end_line": 756,
+        "sha1": "e8f8b9d72a39cf980eb84b28b7029c3655ee49cf",
+        "fingerprint": [
+          "第十问题",
+          "边界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学的硬边界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对任意多项式方程能否在有限步内判定有解——1970年马季亚谢维奇证明此类问题不可解（史实）；隐含认识论问题：已解决的数学问题只是一小部分；此边界也涉及计算机所能处理问题的边界"
+    },
+    {
+      "claim_id": "C-SX-U0008-05",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "很多问题没有解析解，工程上可用近似数值解解决，认清这点方法即变",
+      "quote": "近似的数值解",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 768,
+        "end_line": 773,
+        "sha1": "80ec387a48bdc48c28accc77e9c2bee8567ef77a",
+        "fingerprint": [
+          "解析解",
+          "实际问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D04-1"
+      ],
+      "concept_key": "解析解与近似解",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第十问题扑灭了找解析解的希望，但让人类老老实实在边界内做事；工程方法论转折点"
+    },
+    {
+      "claim_id": "C-SX-U0008-06",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "美苏解非线性方程两条路：苏联硬求解析解，美国靠计算机求近似解更好",
+      "quote": "美国似乎更好些",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 774,
+        "end_line": 783,
+        "sha1": "ca747bba3a904e6107d16df98f0c34d6c1b338a1",
+        "fingerprint": [
+          "非线性",
+          "解析解"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-3",
+        "D04-2"
+      ],
+      "concept_key": "算力换难度的路线选择",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：苏联数学强计算机弱→下硬功夫求解析解；美国数学家人少但计算机先进→把非线性拆成大量简单线性计算求工程可接受近似解；机理=用算力和简化换数学难度"
+    },
+    {
+      "claim_id": "C-SX-U0008-07",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "数学的边界是硬边界不可逾越，但不是解决问题的边界——还有其他方法",
+      "quote": "这是一个硬的边界",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 789,
+        "end_line": 791,
+        "sha1": "ffbc1e3f57899bced406dbe1717719e76a6474e0",
+        "fingerprint": [
+          "硬的边界",
+          "其他方法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学边界≠解决边界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本讲要点总结：世上除数学方法外还有其他方法；呼应 D04-2“计算机不是万能”主题"
+    },
+    {
+      "claim_id": "C-SX-U0008-08",
+      "unit_id": "SX-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "纯数学除运气外比拼智力，人要根据自己的特长选择做事（非宿命论）",
+      "quote": "根据自己的特长",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 764,
+        "end_line": 766,
+        "sha1": "924a37e09306c920b61631ff4edf096b5c0ebd3e",
+        "fingerprint": [
+          "智力",
+          "特长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D02-1"
+      ],
+      "concept_key": "按特长选择做事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：朱莉娅·罗宾逊（美国科学院第一位女院士）终差几步，马季亚谢维奇大学毕业后一年解决第十问题"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第05讲），数学边界主线+三点体会抽8卡；费马大定理/怀尔斯证明过程的史实叙事（原书664-719行）为数学史（X4倾向），仅留吴军三点体会与边界判断，史实细节并入C1/C2 notes"
+}

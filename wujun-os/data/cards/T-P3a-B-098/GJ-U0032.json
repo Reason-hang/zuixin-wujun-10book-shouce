@@ -1,0 +1,142 @@
+{
+ "unit_id": "GJ-U0032",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0032-01",
+   "unit_id": "GJ-U0032",
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特选公司的原则是对投资人好：稳定发股息、有多余现金回购股票、不断提高利润率",
+   "quote": "对投资人好",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1400,
+    "end_line": 1408,
+    "sha1": "e08ba255c55d1f29ecd532678908a499fec2e7f7",
+    "fingerprint": [
+     "股息",
+     "回购股票",
+     "利润率"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "对投资人好的公司",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=巴菲特（吴军转述）；原则句“公司要对投资人好”在 1398 行（锚外上游），三标准清单在 1402-1408；苹果/IBM/高通/网易为专名例证并入本卡不独立（R3）；吴军本人对人的迁移判断见 C-GJ-U0032-02。"
+  },
+  {
+   "claim_id": "C-GJ-U0032-02",
+   "unit_id": "GJ-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "交友与择偶应找对自己好的、帮助过你的人，而非自己单方面喜欢的人",
+   "quote": "帮助过你的人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1414,
+    "end_line": 1418,
+    "sha1": "4a4d47e956320e79f96d13ce04dcac0ac83519f8",
+    "fingerprint": [
+     "帮助过你的人",
+     "终身受益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "找帮助过你的人",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "吴军将巴菲特选股方法迁移到识人（1414 行明示）；富兰克林原话转述见 C-GJ-U0032-03；了解人时间成本高、找到后格外珍惜（1418 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0032-03",
+   "unit_id": "GJ-U0032",
+   "speaker": "转述·第三方",
+   "claim_text": "一个帮助过你的人，比一个你帮助过的人更愿意帮助你",
+   "quote": "更愿意帮助你",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1416,
+    "end_line": 1416,
+    "sha1": "fd93298a60eb9650dd7db2af6d47722ef6c9b846",
+    "fingerprint": [
+     "富兰克林",
+     "帮助过你的人"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "帮助过你的人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=本杰明·富兰克林；吴军本人概括（在任何关系中要找这种人）见 C-GJ-U0032-02（R1 两卡并存互引）。"
+  },
+  {
+   "claim_id": "C-GJ-U0032-04",
+   "unit_id": "GJ-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "选工作单位应把对自己好、能帮助自己长期成长的放首位，而非图一时薪水或热门",
+   "quote": "对自己好、能帮助自己成长",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1420,
+    "end_line": 1420,
+    "sha1": "4a8b165a3d7dff13aef66220fde2c8ddc4f91dc0",
+    "fingerprint": [
+     "工作单位",
+     "薪水",
+     "长期发展"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "择司如择股",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "第一份工资多 20% vs 长期发展的对比与烟头类比并入本卡；跳槽同理（1422 行起）。"
+  },
+  {
+   "claim_id": "C-GJ-U0032-05",
+   "unit_id": "GJ-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "所谓命好命坏的差别，起主导作用的是判断价值的方法",
+   "quote": "判断价值的方法",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1422,
+    "end_line": 1422,
+    "sha1": "9a4137cc77fbf17554e94754ec39003a65d934d9",
+    "fingerprint": [
+     "命不太好",
+     "判断价值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "命与判断价值",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "几次看走眼失去判断力是方法错而非智力不够（同行）；贵人相助/对周围人好的对比为例证。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "巴菲特选股标准转述+吴军本人迁移到交友/择业/命运观，抽卡 5 张"
+}

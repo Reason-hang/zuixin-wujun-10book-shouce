@@ -1,0 +1,68 @@
+{
+ "unit_id": "GJ-U0063",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0063-01",
+   "unit_id": "GJ-U0063",
+   "speaker": "吴军本人",
+   "claim_text": "静心读书、独立思考、努力向上的原动力，是中国40多年高速发展的根本原因",
+   "quote": "高速发展的根本原因",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2937,
+    "end_line": 2937,
+    "sha1": "4b36173a11844e44ec1b284c89c688580b20d4ec",
+    "fingerprint": [
+     "得到",
+     "独立思考",
+     "原动力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "向上的原动力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "致读者信中对 3000 万「得到」读者的定性：普遍追求短期利益的社会中能静心读书、虚心求知；与 C-GJ-U0055-07 劳动改变命运的原动力互文。"
+  },
+  {
+   "claim_id": "C-GJ-U0063-02",
+   "unit_id": "GJ-U0063",
+   "speaker": "吴军本人",
+   "claim_text": "向上走的路通常艰辛甚至孤独；读先哲的书、身边卓越者的指导能少走弯路",
+   "quote": "艰辛的，甚至是孤独的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2939,
+    "end_line": 2939,
+    "sha1": "0fc7ac59dcf3954933e222af69253f22cdb988c2",
+    "fingerprint": [
+     "艰辛",
+     "先哲",
+     "弯路"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "向上之路与引路人",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "致读者信：本书把从卓越者处学到的经验分享给同需求者；定制版增加第四章（行动指南/微观技巧）与第八章（行动方向/宏观位置）为全书结构说明；「走得不孤单不畏惧」为收束祝语。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "致谢部分（2925-2929 编辑出版致谢名单）无认知内容不立卡；致读者信抽 2 卡（E1×2）；批次最后一个单元，全书抽取完毕。"
+}

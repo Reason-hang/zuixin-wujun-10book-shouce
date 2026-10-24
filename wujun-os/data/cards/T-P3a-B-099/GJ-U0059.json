@@ -1,0 +1,236 @@
+{
+ "unit_id": "GJ-U0059",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0059-01",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "他人的关注大多不值钱：有钱人与拼命想求关注当网红的人交集很小",
+   "quote": "他们之间的交集很小",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2629,
+    "end_line": 2629,
+    "sha1": "4006bbc0ebb342df16b7b931c9e771cac1fa31db",
+    "fingerprint": [
+     "网红",
+     "大钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "关注不等于金钱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "「目光聚集的地方金钱必将追随」流行的反面证据；关注基础上的生意可能永远挣不到钱。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-02",
+   "unit_id": "GJ-U0059",
+   "speaker": "转述·第三方",
+   "claim_text": "涂磊：想获热捧就要做出值得大家热捧的作品，而不要炒作自己",
+   "quote": "而不要炒作自己",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2631,
+    "end_line": 2631,
+    "sha1": "cca0b027f86f5bec11596f8ea8fd410721919b72",
+    "fingerprint": [
+     "涂磊",
+     "热捧",
+     "炒作"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-3"
+   ],
+   "concept_key": "靠作品而非炒作",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：涂磊（传统媒体从业多年者对关注的理解）；吴军取用：只注重关注让本可把事做好的人走错路，把精力花在不值得关注的事上。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-03",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "优质有观点的内容商业价值远超娱乐八卦：严肃杂志每小时1美元、电视20美分、小报不足10美分",
+   "quote": "优质的、有自己观点的内容",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2647,
+    "end_line": 2653,
+    "sha1": "ca48bcca336d4bfc20f357da3fa51dc1e5f0b126",
+    "fingerprint": [
+     "20美分",
+     "严肃杂志",
+     "1美元"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "优质内容价值更高",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "论据：颜伟鹏账——展示广告拉一个游戏玩家成本 2000 元（2635-2637）；霍尔姆斯「一滴血」备受关注终被证伪（2641）；读书每小时消费 3 美元内容 vs 八卦几角（2653）；读免费低质远不如付费高质（2651）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-04",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "对商家最直接最重要的标准是ARPU值；人的关注不平等，小公司应专注核心用户而非全面争关注",
+   "quote": "每用户平均收入",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2655,
+    "end_line": 2661,
+    "sha1": "878aede277cb4c3c3926e93190970332b25824ee",
+    "fingerprint": [
+     "ARPU",
+     "核心用户",
+     "不平等的"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "ARPU值思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数据：苹果 ARPU 超 400 美元、谷歌约 40（小一个数量级）、腾讯阿里百度 20 多美元、运营商宽带仅 4-8 美元（邬贺铨 2016）；小公司短期不可能从每人身上挣钱，大众关注是廉价关注，优质关注者带来收益并扩大影响力（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-05",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "徕卡不再争大众关注，靠培养用户水平提高ARPU值，智能手机冲击下销量不降反升",
+   "quote": "培养它的使用者的水平",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2663,
+    "end_line": 2667,
+    "sha1": "de885bd4dabb518aed9a434a19e006e62a7f8692",
+    "fingerprint": [
+     "徠卡学院",
+     "尼康和佳能"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "培养用户提高ARPU",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：徕卡曾靠便宜相机求关注毫无效果、几近破产；转而办徕卡学院培训摄影师；2014 后尼康佳能销量腰斩、徕卡上升，随后前者也开始深耕核心用户（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-06",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "投资自媒体不看用户数量看ARPU值：花钱买用户谁都会做，提高ARPU值才是真本事",
+   "quote": "能提高ARPU值才是真本事",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2669,
+    "end_line": 2669,
+    "sha1": "a73c26a3a2e0e056e8e61f8c8a40dff867c16b7e",
+    "fingerprint": [
+     "ARPU值",
+     "融资买关注"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D09-2"
+   ],
+   "concept_key": "ARPU过滤标准",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "风险投资资金过剩年代融资买关注容易；用 ARPU 标准过滤，千万用户的媒体可能毫无价值（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-07",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "个人获得关注靠提供的价值：与其廉价求关注，不如为真正帮自己的朋友提供价值",
+   "quote": "我们提供的价值",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2673,
+    "end_line": 2673,
+    "sha1": "8f848dc6f35c481daca9f210166c5e7080c678e5",
+    "fingerprint": [
+     "廉价",
+     "朋友",
+     "ARPU值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "高ARPU值的朋友",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "频繁参会、加微信、求关注是努力方向错误；真正能帮助自己的朋友是高 ARPU 群体，提供的价值进一步提高群体价值；与涂磊语（C-GJ-U0059-02）互文。"
+  },
+  {
+   "claim_id": "C-GJ-U0059-08",
+   "unit_id": "GJ-U0059",
+   "speaker": "吴军本人",
+   "claim_text": "最珍贵的资源是时间与注意力：别读免费低质内容，过剩时代的关键词是优质",
+   "quote": "最珍贵的资源是我们的时间",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2675,
+    "end_line": 2677,
+    "sha1": "23ef87d8f8c5704a288f4e415e5e7c55a6c9a7b9",
+    "fingerprint": [
+     "免费的内容",
+     "时间和注意力",
+     "优质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D02-2"
+   ],
+   "concept_key": "时间是稀缺资源",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "免费低质内容浪费时间甚至误导；判断媒体内容好坏可看其 ARPU 值；本章章题「优质的才是稀缺的」收束。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《优质的才是稀缺的》（D08-2 素材原章）：8 卡（E1×6、E2×1、E3×1），商业内容按领域直连在 notes 标记；颜伟鹏/霍尔姆斯等例证并入母卡。"
+}

@@ -1,0 +1,236 @@
+{
+ "unit_id": "GJ-U0020",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0020-01",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "一生必做5件事：恋爱结婚生子、尝试做一次喜欢的事、回馈、有一个信仰、留下遗产",
+   "quote": "有这样5件事",
+   "anchor": {
+    "start_line": 777,
+    "end_line": 777,
+    "fingerprint": [
+     "5件事",
+     "认知水平"
+    ],
+    "sha1": "dbe0cdb4b8ea313a3e4f31cb59645969565e27ff",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "一生五件事",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡（R3），各项展开见 C-GJ-U0020-02 至 07"
+  },
+  {
+   "claim_id": "C-GJ-U0020-02",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "绝大多数人的工作没有想的那么重要；个人生活独一无二不可替代，以后有时间等于永远没有时间",
+   "quote": "等于永远没有时间",
+   "anchor": {
+    "start_line": 785,
+    "end_line": 785,
+    "fingerprint": [
+     "独一无二",
+     "以后有的是时间"
+    ],
+    "sha1": "5141c3b29095303b4052950e9c9b13d6bc4d7f5c",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "生活独一无二不可代偿",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "「不解决生活后顾之忧就不可能长期做好工作」（787 行产假故事配套判断）附此；婚恋细节属家庭亲密关系（X5 边缘）不单独成卡；日本婚恋数据为背景转述不入卡"
+  },
+  {
+   "claim_id": "C-GJ-U0020-03",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "一辈子至少尝试做一次自己喜欢的事，尤其在年轻、失败成本不高的时候",
+   "quote": "尝试做一次自己喜欢的事情",
+   "anchor": {
+    "start_line": 799,
+    "end_line": 799,
+    "fingerprint": [
+     "为了生存",
+     "喜欢的事情"
+    ],
+    "sha1": "001125ec1087127349675ecb59855ac2eabf1247",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "尝试喜欢的事",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "小女儿声乐天赋案例为一般例证并入；「做有趣味的人而非赚钱机器、兴趣让人升华、无兴趣者狭隘」（809-811 行）为同链配套判断"
+  },
+  {
+   "claim_id": "C-GJ-U0020-04",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "回馈不在于多少，而从现在开始身体力行；只有采取行动才能证明有心",
+   "quote": "从现在开始身体力行",
+   "anchor": {
+    "start_line": 819,
+    "end_line": 819,
+    "fingerprint": [
+     "回馈",
+     "身体力行"
+    ],
+    "sha1": "2a7a8e41765551e2592253f83a861e13a89d54bb",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "回馈贵在行动",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "「回馈不仅对亲友母校还包括素不相识的人、孝道是回馈」为同段配套；洛克菲勒16岁捐6%、布隆伯格首捐5美元为专名例证支撑「非有钱才开始」，并入本卡不作独立 E3"
+  },
+  {
+   "claim_id": "C-GJ-U0020-05",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "没时间多是托词：政府关门30多天日子照过，我们引以为豪的事远没有以为的那么重要",
+   "quote": "其实可有可无",
+   "anchor": {
+    "start_line": 825,
+    "end_line": 825,
+    "fingerprint": [
+     "美国政府",
+     "托词"
+    ],
+    "sha1": "783b46bef2d666ad4b54e0df57dc4147e0b441f4",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "没时间是托词",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "用美国政府关门事件佐证（史实例证）；吴军每周一三探望母亲为自证例证；与 C-GJ-U0019-02 互引"
+  },
+  {
+   "claim_id": "C-GJ-U0020-06",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "人必须有信仰（未必宗教）：失方向时指引行动、道德利益纠结时给出符合本心的选择，并给人站出来的勇气",
+   "quote": "信仰会让我们知道该怎么做事情",
+   "anchor": {
+    "start_line": 831,
+    "end_line": 833,
+    "fingerprint": [
+     "信仰",
+     "符合本心"
+    ],
+    "sha1": "da1751aa13f5de17357ee3cad4731b2a2a82b4f8",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "信仰的作用",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "信仰定义放宽到非宗教；「知道自己对就不怕恐吓」的勇气维度在 833 行同链"
+  },
+  {
+   "claim_id": "C-GJ-U0020-07",
+   "unit_id": "GJ-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "遗产不只是钱财：世界因你做过的事哪怕微小而不同，就是留给世界的遗产",
+   "quote": "给世界留下的遗产",
+   "anchor": {
+    "start_line": 845,
+    "end_line": 845,
+    "fingerprint": [
+     "遗产",
+     "完全一样"
+    ],
+    "sha1": "bfb5bd375d36888f3aa717081a148a12545434db",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "遗产之问",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "判据：问自己「世界没有我是否会完全一样」；基因传承是遗产一部分但人类应更多（839 行幸福学转述并入）；贾里尼克原话见 C-GJ-U0020-08、杜尔思想见 C-GJ-U0020-09"
+  },
+  {
+   "claim_id": "C-GJ-U0020-08",
+   "unit_id": "GJ-U0020",
+   "speaker": "转述·第三方",
+   "claim_text": "贾里尼克：博士须对人类知识体系有贡献，解决一个前人未解决且对后人有意义的问题才能毕业",
+   "quote": "对人类的知识体系有所贡献",
+   "anchor": {
+    "start_line": 841,
+    "end_line": 841,
+    "fingerprint": [
+     "贾里尼克",
+     "毕业"
+    ],
+    "sha1": "c9af5d53dfbfd675d614e3813a05829f5049c76a",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "博士的遗产标准",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：贾里尼克教授（吴军导师私人对话，R1 转述卡）；吴军取用为「为知识体系添砖即遗产」，见 C-GJ-U0020-07；单独看属学位标准（X5 边缘），按取用语境挂 D02-3"
+  },
+  {
+   "claim_id": "C-GJ-U0020-09",
+   "unit_id": "GJ-U0020",
+   "speaker": "转述·第三方",
+   "claim_text": "约翰·杜尔投资把改变世界的影响力放在第一位、金钱回报放第二位",
+   "quote": "把金钱的回报放在第二位",
+   "anchor": {
+    "start_line": 847,
+    "end_line": 847,
+    "fingerprint": [
+     "杜尔",
+     "改变世界"
+    ],
+    "sha1": "d7e1060f82da77015018f092b865f24d0a37d0ca",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "影响力优先的投资观",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：约翰·杜尔（凯鹏华盈董事会主席，R1 转述卡）；风险投资视角归 D09-2；吴军由此领悟遗产之问（C-GJ-U0020-07）；其投资谷歌亚马逊推特为支撑事实"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "五件事清单及各分论均为吴军本人人生观判断，清单整体一卡+分卡入主干；恋爱婚恋细节属家庭亲密关系仅作背景不抽卡，无 X 处置"
+}

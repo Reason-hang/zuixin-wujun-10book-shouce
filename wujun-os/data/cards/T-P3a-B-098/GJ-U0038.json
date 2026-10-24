@@ -1,0 +1,90 @@
+{
+ "unit_id": "GJ-U0038",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0038-01",
+   "unit_id": "GJ-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "同一环境长大的孩子起点差不多，一代人后差别巨大，主因是各自不同的成长经历",
+   "quote": "不同的成长经历",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1668,
+    "end_line": 1668,
+    "sha1": "d71dbfce7904fe130b849bb00b96a4e200a7a307",
+    "fingerprint": [
+     "家境",
+     "巨大差别",
+     "成长经历"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "成长经历造成差别",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "第六章开篇立论；智力无大差异、生活水平/个人成就/家庭幸福的分化在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0038-02",
+   "unit_id": "GJ-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "成长首先看环境：最重要的是家庭环境和朋友圈，其次是自身做事的原则和方法",
+   "quote": "家庭环境和朋友圈",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1670,
+    "end_line": 1670,
+    "sha1": "5461fc2911662e0df65736697740ad2a478733ed",
+    "fingerprint": [
+     "环境",
+     "朋友圈",
+     "原则和方法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "成长环境排序",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "影响因素排序判断；此处“家庭环境”作为成长变量陈述，非家庭教育方法，不触发 X5。"
+  },
+  {
+   "claim_id": "C-GJ-U0038-03",
+   "unit_id": "GJ-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "天天冒险早晚付出失败代价、太多失败致习惯性失败；永待舒适区无法成长，成长是在边界内把事做好",
+   "quote": "在边界内最大程度上把事情做好",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1670,
+    "end_line": 1670,
+    "sha1": "5461fc2911662e0df65736697740ad2a478733ed",
+    "fingerprint": [
+     "冒险",
+     "舒适区",
+     "习惯性失败"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D03-2"
+   ],
+   "concept_key": "边界内成长",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "冒险与舒适区两极的代价在锚内对举；风险权衡挂 D03-2 辅助。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第六章开篇三判断：成长经历造成分化/成长环境排序/边界内成长"
+}

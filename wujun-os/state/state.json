@@ -2,8 +2,8 @@
  "project": "WJ-OS 吴军十书·认知与行动操作系统",
  "pack_version": "1.0",
  "updated": "2026-10-24",
- "phase": "P3a 抽取 10/108 批；历史欠账全部清偿（GATE-C 闭环/CK 注册表/schema v1.0/系列成组/批末回顾）",
- "step": "欠账五项清偿完成（J-036）；格局① B-096 完成（77 卡）。下一步：B-097~099（格局）→ B-092~095（数学）→ B-087~091（见识），P3a 收口后进 P4",
+ "phase": "P3a 抽取 14/108 批；四书单书验收 PASS（态度/富足/境界/格局）；GATE-C 例行档全绿",
+ "step": "格局全书收口（406 卡）+ 数学①（93 卡）完成；例行档漂移回归 0.900/0.889/1.000 全过。剩：数学②③④、见识 5 批 → P3a 收口 → P4 前置",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
@@ -18,11 +18,11 @@
  "progress": {
   "units_total": 1742,
   "units_content": 1697,
-  "units_done": 157,
+  "units_done": 199,
   "chars_total": 5038558,
-  "chars_done": 422650,
-  "batches_done": 10,
-  "batches_est": "108（全量装箱，D-27）；P3a 22 批中已完成 10"
+  "chars_done": 540988,
+  "batches_done": 14,
+  "batches_est": "108（全量装箱，D-27）；P3a 22 批中已完成 14"
  },
  "in_flight": {
   "ticket": null,
@@ -30,8 +30,8 @@
   "unsaved": [],
   "note": "无进行中工单。P1 全产物：cards_first/second（微试跑 57 卡）、batch2/（放量 76 卡+9X）、batch2_recheck/（N4 盲抽 28 卡）；P2：unitcards 1,742、batch_plan 108 批"
  },
- "last_ticket": "T-P3a-B-096（格局①）+ 欠账五项清偿（J-036）",
- "next_ticket": "T-P3a-B-097（格局②）→ B-098/099 → B-092~095（数学）→ B-087~091（见识）；GATE-C 例行档：格局③后",
+ "last_ticket": "T-P3a-B-092（数学①）+ GATE-C 例行档全绿（J-039）",
+ "next_ticket": "T-P3a-B-093（数学②）→ B-094/095 → B-087~091（见识）→ 数学/见识单书验收 → P3a 收口（22/22）",
  "blocked_by": [],
  "open_items": [
   "P2 读法层标注（T-P2-03/04）：1,742 单元卡 read_level 为 null，待按 A/B/C 标注后生成 P3 批次工单",

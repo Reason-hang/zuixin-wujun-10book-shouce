@@ -1,0 +1,202 @@
+{
+  "unit_id": "SX-U0003",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0003-01",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "学不好数学的根源是人与数学间缺桥梁：数学抽象而人靠经验感知",
+      "quote": "这中间需要一个桥梁",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 89,
+        "end_line": 93,
+        "sha1": "79892c332095e92b176b38b1b96c6ffa8708b30d",
+        "fingerprint": [
+          "桥梁",
+          "经验感知"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "数学学习的桥梁论",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "发刊词对“为何厌恶数学”的归因：非数学之错亦非人之错；教学对策见 C-SX-U0003-04"
+    },
+    {
+      "claim_id": "C-SX-U0003-02",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "数学往深学费脑力，但把能提升思维的数学学好是每个人都能做到的",
+      "quote": "是每个人都能做到的",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 94,
+        "end_line": 96,
+        "sha1": "f1dae529eb31f6a4f5ee349720e0c38972dac787",
+        "fingerprint": [
+          "往深了学",
+          "提升我们思维"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "通识数学人人可学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "区分“深研数学”与“通识数学”，后者对所有人可行"
+    },
+    {
+      "claim_id": "C-SX-U0003-03",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "数学没学好多半不是学生问题，而是教学和考核学生的方法不对",
+      "quote": "方法和考量学生的方法不对",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 97,
+        "end_line": 111,
+        "sha1": "e03cc66def4c92c602ca9c604cdd99672919ce28",
+        "fingerprint": [
+          "学渣",
+          "难度不同"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "教学方法归因",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证（E3 专名案例，锚内）：美国顶级高中将数学拆为8~10门课、每门开A/B/C三档难度，选简单数学可保底并兼顾自身发展"
+    },
+    {
+      "claim_id": "C-SX-U0003-04",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "数学教学法：把课程从完整体系拆成知识点讲透，再还原回体系",
+      "quote": "讲透之后，再还原回体系",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 124,
+        "end_line": 127,
+        "sha1": "3aa72069e7573e9f7082d7a7e3ad764af1e17d00",
+        "fingerprint": [
+          "知识点",
+          "体系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "拆知识点再还原",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "体系大小随接受程度伸缩，能拆解搭建小体系即达通识目的；呼应原书145-146行“不需要讲难，而需要讲透”"
+    },
+    {
+      "claim_id": "C-SX-U0003-05",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "勾股定理与毕达哥拉斯定理之别是经验与数学证明之别，含混会丢逻辑基础",
+      "quote": "把数学这门课的逻辑基础搞丢了",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 140,
+        "end_line": 144,
+        "sha1": "945d86056e965217bb2f6b21fea3bc4817923241",
+        "fingerprint": [
+          "毕达哥拉斯定理",
+          "逻辑证明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "经验与证明之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军评述（非定理史实本身）：教科书出于发明权考量不说明，致人分不清实验定律与逻辑定理；定理内容为史实不入卡"
+    },
+    {
+      "claim_id": "C-SX-U0003-06",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "快思考与深思考两种聪明皆可后天训练，数学是训练深入思考的现成体系",
+      "quote": "都是可以后天训练的",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 153,
+        "end_line": 161,
+        "sha1": "8c5000b4319bc261a13b97d3888b8c150ad99cf3",
+        "fingerprint": [
+          "Deep Thinker",
+          "训练"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "深入思考者的训练",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Quick/Deep Thinker 均可后天训练；数学经千年发展备好整套训练材料，如打游戏晋级般一环扣一环解套"
+    },
+    {
+      "claim_id": "C-SX-U0003-07",
+      "unit_id": "SX-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "数学史即人类认识从直观到抽象、从静态到动态、从确定到随机的扩展史",
+      "quote": "从直观到抽象，从静态到动态",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 171,
+        "end_line": 173,
+        "sha1": "7bc52839b15785877638bd2b3814d304a0b028c7",
+        "fingerprint": [
+          "抽象",
+          "随机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "认识的维度跃迁",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军以数学发展史教数学思维的纲领句，亦涵盖宏观到微观、随意到确定"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（发刊词），精读后抽7卡；主持人学渣轶事并入C3例证；课程表罗列为预告性内容不立卡"
+}

@@ -1,0 +1,183 @@
+{
+ "unit_id": "GJ-U0041",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0041-01",
+   "unit_id": "GJ-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "成就=成功率×影响力×速度，三者相乘而非相加；速度最多差几倍，成功率与影响力有量级之差",
+   "quote": "它们之间是相乘而不是相加的关系",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1772,
+    "end_line": 1774,
+    "sha1": "07237d52a5cd702ccb42b778c4324afd52a4a2a2",
+    "fingerprint": [
+     "成功率",
+     "影响力",
+     "相乘"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D01-2"
+   ],
+   "concept_key": "成就三要素相乘",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "效率比同行高一倍就快到头（1774 行）；个人成就最大化的总纲；公式重复句在 1808 行。"
+  },
+  {
+   "claim_id": "C-GJ-U0041-02",
+   "unit_id": "GJ-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "数量级差10倍，量级差异更大且经动态放大：复利与线性增长200年后差百万倍，预见量级差靠经验和见识",
+   "quote": "靠的是经验和见识",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1778,
+    "end_line": 1782,
+    "sha1": "72ba5e931eb2505507c22c89a330c8ad6fe67025",
+    "fingerprint": [
+     "数量级",
+     "动态放大",
+     "复合增长"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "量级与动态放大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "概念区分：数量级（个十百千万，同数量级可竞争）vs 量级（芝麻到宇宙之别，1778-1780 行）；1 美元 200 年复合增长 2000 万 vs 线性 19 美元、前 10 年看不出差别的例证在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0041-03",
+   "unit_id": "GJ-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "优秀工程师要养成关注量级的习惯：不同量级算法的运行时间可差人一辈子与几分钟",
+   "quote": "养成关注量级的习惯",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1784,
+    "end_line": 1788,
+    "sha1": "9deabe460fc787c1e2fd25a6a0a65ffa3769ba61",
+    "fingerprint": [
+     "冒泡排序",
+     "量级",
+     "排序"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "关注量级的习惯",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "腾讯冒泡排序案例：几十个同学成绩排序差别不大、上万个数字差几百倍、全国人口差几百万倍（1784-1786 行）；生活在小世界对大数量没概念的洞见在 1784 行。"
+  },
+  {
+   "claim_id": "C-GJ-U0041-04",
+   "unit_id": "GJ-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "成功率上1和0的差异近乎无穷大：一辈子不在于开始多少件事，而在于漂亮地完成多少件事",
+   "quote": "漂亮地完成了多少件事",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1794,
+    "end_line": 1794,
+    "sha1": "3fec2cce510c3fc6a1c84040828d100c882cd246",
+    "fingerprint": [
+     "成功率",
+     "无穷大",
+     "专注"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "开始与完成",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "匆匆做5件一件没成 vs 专注一件做成的无穷倍对比在锚内；10和1可弥补、1和0近乎无穷大的量级论证在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0041-05",
+   "unit_id": "GJ-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "影响力有量级之差：一辈子做很多没影响力的事，不如认真做好一件有影响力的事",
+   "quote": "一定影响力的事情",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1804,
+    "end_line": 1804,
+    "sha1": "ca9dd4fcd735a3f5459b2e0c08b08cb93515275b",
+    "fingerprint": [
+     "影响力",
+     "长尾",
+     "量级之差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "影响力量级之差",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "例证链：微博粉丝差7个数量级/PageRank 客观影响力（1798 行）、iPhoneX 利润为第十名38倍（1800 行）、论文影响力与百达翡丽对比（1802 行）、长尾游戏工程师月入800美元 vs 热门游戏设计者年入亿元（锚内）；创业公司代码量 vs 谷歌经典代码生命周期10年+并非越忙越有成就（1806 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0041-06",
+   "unit_id": "GJ-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "同时改变成就公式三个变量很难，更好的做法是一次提高一个、滚动前进",
+   "quote": "一次提高一个，滚动前进",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1808,
+    "end_line": 1808,
+    "sha1": "1a4705df81403cf5f2e22b6efa02a6ee6d5f5f7b",
+    "fingerprint": [
+     "成就",
+     "变量",
+     "滚动"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "滚动前进",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "成就公式实施方法论；渐进改善挂 D05-2。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "量级主题 6 张：成就公式/量级概念/工程师习惯/开始与完成/影响力/滚动前进"
+}

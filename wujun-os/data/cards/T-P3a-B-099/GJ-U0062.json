@@ -1,0 +1,327 @@
+{
+ "unit_id": "GJ-U0062",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0062-01",
+   "unit_id": "GJ-U0062",
+   "speaker": "转述·第三方",
+   "claim_text": "李嘉图定律：地租由垄断性（稀缺性）决定，不由改良成本决定，受限于租用者可承受价",
+   "quote": "由垄断性（稀缺性）决定的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2880,
+    "end_line": 2884,
+    "sha1": "f4408f215fcc951c44c848b7b43bdd175960b2c9",
+    "fingerprint": [
+     "地租定律",
+     "稀缺性",
+     "李嘉图"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2",
+    "D04-1"
+   ],
+   "concept_key": "李嘉图定律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：李嘉图（1809 地租定律，源自亚当·斯密垄断价格理论）；落差由土地收入差额与投资回报对比决定；穆勒延伸至专利、马歇尔创「准地租」（2888）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-02",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "信息时代李嘉图定律新义：对能比较出优势的要素定价，人的三六九等被拉开",
+   "quote": "三六九等",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2890,
+    "end_line": 2890,
+    "sha1": "31e70b214ed4689ceacc8a383f976a8e80bd7898",
+    "fingerprint": [
+     "定价",
+     "溢价",
+     "三六九等"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D06-1"
+   ],
+   "concept_key": "优势要素定价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：辅导成绩更好的张三如值钱土地获更高溢价；IT 行业工程师、产品与服务的等级被划出（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-03",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "信息越透明对称、流动性越好，李嘉图定律造成的势差就越大",
+   "quote": "势差就会越大",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2892,
+    "end_line": 2894,
+    "sha1": "46285d04047906f4ffeae14be28ecf649376a9aa",
+    "fingerprint": [
+     "信息越透明",
+     "梅兰芳",
+     "流动性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "透明放大势差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：唱片电影出现前一二三流艺人都有市场（宫廷戏楼/堂会/走街串巷），梅兰芳谭鑫培被全国公知后一流溢价陡涨、三流难糊口；信息透明后最好洗发水迅速通吃（2894）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-04",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "互联网放大地租势差：一线对二三线房价断崖式下跌，学区房与硅谷隔路房价差三倍",
+   "quote": "断崖式下跌",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2896,
+    "end_line": 2898,
+    "sha1": "8a185b6d7e212c10e3e3b88a80251df042863faf",
+    "fingerprint": [
+     "学区房",
+     "帕罗奥多",
+     "势差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "地租势差放大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "过去市中心到荒地价格渐变，现在陡得多；势差放大导致地区人员结构、产业结构巨变（2898）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-05",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "帕罗奥多：房价涨300%而家庭收入仅增50%，抢房的是大公司高管与早期员工",
+   "quote": "房价的增长率是收入的10多倍",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2900,
+    "end_line": 2902,
+    "sha1": "cd654810a763bcf9e01a31671b947e1b218a468c",
+    "fingerprint": [
+     "帕罗奥多",
+     "中位数",
+     "早期员工"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "人的势差超过土地",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：2000 年中位房价 50 万美元（4.5 年家庭收入）→2016 年超 200 万（收入仅 11→16 万）；谷歌股价涨 10 多倍、脸书市值 3600 亿，员工财富成比例增加支撑房价；李嘉图定律在人身上的势差远超土地房屋（2900）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-06",
+   "unit_id": "GJ-U0062",
+   "speaker": "转述·第三方",
+   "claim_text": "朗道五级：一级工程师贡献是二级的10倍，收入呈指数级差别",
+   "quote": "分为5个等级",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2904,
+    "end_line": 2906,
+    "sha1": "1726595ab83e41825d93f8329a36ad79643264b6",
+    "fingerprint": [
+     "朗道",
+     "指数级",
+     "莱万多夫斯基"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-2"
+   ],
+   "concept_key": "朗道等级与收入势差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：朗道（工程师五级标准，吴军《见识》曾引用）；莱万多夫斯基几年收入上亿美元 vs 末流游戏工程师月入 1000 美元低于贫困线；一流律所合伙人收入是普通律师十几倍（2906）；最好游戏设计者年入一亿 vs 大量从业者收入极低（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-07",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "智能工具放大个人作用加信息流动，领头羊赢者通吃，势差达史上最大",
+   "quote": "赢者通吃",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2908,
+    "end_line": 2908,
+    "sha1": "0ccddcd53c3c59b7a9cb8d3823ef06b1fc199149",
+    "fingerprint": [
+     "领头羊",
+     "APP",
+     "半导体"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D06-1"
+   ],
+   "concept_key": "赢者通吃最大势差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "绝大多数 APP 不能挣钱甚至倒贴请人用，好 APP 几年挣上亿；半导体细分市场第一名拿走几乎全部利润、第二名勉强不亏、第三名后全亏；与农耕粮食总有人要、工业劣质品降价可卖完全不同（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-08",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "每次重大技术进步都放大李嘉图效应：最好资源越来越紧缺而非更多",
+   "quote": "变得越来越紧缺",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2910,
+    "end_line": 2910,
+    "sha1": "f88b39b0ac77892b9605f7725411110ff8c92220",
+    "fingerprint": [
+     "技术进步",
+     "紧缺",
+     "录取率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "技术进步放大差距",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "「技术进步缩小差距」是误解；好大学未增、霍普金斯录取率从约 25% 降到 2018 年不足 10%、三四流大学靠招小留学生维系（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-09",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "经济规律如上帝设定，任何人都赢不过：人为限价反致倒挂抢房",
+   "quote": "世界上真正的老大是上帝",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2912,
+    "end_line": 2912,
+    "sha1": "2df679392d3e68567c810c42a313127d2f5ffa72",
+    "fingerprint": [
+     "上帝",
+     "倒挂",
+     "限"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D03-2"
+   ],
+   "concept_key": "规律不可人为消除",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "杭州深圳强限新房价格致新旧房价倒挂，市民排队拿号，倒手一套比几十年工资挣得多；规律永远左右世界（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-10",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "按规律办事：选好地段、选有规则的城市、不雇三流充数、产品做到垂直领域前三最好第一",
+   "quote": "按照规律办事",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2914,
+    "end_line": 2914,
+    "sha1": "d2c177169413c4d6ce53088fa3e0febce6a7dad0",
+    "fingerprint": [
+     "规律办事",
+     "前三名",
+     "地段"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D03-1"
+   ],
+   "concept_key": "按李嘉图定律办事",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "漂亮新房会贬值，好地段土地才升值；一点政策优惠抵不过无止境的麻烦；一堆三流的人带来的麻烦比解决的问题多；第二名拿不到第一名估值、第三名之后价值几乎为零；苹果市值万亿美元而产品仅个位数种类（王府井一亩 vs 荒滩万亩）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0062-11",
+   "unit_id": "GJ-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "比同行好一点点就受欢迎，好一个数量级有数倍溢价；10个90分抵不上1个100分",
+   "quote": "抵不上一个100分",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2916,
+    "end_line": 2918,
+    "sha1": "441b15eccaf5ffbb0aee68a587a41b1e547e7c7b",
+    "fingerprint": [
+     "90分",
+     "100分",
+     "荒滩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "卓越与良好的落差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "比周围人差则劳动免费都没人要（如无人租荒滩盐碱地）；单位招不到人与很多人没事做并存；摩尔/李嘉图定律像上帝手中的剪刀，了解后应写入行动指南（2918 收束）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《信息时代的定律》（D08-2 素材原章）：11 卡（E1×9、E2×2、E3×1）；摩尔定律与安迪-比尔定律为产业背景介绍未立卡；李嘉图定律转述卡与吴军延伸应用卡按 R1 分立。"
+}

@@ -1,0 +1,158 @@
+{
+  "unit_id": "SX-U0015",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0015-01",
+      "unit_id": "SX-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "今天学数学重在把实际问题变成数学问题并用软件工具解决，而非学技巧",
+      "quote": "无法举一反三的技巧",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1671,
+        "end_line": 1680,
+        "sha1": "c7ac0a0c14280b8639df991997e3d9b3867e7bdb",
+        "fingerprint": [
+          "软件工具",
+          "举一反三"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-2"
+      ],
+      "concept_key": "善用软件工具",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "锚内：中学不教三次方程求根公式是对的，公式太复杂会把学生吓回去；美国中学教最简单技巧+用软件自动解；沃夫兰姆（20岁博士毕业）的软件可推导几乎所有数学公式——真正的天才"
+    },
+    {
+      "claim_id": "C-SX-U0015-02",
+      "unit_id": "SX-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "家长别高估孩子智商：学好基本方法理解思维最重要，技巧交给沃夫兰姆",
+      "quote": "不要自己傻推公式",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1683,
+        "end_line": 1686,
+        "sha1": "fc113df4ba9e993f78862da61f04fe24250d101a",
+        "fingerprint": [
+          "智商",
+          "解题技巧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-2"
+      ],
+      "concept_key": "不傻推公式",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "也不要埋没孩子在某些方面的天赋；需要技巧时善于利用沃夫兰姆的大脑（Mathematica 编写者）；与 C-SX-U0003-03（教学方法归因）、C-SX-U0014-03（笨但通用）同族"
+    },
+    {
+      "claim_id": "C-SX-U0015-03",
+      "unit_id": "SX-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "虚数源自三次方程：它必有实数解、负数开方回避不掉，被迫引入虚数",
+      "quote": "不得不正视这个问题",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1687,
+        "end_line": 1694,
+        "sha1": "c116b38a4b654e9622f72cc52c1fc01aa411a994",
+        "fingerprint": [
+          "虚数",
+          "三次方程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "被迫引入的虚数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "解二次方程可宣布无实数解回避，三次方程一定有实数解（原因后讲）故根号内负数无法回避——虚数是数学体系自洽的必然要求，非人为发明（公式以正文为准，HC-13）"
+    },
+    {
+      "claim_id": "C-SX-U0015-04",
+      "unit_id": "SX-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "三次方程公案显示引理到定理层层叠加，学数学也应如此——学好理科关键",
+      "quote": "数学的发展是层层叠加的",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1695,
+        "end_line": 1705,
+        "sha1": "15ee5af762493c067916f4025beb4eb14b4bcd50",
+        "fingerprint": [
+          "引理",
+          "层层叠加"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "引理到定理的叠加",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内结构：费罗（第一类）、塔尔塔利亚（第二类）的解法只是引理——能解部分问题不具普遍意义；卡尔达诺、费拉里、塔尔塔利亚的任意三次方程解法才是定理；定理不凭空产生；呼应 C-SX-U0008-03（可叠加的进步）"
+    },
+    {
+      "claim_id": "C-SX-U0015-05",
+      "unit_id": "SX-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "学数学最注重概念及概念间联系，能转化现实问题即可——工具很多",
+      "quote": "最要注重学习的是概念",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1706,
+        "end_line": 1709,
+        "sha1": "0a93c1e2cda6b9417f6d1da86a1707667c377700",
+        "fingerprint": [
+          "概念",
+          "工具"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "概念重于技巧",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "锚内：不要因掌握不了一个小技巧而沮丧；本讲要点总结第二条；与 C-SX-U0014-04/05 构成“工具论”三连"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "SX-U0015",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "费罗→菲奥尔→塔尔塔利亚→卡尔达诺→费拉里的三次方程发明权公案叙事（原书1596-1670行主体）为数学史人物公案，吴军以叙事呈现、未提炼独立方法论判断；1535年挑战赛、1543年见费罗女婿、1545年《大术》发表、数学决斗、费拉里-塔尔塔利亚公式命名均为史实，不入论点卡主干，仅留引理→定理结构的判断（C-SX-U0015-04）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第12讲），工具论+虚数起源+引理定理结构抽5卡"
+}

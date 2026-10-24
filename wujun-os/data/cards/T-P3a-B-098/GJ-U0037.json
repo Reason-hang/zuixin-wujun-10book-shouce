@@ -1,0 +1,281 @@
+{
+ "unit_id": "GJ-U0037",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0037-01",
+   "unit_id": "GJ-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "中国人勤劳但谈不上勇敢：怕惹事、怯弱，广场舞扰邻无人敢管",
+   "quote": "勇敢却谈不上",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1569,
+    "end_line": 1569,
+    "sha1": "573795225e82369f376e0970b986da2f2d9ba733",
+    "fingerprint": [
+     "勤劳",
+     "勇敢",
+     "怯弱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "勤劳而不勇敢",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "章节立论起点；尾段呼应“该为自己的怯弱感到羞愧、勇气停留在键盘上是时代悲哀”（1661 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-02",
+   "unit_id": "GJ-U0037",
+   "speaker": "史实",
+   "claim_text": "班超以36人袭击匈奴使团定鄯善、以几百军士收服西域几十国，几乎不耗汉朝粮饷",
+   "quote": "以如此低的成本取得如此大的战绩",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1579,
+    "end_line": 1583,
+    "sha1": "e9c88a99eb704e9d9ce24673143d95955ff6fbe4",
+    "fingerprint": [
+     "不入虎穴",
+     "属国",
+     "粮饷"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "班超式低成本大功业",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：机理=智慧（借盟友之力纵横捭阖）+勇气（不入虎穴焉得虎子）结合，以极小成本成大事；与倾天下之力的对比在 1585 行。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-03",
+   "unit_id": "GJ-U0037",
+   "speaker": "转述·第三方",
+   "claim_text": "王夫之评班超：以三十六人横行诸国、欲杀则杀，古今未有如此奇智神勇之人",
+   "quote": "古今未有奇智神勇而能此者",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1587,
+    "end_line": 1587,
+    "sha1": "9123cad645ae5b17b86fdedd6f17951b0e3e73ef",
+    "fingerprint": [
+     "王夫之",
+     "读通鉴论",
+     "奇智神勇"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "奇智神勇",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=王夫之《读通鉴论》（吴军引并译述“班超在西域做事如做游戏一般容易”）。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-04",
+   "unit_id": "GJ-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "随着文明程度提升，聪明在增加而勇气在衰退，以至崇尚娘娘腔",
+   "quote": "聪明似乎在增加，勇气却在衰退",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1587,
+    "end_line": 1587,
+    "sha1": "9123cad645ae5b17b86fdedd6f17951b0e3e73ef",
+    "fingerprint": [
+     "文明程度",
+     "勇气",
+     "娘娘腔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "聪明增勇气衰",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "承王夫之评语的吴军引申（同行）；时代观察判断。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-05",
+   "unit_id": "GJ-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "美国是尚武之国、军人是荣誉；美国人体现出的勇气是现在的中国人需要的",
+   "quote": "美国人体现出的勇气",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1589,
+    "end_line": 1589,
+    "sha1": "7b8de66705028635ded7ace8ae0080b8b5657a68",
+    "fingerprint": [
+     "尚武",
+     "荣誉",
+     "中国人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "尚武与荣誉",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "吴军明示中美体制文化各有长处、难讲谁更有效（锚内）；约翰逊/肯尼迪兄弟/老布什服役与二战后 13 任总统仅 2 人无军旅为例证（1591-1595 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-06",
+   "unit_id": "GJ-U0037",
+   "speaker": "转述·第三方",
+   "claim_text": "苏轼：匹夫见辱拔剑而起不足为勇；大勇者卒然临之而不惊、无故加之而不怒",
+   "quote": "卒然临之而不惊",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1597,
+    "end_line": 1597,
+    "sha1": "aa979e765fa66e80504b2627ae54ac7b3369f738",
+    "fingerprint": [
+     "苏轼",
+     "留侯论",
+     "大勇"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "大勇者不惊不怒",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=苏轼《留侯论》（吴军引）；吴军本人的勇敢定义见 C-GJ-U0037-07（R1 互引）。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-07",
+   "unit_id": "GJ-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "勇敢不是爱冒险或暴力：是不怕危险困难、果敢行动，办成别人不能干也不敢干的事",
+   "quote": "办成别人不能干也不敢干的事情",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1597,
+    "end_line": 1597,
+    "sha1": "aa979e765fa66e80504b2627ae54ac7b3369f738",
+    "fingerprint": [
+     "勇敢",
+     "果敢行动",
+     "冒险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "勇敢的定义",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "吴军对勇敢的定义句（锚内明示）；区分“把勇敢单纯理解为爱冒险甚至使用暴力”。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-08",
+   "unit_id": "GJ-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "勇敢体现在生活小事上，不需要像班超那样涉险；敢管闲事社会才会更好",
+   "quote": "并不需要真像班超那样去涉险",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1607,
+    "end_line": 1611,
+    "sha1": "582a83ecc59afdfb3271f9f07c4ac0c47b8c2d55",
+    "fingerprint": [
+     "小地方",
+     "闪光灯",
+     "渎职"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "小处的勇敢",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "瑞秋为冰箱堵系主任门讨公道并让我“变成还算勇敢的人”（1599-1605 行）与吴军故宫制止闪光灯并斥管理员渎职（1609-1611 行）两例承载机理；“社会上多一些勇敢的人，社会可以变得更好”在 1611 行锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-09",
+   "unit_id": "GJ-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "两种聪明人：能当领袖的与能当谋臣的，差别就在担当的勇气；成领袖勇气必不可少",
+   "quote": "担当的勇气",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1615,
+    "end_line": 1615,
+    "sha1": "1927a3fe2e82d5445744ce7b123cc622246ef2d1",
+    "fingerprint": [
+     "领袖",
+     "谋臣",
+     "刘邦"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D06-1"
+   ],
+   "concept_key": "领袖与谋臣的差别",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "刘邦曹操 vs 张良郭嘉对举；前一节“勇气助人成为精英/贵族精神中的勇气”（1613 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0037-10",
+   "unit_id": "GJ-U0037",
+   "speaker": "史实",
+   "claim_text": "谢道韫：咏絮之才的才女，危难中持刀杀敌、以身护三岁外孙，才智与勇气并存",
+   "quote": "祖先当年的勇气和才智",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1651,
+    "end_line": 1653,
+    "sha1": "2179a922bb6a719fb84cebfcb7d86639ac0f4adf",
+    "fingerprint": [
+     "谢道韫",
+     "孙恩",
+     "才智"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "谢道韫的才与勇",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：机理=女子平时知书达理、关键时刻勇气显现（1619 行判断句）；孙恩“大人的事跟孩子无关，要杀他先杀我”折服敌酋、青布幔为小叔解围（1633 行）、与花蕊夫人“更无一个是男儿”对比（1653 行）在锚及 notes；“谢道韫是林薛原型”的文学评点（1649 行）不作判断卡。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0037",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "谢安教育后代方法（1655-1659 行：从不发火、以礼节教导、烧香袋毁赌注护自尊、谢家多宰相归功教育）属家庭教育类，D02 排除清单指向 X5，不入柱；谢安临危不惧（淝水下棋/鸿门宴镇桓温）作为勇气例证已在 C-GJ-U0037-10 notes 提及"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "勇气主题：吴军判断 6 张+班超/谢道韫 E3 案例卡+王夫之/苏轼转述卡+美国观察，共 10 张；谢安家庭教育记 X5"
+}

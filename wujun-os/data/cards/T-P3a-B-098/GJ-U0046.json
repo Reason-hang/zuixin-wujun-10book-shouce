@@ -1,0 +1,249 @@
+{
+ "unit_id": "GJ-U0046",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0046-01",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "用悲观主义心态做事弊远大于利：惶惶不可终日、难以专注该做的事、一事无成、活在怀旧中",
+   "quote": "弊要远远大于利",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1978,
+    "end_line": 1978,
+    "sha1": "c12577c8090d136fbe9bea6ef4575a1292c692f6",
+    "fingerprint": [
+     "悲观主义",
+     "怀旧",
+     "一事无成"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "悲观心态弊大于利",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "防范意识 vs 悲观心态的区分、“等推开门一看世界已经完全变了样子”均在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-02",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "悲剧才有震撼力、抓得住人心；说世界越变越好被嘲笑天真，装出末日担忧反被认为有良知",
+   "quote": "悲剧才有震撼力",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1980,
+    "end_line": 1982,
+    "sha1": "eab3fe9c83c00ccd6054436ed52c50323f498a9c",
+    "fingerprint": [
+     "悲剧",
+     "震撼力",
+     "嘲笑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "悲剧震撼力与公众偏好",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "歌剧多悲剧的父女对话引出；经济学家西蒙称悲观者杞人忧天被骂老顽固（1980 行）、担忧全球变暖过度 vs 悲天悯人良知的对照（1982 行）在锚内；2018 各界悲观而一年后天没塌的观察（1984 行）并入。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-03",
+   "unit_id": "GJ-U0046",
+   "speaker": "转述·第三方",
+   "claim_text": "哈耶克：对进步的善行怀有信心，反而成了心灵浅薄的标志",
+   "quote": "心灵浅薄的标志",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1982,
+    "end_line": 1982,
+    "sha1": "206878fd05501855f09eb2d616d80f5c6081f4f3",
+    "fingerprint": [
+     "哈耶克",
+     "进步",
+     "浅薄"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "进步信心与浅薄标签",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=哈耶克（吴军引证公众偏好悲观的佐证）；吴军本人判断见 C-GJ-U0046-02。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-04",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "悲观主义第一成因（也是根本原因）：人的过分自信以及与现实之间的反差",
+   "quote": "与现实之间的反差",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1986,
+    "end_line": 1986,
+    "sha1": "0c8864cb9847265f416add523a4f03c5c71f3875",
+    "fingerprint": [
+     "过分自信",
+     "根本原因",
+     "悲观主义"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "过分自信致悲观",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "反驳“过分自信应致乐观”的辨析（过高估计能力却得不到想要的才悲观）在 1988 行。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-05",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "能否做成一件事与是否有信心无关；对能力没有太高估计的人，不会在失败后产生悲观情绪",
+   "quote": "不会在失败后产生悲观情绪",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1992,
+    "end_line": 1994,
+    "sha1": "cec780bbbce2eaa8935cb8e3066a5673bac616bc",
+    "fingerprint": [
+     "机械装置",
+     "难度",
+     "过分自信"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "信心与成败无关",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "机械装置拆装实验（自评难度分前后差异）在锚内；肯立克《花花公子》封面故事=幻想与现实反差（1996 行）、“十年寒窗拼不过富二代”的悲观来自同一反差且十年寒窗不算人生资本（1998-2000 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-06",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "不断往上走、眼界开阔后越知能力局限，越谦逊越有敬畏之心，变得豁达、不再悲观",
+   "quote": "越有敬畏之心",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2002,
+    "end_line": 2002,
+    "sha1": "ab848f9fa3fe0874df060419a99519434891b247",
+    "fingerprint": [
+     "眼界",
+     "谦逊",
+     "豁达"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-3"
+   ],
+   "concept_key": "眼界与敬畏",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "成因一的解药判断；认知层次提升挂 D01-3 辅助。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-07",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "悲观主义第二成因：坏消息总被放大，通信传媒越发达越明显；灾害频率感知被媒体扭曲",
+   "quote": "坏消息总是被不断放大",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2004,
+    "end_line": 2008,
+    "sha1": "38028363f93f0b201bd5a33c294cd9ce50c34ce9",
+    "fingerprint": [
+     "传媒",
+     "洪水",
+     "放大"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "坏消息放大效应",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "中国20条超2000公里河流、三五年一次“百年一遇”洪水不奇怪的基数论证与驻马店洪灾无人知晓（2008 行）在锚内；媒体报道飞机失事远多于车祸、车祸死亡人数为飞机几千倍（2010 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-08",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "信息论上越与众不同的说法信息量越大：重复或众所周知的信息量为零，意想不到的信息量巨大",
+   "quote": "信息量巨大",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2014,
+    "end_line": 2014,
+    "sha1": "579c1184e64f81fe3a2a519c21cc0d0bf46e3ad9",
+    "fingerprint": [
+     "信息论",
+     "意想不到",
+     "信息量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D02-4"
+   ],
+   "concept_key": "与众不同信息量大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "悲观主义第三成因的原理层（讲中国经济崩溃年年错年年有人听/“末日博士”鲁比尼在锚内）；“越是与众不同的说法信息量越大”的概括在 2012 行；信息原理挂 D04-2 主。"
+  },
+  {
+   "claim_id": "C-GJ-U0046-09",
+   "unit_id": "GJ-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "学界宣传乐观的论文没人看甚至发不出，人被淘汰；并非学者有意误导，而是论文发表必须与众不同",
+   "quote": "他们的观点必须与众不同",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2022,
+    "end_line": 2022,
+    "sha1": "5158b6063691bf31d5f13c248aa4d9680743a243",
+    "fingerprint": [
+     "论文",
+     "发表",
+     "与众不同"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "学术生态偏爱悲观",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "学术界对错误容忍度高、经济学家永远能找到支持自己观点的数据（2016 行）、物理学家“众人说一你要说二、逻辑站得住即可”（2018 行）、布朗 2030 预言逻辑严密但 70 年代石油预言同样合逻辑未应验（2020 行）并入本卡；三成因皆出自人性弱点的总结在 2024 行。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "悲观主义盛行 9 张：弊大于利/公众偏好/哈耶克转述/三成因/实验结论/眼界敬畏/信息论/学术生态"
+}

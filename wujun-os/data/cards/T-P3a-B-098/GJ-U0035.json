@@ -1,0 +1,92 @@
+{
+ "unit_id": "GJ-U0035",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0035-01",
+   "unit_id": "GJ-U0035",
+   "speaker": "转述·第三方",
+   "claim_text": "张先生：在办公室里永远不要省纸——不为省不值钱的东西把事情做得不漂亮",
+   "quote": "永远不要省纸",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1515,
+    "end_line": 1515,
+    "sha1": "84b92c1f94054c077c2d20c8d76ae086d5a1945d",
+    "fingerprint": [
+     "省纸",
+     "验收",
+     "张先生"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "永远不要省纸",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=张国贤（Thomas）；场景：验收数据库软件时吴军合并短描述省纸，张先生当场纠正；吴军解读见 C-GJ-U0035-02（R1 两卡并存互引）。"
+  },
+  {
+   "claim_id": "C-GJ-U0035-02",
+   "unit_id": "GJ-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "不为省小钱把事做不漂亮、为小事费心；戒不掉贪想两头兼顾，往往照顾小头丢了大头",
+   "quote": "把事情做得不漂亮",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1515,
+    "end_line": 1515,
+    "sha1": "84b92c1f94054c077c2d20c8d76ae086d5a1945d",
+    "fingerprint": [
+     "不太值钱",
+     "兼顾两头",
+     "集中精力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "省小失大",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "吴军对张先生“不要省纸”的解读与引申（避免为次要小事费心、集中精力做漂亮该做的事）；尾段“较高的志向、不至于天天算小账”（1521 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0035-03",
+   "unit_id": "GJ-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "打草稿要用像样的纸：清晰草稿让解题水平成倍提高，省半张纸是浪费考出好成绩的机会",
+   "quote": "让解题的水平成倍提高",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1517,
+    "end_line": 1517,
+    "sha1": "ab7724d1f4eb951af3fc4bbf43f4027620d525ac",
+    "fingerprint": [
+     "草稿纸",
+     "思路",
+     "命运"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-2"
+   ],
+   "concept_key": "草稿纸与命运",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "德国读者留言（德国人草稿纸用优质格子纸避免明显错误，1519 行）为例证并入本卡；“这些学生的命运在省那半张草稿纸的时候就已经注定了”为段落落点。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第27节新增段抽卡 3 张（省纸/省小失大/草稿纸）；开头 1501-1511 行与 U0034 原文重复（原书分节重排），不重复抽卡，论点见 C-GJ-U0034-01..04"
+}

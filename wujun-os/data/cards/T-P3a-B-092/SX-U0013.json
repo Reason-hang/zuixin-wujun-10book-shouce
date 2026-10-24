@@ -1,0 +1,180 @@
+{
+  "unit_id": "SX-U0013",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0013-01",
+      "unit_id": "SX-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "P2P把利息平摊各期全额计息多收利息：120万12期多付3万多",
+      "quote": "这其实多交了很多的利息",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1318,
+        "end_line": 1332,
+        "sha1": "6cfd2f834e45499737eea3657fc5a1bea894d56c",
+        "fingerprint": [
+          "利息",
+          "等额本金"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-1"
+      ],
+      "concept_key": "利息平摊的坑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内机理：等额本金偿付下利息随本金归还逐月递减（等差级数，12期共付息3.9万），P2P按120万全额计7.2万；等额本息每月103,279.72元、共付息39,356.59元，月供平滑适合需钱的年轻人，银行多提供此方案（数字以正文为准，HC-13）"
+    },
+    {
+      "claim_id": "C-SX-U0013-02",
+      "unit_id": "SX-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "利率降一点十几年省很多钱；在利率上多付0.5%是捡芝麻丢西瓜",
+      "quote": "捡了芝麻丢了西瓜",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1342,
+        "end_line": 1351,
+        "sha1": "c0f919a95d3c7b109b398acbf074c9d75488ee6e",
+        "fingerprint": [
+          "利率",
+          "月供"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-1"
+      ],
+      "concept_key": "利率的长期杠杆",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内数字：120万15年，6%付息约62.3万；4%省23万、同月供可买136万房；8%只能买105万房（以正文为准）；买房者为省一万来回砍价却对多付0.5%利率无感"
+    },
+    {
+      "claim_id": "C-SX-U0013-03",
+      "unit_id": "SX-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "P2P三坑叠加相当于年息27%高利贷——识破猫腻是学数学最现实的用途",
+      "quote": "就是最现实的用途",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1355,
+        "end_line": 1368,
+        "sha1": "8e41aa6e746ddd2b13f852034ef2e8bc4d7564a0",
+        "fingerprint": [
+          "P2P",
+          "高利贷"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-1"
+      ],
+      "concept_key": "三重坑的复利账",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内三坑：月息1%实为年化12.68%（(1+1%)^12-1）；按全额计息（15.2万 vs 银行3.9万）；先扣利息再按120万还本（实际到手104.8万，写137.4万合同息17.4万）"
+    },
+    {
+      "claim_id": "C-SX-U0013-04",
+      "unit_id": "SX-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "防坑两原则：不借P2P类机构的钱；牢记卖的人比买的人精不贪便宜",
+      "quote": "卖的人比买的人精",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1369,
+        "end_line": 1374,
+        "sha1": "7a03da81581c5b75aa7249912ec25c05ce651f67",
+        "fingerprint": [
+          "P2P",
+          "贪便宜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "借贷防坑原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡；适用算不清账的人：记住原则即得保护"
+    },
+    {
+      "claim_id": "C-SX-U0013-05",
+      "unit_id": "SX-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "加息使同面值债券贬值、降息使升值——微调利率影响多年价格趋势",
+      "quote": "加息意味着同样面值的债券",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1394,
+        "end_line": 1404,
+        "sha1": "8b108cee29b00f246c7b32cf92288fff8a5c0dc1",
+        "fingerprint": [
+          "加息",
+          "国库券"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-2"
+      ],
+      "concept_key": "利率与债券价格反向",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内例证：加息0.5%后新券10年多约800元利息，旧券瞬间贬值；降息0.5%旧券相当于升值5%左右；notes：美国20%~30%资产放债券类，中间商靠大众对微小利率变化的不敏感挣钱；复利包装成单利（6.29%）显得回报高——两种付息方式投资上等价，利滚利感知是误解（原书1384-1393行）"
+    },
+    {
+      "claim_id": "C-SX-U0013-06",
+      "unit_id": "SX-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "债券知识核心是复利增长的数学原理，教人看清多年价格趋势",
+      "quote": "就是复利增长的数学原",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1405,
+        "end_line": 1419,
+        "sha1": "b6f5469c7726363f03fda85024540a37a917a422",
+        "fingerprint": [
+          "复利",
+          "债券",
+          "趋势"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "复利原理看趋势",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内要点总结：两个例子都是数学的现实用途，更应看到它帮我们更好地看待“趋势”——央行调看似不多的利率会影响很多年债券价格趋势；细节记不住没关系，记住结论就好（呼应 C-SX-U0009-6）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第10讲），贷款与债券主线抽6卡；月供具体计算过程（原书1319-1341行）为演算细节并入C1/C2 notes；不构成投资建议，数字均标注以正文为准"
+}

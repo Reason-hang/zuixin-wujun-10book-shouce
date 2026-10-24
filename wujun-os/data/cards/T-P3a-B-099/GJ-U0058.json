@@ -1,0 +1,324 @@
+{
+ "unit_id": "GJ-U0058",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0058-01",
+   "unit_id": "GJ-U0058",
+   "speaker": "转述·第三方",
+   "claim_text": "贝佐斯：做在变化中寻找不变的人",
+   "quote": "在变化中寻找不变",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2546,
+    "end_line": 2548,
+    "sha1": "ed1bc4153750ce823fbec18d5c1c86da6e083951",
+    "fingerprint": [
+     "贝佐斯",
+     "不变"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "在变化中寻找不变",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：贝佐斯。吴军解读（2548 行）：伊藤讲未来的事实，贝佐斯讲应对变化的做法——让变化的技术和市场围绕不变的商业服务，两者不矛盾。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-02",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "IBM 以不变应万变：业务形态常变，围绕企业服务的核心不变，技术只是手段",
+   "quote": "技术只是手段，不是目的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2548,
+    "end_line": 2550,
+    "sha1": "7e216343824d8b9b543e2b4093591830c671bec8",
+    "fingerprint": [
+     "IBM",
+     "普华永道",
+     "以不变应万变"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "以不变应万变",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：制表机/大型机/存储 PC 服务器先后卖掉，靠收购普华永道咨询服务延续；《财富》500强平均年龄 40 岁鲜有常青树；很多人看不到不变的东西，是信息太多、缺乏深入思考、忘了常识（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-03",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "消费者真正关心放心与便宜；网购兴起因价格低省时间，购买方式本身不重要",
+   "quote": "价格低、省时间",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2588,
+    "end_line": 2590,
+    "sha1": "0a4c0e624dc3fdc55a16b8c9499fe1705b93d202",
+    "fingerprint": [
+     "放心",
+     "便宜",
+     "习惯"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "消费者关心便宜与放心",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "逛商场习惯可变也可逆（免费鸡蛋排队例）；商家角度：有没有售货员不重要，能带来利润才重要，不能助此的技术是鸡肋（2590 行）；大妈网传对话（2552-2582）为引入素材不立卡（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-04",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "亚马逊以利润能否提升而非用了多少技术做决策，无人超市成败完全看成本",
+   "quote": "完全要看成本",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2592,
+    "end_line": 2592,
+    "sha1": "3115dd7fc45586487f243180289cbc306b809477",
+    "fingerprint": [
+     "亚马逊",
+     "利润是否能提升",
+     "偷盗"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "利润决策而非技术决策",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：超市取代柜台、电商兴旺皆因扣除损耗后仍赢利；无人超市隐性成本：偷盗毁坏、法律纠纷、退货、大爷大妈蹭空调；RFID 与摄像头非了不得的新技术（马云自己也未当回事）；自助扫描结算比全无人更有效（2594 行）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-05",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "利用新技术不是核心，用技术提高效率、降低成本、提高利润才是不变的道理",
+   "quote": "才是不变的道理",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2594,
+    "end_line": 2594,
+    "sha1": "1800b78daf65b3fcd175ab35e95c1a2f8e8cb2f7",
+    "fingerprint": [
+     "新技术",
+     "提高效率、降低成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "降本增效是不变道理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本章核心句：技术围绕不变的利润本质（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-06",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "技术从来是手段不是目的：购物是刚需，无售货员超市未必是；方便是目的",
+   "quote": "手段而不是目的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2596,
+    "end_line": 2600,
+    "sha1": "f9d0b26b0b78e8833582dfeb35330b083c4a0570",
+    "fingerprint": [
+     "手段",
+     "刚需",
+     "方便才是目的"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "需求是刚需方案未必是",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "FDA 每年下架大量无用途新药，商家不能为卖药发明疾病（2598）；刷卡移动支付都是手段，花钱这件事省不掉，过好日子本质是获得更多钱而不是方便花钱的手段（2600）。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-07",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "今天的潮流两三年就不再是潮流，洞察本质才能立于不败，赶潮流不高人一等",
+   "quote": "洞察本质才能立于不败之地",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2602,
+    "end_line": 2604,
+    "sha1": "e171f02007f186bb4ce61cfdf85e95b0e99cf263",
+    "fingerprint": [
+     "潮流",
+     "洞察本质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "洞察本质高于赶潮流",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "论战中「你不理解时代潮流」是一方败下阵前的最后说辞；智能时代因怕落伍拼命奔跑、凡新技术都追随，会忘掉不变的道理；爱迪生一切围绕让技术解决真正的问题。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-08",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "爱迪生表决机碰壁后明白：技术要有用、有市场，此后再不做没有市场的发明",
+   "quote": "技术还需要有用、有市场",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2606,
+    "end_line": 2612,
+    "sha1": "939866629c950afecfe4c85a37bfcc0ab1df6ed3",
+    "fingerprint": [
+     "表决机",
+     "发明家",
+     "商业思维"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "技术要有市场",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：议会流程需给少数派说服时间，不需加速；爱迪生由发明家思维转企业家思维；对照：贝尔西门子以发明解决现实问题而成功，特斯拉理解了变革却忽视永恒的道理（2612 行）。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-09",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "仅仅谈改变没有意义，变好才是目的，改变有好坏方向之分",
+   "quote": "变好才是目的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2614,
+    "end_line": 2614,
+    "sha1": "df37c177f9b45b8a3e1ba7f4316bff8ac18917f8",
+    "fingerprint": [
+     "改变",
+     "搞好才是目的"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-3"
+   ],
+   "concept_key": "变好才是目的",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "朱利安尼语（转述）：改变本身不是目的，搞好才是目的；奥巴马「改变」口号当选但选民 8 年后更贫穷、2016 年民主党全面溃败为吴军政论例证；大妈「要的是带来幸福的改变」呼应。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-10",
+   "unit_id": "GJ-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "30岁转学编程成高手者极少；更好的改变是学计算机思维用于熟悉行业扩大原优势",
+   "quote": "扩大自己原有的优势",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2616,
+    "end_line": 2616,
+    "sha1": "88c11f3de7849729e16ba0728f71e224ad29fb05",
+    "fingerprint": [
+     "计算机思维",
+     "近万小时",
+     "刻意练习"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "扩大原有优势",
+   "ability_tags": [
+    "学",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "优秀计算机工程师需近万小时刻意练习，多数人决定前未考虑；把新技术用于自己熟悉的行业是更优路径。"
+  },
+  {
+   "claim_id": "C-GJ-U0058-11",
+   "unit_id": "GJ-U0058",
+   "speaker": "转述·第三方",
+   "claim_text": "爱因斯坦：真理就是在经验面前站得住脚的东西",
+   "quote": "在经验面前站得住脚",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2618,
+    "end_line": 2620,
+    "sha1": "4a3e6776b91a73ed053a9b7536c56b11d563c2c6",
+    "fingerprint": [
+     "爱因斯坦",
+     "经验",
+     "定力"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "经验验证的真理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：爱因斯坦。吴军取用：大妈不懂高科技却懂朴素道理；商业模式可行不看技术含量，看能否更便宜更方便；有定力、坚持往好的方向改变就能远离失败（2620 行收尾）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《寻找快速变化中的永恒》（领域直连单元）：11 卡（E1×7、E2×2、E3×2），商业判断按领域直连处理并在 notes 标记；大妈网传对话（2552-2582）为引入素材不立卡；2592 行 666 字整行承载亚马逊论证未超限。"
+}

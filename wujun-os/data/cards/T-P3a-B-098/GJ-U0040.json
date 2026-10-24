@@ -1,0 +1,155 @@
+{
+ "unit_id": "GJ-U0040",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0040-01",
+   "unit_id": "GJ-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "成长就是逐渐杀死心中超级英雄的过程；同一孙悟空不同年龄认识不同，代沟确实存在",
+   "quote": "逐渐“杀死”心中那些超级英雄",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1747,
+    "end_line": 1747,
+    "sha1": "1fbb105e858dc20b014a01dd04a06e51e47c1d8e",
+    "fingerprint": [
+     "超级英雄",
+     "代沟",
+     "孙悟空"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "杀死心中的超级英雄",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "玄幻剧热播归因于少年当超级英雄的梦想（1733-1739 行）；童年崇拜孙悟空→大学后转粉猪八戒/唐僧的年龄变化（1741-1743 行）为例证链。"
+  },
+  {
+   "claim_id": "C-GJ-U0040-02",
+   "unit_id": "GJ-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "孩子最终能走多远不取决于父母描绘的承诺，取决于自己不停往前走的意愿",
+   "quote": "在不停往前走方面有多大的意愿",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1751,
+    "end_line": 1751,
+    "sha1": "ad0712db1bd93abcca3dc1a2d24c6aa379b82eeb",
+    "fingerprint": [
+     "承诺",
+     "意愿",
+     "往前走"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "成长靠自身意愿",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "成长内驱力判断；语境（家长许不切实际的愿导致梦碎）属亲子教育，见本单元 X5 处置。"
+  },
+  {
+   "claim_id": "C-GJ-U0040-03",
+   "unit_id": "GJ-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "失败是成功之母最多说对10%：成功才是成功之母，经常失败会习惯性失败、丧失勇气",
+   "quote": "成功才是成功之母",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1759,
+    "end_line": 1759,
+    "sha1": "52e5a7c66cfe1d3e2e3586f04aaf83cc79e1e1fd",
+    "fingerprint": [
+     "失败是成功之母",
+     "习惯性失败",
+     "1+1"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "成功才是成功之母",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "知道 1+1 不等于 3 不等于知道等于 2（失败教训 vs 成功经验）在锚内；过多失败的危害远比想象大、尽量避免失败在锚内；与富足“可重复的成功”同族判据。"
+  },
+  {
+   "claim_id": "C-GJ-U0040-04",
+   "unit_id": "GJ-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "成年人的不相信源于不断受挫后认命；从胜利走向胜利的人才能保持雄心壮志",
+   "quote": "从一个胜利走向另一个胜利",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1757,
+    "end_line": 1757,
+    "sha1": "5b6429f11f5cbbf19246119bca39ada8f4f98d93",
+    "fingerprint": [
+     "挫败感",
+     "认命",
+     "雄心壮志"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "挫败与雄心",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "亚历山大/拿破仑/乔布斯/马斯克为例证（锚内）；缩小代沟第二个方法（让梦想多延续一段时间）与结尾“做点实事让自己从成功中获取信心”（1765 行）并入本卡。"
+  },
+  {
+   "claim_id": "C-GJ-U0040-05",
+   "unit_id": "GJ-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "大部分人成不了超级英雄很正常：凡人有凡人的幸福，强求做不到的事未必幸福",
+   "quote": "凡人有凡人的幸福",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1763,
+    "end_line": 1763,
+    "sha1": "635a76609fff99f715c6990a0fbb1cd855639ffb",
+    "fingerprint": [
+     "凡人",
+     "马尔库拉",
+     "幸福"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-3"
+   ],
+   "concept_key": "凡人的幸福",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "马尔库拉放弃成为世界首富机会选择凡人幸福为专名例证（锚内）；坦然接受的自我安放挂 D02-3 辅助。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0040",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "代沟与亲子沟通议题（青春期 teenage 解读、玄幻剧归因、父母应反思自己如何梦碎而非责怪孩子，1733-1749 行）属家庭与亲子类，指向 X5"
+  },
+  {
+   "unit_id": "GJ-U0040",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "家长许愿/夸孩子文化（美国天使式夸奖、中国智力前5%假设、奥数与STEM培训）、犹太幼儿园不许穿超级英雄服装、申请大学干预与制定切实目标（1751-1761 行）属家庭教育方法类，指向 X5；其可迁移判断已抽出（C-GJ-U0040-02 意愿、C-GJ-U0040-03 成败观）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "成长与梦碎主题 5 张（杀死英雄/成长意愿/成功才是成功之母/挫败与雄心/凡人幸福）；代沟与家庭教育记 X5 两条"
+}

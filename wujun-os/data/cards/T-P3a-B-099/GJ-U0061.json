@@ -1,0 +1,433 @@
+{
+ "unit_id": "GJ-U0061",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0061-01",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "没有稀缺性就可随时被取代、没有议价能力；人才过剩与商品过剩同理",
+   "quote": "没有议价能力",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2745,
+    "end_line": 2745,
+    "sha1": "80c1ff6efeb47066c9d5dde5c268b02d8736495a",
+    "fingerprint": [
+     "稀缺性",
+     "议价能力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D06-1"
+   ],
+   "concept_key": "稀缺性决定议价能力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "背景：学历通胀——博士做硕士工作、硕士做本科工作（2741）；华尔街律所好莱坞实习生免费甚至倒贴钱干活；谷歌人才过剩被《纽约时报》视为成功原因之一；有稀缺性者免费传播反而带来巨大利益（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-02",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "超越免费有5个法则：时效性、个性化、可用性（易理解性）、可靠性和黏性",
+   "quote": "时效性、个性化",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2747,
+    "end_line": 2747,
+    "sha1": "665b6ea6b3ef02879bb0d8e6325917cf25419a95",
+    "fingerprint": [
+     "时效性",
+     "个性化",
+     "黏性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "超越免费5法则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "总纲卡，各法则分卡见 -04/-07/-12/-13/-14（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-03",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "算账不仅要算看得见的金钱账，还要算潜在的经济得失",
+   "quote": "算潜在的经济得失",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2753,
+    "end_line": 2757,
+    "sha1": "f92e382eee4588cc0b584762c3286027e031c2ae",
+    "fingerprint": [
+     "金钱账",
+     "大出息"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "算潜在经济得失",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "看直播 vs 免费重播的算账：不上班看开幕式损失职业收益、熬夜看球身体损失不止 50 元；只盯着看得见的钱的人一辈子不会有什大出息。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-04",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "可复制的东西会免费，不可复制的东西才值钱；时效性天然不可复制",
+   "quote": "不可复制的东西才能值钱",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2759,
+    "end_line": 2761,
+    "sha1": "82539637ef42dd7574fd654fa42f2017e15c003a",
+    "fingerprint": [
+     "不可复制",
+     "时效性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "时效性超越免费",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：首映排队（社交谈资）、新机排队、精装本先于平装（2763-2769）；软件时效性强弱：操作系统编程工具强于应用软件；美国投资人语（2777）：一流公司参与开发、二流赶紧买、三流等盗版——省了钱但市场没了（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-05",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "人的技能也有时效性：满大街都是培训班时，这种技能的时效性早已过去",
+   "quote": "这种技能的时效性早就过去了",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2779,
+    "end_line": 2781,
+    "sha1": "59e8dcb7afd229811b4b78bcd4a431eac561d457",
+    "fingerprint": [
+     "培训班",
+     "码农",
+     "时效性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "技能的时效性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "60 年代会编程不输公司管理者，今天被谑称码农；吴恩达 AI 课 15 万人、区块链课百万人听，正因从业者知道等毕业生大批出校门时技能价值就没了。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-06",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "终身学习的目的是领先同辈一步，成为有时效性的人才，避免低水平竞争",
+   "quote": "领先同辈人一步",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2783,
+    "end_line": 2783,
+    "sha1": "f148c218339fadfff7dcfe22492ccf8a9a594707",
+    "fingerprint": [
+     "终身学习",
+     "低水平"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "终身学习保持时效性",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "靠时效性挣钱要抓住头几年，如同精装书赚钱。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-07",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "免费的基础是易复制；无法复制又有价值的东西不可能免费——真个性化",
+   "quote": "无法复制又有价值的东西",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2787,
+    "end_line": 2787,
+    "sha1": "832aefaf3616844f14b9f36655b785461b042be4",
+    "fingerprint": [
+     "易复制",
+     "个性化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "真个性化无法复制",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "伪个性化反例：衬衫/书封印名字可复制且无价值；名人花几百元买回作家签名赠书的趣闻（2793-2795）；极致例：个性化医疗（靶向治疗测基因、按个人基因定制感冒药，2797-2801）；大数据精准营销可获超出免费的溢价（2803）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-08",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "罗辑思维卖书好的真因是个性化：只需知道对某本书感兴趣的1%读者在哪里",
+   "quote": "知道这1%的人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2805,
+    "end_line": 2807,
+    "sha1": "c75a7d82548832bcf04c3e047ef4b68de98ab027",
+    "fingerprint": [
+     "罗辑思维",
+     "罗振宇",
+     "个性化"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "找到1%的读者",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：非罗振宇个人魅力，名气更大者卖书不及；出版社书单二三十本对具体读者仅两三本合适；几十万精准读者愿花更多钱更早拿到书，换平台红利即失（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-09",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "特斯拉开放个性化配置获高毛利；不了解用户需求的传统车商与手机厂只能降价清库存",
+   "quote": "个性化配置汽车",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2809,
+    "end_line": 2809,
+    "sha1": "ae1b8b89d6c94f56d1c92b4124142affe5d85734",
+    "fingerprint": [
+     "特斯拉",
+     "毛利率",
+     "iPhone8"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2",
+    "D10-1"
+   ],
+   "concept_key": "个性化定制的溢价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：用户自己配置→无浪费毛利高；传统厂商备各型号、经销商订最保险配色，库存年底降价清空毛利低；苹果 iPhone8 滞销/X 排队、华为 Mate20 型号错配同理；车企已开始学特斯拉高端定制（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-10",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "智能时代人要有个性才不可替代；可被随便挑人替代者不会被认为重要",
+   "quote": "人因为有个性才可爱",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2811,
+    "end_line": 2811,
+    "sha1": "241a9c462047ed2d588a20848f8b85c62af62dac",
+    "fingerprint": [
+     "个性",
+     "不可替代",
+     "70亿"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "个性不可替代",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "千人一律是工业时代特征（保证行动与品质一致）；智能时代可重复之事交给机器，对人的要求是个性化。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-11",
+   "unit_id": "GJ-U0061",
+   "speaker": "转述·第三方",
+   "claim_text": "凯利：Linux免费但红帽手册卖1万美元；免费电视时代最挣钱的是收视指南杂志",
+   "quote": "却要卖1万美元",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2829,
+    "end_line": 2837,
+    "sha1": "b2b0dbe50bd5a9d6199fc61b26c47a4c52801f71",
+    "fingerprint": [
+     "凯利",
+     "红帽",
+     "收视指南"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "易理解性的价值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：凯文·凯利（向吴军讲的两个例子）。免费源代码装不上、设不对、不会用，教会使用的手册才值钱；NBC/ABC/CBS 垄断电视，最挣钱的却是帮人从上百节目中选择的收视指南小册子（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-12",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "把事情解释清楚的本领在任何时代都是赚钱的生意；信息太复杂，免费也用不好",
+   "quote": "把事情解释清楚",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2839,
+    "end_line": 2841,
+    "sha1": "1f6fddaead5776534420843cad1c0d9a9c6a4943",
+    "fingerprint": [
+     "解释清楚",
+     "解读"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D07-1"
+   ],
+   "concept_key": "解释清楚是生意",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：罗振宇读不懂经典（2817）、复述式论文因满足读懂需求而发表（2825）、导师库旦普开课讲希斯沙论文（2827）、公版经典免费而 4.99 元解读产品仍卖钱（2841）；律师生意本质是解释法律（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-13",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "可靠性比免费更重要；免费服务没收入难以改进，长期看没有竞争力",
+   "quote": "可靠性比免费更重要",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2849,
+    "end_line": 2853,
+    "sha1": "1b80bbbc06ce61ef3af09d0e11ac149432f9601e",
+    "fingerprint": [
+     "可靠性",
+     "免费服务",
+     "难以改进"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "可靠性超越免费",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：免费 N 手车没人要、宁可花钱买可靠日本车（2847）；免费大家电占空间三天两头坏宁可拒绝；私营牙科不排队、美国最好的大学医院皆私营（2851）；补贴拉新与拥有稳定用户是两类罕见交集的公司（2855）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-14",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "数据积累让护城河越来越深：拿走阿里巴巴全部源代码也复制不出新阿里",
+   "quote": "护城河越来越深",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2863,
+    "end_line": 2865,
+    "sha1": "17dd04366f7005fc38432ed81c59a2ebf3ddc167",
+    "fingerprint": [
+     "数据的黏性",
+     "护城河",
+     "源代码"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据黏性护城河",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "技术护城河不可靠（难永远领先），数据黏性让换服务商知难而退（换手机号/安卓换苹果，2859-2861）；基金 2014 年起投上百家公司的共性：不断积累数据制造黏性，靠免费拉用户买用户的公司常后劲不足（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0061-15",
+   "unit_id": "GJ-U0061",
+   "speaker": "吴军本人",
+   "claim_text": "个人的数据黏性是可叠加式进步；与其预测哪个行业吃香，不如增加自己的黏性",
+   "quote": "可叠加式的进步",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2867,
+    "end_line": 2867,
+    "sha1": "dc6110c3f7adb4a7c6673bb0bfb2bf33ad38f2cd",
+    "fingerprint": [
+     "可叠加式",
+     "黏性",
+     "护城河"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D06-1"
+   ],
+   "concept_key": "个人黏性可叠加",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "经验不断叠加而非简单重复的从业者非常稀缺、开什么价都有人请，离开则机构损失大；担心计算机吃青春饭只是无护城河者的现状；与 C-GJ-U0056-02 可叠加式进步互文。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《超越免费的5个法则》（D08-2 素材原章，6922 字）：15 卡（E1×12、E2×1、E3×2），五法则各独立成卡+个人迁移判断（算账/终身学习/个性/个人黏性）；伪个性化反例与美国投资人语并入母卡 notes。"
+}

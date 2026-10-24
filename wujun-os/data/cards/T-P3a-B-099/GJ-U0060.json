@@ -1,0 +1,152 @@
+{
+ "unit_id": "GJ-U0060",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ4",
+ "batch_id": "T-P3a-B-099",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0060-01",
+   "unit_id": "GJ-U0060",
+   "speaker": "吴军本人",
+   "claim_text": "免费模式的结果是赢家垄断、输家速死：死掉的根源是提供的东西重复且无价值",
+   "quote": "重复且无价值",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2692,
+    "end_line": 2692,
+    "sha1": "b55fddfa82b2016e9f5c007da2a63ab78840d245",
+    "fingerprint": [
+     "垄断",
+     "马太效应",
+     "重复"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "免费赢家通吃",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "2001 泡沫后美国 98% 融资过的互联网公司关门（AltaVista、Inktomi）；2016 全球互联网收入 3800 亿美元 vs 运营商设备商 3.5 万亿，谷歌一家占近 1/4，成千上万家公司收入不及中国移动一家（2702-2704）；摩拜后跟风者多为庸才蠢材、投资人更蠢（2706）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0060-02",
+   "unit_id": "GJ-U0060",
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：重点落在有用而非信息——提供特有的、原先不知道的信息才有价值",
+   "quote": "提供有用的信息是根本",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2694,
+    "end_line": 2698,
+    "sha1": "88b0485a80dd7ec88e2629c8b255832621023700",
+    "fingerprint": [
+     "有用的信息",
+     "额外",
+     "信息量"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2",
+    "D04-2"
+   ],
+   "concept_key": "有用信息论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：拉里·佩奇（吴军《见识》介绍过的智慧，此处复述）；崔永元爆料全网转载而无一媒体受益——复制不具额外信息量（信息论视角）；视窗后再无人做出更好的 PC 操作系统（同类无额外价值）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0060-03",
+   "unit_id": "GJ-U0060",
+   "speaker": "吴军本人",
+   "claim_text": "超越免费不是变本加厉倒贴钱，而是找到免费成功的逻辑然后超越那个逻辑",
+   "quote": "超越那个逻辑",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2708,
+    "end_line": 2712,
+    "sha1": "c226fbb6d1b23bd99750149712ee873382058deb",
+    "fingerprint": [
+     "倒贴",
+     "抱薪救火",
+     "超越"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "超越免费的逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "微软 2004-2010 年倒贴约 5 美分/次鼓励用其搜索，年烧十几亿美元市占率无提升；创业者倒贴如抱薪救火、薪不尽火不灭（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0060-04",
+   "unit_id": "GJ-U0060",
+   "speaker": "吴军本人",
+   "claim_text": "免费之所以吸引人靠的是原本的稀缺性；东西不再稀缺时免费就没有意义",
+   "quote": "当那些东西不再有稀缺性时",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2714,
+    "end_line": 2718,
+    "sha1": "9f242626a5fae58c1e2b30cacf74780355790480",
+    "fingerprint": [
+     "稀缺性",
+     "免费"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "免费依赖稀缺性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：谷歌免费零食员工不久就不再拿回家（无稀缺性）、大学零食被一扫而光（有稀缺）；东德香蕉统一后抢购三天即止（2720-2726）（领域直连）。"
+  },
+  {
+   "claim_id": "C-GJ-U0060-05",
+   "unit_id": "GJ-U0060",
+   "speaker": "吴军本人",
+   "claim_text": "超越免费第一条是制造稀缺性：产品服务本身要有难以复制的特性，前提是与众不同",
+   "quote": "制造一种稀缺性",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 2728,
+    "end_line": 2734,
+    "sha1": "3d954c02a0c360922c8d73da4a81e853963b0add",
+    "fingerprint": [
+     "稀缺性",
+     "难以复制",
+     "与众不同"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D10-1"
+   ],
+   "concept_key": "制造稀缺性",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "例证：苹果新机排队黄牛号上千美元；iPhoneX 因特点鲜明受捧、iPhone8 无新意遇冷；过剩的不仅是商品和信息还有人才（个人迁移）（领域直连）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "精读《免费时代的赢家和输家》（D08-2 素材原章）：5 卡（E1×4、E2×1）；鲍尔默「盗就盗正版」为历史引语不立卡（非可迁移判断）、雅虎首创免费+广告为史实背景。"
+}

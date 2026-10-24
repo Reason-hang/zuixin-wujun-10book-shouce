@@ -1,0 +1,245 @@
+{
+ "unit_id": "GJ-U0023",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ2",
+ "batch_id": "T-P3a-B-097",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0023-01",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "好的职场沟通从面试开始：好的面试从听懂对方问题开始，且要主动展示风采而非被动应考",
+   "quote": "主动展示自己的风采",
+   "anchor": {
+    "start_line": 903,
+    "end_line": 903,
+    "fingerprint": [
+     "面试",
+     "上千人"
+    ],
+    "sha1": "8c6585e3bd1c02dfb151b9159e75ef692dd73555",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "职场沟通从面试开始",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "两点心得总起；经验来自谷歌腾讯面试上千人"
+  },
+  {
+   "claim_id": "C-GJ-U0023-02",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "面试官倾向性常在见面前5分钟形成；做好准备、给人好印象是成本最低收益最大的事",
+   "quote": "成本最低、收益最大",
+   "anchor": {
+    "start_line": 907,
+    "end_line": 907,
+    "fingerprint": [
+     "第一印象",
+     "倾向性"
+    ],
+    "sha1": "e5ecb53514ec3e973681e7e8f23ef2bc851cc908",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试前5分钟",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "形象是非语言交流；与 C-GJ-U0024-02（前5分钟产生兴趣）跨单元互引"
+  },
+  {
+   "claim_id": "C-GJ-U0023-03",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "面试不是考试而是人与人的交流：面试官承担更大风险，也想在短时间内获得有效信息而非难为面试者",
+   "quote": "面试不是考试",
+   "anchor": {
+    "start_line": 909,
+    "end_line": 909,
+    "fingerprint": [
+     "主导者",
+     "信息沟通"
+    ],
+    "sha1": "0df74491dd97d59b4301e0836a3de7c593fab596",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试是交流不是考试",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "理解双方处境即可不必过度紧张；有效沟通需换位思考（911 行），面试官要找能同层交流的同事"
+  },
+  {
+   "claim_id": "C-GJ-U0023-04",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "面试最糟的不是答错，而是没听懂问题就胡乱回答；没懂问题还自觉圆满才是真失败",
+   "quote": "没有听懂面试官的问题而胡乱回答",
+   "anchor": {
+    "start_line": 913,
+    "end_line": 915,
+    "fingerprint": [
+     "最糟糕",
+     "理解能力"
+    ],
+    "sha1": "262e8b525c76d937f30b9942722c6273c69055f6",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "听懂问题比答对更重要",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "配套数据：吴军面试者中约1/4没听懂就急忙回答，最终都没获职位（915 行）；好面试官的问题有层次有深度，没人指望百分之百答出"
+  },
+  {
+   "claim_id": "C-GJ-U0023-05",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "回答前用自己的语言复述问题确认理解；答不出时说明思路比直接答案更能证明可同层交流",
+   "quote": "复述一下问题",
+   "anchor": {
+    "start_line": 917,
+    "end_line": 919,
+    "fingerprint": [
+     "复述",
+     "讲演者"
+    ],
+    "sha1": "042ef873d3b2971f8b405a3d08d94bcc630bcf33",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "复述确认",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "美国博士生导师训练学生答问前复述问题（919 行同源佐证），中国大学很少教"
+  },
+  {
+   "claim_id": "C-GJ-U0023-06",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "聪明面试者会反问「他为什么问这个问题」：好答案的标准因人因场合而异，理解意图才能有效交流",
+   "quote": "为什么他要问我这个问题",
+   "anchor": {
+    "start_line": 921,
+    "end_line": 921,
+    "fingerprint": [
+     "陷阱",
+     "意图"
+    ],
+    "sha1": "134cec0d2d58c42ea32a620bc89f8279a19b9ae7",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "理解提问意图",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "面试题答案无绝对对错只有好坏；刷题库背答案达不到"
+  },
+  {
+   "claim_id": "C-GJ-U0023-07",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "中位数面试题：话里有话考察理解意图，「非常非常多」暗示排序不是期待的答案、高效方案才是",
+   "quote": "话里有话",
+   "anchor": {
+    "start_line": 927,
+    "end_line": 931,
+    "fingerprint": [
+     "非常非常多",
+     "笨办法"
+    ],
+    "sha1": "74fef237e4b7a4a05244faeb3b61079d0fb9ff89",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "中位数面试题",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "谷歌腾讯专名场景+可迁移机理（R3 独立成卡）；有经验者承认排序是笨办法并争取思考时间，正是面试官想听的"
+  },
+  {
+   "claim_id": "C-GJ-U0023-08",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "想不出时主动请求提示优于闷头死磕：工作中不会就请教不丢脸，闷头做不出反耽误事",
+   "quote": "并非一件丢脸的事情",
+   "anchor": {
+    "start_line": 933,
+    "end_line": 933,
+    "fingerprint": [
+     "提示",
+     "死磕"
+    ],
+    "sha1": "9eace8432af589bf2438450eeaf640bcfc2b93e2",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1",
+    "D06-2"
+   ],
+   "concept_key": "主动求助不丢脸",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "面试场景与职场做事双落点；延伸问题（复杂度分析、千台服务器）刷题解决不了，靠与面试官不断沟通（935 行）"
+  },
+  {
+   "claim_id": "C-GJ-U0023-09",
+   "unit_id": "GJ-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "面试是实际工作的预演：通过不断讨论交流更深刻理解问题、找到更好答案，是最有效的工作方式",
+   "quote": "实际工作的一次预演",
+   "anchor": {
+    "start_line": 937,
+    "end_line": 937,
+    "fingerprint": [
+     "预演",
+     "团队精神"
+    ],
+    "sha1": "9dcef0fbbd4b06c9d820c947fdc8c07caca52564",
+    "book_code": "GJ"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试是工作预演",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "面试重要目的是找到可一同工作、有团队精神的人；章末「还应展现自己特有的风采」（939 行）呼应 C-GJ-U0023-01"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "面试沟通方法论（听懂问题、复述确认、理解意图、寻求提示）均为吴军本人判断与谷歌腾讯千次面试经验，入主干；中位数面试题作 E3 独立卡"
+}

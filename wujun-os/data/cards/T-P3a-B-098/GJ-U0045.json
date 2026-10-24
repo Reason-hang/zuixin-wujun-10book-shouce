@@ -1,0 +1,63 @@
+{
+ "unit_id": "GJ-U0045",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0045-01",
+   "unit_id": "GJ-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "防御性悲观能减轻悲剧打击却不能解决问题；恐惧未来让人瞻前顾后、失去应有的机会",
+   "quote": "防御性悲观",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1969,
+    "end_line": 1969,
+    "sha1": "efdef78cd5925fbc078122a814e95b3c2e9faa1a",
+    "fingerprint": [
+     "悲观主义",
+     "恐惧未来",
+     "打击"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "防御性悲观",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "悲观主义成因两支：预期中打击不痛苦（防御性悲观）+恐惧未来促使小心谨慎但失去机会，均在锚内；D02-4 线索（格局第七章悲观主义）。"
+  },
+  {
+   "claim_id": "C-GJ-U0045-02",
+   "unit_id": "GJ-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "世界并非那么灰暗，挫折是暂时性的；积极走向成功、享受成功的喜悦才是应有的生活态度",
+   "quote": "才是我们应有的生活态度",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1971,
+    "end_line": 1971,
+    "sha1": "8ca1afc523a88276d45abfeaca82bbd2712bd2a6",
+    "fingerprint": [
+     "灰暗",
+     "暂时性",
+     "喜悦"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "积极的生活态度",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "第七章章首落点判断；乐观人生态度归 D02-4（乐观与悲观 must_check topic ①）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第七章章首：悲观成因与积极态度两判断"
+}

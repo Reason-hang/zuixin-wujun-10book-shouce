@@ -1,0 +1,233 @@
+{
+  "unit_id": "SX-U0011",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0011-01",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "学数学难有立竿见影的知识点，但能形成系统做事方法并改进看世界角度",
+      "quote": "形成了系统的做事方法",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1049,
+        "end_line": 1052,
+        "sha1": "c87830778b9b515cc009a6f271a457a44edec4d7",
+        "fingerprint": [
+          "见识",
+          "做事方法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "系统做事方法的养成",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本讲开篇：直接提升见识的单一知识点没遇到过，但系统方法是实收益；两点体会=从个案找通解、从孤立事件看趋势"
+    },
+    {
+      "claim_id": "C-SX-U0011-02",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "数列讲的是趋势：不仅看当下有多少，更要看明天能变多大、变多快",
+      "quote": "数列，其实讲的就是一个趋势",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1146,
+        "end_line": 1149,
+        "sha1": "9771f50faf8dc9e6e2e7614dccd2a4c2040fbfa5",
+        "fingerprint": [
+          "趋势",
+          "等差数列"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "当下与趋势",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "呼应本讲标题“当下很重要，但趋势更重要”；等差数列即使逐项增长也缓慢；同义句（原书1079-1081行）：数列重要的是彼此关联与规律而非数字本身"
+    },
+    {
+      "claim_id": "C-SX-U0011-03",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "澳洲24只兔子繁衍至40亿只成生态灾难——真遇上指数增长的事非常可怕",
+      "quote": "真遇上指数增长的事情",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1092,
+        "end_line": 1103,
+        "sha1": "6bcb9610a8bc3b5cdc958cb370b25647ad9d6900",
+        "fingerprint": [
+          "兔子",
+          "指数增长"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "指数增长的可怕",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：1859年奥斯汀带24只兔入澳→40亿只；吃兔（1929起）与军队捕杀均无效，1951年引入病毒灭99%以上，幸存兔抗病毒，人兔大战延续至今；机理=无约束指数爆炸不可逆"
+    },
+    {
+      "claim_id": "C-SX-U0011-04",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "斐波那契比值收敛1.618显数学浑然天成；学数学重在用线索串联知识点",
+      "quote": "能够用一两条关键的线索",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1110,
+        "end_line": 1117,
+        "sha1": "c516244fc2bd0fae39d79e43586684e034fdb9c6",
+        "fingerprint": [
+          "1.618",
+          "知识点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "串联知识点的学法",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两判断同链：Rn 趋近黄金分割=数学知识点天然联系即数学之美（表格以正文为准，HC-13）；技巧不在题做得多难，而在闭眼能用一两条关键线索串起知识点——课程自身即示范（毕达哥拉斯→黄金分割→数列）"
+    },
+    {
+      "claim_id": "C-SX-U0011-05",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "斐波那契开头几项不符收敛规律——少样得出的规律与大数据规律是两回事",
+      "quote": "完全是两回事",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1118,
+        "end_line": 1122,
+        "sha1": "b67bf1f948be62195c18cc4885152a5fcc3f1ca6",
+        "fingerprint": [
+          "收敛",
+          "规律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "少样规律不可靠",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与 C-SX-U0005-01（特例≠定理）同族：小样本“规律”与大样本规律可能完全不同，要特别注意"
+    },
+    {
+      "claim_id": "C-SX-U0011-06",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "企业扩张可接受的最大员工增速≈斐波那契比率1.618，超过则文化难维持",
+      "quote": "企业的文化就很难维持了",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1123,
+        "end_line": 1129,
+        "sha1": "4323b91f6412dac937d29b94b945d5dccf7ea55b",
+        "fingerprint": [
+          "员工",
+          "文化"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1",
+        "D04-1"
+      ],
+      "concept_key": "扩张速率上限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "E3 应用推演：机理=新人须老员工一对一带，老员工带两三个后转向自身发展不再带，带新人的只剩职级中等偏下者——与兔子繁殖同理（性成熟且年轻者在生育）"
+    },
+    {
+      "claim_id": "C-SX-U0011-07",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "等比数列不仅代表指数上涨，也代表按比例衰减",
+      "quote": "也可能代表不断地衰减",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1131,
+        "end_line": 1145,
+        "sha1": "8c5ea1407d718e23a49a3bb5b4780836062fedf1",
+        "fingerprint": [
+          "等比数列",
+          "碳-14"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "指数衰减",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "锚内例证：炒股每次损10%约6次损一半、13次损3/4；碳-14测年法=生物死后不再吸入、体内比例按半衰期衰减，据此测古代生物年代"
+    },
+    {
+      "claim_id": "C-SX-U0011-08",
+      "unit_id": "SX-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "存款级数案例：年存2万增10%需15年凑首付——体会为何要比同龄人更快进步",
+      "quote": "更能体会为什么必须进步",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 1150,
+        "end_line": 1159,
+        "sha1": "72e0f6c97e9e11837906130a759fdaec3ae9c6ac",
+        "fingerprint": [
+          "级数",
+          "首付"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-1"
+      ],
+      "concept_key": "积累速度的追赶",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "E3 专名案例：年薪10万存20%、工资年增10%、房价300万首付60万，级数求和S(N)=2(1+1.1+…+1.1^[N-1])，N=15年（公式以正文为准，HC-13）；吴军建议亲自算一遍体会进步速度差的意义"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第08讲），数列级数双主题抽8卡；等差/等比数列定义与斐波那契兔子推导（原书1075-1091行）为数学事实不入卡，其史实链并入C3；要点总结三条为C2/C4/C7复述不另立卡"
+}

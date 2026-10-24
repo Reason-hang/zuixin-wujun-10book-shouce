@@ -1,0 +1,174 @@
+{
+  "unit_id": "SX-U0006",
+  "book_code": "SX",
+  "extractor": "EXT-SX1",
+  "batch_id": "T-P3a-B-092",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0006-01",
+      "unit_id": "SX-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "无理数危机带来思想飞跃：认识不能有禁区，事先设的框框终被抛弃",
+      "quote": "最终都不得不被抛弃掉",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 488,
+        "end_line": 490,
+        "sha1": "485772199d86fb3309bf4ad18eb533ebf4a31143",
+        "fingerprint": [
+          "无理数",
+          "条条框框"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "认识无禁区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "危机=认知局限的信号：需要新思想新理论解释无限不循环小数；与 C-SX-U0004-04（毕达哥拉斯之错）互为两面"
+    },
+    {
+      "claim_id": "C-SX-U0006-02",
+      "unit_id": "SX-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "推导无误而结论与直观冲突时，通常是认知骗了我们，应把危机看成转机",
+      "quote": "把危机看成是转机",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 491,
+        "end_line": 502,
+        "sha1": "af2aacfc4624ca594a1e171d64b28c13f2757a8c",
+        "fingerprint": [
+          "转机",
+          "推理的过程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "危机即转机",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "处置序：先查推理疏漏（大多数错在此）；排除后二选一——认知欺骗我们（常有）或最初假设错了（很少，如非欧几何）；无穷小、无穷大、公理化集合论皆由矛盾推动"
+    },
+    {
+      "claim_id": "C-SX-U0006-03",
+      "unit_id": "SX-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "里斯算出宇宙质量为负，信数学而非观测，从而发现暗能量获诺奖",
+      "quote": "认定宇宙中一定存在我们看不见",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 507,
+        "end_line": 514,
+        "sha1": "def879b75fe47f1e6f13b674d53b212bf506ded0",
+        "fingerprint": [
+          "暗能量",
+          "诺贝尔奖"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学先于观测",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（E3）：约翰·霍普金斯天体物理学家亚当·里斯；机理=推导无误时先怀疑眼睛与仪器；吴军称此课让他坚信对数学本身的信心"
+    },
+    {
+      "claim_id": "C-SX-U0006-04",
+      "unit_id": "SX-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "自然科学很多重大发现最初靠数学推导而非观测，如黑洞引力波原子论",
+      "quote": "据数学推导出来的",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 515,
+        "end_line": 521,
+        "sha1": "8e08719e47ab9d79be0d852fb00c2b2a08b4422e",
+        "fingerprint": [
+          "黑洞",
+          "引力波"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "推导先于观测的发现",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "血液循环论、现代原子论最初也是建立在数学推导上的假说后经实验验证；锚内：不需亲力亲为做一遍即可确知结论——如不会踢足球仍可评论足球，把握准则即可，数学就是这样的准则"
+    },
+    {
+      "claim_id": "C-SX-U0006-05",
+      "unit_id": "SX-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "从数学定理可推导出针对现实世界的推论、改变世界观，即数学的预见性",
+      "quote": "这就是数学的预见性",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 522,
+        "end_line": 526,
+        "sha1": "540eb7cb2441dc31702238245d73989f401a027f",
+        "fingerprint": [
+          "预见性",
+          "有理数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学的预见性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本讲要点总结：毕达哥拉斯定理的直接结果指出无理数存在，把数的认识从有理数扩展到无理数；应用预告：识破庞氏骗局、不做空股票（见 C-SX-U0007）"
+    },
+    {
+      "claim_id": "C-SX-U0006-06",
+      "unit_id": "SX-U0006",
+      "speaker": "转述·第三方",
+      "claim_text": "康德：值得深深景仰的两样东西是头顶星空与内心道德法则",
+      "quote": "内心的崇高道德法则",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 531,
+        "end_line": 534,
+        "sha1": "89a7605a053af4e519f736c421039b45668c81c1",
+        "fingerprint": [
+          "康德",
+          "星空"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "星空与道德法则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：康德；吴军取用：星空包括数学这样的知识体系，云山雾罩之事只需在逻辑上推演一遍即可搞清真相"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成书正文单元（第03讲），预见性主线抽6卡；√2反证法推导过程（原书460-476行）为数学事实不入卡；毕达哥拉斯淹死希帕索斯史实并入C1与C-SX-U0004-04背景，不独立立卡"
+}

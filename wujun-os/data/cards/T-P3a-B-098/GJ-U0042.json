@@ -1,0 +1,238 @@
+{
+ "unit_id": "GJ-U0042",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ3",
+ "batch_id": "T-P3a-B-098",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0042-01",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "合格专业人士眼中10001与10000是一回事：不做画蛇添足的事，多看芝麻可能丢了橘子",
+   "quote": "反而可能把橘子丢掉了",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1816,
+    "end_line": 1816,
+    "sha1": "fd392e6ffcadebd65a3bc11a5849bb76544d57c1",
+    "fingerprint": [
+     "芝麻",
+     "画蛇添足",
+     "量级"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "不捡芝麻",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "普通人 10001>10000、蚊子虽小也是肉的对照在锚内；取舍观挂 D03-1 主。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-02",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "几个小量级加起来远不如一个大量级：好工程师从量级上改进方法，而非多干一小时重复劳动",
+   "quote": "从量级上改进方法",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1818,
+    "end_line": 1818,
+    "sha1": "5575e14f034f6825daf14cd2bd78c293ff23134e",
+    "fingerprint": [
+     "西瓜",
+     "重复性",
+     "工程思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-2"
+   ],
+   "concept_key": "量级上改进",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "一个西瓜抵200万粒芝麻的类比在锚内；有上进心没工程思维的工程师每天挤一小时做重复事为反例（锚内）。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-03",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "做事前梳理清单，按重要性和影响力的量级排序，集中资源先做最重要的，无关的直接删掉",
+   "quote": "按照重要性和影响力的量级排序",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1820,
+    "end_line": 1820,
+    "sha1": "bfb001984a130788263ed785187e3af86b7c1f95",
+    "fingerprint": [
+     "清单",
+     "集中资源",
+     "影响力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "按量级排序做事",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "没经验者先来先做、费力而无影响力的对照在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-04",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "优秀产品经理在细节上做1%的改进让品质高一个数量级，而非省几分钱做山寨",
+   "quote": "让产品的品质高出一个数量级",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1822,
+    "end_line": 1822,
+    "sha1": "7359adac72ef9b310e9f14f1fecee4fb8f1a4b5f",
+    "fingerprint": [
+     "产品经理",
+     "视网膜",
+     "细节"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "细节1%数量级改进",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "苹果视网膜屏：成本高不到10美元、多卖100多美元、体验好不止一倍——“芝麻”成本换“橘子”效果（锚内）；山寨产品经理省几分钱的反例在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-05",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "做事多少只是几倍差异，质量与影响力是量级之差；但好高骛远成功率归零，再大的数乘零还是零",
+   "quote": "再大的数乘以一个零",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1824,
+    "end_line": 1824,
+    "sha1": "e76935d06592a797fab2aee8bfd331135c7b5222",
+    "fingerprint": [
+     "好高骛远",
+     "怀才不遇",
+     "成功率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "量级之差与乘零",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "清华上辈与同辈老师中一事无成者多因自视过高不愿从小事踏实做起、终觉怀才不遇的观察在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-06",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "从小事踏实做起，成功率与效率随时间提高再提升影响力；成功在于跃迁到更高量级",
+   "quote": "跃迁到更高的量级",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1826,
+    "end_line": 1826,
+    "sha1": "7ddd48f0bbfa26f836ec98b6b8df3f0b8a2a3844",
+    "fingerprint": [
+     "脚踏实地",
+     "天花板",
+     "跃迁"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "跃迁量级",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "量级变化函数随时间越变越大的类比在锚内；有人随年龄成长、有人30岁遇天花板的对照在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-07",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "天使投资人鲍比：每单10万美元规模，200%回报每年仅挣约20万——规模量级决定总收获",
+   "quote": "这不是荣耀，而是耻辱",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1828,
+    "end_line": 1830,
+    "sha1": "98a6bb6f0a4367f6b401b406e12325f5dccf0668",
+    "fingerprint": [
+     "鲍比",
+     "本垒打",
+     "第一张支票"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2",
+    "D05-1"
+   ],
+   "concept_key": "投资规模量级",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：机理=1亿美元20%回报远大于10万美元200%回报、老兵津津乐道第一张支票如同战士炫耀亲手杀敌（锚内）；真正有成就的投资人规模渐增至千万上亿美元在锚内。"
+  },
+  {
+   "claim_id": "C-GJ-U0042-08",
+   "unit_id": "GJ-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "提升量级常需关键节点身份跳跃：俞敏洪从俞老师转型俞校长才获企业利润与产业突破",
+   "quote": "从俞老师转型成俞校长",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 1834,
+    "end_line": 1834,
+    "sha1": "dcc4d11cfdeef7dfc2663374798ac626faf37ec3",
+    "fingerprint": [
+     "俞敏洪",
+     "量级",
+     "转型"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "身份转型跃迁量级",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名案例独立成卡（R3）：金牌讲师只挣辛苦钱 vs 校长获取企业利润与资本市场认可；明星媒体人创业不成功因未完成“从知名媒体人到台长”的转变（1836 行）；学习当管理者而非讲好课的建议在锚内。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "低水平勤奋主题 8 张：取舍/量级改进/排序/产品1%/乘零/跃迁 + 鲍比/俞敏洪 E3 案例卡；结尾“不醉心重复微影响事”总结并入 05"
+}
