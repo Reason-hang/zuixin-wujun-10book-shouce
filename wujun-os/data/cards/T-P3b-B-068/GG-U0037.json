@@ -1,0 +1,64 @@
+{
+  "unit_id": "GG-U0037",
+  "book_code": "GG",
+  "extractor": "EXT-GG3R",
+  "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0037-01",
+      "unit_id": "GG-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "很多时候，并非大众所期盼的东西就一定是好东西，在潮流面前要有定力",
+      "quote": "我们需要有一些定力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2658,
+        "end_line": 2663,
+        "sha1": "e6d7d7a0ce1d82059d5a0bd873fd7aa3c285f382",
+        "fingerprint": ["大众所期盼", "定力", "闪光的不一定是金子"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D02-4"],
+      "concept_key": "大众所盼未必是好东西",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "金盒子寓意（凡夫俗子只看外表）的引申；D01-1主判'流行不等于好'的认知判断，D02-4辅'潮流前的定力'；与《硅谷来信1》第082封信莎翁智慧为重复主题，照常抽卡"
+    },
+    {
+      "claim_id": "C-GG-U0037-02",
+      "unit_id": "GG-U0037",
+      "speaker": "转述·第三方",
+      "claim_text": "莎士比亚借银盒子告诫：荣华富贵皆是虚幻，想不通便难脱\"傻瓜的皮囊\"",
+      "quote": "荣华富贵不过都是虚幻",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2664,
+        "end_line": 2666,
+        "sha1": "709c640a6b20312122aff8a664480169b2558d7e",
+        "fingerprint": ["荣华富贵", "傻瓜的皮囊", "银盒子"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "荣华富贵皆是虚幻",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=莎士比亚《威尼斯商人》（吴军解读银盒子寓意）；属价值观层面的财富虚幻观，故挂D02-3而非D09"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0037",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "莎士比亚'爱情是冲动的、婚姻是理性的'、恋爱中人判断力低（苯基乙胺等解释）、爱与婚姻是付出一切的牺牲等爱情婚姻议题判断，属X5家庭与亲密关系，用户已定排除"
+    },
+    {
+      "unit_id": "GG-U0037",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "结尾两段《威尼斯商人》台词文学赏析（鲍西娅心情与画像描写，'细品文字怡情'部分）属纯赏析，无结论句可归属"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "三盒寓意中金盒、银盒两判断成卡（E1+E2），爱情婚姻与纯赏析部分记X5/X8"
+}

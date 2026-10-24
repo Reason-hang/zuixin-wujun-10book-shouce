@@ -1,0 +1,171 @@
+{
+  "unit_id": "GG-U0039",
+  "book_code": "GG",
+  "extractor": "EXT-GG3R",
+  "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0039-01",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "一个人不能什么好事都想占有，即使那些好事看上去是无成本的",
+      "quote": "一个人不能什么好事都想占有",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2744,
+        "end_line": 2744,
+        "sha1": "f343b802ccebe549cb2f5ce3dae3ad37ecb0e3a4",
+        "fingerprint": ["诱惑性", "占有", "放下"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D02-4"],
+      "concept_key": "不能什么好事都占有",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "婉拒两个高级职务的第一层理由；金钱/权力/名誉皆诱惑，取舍归D03-1、抵制诱惑的定力归D02-4；罗振宇自助餐之喻为例证"
+    },
+    {
+      "claim_id": "C-GG-U0039-02",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "深思熟虑定的生活轨迹，若客观条件未变，不应因新诱惑放弃；依据是哪种选择长远可叠加",
+      "quote": "对长远来讲可以产生叠加的效果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2746,
+        "end_line": 2747,
+        "sha1": "7c3c1b94fd6e9cd06f18a3c9800a26ec6767ff5f",
+        "fingerprint": ["生活轨迹", "叠加", "跳槽"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "轨迹改变以叠加效果为据",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "改变轨迹的判据=哪一种选择长远可产生叠加效果；'这山看着那山高'式跳槽为反例"
+    },
+    {
+      "claim_id": "C-GG-U0039-03",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "真正能完成大任务的人，总怀着敬畏之心、十二分负责的态度做事",
+      "quote": "怀着敬畏的心情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2748,
+        "end_line": 2749,
+        "sha1": "0fc6be1d56c489646bb8cea5bc2ed1317425a980",
+        "fingerprint": ["敬畏", "胜天半子", "十二分负责"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1"],
+      "concept_key": "怀着敬畏做大事",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "前承'人喜欢获得厌恶失去、喜欢加法厌恶减法；知道承诺完不成就别答应'（2748），后接珠峰例证（见C-GG-U0039-04）；高估负荷者遇挫即退或信'胜天半子'胡来"
+    },
+    {
+      "claim_id": "C-GG-U0039-04",
+      "unit_id": "GG-U0039",
+      "speaker": "史实",
+      "claim_text": "珠峰登山以中午为止损线，过时坚决终止；硬挺者一人失去九趾一人丧命",
+      "quote": "坚决要求他终止登顶",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2750,
+        "end_line": 2752,
+        "sha1": "fa4a4572e386b9879644bd0f9de2143755ab771a",
+        "fingerprint": ["珠峰", "向导", "冻坏"]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": ["D03-2"],
+      "concept_key": "登山的止损纪律",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "专名案例（珠峰/约翰·霍普金斯校友登顶）+可迁移机理（预设止损线并坚决执行，不可侥幸超越极限）；支撑C-GG-U0039-03之敬畏论，机理上独立成卡挂D03-2止损"
+    },
+    {
+      "claim_id": "C-GG-U0039-05",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "过分应酬是白白烧掉生命；商业讲座收益线性，不符合指数叠加原则",
+      "quote": "收益是线性增加的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2755,
+        "end_line": 2756,
+        "sha1": "d8b6f34b22b3257fdc80e246b9c8ec4ef407b3dc",
+        "fingerprint": ["应酬", "线性", "叠加"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D02-3"],
+      "concept_key": "拒绝线性收益之事",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "前提为剩余生命有限（三十岁者约余2万天，呼应《向死而生》D02-3）；取舍判据为线性vs可叠加收益；兼及抬高基线（三条边）之说"
+    },
+    {
+      "claim_id": "C-GG-U0039-06",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "合作第一次无条件相信对方以降成本；一旦被骗则永远不再往来，以此过滤合作者",
+      "quote": "第一次会无条件相信对方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2761,
+        "end_line": 2765,
+        "sha1": "bfeb44acfd13467efadf02643fa584c96ffe8240",
+        "fingerprint": ["一朝是贼", "黑名单", "无条件"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2"],
+      "concept_key": "先无条件信任被骗即绝交",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "'一朝是贼，永远是贼'；对破坏规矩者不追究、打入黑名单即可——追究太分心，往后看不如往前看（2761-2762）；受骗损失可承受，用此法过滤来往对象净化生存空间；语境为国内基金绕开规矩私投Grail事件"
+    },
+    {
+      "claim_id": "C-GG-U0039-07",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "不在于开始多少件事，而在于完成多少件",
+      "quote": "而在于完成多少件",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2767,
+        "end_line": 2767,
+        "sha1": "0eeac9a1294da12a5f157ca09e8a90273a211797",
+        "fingerprint": ["开始", "完成", "计划"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2"],
+      "concept_key": "完成比开始重要",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "自省2017年数本书与MOOC未完成，除时间外亦因高估自己能力、计划不切实际"
+    },
+    {
+      "claim_id": "C-GG-U0039-08",
+      "unit_id": "GG-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "总觉得有太多时间、总有明天是错觉，最后一天可能突然到来；生命无限反而一事无成",
+      "quote": "永远有明天",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2772,
+        "end_line": 2773,
+        "sha1": "fab4bbaa6378041e45c0542b329f8aae7993d50f",
+        "fingerprint": ["拖延", "明天", "一事无成"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D05-1"],
+      "concept_key": "永远有明天的错觉",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：波斯地毯拖延半年终致店铺关门无法再洗；对策是进一步做减法、用笨办法（'上帝喜欢笨人'——专门跑一趟早解决）；生命有限的人生观归D02-3，行动对策归D05-1"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "减法与信任两大主题共8条独立判断成卡（含1条E3史证）；Grail基金风波、婉拒职务等2017时点叙述并入相关卡notes"
+}

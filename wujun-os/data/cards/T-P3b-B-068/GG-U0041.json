@@ -1,0 +1,144 @@
+{
+  "unit_id": "GG-U0041",
+  "book_code": "GG",
+  "extractor": "EXT-GG3R",
+  "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0041-01",
+      "unit_id": "GG-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "人要先有目标（最高层面），再以计划执行；计划可以修改，但必须有修改的理由",
+      "quote": "计划修改要有修改的理由",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2881,
+        "end_line": 2883,
+        "sha1": "51d1eaa1415ad3d18ca3a93bee3f42cc91dd6e59",
+        "fingerprint": ["目标", "计划", "理由"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2"],
+      "concept_key": "目标统率计划",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "答读者@京都·愿'如何科学做计划'：目标为最高层面、计划属执行层面，无理由改计划即失去订计划的目的；回答读者提问，说话人为吴军本人"
+    },
+    {
+      "claim_id": "C-GG-U0041-02",
+      "unit_id": "GG-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "要从\"为别人完成任务\"的心态，转变为\"为自己完成任务\"",
+      "quote": "我要为我自己完成任务",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2897,
+        "end_line": 2903,
+        "sha1": "ec4d124381dd2c6dc5a7d4ee4013c78c4d7eb3ff",
+        "fingerprint": ["心态", "完成任务", "工程师"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-2", "D05-1"],
+      "concept_key": "为自己完成任务",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "成为决策者第一角度；反例：为家长/高考而学、完成老板任务即止、工程师照单做圆按键不问方按键是否更合理；正例：想成物理学家者自觉选课、想做亿级产品者站用户角度抠细节；主判职场心态归D06-2，通则面辅D05-1"
+    },
+    {
+      "claim_id": "C-GG-U0041-03",
+      "unit_id": "GG-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "思路开阔的第一要素是思路清晰：思考遵循条理脉络，而非胡思乱想",
+      "quote": "思路开阔的第一要素是思路清晰",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2905,
+        "end_line": 2907,
+        "sha1": "545b0df8526d47c7524ec286e9310f3b54e71ce9",
+        "fingerprint": ["思路开阔", "思路清晰", "胡思乱想"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "思路开阔首在清晰",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "纠正把思路开阔等同于脑洞大开；训练法：做事前自问'这事是否真有必要做？有没有更好的方法？'（2912）；思维训练归D01-1"
+    },
+    {
+      "claim_id": "C-GG-U0041-04",
+      "unit_id": "GG-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "开阔的思路不能靠一个人苦思冥想，要走出去与人交流、倾听他人建议",
+      "quote": "倾听他人的建议",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2908,
+        "end_line": 2908,
+        "sha1": "b1a24f53edef95edaf6a2a483400e09e2794133b",
+        "fingerprint": ["苦思冥想", "交流", "倾听"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-1"],
+      "concept_key": "开阔思路需与人交流",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "沟通作为开阔思路的手段归D07-1；配套战术：想法遭同事上级反对时，先弄清不赞同的原因、再弄清何条件下会赞同（2911）"
+    },
+    {
+      "claim_id": "C-GG-U0041-05",
+      "unit_id": "GG-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "问题常是多维度的，要刻意站在不同人甚至对立面的角度多维度思考",
+      "quote": "学会多维度考虑问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2910,
+        "end_line": 2917,
+        "sha1": "dc6b936e70b7147bdecfaf72e8a4f05977aa7e47",
+        "fingerprint": ["多维度", "对立面", "电动汽车"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "多维度考虑问题",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：电动车减排只算一个维度，发电燃煤为第二维度、城市输电线容量为第三维度；厂家只讲对己有利维度而市长须统筹——'这便是决策者和执行者的差别'（2917）；刻意练习法含站在对立面想（2910）"
+    },
+    {
+      "claim_id": "C-GG-U0041-06",
+      "unit_id": "GG-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "要主动找好的师傅和领导，给他当徒弟；面对面交流才能学到思考方法",
+      "quote": "主动找好的领导沟通，给他当徒弟",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2919,
+        "end_line": 2925,
+        "sha1": "7d4d71e392b5bfd106cafd9578adef0517bac25b",
+        "fingerprint": ["师傅", "徒弟", "大师"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "主动拜师好领导",
+      "ability_tags": ["沟", "学"],
+      "status": "已生成",
+      "notes": "成为决策者第三角度：师承例证——贾里尼克（霍普金斯）、辛格与诺威格（Google）、凯茨（RAID发明人）；针对'过分强调自学与网络获取知识'之偏；职场向上求教归D06-3"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0041",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "答读者@幡彻关于美国治安、排外法令、留学生安全的回应（2867-2873）为2018写作期时点评论（治安状况、移民政策、STEM实习期两年等），离开该时点即失效"
+    },
+    {
+      "unit_id": "GG-U0041",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "'一流大学比二流大学的优势在于有大师'（2921）属大学教育比较判断，教育制度类用户已定排除；其'跟大师学思考方法'的可迁移内核已并入C-GG-U0041-06"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问正文抽目标计划、心态转换、思路清晰、交流、多维思考、拜师6条吴军判断成卡；涉美时点评论与大学教育判断记X2/X5"
+}

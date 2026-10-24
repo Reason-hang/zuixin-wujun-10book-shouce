@@ -1,0 +1,170 @@
+{
+  "unit_id": "GG-U0038",
+  "book_code": "GG",
+  "extractor": "EXT-GG3R",
+  "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0038-01",
+      "unit_id": "GG-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "做总结只需写几件最值得骄傲的事，不建议面面俱到，也要讲未完成的事及原因",
+      "quote": "写几件自己认为最值得骄傲的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2692,
+        "end_line": 2693,
+        "sha1": "ac42c1878daed9313854f14472fafbe81eea0bfc",
+        "fingerprint": ["总结", "面面俱到", "败走麦城"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2"],
+      "concept_key": "总结只写几件有价值的事",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "Google年终总结方法：只列数件有价值之事并说明看重根据，同时讲败走麦城及原因、今后改进（次日信展开）；把教训摆出让大家评判可使群体共同进步（见U0039文末）"
+    },
+    {
+      "claim_id": "C-GG-U0038-02",
+      "unit_id": "GG-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "人的满足感和成就感是我们做事情很重要的动力",
+      "quote": "满足感和成就感",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2707,
+        "end_line": 2708,
+        "sha1": "433f90ca9a27475c796543c244cb1ee0c0f28587",
+        "fingerprint": ["满足感", "成就感", "动力"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2", "D02-4"],
+      "concept_key": "满足感是做事的动力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "语境：答'花时间帮清华建实验室自己得到什么'——近期收益只是内心满足；执行层面的动力判断，兼涉幸福来源"
+    },
+    {
+      "claim_id": "C-GG-U0038-03",
+      "unit_id": "GG-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "感恩要马上行动，别推说将来有时间——那意味着永远没有时间和机会",
+      "quote": "永远没有时间，没有机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2713,
+        "end_line": 2713,
+        "sha1": "5cf9bd55584baf74c4d01f5028b7dc7623172b18",
+        "fingerprint": ["感恩", "马上行动", "将来有时间"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1"],
+      "concept_key": "感恩要马上行动",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "复述其《硅谷来信》第248封信观点；语境为把基金设在南京以报答祖籍地"
+    },
+    {
+      "claim_id": "C-GG-U0038-04",
+      "unit_id": "GG-U0038",
+      "speaker": "转述·第三方",
+      "claim_text": "对待困难的正确态度是问自己能不能找到更好的办法，然后身体力行地去做",
+      "quote": "能不能找到更好的办法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2721,
+        "end_line": 2721,
+        "sha1": "f378bb016a3ebdee98fb3a14325c957f672a7864",
+        "fingerprint": ["更好的办法", "身体力行", "悲剧"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D05-1"],
+      "concept_key": "寻找更好的办法",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "被转述者=Grail创始人胡贝尔（其妻死于癌症）；吴军以此说明认可其团队并投资，与态度《永远寻找更好的方法》同主题"
+    },
+    {
+      "claim_id": "C-GG-U0038-05",
+      "unit_id": "GG-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "知识的传播比做具体产品或挣钱更有长远意义和不可替代的作用",
+      "quote": "更有长远的意义和不可替代的作用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2727,
+        "end_line": 2727,
+        "sha1": "0e8b72859d982570e1caf3b44a18f40caf11260f",
+        "fingerprint": ["知识的传播", "长远", "替代"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "知识传播的长远意义",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "解释为何把写书列为主要成果；属'意义与金钱以外的取舍'价值判断"
+    },
+    {
+      "claim_id": "C-GG-U0038-06",
+      "unit_id": "GG-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "如果每个人都尽可能发挥自己的特长，整个世界的收益就会更大",
+      "quote": "发挥自己的特长",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2728,
+        "end_line": 2728,
+        "sha1": "b2ba48ee1084d55bb49232edea14826900399b77",
+        "fingerprint": ["特长", "收益"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "发挥特长增大整体收益",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与C-GG-U0038-05同一论证链（可替代的具体事vs不可替代的写书）；另U0040回归学术界一节亦有'找发挥特长的切入点'呼应"
+    },
+    {
+      "claim_id": "C-GG-U0038-07",
+      "unit_id": "GG-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "很多时候，做减法比做加法更重要",
+      "quote": "做减法比做加法更重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2730,
+        "end_line": 2730,
+        "sha1": "478ba6e808a5d051b39a7126a0eec8008b822151",
+        "fingerprint": ["减法", "加法"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "做减法比做加法重要",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本信句尾预告次日第023封信《2017年所做的减法》，具体减法原则见C-GG-U0039-01/02/05系列；概念键已存在于concept_keys.csv"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0038",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "中国高教遇天花板、量化指标（论文数/引用/经费）指导意义到头、教育呈金字塔形不可能拉平、一流数量有限等高等教育制度判断（2696-2703）属教育制度类，用户已定排除"
+    },
+    {
+      "unit_id": "GG-U0038",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "《文明之光》主旨句'文明的成就远比王侯将相的功绩重要、每个人都在创造历史'（2725）属文明史观叙述，用户已定不作支柱"
+    },
+    {
+      "unit_id": "GG-U0038",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2017年具体行事与时点叙述（清华未来实验室往来7次、丰元资本人民币基金2018Q1投首批项目、投资Grail、出版《见识》《文明之光》第四册）依附2017-2018时点，不入卡干"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "总结方法、动力、感恩行动、更好的办法、知识传播、发挥特长、做减法等7条本人判断成卡；教育制度/文明史观/时点叙述记X5/X6/X2"
+}

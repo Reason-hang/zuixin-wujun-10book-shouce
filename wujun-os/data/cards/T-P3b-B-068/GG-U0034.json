@@ -1,0 +1,74 @@
+{
+  "unit_id": "GG-U0034", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0034-01", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "平衡工作与生活这类大问题并非个人努力能单独解决，需社会照顾与家庭支持",
+      "quote": "并非靠个人的努力就能够解决",
+      "anchor": {"book_code": "GG", "start_line": 2427, "end_line": 2429, "sha1": "50c777b2de32b19d311e81c18da5d480e40756fe", "fingerprint": ["全社会", "家庭"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-4"],
+      "concept_key": "非个人努力可解的问题",
+      "ability_tags": ["思"], "status": "已生成", "notes": "答读者问05之一（女性平衡问题）；欧美以招工入学优先解决的制度对照并入"
+    },
+    {
+      "claim_id": "C-GG-U0034-02", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "职场人不应满足于永远做执行者，必须养成决策者的思维方式",
+      "quote": "养成决策者的思维方式",
+      "anchor": {"book_code": "GG", "start_line": 2437, "end_line": 2439, "sha1": "e6bde7b82b939d28fe9db1671bed2d9aa1975bfc", "fingerprint": ["决策者", "执行者"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-1", "D01-2"],
+      "concept_key": "决策者思维方式",
+      "ability_tags": ["思"], "status": "已生成", "notes": "答读者问05之二（创新与执行之问）的回答立场"
+    },
+    {
+      "claim_id": "C-GG-U0034-03", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "决策者不用你的新技术通常有原因，不理解说明你考虑问题还不够全面",
+      "quote": "考虑问题还不够全面",
+      "anchor": {"book_code": "GG", "start_line": 2438, "end_line": 2439, "sha1": "7dc23db7ebb80177bf42d3a8216a22789b0df0e8", "fingerprint": ["见识", "决策者"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-3", "D01-1"],
+      "concept_key": "先想决策者为何不用",
+      "ability_tags": ["思"], "status": "已生成", "notes": "前提判断：决策者总体见识高于执行层；与 C-GG-U0034-02 同一论证链"
+    },
+    {
+      "claim_id": "C-GG-U0034-04", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "改变不等于创新：没必要的改变最多、好的改变稀少，决策者难下决心冒切换成本",
+      "quote": "改变不等于创新",
+      "anchor": {"book_code": "GG", "start_line": 2442, "end_line": 2444, "sha1": "2005b2b057570ba2eae937e2ea1ec2e1abd0599d", "fingerprint": ["改变", "切换的成本"]},
+      "evidence_level": "E1", "pillar_candidates": ["D10-1", "D08-1"],
+      "concept_key": "改变不等于创新",
+      "ability_tags": ["思"], "status": "已生成", "notes": "微软操作系统与Office二十年改变无受益例并入；执行者自认创新vs决策者视为改变的视角差"
+    },
+    {
+      "claim_id": "C-GG-U0034-05", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "说服他人接受创新，先弄清对方不接受的原因，列对方愿接受的事实并找同盟军",
+      "quote": "列出对方愿意接受的事实",
+      "anchor": {"book_code": "GG", "start_line": 2445, "end_line": 2447, "sha1": "cd7226debe210a5bd83010a6908561d2dcbdaf2e", "fingerprint": ["说服", "同盟军"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-1", "D06-3"],
+      "concept_key": "说服靠对方接受的事实",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "方法详见硅谷来信1第105/106封（日心说、进化论公案），双出处由来信1批次登记；光靠口才与私人关系说服会反悔"
+    },
+    {
+      "claim_id": "C-GG-U0034-06", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "美国是靠个人信誉支撑的社会：可以不完美，但欺骗会被终身惩罚",
+      "quote": "能容忍缺点，但是不宽容欺骗",
+      "anchor": {"book_code": "GG", "start_line": 2459, "end_line": 2465, "sha1": "9d96c900b6a045eff0fd6b93bb7dbf23b8366149", "fingerprint": ["信誉", "终身"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2", "D02-3"],
+      "concept_key": "信誉社会的诚实底线",
+      "ability_tags": [], "status": "已生成", "notes": "答读者问05之三（留学生融入）第一条；给同学抄作业、替人租车、代购属违规的帮助例并入；与见识\"诚信比能力更重要\"同主题"
+    },
+    {
+      "claim_id": "C-GG-U0034-07", "unit_id": "GG-U0034", "speaker": "吴军本人",
+      "claim_text": "多为集体做贡献、为大家做事情，是融入一个社会最好的办法",
+      "quote": "融入美国社会最好的办法",
+      "anchor": {"book_code": "GG", "start_line": 2467, "end_line": 2471, "sha1": "3f8760375f5023cfda401cb25aa67b53ea8c57c3", "fingerprint": ["贡献", "融入"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2"],
+      "concept_key": "贡献换融入",
+      "ability_tags": ["做"], "status": "已生成", "notes": "互引 C-GG-U0032-05 同概念（不同信中的复述）；不困守中国人圈子、多介绍自己的国家例并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0034", "disposal": "X", "x_subtype": "X2", "reason": "得州人朴实、蓝州红州治安对比系2017年时点性政治治安评论，离开该时点即失效"},
+    {"unit_id": "GG-U0034", "disposal": "X", "x_subtype": "X8", "reason": "留学生活具体指南条目（第一年不讲中文、校内打工、STEM学位留美、先学车拿驾照、社保号与信息安全）属留学生活贴士，无可独立成立的迁移判断，仅抽诚信与贡献两条"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问05三问：女性平衡、创新执行、留学生融入，含七条可独立成立判断成卡，时点评论与生活贴士记 X"
+}

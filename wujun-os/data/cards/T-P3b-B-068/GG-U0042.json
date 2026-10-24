@@ -1,0 +1,38 @@
+{
+  "unit_id": "GG-U0042",
+  "book_code": "GG",
+  "extractor": "EXT-GG3R",
+  "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0042-01",
+      "unit_id": "GG-U0042",
+      "speaker": "转述·第三方",
+      "claim_text": "长一辈和同辈终将一个个离去，要好好珍惜每一年光阴",
+      "quote": "好好珍惜每一年光阴吧",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2959,
+        "end_line": 2959,
+        "sha1": "df3b03fe045c29d8a30e6ea9d22cb292b3b854c8",
+        "fingerprint": ["珍惜", "光阴", "长一辈"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "珍惜每一年光阴",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=一位长者（未具名）；语境为美国贺年卡习俗：寄卡对象会逐年凋零；吴军称'这句话我一直牢记在心'，表示认可；生命有限的人生观归D02-3"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0042",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "单元主体为美国新年风俗见闻叙述（节日季购物、送礼与无理由退货、最低价保证、贺年卡、彩灯装饰、家庭团聚、时代广场跨年），以见闻叙述为主体属X3；按例外条款只抽长者'珍惜光阴'一句（已为卡），风俗与商业细节（如商家须11月推新款、黑五与双十一比较）不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "风俗见闻主体记X3，例外抽取长者'珍惜每一年光阴'一句成E2卡"
+}

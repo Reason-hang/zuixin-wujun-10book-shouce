@@ -1,0 +1,37 @@
+{
+  "unit_id": "GG-U0033", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0033-01", "unit_id": "GG-U0033", "speaker": "吴军本人",
+      "claim_text": "是否出国读书先要明确将来在哪里生活、以什么为生活中心",
+      "quote": "明确将来在哪里生活",
+      "anchor": {"book_code": "GG", "start_line": 2360, "end_line": 2362, "sha1": "fe1c90af7fd452eb4bac809e8606c4f4a3382e73", "fingerprint": ["在哪里生活", "国际贸易"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-1", "D02-3"],
+      "concept_key": "生活目标定路径选择",
+      "ability_tags": ["思"], "status": "已生成", "notes": "俞敏洪\"应该出国\"观点系转述且吴军声明不完全代表己见，不入卡；本卡是 C-GG-U0032-04 方法论在教育路径上的复用"
+    },
+    {
+      "claim_id": "C-GG-U0033-02", "unit_id": "GG-U0033", "speaker": "吴军本人",
+      "claim_text": "公平的比较必须同类对标：清华北大对标哈佛MIT，而非美国三四流大学",
+      "quote": "橘子和橘子比，苹果和苹果比",
+      "anchor": {"book_code": "GG", "start_line": 2363, "end_line": 2365, "sha1": "cbe8a57b9f942e3db702244ccc1176fb047ccf09", "fingerprint": ["公平的比较", "对标"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"],
+      "concept_key": "同类对标比较",
+      "ability_tags": ["思"], "status": "已生成", "notes": "比较方法论：避免田忌赛马式错位对比"
+    },
+    {
+      "claim_id": "C-GG-U0033-03", "unit_id": "GG-U0033", "speaker": "吴军本人",
+      "claim_text": "世界上没有绝对正确的标准答案，只有较好与较坏、合逻辑与不合逻辑的答案",
+      "quote": "没有绝对正确的标准答案",
+      "anchor": {"book_code": "GG", "start_line": 2406, "end_line": 2408, "sha1": "6de8d096f800815444f91be7ce2f4aa27a68d830", "fingerprint": ["标准答案", "逻辑"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1", "D02-2"],
+      "concept_key": "没有标准答案",
+      "ability_tags": ["思"], "status": "已生成", "notes": "\"给孩子标准答案扼杀创造力\"及读者回信中非此即彼思维例并入本卡；美国小学独立思考教育的观察为载体"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0033", "disposal": "X", "x_subtype": "X5", "reason": "中美博士/硕士/本科/高中/初中/小学六级教育制度比较（名校硕士是挣学费买卖、HYPMS与清北长短、美高课程广度等）及\"家庭条件允许读美本\"建议属升学与教育制度话题，默认排除；其中哈佛16万/6万、哥大统计系招生等2017年数据为时点证据"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第020封信主体为中美教育比较（X5），抽出生活目标定选择、同类对标、无标准答案三条可迁移判断"
+}

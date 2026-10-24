@@ -1,0 +1,65 @@
+{
+  "unit_id": "GG-U0032", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0032-01", "unit_id": "GG-U0032", "speaker": "吴军本人",
+      "claim_text": "欣赏不了异国的东西不是对方不好，而是自己缺乏好奇心与包容态度",
+      "quote": "缺乏一颗好奇的心",
+      "anchor": {"book_code": "GG", "start_line": 2284, "end_line": 2289, "sha1": "ee39c91610f2a6e62aba6b6d52da1583c0d8c132", "fingerprint": ["西餐", "包容的态度"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3", "D01-1"],
+      "concept_key": "好奇与包容",
+      "ability_tags": ["学"], "status": "已生成", "notes": "第019封信（下）五问之一；\"吃西餐\"为比喻，指接受新文化新事物；富豪无法融入例并入"
+    },
+    {
+      "claim_id": "C-GG-U0032-02", "unit_id": "GG-U0032", "speaker": "吴军本人",
+      "claim_text": "在美国（规则社会）做事先要了解规则边界，边界内游戏，越界无人能罩你",
+      "quote": "边界里做事的道理",
+      "anchor": {"book_code": "GG", "start_line": 2300, "end_line": 2308, "sha1": "fae23b91acafb7ee6c5d50f7e54e299dfe4cef3d", "fingerprint": ["边界", "避税"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-2", "D08-1"],
+      "concept_key": "边界内做事",
+      "ability_tags": ["思"], "status": "已生成", "notes": "与格局\"边界内成长/边界内最大化收益\"同概念族（双出处由来信1批次登记）；性骚扰判赔案、避税与逃税之辨、现金入境例并入"
+    },
+    {
+      "claim_id": "C-GG-U0032-03", "unit_id": "GG-U0032", "speaker": "吴军本人",
+      "claim_text": "出国的目的明确、达到目的就有幸福感；没有明确目的难有幸福感",
+      "quote": "达到自己的目的，就能够有幸福感",
+      "anchor": {"book_code": "GG", "start_line": 2316, "end_line": 2321, "sha1": "beee4b80a89a799782ec0a34ea62eb8a8c985c4f", "fingerprint": ["目的", "幸福感"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3", "D03-1"],
+      "concept_key": "目的明确才有幸福感",
+      "ability_tags": ["思"], "status": "已生成", "notes": "为孩子上学、养老、降运输成本（曹德旺）等目的明确者不后悔；\"移民监\"对照例并入"
+    },
+    {
+      "claim_id": "C-GG-U0032-04", "unit_id": "GG-U0032", "speaker": "吴军本人",
+      "claim_text": "在哪里生活要依据自己的生活目标作选择，而不是别人的做法和意见",
+      "quote": "要搞清楚自己喜欢什么样的生活",
+      "anchor": {"book_code": "GG", "start_line": 2330, "end_line": 2333, "sha1": "e6915f01c572db8c2a17897fad1f9292d94b411e", "fingerprint": ["生活目标", "选择"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-1", "D02-3"],
+      "concept_key": "依生活目标作选择",
+      "ability_tags": ["思"], "status": "已生成", "notes": "五点总结论；国内一线/二三线、南方北方、守父母与否同用此框架；互引 C-GG-U0032-03"
+    },
+    {
+      "claim_id": "C-GG-U0032-05", "unit_id": "GG-U0032", "speaker": "吴军本人",
+      "claim_text": "融入一个社会的根本是为它做贡献，光享受福利不做贡献不受欢迎",
+      "quote": "融入了当地社会",
+      "anchor": {"book_code": "GG", "start_line": 2322, "end_line": 2325, "sha1": "42fdc3c30fe6b0e063f7e117b2d39824a88dbd09", "fingerprint": ["贡献", "融入"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2", "D02-3"],
+      "concept_key": "贡献换融入",
+      "ability_tags": ["做"], "status": "已生成", "notes": "地方自治无大政府负责的机理；曹德旺建厂受欢迎 vs 把国内忽悠本事带去者被退回；互引 C-GG-U0034-07"
+    },
+    {
+      "claim_id": "C-GG-U0032-06", "unit_id": "GG-U0032", "speaker": "吴军本人",
+      "claim_text": "目标不明确是做事情不成功、效率不高的根本原因",
+      "quote": "目标不明确",
+      "anchor": {"book_code": "GG", "start_line": 2342, "end_line": 2345, "sha1": "c6c3c25f780e678a99d65f0484d6e227ea8bbc1e", "fingerprint": ["目标", "根本原因"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-1", "D06-2"],
+      "concept_key": "目标不明确致低效",
+      "ability_tags": ["思"], "status": "已生成", "notes": "今日思考题干中的吴军自述判断；与富足\"明白目标与算法\"同主题（双出处登记）"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0032", "disposal": "X", "x_subtype": "X8", "reason": "移民与否的叙述部分（吃西餐、移民监、急救账单处理、小家生活喜好对照）属移民生活话题（HC-09 默认排除），仅抽可迁移方法论"},
+    {"unit_id": "GG-U0032", "disposal": "X", "x_subtype": "X7", "reason": "文末附录雪莱《爱的哲学》中英文诗文系第三方引文且无吴军评述"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第019封信（下）五问含好奇心包容、边界做事、目的幸福、生活目标选择、贡献融入、目标低效六条可迁移判断成卡"
+}

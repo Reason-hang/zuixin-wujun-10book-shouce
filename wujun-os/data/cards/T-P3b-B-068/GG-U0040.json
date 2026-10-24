@@ -1,0 +1,202 @@
+{
+  "unit_id": "GG-U0040",
+  "book_code": "GG",
+  "extractor": "EXT-GG3R",
+  "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0040-01",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "做事如围棋：先下大场，但比大场更重要的是急所——不做就要死之处须优先",
+      "quote": "比大场更重要的是急所",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2786,
+        "end_line": 2787,
+        "sha1": "cf64b4daf42fd05d88ad4d37b489c2eef43f3142",
+        "fingerprint": ["围棋", "大场", "急所"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "急所优先于大场",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "围棋术语作优先级判据：急所（不处理就死）优先于大场（围地效率最高）；应用为2018年优先完成2017遗留要事"
+    },
+    {
+      "claim_id": "C-GG-U0040-02",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "人必须重诺，答应的事情是不可推卸的责任",
+      "quote": "答应的事情是不可推卸的责任",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2794,
+        "end_line": 2794,
+        "sha1": "40964cdb770f8b9959d5e0b970d6f3cd76c2cc20",
+        "fingerprint": ["重诺", "责任"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "重诺是责任",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "语境：完成《谷歌方法论》专栏之承诺；做人原则归D02-3价值观"
+    },
+    {
+      "claim_id": "C-GG-U0040-03",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "凡事不可能事必躬亲，要带徒弟接班，诸葛亮的悲剧正在于此",
+      "quote": "凡事不可能事必躬亲",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2800,
+        "end_line": 2800,
+        "sha1": "7040405056e3eed75f88abca206fc7923154a3ce",
+        "fingerprint": ["事必躬亲", "诸葛亮", "徒弟"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "不可事必躬亲",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "计划带徒弟接管投资事务；史证：曹魏东吴后继有人而巴蜀人才凋零；授权与培养属管理者行为归D06-3"
+    },
+    {
+      "claim_id": "C-GG-U0040-04",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "人要主动做事情、把握时机；危中之机不可错过",
+      "quote": "人要主动做事情，把握时机",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2806,
+        "end_line": 2807,
+        "sha1": "ea42ca8aad5ee604e5650e56185ad2845ff46597",
+        "fingerprint": ["主动", "时机", "金融危机"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-2"],
+      "concept_key": "主动做事把握时机",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "启发自郭台铭2008年金融危机时不退休反视为大机会（转述例证，见锚内2806行）；呼应格局《上帝只垂青主动的人》；主动的格局观归D01-2"
+    },
+    {
+      "claim_id": "C-GG-U0040-05",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "人最大的命运是时代决定的",
+      "quote": "人最大的命运是时代决定的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2813,
+        "end_line": 2813,
+        "sha1": "e563fc5f1fbe0b09bef7c8b1e10d7222eb9dc0de",
+        "fingerprint": ["命运", "时代"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "命运由时代决定",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "《见识》观点复述，借此引出五年展望（展望本体记X2/X6）；命运观归D02-3"
+    },
+    {
+      "claim_id": "C-GG-U0040-06",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "对所处时代难作准确判断，应用比较确信的信息消除不确定性，争取比别人做得好",
+      "quote": "消除对未来了解上的不确定因素",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2814,
+        "end_line": 2814,
+        "sha1": "eb1ce89b0ebfefbd23b0c74cb55ba0297f741597",
+        "fingerprint": ["不确定", "确信", "时代"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2"],
+      "concept_key": "用确信信息消解不确定",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "不确定性下决策的方法论：以较确信信息逐步消除不确定因素；X6例外条款'可迁移判断逻辑归D03'之落地"
+    },
+    {
+      "claim_id": "C-GG-U0040-07",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "任何时候都要有防范风险的意识，预防危机与长期繁荣并不矛盾",
+      "quote": "都需要有防范风险的意识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2840,
+        "end_line": 2842,
+        "sha1": "6967261554d6475b08de538079eff53665be2ab5",
+        "fingerprint": ["杠杆", "风险", "危机"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2"],
+      "concept_key": "任何时候要有风险意识",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：2008年佩奇问CFO零收入现金可维持几年（2842）；中国40年增长令人缺风险防范、高杠杆投房投股即缺防范（2840）；'危机8-10年一遇'之时点预测本体记X2"
+    },
+    {
+      "claim_id": "C-GG-U0040-08",
+      "unit_id": "GG-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "步子要比别人迈得大，落脚要比别人稳，对前途的信心要比别人坚定",
+      "quote": "落脚要比别人稳一些",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 2845,
+        "end_line": 2845,
+        "sha1": "8556d3c02bd2a59f9268f945c638fec64052aaed",
+        "fingerprint": ["步子", "落脚", "信心"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2", "D05-1"],
+      "concept_key": "步子大落脚稳信心坚",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "原文冠以'今后五年的做事原则'，但进取（步子大）+稳健（落脚稳）+信心坚定的三联逻辑可迁移，抽逻辑本体；有风险意识者萧条能活、发展更快（2844）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0040",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "五年展望判断①：全世界不确定因素基本消除、动荡有预期、发展是主旋律（2817-2820），宏观预测本体"
+    },
+    {
+      "unit_id": "GG-U0040",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "五年展望判断②：中国还有约20年平稳发展、欧洲失去的机会到中国、中国企业全球化（2822-2825），宏观经济预测"
+    },
+    {
+      "unit_id": "GG-U0040",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "五年展望判断③：五年内中国AI相关产业产值至少与今日互联网相当、智能摄像头市场估算（2827-2831），科技趋势预测"
+    },
+    {
+      "unit_id": "GG-U0040",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "五年展望判断④：五年内固定线路无人驾驶汽车上路、多数汽车增配辅助驾驶（2833-2834），科技趋势预测"
+    },
+    {
+      "unit_id": "GG-U0040",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "经济危机8-10年周期律及'随时准备短暂经济危机到来'之时点预测（2836-2838）；其可迁移的风险意识逻辑已抽为C-GG-U0040-07"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "计划部分抽8条可迁移判断成卡；五年宏观/科技展望四条及危机时点预测按批次特则①记X6/X2不入卡干"
+}
