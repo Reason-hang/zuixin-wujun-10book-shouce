@@ -1,63 +1,63 @@
 {
- "project": "WJ-OS 吴军十书·认知与行动操作系统",
- "pack_version": "1.0",
- "updated": "2026-10-24",
- "phase": "P3a 抽取 17/108 批；五书单书验收 PASS（态度/富足/境界/格局/数学）；见识 1/5 批运行中",
- "step": "数学全书收口（B-092~095 共 367 卡验收 PASS）。剩：见识 B-087~091（B-087 抽取中）→ P3a 22/22 收口 → 审计修正①② → P3b 来信 86 批",
- "spec": {
-  "v2_方案": "v2（2026-10-19）",
-  "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
-  "pillars": "v1.1（机读 pillars.yaml 10/25 与 §13.1 核验一致；exclusions.yaml X1–X8；boundary_rules.md 规则①–⑫）",
-  "rules": "v1.0 已冻结（spec/rules_v0.9.md，2026-10-24；CHG-021）"
- },
- "frozen": {
-  "status": "src_frozen 已冻结 10/10（make restore-check 基线比对全过）；书籍原文不入公开 git 仓库（D-21），zip 由用户保管",
-  "books": 10,
-  "baseline": "spec/baseline_facts.json 已含 10 本哈希与探测基线"
- },
- "progress": {
-  "units_total": 1742,
-  "units_content": 1697,
-  "units_done": 242,
-  "chars_total": 5038558,
-  "chars_done": 681657,
-  "batches_done": 17,
-  "batches_est": "108（全量装箱，D-27）；P3a 22 批中已完成 17"
- },
- "in_flight": {
-  "ticket": null,
-  "unit_ids": [],
-  "unsaved": [],
-  "note": "无进行中工单。P1 全产物：cards_first/second（微试跑 57 卡）、batch2/（放量 76 卡+9X）、batch2_recheck/（N4 盲抽 28 卡）；P2：unitcards 1,742、batch_plan 108 批"
- },
- "last_ticket": "T-P3a-B-092（数学①）+ GATE-C 例行档全绿（J-039）",
- "next_ticket": "T-P3a-B-093（数学②）→ B-094/095 → B-087~091（见识）→ 数学/见识单书验收 → P3a 收口（22/22）",
- "blocked_by": [],
- "open_items": [
-  "P2 读法层标注（T-P2-03/04）：1,742 单元卡 read_level 为 null，待按 A/B/C 标注后生成 P3 批次工单",
-  "schema 回写（claim_id 格式、concept_key、lifecycle 字段名对齐规则 v1.0）——P4 前置工单",
-  "108 批全量抽取的吞吐排期：实测单代理约 3.3 万字/10 分钟，3 并行每波 3 批，约 36 波次（此前估算的 70–90 批为 A 层口径，见 D-27）"
- ],
- "risks_top": [
-  "R-1 吞吐或额度不足：已实际发生 1 次额度中断（2026-10-20），降级触发条件\"连续两次\"现为 1/2",
-  "R-2 核心论点识别不稳定（P1 双盲重抽检验）",
-  "R-3 沙箱闲置被回收：状态必须外置到恢复包，每批 make pack；git 已建，双保险",
-  "R-4 事实源被改动或替换（冻结哈希）",
-  "R-5 说话人错归；R-6 哲学簇混入第三方观点；R-7 T2 工具被当成吴军方法"
- ],
- "estimates": {
-  "batches": "70–90",
-  "rounds_optimistic": "43–75（含 EP-0 3–5，v2.1 口径）",
-  "rounds_conservative": "100–140（每轮约 2–3 万字）",
-  "EP-0": "本轮已实际消耗约 2–3 轮",
-  "note": "轮次区间待 P1 试点实测"
- },
- "quota_incidents": [
-  {
-   "date": "2026-10-20",
-   "where": "生成恢复包与交接文档的轮次",
-   "effect": "该轮被中断；改为批次 1→2→3 交付，每批快照",
-   "count_toward_Z1": "1/2"
-  }
- ]
+  "project": "WJ-OS 吴军十书·认知与行动操作系统",
+  "pack_version": "1.0",
+  "updated": "2026-10-24",
+  "phase": "P3a 成书抽取 22/22 批收口 PASS（六书单书验收全 PASS）；P3b 来信 86 批就绪",
+  "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
+  "spec": {
+    "v2_方案": "v2（2026-10-19）",
+    "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
+    "pillars": "v1.1（机读 pillars.yaml 10/25 与 §13.1 核验一致；exclusions.yaml X1–X8；boundary_rules.md 规则①–⑫）",
+    "rules": "v1.0 已冻结（spec/rules_v0.9.md，2026-10-24；CHG-021）"
+  },
+  "frozen": {
+    "status": "src_frozen 已冻结 10/10（make restore-check 基线比对全过）；书籍原文不入公开 git 仓库（D-21），zip 由用户保管",
+    "books": 10,
+    "baseline": "spec/baseline_facts.json 已含 10 本哈希与探测基线"
+  },
+  "progress": {
+    "units_total": 1742,
+    "units_content": 1697,
+    "units_done": 323,
+    "chars_total": 5038558,
+    "chars_done": 912176,
+    "batches_done": 22,
+    "batches_est": "108（全量装箱，D-27）；P3a 22/22 完成，P3b 86 批待做"
+  },
+  "in_flight": {
+    "ticket": null,
+    "unit_ids": [],
+    "unsaved": [],
+    "note": "P3a 已收口，无在途工单；P3b 谷歌 B-066 待派发"
+  },
+  "last_ticket": "P3a 收口（22/22）+ 见识单书验收 + GATE-C r3 + CHG-025 闭环（J-043~047）",
+  "next_ticket": "T-P3b-B-066（谷歌①）→ B-067~086（谷歌 21 批）→ 来信2 22 批 → 来信3 23 批 → 来信1 20 批；每 3 批 GATE-C、每书 Z2-09",
+  "blocked_by": [],
+  "open_items": [
+    "P2 读法层标注（T-P2-03/04）：1,742 单元卡 read_level 为 null，待按 A/B/C 标注后生成 P3 批次工单",
+    "schema 回写（claim_id 格式、concept_key、lifecycle 字段名对齐规则 v1.0）——P4 前置工单",
+    "108 批全量抽取的吞吐排期：实测单代理约 3.3 万字/10 分钟，3 并行每波 3 批，约 36 波次（此前估算的 70–90 批为 A 层口径，见 D-27）"
+  ],
+  "risks_top": [
+    "R-1 吞吐或额度不足：已实际发生 1 次额度中断（2026-10-20），降级触发条件\"连续两次\"现为 1/2",
+    "R-2 核心论点识别不稳定（P1 双盲重抽检验）",
+    "R-3 沙箱闲置被回收：状态必须外置到恢复包，每批 make pack；git 已建，双保险",
+    "R-4 事实源被改动或替换（冻结哈希）",
+    "R-5 说话人错归；R-6 哲学簇混入第三方观点；R-7 T2 工具被当成吴军方法"
+  ],
+  "estimates": {
+    "batches": "70–90",
+    "rounds_optimistic": "43–75（含 EP-0 3–5，v2.1 口径）",
+    "rounds_conservative": "100–140（每轮约 2–3 万字）",
+    "EP-0": "本轮已实际消耗约 2–3 轮",
+    "note": "轮次区间待 P1 试点实测"
+  },
+  "quota_incidents": [
+    {
+      "date": "2026-10-20",
+      "where": "生成恢复包与交接文档的轮次",
+      "effect": "该轮被中断；改为批次 1→2→3 交付，每批快照",
+      "count_toward_Z1": "1/2"
+    }
+  ]
 }

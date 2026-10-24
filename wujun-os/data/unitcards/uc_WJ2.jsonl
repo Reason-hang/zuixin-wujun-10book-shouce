@@ -1,5 +1,5 @@
-{"unit_id": "WJ2-U0001", "book_code": "WJ2", "type": "S", "char_count": 88, "start_line": 1, "end_line": 8, "disposal": "N", "batch_id": null}
-{"unit_id": "WJ2-U0002", "book_code": "WJ2", "type": "N", "char_count": 10418, "start_line": 9, "end_line": 335, "disposal": "N", "batch_id": null}
+{"unit_id": "WJ2-U0001", "book_code": "WJ2", "type": "S", "char_count": 88, "start_line": 1, "end_line": 8, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
+{"unit_id": "WJ2-U0002", "book_code": "WJ2", "type": "N", "char_count": 10418, "start_line": 9, "end_line": 335, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
 {"unit_id": "WJ2-U0003", "book_code": "WJ2", "type": "C", "char_count": 2368, "start_line": 336, "end_line": 411, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "A", "tag_rules": ["骨架单元→A"]}
 {"unit_id": "WJ2-U0004", "book_code": "WJ2", "type": "C", "char_count": 3139, "start_line": 412, "end_line": 497, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0005", "book_code": "WJ2", "type": "C", "char_count": 3094, "start_line": 498, "end_line": 589, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
@@ -198,7 +198,7 @@
 {"unit_id": "WJ2-U0198", "book_code": "WJ2", "type": "C", "char_count": 3268, "start_line": 16051, "end_line": 16132, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0199", "book_code": "WJ2", "type": "C", "char_count": 3512, "start_line": 16133, "end_line": 16230, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["问答→B(HC-15)"]}
 {"unit_id": "WJ2-U0200", "book_code": "WJ2", "type": "C", "char_count": 2931, "start_line": 16231, "end_line": 16292, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
-{"unit_id": "WJ2-U0201", "book_code": "WJ2", "type": "C", "char_count": 3695, "start_line": 16293, "end_line": 16382, "disposal": null, "batch_id": null, "domain_direct": true, "read_level": "A", "tag_rules": ["领域直连→A"]}
+{"unit_id": "WJ2-U0201", "book_code": "WJ2", "type": "C", "char_count": 3695, "start_line": 16293, "end_line": 16382, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0202", "book_code": "WJ2", "type": "C", "char_count": 3197, "start_line": 16383, "end_line": 16448, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0203", "book_code": "WJ2", "type": "C", "char_count": 3364, "start_line": 16449, "end_line": 16520, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0204", "book_code": "WJ2", "type": "C", "char_count": 2969, "start_line": 16521, "end_line": 16604, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
@@ -219,7 +219,7 @@
 {"unit_id": "WJ2-U0219", "book_code": "WJ2", "type": "C", "char_count": 3486, "start_line": 17719, "end_line": 17784, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0220", "book_code": "WJ2", "type": "C", "char_count": 3388, "start_line": 17785, "end_line": 17866, "disposal": null, "batch_id": null, "domain_direct": true, "read_level": "A", "tag_rules": ["领域直连→A"]}
 {"unit_id": "WJ2-U0221", "book_code": "WJ2", "type": "C", "char_count": 3572, "start_line": 17867, "end_line": 17938, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
-{"unit_id": "WJ2-U0222", "book_code": "WJ2", "type": "C", "char_count": 3278, "start_line": 17939, "end_line": 18014, "disposal": null, "batch_id": null, "domain_direct": true, "read_level": "A", "tag_rules": ["领域直连→A"]}
+{"unit_id": "WJ2-U0222", "book_code": "WJ2", "type": "C", "char_count": 3278, "start_line": 17939, "end_line": 18014, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0223", "book_code": "WJ2", "type": "C", "char_count": 3768, "start_line": 18015, "end_line": 18104, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["问答→B(HC-15)"]}
 {"unit_id": "WJ2-U0224", "book_code": "WJ2", "type": "C", "char_count": 3391, "start_line": 18105, "end_line": 18174, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "WJ2-U0225", "book_code": "WJ2", "type": "C", "char_count": 3407, "start_line": 18175, "end_line": 18254, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}

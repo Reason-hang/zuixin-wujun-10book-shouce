@@ -1,0 +1,232 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD3",
+  "batch_id": "GATE-C-R3",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "一切工作应建立在基线之上而非基线之下；民间发明家因起点远低于时代基线而无实际价值",
+      "quote": "而不是从它的下面开始做起",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1077,
+        "sha1": "72626f65f57745235c90c946c1e61d737e201a45",
+        "fingerprint": [
+          "基线",
+          "民间发明家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "做事要立足基线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "民间发明家造小飞机例（1075-1077行）；正面对照案例见 C-GG-U0013-02；总模型见 C-GG-U0013-08。"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "莱特兄弟先系统掌握凯利空气动力学理论，经200余种翼形与上千次风洞试验才上天",
+      "quote": "进行了上千次的风洞试验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1079,
+        "end_line": 1083,
+        "sha1": "1040ff1fa15227670a396094accef5f170793bd3",
+        "fingerprint": [
+          "莱特兄弟",
+          "风洞"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "莱特兄弟的科学试错",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承载“高基线+充分试验”可迁移机理；吴军指出励志读物把莱特兄弟说成民间发明家是误导（1079行）；与 C-GG-U0013-01 相对。"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把工作做好的前提是提高基线；接受教育与持续培训的目的就是提高基线",
+      "quote": "首先就要提高基线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1084,
+        "end_line": 1087,
+        "sha1": "1990674009a2a068d66fccdab5a4f7de7f47ae5b",
+        "fingerprint": [
+          "基线",
+          "教育"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "教育旨在提高基线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "含吴军不主张大学生退学创业（基线太低，1087行）；专家常识与新手新知之别（1085行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "绝大部分散户投资如同民间发明家造飞机：从地下室三层起步，交半辈子学费难达地平线",
+      "quote": "和民间发明家造飞机没有什么不同",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1086,
+        "end_line": 1086,
+        "sha1": "3d67944666336a266c3f308a05bf2c1fb59a4544",
+        "fingerprint": [
+          "散户",
+          "地下室三层"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D04-3"
+      ],
+      "concept_key": "散户投资的低基线",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "以基线模型类比散户投资行为，属投资误区判断。"
+    },
+    {
+      "claim_id": "C-GG-U0013-05",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "理论给出的极限无法突破；专业人士与业余爱好者的差别在于是否了解极限的存在",
+      "quote": "是否了解极限的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1092,
+        "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0",
+        "fingerprint": [
+          "极限",
+          "卡诺定理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "理论极限意识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：蒸汽机效率被卡诺定理限死（1090行）；图灵机、摩尔定律、冯·诺依曼结构等极限提及（1092行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-06",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "光有基线和知道极限还不够，需有连接两者的攀登绳索；工程师的工作就是找到或编织这条路径",
+      "quote": "找到或者编织攀登绳索",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1098,
+        "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28",
+        "fingerprint": [
+          "绳索",
+          "鸟巢"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "连接路径与攀登绳索",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "鸟巢工程（总工程师李久林）为例（1094-1096行）；越往上可选道路越少（1097行）；工程师与科学家之别：科学家说能做，工程师明白怎么做（1095行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-07",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "明确基线与欠缺后沿一条明确通道行动，通道之外的事一律不做；突破后天花板变成新基础",
+      "quote": "把过去的天花板变成了后来的基础",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1101,
+        "end_line": 1108,
+        "sha1": "a118a6ae10348f1b9f712bcc5a1516cf6e802364",
+        "fingerprint": [
+          "通道",
+          "基础"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "通道之外一律不做",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军叙述其友L君首次融资经历；企业界泰斗点拨其基线（经验影响力）与欠缺（未管过资金）；通道之外概不理会（1104行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-08",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "解决问题有相对固定的章法，即基线、极限、连接路径三条线；缺前两条是蛮干，缺第三条纸上谈兵",
+      "quote": "我把它简化成三条线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1109,
+        "end_line": 1110,
+        "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb",
+        "fingerprint": [
+          "三条线",
+          "蛮干"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "做事三条边",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "全信总括卡（清单式方法论整体一卡）；源自吴军在Google给新工程师的培训课；各边分述见 C-GG-U0013-01/05/06；今日思考（1112行）并入。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "保留",
+  "unit_disposal_reason": "方法论信件（三条边），整单元保留；“今日思考”与章节标记为结构性内容，不抽卡。"
+}

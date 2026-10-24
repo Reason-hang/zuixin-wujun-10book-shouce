@@ -1,5 +1,5 @@
-{"unit_id": "SG1-U0001", "book_code": "SG1", "type": "S", "char_count": 86, "start_line": 1, "end_line": 4, "disposal": "N", "batch_id": null}
-{"unit_id": "SG1-U0002", "book_code": "SG1", "type": "N", "char_count": 6061, "start_line": 5, "end_line": 420, "disposal": "N", "batch_id": null}
+{"unit_id": "SG1-U0001", "book_code": "SG1", "type": "S", "char_count": 86, "start_line": 1, "end_line": 4, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
+{"unit_id": "SG1-U0002", "book_code": "SG1", "type": "N", "char_count": 6061, "start_line": 5, "end_line": 420, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
 {"unit_id": "SG1-U0003", "book_code": "SG1", "type": "C", "char_count": 2524, "start_line": 421, "end_line": 474, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "A", "tag_rules": ["骨架单元→A"]}
 {"unit_id": "SG1-U0004", "book_code": "SG1", "type": "C", "char_count": 2261, "start_line": 475, "end_line": 542, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0005", "book_code": "SG1", "type": "C", "char_count": 2680, "start_line": 543, "end_line": 590, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
@@ -38,7 +38,7 @@
 {"unit_id": "SG1-U0038", "book_code": "SG1", "type": "C", "char_count": 2282, "start_line": 2025, "end_line": 2068, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0039", "book_code": "SG1", "type": "C", "char_count": 2522, "start_line": 2069, "end_line": 2114, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0040", "book_code": "SG1", "type": "C", "char_count": 1839, "start_line": 2115, "end_line": 2152, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
-{"unit_id": "SG1-U0041", "book_code": "SG1", "type": "C", "char_count": 1901, "start_line": 2153, "end_line": 2220, "disposal": null, "batch_id": null, "domain_direct": true, "read_level": "A", "tag_rules": ["领域直连→A"], "series_group": "SG-SG1-001"}
+{"unit_id": "SG1-U0041", "book_code": "SG1", "type": "C", "char_count": 1901, "start_line": 2153, "end_line": 2220, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"], "series_group": "SG-SG1-001"}
 {"unit_id": "SG1-U0042", "book_code": "SG1", "type": "C", "char_count": 2579, "start_line": 2221, "end_line": 2262, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0043", "book_code": "SG1", "type": "C", "char_count": 2071, "start_line": 2263, "end_line": 2300, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0044", "book_code": "SG1", "type": "C", "char_count": 2671, "start_line": 2301, "end_line": 2346, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
@@ -117,7 +117,7 @@
 {"unit_id": "SG1-U0117", "book_code": "SG1", "type": "C", "char_count": 2415, "start_line": 6741, "end_line": 6818, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0118", "book_code": "SG1", "type": "C", "char_count": 2980, "start_line": 6819, "end_line": 6926, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0119", "book_code": "SG1", "type": "C", "char_count": 1897, "start_line": 6927, "end_line": 7020, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
-{"unit_id": "SG1-U0120", "book_code": "SG1", "type": "C", "char_count": 2264, "start_line": 7021, "end_line": 7098, "disposal": null, "batch_id": null, "domain_direct": true, "read_level": "A", "tag_rules": ["领域直连→A"]}
+{"unit_id": "SG1-U0120", "book_code": "SG1", "type": "C", "char_count": 2264, "start_line": 7021, "end_line": 7098, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0121", "book_code": "SG1", "type": "C", "char_count": 2216, "start_line": 7099, "end_line": 7174, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0122", "book_code": "SG1", "type": "C", "char_count": 2361, "start_line": 7175, "end_line": 7232, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0123", "book_code": "SG1", "type": "C", "char_count": 2680, "start_line": 7233, "end_line": 7302, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
@@ -337,7 +337,7 @@
 {"unit_id": "SG1-U0337", "book_code": "SG1", "type": "C", "char_count": 1953, "start_line": 24005, "end_line": 24067, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0338", "book_code": "SG1", "type": "C", "char_count": 2775, "start_line": 24068, "end_line": 24137, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"], "series_group": "SG-SG1-032"}
 {"unit_id": "SG1-U0339", "book_code": "SG1", "type": "C", "char_count": 3109, "start_line": 24138, "end_line": 24217, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"], "series_group": "SG-SG1-033"}
-{"unit_id": "SG1-U0340", "book_code": "SG1", "type": "C", "char_count": 2739, "start_line": 24218, "end_line": 24311, "disposal": null, "batch_id": null, "domain_direct": true, "read_level": "A", "tag_rules": ["领域直连→A"]}
+{"unit_id": "SG1-U0340", "book_code": "SG1", "type": "C", "char_count": 2739, "start_line": 24218, "end_line": 24311, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0341", "book_code": "SG1", "type": "C", "char_count": 2877, "start_line": 24312, "end_line": 24407, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0342", "book_code": "SG1", "type": "C", "char_count": 2651, "start_line": 24408, "end_line": 24511, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0343", "book_code": "SG1", "type": "C", "char_count": 2811, "start_line": 24512, "end_line": 24607, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
@@ -386,5 +386,5 @@
 {"unit_id": "SG1-U0386", "book_code": "SG1", "type": "C", "char_count": 1754, "start_line": 28346, "end_line": 28525, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0387", "book_code": "SG1", "type": "C", "char_count": 2137, "start_line": 28526, "end_line": 28591, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
 {"unit_id": "SG1-U0388", "book_code": "SG1", "type": "C", "char_count": 2625, "start_line": 28592, "end_line": 28665, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["其余来信→C"]}
-{"unit_id": "SG1-U0389", "book_code": "SG1", "type": "N", "char_count": 2241, "start_line": 28666, "end_line": 28771, "disposal": "N", "batch_id": null}
-{"unit_id": "SG1-U0390", "book_code": "SG1", "type": "N", "char_count": 2164, "start_line": 28772, "end_line": 28957, "disposal": "N", "batch_id": null}
+{"unit_id": "SG1-U0389", "book_code": "SG1", "type": "N", "char_count": 2241, "start_line": 28666, "end_line": 28771, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
+{"unit_id": "SG1-U0390", "book_code": "SG1", "type": "N", "char_count": 2164, "start_line": 28772, "end_line": 28957, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}

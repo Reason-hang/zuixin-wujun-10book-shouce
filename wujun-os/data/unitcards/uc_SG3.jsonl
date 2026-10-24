@@ -1,5 +1,5 @@
-{"unit_id": "SG3-U0001", "book_code": "SG3", "type": "S", "char_count": 69, "start_line": 1, "end_line": 6, "disposal": "N", "batch_id": null}
-{"unit_id": "SG3-U0002", "book_code": "SG3", "type": "N", "char_count": 5782, "start_line": 7, "end_line": 648, "disposal": "N", "batch_id": null}
+{"unit_id": "SG3-U0001", "book_code": "SG3", "type": "S", "char_count": 69, "start_line": 1, "end_line": 6, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
+{"unit_id": "SG3-U0002", "book_code": "SG3", "type": "N", "char_count": 5782, "start_line": 7, "end_line": 648, "disposal": "N", "batch_id": null, "tag_rules": ["S/N→不读"]}
 {"unit_id": "SG3-U0003", "book_code": "SG3", "type": "C", "char_count": 2815, "start_line": 649, "end_line": 726, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "A", "tag_rules": ["骨架单元→A"]}
 {"unit_id": "SG3-U0004", "book_code": "SG3", "type": "C", "char_count": 3178, "start_line": 727, "end_line": 826, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
 {"unit_id": "SG3-U0005", "book_code": "SG3", "type": "C", "char_count": 3233, "start_line": 827, "end_line": 940, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
@@ -144,7 +144,7 @@
 {"unit_id": "SG3-U0144", "book_code": "SG3", "type": "C", "char_count": 3329, "start_line": 15297, "end_line": 15390, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
 {"unit_id": "SG3-U0145", "book_code": "SG3", "type": "C", "char_count": 3412, "start_line": 15391, "end_line": 15500, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
 {"unit_id": "SG3-U0146", "book_code": "SG3", "type": "C", "char_count": 3148, "start_line": 15501, "end_line": 15594, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
-{"unit_id": "SG3-U0147", "book_code": "SG3", "type": "C", "char_count": 3169, "start_line": 15595, "end_line": 15680, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3无划重点→C", "审计白名单→B(P2A裁决③,Archegos爆仓高信号)"]}
+{"unit_id": "SG3-U0147", "book_code": "SG3", "type": "C", "char_count": 3169, "start_line": 15595, "end_line": 15680, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["SG3无划重点→C"]}
 {"unit_id": "SG3-U0148", "book_code": "SG3", "type": "C", "char_count": 3462, "start_line": 15681, "end_line": 15790, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
 {"unit_id": "SG3-U0149", "book_code": "SG3", "type": "C", "char_count": 3356, "start_line": 15791, "end_line": 15884, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
 {"unit_id": "SG3-U0150", "book_code": "SG3", "type": "C", "char_count": 3446, "start_line": 15885, "end_line": 15998, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["SG3划重点→B"]}
@@ -316,4 +316,4 @@
 {"unit_id": "SG3-U0316", "book_code": "SG3", "type": "C", "char_count": 2473, "start_line": 33185, "end_line": 33286, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["问答→B(HC-15)"]}
 {"unit_id": "SG3-U0317", "book_code": "SG3", "type": "C", "char_count": 2976, "start_line": 33287, "end_line": 33428, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "B", "tag_rules": ["问答→B(HC-15)"]}
 {"unit_id": "SG3-U0318", "book_code": "SG3", "type": "C", "char_count": 5926, "start_line": 33429, "end_line": 33984, "disposal": null, "batch_id": null, "domain_direct": false, "read_level": "C", "tag_rules": ["SG3无划重点→C"], "series_group": "SG-SG3-001"}
-{"unit_id": "SG3-U0319", "book_code": "SG3", "type": "S", "char_count": 59, "start_line": 33985, "end_line": 33990, "disposal": "N", "batch_id": null, "series_group": "SG-SG3-002"}
+{"unit_id": "SG3-U0319", "book_code": "SG3", "type": "S", "char_count": 59, "start_line": 33985, "end_line": 33990, "disposal": "N", "batch_id": null, "series_group": "SG-SG3-002", "tag_rules": ["S/N→不读"]}
