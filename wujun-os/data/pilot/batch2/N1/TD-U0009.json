@@ -1,0 +1,127 @@
+{
+  "unit_id": "TD-U0009",
+  "book_code": "TD",
+  "extractor": "N1",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0009-01",
+      "speaker": "吴军本人",
+      "claim_text": "任何时候最好是更好的敌人，任何进步都比没有进步好；一根筋追求最好往往什么也得不到",
+      "quote": "最好是更好的敌人",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 320,
+        "end_line": 322,
+        "sha1": "22e2be404115be878bd2452dad24beb1adabf7ef",
+        "fingerprint": [
+          "折中",
+          "一步到位",
+          "部分改进"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-2"
+      ],
+      "concept_key": "最好是更好的敌人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "2016年美国限枪立法两党方案（共和党方案为民主党子集）为例证（锚内）；女儿协会事务背景见行308、322"
+    },
+    {
+      "claim_id": "C-TD-U0009-02",
+      "speaker": "吴军本人",
+      "claim_text": "谷歌反作弊先抓46%再用一年补齐；新版本按时上线好过追求完美什么都交付不了",
+      "quote": "能解决多少问题就解决多少问题",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 324,
+        "end_line": 326,
+        "sha1": "6c996ba136362c5ec82cf0cf59c16d295030204b",
+        "fingerprint": [
+          "反作弊",
+          "46％",
+          "截止日期"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "渐进解决",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（谷歌反作弊、版本管理）承载渐进机理；支撑 C-TD-U0009-01"
+    },
+    {
+      "claim_id": "C-TD-U0009-03",
+      "speaker": "吴军本人",
+      "claim_text": "两次两成收益的改进胜过一次自认完美的三成收益改进；做事情不怕慢，就怕停",
+      "quote": "做事情不怕慢，就怕停",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 328,
+        "end_line": 328,
+        "sha1": "53c296070dfa14f2b1f6d0930843f330ec10c3c8",
+        "fingerprint": [
+          "两成收益",
+          "完美",
+          "2＋2＞3"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D03-1"
+      ],
+      "concept_key": "不怕慢就怕停",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "2＋2＞3：完美会随认识进步而不再完美（锚内）"
+    },
+    {
+      "claim_id": "C-TD-U0009-04",
+      "speaker": "吴军本人",
+      "claim_text": "信奉保守主义哲学：从小事、身边事、容易做的事开始一步步改善，胜过理想主义者的永远等待",
+      "quote": "一步步改善我们的环境和社会",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 330,
+        "end_line": 330,
+        "sha1": "c7c893799cbc66ae3aedd43836597f6703df3953",
+        "fingerprint": [
+          "保守主义",
+          "理想主义者",
+          "扯皮"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D02-3"
+      ],
+      "concept_key": "保守主义渐进改良",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军自陈信奉保守主义哲学的理由；理想主义者在等待扯皮中浪费时间（锚内）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0009",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行332 对美国控枪议题'解决办法一定是暂时性折中方案'属具体社会事件时效判断，折中机理已由C-TD-U0009-01覆盖，登记X2候选由P4终裁"
+    }
+  ]
+}

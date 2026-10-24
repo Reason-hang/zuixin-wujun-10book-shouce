@@ -2,14 +2,12 @@
 """s14_overlap.py — S14 双盲重抽重合率计算（T-P1-06 / GATE-C 漂移回归同口径）
 
 用法（在 wujun-os/ 执行）:
-  python3 scripts/s14_overlap.py --first data/pilot/cards_first --second data/pilot/cards_second --out logs/p1_overlap.md
+  python3 scripts/s14_overlap.py --first data/pilot/cards_first --second data/pilot/cards_second --out logs/p1_overlap.md --mode attr
 
-匹配规则（一张卡在对方集合中算"重合"当且仅当）:
-  ① 主归属一致: pillar_candidates[0] 相同（D 码-二级）
-  ② 且满足以下任一:
-     a) 锚点行区间在原书内有交集（同书）
-     b) 概念键相同（去空格精确匹配）
-     c) 指纹词交集 ≥1
+匹配模式（rules_v0.9.md R2 双档）:
+  strict  严口径: 主归属 pillar_candidates[0] 相等（漂移监控报告用）
+  attr    归属口径: 候选集有交集即算归属匹配（放行判定用，v0.9 起默认）
+满足归属匹配后，任一即算卡匹配: a) 锚点行区间交集（同书） b) 概念键相同 c) 指纹词交集 ≥1
 重合率 = 2×匹配对数 / (|首抽|+|重抽|)   （双边加权，惩罚两边数量失衡）
 通过线: ≥0.7（v2 §15.12 / 稳定性方案 M8）
 """
@@ -35,9 +33,14 @@ def load(d):
 def spans_overlap(a, b):
     return a['book_code'] == b['book_code'] and not (a['end_line'] < b['start_line'] or b['end_line'] < a['start_line'])
 
-def match(c1, c2):
-    if (c1.get('pillar_candidates') or ['?'])[0] != (c2.get('pillar_candidates') or ['?'])[0]:
-        return False
+def match(c1, c2, mode='attr'):
+    p1, p2 = c1.get('pillar_candidates') or ['?'], c2.get('pillar_candidates') or ['?']
+    if mode == 'strict':
+        if p1[0] != p2[0]:
+            return False
+    else:  # attr: 候选集交集（DT-待判 视为不匹配任何具体柱）
+        if not (set(p1) & set(p2)) - {'DT-待判'}:
+            return False
     if spans_overlap(c1['anchor'], c2['anchor']):
         return True
     if c1.get('concept_key', '').strip() and c1.get('concept_key', '').strip() == c2.get('concept_key', '').strip():
@@ -50,6 +53,7 @@ def main():
     ap.add_argument('--first', required=True)
     ap.add_argument('--second', required=True)
     ap.add_argument('--out', required=True)
+    ap.add_argument('--mode', choices=['strict', 'attr'], default='attr')
     args = ap.parse_args()
 
     A, B = load(args.first), load(args.second)
@@ -59,15 +63,15 @@ def main():
         for j, b in enumerate(B):
             if j in used_b:
                 continue
-            if match(a, b):
+            if match(a, b, args.mode):
                 used_b.add(j)
                 pairs.append((a, b))
                 break
     overlap = 2 * len(pairs) / (len(A) + len(B)) if (A and B) else 0.0
     verdict = 'PASS' if overlap >= 0.7 else 'FAIL'
 
-    L = ['# S14 双盲重抽重合率（脚本产出，勿手改）', '',
-         f'- 首抽卡数: {len(A)}　重抽卡数: {len(B)}　匹配对: {len(pairs)}',
+    L = [f'# S14 双盲重抽重合率（脚本产出，勿手改；模式={args.mode}）', '',
+         f'- 首抽卡数: {len(A)}　重抽卡数: {len(B)}　匹配对: {len(pairs)}　模式: {args.mode}',
          f'- 重合率: {overlap:.3f}（通过线 ≥0.7）→ **{verdict}**', '',
          '| 首抽卡 | 重抽卡 | 主归属 | 匹配依据 |', '|---|---|---|---|']
     for a, b in pairs:

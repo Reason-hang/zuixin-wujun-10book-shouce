@@ -1,7 +1,7 @@
 ZIP ?= _打包吴军10本电子书.zip
 PY ?= python3
 
-.PHONY: restore-check freeze probe test status verify-pack verify-anchors pack split check-units p0-smoke s03 s04 s05 s06 s07 s08 p0 gates handover
+.PHONY: restore-check freeze probe test status verify-pack verify-anchors pack split check-units p0-smoke s03 s04 s05 s06 s07 s08 p0 gates handover unitcards batch
 
 restore-check: verify-pack freeze probe test status
 
@@ -60,3 +60,9 @@ p0: split check-units s03 s04 s05 s06 s07 s08
 
 handover:
 	$(PY) scripts/make_handover.py
+
+unitcards:
+	$(PY) scripts/s09_unitcards.py --units data/units --out data/unitcards
+
+batch:
+	$(PY) scripts/s10_batch.py --units data/units --cards data/unitcards --out data/batches --log logs/batch_plan.md

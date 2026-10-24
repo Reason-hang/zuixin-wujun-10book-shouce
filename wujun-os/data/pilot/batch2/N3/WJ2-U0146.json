@@ -1,0 +1,127 @@
+{
+  "unit_id": "WJ2-U0146",
+  "book_code": "WJ2",
+  "extractor": "N3",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0146-01",
+      "speaker": "吴军本人",
+      "claim_text": "美国大选民调长期低估特朗普支持率：支持者怕不体面、不知他人所想，真实想法被长期雪藏",
+      "quote": "低估特朗普的支持率",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11515,
+        "end_line": 11515,
+        "sha1": "d7d216223369104ef28307d2f5b63cc909cadbc1",
+        "fingerprint": [
+          "民调",
+          "特朗普",
+          "不好意思"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D01-4",
+        "D07-2"
+      ],
+      "concept_key": "共同知识与共享知识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（共享知识状态下人评估说出后的危害而不敢言），按 R3 独立成卡；概念定义见 C-WJ2-U0146-02；2024 大选详例在 11525（锚外同单元）"
+    },
+    {
+      "claim_id": "C-WJ2-U0146-02",
+      "speaker": "转述·第三方",
+      "claim_text": "刘易斯概念对：共同知识=人人皆知且知道他人亦知；共享知识=人人皆知但不知他人是否知道",
+      "quote": "每个人都知道一条信息",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11517,
+        "end_line": 11523,
+        "sha1": "d34222d68f2ffd8ba99dce92de0f0f658a65533b",
+        "fingerprint": [
+          "共同知识",
+          "共享知识"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4",
+        "D07-2"
+      ],
+      "concept_key": "共同知识与共享知识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：大卫·凯洛格·刘易斯（哲学家，归罗素维特根斯坦一派，11506 锚外）；锚内含两种状态的行为差异及 17 世纪日心说、二战德国信息雪藏例；吴军结论见 C-WJ2-U0146-04"
+    },
+    {
+      "claim_id": "C-WJ2-U0146-03",
+      "speaker": "转述·第三方",
+      "claim_text": "陶哲轩蓝眼睛谜题：外乡人一句公开声明启动递归推理，演示共享知识转向共同知识的过程",
+      "quote": "一个思想实验",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11531,
+        "end_line": 11535,
+        "sha1": "72a260ccfcb6ae3bad5b18eb596355f120f70f29",
+        "fingerprint": [
+          "陶哲轩",
+          "孤岛",
+          "蓝眼睛"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "共同知识的转化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：陶哲轩；谜题设定（100 居民不许交流眼睛颜色，11535）；归纳递归解法与'第 11 天离开'答案见本单元后文；吴军结论见 C-WJ2-U0146-04"
+    },
+    {
+      "claim_id": "C-WJ2-U0146-04",
+      "speaker": "吴军本人",
+      "claim_text": "共享知识只有变成共同知识才能在社会上真正起作用；转变需有人站出来发声或借助外力推动",
+      "quote": "变成共同知识",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11565,
+        "end_line": 11567,
+        "sha1": "04b9328beb452c6988e08bcae796b55ba23135a0",
+        "fingerprint": [
+          "共同知识",
+          "喊出一句话",
+          "外力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D01-4"
+      ],
+      "concept_key": "共同知识的转化",
+      "ability_tags": [
+        "思",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "本信核心结论：第一个发声者会因违规被处死（个人代价），故常需外力推一把（外乡人）；概括见本卡、概念见 C-WJ2-U0146-02、谜题见 C-WJ2-U0146-03"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0146",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "单元后附录'DeepSeek 深度思索与答案'（约 11571-11935）：为 AI 模型生成的蓝眼睛谜题解答推演，说话人非吴军亦非原著第三方，不构成原著论点，不抽卡；信首区分两个刘易斯的说明（11501-11503）为编校性内容，亦不抽卡"
+    }
+  ]
+}

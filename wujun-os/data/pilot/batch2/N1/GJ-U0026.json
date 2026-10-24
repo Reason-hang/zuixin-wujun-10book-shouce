@@ -1,0 +1,272 @@
+{
+  "unit_id": "GJ-U0026",
+  "book_code": "GJ",
+  "extractor": "N1",
+  "cards": [
+    {
+      "claim_id": "C-GJ-U0026-01",
+      "speaker": "吴军本人",
+      "claim_text": "沟通是人与人的通信，遵循通信基本原理，可用香农第二定理判断沟通方式是否有效",
+      "quote": "沟通是人和人的通信",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1056,
+        "end_line": 1056,
+        "sha1": "c2dc186468d4fe55409609f984c94c00daac214d",
+        "fingerprint": [
+          "香农第二定理",
+          "通信",
+          "有效"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D04-2"
+      ],
+      "concept_key": "沟通的带宽",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "张老师/李老师快慢班例证见行1058-1060；收束句'沟通是艺术也符合科学原理'（行1094）与本卡同判断，不另设卡"
+    },
+    {
+      "claim_id": "C-GJ-U0026-02",
+      "speaker": "转述·第三方",
+      "claim_text": "香农信道容量定理：任何信道存在固有容量，信息传输速度不可能超过信道自身的容量",
+      "quote": "存在一个固有的通道容量",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1062,
+        "end_line": 1064,
+        "sha1": "758f12e8fcf13f9daa3af71dad7a2f17e47bff17",
+        "fingerprint": [
+          "信道容量",
+          "香农",
+          "带宽"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2",
+        "D07-1"
+      ],
+      "concept_key": "信道容量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：香农（第二定理）；带宽为信道容量的通俗说法（行1064）；吴军应用见 C-GJ-U0026-03（R1互引）"
+    },
+    {
+      "claim_id": "C-GJ-U0026-03",
+      "speaker": "吴军本人",
+      "claim_text": "信息传递速度超过接收者带宽会完全无效；有效做法是放慢速度，一次只讲清楚一件事",
+      "quote": "一次只讲清楚一件事",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1066,
+        "end_line": 1068,
+        "sha1": "a5f6a6ee31a4107b34baeaac1f3f3757740979a5",
+        "fingerprint": [
+          "出错",
+          "放慢",
+          "学术报告"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "放慢与一次一件事",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "互引：香农定理转述见 C-GJ-U0026-02；超带宽出错概率100%、博士生学术报告训练例证均在锚内"
+    },
+    {
+      "claim_id": "C-GJ-U0026-04",
+      "speaker": "转述·第三方",
+      "claim_text": "带宽由双方互信息决定：对所谈事情的理解一致性越高，互信息越大，沟通带宽越宽",
+      "quote": "互信息就越大，带宽也就越宽",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1070,
+        "end_line": 1070,
+        "sha1": "c678af56f5b72c266844e4f621c275b239a36ce9",
+        "fingerprint": [
+          "互信息",
+          "一致性",
+          "带宽"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2",
+        "D07-1"
+      ],
+      "concept_key": "互信息决定带宽",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：香农；快班慢班学生对概念理解差距例证（锚内）"
+    },
+    {
+      "claim_id": "C-GJ-U0026-05",
+      "speaker": "吴军本人",
+      "claim_text": "代沟及师生、上下级隔阂的根本原因是所处环境不同、缺乏认知互信息，需把速度降到带宽内",
+      "quote": "根本原因是各自所处的环境不同",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1074,
+        "end_line": 1074,
+        "sha1": "e6e39226df6a028be6ceaad59e8343df19a9c999",
+        "fingerprint": [
+          "代沟",
+          "耐心",
+          "隔阂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "代沟与互信息",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "长辈把想法一股脑倒给晚辈致沟通效果为零（锚内）"
+    },
+    {
+      "claim_id": "C-GJ-U0026-06",
+      "speaker": "吴军本人",
+      "claim_text": "三观一致即对世界看法的一致性高、互信息高，沟通带宽宽；互信息近零则永远不在一个频道",
+      "quote": "讨论起事情永远不在一个频道上",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1076,
+        "end_line": 1076,
+        "sha1": "8be8a7bfe5d43553cd8a9c0d19cb23d68cad6345",
+        "fingerprint": [
+          "三观",
+          "互信息",
+          "频道"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "三观一致与互信息",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "结论句为沟通机制的信息论解释（呼应《态度》观点），婚姻仅为场景；P4可复核是否涉X5"
+    },
+    {
+      "claim_id": "C-GJ-U0026-07",
+      "speaker": "吴军本人",
+      "claim_text": "提高沟通水平的方法有两个：拓宽带宽与降低传递速度；组织内靠共识、书与文化拓宽带宽",
+      "quote": "方法主要有两个",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1078,
+        "end_line": 1082,
+        "sha1": "515f35a3d5c96bc16e86876aa8379961f8b9825e",
+        "fingerprint": [
+          "拓宽带宽",
+          "企业的文化",
+          "共识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D07-2"
+      ],
+      "concept_key": "拓宽带宽两法",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "老乡校友互信息多、钱锺书《围城》借书观点（转述）、与孩子同读、企业文化四例证均在锚内"
+    },
+    {
+      "claim_id": "C-GJ-U0026-08",
+      "speaker": "吴军本人",
+      "claim_text": "最有效的拓宽带宽方式是看着听众说话；对同样内容用不同讲法，看人说话是增加互信息而非耍滑头",
+      "quote": "善于交流的人都会看人说话",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1084,
+        "end_line": 1086,
+        "sha1": "12b7c895cad68fe9d68896fc93e0ce0afe3631a3",
+        "fingerprint": [
+          "看人说话",
+          "听众",
+          "铺垫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "看人说话",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "报告前先了解听众、开场铺垫拉近距离例证（锚内）"
+    },
+    {
+      "claim_id": "C-GJ-U0026-09",
+      "speaker": "吴军本人",
+      "claim_text": "带宽可拓宽的程度有限，降低信息传递速度才是最可靠办法；交流目的在对方接收到多少",
+      "quote": "降低信息传递的速度",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1088,
+        "end_line": 1090,
+        "sha1": "dde97f1ae62492edba5c10d01c79741215facefc",
+        "fingerprint": [
+          "写信",
+          "慢过程",
+          "接收到多少信息"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "降速最可靠",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "给孩子写家书因读信是慢过程、能理解意思（锚内）"
+    },
+    {
+      "claim_id": "C-GJ-U0026-10",
+      "speaker": "吴军本人",
+      "claim_text": "人用耳朵理解信息的速度远低于用眼理解文字；倍速听课超出接收带宽，欲速不达甚至有害",
+      "quote": "欲速不达，甚至有害",
+      "anchor": {
+        "book_code": "GJ",
+        "start_line": 1092,
+        "end_line": 1092,
+        "sha1": "a1576f7495d35d80924d3550f652be5ffb147ee7",
+        "fingerprint": [
+          "两倍语速",
+          "在线课程",
+          "耳朵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "接收带宽",
+      "ability_tags": [
+        "沟",
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "三四倍语速听在线课程为反例（锚内）"
+    }
+  ],
+  "x_disposals": []
+}

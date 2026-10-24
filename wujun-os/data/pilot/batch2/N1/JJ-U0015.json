@@ -1,0 +1,186 @@
+{
+  "unit_id": "JJ-U0015",
+  "book_code": "JJ",
+  "extractor": "N1",
+  "cards": [
+    {
+      "claim_id": "C-JJ-U0015-01",
+      "speaker": "转述·第三方",
+      "claim_text": "近代哲学从关注世界本源转向方法论，形成理性主义（笛卡尔）与经验主义（培根等）两大方法论",
+      "quote": "关注世界的本源变成了关注方法论",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 865,
+        "end_line": 865,
+        "sha1": "bd3c4fd2af98a66dd9a74466176d55007d1d0991",
+        "fingerprint": [
+          "理性主义",
+          "经验主义",
+          "笛卡尔"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4",
+        "D01-1"
+      ],
+      "concept_key": "理性主义与经验主义",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：笛卡尔、培根及其后世归纳；吴军的取用判断见 C-JJ-U0015-02"
+    },
+    {
+      "claim_id": "C-JJ-U0015-02",
+      "speaker": "吴军本人",
+      "claim_text": "主动应用理性主义与经验主义方法论，能做到可重复的成功、可叠加的进步，成就远超同侪",
+      "quote": "可重复的成功、可叠加的进步",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 867,
+        "end_line": 867,
+        "sha1": "2f6982e1b21e1bbfb86c8022dab0156229bcbdac",
+        "fingerprint": [
+          "方法论",
+          "偶然性",
+          "显著提高"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D01-1"
+      ],
+      "concept_key": "可重复可叠加",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军自述系统学习方法论后成功率显著提高（锚内）；与 C-FZ-U0022-01 跨书同概念键"
+    },
+    {
+      "claim_id": "C-JJ-U0015-03",
+      "speaker": "吴军本人",
+      "claim_text": "股市归因之争、价值投资与随机漫步、经验与理论之争，都是理性主义与经验主义的不自觉站队",
+      "quote": "其实，这些人都是在站队",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 871,
+        "end_line": 877,
+        "sha1": "051725d8a27f74c40454c07ac8be13ba0a20f670",
+        "fingerprint": [
+          "站队",
+          "巴菲特",
+          "西蒙斯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "理性还是经验的站队",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "加息争论、价值投资者vs西蒙斯、单位经验与理论之争三例证均在锚内"
+    },
+    {
+      "claim_id": "C-JJ-U0015-04",
+      "speaker": "吴军本人",
+      "claim_text": "站队不可怕，可怕的是不知道往哪里站；长期坚持一套方法论者成功，东学西学者亏钱",
+      "quote": "可怕的是不知道往哪里站",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 879,
+        "end_line": 879,
+        "sha1": "bdfa3b61df9004da7793b84f749a2a5e9a108296",
+        "fingerprint": [
+          "投资哲学",
+          "长期坚持",
+          "价值投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D09-2"
+      ],
+      "concept_key": "坚持一套方法论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "成功投资人长期坚持自己投资哲学 vs 一会儿学巴菲特一会儿学西蒙斯（锚内）"
+    },
+    {
+      "claim_id": "C-JJ-U0015-05",
+      "speaker": "转述·第三方",
+      "claim_text": "柏拉图二元论认为理念世界决定现实世界；认可者投资上倾向巴菲特的内在规律说",
+      "quote": "理念世界决定了现实世界",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 883,
+        "end_line": 885,
+        "sha1": "f3e2aa36d92db527e7593a91effce0135966b1e2",
+        "fingerprint": [
+          "柏拉图",
+          "二元论",
+          "理念世界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "柏拉图二元论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：柏拉图；吴军将其映射到巴菲特式投资取向（锚内）"
+    },
+    {
+      "claim_id": "C-JJ-U0015-06",
+      "speaker": "转述·第三方",
+      "claim_text": "亚里士多德认为事物的外在形式决定内在属性；认可者投资上倾向西蒙斯的就事论事",
+      "quote": "外在形式决定了其内在属性",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 887,
+        "end_line": 887,
+        "sha1": "c7949df539a24d6cb090e3aaa46339ca314d81d8",
+        "fingerprint": [
+          "亚里士多德",
+          "外在形式",
+          "物种"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "亚里士多德外在形式论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：亚里士多德；吴军将其映射到西蒙斯式投资取向（锚内）"
+    },
+    {
+      "claim_id": "C-JJ-U0015-07",
+      "speaker": "吴军本人",
+      "claim_text": "理性与经验两种方法论都有大量成功案例支撑，可以选一队站，但要事先了解每支队伍通向哪里",
+      "quote": "事先了解每支队伍通向哪里",
+      "anchor": {
+        "book_code": "JJ",
+        "start_line": 889,
+        "end_line": 889,
+        "sha1": "1192d31180a82f1b0c94e9856eb2c63e560dc02e",
+        "fingerprint": [
+          "成功案例",
+          "选一队",
+          "通向哪里"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "了解队伍通向哪里",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "本章结论句；与 C-JJ-U0015-03/04 构成同一论证链"
+    }
+  ],
+  "x_disposals": []
+}

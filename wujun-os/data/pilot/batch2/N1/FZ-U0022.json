@@ -1,0 +1,88 @@
+{
+  "unit_id": "FZ-U0022",
+  "book_code": "FZ",
+  "extractor": "N1",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0022-01",
+      "speaker": "吴军本人",
+      "claim_text": "世界没有捷径，不存在只有自己看到的好机会；应少在低水平重复，让成功可重复、进步可叠加",
+      "quote": "世界上其实没有捷径可走",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 751,
+        "end_line": 751,
+        "sha1": "e80ffc5e4525f3b11a5be24d7a63ec073ff33668",
+        "fingerprint": [
+          "捷径",
+          "低水平",
+          "铺好道路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D03-1"
+      ],
+      "concept_key": "可重复可叠加",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "本章小结总判断；与 C-JJ-U0015-02 跨书同概念键"
+    },
+    {
+      "claim_id": "C-FZ-U0022-02",
+      "speaker": "转述·第三方",
+      "claim_text": "哥德尔证明不存在既自洽又包罗万象的知识体系；波普尔主张通过经验证伪发展科学",
+      "quote": "纯粹理性能够解决一切问题",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 755,
+        "end_line": 757,
+        "sha1": "07824314ea881c19c4708e6d7d901681bed73a42",
+        "fingerprint": [
+          "尼采",
+          "哥德尔",
+          "波普尔"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1",
+        "D01-4"
+      ],
+      "concept_key": "理性的局限",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：尼采、哥德尔、波普尔；吴军对个人的应用判断见 C-FZ-U0022-03（R1互引）"
+    },
+    {
+      "claim_id": "C-FZ-U0022-03",
+      "speaker": "吴军本人",
+      "claim_text": "对经验主义是否有正确认识、是否善于积累利用经验，决定个人犯错的概率；别人犯错你不犯就赢",
+      "quote": "当别人犯错误，而你不犯错误时",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 759,
+        "end_line": 761,
+        "sha1": "1cf26ab35daea683de2b56a6854a365c9d5ae157",
+        "fingerprint": [
+          "经验主义",
+          "积累经验",
+          "犯错误"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "经验与犯错",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "互引：理性局限思想史脉络见 C-FZ-U0022-02"
+    }
+  ],
+  "x_disposals": []
+}

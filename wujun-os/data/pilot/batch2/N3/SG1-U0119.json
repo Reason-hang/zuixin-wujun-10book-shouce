@@ -1,0 +1,63 @@
+{
+  "unit_id": "SG1-U0119",
+  "book_code": "SG1",
+  "extractor": "N3",
+  "cards": [
+    {
+      "claim_id": "C-SG1-U0119-01",
+      "speaker": "吴军本人",
+      "claim_text": "拍标志性建筑通常晚上优于白天：白昼城市背景杂乱，夜晚主题得以突显",
+      "quote": "晚上拍摄的效果要比白天好",
+      "anchor": {
+        "book_code": "SG1",
+        "start_line": 6949,
+        "end_line": 6949,
+        "sha1": "c9a52b9acddd9ebad8bc068423d5d2d9c881f16e",
+        "fingerprint": [
+          "标志性建筑物",
+          "突显"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "夜景拍建筑",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "最接近 D05-1（做事方法），但属摄影技艺层面、无正柱可挂，按 R4 记 DT-待判，notes 说明最接近柱，禁强挂；悉尼歌剧院最佳机位为例"
+    },
+    {
+      "claim_id": "C-SG1-U0119-02",
+      "speaker": "吴军本人",
+      "claim_text": "摄影时背景常常和主题一样重要：红花需要绿叶衬托，有背景灯光主体才更漂亮",
+      "quote": "背景常常和主题一样重要",
+      "anchor": {
+        "book_code": "SG1",
+        "start_line": 6951,
+        "end_line": 6951,
+        "sha1": "afc152c60e49e70307533bd256da6e36676d8122",
+        "fingerprint": [
+          "红花需要绿叶衬托",
+          "背景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "背景与主题",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "最接近 D05-1（做事方法），判断可迁移至呈现与表达，按 R4 记 DT-待判；歌剧院与海湾大桥彩灯为例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "SG1-U0119",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "游记叙事主体：行程交通租车左行（6935-6937）、悉尼概况与酒店（6941）、动物园袋鼠考拉（6973-6991）、蓝山三姊妹峰与张家界比较（7001-7003）、中餐馆与 UGG 购物（7009）、'今日思考'提问（7015），均属个人游记轶事、无迁移判断，按 D02-1 excludes_to 归 X3；两条摄影方法判断已单独成卡"
+    }
+  ]
+}

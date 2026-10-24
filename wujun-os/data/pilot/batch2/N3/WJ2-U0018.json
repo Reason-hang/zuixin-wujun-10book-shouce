@@ -1,0 +1,218 @@
+{
+  "unit_id": "WJ2-U0018",
+  "book_code": "WJ2",
+  "extractor": "N3",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0018-01",
+      "speaker": "读者",
+      "claim_text": "读者三问：保研选校（名校vs城市）、财富自由是否零和博弈、家庭零负债是否可取",
+      "quote": "选城市比学校更重要",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1437,
+        "end_line": 1437,
+        "sha1": "40d688ba1cdace4abd730764e2f7e4961ede7380",
+        "fingerprint": [
+          "保研",
+          "选城市"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "周末问答读者上下文",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "读者上下文卡（本单元仅此1张）：millie 问保研选校（1437）、黄金问财富自由是否零和（1457）、麻花儿问家庭该不该借贷（1481），读者发言不作为吴军论点"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-02",
+      "speaker": "吴军本人",
+      "claim_text": "人类经济活动是不断创造财富而非零和游戏；别人获得财富，不意味着自己的钱变少",
+      "quote": "而不是零和游戏",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1461,
+        "end_line": 1461,
+        "sha1": "84d2a34aaff0a644a4ddcb47760a33c0ed2fcbcb",
+        "fingerprint": [
+          "零和游戏",
+          "创造财富"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "经济活动非零和",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "1475 行'富人的钱像一桶水'为本判断的比喻呼应；涓滴效应转述见 C-WJ2-U0018-04"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-03",
+      "speaker": "吴军本人",
+      "claim_text": "财富平均分配的社会如热寂般死气沉沉，无人有动力创造财富；绝对的平均才是最不公平的",
+      "quote": "绝对的平均才是最不公平的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1467,
+        "end_line": 1467,
+        "sha1": "260792d8822de7cc5761ca56a6ce529dba98de97",
+        "fingerprint": [
+          "热寂",
+          "绝对的平均"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "绝对平均最不公平",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以物理学热寂类比经济系统；回答'财富分配为何要有差异'"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-04",
+      "speaker": "转述·第三方",
+      "claim_text": "涓滴效应：富人的钱通过投资再生产惠及大众；斯托克曼实践证明经济增长惠及全体含贫困群体",
+      "quote": "涓滴效应",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1469,
+        "end_line": 1471,
+        "sha1": "abd865e2f200bcb709fdb4a6981a37258ef4867d",
+        "fingerprint": [
+          "涓滴效应",
+          "下渗经济学",
+          "斯托克曼"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "涓滴效应",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：亚当·斯密以来的经济学家、大卫·斯托克曼（1471）；吴军取用概括见 C-WJ2-U0018-02（1475 一桶水比喻）"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-05",
+      "speaker": "吴军本人",
+      "claim_text": "财富自由最终需要一个保护私有财产且相对公平的社会环境，普遍贫困互害的社会中得钱也难保有",
+      "quote": "保护私有财产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1477,
+        "end_line": 1477,
+        "sha1": "91496d878fd0b88d5ae7d18a629dea3aad08ed58",
+        "fingerprint": [
+          "私有财产",
+          "财富自由"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "产权保护与财富自由",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "回答读者'努力后仍不能财富自由怎么办'的收束判断"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-06",
+      "speaker": "吴军本人",
+      "claim_text": "有负债与自由现金流不排斥：月进账现金流扣除贷款本息后仍宽裕时，不必担心借贷",
+      "quote": "彼此不排斥",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1485,
+        "end_line": 1485,
+        "sha1": "4678d6d6c4a1e0d51d5874b406aa77247178595f",
+        "fingerprint": [
+          "自由现金流",
+          "本息"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "负债与自由现金流",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "借贷过高致现金流紧张则是另一问题（同锚内）"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-07",
+      "speaker": "吴军本人",
+      "claim_text": "家庭借贷多维考量：先看债务与资产比例及偿还能力，再比贷款利率与投资收益高低",
+      "quote": "很多维度的考量",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1487,
+        "end_line": 1499,
+        "sha1": "a3351c6e5a6877f9fdd1c76a7360268f79ed2002",
+        "fingerprint": [
+          "债务和资产",
+          "按揭贷款",
+          "投资的收益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D09-2"
+      ],
+      "concept_key": "家庭借贷考量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论（四维度）整体一卡，超800字拆续卡：维度三（分散风险）四（使用属性与应急存款）见 C-WJ2-U0018-08；美国按揭不超家庭两年均收入四倍为例（1495）"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-08",
+      "speaker": "吴军本人",
+      "claim_text": "借贷还要分散风险、不单把购房当投资，房屋有使用属性；家庭应备约半年生活费应急存款",
+      "quote": "不要把鸡蛋放在一个篮子里",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1501,
+        "end_line": 1503,
+        "sha1": "21bf6db53e7f227901739d9de599f6c6eeacd9d1",
+        "fingerprint": [
+          "分散风险",
+          "使用属性",
+          "应急存款"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D09-2"
+      ],
+      "concept_key": "家庭借贷考量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "续卡 of C-WJ2-U0018-07（四维度清单后两维）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0018",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "选大学问答（1439-1453）：名校优先于城市、城市优先于一般大学（1441）、名校范围划定为 C9 及领域顶尖校（1443-1445）、地理位置优势有梯度（1447）、上财与浙大海宁校区具体比较（1449）、自己喜欢哪里也重要（1453），属升学/教育选择类，按支柱字典 excludes_to 归 X5，不入 cards"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "N2",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "做事要从基线之上开始：所有工作应建立在已有知识基线上，起点低于基线的努力没有实际价值",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1077,
+        "sha1": "72626f65f57745235c90c946c1e61d737e201a45",
+        "fingerprint": [
+          "基线",
+          "民间发明家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "基线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "判例：结论句讲'从基线做起'（工程上怎么做事）主归 D05-1，基线概念定义辅 D04-3（互设辅助标签）。民间发明家小飞机案例（1075-1076）、'三层楼/地平线/地下室三层'比喻（1079）、散户投资类比（1086）按 R3 并入母卡。"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "莱特兄弟先学凯利理论、核实无误，试验200多种翼形、上千次风洞试验才上天——从基线出发做足试验",
+      "quote": "打造了一个风洞",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1080,
+        "end_line": 1083,
+        "sha1": "aa45f5892ebe5c9a911495c14eab9bf44c5629f2",
+        "fingerprint": [
+          "莱特兄弟",
+          "风洞",
+          "凯利"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "莱特兄弟的方法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "R3 例证独立成卡：专名案例（莱特兄弟/凯利）+可迁移机理（系统学理论+核实计算+充分试验再行动，区别于民间发明家）。1080 行内嵌奥维尔·莱特 1912 年原话（史实引语）不单独成 E2 卡。"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "接受教育、培训和不断学习的目的就是提高自己的基线；不主张大学生退学创业，因为基线太低",
+      "quote": "就是提高自己的基线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1087,
+        "end_line": 1087,
+        "sha1": "2e4ded58a2adf342ca5f3983f0b60deecb6b4fb4",
+        "fingerprint": [
+          "提高自己的基线",
+          "退学创业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "教育提高基线",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "三条边框架在教育上的应用（怎么做事）主归 D05-1；'为什么学'面向（D02-2）为辅。退学创业判断随基线框架给出，非教育制度议题（不触发 X5）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "上面那条线是理论给出的极限（光速、卡诺定理），无法突破；懂不懂极限是专业人士与业余的差别",
+      "quote": "理论给出的极限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1091,
+        "sha1": "16b1a58feeba9644b8f60d7aa2890cca2ec32032",
+        "fingerprint": [
+          "极限",
+          "卡诺定理",
+          "业余爱好者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "理论极限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "判例：结论句讲'极限原理'主归 D04-3；'有理论基础做事不至于异想天开'（1091）为应用面辅 D05-1。蒸汽机效率上限/卡诺定理（1090）、图灵机/摩尔定律/冯·诺依曼边界预告（1092）为例证并入。"
+    },
+    {
+      "claim_id": "C-GG-U0013-05",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "有了基线和极限还不够，还要找到连接两者的绳索阶梯；越接近高目标道路越少，很多要靠自己探索",
+      "quote": "扶着向上攀登的绳索",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1098,
+        "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28",
+        "fingerprint": [
+          "绳索",
+          "斜线",
+          "阶梯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "连接路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "鸟巢案例（1094-1096，总工程师李久林：从勘察、设计、施工到管理的一整套方案即斜线）为专名例证，机理与母卡同链（连接路径=整套可行方案），按 R3 并入；'下粗上细'原因（1097）、'工程师的工作是找到或编织绳索'（1098）并入。"
+    },
+    {
+      "claim_id": "C-GG-U0013-06",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "科学家常常是告诉大家这件事可以做，工程师要明白怎么做",
+      "quote": "工程师要明白怎么做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1095,
+        "end_line": 1095,
+        "sha1": "5f0345a1cc81d1e60150d646ec201cb6dcb44a45",
+        "fingerprint": [
+          "工程师",
+          "科学家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "工程师与科学家之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "工程思维的角色分工判断（原理层）主归 D04-3。锚行落在 C-GG-U0013-05 锚区间内，属同一论证链两卡并存（R1 允许）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-07",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "L君融资：先认清自己的基线与极限，只做通往目标通道上的事，把过去的天花板变成后来的基础",
+      "quote": "把过去的天花板变成了后来的基础",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1101,
+        "end_line": 1108,
+        "sha1": "a118a6ae10348f1b9f712bcc5a1516cf6e802364",
+        "fingerprint": [
+          "天花板",
+          "通道",
+          "基础"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "把天花板变成基础",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "R3 例证独立成卡：专名案例（投资界 L 君）+可迁移机理（认清基线与欠缺→通道之外一律不做→天花板变新基础）。融资背景（1099-1100）、老先生指点补基线（1101-1102）为例证背景。"
+    },
+    {
+      "claim_id": "C-GG-U0013-08",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "解决问题有相对固定的章法：找不到基线和极限是蛮干傻干，找不到连接路径永远只能纸上谈兵",
+      "quote": "永远只能纸上谈兵",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1109,
+        "end_line": 1110,
+        "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb",
+        "fingerprint": [
+          "三条线",
+          "蛮干",
+          "纸上谈兵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "把事情做好的三条边",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "全信总结句（R1 吴军概括=E1）。判例：总结句讲'怎么做事'主归 D05-1；'三条边'（基线/极限/连接路径）概念出处辅 D04-3（pillars.yaml D04-3 caliber_boundary：原理归 D04-3、应用归 D05-1）。'今日思考'（1112-1113）为指令性文字，按 HC-20 不抽取。"
+    }
+  ],
+  "x_disposals": []
+}

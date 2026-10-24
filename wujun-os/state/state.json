@@ -2,13 +2,13 @@
  "project": "WJ-OS 吴军十书·认知与行动操作系统",
  "pack_version": "1.0",
  "updated": "2026-10-24",
- "phase": "P1 微试跑完成（试点报告 v0.1 已交付）；放量前先落规则 v0.9",
- "step": "P1 微试跑闭环完成：选样16 → 首抽25卡 → 双盲重抽32卡 → S14（严0.526 FAIL/锚点层0.807 PASS）→ 规则清单R1–R8 → 试点报告v0.1。下一步：CHG-020 规则修订落盘 → 放量16单元 → 冻结规则v1 → ST-2/3",
+ "phase": "P1 全部收口（规则 v1.0 冻结、M1 关门）；P2 分诊进行中（S09/S10 脚本就绪）",
+ "step": "放量 13 单元 76 卡全过统一校验；N4 盲抽复验 attr 0.857/0.933/0.824 全过 → 规则 v1.0 冻结（D-28）、ST-3 通过、gold_v1 登记。P2：1,742 单元卡 + 108 批装箱完成（D-27 口径修正），下一步读法层标注（T-P2-04）",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
   "pillars": "v1.1（机读 pillars.yaml 10/25 与 §13.1 核验一致；exclusions.yaml X1–X8；boundary_rules.md 规则①–⑫）",
-  "rules": "未冻结（P1 后 v1）"
+  "rules": "v1.0 已冻结（spec/rules_v0.9.md，2026-10-24；CHG-021）"
  },
  "frozen": {
   "status": "src_frozen 已冻结 10/10（make restore-check 基线比对全过）；书籍原文不入公开 git 仓库（D-21），zip 由用户保管",
@@ -18,25 +18,25 @@
  "progress": {
   "units_total": 1742,
   "units_content": 1697,
-  "units_done": 0,
+  "units_done": 16,
   "chars_total": 5038558,
-  "chars_done": 0,
+  "chars_done": 44405,
   "batches_done": 0,
-  "batches_est": "70–90"
+  "batches_est": "108（全量装箱，D-27）；A 层必读约 28 批"
  },
  "in_flight": {
   "ticket": null,
   "unit_ids": [],
   "unsaved": [],
-  "note": "无进行中工单。P1 产物：data/pilot/（samples、cards_first、cards_second）、logs/p1_overlap.md、ledger/P1试点报告_v0.1"
+  "note": "无进行中工单。P1 全产物：cards_first/second（微试跑 57 卡）、batch2/（放量 76 卡+9X）、batch2_recheck/（N4 盲抽 28 卡）；P2：unitcards 1,742、batch_plan 108 批"
  },
- "last_ticket": "T-P1-11（试点报告 v0.1，review）",
- "next_ticket": "规则 v0.9 落盘（CHG-020）→ T-P1-02 放量 16 单元 → T-P1-10 冻结规则 v1 → T-P1-12 ST-2/ST-3",
+ "last_ticket": "T-P1-12（ST-3 通过、ST-2 等效演示；P1 收口，M1 关门）",
+ "next_ticket": "T-P2-03/04（读法层 A/B/C 标注——P3 批次工单生成的前置）",
  "blocked_by": [],
  "open_items": [
-  "规则 v0.9 落盘（CHG-020：S14 双档判定 + 抽取规程 R1–R8）——放量的前置条件",
-  "P1 放量 16 单元（D-26 清单）→ 复算双档 S14 → 冻结规则 v1（T-P1-10 收口）",
-  "ST-2/ST-3 正式全量待放量后（T-P1-12）；本轮已以双盲重抽作机制等效验证（锚点层 0.807）"
+  "P2 读法层标注（T-P2-03/04）：1,742 单元卡 read_level 为 null，待按 A/B/C 标注后生成 P3 批次工单",
+  "schema 回写（claim_id 格式、concept_key、lifecycle 字段名对齐规则 v1.0）——P4 前置工单",
+  "108 批全量抽取的吞吐排期：实测单代理约 3.3 万字/10 分钟，3 并行每波 3 批，约 36 波次（此前估算的 70–90 批为 A 层口径，见 D-27）"
  ],
  "risks_top": [
   "R-1 吞吐或额度不足：已实际发生 1 次额度中断（2026-10-20），降级触发条件\"连续两次\"现为 1/2",

@@ -1,0 +1,149 @@
+{
+  "unit_id": "SX-U0046",
+  "book_code": "SX",
+  "extractor": "N2",
+  "cards": [
+    {
+      "claim_id": "C-SX-U0046-01",
+      "unit_id": "SX-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "将小概率事件强制设定为零概率，早晚会遇到黑天鹅事件——黑天鹅的成因是把小概率默认为零",
+      "quote": "早晚会遇到黑天鹅事件",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 5941,
+        "end_line": 5944,
+        "sha1": "6610f3c3e53d8048bab6117e6498b06f4eacf7a3",
+        "fingerprint": [
+          "黑天鹅事件",
+          "零概率",
+          "小概率事件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "黑天鹅事件的零概率成因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据稀疏背景（95%置信需上千次样本，见5921-5923）与语言演变驱动观（5936-5938）为支撑性论述，按 R3 并入母卡不独立成卡。"
+    },
+    {
+      "claim_id": "C-SX-U0046-02",
+      "unit_id": "SX-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "齐普夫定律：词频×排位近似常数，是自然界普遍规律，记住它就不会信人人创业致富的鸡汤",
+      "quote": "违背齐普夫定律",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 5948,
+        "end_line": 5963,
+        "sha1": "6419cfc83757b9836538aeda05b9c95551622820",
+        "fingerprint": [
+          "齐普夫定律",
+          "80/20",
+          "常数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "齐普夫定律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "定律发现者为语言学家齐普夫（5951-5953，史实成分不单独成卡）；财富分布同律（5958-5959）为例证。低频词数量规律（词频×词数≈常数，5964-5968）为卡03机理前提。"
+    },
+    {
+      "claim_id": "C-SX-U0046-03",
+      "unit_id": "SX-U0046",
+      "speaker": "转述·第三方",
+      "claim_text": "古德-图灵折扣估计：把高频词词频打折分给统计中未见的低频事件，让分布光滑，避免零概率灾难",
+      "quote": "古德-图灵折扣估计",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 5989,
+        "end_line": 5997,
+        "sha1": "48b16fa3ab737425bfe6d91ff947646ff1cd4b0c",
+        "fingerprint": [
+          "折扣估计",
+          "低频词",
+          "零概率"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "古德-图灵折扣估计",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "R1 转述卡：方法出自古德（图灵的学生，5969-5971），被转述者=古德；吴军概括见 C-SX-U0046-05。调整公式（r+1）×Nr+1/Nr（5985）在锚前，见原文。"
+    },
+    {
+      "claim_id": "C-SX-U0046-04",
+      "unit_id": "SX-U0046",
+      "speaker": "转述·第三方",
+      "claim_text": "插值法（贾里尼克）：把条件概率与非条件概率加权相加，数据不足时让可靠的统计结果占主导",
+      "quote": "条件概率和非条件概率加起来",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 5998,
+        "end_line": 6013,
+        "sha1": "f01a669b1603318e0eb6fd3fc3bee877368f32c9",
+        "fingerprint": [
+          "插值法",
+          "贾里尼克",
+          "条件概率"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "插值法（删除插值）",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "R1 转述卡：方法为吴军导师贾里尼克发明（5998-5999），被转述者=贾里尼克，6007 行为其原话转述；备用法 Back-off 为后续改进（6016-6017，锚外提及）；吴军概括句'插值法的精髓在于相信见到次数多的统计结果'（6014-6015）与卡05 总结合并覆盖。"
+    },
+    {
+      "claim_id": "C-SX-U0046-05",
+      "unit_id": "SX-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "防范黑天鹅的方法论：像古德那样预防不测（代价是降低高收益项目利润），永远更依赖可靠的统计结果",
+      "quote": "很有效的方法论",
+      "anchor": {
+        "book_code": "SX",
+        "start_line": 6020,
+        "end_line": 6028,
+        "sha1": "ce1cc3de9687d59055c4f6bbe3066c96ab8d4a09",
+        "fingerprint": [
+          "预防不测",
+          "可靠的统计结果",
+          "黑天鹅事件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-2"
+      ],
+      "concept_key": "预防不测与依赖可靠统计",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "R1 概括卡：吴军对古德（C-SX-U0046-03）与贾里尼克（C-SX-U0046-04）两条链的要点总结；预防不测的成本权衡兼有决策含义，故辅 D03-2。"
+    }
+  ],
+  "x_disposals": []
+}

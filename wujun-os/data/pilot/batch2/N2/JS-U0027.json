@@ -1,0 +1,226 @@
+{
+  "unit_id": "JS-U0027",
+  "book_code": "JS",
+  "extractor": "N2",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0027-01",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "人的效率很难提高，唯一能控制的是少做一点事情，无关紧要的事就不要做",
+      "quote": "少做一点事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1255,
+        "end_line": 1255,
+        "sha1": "75b5a490471cb5117284e382b46944789991cf9c",
+        "fingerprint": [
+          "效率",
+          "少做一点事情"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "效率与少做事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "回应'如何提高效率'之问（1253 罗振宇评价为背景提及，不成卡）；由此引出谷歌/Facebook 做事方法与伪工作（C-JS-U0027-03）。"
+    },
+    {
+      "claim_id": "C-JS-U0027-02",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "互联网行业工作永远做不完，追求的不应是完成百分比，而是做完了哪几件重要的事情",
+      "quote": "做完了哪几件重要的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1267,
+        "end_line": 1271,
+        "sha1": "6785d7bc3a4b09abed6f4ce4bc34beb55d755fdf",
+        "fingerprint": [
+          "动态迭代",
+          "重要的工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "做完哪几件重要的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "前提：传统软件工程任务先定义清楚、互联网产品动态迭代不可清空队列（1267-1269）；'有经验的员工善于找到最重要的工作并优先完成'（1271）并入本卡。"
+    },
+    {
+      "claim_id": "C-JS-U0027-03",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "伪工作者每天把自己搞得很忙但工作不产生效果；公司里伪工作多，竞争中很快处于下风",
+      "quote": "伪工作者",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1273,
+        "end_line": 1277,
+        "sha1": "fe960906541b3df04e80d42c6588ee59e5801c1b",
+        "fingerprint": [
+          "伪工作者",
+          "处于下风",
+          "不产生什么效果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "伪工作者",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "雅虎案例（1275：不断改版无新功能、梅耶尔高压下仍无效果、2016 被威瑞森收购——史实例证）与谷歌/Facebook 按效果评价（1277）按 R3 一般例证并入母卡。"
+    },
+    {
+      "claim_id": "C-JS-U0027-04",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "大部分年轻人只要给予正确的指导，表现就会有非常大的提高（谷歌工程大使计划）",
+      "quote": "给予正确的指导",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1279,
+        "end_line": 1279,
+        "sha1": "2e65bd96a439ce34921367dfedaa8d3b974ce9bc",
+        "fingerprint": [
+          "正确的指导",
+          "工程大使"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "正确指导提升表现",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "谷歌中国新员工无人指导而效率低（1271）与工程大使计划两年解决伪工作（1279）为同链例证。"
+    },
+    {
+      "claim_id": "C-JS-U0027-05",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "防止伪工作两点：让员工站在公司最大获益的高度工作；让员工明白积极工作的最大受益方是自己",
+      "quote": "让公司最大获益",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1281,
+        "end_line": 1285,
+        "sha1": "bb081037ba04f3cb3cdebf151878390bf024063a",
+        "fingerprint": [
+          "受益方",
+          "伪工作",
+          "回到了原点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "防止伪工作两点",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "R3 清单式方法论整体一卡；'伪工作做得越多个人进步越慢甚至能力倒退'（1283）、管理者修改制度左右摇摆'一将无能累死千军'（1285）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0027-06",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "很多看似非做不可的事其实没那么重要，人常把时间浪费在可做可不做的事情上，该舍弃就舍弃",
+      "quote": "可做可不做的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1287,
+        "end_line": 1287,
+        "sha1": "f4b3bbf5ca443947a4c2863f28a0dc4dfdb13f2b",
+        "fingerprint": [
+          "可做可不做",
+          "舍弃"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-2"
+      ],
+      "concept_key": "可做可不做的事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "结论句由职场推及生活（'再宽泛地讲，在生活中也是如此'），主归 D03-1 做减法取舍，职场场景为辅。"
+    },
+    {
+      "claim_id": "C-JS-U0027-07",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "当我们处于工作永远做不完的状态时，依然需要有时间欣赏身边的风景",
+      "quote": "欣赏身边的风景",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1289,
+        "end_line": 1289,
+        "sha1": "6a7f09a9a984c8102566d50e47134cf7d7c87ee0",
+        "fingerprint": [
+          "欣赏身边的风景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "欣赏身边的风景",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "生活节奏与心态判断（⑧），职场语境下的松弛。"
+    },
+    {
+      "claim_id": "C-JS-U0027-08",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "伪工作典型特征清单：无收益无价值的升级、守旧工具、盲目试错、不重质量、纠结次要5%、不必要会议",
+      "quote": "伪工作和伪工作者典型的特征",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1291,
+        "end_line": 1305,
+        "sha1": "3d05673614a85d8c2c39b8ea92d63704cde54a03",
+        "fingerprint": [
+          "典型的特征",
+          "伪工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "伪工作特征清单",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "R3 清单式整体一卡；系吴军与罗振宇交流后的共同总结（1291'罗振宇和我……我们总结'），speaker 仍为吴军本人；1293-1295 行原文含 OCR 乱码（微软产品名），claim 按语义概括；1307-1311 为 </br> 格式残余。"
+    }
+  ],
+  "x_disposals": []
+}
