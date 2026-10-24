@@ -1,0 +1,128 @@
+{
+  "unit_id": "GG-U0252",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0252-01",
+      "unit_id": "GG-U0252",
+      "speaker": "吴军本人",
+      "claim_text": "维特比算法：任何时刻最佳路径经过特定时刻只有有限几种可能，每时刻只保留六条路径——指数复杂度变线性",
+      "quote": "只要保留六条路径",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16766,
+        "end_line": 16773,
+        "sha1": "dfcd734753505c33a711c0cbce17320b6478dd40",
+        "fingerprint": [
+          "复杂度",
+          "路径"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "维特比剪枝",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "20音节×6候选：6^20=3600万亿→6×6×20=720次，降20万亿倍（16773）；组词后仍降1万倍（16774）；可能是所有算法中复杂度下降最大的改进（16779）；应用于拼写纠错/基因测序/通信解码（16780）。"
+    },
+    {
+      "claim_id": "C-GG-U0252-02",
+      "unit_id": "GG-U0252",
+      "speaker": "吴军本人",
+      "claim_text": "人能听清完整句子靠的是对上下文的理解而非音节识别准——70%音节识别率已是人的水平",
+      "quote": "靠的是对上下文的理解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16746,
+        "end_line": 16746,
+        "sha1": "f047d145682450efc86c9dd41c02659e59313d44",
+        "fingerprint": [
+          "识别率",
+          "上下文"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "上下文补识别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0252-03",
+      "unit_id": "GG-U0252",
+      "speaker": "吴军本人",
+      "claim_text": "一音多字致组合指数爆炸：10个拼音6000万种组合、20音节组词后仍百万种——需在上百万候选中找最合理语句",
+      "quote": "指数爆炸的灾难性后果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16750,
+        "end_line": 16754,
+        "sha1": "de64ad9350c46de8d0b89cbc754b28891f4e11b8",
+        "fingerprint": [
+          "一音多字",
+          "组合"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "指数爆炸",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "汉语一个读音平均对应十几个汉字、带调仍六个（16747）。"
+    },
+    {
+      "claim_id": "C-GG-U0252-04",
+      "unit_id": "GG-U0252",
+      "speaker": "吴军本人",
+      "claim_text": "维特比推广算法两手：放弃专利使其在全通信领域普及+办公司做成芯片保经济收益——名与利兼得",
+      "quote": "放弃了这个算法的专利",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16782,
+        "end_line": 16783,
+        "sha1": "386875a89035bc0b7110d2fa9bf77c6cd06079b2",
+        "fingerprint": [
+          "专利",
+          "芯片"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-1"
+      ],
+      "concept_key": "放弃专利做芯片",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "1968年与雅各布创办Linkabit（16783）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0252",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16788行思考题（放弃专利+做芯片的启发）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第151封信：维特比算法（4卡）。"
+}

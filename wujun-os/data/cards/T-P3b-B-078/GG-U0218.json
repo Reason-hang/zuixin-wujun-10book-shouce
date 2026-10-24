@@ -1,0 +1,78 @@
+{
+  "unit_id": "GG-U0218",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0218-01",
+      "unit_id": "GG-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "技术是否关键看需求瓶颈：车际通信带宽需求不高，5G并非无人驾驶关键",
+      "quote": "5G技术和无人驾驶无关",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14554,
+        "end_line": 14559,
+        "sha1": "83faab2491c1fe00b212e8a8651046ff942e3388",
+        "fingerprint": [
+          "带宽",
+          "无人驾驶"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "需求瓶颈定技术关键",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@刘平；3G/4G/5G差别主要在系统（蜂窝网与无线局域网结合程度）为技术背景。"
+    },
+    {
+      "claim_id": "C-GG-U0218-02",
+      "unit_id": "GG-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "新技术最后成功者常是第三眼美女：布局领跑者未必是商业化领跑者",
+      "quote": "第三眼美女",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14567,
+        "end_line": 14567,
+        "sha1": "45096bd771c056c63d7b8be427ce3b9eb03c999e",
+        "fingerprint": [
+          "第三眼美女",
+          "领跑者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "第三眼美女",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@露水；概念出自《硅谷来信》第009封信（跨书线索）；百度阿波龙量产报道评价属时评（X2）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0218",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "国际制裁问答为时政评论（二战后秩序、美国警察角色、G2、美元回流等），无卡。"
+    },
+    {
+      "unit_id": "GG-U0218",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "无人驾驶消费趋势与商业模式预测（渐进普及、大城市购车减少、租赁为主）及3G-5G技术代际叙述属趋势预测。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问32：制裁与消费趋势问答X2/X6，5G判断与第三眼美女两条方法论成卡。"
+}

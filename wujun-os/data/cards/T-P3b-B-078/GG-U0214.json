@@ -1,0 +1,128 @@
+{
+  "unit_id": "GG-U0214",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0214-01",
+      "unit_id": "GG-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "顺势而为与众争勿往不矛盾：跟趋势但避开拥堵赛道，用特长建壁垒解决痛点",
+      "quote": "不去挤拥堵的赛道",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14315,
+        "end_line": 14315,
+        "sha1": "fedcba758882f1f883c5f843ff7c59cddadd656b",
+        "fingerprint": [
+          "拥堵",
+          "壁垒",
+          "痛点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "顺势与众争勿往的统一",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "发币圈钱不做（众争勿往），区块链解决信用是趋势（14275-14276行）；Skuchain（智能合约+跟踪特殊商品）为例。"
+    },
+    {
+      "claim_id": "C-GG-U0214-02",
+      "unit_id": "GG-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "技术初级阶段要懂妥协：放弃部分功能保住效率，两害相权取其轻",
+      "quote": "放弃掉一部分功能",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14310,
+        "end_line": 14317,
+        "sha1": "d0e31b8b0b1b03de277dcdc17858d52dc483a4f0",
+        "fingerprint": [
+          "妥协",
+          "效率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "技术早期须妥协",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "Skuchain方案：逻辑去中心化+物理放IBM云，兼顾安全与效率；去中心化是高成本根源（例证）。"
+    },
+    {
+      "claim_id": "C-GG-U0214-03",
+      "unit_id": "GG-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "从问题中找机会：区块链的不足恰给做正事的人以机会",
+      "quote": "从问题中找机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14330,
+        "end_line": 14330,
+        "sha1": "60e30df4a036f54cf016df37f0a93bbb6bce5356",
+        "fingerprint": [
+          "问题",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "从问题中找机会",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "成功者四点总结之一；商业痛点（合同执行与资金流不一致、拖欠工资、过桥贷款高息）即创业机会。"
+    },
+    {
+      "claim_id": "C-GG-U0214-04",
+      "unit_id": "GG-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "只搞模式创新不关注底层技术难有出路，底层技术值得投入",
+      "quote": "关注底层技术",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14336,
+        "end_line": 14337,
+        "sha1": "f38d26b0b7550407d183fb176cee4fa3bf61d9fe",
+        "fingerprint": [
+          "底层技术",
+          "模式创新"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "关注底层技术",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "成功者四点总结之四；中国半导体困境为反面例；Dfinity（交易提速两个数量级+智能即法律）为例。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0214",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "Skuchain/Dfinity具体投资判断、公司评价与区块链代际技术比较属时点论断，仅抽方法论四点。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "基金投资信（区块链）：标的细节X2，抽成功企业做事方法与四点总结。"
+}

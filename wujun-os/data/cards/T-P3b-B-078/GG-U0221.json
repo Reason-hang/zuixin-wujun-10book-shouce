@@ -1,0 +1,118 @@
+{
+  "unit_id": "GG-U0221",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0221-01",
+      "unit_id": "GG-U0221",
+      "speaker": "转述·第三方",
+      "claim_text": "要消除不确定性必须使用新信息；老信息的油水有限，再改进也有限",
+      "quote": "消除不确定性，就要使用新的信息",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14692,
+        "end_line": 14693,
+        "sha1": "20b32748c65147663586774d8fd2766c9e9ed42f",
+        "fingerprint": [
+          "不确定性",
+          "信息"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "信息消除不确定性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=朱雪龙教授（转述香农信息论，经吴军转述）；错误率降10%到头了之点拨。"
+    },
+    {
+      "claim_id": "C-GG-U0221-02",
+      "unit_id": "GG-U0221",
+      "speaker": "吴军本人",
+      "claim_text": "IT领域要获好结果，须挖掘别人挖掘不到的信息；用老信息模型再准也有限",
+      "quote": "挖掘先前别人挖掘不到的信息",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14697,
+        "end_line": 14697,
+        "sha1": "1b969a3c63dfda19f2341daadd503245c82140c4",
+        "fingerprint": [
+          "挖掘",
+          "模型"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "挖掘新信息",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "贾里尼克1996年召集找新语言信息；Google搜索90%改进来自新信息（辛格时期）。"
+    },
+    {
+      "claim_id": "C-GG-U0221-03",
+      "unit_id": "GG-U0221",
+      "speaker": "吴军本人",
+      "claim_text": "大数据思维本质就是利用信息消除不确定性",
+      "quote": "利用信息消除不确定性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14726,
+        "end_line": 14726,
+        "sha1": "13da3f8a22a40324e2dcb10f9c7a6090e6b06fdb",
+        "fingerprint": [
+          "大数据思维",
+          "不确定性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "大数据思维即信息消不确定性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出自《智能时代》（跨书线索）；无他人没有的信息就走不远。"
+    },
+    {
+      "claim_id": "C-GG-U0221-04",
+      "unit_id": "GG-U0221",
+      "speaker": "吴军本人",
+      "claim_text": "企业积累的信息是财富：用不用信息是取不取金山的差异，模型稍差只是少金豆",
+      "quote": "捧着金饭碗讨饭",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14727,
+        "end_line": 14728,
+        "sha1": "710cecda88723b807ccfe98b3e877dc9f2bb111c",
+        "fingerprint": [
+          "金饭碗",
+          "金山",
+          "金豆"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "信息是金山模型是金豆",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "对传统企业AI转型的建议；工具与开源算法是否最佳关系不大。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "计算机是工具（下）：信息论方法论4卡，学术史为例证。"
+}

@@ -1,0 +1,109 @@
+{
+  "unit_id": "GG-U0240",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0240-01",
+      "unit_id": "GG-U0240",
+      "speaker": "吴军本人",
+      "claim_text": "不能帮助实现目的的事情很多是画蛇添足，做了也白做。",
+      "quote": "做了也白做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15997,
+        "end_line": 15997,
+        "sha1": "7a014d0ad62ea06ca681f5a3044bddcf18d02f51",
+        "fingerprint": [
+          "目的性",
+          "画蛇添足",
+          "表面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "无助于目的的事是画蛇添足",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末第一点；威逼利诱与花哨高科技手段不管用（15984-15991）、'不学的人还是不学'并入"
+    },
+    {
+      "claim_id": "C-GG-U0240-02",
+      "unit_id": "GG-U0240",
+      "speaker": "吴军本人",
+      "claim_text": "知识可以免费，但把知识解释清楚是要收费的，讲述清楚是一种艺术。",
+      "quote": "把它解释清楚是要收费的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15998,
+        "end_line": 15999,
+        "sha1": "6cd8b47aa75e46304d2f41191249324a4363ba4e",
+        "fingerprint": [
+          "免费",
+          "艺术",
+          "解释"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "解释清楚是生意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末第二点；呼应第013-015信超越免费（跨书线索，格局同主题CK-1731/1732、CK-1663解释清楚是生意）"
+    },
+    {
+      "claim_id": "C-GG-U0240-03",
+      "unit_id": "GG-U0240",
+      "speaker": "吴军本人",
+      "claim_text": "达成目标路上回避不了的环节，再难也要有的放矢地解决，投机取巧的结果往往是失败。",
+      "quote": "投机取巧的结果就是失败",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16001,
+        "end_line": 16001,
+        "sha1": "2b96011d8d7ec322f73ac6c0fb71541d884c97d5",
+        "fingerprint": [
+          "避重就轻",
+          "投机取巧",
+          "绕路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "回避不了的环节不能绕",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "信末第三点；与C-GG-U0237-02困难绕不过去互引（同一论证链不同单元）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0240",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "汤姆咨询机构对美国大学生出勤率的调查数据与原因分析为教育研究叙述，按批次特则教育制度史记X5，仅抽吴军信末三点方法论"
+    },
+    {
+      "unit_id": "GG-U0240",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末'相关阅读'三信链接为导航推广内容，按批次特则记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育调查为载体，吴军归纳的目的性与有效性三点成3卡"
+}

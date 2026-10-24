@@ -1,0 +1,217 @@
+{
+  "unit_id": "GG-U0236",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0236-01",
+      "unit_id": "GG-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "人人皆知的技术指标其作用早已反映在股价波动中，再用它就不灵了。",
+      "quote": "再用它就不灵了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15704,
+        "end_line": 15705,
+        "sha1": "e92456193fdedcc806ee36797a2185ce7c69e1ec",
+        "fingerprint": [
+          "技术指标",
+          "信息论",
+          "信息"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D04-2"
+      ],
+      "concept_key": "已知信息无价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信息论原理（互信息/已知信息无增量价值）；澳网猜冠军游戏为例证（15695-15703）；重刊《硅谷来信》044信（跨书线索，D09-2素材线索命中）"
+    },
+    {
+      "claim_id": "C-GG-U0236-02",
+      "unit_id": "GG-U0236",
+      "speaker": "转述·第三方",
+      "claim_text": "市场永远是对的，错的是你。",
+      "quote": "市场永远是对的，错的是你",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15686,
+        "end_line": 15686,
+        "sha1": "92d6556dadbff6a6af84db90f0d2e5fb08085702",
+        "fingerprint": [
+          "夏普",
+          "市场",
+          "错"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "市场永远是对的",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：比尔·夏普（诺奖得主、夏普比率提出者）在Google投资课所讲；股民赔钱归因'市场不对'的反例（15685）并入"
+    },
+    {
+      "claim_id": "C-GG-U0236-03",
+      "unit_id": "GG-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "连续十年跑赢大盘者按概率千人中出一个，很多所谓股神只是狗屎运而非水平。",
+      "quote": "把这种狗屎运叫做水平",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15689,
+        "end_line": 15691,
+        "sha1": "9d93c8509b843451b3a1a18656116b3356808030",
+        "fingerprint": [
+          "狗屎运",
+          "股神",
+          "概率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D04-1"
+      ],
+      "concept_key": "股神是狗屎运",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概率估算（千人出一个十年股神、百万人出一个二十年股神）为论证；与CK-1735跑赢大盘或是随机性同链"
+    },
+    {
+      "claim_id": "C-GG-U0236-04",
+      "unit_id": "GG-U0236",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特不画K线不是不会画，而是那些东西都没用。",
+      "quote": "他不画是因为那些东西都没用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15693,
+        "end_line": 15693,
+        "sha1": "5bd3059e8ba3c4cbe1a5b369b41f7de5f8faf5ac",
+        "fingerprint": [
+          "巴菲特",
+          "K线",
+          "段永平"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "巴菲特不画K线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：段永平（玩笑语）；吴军与摩根士丹利、高盛基金经理确认华尔街无人画K线；pillar线索：来信1第044封"
+    },
+    {
+      "claim_id": "C-GG-U0236-05",
+      "unit_id": "GG-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "真正掌握股市特有规律的人会闷声发大财，而不是开班讲课教别人。",
+      "quote": "而是闷声发大财",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15708,
+        "end_line": 15709,
+        "sha1": "3c6f09fea34f02cbf357aa140fe109f925444157",
+        "fingerprint": [
+          "开班讲课",
+          "闷声发大财",
+          "规律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "真规律持有者闷声发财",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "彼得·林奇PEG指标从不外传为例证；与C-GG-U0236-03互引"
+    },
+    {
+      "claim_id": "C-GG-U0236-06",
+      "unit_id": "GG-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "散户不可能比得过既有资源又有技术的大型对冲基金，除买指数基金外没有更好方式。",
+      "quote": "没有更好的交易方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15723,
+        "end_line": 15723,
+        "sha1": "ad836dae61502cf6ebb730d064626ea2ee7a2d4a",
+        "fingerprint": [
+          "指数基金",
+          "对冲基金",
+          "散户"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "散户只能买指数基金",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "结构性判断（非行情时点，稳定度高）；与CK-0060定投指数基金（见识/态度）同链；机器学习信号组合之难（15713-15714）并入"
+    },
+    {
+      "claim_id": "C-GG-U0236-07",
+      "unit_id": "GG-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "冲动和浮躁是两百多年来股民的心理特点，是人性的弱点。",
+      "quote": "冲动和浮躁",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15725,
+        "end_line": 15725,
+        "sha1": "1182e252f2baf2bdcc140bcc8bffbe624cfd9f68",
+        "fingerprint": [
+          "冲动",
+          "浮躁",
+          "人性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D02-4"
+      ],
+      "concept_key": "股民的冲动与浮躁",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末收束句；了解K线无效后放弃无效工具的建议（15725后半）并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0236",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "文艺复兴公司、赛蒙斯、彼得·布朗、彼得·林奇履历与37%/22%回报对比为人物/企业史叙述，按批次特则X4，仅留投资方法论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "重刊《硅谷来信》044信（跨书线索），K线无效的信息论论证成7卡（D09-2素材线索命中）"
+}

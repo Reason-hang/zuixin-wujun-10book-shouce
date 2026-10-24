@@ -1,0 +1,119 @@
+{
+  "unit_id": "GG-U0208",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0208-01",
+      "unit_id": "GG-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "人要有所敬畏，天意不过是我们借某种方式对自己做客观的审视",
+      "quote": "人要有所敬畏",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13909,
+        "end_line": 13909,
+        "sha1": "ce620c0e91101fb19989dc199261be6eed9dac5d",
+        "fingerprint": [
+          "有所敬畏",
+          "客观的审视"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "天意是自我客观审视",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "苏格拉底视神谕为让人重新审视自己（转述思想）作本卡佐证；德尔斐三句箴言背景。"
+    },
+    {
+      "claim_id": "C-GG-U0208-02",
+      "unit_id": "GG-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "瞻前顾后时借外力下决心做自己想做的事，需要的并非天意而是尽到人事",
+      "quote": "而是尽到人事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13906,
+        "end_line": 13906,
+        "sha1": "a6bd4270deb8f81474b80e1a9d3b6c4349af22ea",
+        "fingerprint": [
+          "瞻前顾后",
+          "尽到人事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D03-1"
+      ],
+      "concept_key": "尽人事而非求天意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "媒体人抛钢镚与张学良抛银元案例为例证。互引 C-GG-U0209-02。"
+    },
+    {
+      "claim_id": "C-GG-U0208-03",
+      "unit_id": "GG-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "感召力不足时借权威之口传达自己的意图，能事半功倍，此即情商",
+      "quote": "把自己的意图传达出去",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13913,
+        "end_line": 13913,
+        "sha1": "d77e0877c3f27ef96151abc556594c26c7c6cb39",
+        "fingerprint": [
+          "感召力",
+          "情商",
+          "事半功倍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "借神力传达意图",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "神可以是上级、权威或众信服者；总结点3。"
+    },
+    {
+      "claim_id": "C-GG-U0208-04",
+      "unit_id": "GG-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "错误的前提可推出任何结论：神谕之准多因模棱两可或无法证伪",
+      "quote": "无法证伪",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13883,
+        "end_line": 13883,
+        "sha1": "905ce2c913b5b20c5b1740f1547191a92b6c840d",
+        "fingerprint": [
+          "错误的前提",
+          "证伪"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "无法证伪的论断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "克罗索斯神谕分析；俄狄浦斯、木墙、温泉关等神谕史实为例证（史实不单独立卡）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人方法论信：神谕本质三条总结+证伪分析，4张核心卡。"
+}

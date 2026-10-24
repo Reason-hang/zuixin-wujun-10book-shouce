@@ -1,0 +1,118 @@
+{
+  "unit_id": "GG-U0216",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0216-01",
+      "unit_id": "GG-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "国际化要有知识产权储备，平时舍不得投入，遇诉就没底气应诉",
+      "quote": "知识产权储备",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14453,
+        "end_line": 14454,
+        "sha1": "f406205dba98717eb9c5d56acef1a318040ba72f",
+        "fingerprint": [
+          "知识产权",
+          "储备"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "专利储备是底气",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "王佳梁微软产品经理经历使其重视专利；触宝上百项国际专利；不愿花本钱保护知识产权的厂家爱莫能助。"
+    },
+    {
+      "claim_id": "C-GG-U0216-02",
+      "unit_id": "GG-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "做什么事都要找最好的人：一流的人抵得上10个二流，气度大小决定事之大小",
+      "quote": "做什么事情都要找最好的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14456,
+        "end_line": 14458,
+        "sha1": "c52581f8563a8c9013506de991dd4e2dac3db043",
+        "fingerprint": [
+          "一流",
+          "二流",
+          "气度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D06-2"
+      ],
+      "concept_key": "凡事找最好的人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "触宝只请两名顶级Finnegan专利律师+中国辅助团队，以质量拼数量；省钱请差律师写的专利半点用途都没有。"
+    },
+    {
+      "claim_id": "C-GG-U0216-03",
+      "unit_id": "GG-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "尊重并善用国际游戏规则照样赢，想单搞一套讨便宜终陷恶性竞争",
+      "quote": "尊重和善用游戏规则",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14464,
+        "end_line": 14468,
+        "sha1": "81514039f40a685ebd728285e13641114c60ae6f",
+        "fingerprint": [
+          "游戏规则",
+          "恶性竞争"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "善用游戏规则",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "Nuance以规则抬高门槛反使触宝免于同行内卷；拳击柔道、国际象棋按规则取胜为例。"
+    },
+    {
+      "claim_id": "C-GG-U0216-04",
+      "unit_id": "GG-U0216",
+      "speaker": "转述·第三方",
+      "claim_text": "诉讼目的是清除市场障碍，目的达到就应收手，不要画蛇添足",
+      "quote": "就不要画蛇添足了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14448,
+        "end_line": 14448,
+        "sha1": "6a7fd12eb17a3dac86e61b171937f3cf4303fd3a",
+        "fingerprint": [
+          "目的",
+          "障碍"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D03-2",
+        "D08-1"
+      ],
+      "concept_key": "达到目的即止",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=Finnegan美国律师（劝王佳梁接受和解）；打赢官司收更多律师费但拖长时间对客户未必有利。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "触宝337调查案（企业史）：按批次特则只抽可迁移方法论，三点经验+律师建议共4卡。"
+}

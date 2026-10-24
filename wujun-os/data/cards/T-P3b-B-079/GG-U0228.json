@@ -1,0 +1,129 @@
+{
+  "unit_id": "GG-U0228",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0228-01",
+      "unit_id": "GG-U0228",
+      "speaker": "吴军本人",
+      "claim_text": "做事情之前，要先问清楚做那些事情的动机和目的。",
+      "quote": "问问做那些事情的动机和目的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15156,
+        "end_line": 15156,
+        "sha1": "44fd873ffbcc4051b28badc379fbded3a1b4a071",
+        "fingerprint": [
+          "动机",
+          "目的"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "做事先问动机目的",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军自述'前面来信多次讲'的方法论；语境为吉尔曼办学设想"
+    },
+    {
+      "claim_id": "C-GG-U0228-02",
+      "unit_id": "GG-U0228",
+      "speaker": "吴军本人",
+      "claim_text": "工业时代新技术不断出现，人不得不终身学习，一个技能吃一辈子的时代过去了。",
+      "quote": "你不得不终身学习",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15162,
+        "end_line": 15162,
+        "sha1": "cddcb4e3e44000c64c8ab52aa374fabb5af2e6f4",
+        "fingerprint": [
+          "终身学习",
+          "新技术",
+          "吃一辈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "终身学习的必要性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "解释吉尔曼办学理念第一层含义时吴军给出的通用判断；与CK-1552终身学习保持时效性相邻"
+    },
+    {
+      "claim_id": "C-GG-U0228-03",
+      "unit_id": "GG-U0228",
+      "speaker": "吴军本人",
+      "claim_text": "办成大事的人必须是实干家，并且能够坚持很长时间。",
+      "quote": "也就是说是实干家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15214,
+        "end_line": 15214,
+        "sha1": "d4a2b28b7ef46e4502706df8a821a9dc2d3388db",
+        "fingerprint": [
+          "实干家",
+          "坚持很长时间"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "实干且长期坚持",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军总结艾略特40年改革哈佛的启示；莫里森评语（活得更长才完成改革）并入；艾略特原话见C-GG-U0228-04"
+    },
+    {
+      "claim_id": "C-GG-U0228-04",
+      "unit_id": "GG-U0228",
+      "speaker": "转述·第三方",
+      "claim_text": "要培养能做出成就的实干家，而不是世界的旁观者、生活的观众和挑剔的批评家。",
+      "quote": "不要培养世界的旁观者",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15198,
+        "end_line": 15198,
+        "sha1": "0fc837e1bb864676cc2bd2a9197eb33d16391fae",
+        "fingerprint": [
+          "实干家",
+          "旁观者",
+          "批评家"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "做实干家不做旁观者",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：艾略特（哈佛校长）就职理念原话；吴军概括见C-GG-U0228-03"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0228",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "美国高教转型史与吉尔曼/艾略特教育改革清单为主体（通识原则、以学为主、毕业标准、引进教授等），按批次特则教育制度史记X5，仅抽可迁移方法论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育改革史按X5处置，抽吴军通用方法论3卡+艾略特原话转述1卡"
+}

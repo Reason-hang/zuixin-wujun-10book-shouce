@@ -1,0 +1,240 @@
+{
+  "unit_id": "GG-U0257",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0257-01",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "人都是通信的动物：对通信的依赖植入基因，代际区别只是通信手段——成功巨无霸公司背后必有符合人性的商业逻辑",
+      "quote": "通信的动物",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17064,
+        "end_line": 17064,
+        "sha1": "12f43762d62a1ae17515c97411650a4feb9473e6",
+        "fingerprint": [
+          "基因",
+          "通信"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "通信是人性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2011年统计全球手机用户平均6分半钟低头一次、仅20-30次是电话新闻（17061-17062）；17074行总结。"
+    },
+    {
+      "claim_id": "C-GG-U0257-02",
+      "unit_id": "GG-U0257",
+      "speaker": "史实",
+      "claim_text": "智人胜过脑容量更大的尼安德特人靠更强语言能力：有效传递信息、族群争斗能聚集更多人（150人vs十几人同时沟通）",
+      "quote": "更强的语言能力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17067,
+        "end_line": 17068,
+        "sha1": "b3978591d0f6b2346d1662ddae05f10f04358c3b",
+        "fingerprint": [
+          "尼安德特人",
+          "语言"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D07-1"
+      ],
+      "concept_key": "语言能力定胜出",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "speaker=史实；通信使经验知识跨代传递，动物只能靠遗传试错（蜥蜴毒蝴蝶例，17070-17073）。"
+    },
+    {
+      "claim_id": "C-GG-U0257-03",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "老人轻信网络不实之言的缺陷源于基因中的优点：喜欢接受周围人传递的信息",
+      "quote": "源于我们基因中的优点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17074,
+        "end_line": 17074,
+        "sha1": "7bca22d12ce0c340c17615e4b61816be9b1cf740",
+        "fingerprint": [
+          "不实之言",
+          "基因"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "轻信源于优点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "绝大多数人怕蛇并非被咬过、而是接受了他人传递的信息（17073）。"
+    },
+    {
+      "claim_id": "C-GG-U0257-04",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "以不变应万变：把握人性永恒需求（幸福/社交/服务），不预测趋势、用新技术做改进就是顺势而为——现有产业+新技术=新产业",
+      "quote": "以不变应万变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17080,
+        "end_line": 17081,
+        "sha1": "231da2d02aa6b449394305fd5eda316a77cf3351",
+        "fingerprint": [
+          "顺势而为",
+          "新产业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "现有产业加新技术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引第三眼美女原则（17115）。"
+    },
+    {
+      "claim_id": "C-GG-U0257-05",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "社交网络四特性：用户创造资料、创造内容留通信记录、权限浏览访问、可找新社交对象——把通信扩展为大范围社交活动",
+      "quote": "扩展到大范围的社交活动",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17086,
+        "end_line": 17091,
+        "sha1": "add8dd7a705f2120c1398bda722d830b7f79cd05",
+        "fingerprint": [
+          "用户资料",
+          "权限"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "社交网络四特性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0257-06",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "Friendster三经验三教训：交友是本能、资料内容通信权限是基本功能；教训=信息不真实、工具少流失高、无盈利模式",
+      "quote": "三条宝贵的经验和三个惨痛的教训",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17099,
+        "end_line": 17114,
+        "sha1": "a0658ad2fd4fd150790939f1833b34fbe7750bef",
+        "fingerprint": [
+          "Friendster",
+          "教训"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "试错者的遗产",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信息安全一塌糊涂（17113）；为Facebook/领英/推特避坑（17114）；QQ第一眼、Friendster第二眼、Facebook第三眼美女（17115）；试错完成即退场很正常（17116）。"
+    },
+    {
+      "claim_id": "C-GG-U0257-07",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "好的商业要寻找人永恒的主题（衣食住行社交服务医疗），技术为主题赋予新含义——判定真伪需求围绕此思路（IBM本质是服务）",
+      "quote": "人永恒的主题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17119,
+        "end_line": 17122,
+        "sha1": "3f5d037dc5d02697ed839a7c71ccc7f55ddbac0a",
+        "fingerprint": [
+          "永恒",
+          "服务"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "永恒主题生意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "服务在，IBM就永远有生意（17122）。"
+    },
+    {
+      "claim_id": "C-GG-U0257-08",
+      "unit_id": "GG-U0257",
+      "speaker": "吴军本人",
+      "claim_text": "对社交更重要的是引导有益社交而非制止：戒六分半钟看一次的习惯，需用更有益的社交去取代",
+      "quote": "引导进行有益的社交",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17126,
+        "end_line": 17126,
+        "sha1": "137b3c053ba80e0a1c9499ebca71416a2249c347",
+        "fingerprint": [
+          "制止",
+          "有益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D10-1"
+      ],
+      "concept_key": "引导优于制止",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0257",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "17129-17131行思考题与推荐阅读（网瘾看法/卓克课）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第154封信：社交网络背后的逻辑（8卡）。"
+}

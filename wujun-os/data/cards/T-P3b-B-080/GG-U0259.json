@@ -1,0 +1,242 @@
+{
+  "unit_id": "GG-U0259",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0259-01",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "任何明星企业都离不开强势创始人：创始人成为企业名片，其基因成为公司基因、做事风格影响全公司",
+      "quote": "企业的名片",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17225,
+        "end_line": 17225,
+        "sha1": "91fd80902a498071d0e58a60295eb8d00773dd98",
+        "fingerprint": [
+          "创始人",
+          "基因"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "创始人即名片",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0174-05榜样与文化复制。"
+    },
+    {
+      "claim_id": "C-GG-U0259-02",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "即使封住当事人的嘴也无法封住舆论：抄袭想法的嫌疑让扎克伯格在硅谷被人看不起",
+      "quote": "无法封住舆论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17232,
+        "end_line": 17234,
+        "sha1": "c5bf4b2a62e03649ff33ecee5324e57eab18fee3",
+        "fingerprint": [
+          "舆论",
+          "嫌疑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-1"
+      ],
+      "concept_key": "舆论封不住",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "和解金约3100万美元股票（17230）；若大十岁做事不会完全不顾后果（17234）。"
+    },
+    {
+      "claim_id": "C-GG-U0259-03",
+      "unit_id": "GG-U0259",
+      "speaker": "转述·第三方",
+      "claim_text": "如果一个创始人能够坑骗合伙人，难保下次不坑骗我们——投资人以对合伙人的品行评判创始人",
+      "quote": "难保下次他不坑骗我们",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17238,
+        "end_line": 17238,
+        "sha1": "a510e28d83c9eac65d03992ffbc8e2860782b449",
+        "fingerprint": [
+          "坑骗",
+          "合伙人"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D06-1"
+      ],
+      "concept_key": "坑骗合伙人的信誉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=一位美国资深投资人（17238）；聊天记录显示稀释股份的脏办法经莫里茨-蒂尔-帕克链条传到扎克伯格（17239-17240）。"
+    },
+    {
+      "claim_id": "C-GG-U0259-04",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "一旦用了肮脏方法就需要承担相应后果：帕克教坏学生、一年后倒霉的是自己",
+      "quote": "承担相应的后果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17240,
+        "end_line": 17242,
+        "sha1": "b9258897e4b632d86494427ba2adad735a2ed1a5",
+        "fingerprint": [
+          "肮脏",
+          "后果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D03-1"
+      ],
+      "concept_key": "脏方法有代价",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0259-05",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "扎克伯格上市前后判若两人：上市前纵容小动作不重隐私做事随意，上市后注意形象做事有原则——为长期利益改掉坏习惯",
+      "quote": "判若两人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17247,
+        "end_line": 17250,
+        "sha1": "e070c1fcea165db39b067b008d5f2b054fbf055c",
+        "fingerprint": [
+          "上市",
+          "隐私"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "上市后改习惯",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "比上市前后都挣黑心钱的公司强（17265）；但坏习惯根深蒂固、员工已不按规矩办事（17265-17267）；剑桥分析8700万数据事件错误在失察、为下属背锅显真诚（17251-17270）。"
+    },
+    {
+      "claim_id": "C-GG-U0259-06",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "股价永远是对未来的预期而非对当下：中国入场被叫停等于失去20%未来收入潜力，故股价跌20%",
+      "quote": "对未来的预期",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17258,
+        "end_line": 17258,
+        "sha1": "8cc361921206767c2a56caf7af86235fbda2d0f9",
+        "fingerprint": [
+          "股价",
+          "预期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "股价预期未来",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中国市场约贡献苹果20%收入（17255）。"
+    },
+    {
+      "claim_id": "C-GG-U0259-07",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "生活三个无奈：年轻没经验难免走弯路、弥补了负面影响也难消退；为短期利益不得不损害长期利益",
+      "quote": "三个无奈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17260,
+        "end_line": 17263,
+        "sha1": "0841722ccb9381dc46d462a63c355033f3fc0a9d",
+        "fingerprint": [
+          "弯路",
+          "短期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D08-1"
+      ],
+      "concept_key": "短期长期的无奈",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "创业期不光彩行为不如此活不下来、长期如此是自寻死路（17263）。"
+    },
+    {
+      "claim_id": "C-GG-U0259-08",
+      "unit_id": "GG-U0259",
+      "speaker": "吴军本人",
+      "claim_text": "有什么因就有什么果：对人不宽容的风气形成企业文化，最后作用到自己身上——种什么种子开什么花",
+      "quote": "有什么因就有什么果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17272,
+        "end_line": 17273,
+        "sha1": "d8d37cb9edd1b7f48f718c36454a13f10bf9e4cc",
+        "fingerprint": [
+          "种子",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-1"
+      ],
+      "concept_key": "企业文化自反噬",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0259",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "17274行互动句（从Facebook发展历程悟到什么）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第156封信：扎克伯格五宗恩怨（8卡）。"
+}

@@ -1,0 +1,203 @@
+{
+  "unit_id": "GG-U0244",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0244-01",
+      "unit_id": "GG-U0244",
+      "speaker": "吴军本人",
+      "claim_text": "个人收入最终水平取决于两个因素：起点与增长斜率——学位抬高起点（须非混出来），学识加努力抬高斜率",
+      "quote": "一个是起点，一个是增长的斜率",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16231,
+        "end_line": 16232,
+        "sha1": "a92b1d78c79524d88a8fb52247d0a983a657e298",
+        "fingerprint": [
+          "起点",
+          "斜率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "起点与斜率",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高学历忽视后续努力也不会进步（16232）；学历与收入正相关、世界越发展越需要知识（16225）。"
+    },
+    {
+      "claim_id": "C-GG-U0244-02",
+      "unit_id": "GG-U0244",
+      "speaker": "吴军本人",
+      "claim_text": "当下和未来单凭努力勤劳挣不到大钱：需科技水平与管理水平——以个案说低学历收入更高是以偏概全",
+      "quote": "单凭努力、勤劳是挣不到大钱的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16230,
+        "end_line": 16231,
+        "sha1": "e219d3747dbfe39188e40efdc377038134104797",
+        "fingerprint": [
+          "以偏概全",
+          "努力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "勤劳不等于挣钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "苹果年利润880亿靠科技+管理（16228，时效数据入notes）。"
+    },
+    {
+      "claim_id": "C-GG-U0244-03",
+      "unit_id": "GG-U0244",
+      "speaker": "吴军本人",
+      "claim_text": "一辈子要不断寻找层级比你至少高一两级的人：见了世面才知道世界能有多大",
+      "quote": "层级比你至少高一两级的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16236,
+        "end_line": 16237,
+        "sha1": "5c14f4aad053c14a0eea865c6d8b3f9ba02e1120",
+        "fingerprint": [
+          "世面",
+          "层级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "向高两级的人看齐",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Google最牛工程师四五年挣一亿美元即知识的力量（16237）；给建议者自己混得一般则建议不听也罢（16233）。"
+    },
+    {
+      "claim_id": "C-GG-U0244-04",
+      "unit_id": "GG-U0244",
+      "speaker": "转述·第三方",
+      "claim_text": "职业女性四条建议：去好环境遇合适的人；独立性比迁就更有效；承认男女不同；为一辈子做规划而非只为年轻岁月",
+      "quote": "独立性比迁就更有效",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16247,
+        "end_line": 16253,
+        "sha1": "a939bf3d55e5c2f6c9587ed7b89d2dc72d491e72",
+        "fingerprint": [
+          "独立性",
+          "一辈子"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "独立性胜过迁就",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=A学者/B职场顾问/C企业CFO三位女士（16245）。"
+    },
+    {
+      "claim_id": "C-GG-U0244-05",
+      "unit_id": "GG-U0244",
+      "speaker": "吴军本人",
+      "claim_text": "通过考研进入一线城市更好的大学，是最省力的提升自己社会地位的途径，终身受益",
+      "quote": "最省力的提升自己社会地位的途径",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16264,
+        "end_line": 16264,
+        "sha1": "c21266771146a37ec9b3651cdacb1f9ef9a72b71",
+        "fingerprint": [
+          "考研",
+          "社会地位"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "升学抬社会地位",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "成长环境很重要（16264）；与U0170名校录取卡互映。"
+    },
+    {
+      "claim_id": "C-GG-U0244-06",
+      "unit_id": "GG-U0244",
+      "speaker": "吴军本人",
+      "claim_text": "判断工程团队好坏：看什么样的人跳槽去那家公司（能人流入=好、外流=危险）、看平均年龄有无年轻人加入",
+      "quote": "是什么样的人跳槽去那家公司",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16275,
+        "end_line": 16276,
+        "sha1": "23c99548c85f8f748422b219289777fb275a8aaf",
+        "fingerprint": [
+          "跳槽",
+          "平均年龄"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "人才流向判团队",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大公司混日子几年后知识老旧难通过新面试（16272-16273）；被并购美企员工平均56岁大呼上当（16276）。"
+    },
+    {
+      "claim_id": "C-GG-U0244-07",
+      "unit_id": "GG-U0244",
+      "speaker": "吴军本人",
+      "claim_text": "遇到翻脸不认人的人永远躲着他：给每个人一次机会但只有一次，这样上当也就一次",
+      "quote": "永远躲着他",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16283,
+        "end_line": 16283,
+        "sha1": "f55d2b1838d20e6b3ee6f858c604a6abca6ca7b6",
+        "fingerprint": [
+          "机会",
+          "上当"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "一次机会原则",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "俾斯麦其实比较合作、过河拆桥者另有其人（16283）；互引《硅谷来信》。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问36：收入与成长（双说话人：转述1+本人6）。"
+}

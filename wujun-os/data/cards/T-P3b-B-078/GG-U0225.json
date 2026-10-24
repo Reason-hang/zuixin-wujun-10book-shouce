@@ -1,0 +1,246 @@
+{
+  "unit_id": "GG-U0225",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0225-01",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "善于合作整合资源者，弱势一方也能办成事；烂牌打得漂亮才是能力",
+      "quote": "一手烂牌打得漂亮才是能力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14952,
+        "end_line": 14953,
+        "sha1": "53ca3082702e463b514da1c44b0df5e84d8f99c0",
+        "fingerprint": [
+          "整合",
+          "弱势",
+          "塔列朗"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-1"
+      ],
+      "concept_key": "烂牌打得漂亮",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "塔列朗弱国争取最大权利（《硅谷来信》345封，跨书线索）；Google跨太平洋光缆需整合七八国电信部长为例；出尔反尔者无法整合资源。"
+    },
+    {
+      "claim_id": "C-GG-U0225-02",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "人在本性上相通而习俗做法相差大；不懂各地文化就无法做全世界的生意",
+      "quote": "无法做全世界的生意",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14962,
+        "end_line": 14962,
+        "sha1": "7a8cb7f7ce5c70fb48c5304a5468af3a19222e65",
+        "fingerprint": [
+          "文化",
+          "本性",
+          "生意"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "懂文化做全球生意",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "国际化团队容纳各地区人才即为适应文化；互引 C-GG-U0224-01。"
+    },
+    {
+      "claim_id": "C-GG-U0225-03",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "商业利润源于各地需求与物产的势差，势差形成生意",
+      "quote": "这个势差，形成了生意",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14967,
+        "end_line": 14967,
+        "sha1": "7d9463abdfad4378749eabdb8e4bec2afe68db8c",
+        "fingerprint": [
+          "势差",
+          "需求",
+          "物产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "需求势差形成生意",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "国际化能力四角度之三：了解中国需要什么、世界需要什么。"
+    },
+    {
+      "claim_id": "C-GG-U0225-04",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "大气不是眼高手低：大事是复杂度与细节更高更多的事，需仔细踏实",
+      "quote": "大气并非眼高手低",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14978,
+        "end_line": 14981,
+        "sha1": "29767b14b157cf8c883545e0c2f18ec4c2674fee",
+        "fingerprint": [
+          "大事",
+          "细节",
+          "米其林"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D05-1"
+      ],
+      "concept_key": "大气与仔细不矛盾",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答读者@闻道刘；北京饭店厨子（李传信语，转述例证）与百达翡丽为例。"
+    },
+    {
+      "claim_id": "C-GG-U0225-05",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "克服格局桎梏：坚决与小气行为脱钩，把精力集中到大事不为小事分心",
+      "quote": "坚决和后者脱钩",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14993,
+        "end_line": 14995,
+        "sha1": "919ebebdb0fd817d784f17576902c4cdf0af9a84",
+        "fingerprint": [
+          "大气",
+          "鸡毛蒜皮",
+          "大事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "与小气脱钩精力放大事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@匡金龙建议一、二合并；空谈中东局势欧债危机而本职半吊子者为戒。"
+    },
+    {
+      "claim_id": "C-GG-U0225-06",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "多向比自己强的人学习：见人优点不酸葡萄，被人指正不做玻璃心",
+      "quote": "向比自己强的人学习",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14997,
+        "end_line": 14997,
+        "sha1": "daaa7226e15d1306e45cc9cd3f936c181bacdb79",
+        "fingerprint": [
+          "酸葡萄",
+          "玻璃心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "向智者学习",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "答读者@匡金龙建议三；针对原生家庭桎梏，认知到桎梏已高出周围一档。"
+    },
+    {
+      "claim_id": "C-GG-U0225-07",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "改变需要时间：多和自己比，比昨天的自己有进步就应满意",
+      "quote": "只要比昨天的自己有进步",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14998,
+        "end_line": 14998,
+        "sha1": "965d050cf6e6b00b67769e48d809b088c2d2c98c",
+        "fingerprint": [
+          "一代人",
+          "和自己比"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-4"
+      ],
+      "concept_key": "多和自己比",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "一代人从最底层走到最上层不现实。"
+    },
+    {
+      "claim_id": "C-GG-U0225-08",
+      "unit_id": "GG-U0225",
+      "speaker": "吴军本人",
+      "claim_text": "乐观是相信努力有结果并积极做事，高估是不切实际的判断；尽人事听天命",
+      "quote": "不听天命的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15005,
+        "end_line": 15008,
+        "sha1": "a74e48f11b740778c552d0d57377dbcd85d37b43",
+        "fingerprint": [
+          "乐观",
+          "高估",
+          "尽人事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D02-3"
+      ],
+      "concept_key": "乐观非高估",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "答读者@老王；不听天命者以为对所有事都有把握，即高估自己。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0225",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "中美贸易摩擦与留学申请问答为时政判断，无卡。"
+    },
+    {
+      "unit_id": "GG-U0225",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "俞敏洪出国读一两年书建议与能吃西餐再移民的标准属留学移民议题。"
+    },
+    {
+      "unit_id": "GG-U0225",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "国际化如30年前省内走向全国的趋势预测不入卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问33：吴军四段答复含方法论，8卡+3条X（读者发言均未成卡）。"
+}

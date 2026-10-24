@@ -1,0 +1,133 @@
+{
+  "unit_id": "GG-U0246",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0246-01",
+      "unit_id": "GG-U0246",
+      "speaker": "吴军本人",
+      "claim_text": "私立大学的所有者是一个信托：信托就是个大容器装资产，委托有资格的受托人按章程管理——大学董事即Trustee",
+      "quote": "就是一个大容器",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16382,
+        "end_line": 16385,
+        "sha1": "0cf1e4e72b7e29e7b860f9ab6f9e2bd0ba9e42b2",
+        "fingerprint": [
+          "信托",
+          "受托人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "信托容器",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "家族子孙未必善管财富故托付受托人（16384）；基金会医院同理（16385）。"
+    },
+    {
+      "claim_id": "C-GG-U0246-02",
+      "unit_id": "GG-U0246",
+      "speaker": "吴军本人",
+      "claim_text": "校董对内解决财务（自己捐+动员朋友捐）、选校长、参与发展规划；对外扮演大学的布道师宣传建合作",
+      "quote": "扮演了大学的布道师角色",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16402,
+        "end_line": 16408,
+        "sha1": "34a2483c7d324dc84ba41e0d4fb9eb9cb472a41f",
+        "fingerprint": [
+          "校董",
+          "布道师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "董事是资源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "布隆伯格捐11亿美元并动员马隆捐楼与基金（16403）；以为校董靠钱买位子是误解、合格校董尽力帮忙是私立大学办得好的原因之一（16408）。"
+    },
+    {
+      "claim_id": "C-GG-U0246-03",
+      "unit_id": "GG-U0246",
+      "speaker": "吴军本人",
+      "claim_text": "校长院长与董事会互相塑造：董事会选人先考察办学理念契合，上任者逐步推荐支持者填补董事空缺——一朝天子一朝臣",
+      "quote": "一朝天子一朝臣",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16420,
+        "end_line": 16426,
+        "sha1": "8600dae0200358e75b886b10dfce1e0e868231f9",
+        "fingerprint": [
+          "董事会",
+          "理念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "理念与人事互塑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "工学院换院长只有董事会主席面试了所有候选人（16421-16422）。"
+    },
+    {
+      "claim_id": "C-GG-U0246-04",
+      "unit_id": "GG-U0246",
+      "speaker": "吴军本人",
+      "claim_text": "选董事四原则：财务上能帮助学校、有社会影响力的成功人士、关心懂教育且有时间、道德水准高无争议",
+      "quote": "有社会影响力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16427,
+        "end_line": 16433,
+        "sha1": "84cd7024a836c10629d8f1fc4bd991d79223476c",
+        "fingerprint": [
+          "道德水准",
+          "成功人士"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "选董四原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "私立大学一般不找在职政府官员、州立大学董事会大量官员以传达州政府意愿（16433）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0246",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "16371-16401行董事会制度沿革（达特茅斯案、19世纪构成演变、院系两级称谓差异Board/Counsel/Regent）为教育制度史内容"
+    },
+    {
+      "unit_id": "GG-U0246",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16435行思考题（中国大学哪种职位扮演董事会角色）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第147封信：董事会与信托（制度史X5，可迁移4卡）。"
+}

@@ -1,0 +1,277 @@
+{
+  "unit_id": "GG-U0243",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0243-01",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "听众对客观可自己找到的内容不感兴趣，对主讲人主观的看法感兴趣。",
+      "quote": "对主观的看法感兴趣",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16145,
+        "end_line": 16146,
+        "sha1": "c0e6ca95f17ef6d2acc482144bbe406054e1895a",
+        "fingerprint": [
+          "客观",
+          "主观",
+          "讲座"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "听众要听主观看法",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "演讲方法论之一（来信补充自述第二目的是示范演讲）"
+    },
+    {
+      "claim_id": "C-GG-U0243-02",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "演讲要用例子和数据说话，讲熟悉又有新意的故事，不能变成讲段子。",
+      "quote": "通过一些例子和数据说话",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16150,
+        "end_line": 16150,
+        "sha1": "86d8abf66f7900b04949a816cc66b30178839167",
+        "fingerprint": [
+          "例子",
+          "数据",
+          "段子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "用例子和数据说话",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "演讲方法论之二；'故事穿插观点'并入"
+    },
+    {
+      "claim_id": "C-GG-U0243-03",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "演讲PPT不用花哨和文字过多的，用直观简单的提示让听众跟上节奏。",
+      "quote": "以免大家分心",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16151,
+        "end_line": 16152,
+        "sha1": "7ad918ae122b4f1b7a26f4d6aaa1c91100a22e21",
+        "fingerprint": [
+          "PPT",
+          "花哨",
+          "直观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "PPT直观简单不花哨",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "演讲方法论之三；'一张PPT讲2-3分钟'节奏（16152）并入"
+    },
+    {
+      "claim_id": "C-GG-U0243-04",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "讲座开头最好三分钟内给出大框架，让听众知道你要讲什么。",
+      "quote": "在三分钟内给大家一个大框架",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16163,
+        "end_line": 16163,
+        "sha1": "52a5145c2470b619157df1a8852c6f76e00aa061",
+        "fingerprint": [
+          "三分钟",
+          "框架",
+          "PPT"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "三分钟给出大框架",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "演讲方法论之四"
+    },
+    {
+      "claim_id": "C-GG-U0243-05",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "结束语要让人记得点什么，用当头一棒式的话加深听众记忆。",
+      "quote": "可以加深大家的记忆",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16206,
+        "end_line": 16207,
+        "sha1": "d2f2cf0c18ec0d43a1befe0e7ad20a166da0bdf5",
+        "fingerprint": [
+          "结束语",
+          "记忆",
+          "当头一棒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "结束语加深记忆",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "演讲方法论之五；以多恩'丧钟为谁而鸣'（海明威引用）作结为例证"
+    },
+    {
+      "claim_id": "C-GG-U0243-06",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "提出问题常常比解决问题更重要。",
+      "quote": "提出问题常常比解决问题更重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16159,
+        "end_line": 16159,
+        "sha1": "2ad0bffddea39eb364f6c3eb8ef893d6ce048994",
+        "fingerprint": [
+          "提出问题",
+          "解决问题",
+          "价值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "提出问题比解决问题重要",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军自述'过去讲过很多次'（跨书线索）；评《今日简史》只给问题不给答案的价值"
+    },
+    {
+      "claim_id": "C-GG-U0243-07",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "解决问题靠理解和合作远比战争来得好，对国家和组织中的人都如此。",
+      "quote": "理解和合作，要远比战争来得好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16193,
+        "end_line": 16193,
+        "sha1": "b3a89460c754f58b565c0731d0895d81e5eccf37",
+        "fingerprint": [
+          "理解",
+          "合作",
+          "战争"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "理解合作优于对抗",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "尼安德特人之灭（祖先靠语言沟通团结打群架，16168-16169）为例证并入；'人类还年轻'比喻（16194）并入"
+    },
+    {
+      "claim_id": "C-GG-U0243-08",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "善待他人就是善待自己，应在自然面前谦卑、在同伴面前友善。",
+      "quote": "善待他人就是善待我们自己",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16205,
+        "end_line": 16205,
+        "sha1": "79f64e44287d03d3dca42e0f682b156bee9783dc",
+        "fingerprint": [
+          "善待",
+          "谦卑",
+          "友善"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "善待他人即善待自己",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "由多恩诗引出的收束判断；与CK-0093给比拿快乐同链"
+    },
+    {
+      "claim_id": "C-GG-U0243-09",
+      "unit_id": "GG-U0243",
+      "speaker": "吴军本人",
+      "claim_text": "所有新商业模式都基于新技术；美国靠技术进步而非山寨超越英国。",
+      "quote": "都是基于新技术的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16174,
+        "end_line": 16176,
+        "sha1": "7830fd66196f3e2a9a2e0ef31761417926b76453",
+        "fingerprint": [
+          "技术进步",
+          "商业模式",
+          "山寨"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "商业模式基于新技术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "近200年改变历史的发明清单为例证；'今日发明无法相比'（16174）并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0243",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "演讲内容主体（我们从哪里来/向何处去/我们是谁、农耕与商业文明对比、'冲突是两种文明的冲突'、AI+IoT+区块链公式）为文明史与技术趋势叙述，按批次特则记X6，仅留可迁移判断"
+    },
+    {
+      "unit_id": "GG-U0243",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末'戳下方蓝字复习'推广链接与《今日简史》新书首发导购内容，按批次特则记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "重刊演讲实录（跨书线索：《今日简史》首发），演讲方法论5卡+内容判断4卡"
+}

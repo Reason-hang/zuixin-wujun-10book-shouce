@@ -1,0 +1,115 @@
+{
+  "unit_id": "GG-U0242",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0242-01",
+      "unit_id": "GG-U0242",
+      "speaker": "吴军本人",
+      "claim_text": "控制发布平台、成为产业绕不过的一环，是平台类公司高价值的根源。",
+      "quote": "微软公司值钱就不在话下",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16101,
+        "end_line": 16106,
+        "sha1": "4e77768be63bef63eeacec976a9a3210b3c35f7e",
+        "fingerprint": [
+          "绕不过",
+          "平台",
+          "值钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "绕不过的一环即价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "WinTel、Facebook/亚马逊云、App商店四个平台为例证；与CK-0394专利的绕不过环节（谷歌）同机理；'五家公司通过平台控制IT产业'（16121）并入"
+    },
+    {
+      "claim_id": "C-GG-U0242-02",
+      "unit_id": "GG-U0242",
+      "speaker": "吴军本人",
+      "claim_text": "全世界只认第一，不认第二。",
+      "quote": "全世界只认第一，不认第二",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16088,
+        "end_line": 16088,
+        "sha1": "4ac96572d01753030a53ecfb3911d9cbe3ed7422",
+        "fingerprint": [
+          "第一",
+          "第二",
+          "风头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-2"
+      ],
+      "concept_key": "只认第一不认第二",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "亚马逊进步最大而风头归苹果为例证；与CK-1725赢者通吃最大势差同链"
+    },
+    {
+      "claim_id": "C-GG-U0242-03",
+      "unit_id": "GG-U0242",
+      "speaker": "吴军本人",
+      "claim_text": "理解一家公司的价值，要把它放在更大的时间和空间中来看待。",
+      "quote": "更大的时间和空间中来看待",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16100,
+        "end_line": 16100,
+        "sha1": "5746be28e640fe59556f6d48f35eff6cd37c9153",
+        "fingerprint": [
+          "时间",
+          "空间",
+          "苹果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "放到更大时空看",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "分析方法论；与C-GG-U0229-03时空找准自己的位置互引；'透过数字看产业格局'（16133）并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0242",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "苹果破万亿（2018-08-02）及各公司市值、市盈率、Facebook暴跌20%、中国市场收入占比等行情时点论断为时效内容，按批次特则宏观行情记X2"
+    },
+    {
+      "unit_id": "GG-U0242",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'技术占比越来越大、资源与人工作用越来越小'为宏观趋势叙述本体（16125），按批次特则记X6，P4可评估是否拉回D08/D09"
+    },
+    {
+      "unit_id": "GG-U0242",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "2000年微软以来IT平台格局演变史实为企业史叙述，仅留平台价值方法论（C-GG-U0242-01）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "紧急加餐为时事评论，市值行情按X2/X6处置，抽3条可迁移判断（平台价值/只认第一/大时空分析）"
+}

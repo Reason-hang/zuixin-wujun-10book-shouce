@@ -1,0 +1,119 @@
+{
+  "unit_id": "GG-U0211",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0211-01",
+      "unit_id": "GG-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "人越难得到的东西越珍惜，轻易得到的反不当回事",
+      "quote": "越是难以得到的东西越珍惜",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14069,
+        "end_line": 14069,
+        "sha1": "e23303d78b33b3da8ff8906c074808617446a96f",
+        "fingerprint": [
+          "珍惜",
+          "神谕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "难以得到更珍惜",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "解释德尔斐远离城邦而神谕被坚信之因；祭司进王宫则话不被当回事。"
+    },
+    {
+      "claim_id": "C-GG-U0211-02",
+      "unit_id": "GG-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "谈正事要选正式场合：仪式感与环境会加强人对自我的约束，恪守承诺",
+      "quote": "加强人对自我的约束",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14072,
+        "end_line": 14072,
+        "sha1": "da2cb8a1606ba281d2adca78613bb44fb5a84004",
+        "fingerprint": [
+          "仪式感",
+          "恪守自己的承诺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "仪式感强化自我约束",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "与孩子谈正事不在饭桌汽车里；法官假发、牛剑考试学袍为例。"
+    },
+    {
+      "claim_id": "C-GG-U0211-03",
+      "unit_id": "GG-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "预言经心理暗示改变结果：正反馈促其成真，负反馈使其不发生",
+      "quote": "都会改变结果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14073,
+        "end_line": 14073,
+        "sha1": "9dccf8277ab56cd0892262b0d998e4c30e8c1119",
+        "fingerprint": [
+          "心理暗示",
+          "正反馈",
+          "负反馈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "预言的自证与自否",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "摩尔定律自我实现（英特尔倒逼自己）、经济学家预见的风险反而不发生（金融危机女王之问，转述例证）为例。"
+    },
+    {
+      "claim_id": "C-GG-U0211-04",
+      "unit_id": "GG-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "对命运怀敬畏之心，厄运会被避免或孤立，好运则可能被放大",
+      "quote": "对于命运敬畏的态度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14085,
+        "end_line": 14085,
+        "sha1": "e06e9b139d949716fef159c91e3093812a229867",
+        "fingerprint": [
+          "敬畏",
+          "厄运",
+          "好运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "敬畏命运好运放大",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "互引 C-GG-U0208-01、C-GG-U0209-03。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人方法论信：仪式感+预言心理暗示，4张卡。"
+}

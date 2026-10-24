@@ -1,0 +1,242 @@
+{
+  "unit_id": "GG-U0231",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0231-01",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "沟通就是把自己的想法准确传递给对方，目的没达到就是沟通失败。",
+      "quote": "把自己的想法准确传递给对方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15366,
+        "end_line": 15366,
+        "sha1": "a29e599e76e477fbf740c7842f73690c6608c3bc",
+        "fingerprint": [
+          "准确传递",
+          "沟通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通即准确传递想法",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "pillars.yaml D07-1素材线索直接命中本单元；与CK-0555做事要达到目的同链"
+    },
+    {
+      "claim_id": "C-GG-U0231-02",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "沟通要按场景和对象采用不同方式，很难有一招鲜吃遍天的办法。",
+      "quote": "很难有一招鲜吃遍天",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15366,
+        "end_line": 15366,
+        "sha1": "a29e599e76e477fbf740c7842f73690c6608c3bc",
+        "fingerprint": [
+          "一招鲜",
+          "场景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通无一招鲜",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "与C-GG-U0231-01互引（同段总起）"
+    },
+    {
+      "claim_id": "C-GG-U0231-03",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "不论对方是否接受、一味自己宣讲的交流方式效率最低。",
+      "quote": "交流方式是效率最低的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15376,
+        "end_line": 15376,
+        "sha1": "1579b8c1b64e257b24801c6ea227c4ac107f522c",
+        "fingerprint": [
+          "接受",
+          "宣讲",
+          "效率最低"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "自顾自说效率最低",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "四大沟通问题之1；讲课照本宣科例证并入；基准线不同交流出问题（15375）并入"
+    },
+    {
+      "claim_id": "C-GG-U0231-04",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "能有效沟通的人一定对自己的想法和知识有本质了解，而不只是传话筒。",
+      "quote": "而不只是传话筒",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15379,
+        "end_line": 15379,
+        "sha1": "6f8141ce9e9837c4a304e3c9a7a67f9658b98f3a",
+        "fingerprint": [
+          "本质",
+          "传话筒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "有效沟通需本质理解",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "大学教师评论同行例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0231-05",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "好的沟通是双向的，布置的任务要得到对方确认，沟通才算完成。",
+      "quote": "沟通才算完成",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15386,
+        "end_line": 15386,
+        "sha1": "8a88a60ca4dbd73708898b0fddf1105b84940fa8",
+        "fingerprint": [
+          "双向",
+          "确认"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通以确认为准",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "四大沟通问题之2；主管布置任务例证并入；与CK-0082沟通以确认为准（见识/态度）同概念跨书"
+    },
+    {
+      "claim_id": "C-GG-U0231-06",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "提要求或建议时不要带入主观情感、抱怨和无关内容，情绪化言论只有副作用。",
+      "quote": "只能起到副作用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15391,
+        "end_line": 15392,
+        "sha1": "687c465ae3f4364c0b84b885d78853b303d076b1",
+        "fingerprint": [
+          "主观",
+          "情绪",
+          "副作用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通勿带入情绪",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "四大沟通问题之3；员工要求加薪例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0231-07",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "沟通中过分直率和过分委婉都不好，多数人的问题是过分委婉。",
+      "quote": "大部分人的问题在于过分委婉",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15394,
+        "end_line": 15395,
+        "sha1": "9b108d2b1cb29584a962c25b5f4f3dbf6df9e430",
+        "fingerprint": [
+          "委婉",
+          "直率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通忌过分委婉",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "四大沟通问题之4；四问题清单分卡因锚点上限"
+    },
+    {
+      "claim_id": "C-GG-U0231-08",
+      "unit_id": "GG-U0231",
+      "speaker": "吴军本人",
+      "claim_text": "学语言最好的方法是营造一个语言环境，在那样的环境下进步最快。",
+      "quote": "营造一个语言环境",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15402,
+        "end_line": 15402,
+        "sha1": "2a18c99a7fc714132855eeb2d679a1753acb40bc",
+        "fingerprint": [
+          "语言环境",
+          "进步速度最快"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "语言环境学习法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "回答读者@Pabu（读者提问不进卡）；'四岁前掌握多语言关键期'为吴军转述其师雅让斯基教授观点，记此留痕"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0231",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "吴军对法国政局与移民政策的评论依附2018年时事，德国人'烧房子灭鼠'比喻并入该侧留痕"
+    },
+    {
+      "unit_id": "GG-U0231",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "读者@杨勇博后工作站选择（密大vs西门子清华）属升学/大学选择咨询，吴军仅一句话作答无可迁移方法论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "会沟通四问题+语言学习法成8卡（D07-1素材线索命中单元），读者发言与法国时事按X2/X5处置"
+}

@@ -1,0 +1,73 @@
+{
+  "unit_id": "GG-U0255",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0255-01",
+      "unit_id": "GG-U0255",
+      "speaker": "吴军本人",
+      "claim_text": "比起强大的队伍，数据才是王道：谁拥有最多的数据，谁就能发起最具颠覆性的技术革新",
+      "quote": "数据才是王道",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16959,
+        "end_line": 16960,
+        "sha1": "c4f8c1ddb05449e01c0648de557decde743a57dc",
+        "fingerprint": [
+          "数据",
+          "颠覆"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "数据王道",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中国数据覆盖现实生活方方面面vs美国局限于互联网（16961-16962）；深度学习基础知识不再被精英垄断（16959）。"
+    },
+    {
+      "claim_id": "C-GG-U0255-02",
+      "unit_id": "GG-U0255",
+      "speaker": "转述·第三方",
+      "claim_text": "UBI不是可乱挥的魔杖；更重要是从人文层面思考AI——AI是有潜力的工具，人以人文精神相待",
+      "quote": "从人文的层面来思考AI",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16966,
+        "end_line": 16967,
+        "sha1": "38fb382dba75a05630b46c429a5c228e764627ef",
+        "fingerprint": [
+          "魔杖",
+          "工具"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "人文层面思考AI",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=李开复（16966）；没有了人情味未来生活毫无意义（16973）；最接近D01-1，留P4裁决。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0255",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "16934-16965行中美AI竞争格局、AlphaGo收视、数据覆盖对比、AI四波浪潮与抢饭碗预测为宏观科技趋势内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：李开复《AI未来》序（宏观AI内容X6，可迁移2卡）。"
+}

@@ -1,0 +1,123 @@
+{
+  "unit_id": "GG-U0299",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0299-01",
+      "unit_id": "GG-U0299",
+      "speaker": "吴军本人",
+      "claim_text": "四方表自评：自己填优点与不足两行、请信得过的朋友核对——一致=真实，不一致=自我误判或太在意不必在意的事",
+      "quote": "对自己有误判",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20006,
+        "end_line": 20010,
+        "sha1": "dea24e141dcd3dfb590472af0e8cf6df9e09150a",
+        "fingerprint": [
+          "一致",
+          "误判"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "四方表自评",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "绝大部分人两列不一致的地方非常多（20009）；一定要找非常信得过的朋友做、找不到说明交流已出问题（20014）。"
+    },
+    {
+      "claim_id": "C-GG-U0299-02",
+      "unit_id": "GG-U0299",
+      "speaker": "吴军本人",
+      "claim_text": "自己认识到的自己和别人眼里的自己是两回事：这种误判使你不清楚在单位里的位置，得罪人意识不到，灾难来临时感到突然",
+      "quote": "和在别人眼里的自己是两回事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20009,
+        "end_line": 20011,
+        "sha1": "7b8d03769be68bbd4e61f285e255550b8a991cf1",
+        "fingerprint": [
+          "误判",
+          "位置"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D06-1"
+      ],
+      "concept_key": "自我认知偏差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "工程师自认主贡献者、同事见他闯了不少祸（20009）。"
+    },
+    {
+      "claim_id": "C-GG-U0299-03",
+      "unit_id": "GG-U0299",
+      "speaker": "吴军本人",
+      "claim_text": "位置三角图：下两支柱=上级与下级同事、上尖=成就，三者平衡才稳固——架稳下两腿是会做人，做高上尖是会做事",
+      "quote": "把底下两条腿架稳固了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20016,
+        "end_line": 20022,
+        "sha1": "3de7b1feb236efe57318b95ee58a3480d684eeb0",
+        "fingerprint": [
+          "会做人",
+          "会做事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D07-1"
+      ],
+      "concept_key": "会做人与会做事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "只搞上级关系不全面：上级一推就滑、无成就大家看不见（20017-20019）；成就大支柱不稳易跌倒、支柱强无成就被埋没（20020-20021）；每过一段时间画一画（20023）。"
+    },
+    {
+      "claim_id": "C-GG-U0299-04",
+      "unit_id": "GG-U0299",
+      "speaker": "吴军本人",
+      "claim_text": "新人易想搭高上尖而支柱不稳；老员工支柱稳但长期无新贡献则上尖变平、被认为可有可无——地位远不如想象稳固",
+      "quote": "地位远不如想象的稳固",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20025,
+        "end_line": 20027,
+        "sha1": "96096cc21541c3f4892bbb3394ab70f9dce281cb",
+        "fingerprint": [
+          "新人",
+          "贡献"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "位置动态检查",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "A先生被提拔后贡献与原来相同、按过去要求要求自己成了鸡肋（20027）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第182封信：认清自己位置的两个工具（4卡）。"
+}

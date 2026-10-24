@@ -1,0 +1,179 @@
+{
+  "unit_id": "GG-U0303",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0303-01",
+      "unit_id": "GG-U0303",
+      "speaker": "吴军本人",
+      "claim_text": "趁在校选点人文课程开阔眼界：离开学校后人文课反而学不到了、专业课将来学习机会很多——从大处着眼在境界上超过同龄人",
+      "quote": "开阔一下眼界",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20242,
+        "end_line": 20244,
+        "sha1": "67aa4d4d2cae7e20fbb44d0c555ec6a5d9c60a08",
+        "fingerprint": [
+          "人文",
+          "境界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "在校学人文",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0303-02",
+      "unit_id": "GG-U0303",
+      "speaker": "转述·第三方",
+      "claim_text": "杜尔投标准则：不以赚钱为目的而看能否对世界产生重大影响——问'两年后世界会因此有什么不同'；'比现有人做得更好'不算数",
+      "quote": "两年后世界会因此有什么不同吗",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20260,
+        "end_line": 20262,
+        "sha1": "b1f1bd2b6834402e2e0c8a117237dc949aec42e3",
+        "fingerprint": [
+          "杜尔",
+          "影响"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-2"
+      ],
+      "concept_key": "两年后世界不同",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=凯鹏华盈主席约翰·杜尔（20260-20261）；做得好现公司自己改进即可、不需要重复竞争者（20262）。"
+    },
+    {
+      "claim_id": "C-GG-U0303-03",
+      "unit_id": "GG-U0303",
+      "speaker": "吴军本人",
+      "claim_text": "没投高频交易团队：一来意义不大、二来赚不到大钱，属于小打小闹——高频交易不创造财富也不降低交易成本",
+      "quote": "属于小打小闹",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20258,
+        "end_line": 20259,
+        "sha1": "464c529784e521f3d98d4119023df2739c6d9a9b",
+        "fingerprint": [
+          "高频交易",
+          "意义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-2"
+      ],
+      "concept_key": "不做小打小闹",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "芝加哥公司花一亿多美元只为快0.1秒（20253）；人均产值高频公司100-120万vs谷歌125万、苹果FB160万且含客服销售（20266-20269）；正面社会效应更是天壤（20271）。"
+    },
+    {
+      "claim_id": "C-GG-U0303-04",
+      "unit_id": "GG-U0303",
+      "speaker": "吴军本人",
+      "claim_text": "格局的大小决定成就的顶点：格局大的人少、改变世界的事做成利益大；琢磨赚小钱的人多、利润必被摊薄",
+      "quote": "格局的大小决定了成就的顶点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20273,
+        "end_line": 20277,
+        "sha1": "58438ec7627d2092685d95a8177d4fc98a70b920",
+        "fingerprint": [
+          "格局",
+          "顶点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D08-1"
+      ],
+      "concept_key": "格局定顶点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谷歌搜索、苹果手机不是你想做就能做出来的（20277）。"
+    },
+    {
+      "claim_id": "C-GG-U0303-05",
+      "unit_id": "GG-U0303",
+      "speaker": "吴军本人",
+      "claim_text": "名校之问的关键在格局：格局提不上去上了也没用——做对事情的谷歌苹果员工平均智力受教育程度不如名校生，人均产出并不低",
+      "quote": "上了也没用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20280,
+        "end_line": 20282,
+        "sha1": "7e3c34120f23041e89026f395d6ca641fbbb1312",
+        "fingerprint": [
+          "格局",
+          "名校"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-1"
+      ],
+      "concept_key": "格局高于名校",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "MIT在校本科校友约1/3是大公司高管和创始人（20284）。"
+    },
+    {
+      "claim_id": "C-GG-U0303-06",
+      "unit_id": "GG-U0303",
+      "speaker": "吴军本人",
+      "claim_text": "境界就是目光能看多远：能看到三年后的人比只能看到一年后的人境界高；选择做什么不做什么，格局要大",
+      "quote": "目光能看多远",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20285,
+        "end_line": 20286,
+        "sha1": "af86ae2177809ab5a368ca3012167f4bd33b51a3",
+        "fingerprint": [
+          "境界",
+          "格局"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D01-1"
+      ],
+      "concept_key": "境界即目光远近",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出自《态度》洞察世界篇（20237）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：决策时格局要大（6卡）。"
+}

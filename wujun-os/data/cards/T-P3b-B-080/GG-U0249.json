@@ -1,0 +1,185 @@
+{
+  "unit_id": "GG-U0249",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0249-01",
+      "unit_id": "GG-U0249",
+      "speaker": "吴军本人",
+      "claim_text": "搞清一件事不能只看事情本身：要放在较长历史阶段（时间轴）与较大范围（空间轴）上考量",
+      "quote": "放在一个较长的历史阶段",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16559,
+        "end_line": 16559,
+        "sha1": "2e7798804e4a1f94838acabfd90bc7382327e97f",
+        "fingerprint": [
+          "时间轴",
+          "空间轴"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "时空轴考量",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教授治校例：时间轴上源于终身教职保学术独立、空间轴上要求水平高且范围有限（16560-16561）。"
+    },
+    {
+      "claim_id": "C-GG-U0249-02",
+      "unit_id": "GG-U0249",
+      "speaker": "吴军本人",
+      "claim_text": "判断能否直接采用他人成功经验：把当时的成功放回相应的时间、空间坐标中考察",
+      "quote": "放到相应的时间、空间坐标中",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16563,
+        "end_line": 16563,
+        "sha1": "12d2fa89fff0f28c1d2c0c5aa0b857f7cc7b030e",
+        "fingerprint": [
+          "经验",
+          "坐标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "经验还原坐标",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0245-03本土解非套用。"
+    },
+    {
+      "claim_id": "C-GG-U0249-03",
+      "unit_id": "GG-U0249",
+      "speaker": "吴军本人",
+      "claim_text": "组织结构匹配业务节奏：周期几年的跨学科项目用矩阵式管理，业务变化慢的组织用树状管理",
+      "quote": "周期为几年",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16564,
+        "end_line": 16567,
+        "sha1": "06495796eb0426b7f831a517bb842bfa4759eb62",
+        "fingerprint": [
+          "矩阵式",
+          "树状"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "结构匹配节奏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教学型大学树状即可（16575）；Google X只有项目组是纯变动极端、系/部门稳定才能不断接新项目（16570-16571）；大国企树状难抓机会（16576）。"
+    },
+    {
+      "claim_id": "C-GG-U0249-04",
+      "unit_id": "GG-U0249",
+      "speaker": "吴军本人",
+      "claim_text": "基层员工需与矩阵每一维度上的同事和管理者搞好关系——理解组织现象成因即知自己所处位置与发展可能",
+      "quote": "每一个维度上的同事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16578,
+        "end_line": 16579,
+        "sha1": "9537662f9d6fc280710407ce5a469d47b30a5c47",
+        "fingerprint": [
+          "维度",
+          "矩阵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D07-1"
+      ],
+      "concept_key": "多维关系经营",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0249-05",
+      "unit_id": "GG-U0249",
+      "speaker": "吴军本人",
+      "claim_text": "好的师父应该是自己进步更快：担心教会徒弟就被取代的是懒师父",
+      "quote": "好的师父应该是自己进步更快",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16582,
+        "end_line": 16582,
+        "sha1": "a046a83a98cbc22836774919cee95e95d96208da",
+        "fingerprint": [
+          "师父",
+          "徒弟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "师父进步更快",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "技术经理须比下属懂得多（16582）。"
+    },
+    {
+      "claim_id": "C-GG-U0249-06",
+      "unit_id": "GG-U0249",
+      "speaker": "吴军本人",
+      "claim_text": "项目成功最耀眼的是技术主管（奥本海默而非葛洛夫）：技术主管提升快，须有允许下属超越自己的心理准备",
+      "quote": "允许下属超越自己的心理准备",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16589,
+        "end_line": 16592,
+        "sha1": "7fe4b79fa0c409d694b6991edee7af09955325dd",
+        "fingerprint": [
+          "奥本海默",
+          "威信"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "技术主管心态",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "行政主管失败丢饭碗、下属成就后维持威信是艺术；技术主管政治斗争失败也有饭吃（16592）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0249",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16595行思考题（如何看待下属超过自己）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：把人和事放在时空中思考（6卡）。"
+}

@@ -1,0 +1,102 @@
+{
+  "unit_id": "GG-U0229",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0229-01",
+      "unit_id": "GG-U0229",
+      "speaker": "吴军本人",
+      "claim_text": "人要想后来居上，就要少犯前人犯过的错误，前人的教训要避免而非重复。",
+      "quote": "就要少犯前人犯过的错误",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15261,
+        "end_line": 15261,
+        "sha1": "b16df86024ba6ba53231506eb723e42ea644bd84",
+        "fingerprint": [
+          "后来居上",
+          "教训",
+          "先污染"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "后来居上少犯前人错误",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军题外话，反例为'先污染后治理'发展逻辑；'踩狗屎'比喻并入"
+    },
+    {
+      "claim_id": "C-GG-U0229-02",
+      "unit_id": "GG-U0229",
+      "speaker": "吴军本人",
+      "claim_text": "每个时代有每个时代的关键领域，今天的人要根据今天的特点作判断。",
+      "quote": "要根据今天的特点作判断",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15288,
+        "end_line": 15288,
+        "sha1": "54314fd54f14c7ed4e0a5640660aa10cabcaa2cf",
+        "fingerprint": [
+          "时代",
+          "学科",
+          "特点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "按时代特点作判断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境为吉尔曼论学科重要性，吴军的补充评论为通用判断；与C-GG-U0227-02互引"
+    },
+    {
+      "claim_id": "C-GG-U0229-03",
+      "unit_id": "GG-U0229",
+      "speaker": "转述·第三方",
+      "claim_text": "办好一件事要在地理上适应当地特点、时间上切合趋势，在时间和空间上找准位置。",
+      "quote": "在时间和空间上要找准自己的位置",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15258,
+        "end_line": 15258,
+        "sha1": "eba248fe698ef8a70694e88aed0145f057d6d281",
+        "fingerprint": [
+          "时间",
+          "空间",
+          "位置"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "时空找准自己的位置",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：吉尔曼（约翰·霍普金斯首任校长）论办学定位；结论可迁移至企业与个人定位；与CK-1670认清时代与位置相邻"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0229",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "吉尔曼教育思想节选9主题（捐赠财务、十二要点、学科、师生、学术自由等）为教育制度史转述主体，按批次特则记X5，仅抽吴军点评与可迁移判断；另择校建议（优先一线城市）属升学选择X5"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育思想转述按X5处置，抽吴军本人点评2卡+吉尔曼定位思想转述1卡"
+}

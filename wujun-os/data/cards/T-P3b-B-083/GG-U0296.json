@@ -1,0 +1,80 @@
+{
+  "unit_id": "GG-U0296",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0296-01",
+      "unit_id": "GG-U0296",
+      "speaker": "吴军本人",
+      "claim_text": "上帝喜欢笨人：人太聪明占了太多便宜就逐渐失去立足根本，国家亦然——靠劳动创造价值的根本不丢才有不同结果",
+      "quote": "上帝喜欢笨人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19836,
+        "end_line": 19837,
+        "sha1": "329f11ecfc781b5958c8aad64da26a835b407cc6",
+        "fingerprint": [
+          "笨人",
+          "劳动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "上帝喜欢笨人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中华文明经衰落但劳动创造价值的根本未丧失（19837）；互引《见识》同概念。"
+    },
+    {
+      "claim_id": "C-GG-U0296-02",
+      "unit_id": "GG-U0296",
+      "speaker": "吴军本人",
+      "claim_text": "希腊人把危机归罪于西方大银行的阴谋论（富人也信）：他们看到的是一个结果，但并非原因",
+      "quote": "看到的是一个结果，但并非原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19816,
+        "end_line": 19818,
+        "sha1": "5e25851b4e40dd48c777c427d21abd77f89182f2",
+        "fingerprint": [
+          "阴谋论",
+          "结果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "结果不等于原因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "当地最有钱人（两支甲级足球队老板）也信外资做局论（19817）；早期借钱给希腊的投资大部分打了水漂（19818）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0296",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "19794-19835行希腊现状见闻（福利房产移民、古今生活对照、文明兴衰史述）为游记与文明史内容，仅抽可迁移判断"
+    },
+    {
+      "unit_id": "GG-U0296",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "19839行思考题（中希不同结果之看法）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第181封信：希腊观感（游记X3，方法论2卡）。"
+}

@@ -1,0 +1,123 @@
+{
+  "unit_id": "GG-U0215",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0215-01",
+      "unit_id": "GG-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "值得投的方向三条件：技术刚成熟且配套成熟、有跳跃性大厂难平移、市场足够大",
+      "quote": "过去不成熟，现在成熟了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14355,
+        "end_line": 14359,
+        "sha1": "db4ee4f56c6a3aec9564381b4533232b0b7317e7",
+        "fingerprint": [
+          "跳跃性",
+          "市场要足够大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "趋势领域三条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "在线支付→小贷无跳跃性（阿里可平移），网游→电商有跳跃性（腾讯投京东美团）；对量级要有概念。"
+    },
+    {
+      "claim_id": "C-GG-U0215-02",
+      "unit_id": "GG-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "风投的作用是让创业者一年温饱不愁把事做好，而非烧钱买客户",
+      "quote": "不要因为发不出工资而发愁",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14395,
+        "end_line": 14395,
+        "sha1": "90b6d1999cc8c0826807fa62981e7de44b6c4a5e",
+        "fingerprint": [
+          "烧钱买客户",
+          "温饱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "风投养事不烧钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "烧钱买客户的公司不值得投；把事做好没挣钱，第二三轮还会投。"
+    },
+    {
+      "claim_id": "C-GG-U0215-03",
+      "unit_id": "GG-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "创业者若眼睛只盯着眼下那点钱，就永远没有成功的机会；人要崇高一点",
+      "quote": "永远没有成功的机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14396,
+        "end_line": 14396,
+        "sha1": "c152becbc080c11b9e8c4b6237bd2b8ee6818668",
+        "fingerprint": [
+          "崇高",
+          "眼下那点钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D08-1"
+      ],
+      "concept_key": "盯眼前钱难成事",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "马欣若只顾挣钱维生就没有时间建造福医学界的数据库。"
+    },
+    {
+      "claim_id": "C-GG-U0215-04",
+      "unit_id": "GG-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "小公司做公益建行业规范，既获同行认可又便利交流，如制定标准者最牛",
+      "quote": "最牛的是制定标准的公司",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14389,
+        "end_line": 14390,
+        "sha1": "f701ba911d9dce12f59765527d3bde7a7ad0e2aa",
+        "fingerprint": [
+          "公益",
+          "规范",
+          "标准"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "公益立标准",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "马欣把行业中英文对照信息做成公益数据库，成业内遵守的规范；小公司忙中做公益显远见。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0215",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "医疗保健市场规模数据与被投公司（Human Longevity、Grail、奇恩生物）具体情况属时点行情判断。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "基金投资信（健康领域）：行业与标的X2，抽趋势三条件与投资点评方法论。"
+}

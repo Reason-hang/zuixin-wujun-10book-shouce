@@ -1,0 +1,137 @@
+{
+  "unit_id": "GG-U0238",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0238-01",
+      "unit_id": "GG-U0238",
+      "speaker": "吴军本人",
+      "claim_text": "但凡做一件事都要有很强的目的性，不要逞一时之快。",
+      "quote": "都要有很强的目的性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15872,
+        "end_line": 15872,
+        "sha1": "da91e9f093a2b196cab1cd2fab883b098be602b9",
+        "fingerprint": [
+          "目的性",
+          "逞一时之快"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "做事要有目的性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "俾斯麦三条可学习之处第1条；三场统一战争目的分析为例证（X4侧）；与C-GG-U0228-01做事先问动机目的互引，与CK-0555做事要达到目的同链"
+    },
+    {
+      "claim_id": "C-GG-U0238-02",
+      "unit_id": "GG-U0238",
+      "speaker": "吴军本人",
+      "claim_text": "不做对长期没有好处的事情，不得不行动时也尽量不做画蛇添足的事情。",
+      "quote": "没有好处的事情都不去做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15874,
+        "end_line": 15874,
+        "sha1": "64b949df830179a1bd65aaa783471ede16192933",
+        "fingerprint": [
+          "无用功",
+          "长期",
+          "画蛇添足"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "不做无长期好处的事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第2条；普奥战争打赢后制止进军维也纳为例证（X4侧）"
+    },
+    {
+      "claim_id": "C-GG-U0238-03",
+      "unit_id": "GG-U0238",
+      "speaker": "吴军本人",
+      "claim_text": "通过合作达到目的是商人的思维方式，一定要战胜对方是野蛮人的思维方式。",
+      "quote": "这是商人的思维方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15876,
+        "end_line": 15877,
+        "sha1": "611779c6b89c67cb5f278b66e0c868bf9a8bbf43",
+        "fingerprint": [
+          "撕破脸",
+          "合作",
+          "战胜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-2"
+      ],
+      "concept_key": "合作达到目的是商人思维",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "第3条'撕破脸尽量少做'并入；不夺阿尔萨斯-洛林'看似赚便宜将来麻烦不断'（15861）为例证；与CK-0725/0726合作共赢（谷歌）同链"
+    },
+    {
+      "claim_id": "C-GG-U0238-04",
+      "unit_id": "GG-U0238",
+      "speaker": "吴军本人",
+      "claim_text": "懂得进退是国际化人才的必备素质。",
+      "quote": "像俾斯麦这样懂得进退",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15877,
+        "end_line": 15877,
+        "sha1": "735cf71ea7a9b2b0de9907465c4ca5cfb63c92be",
+        "fingerprint": [
+          "国际化人才",
+          "进退"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "懂进退是国际化人才素质",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "回应读者'什么算国际化人才'之问"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0238",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "俾斯麦生平与普丹/普奥/普法三场战争外交史为主体人物史，按批次特则X4，仅抽吴军信末归纳的三条方法论与国际化人才判断"
+    },
+    {
+      "unit_id": "GG-U0238",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末思考题（从俾斯麦身上学到哪些思维方式）属运营互动内容，按批次特则记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "人物史叙述按X4处置，吴军'把握做事情的度'的归纳成4卡"
+}

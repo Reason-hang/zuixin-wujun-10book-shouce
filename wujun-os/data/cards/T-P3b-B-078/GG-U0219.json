@@ -1,0 +1,194 @@
+{
+  "unit_id": "GG-U0219",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0219-01",
+      "unit_id": "GG-U0219",
+      "speaker": "吴军本人",
+      "claim_text": "张先生教给我的智慧是大气：做事不小家子气，遇困境不人穷志短",
+      "quote": "小家子气",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14581,
+        "end_line": 14582,
+        "sha1": "452e5c7044c4fb4d25915efb1944da11a691f731",
+        "fingerprint": [
+          "大气",
+          "小家子气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "大气",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "香港商人张国贤（Thomas）言传身教；他是我见过最好的销售，能把弱势讲成优点。"
+    },
+    {
+      "claim_id": "C-GG-U0219-02",
+      "unit_id": "GG-U0219",
+      "speaker": "转述·第三方",
+      "claim_text": "请客带你享受生活是为开眼界；直接给钱会让你满足小钱格局变小",
+      "quote": "是为了让你开眼界",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14596,
+        "end_line": 14599,
+        "sha1": "a4d2b07aa137eed4743d9e5f0be182f13b7bdd82",
+        "fingerprint": [
+          "开眼界",
+          "格局"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "开眼界不给钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=张国贤（张先生，经吴军转述）；给钱只会满足于数几百块钱。"
+    },
+    {
+      "claim_id": "C-GG-U0219-03",
+      "unit_id": "GG-U0219",
+      "speaker": "转述·第三方",
+      "claim_text": "满足于挣1000元的人，永远做不到一单生意挣100万",
+      "quote": "永远做不到一单生意挣100万",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14601,
+        "end_line": 14602,
+        "sha1": "913027389efd8f0348c5f66c414a889e2e3a5ec5",
+        "fingerprint": [
+          "1000元",
+          "100万"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "挣千元难成百万单",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=张国贤；中关村商人逐台卖机与上百万合同销售之别。"
+    },
+    {
+      "claim_id": "C-GG-U0219-04",
+      "unit_id": "GG-U0219",
+      "speaker": "转述·第三方",
+      "claim_text": "办公室里永远不要省纸：不为省不值钱的东西把事情做得不漂亮",
+      "quote": "永远不要省纸",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14613,
+        "end_line": 14613,
+        "sha1": "0c77f098e84df12f3ae5cd178adb483798ddb22e",
+        "fingerprint": [
+          "省纸",
+          "漂亮"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "永远不要省纸",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=张国贤；吴军合并短描述省纸反被指正。"
+    },
+    {
+      "claim_id": "C-GG-U0219-05",
+      "unit_id": "GG-U0219",
+      "speaker": "吴军本人",
+      "claim_text": "既想把事做好又想省成本是贪：自以为能兼顾两头，结果顾小头丢大头",
+      "quote": "把小的一头照顾了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14614,
+        "end_line": 14614,
+        "sha1": "a1cf564b348046970b55bb5e7f2e7cf830c8333b",
+        "fingerprint": [
+          "贪",
+          "因小失大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "省小失大",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军对省纸一事的内化；佐证 C-GG-U0219-04。"
+    },
+    {
+      "claim_id": "C-GG-U0219-06",
+      "unit_id": "GG-U0219",
+      "speaker": "吴军本人",
+      "claim_text": "张先生值我百倍工资的原因：集中精力把该做的事情做漂亮",
+      "quote": "集中精力把该做的事情做漂亮",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14615,
+        "end_line": 14615,
+        "sha1": "f938069e2df4af48466af8f88e0e1d2096500166",
+        "fingerprint": [
+          "集中精力",
+          "漂亮"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "集中精力做漂亮该做的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与省纸故事同源：不给选择、不为次要小事费心。"
+    },
+    {
+      "claim_id": "C-GG-U0219-07",
+      "unit_id": "GG-U0219",
+      "speaker": "吴军本人",
+      "claim_text": "在像样的草稿纸上写画助思维，省半张草稿纸浪费的是考好成绩的机会",
+      "quote": "在纸上写写画画帮助思维",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14618,
+        "end_line": 14620,
+        "sha1": "dee93f292faef67854ba823128c05575de513157",
+        "fingerprint": [
+          "草稿纸",
+          "解题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "草稿纸与命运",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "学生命运在省那半张草稿纸时已注定；思考题：小事决定格局再决定命运。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "成长经历信（张先生）：经历→判断口径成立，吴军判断4卡+张先生转述3卡。"
+}

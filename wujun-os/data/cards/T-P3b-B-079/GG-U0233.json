@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0233",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0233-01",
+      "unit_id": "GG-U0233",
+      "speaker": "吴军本人",
+      "claim_text": "平庸方法与好方法的计算量差距是量级的差别，同一问题可从几十万亿降到几万。",
+      "quote": "经常会遇到的量级的差别",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15547,
+        "end_line": 15552,
+        "sha1": "c35d576481cbee45964279f1410abc5fe6bed8c6",
+        "fingerprint": [
+          "量级",
+          "计算量",
+          "几十万亿"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "方法差距是量级差别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四种算法复杂度O(K^3)到O(N)演进为例证；与CK-0596关注量级的习惯、CK-1806量级优先于倍数同链"
+    },
+    {
+      "claim_id": "C-GG-U0233-02",
+      "unit_id": "GG-U0233",
+      "speaker": "吴军本人",
+      "claim_text": "只有当股票涨速超过股指时，购买和持有它才有意义，否则不如持有指数基金。",
+      "quote": "购买和持有它才有意义",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15511,
+        "end_line": 15511,
+        "sha1": "c108177cd2080fdafa27eec00482abe02044d5d9",
+        "fingerprint": [
+          "股指",
+          "有效增长",
+          "指数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "跑赢大盘才有意义",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "'有效增长'定义（涨速减股指）；思科/英特尔最佳持有区间例证（15517）并入；跨书线索：《硅谷来信》145-149信"
+    },
+    {
+      "claim_id": "C-GG-U0233-03",
+      "unit_id": "GG-U0233",
+      "speaker": "吴军本人",
+      "claim_text": "任何公司最终会消亡，任何股票都有跑不赢大盘的时候，玩单只股票很危险。",
+      "quote": "玩单只股票其实是很危险的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15553,
+        "end_line": 15553,
+        "sha1": "aeeb9b0acec1d03bb7fbc173bfc7d7bf9b3ce6b6",
+        "fingerprint": [
+          "消亡",
+          "大盘",
+          "道琼斯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "单只股票很危险",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "道琼斯成分股仅存GE史实为例证；与CK-0578全押个股近于赌博、CK-0091组织有生有死同链"
+    },
+    {
+      "claim_id": "C-GG-U0233-04",
+      "unit_id": "GG-U0233",
+      "speaker": "吴军本人",
+      "claim_text": "逆向思维永远重要，从结果往回回溯能解决正向思考无法确定的问题。",
+      "quote": "逆向思维永远重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15545,
+        "end_line": 15554,
+        "sha1": "34aa81f84ca4ba5e1a48132cce396883af9faa12",
+        "fingerprint": [
+          "逆向",
+          "回溯",
+          "线性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D01-1"
+      ],
+      "concept_key": "逆向思维永远重要",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "方法四正反两遍扫描为机理例证；与CK-0877定量与逆向思维同链"
+    },
+    {
+      "claim_id": "C-GG-U0233-05",
+      "unit_id": "GG-U0233",
+      "speaker": "吴军本人",
+      "claim_text": "顶级的计算机公司更看重算法能力，而非编程能力。",
+      "quote": "更看重算法能力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15556,
+        "end_line": 15556,
+        "sha1": "be9a1abcf4d63d903c49820ebe7c8588151768be",
+        "fingerprint": [
+          "算法能力",
+          "编程能力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "算法能力重于编程能力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "职业选择参考信息；本杰明面试经历为背景"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0233",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "'GE股票从此很难再跑赢大盘'为依附2018年时点的个股行情判断，本体不入卡（通用原理已入C-GG-U0233-03）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "面试题折射的算法量级/逆向思维与投资原则成5卡，GE时点判断按X2处置"
+}

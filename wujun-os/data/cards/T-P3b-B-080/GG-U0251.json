@@ -1,0 +1,238 @@
+{
+  "unit_id": "GG-U0251",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0251-01",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "人工智能发展的关键是找到相应的空气动力学：不靠模仿人的思维动作，要找到适合计算机获取智能的原理",
+      "quote": "空气动力学",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16670,
+        "end_line": 16671,
+        "sha1": "4067d26b0ba5dbb6bde10b32735ffd9623f07705",
+        "fingerprint": [
+          "人工智能",
+          "模仿"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "智能的空气动力学",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "正如不能靠模拟鸟飞行让飞机上天（16671）。"
+    },
+    {
+      "claim_id": "C-GG-U0251-02",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "人工智能三支柱：摩尔定律、大数据、数学模型",
+      "quote": "摩尔定律、大数据和数学模型",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16673,
+        "end_line": 16673,
+        "sha1": "f4d54429f7619a1af8e48d5130671e333897fd28",
+        "fingerprint": [
+          "支柱",
+          "模型"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "AI三支柱",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0251-03",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "贾里尼克找到语音识别的等价问题=通信问题：说话即编码、传输、解码——用已知通信模型解未知智能问题",
+      "quote": "标准的通信过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16689,
+        "end_line": 16692,
+        "sha1": "c140bde20a3c1f22027d6b6cba709ea5b3fd6160",
+        "fingerprint": [
+          "等价",
+          "通信"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "语音识别即通信",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "成果：十几年仅识别几百词错误率30%以上→五六年22000词10%（16693）；数据驱动方法（16695）。"
+    },
+    {
+      "claim_id": "C-GG-U0251-04",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "科学和工程的艺术常在于找到未知复杂问题的已知等价问题——一通百通即解一个问题后知道经验往哪推广",
+      "quote": "已知等价问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16702,
+        "end_line": 16702,
+        "sha1": "0a1dbab1e9f6d28f5b847f072d1f23cb74e92a56",
+        "fingerprint": [
+          "一通百通",
+          "等价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "找等价问题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "布朗把机器翻译也看成通信问题：说中文只是对可英文表达的意思做了一次特殊编码（16696-16698）。"
+    },
+    {
+      "claim_id": "C-GG-U0251-05",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "萨尔兹伯格视角：人的基因不过是一本只有AGCT四种字母的特殊书，识别文字的算法皆可用于基因测序",
+      "quote": "一本特殊的书",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16706,
+        "end_line": 16710,
+        "sha1": "a38a1c2180cbe1199c18e88650f9d92cc5e298e0",
+        "fingerprint": [
+          "基因",
+          "等价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "基因如书",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转行TIGR从事测序获领域最高奖（16709）；受贾里尼克启发（16710）。"
+    },
+    {
+      "claim_id": "C-GG-U0251-06",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "成功需要各种条件成熟：没数据时正确方法也巧妇难为无米之炊——缺智慧者怨天尤人，有智慧者开辟新战场",
+      "quote": "开辟一个新的战场",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16721,
+        "end_line": 16721,
+        "sha1": "12a6067578bf3b2e10853f375cd5cbb427c168df",
+        "fingerprint": [
+          "怨天尤人",
+          "无米之炊"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "条件不熟开新战场",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "布朗转投文艺复兴技术公司获巨大成功（16714）。"
+    },
+    {
+      "claim_id": "C-GG-U0251-07",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "上帝常常是公平的，人不要总想着名利双收——布朗得了钱，奥科得了荣誉",
+      "quote": "不要总想着名利双收",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16723,
+        "end_line": 16723,
+        "sha1": "e43b31422e4c5b5071fe6254b26c23eb42e4fe55",
+        "fingerprint": [
+          "公平",
+          "名利"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "名利难双收",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0251-08",
+      "unit_id": "GG-U0251",
+      "speaker": "吴军本人",
+      "claim_text": "贾里尼克能想到等价问题靠知识储备：非AI科班不受当时思路影响避免弯路+香农学生的信息论功底",
+      "quote": "避免走了弯路",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16703,
+        "end_line": 16705,
+        "sha1": "b82988895fa8815db807d33cf1db4c5ea71c2fe9",
+        "fingerprint": [
+          "弯路",
+          "信息论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "跨域储备避弯路",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "60年代初就在思考用信息论解决语言问题（16705）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0251",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16726-16728行思考题（布朗做法的启发）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第150封信：等价问题与人工智能（8卡）。"
+}

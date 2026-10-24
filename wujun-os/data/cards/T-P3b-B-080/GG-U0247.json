@@ -1,0 +1,128 @@
+{
+  "unit_id": "GG-U0247",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0247-01",
+      "unit_id": "GG-U0247",
+      "speaker": "吴军本人",
+      "claim_text": "大学矩阵结构：教学和人事管理在系里、科研在实验室——组织间是交叉关系而非隶属",
+      "quote": "科研在实验室",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16460,
+        "end_line": 16460,
+        "sha1": "0de979ca85c09e4812110d511e643a583079b8e3",
+        "fingerprint": [
+          "教学",
+          "实验室"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "教学在系科研在室",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "个别实验室规模比母体还大（JPL/林肯实验室/APL6000人），名义隶属管理独立（16480-16483）；研究生工作跟实验室走、学位回系里拿（16471-16475）。"
+    },
+    {
+      "claim_id": "C-GG-U0247-02",
+      "unit_id": "GG-U0247",
+      "speaker": "吴军本人",
+      "claim_text": "美国跨系合作容易因同一成果可回各自系分别请功共认可两次；中国合作成果被认为减半，故跨系难、各系重复做同一件事",
+      "quote": "一共被认可了两次",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16476,
+        "end_line": 16478,
+        "sha1": "fe043fbfbd90b0fd91149a1c399f3080bf63662b",
+        "fingerprint": [
+          "请功",
+          "合作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D10-1"
+      ],
+      "concept_key": "请功机制定合作",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清华语音识别好几个系独立做还竞争经费（16478）；经费跟着教授走不属于大学（16470）。"
+    },
+    {
+      "claim_id": "C-GG-U0247-03",
+      "unit_id": "GG-U0247",
+      "speaker": "吴军本人",
+      "claim_text": "Google矩阵式管理：行政部门与产品线交叉不重合——一个部门的人做几个产品，一个产品的人来自不同部门，每人有两个老板",
+      "quote": "每一个员工有两个老板",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16489,
+        "end_line": 16490,
+        "sha1": "a73e8d5164c34254023994ce0fc62ff4c6b25170",
+        "fingerprint": [
+          "矩阵式",
+          "老板"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "双线矩阵",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "此结构源于二战后研究型大学、即信息时代的管理方式（16485）。"
+    },
+    {
+      "claim_id": "C-GG-U0247-04",
+      "unit_id": "GG-U0247",
+      "speaker": "吴军本人",
+      "claim_text": "两个老板的分工：人事经理负责培养人与行政事务（职业经理人），技术经理安排日常工作提供技术指导（技术专家）",
+      "quote": "负责培养人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16492,
+        "end_line": 16492,
+        "sha1": "72455ef9e2971531f6bc728d33ffeda20c13d9fd",
+        "fingerprint": [
+          "人事经理",
+          "技术经理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-2"
+      ],
+      "concept_key": "双经理分工",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0247",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16495行思考题（跨部门合作注意事项）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第148封信：矩阵式管理（4卡）。"
+}

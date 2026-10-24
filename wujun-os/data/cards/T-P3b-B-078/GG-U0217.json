@@ -1,0 +1,154 @@
+{
+  "unit_id": "GG-U0217",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0217-01",
+      "unit_id": "GG-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "好奇心、系统思考的方法、不断挑战极限的精神，是人类立足于世界的根本",
+      "quote": "人类立足于世界的根本",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14509,
+        "end_line": 14509,
+        "sha1": "ec2b68c302a18f64d1e5271dee1b919bf3bddfdc",
+        "fingerprint": [
+          "好奇心",
+          "挑战极限",
+          "思维方式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "人类立足三根本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "重刊：本文为吴军所作蒙洛迪诺《思维简史》序言；跨书线索：《思维简史》《数学之美》。"
+    },
+    {
+      "claim_id": "C-GG-U0217-02",
+      "unit_id": "GG-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "智能时代计算机能帮我们解决问题，却不能取代我们提出问题",
+      "quote": "不能取代我们提出问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14494,
+        "end_line": 14494,
+        "sha1": "b6e0ef0bdf33986beb191e4a589ebce4fad8d538",
+        "fingerprint": [
+          "好奇心",
+          "立足之本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "提问不可替代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好奇心在智能时代仍是人在大自然生存的立足之本。"
+    },
+    {
+      "claim_id": "C-GG-U0217-03",
+      "unit_id": "GG-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "人和人的差异首先不在学识金钱，而在思维方式和做事方法",
+      "quote": "思维方式和做事方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14502,
+        "end_line": 14502,
+        "sha1": "41ee08cefb1df834fdb08e0228c4e9717ff7319a",
+        "fingerprint": [
+          "差异",
+          "思维方式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "差异在思维与做事方法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "自笛卡尔以来，行之有效的思维方式使发明发现从偶然变成必然。"
+    },
+    {
+      "claim_id": "C-GG-U0217-04",
+      "unit_id": "GG-U0217",
+      "speaker": "转述·第三方",
+      "claim_text": "现代智人胜出近亲，靠好奇心和不断从失败中总结经验的本领",
+      "quote": "好奇心和不断从失败中总结经验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14485,
+        "end_line": 14485,
+        "sha1": "ff6a17c95cbd92749eb204b634e52cf45915b1a8",
+        "fingerprint": [
+          "好奇心",
+          "失败"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "好奇心与总结失败",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=蒙洛迪诺（《思维简史》观点，经吴军转述）。"
+    },
+    {
+      "claim_id": "C-GG-U0217-05",
+      "unit_id": "GG-U0217",
+      "speaker": "转述·第三方",
+      "claim_text": "没有经过精确的实验，就不应轻易得出结论",
+      "quote": "不应该轻易得出结论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14498,
+        "end_line": 14498,
+        "sha1": "84526ebf7a1864ab232e0333d4cc25f81a29a557",
+        "fingerprint": [
+          "精确",
+          "实验",
+          "天平"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "精确实验才下结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=拉瓦锡（量化实验鼻祖、天平不离身，经吴军转述）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0217",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "中世纪大学起源、炼金术到化学、粒子物理等文明史叙述仅留吴军本人判断与两条转述卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "重刊《思维简史》序言：文明史部分X6，照常抽卡并留跨书线索。"
+}

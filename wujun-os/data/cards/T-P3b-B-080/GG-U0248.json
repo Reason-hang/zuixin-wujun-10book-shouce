@@ -1,0 +1,185 @@
+{
+  "unit_id": "GG-U0248",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0248-01",
+      "unit_id": "GG-U0248",
+      "speaker": "吴军本人",
+      "claim_text": "攻城守城：信息时代产品淘汰快，研制出新产品应把研发人员转移去做下一个产品，只留少数人守城",
+      "quote": "把研发人员转移",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16505,
+        "end_line": 16512,
+        "sha1": "d5e20bb7fb95d9688dc9dfc9697e39414549e5ba",
+        "fingerprint": [
+          "攻城",
+          "守城"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D07-1"
+      ],
+      "concept_key": "攻城后转移兵力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "摩尔定律使产品淘汰快、生产投入小于研制（16506）；Google翻译做完即转下一种语言（16510）；工业时代产品卖一辈子故部门越做越大（16505）。"
+    },
+    {
+      "claim_id": "C-GG-U0248-02",
+      "unit_id": "GG-U0248",
+      "speaker": "吴军本人",
+      "claim_text": "守城部门把地盘当私产：负责人找一万个理由扩大规模，处理不好攻守关系则客大欺主山头林立——信息时代是灭顶之灾",
+      "quote": "客大欺主",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16513,
+        "end_line": 16519,
+        "sha1": "89c63318857d7b33abf2fe195f5c745681ca90fe",
+        "fingerprint": [
+          "私产",
+          "山头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "山头是灭顶之灾",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "微软Money Talks、Windows/Office守城鲜有改进创新力下降（16516-16517）；市场瞬间消失时失去转型机会（16519-16520）。"
+    },
+    {
+      "claim_id": "C-GG-U0248-03",
+      "unit_id": "GG-U0248",
+      "speaker": "吴军本人",
+      "claim_text": "练兵与带兵是两种才能：会练兵未必会带兵（国民党将军当教官、曾国藩练兵强带兵差、鲍超反之），两者兼得者极少",
+      "quote": "既能练兵又能带兵",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16523,
+        "end_line": 16527,
+        "sha1": "7e10505e19d39a57fff00b57aab0d11d3f25663d",
+        "fingerprint": [
+          "练兵",
+          "带兵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-1"
+      ],
+      "concept_key": "练兵带兵两才",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "韩信白起卫青霍去病岳飞等全才非常少（16527）；张飞能带兵不能练兵虐下属而死（16525）。"
+    },
+    {
+      "claim_id": "C-GG-U0248-04",
+      "unit_id": "GG-U0248",
+      "speaker": "吴军本人",
+      "claim_text": "解法：人事部门与产品部门分开——人事是资源池提供并收回人力，产品完成即转新项目，团队无法变成山头",
+      "quote": "资源池",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16528,
+        "end_line": 16531,
+        "sha1": "4d0915e4a263dbf38c106f8c6e53ae234e0a22c5",
+        "fingerprint": [
+          "资源池",
+          "山头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "资源池防山头",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "人事部门靠合理投人力产生业绩、不让人待舒适区（16531）；人事主管需识英才培养英才（16532）。"
+    },
+    {
+      "claim_id": "C-GG-U0248-05",
+      "unit_id": "GG-U0248",
+      "speaker": "吴军本人",
+      "claim_text": "人事部门稳定保证公司稳定发展，项目部门快速变化保证灵活适应——这是Google兼顾稳定与灵活的秘诀",
+      "quote": "兼顾稳定性和灵活性的秘诀",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16535,
+        "end_line": 16535,
+        "sha1": "c4488dc441195ce3fe0478c2702245b3bf29846f",
+        "fingerprint": [
+          "稳定",
+          "灵活"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "稳定与灵活兼得",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0248-06",
+      "unit_id": "GG-U0248",
+      "speaker": "吴军本人",
+      "claim_text": "职业两路各有必备技能：技术专家重不断学习、细节管理、按时交活；人事经理重沟通妥协、抓大放小、容下属超越",
+      "quote": "方向不明确是职业发展的大忌",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16536,
+        "end_line": 16545,
+        "sha1": "9b1ac7bc85a2b5e3762106484b54bef4850a7ed3",
+        "fingerprint": [
+          "技术专家",
+          "人事经理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "两路各有技能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "六技能明细见16536-16543；能兼顾两者的超人少、方向不明确是职业发展大忌（16544-16545）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0248",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16549行思考题（行政经理必备技能）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第149封信：攻城守城与练兵带兵（6卡）。"
+}

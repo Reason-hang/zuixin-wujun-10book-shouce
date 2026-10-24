@@ -1,0 +1,136 @@
+{
+  "unit_id": "GG-U0230",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0230-01",
+      "unit_id": "GG-U0230",
+      "speaker": "吴军本人",
+      "claim_text": "对大学生而言，分数已经远没有技能重要，受教育的目的是获得技能而非分数。",
+      "quote": "分数已经远没有技能重要了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15343,
+        "end_line": 15344,
+        "sha1": "4fe034a58bf9fb68830629c762737e1b8702c87f",
+        "fingerprint": [
+          "分数",
+          "技能",
+          "技能测试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "分数远没有技能重要",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "重刊《硅谷来信》回答（跨书线索）；用人单位技能测试例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0230-02",
+      "unit_id": "GG-U0230",
+      "speaker": "吴军本人",
+      "claim_text": "技能培养并非所有课程同等重要，要区别对待，专业基础课最为重要。",
+      "quote": "专业基础课最为重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15345,
+        "end_line": 15346,
+        "sha1": "68e902d471b17b296b0ecd745117936212ed8960",
+        "fingerprint": [
+          "区别对待",
+          "专业基础课"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "专业基础课最重要",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证（计算机系统结构、算法课程）并入；重刊《硅谷来信》"
+    },
+    {
+      "claim_id": "C-GG-U0230-03",
+      "unit_id": "GG-U0230",
+      "speaker": "吴军本人",
+      "claim_text": "要通过学术交流开拓视野，利用互联网找到行业最新最好的内容。",
+      "quote": "要通过学术交流开拓视野",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15347,
+        "end_line": 15347,
+        "sha1": "619d233ffade92e251fcbbe3630ad06356e02bf3",
+        "fingerprint": [
+          "学术交流",
+          "视野",
+          "互联网"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学术交流开拓视野",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "承接伯克利学生每周听学术报告的对比（X5侧）；重刊《硅谷来信》"
+    },
+    {
+      "claim_id": "C-GG-U0230-04",
+      "unit_id": "GG-U0230",
+      "speaker": "吴军本人",
+      "claim_text": "缺乏选择就缺乏主动性，人总是喜欢自己选择，而不是被推销。",
+      "quote": "人总是喜欢买东西",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15320,
+        "end_line": 15320,
+        "sha1": "1f505e756b146ff060ab2480d754ba66d93945db",
+        "fingerprint": [
+          "选择性",
+          "主动性",
+          "推销"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-1"
+      ],
+      "concept_key": "选择产生主动性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境为选课余地与学习主动性，判断可迁移至激励与说服场景"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0230",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "中美本科课程教育四差异对比（课程数量、考核方式、课堂自由度、成绩判定）为教育制度比较主体，按批次特则教育制度史记X5；是否出国读本科属升学选择X5"
+    },
+    {
+      "unit_id": "GG-U0230",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末思考题（推荐文理必修课）属运营互动内容，按批次特则思考题记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "重刊《硅谷来信》回答（跨书线索），教育制度对比按X5处置，抽吴军个人学习方法论4卡"
+}

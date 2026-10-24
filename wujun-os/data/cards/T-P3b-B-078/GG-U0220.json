@@ -1,0 +1,147 @@
+{
+  "unit_id": "GG-U0220",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0220-01",
+      "unit_id": "GG-U0220",
+      "speaker": "转述·第三方",
+      "claim_text": "计算机是工具，总要用它做点什么才有意义；到新领域要成为行家",
+      "quote": "总要用工具做点什么",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14649,
+        "end_line": 14649,
+        "sha1": "d62b0b0db4e4e988831619c411174b2583022d9b",
+        "fingerprint": [
+          "工具",
+          "行家"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-2"
+      ],
+      "concept_key": "计算机只是工具",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=朱雪龙教授（清华电子工程系，经吴军转述）；计算机专业改行电子工程失败者众为例。"
+    },
+    {
+      "claim_id": "C-GG-U0220-02",
+      "unit_id": "GG-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "把计算机玩好是艺术，知道用它解决什么问题且能解决才是真本事",
+      "quote": "才是真本事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14665,
+        "end_line": 14665,
+        "sha1": "0be8b6a542d2e0a45a965454b0ac6621eddd7b8c",
+        "fingerprint": [
+          "工具",
+          "真本事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "工具价值在解决问题",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "语音识别需声学、信号处理、自然语言处理知识；只会写程序只能当码农。"
+    },
+    {
+      "claim_id": "C-GG-U0220-03",
+      "unit_id": "GG-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "只会操作工具的人终被取代；懂领域的人用工具越久经验越多越稀缺",
+      "quote": "变成让别人使唤的码农",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14668,
+        "end_line": 14672,
+        "sha1": "2bfb84bde54c6f87a1e58cb793d79f983045cfe9",
+        "fingerprint": [
+          "码农",
+          "取代",
+          "稀缺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "只操作工具会被取代",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "IT吃青春饭现象的解释；微软研究院研究工程师、Google更年轻掌握新工具者为例。"
+    },
+    {
+      "claim_id": "C-GG-U0220-04",
+      "unit_id": "GG-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "换工作到新单位第一件事是拜访单位里的老人",
+      "quote": "拜访单位里的老人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14647,
+        "end_line": 14647,
+        "sha1": "ee88345e1a9c7e25df62799cebe7906aea6b42d6",
+        "fingerprint": [
+          "新单位",
+          "老人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "到新单位先拜访老人",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "吴军给新毕业入职学生的职场第一条建议；他自己由此结识朱教授。"
+    },
+    {
+      "claim_id": "C-GG-U0220-05",
+      "unit_id": "GG-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "上一流大学的目的是遇到好的人，通过交往获得别处得不到的智慧",
+      "quote": "上一流大学的目的是遇到好的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14675,
+        "end_line": 14675,
+        "sha1": "bf29e8d90fe56f7adcdcec97ceb2f3a43cf37322",
+        "fingerprint": [
+          "一流大学",
+          "智慧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "上一流大学为遇高人",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "朱教授给智慧使清华岁月值回；属成长经历→判断，非教育制度议题。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0220",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "CS与EE专业差异、报考选择指南及中美高校院系设置批评属教育制度与升学议题。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "计算机是工具（上）：朱教授点拨+职业方法论，5卡+1条X5。"
+}

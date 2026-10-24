@@ -1,0 +1,156 @@
+{
+  "unit_id": "GG-U0250",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0250-01",
+      "unit_id": "GG-U0250",
+      "speaker": "吴军本人",
+      "claim_text": "信息时代企业人与人的关系从指挥服从变成协商合作：基层员工应该是自己的第一级管理者，不需上级过多管理",
+      "quote": "自己应该是自己的第一级管理者",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16608,
+        "end_line": 16609,
+        "sha1": "04568f82376f10842ad2d37d7554980ced654551",
+        "fingerprint": [
+          "协商合作",
+          "管理者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "自己的第一级管理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "发号施令是工业时代特点（16608）。"
+    },
+    {
+      "claim_id": "C-GG-U0250-02",
+      "unit_id": "GG-U0250",
+      "speaker": "吴军本人",
+      "claim_text": "信息时代上级扮演导师、协调人与资源池：任务分配完各自完成，遇矛盾才协调——产品事找项目经理、人的矛盾找人事经理",
+      "quote": "导师、协调人以及资源池",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16611,
+        "end_line": 16613,
+        "sha1": "26f8d5871f27c262f60cc933f92dc6493941565e",
+        "fingerprint": [
+          "资源池",
+          "协调"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "上级三角色",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "项目经理不朝令夕改、人事经理不常调岗，故无两老板听谁的问题（16612-16613）。"
+    },
+    {
+      "claim_id": "C-GG-U0250-03",
+      "unit_id": "GG-U0250",
+      "speaker": "吴军本人",
+      "claim_text": "矩阵式管理目的是提高效率：不需成立部门直接做产品；一味强调部门概念则不断重组、人心惶惶效率反而低",
+      "quote": "人心惶惶，效率反而不高",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16614,
+        "end_line": 16617,
+        "sha1": "b866d975ba3943fa279d7c18e0b61bc8270826a2",
+        "fingerprint": [
+          "效率",
+          "灵活性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "先干活后设部门",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "先成立事业部招人再干活、好时机就错过（16615）。"
+    },
+    {
+      "claim_id": "C-GG-U0250-04",
+      "unit_id": "GG-U0250",
+      "speaker": "吴军本人",
+      "claim_text": "公司内两团队竞争最后选一牺牲一并合并——大学校长无法叫停无前途项目致资源分散，没有合作做不成大事",
+      "quote": "没有合作是做不成大事的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16635,
+        "end_line": 16640,
+        "sha1": "f8d242c3e49d3a8d57aa5e3319e9ca414fd9c941",
+        "fingerprint": [
+          "竞争",
+          "合并"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D10-1"
+      ],
+      "concept_key": "内部赛马与合并",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "公司有最终负责人故易做成（16636）；腾讯同款两项目并行、游戏互相竞争（16631读者述）；中国大学论文多而世界级成果少（16640）。"
+    },
+    {
+      "claim_id": "C-GG-U0250-05",
+      "unit_id": "GG-U0250",
+      "speaker": "吴军本人",
+      "claim_text": "公司基因决定文化：Google工程师天下意见不合工程主管说了算；eBay/腾讯产品经理权势大、领英HR销售发言权最大",
+      "quote": "一个公司一开始有什么样的基因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16657,
+        "end_line": 16658,
+        "sha1": "d5ee59c97cbc0d7159ae8715a5ff4f85a46ea56a",
+        "fingerprint": [
+          "基因",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "基因定文化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0174-05榜样与文化复制。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0250",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "16619-16627行国际学校与中外合办大学时评为教育制度内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问37：矩阵管理在中国（双说话人5卡+教育X5）。"
+}

@@ -1,0 +1,99 @@
+{
+  "unit_id": "GG-U0213",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0213-01",
+      "unit_id": "GG-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "凡事做精了会变得很值钱：宁一件事做到100分，不做一堆80分",
+      "quote": "凡事做精了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14251,
+        "end_line": 14252,
+        "sha1": "3b487c82b112f941ab7b1d963398107b3efc743e",
+        "fingerprint": [
+          "做精",
+          "值钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D06-1"
+      ],
+      "concept_key": "做精了才值钱",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "四点体会之一；Waymo估值700亿、Mobileye 150亿、Cruise 40人卖10亿美元为例。"
+    },
+    {
+      "claim_id": "C-GG-U0213-02",
+      "unit_id": "GG-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "谈颠覆不如谈合作：科技公司与车厂各有短板，结盟才是出路",
+      "quote": "合作是最好的出路",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14255,
+        "end_line": 14256,
+        "sha1": "cd1c3fb407c2973474640e870da894d43390121b",
+        "fingerprint": [
+          "合作",
+          "车厂",
+          "结盟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "合作优于颠覆",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "四点体会之二；自动驾驶技术≠自动驾驶汽车，多数玩家为车厂与科技公司结盟产物。"
+    },
+    {
+      "claim_id": "C-GG-U0213-03",
+      "unit_id": "GG-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "关键系统要冗余备份才可靠：无人车配两套完整系统，无备份难获信任",
+      "quote": "两套完整的系统",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14258,
+        "end_line": 14259,
+        "sha1": "516c5b5c08b8a80f9230e9dbcd02c1af390e2dfe",
+        "fingerprint": [
+          "备份",
+          "冗余"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "冗余备份保可靠",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四点体会之三；特斯拉被业界怀疑源于无备份无冗余。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0213",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "自动驾驶公司梯队排名（Navigant）、各公司估值与投资标的判断属时点行情，仅抽四点体会方法论。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "基金投资信（无人驾驶）：行业行情部分X2，抽3张可迁移方法论。"
+}

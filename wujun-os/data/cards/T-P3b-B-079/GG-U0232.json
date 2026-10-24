@@ -1,0 +1,188 @@
+{
+  "unit_id": "GG-U0232",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0232-01",
+      "unit_id": "GG-U0232",
+      "speaker": "吴军本人",
+      "claim_text": "空间和时间有冲突，省时间要牺牲空间，但并非空间越大效果越好，准备工作时间不能忽略。",
+      "quote": "并非使用的空间越多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15492,
+        "end_line": 15492,
+        "sha1": "a14004a2e8ea35f7aedf053533fb26b539235f47",
+        "fingerprint": [
+          "空间",
+          "时间",
+          "准备工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "时空权衡",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第2条；'凡事都有成本'（15463）并入；查表法例证在X侧技术叙述"
+    },
+    {
+      "claim_id": "C-GG-U0232-02",
+      "unit_id": "GG-U0232",
+      "speaker": "吴军本人",
+      "claim_text": "计算机的解决方案是系统性优化问题，单点改进会引发别处问题，缓存容量是不可逾越的边界。",
+      "quote": "系统性的优化问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15494,
+        "end_line": 15494,
+        "sha1": "8ef44b0f7ae609ace85da94b445f0eca7621a1d1",
+        "fingerprint": [
+          "系统性",
+          "边界",
+          "缓存"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D04-3"
+      ],
+      "concept_key": "系统优化与缓存边界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第3条；尤斯塔斯大表vs小表之问为机理例证；与D04-3系统思维互设候选"
+    },
+    {
+      "claim_id": "C-GG-U0232-03",
+      "unit_id": "GG-U0232",
+      "speaker": "吴军本人",
+      "claim_text": "查表空间随位数指数增长，64位大表全世界内存都放不下，这就是指数增长的可怕之处。",
+      "quote": "这就是指数增长的可怕之处",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15463,
+        "end_line": 15464,
+        "sha1": "de0cb827fb066446433be97a04f2f82dbdd9e4f0",
+        "fingerprint": [
+          "指数增长",
+          "内存",
+          "代价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D04-1"
+      ],
+      "concept_key": "指数增长的可怕",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1097指数增长的可怕（数学通识）同概念跨书"
+    },
+    {
+      "claim_id": "C-GG-U0232-04",
+      "unit_id": "GG-U0232",
+      "speaker": "吴军本人",
+      "claim_text": "面试想不出更好答案时，也要指出朴素做法不是最优，展示对问题更深入的认识。",
+      "quote": "不是好的做法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15445,
+        "end_line": 15445,
+        "sha1": "89e56b79cb8196c0ded44a26660b4987b7e751af",
+        "fingerprint": [
+          "面试者",
+          "深入",
+          "答案"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "面试展示问题认识",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "面试战术建议；戴祥天推广到N进制例证（15457）并入"
+    },
+    {
+      "claim_id": "C-GG-U0232-05",
+      "unit_id": "GG-U0232",
+      "speaker": "吴军本人",
+      "claim_text": "刷题的人通常理解不了原理，好面试官很容易判断答案是刷出来的还是理解出来的。",
+      "quote": "理解不了其中的原理",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15455,
+        "end_line": 15455,
+        "sha1": "7ddc5a045bcd4cb2a5acc72802847a5fde4a6962",
+        "fingerprint": [
+          "刷题",
+          "原理",
+          "面试官"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "刷题不如理解概念",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0641刷题不如理解概念（数学通识）同概念跨书"
+    },
+    {
+      "claim_id": "C-GG-U0232-06",
+      "unit_id": "GG-U0232",
+      "speaker": "吴军本人",
+      "claim_text": "技术公司主管工程的高管虽不再写代码，但不等于不会写，工程师文化植根于此。",
+      "quote": "不等于这些人不会写",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15483,
+        "end_line": 15483,
+        "sha1": "e152984495c709d43d1a0e31ee92572524a02a13",
+        "fingerprint": [
+          "工程师文化",
+          "高管",
+          "基因"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "技术高管须懂技术",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "由尤斯塔斯面试之问引出的判断；高管履历史实（X4侧）并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0232",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "尤斯塔斯、科夫曼、施密特履历及Google面试史实为人物/企业史叙述，按批次特则X4，仅留可迁移方法论（C-GG-U0232-06）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "一道面试题折射的计算机思维与职场方法论成6卡（D04-2主归属）"
+}

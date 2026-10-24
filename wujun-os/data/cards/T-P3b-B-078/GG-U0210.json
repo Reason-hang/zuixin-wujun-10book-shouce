@@ -1,0 +1,151 @@
+{
+  "unit_id": "GG-U0210",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0210-01",
+      "unit_id": "GG-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "拒绝不该干的事，分清哪些忙该帮；做有用的人，不做好好先生",
+      "quote": "而不是一个好好先生",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14000,
+        "end_line": 14000,
+        "sha1": "e5faafa0cf17f5435c33a68ea9a143216617d8ef",
+        "fingerprint": [
+          "有用的人",
+          "好好先生"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D07-1"
+      ],
+      "concept_key": "做有用的人非好好先生",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "带iPhone与带杏仁的取舍为例；亲友托付之事分三类：自己能解决/需我帮/帮也没用。女同事工作狂案例为例证。"
+    },
+    {
+      "claim_id": "C-GG-U0210-02",
+      "unit_id": "GG-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "人脑同步思考能力有限，一心多用只在低水平重复，且易致错误集中爆发",
+      "quote": "一心多用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14003,
+        "end_line": 14009,
+        "sha1": "86f2d86de169f2846da04434aaab47bbdfb059b0",
+        "fingerprint": [
+          "多任务",
+          "一心多用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "一心多用易出错",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "MIT研究（同步思考能力有限）与海恩法则（帕布斯·海恩，转述例证：每起严重事故背后约30次轻微事故）为支撑；速成崇拜为同类病。"
+    },
+    {
+      "claim_id": "C-GG-U0210-03",
+      "unit_id": "GG-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "不愿否定自己的方向与方法，用战术上的勤奋掩盖战略上的懒惰",
+      "quote": "战术上的勤奋",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14025,
+        "end_line": 14026,
+        "sha1": "9e1401d3df66182bdfe501027c17221383a6e526",
+        "fingerprint": [
+          "战术",
+          "战略",
+          "方向错了"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "战术勤奋掩盖战略懒惰",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瞎忙四特点之未老先衰心态；解法是摆脱低成就的快感；遇新观念第一反应应是思考而非本能反驳。"
+    },
+    {
+      "claim_id": "C-GG-U0210-04",
+      "unit_id": "GG-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "世上不存在付出少回报高的捷径，取巧是在挑战市场有效性",
+      "quote": "挑战市场的有效性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14030,
+        "end_line": 14033,
+        "sha1": "0fd965ffb9b1f954a622cf8527b527daed8df9b1",
+        "fingerprint": [
+          "取巧",
+          "市场的有效性",
+          "捷径"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "取巧即挑战市场有效性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瞎忙四特点之信捷径；学英语案例——认定固定对象长期坚持才有效。"
+    },
+    {
+      "claim_id": "C-GG-U0210-05",
+      "unit_id": "GG-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "忙碌而低效时应停下来做减法，删去不必要的事，而非投入更多时间",
+      "quote": "做减法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14040,
+        "end_line": 14040,
+        "sha1": "e29d6b9698bf15cce2466a367f02cbed64aed656",
+        "fingerprint": [
+          "低效",
+          "恶性循环",
+          "做减法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "忙碌低效须做减法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "低回报恶性循环会致人生失控；互引 C-GG-U0209-01（斩断厄运链）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人方法论信：瞎忙族四特点+做减法，5张卡。"
+}

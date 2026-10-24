@@ -1,0 +1,209 @@
+{
+  "unit_id": "GG-U0212",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0212-01",
+      "unit_id": "GG-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "区分没学好与没考好：开卷不限时重做卷子，做不到满分就是没学会",
+      "quote": "把卷子重新做一遍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14105,
+        "end_line": 14105,
+        "sha1": "fd9bfa169b0fcc9de8b3fb220b6ed2ad0015f250",
+        "fingerprint": [
+          "没有学好",
+          "没有考好"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "开卷重测辨学考",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "答读者问31，吴军答读者@小白；努力不等于学好；无压力下做得好很多=没考好。"
+    },
+    {
+      "claim_id": "C-GG-U0212-02",
+      "unit_id": "GG-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "考好先设合理目标：别为没把握的2分丢掉该得的20分；遇难题先跳过",
+      "quote": "设定好一个合理的目标",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14113,
+        "end_line": 14115,
+        "sha1": "827a2de56d5eadb5750721549cf6367f67c150cd",
+        "fingerprint": [
+          "丢掉20分",
+          "合理的目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "考试合理目标",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "80分水平不定90分目标；一题做不出先跳过=斩断厄运链之应用（互引 C-GG-U0209-01）；压力过大需心理减压另见叙述。"
+    },
+    {
+      "claim_id": "C-GG-U0212-03",
+      "unit_id": "GG-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "素材要系统保存并刻意使用：书写批注、网页核实后存档、报告记下并存原文",
+      "quote": "把零星的信息保留下来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14125,
+        "end_line": 14132,
+        "sha1": "36f50c760400f29bf4ac063d2dbbfe768ed27b4e",
+        "fingerprint": [
+          "素材",
+          "卡片"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "素材三存法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "答读者@毅文问写作素材；专业作家卡片法；做报告刻意用素材，用多则手到擒来。"
+    },
+    {
+      "claim_id": "C-GG-U0212-04",
+      "unit_id": "GG-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "学语言的价值在获取信息、理解文化、修养自身，翻译工具替代不了",
+      "quote": "才能更好地欣赏它背后的文化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14144,
+        "end_line": 14152,
+        "sha1": "7314056048658b7a0297bb57443adfdbe9b4abce",
+        "fingerprint": [
+          "获取信息",
+          "修养",
+          "文化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-2"
+      ],
+      "concept_key": "语言价值在文化修养",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "答读者@锦问机器翻译时代学英语；时效部分（口语翻译职业前景）记X6处置。"
+    },
+    {
+      "claim_id": "C-GG-U0212-05",
+      "unit_id": "GG-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "用周时间表自评：列出所做之事，划掉无谓的，红蓝标注好坏，每周只改进两件",
+      "quote": "最好用一个表格",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14170,
+        "end_line": 14178,
+        "sha1": "1d7c44a80890185b6fed305c9c3e298f3dd5172b",
+        "fingerprint": [
+          "自我评估",
+          "表格"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-2"
+      ],
+      "concept_key": "周时间表自评法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答读者@行走问假勤奋；前置清单——完成任务是否比同事多、请信得过的同事验证是否做到点子上。"
+    },
+    {
+      "claim_id": "C-GG-U0212-06",
+      "unit_id": "GG-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "找有价值的事三判据：角色是否不可替代、技能是否难代劳、影响是否深远持久",
+      "quote": "我的角色是否不能替代",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14189,
+        "end_line": 14193,
+        "sha1": "ca0b4635bad1eff1ff3c602b173bd30d541313fe",
+        "fingerprint": [
+          "不能替代",
+          "难以代劳",
+          "影响力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "有价值事三判据",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@木瓜；帮岳母买菜可替代、开家长会不可替代；Google小工具URL分析影响大而久为例。"
+    },
+    {
+      "claim_id": "C-GG-U0212-07",
+      "unit_id": "GG-U0212",
+      "speaker": "转述·第三方",
+      "claim_text": "王公贵族有千千万，你和我历史上只有一个——人的不可替代性",
+      "quote": "王公贵族有千千万",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14191,
+        "end_line": 14191,
+        "sha1": "473a6e662b4d5f432a386983e4cb7785888328a5",
+        "fingerprint": [
+          "贝多芬",
+          "不可替代性"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "不可替代性的宣示",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=贝多芬（对歌德语，经吴军转述）；佐证 C-GG-U0212-06。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0212",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "机器翻译时代口语翻译职业前景与外语谋生功能变化为时效预测，不入卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问31：吴军5段答复均含方法论，7卡+1条X6。"
+}

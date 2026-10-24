@@ -1,0 +1,163 @@
+{
+  "unit_id": "GG-U0245",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0245-01",
+      "unit_id": "GG-U0245",
+      "speaker": "吴军本人",
+      "claim_text": "教授治校的好处不只是民主公正透明，还有行政成本低、管理效率高：系主任只是召集人非专职行政",
+      "quote": "行政成本比较低",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16340,
+        "end_line": 16343,
+        "sha1": "d58120dc2e16629c3668925339c53bb8cda97993",
+        "fingerprint": [
+          "效率",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "自治降行政成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教授承担大量原本行政人员的工作、系里自决不用请示院长（16343）。"
+    },
+    {
+      "claim_id": "C-GG-U0245-02",
+      "unit_id": "GG-U0245",
+      "speaker": "吴军本人",
+      "claim_text": "很多组织做法都是追求效率的结果：教授治校限于系一级因规模再大民主管理效率太低",
+      "quote": "追求效率的结果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16358,
+        "end_line": 16359,
+        "sha1": "6080b3b14ba591f122a115d025ded256e0bc82b2",
+        "fingerprint": [
+          "效率",
+          "做法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "规模定自治边界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "学校规模变大权力向校院两级集中（16348/16351）；大型实验室中心进一步削弱系发言权（16352）。"
+    },
+    {
+      "claim_id": "C-GG-U0245-03",
+      "unit_id": "GG-U0245",
+      "speaker": "吴军本人",
+      "claim_text": "中国大学的问题要在中国环境下找答案，不是简单套用美国做法——解决日常问题也如此",
+      "quote": "不是简单套用美国的做法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16358,
+        "end_line": 16358,
+        "sha1": "0046e35cd1858517cb6ba3f023464a5ba9c5d529",
+        "fingerprint": [
+          "中国",
+          "套用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "本土解非套用",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教授治校难在中国推广：无地方自治传统+教员依附大教授无独立性（16345-16346）。"
+    },
+    {
+      "claim_id": "C-GG-U0245-04",
+      "unit_id": "GG-U0245",
+      "speaker": "转述·第三方",
+      "claim_text": "李开复：今天计算机科学最高研究水平从AI到云计算都在公司而不在大学里",
+      "quote": "都在公司，而不在大学里",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16354,
+        "end_line": 16355,
+        "sha1": "93bc563093986ed5fca93a39aa7cf454b1984faa",
+        "fingerprint": [
+          "公司",
+          "大学"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-1"
+      ],
+      "concept_key": "前沿在公司",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=李开复（16354）；离开大学因事务性管理占1/3时间不喜不擅（16354）；中年教授知识老化爱指点、老院士反而思维开放（16356）。"
+    },
+    {
+      "claim_id": "C-GG-U0245-05",
+      "unit_id": "GG-U0245",
+      "speaker": "吴军本人",
+      "claim_text": "在美国常需重实不重虚名更不能重头衔：获终身教职后部分人变懒、大教授可能科研不活跃经费少",
+      "quote": "重实而不是重虚名",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16326,
+        "end_line": 16326,
+        "sha1": "69caa69add8f254db483f5d3fb715ac21310beea",
+        "fingerprint": [
+          "虚名",
+          "头衔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "重实不重虚名",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "年轻助理教授反而是百里挑一、出成果快（16321-16323）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0245",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "16296-16352行教授治校制度史主体（Faculty/Staff、Tenure终身教职由来、博导、教授委员会流程、剑桥上议院）为教育制度史内容"
+    },
+    {
+      "unit_id": "GG-U0245",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16362行思考题（中国采用教授治校的利弊）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第146封信：教授治校实质（教育制度史X5，可迁移判断5卡）。"
+}

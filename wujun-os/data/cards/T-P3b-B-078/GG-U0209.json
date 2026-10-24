@@ -1,0 +1,92 @@
+{
+  "unit_id": "GG-U0209",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0209-01",
+      "unit_id": "GG-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "遇厄运要坚决止损斩断厄运链，把损失限制在局部，避免雪崩式灾难",
+      "quote": "把损失限制在局部",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13971,
+        "end_line": 13973,
+        "sha1": "04cdbc8cf63bafb3fec0d5f02e658dc007767944",
+        "fingerprint": [
+          "止损",
+          "厄运链",
+          "雪崩式灾难"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "斩断厄运链",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "伯奇尔香肠案、淮海战役连锁救援为例证；堤内损失堤外补与炒股加杠杆同为不止损恶果。"
+    },
+    {
+      "claim_id": "C-GG-U0209-02",
+      "unit_id": "GG-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "不肯认命止损，骨子里是高估自己；承认普通、视所得为恩赐才愿割舍",
+      "quote": "骨子里其实还是太高估自己了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13967,
+        "end_line": 13968,
+        "sha1": "9ef9080986727050af9ccc63bc9e619525d42983",
+        "fingerprint": [
+          "高估自己",
+          "割舍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D03-2"
+      ],
+      "concept_key": "高估自己拒止损",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高估能力才信翻盘、高估地位才不肯少；总结点2（止损认命背后是自知与敬畏）。"
+    },
+    {
+      "claim_id": "C-GG-U0209-03",
+      "unit_id": "GG-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "人不会永远背运，但坏的心态会让厄运不断放大，心态很多时候决定命运",
+      "quote": "心态决定了命运",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 13975,
+        "end_line": 13975,
+        "sha1": "d160fe2e3145b1f3b58df56c526eb461d4e31438",
+        "fingerprint": [
+          "坏的心态",
+          "厄运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "心态决定命运",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "总结点3；互引 C-GG-U0208-01、C-GG-U0211-04。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人方法论信：止损与认命，3张核心卡。"
+}

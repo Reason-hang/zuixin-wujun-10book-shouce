@@ -1,0 +1,242 @@
+{
+  "unit_id": "GG-U0302",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0302-01",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "职场赢家是承诺能兑现的人：不是有天赋有热情但随性撂挑子的，而是全身心投入表现稳定的——运动队养成兑现承诺的习惯",
+      "quote": "投入和兑现承诺",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20181,
+        "end_line": 20188,
+        "sha1": "bb4a7b862fb327be58f216cd4e48cb18e0eb7b60",
+        "fingerprint": [
+          "承诺",
+          "稳定"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "兑现承诺的习惯",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "运动队一周五训每次2-4小时（20183）；定什么目标就有什么结果、考试若成唯一手段大家都成书虫（20221-2022）。"
+    },
+    {
+      "claim_id": "C-GG-U0302-02",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "学会最有效管理时间：功课不该占掉全部时间，开夜车还没学好多因浪费——运动队逼你挤时间，不浪费每分钟受益终身",
+      "quote": "挤时间学习做作业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20192,
+        "end_line": 20195,
+        "sha1": "8d09a10c0995af14818ee71564fe960f025add95",
+        "fingerprint": [
+          "时间",
+          "浪费"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "挤时间的能力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "年轻人每天花很多时间在社交媒体上（20193）。"
+    },
+    {
+      "claim_id": "C-GG-U0302-03",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "先学会服从，然后才可能当好领导：运动队先服从教练是团队精神第一步（西点军校同理）",
+      "quote": "先学会服从，然后才可能当好领导",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20197,
+        "end_line": 20199,
+        "sha1": "b734315754b83ec7fc078846ba4cd5bb02a87f6b",
+        "fingerprint": [
+          "服从",
+          "团队"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-2"
+      ],
+      "concept_key": "先服从后领导",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0174-03换位到领导视角。"
+    },
+    {
+      "claim_id": "C-GG-U0302-04",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "既然把事情交给职业的人就要予以信任、让他们不受约束发挥：看比赛不要指手画脚（医生看病例）",
+      "quote": "就要予以信任",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20202,
+        "end_line": 20203,
+        "sha1": "96e366fddd1b4ca501789f3c8e30a11c2c435566",
+        "fingerprint": [
+          "指手画脚",
+          "信任"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-2"
+      ],
+      "concept_key": "信任专业人士",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0302-05",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "多和自己比、最大化发挥潜能做到你的最好：冠军只有一个且运气成分大，总把赢放第一位会失望且不择手段——尽人事听天命",
+      "quote": "尽人事，听天命",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20205,
+        "end_line": 20209,
+        "sha1": "655ccf94a66d4a7729a7a75bfc739b17132461cb",
+        "fingerprint": [
+          "运气",
+          "潜能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D03-1"
+      ],
+      "concept_key": "你的最好",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "学校最强的高尔夫球项目大部分年份也不是冠军（20206）。"
+    },
+    {
+      "claim_id": "C-GG-U0302-06",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "长期计划不盯短期成绩：以四年为目标的训练方法和节奏完全不同——大部分人对几年后的目标没有毅力一步步实现",
+      "quote": "以四年为目标",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20210,
+        "end_line": 20214,
+        "sha1": "976ed23ede01f421a51692b50b9f95d4ed88c0cc",
+        "fingerprint": [
+          "长期",
+          "毅力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "四年目标节奏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "习惯成自然后遇困难事不急不躁一步步完成（20214）。"
+    },
+    {
+      "claim_id": "C-GG-U0302-07",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "高频率的缺课补课逼年轻人学会和长辈沟通——家长千万不要帮孩子去沟通",
+      "quote": "学会和长辈沟通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20215,
+        "end_line": 20219,
+        "sha1": "0e9af1ab55fc79614b22a70de1e8e700b4f78ec3",
+        "fingerprint": [
+          "沟通",
+          "家长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "自己学会沟通",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "家长代写邮件妨碍孩子沟通水平提高（20219）。"
+    },
+    {
+      "claim_id": "C-GG-U0302-08",
+      "unit_id": "GG-U0302",
+      "speaker": "吴军本人",
+      "claim_text": "在比赛中学会做体面的人：高尔夫是唯一自己记分的项目故诚实极重要——赢得光彩、输得体面对年轻人帮助莫大",
+      "quote": "赢得光彩，输得体面",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20224,
+        "end_line": 20225,
+        "sha1": "3b6e0f18e474e6956ee155f0339354a09b6f6600",
+        "fingerprint": [
+          "诚实",
+          "体面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D07-1"
+      ],
+      "concept_key": "赢得光彩输得体面",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "一旦作弊运动生涯就断送（20225）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0302",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "20171-20174行美国私立高中运动队与名校特招录取标准的关联叙述为教育制度内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第185封信：中学生为什么应参加运动队（8卡）。"
+}

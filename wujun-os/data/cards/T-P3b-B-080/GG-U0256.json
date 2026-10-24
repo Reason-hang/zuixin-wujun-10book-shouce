@@ -1,0 +1,230 @@
+{
+  "unit_id": "GG-U0256",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0256-01",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "机器学习分两种：有模型参数的学习（人先想模型再实验找参数）与纯数据驱动（深度学习黑盒子，只对目标最优化）",
+      "quote": "有数据驱动",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16994,
+        "end_line": 16996,
+        "sha1": "056de1a1c50999cc8f14ff7bad774b6fb1d23523",
+        "fingerprint": [
+          "模型",
+          "黑盒子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "两种机器学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "机器学习不能全面管理生活、任何他人也不能替你管理（16998）；不确定性是世界自身特点（17006）。"
+    },
+    {
+      "claim_id": "C-GG-U0256-02",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "反馈与有效性：所有人看到绿色通路转过去很快堵上、股市百年如此——反馈特别快称为有效，系统总能健康运行，否则畅通变拥堵",
+      "quote": "在控制论中叫做反馈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17000,
+        "end_line": 17002,
+        "sha1": "0df108dd49fd71ba95d82df0bdb1c5d839c1dc14",
+        "fingerprint": [
+          "反馈",
+          "有效性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "反馈有效性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "目前智能技术对生活的帮助远大于害处（17004）。"
+    },
+    {
+      "claim_id": "C-GG-U0256-03",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "小步快跑快速迭代只适合公司早期：公司大了既不需要也不可能——腾讯自己近5年也没推出新产品",
+      "quote": "只适合公司的早期",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17014,
+        "end_line": 17015,
+        "sha1": "ef72710f5649a5a4505ae7b81e2576c420d64c22",
+        "fingerprint": [
+          "小步快跑",
+          "早期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "小步快跑限早期",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "这是腾讯的提法、世界其他大公司并不这么做（17014）。"
+    },
+    {
+      "claim_id": "C-GG-U0256-04",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "没有顶层框架设计的产品漏洞百出：填补漏洞的成本远比重新设计高——盖房不能先盖两层再加高",
+      "quote": "远比重新设计还高",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17017,
+        "end_line": 17020,
+        "sha1": "983b10c2dda43177b0f48495e5b6661dafa6ca43",
+        "fingerprint": [
+          "顶层",
+          "漏洞"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "无设计漏洞贵",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0174-06顶层设计先行；高楼功能（电梯）盖两层时想不到（17020）。"
+    },
+    {
+      "claim_id": "C-GG-U0256-05",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "做产品用户体验最重要，快速迭代只是手段——忘记体验这个目的，做出来的东西没人用，效率是零还把自己累死",
+      "quote": "用户体验是最重要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17022,
+        "end_line": 17022,
+        "sha1": "faf098078e1dd491fd79991a23eab3d526651ddd",
+        "fingerprint": [
+          "体验",
+          "手段"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "体验是目的",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "想开发的功能比资源多时先删不必要的功能（17014）。"
+    },
+    {
+      "claim_id": "C-GG-U0256-06",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "为什么一定要逆转？不可以合作共赢——这是农耕文明的想法；德国荷兰不生产芯片照样活得很好",
+      "quote": "不可以合作，不可以共赢",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17038,
+        "end_line": 17039,
+        "sha1": "f292eedc4876b8c9ed750b3167d5d80348d1cc0b",
+        "fingerprint": [
+          "共赢",
+          "农耕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-1"
+      ],
+      "concept_key": "共赢非逆转",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专利不能只看数量要看绕不过去的一环；有价值的专利是在美国被批准的（17041）；互引C-GG-U0253-03专利围墙。"
+    },
+    {
+      "claim_id": "C-GG-U0256-07",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "休息是为了更好地工作而不是不工作：休假回来两三天不在状态是常事，超过一周才有问题",
+      "quote": "休息是为了更好地工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17048,
+        "end_line": 17049,
+        "sha1": "fe2c324933d37d3ef6802b3af67cedaf887e060f",
+        "fingerprint": [
+          "休假",
+          "状态"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "休息为了工作",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "每年1月1日后大家都要一周重启（17048）；读博须喜欢课题、被迫读就别读（17049）。"
+    },
+    {
+      "claim_id": "C-GG-U0256-08",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "不确定性是我们这个世界自身的特点",
+      "quote": "不确定性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17006,
+        "end_line": 17006,
+        "sha1": "bd4e6942f0c5a6cf5d0ad55091a8747c561a02c0",
+        "fingerprint": [
+          "智能时代",
+          "脑电波"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "不确定性本质",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "详见《智能时代》（17006）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问38：迭代与产品体验（双说话人8卡）。"
+}

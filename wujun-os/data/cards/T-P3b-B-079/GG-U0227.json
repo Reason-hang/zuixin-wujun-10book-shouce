@@ -1,0 +1,102 @@
+{
+  "unit_id": "GG-U0227",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0227-01",
+      "unit_id": "GG-U0227",
+      "speaker": "吴军本人",
+      "claim_text": "面对问题有两种做法：逃避或解决，应设法解决问题而不是逃避。",
+      "quote": "另一种是设法解决问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15141,
+        "end_line": 15141,
+        "sha1": "2b521c8084b27deb73ead7fdce57283cdc015b67",
+        "fingerprint": [
+          "逃避",
+          "设法解决"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "解决问题而非逃避",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第2条；例证（送孩子出国读书=逃避）并入；与C-GG-U0226-02保守渐进互引"
+    },
+    {
+      "claim_id": "C-GG-U0227-02",
+      "unit_id": "GG-U0227",
+      "speaker": "吴军本人",
+      "claim_text": "真正一流的体系必具自身特色，照搬他人经验行不通，因为不具备其社会条件。",
+      "quote": "不可能照搬英国和德国的教育体系",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15143,
+        "end_line": 15143,
+        "sha1": "142cf6688bce0337f3aa73099860feec216645ad",
+        "fingerprint": [
+          "本国特色",
+          "照搬",
+          "社会条件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D01-2"
+      ],
+      "concept_key": "不可照搬要结合自身条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第3条；语境为高等教育制度（X5侧），结论可迁移至制度与体系设计"
+    },
+    {
+      "claim_id": "C-GG-U0227-03",
+      "unit_id": "GG-U0227",
+      "speaker": "吴军本人",
+      "claim_text": "管理者须是真正关心、懂得并愿意花时间的人，而不是挂名的社会精英。",
+      "quote": "而不是挂名的社会精英",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15145,
+        "end_line": 15145,
+        "sha1": "cff7b9fe0833f43ead2a6c100904eb5d40e0b6c2",
+        "fingerprint": [
+          "关心教育",
+          "挂名",
+          "社会精英"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "管理者须懂行且投入",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第4条；语境为大学董事会治理，结论为通用管理判断；史实例证（企业家改造董事会）并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0227",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "美国高等教育制度史与吉尔曼/艾略特生平为主体（19世纪美国大学困境、洪堡体制、董事会改造史实），按批次特则教育制度史记X5，仅抽吴军总结的可迁移方法论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育制度史叙述按X5处置，信末四条总结中三条可迁移方法论成卡"
+}

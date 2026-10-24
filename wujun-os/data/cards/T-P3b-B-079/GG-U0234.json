@@ -1,0 +1,135 @@
+{
+  "unit_id": "GG-U0234",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0234-01",
+      "unit_id": "GG-U0234",
+      "speaker": "吴军本人",
+      "claim_text": "把实际问题的共性提炼出来就形成理论，理论问题解决后很多实际问题迎刃而解。",
+      "quote": "很多实际问题就迎刃而解了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15600,
+        "end_line": 15600,
+        "sha1": "82f16441dc093e89b678abcc57434948967f2c3c",
+        "fingerprint": [
+          "共性",
+          "理论",
+          "提炼"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "共性提炼成理论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第1条；中国邮差问题、铁路网例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0234-02",
+      "unit_id": "GG-U0234",
+      "speaker": "吴军本人",
+      "claim_text": "好的理论其实都很简单，图论这个数学工具的原理一点也不复杂。",
+      "quote": "好的理论其实都很简单",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15602,
+        "end_line": 15602,
+        "sha1": "1c4998e7731c9fb148ce5a0feca40a48fd940890",
+        "fingerprint": [
+          "理论",
+          "简单"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "好理论都很简单",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第2条；与CK-0671化繁为简的大师、CK-1510简单化即大师水平同链"
+    },
+    {
+      "claim_id": "C-GG-U0234-03",
+      "unit_id": "GG-U0234",
+      "speaker": "吴军本人",
+      "claim_text": "搞计算机靠的是离散数学和逻辑性，与几何代数微积分关系不大，缺乏逻辑性搞不了计算机。",
+      "quote": "缺乏逻辑性，是搞不了计算机的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15569,
+        "end_line": 15569,
+        "sha1": "9d2f1a2899c0a711199cb393af0184c9aa5b971d",
+        "fingerprint": [
+          "离散数学",
+          "逻辑性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "计算机靠离散数学与逻辑",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "回应'数学不好学不好计算机'之问；Google Trends城市观察并入"
+    },
+    {
+      "claim_id": "C-GG-U0234-04",
+      "unit_id": "GG-U0234",
+      "speaker": "吴军本人",
+      "claim_text": "把实际问题抽象成图——网页为节点、超链接为弧——即可用已有遍历算法解决新问题。",
+      "quote": "整个互联网不就是一个有向图吗",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15594,
+        "end_line": 15594,
+        "sha1": "18f3d03e6e95d642e12e70cdcd5d92069dfd3deb",
+        "fingerprint": [
+          "节点",
+          "超链接",
+          "有向图"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "抽象成模型",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1088抽象成模型（数学通识）同概念跨书；深度优先/广度优先遍历为工具说明并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0234",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "欧拉哥尼斯堡七桥史与高德曼轶事为数学史人物史叙述，按批次特则X4，仅留图论与抽象方法论"
+    },
+    {
+      "unit_id": "GG-U0234",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末两道思考题（七桥无解/抽象化意义）属运营互动内容，按批次特则思考题记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "图论背景知识中的理论思维与抽象方法论成4卡"
+}

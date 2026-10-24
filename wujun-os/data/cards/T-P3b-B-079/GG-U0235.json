@@ -1,0 +1,209 @@
+{
+  "unit_id": "GG-U0235",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0235-01",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "任何事情，原理要尽可能简单，而实现起来要尽可能周到。",
+      "quote": "原理要尽可能简单",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15663,
+        "end_line": 15663,
+        "sha1": "b9fc73f6acd721e460989725d7801168cb328763",
+        "fingerprint": [
+          "原理",
+          "简单",
+          "周到"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "原理简单实现周到",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第1条；计算机科学与工程之别的语境，结论为通用工程哲学"
+    },
+    {
+      "claim_id": "C-GG-U0235-02",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "好工程师要把没有答案的开放式问题做好，而不只是做好有明确答案的问题。",
+      "quote": "没有答案的开放式问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15665,
+        "end_line": 15665,
+        "sha1": "0cd827cf23419401d444884161bf6189ec6a5e66",
+        "fingerprint": [
+          "工程师",
+          "开放式",
+          "工作经验"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-3"
+      ],
+      "concept_key": "做好开放式问题",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第2条；吴军自述对爬虫理解十年不断加深为例证"
+    },
+    {
+      "claim_id": "C-GG-U0235-03",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "互联网使图的规模从几千节点增至上万亿，要对今天信息的量级有体会。",
+      "quote": "对今天信息的量级要有体会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15667,
+        "end_line": 15667,
+        "sha1": "a50c185a0336a79d14a73c6d36a96adb23c86f29",
+        "fingerprint": [
+          "量级",
+          "上万亿",
+          "节点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "信息量级的体会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第3条；与CK-0596关注量级的习惯同链"
+    },
+    {
+      "claim_id": "C-GG-U0235-04",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "很多数学方法早期看似无实际用途，随时间推移会一下子派上大用场。",
+      "quote": "这就是数学的妙处",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15669,
+        "end_line": 15669,
+        "sha1": "64dcd0d2806943b541148d45d649bf1968cae18e",
+        "fingerprint": [
+          "数学方法",
+          "大用场"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "无用理论的大用途",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第4条；与CK-1195无用理论的大用途（数学通识）同概念跨书"
+    },
+    {
+      "claim_id": "C-GG-U0235-05",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "世界上任何事情都是有成本的，并行计算省时间也要付出协调与存储的代价。",
+      "quote": "任何事情都是有成本的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15626,
+        "end_line": 15626,
+        "sha1": "f9911f74a3b4e99356915299290cec67cf347a72",
+        "fingerprint": [
+          "成本",
+          "并行计算",
+          "服务器"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-3"
+      ],
+      "concept_key": "凡事皆有成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0615凡事皆有成本（富足）同概念跨书；'小本本'80GB内存与瓶颈分析为例证（15627-15632）"
+    },
+    {
+      "claim_id": "C-GG-U0235-06",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "资源有限时应重新定义问题：在有限时间里爬下最重要的网页，首页最重要。",
+      "quote": "最重要的网页应该是它的首页",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15637,
+        "end_line": 15638,
+        "sha1": "88cc4016f7d08b3ae6c7a9953a00d64c44f43ff5",
+        "fingerprint": [
+          "有限时间",
+          "首页",
+          "重要"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D03-1"
+      ],
+      "concept_key": "有限时间抓最重要内容",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "爬虫调度优先级（BFS为主）为工具说明；问题重定义方法论可与D03-1互设候选"
+    },
+    {
+      "claim_id": "C-GG-U0235-07",
+      "unit_id": "GG-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "面试打分与候选人感觉未必一致：问得深说明原理已过关，仅有执行能力者不通过。",
+      "quote": "打分也未必和他的感觉一致",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15655,
+        "end_line": 15659,
+        "sha1": "d2bafb7bd94e175fec683cb27d7f6aa00ccfc192",
+        "fingerprint": [
+          "追问",
+          "工程素养",
+          "执行能力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "面试追问考察原理",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "爬虫作为开放面试题的考察逻辑；与C-GG-U0232-04互引"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "爬虫技术叙述为载体，信末四条总结与面试方法论成7卡"
+}

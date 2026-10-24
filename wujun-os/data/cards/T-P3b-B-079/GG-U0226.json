@@ -1,0 +1,107 @@
+{
+  "unit_id": "GG-U0226",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0226-01",
+      "unit_id": "GG-U0226",
+      "speaker": "吴军本人",
+      "claim_text": "不要指望纯粹无干扰的环境，人本事的大小在于有各种干扰时依然能发挥。",
+      "quote": "有各种干扰时依然能发挥",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15062,
+        "end_line": 15066,
+        "sha1": "1efa188a237e0fab039de80db13df92cb5292225",
+        "fingerprint": [
+          "干扰",
+          "发挥"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "有干扰也能发挥",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "借北欧足球教练之口得出的通则；例证（中国足球）并入本卡；X5侧为高等教育制度批判"
+    },
+    {
+      "claim_id": "C-GG-U0226-02",
+      "unit_id": "GG-U0226",
+      "speaker": "吴军本人",
+      "claim_text": "对存在的问题要一点点纠正、渐进改良，而不是全面否定后推倒重来。",
+      "quote": "通过渐进改良的方法解决问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15061,
+        "end_line": 15061,
+        "sha1": "7de72102c53397ce96f4a032ff920a763d9430b8",
+        "fingerprint": [
+          "保守主义",
+          "渐进改良",
+          "推倒重来"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "保守主义渐进改良",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "跨书线索：吴军自述《硅谷来信》一直倡导此法；与《态度》'保守主义渐进改良'同主题（concept_keys CK-0532）"
+    },
+    {
+      "claim_id": "C-GG-U0226-03",
+      "unit_id": "GG-U0226",
+      "speaker": "吴军本人",
+      "claim_text": "很多事情的复杂度远高于想象，以为解决一两个维度就能做好是没经验的表现。",
+      "quote": "复杂度要远远高于我们的想象",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15069,
+        "end_line": 15069,
+        "sha1": "1cf181d1f4a8554e28f56253e41a255648e24ecb",
+        "fingerprint": [
+          "复杂度",
+          "维度",
+          "没经验"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "复杂度远超想象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末三要点之一；语境为办学复杂度，结论为通用认知判断"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0226",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "高等教育制度批判与办学史为主体（西湖大学目标、李政道卡斯比亚计划、英美大学体制、砸钱办学论），按批次特则教育制度记X5，仅抽吴军可迁移方法论"
+    },
+    {
+      "unit_id": "GG-U0226",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末思考题（有干扰时如何发挥）属运营互动内容，按批次特则思考题记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育制度叙述之外，吴军给出三条可迁移方法论（干扰下发挥/渐进改良/复杂度）成卡"
+}

@@ -1,0 +1,173 @@
+{
+  "unit_id": "GG-U0239",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0239-01",
+      "unit_id": "GG-U0239",
+      "speaker": "吴军本人",
+      "claim_text": "丢掉妄念会成为更真实而理性的人，避免错误、少走弯路，在竞争中占便宜。",
+      "quote": "丢掉了妄念",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15889,
+        "end_line": 15890,
+        "sha1": "c5d07663dee960f53de0491c08d0f56e2388baa0",
+        "fingerprint": [
+          "妄念",
+          "理性",
+          "弯路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "丢掉妄念",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承接第133信高盛'投资不能有妄念'（跨书线索）与读者总结的三种妄念；游戏英雄妄念（15902-15903）并入"
+    },
+    {
+      "claim_id": "C-GG-U0239-02",
+      "unit_id": "GG-U0239",
+      "speaker": "转述·第三方",
+      "claim_text": "和平久了人们就浪漫化战争，人类从来不长记性，这是和战交替的重要原因。",
+      "quote": "人类从来不长记性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15893,
+        "end_line": 15897,
+        "sha1": "10c1493abe873454d7f9a9c83d03621de0fe46e7",
+        "fingerprint": [
+          "埃弗拉",
+          "浪漫化",
+          "战争"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "和平久了浪漫化战争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：斯蒂芬·范·埃弗拉《战争的原因》（MIT教授）；吴军以此解释军迷与游戏心理；战争史本体记X6"
+    },
+    {
+      "claim_id": "C-GG-U0239-03",
+      "unit_id": "GG-U0239",
+      "speaker": "吴军本人",
+      "claim_text": "战胜大象要靠运气不能奢望，能战胜蜗牛也该满意，或加入年轻的大象。",
+      "quote": "或许成为一只年轻的大象的一部分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15921,
+        "end_line": 15922,
+        "sha1": "a33685dc265d580c2ffc5e62a3c0e97c5a1e7475",
+        "fingerprint": [
+          "大象",
+          "运气",
+          "蚂蚁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-1"
+      ],
+      "concept_key": "战胜蜗牛也该满意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "回应读者'如何成为战胜大象的蚂蚁'；'山贼打败曹操'与'职场爬阶梯是常态'（15915）并入；与CK-1772逆袭要实际、CK-1636蚂蚁战胜大象同链"
+    },
+    {
+      "claim_id": "C-GG-U0239-04",
+      "unit_id": "GG-U0239",
+      "speaker": "吴军本人",
+      "claim_text": "总想着颠覆行业对多数人不利：若公司两年被颠覆一遍，多数人只是炮灰。",
+      "quote": "而是死在张飞、关羽的刀下之鬼",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15917,
+        "end_line": 15919,
+        "sha1": "dcf8d043fb599b8872d608a92bda6cb031bea67d",
+        "fingerprint": [
+          "颠覆",
+          "曹操",
+          "刘备"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-3"
+      ],
+      "concept_key": "颠覆叙事是妄念",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第1条并入；'商业相对和平年代'为前提；与C-GG-U0239-01互引"
+    },
+    {
+      "claim_id": "C-GG-U0239-05",
+      "unit_id": "GG-U0239",
+      "speaker": "吴军本人",
+      "claim_text": "知识就是财富：学位与收入、失业率的差距是常态，且知识需要一辈子学。",
+      "quote": "知识就是财富",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 15945,
+        "end_line": 15945,
+        "sha1": "2650f10d360d97b26334972d8d6e43e998d0b56a",
+        "fingerprint": [
+          "知识",
+          "财富",
+          "一辈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-2"
+      ],
+      "concept_key": "知识就是财富",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第3条；中美学历收入数据（15926-15936）为例证；'读书无用论是反智行为'与退学双创谨慎（15924）并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0239",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "战争与和平几十年交替的历史叙述、30年代德日例、学历与收入宏观数据本体为文明史/宏观统计，仅留其上之可迁移判断"
+    },
+    {
+      "unit_id": "GG-U0239",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "砸日本车、围攻法国店、抵制韩国货等2018年时事实例，依附当时舆情不入卡"
+    },
+    {
+      "unit_id": "GG-U0239",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末思考题（知识就是财富的体会）属运营互动内容，按批次特则记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "消除妄念主题下吴军的可迁移判断成5卡（含埃弗拉转述1卡）"
+}

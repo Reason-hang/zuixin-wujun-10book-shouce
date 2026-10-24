@@ -1,0 +1,204 @@
+{
+  "unit_id": "GG-U0254",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0254-01",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "编辑距离用类似维特比的动态规划计算：把指数复杂度变平方复杂度——华盛顿例18万次缩到100次",
+      "quote": "动态规划",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16886,
+        "end_line": 16893,
+        "sha1": "5c99bbe289a171488795f86bae8372c2606e2326",
+        "fingerprint": [
+          "编辑距离",
+          "维特比"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "编辑距离动态规划",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "编辑距离=最小差异（Wasingdon与Washington差2不是6，16888-16892）。"
+    },
+    {
+      "claim_id": "C-GG-U0254-02",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "纠错候选的选择看出现概率与上下文：华盛顿概率高通常改华盛顿，但若上下文是1066年威廉征服则Watingdon合理",
+      "quote": "正确使用上下文很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16899,
+        "end_line": 16900,
+        "sha1": "3d79caa20b75249f24566cb8ecfd51c5aae4b5fb",
+        "fingerprint": [
+          "概率",
+          "上下文"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "概率加上下文选候选",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "利用上下文做选择用的还是维特比算法（16900）。"
+    },
+    {
+      "claim_id": "C-GG-U0254-03",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "词典设计三种方案各有取舍：有序数组二分18次、哈希表2次、26叉树字母数次且能做前缀拼写提示",
+      "quote": "二分查找",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16870,
+        "end_line": 16874,
+        "sha1": "2f6a8c1eebced4456e5c77e0ff194fc64f7e8581",
+        "fingerprint": [
+          "哈希表",
+          "树"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "词典结构选择",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "手机上还可用布隆过滤器压缩存储（16881）；德语30叉、西语27-32叉（16876）。"
+    },
+    {
+      "claim_id": "C-GG-U0254-04",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "一通百通=对知识与技能的熟练运用：学了维特比算法，通信、拼写纠错程序都会写——等价问题迁移",
+      "quote": "就是灵活运用，一通百通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16913,
+        "end_line": 16913,
+        "sha1": "c19bc656f3680af7a4b2d20d735d37b8aca38e36",
+        "fingerprint": [
+          "一通百通",
+          "等价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "一通百通",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0251-04找等价问题；拼写纠错和通信纠缠是等价问题（16913）。"
+    },
+    {
+      "claim_id": "C-GG-U0254-05",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "科学和工程有区别：科学上方法好坏差距巨大；工程上很多实际问题不考虑清楚，做出来的东西就不好用",
+      "quote": "科学和工程还是有区别",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16915,
+        "end_line": 16915,
+        "sha1": "7cd8aa084cdd64071976bb4fcc1f4edb7534fb85",
+        "fingerprint": [
+          "科学",
+          "工程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "科学vs工程",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "工程追问例：上下文统计模型、语言差异（photo/foto/colour）、键盘指法相似、长词允许更大编辑距离（16903-16909）。"
+    },
+    {
+      "claim_id": "C-GG-U0254-06",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "改进无止尽：有人做到五六成就满足，往深做还有很多问题待解——精品和粗制滥造的产品差别在此",
+      "quote": "精品和粗制滥造的产品差别",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16917,
+        "end_line": 16917,
+        "sha1": "45821300507660a92f87c862b6a1728d2d4007bd",
+        "fingerprint": [
+          "满足",
+          "差别"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "改进无止尽",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "拼写纠错程序讲清楚能讲一星期（16917）。"
+    },
+    {
+      "claim_id": "C-GG-U0254-07",
+      "unit_id": "GG-U0254",
+      "speaker": "吴军本人",
+      "claim_text": "开放式面试题没有标准答案只有好坏答案：好候选人需脑子灵活、对所学活学活用",
+      "quote": "没有标准答案的开放式问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16865,
+        "end_line": 16866,
+        "sha1": "ef7a77263be2ef68473e9fb79e061c1729b5c4ca",
+        "fingerprint": [
+          "开放式",
+          "奇葩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-3"
+      ],
+      "concept_key": "开放题考活学活用",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "'到Google上搜一下'是奇葩回答（16865）；好面试官可不断追问（16881）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第153封信：拼写纠错面试题（7卡）。"
+}

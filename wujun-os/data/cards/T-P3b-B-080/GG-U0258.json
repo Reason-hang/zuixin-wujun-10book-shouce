@@ -1,0 +1,234 @@
+{
+  "unit_id": "GG-U0258",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0258-01",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "扎克伯格与Facebook基因三特点：天生产品意识与快速开发能力、把握年轻人对异性渴望、无版权意识与隐私观念",
+      "quote": "天生具有产品意识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17145,
+        "end_line": 17150,
+        "sha1": "7f207cac805ac1220c4d6e1a1e0fbdefcc4177f7",
+        "fingerprint": [
+          "基因",
+          "隐私"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "公司基因三特点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "FaceMash评选辣妹被下线（17144-17145）；基因后来不断显现（17150）。"
+    },
+    {
+      "claim_id": "C-GG-U0258-02",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "实名社交是Facebook起飞关键：哈佛邮箱把互联网身份与生活中的人准确对应——上线一个月一半哈佛本科生注册",
+      "quote": "实名社交",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17161,
+        "end_line": 17167,
+        "sha1": "30a3c38a644fa0d1060a8c202ad44fe236b61915",
+        "fingerprint": [
+          "实名",
+          "身份"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "实名对应真人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Friendster信息不真实缺可信度的反面（17108）。"
+    },
+    {
+      "claim_id": "C-GG-U0258-03",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "沙弗利光环实为杂货店水平；帕克纠正小家子气：马上占领全美欧大学、去硅谷找风投而非挣广告小钱",
+      "quote": "小家子气的想法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17175,
+        "end_line": 17184,
+        "sha1": "7f76dc1d1e8d4a1aa0edbb1473fe90eef1fe4362",
+        "fingerprint": [
+          "帕克",
+          "沙弗利"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "听真神不听光环",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "扎克伯格承认对商业一无所知而对方听计从（17173）；改名The Facebook→Facebook成为专有名词（17184）；彼得·蒂尔次月即投资（17185）。"
+    },
+    {
+      "claim_id": "C-GG-U0258-04",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "稀释沙弗利30%股份手段不太光彩但对公司发展有好处：对没有经验所犯错误的止损",
+      "quote": "进行止损",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17187,
+        "end_line": 17188,
+        "sha1": "4f27037e78d993cbda518c7fd21ab846f6b8fca7",
+        "fingerprint": [
+          "止损",
+          "股份"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D10-1"
+      ],
+      "concept_key": "清退错误伙伴",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被同行诟病一生但符合止损原则（17188）；互引止损原则。"
+    },
+    {
+      "claim_id": "C-GG-U0258-05",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "种瓜得瓜种豆得豆：主意本身不值钱——温克夫斯兄弟想到却指望别人实现、心思在划船（奥运第六）；执行力决定收获",
+      "quote": "种瓜得瓜，种豆得豆",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17198,
+        "end_line": 17200,
+        "sha1": "591c8e26fe21de5536f01eeeac454a359f2a72b7",
+        "fingerprint": [
+          "主意",
+          "公平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-1"
+      ],
+      "concept_key": "主意不值钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "山寨者说Facebook主意是借来的属酸葡萄心理（17199）。"
+    },
+    {
+      "claim_id": "C-GG-U0258-06",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "交友要及时止损：交了不好的朋友（夸夸其谈者）趁早分手——商业、朋友、恋人皆如此",
+      "quote": "交了不好的朋友，要及时止损",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17202,
+        "end_line": 17204,
+        "sha1": "5c369a50001202e8730363a87da543da58938295",
+        "fingerprint": [
+          "朋友",
+          "分手"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-1"
+      ],
+      "concept_key": "交友止损",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "遇到帕克这样境界高者才能办出大公司（17203）。"
+    },
+    {
+      "claim_id": "C-GG-U0258-07",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "事业的成长要争取指数增长不能满足线性增长：线性增长有被Google/雅虎挤垮的巨大风险",
+      "quote": "指数增长",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17206,
+        "end_line": 17207,
+        "sha1": "d31bdae654edc065add822263126fb4bbff15ded",
+        "fingerprint": [
+          "线性",
+          "挤垮"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "争取指数增长",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沙弗利的境界最多线性增长（17207）。"
+    },
+    {
+      "claim_id": "C-GG-U0258-08",
+      "unit_id": "GG-U0258",
+      "speaker": "吴军本人",
+      "claim_text": "创业环境很重要：搬硅谷才接触得到一线投资人与人才，为优惠去三线城市难成大事——人也一样，去大城市好单位",
+      "quote": "要尽可能去大城市，去好的单位",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17209,
+        "end_line": 17214,
+        "sha1": "a73f565925f55d027f3fc037b79e664f33382332",
+        "fingerprint": [
+          "硅谷",
+          "三线城市"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "环境定眼界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2006年前扎克伯格特长是做产品非管理（17210）；互引C-GG-U0244-03向高两级看齐。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第155封信：谁发明缔造了Facebook（8卡）。"
+}

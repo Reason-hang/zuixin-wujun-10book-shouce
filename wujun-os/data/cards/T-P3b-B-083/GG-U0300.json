@@ -1,0 +1,151 @@
+{
+  "unit_id": "GG-U0300",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0300-01",
+      "unit_id": "GG-U0300",
+      "speaker": "吴军本人",
+      "claim_text": "本科教育给人的是技能之上的见识而非基本技能：三位哈佛计算机教授本科分别是英语、数学、认知科学",
+      "quote": "技能之上的见识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20071,
+        "end_line": 20071,
+        "sha1": "da46d34473b51f2de62faa738b3643001afc2516",
+        "fingerprint": [
+          "本科",
+          "见识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "本科给见识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "萨尔兹伯格英语本科跨界基因遗传学（20044）；雅让斯基数学本科（20050）；埃斯勒认知科学+剑桥数学（20067）。"
+    },
+    {
+      "claim_id": "C-GG-U0300-02",
+      "unit_id": "GG-U0300",
+      "speaker": "吴军本人",
+      "claim_text": "三位哈佛教授共同点：对科学知识有发自内心的极大兴趣；都看透了钱——满足于不愁温饱把精力投入研究",
+      "quote": "看透了钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20073,
+        "end_line": 20077,
+        "sha1": "52fa776916fcba037604edd775c3149ee57e4158",
+        "fingerprint": [
+          "兴趣",
+          "温饱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "看透钱与真兴趣",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "萨尔兹伯格：更多钱会支持年轻人搞研究而非个人享受（20076）；斯坦福教授吹嘘房子在东部做研究者看来无法想象（20076）。"
+    },
+    {
+      "claim_id": "C-GG-U0300-03",
+      "unit_id": "GG-U0300",
+      "speaker": "吴军本人",
+      "claim_text": "雅让斯基不是学霸、理论水平被专家质疑，但是寻找问题答案的高手：巧妙解决机器翻译难题三年拿下博士",
+      "quote": "寻找问题答案的高手",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20051,
+        "end_line": 20052,
+        "sha1": "70c50b9ef11048ffa0c1c22b1c758e117b566c9b",
+        "fingerprint": [
+          "学霸",
+          "机器翻译"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D05-1"
+      ],
+      "concept_key": "解决问题胜过理论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "审稿匹配写智能程序成学术会议通行做法（20054-20055）；情商高、对老教授是靠得住的助手对学生可依赖（20057-20058）。"
+    },
+    {
+      "claim_id": "C-GG-U0300-04",
+      "unit_id": "GG-U0300",
+      "speaker": "吴军本人",
+      "claim_text": "亚裔把哈佛当精英敲门砖只学一技之长，与进好的州立大学没有区别；为喜爱事业不懈追求+对钱超然才是精英",
+      "quote": "作为成为精英的敲门砖",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20089,
+        "end_line": 20092,
+        "sha1": "1e127af7d9fc96d35f75250a2b5ce624480ea6b1",
+        "fingerprint": [
+          "敲门砖",
+          "一技之长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "敲门砖心态",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "C博士研究水平一般但编程高手、20年学术圈无名气（20082）；Z先生聪明进Google泯然众人又回校读博（20083-20088）。"
+    },
+    {
+      "claim_id": "C-GG-U0300-05",
+      "unit_id": "GG-U0300",
+      "speaker": "吴军本人",
+      "claim_text": "三提醒：做喜欢的事长期坚持做好；进同一大学同一单位，目标是什么怎么度过很重要；把自己变成社会的人、好大学培养情商",
+      "quote": "怎么度过很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20096,
+        "end_line": 20098,
+        "sha1": "28b56c1ad9c4468864e0cd18f793db30644c6b29",
+        "fingerprint": [
+          "坚持",
+          "情商"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "同校差别在目标",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第183封信：哈佛毕业生成就（上）5卡。"
+}

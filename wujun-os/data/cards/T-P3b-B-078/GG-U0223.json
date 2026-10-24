@@ -1,0 +1,205 @@
+{
+  "unit_id": "GG-U0223",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0223-01",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "人生是超长比赛，大部分时间不需赢只要不输：少犯错误等对手出局",
+      "quote": "而只要不输就可以了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14806,
+        "end_line": 14812,
+        "sha1": "771c2aae6824e614e6cec79fc96570349fdd1c13",
+        "fingerprint": [
+          "少出错",
+          "防守",
+          "不输"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D03-2"
+      ],
+      "concept_key": "不输即可赢长跑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "重刊自《硅谷来信》原文《成功并不难，在于少犯错误》（跨书线索：硅谷来信/见识）；NBA得分靠进攻赢球靠防守、羽毛球拼失误为例。"
+    },
+    {
+      "claim_id": "C-GG-U0223-02",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "房价焦虑的解法：确保贡献与收入成为城市前1/4，而非盯工资攒钱",
+      "quote": "确保自己的贡献在前1/4",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14813,
+        "end_line": 14814,
+        "sha1": "59d8012a52bc865ed82ea0a48926397564b92bff",
+        "fingerprint": [
+          "前1/4",
+          "贡献"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-4"
+      ],
+      "concept_key": "前四分之一策略",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "城市须让贡献者住得起否则衰落；成为前1/4并不难——多数人缺耐心姿势难看自动退赛。"
+    },
+    {
+      "claim_id": "C-GG-U0223-03",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "别以两个静态看未来（今天的收入、今天的能力），以发展的观点才有未来",
+      "quote": "以发展的观点看待未来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14833,
+        "end_line": 14835,
+        "sha1": "88658827e36e270bf642daea9ed6ed0a31d5a050",
+        "fingerprint": [
+          "静态",
+          "发展的观点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "发展的观点看未来",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大部分人四错误之首；30年前工资与今日百倍差距为例。"
+    },
+    {
+      "claim_id": "C-GG-U0223-04",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "攒钱成不了富翁；钱和任何资源只有使用才能带来更多",
+      "quote": "只有使用，才能带来更多的钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14836,
+        "end_line": 14837,
+        "sha1": "9822584eac7603f605cd8bb9a1177b6b064a1e10",
+        "fingerprint": [
+          "攒钱",
+          "资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财富靠赚不靠攒",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "四错误之二；充电学习不使用、贵衣服不舍得穿同为攒资源；读硕须想清目的。"
+    },
+    {
+      "claim_id": "C-GG-U0223-05",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "太在意一时得失是大错：输一两分不影响21分比赛，别因委屈弃整局",
+      "quote": "太在意一时的得失",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14839,
+        "end_line": 14842,
+        "sha1": "e3b69d53ae441226283d14c7df9237634e5143a8",
+        "fingerprint": [
+          "21分",
+          "失误"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "一时得失不影响全程",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "四错误之三；因未被提拔受委屈而跳槽=输一球弃一场；对手会失误给少犯错者机会。"
+    },
+    {
+      "claim_id": "C-GG-U0223-06",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "跑当前100米为全程最优：财富应随经验指数增长，别线性从头开始",
+      "quote": "让全程的成绩最好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14843,
+        "end_line": 14844,
+        "sha1": "6c295c1db919cadcd48c894af053ac40aa4ffa2e",
+        "fingerprint": [
+          "指数",
+          "线性",
+          "100米"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-1"
+      ],
+      "concept_key": "财富随经验指数增长",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "四错误之四；前面工作要对后面有帮助；盯着当下利益让人思想吝啬。"
+    },
+    {
+      "claim_id": "C-GG-U0223-07",
+      "unit_id": "GG-U0223",
+      "speaker": "吴军本人",
+      "claim_text": "贫穷的思维是造成贫穷的真正原因；思想与生活态度决定能否拥有财富",
+      "quote": "造成贫穷的真正原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14850,
+        "end_line": 14850,
+        "sha1": "b9e1b48dc70a058d6af89264e4bcd95445c3a4b5",
+        "fingerprint": [
+          "贫穷",
+          "财富"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-3"
+      ],
+      "concept_key": "贫穷思维致贫",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "抢月饼者败在鼠目寸光；与少犯错、走错棋者对弈即可胜出的总结呼应。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0223",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "北京房价1200万、年收入20万等时点数据及攒首付叙事属时点论断，方法论部分已抽。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "重刊《成功并不难，在于少犯错误》：照常抽卡7张并留跨书线索，时点数据X2。"
+}

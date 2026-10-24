@@ -1,0 +1,95 @@
+{
+  "unit_id": "GG-U0301",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0301-01",
+      "unit_id": "GG-U0301",
+      "speaker": "吴军本人",
+      "claim_text": "对不懂的东西羞赧是中国学生的特点，美国学生从来不为问傻问题而不好意思",
+      "quote": "为问傻问题而不好意思",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20116,
+        "end_line": 20117,
+        "sha1": "c3116aab7af7f35320eb351213fb3d7cfd4e8cab",
+        "fingerprint": [
+          "羞赧",
+          "傻问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-1"
+      ],
+      "concept_key": "敢问傻问题",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "李稻葵观察转述：大小姐（桑伯格）什么都不懂但什么都敢问（20116/20123）。"
+    },
+    {
+      "claim_id": "C-GG-U0301-02",
+      "unit_id": "GG-U0301",
+      "speaker": "吴军本人",
+      "claim_text": "学术界的小混混也能成盖茨顾问：情商高不耻下问、做事执着长期呼吁终派上用场、表达能力强",
+      "quote": "学术界的小混混成了盖茨的顾问",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20148,
+        "end_line": 20154,
+        "sha1": "0078bcb4414e7544ef510b640ec65999ce02fb15",
+        "fingerprint": [
+          "情商",
+          "执着"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D06-1"
+      ],
+      "concept_key": "才华之外的才能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高曼机器学习呼吁正逢微软竞争需要（20152）；CMU博士研究比他强但讲东西讲不过他（20154）；L女士好接近但占她便宜者一个邮件走人（20139-20140）。"
+    },
+    {
+      "claim_id": "C-GG-U0301-03",
+      "unit_id": "GG-U0301",
+      "speaker": "吴军本人",
+      "claim_text": "哈佛为现实世界而非公平世界培养精英：亚裔认一技之长成好的做事人员，美国人认定各种才能成为精英——世界并不公平但是现实",
+      "quote": "为现实世界培养精英",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20159,
+        "end_line": 20162,
+        "sha1": "47cddacf89c095d5eaa31f777242a38ed2b2e980",
+        "fingerprint": [
+          "公平",
+          "现实"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D01-1"
+      ],
+      "concept_key": "现实世界规则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中国好大学=考试进来传授谋生手段再分三六九等（20156）；哈佛进来是小社会、学立足社会的根本（20159）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第184封信：哈佛毕业生成就（下）3卡。"
+}

@@ -1,0 +1,144 @@
+{
+  "unit_id": "GG-U0222",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0222-01",
+      "unit_id": "GG-U0222",
+      "speaker": "吴军本人",
+      "claim_text": "学技艺启蒙师父很重要：尽可能找好师父，不凑合、不道听途说自练",
+      "quote": "启蒙的师父很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14740,
+        "end_line": 14741,
+        "sha1": "95025122710fd4c4b810796cc16a8150ed7a6b29",
+        "fingerprint": [
+          "师父",
+          "一流"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "入门先找好师父",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "野路子师父带出坏毛病难纠正；吴军花大价钱请高盛、摩根士丹利的人手把手教投资。"
+    },
+    {
+      "claim_id": "C-GG-U0222-02",
+      "unit_id": "GG-U0222",
+      "speaker": "转述·第三方",
+      "claim_text": "同时保证高长期回报又保本做不到；追求此目标者找错了机构找错了人",
+      "quote": "找错了机构，找错了人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14754,
+        "end_line": 14754,
+        "sha1": "f8a12dadd4448970ad0dafa083f1b040c5296738",
+        "fingerprint": [
+          "做不到",
+          "找错"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "高回报保本不可兼得",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=高盛投资人约翰；巴菲特是特例，特例背后是上千次失败。"
+    },
+    {
+      "claim_id": "C-GG-U0222-03",
+      "unit_id": "GG-U0222",
+      "speaker": "吴军本人",
+      "claim_text": "投资第一原则是不要有妄念：追求长期年化15%等目标不可能实现",
+      "quote": "不要有妄念",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14747,
+        "end_line": 14747,
+        "sha1": "b93622f56c8c30f36b0292c1eaa9e940e1342644",
+        "fingerprint": [
+          "妄念",
+          "约翰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资不要有妄念",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国股市年均回报约8%，长期跑赢10%的基金几乎不存在；高盛目标=永远复合增长并跑赢通胀。"
+    },
+    {
+      "claim_id": "C-GG-U0222-04",
+      "unit_id": "GG-U0222",
+      "speaker": "吴军本人",
+      "claim_text": "有妄念的出资人与投资人相互正反馈放大，终致杠杆假账庞氏骗局人财两空",
+      "quote": "彼此的妄念相互形成正反馈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14781,
+        "end_line": 14782,
+        "sha1": "90d3622ed7919b46deec99cbc719eb2e9b1aa6e3",
+        "fingerprint": [
+          "正反馈",
+          "庞氏骗局"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "妄念正反馈致骗局",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "无意骗子被逼成有意骗子；P2P金融创新同路数；对心存妄念者只能回避、丑话说在前面。"
+    },
+    {
+      "claim_id": "C-GG-U0222-05",
+      "unit_id": "GG-U0222",
+      "speaker": "吴军本人",
+      "claim_text": "95%的人有赌徒心理不适合自己投资，不如交给守纪律的投资人",
+      "quote": "赌徒心理",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14765,
+        "end_line": 14765,
+        "sha1": "d08585548fe7fe93998733f777dbc8a054a5a011",
+        "fingerprint": [
+          "赌徒心理",
+          "守纪律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "赌徒心理不宜自管",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "美国散户四十年整体回报年均约2%不如存银行；守规矩信股指定投者不需要高盛。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "投资教育信（高盛/妄念）：吴军4卡+约翰转述1卡。"
+}

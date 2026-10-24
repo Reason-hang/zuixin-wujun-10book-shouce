@@ -1,0 +1,157 @@
+{
+  "unit_id": "GG-U0253",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-080",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0253-01",
+      "unit_id": "GG-U0253",
+      "speaker": "史实",
+      "claim_text": "演员海蒂·拉玛尔发明跳频技术：钢琴88键频率加密、钢琴卷打孔定跳变序列——从拉玛尔的成功可悟通识教育的重要性",
+      "quote": "史上最美丽的科学家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16804,
+        "end_line": 16811,
+        "sha1": "e26e560361a341bb48046dedd8c895ce33baf15a",
+        "fingerprint": [
+          "跳频",
+          "拉玛尔"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "拉玛尔跳频",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "speaker=史实；1941年获美国专利、军方二战未及用（16813）；越战呼救设备即跳频、低功率宽带信号难截获（16814-16816）。"
+    },
+    {
+      "claim_id": "C-GG-U0253-02",
+      "unit_id": "GG-U0253",
+      "speaker": "吴军本人",
+      "claim_text": "CDMA码分多址：每人可占很多频带不分时、以密码区分信号——边际成本近乎零、网速显快",
+      "quote": "边际成本降低到近乎零",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16829,
+        "end_line": 16833,
+        "sha1": "3aa2e8bec0fa35dd718b7d7cda4a7e425b4f8e91",
+        "fingerprint": [
+          "码分多址",
+          "边际成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D08-1"
+      ],
+      "concept_key": "码分多址降边际",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "香农第二定律：带宽固定则传输率上限定死（16821）；FDMA频分垂直/TDMA时分水平皆有浪费空隙（16824-16828）。"
+    },
+    {
+      "claim_id": "C-GG-U0253-03",
+      "unit_id": "GG-U0253",
+      "speaker": "吴军本人",
+      "claim_text": "高通专利策略：不只申请单一核心专利，而是申请一大批把别人道路全部堵死的专利——城墙高且严密才收得上专利费，绕路成本更高",
+      "quote": "把别人道路全部堵死的专利",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16843,
+        "end_line": 16845,
+        "sha1": "023917d30a15314aad9bbcedacb65b26122a128a",
+        "fingerprint": [
+          "专利",
+          "堵死"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "专利围墙",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "无制造只研发设计、收入超200亿美元仅3.3万员工、大部分收入来自知识产权（16840-16841）；2G输给欧洲因快速传输非刚需（16844）。"
+    },
+    {
+      "claim_id": "C-GG-U0253-04",
+      "unit_id": "GG-U0253",
+      "speaker": "吴军本人",
+      "claim_text": "科学家创业罕见因内涵越深外境越窄；维特比远超一般创业科学家——他改变了一个产业",
+      "quote": "改变了一个产业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16848,
+        "end_line": 16853,
+        "sha1": "e6762a9d6f12ceaab11e36d4848c78c2fab79066",
+        "fingerprint": [
+          "内涵",
+          "外境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-1"
+      ],
+      "concept_key": "改变一个产业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "亨利西/查菲/孟怀萦仅在特定领域商业成功（16852）；维特比史上第二富有数学家、2007年获国家科学奖（16847/16837）。"
+    },
+    {
+      "claim_id": "C-GG-U0253-05",
+      "unit_id": "GG-U0253",
+      "speaker": "吴军本人",
+      "claim_text": "CDMA并非维特比发明，但谈CDMA人们首先想到他：他最先想到并最先用于民用通信——荣誉属于最后的推广者",
+      "quote": "最先采用它用于民用通讯",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16818,
+        "end_line": 16819,
+        "sha1": "175a75b85a9c2b0cbe2f41f25b59aab64d4b7f29",
+        "fingerprint": [
+          "民用",
+          "CDMA"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "荣誉给推广者",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0183-05荣誉给最后发明人；高通制定CDMA1、CDMA2000与WCDMA标准（16836）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0253",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "16853行思考题（维特比的成功之处在哪里）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第152封信：维特比和高通（5卡）。"
+}

@@ -1,0 +1,74 @@
+{
+  "unit_id": "GG-U0224",
+  "book_code": "GG",
+  "extractor": "EXT-GG13",
+  "batch_id": "T-P3b-B-078",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0224-01",
+      "unit_id": "GG-U0224",
+      "speaker": "吴军本人",
+      "claim_text": "人性相近而习惯相远：按我们的文化理解他人会误解，懂当地文化才受欢迎",
+      "quote": "性相近，习相远",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14922,
+        "end_line": 14922,
+        "sha1": "fa4404d56a241062cbc636c5f8b4f778bf440527",
+        "fingerprint": [
+          "文化",
+          "性相近",
+          "习惯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "文明特征是理解行为的钥匙",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "重刊自《硅谷来信》「法国的国民特性」（跨书线索：硅谷来信）；与法国人沟通前两句用法语示尊重为例。"
+    },
+    {
+      "claim_id": "C-GG-U0224-02",
+      "unit_id": "GG-U0224",
+      "speaker": "转述·第三方",
+      "claim_text": "优雅是对距离感的准确把握：给别人留出空间，又不疏远怠慢",
+      "quote": "对距离感的准确把握",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 14883,
+        "end_line": 14883,
+        "sha1": "a3d44b1681f2c873b7890e63e8f7a89b07e77c52",
+        "fingerprint": [
+          "优雅",
+          "距离感",
+          "空间"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "优雅是距离感的把握",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=法国友人（对吴军提问的回答）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0224",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "法国非洲裔移民史、国民特性、工程师教育与移民政策叙述为史实/制度科普，仅抽跨文化方法论两条。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（法国队/国民特性）：史实科普X4，抽跨文化理解方法论2卡。"
+}

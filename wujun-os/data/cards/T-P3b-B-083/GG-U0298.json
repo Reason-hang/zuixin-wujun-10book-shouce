@@ -1,0 +1,163 @@
+{
+  "unit_id": "GG-U0298",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0298-01",
+      "unit_id": "GG-U0298",
+      "speaker": "吴军本人",
+      "claim_text": "凡事从相反的角度再想一次：八九成的人不这么做，做了必有好处——主动从多角度看问题视野就开阔",
+      "quote": "从相反的角度再想一次",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19924,
+        "end_line": 19928,
+        "sha1": "1ce4f2e765dd6da2238b159d5333a7fd66431e75",
+        "fingerprint": [
+          "角度",
+          "视野"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "反面再想一次",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大学同学挑战哲学老师：从唯心主义出发也有完整自洽的理论（19925-19927）。"
+    },
+    {
+      "claim_id": "C-GG-U0298-02",
+      "unit_id": "GG-U0298",
+      "speaker": "吴军本人",
+      "claim_text": "要和比自己好的人在一起，专业问题听取专业人士建议：齐白石50岁见艺术真迹境界才开、黄宾虹70岁前无人知",
+      "quote": "听取专业人士的建议",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19930,
+        "end_line": 19932,
+        "sha1": "0850e6ad226476bc1bb671ac6d321c138fe587de",
+        "fingerprint": [
+          "齐白石",
+          "眼界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "与高人为伍",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "学围棋让专业人士教vs自己买书找同样差的人对弈——一辈子也达不到像样水平（19934-19935）。"
+    },
+    {
+      "claim_id": "C-GG-U0298-03",
+      "unit_id": "GG-U0298",
+      "speaker": "吴军本人",
+      "claim_text": "每过一段时间有意识地尝试新东西（新口味/新地方/新领域书/新朋友）——发现世界多样性，看待世界客观全面",
+      "quote": "尝试一些新东西",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19937,
+        "end_line": 19937,
+        "sha1": "e6bed5042e3e438199701b883cd6026fdc8e7936",
+        "fingerprint": [
+          "多样性",
+          "客观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "定期尝试新事物",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0298-04",
+      "unit_id": "GG-U0298",
+      "speaker": "吴军本人",
+      "claim_text": "常识是需要不断更新的：过去不知道的今天可能是常识，须不断学习把知识变成头脑中的常识",
+      "quote": "常识是需要不断更新的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19945,
+        "end_line": 19950,
+        "sha1": "fc7257e60eff2a9e70c30d25159a0aca9ad7d99a",
+        "fingerprint": [
+          "常识",
+          "学习"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "常识须更新",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "地球绕日、细菌致病曾是新知（19946）；HPV医学常识可避免悲剧（19947-19948）；专业基础知识对外人完全陌生（19951）。"
+    },
+    {
+      "claim_id": "C-GG-U0298-05",
+      "unit_id": "GG-U0298",
+      "speaker": "吴军本人",
+      "claim_text": "初来乍到问一问职场有什么禁忌很重要：林斌到Google专门找老人了解常识与禁忌、从没出过问题两边口碑好——创业成功非偶然",
+      "quote": "问一问职场有什么禁忌很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 19954,
+        "end_line": 19957,
+        "sha1": "a9d90890fca806109d89af02ec8ee3a69842e918",
+        "fingerprint": [
+          "林斌",
+          "禁忌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "入职先问禁忌",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专利邮件留证据、上下级开门谈话等美国职场常识（19951-19954）；负责任的单位应定期给大家更新常识（19954）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0298",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "19903-19915行海洋文明与大陆帝国扩张模式史述（英荷战争、俄国割地瑷珲条约）为史料内容"
+    },
+    {
+      "unit_id": "GG-U0298",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "19966-19967行华为接班人走势预测为时效判断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问45：破解僵化思维（双说话人5卡）。"
+}

@@ -1,0 +1,214 @@
+{
+  "unit_id": "GG-U0304",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0304-01",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "亚裔不缺想象力也不保守，而是缺乏远见、嗜好当下利益——喜欢钱本身没有错，但看透钱才能从凡人变成有影响力的精英",
+      "quote": "看透钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20307,
+        "end_line": 20308,
+        "sha1": "2954048f54a51f581f476a591dc2919a69b34fc5",
+        "fingerprint": [
+          "远见",
+          "精英"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-2"
+      ],
+      "concept_key": "看透钱成精英",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0300-02；亚裔进哈佛约20%而年轻精英比例远小、扎堆少数行业领袖少（20303-20304）；群体习惯舒适区、想站制高点需全面平衡发展（20311）。"
+    },
+    {
+      "claim_id": "C-GG-U0304-02",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "培养原创能力最关键是找到好老师进入好环境：导师要求做前人没做过的研究，学生不得不往那个方向努力",
+      "quote": "找到好老师，进入一个好环境",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20318,
+        "end_line": 20320,
+        "sha1": "38b50704c4f616a7304f815a312fd8fdd2a404c8",
+        "fingerprint": [
+          "导师",
+          "环境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-1"
+      ],
+      "concept_key": "好老师好环境",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "导师把学生当廉价劳动力搞见效快的研究，久而久之自己也满足（20320）；搞研究搞开发都要去好单位找好领路人（20320）。"
+    },
+    {
+      "claim_id": "C-GG-U0304-03",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "真正严肃的学者长期致力于原创性研究因为那是兴趣所在；高价聘来的不少学者把学术当谋生手段并非兴趣",
+      "quote": "并非自己兴趣所在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20322,
+        "end_line": 20323,
+        "sha1": "0a645f9779ab4b568c0ee0c47eff95679d0c9ecc",
+        "fingerprint": [
+          "原创",
+          "兴趣"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-2"
+      ],
+      "concept_key": "原创靠兴趣",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "学校只考察论文数量则教授发论文凑数（20322）。"
+    },
+    {
+      "claim_id": "C-GG-U0304-04",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "杂而不精专业因应用领域多、技术基础庞大、问题新变化快——从业者需广泛知识，勿指望窄领域干一辈子",
+      "quote": "杂而不精",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20334,
+        "end_line": 20338,
+        "sha1": "c4bf6c1bae4efb3ab9956aa505915af90a1e0668",
+        "fingerprint": [
+          "领域",
+          "过渡期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "广而不精需广识",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "所指=环境工程/信息安全/金融工程/应用数学（20334）；聚光科技从重污染环保设备转民用市场、需重新学习找答案（20339-20340）。"
+    },
+    {
+      "claim_id": "C-GG-U0304-05",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "同级对比自查：找4-8个维度（业务能力、业绩、团队贡献）与同级对比，看进步快的人哪里比自己好——单位主管考察下属常用工具",
+      "quote": "同级作对比",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20349,
+        "end_line": 20352,
+        "sha1": "910110cf4e16d6e292789ab9a66cc2d3fa9edaca",
+        "fingerprint": [
+          "维度",
+          "同级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-1"
+      ],
+      "concept_key": "同级对比自查",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0299-01四方表；能力学识问题最好找更好的同事和上级帮助（20352）。"
+    },
+    {
+      "claim_id": "C-GG-U0304-06",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "做职业的人不要用业余的方式做事和处理人际关系；环境不适合就得换；行动最重要——行动了就不要后悔，长期坚持改进大概率变好",
+      "quote": "不要用业余的方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20353,
+        "end_line": 20356,
+        "sha1": "8a465ec9bf47f4f2c04a636224bcfa1ae7a01ac5",
+        "fingerprint": [
+          "职业",
+          "复盘"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D05-1"
+      ],
+      "concept_key": "职业方式与行动",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复盘例：离开生意场回校系统学习、出国因环境局限发展（20355）；知道该怎么做而不做一定不会有好结果（20356）。"
+    },
+    {
+      "claim_id": "C-GG-U0304-07",
+      "unit_id": "GG-U0304",
+      "speaker": "吴军本人",
+      "claim_text": "摆脱线性思维三法：每周刻意增加一个思考维度循环；对意外好坏结果一定复盘、放到更大时空；不琢磨别人心思、以诚待人是立足根本",
+      "quote": "增加一个特定的思考维度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20368,
+        "end_line": 20372,
+        "sha1": "13dbd0995c3920730abf2efef6ea21c5ae12926b",
+        "fingerprint": [
+          "维度",
+          "复盘"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "加维度脱线性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0304",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "20303-20306行亚裔与非裔名校占比及社会影响力统计观察为社会时评内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问46：原创能力与职业发展（双说话人7卡）。"
+}

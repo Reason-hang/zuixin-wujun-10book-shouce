@@ -1,0 +1,109 @@
+{
+  "unit_id": "GG-U0241",
+  "book_code": "GG",
+  "extractor": "EXT-GG14",
+  "batch_id": "T-P3b-B-079",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0241-01",
+      "unit_id": "GG-U0241",
+      "speaker": "吴军本人",
+      "claim_text": "有效沟通必须双向，提问题（哪怕是傻问题）是双向沟通的基本方法。",
+      "quote": "是双向沟通的基本方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16071,
+        "end_line": 16071,
+        "sha1": "0ec6efc9cadc5895399a57768e61d534ab820ced",
+        "fingerprint": [
+          "双向",
+          "傻问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "提问题是双向沟通基本法",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第1条；'不敢问老板导致任务做错'（16062）并入；与C-GG-U0231-05沟通以确认为准互引"
+    },
+    {
+      "claim_id": "C-GG-U0241-02",
+      "unit_id": "GG-U0241",
+      "speaker": "吴军本人",
+      "claim_text": "看似傻问题的背后常隐藏大问题：交流双方默认的基准往往并不相同。",
+      "quote": "其实是大问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16037,
+        "end_line": 16041,
+        "sha1": "322e8b25571814d9e223121a856b2c90f923aae9",
+        "fingerprint": [
+          "基准",
+          "傻问题",
+          "显然"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D01-1"
+      ],
+      "concept_key": "傻问题隐藏大问题",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第2条；'显然意味着不显然'（16039）、估值单位与期权协议基准差、深度学习预测与牛奶广告追问例证（16031-16057）并入；'皇帝的新装'小男孩之喻（16058）并入"
+    },
+    {
+      "claim_id": "C-GG-U0241-03",
+      "unit_id": "GG-U0241",
+      "speaker": "吴军本人",
+      "claim_text": "做事要把事情做成，面子和虚荣不重要；达到目的就是赢家，嘲笑会烟消云散。",
+      "quote": "而不是显得有水平",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16062,
+        "end_line": 16067,
+        "sha1": "cafbf92f60c5932d6ca0aa1b6de10d734f1599ca",
+        "fingerprint": [
+          "目的",
+          "面子",
+          "赢家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "真有水平而非显得有水平",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "信末总结第3条；克服怕问傻问题的方法是搞清目的性（16065-16066）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0241",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "拉宾纳、贾里尼克问傻问题轶事与怀尔斯证明费马大定理的数学史为人物史叙述，作为例证并入卡内不单独成卡"
+    },
+    {
+      "unit_id": "GG-U0241",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末'留言给我'互动号召为运营内容，按批次特则记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "沟通主题（D07-1）三条总结成3卡，例证轶事按X4处置"
+}
