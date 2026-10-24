@@ -82,7 +82,7 @@ def main():
               f'- 状态计数：{"；".join(f"{k} {v}" for k, v in sorted(bs.items()))}',
               f'- 台账文件（ledger/）：' + ('、'.join(os.path.basename(p) for p in ledgers) if ledgers else '无'),
               f'- 最新台账：{os.path.basename(ledgers[-1])}' if ledgers else '- 最新台账：无', '',
-              '> 复水提示：先 `make restore-check`（包校验+冻结+探测+自测），再读本文件与 handover/项目交接文档.md，对不上时以校验和口径排查 state 是否过期。', '']
+              '> 复水提示：先 `make restore-check`（包校验+冻结+探测+自测），再读本文件与 handover/WJ-OS｜执行期接手｜项目交接文档.md，对不上时以校验和口径排查 state 是否过期。', '']
     out = os.path.join(ROOT, 'logs', 'handover_refresh.md')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, 'w', encoding='utf-8').write('\n'.join(lines))
