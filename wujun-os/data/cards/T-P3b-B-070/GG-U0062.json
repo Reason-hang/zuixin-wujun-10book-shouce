@@ -1,0 +1,122 @@
+{
+  "unit_id": "GG-U0062",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-UU0062-01",
+      "unit_id": "GG-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "人和人的差距、能力和能力的差距是数量级的差别，而不是通常人们想象的差一点点",
+      "quote": "是数量级的差别",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4170,
+        "end_line": 4173,
+        "sha1": "0b2a08a97000364f10905aae7b18b73d9de51040",
+        "fingerprint": [
+          "朗道",
+          "数量级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "朗道等级",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "朗道体系：物理学家五级、每级差十倍、自评2.5级诺奖后1.5级、零级爱因斯坦（4170-4173行）；跨书互引：《见识》朗道等级卡（CK-0444）。"
+    },
+    {
+      "claim_id": "C-GG-U0062-02",
+      "unit_id": "GG-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "工程师五级：五级独立解决问题；四级带领他人；三级做出市场成功产品；二级做出难取代的产品；一级开创产业",
+      "quote": "能独立解决问题，完成工程工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4175,
+        "end_line": 4180,
+        "sha1": "5b14ed42a1925d0b3a6097e7ebb99ea09ad3e0b4",
+        "fingerprint": [
+          "第五级",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "工程师五级",
+      "ability_tags": [
+        "思",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "案例：五级=京东买书工具（4182-4183行）；四级需领导力+化大为小+沟通（4190-4197行）；三级=好产品经理（4199-4200行）；二级=邓锋Netscreen、Jeff Dean云计算（4204-4205行）；一级=爱迪生福特贝尔（4207行）；吴军自评2.5级（4209行）。"
+    },
+    {
+      "claim_id": "C-GG-UU0062-03",
+      "unit_id": "GG-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "工程师和科学家不同：科学家考虑对和错，工程师在现有条件下考虑好和坏的解决方案——目标不同方案就不同",
+      "quote": "后者考虑的是对和错",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4190,
+        "end_line": 4192,
+        "sha1": "e1f7489665bdd3f5d5938fba4f8ceaf0034cb421",
+        "fingerprint": [
+          "工程师",
+          "科学家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "工程师与科学家之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：海湾大桥200年寿命vs军队浮桥速成，IT人常修反（4191-4194行）；跨书互引：《见识》CK-0476 同键。"
+    },
+    {
+      "claim_id": "C-GG-UU0062-04",
+      "unit_id": "GG-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "三级工程师本身必须是非常好的产品经理；人有多大的心，就能做多大的事情",
+      "quote": "人有多大的心，就能做多大的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4200,
+        "end_line": 4200,
+        "sha1": "83cb713fd11e4ba2bba903e4dab9caedd9da8916",
+        "fingerprint": [
+          "心胸",
+          "产品经理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "心有多大事业多大",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "心胸开阔、愿意接受各种意见是前提（4200行）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（选自《硅谷来信》第一季，4161行）：五级工程师体系4卡——跨书重复线索留痕，硅谷来信1批次时登记双出处。"
+}

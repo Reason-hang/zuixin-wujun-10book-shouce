@@ -1,0 +1,218 @@
+{
+  "unit_id": "GG-U0070",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0070-01",
+      "unit_id": "GG-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "人是社会动物：懂得遵守指令并能够做到，才能与他人配合发挥自己的作用——拧着来就无法和别人沟通合作",
+      "quote": "拧着来就无法和别人沟通合作了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4651,
+        "end_line": 4656,
+        "sha1": "8fbb5d74b75d31ad27267b9b52c2c3a523c478cd",
+        "fingerprint": [
+          "指令",
+          "合作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "遵守指令是合作前提",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：先乘除后加减是约定俗成（4653-4656行）；医嘱多喝水休息（4658-4659行）；宜家说明书安装喻、不按说明者职场生存都难（4663-4671行）；能否遵守指令是成熟的标志（4661行）。"
+    },
+    {
+      "claim_id": "C-GG-U0070-02",
+      "unit_id": "GG-U0070",
+      "speaker": "史实",
+      "claim_text": "Google 代码规范近乎苛刻（命名/100%测试覆盖/注释占三分之一/不多空格）——新人首月练服从，不过关别指望提升",
+      "quote": "就是在学习服从",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4674,
+        "end_line": 4677,
+        "sha1": "76e238a4916b3cbe74c37614a84f5509cba1b398",
+        "fingerprint": [
+          "规范",
+          "服从"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "代码规范即服从训练",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "背景：不按统一规范写软件Bug概率大增、离职后无人能接替（4674行）；这些道理自己琢磨能想通但太费时间（4678行）。"
+    },
+    {
+      "claim_id": "C-GG-U0070-03",
+      "unit_id": "GG-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "职位高低很大程度上取决于开始几年的上升曲线——不要浪费时间在公司里学习服从和配合，这两件事必须在大学里完成",
+      "quote": "必须在大学里完成",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4679,
+        "end_line": 4682,
+        "sha1": "3eed284ace641cce2909c6c0064df66228e43498",
+        "fingerprint": [
+          "提升",
+          "天花板"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "晋升曲线前几年定",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "数据：美国IT公司博士一生通常只有两次提升；腾讯微软每级分两三级到头即天花板；做到总工/杰出工程师（相当副总裁）者极少且多以更快速度完成前两次提升（4680-4681行）。"
+    },
+    {
+      "claim_id": "C-GG-U0070-04",
+      "unit_id": "GG-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "服从是理性的行为：为了大局放弃掉自己的一些想法；反感服从的人却常被骗子忽悠着盲从——别把「自我」写得太大",
+      "quote": "为了大局，放弃掉自己的一些想法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4684,
+        "end_line": 4685,
+        "sha1": "5935f921379574c1c814d2c946e01cdaf3fc13a4",
+        "fingerprint": [
+          "大局",
+          "盲从"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-1"
+      ],
+      "concept_key": "服从为大局非盲从",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "不能为大局放弃自己想法的人无法当好领导（4684行）；买乐视股票者被忽悠盲从（4685行）。"
+    },
+    {
+      "claim_id": "C-GG-U0070-05",
+      "unit_id": "GG-U0070",
+      "speaker": "转述·第三方",
+      "claim_text": "领导力是存在于领导者和被领导者之间施加影响的关系：基础不仅来自岗位权力，还来自超越岗位的专家权力与参照权力（魅力）",
+      "quote": "超越岗位的权力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4689,
+        "end_line": 4690,
+        "sha1": "97a0f2ab2257277ed2eb48c4c8c2ccf2f8885b6d",
+        "fingerprint": [
+          "宁向东",
+          "影响力"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-3"
+      ],
+      "concept_key": "领导力专家权力与魅力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述宁向东教授回答（4689行）；岗位本身并不带来领导力（4691行）。"
+    },
+    {
+      "claim_id": "C-GG-U0070-06",
+      "unit_id": "GG-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "寒门和豪门都可以出贵子，与出身无关",
+      "quote": "和出身无关，这是我的看法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4700,
+        "end_line": 4700,
+        "sha1": "d82b4c74b715e223b1ff5586b47ab64ceef91a45",
+        "fingerprint": [
+          "寒门",
+          "出身"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "贵子与出身无关",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0070-07",
+      "unit_id": "GG-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "发展初期量化衡量是必要的；成熟后应从单纯追求指标转向潜心做事与培养人",
+      "quote": "量化衡量是必要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4721,
+        "end_line": 4722,
+        "sha1": "7b18cde8252d38477ea5e6b5ae04c39b19f2618d",
+        "fingerprint": [
+          "量化",
+          "指标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D03-1"
+      ],
+      "concept_key": "量化初期必要后期转向",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：中国大学过去三十年量化指标效果不错，一流大学将转向潜心研究与培养人（4721-4722行）——组织发展阶段论可迁移。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0070",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（4642-4646/4695-4696/4702-4703/4709-4710/4716-4717行）为读者来信，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0070",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4691-4693行课程引流链接、锻炼/学习平台等生活问答（4702-4714行）无卡价值，归运营/杂项"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问10：服从主题4卡+领导力E2+寒门贵子+量化转向共7卡。"
+}

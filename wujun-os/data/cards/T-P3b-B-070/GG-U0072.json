@@ -1,0 +1,110 @@
+{
+  "unit_id": "GG-U0072",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0072-01",
+      "unit_id": "GG-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "语文的核心是阅读理解（接收信息）与表达（发送信息，书面加口头）——没有表达能力的人，职业发展与交朋友都有障碍",
+      "quote": "没有表达能力的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4795,
+        "end_line": 4798,
+        "sha1": "c4e697b8be9cbf17ce4dc5431063205a172a1949",
+        "fingerprint": [
+          "阅读理解",
+          "表达"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-1"
+      ],
+      "concept_key": "语文即收发信息",
+      "ability_tags": [
+        "学",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：理工科学生与从业者表达能力差的危害、顶级教授起不出好实验室名（4798-4799行）；语文学不好写不了历史论文/法律文件/科学论文（4800行）。"
+    },
+    {
+      "claim_id": "C-GG-U0072-02",
+      "unit_id": "GG-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "学好语文能让做事更职业化：内容再好若写得不像样照样没人读；专业化表述给人职业化印象、降低沟通成本",
+      "quote": "这样才能和同行进行最好的沟通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4804,
+        "end_line": 4812,
+        "sha1": "18b355c25048a0effc6bbee6f4f79cf6d7f5cc22",
+        "fingerprint": [
+          "专业",
+          "沟通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "专业化表述",
+      "ability_tags": [
+        "学",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：吴军请专职科技编辑改博士论文达专业论著水平、其弟论文以专业书出版（4805-4806行）；工作邮件不专业会被敷衍了事（4810行）；拉丁语学术交流传统（4807行）。"
+    },
+    {
+      "claim_id": "C-GG-U0072-03",
+      "unit_id": "GG-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "要在事业和生活上有发展，首先要知道自己在地图上的位置、了解自己的方向——把一门课放进全部课程中看它的角色",
+      "quote": "要知道自己在地图上的位置",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4788,
+        "end_line": 4789,
+        "sha1": "ede9a3b4b3a5cca8a46530dc37f6545341178b1f",
+        "fingerprint": [
+          "位置",
+          "方向"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "知道自己的位置",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：休伊特博士问学生「语文在所有课程中的意义」（4785/4789行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0072",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "通识教育定义与Liberal Arts沿革（4771-4775行）、家长会叙事背景（4781-4786行）、学语文四目的之清单其余项（素养/贵族气质，4816-4818行）属教育议题背景，记X5；核心可迁移判断（收发信息/职业化/位置观）已由3卡承载"
+    },
+    {
+      "unit_id": "GG-U0072",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4822-4823行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第041封信：语文三卡（收发信息/职业化表述/位置观）。"
+}

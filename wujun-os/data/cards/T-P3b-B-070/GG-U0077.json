@@ -1,0 +1,156 @@
+{
+  "unit_id": "GG-U0077",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0077-01",
+      "unit_id": "GG-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "评价一位掌舵者的好坏，只要看他接手的时候和交出去的时候，机构发生了什么变化即可",
+      "quote": "看他接手的时候和交出去的时候",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5110,
+        "end_line": 5110,
+        "sha1": "d395b2f166e48bd802605d08ad0f1e66cbf8da37",
+        "fingerprint": [
+          "校长",
+          "变化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "接手交出评价法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：艾略特接手时哈佛年毕业生仅百人、水平低下，交出时已成一流研究型学府（5112-5113行）。"
+    },
+    {
+      "claim_id": "C-GG-U0077-02",
+      "unit_id": "GG-U0077",
+      "speaker": "转述·第三方",
+      "claim_text": "好的教育是开放的、自行思考的教育：科学研究（哲学实验）使人学会普遍解决问题的方法，并获得谦虚的品质",
+      "quote": "使人学会普遍的解决问题的方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5116,
+        "end_line": 5122,
+        "sha1": "3e341ef0f35e92d53d6b83fe65aa72859c20ad06",
+        "fingerprint": [
+          "艾略特",
+          "科学"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "科学训练解决法与谦逊",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述哈佛校长艾略特；探索自然让人认识自身不足（5121行）；「有两种人可以成为教授——年轻人和永远不老的人」即学者永远把自己放在年轻求知的位置（5122行）。"
+    },
+    {
+      "claim_id": "C-GG-U0077-03",
+      "unit_id": "GG-U0077",
+      "speaker": "转述·第三方",
+      "claim_text": "各个专业的毕业生要达到专业水平——每个大学毕业生都应问问自己是否真正达到了专业水平",
+      "quote": "是否真正达到了专业水平",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5128,
+        "end_line": 5131,
+        "sha1": "84687d24e576ae20cb652c2c8df6b176bbcd4929",
+        "fingerprint": [
+          "专业水平",
+          "学位"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "专业水平自检",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "转述艾略特对哈佛的改革：法学学位曾不被律师界认可、医学院混16周讲座即可拿学位，改革后医学学位须先有本科再加数年专业培训（5128-5131行）；改革遭教授既得利益者与八校校长集体反对、监事会险些罢免（5132行）。"
+    },
+    {
+      "claim_id": "C-GG-U0077-04",
+      "unit_id": "GG-U0077",
+      "speaker": "转述·第三方",
+      "claim_text": "受过大学教育的人应该是某个领域的专家、一个自由人（自由思想），还是一个公民艺术家——处理社会事务的能手",
+      "quote": "同时是一个自由人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5137,
+        "end_line": 5138,
+        "sha1": "2a7e433a1e432581e9a726144252cea92855e911",
+        "fingerprint": [
+          "专家",
+          "公民艺术家"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "专家自由人公民艺术家",
+      "ability_tags": [
+        "做",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "转述艾略特；公民艺术家比领袖要求略低，至少能处理好社会上各种关系（5138行）。"
+    },
+    {
+      "claim_id": "C-GG-U0077-05",
+      "unit_id": "GG-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "学了一肚子理论不够，要会用；听的讲座过多过杂而不能真正使用并见效，都是在浪费时间",
+      "quote": "都是在浪费时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5139,
+        "end_line": 5142,
+        "sha1": "890165a0f71358338a4268bfd52594b0d8697f70",
+        "fingerprint": [
+          "案例",
+          "使用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D05-1"
+      ],
+      "concept_key": "使用见效才算学",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "背景：艾略特从法学院医学院开始案例教学，学习方式变为选修课/讨论班/讲座/实验（5139-5140行，艾略特观点E2成分并入）；吴军观察：很多人这个专家说得有理那个也不错，不用则全属浪费（5142行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0077",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "艾略特生平与哈佛沿革（5107-5113行）、教育植根本国土壤与中美教育国情议论（5124-5127/5133-5134行）属教育制度史，记X5；本文重刊自《硅谷来信》第一季（5105行），跨书重复线索留痕待硅谷来信1批次登记双出处"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末放送（重刊《硅谷来信》）：艾略特教育思想4卡（E2×3+E1×1）+掌舵者评价法1卡。"
+}

@@ -1,0 +1,189 @@
+{
+  "unit_id": "GG-U0076",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0076-01",
+      "unit_id": "GG-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "逻辑训练可自学：随机选一边立场、收集材料分析推理把自己说服——选与本能相抵触的观点更能提高",
+      "quote": "看看自己能否得到合理的结论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5016,
+        "end_line": 5020,
+        "sha1": "1fb42dd4f30bf9912a1dc1eb0d88e960818cbaac",
+        "fingerprint": [
+          "逻辑",
+          "说服"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D03-1"
+      ],
+      "concept_key": "自我说服训练",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：是否该征房产税的正反方自辩练习（5017行）。"
+    },
+    {
+      "claim_id": "C-GG-U0076-02",
+      "unit_id": "GG-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "任何时候对自己进行通识教育都不晚；成年人学习也要系统——把自己看成学校里的学生：读教科书、做作业、找人讨论、向人请教",
+      "quote": "把自己看成是一个学校里的学生",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5034,
+        "end_line": 5037,
+        "sha1": "4cff08196ea8f805de5c2ce039abbf667cf8d519",
+        "fingerprint": [
+          "系统",
+          "教科书"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "成人系统学习法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：量子霍尔效应领域重要论文都出自30来岁年轻人——老物理学家数学工具不够且不愿以做题改错答疑的方式重学（5036行）。"
+    },
+    {
+      "claim_id": "C-GG-U0076-03",
+      "unit_id": "GG-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "普通家庭最大的本钱是工作与挣钱能力，最大损失是失业而非资产缩水——避险最重要的是保证自己不被淘汰",
+      "quote": "最重要的是保证自己不被淘汰",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5090,
+        "end_line": 5096,
+        "sha1": "4549a848f56a3e1dbc212f89d8fafc9aa6a5141f",
+        "fingerprint": [
+          "定力",
+          "淘汰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D06-2"
+      ],
+      "concept_key": "最大本钱是赚钱能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：金融危机问询；积蓄损失50%并不致命（5091行）；老工业区职工生活断崖下跌=工作能力不再被社会认可（5096行）。"
+    },
+    {
+      "claim_id": "C-GG-U0076-04",
+      "unit_id": "GG-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "读史三步：先从好的故事类史书培养兴趣（避开野史），再系统读真正的史书了解史实，最后读专著学习历史学家的史观",
+      "quote": "读史书先从读故事开始",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5079,
+        "end_line": 5083,
+        "sha1": "8fe3e90af1a68e4af7b5eb381be7a011c4ddcf71",
+        "fingerprint": [
+          "史实",
+          "史观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "读史三步法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "书单例证：《史记》《资治通鉴》《汉书》、希罗多德、牛津各国史、黄仁宇《万历十五年》、费正清、赫拉利（5081-5083行）。"
+    },
+    {
+      "claim_id": "C-GG-U0076-05",
+      "unit_id": "GG-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "数学不是实验科学，结论从假设前提推导出来；自然科学建立在实验之上，先见现象再设法解释，没有多少逻辑关系",
+      "quote": "从假设前提推导出来的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5027,
+        "end_line": 5027,
+        "sha1": "06458e1b49ba7d2db6d62f962b83ed7dcc95abe8",
+        "fingerprint": [
+          "数学",
+          "实验"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学演绎vs实验归纳",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0076-06",
+      "unit_id": "GG-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "美国通识教育两种设计：哥大固定核心课程制与哈佛布朗差异化选修制——按名校培养计划要求自己同样有收获",
+      "quote": "一样有所收获",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5070,
+        "end_line": 5072,
+        "sha1": "f14ba423853543bd59b2cf126bdd9143d9694c31",
+        "fingerprint": [
+          "MIT",
+          "收获"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "按名校计划自学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "细节：哥大八方向核心课程含文学/现代文明/艺术/音乐/科学前沿/写作/外语/世界文化（5048-5056行）；哈佛6000门课6000名本科生成木极高（5069行）；MIT学生还差150页当夜不睡（5060-5061行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0076",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（5007-5011/5022-5023/5029-5030/5039-5040/5074-5075/5085-5086行）为读者来信，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0076",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "美国通识教育课程制度细节（哥大核心课程构成、哈佛布朗选修制沿革，5044-5068行）属教育制度介绍，记X5；其自学启示已由卡6承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问11：自学方法论5卡+名校计划自学1卡。"
+}

@@ -1,0 +1,108 @@
+{
+  "unit_id": "GG-U0065",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0065-01",
+      "unit_id": "GG-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "时间一长，人们会忘记当初做事的真实目的，只剩下形式——此时努力就和结果不相关了",
+      "quote": "只剩下形式了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4371,
+        "end_line": 4374,
+        "sha1": "0c9c887884d14ce09d28dea6e89997d55ef052a0",
+        "fingerprint": [
+          "哨位",
+          "形式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D05-1"
+      ],
+      "concept_key": "只剩形式忘了目的",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：多佛尔角三哨兵1805年防拿破仑设岗、1946年才撤（4367-4371行，转述吴伯凡所讲）；武则天宫女守未干油漆（4372行）；黑格尔「凡是现实的都是合理的」（4373行）。"
+    },
+    {
+      "claim_id": "C-GG-U0065-02",
+      "unit_id": "GG-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "在人生重大选择上从众缺乏主见：如果你有98%的人的心态，想要成为2%的人就难了",
+      "quote": "想要成为2%的人就难了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4388,
+        "end_line": 4389,
+        "sha1": "9490fc7ee66fd772bcb7e18dd981b49b27946b74",
+        "fingerprint": [
+          "从众",
+          "主见"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "98%心态难成2%",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：别人家孩子学奥数机器人自家也要学、大家都上大学出国也不能落后（4388行）。"
+    },
+    {
+      "claim_id": "C-GG-U0065-03",
+      "unit_id": "GG-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "搞清楚做一件事的目的非常重要：目的没搞清楚，动力就成问题，结果也要大打折扣",
+      "quote": "目的没搞清楚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4401,
+        "end_line": 4401,
+        "sha1": "f258feef81e1c611e0602d69378ed557dbde357d",
+        "fingerprint": [
+          "目的",
+          "动力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "目的先行",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0065",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "亚裔上大学目的观察（哈佛亚裔15%-23%但精英占比低、犹太裔10%-15%且精英占比相当、进哈佛读计算机与卡梅伯克利竞争Google职位，4376-4383行）与欧洲大学系统介绍（法德专精学院vs综合性大学，4391-4400行）属教育制度与升学议题，记X5；其方法论内核（目的先行/不从众）已由3卡承载"
+    },
+    {
+      "unit_id": "GG-U0065",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4411-4412行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第037封信：目的性主题3卡；教育制度具体内容X5、互动X1。"
+}

@@ -1,0 +1,133 @@
+{
+  "unit_id": "GG-U0066",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0066-01",
+      "unit_id": "GG-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "认为仅靠今天的大学教育就能培养精英，这种想法本身就有问题——大学大多不是为此目的创办的：想要的是橘子，大学是苹果树",
+      "quote": "这种想法本身就有问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4428,
+        "end_line": 4428,
+        "sha1": "b12e529df346139c23c0a5f6bae39eb0a7d819c0",
+        "fingerprint": [
+          "精英",
+          "大学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "橘子与苹果树",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：中国本科毕业生从80年代50多万增至今天600多万（4422行）；邓锋俞敏洪共识：进清华北大很多学生照样混日子（4426行）。"
+    },
+    {
+      "claim_id": "C-GG-U0066-02",
+      "unit_id": "GG-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "「上大学无用论」评判有用无用的标准，比古人「读书能否成为士绅」的功利标准并没有进步",
+      "quote": "并没有什么进步",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4443,
+        "end_line": 4444,
+        "sha1": "17986618e80dcf3021c312232431c591bec0684d",
+        "fingerprint": [
+          "识字率",
+          "标准"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "有用标准的历史局限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "研究注：《文明之光》中国古代识字率远低于日本欧洲，恐与功利读书目的相关——不能成士绅干脆不读书（4443行）。"
+    },
+    {
+      "claim_id": "C-GG-U0066-03",
+      "unit_id": "GG-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "技能型高等教育红利随普及消退：工业化初期受高等教育者稀缺易成精英，普及后杀鸡用牛刀必然出现",
+      "quote": "杀鸡用牛刀的情况必然出现",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4451,
+        "end_line": 4457,
+        "sha1": "b7a172f24cb5753e350099e233d2d5cd9d3d45ce",
+        "fingerprint": [
+          "工业化",
+          "高等教育"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "文凭红利随普及消退",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：Google「杀鸡用牛刀」——博士干硕士活、硕士干本科活（4456行，互引后续周末信）；改革开放初期大学生优势大（4452行）；星期天学校→州立大学前身（4448-4449行）。"
+    },
+    {
+      "claim_id": "C-GG-U0066-04",
+      "unit_id": "GG-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "工业化完成后靠文凭已不能改变命运；在大学教育基础上有意识地补充精英所需的素质与技能，仍能不断晋级",
+      "quote": "自己有意识地作一些补充",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4458,
+        "end_line": 4459,
+        "sha1": "92a6cbeb981dc453119bb3f9490aa82d52f65eb3",
+        "fingerprint": [
+          "文凭",
+          "补充"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "文凭之上靠自补",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "衔接：五方面训练见后天来信（4460行，互引U0068）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0066",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "大学扩招与读研对策讨论（4421-4425行）、古代学府与精英培养史（神庙学府/孔子毕达哥拉斯学派/子贡樊迟/雅典学院/稷下学宫/隋唐科举与士绅挂钩，4430-4442行）、欧洲平民教育与星期天学校沿革（4445-4450行）属教育制度与教育史，记X5；其可迁移内核（期望错位/标准反思/文凭红利/自补）已由4卡承载"
+    },
+    {
+      "unit_id": "GG-U0066",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4462-4465行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第038封信：大学与精英4卡；教育史与制度内容X5。"
+}

@@ -1,0 +1,129 @@
+{
+  "unit_id": "GG-U0067",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0067-01",
+      "unit_id": "GG-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "提高格局与见识最好的方法就是和比自己强的人在一起生活——大学里这样的人最多，这是争取上名校的真正理由",
+      "quote": "和比自己强的人在一起生活",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4488,
+        "end_line": 4489,
+        "sha1": "4c5d18927d0ebf6d74396e7acd8767a772f08525",
+        "fingerprint": [
+          "格局",
+          "见识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-1"
+      ],
+      "concept_key": "与更强者同行",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "上大学的很重要目的是提高格局：格局不大人走不远（4477行）；二流大学达到一流教育效果的关键=自己找到并融入一流人才的圈子（4490行，与Google诺威格博士共识）；不建议退学——可塑性最强时期塑造自己（4491行）；底层进中产靠专业技能、中产进精英还需博雅教育（4476行，互引《硅谷来信》《大学之路》）。"
+    },
+    {
+      "claim_id": "C-GG-U0067-02",
+      "unit_id": "GG-U0067",
+      "speaker": "史实",
+      "claim_text": "做加法与做乘法的万倍差：坐庄散户百战百胜也只是线性攒钱，踏空时代大机遇；格局低见识浅的人，用功也跟不上时代",
+      "quote": "格局太低，见识太浅",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4480,
+        "end_line": 4487,
+        "sha1": "6304eaecc3fbe2f59791b32efef117e721e1fe45",
+        "fingerprint": [
+          "加法",
+          "乘法"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D01-2",
+        "D09-1"
+      ],
+      "concept_key": "加法乘法万倍差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "案例：某散牛2000年财富比马云多几百倍、今天仅百分之一（4478行）；完全踏空互联网与房地产机遇（4480行）；每支股票赚50%就卖不看业务前途（4485行）；重仓国民经济地位下降的家电股（4486行）；花钱骗EMBA学历不交流（4483行）。"
+    },
+    {
+      "claim_id": "C-GG-U0067-03",
+      "unit_id": "GG-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "学技能的两个目的：获得养活自己的基本能力；证明自己有学习能力——顶级公司校招只看是否学好专业与学校竞争度",
+      "quote": "为了证明自己能学好一件事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4492,
+        "end_line": 4497,
+        "sha1": "556b67d7e5d396930ff0c0146770315f04231903",
+        "fingerprint": [
+          "技能",
+          "学习能力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "技能证明学习力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "理由：读到博士的专业知识也不够吃一辈子，没成功掌握过一门技能的人再学起来非常困难（4495行）；报考建议：进不了名校好专业，一般专业也可接受、目的要明确（4499行）；清华观察：以不喜欢专业为由混日子者其实任何专业都不会喜欢，失去锻炼能力的最好机会（4498行）。"
+    },
+    {
+      "claim_id": "C-GG-U0067-04",
+      "unit_id": "GG-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "上大学要完成从社会的消费者到贡献者、从不成熟到有担当的角色转变训练——这不在课堂上",
+      "quote": "有担当的人的角色转变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4502,
+        "end_line": 4505,
+        "sha1": "c2149e6d05fd87df8d5f484904e92592bd99d2db",
+        "fingerprint": [
+          "贡献者",
+          "担当"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "从消费者到贡献者",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "教育改变命运今天仍成立，但内容远比工业革命初期学会技能广泛（4503行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0067",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4508-4511行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第039封信：上大学三目的成卡4张（格局见识/加法乘法案例/技能证明学习力/角色转变）。"
+}

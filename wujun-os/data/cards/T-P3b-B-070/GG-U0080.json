@@ -1,0 +1,210 @@
+{
+  "unit_id": "GG-U0080",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0080-01",
+      "unit_id": "GG-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "没有人重要到缺了他事情就不能运转：每日看似必须做的事很多可有可无——想清楚这一点，就可以没有负担地去休假",
+      "quote": "缺了他就不可以运转了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5266,
+        "end_line": 5267,
+        "sha1": "b5f99ade40c0754927765341fd42808096db0f66",
+        "fingerprint": [
+          "休假",
+          "可有可无"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D05-1"
+      ],
+      "concept_key": "忙是误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第二误区：没用的事情做太多，该做的没在更少时间做完（5267行）；自查：断续看手机是否超两小时（5268行）。"
+    },
+    {
+      "claim_id": "C-GG-U0080-02",
+      "unit_id": "GG-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "知识获取有三种形式：亲身感知、他人告知和逻辑推知——读书属他人告知，旅行属亲身感知，二者互补而不能完全替代",
+      "quote": "亲身感知、他人告知和逻辑推知",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5276,
+        "end_line": 5279,
+        "sha1": "ac29e1fdcc0f67ca67a3f7322b5a4c764fda1a9f",
+        "fingerprint": [
+          "感知",
+          "推知"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "知识三来源",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：不在股市上输点钱，看多少书都难以认清股市凶险（5278行）；「行万里路胜读万卷书」有点夸大——年飞10万英里的收获不及读万卷书，但不可替代（5272-5275行）。"
+    },
+    {
+      "claim_id": "C-GG-U0080-03",
+      "unit_id": "GG-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "旅行的第一意义是增长见识：他人告知的事情要亲身验证才能记住、变成自己的一部分；很多结论没有旅行不敢下",
+      "quote": "亲身验证一下，才能记住",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5279,
+        "end_line": 5287,
+        "sha1": "ba8ddf6340ee7ad4ad987131ecbd5ba374d3464f",
+        "fingerprint": [
+          "见识",
+          "验证"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "亲身验证见识",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：吴军对中国不焦虑的信心来自看遍世界（5280行）；婴儿潮一代出国多而爱国、冷战后一代无此感受又成愤青（5286-5287行）；文革代vs改革代（5289行）；巴菲特：了解经济去百货店看看，别听经济学家和《纽约时报》（5290行，转述并入）。"
+    },
+    {
+      "claim_id": "C-GG-U0080-04",
+      "unit_id": "GG-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "封闭系统朝熵增方向发展，破局的关键就是打破封闭系统、引入负熵——组织到达局部最高点就停滞，强制走出去别无他法",
+      "quote": "破局的关键就是打破封闭系统",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5292,
+        "end_line": 5296,
+        "sha1": "b4ac98be4980e1db3cd8a10ec1f6b2070295366a",
+        "fingerprint": [
+          "封闭系统",
+          "负熵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "打破封闭引入负熵",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：机器学习局部最高点困境（《硅谷之谜》5295行）；换环境重新审视自己、大艺术家灵感常来自换环境（5296行）。"
+    },
+    {
+      "claim_id": "C-GG-U0080-05",
+      "unit_id": "GG-U0080",
+      "speaker": "史实",
+      "claim_text": "亲历打破僵化思维：周恩来因尼克松访华的美方直播设备而悟必须现代化，邓小平访日乘新干线见农舍而决心改革开放",
+      "quote": "从僵化的思维走出来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5299,
+        "end_line": 5302,
+        "sha1": "0b23a88bb5e92568d40779f8b624452c316ccc2a",
+        "fingerprint": [
+          "新干线",
+          "直播"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "亲历打破僵化",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "同类：吴军听遍音乐大师、看约80%名画真迹、到苦寒贫困之地，才知艺术高度与感恩，跳出固有思维（5303-5304行）；「他山之石可以攻玉」、董其昌「读万卷书行万里路」（5305行）。"
+    },
+    {
+      "claim_id": "C-GG-U0080-06",
+      "unit_id": "GG-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "旅行的第三个目的是了解自己：世界是一面镜子，大的世界更能全面了解自己的想法与能力",
+      "quote": "世界是一面镜子",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5307,
+        "end_line": 5311,
+        "sha1": "e2d0512c38a35fbace739b4e256f97835e18d106",
+        "fingerprint": [
+          "镜子",
+          "能力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "世界是镜子",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：出游杂事多，是年轻人锻炼组织协调能力的机会；吴军大学安排全班实习才发现自己组织大型活动的能力（5309-5311行）。"
+    },
+    {
+      "claim_id": "C-GG-U0080-07",
+      "unit_id": "GG-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "旅行收获大的方法是记录：不是到此一游式的拍照，而是记录自己的想法——记录下来就成为人生的阅历",
+      "quote": "记录自己的想法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5314,
+        "end_line": 5314,
+        "sha1": "c8c958b83c956d65fd83599cc5f2edaa70868104",
+        "fingerprint": [
+          "记录",
+          "阅历"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D05-1"
+      ],
+      "concept_key": "记录想法成阅历",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "每年花一两周旅行获得享受与收获非常值得（5315行）；Social 与人交往是幸福重要来源（5313行，承接昨日巴特纳书）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0080",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5318-5319行周末栏目预告与5323-5324行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第046封信：旅行方法论7卡（本封为方法论非游记，属X3「只抽方法论」例外；后续冰岛等游记单元将按X3处置）。"
+}

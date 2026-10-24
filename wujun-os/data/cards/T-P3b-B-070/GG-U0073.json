@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0073",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0073-01",
+      "unit_id": "GG-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "学过的数学即使忘了也有超出表面知识的作用；没有通过数学掌握思维方式与解决问题的方法，对今后做事是有危害的",
+      "quote": "超出它所承载的表面知识的作用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4837,
+        "end_line": 4839,
+        "sha1": "4937012b7a0f3d5e8292e5e79a4f6bac6b74ea4e",
+        "fingerprint": [
+          "数学",
+          "数量级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "数学的隐性作用",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "自述：没学过数学今天收入至少少一个数量级（4838行）；中学题今天也不会做但不妨碍其作用（4837行）；4878行危害论并入本卡。"
+    },
+    {
+      "claim_id": "C-GG-U0073-02",
+      "unit_id": "GG-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "考好数学只要三件事：阅读理解、建立比较完整的数学知识体系、善用逻辑——没有第四条",
+      "quote": "首先是阅读理解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4846,
+        "end_line": 4847,
+        "sha1": "dff373e895777e24cf2060031285af0feba2f06a",
+        "fingerprint": [
+          "阅读理解",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "考好数学三件事",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "资历：高中12次期中期末平均99分、AMC10/12 得135、AIME 13/15 全北京第三（4847-4849行）。"
+    },
+    {
+      "claim_id": "C-GG-U0073-03",
+      "unit_id": "GG-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "阅读理解很重要的一条是理解暗喻：从字的表面读出深层含义——数学题的已知条件常以暗喻给出，工作生活中同样如此",
+      "quote": "很重要的一条是理解暗喻",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4854,
+        "end_line": 4857,
+        "sha1": "8eb8daffd7ea3236a00922cafb375cd58e2574cb",
+        "fingerprint": [
+          "暗喻",
+          "等边三角形"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "理解暗喻",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：等边三角形隐含三角等、点到三边距离和相等等一堆条件（4855行）；「北京」隐含人口/拥堵/景点（4857行）；孩子十道不会三道、重读题画图后一两道马上会（4852行）。"
+    },
+    {
+      "claim_id": "C-GG-U0073-04",
+      "unit_id": "GG-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "逻辑训练合格的检验标准：学完几何前两章的基本概念与五条公理后，合上书能把全书所有定理推导出来",
+      "quote": "能把全书所有的定理推导出来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4863,
+        "end_line": 4863,
+        "sha1": "fded3cacadaf0039748309a90df73b1b6d256f18",
+        "fingerprint": [
+          "公理",
+          "定理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "合书推定理",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：学校为应试让学生死记硬背解法忽视逻辑（4861行）；题海战术=低水平老师与笨学生的做法（4862行）。"
+    },
+    {
+      "claim_id": "C-GG-U0073-05",
+      "unit_id": "GG-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "学数学的目的是训练阅读理解与逻辑两种能力，数学知识的传授只是手段而不是目的——多数人学数学时忘记了目的",
+      "quote": "只是手段而已，不是目的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4865,
+        "end_line": 4868,
+        "sha1": "df3b9e942f951431b284961318a9ec3953fe0055",
+        "fingerprint": [
+          "目的",
+          "手段"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "数学知识是手段",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "阅读理解让人终身受益、逻辑能力是获得新知与解决问题的前提（4865-4866行）；与卡2（考好数学三件事）互为表里。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0073",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "高考取消数学之争与美国左派观点（4834-4836行）、数学课程分级改革建议（代数A/B/C分难度，4872-4877行）属教育制度议题，记X5"
+    },
+    {
+      "unit_id": "GG-U0073",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4880-4881行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第042封信：数学五卡（隐性作用/三件事/暗喻/合书推定理/手段目的）。"
+}

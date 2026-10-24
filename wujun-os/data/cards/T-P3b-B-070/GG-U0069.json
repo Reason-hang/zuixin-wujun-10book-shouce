@@ -1,0 +1,134 @@
+{
+  "unit_id": "GG-U0069",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0069-01",
+      "unit_id": "GG-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "大学教育的另一个目的是获得良知：获得良知并在关键时刻表达自己的观点，是大学教育的精髓所在",
+      "quote": "是大学教育的精髓所在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4626,
+        "end_line": 4630,
+        "sha1": "cf870918a59a80df5d592e4e58c2e556957ac4e2",
+        "fingerprint": [
+          "良知",
+          "社会责任"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "良知与社会责任",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：斯坦福2014年让申请者就特定历史事件表述看法，间接考察良知与历史责任感（4630行）；知识分子自中世纪末起是社会变革最重要力量、多人牺牲利益换更平等社会（4626-4627行）；科技精英凭知识与良知作判断而非政客民意（4629行）。"
+    },
+    {
+      "claim_id": "C-GG-U0069-02",
+      "unit_id": "GG-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "学生们要学的不仅仅是知识，更重要的是如何应用知识来改变社会",
+      "quote": "如何应用知识来改变社会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4612,
+        "end_line": 4612,
+        "sha1": "4094d8216d549a6b5d1436b3ce66eaa8b5bf4eb0",
+        "fingerprint": [
+          "知识",
+          "改变社会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "应用知识改变社会",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "互引纽曼「不仅是永恒的真理，而且是实践和实用」（4612行）。"
+    },
+    {
+      "claim_id": "C-GG-U0069-03",
+      "unit_id": "GG-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "高等教育的目的之一是服务于社会，而不是为了获取名誉或者赚大钱",
+      "quote": "而不是为了获取名誉或者赚大钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4614,
+        "end_line": 4614,
+        "sha1": "f7a45580bcbc4c718ad7ab73b2908d066cdaab4e",
+        "fingerprint": [
+          "服务",
+          "名誉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "服务社会而非名利",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：哈佛毕业生去落后地区帮穷人、参军、考古研究（4619行）；虎妈蔡美儿之女索菲亚毕业后参军=得了哈佛真传（4620-4623行）；升学经验书远多于讲毕业后做了什么的书（4615-4617行）；拉丁文毕业典礼保留传统（4625行）。"
+    },
+    {
+      "claim_id": "C-GG-U0069-04",
+      "unit_id": "GG-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "精英不是一般所理解的成功人士或政要，而是带动这个社会前进的各种人",
+      "quote": "而是带动这个社会前进的各种人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4632,
+        "end_line": 4632,
+        "sha1": "81619bbb2d7e712cdfda50541ffa43fd83885c21",
+        "fingerprint": [
+          "精英",
+          "带动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "精英带动社会前进",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "办大学为培养精英是欧洲著名大学的共识（4632行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0069",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "高等教育史（巴黎大学1150/1170、牛津1167回流、剑桥1209、牛桥同源，4577-4595行）、中世纪大学与教会关系及神学传统（4596-4604行）、通才教育与德育传统（4607-4611行）、纽曼「大学教大道远离谋生技能」（4605行——与B-088 U0031纽曼名言X5处置保持口径一致）属教育制度与教育史，记X5；其可迁移内核已由4卡承载"
+    },
+    {
+      "unit_id": "GG-U0069",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4575-4576行留言回信引导与音频转述师提示为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：高等教育目的4卡（良知/应用知识/服务社会/精英定义）；教育史与纽曼X5、运营X1。"
+}

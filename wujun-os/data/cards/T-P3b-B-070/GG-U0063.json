@@ -1,0 +1,159 @@
+{
+  "unit_id": "GG-U0063",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-UU0063-01",
+      "unit_id": "GG-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "任何结论都必须是能从前提出发、经过逻辑推理得到的必然结果；用严格逻辑可判断媒体说法真伪",
+      "quote": "经过逻辑推理，得到的必然结果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4229,
+        "end_line": 4233,
+        "sha1": "76cd16c05c0b70f2938b666c63c47235035a93af",
+        "fingerprint": [
+          "逻辑",
+          "结论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "结论须逻辑推出",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "警示词：用「必然会/肯定/显然」连接无逻辑关系的事就要怀疑（4231行）；猫死狗喻（4230行）；人脑非图灵机存在千年未冲击安全系统（4234行）。"
+    },
+    {
+      "claim_id": "C-GG-UU0063-02",
+      "unit_id": "GG-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "模块化与差异化不矛盾：不同的东西用不同的方法做；两者都是手段而非目的，目的是把事情做得更好、降低成本提高效率",
+      "quote": "差异化本身是手段，而不是目的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4243,
+        "end_line": 4246,
+        "sha1": "ca99a037e75a7e73caa6e9f188a9c287bbc125b9",
+        "fingerprint": [
+          "模块化",
+          "差异化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "差异化是手段",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：一亿个纽扣都一样没有问题（4244行）；模块化若成本更高就没人采用（4246行）。"
+    },
+    {
+      "claim_id": "C-GG-UU0063-03",
+      "unit_id": "GG-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "差异化的误区是只要不同就行：不理解现状为何如此就标新立异，结果常常更差；把事情做得更好，做出来的自然不同",
+      "quote": "不用强调差异化，必然有差异化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4247,
+        "end_line": 4251,
+        "sha1": "e16c46796a28873b79662ebd8a5731487310c8cf",
+        "fingerprint": [
+          "标新立异",
+          "更好"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "更好自然不同",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：京沪线路绕道武汉（4248行）；按钮圆改方改三角毫无意义（4249行）；现存方法即便不是最好也是比较好的（4247行）。"
+    },
+    {
+      "claim_id": "C-GG-UU0063-04",
+      "unit_id": "GG-U0063",
+      "speaker": "吴军本人",
+      "claim_text": "要做出超越大家的事情，就必须比大众更有远见、更有执行力，并且有足够多的专业知识",
+      "quote": "比大众更有远见、更有执行力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4259,
+        "end_line": 4260,
+        "sha1": "fbcdfb5318ab54466d406915049b5396e032ff4f",
+        "fingerprint": [
+          "远见",
+          "执行力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D10-1"
+      ],
+      "concept_key": "远见执行力专业知识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：Google/苹果招的都是人精，年专利3000/2000多项按人数占比很低，90%以上专利只是防御（4259行）。"
+    },
+    {
+      "claim_id": "C-GG-U0063-05",
+      "unit_id": "GG-U0063",
+      "speaker": "史实",
+      "claim_text": "区块链两波模仿都不成，成功者是改进者：以太坊改交割慢，Skuchain 只用可跟踪性、不在意去中心化",
+      "quote": "并不在意它是否是去中心化的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4262,
+        "end_line": 4269,
+        "sha1": "9599c43dd67b7744d6110e4a395fa3946246e9a6",
+        "fingerprint": [
+          "区块链",
+          "以太坊"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "改进式差异区块链例",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Skuchain 用 IBM 云实现区块链、集中式效率更高，客户含波音（4266-4267行）——验证差异化来自改进而非刻意（4269行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0063",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "三位读者提问原文（4220-4222/4238-4239/4253-4254行）为读者来信，按X7处置，吴军回答单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问09：逻辑完整性1卡+差异化三问3卡+区块链案例1卡。"
+}

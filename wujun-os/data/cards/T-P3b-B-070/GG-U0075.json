@@ -1,0 +1,165 @@
+{
+  "unit_id": "GG-U0075",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-070",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0075-01",
+      "unit_id": "GG-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "科学不等同于正确的结论、不承认绝对真理：它是寻找更好结论的过程、看待世界的方法——是目前最能有效描述世界并发现规律的方法",
+      "quote": "是一个寻找更好的结论的过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4947,
+        "end_line": 4950,
+        "sha1": "62ef0afbd00881e1a47679b72d8e0f0a898919df",
+        "fingerprint": [
+          "科学",
+          "方法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "科学是过程非结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：巫术、宗教、神谕也是认知方法，科学更有效、更易沟通与获益（4948-4950行）；互引《硅谷来信》第037封。"
+    },
+    {
+      "claim_id": "C-GG-U0075-02",
+      "unit_id": "GG-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "人生就是一个科学实验：遇到问题、分析、尝试不同方法解决即在各领域做实验；掌握实验方法必须亲身做严格实验，看书学不会",
+      "quote": "我们人生其实就是一个科学实验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4959,
+        "end_line": 4961,
+        "sha1": "59459c7205051ae763bf3f188c0c43d3a5b723b9",
+        "fingerprint": [
+          "实验",
+          "人生"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-1"
+      ],
+      "concept_key": "人生即实验",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "延伸：学物理化学生物哪门反而不重要（4961行）；创新力不足多因缺乏好的认识世界的方法（4953行）。"
+    },
+    {
+      "claim_id": "C-GG-U0075-03",
+      "unit_id": "GG-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "科学为人类知识画了一条边界，让人知道哪些可以相信、哪些观点应该质疑——科学素养即知道对新知该信谁讲的、怀疑谁说的",
+      "quote": "给当下的人类知识画了一条边界",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4963,
+        "end_line": 4969,
+        "sha1": "62c65748f3dae5a2183439fda2c65409fd46f72a",
+        "fingerprint": [
+          "边界",
+          "质疑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "知识边界与质疑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：盲信（传销保健品）与瞎质疑（有理搅三分）的人同样多（4966-4967行）；列宁「一个傻瓜能提出的问题比十个聪明人能回答的十倍还多」（4968行，转述并入）。"
+    },
+    {
+      "claim_id": "C-GG-U0075-04",
+      "unit_id": "GG-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "科学、技术和工程是几乎仅有的可叠加的人类文明成就；能否获得可叠加的进步，决定了我们能有多大成就",
+      "quote": "几乎仅有的可叠加的人类文明成就",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4970,
+        "end_line": 4974,
+        "sha1": "753aca855eb9ae0d40de90962b49da3902a269d3",
+        "fingerprint": [
+          "叠加",
+          "进步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-1"
+      ],
+      "concept_key": "可叠加进步",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对照：主任医生敢说胜过50年前名医，艺术家不敢说超米开朗基罗贝多芬、传统医学不敢说超李时珍（4971-4973行）；应用：软件工程师复用久经验证的源代码（4975行）、投资人用前人方法论控风险（4977行）、专业管理团队薪尽火传成百年老店vs亚洲家族企业难两代、王安电脑（4978-4979行）；每件事都成为攀登的铺路石，收入明年就能超今年（4980行）。"
+    },
+    {
+      "claim_id": "C-GG-U0075-05",
+      "unit_id": "GG-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "学科学的第四个目的是成为讲道理的人：科学工作过程本身就是讲道理——问题有意义、论证合逻辑、证据站得住",
+      "quote": "一个讲道理的过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4989,
+        "end_line": 4991,
+        "sha1": "3b2c6e2312eb4353441f4808c5234f1ebc0dae51",
+        "fingerprint": [
+          "讲道理",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D01-1"
+      ],
+      "concept_key": "科学训练讲道理",
+      "ability_tags": [
+        "思",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：位高权重女企业家「不必和配偶下属讲道理」但总要和孩子讲道理、希望孩子讲道理（4986-4988行）；学科学后变成更好更有能力更讲道理的人才是目的（4993行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0075",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4994行留言互动与5000-5002行推荐阅读为运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0075",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "中学教育鼓励人人当科学家的问题与学校考察方式应改变的议论（4943-4944/4962行）属教育制度议题，记X5"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第044封信：学科学四大目的全部成卡（方法非结论/人生即实验/知识边界/可叠加进步/讲道理）。"
+}
