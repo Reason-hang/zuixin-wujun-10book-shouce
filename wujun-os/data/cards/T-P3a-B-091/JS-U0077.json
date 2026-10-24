@@ -1,0 +1,170 @@
+{
+  "unit_id": "JS-U0077",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0077-01",
+      "unit_id": "JS-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "讲话首先要看听众是谁，对不同听众表达方式应有所不同",
+      "quote": "首先要看听众是谁",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3600,
+        "end_line": 3600,
+        "sha1": "2681b96b9e80ea8b0f4850a5f0a29ada623d9fbf",
+        "fingerprint": [
+          "看听众是谁",
+          "有所不同"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "看人说话",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "基金年会例：投资人/创始人三类听众、酒庄随意场景；概念键沿用格局\"看人说话\"；与 C-JS-U0074-02 互引"
+    },
+    {
+      "claim_id": "C-JS-U0077-02",
+      "unit_id": "JS-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "报喜不报忧只会让人心存疑虑；先把坏消息告诉大家再说好消息，效果更好",
+      "quote": "先把坏消息告诉大家",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3608,
+        "end_line": 3610,
+        "sha1": "3917c6ff60436fde4c6cb5ea5458721ef2ae1ee1",
+        "fingerprint": [
+          "报喜不报忧",
+          "坏消息"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "坏消息先行",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "基金年报必须报失败公司数（3608）；\"任何报喜不报忧的行为只能让他们心存疑虑\""
+    },
+    {
+      "claim_id": "C-JS-U0077-03",
+      "unit_id": "JS-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "一流的人可以把二流的项目做成一流，二流的人会把一流的项目做成三流",
+      "quote": "做成一流",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3628,
+        "end_line": 3628,
+        "sha1": "469b7579e76f024b60da4d0af7912220b64d5360",
+        "fingerprint": [
+          "一流的人",
+          "二流的项目"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "投人重于投项目",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "丰元资本\"投人\"哲学第1点；世界需\"变色龙\"，一流人才善向好的方向改变（3630）；诚信重要（3632）"
+    },
+    {
+      "claim_id": "C-JS-U0077-04",
+      "unit_id": "JS-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "风险投资的目的是帮人实现改变世界的理想；不投炒作概念、随大溜热炒的公司",
+      "quote": "实现他们改变世界的理想",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3638,
+        "end_line": 3638,
+        "sha1": "ac241d0c9aa94a5bc3ff0c36ec715af1ab01bade",
+        "fingerprint": [
+          "炒作概念",
+          "改变世界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "不投炒作概念",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "项目真能改变世界则挣钱不是问题（3636）；点名视频/团购/O2O/自媒体为时点例证（X2 倾向，仅作背景）"
+    },
+    {
+      "claim_id": "C-JS-U0077-05",
+      "unit_id": "JS-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "预测常常靠不住；投资人不赌未来趋势，只对事实做出正确的反应",
+      "quote": "预测常常是靠不住的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3642,
+        "end_line": 3642,
+        "sha1": "98738dc4dda7c67333a86a73b4c16a609b14328a",
+        "fingerprint": [
+          "赌未来的趋势",
+          "对事实做出正确的反应"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D03-2"
+      ],
+      "concept_key": "不赌趋势对事实反应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "趋势是自下而上被创业者想法逼出来的总结（\"创业者会告诉我们\"）；趋势预测本体属 X6，此处只取判断逻辑"
+    },
+    {
+      "claim_id": "C-JS-U0077-06",
+      "unit_id": "JS-U0077",
+      "speaker": "吴军本人",
+      "claim_text": "报告要简短、重点突出：听众能专心5分钟、记住一两个观点，目的就完全达到",
+      "quote": "目的就完全达到了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3644,
+        "end_line": 3644,
+        "sha1": "2f46efb0c8179e97328361017e4b3f86fdf56890",
+        "fingerprint": [
+          "简短",
+          "一两个重要的观点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "报告简短重点突出",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "与 C-JS-U0074-03 互引；听众难集中注意力超20分钟（3648）；后四张PPT支持第一张统一信息（3646）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第60节核心论点单元：看听众、坏消息先行、投人哲学、不赌趋势、简短报告均成卡"
+}

@@ -1,0 +1,270 @@
+{
+  "unit_id": "JS-U0080",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0080-01",
+      "unit_id": "JS-U0080",
+      "speaker": "转述·第三方",
+      "claim_text": "佩奇：好产品要有牙刷功能，用户每天用上几分钟，久了养成离不开的品牌习惯",
+      "quote": "就如同刷牙一样",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3712,
+        "end_line": 3712,
+        "sha1": "73a0edbbf66236029e008b85885f5bc386e75727",
+        "fingerprint": [
+          "牙刷",
+          "养成了使用该品牌产品的习惯"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "牙刷原则",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇；宝洁/可口可乐同此理（3714）；概念键与GG\"牙刷原则\"互映；条件补充见 C-JS-U0080-02"
+    },
+    {
+      "claim_id": "C-JS-U0080-02",
+      "unit_id": "JS-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "牙刷式产品必须可靠稳定：时灵时不灵的\"牙刷\"不会有人要",
+      "quote": "是不会有人要的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3718,
+        "end_line": 3718,
+        "sha1": "9b696ce89521e4515d19952d81aacc8800d0db4b",
+        "fingerprint": [
+          "可靠性和稳定性",
+          "时灵时不灵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "牙刷要可靠稳定",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "谷歌搜索在中国败于服务不稳定（时点例证）；对 C-JS-U0080-01 的条件补充：1%时间不能用也致命"
+    },
+    {
+      "claim_id": "C-JS-U0080-03",
+      "unit_id": "JS-U0080",
+      "speaker": "转述·第三方",
+      "claim_text": "好品牌每过一段时间要给大家一个惊喜、提醒它的存在——爆款效应",
+      "quote": "给大家带来一个惊喜",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3720,
+        "end_line": 3722,
+        "sha1": "9fcd8e79aa318ea6b6832b1b1d52f5aa1fa3efdc",
+        "fingerprint": [
+          "爆款",
+          "提醒大家它的存在",
+          "可口可乐"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "爆款效应",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=佩奇第二招（吴军以可口可乐/宝洁上百亿美元广告与促销解之）；概念键与GG\"爆款效应\"互映；爆款并非越多越好（3728）"
+    },
+    {
+      "claim_id": "C-JS-U0080-04",
+      "unit_id": "JS-U0080",
+      "speaker": "史实",
+      "claim_text": "格鲁夫：英特尔以18个月半步的节奏推新品刷新记忆，胜过对手36个月一大步",
+      "quote": "及时地刷新了大家的记忆",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3724,
+        "end_line": 3724,
+        "sha1": "6e342e456380e53ac15159df76cfa33f5c0a4e9b",
+        "fingerprint": [
+          "格鲁夫",
+          "18个月",
+          "36个月"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "半步爆款刷新记忆",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理：爆款周期长度决定记忆刷新，同一进步速度下节奏快的赢；日本电器品牌衰于爆款执行力不足（3726，时点背景）；母论 C-JS-U0080-03"
+    },
+    {
+      "claim_id": "C-JS-U0080-05",
+      "unit_id": "JS-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "职场牙刷与爆款：每周把工作总结成三句话汇报老板，每半年到一年给他一个惊喜成果",
+      "quote": "总结成三句话",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3732,
+        "end_line": 3732,
+        "sha1": "0baeff234d2ee5c9363d21e38f9b4e0beb67d0db",
+        "fingerprint": [
+          "三句话",
+          "惊喜的成果",
+          "抢着要"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "职场牙刷与爆款",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军\"得到\"专栏天天更新养成读者刷牙习惯、每半年到一年出书做爆款（3730）；概念键与GG\"职场牙刷与爆款\"互映"
+    },
+    {
+      "claim_id": "C-JS-U0080-06",
+      "unit_id": "JS-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "看商业模式不能光看表面而要看本质：同为广告模式，谷歌与刷流量公司本质迥异",
+      "quote": "不能光看表面，而要看本质",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3754,
+        "end_line": 3754,
+        "sha1": "29022e6e5ec0a4e5600f4dd9d330f6c9c91b72c2",
+        "fingerprint": [
+          "刷流量",
+          "本质",
+          "商业模式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "商业模式看本质",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "谷歌\"免费+广告\"与DirecTV按月收费本质相通：把有用内容送达用户（3754）；微软必因违\"有用\"原则而不挣钱（3752）；\"99%的人只注意内容而忽视有用\"（3746）"
+    },
+    {
+      "claim_id": "C-JS-U0080-07",
+      "unit_id": "JS-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "有用的内容不需要是自己的：连接比拥有更重要，这是互联网经济的本质",
+      "quote": "连接比拥有更重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3756,
+        "end_line": 3756,
+        "sha1": "a4e412a446be4b7ffc97b41366850f66b25fb828",
+        "fingerprint": [
+          "爱彼迎",
+          "优步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "连接比拥有更重要",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "出自吴军《智能时代》；谷歌/Facebook不拥有内容、爱彼迎无房、优步滴滴无车；阿里巴巴/罗辑思维同类（3758）"
+    },
+    {
+      "claim_id": "C-JS-U0080-08",
+      "unit_id": "JS-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "凡事有生有死，公司亦然；使命完成即退出历史舞台是对社会最后的贡献，不求百年老店",
+      "quote": "最后一次贡献",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3764,
+        "end_line": 3764,
+        "sha1": "91b6171cd1867616564baf887dccdfbb1c8516a1",
+        "fingerprint": [
+          "百年老店",
+          "退出历史舞台",
+          "专而精"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "组织有生有死",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "要办专而精有活力的公司而非大而全百年老店；中日欧美百年老店考据为史实背景（3766-3774）；概念键与GG\"组织有生有死\"互映"
+    },
+    {
+      "claim_id": "C-JS-U0080-09",
+      "unit_id": "JS-U0080",
+      "speaker": "转述·第三方",
+      "claim_text": "佩奇海蜇隐喻：不断创造新产品部门如海蜇长出新细胞，不依赖母体以逃脱大公司宿命",
+      "quote": "逃脱大公司的宿命",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3778,
+        "end_line": 3778,
+        "sha1": "ddf16f753e309f5951f066022840bd8c84935e12",
+        "fingerprint": [
+          "海蜇",
+          "新的细胞",
+          "佩奇"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "海蜇隐喻与公司新生",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇；实践=谷歌风投/谷歌X（3780）；业务拆分交皮柴、自管新业务以避开公司基因决定论（3820-3822，CK-0361近义）；防反垄断考虑（3824）属时点性（X2 倾向）留痕；概念键与GG互映"
+    },
+    {
+      "claim_id": "C-JS-U0080-10",
+      "unit_id": "JS-U0080",
+      "speaker": "吴军本人",
+      "claim_text": "公司真正能传承的只是基因：先认同公司会死是常态，再谋基因与文化的薪尽火传",
+      "quote": "薪尽火传",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3828,
+        "end_line": 3828,
+        "sha1": "3d27cf66dc934190cdfcb6d23b0431be947a49bb",
+        "fingerprint": [
+          "薪尽火传",
+          "精神财富",
+          "基因"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "薪尽火传",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "家族先传精神财富再传物质财富类比；吴军对佩奇第三智慧的概括；概念键与GG\"薪尽火传\"互映"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第62节核心论点单元：牙刷与爆款、商业模式本质、连接大于拥有、公司生死与薪尽火传均成卡"
+}

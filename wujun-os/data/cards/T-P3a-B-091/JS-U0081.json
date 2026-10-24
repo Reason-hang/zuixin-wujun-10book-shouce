@@ -1,0 +1,249 @@
+{
+  "unit_id": "JS-U0081",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0081-01",
+      "unit_id": "JS-U0081",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特三条红线：不做自己不懂的事，永远不做空，永远不用杠杆投资",
+      "quote": "永远不要用杠杆投资",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3838,
+        "end_line": 3838,
+        "sha1": "3c610a8e92f0bdea5d7febf20a366da993c2e320",
+        "fingerprint": [
+          "不要做自己不懂的事情",
+          "永远不要傲空股票",
+          "永远不要用杠杆投资"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资三条红线",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（竞标午餐的中国投资人转述，吴军汇总\"他们转述的话\"）；原文OCR\"傲空\"即\"做空\"；概念键与TD\"投资三条红线\"互映；展开见 -02/-03/-04"
+    },
+    {
+      "claim_id": "C-JS-U0081-02",
+      "unit_id": "JS-U0081",
+      "speaker": "转述·第三方",
+      "claim_text": "很多事情不要做，聚焦比发散更好；不熟悉的、非核心业务的事不能做",
+      "quote": "聚焦比发散更好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3844,
+        "end_line": 3846,
+        "sha1": "47db6f4a98a4c7b3945f1aed7adb71febd145999",
+        "fingerprint": [
+          "聚焦比发散",
+          "核心业务",
+          "《大败局》"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-1"
+      ],
+      "concept_key": "不做不懂的投资",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特思想精髓（中国企业家转述）；万达电商、标王企业自办广告公司皆反例（3842-3850，时点案例 X2 倾向留痕）；\"可口可乐广告公司\"反证法（3848）；概念键与TD互映"
+    },
+    {
+      "claim_id": "C-JS-U0081-03",
+      "unit_id": "JS-U0081",
+      "speaker": "转述·第三方",
+      "claim_text": "做空的危险在于损失理论上没有尽头：一次操作失利就可能满盘皆输",
+      "quote": "是没有尽头的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3854,
+        "end_line": 3854,
+        "sha1": "3af5a05448e24a458036d8664e7bb8c384c7502f",
+        "fingerprint": [
+          "做空",
+          "无穷大",
+          "满盘皆输"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2",
+        "D03-2"
+      ],
+      "concept_key": "做空风险无限",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（其特有谨慎从不做空）；\"见外婆\"诨名；挣钱亏钱不可控但方法可控；概念键与TD互映"
+    },
+    {
+      "claim_id": "C-JS-U0081-04",
+      "unit_id": "JS-U0081",
+      "speaker": "转述·第三方",
+      "claim_text": "人一生不要两次富有：不该由富变穷再东山再起；少犯错误比多几次成功更重要",
+      "quote": "少犯错误比多几次成功更重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3860,
+        "end_line": 3862,
+        "sha1": "7b0a396ef71294cf0f3743b6d7586e76a4194e5e",
+        "fingerprint": [
+          "两次富有",
+          "穷光蛋",
+          "少犯错误"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2",
+        "D02-4"
+      ],
+      "concept_key": "一生不要两次富有",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（对平衡进取与稳妥的建议）；两次富有者家庭生活与心态多不健康；杠杆与做空皆违此戒"
+    },
+    {
+      "claim_id": "C-JS-U0081-05",
+      "unit_id": "JS-U0081",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特选公司的秘密是现金流：只认收回来的现金，不信账面利润与短期股价",
+      "quote": "只有公司收回来的现金",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3868,
+        "end_line": 3868,
+        "sha1": "f4807828295fe4ac9d51cbcceae15b1a57854e2c",
+        "fingerprint": [
+          "现金奶牛",
+          "复合增长",
+          "真金白银"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "现金奶牛",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（午餐谈话解读）；寻找\"现金奶牛\"复合增长；投IBM/英特尔=看懂其商业模式才投（3864）；吴军读财报佐证利润水分（同段）；美国股息税玄机（3870-3872）属时点税务细节未成卡"
+    },
+    {
+      "claim_id": "C-JS-U0081-06",
+      "unit_id": "JS-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "对99%的个人投资者，最好的投资是大量购买标准普尔500指数",
+      "quote": "大量购买标准普尔500指数",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3874,
+        "end_line": 3874,
+        "sha1": "cf5c588ec6042b10e6e57f5f74d18e04ecc57cc4",
+        "fingerprint": [
+          "标准普尔500指数",
+          "巴菲特本人也认可"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "定投指数基金",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "巴菲特本人认可且遗嘱亦嘱购标普500；概念键与TD\"定投指数基金\"互映"
+    },
+    {
+      "claim_id": "C-JS-U0081-07",
+      "unit_id": "JS-U0081",
+      "speaker": "转述·第三方",
+      "claim_text": "投资是艺术不是技术：技术可传承可叠加，艺术有人一点即通有人学不会",
+      "quote": "而认为那是一门艺术",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3876,
+        "end_line": 3876,
+        "sha1": "ff331136b28ba157976f29b7fdf38d595b20cc51",
+        "fingerprint": [
+          "可继承性和可叠加性",
+          "肖邦",
+          "艺术"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资是艺术不是技术",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（不传子女、集中投资不到10家之由）；肖邦/米开朗琪罗不可逾越类比；AI炒股难成常胜将军属科技预测（3880，X6 倾向）未成卡"
+    },
+    {
+      "claim_id": "C-JS-U0081-08",
+      "unit_id": "JS-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "人与人的差距看似在智商、情商和知识，其实在智慧；智慧的核心是对人性的理解",
+      "quote": "智慧的核心则是对人性的理解",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3886,
+        "end_line": 3886,
+        "sha1": "fe2df4cd1933eeb5c726d3274a4ae6e5adbe7427",
+        "fingerprint": [
+          "人性",
+          "朴素"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D02-3"
+      ],
+      "concept_key": "智慧核心是人性理解",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军对巴菲特智慧的总结：\"道理很多人听说过，做事时常常忽略\"；朴素生活智慧通向投资无往不利"
+    },
+    {
+      "claim_id": "C-JS-U0081-09",
+      "unit_id": "JS-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "对大部分人来讲，最好的投资是自己的工作和事业，因为我们擅长于此",
+      "quote": "最好的投资是自己的工作和事业",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3888,
+        "end_line": 3888,
+        "sha1": "dc00929c26d983a9693eceb81a0c980c92e38c69",
+        "fingerprint": [
+          "职业发展",
+          "最擅长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D06-1"
+      ],
+      "concept_key": "投资自己的事业",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军拓展巴菲特观点：工薪阶层把时间投入职业发展的回报远高于炒股差价；概念键与FZ\"投资自己的事业\"互映"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第63节核心论点单元：三条红线、两次富有、现金奶牛、投资是艺术、智慧与人性和投资自身事业均成卡"
+}

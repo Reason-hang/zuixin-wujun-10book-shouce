@@ -1,0 +1,168 @@
+{
+  "unit_id": "JS-U0079",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0079-01",
+      "unit_id": "JS-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "评价创业者，品德尤其是诚信比能力更重要；投资就是投人",
+      "quote": "诚信比能力更重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3666,
+        "end_line": 3668,
+        "sha1": "dfcf05cf14bfdee9bf23aabfed54ef4140211bcf",
+        "fingerprint": [
+          "金科玉律",
+          "不诚信给社会带来的成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-2"
+      ],
+      "concept_key": "诚信比能力更重要",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "风投无抵押交钱，人先要信得过；骗投资的创业者与霸王条款投资人例；TD\"品行重于能力\"（CK-0416）近义互映"
+    },
+    {
+      "claim_id": "C-JS-U0079-02",
+      "unit_id": "JS-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "交友也是一种投资：150人是亲友投资总额，成功交友是人一生最重要的投资",
+      "quote": "成功的交友是人一生最重要的投资",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3670,
+        "end_line": 3670,
+        "sha1": "66875e193b5639da7ffc82429d32babeb0e8e730",
+        "fingerprint": [
+          "150个人",
+          "志同道合",
+          "狐朋狗友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "交友是一生最重要的投资",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "基因局限决定难同时交往超150人、亲戚又占一半；成功者靠志同道合者相助，背运者多交狐朋狗友"
+    },
+    {
+      "claim_id": "C-JS-U0079-03",
+      "unit_id": "JS-U0079",
+      "speaker": "转述·第三方",
+      "claim_text": "莎士比亚三忠告：凡事三思而行；对人和气但保持距离；挚友用钢圈箍住、勿滥施交情",
+      "quote": "用钢圈箍在你的灵魂上",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3674,
+        "end_line": 3680,
+        "sha1": "c29cc67ef62702234df5bf00c7ca95222a1f24ba",
+        "fingerprint": [
+          "三思而行",
+          "不要过分狎昵",
+          "钢圈"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "钢圈箍友",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=莎士比亚《哈姆雷特》波洛涅斯对雷欧提斯的忠告；吴军称这三条是其一生交友准则（3682）；概念键与TD\"钢圈箍友\"互映"
+    },
+    {
+      "claim_id": "C-JS-U0079-04",
+      "unit_id": "JS-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "交往带宽有限，不可能与所有人深交；对所有朋友表面一视同仁的人难有至交",
+      "quote": "很难有至交的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3686,
+        "end_line": 3686,
+        "sha1": "ad39f948d061d11baa1671d1b544c27ae8ebf779",
+        "fingerprint": [
+          "交往的带宽",
+          "一视同仁",
+          "至交"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "交友带宽有限",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "好好先生老板对部下一视同仁、能干者两年跑光例；同段：考察一个人看他（她）的朋友圈即可"
+    },
+    {
+      "claim_id": "C-JS-U0079-05",
+      "unit_id": "JS-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "出身与亲族无法选择，朋友是唯一能自己选择的关系；好友是财富，损友是负资产",
+      "quote": "损友则是巨大的负资产",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3688,
+        "end_line": 3688,
+        "sha1": "6a64ce939f747b4889792b3d04753d08262dd358",
+        "fingerprint": [
+          "巨大的财富",
+          "负资产",
+          "曾国藩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "损友是负资产",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "曾国藩\"袁婿荒唐……永远绝之\"（E2 线索，同段）；防损友方法见 C-JS-U0079-06"
+    },
+    {
+      "claim_id": "C-JS-U0079-06",
+      "unit_id": "JS-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "先假设人正直善良诚信，但上当后绝不给第二次机会，避免交友投资的无底洞",
+      "quote": "不给那些人第二次机会",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3690,
+        "end_line": 3690,
+        "sha1": "9d6d2be44733f41cf8bd5e9a9180b8b8c35bd217",
+        "fingerprint": [
+          "第二次机会",
+          "无底洞",
+          "止损"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D03-2"
+      ],
+      "concept_key": "止损式交友",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军本人实践（\"我只会上一次当\"）；\"不知道止损的投资者注定倾家荡产\"类比；概念键与TD\"止损式交友\"互映；曾国藩原则同段互映"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第61节核心论点单元：诚信重于能力、交友投资论、钢圈箍友、交友止损均成卡"
+}

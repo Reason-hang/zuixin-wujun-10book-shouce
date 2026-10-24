@@ -1,0 +1,140 @@
+{
+  "unit_id": "JS-U0068",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0068-01",
+      "unit_id": "JS-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "学习是一辈子的事，人生是马拉松而非百米赛跑，赢家是坚持跑下来的人",
+      "quote": "是马拉松比赛，而不是百米赛跑",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3216,
+        "end_line": 3216,
+        "sha1": "416f455fb35f02c1cc7f1ea946fbc88fdc41ecf3",
+        "fingerprint": [
+          "马拉松",
+          "坚持跑下来"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D05-2"
+      ],
+      "concept_key": "人生是马拉松",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "反驳格拉德威尔\"一朝领先一辈子领先\"（C-JS-U0068-02）；\"请注意，是主动退场\"；杜鲁门例见 C-JS-U0068-03"
+    },
+    {
+      "claim_id": "C-JS-U0068-02",
+      "unit_id": "JS-U0068",
+      "speaker": "转述·第三方",
+      "claim_text": "格拉德威尔《异类》：一朝领先，一辈子领先",
+      "quote": "一朝领先，一辈子领先",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3214,
+        "end_line": 3214,
+        "sha1": "2810c2283d96cc4db10c840a34883544147c0d57",
+        "fingerprint": [
+          "格拉德威尔",
+          "一朝领先"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "一朝领先一辈子领先",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=格拉德威尔《异类》；吴军不认同并以马拉松长跑反驳（C-JS-U0068-01）"
+    },
+    {
+      "claim_id": "C-JS-U0068-03",
+      "unit_id": "JS-U0068",
+      "speaker": "史实",
+      "claim_text": "杜鲁门输在起跑线、一事无成十余年，最终靠耐心、运气和勤奋赢得长跑当上总统",
+      "quote": "输得一塌糊涂",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3240,
+        "end_line": 3242,
+        "sha1": "b29473a7a232dcc8bb488cd418ab627c2bbff522",
+        "fingerprint": [
+          "杜鲁门",
+          "起跑线上",
+          "耐心、运气和勤奋"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "杜鲁门长跑获胜",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（起跑线输≠一生输）；罗斯（第一名+普利策奖）为对照组；吴军判断见 C-JS-U0068-04"
+    },
+    {
+      "claim_id": "C-JS-U0068-04",
+      "unit_id": "JS-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "起跑线上的输赢对一生的影响并没有那么大",
+      "quote": "并不是那么大",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3242,
+        "end_line": 3242,
+        "sha1": "8c784b0c0b0441918afd9669bfa86fa5939f34d7",
+        "fingerprint": [
+          "起跑线上的输赢",
+          "影响并不是那么大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "起跑线影响有限",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "1948年杜鲁门抢得优先起跑权仍一直落后再证；论据即 C-JS-U0068-03 案例史实"
+    },
+    {
+      "claim_id": "C-JS-U0068-05",
+      "unit_id": "JS-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "与其抢跑练爆发力，不如练就一颗永远摔不坏的强大心脏，坚持跑完还能欣赏风景",
+      "quote": "永远摔不坏的强大心脏",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3250,
+        "end_line": 3250,
+        "sha1": "920d590e5db4942b087f32193c80b963ea1074eb",
+        "fingerprint": [
+          "强大心脏",
+          "欣赏路旁的风景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "练就强大心脏",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "玻璃心成因论述（3244-3248）属家庭教育语境（X5 倾向），仅作背景未单独成卡；清华班主任观察为例证"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第52节核心论点单元：马拉松人生观、起跑线有限影响、强大心脏均成卡；教育语境部分留痕"
+}

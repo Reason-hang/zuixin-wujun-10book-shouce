@@ -1,0 +1,216 @@
+{
+  "unit_id": "JS-U0072",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0072-01",
+      "unit_id": "JS-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "阅读不仅是通过文字获取信息，本身是一种生活方式，还可用于交友",
+      "quote": "是一种生活的行为",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3396,
+        "end_line": 3396,
+        "sha1": "0d096f27a6bd1cc11b49af6aab7987d82da82fa5",
+        "fingerprint": [
+          "生活的行为",
+          "比如交友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "阅读是生活方式",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "老奶奶读《哈利·波特》与孙子重建话题例（3390-3394）；钱锺书《围城》借书利于男女交往（E2 线索，同段）；3420\"阅读本身就是一种生活方式\"呼应"
+    },
+    {
+      "claim_id": "C-JS-U0072-02",
+      "unit_id": "JS-U0072",
+      "speaker": "史实",
+      "claim_text": "富兰克林向政敌借书化敌为友：借书证明共同语言，是深交与合作的起点",
+      "quote": "他去向对方借书",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3398,
+        "end_line": 3398,
+        "sha1": "c7d1b46b83a3ae26d5a42fd75cac24099311a11b",
+        "fingerprint": [
+          "富兰克林",
+          "共同语言",
+          "惺惺相惜"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D07-2",
+        "D07-1"
+      ],
+      "concept_key": "富兰克林借书术",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "出处=富兰克林自传（吴军转述）；机理：共同语言→搭得上话→合作，惺惺相惜是深度交流后的结果；呼应 C-JS-U0072-01 交友用途"
+    },
+    {
+      "claim_id": "C-JS-U0072-03",
+      "unit_id": "JS-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "审视人生需要闲暇；阅读（尤其纸质长读）是当下能审视人生的不多方法之一",
+      "quote": "审视人生",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3406,
+        "end_line": 3406,
+        "sha1": "22dc4e179938c00b723f50f9e975014f646f56fc",
+        "fingerprint": [
+          "未经审视的人生不值得度过",
+          "闲暇"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-2"
+      ],
+      "concept_key": "阅读以审视人生",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "苏格拉底语见 C-JS-U0072-04；反衬：刷屏获取资讯夺走闲暇（3402-3404\"快节奏实无节奏、怕错过\"）"
+    },
+    {
+      "claim_id": "C-JS-U0072-04",
+      "unit_id": "JS-U0072",
+      "speaker": "转述·第三方",
+      "claim_text": "苏格拉底：未经审视的人生不值得度过",
+      "quote": "未经审视的人生不值得度过",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3406,
+        "end_line": 3406,
+        "sha1": "22dc4e179938c00b723f50f9e975014f646f56fc",
+        "fingerprint": [
+          "苏格拉底"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "未经审视的人生不值得度过",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=苏格拉底（临死之言）；吴军取用：以阅读获得闲暇来审视人生（C-JS-U0072-03）"
+    },
+    {
+      "claim_id": "C-JS-U0072-05",
+      "unit_id": "JS-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "好书能帮人重新认识自己、认清世界、解开心头疑惑，最终成为更好的人",
+      "quote": "成为一个更好的人",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3408,
+        "end_line": 3408,
+        "sha1": "7e1ab3477eeeb803b0633ecb93825f1aaf26b742",
+        "fingerprint": [
+          "重新认识自己",
+          "《富兰克林自传》"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "好书重塑自我",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军多次重读《富兰克林自传》自省例；《地球》《从一到无穷大》引导其走上科研路（3410，经历→判断线索）"
+    },
+    {
+      "claim_id": "C-JS-U0072-06",
+      "unit_id": "JS-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "为非常明确的目的找书读未必达到预期；好书往往在不经意之间发现",
+      "quote": "在不经意之间发现的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3414,
+        "end_line": 3414,
+        "sha1": "922f3a22ea3fec3fc901484372c27ec2e8348684",
+        "fingerprint": [
+          "明确的目的",
+          "《曾文正公家书》"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "选书不经意发现",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "励志书与快消费书多是\"绝对正确又绝对无用的大道理\"；读坏书亦无损失或得警示（3416，《曾文正公家书》偶遇例）"
+    },
+    {
+      "claim_id": "C-JS-U0072-07",
+      "unit_id": "JS-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "阅读是抵抗狭隘、思想控制和舆论支配的方式",
+      "quote": "抵抗狭隘、思想控制和舆论支配",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3418,
+        "end_line": 3418,
+        "sha1": "ac822262e6857a08f0a3d1ad3d03e25d6f28fbd2",
+        "fingerprint": [
+          "纳菲西",
+          "传世的文学作品"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "阅读抵抗狭隘",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "纳菲西《在德黑兰读〈洛丽塔〉》：传世文学有借肯定生命对抗无常的反抗精神（E2 线索，同段）"
+    },
+    {
+      "claim_id": "C-JS-U0072-08",
+      "unit_id": "JS-U0072",
+      "speaker": "转述·第三方",
+      "claim_text": "圣埃德蒙：终身学习，向死而生",
+      "quote": "终身学习，向死而生",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3420,
+        "end_line": 3422,
+        "sha1": "2ae723b0ae14fe4a9736e1baded591ba049a85c9",
+        "fingerprint": [
+          "圣埃德蒙",
+          "坎特伯雷大主教"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "终身学习向死而生",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=圣埃德蒙（13世纪坎特伯雷大主教，甘地等引用）；吴军视之为阅读的另一种诠释"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第56节核心论点单元：阅读的意义（生活方式/审视人生/抵抗狭隘）与选书法均成卡"
+}

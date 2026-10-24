@@ -1,0 +1,167 @@
+{
+  "unit_id": "JS-U0070",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0070-01",
+      "unit_id": "JS-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "我不认同\"小时候穷一辈子穷\"：吃过苦的人往往更有动力向上、更懂珍惜与回报",
+      "quote": "总的来讲我并不认同",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3320,
+        "end_line": 3320,
+        "sha1": "b4a2a927cb0d0ff32a39d9138a4d18185dc4ed12",
+        "fingerprint": [
+          "小时候穷，一辈子穷",
+          "更有动力努力向上"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "穷不代表一辈子穷",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：布隆伯格送奶工之子成大慈善家；反例：锦衣玉食子女家道中落后难过（3322）；\"人穷志短\"现象陈述（3316-3318）"
+    },
+    {
+      "claim_id": "C-JS-U0070-02",
+      "unit_id": "JS-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "相关并不代表构成因果关系：贫穷与发展不顺相关，但找到根本原因就未必没机会",
+      "quote": "相关并不代表构成因果关系",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3326,
+        "end_line": 3326,
+        "sha1": "2be5c635c6b267aeee1ec19bc54b7bd3b302f0c2",
+        "fingerprint": [
+          "因果关系",
+          "酵母"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "相关不等于因果",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：德国\"女性更会酿啤酒\"的统计假象实为酵母之故；与 C-JS-U0076-03（布鲁诺三事实）同类因果辨析"
+    },
+    {
+      "claim_id": "C-JS-U0070-03",
+      "unit_id": "JS-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "缺乏见识、缺乏爱、缺乏规矩，是比缺钱更可怕的事，且三者之缺与穷没有必然联系",
+      "quote": "是比缺钱更可怕的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3344,
+        "end_line": 3344,
+        "sha1": "f0ef32a6643140f4459b4202e0a232d4ea723693",
+        "fingerprint": [
+          "缺乏见识、缺乏爱、缺乏规矩",
+          "没有必然联系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-3"
+      ],
+      "concept_key": "比贫穷更可怕的三缺",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "三缺总括卡：见识分支见 C-JS-U0070-04，爱分支见 C-JS-U0070-05，规矩分支见 C-JS-U0070-06；\"机会总是有的\"；家长培养三不缺句（3344）属家教语境（X5 倾向）留痕"
+    },
+    {
+      "claim_id": "C-JS-U0070-04",
+      "unit_id": "JS-U0070",
+      "speaker": "转述·第三方",
+      "claim_text": "庄子：夏虫不可语冰、曲士不可语道，皆受限于时与教",
+      "quote": "夏虫不可以语于冰者",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3328,
+        "end_line": 3330,
+        "sha1": "8a823e2e5dad3ff206e802459bfa4a1699f65903",
+        "fingerprint": [
+          "夏虫不可以语于冰者",
+          "束于教也"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4",
+        "D01-3"
+      ],
+      "concept_key": "夏虫不可语冰",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=庄子《秋水》；吴军取用：没见识者认知不在同一平面，勿与其争论徒费口舌；U0071 对话庄子再引此句"
+    },
+    {
+      "claim_id": "C-JS-U0070-05",
+      "unit_id": "JS-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "缺乏爱的人难以大气，不大气的人做不成大事；钱花在别人身上才发挥最大效能",
+      "quote": "缺乏爱的人难以大气",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3338,
+        "end_line": 3338,
+        "sha1": "613d3596f37c0941a712559ab6c479bb49d18eb2",
+        "fingerprint": [
+          "不大气的人做不成大事",
+          "更高的回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D02-3"
+      ],
+      "concept_key": "缺爱难大气",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "独生子女无分享习惯例（3334-3336，家庭语境例证）；三缺之\"爱\"分支，母卡 C-JS-U0070-03"
+    },
+    {
+      "claim_id": "C-JS-U0070-06",
+      "unit_id": "JS-U0070",
+      "speaker": "吴军本人",
+      "claim_text": "缺乏规矩会令人踩到别人而不自知，轻则无人相助，重则众人与之为敌",
+      "quote": "比贫穷更可怕的是缺乏规矩",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3340,
+        "end_line": 3340,
+        "sha1": "7f83e0ec815ea88668e5f27ab3c7d0dacb54452c",
+        "fingerprint": [
+          "没有人帮助是不行的",
+          "缺乏规矩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D02-3"
+      ],
+      "concept_key": "缺规矩之害",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：老太太向飞机发动机撒币、乘客放下应急滑梯（3342）；\"熊孩子\"；三缺之\"规矩\"分支，母卡 C-JS-U0070-03"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第54节核心论点单元：三缺总括+分支、相关非因果、庄子转述均成卡"
+}

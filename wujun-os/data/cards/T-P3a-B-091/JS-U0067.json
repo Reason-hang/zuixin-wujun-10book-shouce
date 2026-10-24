@@ -1,0 +1,148 @@
+{
+  "unit_id": "JS-U0067",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0067-01",
+      "unit_id": "JS-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "在工程和科学上，智力只是成功的诸多因素之一，远不是决定性的",
+      "quote": "远不是决定性的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3176,
+        "end_line": 3176,
+        "sha1": "64c73b2065779c1f314193c0f3c6024ee348750d",
+        "fingerprint": [
+          "智力",
+          "诸多因素",
+          "决定性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "智力非成功决定因素",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "佐证：谷歌内部成就最大者并非智力最高者（3174）；四位诺奖得主未必比同事聪明（3184）；格拉德威尔智商120论见 C-JS-U0067-02"
+    },
+    {
+      "claim_id": "C-JS-U0067-02",
+      "unit_id": "JS-U0067",
+      "speaker": "转述·第三方",
+      "claim_text": "格拉德威尔：智商120以上就基本够用，超过之后智力就不再决定性",
+      "quote": "智商在120以上就基本够用了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3184,
+        "end_line": 3184,
+        "sha1": "442dd7b32dbecfe1c2fd5fb9f22a530d05b11148",
+        "fingerprint": [
+          "格拉德威尔",
+          "智商在120以上就基本够用了"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "智商120够用论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=格拉德威尔《异类》；吴军引以佐证智力与成就非完全正相关（C-JS-U0067-01）"
+    },
+    {
+      "claim_id": "C-JS-U0067-03",
+      "unit_id": "JS-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "人的天赋是全方位的而非单一，用单一量化指标给人贴标签是不对的",
+      "quote": "给人贴上标签也是不对的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3198,
+        "end_line": 3198,
+        "sha1": "4ac8ff5ff119867d4e6b2f6de2e01f04a8ac151a",
+        "fingerprint": [
+          "天赋",
+          "智商、情商",
+          "贴上标签"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "天赋全方位不可单指标",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "爱因斯坦大脑研究无一统一定论、大脑重量低于常人（3192-3196）为背景例证"
+    },
+    {
+      "claim_id": "C-JS-U0067-04",
+      "unit_id": "JS-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "爱因斯坦的过人之处：善于提出问题、不受约束地白日梦式思考、以恒心根本解决问题",
+      "quote": "善于提出问题",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3200,
+        "end_line": 3206,
+        "sha1": "512ce5c6e24b2a13516a5a5cc7fa6ab532df7fc2",
+        "fingerprint": [
+          "善于提出问题",
+          "白日梦",
+          "恒心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D01-3"
+      ],
+      "concept_key": "天才三特质：提问、白日梦、恒心",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式一卡；张首晟评斯坦福与清华差距在提出问题（转述线索，3200）；总结见 C-JS-U0067-05"
+    },
+    {
+      "claim_id": "C-JS-U0067-05",
+      "unit_id": "JS-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "我们与天才的差异多半不在生理，而在认识、见识、勇气与方法，应学其做事方法",
+      "quote": "而是在其他方面",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3208,
+        "end_line": 3208,
+        "sha1": "f5fe0158950c783be8d4c364e288c04d4f99c52c",
+        "fingerprint": [
+          "认识上、见识上",
+          "多学习他们做事情的方法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "与天才差距在认识见识方法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本节总结句；三特质清单见 C-JS-U0067-04；\"这些是我们可以控制的\"落在行动层"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第51节核心论点单元：智力与成就关系、天赋多维、天才三特质与差距结论均成卡"
+}

@@ -1,0 +1,253 @@
+{
+  "unit_id": "JS-U0076",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0076-01",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "说服人靠事实而非口才：狡辩让人无话可说但心不服，事实让人无法辩驳",
+      "quote": "事实比口才更重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3534,
+        "end_line": 3534,
+        "sha1": "410970cea5475f0d15cedcb51efd1d38fad313ca",
+        "fingerprint": [
+          "心服",
+          "无法辩驳"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "事实比口才重要",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "日心说被接受靠事实；与 C-JS-U0075-01、C-JS-U0076-04 互引"
+    },
+    {
+      "claim_id": "C-JS-U0076-02",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "科技发展起步靠常识，接下来的发展靠科学逻辑，次序不可能颠倒",
+      "quote": "次序是不可能颠倒的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3534,
+        "end_line": 3534,
+        "sha1": "410970cea5475f0d15cedcb51efd1d38fad313ca",
+        "fingerprint": [
+          "起步靠常识",
+          "科学逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "常识起步逻辑发展",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "地心说依常识建立亦合情合理、托勒密模型数学上完美（3534-3540，史实背景）"
+    },
+    {
+      "claim_id": "C-JS-U0076-03",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "三件真实事迹并摆并不构成因果推论：布鲁诺并非因坚持日心说而被处死",
+      "quote": "但这并非事实",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3548,
+        "end_line": 3548,
+        "sha1": "c75bc700d8fffd5d890b30ed4b05bbece42cbaa6",
+        "fingerprint": [
+          "因果关系",
+          "泛神论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "三事实不构成因果",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "布鲁诺实因泛神论与宣扬教会丑闻被处死；与 C-JS-U0070-02（相关非因果）同类辨析，吴军的认知方法论"
+    },
+    {
+      "claim_id": "C-JS-U0076-04",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "说服固化的上级不靠争吵与巧舌，而是拿出不可辩驳的事实、以对方能接受的方式",
+      "quote": "难以无视事实",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3554,
+        "end_line": 3556,
+        "sha1": "bc66d9e217c71cb2b900d6fd3ee110b5e50a93e3",
+        "fingerprint": [
+          "不可辩驳的事实",
+          "别人能够接受的方式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-1"
+      ],
+      "concept_key": "以事实说服上级",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "规则⑫：以职业发展为目的的沟通归 D06-3；\"能否说服上级对职级提升非常重要\"；陆奇例见 C-JS-U0076-05"
+    },
+    {
+      "claim_id": "C-JS-U0076-05",
+      "unit_id": "JS-U0076",
+      "speaker": "史实",
+      "claim_text": "陆奇以事先模拟实验的数据说服杨致远推翻旧系统，靠证据而非辩才获跳级提升",
+      "quote": "做了模拟实验",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3558,
+        "end_line": 3558,
+        "sha1": "e53839181026aa34cb0470b8d943ff62bf190550",
+        "fingerprint": [
+          "陆奇",
+          "杨致远",
+          "跳级提升"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-1"
+      ],
+      "concept_key": "陆奇以数据说服",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理：预答对方所有可能质疑、用收益证明方案；母论 C-JS-U0076-04"
+    },
+    {
+      "claim_id": "C-JS-U0076-06",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "职场上掌握真理的直言挑战者可敬，拿出证据的建设者更加有用",
+      "quote": "更加有用",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3560,
+        "end_line": 3560,
+        "sha1": "4879bdeb65f00e81719e16d8af4aa40c9914f32b",
+        "fingerprint": [
+          "布鲁诺",
+          "伽利略",
+          "建设者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-1"
+      ],
+      "concept_key": "做建设者而非挑战者",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "布鲁诺（下策：攻击信仰）与伽利略（证据）对照；笨嘴拙舌者可搬救兵（引出进化论公案）"
+    },
+    {
+      "claim_id": "C-JS-U0076-07",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "说服要对事不对人：只否定对方体系中最薄弱的环节，不全面否定",
+      "quote": "对事不对人",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3570,
+        "end_line": 3570,
+        "sha1": "35033c9b30a7762ba98b6d18b04b07684930c96a",
+        "fingerprint": [
+          "对事不对人",
+          "全面否定"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "对事不对人",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "赫胥黎只反宗教落后思想、拿《创世记》大洪水开刀（3570-3572）；产品类比：只证部分功能过时即可（3574）"
+    },
+    {
+      "claim_id": "C-JS-U0076-08",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "宣传新思维的人常比提出新思维的人作用更大",
+      "quote": "作用更大",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3580,
+        "end_line": 3580,
+        "sha1": "ed0fb0c089906f00f6b0dc1d3d0a2971ee7edd6b",
+        "fingerprint": [
+          "宣传新思维",
+          "提出新思维"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D10-1"
+      ],
+      "concept_key": "宣传者大于提出者",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "赫胥黎之于达尔文；技术专家有主意不会推广，需愿宣传的产品经理；同盟军论见 C-JS-U0076-09"
+    },
+    {
+      "claim_id": "C-JS-U0076-09",
+      "unit_id": "JS-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "成功不仅取决于个人能力，更要靠调动资源的能力；聪明人总是善于借力",
+      "quote": "聪明人总是善于借力的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3590,
+        "end_line": 3590,
+        "sha1": "6982e659f5308a1c2a6c556a31c6763e1d8eddaa",
+        "fingerprint": [
+          "调动资源的能力",
+          "同盟军",
+          "借力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "善于借力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "两类同盟军：捍卫思想者+理性找证据者（进化论被接受的两类人）；\"你们单位的领导比教会还保守吗\"反问"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第59节核心论点单元：事实胜口才、因果辨析、说服上级、建设者、对事不对人、借力均成卡"
+}

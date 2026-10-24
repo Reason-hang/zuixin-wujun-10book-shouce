@@ -1,0 +1,189 @@
+{
+  "unit_id": "JS-U0069",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0069-01",
+      "unit_id": "JS-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "人在运气不好时最需要的不是盲目努力，而是慢下来有耐心地做事，让时间成为朋友",
+      "quote": "摆脱坏运气的关键是耐心",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3298,
+        "end_line": 3298,
+        "sha1": "3054795104cc16ebaef51d7bcb8223bfc685331a",
+        "fingerprint": [
+          "慢下来思考",
+          "耐心是成功的第一要素"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "耐心是成功第一要素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "布罗迪毕业演讲主旨的吴军化转述（\"根据我的理解…用我的话讲\"）；美国股市25天错失例为投资侧例证；马尔基尔语另卡 C-JS-U0069-02"
+    },
+    {
+      "claim_id": "C-JS-U0069-02",
+      "unit_id": "JS-U0069",
+      "speaker": "转述·第三方",
+      "claim_text": "马尔基尔：时间是你的朋友，而时机不是；聪明投资人永远在场不投机择时",
+      "quote": "时间是你的朋友，而时机不是",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3298,
+        "end_line": 3298,
+        "sha1": "3054795104cc16ebaef51d7bcb8223bfc685331a",
+        "fingerprint": [
+          "马尔基尔",
+          "投机挑选最低点"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "时间是朋友时机不是",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=马尔基尔（谷歌\"金融学101\"课程导师）；吴军取用于耐心论（C-JS-U0069-01）；概念键与TD\"时间是朋友时机不是\"互映"
+    },
+    {
+      "claim_id": "C-JS-U0069-03",
+      "unit_id": "JS-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "杜鲁门成功的要素是耐心，以及善于把看似无用的经历变成日后成功的财富",
+      "quote": "变成帮助日后成功的财富",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3298,
+        "end_line": 3298,
+        "sha1": "3054795104cc16ebaef51d7bcb8223bfc685331a",
+        "fingerprint": [
+          "耐心",
+          "经历变为今后成功的铺路石"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "经历变经验",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "任何经历善于利用都是财富；杜鲁门务农/神职/法律/军旅经历皆成铺路石；概念键与FZ\"经历变经验\"互映"
+    },
+    {
+      "claim_id": "C-JS-U0069-04",
+      "unit_id": "JS-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "社会上不是强者生存，而是适者生存",
+      "quote": "不是强者生存，而是适者生存",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3302,
+        "end_line": 3302,
+        "sha1": "9159d225ac6e9f2172172e8bb70c6c9fcc20ad1c",
+        "fingerprint": [
+          "适者生存",
+          "耐心和踏实"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "适者生存而非强者",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：杜鲁门1948年落后仍一个选区一个选区认真拉票，靠耐心和踏实等来运气"
+    },
+    {
+      "claim_id": "C-JS-U0069-05",
+      "unit_id": "JS-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "成功时感谢帮助者与命运，厄运中泰然自若看清自己；认同运气者少怨气、更接近成功",
+      "quote": "更接近成功",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3306,
+        "end_line": 3306,
+        "sha1": "c8480a1e3aa90850a44280d82d278e2868c1e770",
+        "fingerprint": [
+          "感谢帮助过自己的人",
+          "泰然自若",
+          "对运气的认同"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-4"
+      ],
+      "concept_key": "认同运气少怨气",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "反例：成功归己、失败怨运气（股民与救济领取者心态）；\"对运气的认同\"是关键机制"
+    },
+    {
+      "claim_id": "C-JS-U0069-06",
+      "unit_id": "JS-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "我们不必对自己太苛求：尽人事、听天命，问心无愧是唯一稳得的报酬",
+      "quote": "尽人事、听天命",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3308,
+        "end_line": 3308,
+        "sha1": "84b11dd42274c5346fe23a4b97a857a18e8f863f",
+        "fingerprint": [
+          "问心无愧",
+          "苛求"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "尽人事听天命",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "引肯尼迪\"问心无愧是我们唯一稳得的报酬\"（E2 线索，嵌于本句未另卡）；条件句：努力了运气没来怎么办"
+    },
+    {
+      "claim_id": "C-JS-U0069-07",
+      "unit_id": "JS-U0069",
+      "speaker": "吴军本人",
+      "claim_text": "知道成功有多大运气成分才会一生谦卑、不沾沾自喜，从而不断得到好运",
+      "quote": "没有为自己的成功沾沾自喜",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3304,
+        "end_line": 3304,
+        "sha1": "2cc96cfeeaecb2cf92f966a0e2b47c7034f3156a",
+        "fingerprint": [
+          "沾沾自喜",
+          "好运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-4"
+      ],
+      "concept_key": "知运气而谦卑",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "谦卑=朴实低调而非卑（3300，吴军孩子老师语\"谦卑者比夸夸其谈者更自信\"为E2线索）；杜鲁门靠谦卑被各方接受提名副总统"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第53节核心论点单元：耐心、经历变财富、适者生存、运气认同、尽人事听天命、知运气而谦卑均成卡"
+}

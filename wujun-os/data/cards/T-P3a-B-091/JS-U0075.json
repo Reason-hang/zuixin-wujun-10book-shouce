@@ -1,0 +1,66 @@
+{
+  "unit_id": "JS-U0075",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0075-01",
+      "unit_id": "JS-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "讲理四法：观点旗帜鲜明；用对方价值观反证其行为；批评委婉；自赞理直气壮",
+      "quote": "旗帜鲜明",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3516,
+        "end_line": 3516,
+        "sha1": "eee25ba2401355c390a9ddf706bc7afde165cab4",
+        "fingerprint": [
+          "旗帜鲜明",
+          "违背了他们自己的观点",
+          "理直气壮"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "讲理四法",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "吴军对赵小兰2017电视采访的方法论总结；\"以子之矛陷子之盾\"（3510）；移民/族裔政策细节属时政（X2 倾向），仅取可迁移方法；与 C-JS-U0076-01 互引"
+    },
+    {
+      "claim_id": "C-JS-U0075-02",
+      "unit_id": "JS-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "善于讲道理、说服人而非崇尚武力权力霸道，是文明进步的体现；说服技巧要学一辈子",
+      "quote": "善于讲道理",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3518,
+        "end_line": 3518,
+        "sha1": "61cabd212e37401c759b5e2ce05bee48795534c8",
+        "fingerprint": [
+          "文明进步",
+          "学习一辈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "说服而非强力",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "烛之武/蔺相如/毛遂、塔列朗/梅特涅例（史实线索，编者注3526-3528）；原文OCR\"丨划艮人\"即\"说服人\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第58节核心论点单元：吴军对赵小兰讲理术的四点总结与说服文明论成卡"
+}

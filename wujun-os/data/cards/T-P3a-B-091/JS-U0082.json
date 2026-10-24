@@ -1,0 +1,194 @@
+{
+  "unit_id": "JS-U0082",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0082-01",
+      "unit_id": "JS-U0082",
+      "speaker": "转述·第三方",
+      "claim_text": "司马迁五层次：善者因之，其次利道之，其次教诲之，其次整齐之，最下者与之争",
+      "quote": "故善者因之",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3904,
+        "end_line": 3904,
+        "sha1": "5153d716d97933bff54f946a94b7f21faec71de1",
+        "fingerprint": [
+          "善者因之",
+          "利道之",
+          "与之争"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-2"
+      ],
+      "concept_key": "善者因之五层次",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=司马迁《史记·货殖列传》；\"因势利导\"出典；吴军的普适化取用见 C-JS-U0082-02"
+    },
+    {
+      "claim_id": "C-JS-U0082-02",
+      "unit_id": "JS-U0082",
+      "speaker": "吴军本人",
+      "claim_text": "因之原理从教育、管理到商业普遍适用：最好让对象自己发挥，最差的是与之相争",
+      "quote": "普遍适用的一个原理",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3906,
+        "end_line": 3906,
+        "sha1": "6ed74845656fb3ad1e4b813e8d8c4a7a243b9fd3",
+        "fingerprint": [
+          "发挥特长和潜力",
+          "因势利导"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-2"
+      ],
+      "concept_key": "因势利导原理",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "教育五档映射（3908）属教育语境（X5 倾向）仅作例；政府\"开放商业优于顶层设计\"（3910）属政策层（X6 倾向）留痕；投资人建议勿去商业风气不浓城市（3912）属时点建议（X2 倾向）留痕"
+    },
+    {
+      "claim_id": "C-JS-U0082-03",
+      "unit_id": "JS-U0082",
+      "speaker": "转述·第三方",
+      "claim_text": "司马迁：人性趋利——\"天下熙熙，皆为利来；天下攘攘，皆为利往\"",
+      "quote": "天下熙熙，皆为利来",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3914,
+        "end_line": 3914,
+        "sha1": "38c76042d0d2caa19281ff808a656bff9258e36f",
+        "fingerprint": [
+          "熙熙攘攘",
+          "欧几里得",
+          "理性的、商业的人"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "天下熙熙皆为利来",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=司马迁；吴军引申：现代经济学即建立在\"人是理性的、商业的人\"公理之上，如同欧几里得五条公理（同段）"
+    },
+    {
+      "claim_id": "C-JS-U0082-04",
+      "unit_id": "JS-U0082",
+      "speaker": "吴军本人",
+      "claim_text": "既要马儿跑又要马儿不吃草有悖人性：耻于言利的环境徒增成本与不信任",
+      "quote": "既要马儿跑，又要马儿不吃草",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3916,
+        "end_line": 3916,
+        "sha1": "d7b106a58cf47bfdd73c049d139763de5efcbf94",
+        "fingerprint": [
+          "有悖于人性",
+          "耻于言利"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-2"
+      ],
+      "concept_key": "不能既让马跑又不吃草",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "承接 -03 人性趋利：表面耻于言利、私下肆无忌惮谋私，既不降成本也无益教化"
+    },
+    {
+      "claim_id": "C-JS-U0082-05",
+      "unit_id": "JS-U0082",
+      "speaker": "转述·第三方",
+      "claim_text": "司马迁：微小卑贱的生意（农、油、酒）做到极致，也能获得巨大的成功",
+      "quote": "做到极致，也能获得巨大的成功",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3918,
+        "end_line": 3918,
+        "sha1": "617c2e97d5a940ba33d9d9d093ccbae268bdb685",
+        "fingerprint": [
+          "卖油",
+          "贩酒"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "小生意做到极致",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=司马迁（《货殖列传》末两观点之一）；吴军引申：创业勿追新概念，把人的基本需求做到极致"
+    },
+    {
+      "claim_id": "C-JS-U0082-06",
+      "unit_id": "JS-U0082",
+      "speaker": "转述·第三方",
+      "claim_text": "司马迁：没有核心业务的商人生意持久不了；商业优胜劣汰，无能者生意终将瓦解",
+      "quote": "核心业务的重要性",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3918,
+        "end_line": 3918,
+        "sha1": "617c2e97d5a940ba33d9d9d093ccbae268bdb685",
+        "fingerprint": [
+          "核心业务",
+          "优胜劣汰"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "核心业务定生死",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=司马迁（末两观点之二）；能者聚集各方资源、庸者瓦解；与 C-JS-U0077-03（投人）遥相呼应"
+    },
+    {
+      "claim_id": "C-JS-U0082-07",
+      "unit_id": "JS-U0082",
+      "speaker": "吴军本人",
+      "claim_text": "从史书中学到智慧，比知道一些故事更重要",
+      "quote": "比知道一些故事更重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3922,
+        "end_line": 3922,
+        "sha1": "8288d632342eb51a6e88d3f21c51e66c6dae38dd",
+        "fingerprint": [
+          "看故事",
+          "智慧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "从史书中学智慧",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "《货殖列传》被多数看热闹者忽略；读史方法归 D02-2；\"对了解人性、处理上下级关系有益\"（3920）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第64节核心论点单元：善者因之五层次、人性趋利、小生意极致、核心业务、读史学智慧均成卡"
+}

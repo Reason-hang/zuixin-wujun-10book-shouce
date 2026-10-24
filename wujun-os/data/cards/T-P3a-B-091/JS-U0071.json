@@ -1,0 +1,147 @@
+{
+  "unit_id": "JS-U0071",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0071-01",
+      "unit_id": "JS-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "成败取决于见识的高低而非简单的努力；见识的高低取决于我们所处的环境",
+      "quote": "取决于他们的见识",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3366,
+        "end_line": 3366,
+        "sha1": "c769cf6bf25012a2d853a1e917e30fade670c2e6",
+        "fingerprint": [
+          "见识的高低",
+          "名师出高徒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D01-2"
+      ],
+      "concept_key": "见识决定能走多远",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "\"名师出高徒\"\"与比自己好的人为伍\"皆为提高见识；吴军29岁放弃既得利益赴约翰·霍普金斯开眼界例（3368）；章首引言（U0066）并入本卡"
+    },
+    {
+      "claim_id": "C-JS-U0071-02",
+      "unit_id": "JS-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "提升境界的阻力很多时候在我们自身而不在环境：心中自筑一道墙阻碍见识",
+      "quote": "阻力很多时候在我们自身",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3372,
+        "end_line": 3372,
+        "sha1": "0fffc34f3cb47f10478d3f1aaa109ef9e8c84966",
+        "fingerprint": [
+          "一道墙",
+          "在我们自身"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "心中围墙阻碍见识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "毛泽东出韶山冲例；不愿开放因满足于自身成就（3374）；与 C-JS-U0071-01 互为表里"
+    },
+    {
+      "claim_id": "C-JS-U0071-03",
+      "unit_id": "JS-U0071",
+      "speaker": "转述·第三方",
+      "claim_text": "庄子《逍遥游》：大和小、长和短都是相对的，放到更大环境自显渺小",
+      "quote": "大和小是相对的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3374,
+        "end_line": 3374,
+        "sha1": "12a96e808b0aff88d4b92f5cb9e98000dc43b3d8",
+        "fingerprint": [
+          "逍遥游",
+          "大和小是相对的",
+          "大椿"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4",
+        "D01-2"
+      ],
+      "concept_key": "大小长短相对论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=庄子（鲲鹏、朝菌大椿八千岁为春秋）；吴军取用见 C-JS-U0071-04"
+    },
+    {
+      "claim_id": "C-JS-U0071-04",
+      "unit_id": "JS-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "把成就放进大时代与历史长河看不足挂齿；跳出认识局限，自认重要的工作多可有可无",
+      "quote": "其实是可有可无的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3376,
+        "end_line": 3376,
+        "sha1": "8cc1738ab838629b13d6bb2e2f73c79f56cff639",
+        "fingerprint": [
+          "历史的长河",
+          "沾沾自喜",
+          "可有可无"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D01-2"
+      ],
+      "concept_key": "大尺度看成就",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：微软软件十余年无大变化（3378，专名例证入注）、西敏寺牛顿墓感悟（3380）；庄子相对论（C-JS-U0071-03）的吴军取用"
+    },
+    {
+      "claim_id": "C-JS-U0071-05",
+      "unit_id": "JS-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "并非越大越好：过分追求大与长远很可能一事无成，大小相辅相成、把握度是艺术",
+      "quote": "越大越好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3382,
+        "end_line": 3382,
+        "sha1": "a931e23abc753b7d7c827fcab84626b2b2d02245",
+        "fingerprint": [
+          "一事无成",
+          "相辅相成"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "把握大小的度",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "庄子\"从细小看宏大不可能全面，从宏大看细小不可能真切\"（转述线索，同段）；对 C-JS-U0071-04 的补正平衡"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第55节核心论点单元：见识决定论、心中围墙、大尺度看成就、大小之度均成卡；吸收章首引言（U0066）"
+}

@@ -1,0 +1,230 @@
+{
+  "unit_id": "JS-U0074",
+  "book_code": "JS",
+  "extractor": "EXT-JS5",
+  "batch_id": "T-P3a-B-091",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0074-01",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "演讲是一对多的信息传播，目的是让听众接受你要传递的信息，而非把话说完",
+      "quote": "其目的是让听众接受",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3452,
+        "end_line": 3452,
+        "sha1": "de2360500ab970d547c04b35dec8d3371927b8c7",
+        "fingerprint": [
+          "一对多的信息传播",
+          "忘记了这个目的"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "演讲以听众接受为目的",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "牧师与出租车司机笑话引子（3446-3450）；三个毛病见 C-JS-U0074-02/03/04"
+    },
+    {
+      "claim_id": "C-JS-U0074-02",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "演讲缺乏对听众的针对性，同一讲法走天下，内容再好效果也不佳",
+      "quote": "缺乏对听众的针对性",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3456,
+        "end_line": 3462,
+        "sha1": "94f2356061fdbf9e30067727fe5082e061675a91",
+        "fingerprint": [
+          "同一个讲法",
+          "听众群是谁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "演讲要针对听众",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "三毛病之一；吴军做法：先问清听众群与知识背景，技术报告听众分四类分别备课；与 C-JS-U0077-01 互引"
+    },
+    {
+      "claim_id": "C-JS-U0074-03",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "能讲多少取决于听众接受的速度与专注度；讲清一件事目的即达，要点不超过三条",
+      "quote": "真能把一件事讲清楚",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3464,
+        "end_line": 3470,
+        "sha1": "646236a6894e4f2e40749bcfaef6d0fec7f4401f",
+        "fingerprint": [
+          "理解的速度就是瓶颈",
+          "超过三条"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "一次讲清一件事",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "三毛病之二（贪多）：提高语速反而接受更少、拖堂留坏印象；\"100条秘诀\"类书无用；与 C-JS-U0077-06 互引"
+    },
+    {
+      "claim_id": "C-JS-U0074-04",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "靠段子和八卦哗众取宠，听众听完只记住段子；前后矛盾反留笑柄",
+      "quote": "哗众取宠",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3472,
+        "end_line": 3474,
+        "sha1": "98981938e9a5afa74a95b210697716c84fa4b103",
+        "fingerprint": [
+          "段子和八卦",
+          "留下笑柄"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "哗众取宠之弊",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "三毛病之三；大话空话煽情口号、逻辑不能自洽；母论 C-JS-U0074-01"
+    },
+    {
+      "claim_id": "C-JS-U0074-05",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "讲话人有责任保证信息按时准确送达并被理解；确认对方收到是交往的基本技巧",
+      "quote": "确认对方收到你的信息",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3478,
+        "end_line": 3478,
+        "sha1": "2633de34a2d1e66e365bb2b986a8691a935e9ca4",
+        "fingerprint": [
+          "通信协议",
+          "基本技巧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通以确认为准",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "类比通信协议的确认机制（D04-2 线索）；无效沟通引发吵架例（3476）；概念键与TD同名键互映"
+    },
+    {
+      "claim_id": "C-JS-U0074-06",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "做事不是行动了就算完事，而要达到目的；没有功劳只有苦劳的态度要不得",
+      "quote": "而是需要达到目的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3482,
+        "end_line": 3482,
+        "sha1": "ae95f312f63c948e31b0c3220bbfae6921d5be9d",
+        "fingerprint": [
+          "苦劳",
+          "达到目的"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D06-2"
+      ],
+      "concept_key": "做事要达到目的",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "职场载体：联系客户未果须换办法；订错火车票只有苦劳例（3484）；呼应伪工作者（《见识》18节）；与 C-JS-U0074-07 连读"
+    },
+    {
+      "claim_id": "C-JS-U0074-07",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "宁可少做点事让每件都产生应有效果，也不做一堆不讲究效果的无用之事",
+      "quote": "宁可少做点事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3484,
+        "end_line": 3484,
+        "sha1": "9f31dd09c7bec76b8e53f873cf17f32a8dc0f885",
+        "fingerprint": [
+          "产生应该产生的效果",
+          "没有用的事情"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "效率与少做事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "职场载体：出风头任务交给能达目的者；概念键沿用《见识》第四章\"效率与少做事\""
+    },
+    {
+      "claim_id": "C-JS-U0074-08",
+      "unit_id": "JS-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "认知水平的提升在于对浅显道理多思考、结合经历生共鸣而悟出深意",
+      "quote": "悟道的关键又在于勤于思考",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 3490,
+        "end_line": 3490,
+        "sha1": "2da232dde0cb3a2286b67a83f7af91500f4f4bce",
+        "fingerprint": [
+          "勤于思考",
+          "多思考一下"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "悟道在勤于思考",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "经书故事有人看热闹有人悟道；思维训练层归 D01-1"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第57节核心论点单元：演讲目的、三毛病、沟通确认、做事达目的、少而有效均成卡"
+}
