@@ -1,0 +1,161 @@
+{
+  "unit_id": "GG-U0147",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0147-01",
+      "unit_id": "GG-U0147",
+      "speaker": "吴军本人",
+      "claim_text": "无政府背书的货币使用起来危险、风险高成本高：美国内战前各银行自发钞票，纽约的钞票到巴尔的摩只值80-90美分",
+      "quote": "去中心化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9906,
+        "end_line": 9913,
+        "sha1": "2261b51a1dea0ba7f65943371ff32ff44254a46e",
+        "fingerprint": [
+          "去中心化",
+          "贬值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "去中心化货币之险",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "背景：多数银行发1万美元纸币只有1千美元黄金（9908行）；挤兑风险使异地钞票折价（9910-9911行）——比特币语境的历史镜鉴。"
+    },
+    {
+      "claim_id": "C-GG-U0147-02",
+      "unit_id": "GG-U0147",
+      "speaker": "吴军本人",
+      "claim_text": "格雷欣法则劣币驱良币在金本位下的表现：大家把黄金存着不用、使用纸钞——南北战争绿钞因此流通至今",
+      "quote": "劣币驱除良币",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9917,
+        "end_line": 9920,
+        "sha1": "9cc066a351210edd2a3bd1a7106dc8d03daaccbf",
+        "fingerprint": [
+          "格雷欣",
+          "劣币"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "劣币驱良币实例",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "一盎司黄金约兑12美元（9918行，时点留痕）。"
+    },
+    {
+      "claim_id": "C-GG-U0147-03",
+      "unit_id": "GG-U0147",
+      "speaker": "吴军本人",
+      "claim_text": "世界信任美元的两个原因：30多国军事基地维持海洋秩序；世界动荡时美国本土是避风港且法律保障私有财产",
+      "quote": "避风港",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9927,
+        "end_line": 9929,
+        "sha1": "34fe5ae5d81aa0527af3004871c0b6eb4bd8e04d",
+        "fingerprint": [
+          "美元",
+          "避风港"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "美元信用的根基",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "国内靠政府征税能力背书（9927行）；布雷顿森林体系1944-1976美元与黄金脱钩（9922-9926行）。"
+    },
+    {
+      "claim_id": "C-GG-U0147-04",
+      "unit_id": "GG-U0147",
+      "speaker": "吴军本人",
+      "claim_text": "央行靠平衡表控制货币流通量：扩表=买国债增发电子货币（等价印钱、全社会资产被稀释）；缩表=收回美元降发行量",
+      "quote": "平衡表",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9947,
+        "end_line": 9956,
+        "sha1": "8ac0b0d4f3c9f69877b2417638792dacd984f241",
+        "fingerprint": [
+          "扩表",
+          "缩表"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "央行平衡表",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "今天印钞票是比喻：货币电子化只需平衡表上改几个数字（9932行）；美元不能超过平衡表上限（9947行）；数据：美联储4.4万亿vs中国央行36万亿人民币（其中凭空印的约14万亿，9957行，时点留痕）。"
+    },
+    {
+      "claim_id": "C-GG-U0147-05",
+      "unit_id": "GG-U0147",
+      "speaker": "吴军本人",
+      "claim_text": "货币走势越来越虚：从实物货币到金银到纸币再到央行平衡表——价值一面越来越不明显，记账和结算一面越来越重要",
+      "quote": "越来越虚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9959,
+        "end_line": 9959,
+        "sha1": "7e64d82e2b24ae1786f3898ca55e1929f69f5fc3",
+        "fingerprint": [
+          "记账",
+          "虚"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "货币越来越虚",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0145卡3（货币即记账）与卡5（性质重于形式）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0147",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "辩论赛读者正反方发言（9960-9984行）为读者来信，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0147",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "美国纸币史与布雷顿森林体系沿革（9905-9926行）为货币史，记X4；美联储资产构成与商业银行平衡表原理（9933-9945行）并入卡4 notes"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第083封信：央行平衡表5卡。"
+}

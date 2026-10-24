@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0134",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0134-01",
+      "unit_id": "GG-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "低运营成本导致高技术（施密特结论）：Google成本只有对手几分之一，因此能负担对手无法承受的复杂运算",
+      "quote": "靠低运营成本导致高技术",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9067,
+        "end_line": 9073,
+        "sha1": "790558dec23840fc40742bf2a45927f953ba9c4a",
+        "fingerprint": [
+          "运营成本",
+          "几分之一"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "低成本致高技术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "喻：别人处理器50美元做300美元手机；Google用10个5美元处理器实现别人没条件完成的功能（9071-9073行）。"
+    },
+    {
+      "claim_id": "C-GG-U0134-02",
+      "unit_id": "GG-U0134",
+      "speaker": "史实",
+      "claim_text": "迪恩与盖莫沃特开创云计算时代：GFS（大文件分布存千台服务器）+MapReduce（分治：Map分解任务",
+      "quote": "MapReduce",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9046,
+        "end_line": 9056,
+        "sha1": "b513e9f491ce9ba2d1ecc07d0efe14bdaef342c9",
+        "fingerprint": [
+          "GFS",
+          "MapReduce"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "迪恩云计算三件套",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "嘲讽与结局：太阳公司CEO嘲笑廉价集群是「3M胶带纸粘的」，最终太阳公司关门（9058-9059行）；BigTable实时日志处理（9076行）；2006施密特正式提出云计算概念（9065行）。"
+    },
+    {
+      "claim_id": "C-GG-U0134-03",
+      "unit_id": "GG-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "一个人在领域能走多久取决于理解有多深：迪恩始终围绕计算机科学的本质做事——模块化、并行处理、分治",
+      "quote": "理解有多深",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9086,
+        "end_line": 9086,
+        "sha1": "7192758124b23fab8c04a37df69995b7d43134f8",
+        "fingerprint": [
+          "理解",
+          "本质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "理解深度决定走多远",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0134-04",
+      "unit_id": "GG-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "专注+善用优势：迪恩20多年专注计算机系统从不跨界、多次机会转高管都拒绝",
+      "quote": "通过量变达到质变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9088,
+        "end_line": 9090,
+        "sha1": "bdef3bcf584ce8787a4220309d0407cf750a2e5c",
+        "fingerprint": [
+          "专注",
+          "量变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "专注与善用优势",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0133卡2（万倍数据质变）。"
+    },
+    {
+      "claim_id": "C-GG-U0134-05",
+      "unit_id": "GG-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "合作取代颠覆：迪恩很少提颠覆，成果大多是解决实际问题的合作产物",
+      "quote": "合作取代颠覆",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9092,
+        "end_line": 9092,
+        "sha1": "1b367c34f5c4de1a1a65146d0ad2dca63f1ac10d",
+        "fingerprint": [
+          "合作",
+          "颠覆"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D10-1"
+      ],
+      "concept_key": "合作取代颠覆",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "细节：朱会灿是GFS第一个用户（9092行）；他不是凭空创造概念的人。"
+    },
+    {
+      "claim_id": "C-GG-U0134-06",
+      "unit_id": "GG-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "少做事情：迪恩近20年成就只有个位数（约六件）但每件都足以改变世界",
+      "quote": "少做事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9094,
+        "end_line": 9094,
+        "sha1": "4e8867f1e5ce3c20b4f42892dd6356d1a9203f05",
+        "fingerprint": [
+          "少做事",
+          "西瓜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "少做事成大业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0104卡3（杰夫·迪恩个位数项目）与捡西瓜（U0100卡5）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0134",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "迪恩生平与论文引用数据（9041-9045/9076-9082行）为人物史叙述，记X4"
+    },
+    {
+      "unit_id": "GG-U0134",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9096-9100行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第076封信：迪恩6卡（五过人之处全覆盖）。"
+}

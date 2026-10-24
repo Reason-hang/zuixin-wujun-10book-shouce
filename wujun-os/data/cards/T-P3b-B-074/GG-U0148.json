@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0148",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0148-01",
+      "unit_id": "GG-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "加密货币作流通媒介成本过高：一杯2.5美元咖啡信用卡成本3美分、比特币交割成本20美元且需两小时到两天",
+      "quote": "成本是20美元",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9998,
+        "end_line": 10002,
+        "sha1": "b3804b7eb538a21437a42edfa508e0e9a86aeaca",
+        "fingerprint": [
+          "比特币",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D10-1"
+      ],
+      "concept_key": "加密货币流通成本",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "移动支付成本不比银行卡低（9999行）。"
+    },
+    {
+      "claim_id": "C-GG-U0148-02",
+      "unit_id": "GG-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "结算货币第一条是币值稳定：比特币一天浮动10%不具备结算功能——做进出口的人货未到钱先贬值5%连工资都发不出",
+      "quote": "币值要稳定",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10004,
+        "end_line": 10005,
+        "sha1": "4f5058a66c6b5fcd4d812e1b3c045d1ff72d62bc",
+        "fingerprint": [
+          "结算",
+          "稳定"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "结算须币值稳定",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0148-03",
+      "unit_id": "GG-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "货币供应量须与经济规模匹配：供应不足危害比通胀更大",
+      "quote": "供应量不足时，危害更大",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10008,
+        "end_line": 10011,
+        "sha1": "5bf224e1d75c580d57cb49d39a7327cba29edb32",
+        "fingerprint": [
+          "供应量",
+          "危害"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "通缩比通胀更险",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例：造手机成本半个币、卖出只能换回半个币（10011行）；比特币供应量有限恰恰是缺陷。"
+    },
+    {
+      "claim_id": "C-GG-U0148-04",
+      "unit_id": "GG-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "欧债危机久拖不决的根源：欧元区不是一个国家却只有一个央行",
+      "quote": "不是一个国家，却只有一个央行",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10013,
+        "end_line": 10015,
+        "sha1": "9deda687584cd7c13caa7946d20edd42523b542a",
+        "fingerprint": [
+          "欧元区",
+          "央行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "统一货币的代价",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "推论：有问题的南欧与没问题的北欧用同一货币政策解决所有问题行不通（10017-10018行）；全世界若用一种加密货币，经济出问题就真没救了（10020行）。"
+    },
+    {
+      "claim_id": "C-GG-U0148-05",
+      "unit_id": "GG-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "不能把货币和发行货币的机构割裂开：各国需要通过货币发放调整经济政策",
+      "quote": "割裂开来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10028,
+        "end_line": 10032,
+        "sha1": "dc9e9fe4d9779ac295c3b165a3f42ec483689208",
+        "fingerprint": [
+          "发行",
+          "调控"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "货币与调控不可分",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "区块链认识演进：从非去中心化不可到重新思考去中心化必要性（10029行）；纸币大部分已电子化记账、与加密货币无本质不同（10030行）。"
+    },
+    {
+      "claim_id": "C-GG-U0148-06",
+      "unit_id": "GG-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "判断ICO靠谱与否的最简原则：要做的事是否非要使用ICO——不需要使用也能做的，发行ICO就是变相圈钱",
+      "quote": "变相圈钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10041,
+        "end_line": 10043,
+        "sha1": "1b7b3a925c7dba3a33cc4e8227da4ac35cbc50a6",
+        "fingerprint": [
+          "ICO",
+          "圈钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "ICO判断原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "态度：区块链是新的生产关系能解决交易信用收益分配难题、值得高度关注（10037行互引硅谷来信226）；99%以上ICO不靠谱但有少数例外如以太坊（10041行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0148",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "辩论赛读者反驳发言（10045-10066行）为读者来信，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0148",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10044/10068-10069行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第084封信：虚拟货币能否取代法币6卡（五检验全覆盖）。"
+}

@@ -1,0 +1,163 @@
+{
+  "unit_id": "GG-U0146",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0146-01",
+      "unit_id": "GG-U0146",
+      "speaker": "吴军本人",
+      "claim_text": "货币需由权威机构发行+需要有抵押品（金属或国家信用）——这是四千年不变的两个基本条件；广义上金属本位与国家信用都是金本位",
+      "quote": "权威机构发行",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9838,
+        "end_line": 9840,
+        "sha1": "50ed0deca39c9dc9882a877e5eb558b7bb3a6229",
+        "fingerprint": [
+          "权威",
+          "抵押品"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "货币两基本条件",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "交子从金属抵押到国家信用发行的转变，无意中完成了纸币进化（9870行）。"
+    },
+    {
+      "claim_id": "C-GG-U0146-02",
+      "unit_id": "GG-U0146",
+      "speaker": "吴军本人",
+      "claim_text": "任何历史都是连续的、不可能跳变：从大宗商品到金属货币有过渡阶段",
+      "quote": "不可能跳变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9842,
+        "end_line": 9849,
+        "sha1": "36863b66bd9a4ec0344459a89b2e7524bb35640f",
+        "fingerprint": [
+          "连续",
+          "过渡"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "历史不跳变",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0146-03",
+      "unit_id": "GG-U0146",
+      "speaker": "吴军本人",
+      "claim_text": "金属货币三好处三缺陷：贵重保值/便携易存/易官方垄断 vs 数量有限钱不够用/劣币驱良币/大额仍不便",
+      "quote": "三个缺陷",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9854,
+        "end_line": 9859,
+        "sha1": "4f31d894aaaac5289cd5dd3ced6a5c6d858df99d",
+        "fingerprint": [
+          "金属货币",
+          "缺陷"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "金属货币利弊",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "明例：明朝经济与美洲输入白银数量息息相关（9857行）；交子起于宋太祖运走川地金银、铁钱25斤买货用车拉（9860-9861行）。"
+    },
+    {
+      "claim_id": "C-GG-U0146-04",
+      "unit_id": "GG-U0146",
+      "speaker": "吴军本人",
+      "claim_text": "纸币难免被多发，需政府或有价值金属背书，否则金融系统崩溃——商品经济发达后纸币比金属货币更合理（可宏观调控）",
+      "quote": "纸币难免会被多发",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9875,
+        "end_line": 9877,
+        "sha1": "598a8096b5b28d76a382bf129c5af8f59824f1c9",
+        "fingerprint": [
+          "纸币",
+          "背书"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "纸币需背书",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "交子的教训：面值一贯贬值到七八百钱、官府定期作废旧币防伪、北宋后期乱发（9866-9867行）；比特币能否流通也看是否更便利、有更好背书（9878行）。"
+    },
+    {
+      "claim_id": "C-GG-U0146-05",
+      "unit_id": "GG-U0146",
+      "speaker": "转述·第三方",
+      "claim_text": "薛兆丰：Q币不算货币——货币是价值的公共尺度（免除双重偶然性+免质检成本），Q币不能兑换法币、用户间不能互购",
+      "quote": "价值的一个公共尺度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9890,
+        "end_line": 9893,
+        "sha1": "3e79c0c44ac09c1c3e82aa569ef270f765864a1f",
+        "fingerprint": [
+          "公共尺度",
+          "票证"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "货币的公共尺度判据",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述薛兆丰；两判据：增加交易机会（免双重偶然）+减少交易难度（免质检成本）（9891行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0146",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "金属货币考古史与交子沿革（9833-9868行）为货币史叙述，记X4；判断已由4卡承载"
+    },
+    {
+      "unit_id": "GG-U0146",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9879-9896行辩论赛公告/薛兆丰引文导语/本周回信为互动运营文字（薛兆丰观点已由卡5承载）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第082封信：金本位与纸币5卡（含薛兆丰E2）。"
+}

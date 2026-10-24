@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0139",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0139-01",
+      "unit_id": "GG-U0139",
+      "speaker": "吴军本人",
+      "claim_text": "在计算机科学中数据的相对大小比绝对数值更重要——计算机只看重相对的输赢，这与数学物理的精确数值观根本不同",
+      "quote": "相对的大小要比绝对的数量更重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9382,
+        "end_line": 9383,
+        "sha1": "2018a615a8083664b619c4690243f2ab9d6bf9da",
+        "fingerprint": [
+          "相对",
+          "绝对"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "相对大于绝对",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：AlphaGo有赢20目的棋却走稳妥一步，因为只看输赢（9383行）；面试技巧：任何选择都比没有选择好、无法脚踩两只船（9381行）。"
+    },
+    {
+      "claim_id": "C-GG-U0139-02",
+      "unit_id": "GG-U0139",
+      "speaker": "吴军本人",
+      "claim_text": "有什么样的问题就有什么样的工具：工具的发明是针对问题来的——判断真假/比大小/排序的需求催生了二叉树",
+      "quote": "工具的发明是针对问题来的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9385,
+        "end_line": 9388,
+        "sha1": "337cc978e0008645fd8a7a7cf06c1a992534faa1",
+        "fingerprint": [
+          "工具",
+          "问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "问题催生工具",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：数学发明算盘、物理发明尺子钟表天平、化学发明量器（9385-9386行）。"
+    },
+    {
+      "claim_id": "C-GG-U0139-03",
+      "unit_id": "GG-U0139",
+      "speaker": "吴军本人",
+      "claim_text": "二叉树浓缩了自然界很多事物的共性：分叉、层层递进和有序——组织架构、文件目录、网站链接、锦标赛都能对应到二叉树",
+      "quote": "浓缩了自然界很多事物的共性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9423,
+        "end_line": 9425,
+        "sha1": "015948158d2350dec52b8216df5626a799558f00",
+        "fingerprint": [
+          "二叉树",
+          "共性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "二叉树与共性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "排序规则：先来的占高层、小的放左边大的放右边，从左到右自然有序（9401-9405行）；公司身高树喻（9406-9410行）；遍历算法可下载全站网页（9424行）。"
+    },
+    {
+      "claim_id": "C-GG-U0139-04",
+      "unit_id": "GG-U0139",
+      "speaker": "吴军本人",
+      "claim_text": "学理论的目的在于触类旁通：能对应到二叉树的问题都有共性，解法可以通用——希望学的东西能在很多场合应用而不只是用一次",
+      "quote": "触类旁通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9435,
+        "end_line": 9437,
+        "sha1": "f2d3eaa4ac969f168014ca733730ceb7f5a8a13d",
+        "fingerprint": [
+          "触类旁通",
+          "理论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "学理论为触类旁通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "Google面试不考教科书内容而考用工具解决实际问题（9426行）；互引U0111卡5一通百通。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0139",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9439-9440行思考/练习题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第078封信：二叉树与抽象4卡。"
+}

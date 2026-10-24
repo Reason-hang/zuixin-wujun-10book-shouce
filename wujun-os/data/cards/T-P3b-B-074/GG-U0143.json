@@ -1,0 +1,155 @@
+{
+  "unit_id": "GG-U0143",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0143-01",
+      "unit_id": "GG-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "抽象化的结果常与人容易掌握的工具有关：机械厂基本只有直线与圆周两种运动、零件多为圆形因为好加工",
+      "quote": "和我们人容易掌握的工具有关",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9650,
+        "end_line": 9653,
+        "sha1": "74b8444ed782932ecc7214061b8ffba868825000",
+        "fingerprint": [
+          "抽象",
+          "工具"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "抽象贴合工具",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "延伸：数据结构的出现与计算机工作方式、图灵机原理、冯·诺依曼结构直接相关（9650行）；链表与图灵机设计相关。"
+    },
+    {
+      "claim_id": "C-GG-U0143-02",
+      "unit_id": "GG-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "世界上没有只有优点没有缺点的东西——哈希表以空间换时间：动态增删快、按内容查找快、多维映射一维",
+      "quote": "以空间换时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9660,
+        "end_line": 9672,
+        "sha1": "8ebc3539c8f92ed7112293461e1f628b0b05c534",
+        "fingerprint": [
+          "哈希表",
+          "空间"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "哈希表空间换时间",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：数组便于直接按序号查找、链表强调前后依赖关系（如先修课次序）（9662-9663行）；互引U0108卡3时空权衡。"
+    },
+    {
+      "claim_id": "C-GG-U0143-03",
+      "unit_id": "GG-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "结构化记忆是人设计的工具而非人脑本身：从共性中抽象出统一结构（姓名/性别/履历），并超脱物理式结构分表存储",
+      "quote": "提醒我们记忆的工具",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9679,
+        "end_line": 9685,
+        "sha1": "b9bfb7e8ea950702a47d06c6882d67959e85074a",
+        "fingerprint": [
+          "结构化",
+          "抽象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "结构化记忆是工具",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "认知科学掌握的人脑知识可能不到1%（9679行）；格式固定用数组、经常变动用链表（9685行）。"
+    },
+    {
+      "claim_id": "C-GG-U0143-04",
+      "unit_id": "GG-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "数据类型如钢筋的尺寸标号、数据结构如预制件：学号用32位无符号整数即可、身份证号需要64位——类型选错或浪费或不够",
+      "quote": "数据类型",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9692,
+        "end_line": 9697,
+        "sha1": "5b79e867ad3c068611f6d801d7c3d687dcd92627",
+        "fingerprint": [
+          "数据类型",
+          "钢筋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "类型与结构之喻",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0143-05",
+      "unit_id": "GG-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "哈夫曼树与红黑树目的不同：哈夫曼树对应最短编码保证平均访问时间最短（需预知频率）；红黑树防止两枝长短悬殊、维持平衡有代价",
+      "quote": "目的不同",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9706,
+        "end_line": 9709,
+        "sha1": "e3f54b6a4394a8123bc028f8f752efb31c4c879f",
+        "fingerprint": [
+          "哈夫曼",
+          "红黑树"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "哈夫曼与红黑树",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0095卡4霍夫曼编码资源配置。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0143",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（9646/9655/9674-9675/9687-9688/9699-9700行）为读者来信，按X7处置"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问20：数据结构与抽象5卡。"
+}

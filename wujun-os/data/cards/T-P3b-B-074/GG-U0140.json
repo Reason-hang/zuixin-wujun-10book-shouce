@@ -1,0 +1,136 @@
+{
+  "unit_id": "GG-U0140",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0140-01",
+      "unit_id": "GG-U0140",
+      "speaker": "吴军本人",
+      "claim_text": "锦标赛排序法：冠军可靠单淘汰产生，但第二名必须从所有被冠军淘汰的人中再比——25人选前三名只需七组而非八组",
+      "quote": "锦标赛排序法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9455,
+        "end_line": 9463,
+        "sha1": "fc12c8ee494ec807fd071290246c844431ccc4af",
+        "fingerprint": [
+          "锦标赛",
+          "淘汰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "锦标赛排序",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "机制：选手是二叉树叶子、每场比大小胜者升上一层（9451-9452行）；合理性来自输赢的传递性A>B,B>C则A>C（9455行）；复杂度N·logN，只选第一名时仅N、选第K名额外logN（9467-9472行）。"
+    },
+    {
+      "claim_id": "C-GG-U0140-02",
+      "unit_id": "GG-U0140",
+      "speaker": "吴军本人",
+      "claim_text": "快慢软件的主要差别在于慢的软件多做了很多无用功——八次比法中D1、E1反复参加没必要的比赛就是浪费资源",
+      "quote": "多做了很多无用功",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9496,
+        "end_line": 9497,
+        "sha1": "806768bf8b1a43b0492ebb702f3b42b7d8effe73",
+        "fingerprint": [
+          "无用功",
+          "浪费"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "少做无用功",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0101卡1少做事提效率。"
+    },
+    {
+      "claim_id": "C-GG-U0140-03",
+      "unit_id": "GG-U0140",
+      "speaker": "吴军本人",
+      "claim_text": "要善用信息：前几次比赛的结果里已筛选出前三名候选（A2、A3、B1、B2、C1刚好一组）——很多有用的信息要善于使用",
+      "quote": "要善用信息",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9498,
+        "end_line": 9498,
+        "sha1": "7b6c201ab0aa9a9462cc94b2221ae8df79be4c0c",
+        "fingerprint": [
+          "善用",
+          "信息"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "善用已有信息",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0140-04",
+      "unit_id": "GG-U0140",
+      "speaker": "吴军本人",
+      "claim_text": "善于掌握工具可以弥补智力上的不足：吴军秒答高盛题靠学过锦标赛排序（狙击枪对三八大盖）",
+      "quote": "多掌握几个工具就好了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9475,
+        "end_line": 9480,
+        "sha1": "a5d95c278c3ed544fd2f5f14b657a92c80fa4385",
+        "fingerprint": [
+          "工具",
+          "智力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "工具弥补智力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：高盛那位朋友没学过计算机纯靠智力答出——高盛招的人不浪得虚名（9478行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0140",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9504行思考题为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0140",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "高盛出题动机与关系户背景（9499-9500行）为公司轶事，记X4"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第079封信：锦标赛排序与25人赛题4卡。"
+}

@@ -1,0 +1,163 @@
+{
+  "unit_id": "GG-U0145",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0145-01",
+      "unit_id": "GG-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "只有将一个事件放在大的时间和空间合适的位置，才能知道它存在的必要性和未来的作用——要搞清加密货币就要研究货币的历史",
+      "quote": "合适的位置",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9772,
+        "end_line": 9773,
+        "sha1": "9510b53a5e9bde6b993b4fcd9f716fed2f9933ae",
+        "fingerprint": [
+          "时间",
+          "空间"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "大时空定位法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对应U0074卡2（历史即大时空方法论）。"
+    },
+    {
+      "claim_id": "C-GG-U0145-02",
+      "unit_id": "GG-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "在很多历史事件中，具体的时间点远没有相对的先后次序重要——更重要的是了解从以物易物到货币的过渡如何完成",
+      "quote": "远没有相对的先后次序重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9787,
+        "end_line": 9787,
+        "sha1": "a215a95461e4f52a8f2927e9a584fec57e85a97b",
+        "fingerprint": [
+          "次序",
+          "时间点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "次序重于时间点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0145-03",
+      "unit_id": "GG-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "货币作为结算/记账工具的用途可能比作为财富载体更重要",
+      "quote": "交割一下所有权",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9795,
+        "end_line": 9801,
+        "sha1": "d6c64665d052c69bace7644d767dea89cc89898c",
+        "fingerprint": [
+          "记账",
+          "结算"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "货币即记账",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "今证：各国大宗黄金储备都放美联储金库、只结账不搬金（9798行）；富人财富只是银行系统里的数字（9817行）。"
+    },
+    {
+      "claim_id": "C-GG-U0145-04",
+      "unit_id": "GG-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "最早的货币是大宗商品而非便携之物：成为货币需价值被本地认可+流动性+易保存——牛羊谷物香料茅台中华烟冬虫夏草都是变相货币",
+      "quote": "大宗商品",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9802,
+        "end_line": 9812,
+        "sha1": "0f8e216205bcdfbcf14a2cc1b3e5d67b515f93ad",
+        "fingerprint": [
+          "大宗商品",
+          "实物货币"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "大宗商品货币",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "商代「100金」指100单位青铜而非黄金（9814行）；大宗商品品质差异使货币一开始就有良币劣币之分（9820行）。"
+    },
+    {
+      "claim_id": "C-GG-U0145-05",
+      "unit_id": "GG-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "货币的性质比它的形式更重要：货币是等价交换的媒介、缺了它交易很难进行——今天钱的形态只是数字",
+      "quote": "性质比它的形式更重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9815,
+        "end_line": 9820,
+        "sha1": "258817ab96d9817ef143be3ab208b7ec8bfe7389",
+        "fingerprint": [
+          "媒介",
+          "性质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "货币性质重于形式",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两大特性总结（9817-9820行）；互引U0111卡3-4（比特币私钥如验钞）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0145",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "货币起源考古史（美索不达米亚/金字塔工钱/雅浦岛费币细节，9775-9799行）为经济史叙述，记X4；货币特性已由卡3-5承载"
+    },
+    {
+      "unit_id": "GG-U0145",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9822-9823行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第081封信：货币起源与特质5卡。"
+}

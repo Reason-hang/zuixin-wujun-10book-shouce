@@ -1,0 +1,128 @@
+{
+  "unit_id": "GG-U0138",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0138-01",
+      "unit_id": "GG-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "专业人士与业余人士的核心差别：前者用基本图形/结构/组成部分构建复杂设计，后者凭直觉直接构建最终产品",
+      "quote": "简单的基本单元",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9311,
+        "end_line": 9316,
+        "sha1": "b1df44cbab7bea459e6c14f04ac299ccffd40901",
+        "fingerprint": [
+          "专业",
+          "基本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "专业即用基本单元",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：画家先以圆/椭圆/三角勾金鱼轮廓，《梅杜莎之筏》两个金字塔构图、米开朗基罗《圣母怜子》金字塔造型（9311-9322行）。"
+    },
+    {
+      "claim_id": "C-GG-U0138-02",
+      "unit_id": "GG-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "数据结构＝程序中的基本几何图形：数据是点、数据结构是点之间常用的具体关系——数据结构＋算法＝程序（沃斯）",
+      "quote": "数据结构＋算法＝程序",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9324,
+        "end_line": 9330,
+        "sha1": "ba825572d84758182fdc11829276995a9af31f74",
+        "fingerprint": [
+          "数据结构",
+          "算法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数据结构即几何图形",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：直接写代码=低水平做法漏洞百出；理解需求后抽象基础块再组合（9324-9325行）。"
+    },
+    {
+      "claim_id": "C-GG-U0138-03",
+      "unit_id": "GG-U0138",
+      "speaker": "史实",
+      "claim_text": "数组与链表各有优劣：数组按编号直接存取但插入要挪动百万条记录；链表插入只改两个指针但找第五个要从头数",
+      "quote": "数组",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9343,
+        "end_line": 9349,
+        "sha1": "d15a8cbe4a64ced05fa129709924f5024dfcb686",
+        "fingerprint": [
+          "数组",
+          "链表"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数组与链表",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "喻：数组是码齐的砖头、链表是无页号的活页夹（9351行）；弥补不足是搞算法的人的工作（9349行）。"
+    },
+    {
+      "claim_id": "C-GG-U0138-04",
+      "unit_id": "GG-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "凡事有一利就有一弊：好的工程师不切实际地追求没有弊病的设计，而是想办法补救相应的问题",
+      "quote": "有一利就有一弊",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9358,
+        "end_line": 9358,
+        "sha1": "fa26c8db6023916579b5befa21e48c93560bf7e1",
+        "fingerprint": [
+          "有一弊",
+          "补救"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "有利必有弊",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0102卡1没有绝对最好。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0138",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9361-9367行思考题/面试题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第077封信：数据结构4卡（线性表/数组/链表由卡3承载）。"
+}

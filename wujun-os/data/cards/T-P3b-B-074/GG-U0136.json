@@ -1,0 +1,186 @@
+{
+  "unit_id": "GG-U0136",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0136-01",
+      "unit_id": "GG-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "不能简单复制前人的成功经验：条件不同、场景不同，必须做相应变通",
+      "quote": "必须做相应的变通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9210,
+        "end_line": 9218,
+        "sha1": "5e8fad715220c957dc2ea0f70d1f2f38ada7cd36",
+        "fingerprint": [
+          "条件",
+          "场景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D03-1"
+      ],
+      "concept_key": "成功经验不可复制",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "技术理由：Google省了机箱/电源/通用件三样而非偷工减料、专用芯片+Linux（9191-9198行）；SpaceX梅林发动机推力室压差距大、坏两台即成阻力、振动复杂易散架（9213-9217行）。"
+    },
+    {
+      "claim_id": "C-GG-U0136-02",
+      "unit_id": "GG-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "廉价集群的可靠性逻辑：内部计算死机可断点重启、丢数据可重算",
+      "quote": "从死机的断点重新启动计算",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9201,
+        "end_line": 9207,
+        "sha1": "7ec7595ba05193d251d85183facb561bc6ae6517",
+        "fingerprint": [
+          "可靠性",
+          "断点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "可靠性换成本",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "Google只是把廉价集群这件事做到极致，其他公司因技术细节未解决都放弃了（9207-9208行）。"
+    },
+    {
+      "claim_id": "C-GG-U0136-03",
+      "unit_id": "GG-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "一通百通的关键在先一通：一通指真正了解本质——一通还没通就想百通不够；知识面太窄的人很难一通百通",
+      "quote": "关键在于首先要一通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9224,
+        "end_line": 9225,
+        "sha1": "c3868626128e4471e43232e4d48a078b1c9db1b1",
+        "fingerprint": [
+          "一通",
+          "本质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "先一通再百通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0136-04",
+      "unit_id": "GG-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "眼高手低的是大多数——竞争的道路上一点也不拥挤",
+      "quote": "竞争的道路上一点也不拥挤",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9231,
+        "end_line": 9234,
+        "sha1": "b7fe0f8d538191d2bd018b0c15af460c22ba4189",
+        "fingerprint": [
+          "眼高手低",
+          "拥挤"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "竞争不拥挤",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0136-05",
+      "unit_id": "GG-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "对大公司不能总谈颠覆、更多要谈合作与互补；创业公司在数据上不可能一开始赶超大公司",
+      "quote": "更多地要谈合作，谈互补",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9240,
+        "end_line": 9241,
+        "sha1": "7ce7f6695e2cf77af023bdd52e30f8f13767e9b3",
+        "fingerprint": [
+          "合作",
+          "互补"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "谈合作不谈颠覆",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "市值前五公司都是拥有大量数据的公司（9240行，时点留痕）；互引U0134卡5合作取代颠覆。"
+    },
+    {
+      "claim_id": "C-GG-U0136-06",
+      "unit_id": "GG-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "千万不要把孩子当作天才培养：大部分人一辈子未必能接近自己智力的极限",
+      "quote": "智力不是限制他们的原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9248,
+        "end_line": 9249,
+        "sha1": "e7fe3321743a4fbf7717a665bbf3d5ebced914ea",
+        "fingerprint": [
+          "天才",
+          "极限"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "勿当天才培养",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数学启蒙可从动脑筋的智力题开始、家长参与并启发思路（9250行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0136",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（9183/9227/9236/9243-9244行）为读者来信，按X7处置；本周思考题（9182-9183/9219行）已由吴军回答承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问19：服务器vs火箭/一通百通/眼高手低/合作互补/天才培养6卡。"
+}

@@ -1,0 +1,107 @@
+{
+  "unit_id": "GG-U0142",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0142-01",
+      "unit_id": "GG-U0142",
+      "speaker": "吴军本人",
+      "claim_text": "好的画家都懂得取舍：一幅画不可能取悦所有观众——突出自己的风格加进自我元素，虽失去一些观众却能保证欣赏者不走开",
+      "quote": "好的画家都懂得取舍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9599,
+        "end_line": 9600,
+        "sha1": "7b71803a2036ff7d43a02e520c5a6fa2bee410b1",
+        "fingerprint": [
+          "取舍",
+          "风格"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-1"
+      ],
+      "concept_key": "懂得取舍",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：安格尔与德拉克罗瓦线条色彩之争如华山气剑之争无结论（9598行）；浪漫主义取代古典主义因个性解放的时代品味（9600行）。"
+    },
+    {
+      "claim_id": "C-GG-U0142-02",
+      "unit_id": "GG-U0142",
+      "speaker": "吴军本人",
+      "claim_text": "古典主义强调美的共性和客观性（讴歌英雄、线条准确）；浪漫主义张扬个性、追求内心独特美感（重色彩而非线条、揭示独特自我）",
+      "quote": "审美的主观性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9591,
+        "end_line": 9596,
+        "sha1": "646c0c3357b6a9cfe2d5132588dd8904757a6c0b",
+        "fingerprint": [
+          "古典主义",
+          "浪漫主义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "古典与浪漫之别",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "浪漫主义绘画中的自然形象是画家情感思想的假托而非创作原型（9596行）；《梅杜莎之筏》遇难者喻专制下的法国民众、红巾喻民主思想（9621行）。"
+    },
+    {
+      "claim_id": "C-GG-U0142-03",
+      "unit_id": "GG-U0142",
+      "speaker": "吴军本人",
+      "claim_text": "席里柯为《梅杜莎之筏》呕心沥血：读幸存者回忆、做木筏亲自海上漂泊、医院观察将死者、解剖尸体浸海水观察色彩",
+      "quote": "一丝不苟的创作努力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9625,
+        "end_line": 9626,
+        "sha1": "22dde7f3d8017387bf0be63019892e2a537f3f58",
+        "fingerprint": [
+          "呕心沥血",
+          "观察"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "席里柯式实证创作",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "构图：十几个人构成两个金字塔几何图形（古典特色）+ 光影对比强烈充满动感（浪漫特色）——过渡时期的典型（9628-9631行）；互引U0138卡1金字塔构图。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0142",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "《梅杜莎之筏》与席里柯生平、浪漫主义画史（9588-9634行）为艺术赏析，记X8（内容出自《文明之光》第八章）；其创作方法论已由3卡承载"
+    },
+    {
+      "unit_id": "GG-U0142",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9635-9636行课程引流为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（梅杜莎之筏）：取舍/流派/实证创作3卡（艺术史X8）。"
+}

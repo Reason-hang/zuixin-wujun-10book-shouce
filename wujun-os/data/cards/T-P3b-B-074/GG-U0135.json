@@ -1,0 +1,220 @@
+{
+  "unit_id": "GG-U0135",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0135-01",
+      "unit_id": "GG-U0135",
+      "speaker": "史实",
+      "claim_text": "图灵的死磕精神：为破译Enigma密码吃饭睡觉只想这一件事，最终找到德国人设计上的小破绽——按部就班上下班是无法破译的",
+      "quote": "死磕",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9135,
+        "end_line": 9137,
+        "sha1": "bc88fa71181025dc016f7edb1534f61eaf1fcc9b",
+        "fingerprint": [
+          "死磕",
+          "Enigma"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "死磕破译Enigma",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0135-02",
+      "unit_id": "GG-U0135",
+      "speaker": "吴军本人",
+      "claim_text": "做到极致是能力的训练：哈佛要求高中生有一项极致专长——能走到极致的人练就了一身克服困难的本领，将来不得了",
+      "quote": "做到极致是一种能力的训练",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9139,
+        "end_line": 9142,
+        "sha1": "a0975d150f201ac3019c63950b64ef2a30456c84",
+        "fingerprint": [
+          "极致",
+          "训练"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "极致是能力训练",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：图灵马拉松2:46仅比奥运金牌慢11分钟、万米胜奥运银牌得主——练长跑与破密码的克服困难之道相通（9135/9142行）。"
+    },
+    {
+      "claim_id": "C-GG-U0135-03",
+      "unit_id": "GG-U0135",
+      "speaker": "吴军本人",
+      "claim_text": "自我约束：答应的事就必须办到——图灵遇铁路大罢工骑车100公里赶第二天上课；这样的人在组织中让人放心、自然得到更多机会",
+      "quote": "答应的事就必须办到",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9144,
+        "end_line": 9146,
+        "sha1": "356d50c2e643f462bff972df4c08180444d47905",
+        "fingerprint": [
+          "自我约束",
+          "办到"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D07-2"
+      ],
+      "concept_key": "说到做到",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0135-04",
+      "unit_id": "GG-U0135",
+      "speaker": "吴军本人",
+      "claim_text": "智商120以后再高就没有什么帮助（格拉德威尔观点转述）：智商再高不能终身学习也没用",
+      "quote": "再高就没有什么帮助了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9156,
+        "end_line": 9157,
+        "sha1": "2b9ca8626d7b8fb243b42fd31ef79d35bff5f0ba",
+        "fingerprint": [
+          "智商",
+          "终身学习"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "智商120之后靠终身学习",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军自测智商前万分之几仍明显不如身边前十万分之一的人、那些人也不敢托大（9155行）。"
+    },
+    {
+      "claim_id": "C-GG-U0135-05",
+      "unit_id": "GG-U0135",
+      "speaker": "吴军本人",
+      "claim_text": "对领域本质的精深理解极为重要：奥科深刻理解机器翻译本质是数学与机器学习问题而非语言问题，才做出别人做不出的结果",
+      "quote": "本质有精深的了解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9159,
+        "end_line": 9159,
+        "sha1": "89c6cc49f185d8096070326d890ff7c13dc0ee1f",
+        "fingerprint": [
+          "本质",
+          "精深"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "本质精深理解",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0133卡1智能即数学。"
+    },
+    {
+      "claim_id": "C-GG-U0135-06",
+      "unit_id": "GG-U0135",
+      "speaker": "吴军本人",
+      "claim_text": "目标要设置在比别人高一个数量级：奥科把机器翻译目标定为领先他人5年以上，迪恩把系统规模定在他人千倍",
+      "quote": "高一个数量级",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9160,
+        "end_line": 9162,
+        "sha1": "95d59b339901bacf79c349bfb13e2114a94eec34",
+        "fingerprint": [
+          "数量级",
+          "目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D10-1"
+      ],
+      "concept_key": "目标高一个数量级",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：大部分工程师「能工作就好」对逻辑质量没高要求，这就是与高德纳的差别（9161行）。"
+    },
+    {
+      "claim_id": "C-GG-U0135-07",
+      "unit_id": "GG-U0135",
+      "speaker": "吴军本人",
+      "claim_text": "大师们都是实干家：迪恩身为院士至今写代码、收入比大半财富500强CEO还高；奥科一人代码占早期机器翻译系统一大半",
+      "quote": "都是实干家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9164,
+        "end_line": 9166,
+        "sha1": "1e75d5d5275a925e303feb401a8a6875a45eca83",
+        "fingerprint": [
+          "实干",
+          "稀缺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "实干家成稀缺",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "罗曼·罗兰：在你周围聚集巨人、呼吸巨人的气息（9168行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0135",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "图灵生平（图灵测试/下棋程序/破解Enigma/生物统计论文，9111-9127行）为人物史，记X4；五点奥秘与四共性已由7卡承载"
+    },
+    {
+      "unit_id": "GG-U0135",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9169-9173行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（图灵+五牛人总结）：7卡。"
+}

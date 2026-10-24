@@ -1,0 +1,100 @@
+{
+  "unit_id": "GG-U0149",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0149-01",
+      "unit_id": "GG-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "M0/M1/M2三层货币：M0真实钞票不超央行平衡表；M1可随时兑现的钱；M2加定期存款与理财",
+      "quote": "一块钱可能被当成两块钱花",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10081,
+        "end_line": 10092,
+        "sha1": "f2943d4e30346f1e962cdb21d7c770a8259820a8",
+        "fingerprint": [
+          "M2",
+          "货币"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "M0M1M2三层货币",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例：开1万汇票未取走、银行又贷出1万，两人都觉得有1万可花、油画价格被抬上去（10087-10088行）；M2不含买股票的钱因其只在股市循环（10094-10095行）。"
+    },
+    {
+      "claim_id": "C-GG-U0149-02",
+      "unit_id": "GG-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "货币乘数的过程：1万存款留10%准备金贷出9000、再存再贷8100、再抵押得2万信用——M2能到央行平衡表的很多倍",
+      "quote": "准备金",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10097,
+        "end_line": 10102,
+        "sha1": "bdcc49745ca0dca828dfdd8a2a0158f25470daa0",
+        "fingerprint": [
+          "准备金",
+          "8100"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "货币乘数",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "效果：大家觉得口袋有钱更愿意花钱——带动增长也带来通胀（10103行）。"
+    },
+    {
+      "claim_id": "C-GG-U0149-03",
+      "unit_id": "GG-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "过去20年全球经济靠货币政策拉动：各经济体的广义货币发行量都超过经济增长速度",
+      "quote": "都超过当地经济增长速度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10106,
+        "end_line": 10111,
+        "sha1": "5cbcd4fa9b7d6bc67b55980fc3e40a9419870486",
+        "fingerprint": [
+          "货币政策",
+          "拉动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "货币拉动经济",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "数据：中国M0从178亿到8万亿、M2从5.8万亿到173万亿；美国M2从4万亿到13.8万亿（10106-10108行，时点留痕）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0149",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "各国M0/M2时点数据（10078-10082/10106-10110行）留痕X2；机制已由3卡承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（M2货币供应量）：3卡。"
+}

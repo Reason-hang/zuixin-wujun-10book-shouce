@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0150",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0150-01",
+      "unit_id": "GG-U0150",
+      "speaker": "吴军本人",
+      "claim_text": "并非只有政府才能发行货币：港币由三家银行发行、苏格兰北爱尔兰私有银行也发英镑",
+      "quote": "并非只有国家政府才能发行货币",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10152,
+        "end_line": 10156,
+        "sha1": "55d2f8be007c12f2c984fd306670f041ac213b0b",
+        "fingerprint": [
+          "发行",
+          "信誉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "非政府发行货币",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "定义随时间变化：3000年前至今各不同，不能以今天官方定义限定虚拟货币（10157行）。"
+    },
+    {
+      "claim_id": "C-GG-U0150-02",
+      "unit_id": "GG-U0150",
+      "speaker": "吴军本人",
+      "claim_text": "一种货币不需要具备货币的所有功能、只需基本功能即可称其为货币——不需要所有人所有场合接受",
+      "quote": "并不需要有货币所有的功能",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10158,
+        "end_line": 10159,
+        "sha1": "7ec70f2886b0ab8637590faca25769bbf00166de",
+        "fingerprint": [
+          "功能",
+          "基本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "货币不需全功能",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0150-03",
+      "unit_id": "GG-U0150",
+      "speaker": "吴军本人",
+      "claim_text": "吴军结论：Q币其实已经是一种货币（至少在虚拟世界）",
+      "quote": "Q币其实已经是一种货币",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10161,
+        "end_line": 10174,
+        "sha1": "68820ad311a900dac4c36ccbedb46336a12bb40c",
+        "fingerprint": [
+          "Q币",
+          "虚拟世界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "Q币已是货币",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "喻：像古代私造货币、已进入流通又未被官方禁止（10174行）；政府与腾讯都不承认但事实终究是事实（10173行）；对薛兆丰卡（U0146卡5）的商榷。"
+    },
+    {
+      "claim_id": "C-GG-U0150-04",
+      "unit_id": "GG-U0150",
+      "speaker": "吴军本人",
+      "claim_text": "不要让自己的思想被正统或权威限制死；很多东西的定义随时间变化（甚至官方观点也是）；世上常无绝对正确答案但要讲理",
+      "quote": "被所谓正统或者权威限制死",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10176,
+        "end_line": 10182,
+        "sha1": "4782738df5582b649fda3df6d17ccb0b8400c1f1",
+        "fingerprint": [
+          "权威",
+          "讲理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "不被权威限制",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "这是本课方法论核心：推理论证的过程有时比答案本身更重要（10145行）。"
+    },
+    {
+      "claim_id": "C-GG-U0150-05",
+      "unit_id": "GG-U0150",
+      "speaker": "吴军本人",
+      "claim_text": "货币≠国债、央行≠财政部：抛售美国国债不会让美国屈服",
+      "quote": "抛售",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10189,
+        "end_line": 10210,
+        "sha1": "e466065fb5a3e438b85dbebb8b1ffa7f646f4f8f",
+        "fingerprint": [
+          "国债",
+          "市场化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "抛美债之谬",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "数据：中国1.17万亿、日本1.07万亿、各国合计6.26万亿（10204-10210行，时点留痕）；抛售后美元须有去处：日债零利率、欧债负利率、股市波动大不宜外汇储备（10201行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0150",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "辩论赛正反方观点归纳（10127-10144行）为读者观点汇编，按X7处置；吴军的裁决与引申已由5卡承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问21（辩论赛总结）：Q币裁决+方法论5卡。"
+}

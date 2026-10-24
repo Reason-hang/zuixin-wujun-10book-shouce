@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0141",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-074",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0141-01",
+      "unit_id": "GG-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "理解问题先于解题：很多人面试失败因为答非所问或没体会出题人的考察点——已知条件有时需要和考官沟通确认，不能上来就盲目做",
+      "quote": "答非所问",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9512,
+        "end_line": 9520,
+        "sha1": "84ed6c8062d69fe5034070e8bbbb9e33ee2179fd",
+        "fingerprint": [
+          "理解",
+          "考察点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-2"
+      ],
+      "concept_key": "先理解再解题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "场景变通：车载2.3与2.5公里差别不大、行人200米就有意义（9514-9517行）；看似轻松的讨论也是考察环节（9519行）。"
+    },
+    {
+      "claim_id": "C-GG-U0141-02",
+      "unit_id": "GG-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "大数据应用通常只关心前几个而不需对所有数据排序：堆排序找前K名第一名仅N、之后每个logN",
+      "quote": "只关心前几个",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9549,
+        "end_line": 9556,
+        "sha1": "317bfae6c2dce9bb830d2c00af9bc42db08073f7",
+        "fingerprint": [
+          "堆排序",
+          "前K名"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "只排前K名",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "回到原点：问题只要最近几个加油站、排序全部是无用功——提高产品性能应从避免无用功入手（9546-9547行）；互引U0140卡2。"
+    },
+    {
+      "claim_id": "C-GG-U0141-03",
+      "unit_id": "GG-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "全局优化：真实场景是很多人不停地用同一功能",
+      "quote": "全局优化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9560,
+        "end_line": 9565,
+        "sha1": "70cef142b9c62a74d78d0c6791283bec164155d9",
+        "fingerprint": [
+          "全局优化",
+          "预先"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "全局优化预计算",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0141-04",
+      "unit_id": "GG-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "警惕自己不知不觉做的主观假设：长期假设找加油站是为我一人服务，这个前提不在题目里",
+      "quote": "主观假设",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9572,
+        "end_line": 9572,
+        "sha1": "d12f10e228208609f32a2e7607f9b16fd093f65b",
+        "fingerprint": [
+          "主观假设",
+          "限制"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "警惕默认假设",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四启发之另两条：回到原点审视目标去掉无用功（9568行）；锦标赛/加油站/零售交易是等价问题、学理论搞清提出背景可一通百通（9570行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0141",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9576-9579行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第080封信：Google面试题四启发4卡。"
+}
