@@ -1,0 +1,269 @@
+{
+ "unit_id": "GJ-U0014",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0014-01",
+   "unit_id": "GJ-U0014",
+   "speaker": "转述·第三方",
+   "claim_text": "格拉德威尔《异类》：好的时代会给予个人更多机遇（时代因素占命运很大比例）",
+   "quote": "好的时代会给予个人更多机遇",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 506,
+    "end_line": 506,
+    "sha1": "97cd8b56256c7b3d3fabaac1684208c87a19a505",
+    "fingerprint": [
+     "格拉德威尔",
+     "异类"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "好时代予人机遇",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：格拉德威尔《异类》（行506）；吴军补充两点修正见 C-GJ-U0014-02"
+  },
+  {
+   "claim_id": "C-GJ-U0014-02",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "命运由大环境和做事方法决定：无人能选出生年代地点，但可认清时代环境选方法方向——在哪座山唱哪山的歌",
+   "quote": "在哪座山就唱哪山的歌",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 510,
+    "end_line": 510,
+    "sha1": "1eaa8d55acfc7008b10f82c9f930f96a67b11a73",
+    "fingerprint": [
+     "大环境",
+     "方法和方向"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "因地制宜动态适配",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "拿破仑时期名将如云（\"张破仑李破仑\"之喻，行510）；好时代也有失败投资人：马克·吐温/特斯拉/范德比尔特（行508）"
+  },
+  {
+   "claim_id": "C-GJ-U0014-03",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "改变世界的科技成就是时代的必然产物：巨匠把已准备好的先决条件凑在一起",
+   "quote": "时代的必然产物",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 512,
+    "end_line": 512,
+    "sha1": "9c3b3c3996ca6c598042c37214f87f76d9797397",
+    "fingerprint": [
+     "先决条件",
+     "科学巨匠"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D01-2"
+   ],
+   "concept_key": "发明是时代必然产物",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "飞行案例链：达芬奇扑翼必败、博雷利宣告人力飞行不可能（行514-516）、凯利提固定机翼升力创空气动力学（行518-520）、生错又生对时代（行526）"
+  },
+  {
+   "claim_id": "C-GJ-U0014-04",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "生逢其时是最大的幸运：生在时代就要做和这个时代相契合的事情",
+   "quote": "生逢其时是最大的幸运",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 532,
+    "end_line": 532,
+    "sha1": "599692d2ce25a1d5814155b5a56369ce2043daa5",
+    "fingerprint": [
+     "生逢其时",
+     "相契合"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "生逢其时与契合时代",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "许劭评曹操\"治世之能臣，乱世之奸雄\"（行534，转述《三国志》）；MIT高中生创业例（行536）；抗战时期不适合创业、现在想当拿破仑不合时宜（行538）"
+  },
+  {
+   "claim_id": "C-GJ-U0014-05",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "莱特兄弟方法：理论正确优先（校对李林塔尔升力计算）、风洞做足试验、先无人试飞每次只测一项",
+   "quote": "理论上的正确性",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 554,
+    "end_line": 556,
+    "sha1": "fbeed32e1a28643f7d57506937f53bf72353da79",
+    "fingerprint": [
+     "理论",
+     "控制",
+     "升力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D10-1"
+   ],
+   "concept_key": "理论先行与充分试验",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡：总起句在行554；凯利理论校出李林塔尔多算60%升力、解决控制问题（行556）、200多种翼形上千次风洞测试（行558-560）、1902年700-1000次滑翔试验且每次只测一项（行562-564）"
+  },
+  {
+   "claim_id": "C-GJ-U0014-06",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "同期失败大多不是技术造成而是工作方法导致：\"命\"由做事的指导思想和方法决定",
+   "quote": "而是工作方法导致的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 566,
+    "end_line": 566,
+    "sha1": "1434b56ed68b9587475a7d4d3ac6f4c66a6eed0e",
+    "fingerprint": [
+     "工作方法",
+     "指导思想"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "方法决定命",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与 C-GJ-U0014-05 同链；李林塔尔三缺陷：无准确计算、贸然载人试飞、未解决控制（行544-550）"
+  },
+  {
+   "claim_id": "C-GJ-U0014-07",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "做事分专业与不专业做法：同样的条件时机，专业态度起决定作用；业余水平再高也是业余",
+   "quote": "业余的水平再高也是业余的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 570,
+    "end_line": 570,
+    "sha1": "490b3e714859e8766de22196a9b7a97929b416f8",
+    "fingerprint": [
+     "专业",
+     "业余"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D09-2"
+   ],
+   "concept_key": "专业做法决定成败",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "做投资关键也是专业，业余者不能系统保证稳定回报（行572）；风洞一步步系统验证=专业做法（行568）"
+  },
+  {
+   "claim_id": "C-GJ-U0014-08",
+   "unit_id": "GJ-U0014",
+   "speaker": "转述·第三方",
+   "claim_text": "书中引德谟克利特\"人不能两次跨入同一条河流\"：过去的时代永远不可能重来一次",
+   "quote": "两次跨入同一条河流",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 574,
+    "end_line": 574,
+    "sha1": "556653ccd5a72f15d1b3f77fd94bbf751a69c22a",
+    "fingerprint": [
+     "德谟克利特",
+     "一条河流"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "河流之喻",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：书中记为德谟克利特（行574）；通说此语出自赫拉克利特，归属存疑留P4核。R1：吴军概括见 C-GJ-U0014-09"
+  },
+  {
+   "claim_id": "C-GJ-U0014-09",
+   "unit_id": "GJ-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "过去时代不会重来，但存在永恒的东西：对世界的信心、因环境做事的原则、专业的做事方法",
+   "quote": "一些永恒的东西",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 574,
+    "end_line": 574,
+    "sha1": "556653ccd5a72f15d1b3f77fd94bbf751a69c22a",
+    "fingerprint": [
+     "永恒的东西",
+     "专业的做事方法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "永恒三样",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "概括卡，与 C-GJ-U0014-08 同一论证链并存；收束本章因地制宜+专业方法主线"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0014",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "行514-530飞行科技史细节（凯利滑翔机试飞、皮戈特1971年仿制、《论空中航行》流传）为史实叙述，可迁移方法论已入卡03/05"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第9节时代与因地制宜+专业方法：E1×7+转述E2×2（格拉德威尔/德谟克利特）共9卡，飞行史细节记X4"
+}

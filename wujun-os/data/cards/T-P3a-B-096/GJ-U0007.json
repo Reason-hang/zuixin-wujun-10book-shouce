@@ -1,0 +1,207 @@
+{
+ "unit_id": "GJ-U0007",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0007-01",
+   "unit_id": "GJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "分享利益是职业人士必须具备的基本素质，要刻意养成鸣谢帮助者的习惯",
+   "quote": "分享利益是我们将来作为职业人士",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 235,
+    "end_line": 235,
+    "sha1": "5686a322bf22de271df421ace52b4b887e09575a",
+    "fingerprint": [
+     "分享利益",
+     "基本素质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-2"
+   ],
+   "concept_key": "分享利益是职业素质",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "布莱尔要求约翰在引用文献加入\"personal talk with Jun Wu\"（行229-231）；吴军在谷歌专利尽可能加合作者、发布新闻列帮忙者（行245）为实践例"
+  },
+  {
+   "claim_id": "C-GJ-U0007-02",
+   "unit_id": "GJ-U0007",
+   "speaker": "转述·第三方",
+   "claim_text": "贾里尼克两原则：同事工作有助论文须加署名；谈论过论文工作须致谢",
+   "quote": "在作者中加入他的名字",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 239,
+    "end_line": 241,
+    "sha1": "acd6f3e326a9ed4b46fe20c5f679ed1bce1ecb8a",
+    "fingerprint": [
+     "作者",
+     "感谢"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "学术署名与致谢原则",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：贾里尼克（吴军导师，行237引出）；解释其IBM论文作者众多（行243）；R1：吴军概括见 C-GJ-U0007-01"
+  },
+  {
+   "claim_id": "C-GJ-U0007-03",
+   "unit_id": "GJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "大型组织只有靠分享利益才能形成合力；不注重相互提携是中国人在硅谷晋升慢的原因之一",
+   "quote": "大型组织只有这样才能形成合力",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 249,
+    "end_line": 249,
+    "sha1": "b12923857fa527795046e7025cb1aa9731f3d22e",
+    "fingerprint": [
+     "形成合力",
+     "相互提携"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "分享利益聚合力",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "《史记》陈平答刘邦：项王吝封赏而刘邦不吝恩赐（行253）；\"再好的人舍不得分享利益，周围的人最终也会离他而去\"（行255）；学术/艺术/法律界都是利益共同体（行243）"
+  },
+  {
+   "claim_id": "C-GJ-U0007-04",
+   "unit_id": "GJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "利益要分享，但决策自己做：很多事未必需要民主集中、征求所有人意见",
+   "quote": "利益要分享，但是决策自己做",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 257,
+    "end_line": 257,
+    "sha1": "972d9c68249ecfe6489680ba57de5a3c9d67edb9",
+    "fingerprint": [
+     "民主集中",
+     "决策"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "分享利益独立决定",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "民主只对公权力，私营企业从不民主而效率不低（行259）；权力下放后个人可自行决定（行261）"
+  },
+  {
+   "claim_id": "C-GJ-U0007-05",
+   "unit_id": "GJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "高效决策流程：先征求相关者意见→补遗漏、评估质疑→负责人自行决定，不追求一次解决所有问题",
+   "quote": "负责人自己就把这件事情决定了",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 263,
+    "end_line": 263,
+    "sha1": "54b7d1bf758fe17e8e0dc1c7e37386b0fbc2e898",
+    "fingerprint": [
+     "遗漏",
+     "质疑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "补遗漏后独立决断",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "\"最好是更好的敌人\"引自《态度》（行265）；朱雪龙谈英国教授非正式商谈即决定（行267）；韦尔奇邮件限额例见 C-GJ-U0007-06"
+  },
+  {
+   "claim_id": "C-GJ-U0007-06",
+   "unit_id": "GJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "韦尔奇规定收件人超限额的邮件须特别确认才能发，减少无效信息、提升管理效率",
+   "quote": "韦尔奇强行规定",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 269,
+    "end_line": 269,
+    "sha1": "470b5ff4e428a28b34035c53186190b0cc6e02ea",
+    "fingerprint": [
+     "韦尔奇",
+     "抄送"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-1"
+   ],
+   "concept_key": "邮件抄送限额",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：GE市值从130亿增至4000亿美元（行269）；机理=压缩不必要的沟通扩散面"
+  },
+  {
+   "claim_id": "C-GJ-U0007-07",
+   "unit_id": "GJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "没人愿独自决断不是因为不喜欢决定权，而是害怕担责；愿对自己的决定负责，决断就不难",
+   "quote": "害怕承担责任",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 271,
+    "end_line": 271,
+    "sha1": "a54dc5b70e5e61d871f6c6ef6399342ce52975fa",
+    "fingerprint": [
+     "责任",
+     "决断"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "担责方能决断",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "公民意识=对自己的所有决定负责（行271）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章双主题：分享利益（E1×2+E2转述1）与独立决断（组织决策E1×3+E3例证1）共7卡"
+}

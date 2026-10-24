@@ -1,0 +1,120 @@
+{
+ "unit_id": "GJ-U0008",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0008-01",
+   "unit_id": "GJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "\"小恶\"相比\"大善\"量级小：勿以小恶而忘大善，坚持下来结果才好；因小恶离职得不偿失",
+   "quote": "勿以小恶而忘大善",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 282,
+    "end_line": 282,
+    "sha1": "0a2ed3189c4a792379098f1d87f837ab692e61dd",
+    "fingerprint": [
+     "小恶",
+     "大善"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "勿以小恶忘大善",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "留学奖学金语境：学校担学费是大善、教授派杂事是小恶（行278-280）；国人常因小小不爽愤然辞职（行290）；美国人职业素养高、就事论事（行296）"
+  },
+  {
+   "claim_id": "C-GJ-U0008-02",
+   "unit_id": "GJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "脸书前100名员工因小事入职不满半年离职，一股期权未拿到，损失估计上亿美元",
+   "quote": "一股期权都没有拿到",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 286,
+    "end_line": 286,
+    "sha1": "4a5cae7a9885408d44ebb3855eb195056df10f97",
+    "fingerprint": [
+     "期权",
+     "脸书"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "因小失大失期权",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：因小事否定全部→失去大机会的量化案例；后文\"因小失大、逞一时之快\"概括（行288）"
+  },
+  {
+   "claim_id": "C-GJ-U0008-03",
+   "unit_id": "GJ-U0008",
+   "speaker": "转述·第三方",
+   "claim_text": "《礼记·大学》：好而知其恶、恶而知其美者天下鲜矣——不因好恶全盘接受或否定人",
+   "quote": "恶而知其美者",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 292,
+    "end_line": 292,
+    "sha1": "f63ff6e43398b1e3633a0a8bf8ed7baba9cea64c",
+    "fingerprint": [
+     "礼记",
+     "鲜矣"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "好而知恶恶知美",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：《礼记·大学》；吴军用它引出\"爱屋及乌\"的人性弱点（见 C-GJ-U0008-04）"
+  },
+  {
+   "claim_id": "C-GJ-U0008-04",
+   "unit_id": "GJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "人有爱屋及乌的固有弱点：容易因个人好恶全盘接受或否定，把局部得失放大成全局结果",
+   "quote": "把局部的得失放大成全局的结果",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 294,
+    "end_line": 294,
+    "sha1": "c124fda88232ee334ba711cbb52543794bdfae63",
+    "fingerprint": [
+     "爱屋及乌",
+     "固有的弱点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D01-1"
+   ],
+   "concept_key": "爱屋及乌放大局部得失",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "\"为什么少\"的回答：人性弱点使然（行294）；对策即勿以小恶忘大善（C-GJ-U0008-01）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章小恶与大善权衡：E1×2+《礼记》转述E2×1+脸书例证E3×1"
+}

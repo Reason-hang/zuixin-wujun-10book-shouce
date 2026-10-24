@@ -1,0 +1,65 @@
+{
+ "unit_id": "GJ-U0004",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0004-01",
+   "unit_id": "GJ-U0004",
+   "speaker": "转述·第三方",
+   "claim_text": "曾国藩：凡办大事以识为主、以才为辅；过分相信才华会把格局限制在当下水平",
+   "quote": "以识为主，以才为辅",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 146,
+    "end_line": 146,
+    "sha1": "d0e8d45f5479172525ddbf4bb9a8d946f1b7dd27",
+    "fingerprint": [
+     "曾文正公",
+     "以识为主"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "识主才辅",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：曾国藩（原文称\"曾文正公\"）。吴军概括见 C-GJ-U0004-02，R1双卡并存互引"
+  },
+  {
+   "claim_id": "C-GJ-U0004-02",
+   "unit_id": "GJ-U0004",
+   "speaker": "吴军本人",
+   "claim_text": "提升格局第一步是认识并敬畏超出个人能力之外的力量（天/上帝/星空/道德）",
+   "quote": "只有敬畏这样的力量",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 148,
+    "end_line": 148,
+    "sha1": "a49f3a2501376fa3f4a91aa4bdcd1760d8ecf3a3",
+    "fingerprint": [
+     "超出个人能力之外",
+     "敬畏"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "敬畏超个人力量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "概括卡；曾国藩原话转述见 C-GJ-U0004-01；无神论者的\"上帝\"=头顶星空或心中道德（行148）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第一章引言：曾国藩话转述卡（E2）与吴军\"敬畏超己力量\"概括卡（E1）各1张"
+}

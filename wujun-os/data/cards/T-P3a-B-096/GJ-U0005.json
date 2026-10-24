@@ -1,0 +1,159 @@
+{
+ "unit_id": "GJ-U0005",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0005-01",
+   "unit_id": "GJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "奇迹能否出现和人的主动性有关：遇事不主动的人，上帝也没有办法帮他",
+   "quote": "上帝也没有办法帮他",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 165,
+    "end_line": 165,
+    "sha1": "d5da3944f235fc2a37658e28b862d7cf1c880295",
+    "fingerprint": [
+     "主动",
+     "上帝"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "上帝垂青主动的人",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "消防车/直升机祈祷故事（行157-163）为例证；时代变化更快、主动者拉开距离（行187-189）并入本卡"
+  },
+  {
+   "claim_id": "C-GJ-U0005-02",
+   "unit_id": "GJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "职场主动性=做好本职+主动沟通承担更重要任务+\"管理\"上级：让上级了解工作、必要时求助",
+   "quote": "自己的上级",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 169,
+    "end_line": 169,
+    "sha1": "f966110a857e874cbaeeadf4f0cf02f8c0ba7953",
+    "fingerprint": [
+     "主动性",
+     "本职工作",
+     "上级"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D06-3"
+   ],
+   "concept_key": "主动工作与管理上级",
+   "ability_tags": [
+    "思",
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "\"管理上级\"非给上级派活或抗命，而是让上级了解工作并及时求助（行171）；经理了解下属受现实约束（行169）"
+  },
+  {
+   "claim_id": "C-GJ-U0005-03",
+   "unit_id": "GJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "事情能否做成取决于主动性；在不理想环境中做事，个人需要主动创造好环境",
+   "quote": "主动创造一个好环境",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 173,
+    "end_line": 173,
+    "sha1": "9dcb871a704ed2030bbfcf4ac2cb715c568446ac",
+    "fingerprint": [
+     "不理想的环境",
+     "主动创造"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "主动创造环境",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "1996美国领馆排队发序号（行175-177）、李强托福报名发号并每小时重发（行179）、组织投资人共同投资（行179）为例证链"
+  },
+  {
+   "claim_id": "C-GJ-U0005-04",
+   "unit_id": "GJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "创业者面前几乎一切未知、条件要自己创造：主动性是第一位，个人本事反而是第二位",
+   "quote": "主动性是第一位的",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 181,
+    "end_line": 181,
+    "sha1": "a498ba1afe0dfd048bff0b4eb488be25574ed93d",
+    "fingerprint": [
+     "创业者",
+     "主动性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "创业者主动性第一",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "创业者需亲力亲为、无关杂事多、常需自己创造条件（行181）；与大公司按章办事对比"
+  },
+  {
+   "claim_id": "C-GJ-U0005-05",
+   "unit_id": "GJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "马云胜在主动性：没支付就自建支付、没信用体系就自建；8848归因环境不具备而倒下",
+   "quote": "做事情的主动性",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 185,
+    "end_line": 185,
+    "sha1": "299ba89db556e950425bc0b07e689e572441aba5",
+    "fingerprint": [
+     "马云",
+     "阿里巴巴",
+     "主动性"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-2",
+    "D08-1"
+   ],
+   "concept_key": "主动创造缺失条件",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：8848创始人\"中国无电商土壤\"论（行183）为对照；机理=没有条件就主动创造条件而非归因环境"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0005",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "行187所举公司时点事实（阿里B2B业务消失、微信10年前未诞生）属时点佐证，可迁移判断（时代变化快更需主动）已入 C-GJ-U0005-01 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第一章第1节主动性主题：E1×4+阿里vs8848例证E3×1，公司兴衰时点事实记X2"
+}

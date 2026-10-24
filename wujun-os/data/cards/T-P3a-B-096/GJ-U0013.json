@@ -1,0 +1,190 @@
+{
+ "unit_id": "GJ-U0013",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0013-01",
+   "unit_id": "GJ-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "在其位谋其政：领薪水就要做事对得起那份钱；无事可做的\"闲人\"在裁员时首当其冲",
+   "quote": "在其位就要谋其政",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 477,
+    "end_line": 477,
+    "sha1": "bf22315200a409db8043eeddf383bde0d057458e",
+    "fingerprint": [
+     "谋其政",
+     "裁员"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-3"
+   ],
+   "concept_key": "在其位谋其政",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "晴雯在宝玉房里无特定职责、坐熏笼\"装小姐\"例（行469-475）"
+  },
+  {
+   "claim_id": "C-GJ-U0013-02",
+   "unit_id": "GJ-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "要搞清掌握自己命运的是谁：晴雯以为老上级和赏识者护得住自己，对上不敬对下刻薄，最后自己被撵走",
+   "quote": "掌握自己命运的领导",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 479,
+    "end_line": 479,
+    "sha1": "eee06dba8e57068a85bf496f7e6e74648b0ef3a8",
+    "fingerprint": [
+     "王夫人",
+     "撵了出去"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "认清命运决定者",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "贾母被王家两代人架空、王夫人是有实权的董事（行463）；不藏拙、一味显聪明，遇小人挑拨即欲除之（行481）"
+  },
+  {
+   "claim_id": "C-GJ-U0013-03",
+   "unit_id": "GJ-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "得势时更要有忧患意识：别人越抬举越要小心——期望值被抬高且会有人妒忌",
+   "quote": "别人越是抬举我们",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 485,
+    "end_line": 485,
+    "sha1": "1298cddbe323f8383711b497e476e46caa418839",
+    "fingerprint": [
+     "忧患意识",
+     "妒忌"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D02-3"
+   ],
+   "concept_key": "抬举与忧患意识",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "总纲\"人要有忧患意识，没事不要惹事\"（行483）；撕扇子取乐、得罪袭人例（行483）"
+  },
+  {
+   "claim_id": "C-GJ-U0013-04",
+   "unit_id": "GJ-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "要对不如自己的人、特别是下属友善；得罪过的人日后可能掌握你的把柄",
+   "quote": "对不如自己的人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 487,
+    "end_line": 487,
+    "sha1": "23c67a700317e3f2b292ad2276a922821d3de2b4",
+    "fingerprint": [
+     "下属",
+     "友善"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "善待下属",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "晴雯骂小丫头、一丈青戳坠儿手（行489-491）；被讽刺的小红日后成凤姐红人，晴雯若留任可能被告黑状（行495）"
+  },
+  {
+   "claim_id": "C-GJ-U0013-05",
+   "unit_id": "GJ-U0013",
+   "speaker": "转述·第三方",
+   "claim_text": "柳传志告诫马化腾刘炽平避坑两条：不要和政府作对；要善待下面的人",
+   "quote": "要善待下面的人",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 493,
+    "end_line": 493,
+    "sha1": "6fc33bf46fe399b36ec90e9ad1c2dc2969aae975",
+    "fingerprint": [
+     "柳传志",
+     "马化腾"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "柳传志避坑两条",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：柳传志（马化腾、刘炽平当面请教，行493）；与 C-GJ-U0013-04 善待下属互证"
+  },
+  {
+   "claim_id": "C-GJ-U0013-06",
+   "unit_id": "GJ-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "太单纯不是错但会吃亏：人要为自己的不懂事承担后果，尽快成熟成健全的社会人",
+   "quote": "为自己的不懂事承担后果",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 497,
+    "end_line": 497,
+    "sha1": "9a801161121cbe691d731104fe6273963c438852",
+    "fingerprint": [
+     "健全的社会人",
+     "巨婴"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-3"
+   ],
+   "concept_key": "成熟为健全社会人",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "引《大学之路》：上大学更要尽快成熟成健全社会人（自引）；晴雯\"心智不健全\"\"像巨婴\"；条件不错的人把一手好牌打烂的总括（行497）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0013",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "行455-461、473-475、489-491为《红楼梦》第七十四/七十七/五十一/五十二回原文引文（曹雪芹），作例证并入相应卡，不独立成卡"
+  },
+  {
+   "unit_id": "GJ-U0013",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "行463曹雪芹家世考证（曹寅夫人李氏、过继关系推断贾母王夫人矛盾）为红学史实考证，无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "晴雯案例五条职场做人教训：E1×5+柳传志转述E2×1共6卡，红楼梦引文记X7、家世考证记X4"
+}

@@ -24,3 +24,5 @@
 | CHG-020 | S14 单一口径（主归属相等才匹配）；抽取规程缺 8 项细则 | P1 试点发现（严格口径 0.526 FAIL）：S14 改双档判定（严口径报告用/归属口径放行用）；抽取规程增补 R1–R8（总结句判据、粒度刻度、全柱开放+DT待判、X卡落地、格式统一、锚点800字口径与续卡、quote连续子串） | P1 试点报告 §三；K/M 双盲独立发现并去重 | v2.1→规则v0.9 | **已冻结 v1.0（CHG-021，2026-10-24 放量复验全过）** |
 | CHG-021 | 规则 v0.9（草案） | 冻结为 v1.0：放量 76 卡 + N4 盲抽复验 attr 0.857/0.933/0.824 全过；schema 回写（claim_id/concept_key/lifecycle 字段）列入 P4 前置 | D-28；T-P1-10 冻结条件满足 | v0.9→v1.0 | 已生效（spec/rules_v0.9.md 头部冻结记录） |
 | CHG-022 | 批数估算 70–90 批（单一口径） | 全量装箱 108 批（HC-14 每批 3–5 万字数学下限 99 批）；"70–90/A 层约 28 批"为分诊后必读层口径，双轨并存 | S10 装箱实测发现验收矛盾（D-27） | v2.1→执行期 | 已生效（logs/batch_plan.md） |
+| CHG-023 | 概念键无全局台账（各批批内编号） | 新增 scripts/ck_registry.py + data/rules/concept_keys.csv（780 唯一键，跨书复用待 P4 语义归一） | P4 前置欠账清偿（用户 2026-10-24 指示） | 执行期 | 已生效 |
+| CHG-024 | claim.schema.json 草案 v0.1 字段与规则 v1.0 冲突（claim_id 无 U/claim/pillar_hints/lifecycle） | 回写 v1.0：claim_id 带 U 与回归前缀、claim_text/pillar_candidates/anchor.fingerprint/status 枚举、E2 双语义注明；unit.schema.json 补 read_level/disposal/batch_id/domain_direct/series_group | 规则 v1.0 冻结记录的 P4 前置工单；全库 856 卡回验 0 FAIL | v1.0→schema | 已生效 |

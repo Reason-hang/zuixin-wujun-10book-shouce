@@ -1,0 +1,312 @@
+{
+ "unit_id": "GG-U0013",
+ "book_code": "GG",
+ "extractor": "GRC-R-AUD（GATE-C 个案复验·全新独立窗口盲抽，规则 v1.0 + R3 粒度强化条款）",
+ "cards": [
+  {
+   "claim_id": "GR-GG-U0013-01",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "一切工作应建立在已有知识基线之上而非从基线下面起步，做好工作的首要动作是提高自身基线",
+   "quote": "而不是从它的下面开始做起",
+   "type": "原理",
+   "disposal": "K",
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9101",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "原著自带",
+   "boundary_original": "基线高度因人而异：专家高、刚入门者低（行1073）",
+   "anchor": {
+    "sha1": "d6fec86843f6273c49cef880a61945d621b2b8f4",
+    "start_line": 1073,
+    "end_line": 1079,
+    "fingerprint": [
+     "基线",
+     "民间发明家",
+     "地下室三层"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "三条边之下边（基线）母卡，主挂 D05-1 辅 D04-3（判例：基线=工程上怎么做事）。一般例证并入本卡：民间发明家造小飞机（行1075–1077）、三层楼/地平线/地下室三层比喻（行1079）、专家常识与新知（行1085）、散户投资类比（行1086）。专名案例莱特兄弟按 R3 强化条款独立成卡 GR-GG-U0013-02；教育应用判断独立成卡 GR-GG-U0013-03。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-02",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "莱特兄弟非民间发明家：先系统学习并核实凯利理论站上高基线，经200多种翼形与上千次风洞试验才上天",
+   "quote": "进行了上千次的风洞试验",
+   "type": "案例",
+   "disposal": "K",
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9102",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "原著自带",
+   "boundary_original": "原著未说明",
+   "anchor": {
+    "sha1": "5fe3a4f77f2be21cf030a8474ae8e2b50f1f218b",
+    "start_line": 1079,
+    "end_line": 1084,
+    "fingerprint": [
+     "莱特兄弟",
+     "凯利",
+     "风洞"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "R3 强化条款：专名案例+可迁移机理（先站上理论基线、核实后系统试验、做足试验才行动）必须独立成 E3 卡，不并入母卡 notes。案例内转述成分不另立 E2 卡：凯利空气动力学理论（被转述者：乔治·凯利）、奥维尔·莱特1912年归功凯利之语（被转述者：奥维尔·莱特，行1080）。母卡见 GR-GG-U0013-01。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-03",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "接受教育的目的就是提高基线；因基线太低，不主张大学生退学创业",
+   "quote": "不主张大学生退学创业",
+   "type": "判断",
+   "disposal": "K",
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9103",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "anchor": {
+    "sha1": "2e4ded58a2adf342ca5f3983f0b60deecb6b4fb4",
+    "start_line": 1087,
+    "end_line": 1087,
+    "fingerprint": [
+     "教育",
+     "基线",
+     "退学创业"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "基线原理的应用判断（可独立成立），非例证，故独立成卡；母卡见 GR-GG-U0013-01。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-04",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "上面一条线是理论给出的极限、无法突破；专业人士与业余爱好者的差别在于是否了解极限的存在",
+   "quote": "那是理论给出的极限",
+   "type": "原理",
+   "disposal": "K",
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "CK-9104",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "原著自带",
+   "boundary_original": "极限由理论给定，无法突破（行1088）",
+   "anchor": {
+    "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0",
+    "start_line": 1088,
+    "end_line": 1092,
+    "fingerprint": [
+     "极限",
+     "卡诺定理",
+     "业余爱好者"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "三条边之上边（理论极限）母卡，主挂 D04-3 辅 D05-1（判例：理论极限/专业业余之别=原理）。一般例证并入本卡：光速/绝对零度/能量守恒（行1088）、卡诺定理限制蒸汽机效率上限（行1090–1091）、图灵机/摩尔定律/冯·诺依曼结构极限（行1092）——均非专名案例+可迁移机理组合，按 R3 并入母卡。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-05",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "仅有基线和极限还不够，还需能扶着向上攀登的绳索阶梯；工程师的工作就是找到或编织这条连接路径",
+   "quote": "向上攀登的绳索",
+   "type": "原理",
+   "disposal": "K",
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9105",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "原著自带",
+   "boundary_original": "斜线下面粗上面细：近基础处方法多，越接近高目标道路越少（行1097）",
+   "anchor": {
+    "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28",
+    "start_line": 1093,
+    "end_line": 1098,
+    "fingerprint": [
+     "绳索",
+     "阶梯",
+     "斜线"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "三条边之斜线（连接路径）母卡，主挂 D05-1 辅 D04-3（判例：连接路径=工程上怎么做事）。粗细含义（行1097）、思维方式普遍适用（行1098）并入本卡。专名案例鸟巢独立成卡 GR-GG-U0013-06；工程师与科学家之别独立成卡 GR-GG-U0013-07；L 君案例独立成卡 GR-GG-U0013-08。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-06",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "鸟巢工程20年前因基线不足做不到；后基线具备，靠勘察设计施工管理一整套方案连成斜线把图纸变成现实",
+   "quote": "那条往上的斜线",
+   "type": "案例",
+   "disposal": "K",
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9106",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "原著自带",
+   "boundary_original": "20年前全世界做不到，因基线太低、不能超大型钢结构施工（行1094）",
+   "anchor": {
+    "sha1": "26d02f7360be4b98e86b544fa237bbfab33f0740",
+    "start_line": 1094,
+    "end_line": 1096,
+    "fingerprint": [
+     "鸟巢",
+     "李久林",
+     "钢结构"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "R3 强化条款：专名案例（鸟巢工程、总工程师李久林）+可迁移机理（一整套从勘察、结构设计到施工与技术管理的方案=连接斜线）独立成 E3 卡。案例内转述成分不另立 E2 卡：一整套方案的表述（被转述者：李久林，行1096）。母卡见 GR-GG-U0013-05。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-07",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "科学家告诉大家这件事可以做，工程师要明白怎么做",
+   "quote": "但是工程师要明白怎么做",
+   "type": "判断",
+   "disposal": "K",
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "CK-9107",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "anchor": {
+    "sha1": "5f0345a1cc81d1e60150d646ec201cb6dcb44a45",
+    "start_line": 1095,
+    "end_line": 1095,
+    "fingerprint": [
+     "工程师",
+     "科学家"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "专业角色之别的独立判断，按判例（专业之别=原理）主挂 D04-3 辅 D05-1；服务于连接路径论述，母卡见 GR-GG-U0013-05。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-08",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "L君融资受挫后经泰斗指点认清自身基础与欠缺极限，只走明确的台阶通道并回绝通道外一切，终把天花板变成新基础",
+   "quote": "把过去的天花板变成了后来的基础",
+   "type": "案例",
+   "disposal": "K",
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9108",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "anchor": {
+    "sha1": "6d0cd39fa3c8d3e0a7e3b3162e5de52f9b0e7038",
+    "start_line": 1100,
+    "end_line": 1108,
+    "fingerprint": [
+     "L 君",
+     "通道",
+     "天花板"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "R3 强化条款：L 君（匿名专名）+可迁移机理（认清已有基础与欠缺极限、只走台阶通道、回绝通道外诱惑、把天花板变成新基础）独立成 E3 卡。锚点取 1100–1108（723 字）：1099–1108 全区间 838 字超 R7 上限 800，舍引入行 1099，保留困境→指点→行动→结果完整机理闭环。案例内转述成分不另立 E2 卡：泰斗对基础/欠缺/通道的指点（被转述者：L 君之长辈泰斗，经 L 君转述于吴军，行1101–1104）。母卡见 GR-GG-U0013-05。"
+  },
+  {
+   "claim_id": "GR-GG-U0013-09",
+   "unit_id": "GG-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "工程解决问题有相对固定章法：缺基线与极限是蛮干傻干，缺第三条线只能纸上谈兵；多数工程师缺的恰是第三条线",
+   "quote": "找不到第三条线永远只能纸上谈兵",
+   "type": "判断",
+   "disposal": "K",
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-9109",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "三条线是对工程章法的简化，便于记忆和操作（行1109）",
+   "anchor": {
+    "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb",
+    "start_line": 1109,
+    "end_line": 1110,
+    "fingerprint": [
+     "三条线",
+     "蛮干",
+     "纸上谈兵"
+    ],
+    "book_code": "GG"
+   },
+   "notes": "全文收束总结句，主挂 D05-1 辅 D04-3（判例：总结=工程上怎么做事）。行1112–1113 今日思考（定 2018 年目标）按规则不入卡。"
+  }
+ ]
+}

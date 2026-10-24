@@ -1,119 +1,336 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "unit.schema.json",
-  "title": "WJ-OS 单元处置记录 schema（草案 v0.1）",
-  "description": "切分单元（1,742 个）的登记与处置记录。权威来源：v2_方案.md §5.6（单元口径/处置状态/说话人）、§5.13（锚点规范）、§16.1（ID 规范）、§16.2（单元记录字段）。本 schema 为工程化草案：required 从简（核心标识字段必填），条件约束用 if/then 表达。字段名 char_count/order 对应 §16.2 的 cjk_chars/seq。",
-  "type": "object",
-  "required": ["unit_id", "book_code", "order", "type", "disposal"],
-  "properties": {
-    "unit_id": {
-      "type": "string",
-      "pattern": "^(SG1|SG3|WJ2|GG|JS|SX|GJ|JJ|FZ|TD)-U[0-9]{4}$",
-      "description": "书码-U4位序号（§16.1）；序号为文件内位置序号，从 0001 起"
-    },
-    "book_code": {
-      "enum": ["SG1", "SG3", "WJ2", "GG", "JS", "SX", "GJ", "JJ", "FZ", "TD"],
-      "description": "书码（§5.6）：SG1 硅谷来信1、SG3 硅谷来信3、WJ2 吴军来信2、GG 谷歌方法论、JS 见识、SX 数学通识50讲、GJ 格局、JJ 境界、FZ 富足、TD 态度"
-    },
-    "book_file": { "type": "string", "description": "冻结文件名（§16.2）" },
-    "char_count": {
-      "type": "integer",
-      "minimum": 0,
-      "description": "单元汉字数（§16.2 cjk_chars）；内容单元 ≥100 汉字"
-    },
-    "order": {
-      "type": "integer",
-      "minimum": 1,
-      "description": "文件内位置序号（§16.2 seq），与 unit_id 中 4 位序号一致"
-    },
-    "orig_no": { "type": "string", "description": "原编号，无则空（§16.2）" },
-    "orig_title": { "type": "string", "description": "原标题（§16.2），另存不改写" },
-    "type": {
-      "enum": ["内容", "结构容器", "非内容"],
-      "description": "状态类别（§16.2 status_class：内容/容器/非内容；§5.6 单元口径 1,742 = 内容 1,697 + 近空容器 32 + 非内容 13）"
-    },
-    "unit_kind": {
-      "enum": ["封信", "答读者问", "周末问答", "周末互动", "回信精选", "回用户信", "复习书单", "发刊词", "章节", "讲", "彩蛋", "容器", "目录", "其他"],
-      "description": "类型细目（§16.2 type 枚举）"
-    },
-    "n_subtype": {
-      "enum": ["N1", "N2", "N3"],
-      "description": "disposal=N 时必填（§5.6）：N1 目录、导航、推广、出版信息；N2 结构容器标题；N3 参照单元（谷歌作者自编目录）。只登记，不抽取"
-    },
-    "anchor": { "$ref": "#/definitions/anchor" },
-    "speaker": {
-      "enum": ["吴军本人", "读者", "转述·第三方", "史实", "编校转录", "嘉宾", "待核"],
-      "description": "栏目级由脚本预标（§5.6）；不确定标 待核，P4 前清零"
-    },
-    "speaker_risk": { "enum": ["无", "低", "高"], "description": "说话人风险（§16.2）" },
-    "disposal": {
-      "enum": ["K", "M", "C", "X", "N"],
-      "description": "处置标签（§5.6）：K 含核心论点；M 论点并入既有 K 卡；C 案例或证据挂模型下；X 排除；N 非内容或结构。单元状态取最高者（K > M > C > X > N）"
-    },
-    "x_subtype": {
-      "enum": ["X1", "X2", "X3", "X4", "X5", "X6", "X7", "X8"],
-      "description": "disposal=X 时必填（§5.6、§5.12），定义见 exclusions.yaml"
-    },
-    "disposal_reason": { "type": "string", "description": "处置理由；X 类必填，X8 须逐条写理由" },
-    "merged_into": { "type": "string", "description": "disposal=M 时必填：并入的 K 卡 ID（§5.6）" },
-    "attached_to": { "type": "string", "description": "disposal=C 时必填：挂靠的模型卡 ID（§5.6）" },
-    "card_ids": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "本单元产出的卡 ID 列表；一个单元可产出多张卡（§5.6）"
-    },
-    "read_tier": { "enum": ["A", "B", "C"], "description": "读法层（HC-15、§16.2），P2 后填" },
-    "pillar_hints": {
-      "type": "array",
-      "maxItems": 2,
-      "items": { "type": "string", "pattern": "^D[0-9]{2}(-[1-9])?$" },
-      "description": "候选支柱提示 ≤2（§16.2 pillar_hints）"
-    },
-    "domain_direct": { "type": "boolean", "description": "领域直连标记（跨境、电商、物流、供应链，§13.4 第 16 组）" },
-    "date": { "type": "string", "description": "日期 YYYY-MM-DD，未知填 未知（§16.2）" },
-    "time_sensitive": { "enum": ["是", "否", "未知"], "description": "时效敏感（§16.2）" },
-    "series_group_id": { "type": "string", "description": "系列单元组 ID，无则空（HC-14：系列单元不拆开）" },
-    "dup_links": { "type": "array", "items": { "type": "string" }, "description": "重复簇与双出处（G6、§16.2）" },
-    "flags": { "type": "array", "items": { "type": "string" }, "description": "G7 标记：图片、HTML 锚点、编校注、转录、整理者说明、推广、指令性文字等（§16.2）" }
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "unit.schema.json",
+ "title": "WJ-OS 单元处置记录 schema（草案 v0.1）",
+ "description": "切分单元（1,742 个）的登记与处置记录。权威来源：v2_方案.md §5.6（单元口径/处置状态/说话人）、§5.13（锚点规范）、§16.1（ID 规范）、§16.2（单元记录字段）。本 schema 为工程化草案：required 从简（核心标识字段必填），条件约束用 if/then 表达。字段名 char_count/order 对应 §16.2 的 cjk_chars/seq。",
+ "type": "object",
+ "required": [
+  "unit_id",
+  "book_code",
+  "order",
+  "type",
+  "disposal"
+ ],
+ "properties": {
+  "unit_id": {
+   "type": "string",
+   "pattern": "^(SG1|SG3|WJ2|GG|JS|SX|GJ|JJ|FZ|TD)-U[0-9]{4}$",
+   "description": "书码-U4位序号（§16.1）；序号为文件内位置序号，从 0001 起"
   },
-  "definitions": {
-    "anchor": {
-      "type": "object",
-      "description": "锚点（§5.13）：起句至止句区间，上限 800 字；只证明位置真实，不证明转述忠实（HC-11）",
-      "required": ["line_start", "line_end", "sha1"],
-      "properties": {
-        "file": { "type": "string", "description": "冻结文件名" },
-        "char_start": { "type": "integer", "minimum": 0, "description": "字符区间起点 [char_start, char_end)，UTF-8 解码后字符串下标" },
-        "char_end": { "type": "integer", "minimum": 0 },
-        "line_start": { "type": "integer", "minimum": 1, "description": "行号，1 起" },
-        "line_end": { "type": "integer", "minimum": 1 },
-        "sha1": { "type": "string", "pattern": "^[0-9a-f]{40}$", "description": "锚区 SHA1" },
-        "fingerprint_words": {
-          "type": "array",
-          "maxItems": 3,
-          "minItems": 1,
-          "items": { "type": "string" },
-          "description": "指纹词 ≤3（§5.13 words）"
-        }
-      }
-    }
+  "book_code": {
+   "enum": [
+    "SG1",
+    "SG3",
+    "WJ2",
+    "GG",
+    "JS",
+    "SX",
+    "GJ",
+    "JJ",
+    "FZ",
+    "TD"
+   ],
+   "description": "书码（§5.6）：SG1 硅谷来信1、SG3 硅谷来信3、WJ2 吴军来信2、GG 谷歌方法论、JS 见识、SX 数学通识50讲、GJ 格局、JJ 境界、FZ 富足、TD 态度"
   },
-  "allOf": [
-    {
-      "if": { "properties": { "disposal": { "const": "X" } } },
-      "then": { "required": ["x_subtype", "disposal_reason"] }
+  "book_file": {
+   "type": "string",
+   "description": "冻结文件名（§16.2）"
+  },
+  "char_count": {
+   "type": "integer",
+   "minimum": 0,
+   "description": "单元汉字数（§16.2 cjk_chars）；内容单元 ≥100 汉字"
+  },
+  "order": {
+   "type": "integer",
+   "minimum": 1,
+   "description": "文件内位置序号（§16.2 seq），与 unit_id 中 4 位序号一致"
+  },
+  "orig_no": {
+   "type": "string",
+   "description": "原编号，无则空（§16.2）"
+  },
+  "orig_title": {
+   "type": "string",
+   "description": "原标题（§16.2），另存不改写"
+  },
+  "type": {
+   "enum": [
+    "内容",
+    "结构容器",
+    "非内容"
+   ],
+   "description": "状态类别（§16.2 status_class：内容/容器/非内容；§5.6 单元口径 1,742 = 内容 1,697 + 近空容器 32 + 非内容 13）"
+  },
+  "unit_kind": {
+   "enum": [
+    "封信",
+    "答读者问",
+    "周末问答",
+    "周末互动",
+    "回信精选",
+    "回用户信",
+    "复习书单",
+    "发刊词",
+    "章节",
+    "讲",
+    "彩蛋",
+    "容器",
+    "目录",
+    "其他"
+   ],
+   "description": "类型细目（§16.2 type 枚举）"
+  },
+  "n_subtype": {
+   "enum": [
+    "N1",
+    "N2",
+    "N3"
+   ],
+   "description": "disposal=N 时必填（§5.6）：N1 目录、导航、推广、出版信息；N2 结构容器标题；N3 参照单元（谷歌作者自编目录）。只登记，不抽取"
+  },
+  "anchor": {
+   "$ref": "#/definitions/anchor"
+  },
+  "speaker": {
+   "enum": [
+    "吴军本人",
+    "读者",
+    "转述·第三方",
+    "史实",
+    "编校转录",
+    "嘉宾",
+    "待核"
+   ],
+   "description": "栏目级由脚本预标（§5.6）；不确定标 待核，P4 前清零"
+  },
+  "speaker_risk": {
+   "enum": [
+    "无",
+    "低",
+    "高"
+   ],
+   "description": "说话人风险（§16.2）"
+  },
+  "disposal": {
+   "enum": [
+    "K",
+    "M",
+    "C",
+    "X",
+    "N",
+    "null"
+   ],
+   "description": "处置状态（初始 null）"
+  },
+  "x_subtype": {
+   "enum": [
+    "X1",
+    "X2",
+    "X3",
+    "X4",
+    "X5",
+    "X6",
+    "X7",
+    "X8"
+   ],
+   "description": "disposal=X 时必填（§5.6、§5.12），定义见 exclusions.yaml"
+  },
+  "disposal_reason": {
+   "type": "string",
+   "description": "处置理由；X 类必填，X8 须逐条写理由"
+  },
+  "merged_into": {
+   "type": "string",
+   "description": "disposal=M 时必填：并入的 K 卡 ID（§5.6）"
+  },
+  "attached_to": {
+   "type": "string",
+   "description": "disposal=C 时必填：挂靠的模型卡 ID（§5.6）"
+  },
+  "card_ids": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "本单元产出的卡 ID 列表；一个单元可产出多张卡（§5.6）"
+  },
+  "read_tier": {
+   "enum": [
+    "A",
+    "B",
+    "C"
+   ],
+   "description": "读法层（HC-15、§16.2），P2 后填"
+  },
+  "pillar_hints": {
+   "type": "array",
+   "maxItems": 2,
+   "items": {
+    "type": "string",
+    "pattern": "^D[0-9]{2}(-[1-9])?$"
+   },
+   "description": "候选支柱提示 ≤2（§16.2 pillar_hints）"
+  },
+  "domain_direct": {
+   "type": "boolean"
+  },
+  "date": {
+   "type": "string",
+   "description": "日期 YYYY-MM-DD，未知填 未知（§16.2）"
+  },
+  "time_sensitive": {
+   "enum": [
+    "是",
+    "否",
+    "未知"
+   ],
+   "description": "时效敏感（§16.2）"
+  },
+  "series_group_id": {
+   "type": "string",
+   "description": "系列单元组 ID，无则空（HC-14：系列单元不拆开）"
+  },
+  "dup_links": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "重复簇与双出处（G6、§16.2）"
+  },
+  "flags": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "G7 标记：图片、HTML 锚点、编校注、转录、整理者说明、推广、指令性文字等（§16.2）"
+  },
+  "read_level": {
+   "enum": [
+    "A",
+    "B",
+    "C",
+    "null"
+   ],
+   "description": "读法层（S/N 单元为 null）"
+  },
+  "batch_id": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "series_group": {
+   "type": "string",
+   "description": "系列组 ID（SG-书码-序号）"
+  }
+ },
+ "definitions": {
+  "anchor": {
+   "type": "object",
+   "description": "锚点（§5.13）：起句至止句区间，上限 800 字；只证明位置真实，不证明转述忠实（HC-11）",
+   "required": [
+    "line_start",
+    "line_end",
+    "sha1"
+   ],
+   "properties": {
+    "file": {
+     "type": "string",
+     "description": "冻结文件名"
     },
-    {
-      "if": { "properties": { "disposal": { "const": "N" } } },
-      "then": { "required": ["n_subtype"] }
+    "char_start": {
+     "type": "integer",
+     "minimum": 0,
+     "description": "字符区间起点 [char_start, char_end)，UTF-8 解码后字符串下标"
     },
-    {
-      "if": { "properties": { "disposal": { "const": "M" } } },
-      "then": { "required": ["merged_into"] }
+    "char_end": {
+     "type": "integer",
+     "minimum": 0
     },
-    {
-      "if": { "properties": { "disposal": { "const": "C" } } },
-      "then": { "required": ["attached_to"] }
+    "line_start": {
+     "type": "integer",
+     "minimum": 1,
+     "description": "行号，1 起"
+    },
+    "line_end": {
+     "type": "integer",
+     "minimum": 1
+    },
+    "sha1": {
+     "type": "string",
+     "pattern": "^[0-9a-f]{40}$",
+     "description": "锚区 SHA1"
+    },
+    "fingerprint_words": {
+     "type": "array",
+     "maxItems": 3,
+     "minItems": 1,
+     "items": {
+      "type": "string"
+     },
+     "description": "指纹词 ≤3（§5.13 words）"
     }
-  ]
+   }
+  }
+ },
+ "allOf": [
+  {
+   "if": {
+    "properties": {
+     "disposal": {
+      "const": "X"
+     }
+    }
+   },
+   "then": {
+    "required": [
+     "x_subtype",
+     "disposal_reason"
+    ]
+   }
+  },
+  {
+   "if": {
+    "properties": {
+     "disposal": {
+      "const": "N"
+     }
+    }
+   },
+   "then": {
+    "required": [
+     "n_subtype"
+    ]
+   }
+  },
+  {
+   "if": {
+    "properties": {
+     "disposal": {
+      "const": "M"
+     }
+    }
+   },
+   "then": {
+    "required": [
+     "merged_into"
+    ]
+   }
+  },
+  {
+   "if": {
+    "properties": {
+     "disposal": {
+      "const": "C"
+     }
+    }
+   },
+   "then": {
+    "required": [
+     "attached_to"
+    ]
+   }
+  }
+ ]
 }

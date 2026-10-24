@@ -1,0 +1,74 @@
+{
+ "unit_id": "GJ-U0012",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0012-01",
+   "unit_id": "GJ-U0012",
+   "speaker": "吴军本人",
+   "claim_text": "三种悲剧：自身错误、环境使然、命运使然；最可悲是第三种——无人做错、每步当时都正确仍得悲剧结局",
+   "quote": "最可悲的是第三种",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 424,
+    "end_line": 424,
+    "sha1": "6e6535b07d6691be70224474feb4b2b1266e76c1",
+    "fingerprint": [
+     "悲剧",
+     "命运",
+     "俄狄浦斯王"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "三种悲剧分类",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第一种自身错误（行420）、第二种环境使然：罗密欧与朱丽叶、宝黛（行422）；宝钗属第三种，吴军不认同归为专制时代悲剧：任何国家任何时代都有（行426）"
+  },
+  {
+   "claim_id": "C-GJ-U0012-02",
+   "unit_id": "GJ-U0012",
+   "speaker": "吴军本人",
+   "claim_text": "努力未必有回报，但不努力一定会后悔；问心无愧是我们唯一稳得的报酬，凡事尽人事听天命",
+   "quote": "问心无愧是我们唯一稳得的报酬",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 436,
+    "end_line": 436,
+    "sha1": "0aaf1fb40998fd4124f64d81618902faa2f268af",
+    "fingerprint": [
+     "努力",
+     "后悔",
+     "稳得的报酬"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "问心无愧稳得报酬",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "化用肯尼迪语，原话转述见 C-GJ-U0011-01（R1互引）；罗曼·罗兰由抗争到认命、贝多芬式英雄也没赢（行428）；宝钗活下去并帮宝玉解脱的人生态度（行430）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0012",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "行404-422、432宝钗黛玉人物分析、元稹《离思》引用与脂砚斋批语主要为文学赏析与第三方引文，可迁移判断（三种悲剧、问心无愧）已入卡01/02，脂批敬意评述不足以独立成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章借宝钗悲剧立命运观：三种悲剧分类（E1）+问心无愧稳得报酬（E1）2卡，文学赏析部分记X8"
+}

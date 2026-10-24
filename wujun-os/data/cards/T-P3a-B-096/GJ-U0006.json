@@ -1,0 +1,158 @@
+{
+ "unit_id": "GJ-U0006",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0006-01",
+   "unit_id": "GJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "当大家一致觉得事情只有好的一面，很可能是认识不够深刻有盲点；未见问题一旦发生后果严重",
+   "quote": "大家认识不够深刻",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 196,
+    "end_line": 196,
+    "sha1": "99e8bec3af2b9f5ed5e00f607cc21625f051695f",
+    "fingerprint": [
+     "两面",
+     "盲点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-2"
+   ],
+   "concept_key": "一致看好警惕盲点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "凡事有两面，一致看好不代表没有坏一面（行196）；吴军由此对人人叫好的事格外小心（行198）"
+  },
+  {
+   "claim_id": "C-GJ-U0006-02",
+   "unit_id": "GJ-U0006",
+   "speaker": "转述·第三方",
+   "claim_text": "古训\"众利勿为，众争勿往\"：众人都觉有利可图时产生狂热，每次股灾都发生在一致乐观时",
+   "quote": "众利勿为，众争勿往",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 202,
+    "end_line": 202,
+    "sha1": "ae4a590b210f731a15a197df4965ac595e581c24",
+    "fingerprint": [
+     "众利勿为",
+     "股灾"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "众利勿为众争勿往",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：中国古训（吴军称与中国古人智慧不谋而合）；日中则移、水满则溢、月盈则亏（行202）。应用概括见 C-GJ-U0006-05"
+  },
+  {
+   "claim_id": "C-GJ-U0006-03",
+   "unit_id": "GJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "投资恪守原则：未听到反对意见绝不贸然行事——一致看好说明见识不够或最好时机已过",
+   "quote": "反对意见之前绝不贸然行事",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 204,
+    "end_line": 204,
+    "sha1": "019976eb842565867aba213b00d01864867aa388",
+    "fingerprint": [
+     "反对意见",
+     "接盘侠"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D03-1"
+   ],
+   "concept_key": "未闻反对不贸然行事",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "全体合伙人一致看好→特别小心：其一见识不够没看透，其二时机已过成\"接盘侠\"（行204）；2017区块链之问的时点部分记X2"
+  },
+  {
+   "claim_id": "C-GJ-U0006-04",
+   "unit_id": "GJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "能颠覆大公司的新公司一定用未被广泛关注、大公司有认识盲区的技术；趋之若鹜的技术颠覆不了",
+   "quote": "有认识盲区的公司",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 206,
+    "end_line": 206,
+    "sha1": "cbe8a6023c7213f88dc8d5e109c4795066b42e59",
+    "fingerprint": [
+     "颠覆",
+     "认识盲区",
+     "区块链"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "颠覆来自盲区技术",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "有危机意识已避免大半麻烦；趋之若鹜的技术大公司早有防备（行206）"
+  },
+  {
+   "claim_id": "C-GJ-U0006-05",
+   "unit_id": "GJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "如果一件事大家都觉得有好处，我通常就不做：要么有未见风险，要么已无利润空间",
+   "quote": "我通常就不做了",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 218,
+    "end_line": 218,
+    "sha1": "0300f6cffaa2abaf131d7d75d45a496ac49ea369",
+    "fingerprint": [
+     "反对意见",
+     "利润空间"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-2"
+   ],
+   "concept_key": "众看好则不做",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证链：视频网站/团购扎堆全行业亏损（行208）、美国十字路口差异化开店vs中国扎堆（行210）、中美大学同质化vs特色（行212-214）、特长被多数人掌握就不叫特长（行216，升学场景仅作同质化例证）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0006",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "行206\"2017年区块链公司能否颠覆谷歌/亚马逊/脸书/阿里/腾讯\"之问答属时点论断，可迁移判断（颠覆来自盲区技术）已入 C-GJ-U0006-04"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章\"众利勿为\"决策原则：E1×4+古训转述E2×1共5卡，区块链时点论断记X2"
+}

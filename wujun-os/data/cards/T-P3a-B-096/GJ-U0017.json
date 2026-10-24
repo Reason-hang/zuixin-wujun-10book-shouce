@@ -1,0 +1,273 @@
+{
+ "unit_id": "GJ-U0017",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0017-01",
+   "unit_id": "GJ-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "方法和效率远比忙碌重要：多数人的付出和所得绝不成正比，慢下来静心反而收益更大",
+   "quote": "方法和效率远比忙碌重要",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 645,
+    "end_line": 645,
+    "sha1": "2dec3e4695403c7d319e54a5f3918a511d8258aa",
+    "fingerprint": [
+     "忙碌",
+     "效率",
+     "慢下来"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "效率重于忙碌",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "中国人急躁、忙碌成社会主旋律的观察（行655）为背景；\"不忙等于不上进\"心态批判"
+  },
+  {
+   "claim_id": "C-GJ-U0017-02",
+   "unit_id": "GJ-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "SAT读题后等5秒再动笔：看似浪费时间，实则重新思考题目、避免不必要的错误，终得满分",
+   "quote": "等5秒钟",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 651,
+    "end_line": 651,
+    "sha1": "a95f82be207a5cecc5e4492402c87460f59e3114",
+    "fingerprint": [
+     "5秒钟",
+     "满分"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "慢五秒策略",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡（SAT/大女儿）：模拟考错题多因做题太急，等5秒后模拟全对、正式考试满分（行647-651）"
+  },
+  {
+   "claim_id": "C-GJ-U0017-03",
+   "unit_id": "GJ-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "做不好事情常因太匆忙太着急犯了本可避免的错；慢下来重新审视可更正明显错误",
+   "quote": "太匆忙、太着急",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 653,
+    "end_line": 653,
+    "sha1": "ad21a7c849d090ac1ef16bfb766063b4e4fd3069",
+    "fingerprint": [
+     "匆忙",
+     "避免的错误"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "慢下来更正错误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与 C-GJ-U0017-01/02 同链；SAT等5秒为直接应用"
+  },
+  {
+   "claim_id": "C-GJ-U0017-04",
+   "unit_id": "GJ-U0017",
+   "speaker": "转述·第三方",
+   "claim_text": "《人类简史》：进入农业社会前人类并不忙；忙和生活好未必正相关",
+   "quote": "人类并不忙",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 657,
+    "end_line": 657,
+    "sha1": "a6c10230d5bcc1c27ed4f34f436a4569d17db9af",
+    "fingerprint": [
+     "人类简史",
+     "农业社会"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "忙与生活好未必正相关",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：尤瓦尔·赫拉利《人类简史》（行657）；吴军补充北宋汴梁/武大郎\"联排别墅\"例（行659）"
+  },
+  {
+   "claim_id": "C-GJ-U0017-05",
+   "unit_id": "GJ-U0017",
+   "speaker": "转述·第三方",
+   "claim_text": "马克思\"机器的异化\"：科技进步使财富更集中，本该做机器主人的我们成了机器的依附者",
+   "quote": "机器的异化",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 661,
+    "end_line": 661,
+    "sha1": "3c833cb586f297af193dbf5ab429a3ff42aacc2f",
+    "fingerprint": [
+     "马克思",
+     "异化",
+     "依附者"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-4"
+   ],
+   "concept_key": "机器的异化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：马克思（行661）；吴军引出\"为什么有人成机器主人、有人成奴隶\"之问（行663），见 C-GJ-U0017-06"
+  },
+  {
+   "claim_id": "C-GJ-U0017-06",
+   "unit_id": "GJ-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "要思考就需要慢下来：很多事连目的都没想清就被驱赶着做；工作之考缺的不是时间而是思考和效率",
+   "quote": "要思考，就需要慢下来",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 663,
+    "end_line": 663,
+    "sha1": "127cef271bc664e3aa70b5892d20a2032936dc67",
+    "fingerprint": [
+     "目的",
+     "思考和效率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "慢下来思考目的",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "每天手机2小时、5分钟低一次头、抢几元红包者没资格说时间紧（行663）；越走越快却回到原点之喻"
+  },
+  {
+   "claim_id": "C-GJ-U0017-07",
+   "unit_id": "GJ-U0017",
+   "speaker": "转述·第三方",
+   "claim_text": "纪伯伦：我们已经走得太远，以至忘记了为什么出发——找回目的要仰望天空、听内心声音",
+   "quote": "我们已经走得太远",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 665,
+    "end_line": 665,
+    "sha1": "f1c90fe44c2ce1b7cb3c03c8c9cd15bcb11740fb",
+    "fingerprint": [
+     "纪伯伦",
+     "出发"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-2"
+   ],
+   "concept_key": "勿忘为何出发",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：纪伯伦（黎巴嫩诗人，行665）；\"抬头看纯净天空、沉静听内心\"为吴军取用"
+  },
+  {
+   "claim_id": "C-GJ-U0017-08",
+   "unit_id": "GJ-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "凡事慢三拍：不匆忙做决定，第二天再回答；慢慢做的决定常与匆忙做的不同且更好",
+   "quote": "凡事要慢三拍",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 667,
+    "end_line": 667,
+    "sha1": "8b862c69a024830d23a8386a7d336ee1b9599deb",
+    "fingerprint": [
+     "慢三拍",
+     "决定"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "慢三拍决策",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "实操话术：\"我现在脑子不工作，让我明天再回答你\"（行667）"
+  },
+  {
+   "claim_id": "C-GJ-U0017-09",
+   "unit_id": "GJ-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "人不在于开始多少件事，而在于完美地结束多少件事；多做事源于贪心本性",
+   "quote": "完美地结束了多少件事",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 669,
+    "end_line": 669,
+    "sha1": "05ff78c3e3a6aba80b85aa48a246d8f7e3e64b61",
+    "fingerprint": [
+     "结束",
+     "贪心"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D01-2"
+   ],
+   "concept_key": "完美结束优于开始",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "淡泊名利需不寻常本事；圣方济各例（行669-671）；《诗篇》46:10\"你们要休息\"（行673）；从自然与生活本身寻求乐趣（行671）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0017",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "行657-659采集社会/农业社会/北宋汴梁生活史料复述为文明史叙述，其可迁移判断（忙与生活好未必正相关）已入 C-GJ-U0017-04"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第11节慢下来：E1×6+转述E2×3（人类简史/马克思/纪伯伦）+SAT例证E3×1共9卡，文明史复述记X4"
+}

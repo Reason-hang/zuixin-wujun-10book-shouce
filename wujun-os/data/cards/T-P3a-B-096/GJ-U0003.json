@@ -1,0 +1,250 @@
+{
+ "unit_id": "GJ-U0003",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0003-01",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "获得大格局的方法概括为十个字：位置、方向、方法、步伐和节奏",
+   "quote": "位置、方向、方法、步伐和节奏",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 133,
+    "end_line": 133,
+    "sha1": "69e718fd1095ecedc36bb342a4b7a009470d4d86",
+    "fingerprint": [
+     "格局",
+     "位置",
+     "方向"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "大格局五要素",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本书主旨句；分要素叙述：认清位置方向掌握节奏已领先（行91）、方向与方法（行105/109）、节奏必要（行131）"
+  },
+  {
+   "claim_id": "C-GJ-U0003-02",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "格局大小体现在行动方式：格局大者追求重复的成功和可叠加式进步，小者满足单次漂亮",
+   "quote": "重复的成功和可叠加式的进步",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 105,
+    "end_line": 105,
+    "sha1": "bf76782faa525d372e5d2839d3a564a70dfa0b16",
+    "fingerprint": [
+     "格局",
+     "重复的成功",
+     "可叠加式"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-2"
+   ],
+   "concept_key": "格局大小与成功可重复性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "明确位置方向后，格局大小看行动方式；与 C-GJ-U0003-05/06 同链"
+  },
+  {
+   "claim_id": "C-GJ-U0003-03",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "摩根投\"电\"这个未来产业而非单个发明家；马克·吐温只看单个企业，格局差异定投资成败",
+   "quote": "投资的其实不是某个具体的发明家",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 101,
+    "end_line": 101,
+    "sha1": "9c4272fd6cb76dde668415798c39699b1da0eb71",
+    "fingerprint": [
+     "J.P.摩根",
+     "马克",
+     "格局"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-2",
+    "D09-2"
+   ],
+   "concept_key": "投资产业而非单点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：摩根投特斯拉/马可尼/爱迪生（行101）；巴菲特父子看大时代vs纠结哪家汽车公司（行103）同机理并入"
+  },
+  {
+   "claim_id": "C-GJ-U0003-04",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "二流选手偶尔发出ace球难重复，顶级选手动作标准且一致性极高——成功从偶然到必然的机理",
+   "quote": "就像一个发球机",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 107,
+    "end_line": 107,
+    "sha1": "60b2db0d7f1f4fd09622b682fd1d55cc62d97fca",
+    "fingerprint": [
+     "ace球",
+     "伊万尼塞维奇",
+     "一致性"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-2"
+   ],
+   "concept_key": "可重复成功靠动作一致性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：伊万尼塞维奇一年近1500个ace球（行107），承载\"成功从偶然变必然\"的可迁移机理"
+  },
+  {
+   "claim_id": "C-GJ-U0003-05",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "17世纪科学方法出现后科技成就不断涌现：采用正确方法才能让成功变成大概率事件",
+   "quote": "让成功变成大概率事件",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 109,
+    "end_line": 109,
+    "sha1": "3773ab4eb37f153c798c3afb2852d52983e9c9a1",
+    "fingerprint": [
+     "科学方法",
+     "大概率事件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "正确方法使成功成大概率",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "哈维、笛卡儿总结科学方法后科学家主动应用（行109）；摩根依投资规范止损/加倍（行111）为应用例"
+  },
+  {
+   "claim_id": "C-GJ-U0003-06",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "可叠加式的进步带来指数级别的提升速率：让每一次进步成为下一次进步的基点而非重新开始",
+   "quote": "指数级别的提升速率",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 113,
+    "end_line": 113,
+    "sha1": "91c50ab5324502585ceb85c4b888deb723bb846a",
+    "fingerprint": [
+     "可叠加式",
+     "指数级别"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D01-2"
+   ],
+   "concept_key": "可叠加进步指数提升",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴子宁\"聚集势能、每步为基点\"及袋鼠蹦回起点vs考拉步步为营类比（行115）为例证"
+  },
+  {
+   "claim_id": "C-GJ-U0003-07",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "高速率可叠加式进步的关键是做减法、懂得放弃小岔路诱惑",
+   "quote": "关键是做减法，懂得放弃",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 117,
+    "end_line": 117,
+    "sha1": "49154cf7c566d4583e979c5473eed4c862c96652",
+    "fingerprint": [
+     "做减法",
+     "懂得放弃"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D03-1"
+   ],
+   "concept_key": "做减法与懂得放弃",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证链：吴子宁聚焦单一产品市占第一（行119）、谷歌师弟放弃中国研发机会坚守核心业务（行121-123）、媒体创始人放弃做基金（行125）、华为与vivo/OPPO聚焦不做房地产（行127）"
+  },
+  {
+   "claim_id": "C-GJ-U0003-08",
+   "unit_id": "GJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "认清所在时代即位置：今天不是拿破仑的时代而是和平发展时代，创造更好的东西才体现力量",
+   "quote": "今天不是拿破仑的时代",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 93,
+    "end_line": 93,
+    "sha1": "b6140463f37a9f9537e780727b969aea1598eef7",
+    "fingerprint": [
+     "拿破仑",
+     "和平发展的时代"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "认清时代与位置",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "误判时代例证：中国衰退论/硅谷衰退论/罗斯柴尔德退出美国（行95）；当今拿破仑是比尔·盖茨式人物（行93）。时效预测部分（行97）记 X2"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GJ-U0003",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "行97\"如果一个人相信中国还能稳定发展20年…\"及行95对各国时代兴衰的走势性判断属时点预测，可迁移判断（认清时代位置）已入 C-GJ-U0003-08"
+  },
+  {
+   "unit_id": "GJ-U0003",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "行135-139为出版方推广文案（\"未来已经来临\"\"魅力人格体\"等宣传语），非吴军正文，不抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "前言提出格局=位置/方向/方法/步伐/节奏框架及可重复成功、可叠加进步、做减法等核心判断：抽K卡8张（E1×6、E3×2），封底推广文案记X1、时代预测记X2"
+}

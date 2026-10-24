@@ -1,0 +1,290 @@
+{
+ "unit_id": "GJ-U0011",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0011-01",
+   "unit_id": "GJ-U0011",
+   "speaker": "转述·第三方",
+   "claim_text": "肯尼迪：即便上天不保佑，做事尽全力之后问心无愧——\"问心无愧是我们唯一稳得的报酬\"",
+   "quote": "问心无愧是我们唯一稳得的报酬",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 353,
+    "end_line": 353,
+    "sha1": "8ec3678fd3645e2fe9d5964f8e51bd0bae77873d",
+    "fingerprint": [
+     "肯尼迪",
+     "问心无愧"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "问心无愧稳得报酬",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：肯尼迪（1961就职演讲，行353）；吴军在 C-GJ-U0012-01 化用为本人结论，R1互引"
+  },
+  {
+   "claim_id": "C-GJ-U0011-02",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "英伟达黄仁勋输官司不怨法庭，反省自己太在意失去的市场而转向AI——对失败的态度",
+   "quote": "责怪自己太在意已经失去的市场",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 365,
+    "end_line": 365,
+    "sha1": "e1daf5473e526cb10fdaffdd74e76dac40de1702",
+    "fingerprint": [
+     "黄仁勋",
+     "英伟达"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "接受失败反省转向",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：Tegra被高通/三星挤压后不打官司纠缠，及早进入人工智能领域执牛耳（行365）；与美国人\"努力了什么结果都接受\"并列（行363）"
+  },
+  {
+   "claim_id": "C-GJ-U0011-03",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "人的努力对成功重要，但大多数时候还有运气因素；把成功单纯归功于自己或领导都只见人的因素",
+   "quote": "还有运气的因素",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 367,
+    "end_line": 367,
+    "sha1": "f470d141e155fbbbf6c851b9aba580caf0106086",
+    "fingerprint": [
+     "上帝",
+     "运气",
+     "成功"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "成功含运气因素",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三个事实之第三（对成功的态度，行367）；死亡态度（行357-359）、对失败的态度（行361-363）为同组对比"
+  },
+  {
+   "claim_id": "C-GJ-U0011-04",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "散户亏损根因：把偶然成功归结为自己努力的必然、失败归咎别人，对市场完全没有敬畏之心",
+   "quote": "对市场完全没有敬畏之心",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 369,
+    "end_line": 369,
+    "sha1": "e0a45253bbf3aa8fdd970d9ab0e04aba851f7ab9",
+    "fingerprint": [
+     "韭菜",
+     "敬畏之心"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D09-2"
+   ],
+   "concept_key": "散户归因谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "\"不能接受天命就难以正确审视自己审视形势\"（行369）；一次小成功必然伴随巨大失败"
+  },
+  {
+   "claim_id": "C-GJ-U0011-05",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "难事超出有限认知与控制能力：努力只解决部分维度问题，还有很多维度非我们所能控制",
+   "quote": "超出我们的有限认知",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 371,
+    "end_line": 371,
+    "sha1": "4bf5b52bf9d89dc770343e66e75fdafbb4cd62b0",
+    "fingerprint": [
+     "有限认知",
+     "维度"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-2"
+   ],
+   "concept_key": "天命即不可控维度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不尽人事则能把握的维度也把握不住（行371）；承认天命就不会恃才傲物（行373）"
+  },
+  {
+   "claim_id": "C-GJ-U0011-06",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "查菲门下天才学生因缺乏见识一事无成——见识比才干更重要",
+   "quote": "见识比才干更重要",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 379,
+    "end_line": 379,
+    "sha1": "29d3753b2e3b9cf96ed21211cc7ab1b8f05dc484",
+    "fingerprint": [
+     "见识",
+     "才干"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-1"
+   ],
+   "concept_key": "见识重于才干",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：印度学生口试说\"yes,I do\"即满分（行375），却一辈子做凭空妄想的事（行377-379）；吴军弟弟、库旦普、凯茨等\"人外有人\"例（行375-381）并入"
+  },
+  {
+   "claim_id": "C-GJ-U0011-07",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "比才能更重要的是见识，见识之上还有运气；好运气不增加能力、不能代替努力，永远需要尽人事",
+   "quote": "好运气并不能增加我们的能力",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 383,
+    "end_line": 383,
+    "sha1": "912d1c08964e14a9847d8a5b204b872948a824cb",
+    "fingerprint": [
+     "见识",
+     "运气",
+     "尽人事"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "运气不代努力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "2001年互联网泡沫使IBM邀约延迟半年、AT&T晚发一周，吴军因此进了谷歌——运气例（行383）；进谷歌不成功者也大有人在"
+  },
+  {
+   "claim_id": "C-GJ-U0011-08",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "英特尔/微软/思科在市场保留第二名：既免反垄断麻烦，又让不太构成威胁的对手倒逼自己创新",
+   "quote": "在市场上保留第二名",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 385,
+    "end_line": 385,
+    "sha1": "42ba436cb48daae96fd68e88a948d87ba81ef00c",
+    "fingerprint": [
+     "保留第二名",
+     "反垄断"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "保留第二名",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "父亲引\"秦有六国，兢兢以强；六国既除，沲沲乃亡\"（行385，转述链：父引古语）；背后是对不确定性的敬畏：无对手的环境必然自大（行385）"
+  },
+  {
+   "claim_id": "C-GJ-U0011-09",
+   "unit_id": "GJ-U0011",
+   "speaker": "吴军本人",
+   "claim_text": "曾国藩知不擅长带兵就不上前线、力推李鸿章、让孩子学数学外语：知道自己不擅长什么不勉强承受",
+   "quote": "知道自己不擅长什么事情",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 389,
+    "end_line": 389,
+    "sha1": "7f1f97780df10f9f6e98c91b242b0ab81b296c37",
+    "fingerprint": [
+     "曾国藩",
+     "天命",
+     "李鸿章"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "知所短不勉强",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：胜负听天命、晚年推李鸿章继任、曾纪泽成外交家（行389）；全身而退靠敬畏命运而非权术（行391）；2015投资者重排组合例（行393）并入"
+  },
+  {
+   "claim_id": "C-GJ-U0011-10",
+   "unit_id": "GJ-U0011",
+   "speaker": "转述·第三方",
+   "claim_text": "康德敬畏两样东西：头顶的星空（不能支配的客观力量）与心中的道德律（能支配的）",
+   "quote": "心中的道德律",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 395,
+    "end_line": 395,
+    "sha1": "abc6f666daaa5427bc88ab9d2d2a1f2d2cfb43ba",
+    "fingerprint": [
+     "康德",
+     "星空",
+     "道德律"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-3"
+   ],
+   "concept_key": "康德星空与道德律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：康德（行395）；吴军取用为\"尽人事听天命\"的哲学呼应：客观力量敬畏之、分内之事担起来"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第6节尽人事听天命：命运观E1×5+转述E2×2（肯尼迪/康德）+例证E3×3（黄仁勋/天才学生/曾国藩）共10卡"
+}

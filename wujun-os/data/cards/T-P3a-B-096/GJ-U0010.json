@@ -1,0 +1,68 @@
+{
+ "unit_id": "GJ-U0010",
+ "book_code": "GJ",
+ "extractor": "EXT-GJ1",
+ "batch_id": "T-P3a-B-096",
+ "cards": [
+  {
+   "claim_id": "C-GJ-U0010-01",
+   "unit_id": "GJ-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "认命是应有的人生态度：不认命是对自己的迷信（妄念）；不确定性是世界固有特征",
+   "quote": "不认命才是迷信",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 342,
+    "end_line": 342,
+    "sha1": "30a23788c2646549edff98748d6e56ec8d40736f",
+    "fingerprint": [
+     "认命",
+     "迷信",
+     "不确定性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "认命与不确定性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "承认有人类无法控制的力量才是唯物主义态度（行342）；无论多么强势的人都难逃命运安排（行340）"
+  },
+  {
+   "claim_id": "C-GJ-U0010-02",
+   "unit_id": "GJ-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "人贵在自知：知道长处与能力边界，在边界内最大化收益，结果泰然处之，尽人事听天命",
+   "quote": "尽人事，听天命",
+   "anchor": {
+    "book_code": "GJ",
+    "start_line": 344,
+    "end_line": 344,
+    "sha1": "68a0d6075ddb014c4e8b122652b88d3163dfe159",
+    "fingerprint": [
+     "自知",
+     "边界",
+     "泰然处之"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-2"
+   ],
+   "concept_key": "边界内最大化收益",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第二章开篇总纲；展开见 C-GJ-U0011 系列与 C-GJ-U0015 止损卡"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第二章引言命运观：认命非迷信（E1）+自知与边界（E1）2卡"
+}
