@@ -1,0 +1,282 @@
+{
+  "unit_id": "GG-U0049",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0049-01",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "天赋不经过合适训练显现不出来；能力培养是慢功夫，看到人显示天赋还要看他在上面下的工夫",
+      "quote": "显示不出来天赋",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3383,
+        "end_line": 3386,
+        "sha1": "9c33627270df249658e686212457332dd17dc0ff",
+        "fingerprint": [
+          "狼孩",
+          "训练"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "天赋需训练显现",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：狼孩智力低下（3384行）；莫扎特贝多芬幼年即练琴（3386行）；思维训练是慢功夫、心太急是通病（3387行）；错过训练期只能花更多时间找导师慢慢补、无捷径（3388行）。"
+    },
+    {
+      "claim_id": "C-GG-U0049-02",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "每个人都有自己的天赋方向：有人对数字敏感而语言弱，有人相反；不适合做工程师的人可能是好的艺术家、文学家、媒体人",
+      "quote": "每一个人都有自己的天赋",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3390,
+        "end_line": 3390,
+        "sha1": "a8e0e8a3bc1639a0a6cb8356e65e00b274195cf3",
+        "fingerprint": [
+          "天赋",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "天赋各有方向",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0049-03",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "答不出面试题并非智力不够，而是过去训练有问题；用人单位只能根据过去的训练和表现判断人",
+      "quote": "而是表明过去的训练有问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3391,
+        "end_line": 3392,
+        "sha1": "fcfad36822a0444a8cd74f8c9a6596e9cc34e61c",
+        "fingerprint": [
+          "训练",
+          "面试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "面试差距可补",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "语境：求职者不能指望用人单位像父母老师一样给未准备好的人机会（3391行）；补训练也是本专栏目的之一（3392行）。"
+    },
+    {
+      "claim_id": "C-GG-U0049-04",
+      "unit_id": "GG-U0049",
+      "speaker": "转述·第三方",
+      "claim_text": "不看入学前的底子，而看集训一段时间后能提高多少——不在于过去基础如何，而在于一年后提高了多少",
+      "quote": "而在于一年后我们提高了多少",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3393,
+        "end_line": 3393,
+        "sha1": "15e3c55984a400adc4d6c97cf90c5067fd164c86",
+        "fingerprint": [
+          "俞敏洪",
+          "提高"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "进步幅度重于基础",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述俞敏洪论新东方托福集训（3393行）；吴军明确表示同样的道理。"
+    },
+    {
+      "claim_id": "C-GG-U0049-05",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "笨不等于智商低，而是做事有板有眼、不投机取巧、严格遵循制度",
+      "quote": "做事情有板有眼，不投机取巧",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3401,
+        "end_line": 3401,
+        "sha1": "6a467dd87242bcbc5711e9a4d23a1a63d5a47fa4",
+        "fingerprint": [
+          "笨",
+          "投机取巧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "笨人做法定义",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0049-06",
+      "unit_id": "GG-U0049",
+      "speaker": "转述·第三方",
+      "claim_text": "智商达不到120，做事情会很辛苦；智商只是对人一个维度的衡量，人一生机会非常多",
+      "quote": "智商如果达不到120",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3402,
+        "end_line": 3402,
+        "sha1": "6e2d954d0b4514ae54c9517549f48452ae3b3f90",
+        "fingerprint": [
+          "格拉德威尔",
+          "智商"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "智商120门槛",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述《异类》作者格拉德威尔观点（3402行）；吴军补充：中国人均值约105、约六成不到120，但智商只是一维。"
+    },
+    {
+      "claim_id": "C-GG-U0049-07",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "智商高而没有见识只能算小聪明，甚至会帮倒忙——有点小聪明的人更容易自负而固执",
+      "quote": "只能算是一点点小聪明",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3403,
+        "end_line": 3403,
+        "sha1": "043746612d9d045dc52470de94c0278fcef40b92",
+        "fingerprint": [
+          "见识",
+          "小聪明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "聪明需配见识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0049-08",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "方向比速度重要：方向差五度，开得越快错过目标越远；要慢开常看路，确认方向再继续",
+      "quote": "开得越快，错过目标的可能性越大",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3404,
+        "end_line": 3405,
+        "sha1": "4bd8139a639a2c12057b1f5a0315ad80db027bc9",
+        "fingerprint": [
+          "方向",
+          "速度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "方向优先于速度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "开车之喻（3404-3405行）：笨人慢开常看路，自认聪明者左右反复、速度再快也经不住折腾。"
+    },
+    {
+      "claim_id": "C-GG-U0049-09",
+      "unit_id": "GG-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "智商不到160不必自命聪明人；既然不是聪明人，就没必要使用所谓聪明的办法",
+      "quote": "没必要使用所谓聪明的办法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3406,
+        "end_line": 3407,
+        "sha1": "bfe09bb4fbe7e48e98d9048b1006fbc7124dbf34",
+        "fingerprint": [
+          "聪明",
+          "办法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "不必用聪明办法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "补充：上帝喜欢笨人≠聪明人不能成功，只是更垂青笨人；太聪明在Google未必待得长（3406行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0049",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "四位读者提问原文（3377-3379/3395-3397/3409-3410/3416-3417行）为读者来信，按X7处置，吴军回答单独成卡"
+    },
+    {
+      "unit_id": "GG-U0049",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "「开放思维从哪个学龄阶段培养」（3410-3414行）为子女教育议题，记X5；吴军答「从小学开始」留痕"
+    },
+    {
+      "unit_id": "GG-U0049",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "CAR-T癌症治疗问询与卓克链接引流（3416-3422行）为医学类+跨专栏引流，记X8"
+    },
+    {
+      "unit_id": "GG-U0049",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "第二届摄影大赛征稿/流程/细则（3428-3455行）为运营活动文字，记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问07：吴军答聪明与笨 9 卡（E1×7+E2×2）；读者原文X7、教育X5、医疗X8、摄影大赛X1。"
+}

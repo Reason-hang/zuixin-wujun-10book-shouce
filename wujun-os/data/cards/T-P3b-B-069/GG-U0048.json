@@ -1,0 +1,216 @@
+{
+  "unit_id": "GG-U0048",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0048-01",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "每次工业革命有三个悬而未决的问题：丢掉的工作永远回不来；劳动力分布转化至少需要一两代人；新职业未必比老职业更挣钱",
+      "quote": "至少需要一代人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3314,
+        "end_line": 3317,
+        "sha1": "2d38493eb580f65f1deaf9b52dc8e7fd360aea81",
+        "fingerprint": [
+          "工业革命",
+          "一代人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "工业革命转型三问题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据背景：美国 2007-2016 BLS 等来源（3319行，时点数据记X6不入卡干）。"
+    },
+    {
+      "claim_id": "C-GG-U0048-02",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "一个行业走下坡路的速度，远比我们想象的要快",
+      "quote": "远比我们想象的要快",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3365,
+        "end_line": 3365,
+        "sha1": "06e36ab6c5dfcb1773ccec7d11c7efd75c4fc4d8",
+        "fingerprint": [
+          "行业",
+          "速度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "行业下坡快于预期",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出处：25 种产业十年流失 42%-90%（3333行，数据入X6）。"
+    },
+    {
+      "claim_id": "C-GG-U0048-03",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "不要认为智能时代凡是和服务挂钩的职业就安全，危机感与居安思危总是必要的",
+      "quote": "危机感和居安思危总是必要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3366,
+        "end_line": 3366,
+        "sha1": "629089170dfc723c7e9f00a2638493644cbb5ed2",
+        "fingerprint": [
+          "智能时代",
+          "危机感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "服务职业也不安全",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "反例观察：医疗与出租车行业并未如预期丢工作（3363行）。"
+    },
+    {
+      "claim_id": "C-GG-U0048-04",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "当市场和理论不一致时，市场永远是正确的",
+      "quote": "市场永远是正确的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3363,
+        "end_line": 3363,
+        "sha1": "82e05483dca5009090a13e8d3b06deb1452d04c6",
+        "fingerprint": [
+          "市场",
+          "理论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D08-1"
+      ],
+      "concept_key": "市场优先于理论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：实际就业变化与想象预测有差距（3363行）。"
+    },
+    {
+      "claim_id": "C-GG-U0048-05",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "行业能挣大钱不等于从业者能挣大钱——如同 iPhone 产品挣钱而制造它的打工妹没有",
+      "quote": "不等于从业者能挣到大钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3362,
+        "end_line": 3362,
+        "sha1": "1cdbcd8c259a8657012d963fd3fa29069edd56e8",
+        "fingerprint": [
+          "金融",
+          "iPhone"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D09-2"
+      ],
+      "concept_key": "行业红利不等于个人红利",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：金融业大额利润与从业者收入的区分。"
+    },
+    {
+      "claim_id": "C-GG-U0048-06",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "当一个品类占用的用户总时间大幅减少时，行业内企业即使成功电子化转型，整体市场规模仍会萎缩",
+      "quote": "主动转型也是死路一条",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3344,
+        "end_line": 3345,
+        "sha1": "e815ab8e224ccc90f321431adf2a8c75cbab2930",
+        "fingerprint": [
+          "转型",
+          "市场规模"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "时间萎缩则行业萎缩",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：印刷/纸媒/CD/DVD 电子化后营业额仍未回到从前（3344行）。"
+    },
+    {
+      "claim_id": "C-GG-U0048-07",
+      "unit_id": "GG-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "共享并非唯一方向：某些行业反而以一次性消费取代共享",
+      "quote": "共享并非是唯一的方向",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3354,
+        "end_line": 3354,
+        "sha1": "62c101a278061a05d249b0b3a5fa314222c6d464",
+        "fingerprint": [
+          "共享",
+          "一次性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "共享非唯一方向",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：网购中国产一次性礼服使美国低端婚纱租赁店关掉47%（3354行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0048",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "美国2007-2016五大类萎缩行业数据（制造42-65%/销售租赁45-92%/媒 体44-60%/中介45-55%/金融细分43-46%，3320-3361行）为宏观行业时点数据，不入卡干；机理（产业空心化/设备消失/机器代人/自助服务/信息不对称消失）已由可迁移卡承载"
+    },
+    {
+      "unit_id": "GG-U0048",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "「美国90%交易由机器完成、机构都有自己的AlphaGo」（3359-3360行）为2018时点论断，记X2；「机器人炒股30多年前已普及」留reason备查"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：宏观行业数据X6/X2处置，7条可迁移判断成卡（E1）。"
+}

@@ -1,0 +1,235 @@
+{
+  "unit_id": "GG-U0047",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0047-01",
+      "unit_id": "GG-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "今天求职僧多粥少：候选人专业水平都不差时，比拼的是专业以外的能力",
+      "quote": "就要比专业水平以外的能力了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3250,
+        "end_line": 3251,
+        "sha1": "bb99044a84340a27ef880bec9a158b6338d9ee84",
+        "fingerprint": [
+          "僧多粥少",
+          "专业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "专业外能力竞争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对比：工业化早期一个萝卜几个坑、毕业生是香饽饽（3250行）。"
+    },
+    {
+      "claim_id": "C-GG-U0047-02",
+      "unit_id": "GG-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "信息时代很多工作所需技能大学并不教授，掌握新知要靠自己的悟性和努力",
+      "quote": "掌握新知就得靠自己的悟性和努力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3253,
+        "end_line": 3253,
+        "sha1": "572ad96793d42e85ee257c7f66ddcead626774da",
+        "fingerprint": [
+          "信息时代",
+          "悟性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "新技能靠自学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "判为信息时代与工业时代的显著差别（3253行）。"
+    },
+    {
+      "claim_id": "C-GG-U0047-03",
+      "unit_id": "GG-U0047",
+      "speaker": "史实",
+      "claim_text": "肖克利式识人：到学术会议听博士生做报告，以报告水平判定其智商与研究能力，再主动联系",
+      "quote": "判定他们的智商和研究能力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3258,
+        "end_line": 3260,
+        "sha1": "facc3e04d8a986eaaf21a8a143c4e6c8e8cbda4a",
+        "fingerprint": [
+          "肖克利",
+          "报告"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "听报告识人法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "成果：诺伊斯、摩尔由此被发现（3260行）；背景：晶体管刚发明无人会造、专业对口招不到人（3257-3258行）。"
+    },
+    {
+      "claim_id": "C-GG-U0047-04",
+      "unit_id": "GG-U0047",
+      "speaker": "史实",
+      "claim_text": "用只有聪明人能解的密码广告筛选候选人：肖克利登期刊代码广告，Google 2004 年登素数广告",
+      "quote": "以代码的形式刊登",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3277,
+        "end_line": 3279,
+        "sha1": "b4013da44d6fd17a6bda8a34fefb1294a403f26e",
+        "fingerprint": [
+          "广告",
+          "素数"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "密码广告筛选",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答案 7427466391.com 跳转招聘页，省 HR 第一步筛选（3279行）；Google 自认学肖克利（3278行）。"
+    },
+    {
+      "claim_id": "C-GG-U0047-05",
+      "unit_id": "GG-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "只要人聪明、会搞研究，可以很快教会其新领域技能——专业积累不足可以被学习能力弥补",
+      "quote": "可以很快教会他们做半导体",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3282,
+        "end_line": 3283,
+        "sha1": "ea75a62258eaf14c33a840e86c5facf66aa28501",
+        "fingerprint": [
+          "聪明",
+          "教会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "聪明人快速可教",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "事实证明：诺伊斯摩尔青出于蓝创办英特尔，诺伊斯发明集成电路、摩尔提出摩尔定律，克莱纳创KPCB（3283-3284行）。"
+    },
+    {
+      "claim_id": "C-GG-U0047-06",
+      "unit_id": "GG-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "人的智力水平，可能比起跑早了半拍要重要得多",
+      "quote": "比起跑早了半拍要重要得多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3295,
+        "end_line": 3295,
+        "sha1": "55785f06331b6ae459a86590084947661eb47876",
+        "fingerprint": [
+          "智力",
+          "起跑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "智力重于早起跑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：电商与在线支付全新行业成功者与原专业背景几乎无关，蒂尔与马斯克均无金融背景（3292-3294行）；警示：肖克利在斯坦福发表族裔智力言论致祸（3296行）——智力论不可过头。"
+    },
+    {
+      "claim_id": "C-GG-U0047-07",
+      "unit_id": "GG-U0047",
+      "speaker": "史实",
+      "claim_text": "宁为鸡首不为牛后：诺伊斯放弃IBM、贝尔、RCA 等顶级聘用书，选择去小公司费尔科筹办半导体部门",
+      "quote": "宁为鸡首，不为牛后",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3269,
+        "end_line": 3270,
+        "sha1": "c2837b2e8abd5f14087e4ac17bbf2c38e1774b3f",
+        "fingerprint": [
+          "诺伊斯",
+          "鸡首"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "宁为鸡首不为牛后",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "后续：费尔科经营不善进退两难之际接到肖克利电话（3271-3272行），成为其公司第一位员工。"
+    },
+    {
+      "claim_id": "C-GG-U0047-08",
+      "unit_id": "GG-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "管理团队仅仅发现贤才还不够，还要使用好贤才；不善管理的领导者留不住人才",
+      "quote": "还要使用好贤才",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3296,
+        "end_line": 3298,
+        "sha1": "361bef89fcf78b245e8b6f53e0e6eb9c211dee27",
+        "fingerprint": [
+          "管理",
+          "贤才"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "发现贤才更要用好贤才",
+      "ability_tags": [
+        "做",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "史实并入：八叛徒事件——八青年不堪独裁作风集体出走开创半导体产业催生硅谷（3288-3289行）；肖克利傲慢专横、押注降成本而非新技术（3286-3287行）；硅谷共识「坏的管理是特点不是缺点」（3298行，无名转述并入）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0047",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3301-3304行今日思考/回信主题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第028封信：吴军总结5卡+肖克利/诺伊斯史实3卡；摩尔「每字5美元」轶事（3274行）并入卡3背景。"
+}

@@ -1,0 +1,101 @@
+{
+  "unit_id": "GG-U0044",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0044-01",
+      "unit_id": "GG-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "解决问题要粗调与精调结合：先用大步长圈定范围，再小步长逼近目标，兼顾效率与精度",
+      "quote": "一个用来做粗调，一个用来做精调",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3089,
+        "end_line": 3090,
+        "sha1": "0c0dbc6d6aca339847875bcbdfa13673c6d5e0fb",
+        "fingerprint": [
+          "粗调",
+          "精调"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "粗调与精调结合",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "应用例证（并入不独立）：显微镜粗精调两旋钮（3104行）、手术机器人快慢两段（3106-3107行）、机器学习迭代步长先大后小（3108-3110行）、本田NSX四发动机混合动力（3113-3114行）；玻璃球面试题为引子（3084-3090行）。"
+    },
+    {
+      "claim_id": "C-GG-U0044-02",
+      "unit_id": "GG-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "工程思维不仅要知道目标在哪里，还必须设计一个能够准确达到目标的道路",
+      "quote": "设计一个能够达到目标的道路",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3097,
+        "end_line": 3100,
+        "sha1": "ce80548339f3d3c37ce5c554a4a48ee5f531a89a",
+        "fingerprint": [
+          "工程的思维",
+          "道路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "工程思维设计道路",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：望远镜焦距40.365需旋钮而非手摸（3098-3102行）。"
+    },
+    {
+      "claim_id": "C-GG-U0044-03",
+      "unit_id": "GG-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "顶级公司招人重未来可塑性：聪明好学比多学几门专业课更重要，因为公司做的是未来的事",
+      "quote": "可塑性比过去的经历重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3093,
+        "end_line": 3095,
+        "sha1": "fd729dd2a92dcc3e870d7c209d32cedc1b289b7d",
+        "fingerprint": [
+          "可塑性",
+          "后劲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "可塑性优于既有经历",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：智力题传统源于夏克利挑选人的思维方式（3093行，专名但机理同卡不独立）；政治正确使智力题减少（3096行）为背景。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0044",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3120-3125行今日思考/回信引导为互动运营文字，只当数据（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第025封信：粗调精调方法论、工程思维、可塑性招人 3 卡；思考题互动文字记 X1。"
+}

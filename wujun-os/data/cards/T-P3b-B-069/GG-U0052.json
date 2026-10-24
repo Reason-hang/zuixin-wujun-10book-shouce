@@ -1,0 +1,155 @@
+{
+  "unit_id": "GG-U0052",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0052-01",
+      "unit_id": "GG-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "任何一个有意义的发明都需要能够重复性地获得成功，不能时灵时不灵",
+      "quote": "需要能够重复性地获得成功",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3593,
+        "end_line": 3593,
+        "sha1": "af063a5c42dbbdb3d089860160c09dfcdd0406b5",
+        "fingerprint": [
+          "发明",
+          "重复"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "发明需可重复",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：李林塔尔可重复滑翔 2000+次，比凯利偶然性飞行是巨大进步（3592-3593行）。"
+    },
+    {
+      "claim_id": "C-GG-U0052-02",
+      "unit_id": "GG-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "试验和测试至关重要：宁可多试验多测试，也不要莽撞地把产品推出去冒险",
+      "quote": "不打无准备的仗",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3619,
+        "end_line": 3622,
+        "sha1": "551a72fb89b6f39694220e512fa312134a7c62f3",
+        "fingerprint": [
+          "试验",
+          "测试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "不打无准备之仗",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：莱特兄弟风洞200多种翼形上千次试验（3607行）、1902年700-1000次滑翔试验后才造动力飞机（3611-3613行）、无人试飞先行（3611行）；验证并修正李林塔尔升力多算60%的数据（3599/3610行）是成败关键；Google 近100%测试覆盖率才调试上线 vs 重速度轻测试（3621-3622行）。"
+    },
+    {
+      "claim_id": "C-GG-U0052-03",
+      "unit_id": "GG-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "走出模仿的关键是从原理出发：莱特兄弟依据控制原理发明操作杆，而非模仿鸟用身体平衡",
+      "quote": "从原理出发进行发明的阶段",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3606,
+        "end_line": 3606,
+        "sha1": "1f81a88f978c8eba4f4ba58e88b6584ff9847a8b",
+        "fingerprint": [
+          "控制",
+          "原理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "原理出发的发明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三难题分工：升力=凯利、动力=奥托内燃机+莱特装机、控制=莱特兄弟（3604-3605行）；李林塔尔靠身体平衡不实用（3595行）。"
+    },
+    {
+      "claim_id": "C-GG-U0052-04",
+      "unit_id": "GG-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "成功有时机和运气成分：太早条件不具备，太晚失去先机，想成功率高常要等到第三波浪潮",
+      "quote": "常常要等到第三波浪潮",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3626,
+        "end_line": 3627,
+        "sha1": "1f8f1a55671fed53d029386a9940f54e317f478b",
+        "fingerprint": [
+          "时机",
+          "浪潮"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D03-1"
+      ],
+      "concept_key": "时机第三波浪潮",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：莱特兄弟出生得够早晚得巧、李林塔尔早逝让出机会（3600-3601行）；「第三眼美女」互引《硅谷来信》VR 一信（3627行）。"
+    },
+    {
+      "claim_id": "C-GG-U0052-05",
+      "unit_id": "GG-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "重大发明需经历两波甚至更多失败才能获得最后成果，而发明的功劳总是给予最后一个发明家",
+      "quote": "功劳总是给予最后一个发明家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3629,
+        "end_line": 3630,
+        "sha1": "c1edfbc6ac0f92a032221e286eb68502e90122e1",
+        "fingerprint": [
+          "发明",
+          "最后一个"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "功劳归最后发明家",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "没有耐心与情怀、指望速成常会失望（3630行）；周五解答原因（3634行）互引后续单元。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0052",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3632-3638行今日思考/回信主题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第030封信：四个知识点全部成卡+可重复性判断1卡；莱特兄弟对凯利的赞誉（3598行）并入U0051卡4互引。"
+}

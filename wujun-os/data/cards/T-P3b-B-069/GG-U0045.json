@@ -1,0 +1,202 @@
+{
+  "unit_id": "GG-U0045",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0045-01",
+      "unit_id": "GG-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "面试刷题只能帮助复习知识；只记答案而不理解出题意图，通常过不了面试关",
+      "quote": "没有搞清楚对方出这道题的原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3135,
+        "end_line": 3138,
+        "sha1": "753d619b2e9c70967473ad391562dff2121f5e8a",
+        "fingerprint": [
+          "刷题",
+          "面试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "刷题不如理解出题意图",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：作者用了近10年的面试题90%候选人答不完美（3137行）；早期Google签保密协议题偷不出来（3139-3140行）。"
+    },
+    {
+      "claim_id": "C-GG-U0045-02",
+      "unit_id": "GG-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "面试中诚实承认见过题目，比装作首次听说更有利，诚信是重要加分项",
+      "quote": "为自己的诚信加分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3142,
+        "end_line": 3144,
+        "sha1": "b14e6a8e34a63ccf1e6a2df0cc0fa86e8f79f018",
+        "fingerprint": [
+          "诚信",
+          "面试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "诚信加分策略",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好面试官惯例：见过就直说直接进下一题（3143行）。"
+    },
+    {
+      "claim_id": "C-GG-U0045-03",
+      "unit_id": "GG-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "Google 类公司考察的不是知识点，而是思考过程和应用知识的能力；考试成绩好与会做事是两回事",
+      "quote": "考察他们的思考过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3148,
+        "end_line": 3150,
+        "sha1": "b1cdf7e25048f51ea9cf40c5aefe817f38c85f5e",
+        "fingerprint": [
+          "思考过程",
+          "知识点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "考察过程而非知识点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "延伸：大学生应培养的不是死记硬背（3150行）；课程定位为潜移默化传递精英要求（3151-3153行）。"
+    },
+    {
+      "claim_id": "C-GG-U0045-04",
+      "unit_id": "GG-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "公司规模扩大后，过去行之有效的规章制度未必适用，制度要与时俱进",
+      "quote": "规章制度要与时俱进",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3139,
+        "end_line": 3141,
+        "sha1": "dbdade1e5fcd3015e5e09fc0979a5ae51ce7cc22",
+        "fingerprint": [
+          "保密协议",
+          "制度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "制度随规模演进",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：Google早期保密协议能防题库外泄，规模大后难以控制执行（3140行）。"
+    },
+    {
+      "claim_id": "C-GG-U0045-05",
+      "unit_id": "GG-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "微软并不期待某个正确答案，而是看候选人如何解决问题、如何证明自己的观点",
+      "quote": "看候选人如何解决问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3170,
+        "end_line": 3172,
+        "sha1": "11c69796df285ee8dec8370cac1d0f8aedd821de",
+        "fingerprint": [
+          "正确",
+          "证明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "面试重论证过程",
+      "ability_tags": [
+        "思",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：坚持方形井盖更好并说服面试官者被微软录用进销售部（3171行）；井盖三个理由（3162-3169行）为题面。"
+    },
+    {
+      "claim_id": "C-GG-U0045-06",
+      "unit_id": "GG-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "世界上大部分问题只有好和不好的答案，没有绝对正确与错误；好的工程师懂得在给定条件下给出相对最好的方案",
+      "quote": "没有绝对正确和错误的答案",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3177,
+        "end_line": 3179,
+        "sha1": "ee2ada6bcc4aa36a7d0ed7d74178b779988394f2",
+        "fingerprint": [
+          "好和不好的答案",
+          "条件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-2"
+      ],
+      "concept_key": "条件性最优解",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出处互引：《大学之路》（3177行）；例证：街道上确有方形井盖（3178行）；对错上纠结者多未做过工程（3179行）。"
+    },
+    {
+      "claim_id": "C-GG-U0045-07",
+      "unit_id": "GG-U0045",
+      "speaker": "转述·第三方",
+      "claim_text": "中国毕业生解决有明确答案的问题与美国学生一样好，但对没有标准答案的开放问题常不知所措，源于教育缺少相应训练",
+      "quote": "没有明确答案的问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3173,
+        "end_line": 3176,
+        "sha1": "80f4bed783bdc26065f79a3a5d1840a721478484",
+        "fingerprint": [
+          "李开复",
+          "不知所措"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "开放问题能力缺口",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述李开复对Google工程负责人尤斯塔斯的回答（3174行）；吴军引申：应试式准备是误区、对方关心过程而非答案（3176行）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第026封信：面试方法论5卡+制度演进1卡+李开复转述1卡；哈佛/谷歌/苹果录取率数据（3180-3181行）并入卡5背景不入卡干。"
+}

@@ -1,0 +1,211 @@
+{
+  "unit_id": "GG-U0046",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0046-01",
+      "unit_id": "GG-U0046",
+      "speaker": "转述·第三方",
+      "claim_text": "公司之间的竞争，最终是人才的竞争——盖茨因此视与自己无商业交集的高盛为最大对手",
+      "quote": "最终是人才的竞争",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3193,
+        "end_line": 3194,
+        "sha1": "8e5ecbf1b1584c9136e09f035686db47c0ff1d42",
+        "fingerprint": [
+          "盖茨",
+          "人才"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "竞争终归是人才竞争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述比尔·盖茨答记者问（3194行）；背景：2000年微软市值全球第一、诉讼无往不利（3193行）。"
+    },
+    {
+      "claim_id": "C-GG-U0046-02",
+      "unit_id": "GG-U0046",
+      "speaker": "转述·第三方",
+      "claim_text": "判断一家公司的价值，看全世界是否都在用它——高盛在互联网寒冬中据此看好未上市的Google",
+      "quote": "因为全世界都在用它",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3196,
+        "end_line": 3197,
+        "sha1": "5509faea40b522257b3469ff93d1227589b1b784",
+        "fingerprint": [
+          "高盛",
+          "全世界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "世界都在用是价值信号",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述高盛（3197行）；吴军注：高盛是其金融知识老师（3197行）。"
+    },
+    {
+      "claim_id": "C-GG-U0046-03",
+      "unit_id": "GG-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "高盛招人像哈佛招生：专业背景不重要，最看重软实力——思维方式与遇到问题解决问题的方法",
+      "quote": "对人的软实力非常看重",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3199,
+        "end_line": 3200,
+        "sha1": "b496d7beef85e0692332243628bc6f52321766d1",
+        "fingerprint": [
+          "高盛",
+          "软实力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "软实力重于专业背景",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高大上/外向/领导力/善沟通画像（3199行）。"
+    },
+    {
+      "claim_id": "C-GG-U0046-04",
+      "unit_id": "GG-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "做金融的人要对数字极为敏感；一道初中几何题就能不动声色筛掉数学基础差的人",
+      "quote": "要对数字极为敏感",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3201,
+        "end_line": 3203,
+        "sha1": "0c9ab5e80ff5c55c278ef62653ab6bc1f45f639c",
+        "fingerprint": [
+          "数字",
+          "敏感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "数字敏感是金融基本功",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：3:15 夹角题甄别混文凭者（3201-3202行，转述高盛朋友观点并入）。"
+    },
+    {
+      "claim_id": "C-GG-U0046-05",
+      "unit_id": "GG-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "对无标准答案的估算题，收集信息并做合乎逻辑推理的过程比答案重要得多；估市场规模即此过程",
+      "quote": "解决问题的方式已经比答案重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3204,
+        "end_line": 3211,
+        "sha1": "2f2218e9beb82b87a4fa571fdd08b977d792ffe0",
+        "fingerprint": [
+          "飞机",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D06-1"
+      ],
+      "concept_key": "费米估算重过程",
+      "ability_tags": [
+        "思",
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：纽约上空飞机数两种估法殊途同归（3206-3210行）。"
+    },
+    {
+      "claim_id": "C-GG-U0046-06",
+      "unit_id": "GG-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "遇到超出自己能力的困难要懂得借助别人的帮助，而不是一个人蛮干；不善于求助是常见职场瓶颈",
+      "quote": "懂得借助别人的帮助工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3219,
+        "end_line": 3223,
+        "sha1": "c51c444f41b8cecfbe1175559b88a7f1e66ebf0b",
+        "fingerprint": [
+          "帮助",
+          "搅拌机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "求助而非蛮干",
+      "ability_tags": [
+        "做",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：Google/腾讯员工卡壳苦思 vs 问同事速解（3221行）；金融危机中金融机构互相求援（3223行）；搅拌机题答案一（3219行，面试者答案并入）；中国人天花板困惑观察（3237行）。"
+    },
+    {
+      "claim_id": "C-GG-U0046-07",
+      "unit_id": "GG-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "人类自身智力对复杂问题办法有限，需要借助计算机等外部工具；面对比搅拌机复杂千万倍的市场，人如铅笔小人",
+      "quote": "脑子只有橡皮大的小人儿",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3227,
+        "end_line": 3228,
+        "sha1": "1d8f8103327c08d097f1dc78b8b363fd48ff7c37",
+        "fingerprint": [
+          "橡皮",
+          "工具"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "智力边界与工具借助",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "源流：面试者答案（无名引语并入，3227行）；3228行吴军引申总结。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0046",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3239行思考题为互动运营文字（HC-20 只当数据）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第027封信：转述2卡+吴军5卡；末尾高盛选拔三原则（3233-3237行）已由卡3/5/6分别承载，不另立清单卡防重复。"
+}

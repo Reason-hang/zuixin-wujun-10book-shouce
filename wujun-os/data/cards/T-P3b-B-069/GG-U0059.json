@@ -1,0 +1,155 @@
+{
+  "unit_id": "GG-U0059",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0059-01",
+      "unit_id": "GG-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "为了让设备完成更多更复杂的功能，发明变得越来越复杂，这是发明的常态——没有精深的专业知识无法应对",
+      "quote": "这是发明的常态",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4041,
+        "end_line": 4041,
+        "sha1": "46e862187d14f65be678d2c4d49d03e4e100db76",
+        "fingerprint": [
+          "发明",
+          "专业知识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "发明趋复杂常态",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "轨迹：算盘→帕斯卡→莱布尼茨→巴贝奇（4041行）。"
+    },
+    {
+      "claim_id": "C-GG-U0059-02",
+      "unit_id": "GG-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "控制是计算机的本质之一：控制方式从人到简单机械再到复杂机械渐进，但设计控制过程的永远是人",
+      "quote": "设计这些控制过程的永远是人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4043,
+        "end_line": 4043,
+        "sha1": "a12a6ac0994a8fcb37c59d71c56e8b7b805e7e3c",
+        "fingerprint": [
+          "控制",
+          "机械"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "控制是计算机本质",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：帕斯卡机使控制由人变机械（4017行）；莱布尼茨转轮三个世纪通用解进位（4018-4020行）。"
+    },
+    {
+      "claim_id": "C-GG-U0059-03",
+      "unit_id": "GG-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "巴贝奇的悲剧在于想法太超前、工业基础无法满足设计——他是科学家而非工程师；好工程师懂得在边界之内做事",
+      "quote": "更多地是科学家，而不是工程师",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4045,
+        "end_line": 4045,
+        "sha1": "83eb60683a1f05762bc7e9e765377f4a629948cf",
+        "fingerprint": [
+          "巴贝奇",
+          "边界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "超前的悲剧",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "史实：2.5万零件误差须千分之一英寸、政府1.7万英镑+自贴1.3万仍不成（4031-4033行）；互引《见识》米格25边界案例；阿达·洛甫雷斯支持与Ada语言命名（4033-4038行）；留下2100张组装图5万张零件图供后人复刻成功（4036行）——超前者的图纸价值。"
+    },
+    {
+      "claim_id": "C-GG-U0059-04",
+      "unit_id": "GG-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "当东西变得太复杂，就要有人换一个思路重新发明将它变简单，这也是发明的大趋势",
+      "quote": "这也是发明的大趋势",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4047,
+        "end_line": 4047,
+        "sha1": "3c549a0a72cef60fee90cae805abd49e1de00704",
+        "fingerprint": [
+          "复杂",
+          "简单"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "由繁入简趋势",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "展开见下一封信（4047行，U0060互引）。"
+    },
+    {
+      "claim_id": "C-GG-U0059-05",
+      "unit_id": "GG-U0059",
+      "speaker": "史实",
+      "claim_text": "巴贝奇从杰卡德提花织布机获得灵感：既然能按设计旨意控制织布机织出图案，就能用控制流程控制齿轮运动、自动计算不同函数值",
+      "quote": "相应的控制流程来控制齿轮",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4026,
+        "end_line": 4027,
+        "sha1": "17920bcb3b9fb1888307a970505f9bb78007c1e7",
+        "fingerprint": [
+          "提花织布机",
+          "控制"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "织布机到计算机迁移",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "嫁接思维典型（与莱特兄弟风筝→操作杆同型，U0052卡3互引）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0059",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4048-4051行本周回信主题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第034封信：四要点成卡+织布机灵感E3卡；帕斯卡/莱布尼茨/巴贝奇技术细节并入notes。"
+}

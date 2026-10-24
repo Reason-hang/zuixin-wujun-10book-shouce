@@ -1,0 +1,184 @@
+{
+  "unit_id": "GG-U0051",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0051-01",
+      "unit_id": "GG-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "模仿是人类学习的第一步并不可耻，可耻的是走不出模仿；从模仿到发明的飞跃在于认清现象背后的原理",
+      "quote": "可耻的是走不出模仿",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3571,
+        "end_line": 3572,
+        "sha1": "8014b20d1e028ae7d26da9ac044beac3ba2b79e1",
+        "fingerprint": [
+          "模仿",
+          "原理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "从模仿到发明",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：模仿鸟飞行是弯路但研究鸟飞原理帮助造出飞机（3548-3549行）；不要模仿硅谷、搞清内部机制即可（3572行）。"
+    },
+    {
+      "claim_id": "C-GG-U0051-02",
+      "unit_id": "GG-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "人过分相信自己从窄小认知得出的直觉；违背理论的感性想法会让一代代人前赴后继地失败",
+      "quote": "受限于我们生活的小圈子",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3574,
+        "end_line": 3575,
+        "sha1": "34d18e20fa9e7c5d7061548106116686b69fa11b",
+        "fingerprint": [
+          "直觉",
+          "小圈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "直觉受限于经验圈子",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：能量守恒提出一个半世纪仍有人信水变油永动机（3552行）；股市赌徒式行为（3575行）；AI超智能方向的20年预判（3553行，时点成分留痕X2候选）。"
+    },
+    {
+      "claim_id": "C-GG-U0051-03",
+      "unit_id": "GG-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "意识到错误后不为维护颜面而坚持错误，勇于承认错误才不至于在错误道路上滑得太远",
+      "quote": "为了维护自己的颜面而坚持错误",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3555,
+        "end_line": 3555,
+        "sha1": "12396dd40f6e48e61dae5a03bc1a3669229cc6fb",
+        "fingerprint": [
+          "凯利",
+          "颜面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "知错即改不护短",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：凯利放弃振翼转向固定翼成为航空学之父，迷信水变油者只被称为民间科学家（3555行）；要点4同义（3577行）。"
+    },
+    {
+      "claim_id": "C-GG-U0051-04",
+      "unit_id": "GG-U0051",
+      "speaker": "史实",
+      "claim_text": "凯利提出固定机翼提供升力、升力与推力机理应分开，人类飞行器不应模仿鸟类振翼——为飞机发明指出正确道路",
+      "quote": "升力的机理与推力机理应该分开",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3565,
+        "end_line": 3565,
+        "sha1": "7c76b46d4e7f750425ec4391cf77c5a01d1d2376",
+        "fingerprint": [
+          "凯利",
+          "升力"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "升力推力分离原理",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "莱特兄弟：没有凯利的理论就没有他们的成功（3566行）；1849年首次载人滑翔、1853年可控滑翔（3559-3560行）；1971年英军官按笔记复刻成功验证记载真实（3562行）；博雷利生物力学证明人类肌肉不足以振翼（3550-3551行）。"
+    },
+    {
+      "claim_id": "C-GG-U0051-05",
+      "unit_id": "GG-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "人总觉得越得不到的越值钱：重大发明承载人类长期梦想，有条件时不妨把目标定得高远一些",
+      "quote": "人总是觉得越得不到的越值钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3569,
+        "end_line": 3569,
+        "sha1": "a9b753362e2f0a17e23299e81a4c46871148b269",
+        "fingerprint": [
+          "发明",
+          "梦想"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D10-1"
+      ],
+      "concept_key": "目标定高远",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：飞行、登月、治愈癌症与长生不老（3569行）。"
+    },
+    {
+      "claim_id": "C-GG-U0051-06",
+      "unit_id": "GG-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "成功的发明要等到风云汇聚、各种条件都成熟",
+      "quote": "要等到风云汇聚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3579,
+        "end_line": 3579,
+        "sha1": "6d25d6e705af5481a201a34bbc8c97e40d57107e",
+        "fingerprint": [
+          "发明",
+          "条件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "发明等风来",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本卡为纲，完整论证见下一封信（3579行明言明天展开，U0052 互引）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0051",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3580行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第029封信：五个知识点中4条成卡+凯利史实1卡；鸟飞派弯路背景并入卡1。"
+}

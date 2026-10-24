@@ -1,0 +1,217 @@
+{
+  "unit_id": "GG-U0055",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0055-01",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "世界把发明的荣誉给予最后一个发明家：他完成质变、实现商业与社会价值；「新」的定义含糊、溯源无意义",
+      "quote": "最后一个发明人完成质变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3779,
+        "end_line": 3782,
+        "sha1": "0613bae0c22b225f2b0f1eb05eb809baa8cceaf0",
+        "fingerprint": [
+          "发明",
+          "质变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "荣誉给最后发明家",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：贝尔打赢专利后持续改进+宣传、两年发展出300公里长途（3774行），格雷放弃（3772-3773行）；穆奇2002年获官方认定但当年无钱申请专利未实用化、各方公道自在人心（3763-3766行）；飞机→莱特、火车→史蒂芬逊、PC→乔布斯（3776-3778行）；互引U0052卡5。"
+    },
+    {
+      "claim_id": "C-GG-U0055-02",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "不要纠结谁早谁晚，关键看谁能产生效果",
+      "quote": "关键看谁能产生效果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3789,
+        "end_line": 3791,
+        "sha1": "d4676d099a540f95b207c577be272c54fba7f52a",
+        "fingerprint": [
+          "效果",
+          "关键"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "效果优先于先来后到",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0055-03",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "发明是漫长的过程不会一次完成：需要长期持久战的心理准备，并在前人量变的基础上形成质变，要站在前人的肩上",
+      "quote": "需要有长期持久战的心理准备",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3793,
+        "end_line": 3795,
+        "sha1": "cf7ff34e844275c3e295f9dca5a0cda8f098f975",
+        "fingerprint": [
+          "持久战",
+          "前人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "发明持久战",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0055-04",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "把造纸术功劳给予蔡伦是公平的：他造出便宜而高质量的纸使书写普及——评价发明看效果与普及，而非最早出现",
+      "quote": "使得书写能够普及",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3783,
+        "end_line": 3787,
+        "sha1": "6d83e3a6b612ece54defaf42f32b4e3c31695439",
+        "fingerprint": [
+          "蔡伦",
+          "书写"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "蔡伦造纸标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：西汉纸质量太次只当抹布、埃及莎草纸质地制法完全是两回事、继续溯源没有意义（3784-3785行）；互引《文明之光》。"
+    },
+    {
+      "claim_id": "C-GG-U0055-05",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "区分AI的鸟飞派与空气动力学派：是让机器模仿人获得智能，还是用大数据与机器学习在效果上完成需人类智力完成的事",
+      "quote": "看他是试图让机器模仿人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3804,
+        "end_line": 3805,
+        "sha1": "51c167d77267104333cf0e0c8f78c70964156f53",
+        "fingerprint": [
+          "鸟飞派",
+          "空气动力学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "鸟飞派判据",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "后者要了解问题本质、寻找好的数学模型（3805行）。"
+    },
+    {
+      "claim_id": "C-GG-U0055-06",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "真正的通用人才是能在两门课考100分的人，而不是考一堆80分；两门95分不如一门100分，那是数量级的差别",
+      "quote": "能够在两门课上考100分的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3813,
+        "end_line": 3816,
+        "sha1": "deaea04e418526ec4c6bf7cb7cb06cad95dabc75",
+        "fingerprint": [
+          "通用人才",
+          "100分"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "两门百分胜过一堆八十分",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "用人单位愿为两门100分出双倍价、为一门100分比95分出10倍价；一堆80分意义几乎为零（3813-3815行）。"
+    },
+    {
+      "claim_id": "C-GG-U0055-07",
+      "unit_id": "GG-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "早期投资若成是几十上百上千倍利润，后期投资有时收不回成本；99%早期项目死但不死者先发优势大；并非人人做事都为利润",
+      "quote": "甚至上千倍的利润",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3824,
+        "end_line": 3828,
+        "sha1": "b3cf3d9a5d0bc3e51513b45b96f6a802d328629d",
+        "fingerprint": [
+          "早期投资",
+          "基因泰克"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "早期投资高倍回报",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：凯鹏华盈最成功投资是基因泰克而非Google，按罗氏千亿美元收购计回报上万倍（3825行）；雅虎先发优势（3827行）；兴趣驱动者存在（3828行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0055",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "三位读者提问原文（3798-3800/3807-3809/3818-3820行）为读者来信，按X7处置，吴军回答单独成卡"
+    },
+    {
+      "unit_id": "GG-U0055",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3832-3833行摄影大赛提醒与结尾问候为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问08：发明荣誉三观点+蔡伦标准+鸟飞派判据+通用人才+早期投资共7卡（E1）；读者原文X7。"
+}

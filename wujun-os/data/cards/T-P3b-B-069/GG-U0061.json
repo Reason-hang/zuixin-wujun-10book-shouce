@@ -1,0 +1,157 @@
+{
+  "unit_id": "GG-U0061",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0061-01",
+      "unit_id": "GG-U0061",
+      "speaker": "史实",
+      "claim_text": "楚泽发现大量工程计算的公式相同、只是代入数据不同——这种重复工作应该交给机器完成，而不是动用大量专业人才",
+      "quote": "完全应该交给机器去完成",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4118,
+        "end_line": 4119,
+        "sha1": "910232302b3502a4fcfab3da7a5e669261355cf7",
+        "fingerprint": [
+          "楚泽",
+          "重复"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "重复计算交给机器",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "背景：飞机设计计算靠计算尺（4117行）；楚泽1936年辞职在家独立研制（4119行）。"
+    },
+    {
+      "claim_id": "C-GG-U0061-02",
+      "unit_id": "GG-U0061",
+      "speaker": "史实",
+      "claim_text": "楚泽不重走巴贝奇的复杂路线：先实现简单的基本运算模块再大量复制，两年造出 Z1——世界第一台靠程序自动控制的计算机",
+      "quote": "大量简单模块的重复",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4126,
+        "end_line": 4131,
+        "sha1": "a89dfde567e264f54f297facef9fe1598c15a60e",
+        "fingerprint": [
+          "楚泽",
+          "模块"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "简单模块复制路线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对照：巴贝奇用复杂机械实现复杂运算穷其一生未成（4126行）；Z3 用2000继电器首次完整实现图灵机功能（4134行）；楚泽不知图灵理论与巴贝奇工作、独立完成（4121行）；工程师经验vs香农理论体系（4129行）。"
+    },
+    {
+      "claim_id": "C-GG-U0061-03",
+      "unit_id": "GG-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "一口吃一个胖子结果可能是零：大目标要分解成简单问题逐个解决；复杂问题若能拆成两个等价的简单问题，成功的可能性就大很多",
+      "quote": "一口吃一个胖子的结果可能是零",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4143,
+        "end_line": 4143,
+        "sha1": "c9b4a6bd8f7be619293a6f40a0be826bd1c7795b",
+        "fingerprint": [
+          "分解",
+          "事半功倍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "化整为零事半功倍",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "机理：十进制与二进制等价但后者易实现，两件简单事比一件复杂事容易得多（4137行）；0/1开关机械易实现而十进制机械难（4128行）；反例：做两件收效小的事≠一件大事=事倍功半（4143行）。"
+    },
+    {
+      "claim_id": "C-GG-U0061-04",
+      "unit_id": "GG-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "复杂度随问题规模呈指数而非线性增长——低估复杂度是巴贝奇悲剧的原因之一；不同规模的问题要采用不同的方法",
+      "quote": "而是呈指数上升",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4145,
+        "end_line": 4146,
+        "sha1": "cbe77f7fb1eadf395573cb3458c8ed7c723a9aba",
+        "fingerprint": [
+          "复杂度",
+          "指数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "复杂度指数增长",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：巴贝奇以为放大原方法即可造高精度机器（4145行）；大体量时代需要超出常人的思维方式（4146行）。"
+    },
+    {
+      "claim_id": "C-GG-U0061-05",
+      "unit_id": "GG-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "发明的成败有命运与大环境的成分：计算机在二战前后于大西洋两岸先后突破是大环境使然——楚泽命好，巴贝奇命不好",
+      "quote": "相信命运，大环境的影响",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4138,
+        "end_line": 4138,
+        "sha1": "ffe99acdb3e8c22bd8c1e3b6eb52d9676b3962c3",
+        "fingerprint": [
+          "命运",
+          "大环境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "发明的大环境",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与U0052卡4（时机第三波浪潮）互引——彼重时机，此重环境。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0061",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4149-4152行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第036封信：楚泽案例2张E3+事半功倍方法论+复杂度指数+大环境共5卡；「复杂到极点转简单」规律已由U0060卡6承载不重复立卡。"
+}

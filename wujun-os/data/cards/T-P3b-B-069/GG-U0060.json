@@ -1,0 +1,269 @@
+{
+  "unit_id": "GG-U0060",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0060-01",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "效率不高、性价比极差的产品，哪怕技术含量再高也无法普及——工程师做事一定不要做成那样",
+      "quote": "哪怕里面的技术含量再高",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4064,
+        "end_line": 4065,
+        "sha1": "2576e92b34bb103f264653527ae1bd8470cf9e71",
+        "fingerprint": [
+          "性价比",
+          "普及"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D05-1"
+      ],
+      "concept_key": "性价比决定普及",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：20世纪初机械计算机太贵难加工如今天第一代激光雷达（4064行）。"
+    },
+    {
+      "claim_id": "C-GG-U0060-02",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "改进的两种思路：顺着原思路堆复杂度符合天性；更好的是回到问题本源搞清本质，一次性解决一大批问题",
+      "quote": "要先回到一个问题的本源",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4067,
+        "end_line": 4068,
+        "sha1": "94694d88e27d95969adbd8bcb7d01fc6a6c4f158",
+        "fingerprint": [
+          "本源",
+          "复杂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "回到本源解题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：苹果有什么原料做什么菜，不为炒鱼香肉丝现养猪（4067行）；图灵与香农走第二条路（4068行）。"
+    },
+    {
+      "claim_id": "C-GG-U0060-03",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "模块化是用少数简单模块搭建复杂功能，是IT工程设计核心；IT产品是大量相同模块的复制，摩尔定律因此成立",
+      "quote": "就要理解模块化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4077,
+        "end_line": 4082,
+        "sha1": "7a5d74deb3fc57c340d0192b631c4c964e67c767",
+        "fingerprint": [
+          "模块化",
+          "摩尔定律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "模块化是IT钥匙",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：汽车上万异形零件、钢琴上千不同零件（4079行）；超算更多是工程成就（4078行）；中国IT超德而内燃机光学难追、电动车更像IT产品（4081-4082行，产业判断时点成分留痕）。"
+    },
+    {
+      "claim_id": "C-GG-U0060-04",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "等价性原理：复杂计算可等价为加减乘除、再等价为开关逻辑；等价问题中一个常比另一个容易——科学家证等价，工程师架桥",
+      "quote": "证明两件事情等价",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4083,
+        "end_line": 4087,
+        "sha1": "ec964bf3f8b4cb46592caa91983fcbbccd3726d4",
+        "fingerprint": [
+          "等价",
+          "桥梁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "等价性原理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：三角形全等难证、等价的两角一边易证（4085行）；香农在四则运算与简单电路间搭桥（4072行），其硕士论文被誉为20世纪最重要硕士论文（4073行）。"
+    },
+    {
+      "claim_id": "C-GG-U0060-05",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "图灵与香农超越时代之处：别人把计算机当第一类发明，他们将计算机上升为第三类发明——通用硬件加可变指令序列的平台",
+      "quote": "上升为第三类发明",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4089,
+        "end_line": 4091,
+        "sha1": "0634ecb59c2d7b3d6476ca2be8487737ce07df3a",
+        "fingerprint": [
+          "图灵",
+          "平台"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "计算机平台化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "变形金刚喻：部件不变，指令序列决定它是汽车轮船还是飞机（4090行）。"
+    },
+    {
+      "claim_id": "C-GG-U0060-06",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "人类随需求增加发明复杂度，复杂到极致就有人进行更高层次思考，搞清本质用简单办法解决",
+      "quote": "用简单的办法把它解决",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4094,
+        "end_line": 4094,
+        "sha1": "5dd22b47345c8ab75af1348580c55e301bf0446c",
+        "fingerprint": [
+          "复杂",
+          "本质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D01-1"
+      ],
+      "concept_key": "复杂后回归简单",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与卡2（解题思路）及U0059卡4（由繁入简趋势）互引——本卡为历史规律观察。"
+    },
+    {
+      "claim_id": "C-GG-U0060-07",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "世界很多东西由大量极小基本单元构成：原子之于物质、细胞之于生命、晶体管之于计算机——搞清基本单元及其关系即探求世界",
+      "quote": "由大量极小的基本单元构成",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4096,
+        "end_line": 4096,
+        "sha1": "d443aaf3298f2007f22ae8d68400ec73577d88aa",
+        "fingerprint": [
+          "基本单元",
+          "晶体管"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "基本单元与关系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0060-08",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "计算机的数学原理自图灵以来无突破：图灵机划定了所有计算机解决问题的理论极限，如热力学第二定律之于热机",
+      "quote": "所能解决问题的理论极限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4098,
+        "end_line": 4100,
+        "sha1": "a6df53501ccda193decbbbc346865ab093280364",
+        "fingerprint": [
+          "图灵机",
+          "极限"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "图灵机极限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "补充：非图灵机计算机目前没有、无人做、有生之年恐怕没有（4100行）；互引第004封信。"
+    },
+    {
+      "claim_id": "C-GG-U0060-09",
+      "unit_id": "GG-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "评价研究成果要看奠基性而非发表载体：香农硕士论文奠定全部数字电路基础，媒体见《自然》《科学》就喊诺奖级是没有见过世面",
+      "quote": "真是没有见过世面",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 4073,
+        "end_line": 4075,
+        "sha1": "7142584babec415040a924e13123569938d9d2d8",
+        "fingerprint": [
+          "硕士论文",
+          "香农"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "奠基性重于载体",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0060",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "4103-4106行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第035封信：模块化+等价性两大核心+平台化+基本单元+图灵极限+奠基性评价等9卡；最早实现可编程的德国人悬念（4101行）互引U0061。"
+}

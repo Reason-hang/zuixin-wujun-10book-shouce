@@ -1,0 +1,51 @@
+{
+  "unit_id": "GG-U0043",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0043-01",
+      "unit_id": "GG-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "OKR 是 Google 的目标管理法：定目标（Objectives）并配关键结果（Key Results）衡量其达成",
+      "quote": "Google的目标管理方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3009,
+        "end_line": 3011,
+        "sha1": "f7492e24cf0121595f5eb5cc00fc6ab7d03f4857",
+        "fingerprint": [
+          "OKR",
+          "关键结果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "OKR目标管理法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：读者Yuelong Chen以OKR做2018年度计划（2988-3007行）；出处《硅谷来信》第114封信（3011行互引）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0043",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "来信精选主体为7位读者的2018年计划原文（2983-3069行，无吴军评述），按X7排除；吴军对OKR的说明（3009-3011行）单独成卡"
+    },
+    {
+      "unit_id": "GG-U0043",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3071-3072行为账户充值与文章链接的运营推广文字，记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "回信精选：吴军OKR说明1卡（E1）；读者计划原文X7、运营文字X1。"
+}

@@ -1,0 +1,154 @@
+{
+  "unit_id": "GG-U0058",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0058-01",
+      "unit_id": "GG-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "把一个事物捧上天和将它打入地狱的常常是同一批人——这不是偏见，而是缺乏了解",
+      "quote": "把他打入地狱的是同一批人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3951,
+        "end_line": 3952,
+        "sha1": "c20d7aa5ce750ecc7e80c33b5b00e50fda929303",
+        "fingerprint": [
+          "180度大转弯",
+          "缺乏了解"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "捧杀棒杀同源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：AI大热前后对计算机的评价180度大转弯（3951行）；从业者中能让吴军赞叹的计算机领悟者仅约5%（3953行）。"
+    },
+    {
+      "claim_id": "C-GG-U0058-02",
+      "unit_id": "GG-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "有了口诀（指令）控制，算盘才是计算机，否则只是辅助计数工具；人提供的只是机械动能而非运算能力",
+      "quote": "有了口诀控制，或者说指令控制",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3964,
+        "end_line": 3971,
+        "sha1": "c366329215e79a0b120232f1953a61931807ad5c",
+        "fingerprint": [
+          "口诀",
+          "指令"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "指令控制才算计算机",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：希腊算盘有存储无计算非计算机（3964行）；三下五除二=加三的操作指令（3968行）；猴子背下口诀也能打算盘（3969行）；老会计心算极差但珠算飞快（3970行，《文明之光》写作时亲测）。"
+    },
+    {
+      "claim_id": "C-GG-U0058-03",
+      "unit_id": "GG-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "计算机的软件相当于算盘的口诀，远比硬件重要——AlphaGo 与家用机的差别在软件",
+      "quote": "软件就相当于口诀",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3972,
+        "end_line": 3974,
+        "sha1": "5d15c1465555184d077c28d4e446f1f23fa3d952",
+        "fingerprint": [
+          "软件",
+          "硬件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "软件重于硬件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0058-04",
+      "unit_id": "GG-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "计算机是功能取决于使用者的工具：不用担心人工智能本身，要担心的是背后操控它的人",
+      "quote": "要担心的是背后操控它的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3975,
+        "end_line": 3977,
+        "sha1": "63b1d1a7170e6a0cc973732db14efbaaa3396204",
+        "fingerprint": [
+          "人工智能",
+          "操控"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "担心人而非AI",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "喻：锄头可锄地可当武器杠杆（3975行）；机器学习算法既能发现漏洞也能被用于攻击（3977行）。"
+    },
+    {
+      "claim_id": "C-GG-U0058-05",
+      "unit_id": "GG-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "发明有三种：①完成特定功能的新设备/方法；②在原有设备上发明新用法；③平台发明——硬件研究属第三类，软件属第二类",
+      "quote": "发明有三种",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3978,
+        "end_line": 3980,
+        "sha1": "7ac416b538f99cb36e70c882b367860e0fece69d",
+        "fingerprint": [
+          "发明",
+          "三种"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "发明三分类",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第二类例（最易被忽视）：阿司匹林转预防血栓、伟哥成分转男科、GPU从显卡到超算再到AlphaGo（3982-3987行）、iPod=MP3+音乐服务（3988行）；第三类例：Google搜索→互联网入口、Facebook→2.0平台、亚马逊内部接口→AWS（3991-3994行）；另辟蹊径的发明常是把现有技术用好（3988行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0058",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3998-4001行今日思考/回信主题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第033封信：算盘=计算机的本质2卡+软件硬件+AI工具观+发明三分类共5卡。"
+}

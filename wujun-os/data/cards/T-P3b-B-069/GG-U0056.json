@@ -1,0 +1,100 @@
+{
+  "unit_id": "GG-U0056",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0056-01",
+      "unit_id": "GG-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "把营业额等商业机密与全员分享，能让大家看到前景保持干劲、表明共同创业宗旨——透明换凝聚力与守口如瓶的信任",
+      "quote": "和大家共同创业的宗旨",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3857,
+        "end_line": 3860,
+        "sha1": "1d7b13f24e36d30ac82e5d14caf46b89a3663776",
+        "fingerprint": [
+          "商业机密",
+          "员工"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "透明分享换凝聚力",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：施密特起初反对后转为支持（3858行）；上市前低薪+股票无法兑现，靠此稳定队伍（3859行）；上千员工对外守口如瓶（3860行）；上市后不再分享（3861行）。"
+    },
+    {
+      "claim_id": "C-GG-U0056-02",
+      "unit_id": "GG-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "TGIF 是 Google 文化最大特色，源于创始人与大家同甘共苦的理念，让每个员工看到公司的希望",
+      "quote": "与大家同甘共苦的理念",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3862,
+        "end_line": 3862,
+        "sha1": "9beaeab0d02adac4d765173ae032ab871ef9b9b5",
+        "fingerprint": [
+          "TGIF",
+          "同甘共苦"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "TGIF同甘共苦",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "环节：介绍新员工、宣布一周工程成果、各部门成就（3851-3856行）；早期像大家庭、辛苦但开心（3866行）；电影福利源于梅耶尔说服施密特掏腰包（3863-3865行）。"
+    },
+    {
+      "claim_id": "C-GG-U0056-03",
+      "unit_id": "GG-U0056",
+      "speaker": "史实",
+      "claim_text": "Google 以每周单元测试竞赛（证书+100美元奖金）激励工程师多写测试代码，保证程序质量",
+      "quote": "鼓励大家多写测试代码",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3855,
+        "end_line": 3855,
+        "sha1": "fc1c93695fa03ff39be663330dfbe697cceb6579",
+        "fingerprint": [
+          "单元测试",
+          "竞赛"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D07-2",
+        "D05-1"
+      ],
+      "concept_key": "测试竞赛激励",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与U0052卡2（Google近100%测试覆盖率才上线）互引——测试文化的激励设计。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0056",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3867-3869行留言互动引导为运营文字；3870行注明本文选自《浪潮之巅》（非本工程十书范围，无跨书双出处登记问题）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：TGIF文化2卡+单元测试竞赛1卡；啤酒/茶点/电影等细节并入notes。"
+}

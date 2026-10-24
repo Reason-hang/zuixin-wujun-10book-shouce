@@ -1,0 +1,136 @@
+{
+  "unit_id": "GG-U0053",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0053-01",
+      "unit_id": "GG-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "突破难题不是沿原方向加力，而是回到原点重新思考：重复过去成功的工作方法，再按新问题增加新方法",
+      "quote": "回到原点重新思考",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3683,
+        "end_line": 3687,
+        "sha1": "3f81353236cfcdc3b4fcc6bfe21ca998c626c098",
+        "fingerprint": [
+          "原点",
+          "音障"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "回到原点三步法",
+      "ability_tags": [
+        "思",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：突破音障靠重回空气动力学从头试验机翼形状（3659-3660行）+新试验方法（火箭模型高空加速，3662行）；维度不足反例：收入不高只想加班延长工时（3685行）。"
+    },
+    {
+      "claim_id": "C-GG-U0053-02",
+      "unit_id": "GG-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "任何让人花钱找罪受的产品都很难赢利",
+      "quote": "花钱找罪受的产品都很难赢利",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3689,
+        "end_line": 3689,
+        "sha1": "99d6bed4b6cf3d4cd2bd28653c751d53004494a6",
+        "fingerprint": [
+          "产品",
+          "VR"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "花钱买罪受难赢利",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：协和乘客多为一次性体验（3675行）；VR 眼镜半小时头晕（3689行）。"
+    },
+    {
+      "claim_id": "C-GG-U0053-03",
+      "unit_id": "GG-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "在商业上不仅要关心一个东西好不好，还要问一下贵不贵",
+      "quote": "还要问一下贵不贵",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3690,
+        "end_line": 3690,
+        "sha1": "90b366420bf879136ab55aa9dd9284cbc8c6b178",
+        "fingerprint": [
+          "商业",
+          "贵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "好还要问贵不贵",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0053-04",
+      "unit_id": "GG-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "分析原因要先辨伪：很多公认的障碍其实是伪命题，真问题另有所在",
+      "quote": "这个问题本身可能是一个伪命题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3670,
+        "end_line": 3679,
+        "sha1": "0c424a246f13b708f9cb9cddd9742bc70affc299",
+        "fingerprint": [
+          "伪命题",
+          "协和"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D08-1"
+      ],
+      "concept_key": "伪命题辨识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：协和成本（燃油7倍但票价10倍不缺客，亏损真因是体量小边际成本高+三家国企效率低，3672-3674行）与机场管理（渐进提速不需重构，火车提速管理变化更大，3676-3679行）均为伪命题；只有乘坐不舒服是真问题（3675行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0053",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3693-3699行今日思考/回信主题为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0053",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "交通工具发展停滞观察（747后48年民航速度未超、SR-71/XB-70对比，3648-3651行）为行业趋势叙述，不入卡干"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第031封信：三知识点成卡+伪命题辨识1卡；航空业停滞趋势记X6。"
+}

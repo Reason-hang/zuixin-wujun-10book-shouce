@@ -1,0 +1,135 @@
+{
+  "unit_id": "GG-U0054",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-069",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0054-01",
+      "unit_id": "GG-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "垄断行业没有动力改进：利益共同体享受垄断利润，不思进取且能找到理由驳斥外行批评",
+      "quote": "都是垄断性行业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3718,
+        "end_line": 3723,
+        "sha1": "e2cbf3c8fa0b39ec6c596d132e4415ca11cc64cb",
+        "fingerprint": [
+          "垄断",
+          "航空"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "垄断致不思进取",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：波音+空客双垄断，747价格40余年2400万→近4亿美元远超通胀（3722行）；航空业游说阻高铁（3719行）；员工福利吃利润+破产保护模式（3720行）；微软垄断产品20年无进步（3725行）；盖茨吐槽汽车业名句（3723行）。"
+    },
+    {
+      "claim_id": "C-GG-U0054-02",
+      "unit_id": "GG-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "行业巨变常常不是因为内部觉悟，而是因为外部冲击；企业走出舒适区比个人难——大家都明白但就是不去做",
+      "quote": "大家都明白，但就是不去做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3726,
+        "end_line": 3729,
+        "sha1": "7615257be291d4cfe0c7492e79bd7b123717a74e",
+        "fingerprint": [
+          "舒适区",
+          "冲击"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-1"
+      ],
+      "concept_key": "巨变靠外部冲击",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引：罗辑思维第394期灰犀牛（3727行）；例证：特斯拉冲击汽车业、SpaceX冲击航天（3729行）。"
+    },
+    {
+      "claim_id": "C-GG-U0054-03",
+      "unit_id": "GG-U0054",
+      "speaker": "史实",
+      "claim_text": "特斯拉反其道而行之：外来者不走低价边缘切入的老路，而从最高端市场进入，性能优先于成本，再逐级下探价格",
+      "quote": "他是从最高端的市场开始进入",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3734,
+        "end_line": 3741,
+        "sha1": "252c45efee3745451711c5628244c5507a5428ca",
+        "fingerprint": [
+          "特斯拉",
+          "高端"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "高端切入下探",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "常规打法对照：农村包围城市，日德车企进美国先做小便宜节能车（3734-3735行）；Roadster 11万美元用莲花壳锂电池性能优先 vs 他厂铅酸省钱（3736-3737行），科技巨头与好莱坞明星订光（3738行）；S系8万、3系再降一半订户剧增（3740-3741行）；十年逼全行业电动化、各国列燃油车淘汰时间表，没有特斯拉电动化滞后很多年（3742-3743行）；Aerion 拟同策略做超音速商务机（3745行，时点预测记X2）。"
+    },
+    {
+      "claim_id": "C-GG-U0054-04",
+      "unit_id": "GG-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "算总时间账：安检与误点等间接时间会稀释速度提升的收益，18 小时行程中 6 小时间接时间时，缩短 4 小时好处不明显",
+      "quote": "其中六个小时是间接时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 3710,
+        "end_line": 3711,
+        "sha1": "6be484e4ec5a3f8babd817c5f82f0820ec3dad66",
+        "fingerprint": [
+          "间接时间",
+          "安检"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "间接时间稀释收益",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：9·11前提前20分钟可登机、后变相增加两小时致波音音速巡航机项目取消、协和终止（3712-3717行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0054",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "3749-3751行今日思考为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0054",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "Aerion AS2「预计2023年交付、可能成下一代民航样板」（3744-3746行）为2018时点预测，记X2；其高端切入策略已由卡3承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第032封信：垄断与巨变机理2卡+特斯拉案例1卡+间接时间1卡；9·11事件背景并入卡4。"
+}
