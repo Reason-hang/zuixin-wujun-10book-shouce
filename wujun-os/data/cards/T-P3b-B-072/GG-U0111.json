@@ -1,0 +1,210 @@
+{
+  "unit_id": "GG-U0111",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0111-01",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "把名字经公式变换成唯一编号可直接定址（23次查找变一次），但代价是99%以上的编号浪费、长名还会超出存储范围",
+      "quote": "就能直接找到",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7440,
+        "end_line": 7450,
+        "sha1": "f900150502cac649c7273a0810aa848b78d16f34",
+        "fingerprint": [
+          "编号",
+          "查找"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "直接定址与代价",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例：李=3500、强=4003→30000×3500+4003=105,004,003（7441行）；二分查找800万词需23次（7431行）。"
+    },
+    {
+      "claim_id": "C-GG-U0111-02",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "只保留编号尾数可省空间，尾数冲突时就近找备选空号——如千座火车卖八百票总能安排每个人就座",
+      "quote": "一定有办法安排每一个人就座",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7452,
+        "end_line": 7460,
+        "sha1": "a9d8a92624d4d7156d6d0a4cbcec282a2ff87156",
+        "fingerprint": [
+          "尾数",
+          "座位"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "尾数冲突就近安排",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0111-03",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "随机地给信息编号，重复的可能性最小；足够长的伪随机数使外人无法还原原信息而生成者可以——这就是数据加密与公开密钥的原理",
+      "quote": "重复的可能性最小",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7463,
+        "end_line": 7471,
+        "sha1": "8f1a40b34fc321feaef5e8c76ce53436dd7cdf15",
+        "fingerprint": [
+          "随机",
+          "加密"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "随机化与加密",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "公开密钥：不让对方知道怎么加密却能解密（7470-7471行）。"
+    },
+    {
+      "claim_id": "C-GG-U0111-04",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "比特币＝协议产生的随机数私钥，谁拿到谁拥有、丢了就不再是你的；公开密钥如验钞机可验真伪，协议如印钞机不可知",
+      "quote": "谁拿到它，就拥有了比特币",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7473,
+        "end_line": 7477,
+        "sha1": "0b3e887394219f57927ceb10a84fc4b00dbb6205",
+        "fingerprint": [
+          "私钥",
+          "验钞机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-1"
+      ],
+      "concept_key": "私钥公钥印钞验钞",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0111-05",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "从查找到比特币道理相通：原理搞懂了，一通百通——讲原理而非明天就用得上的实战技术，希望读者举一反三",
+      "quote": "原理搞懂了，一通百通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7481,
+        "end_line": 7481,
+        "sha1": "45f6d1c098b0776e39d50f0e4c6ae8ac84480f9d",
+        "fingerprint": [
+          "原理",
+          "一通百通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "讲原理一通百通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0111-06",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "遇到问题，解决问题——判断能解决就发挥主动性，这正是显示科班工程师水平的时候",
+      "quote": "遇到问题，解决问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7457,
+        "end_line": 7458,
+        "sha1": "9ac026e7e4fdad87c6d325e710540a6512da2a1d",
+        "fingerprint": [
+          "解决问题",
+          "科班"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "遇到问题解决问题",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0111-07",
+      "unit_id": "GG-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "随机性优于确定性提示：世界上很多事的好坏和我们想象不一样，且客观性不随好恶改变；技术无止境，对自己要求也不应有止境",
+      "quote": "技术无止境",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7485,
+        "end_line": 7487,
+        "sha1": "62674c1b6d4a17d5d91d73896c0eb6b1735ae0b5",
+        "fingerprint": [
+          "随机性",
+          "止境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "好坏不随好恶",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本周轨迹：查找成本从十多亿次降到几十次、再经随机化降到一次（7487行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0111",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7490-7491行正式回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第064封信：随机化与加密7卡。"
+}

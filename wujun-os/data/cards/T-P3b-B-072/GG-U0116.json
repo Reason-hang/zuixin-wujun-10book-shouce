@@ -1,0 +1,157 @@
+{
+  "unit_id": "GG-U0116",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0116-01",
+      "unit_id": "GG-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "悲观主义的根本原因是过分自信：对自身能力不切实际的判断与现实的反差，让人悲观起来——不高估自己者即使失败也不悲观",
+      "quote": "与现实的反差，让人悲观起来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7790,
+        "end_line": 7795,
+        "sha1": "b81cf37a3a195fc03426c65753f35fde1319518a",
+        "fingerprint": [
+          "过分自信",
+          "反差"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "自信反差生悲观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "实验：多数人自信能装回机械装置、实际比例很低；事前自评与成败无关，事后高估者难度打分猛增（7792-7795行）；花花公子封面照vs校园女生的幻想反差（7797-7801行）。"
+    },
+    {
+      "claim_id": "C-GG-U0116-02",
+      "unit_id": "GG-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "人越往上走、眼界越开阔，越知道自己能力的局限，越谦逊越有敬畏之心",
+      "quote": "越知道自己能力的局限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7811,
+        "end_line": 7811,
+        "sha1": "9fb42897a3b9463862ed422d0159ae3b850947c8",
+        "fingerprint": [
+          "眼界",
+          "敬畏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "眼界开谦逊豁达",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：十年寒窗+好大学+学霸不算人生资本，连状元也不过如此（7806-7809行）；互引《硅谷来信》第050封「这个世界没有欠你什么」。"
+    },
+    {
+      "claim_id": "C-GG-U0116-03",
+      "unit_id": "GG-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "坏消息总是不断被放大、传媒越发达越明显：百年一遇洪水频发只因中国占全球长河二十条且过去通信不发达无人知",
+      "quote": "坏消息总是不断地被放大的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7812,
+        "end_line": 7819,
+        "sha1": "e130b6cf3fee3e4c5e0119a04a9a8d2e7eb4f0f7",
+        "fingerprint": [
+          "坏消息",
+          "放大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "坏消息放大效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：驻马店淮河洪灾死亡超近40年洪涝总和却无人知晓（7815行）；女孩看空难报道上飞机发抖（7818行）。"
+    },
+    {
+      "claim_id": "C-GG-U0116-04",
+      "unit_id": "GG-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "从信息论讲：讲众人都知道的事信息量为零、讲意想不到的事信息量巨大",
+      "quote": "意想不到的事情，信息量巨大",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7821,
+        "end_line": 7825,
+        "sha1": "3bf0b8f84a95934e5339ac6677ecb2df02ad505f",
+        "fingerprint": [
+          "信息量",
+          "与众不同"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "惊人语信息量大",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "学界生态：物理新锐「大家说一你一定要说二，逻辑站得住即可」（7830行）；世行经济学家「永远能找到支持自己观点的数据」（7828行）；学术界对错误容忍高、对拍马屁嗤之以鼻（7827行）。"
+    },
+    {
+      "claim_id": "C-GG-U0116-05",
+      "unit_id": "GG-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "悲观的结论常在逻辑上很严密，但这并非意味着所警示的事情会发生",
+      "quote": "所警示的事情会发生",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7834,
+        "end_line": 7840,
+        "sha1": "9abb49846681f061035546bea9c0d239df54d84f",
+        "fingerprint": [
+          "逻辑",
+          "警示"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "逻辑严密不必然",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "警示的意义与警示成真是两回事（7840行）；一直说中国环境能改善的教授提不上终身教职（7841行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0116",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7844-7847行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第066封信：悲观主义成因5卡（过分自信/坏消息放大/信息量定律/逻辑不必然）。"
+}

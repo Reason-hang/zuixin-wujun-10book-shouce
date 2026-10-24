@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0102",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0102-01",
+      "unit_id": "GG-U0102",
+      "speaker": "吴军本人",
+      "claim_text": "没有绝对的最好：算法的最好总有附加条件——快排通常最好但极端情况退化为N平方，归并最坏仍保证N乘logN，一得必有一失",
+      "quote": "没有绝对的最好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6772,
+        "end_line": 6775,
+        "sha1": "a94908e91811bd7aea9e97325cd1071ecadeca89",
+        "fingerprint": [
+          "最好",
+          "通常"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "没有绝对最好",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "喻：东三环三元桥线通常40分钟、出意外2小时；东四环二高速通常慢15分钟、极端快半小时（6773-6774行）；快排与归并的最坏情况对比（6804-6805行）。"
+    },
+    {
+      "claim_id": "C-GG-U0102-02",
+      "unit_id": "GG-U0102",
+      "speaker": "吴军本人",
+      "claim_text": "快排快的原理仍是少做事情：先划分数线把人分堆、再各堆内挑尖子，比每堆各自挑尖子再互比更省——枢值逐层细分",
+      "quote": "先划出几个分数线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6790,
+        "end_line": 6793,
+        "sha1": "9dc17d4df3c4878787ebc16e78a4eebaf709d52c",
+        "fingerprint": [
+          "分数线",
+          "尖子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "快排先分堆",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "机制：随机枢值53分成两堆、四堆八堆递归（6781-6786行）；复杂度与归并同量级N·logN，工程上快约2-3倍（6787/6797行）。"
+    },
+    {
+      "claim_id": "C-GG-U0102-03",
+      "unit_id": "GG-U0102",
+      "speaker": "吴军本人",
+      "claim_text": "组织与社会的管理同构于排序：效率最高的办法是对人作区分，效率最低的办法是刻意追求所有人一律平等、不作区分",
+      "quote": "对每一个人作一些区分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6794,
+        "end_line": 6795,
+        "sha1": "9de8ca142b4c4a50ebdc09dbbbe02e12b1fc3625",
+        "fingerprint": [
+          "区分",
+          "平等"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D05-1"
+      ],
+      "concept_key": "区分提效",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：学生水平接近老师好教，资源不足时按成绩初步划分有道理；从0分到100分都有的学校教起来困难、须多投入资源（6795行）。"
+    },
+    {
+      "claim_id": "C-GG-U0102-04",
+      "unit_id": "GG-U0102",
+      "speaker": "吴军本人",
+      "claim_text": "公司靠层级（如枢值分层）才有效率：底层员工不该指望政策照顾底层，而要思考如何进入更高层级",
+      "quote": "必须具有高层思维",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6797,
+        "end_line": 6802,
+        "sha1": "c729a386b7e729cc3a36022511bc8d1fd4569c24",
+        "fingerprint": [
+          "层级",
+          "效率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D07-2"
+      ],
+      "concept_key": "层级效率与高层思维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：美国政府社会讲民主平等、公司从不讲这套（6798行）；无效率组织竞争中被淘汰、公司死了任何理想都成泡影（6800行）；底层工资与总经理差不多的公司趁年轻离开（6802行）。"
+    },
+    {
+      "claim_id": "C-GG-U0102-05",
+      "unit_id": "GG-U0102",
+      "speaker": "吴军本人",
+      "claim_text": "N个随机数的排序复杂度不可能低于N乘logN——这是数学给出的极限边界，别在这方面瞎费工夫；要在边界内做事情",
+      "quote": "不可能比N乘以log（N）更低",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6807,
+        "end_line": 6808,
+        "sha1": "1c3251214dc031560ff7fd8c9bed0572405bcfb0",
+        "fingerprint": [
+          "极限",
+          "边界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "排序数学极限",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：不信数学证明的学生=痴迷永动机者，芒格说应将其排除在组织之外（6810-6811行）；互引U0013三条边的理论极限。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0102",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6814-6817行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第059封信：快排方法论5卡。"
+}

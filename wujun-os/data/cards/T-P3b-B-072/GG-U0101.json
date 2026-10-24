@@ -1,0 +1,151 @@
+{
+  "unit_id": "GG-U0101",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0101-01",
+      "unit_id": "GG-U0101",
+      "speaker": "吴军本人",
+      "claim_text": "提高效率的本质是少做事情：慢是因为做了无数无用功；效率＝产出÷所做的事情——人的产出难提高，但所做的事情可以减少",
+      "quote": "让计算机少做事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6732,
+        "end_line": 6732,
+        "sha1": "8751af6e7ba7abee509171685d77d03103fdf3f6",
+        "fingerprint": [
+          "无用功",
+          "效率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-1"
+      ],
+      "concept_key": "少做事提效率",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "自述：并不是我效率高，而是做事情比大家少（6751行）。"
+    },
+    {
+      "claim_id": "C-GG-U0101-02",
+      "unit_id": "GG-U0101",
+      "speaker": "吴军本人",
+      "claim_text": "归并排序的分治思想：自顶向下细分、自底向上合并——分组排序再合并、逐层递归",
+      "quote": "自顶向下细分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6734,
+        "end_line": 6742,
+        "sha1": "00abea7bc1ed2ebfeb7a91af98f1880a5c270712",
+        "fingerprint": [
+          "归并排序",
+          "合并"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "归并排序分治",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对比：N=1亿时N平方=1亿亿 vs N·logN=23亿（6744-6747行）；400万倍≈毛笔长度与京沪距离之差（6747行）；上亿行日志排序是常态（6749行）；早期科学家受生活经验所限也只有冒泡/插入两种O(N平方)排序（6725行）。"
+    },
+    {
+      "claim_id": "C-GG-U0101-03",
+      "unit_id": "GG-U0101",
+      "speaker": "吴军本人",
+      "claim_text": "节省20%的计算量没有意义，省三五倍也没有意义——要省就省成千上万倍",
+      "quote": "要省就干脆多省一点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6731,
+        "end_line": 6731,
+        "sha1": "73270495e4ad6a59aeb9ced426b75d0da2b657f1",
+        "fingerprint": [
+          "成千上万倍",
+          "省"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-1"
+      ],
+      "concept_key": "省就省万倍",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0100卡5高德纳量级原则。"
+    },
+    {
+      "claim_id": "C-GG-U0101-04",
+      "unit_id": "GG-U0101",
+      "speaker": "吴军本人",
+      "claim_text": "工程师水平差一级、贡献差十倍还不止：智能时代本事差一点效果差几百万倍——改行也要把自己当科班出身要求",
+      "quote": "贡献可能就差出10倍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6752,
+        "end_line": 6758,
+        "sha1": "66d5419fcdc02e5f47d46748460647e7a02fa2c4",
+        "fingerprint": [
+          "工程师",
+          "专业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "专业差距智能时代放大",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "梯度：农耕无力气者也有1/3壮劳力产出、工业手工约机器1%、智能时代差百万倍（6754-6758行）；不学靠苦想需十年、学习加练习一个月（6759行）；快排在计算机诞生13年后才出现（6760行）。"
+    },
+    {
+      "claim_id": "C-GG-U0101-05",
+      "unit_id": "GG-U0101",
+      "speaker": "吴军本人",
+      "claim_text": "把复杂问题分解成很多简单的问题、一个个解决，最后比直接解决复杂问题省很多时间",
+      "quote": "分解成很多简单的问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6763,
+        "end_line": 6763,
+        "sha1": "b174786e6e079d63e6704d24064e794665570381",
+        "fingerprint": [
+          "分解",
+          "复杂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "化整为零事半功倍",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概念键复用U0061卡3（跨批同键，P4归并）；归并排序即此理的算法实现，互引卡2。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第058封信：效率本质5卡（排序例子由卡2承载）。"
+}

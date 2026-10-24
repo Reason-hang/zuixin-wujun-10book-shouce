@@ -1,0 +1,156 @@
+{
+  "unit_id": "GG-U0113",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0113-01",
+      "unit_id": "GG-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "Google的哲学：相信机器、相信算法、相信自动化最终比人工好",
+      "quote": "用技术修补技术",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7576,
+        "end_line": 7584,
+        "sha1": "9a41d8dedb2203fde7c0c6e5d0702cbd36625af1",
+        "fingerprint": [
+          "自动化",
+          "机器"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "用技术修补技术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：无人驾驶0→99%用六年、99%→99.99%又六年，最后1%也不用人工（7580行）；文化对照：中庸vs一条道走到黑（7581-7582行）；多元文化的价值=知道世上有不一样的想法（7586行）。"
+    },
+    {
+      "claim_id": "C-GG-U0113-02",
+      "unit_id": "GG-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "最重要的见识是真正理解摩尔定律与指数增长：我们认为做不到的事对Google不是问题——环境局限见识，像数不过三的非洲酋长",
+      "quote": "这就是有见识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7604,
+        "end_line": 7608,
+        "sha1": "49acf24aeca82903aebf58e658d460b2b5ccc71f",
+        "fingerprint": [
+          "摩尔定律",
+          "指数增长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "指数增长是见识",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：Google保存一切索引一切、2012-2014年分析全部英语句子（7597行）；《从一到无穷大》棋盘稻谷与梵塔（7606行）；每年7%复合增长多数人无感（7607行）；「时间的朋友」即对指数增长的体会（7608行）。"
+    },
+    {
+      "claim_id": "C-GG-U0113-03",
+      "unit_id": "GG-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "解决空间与时间矛盾的三法：搞清主要矛盾（实时场景以空间换时间）；看成本做对比提高整体性价比；两者常非完全矛盾",
+      "quote": "拿时间来换空间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7618,
+        "end_line": 7624,
+        "sha1": "d1e364fb6d2cdece3f0cdc6ae165371944edd644",
+        "fingerprint": [
+          "空间",
+          "时间"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "时空权衡三法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "延伸：相对论里时空本是一回事（7615行）；手机预算例（7620行）。"
+    },
+    {
+      "claim_id": "C-GG-U0113-04",
+      "unit_id": "GG-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "索引不需要编码分类——索引就是为取代分类而生的，而且是计算机与日常工作中都普适的做法",
+      "quote": "索引甚至就是为了取代分类的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7631,
+        "end_line": 7632,
+        "sha1": "d01e21295f59c45545af940b6f4425f391be2f78",
+        "fingerprint": [
+          "索引",
+          "分类"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "索引取代分类",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0113-05",
+      "unit_id": "GG-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "YouTube难盈利：与Netflix共占全球互联网流量约4/7成本极高，且不作恶给用户5秒跳过广告致广告收入不高",
+      "quote": "视频网站要想盈利其实很难",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7640,
+        "end_line": 7642,
+        "sha1": "39c72cd32ec9a5a2f1ce30c08388f37b11c2d2d0",
+        "fingerprint": [
+          "YouTube",
+          "流量"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "视频站盈利难",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0113",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（7567-7568/7588-7593/7610-7611/7626-7627/7634-7635/7644-7645行）为读者来信，按X7处置；判断领导方法引导读旧信与课程（7650行）无独立卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问16：技术文化与思维5卡。"
+}

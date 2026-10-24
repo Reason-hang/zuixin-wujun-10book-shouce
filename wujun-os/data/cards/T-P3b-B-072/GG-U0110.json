@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0110",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0110-01",
+      "unit_id": "GG-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "凡事都有成本：建索引的空间成本约为原容量的50%，时间成本是内容变化需不断重建索引导致变慢——有一利常有一弊",
+      "quote": "凡事都是有成本的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7363,
+        "end_line": 7368,
+        "sha1": "91a5d4088f3179513445e4d94bfc92f43c895bef",
+        "fingerprint": [
+          "索引",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D04-1"
+      ],
+      "concept_key": "索引的两面成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：500G硬盘留160G放索引；内存被占则软件成倍变慢（7365-7367行）；英国不到半成电脑跑得动Vista全部功能、引发集体诉讼（7369行）。"
+    },
+    {
+      "claim_id": "C-GG-U0110-02",
+      "unit_id": "GG-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "全网内容不是我们产生的、除搜索别无选择故搜索是刚需；自己电脑的内容自己产生、不搜索通常也能找到——本机搜索是伪刚需",
+      "quote": "不搜索通常也能找到",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7371,
+        "end_line": 7375,
+        "sha1": "95877dd272911862fc192e8e0e5df81883f2fe01",
+        "fingerprint": [
+          "刚需",
+          "搜索"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "本机搜索伪刚需",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0110-03",
+      "unit_id": "GG-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "Google建一次索引为亿万人重复服务、边际成本被摊薄到可忽略；微软本机索引成本全由个人承担且无利可图",
+      "quote": "边际成本就可以忽略不计了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7387,
+        "end_line": 7392,
+        "sha1": "df83cabc661f775587ce22a4c0a2a1e49345fd8f",
+        "fingerprint": [
+          "边际成本",
+          "盈利"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "索引成本谁摊薄",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：Google自己推出的Desktop Search同样少人用（7394行）；成败不仅看技术还要看商业结果（7391行）。"
+    },
+    {
+      "claim_id": "C-GG-U0110-04",
+      "unit_id": "GG-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "看到对手有什么、自己没有就要去做，是被对手牵着鼻子走",
+      "quote": "典型的被对手牵着鼻子走",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7377,
+        "end_line": 7382,
+        "sha1": "145ce4b1c37491fcfd7b9aaa441b7fa387c3c2af",
+        "fingerprint": [
+          "初心",
+          "对手"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "别被对手牵鼻子",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "微软懂操作系统应把资源留给用户，但看到Google有搜索就忍不住做（7379-7381行）；个人版：王家太太有LV我也要有、别人孩子学奥数我家也学（7406行）。"
+    },
+    {
+      "claim_id": "C-GG-U0110-05",
+      "unit_id": "GG-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "刚需有层级：从完全不需要到绝对刚需中间有很多过渡级别",
+      "quote": "不等于说充电宝是刚需",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7384,
+        "end_line": 7385,
+        "sha1": "172b596ddde9fa30be1b1dc74fba5b90c15d2e8d",
+        "fingerprint": [
+          "刚需",
+          "充电宝"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "刚需层级论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0110-06",
+      "unit_id": "GG-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "简单的产品有时反而更受大家喜爱——做了大量减法的Windows 7成为最受欢迎的系统，善于做减法很重要",
+      "quote": "善于做减法很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7408,
+        "end_line": 7408,
+        "sha1": "13fe8c32d2d28151dc1bc3e120dab5bf41c3447e",
+        "fingerprint": [
+          "减法",
+          "简单"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "减法出好产品",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：Vista仅约2%份额、八年后的Win7仍占42%（7398-7399行，时点数据留痕）；Win7把浪费资源的Vista功能屏蔽或拿掉（7396行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0110",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "《时代周刊》十大失败科技产品解读（Gateway/HD-DVD/Vonage/Zune/铱星/赛格威等，7409-7411行）为产品史例汇编，记X4；其商业判断已由6卡承载"
+    },
+    {
+      "unit_id": "GG-U0110",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7413-7414行正式回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第063封信：Vista案例的商业逻辑6卡。"
+}

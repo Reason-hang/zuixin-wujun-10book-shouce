@@ -1,0 +1,212 @@
+{
+  "unit_id": "GG-U0108",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0108-01",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "计算机里所有的东西都被编号（内存格、接口、设备、数据、指令）——编号代替实际对象，机器的操作绕不过编号（地址）",
+      "quote": "把所有的东西进行编号",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7202,
+        "end_line": 7203,
+        "sha1": "4f32cf53cd19193a7532564b986efba34214641e",
+        "fingerprint": [
+          "编号",
+          "地址"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "Addressing编号",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "来源：史元春教授指出Addressing被多数从业者低估（7201行）。"
+    },
+    {
+      "claim_id": "C-GG-U0108-02",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "人靠特质区分和查找目标（大脚、歪嘴、白色糖盒子），机器靠编号寻址（第三房间第六家具第九位置）——两种世界观不同",
+      "quote": "编号代替了实际的对象",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7207,
+        "end_line": 7216,
+        "sha1": "f826b492aaa71003fcd20d55e4e10af8ed8c7e44",
+        "fingerprint": [
+          "特质",
+          "编号"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "人特征机编号",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "风险面：机器不核对内容、拿错也照用=系统宕机（7216行）；人类命名史：因纽特人以特质起名（7207-7208行）。"
+    },
+    {
+      "claim_id": "C-GG-U0108-03",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "当一个问题的规模大到一定程度之后，它就不再是同类小问题的放大，而变成了另一个问题——解决方法需要完全不同",
+      "quote": "就变成了另一个问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7262,
+        "end_line": 7262,
+        "sha1": "6bbd8ed501d3c220f211f594e065405c5dfa920c",
+        "fingerprint": [
+          "规模",
+          "问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "规模质变律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0108-04",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "图灵超出前人之处：把计算从目的变成手段——用计算实现复杂功能才是目的，为此需把所有对象编上号",
+      "quote": "把计算当作手段",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7222,
+        "end_line": 7223,
+        "sha1": "b7f287ff970c256b7bc48e5e52aa8371310c4d6c",
+        "fingerprint": [
+          "图灵",
+          "手段"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "计算是手段",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "好处：可用数学模型描述机器，如同用变量x,y,z描述公式（7228-7229行）。"
+    },
+    {
+      "claim_id": "C-GG-U0108-05",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "按顺序扫一遍看似慢、实则常是人能做到最快的查找——找过的地方争取不看第二遍（上帝喜欢笨人的例证）",
+      "quote": "找过的地方就要争取不看第二遍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7237,
+        "end_line": 7240,
+        "sha1": "2632d38a0e881a80123f2e308b5fd6a90f2b89ee",
+        "fingerprint": [
+          "顺序",
+          "笨人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-1"
+      ],
+      "concept_key": "顺序查找的价值",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "应用：全文替换「北京→上海」只能顺序查找（7245行）。"
+    },
+    {
+      "claim_id": "C-GG-U0108-06",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "二分查找每次折半（1-1000猜数次、13亿身份证约31次即中），但前提是数据先排序——排序有成本，查找次数够多才合算",
+      "quote": "每次减少一半",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7246,
+        "end_line": 7254,
+        "sha1": "eb8a5db736463ca61beba3abf34dc9b2393ccd39",
+        "fingerprint": [
+          "二分查找",
+          "排序"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "二分查找与排序成本",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "细节：字典查找法用久者比教科书二分更快（7243行）；2的十次方=1024>1000（7250行）；静态数据（学籍/历史营收）排序才值（7255行）。"
+    },
+    {
+      "claim_id": "C-GG-U0108-07",
+      "unit_id": "GG-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "凡事都有成本，一种方法好不好是有前提条件的；世界大部分事情不是一成不变的，很难处理一次就一劳永逸",
+      "quote": "一种方法好不好，是有前提条件的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7264,
+        "end_line": 7266,
+        "sha1": "21d9ac887dd906e800ccd4829b0e804dc7238b8d",
+        "fingerprint": [
+          "成本",
+          "前提"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "方法好坏有前提",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0108",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7268-7269行思考题/正式回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第061封信：Addressing与查找五概念+三结论共7卡。"
+}

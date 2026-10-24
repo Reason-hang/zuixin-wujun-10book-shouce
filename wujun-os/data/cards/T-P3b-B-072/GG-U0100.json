@@ -1,0 +1,184 @@
+{
+  "unit_id": "GG-U0100",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0100-01",
+      "unit_id": "GG-U0100",
+      "speaker": "吴军本人",
+      "claim_text": "计算机科学的基本做事原则：先构建可比较的理想平台、明确公平的比较标准（事先讲好游戏规则）、确定基线，再开始研究对比优劣",
+      "quote": "事先要讲好游戏规则",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6649,
+        "end_line": 6650,
+        "sha1": "7675c82d3c92faff295498c5a1e897b94eda90ad",
+        "fingerprint": [
+          "游戏规则",
+          "基线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "先定规则再比较",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "适用于所有科学但非人的自发性方法，计算机界花20年才认识到（6650行）。"
+    },
+    {
+      "claim_id": "C-GG-U0100-02",
+      "unit_id": "GG-U0100",
+      "speaker": "吴军本人",
+      "claim_text": "讲课不怕不够深、怕不够浅：诺奖得主的技术报告都非常浅，稍有专业背景就能听懂而回味其妙——把知识往浅里讲才是真功夫",
+      "quote": "而担心讲得不够浅",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6645,
+        "end_line": 6646,
+        "sha1": "9edbcf91259d6ab92bdfa4f9d27c7f33d652c827",
+        "fingerprint": [
+          "诺贝尔奖",
+          "浅"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-1"
+      ],
+      "concept_key": "往浅处讲才是深功",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0100-03",
+      "unit_id": "GG-U0100",
+      "speaker": "吴军本人",
+      "claim_text": "算法是在翻译需求为程序的过程中提炼出的高效且不断被验证的标准流程；软件的模块就是一个个算法——算法构成计算机科学的基础",
+      "quote": "不断被验证过的标准流程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6653,
+        "end_line": 6655,
+        "sha1": "36bca5874380c102d5e38f7d0515a21f38bd2db8",
+        "fingerprint": [
+          "算法",
+          "标准流程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "算法即标准流程",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "喻：如盖房子打地基、砌墙、上梁的标准工序（6655行）；计算机思维的本质是翻译（史元春，6652行）。"
+    },
+    {
+      "claim_id": "C-GG-U0100-04",
+      "unit_id": "GG-U0100",
+      "speaker": "吴军本人",
+      "claim_text": "人与人的水平差别是数量级的：算法上差一点，执行效率容易差出千万倍——对账程序用笨办法，数据量大十倍、时间多几十倍",
+      "quote": "效率很容易差出千万倍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6656,
+        "end_line": 6658,
+        "sha1": "220b0df9e09f245ccfd39fa917ec8d5dc61fd2c4",
+        "fingerprint": [
+          "数量级",
+          "效率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-1"
+      ],
+      "concept_key": "算法数量级差距",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教训：大学实习的财务软件对账从几秒变半小时，改十几行程序即解决（6657-6658行）；人对毫秒微秒无感但数据量大时累计差千倍（6661行）；Google工程师无意多用十倍计算资源也时有发生（6662行）；互引朗道等级。"
+    },
+    {
+      "claim_id": "C-GG-U0100-05",
+      "unit_id": "GG-U0100",
+      "speaker": "转述·第三方",
+      "claim_text": "高德纳比较算法的三原则：比数据量趋近无穷大的情况；只看随数据量变化的因素、忽略不变的常数；量级相当即视为一样好",
+      "quote": "不必考虑前面那个不变的常数",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6681,
+        "end_line": 6688,
+        "sha1": "ed3b1e624b30b1e12cbb972858aaa2521ad8fec6",
+        "fingerprint": [
+          "高德纳",
+          "量级"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "高德纳复杂度三原则",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "背景：哈特马尼斯与斯坦恩斯1965年提出复杂度概念获图灵奖（6674行）；提升一倍速度的论文无法发表（6688行）；量级如芝麻与西瓜（6686行，互引第005封）。"
+    },
+    {
+      "claim_id": "C-GG-U0100-06",
+      "unit_id": "GG-U0100",
+      "speaker": "吴军本人",
+      "claim_text": "理论家的第一步是过滤次要因素、构建理想环境以抓住主要矛盾：伽利略牛顿忽略阻力、波义耳构造理想气体",
+      "quote": "过滤掉所有次要的因素",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6692,
+        "end_line": 6697,
+        "sha1": "1621f65d7766e66e136e03f2579700243733bade",
+        "fingerprint": [
+          "理想",
+          "次要"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "理想化抓主要矛盾",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "反例：亚里士多德未滤除空气阻力得出重物下落更快的荒唐结论（6693行）；高德纳高出同时代人在于构建出计算机科学的理想状态（6696行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0100",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6699-6702行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第057封信：算法观6卡。"
+}

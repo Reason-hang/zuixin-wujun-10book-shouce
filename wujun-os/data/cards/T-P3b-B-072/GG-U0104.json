@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0104",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0104-01",
+      "unit_id": "GG-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "抽象出本质的四要点：对知识体系有完整深刻理解才能抓脉络",
+      "quote": "事物的本质永远是简单明了的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6904,
+        "end_line": 6912,
+        "sha1": "6bee6abc695861e6a7de356e79c08cc6577611ba",
+        "fingerprint": [
+          "抽象",
+          "本质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "抽象四要点",
+      "ability_tags": [
+        "学",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0104-02",
+      "unit_id": "GG-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "按一定原则分类是提高效率的思路（别把所有事搅在一起）；效率与公平有时冲突",
+      "quote": "效率永远提不上去",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6927,
+        "end_line": 6929,
+        "sha1": "3a65db46969e1e7c34e74edfeb5ae431803fa617",
+        "fingerprint": [
+          "分类",
+          "公平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "分类提效与公平代价",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0102卡3（区分提效）。"
+    },
+    {
+      "claim_id": "C-GG-U0104-03",
+      "unit_id": "GG-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "做减法不等于做事不主动，关键是把事情做好而不是做得多：交代的任务120%完成，5个50分的工作不如一个100分",
+      "quote": "把事情做好，而不是做得多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6947,
+        "end_line": 6953,
+        "sha1": "ccfcdd0f38f8cf6015c0b06faaf8337324d8b4e4",
+        "fingerprint": [
+          "减法",
+          "担子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "做好胜过多做",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "挑担喻：分担20斤OK，动作不对反添20斤只能请走（6949-6950行）；新人多揽两件事要多花3倍时间因脑筋切换（6954行）；杰夫·迪恩近20年只做个位数项目但每个都改变世界（6956行）；礼物同理：宁送一个记住一辈子的，不送一堆廉价的（6957行）。"
+    },
+    {
+      "claim_id": "C-GG-U0104-04",
+      "unit_id": "GG-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "学算法《算法导论》一本书足矣；计算机专业书最好看英文教材的翻译版",
+      "quote": "一本书足矣",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6964,
+        "end_line": 6965,
+        "sha1": "8a9919ca8b1f09bb66ef75197b6eada6dd5f2ea7",
+        "fingerprint": [
+          "算法导论",
+          "教材"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "算法导论足矣",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0104-05",
+      "unit_id": "GG-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "检验软实力：实习是一个好的途径；大学三件事（谈一次恋爱、交挚友、完成一件自己想做的事）与五种训练都是成为合格社会人的途径",
+      "quote": "实习是一个好的途径",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6972,
+        "end_line": 6974,
+        "sha1": "3e07fe36b22a7c0a5a74575ce024a475876bed12",
+        "fingerprint": [
+          "实习",
+          "社会人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-2"
+      ],
+      "concept_key": "软实力检验靠实习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0068（五种训练）与《硅谷来信》（大学三件事）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0104",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问与读者分享原文（驰驰/街角/anyway提问，余小生/古小千的思考题分享，6899/6913-6940/6942-6943/6959-6960/6967-6968行）按X7处置"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问15：吴军答复5卡。"
+}

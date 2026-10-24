@@ -1,0 +1,219 @@
+{
+  "unit_id": "GG-U0115",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0115-01",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "悲观主义（连同怀疑主义）害死人：让人不能专注于该干的事情、完全走失方向，最后一事无成",
+      "quote": "不能专注于做一个人该干的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7722,
+        "end_line": 7722,
+        "sha1": "19434d18f2d2dbe6be9eb6fd91b1dc46b587bcad",
+        "fingerprint": [
+          "悲观主义",
+          "怀疑主义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "悲观主义之害",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0115-02",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "200年来耸人听闻的悲观预言全都来了又走：马尔萨斯饥荒、石油20年用光、酸雨、艾滋病、全球变暖、AI恐惧",
+      "quote": "全都来了又走了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7741,
+        "end_line": 7746,
+        "sha1": "c68d9a94ebb612068cf347f4f1c6353abe4d0657",
+        "fingerprint": [
+          "恐慌",
+          "马尔萨斯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "恐慌来了又走",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "佐证：伦敦马粪堆积如山的担忧成无稽之谈（7746行）；末日博士鲁比尼再预测四五次全错、2008那次是蒙中（7748-7749行）。"
+    },
+    {
+      "claim_id": "C-GG-U0115-03",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "悲观的预言更有市场：悲剧才有震撼力、抓得住人心——说世界变好被嘲笑天真麻木，说大难将至说不定得诺贝尔奖",
+      "quote": "永远比乐观主义的书排名靠前",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7752,
+        "end_line": 7754,
+        "sha1": "9a4e56b2b8c86e48ce2cb749ee518cebdd86a575",
+        "fingerprint": [
+          "悲剧",
+          "哈耶克"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "悲观更有市场",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引哈耶克「对进步的善行怀有信心，反而成了心灵浅薄的标志」（7754行）；哈佛经济学家西蒙因乐观被骂老顽固（7753行）。"
+    },
+    {
+      "claim_id": "C-GG-U0115-04",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "悲观让人乱方寸：对未来的看法决定做事方法——若明天是世界末日，人会挥霍、泄密、放纵甚至犯罪",
+      "quote": "人难免会每天患得患失",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7758,
+        "end_line": 7766,
+        "sha1": "6b7591912ee9bb7a7ecc2366de3efba0e17250bc",
+        "fingerprint": [
+          "末日",
+          "患得患失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D03-1"
+      ],
+      "concept_key": "悲观乱方寸",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0115-05",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "鲁比尼2007年卖掉95%股票躲过一劫，却错过了美国历史上最大的股市增长",
+      "quote": "才是他获得高回报最根本的原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7767,
+        "end_line": 7771,
+        "sha1": "1d52416d8013058f17fb18036e6137685c0849fd",
+        "fingerprint": [
+          "死多头",
+          "鲁比尼"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-1"
+      ],
+      "concept_key": "乐观者得复利",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "同理：对中国有信心的是楼市死多头、相信污染能解决的选择留在北京（7771行）；美股已近2007高点两倍（7768行，时点留痕）。"
+    },
+    {
+      "claim_id": "C-GG-U0115-06",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "悲观主义本身是毒素、毒害灵魂：恺撒讲勇士只死一次、懦夫在倒下以前已经死了很多次",
+      "quote": "勇士只死一次",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7774,
+        "end_line": 7774,
+        "sha1": "092cbb48d01756d6d3dd6f0d88ba8010f4e52afc",
+        "fingerprint": [
+          "毒素",
+          "懦夫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "悲观是毒素",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "恺撒语为转述（7774行）。"
+    },
+    {
+      "claim_id": "C-GG-U0115-07",
+      "unit_id": "GG-U0115",
+      "speaker": "吴军本人",
+      "claim_text": "觉得学校教的东西没用、打算退学自己学，是典型的悲观主义表现",
+      "quote": "这也是典型的悲观主义的表现",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7772,
+        "end_line": 7773,
+        "sha1": "1a5bdc71cd830f5cb8807d9ff204f240da7bb782",
+        "fingerprint": [
+          "退学",
+          "悲观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-2"
+      ],
+      "concept_key": "弃学念头是悲观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0067卡1（不建议退学创业）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0115",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7777-7780行思考题/本周回信为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0115",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "全球变暖争论与气候科学评价（7731-7740行）属宏观科学议题背景，记X6；其认知论判断已由卡2承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第065封信：反悲观主义之危害7卡。"
+}

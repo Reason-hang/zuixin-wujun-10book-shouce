@@ -1,0 +1,219 @@
+{
+  "unit_id": "GG-U0105",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0105-01",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "工程师的直觉：没有数据之前不要轻易给出结论——Google面试产品经理的高尔夫球题，看的是遵循解题思路还是凭直觉瞎猜",
+      "quote": "在没有数据之前不要轻易给出结论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6991,
+        "end_line": 6993,
+        "sha1": "afbb779bee59b15876ead1959ce3c7fa05301a72",
+        "fingerprint": [
+          "高尔夫球",
+          "直觉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-2"
+      ],
+      "concept_key": "无数据不结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "解法：球径4厘米按立方体码放、15平米高3米会议室约70万个（6992行）。"
+    },
+    {
+      "claim_id": "C-GG-U0105-02",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "人在公司的成就＝成功率×事情的量级×做事的速度——要不断学习、转变角色，提高所做事情的量级",
+      "quote": "事情的量级x做事的速度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7004,
+        "end_line": 7004,
+        "sha1": "614f53103a54bb65bf68bf1322e8fe493cd61941",
+        "fingerprint": [
+          "成就",
+          "量级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "成就公式",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引朗道等级与工程师五级。"
+    },
+    {
+      "claim_id": "C-GG-U0105-03",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "人接受信息的带宽很窄、难以并行：一件事一件事地做不要并行处理；做事不在于开了多少个头，而在于结了多少次尾",
+      "quote": "而在于结了多少次尾",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7063,
+        "end_line": 7066,
+        "sha1": "f6c423f04cc4859d39f5afaab5b73f44e1112ffa",
+        "fingerprint": [
+          "并行",
+          "带宽"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "串行与善终",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "推论：做事傻一点毕竟有所得；高估能力耍小聪明最后都没有结果（7066行）；与U0049笨人卡互引。"
+    },
+    {
+      "claim_id": "C-GG-U0105-04",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "一生要做五件事：恋爱结婚生子；把兴趣爱好提升到极致；回馈要行动不止有心；有一个信仰；留下遗产",
+      "quote": "因为你的到来，这个世界有何不同",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7067,
+        "end_line": 7072,
+        "sha1": "fe71303b1f99a7f8baf7fb18d73670f1885fefbb",
+        "fingerprint": [
+          "五件事",
+          "遗产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "一生五件事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0105-05",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "超越免费六法：稀缺性、时效性、个性化、可用性（易理解性）、可靠性、数据黏性",
+      "quote": "然后超越那个逻辑",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7073,
+        "end_line": 7082,
+        "sha1": "6050cdf314fa87be61800d7d03c6822a6216a912",
+        "fingerprint": [
+          "超越免费",
+          "稀缺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-1"
+      ],
+      "concept_key": "超越免费",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：排队买iPhoneX（稀缺）、花钱看直播（时效）、换运营商顾虑数据（黏性）；把事情解释清楚本身就是赚钱的生意（7079行）。"
+    },
+    {
+      "claim_id": "C-GG-U0105-06",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "重要的是每用户平均收入（ARPU）而非关注数：廉价关注不值钱，能提高ARPU值才是真本事",
+      "quote": "能提高ARPU值才是真本事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7083,
+        "end_line": 7090,
+        "sha1": "c94a7093277e832b1ec90618c1dd058bc78da299",
+        "fingerprint": [
+          "ARPU",
+          "关注"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-1"
+      ],
+      "concept_key": "ARPU真本事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：苹果用户约两年一换机ARPU超300美元；莱卡不再与日系拼价格、转而培养使用者水平而起死回生（7086-7088行）。"
+    },
+    {
+      "claim_id": "C-GG-U0105-07",
+      "unit_id": "GG-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "在边界里做事情适用于所有工程领域乃至经济学——先找极限再在极限内找具体问题的答案，是事半功倍的方法",
+      "quote": "事半功倍的方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6997,
+        "end_line": 7001,
+        "sha1": "edb6f6e248da52b2783c0fb3f2f672668db4f043",
+        "fingerprint": [
+          "边界",
+          "极限"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "边界内做事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "复盘新增概括：图灵先问「数学问题是否都有明确答案」（6998行）；宣布极限是工程师的福气，免得为不可能的事浪费时间（6996行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0105",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "中美生活习惯差异六条（7091-7098行）为文化比较叙述，记X4"
+    },
+    {
+      "unit_id": "GG-U0105",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7100-7111行复盘征集/奖励/周末预告为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第一季度复盘：已抽卡内容的复述按M并入既有卡（三条边/粗精调/发明/算法/通识/五训练等，对应U0013~U0103）；本单元新成卡7张（成就公式/一生五件事/超越免费/ARPU/边界内做事等为首次完整表述）。"
+}

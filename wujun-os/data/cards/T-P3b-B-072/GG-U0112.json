@@ -1,0 +1,135 @@
+{
+  "unit_id": "GG-U0112",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0112-01",
+      "unit_id": "GG-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "大公司大量招人多是防御性的：把最好的人招进来，防止能威胁自己的创业公司快速发展",
+      "quote": "出于防御性的考虑",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7504,
+        "end_line": 7507,
+        "sha1": "76f7fce6298896ad5cb0988981fa308c16d0056d",
+        "fingerprint": [
+          "防御性",
+          "强者恒强"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-2"
+      ],
+      "concept_key": "防御性招人强者恒强",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "共识：Google/苹果/亚马逊/Facebook主管聚会均认同招的人太多了（7506行）；中美皆然（7507行）。"
+    },
+    {
+      "claim_id": "C-GG-U0112-02",
+      "unit_id": "GG-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "富裕的人依然需要专业理财顾问：他们深知自己的人性弱点、完全自己打理很难戒除一个贪字",
+      "quote": "更容易客观对待投资",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7512,
+        "end_line": 7513,
+        "sha1": "3d57e3350d65fbfc8d8b0697364c00c7866a7446",
+        "fingerprint": [
+          "第三方",
+          "投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "第三方制贪",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0112-03",
+      "unit_id": "GG-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "很多人以为机器人会取代照顾病人，事实正好相反——大部分人还是喜欢由人来照顾自己",
+      "quote": "喜欢由人来照顾自己",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7539,
+        "end_line": 7539,
+        "sha1": "a21669f798966587cea2c1d98ecd0b832ea27b17",
+        "fingerprint": [
+          "机器人",
+          "照顾"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "人照顾不可替代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0098卡2（线上不能取代线下）——人对人服务的刚性。"
+    },
+    {
+      "claim_id": "C-GG-U0112-04",
+      "unit_id": "GG-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "扩张行业的三个特点：直接受益于智能革命；直接为个人提供个性化服务；和健康相关（含环保）",
+      "quote": "直接为个人提供个性化的服务",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7546,
+        "end_line": 7552,
+        "sha1": "b851181cab4957fcd0239f94c7554862e43e5839",
+        "fingerprint": [
+          "智能革命",
+          "个性化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D06-2"
+      ],
+      "concept_key": "扩张行业三特点",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对应：软件/生医工程师、理财顾问/健身教练、护士理疗师药剂师/环境工程师（7548-7552行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0112",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "美国劳工局各行业就业增长与中位收入等时点统计（软件+20%、理财+30%、生医+23%、环境+10%、数据分析师+19%、护士+16%、收入中位数等，7509/7514/7523/7529/7534/7541行）为2018时点数据，记X2；行业判断机理已由4卡承载"
+    },
+    {
+      "unit_id": "GG-U0112",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7554-7557行思考题/正式回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：扩张行业4卡；时点统计X2。"
+}

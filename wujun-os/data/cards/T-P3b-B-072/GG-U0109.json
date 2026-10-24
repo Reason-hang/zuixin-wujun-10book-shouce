@@ -1,0 +1,129 @@
+{
+  "unit_id": "GG-U0109",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0109-01",
+      "unit_id": "GG-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "索引＝记录关键词对应的全部记录位置：不需排序即可快查",
+      "quote": "最简单的办法就是建立索引",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7292,
+        "end_line": 7303,
+        "sha1": "fd096991ba82118fd2773e5cd337e2902921a58a",
+        "fingerprint": [
+          "索引",
+          "排序"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "索引",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "背景：全国200多万个李强、北京3000-4000个，二分找到的只是一个还需前后顺序扫全量（7279-7286行）；按单位再排一份数据库不可行（7289-7291行）；编号是索引的前提（7335行）；例：清华毕业的李强=两索引交集（7305行）。"
+    },
+    {
+      "claim_id": "C-GG-U0109-02",
+      "unit_id": "GG-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "Google 对所有词（而非仅重要词）建索引、且全语言统一索引",
+      "quote": "是对所有的词建索引的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7318,
+        "end_line": 7322,
+        "sha1": "06fde0b927cae23ce4c742c673a5f8440aa45e57",
+        "fingerprint": [
+          "索引",
+          "统一"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "全词统一索引",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "规模：全球约1000亿网页×平均500词=50万亿词，不可能顺序搜索（7312行）；Word的Ctrl+F是顺序查找的对照（7311行）。"
+    },
+    {
+      "claim_id": "C-GG-U0109-03",
+      "unit_id": "GG-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "善于建索引是Google快的根本、也是信息爆炸时代软件质量的关键；人的对应物是把东西整理得有条不紊",
+      "quote": "烂笔头永远比最好的头脑可靠",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7333,
+        "end_line": 7337,
+        "sha1": "f738b4f13b02fcd55a7641267a86f8746b260a4a",
+        "fingerprint": [
+          "索引",
+          "烂笔头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "烂笔头是人的索引",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "实践：写下今天要做的事、做完划掉一项（7337行）；不重视索引的软件=思路停留小数据时代、功能奇慢（7333行）。"
+    },
+    {
+      "claim_id": "C-GG-U0109-04",
+      "unit_id": "GG-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "索引一般只按单一维度建立、不用组合维度——需要组合查询时靠多个索引取交集解决",
+      "quote": "不会用几个维度的组合信息建立",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7330,
+        "end_line": 7331,
+        "sha1": "289081b7d890f6139461542cffaba49d3f7bee75",
+        "fingerprint": [
+          "维度",
+          "索引"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "索引单维度原则",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0109",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7340-7341行正式回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第062封信：索引4卡（Vista悬念互引U0110）。"
+}

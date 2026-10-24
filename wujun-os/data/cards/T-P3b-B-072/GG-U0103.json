@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0103",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-072",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0103-01",
+      "unit_id": "GG-U0103",
+      "speaker": "吴军本人",
+      "claim_text": "科学常常指出正确的方向，工程则沿科学指出的方向建设道路——没有科学指导修的路通常在绕路，有了科学还需工程把路修通",
+      "quote": "科学常常指出正确的方向",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6829,
+        "end_line": 6830,
+        "sha1": "a1a5ec17958e2ab1bc07e68f44f0d41804484655",
+        "fingerprint": [
+          "科学",
+          "工程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "科学指方向工程修路",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0103-02",
+      "unit_id": "GG-U0103",
+      "speaker": "吴军本人",
+      "claim_text": "科学家聚焦量级提升（构建理想环境、提高两倍无意义），工程上省几倍甚至20%都很有意义、还要备最坏情况预案",
+      "quote": "甚至20%的时间是很有意义的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6833,
+        "end_line": 6837,
+        "sha1": "ddb88a17b84c86c56ab358068f28f1c514c9b161",
+        "fingerprint": [
+          "量级",
+          "工程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "科学抓量级工程计成本",
+      "ability_tags": [
+        "学",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "亲历：IBM科学家两年算出一种漂亮算法、全世界望洋兴叹；吴军半年纸笔推导新算法把两年计算缩到一周、提速几百倍，半年做十几次实验完成论文；实现时不省最后10%资源（6851-6861行）。"
+    },
+    {
+      "claim_id": "C-GG-U0103-03",
+      "unit_id": "GG-U0103",
+      "speaker": "吴军本人",
+      "claim_text": "科学家通常离钱比较远（发明快排的霍尔没多少钱，实现网页排名的佩奇布林钱少不了）",
+      "quote": "就要离短期的利益远一点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6842,
+        "end_line": 6844,
+        "sha1": "35325998d948523e2136ef7870e0ac3eca968b2d",
+        "fingerprint": [
+          "科学家",
+          "利益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D09-2"
+      ],
+      "concept_key": "科学家离钱远",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：吴军在Google挣钱最少的四年是单纯做研究的四年（6846行）；教授办公司常不如学生——科学家思维不适合做产品（6848行）。"
+    },
+    {
+      "claim_id": "C-GG-U0103-04",
+      "unit_id": "GG-U0103",
+      "speaker": "吴军本人",
+      "claim_text": "不同目的对边际成本的看法不同：研究代码快一两倍无意义；工程上2%运行时间＝40台服务器4万美元，值得工程师花一季度优化",
+      "quote": "对边际成本的看法是不一样的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6870,
+        "end_line": 6880,
+        "sha1": "94e598c46a5b95bc77cb9ecf81bdd824cd12b1d6",
+        "fingerprint": [
+          "边际成本",
+          "服务器"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-1"
+      ],
+      "concept_key": "边际成本观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "亲历：中日韩文处理使搜索运算慢2%，产品部门算账2000台×2%＝40台×1000美元/年（6870-6874行）；20MB模型被辛格要求压到3MB才能用于产品（6865-6868行）。"
+    },
+    {
+      "claim_id": "C-GG-U0103-05",
+      "unit_id": "GG-U0103",
+      "speaker": "吴军本人",
+      "claim_text": "科学到工程的思维转变：理想状态抓量级改抓产品细节；必须首先用科学上最好的方法再作细节改进",
+      "quote": "必须首先使用在科学上最好的方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6881,
+        "end_line": 6883,
+        "sha1": "38ade268e4f9fc1ab807a97bf208a0363adb18ed",
+        "fingerprint": [
+          "细节",
+          "宏观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "先最好方法再细节",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "写《数学之美》就是告诉IT人别丢了西瓜（6883行）；思维方式不对，工作一定平庸（6885行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0103",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6886-6889行思考题/本周回信为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0103",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "中美大学科学与工程分工的评论（6839-6840行）属教育制度议题，记X5"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第060封信：科学与工程之别5卡。"
+}
