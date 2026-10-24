@@ -1,0 +1,184 @@
+{
+  "unit_id": "GG-U0129",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0129-01",
+      "unit_id": "GG-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "倒着理解知识体系：会写程序→懂数据结构与算法→懂计算机原理与系统结构→学一门应用课感受",
+      "quote": "倒着理解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8710,
+        "end_line": 8719,
+        "sha1": "4b4c9f1780b087b88f09fa1acdd196e315b01c57",
+        "fingerprint": [
+          "倒推",
+          "知识体系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "倒推知识体系",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "喻：数据结构是钢筋大梁、算法是结构原理（8715行）；不懂系统结构的程序无竞争力（8719行）；转行约一年学习+一年练习（8710行）。"
+    },
+    {
+      "claim_id": "C-GG-U0129-02",
+      "unit_id": "GG-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "10000小时练习是顶级人才的必要条件而非充分条件：还需好师父、合适项目、思维等——合格工程师约2500小时即可",
+      "quote": "10000小时的练习恐怕是必要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8724,
+        "end_line": 8726,
+        "sha1": "dca3e0ef834eb829b34dc89fc44620daa574b448",
+        "fingerprint": [
+          "一万小时",
+          "练习"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "一万小时必要非充分",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0129-03",
+      "unit_id": "GG-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "知识点要放到更大环境中理解：不了解讲话的场合、时间点和对象，马云德鲁克的知识就难以应用",
+      "quote": "放到更大的环境中去理解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8731,
+        "end_line": 8731,
+        "sha1": "a87404acd339d2d0722c1a2c3396be87f9f160af",
+        "fingerprint": [
+          "背景",
+          "环境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "知识要背景",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0129-04",
+      "unit_id": "GG-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "学习不是为了解除焦虑：追逐热门新知的廉价快感来得快去得快、焦虑反而更多——学习应集中在解决真问题并深度思考直到解决",
+      "quote": "为了「解除焦虑」",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8735,
+        "end_line": 8735,
+        "sha1": "46d0036792938cfd34e86996106ba03bae16bb2c",
+        "fingerprint": [
+          "焦虑",
+          "解决问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "学习为解决问题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "另：不要把有限脑容量用于记忆不常用信息、善用检索（8733行）；系统学习离不开讨论（8737行）。"
+    },
+    {
+      "claim_id": "C-GG-U0129-05",
+      "unit_id": "GG-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "家庭见识有限时的出路：多向周围好的同学同事老师领导学习、少受家庭影响——KIPP计划隔绝原环境后升学与中产家庭孩子无差异",
+      "quote": "少受到家庭的影响",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8744,
+        "end_line": 8746,
+        "sha1": "f1068d56b2856464d4160cc99019569f6491083f",
+        "fingerprint": [
+          "KIPP",
+          "隔绝"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "向环境外学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0129-06",
+      "unit_id": "GG-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "饭桌与接送路上的聊天时间是孩子扩大知识面、培养兴趣和好奇心最好的时间",
+      "quote": "最好的时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8756,
+        "end_line": 8756,
+        "sha1": "0631c031b3aac54b133ab95cb3a575f3e49257ae",
+        "fingerprint": [
+          "饭桌",
+          "好奇心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D07-2"
+      ],
+      "concept_key": "饭桌时间育人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0129",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（8739-8740/8750-8752行）为读者来信，按X7处置"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问18：系统学习6卡。"
+}
