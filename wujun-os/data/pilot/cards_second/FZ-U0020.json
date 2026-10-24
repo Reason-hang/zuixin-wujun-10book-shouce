@@ -1,0 +1,295 @@
+{
+  "unit_id": "FZ-U0020",
+  "book_code": "FZ",
+  "extractor": "R-AUD 双盲重抽（第二轮，未读首轮结果）",
+  "cards": [
+    {
+      "claim_id": "C2-FZ-U0020-01",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "专业的本质是动作与结果稳定一致；业余偶有好球但不可依赖，不专业带来随意性与不确定。",
+      "quote": "不专业会导致随意性",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 643,
+        "end_line": 643,
+        "sha1": "e15d046d4126c72905980b87df99a8f54aa963ad",
+        "fingerprint": [
+          "挥拍",
+          "业余选手",
+          "高下立判"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "专业与可重复",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": null
+    },
+    {
+      "claim_id": "C2-FZ-U0020-02",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "取得可重复的成功是走得更快的基本要求：省时增信心、赢得信赖与机会；服务不稳用户即流失。",
+      "quote": "最基本的要求",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 645,
+        "end_line": 645,
+        "sha1": "cdfee2a8521e6507318994bcde33d769b331c105",
+        "fingerprint": [
+          "可重复的成功",
+          "灵时不灵",
+          "服务中断"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "可重复的成功",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": null
+    },
+    {
+      "claim_id": "C2-FZ-U0020-03",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "人类近代进步加速因成功变得可复制，归功于理性主义科学方法论，可概括为刨根问底、按部就班八字。",
+      "quote": "刨根问底",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 651,
+        "end_line": 657,
+        "sha1": "d2dbc95a4e1a12def40179c95844cc88c2970622",
+        "fingerprint": [
+          "古巴比伦人",
+          "刨根问底",
+          "按部就班"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D01-1"
+      ],
+      "concept_key": "刨根问底与按部就班",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "651 行（成功不可复制则个人与人类进步缓慢）并入本卡锚点区间，不另开卡"
+    },
+    {
+      "claim_id": "C2-FZ-U0020-04",
+      "unit_id": "FZ-U0020",
+      "speaker": "转述·第三方",
+      "claim_text": "只有通过理性搞清真理成立的充分条件，才能抓住问题本质、回答所有同一类问题。",
+      "quote": "搞清楚真理成立的充分条件",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 665,
+        "end_line": 665,
+        "sha1": "bfb761297e934da387a3f09a00c46ad920bffc6f",
+        "fingerprint": [
+          "充分条件",
+          "莱布尼茨",
+          "同一类的问题"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "真理成立的充分条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述莱布尼茨（凡事有果必有因、刨根问底），吴军以烧水三例展开取用"
+    },
+    {
+      "claim_id": "C2-FZ-U0020-05",
+      "unit_id": "FZ-U0020",
+      "speaker": "转述·第三方",
+      "claim_text": "笛卡儿方法论分五步教人不断成功：提出问题、大胆假设小心求证、从实验得出结论与解释。",
+      "quote": "不断成功的做事方法",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 671,
+        "end_line": 679,
+        "sha1": "a62825d7a00ef07434e4d775a3797823818d4f47",
+        "fingerprint": [
+          "五个步骤",
+          "大胆假设",
+          "小心求证"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D05-1",
+        "D05-2"
+      ],
+      "concept_key": "笛卡儿方法论五步",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述笛卡儿《方法论》，吴军逐条解释取用（含投资、借钱实验例）。五步法因锚点 800 字上限拆为两卡，见 C2-FZ-U0020-06"
+    },
+    {
+      "claim_id": "C2-FZ-U0020-06",
+      "unit_id": "FZ-U0020",
+      "speaker": "转述·第三方",
+      "claim_text": "结论须推广普遍化才能举一反三、获得可重复的成功，再用于实践解决新问题、循环往复。",
+      "quote": "举一反三",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 681,
+        "end_line": 683,
+        "sha1": "70ebe319ba22a5b9616d9acd093ac2a3012465e0",
+        "fingerprint": [
+          "举一反三",
+          "普遍化",
+          "循环反复"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "推广普遍化与循环",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "笛卡儿方法论第四、五步，承接 05 卡"
+    },
+    {
+      "claim_id": "C2-FZ-U0020-07",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "学科学重在明白世界基本原理、学会科学方法，而非记住知识点，这是获得可重复成功的基础。",
+      "quote": "明白这个世界背后最基本的原理",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 687,
+        "end_line": 687,
+        "sha1": "234faf5f2478c7656542b63255b94b5d400e23e6",
+        "fingerprint": [
+          "基础科学知识",
+          "最基本的原理",
+          "浪费时间"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "学科学学方法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": null
+    },
+    {
+      "claim_id": "C2-FZ-U0020-08",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "做事方法论虽多，只有科学方法论能保证复制自己和他人的成功；学基础知识可站在前人高起点。",
+      "quote": "只有科学的方法论才能保证复制",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 689,
+        "end_line": 689,
+        "sha1": "6a361646e0bf17a64d896bd40e6f728eae0008bf",
+        "fingerprint": [
+          "科学的方法论",
+          "很高的起点",
+          "各行各业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D01-1"
+      ],
+      "concept_key": "科学方法论保证复制",
+      "ability_tags": [
+        "学",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": null
+    },
+    {
+      "claim_id": "C2-FZ-U0020-09",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "用数据分析与实验的科学方法管理团队，可让成功变得可复制（金州勇士队例证）。",
+      "quote": "让成功变得可复制",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 691,
+        "end_line": 695,
+        "sha1": "7ec53255c4f0a86a4c8ddbf20942fddbe8e5dc40",
+        "fingerprint": [
+          "金州勇士队",
+          "数据分析",
+          "可复制"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-2",
+        "D08-1"
+      ],
+      "concept_key": "科学方法复制成功案例",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "结论句在锚点末行（695）；693 行格林语为吴军转述之例证，不另开卡"
+    },
+    {
+      "claim_id": "C2-FZ-U0020-10",
+      "unit_id": "FZ-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "做出新成就须在前人成就基础上做叠加，而不是从零开始。",
+      "quote": "而不是从零开始",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 699,
+        "end_line": 699,
+        "sha1": "bd69ed7694871dc7c16acdb3c23fa1f2e41969b1",
+        "fingerprint": [
+          "做叠加",
+          "从零开始",
+          "他人没有做出"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "可叠加的进步",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": null
+    }
+  ]
+}

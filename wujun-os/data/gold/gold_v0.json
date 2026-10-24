@@ -1,0 +1,58 @@
+{
+ "meta": {
+  "version": "v0",
+  "date": "2026-10-24",
+  "ticket": "T-P1-01",
+  "note": "标准答案卡待 T-P1-02 首抽后回填；用于 ST-3/GATE-C 漂移控制（data/gold/README.md）"
+ },
+ "gold": [
+  {
+   "unit_id": "FZ-U0020",
+   "book_code": "FZ",
+   "title": "14. 可重复的成功",
+   "anchor": {
+    "unit_file": "data/units/FZ/unit_0020.md",
+    "start_line": 629,
+    "end_line": 700,
+    "scope": "冻结原文行号区间（src_frozen 对应书）"
+   },
+   "checkpoints": [
+    "结论句与机制抽取（§15.7.2 步2–3）",
+    "回归组 a",
+    "章节-小结边界（FZ 篇级本章小结单元邻接）"
+   ]
+  },
+  {
+   "unit_id": "GG-U0256",
+   "book_code": "GG",
+   "title": "答读者问38丨如何平衡产品的体验与快速迭代的需求",
+   "anchor": {
+    "unit_file": "data/units/GG/unit_0256.md",
+    "start_line": 16982,
+    "end_line": 17054,
+    "scope": "冻结原文行号区间（src_frozen 对应书）"
+   },
+   "checkpoints": [
+    "说话人分段（§15.6）",
+    "读者言论不得入原著核心判断（§15.7.4-3）",
+    "锚点唯一性"
+   ]
+  },
+  {
+   "unit_id": "SG3-U0110",
+   "book_code": "SG3",
+   "title": "第091 封信丨为什么人造的世界语无法流行？",
+   "anchor": {
+    "unit_file": "data/units/SG3/unit_0110.md",
+    "start_line": 11511,
+    "end_line": 11610,
+    "scope": "冻结原文行号区间（src_frozen 对应书）"
+   },
+   "checkpoints": [
+    "划重点召回 ≥90%（§7.5 门槛）",
+    "稳定度待判（来信类必填）",
+    "编号信锚点"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "meta": {
+  "ticket": "T-P1-01",
+  "seed": 20261024,
+  "date": "2026-10-24",
+  "total": 14,
+  "book_spread": {
+   "FZ": 3,
+   "GG": 3,
+   "GJ": 1,
+   "JJ": 1,
+   "JS": 1,
+   "SG3": 1,
+   "SX": 1,
+   "TD": 1,
+   "WJ2": 2
+  },
+  "spec_refs": [
+   "spec/v2_方案.md §7.5",
+   "spec/v2_1_增补.md Z2-03",
+   "§15.7 抽卡规程"
+  ],
+  "validation": {
+   "sg3_huazhongdian_recheck": "sections 261 / chars 43851，与基线一致",
+   "dup_pairs_parsed": 107,
+   "all_ids_in_index": true,
+   "distinct": true
+  }
+ },
+ "samples": [
+  {
+   "slot": "微①",
+   "unit_id": "FZ-U0020",
+   "book_code": "FZ",
+   "type": "C",
+   "subtype": "成书正文",
+   "char_count": 4016,
+   "lines": "629-700",
+   "title": "14. 可重复的成功",
+   "reason": "A 层成书正文；富足第 14 章可重复的成功，论点明确、长度中等（贴近 FZ 内容单元中位）",
+   "checkpoints": [
+    "结论句与机制抽取（§15.7.2 步2–3）",
+    "回归组 a",
+    "章节-小结边界（FZ 篇级本章小结单元邻接）"
+   ],
+   "v75_rows": [
+    "2"
+   ]
+  },
+  {
+   "slot": "微②",
+   "unit_id": "GG-U0256",
+   "book_code": "GG",
+   "type": "C",
+   "subtype": "答读者问",
+   "char_count": 2242,
+   "lines": "16982-17054",
+   "title": "答读者问38丨如何平衡产品的体验与快速迭代的需求",
+   "reason": "B 层问答单元，双说话人（读者提问+吴军作答）",
+   "checkpoints": [
+    "说话人分段（§15.6）",
+    "读者言论不得入原著核心判断（§15.7.4-3）",
+    "锚点唯一性"
+   ],
+   "v75_rows": [
+    "9"
+   ]
+  },
+  {
+   "slot": "微③",
+   "unit_id": "SG3-U0110",
+   "book_code": "SG3",
+   "type": "C",
+   "subtype": "划重点信",
+   "char_count": 3540,
+   "lines": "11511-11610",
+   "title": "第091 封信丨为什么人造的世界语无法流行？",
+   "reason": "SG3 来信单元且内含\"划重点\"子节，可对照外部参照算召回",
+   "checkpoints": [
+    "划重点召回 ≥90%（§7.5 门槛）",
+    "稳定度待判（来信类必填）",
+    "编号信锚点"
+   ],
+   "v75_rows": [
+    "13"
+   ]
+  },
+  {
+   "slot": "放1",
+   "unit_id": "TD-U0009",
+   "book_code": "TD",
+   "type": "C",
+   "subtype": "书信",
+   "char_count": 1730,
+   "lines": "306-340",
+   "title": "第5封信 最好是更好的敌人",
+   "reason": "态度家书 1 封：三观与书信体",
+   "checkpoints": [
+    "书信体转述语气（§15.7.3-9）",
+    "收信对象语境保留"
+   ],
+   "v75_rows": [
+    "5"
+   ]
+  },
+  {
+   "slot": "放2",
+   "unit_id": "FZ-U0007",
+   "book_code": "FZ",
+   "type": "C",
+   "subtype": "成书正文",
+   "char_count": 3758,
+   "lines": "179-232",
+   "title": "03. 做减法比做加法重要",
+   "reason": "富足第 03 章做减法比做加法重要",
+   "checkpoints": [
+    "回归组 b",
+    "与方法类论点的 K/M 判定"
+   ],
+   "v75_rows": [
+    "2"
+   ]
+  },
+  {
+   "slot": "放3",
+   "unit_id": "JJ-U0015",
+   "book_code": "JJ",
+   "type": "C",
+   "subtype": "成书正文",
+   "char_count": 2239,
+   "lines": "859-892",
+   "title": "我们该选择理性还是经验",
+   "reason": "境界\"我们该选择理性还是经验\"，概念对冲单元",
+   "checkpoints": [
+    "回归组 e",
+    "转述不得合并相左论点（§15.7.4-2）"
+   ],
+   "v75_rows": [
+    "3"
+   ]
+  },
+  {
+   "slot": "放4",
+   "unit_id": "GJ-U0026",
+   "book_code": "GJ",
+   "type": "C",
+   "subtype": "成书正文",
+   "char_count": 3045,
+   "lines": "1054-1098",
+   "title": "19. 沟通的带宽",
+   "reason": "格局沟通类章节",
+   "checkpoints": [
+    "规则⑤⑫边界",
+    "能力标签（沟通）"
+   ],
+   "v75_rows": [
+    "1"
+   ]
+  },
+  {
+   "slot": "放5",
+   "unit_id": "SX-U0046",
+   "book_code": "SX",
+   "type": "C",
+   "subtype": "成书正文（讲）",
+   "char_count": 3024,
+   "lines": "5906-6031",
+   "title": "42｜古德-图灵折扣估计：黑天鹅事件能防范吗？",
+   "reason": "数学通识 1 讲，正文含硬换行与公式",
+   "checkpoints": [
+    "硬换行不影响锚点（§15.7.2 步11）",
+    "数理映射态判定"
+   ],
+   "v75_rows": [
+    "6"
+   ]
+  },
+  {
+   "slot": "放6",
+   "unit_id": "JS-U0027",
+   "book_code": "JS",
+   "type": "C",
+   "subtype": "成书正文",
+   "char_count": 3126,
+   "lines": "1251-1314",
+   "title": "18.伪工作者究竞“伪”在哪里",
+   "reason": "见识伪工作者章节",
+   "checkpoints": [
+    "职场归属（支柱提示）",
+    "概念键查重（伪工作）"
+   ],
+   "v75_rows": [
+    "4"
+   ]
+  },
+  {
+   "slot": "放7",
+   "unit_id": "WJ2-U0018",
+   "book_code": "WJ2",
+   "type": "C",
+   "subtype": "周末问答",
+   "char_count": 3025,
+   "lines": "1427-1508",
+   "title": "周末问答02｜选大学，应该选名校还是选城市？",
+   "reason": "WJ2 周末问答，问答 B 层第 2 样本（问答再 1），补 WJ2 覆盖",
+   "checkpoints": [
+    "双说话人",
+    "多问并列时一卡一论点（§15.7.3-8）"
+   ],
+   "v75_rows": [
+    "12(部分：WJ2 覆盖)"
+   ]
+  },
+  {
+   "slot": "放8",
+   "unit_id": "GG-U0071",
+   "book_code": "GG",
+   "type": "C",
+   "subtype": "回信精选",
+   "char_count": 1392,
+   "lines": "4728-4767",
+   "title": "回信精选丨在大学学会哪些技能很重要？",
+   "reason": "谷歌回信精选，互动类",
+   "checkpoints": [
+    "说话人（编者/吴军混排）",
+    "整理者说明标记（G7 flags）"
+   ],
+   "v75_rows": [
+    "8"
+   ]
+  },
+  {
+   "slot": "放9",
+   "unit_id": "GG-U0119",
+   "book_code": "GG",
+   "type": "C",
+   "subtype": "重复簇GG侧",
+   "char_count": 2243,
+   "lines": "7987-8040",
+   "title": "来信补充丨大人物系列——拉里·佩奇的人生智慧",
+   "reason": "GG↔SG1 跨书精确重复簇内单元（对侧 SG1-U0134 登记双出处）",
+   "checkpoints": [
+    "双出处登记：两单元同段收敛为一张卡",
+    "来源以先出版者为准",
+    "对侧单元：SG1-U0134"
+   ],
+   "v75_rows": [
+    "11"
+   ]
+  },
+  {
+   "slot": "放10",
+   "unit_id": "WJ2-U0146",
+   "book_code": "WJ2",
+   "type": "C",
+   "subtype": "超长单元",
+   "char_count": 8294,
+   "lines": "11494-11938",
+   "title": "第118封信｜为什么知识从共享变成公开很重要？",
+   "reason": "内容单元 8,294 字（>8000 唯一 C 类）",
+   "checkpoints": [
+    "超长单元分段读（Z2-04），处置与锚点仍整单元口径"
+   ],
+   "v75_rows": [
+    "—"
+   ]
+  },
+  {
+   "slot": "放11",
+   "unit_id": "FZ-U0022",
+   "book_code": "FZ",
+   "type": "C",
+   "subtype": "本章小结",
+   "char_count": 409,
+   "lines": "749-764",
+   "title": "本章小结",
+   "reason": "本章小结 409 字（<500 短单元），兼覆盖富足样本\"含本章小结\"",
+   "checkpoints": [
+    "极短单元的处置判定（§15.7.1）",
+    "短单元锚点下限"
+   ],
+   "v75_rows": [
+    "2"
+   ]
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 ZIP ?= _打包吴军10本电子书.zip
 PY ?= python3
 
-.PHONY: restore-check freeze probe test status verify-pack verify-anchors pack split check-units p0-smoke s03 s04 s05 s06 s07 s08 p0 gates
+.PHONY: restore-check freeze probe test status verify-pack verify-anchors pack split check-units p0-smoke s03 s04 s05 s06 s07 s08 p0 gates handover
 
 restore-check: verify-pack freeze probe test status
 
@@ -57,3 +57,6 @@ s08:
 
 # P0 全链: 切分 → 行覆盖/守恒 → G4–G8 对账 → D5 分母冻结；任一关失败即停（make 默认串行、遇错退出）
 p0: split check-units s03 s04 s05 s06 s07 s08
+
+handover:
+	$(PY) scripts/make_handover.py

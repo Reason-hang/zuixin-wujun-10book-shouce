@@ -1,0 +1,345 @@
+{
+  "unit_id": "GG-U0256",
+  "book_code": "GG",
+  "anchor_range": {
+    "start_line": 16982,
+    "end_line": 17054
+  },
+  "card_count": 12,
+  "cards": [
+    {
+      "claim_id": "C-GG-U0256-01",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "模型不必与真实情况完全一致，只需在误差范围内简洁地概括真实情况。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "模型与误差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "在误差范围内",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16994,
+        "end_line": 16994,
+        "sha1": "13bb38877e7e4ce3ed17cfa5e089fc3963be3821",
+        "fingerprint": [
+          "模型",
+          "误差",
+          "参数"
+        ]
+      },
+      "notes": "答读者问38 第一组：机器学习两种范式（有模型有参数 vs 数据驱动）的引论判断。"
+    },
+    {
+      "claim_id": "C-GG-U0256-02",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "不仅机器学习不能全面管理生活，任何其他人也不能管理你的生活；技术进步的意义在提高效率。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-1"
+      ],
+      "concept_key": "技术不能管理生活",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "不能管理你的生活",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 16998,
+        "end_line": 16998,
+        "sha1": "f377dfe43900ea8dfb4dc96bb62c6a0671e04d1e",
+        "fingerprint": [
+          "管理你的生活",
+          "效率",
+          "技术"
+        ]
+      }
+    },
+    {
+      "claim_id": "C-GG-U0256-03",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "除非特别坏的情况发生，目前的智能技术对生活的帮助会远大于它的害处。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "智能技术利大于弊",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "帮助会远大于它的害处",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17004,
+        "end_line": 17004,
+        "sha1": "1b8c116381b90433187ef5f6717a0b049caee0d1",
+        "fingerprint": [
+          "智能技术",
+          "帮助",
+          "害处"
+        ]
+      },
+      "notes": "时效论断（2018）：基于反馈有效性的论证收束。"
+    },
+    {
+      "claim_id": "C-GG-U0256-04",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "即便脑电波都能分析，也不代表世上没有不确定的事；不确定性是世界自身的特点。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "不确定性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "世界自身的特点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17006,
+        "end_line": 17006,
+        "sha1": "bd4e6942f0c5a6cf5d0ad55091a8747c561a02c0",
+        "fingerprint": [
+          "脑电波",
+          "不确定性",
+          "特点"
+        ]
+      },
+      "notes": "吴军指向其《智能时代》，属跨书呼应点。"
+    },
+    {
+      "claim_id": "C-GG-U0256-05",
+      "unit_id": "GG-U0256",
+      "speaker": "读者",
+      "claim_text": "读者问：上线新产品或新功能时，如何平衡产品体验与快速迭代的需求？",
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1",
+        "D05-1"
+      ],
+      "concept_key": "体验与迭代",
+      "ability_tags": [],
+      "status": "已生成",
+      "quote": "如何平衡产品的体验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17009,
+        "end_line": 17010,
+        "sha1": "058b2c0d7973eaff45e0845c9a6197c5506060b0",
+        "fingerprint": [
+          "快速迭代",
+          "体验",
+          "新产品"
+        ]
+      },
+      "notes": "上下文卡（本单元唯一读者卡）：本单元共 5 组读者问，此为标题问题，引出 06-08 三张卡。"
+    },
+    {
+      "claim_id": "C-GG-U0256-06",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "功能多于资源时先删不必要功能；小步快跑只是腾讯早期提法，大公司既不需要也不可能这么做。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "小步快跑",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "quote": "只适合公司的早期",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17014,
+        "end_line": 17015,
+        "sha1": "ef72710f5649a5a4505ae7b81e2576c420d64c22",
+        "fingerprint": [
+          "小步快跑",
+          "腾讯",
+          "早期"
+        ]
+      },
+      "notes": "时效论断（2018）：含对腾讯近五年新产品的观察。"
+    },
+    {
+      "claim_id": "C-GG-U0256-07",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "缺顶层框架设计的产品漏洞百出，事后填补漏洞花的时间金钱成本比重新设计还高。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D05-1"
+      ],
+      "concept_key": "顶层框架设计",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "quote": "漏洞百出",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17017,
+        "end_line": 17018,
+        "sha1": "0b0e6e9650eb97edffbbdaf488a22e69b778a01c",
+        "fingerprint": [
+          "顶层",
+          "框架设计",
+          "漏洞"
+        ]
+      }
+    },
+    {
+      "claim_id": "C-GG-U0256-08",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "做产品用户体验最重要，快速迭代只是手段；忘了目的，做出来没人用，效率是零。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D05-1"
+      ],
+      "concept_key": "用户体验优先",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "quote": "用户体验是最重要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17022,
+        "end_line": 17022,
+        "sha1": "faf098078e1dd491fd79991a23eab3d526651ddd",
+        "fingerprint": [
+          "用户体验",
+          "手段",
+          "效率"
+        ]
+      }
+    },
+    {
+      "claim_id": "C-GG-U0256-09",
+      "unit_id": "GG-U0256",
+      "speaker": "转述·第三方",
+      "claim_text": "转述多国学者研究：很多人走不出贫穷怪圈，因只看眼前利益、只用最省事方法，破局须反其道。",
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-3"
+      ],
+      "concept_key": "贫穷怪圈",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "贫穷的怪圈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17030,
+        "end_line": 17030,
+        "sha1": "47e0560ae5f06b0bd93e3440c4bf4a3d71dba2b0",
+        "fingerprint": [
+          "贫穷",
+          "怪圈",
+          "眼前的利益"
+        ]
+      },
+      "notes": "被转述者：各国学者的贫穷研究；吴军取用并预告'走出贫穷怪圈六条'。"
+    },
+    {
+      "claim_id": "C-GG-U0256-10",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "商业竞争不必追求逆转，可以合作共赢；非要分出胜负是农耕文明的零和思维。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-2"
+      ],
+      "concept_key": "合作共赢",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "农耕文明的想法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17038,
+        "end_line": 17039,
+        "sha1": "f292eedc4876b8c9ed750b3167d5d80348d1cc0b",
+        "fingerprint": [
+          "逆转",
+          "合作",
+          "农耕文明"
+        ]
+      },
+      "notes": "由 5G 华为问题引出的一般性竞争观。"
+    },
+    {
+      "claim_id": "C-GG-U0256-11",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "评价专利不能只看数量，而要看谁掌握绕不过去的一环，获批质量比数量更重要。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "专利含金量",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "quote": "绕不过去的一环",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17041,
+        "end_line": 17041,
+        "sha1": "3e7b58948396ce25bff33bdfe20f35ef5f5bf5b0",
+        "fingerprint": [
+          "专利",
+          "数量",
+          "一环"
+        ]
+      },
+      "notes": "含'中国有价值的专利是在美国获批的'这一时效判断，主干卡只保留一般原则。"
+    },
+    {
+      "claim_id": "C-GG-U0256-12",
+      "unit_id": "GG-U0256",
+      "speaker": "吴军本人",
+      "claim_text": "休息是为了更好地工作而不是不工作；休假后两三天不在状态是常事，超一周才有问题。",
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "休息与工作",
+      "ability_tags": [],
+      "status": "已生成",
+      "quote": "休息是为了更好地工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17048,
+        "end_line": 17048,
+        "sha1": "5625107f716ee59dfa2ec3106da94cf6fc52c62a",
+        "fingerprint": [
+          "休息",
+          "状态",
+          "一周"
+        ]
+      }
+    }
+  ]
+}

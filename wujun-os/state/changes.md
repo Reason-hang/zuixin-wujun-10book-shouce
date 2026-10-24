@@ -21,3 +21,4 @@
 | CHG-017 | v2 | 吸收两份外部意见（批次 2 产出 v2.1 增补）与交付批次规则 | 你要求完善方案；额度中断实际发生 | v2→v2.1 | 已落盘（spec/v2_1_增补.md，2026-10-24，波次1验收通过） |
 | CHG-018 | 无机读字典与数据 schema | 新增 spec/pillars.yaml（10 一级/25 二级，与 v2 §13.1 核验一致）、spec/exclusions.yaml（X1–X8）、spec/boundary_rules.md（规则①–⑫+17 组辨析）、spec/schemas/（unit/claim/model_card 三份 draft-07） | 工单 T-00-02 规格落库验收要求 | v2→执行期 | 已纳入（2026-10-24，波次1） |
 | CHG-019 | selftest 复制保留只读权限位致首跑必现 PermissionError | shutil.copy → shutil.copyfile，MANIFEST 对应 2 条哈希刷新 | restore-check 全链路在非 root 环境无法一次通过（波次0发现） | 脚本缺陷修复 | 已纳入（2026-10-24） |
+| CHG-020 | S14 单一口径（主归属相等才匹配）；抽取规程缺 8 项细则 | P1 试点发现（严格口径 0.526 FAIL）：S14 改双档判定（严口径报告用/归属口径放行用）；抽取规程增补 R1–R8（总结句判据、粒度刻度、全柱开放+DT待判、X卡落地、格式统一、锚点800字口径与续卡、quote连续子串） | P1 试点报告 §三；K/M 双盲独立发现并去重 | v2.1→规则v0.9 | **草案（放量验证后冻结 v1，T-P1-10）** |
