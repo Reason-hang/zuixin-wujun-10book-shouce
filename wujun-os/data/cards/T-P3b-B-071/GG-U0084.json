@@ -1,0 +1,238 @@
+{
+  "unit_id": "GG-U0084",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0084-01",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "社会不欠我们什么：可以有一千个理由讲忙讲难，但社会不保证每个人的成功——命运只是默默看着表现按付出给予褒奖",
+      "quote": "这个社会不欠我们什么",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5549,
+        "end_line": 5549,
+        "sha1": "10440efaa3ec465313129409daab8efe929a8b4e",
+        "fingerprint": [
+          "社会",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "社会不欠你什么",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0084-02",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "稀缺性最值钱：世界从不缺掌握80%知识的人，掌握90%的还未必能找到好工作——碎片时间速成的80%无人多看一眼",
+      "quote": "稀缺性最值钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5550,
+        "end_line": 5551,
+        "sha1": "f5727ecafec3093957c4f6e36208acdd29a45c2f",
+        "fingerprint": [
+          "稀缺",
+          "汝窑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-1"
+      ],
+      "concept_key": "80%知识不稀缺",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：汝窑六十多件每件数亿 vs 精致但无限量的白送还占地方（5550行）；互引第013封信。"
+    },
+    {
+      "claim_id": "C-GG-U0084-03",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "世界上大家只知道第一，不知道第二",
+      "quote": "只知道第一，不知道第二",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5554,
+        "end_line": 5556,
+        "sha1": "02cf0e546b097bb59520d3043c09a2d4a5a5ebf5",
+        "fingerprint": [
+          "第一",
+          "金门大桥"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-1"
+      ],
+      "concept_key": "世界只知第一",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：硅谷1/3人答不上海湾大桥、金门大桥谁都认识（5554-5556行）；能说出10名奥运亚军的是体育记者（5556行）；与70-20-10定律互引。"
+    },
+    {
+      "claim_id": "C-GG-U0084-04",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "痛下决心学好一项技能，不仅获得一技之长与学习能力，更重要的是获得成功的经验、树立每件事都能做好的信心",
+      "quote": "获得成功的经验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5558,
+        "end_line": 5558,
+        "sha1": "19dd1c487f4f349d97cbc318c616a5f52115ea99",
+        "fingerprint": [
+          "技能",
+          "信心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "成功经验与信心",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0084-05",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "花大力气的不容易本身建立起门槛，让真正掌握技能的人受益；无门槛的职业竞争激烈——会写几行代码收入高不了",
+      "quote": "才建立起一个门槛",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5559,
+        "end_line": 5562,
+        "sha1": "2211e63666fe110ab2b75179ca0723b42d653d43",
+        "fingerprint": [
+          "门槛",
+          "竞争"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D09-1"
+      ],
+      "concept_key": "门槛保护掌握者",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：医生律师长历练把非专业人士排斥在外，淘宝店无门槛竞争激烈（5559-5560行）；低门槛技能一旦收入高，其他行业人转行涌入致供大于求（5562行）。"
+    },
+    {
+      "claim_id": "C-GG-U0084-06",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "用碎片时间还是整时间学习不是问题的关键，关键是有决心花工夫把知识和技能学好",
+      "quote": "不是问题的关键",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5564,
+        "end_line": 5566,
+        "sha1": "c49ff19f2643838e097a756b40c92a243f83707f",
+        "fingerprint": [
+          "决心",
+          "关键"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "决心重于时间形态",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：一个想出国的女生三年背不熟托福单词，另一位大专毕业成了约翰·霍普金斯硕士（5565-5566行，互引《硅谷来信》第170封）。"
+    },
+    {
+      "claim_id": "C-GG-U0084-07",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "不会闲聊的补救三法：多读书丰富知识阅历而非刷八卦；走出大楼参加室外活动、约人做事；在单位主动帮助人",
+      "quote": "不要老看新闻，看八卦",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5585,
+        "end_line": 5587,
+        "sha1": "3b7e2df0b3a55ea4532c131174a16ec714eee336",
+        "fingerprint": [
+          "读书",
+          "主动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "闲聊能力三法",
+      "ability_tags": [
+        "沟",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0084-08",
+      "unit_id": "GG-U0084",
+      "speaker": "吴军本人",
+      "claim_text": "没上过大学的补救：趁年轻回学校系统学习或参加成人教育——挣钱的时间长着呢，多学点东西受益终身",
+      "quote": "趁年轻多学点东西会受益终身",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5593,
+        "end_line": 5593,
+        "sha1": "5707f59d943f0f258c9da059a8ddbc43b5369d40",
+        "fingerprint": [
+          "成人教育",
+          "年轻"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "退学补救回校",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0084",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "军机处与读者提问原文（5529/5541-5544/5568/5574-5575/5581/5589行）为读者来信，按X7处置；密涅瓦大学评价（5572行）与印度人要职话题（5579行，互引第117封与《见识》）无新独立卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问12：学技能主题8卡。"
+}

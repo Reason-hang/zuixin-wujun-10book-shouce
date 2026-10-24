@@ -1,0 +1,208 @@
+{
+  "unit_id": "GG-U0088",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0088-01",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "私募靠准确估价赚钱（估高50%就没得赚），风投追求几倍几十倍回报、估价差50%问题不大，但看错人则血本无归",
+      "quote": "看错了人，则要血本无归",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5791,
+        "end_line": 5795,
+        "sha1": "1382095c5a4238df672e0713df9ef5bc9b7e272c",
+        "fingerprint": [
+          "私募",
+          "估价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "风投看人私募看价",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：私募收购问题企业裁员重组再上市/出售（汉堡王、双击广告例）、需黑白两道摆平工会；风投与最聪明的人打交道、靠准确评估技术与预见趋势（5791-5799行）。"
+    },
+    {
+      "claim_id": "C-GG-U0088-02",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "基金融资说明书是与投资人之间的契约：投资去处、地区、阶段、类型要写清楚并严格执行",
+      "quote": "这是和投资人之间的契约",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5805,
+        "end_line": 5813,
+        "sha1": "11dee17bad0b8eb6631224cc32f60f7b01d771b4",
+        "fingerprint": [
+          "契约",
+          "说明书"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "融资说明书即契约",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "机制：投资人不超499人（超500须如上市公司披露，5804行）；返还期限7+3防拿了钱不还（5817行）；最低投资额如KPCB红杉单期约10亿美元、每人至少200万（5815行）。"
+    },
+    {
+      "claim_id": "C-GG-U0088-03",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "基金旱涝保收每年收2%管理费、再拿利润的20%：年化10%时出资人实得仅约6%——除非找到很好的基金，否则不值得参与风投",
+      "quote": "旱涝保收地每年收取2%的管理费",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5821,
+        "end_line": 5827,
+        "sha1": "4aff130189e974efa64b101292b9572fb3c83554",
+        "fingerprint": [
+          "管理费",
+          "利润"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "基金费率机制",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "算账：100万投10年20万交了管理费（5822行）；尽调成本高故费率高（5824行）；KPCB四十多年平均年化40%+、且挑钱（5827行）；年化15%时扣费后出资人得10%仍高于股市（5826行）。"
+    },
+    {
+      "claim_id": "C-GG-U0088-04",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "有限合伙人（LP）不承担连带责任也不参与管理；出资人想参与管理如同病人给医生提开药建议——答应这种要求的基金多半不正规",
+      "quote": "病人给医生提开药的建议",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5828,
+        "end_line": 5831,
+        "sha1": "3d86e7155030b06a324645c44b6cbae1b83efe0a",
+        "fingerprint": [
+          "有限合伙人",
+          "管理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "LP不干预GP",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0088-05",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "GP是负责任的法人整体：说好投晚期却投早期且失败，出资人可以追责——做基金的人要非常守纪律",
+      "quote": "做基金的人要非常非常守纪律",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5834,
+        "end_line": 5836,
+        "sha1": "0472c09eb38d10880d1a309ef40415b145e2d8dd",
+        "fingerprint": [
+          "GP",
+          "纪律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "GP守纪律",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0088-06",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "投行的VP不是高职位（一线经理），真正管事的是MD；拿高盛副总裁头衔回国自吹的把戏玩不转了",
+      "quote": "真正管事的是所谓的MD",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5837,
+        "end_line": 5840,
+        "sha1": "27cbfc97b7bf88bc8cccf7d67ae63fb614ea9504",
+        "fingerprint": [
+          "MD",
+          "副总裁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "投行职级真相",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "数据：高盛2017年510名MD、2016年84位合伙人（5840-5841行）。"
+    },
+    {
+      "claim_id": "C-GG-U0088-07",
+      "unit_id": "GG-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "风投基金人数少、管理职级比较扁平、彼此平等——与投行「官大一级压死人」不同；每个项目专人负责、发言权大、成功分利多",
+      "quote": "管理职级比较扁平",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5844,
+        "end_line": 5845,
+        "sha1": "bc46fa89a03fc8ca03379c5ddef31a6b405c66ff",
+        "fingerprint": [
+          "扁平",
+          "平等"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D09-1"
+      ],
+      "concept_key": "风投扁平管理",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0088",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5848-5855行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第051封信：风投基金运作机制7卡。"
+}

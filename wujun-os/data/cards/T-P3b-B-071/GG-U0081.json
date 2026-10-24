@@ -1,0 +1,102 @@
+{
+  "unit_id": "GG-U0081",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0081-01",
+      "unit_id": "GG-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "旅行可用逆向思维：挑淡季出行——人少、酒店可选、拍照无人干扰，且常有独有景色（冬天的极光与蓝冰洞）",
+      "quote": "喜欢逆向思维",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5346,
+        "end_line": 5347,
+        "sha1": "3bcf410c361c1c10c2369a0cf47c197975bb7270",
+        "fingerprint": [
+          "逆向思维",
+          "冬天"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "旅行逆向思维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：冰岛五大看点前四个仅冬天可见（5352-5358行）；冬天日出日落时间从容（5361-5362行）。"
+    },
+    {
+      "claim_id": "C-GG-U0081-02",
+      "unit_id": "GG-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "旅游业真正发达不仅靠美景，还要有周到的服务；很多时候只注意把东西做好，不注意把它推销好",
+      "quote": "不注意把它推销好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5395,
+        "end_line": 5395,
+        "sha1": "5c5682220e91985b9d2978510ffa68a374604c17",
+        "fingerprint": [
+          "服务",
+          "推销"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D07-2"
+      ],
+      "concept_key": "做好还要推销好",
+      "ability_tags": [
+        "做",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：圣诞节机场商店开门、租车酒店专人等候、饭馆可临时订位（5366-5371行）。"
+    },
+    {
+      "claim_id": "C-GG-U0081-03",
+      "unit_id": "GG-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "世界上很多事情并不完美：为以后留下一点想象的空间，未必不是好事",
+      "quote": "为以后留下一点想象的空间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5397,
+        "end_line": 5397,
+        "sha1": "5626d26da06b24b752773a7d1829678f60404f52",
+        "fingerprint": [
+          "完美",
+          "想象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "留想象空间",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：没去蓝冰洞并不遗憾（5397行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0081",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "冰岛行程记叙为主体（黄金圈/间歇泉/黑沙滩/极光踩点等见闻，5334-5390行），按X3游记默认排除只抽方法论；GDP与旅游数据（5341-5344行）为背景留痕"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第047封信（游记）：X3例外只抽3条方法论卡。"
+}

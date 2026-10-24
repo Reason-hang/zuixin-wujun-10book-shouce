@@ -1,0 +1,290 @@
+{
+  "unit_id": "GG-U0086",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0086-01",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "低风险难有高回报，但高风险未必等于高回报：硅谷48%风投基金亏钱、中国挣钱的风投仅约5%——一般小投资人不适合参与",
+      "quote": "高风险未必等于高回报",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5657,
+        "end_line": 5658,
+        "sha1": "5c753fe0df1df3a293c760af69b2a43875f64b29",
+        "fingerprint": [
+          "风险投资",
+          "亏钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "高风险未必高回报",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "另：风投不具流动性，一笔钱十年不用才可考虑（5661行）。"
+    },
+    {
+      "claim_id": "C-GG-U0086-02",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "真正的风险投资只投未上市的创业公司甚至未成公司的项目；买下业绩差的上市公司或资本运作整合公司的不算风投",
+      "quote": "只投资给未上市的创业公司",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5663,
+        "end_line": 5666,
+        "sha1": "27f77ceb69af382309a22a0e42e4f4ce481cbb48",
+        "fingerprint": [
+          "私募",
+          "未上市"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "风投的定义",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "技能差异：风投需技术与市场判断，私募需财务与资本运作（5668行）；国内两者常搅和、创业者有上当感觉（5669行）。"
+    },
+    {
+      "claim_id": "C-GG-U0086-03",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风险投资的传统资金来源只有积累（或继承）与借贷两种，资金是创业的瓶颈——欧洲少有新公司正因缺风投",
+      "quote": "资金就成了创业的瓶颈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5671,
+        "end_line": 5674,
+        "sha1": "50c781084a370c87342665bc4295a5192a3d6c05",
+        "fingerprint": [
+          "创业",
+          "瓶颈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "风投解决创业资金瓶颈",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0086-04",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风险投资无需抵押也不需要偿还：成功获几倍到上百倍回报、失败就打水漂；加还本付息等限制条款的风投已经变味",
+      "quote": "风险投资已经变味了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5678,
+        "end_line": 5680,
+        "sha1": "6828256d788580a909d1443941d3a6a8eceaf4ac",
+        "fingerprint": [
+          "抵押",
+          "变味"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "风投无抵押不变味",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "变味条款例：不能上市每年付10%利息、失败投资自动转到创业者后续项目（5679行）。"
+    },
+    {
+      "claim_id": "C-GG-U0086-05",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风投资金的用途是让创业者在一定时期内专心做事、不为收入和成本发愁，而不是用来烧钱购买市场",
+      "quote": "不必为收入和成本发愁",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5682,
+        "end_line": 5682,
+        "sha1": "6c33ac2c635e35994e67cc1c6ce13e319772fc75",
+        "fingerprint": [
+          "专心",
+          "烧钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "风投资金的用途",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0086-06",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风险投资人的角色是甩手掌柜：资金起辅助作用，成败看创始人、项目与运气；若风投要亲自跳进去干预，投资已失败八九成",
+      "quote": "甩手掌柜",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5684,
+        "end_line": 5684,
+        "sha1": "f29e89c2002105ccc2cfd1a53e2d2efb7b45c482",
+        "fingerprint": [
+          "甩手掌柜",
+          "干预"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "甩手掌柜",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：Google接受凯鹏华盈与红杉投资后内部根本感觉不到这些基金的存在（5684行）。"
+    },
+    {
+      "claim_id": "C-GG-U0086-07",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风投规模天然很小，因为新技术新产业有限——过多的资本涌入风险投资就是泡沫",
+      "quote": "过多的资本涌入风险投资就是泡沫",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5686,
+        "end_line": 5686,
+        "sha1": "ca13162bd981cda7cee5b0a0ead45d344aacf69f",
+        "fingerprint": [
+          "泡沫",
+          "资本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "风投规模与泡沫",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：美国年风投300-500亿美元，武汉一市2016年即募1800亿产业基金（5686行，时点数据留痕X2候选）。"
+    },
+    {
+      "claim_id": "C-GG-U0086-08",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风投管理者最终都成为技术专家而非财务专家：擅长发现有潜力的创业者与项目，而不专注资本运作",
+      "quote": "最终都成为了技术专家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5688,
+        "end_line": 5688,
+        "sha1": "e6578396b7ef817e0da0e0be39219a2d4c1ac800",
+        "fingerprint": [
+          "技术专家",
+          "财务专家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "风投人是技术专家",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0086-09",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风投无抵押无偿还，利益靠创业者信誉与投资人眼光保障——风投能成功的社会需要完善的信用制度",
+      "quote": "完善的信用制度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5692,
+        "end_line": 5695,
+        "sha1": "aaa2d26314a48ceda877ccf72eb2784dc7d4d413",
+        "fingerprint": [
+          "信用",
+          "抵押"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "信用制度是风投土壤",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国机制：假定清白诚实，但一次不诚实信用即完蛋、改了也不是好人；宽容失败者，卷钱跑路者一辈子抬不起头（5694-5695行）。"
+    },
+    {
+      "claim_id": "C-GG-U0086-10",
+      "unit_id": "GG-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "风投长期回报高于股市不是因为风险高必有高回报，而是因为真风投不断推动科技进步——新技术新行业不断取代旧的",
+      "quote": "不断推动科技进步",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5696,
+        "end_line": 5698,
+        "sha1": "15235e477134a23c4307f6d6c5afdf07052cadaf",
+        "fingerprint": [
+          "科技进步",
+          "回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "风投推动科技进步",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：美国风投年化IRR约15%-20%与最好私募相当，股市一般5%-10%（5696行）；配置：机构与富人通常仅2%、很少超5%（5700-5702行）；风投看似风险大但不是赌博（5698行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0086",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5704-5707行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第049封信：风险投资六大特点+定义与土壤判断共10卡。"
+}

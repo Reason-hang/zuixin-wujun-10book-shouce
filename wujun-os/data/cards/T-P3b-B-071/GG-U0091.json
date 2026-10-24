@@ -1,0 +1,217 @@
+{
+  "unit_id": "GG-U0091",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0091-01",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "低风险一定没有高回报，但高风险未必高回报：市场有效，好机会一出现资本就涌入摊薄收益",
+      "quote": "资本有议价权，回报可能会高些",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5995,
+        "end_line": 5996,
+        "sha1": "33a846a4b1377bba24ce31f4bc6521e4315baf05",
+        "fingerprint": [
+          "议价权",
+          "摊薄"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "风险收益不对称",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0091-02",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "风险分长期与短期：股票短期风险高、长期风险并不高（经济往上走）；存款短期风险近乎为零、长期风险很高（通胀几乎永远发生）",
+      "quote": "长期风险并不高",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5997,
+        "end_line": 5997,
+        "sha1": "541471372bce8124bbf1748e39267f662b3fcc58",
+        "fingerprint": [
+          "短期风险",
+          "存款"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "长期短期风险",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0091-03",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "专利在13国申请与在2国申请没有区别：任一成员国申请加国际专利，即获所有成员国的优先日期，可随时按需申请",
+      "quote": "优先日期",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6005,
+        "end_line": 6007,
+        "sha1": "df48ec2c9e272a05b6ef1cf4f3e4eb384ff9c490",
+        "fingerprint": [
+          "优先日期",
+          "知识产权"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "国际专利优先日",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "最接近支柱 D04-1（认知类常识）；例外：台湾地区非成员国须单独处理（6009行）；优先日可阻拦在后申请的近似专利（6007行）。"
+    },
+    {
+      "claim_id": "C-GG-U0091-04",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "同一时代类似技术有几十上百种专利，单项专利价值不大；投不投不看市场规模大小，而看能否在细分市场形成垄断",
+      "quote": "能否在这个细分市场形成垄断",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6011,
+        "end_line": 6011,
+        "sha1": "369e98ba523499ccc944a1744af7d19f03e74d9e",
+        "fingerprint": [
+          "专利",
+          "垄断"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "细分垄断重于市场规模",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "建议：先把东西做出来再说（6011行）。"
+    },
+    {
+      "claim_id": "C-GG-U0091-05",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "科技公司基本上没有什么资产：清算时员工工资受劳工法保护要先发放——风投血本无归是常态",
+      "quote": "科技公司基本上没有什么资产",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6018,
+        "end_line": 6018,
+        "sha1": "0d5d60ebf1c5c8e294be5de2d194300cd843e900",
+        "fingerprint": [
+          "清算",
+          "工资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "科技公司清算现实",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0091-06",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "分成比例没有普适准则，取决于谈判地位：大牛创业由他开条件、年轻人接受VC指导——做成事最重要，别太在意股权占比",
+      "quote": "不要太在意各自的股权占比",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6024,
+        "end_line": 6025,
+        "sha1": "79d37eef9cc7945044d19f29c924999b3d696c0e",
+        "fingerprint": [
+          "谈判",
+          "股权"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-1"
+      ],
+      "concept_key": "谈判地位定条款",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：某大半导体公司CTO与圣杯公司Grail（6024-6025行）。"
+    },
+    {
+      "claim_id": "C-GG-U0091-07",
+      "unit_id": "GG-U0091",
+      "speaker": "吴军本人",
+      "claim_text": "资本过剩时的逆向思维：钱多且拿钱的成本低，你就去拿钱，而不是投钱——不是非要去创业，而是开动脑筋利用这种机会受益",
+      "quote": "你就去拿钱，而不是投钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6061,
+        "end_line": 6061,
+        "sha1": "e4b406661a36425f16499b3057ca022a72b05c9b",
+        "fingerprint": [
+          "逆向思维",
+          "拿钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "钱多时去拿钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "背景：中国资本涌入风投三因——没有更好投资（楼市一次性、股市回报为负）、政府产业基金推波助澜、投资不理性（6032-6057行，宏观评论记X6）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0091",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（5991/6000-6001/6014/6020/6027行）为读者来信，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0091",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "中国股市四大缺陷（退市机制/涨跌停与做空/股票抵押借钱/关联上市）与楼市股市宏观评论（6033-6057行）属宏观经济制度议题，记X6；对策性判断（拿钱而非投钱）已由卡7承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问13：投资风险观与实操7卡。"
+}

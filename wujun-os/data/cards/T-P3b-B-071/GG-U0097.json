@@ -1,0 +1,107 @@
+{
+  "unit_id": "GG-U0097",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0097-01",
+      "unit_id": "GG-U0097",
+      "speaker": "转述·第三方",
+      "claim_text": "衡量财富看各种资产在全球同类资产中的比例而非纸面价值：房价涨5倍还是一套=没增加",
+      "quote": "在全球同类资产中的比例",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6435,
+        "end_line": 6438,
+        "sha1": "626879d4b9a24da3be7445e7c1c74d06624bbe70",
+        "fingerprint": [
+          "索罗斯",
+          "比例"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "比例财富观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "推论：只要没用杠杆，全球资产贬值时无需恐慌——这也是巴菲特讲永远不要用杠杆投资的原因（6440行，互引《硅谷来信》第043封）。"
+    },
+    {
+      "claim_id": "C-GG-U0097-02",
+      "unit_id": "GG-U0097",
+      "speaker": "吴军本人",
+      "claim_text": "多元投资未必缓解风险：当全世界金融市场关联、篮子彼此拴在一起时，一个篮子翻了其它篮子也受影响",
+      "quote": "篮子彼此拴在一起",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6427,
+        "end_line": 6429,
+        "sha1": "e2122790fc00ffaa9f5354a92fc1257aee53bb5a",
+        "fingerprint": [
+          "篮子",
+          "分散"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "篮子相系的分散失效",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：此次股债金同跌——利率升致债券面值跌、无避险买黄金需求（6429行）。"
+    },
+    {
+      "claim_id": "C-GG-U0097-03",
+      "unit_id": "GG-U0097",
+      "speaker": "吴军本人",
+      "claim_text": "尊重市场、接受波动、有切实风险防范措施的人面对大跌并不可怕——很多人被清除出场后，会获得更多廉价投资的机会",
+      "quote": "会获得更多廉价投资的机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6450,
+        "end_line": 6451,
+        "sha1": "6e17165fac25fe0af7e0137a35a7f5d60d3996df",
+        "fingerprint": [
+          "风险防范",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "备风险者得机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0097",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2018年2月全球股市暴跌的时点分析（技术面vs基本面、美联储换主席与缩表、机器交易雪崩、对冲基金杠杆、不蔓延经济、不指望国家队救市，6408-6447行）为时点行情评论，记X2；「经济健康时紧缩积累势能」的可迁移内核已由U0068卡3围棋思维承载"
+    },
+    {
+      "unit_id": "GG-U0097",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6455-6456行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（股市震荡）：可迁移判断3卡；时点行情X2。"
+}

@@ -1,0 +1,216 @@
+{
+  "unit_id": "GG-U0087",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0087-01",
+      "unit_id": "GG-U0087",
+      "speaker": "史实",
+      "claim_text": "投资成败系于眼光：J.P.摩根投中特斯拉与爱迪生；马克·吐温不信屋里说话几百米外能听见，错过了贝尔的电话",
+      "quote": "一定是大忽悠",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5716,
+        "end_line": 5718,
+        "sha1": "6cc2b6a681eb920ab500ac8e44c21bf35ecf6c7d",
+        "fingerprint": [
+          "摩根",
+          "马克·吐温"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "投资眼光两例",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0087-02",
+      "unit_id": "GG-U0087",
+      "speaker": "史实",
+      "claim_text": "仙童协议是现代风投雏形：不论盈亏都提供资金、亏损不用还钱（投资人担风险）；但限制创始人利益上限且投资方有绝对控制权",
+      "quote": "诺伊斯等人是不需要还钱的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5732,
+        "end_line": 5738,
+        "sha1": "066796e791ba52fa7e871664c394269df1fc18f3",
+        "fingerprint": [
+          "费尔柴尔德",
+          "还钱"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "仙童协议雏形",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "细节：1325股见者有份、138万美元18个月贷款、八年内300万美元回购权（5733-5734行）；为诺伊斯摩尔第二次叛逃埋伏笔（5738行）。"
+    },
+    {
+      "claim_id": "C-GG-U0087-03",
+      "unit_id": "GG-U0087",
+      "speaker": "史实",
+      "claim_text": "叛逃者二次创业不再接受贷款式投资、要求永久占有股权——奠定了后来硅谷创业和风险投资的基调",
+      "quote": "硅谷创业和风险投资的基调",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5746,
+        "end_line": 5747,
+        "sha1": "42f486ec0c5bfd70fffc4401fa1757c9d6caee38",
+        "fingerprint": [
+          "叛逃",
+          "股权"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-1"
+      ],
+      "concept_key": "永久股权投资基调",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "后续：洛克（风投之父）再投诺伊斯摩尔的英特尔（5748行）；仙童系近百家公司1/4上市、市值合计3万亿美元（5749行）；克莱纳创KPCB、瓦伦丁创红杉（5751-5753行）。"
+    },
+    {
+      "claim_id": "C-GG-U0087-04",
+      "unit_id": "GG-U0087",
+      "speaker": "吴军本人",
+      "claim_text": "资本短时间剧增不会增加好项目：成功项目数不增、估值翻倍、回报变差",
+      "quote": "不会因为资本短时间的剧增而增加",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5760,
+        "end_line": 5766,
+        "sha1": "dbd308103c3b7c595c5cca804e69774b15cc41c9",
+        "fingerprint": [
+          "估值",
+          "剧增"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "资本剧增不增好项目",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：2000年硅谷单笔平均700万美元 vs 后来300-400万（5762行，时点数据留痕）；德丰杰若非百度上市就要关门（5765行）；中国投资混乱同理（5767行）；互引U0086卡7。"
+    },
+    {
+      "claim_id": "C-GG-U0087-05",
+      "unit_id": "GG-U0087",
+      "speaker": "吴军本人",
+      "claim_text": "风险投资是和创始人共同把事情做好、共享利益；试图控制创始人和公司的投资方式，长远来讲没有好处",
+      "quote": "共同把事情做好，共享利益",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5771,
+        "end_line": 5771,
+        "sha1": "7e8c24aa174da7b0faacb3f09e5a7eb27a516fc0",
+        "fingerprint": [
+          "共享",
+          "控制"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "与创始人共享利益",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0087-06",
+      "unit_id": "GG-U0087",
+      "speaker": "吴军本人",
+      "claim_text": "高风险并不意味着必然有高回报；管理风险投资基金的人未必都是行家，这个领域经常会有泡沫出现",
+      "quote": "未必都是行家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5773,
+        "end_line": 5773,
+        "sha1": "746217de4fdf71b5ab0476d71562f4e74085bc8f",
+        "fingerprint": [
+          "行家",
+          "泡沫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "风投者未必行家",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与U0086卡1（高风险未必高回报）互为表里——彼重结果，此重管理人素质。"
+    },
+    {
+      "claim_id": "C-GG-U0087-07",
+      "unit_id": "GG-U0087",
+      "speaker": "吴军本人",
+      "claim_text": "高回报的投资通常来自对技术和产业独到的见解，而不是因为善于算经济账",
+      "quote": "对技术和产业独到的见解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5775,
+        "end_line": 5775,
+        "sha1": "bbec58ef5cc7e920bfe61096712fd4ce4add9f35",
+        "fingerprint": [
+          "独到",
+          "见解"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D10-1"
+      ],
+      "concept_key": "独到见解生高回报",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与U0086卡8（风投人是技术专家）互引。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0087",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5777-5780行思考题/本周回信为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0087",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2000年泡沫与2016年风投规模等时点数据（5756-5758行）留痕X2；机理已由卡4承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第050封信：风投起源史3张E3+泡沫机理1卡+三结论3卡。"
+}

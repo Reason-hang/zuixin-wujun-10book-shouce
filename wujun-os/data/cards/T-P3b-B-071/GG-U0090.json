@@ -1,0 +1,131 @@
+{
+  "unit_id": "GG-U0090",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0090-01",
+      "unit_id": "GG-U0090",
+      "speaker": "史实",
+      "claim_text": "红杉资本的基本要求：把业务用几句话讲清楚——投资人给你一张名片，看你能否在名片背面空白处写清楚；讲不清者不投",
+      "quote": "在名片背面空白处写清楚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5945,
+        "end_line": 5946,
+        "sha1": "9c958947019e39d6573f3b39205961cc56849e7c",
+        "fingerprint": [
+          "名片",
+          "讲清楚"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-2"
+      ],
+      "concept_key": "名片背面讲清楚",
+      "ability_tags": [
+        "做",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "判定：讲不清要么表达太差、要么脑子不清楚、要么忽悠人（5946行）；红杉偏好快速发展而非快速盈利的公司、技术须有跳变、行业最好无人尝试过、创始人中有第一代移民的不成文规定（5940-5944行）。"
+    },
+    {
+      "claim_id": "C-GG-U0090-02",
+      "unit_id": "GG-U0090",
+      "speaker": "转述·第三方",
+      "claim_text": "好项目标准：给客户的好处一目了然而非讲故事；技术要有绝活；好业务永远是花小钱做成大生意——靠烧钱维持的生意绝对不投",
+      "quote": "花小钱就能做成大生意",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5949,
+        "end_line": 5954,
+        "sha1": "f80f0d6c48ad4cfbcf28d54433529c363df1e354",
+        "fingerprint": [
+          "绝活",
+          "基因"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "红杉好项目标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述红杉合伙人比尔·科夫兰（吴军2005年在Google的老板）；对创始人另两点：公司基因在成立三个月中形成、优秀创始人吸引优秀团队；能灵活快速打败大公司、清楚该干什么不该干什么（5952-5954行）；例证：思科不雇多少人搞定路由器设计（5951行）。"
+    },
+    {
+      "claim_id": "C-GG-U0090-03",
+      "unit_id": "GG-U0090",
+      "speaker": "吴军本人",
+      "claim_text": "凯鹏华盈三特点：看重对世界的正向进步；投资后深度参与+被投公司网络互助；聚焦并预测未来",
+      "quote": "对世界带来正向的进步",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5961,
+        "end_line": 5965,
+        "sha1": "d2d035cf7ee7dd9749e08b256cafc6357d72e42f",
+        "fingerprint": [
+          "凯鹏华盈",
+          "聚焦"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D10-1"
+      ],
+      "concept_key": "KPCB三特点",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "战绩：40多年融资约200亿、退出总收入8000亿、每期约40倍（5956行）；风险：押新能源满盘皆输、错失社交网络——Facebook早找过它、公开承认最遗憾；押iPhone生态大胜（5965行）；换CEO的做法有争议（5963行）。"
+    },
+    {
+      "claim_id": "C-GG-U0090-04",
+      "unit_id": "GG-U0090",
+      "speaker": "转述·第三方",
+      "claim_text": "YC孵化理念：不重场地物质，强调人的潜能与经验——聚集专家辅导年轻人，如梅贻琦「有大师之谓也」",
+      "quote": "有大师之谓也",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5970,
+        "end_line": 5974,
+        "sha1": "3066644cb3f2ffbcf3ed94cb05c8ac75bf5ab610",
+        "fingerprint": [
+          "潜能",
+          "大师"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D07-2"
+      ],
+      "concept_key": "YC大师式孵化",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述YC创始人保罗·格雷厄姆；YC几乎无场地仅小会议室做全方位培训（5974行）；把投资股份分给专家（5972行）；2005-2017总回报约30-50倍、代表案例Airbnb与Dropbox（5975行，时点数据留痕）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0090",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5977-5981行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：红杉2卡+KPCB1卡+YC1卡；沙丘路背景并入。"
+}

@@ -1,0 +1,245 @@
+{
+  "unit_id": "GG-U0096",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0096-01",
+      "unit_id": "GG-U0096",
+      "speaker": "转述·第三方",
+      "claim_text": "米勒的价值投资：找到公司的「最大价值」而非按财务指标判贵贱——雅虎=互联网时代、亚马逊=未来商业、Google=入口",
+      "quote": "最有用的价值",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6354,
+        "end_line": 6357,
+        "sha1": "22f37002448dad13f8b768cad298268941b8ee31",
+        "fingerprint": [
+          "价值",
+          "雅虎"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "最大价值投资",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：PE高达200-300时多次讲亚马逊还便宜（6358行）；持Google约6%股票、内部人为之自信大增（6359行）；最早断言亚马逊市值必超沃尔玛（6357行）；具有最大价值的公司通常最终改变世界（6361行）。"
+    },
+    {
+      "claim_id": "C-GG-U0096-02",
+      "unit_id": "GG-U0096",
+      "speaker": "吴军本人",
+      "claim_text": "不要看一个东西贵不贵，要看它值不值那个钱：从看似很贵其实很值的股票中挑选；没有最大价值，再看似便宜也不要捡",
+      "quote": "要看它值不值那个钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6370,
+        "end_line": 6372,
+        "sha1": "d7e13ecbc41abd2acbd56a8b5e63f3cd92fef702",
+        "fingerprint": [
+          "很贵",
+          "很值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "贵不贵看值不值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0096-03",
+      "unit_id": "GG-U0096",
+      "speaker": "转述·第三方",
+      "claim_text": "分散风险的真义是多样互补：不仅跨公司行业，还要按不同估值体系保持多样（高PE成长+低PE保值）",
+      "quote": "在不同估值体系下有价值的股票",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6366,
+        "end_line": 6369,
+        "sha1": "20b380dac69d873796b5613ddd5243a13a1aca7c",
+        "fingerprint": [
+          "估值体系",
+          "保值"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "估值体系多样性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：大部分投资人只按单一估值体系做一类股票（6367行）；买它们的理由都一样——有价值且被低估（6369行）。"
+    },
+    {
+      "claim_id": "C-GG-U0096-04",
+      "unit_id": "GG-U0096",
+      "speaker": "吴军本人",
+      "claim_text": "买一大堆股票既管不过来、结果也与股指基金差不多——巴菲特、林奇、米勒都重仓看重的股票并长期持有",
+      "quote": "重仓那些他们喜欢的股票",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6364,
+        "end_line": 6364,
+        "sha1": "396b7c3070b7861412dac7b8916eca5c51181057",
+        "fingerprint": [
+          "重仓",
+          "股指"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "重仓长期持有",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0096-05",
+      "unit_id": "GG-U0096",
+      "speaker": "吴军本人",
+      "claim_text": "投资没有适合所有人的标准方法：杜尔洞察创始人、林奇指标加时间淘汰、米勒找最大价值——共同点是看重未来",
+      "quote": "投资是没有一个标准的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6382,
+        "end_line": 6386,
+        "sha1": "37238e3c903e07caeb53240d620a46522ca51ee9",
+        "fingerprint": [
+          "标准",
+          "未来"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "投资无定法皆重未来",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0096-06",
+      "unit_id": "GG-U0096",
+      "speaker": "吴军本人",
+      "claim_text": "做人也应该有自己的「最大价值」：到底能提供什么别人提供不了的价值",
+      "quote": "提供什么别人提供不了的价值",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6389,
+        "end_line": 6389,
+        "sha1": "956ea5eea295c98c702435639ab06523dfe00ae3",
+        "fingerprint": [
+          "价值",
+          "提供"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D08-1"
+      ],
+      "concept_key": "个人最大价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0096-07",
+      "unit_id": "GG-U0096",
+      "speaker": "吴军本人",
+      "claim_text": "对没有意义的事情要坚决止损，对所相信的事情要长期投入做下去——损友早早断绝，挚友维持一辈子",
+      "quote": "坚决止损，对自己所相信的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6395,
+        "end_line": 6395,
+        "sha1": "3d663255e5a08ef91cbf9dc10282136ecd795298",
+        "fingerprint": [
+          "止损",
+          "挚友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D07-2"
+      ],
+      "concept_key": "止损与长期投入",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与U0095卡5（给一次机会不上两次当）互引。"
+    },
+    {
+      "claim_id": "C-GG-U0096-08",
+      "unit_id": "GG-U0096",
+      "speaker": "吴军本人",
+      "claim_text": "要平衡好利益（利润）和发展速度之间的关系",
+      "quote": "平衡好利益",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6393,
+        "end_line": 6393,
+        "sha1": "eb796fbb0e8d0918349aca24a024c71fbe037a5a",
+        "fingerprint": [
+          "利润",
+          "速度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-1"
+      ],
+      "concept_key": "利润与速度平衡",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0096",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6398-6399行本周思考为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0096",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "米勒2010年后个人重仓比特币（6374行）为时点持仓披露，记X2"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第056封信：米勒三秘诀+四人生启示共8卡。"
+}

@@ -1,0 +1,212 @@
+{
+  "unit_id": "GG-U0089",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0089-01",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "对于没有上市的公司，不管估值多高，创始人的财富都不过停留在纸上——只有钱落袋为安之后才是自己的",
+      "quote": "只有钱落袋为安之后才是自己的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5912,
+        "end_line": 5912,
+        "sha1": "e85dcd569df874853fba57d84aeeffda4ddfcd08",
+        "fingerprint": [
+          "估值",
+          "落袋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-2"
+      ],
+      "concept_key": "落袋为安",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0089-02",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "总的来讲，投资人和创始人的利益是一致的，除非到了关门清算的时候",
+      "quote": "投资人和创始人的利益是一致的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5913,
+        "end_line": 5913,
+        "sha1": "8ccb62e176927b649f2746714fcef029767eb88a",
+        "fingerprint": [
+          "利益",
+          "清算"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "投资人与创始人利益一致",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0089-03",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "投资人的股份在清算时有优先权（优先股）：最早期投资人常能拿回大部分投资甚至有利可图，后期的可能亏损",
+      "quote": "投资人的股份在清算时有优先权",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5914,
+        "end_line": 5914,
+        "sha1": "5e81400594db5bda5a5da759af438902bab505b7",
+        "fingerprint": [
+          "优先股",
+          "清算"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "清算优先权",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：中国有公司上市价格仍低于最后一轮融资价、最后轮投资人亏损（5914行）。"
+    },
+    {
+      "claim_id": "C-GG-U0089-04",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "一个公司最终要靠盈利来获得财富：靠烧投资人的钱，早晚有一天资金链会断裂，纸面上的财富都是水中月镜中花",
+      "quote": "早晚有一天资金链会断裂",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5915,
+        "end_line": 5915,
+        "sha1": "3122c028a85965c5e1b926a9948d6344c3d002e3",
+        "fingerprint": [
+          "盈利",
+          "资金链"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "盈利是根本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0089-05",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "股权融资机制：估值分歧以协商收场，每轮融资稀释老股东比例但潜在价值增加，并预留期权池给未来员工",
+      "quote": "这被称为股权稀释",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5869,
+        "end_line": 5877,
+        "sha1": "6dad8d263a611b86bdb763ea39d09e2eca544256",
+        "fingerprint": [
+          "股权稀释",
+          "估值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-1"
+      ],
+      "concept_key": "股权稀释机制",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "教学案例：创始团队自估800万vs天使300万→450万+50万占10%、预留10%期权（5869-5873行）；A轮Pre/Post-Money（5878行）；B轮附加条件=引入有市场经验的职业经理人CEO+受限股份分四年按KPI解锁（5885-5886行）。"
+    },
+    {
+      "claim_id": "C-GG-U0089-06",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "被低价收购时按股平分会伤后期投资人，投资协议常含并购保底条款（如前一轮价格加五成）",
+      "quote": "至少要保证一定的利润",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5896,
+        "end_line": 5900,
+        "sha1": "8f2dc9ee0565f41e7fee3393f24a53488f1843b3",
+        "fingerprint": [
+          "收购",
+          "占比"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "并购保底条款",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0089-07",
+      "unit_id": "GG-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "创业三结局：约1%上市（早期平均约50倍即本垒打）、约20%被并购、近八成失败——高风险差事",
+      "quote": "创业是一个高风险的差事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5908,
+        "end_line": 5910,
+        "sha1": "8e172ad0f17fa69c2264ca37f8d07070a8b6c8d3",
+        "fingerprint": [
+          "本垒打",
+          "失败"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-1"
+      ],
+      "concept_key": "创业三结局概率",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "口径：硅谷获融资公司统计，中国失败率更高（5908-5910行，统计时点留痕X2候选）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0089",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5917行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第052封信：风投全流程教学案例的四结论+三机制卡。"
+}

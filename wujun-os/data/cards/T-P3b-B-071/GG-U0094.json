@@ -1,0 +1,240 @@
+{
+  "unit_id": "GG-U0094",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0094-01",
+      "unit_id": "GG-U0094",
+      "speaker": "吴军本人",
+      "claim_text": "投资就是投人：人没有看准，事情再正确也没有用——二流的人会把一流的事情做成二流",
+      "quote": "二流的人会把一流的事情做成二流",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6201,
+        "end_line": 6201,
+        "sha1": "d49da8efad68ed01b9a8851e1a5c58cab8362de0",
+        "fingerprint": [
+          "投资",
+          "投人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "投资就是投人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0094-02",
+      "unit_id": "GG-U0094",
+      "speaker": "转述·第三方",
+      "claim_text": "企业家四能力：设计运营生意；组织管理并盈利；看到别人看不到的机会与风险；判断力（合作收购还是自研）",
+      "quote": "任何好的生意最终都是要能盈利的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6204,
+        "end_line": 6215,
+        "sha1": "42e1fcf69b9f2b95d5cf51aee74bbd616f1f7583",
+        "fingerprint": [
+          "盈利",
+          "判断力"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "企业家四能力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述杜尔；强调：认为盈利不关己、融资烧钱才是创业的想法不对（6206-6207行）；反例：8848看到电商机会却低估在线支付与诚信困难（6212行）；张三李四做事差不多但张三找到特殊机会是能力非运气（6211行）。"
+    },
+    {
+      "claim_id": "C-GG-U0094-03",
+      "unit_id": "GG-U0094",
+      "speaker": "转述·第三方",
+      "claim_text": "要找明天的企业家：快速增长的生意需要未来足够大的市场，今天的创始人＝明天的企业家",
+      "quote": "今天的创始人＝明天的企业家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6216,
+        "end_line": 6220,
+        "sha1": "ae39cbb8f4c2bf1cc13ac8d2386dd43de7631be4",
+        "fingerprint": [
+          "明天",
+          "企业家"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "明天的企业家",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：佩奇、布林、贝佐斯20年前都符合（6220行）；杜尔牵线施密特任Google CEO并嘱咐「公司形状很好，别管坏了」（6222-6223行）；施密特花大半年完成上一代对下一代企业家的理解（6224行）。"
+    },
+    {
+      "claim_id": "C-GG-U0094-04",
+      "unit_id": "GG-U0094",
+      "speaker": "转述·第三方",
+      "claim_text": "以资金链断/缺盈利点/经济危机/市场没准备好为失败理由的人成不了企业家——只找客观原因不审视自己者不合格",
+      "quote": "不是合格的企业家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6226,
+        "end_line": 6232,
+        "sha1": "a58eb469f22a27f51b38648e83bb1c4b3df36489",
+        "fingerprint": [
+          "理由",
+          "客观原因"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-2",
+        "D02-1"
+      ],
+      "concept_key": "失败四借口辨人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述杜尔（6226行）。"
+    },
+    {
+      "claim_id": "C-GG-U0094-05",
+      "unit_id": "GG-U0094",
+      "speaker": "转述·第三方",
+      "claim_text": "风投最好阶段是潜行阶段（在发展但未获关注）：一定有人反对，反对只说明有人没看清；人人说好已过最佳点",
+      "quote": "常常已经过了最佳的投资点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6234,
+        "end_line": 6235,
+        "sha1": "437fc7e3ea9521600eb1f28349d0750ad5ad23a4",
+        "fingerprint": [
+          "潜行",
+          "反对"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D10-1"
+      ],
+      "concept_key": "潜行阶段投资",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与「第三眼美女」（成功阶段判断）互补（6233行）；失败率高但一个成功项目的回报远超多次失败的付出（6235行）。"
+    },
+    {
+      "claim_id": "C-GG-U0094-06",
+      "unit_id": "GG-U0094",
+      "speaker": "吴军本人",
+      "claim_text": "投资靠洞察力而不是民主决策：能看到别人看不到的机会的人永远是少数，投委会多数人都看懂时，其他基金早已在前一轮投过了",
+      "quote": "需要洞察力，而不是靠民主决策",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6236,
+        "end_line": 6238,
+        "sha1": "301bbbc1cac81f9d654806cee79b7c5690b90c95",
+        "fingerprint": [
+          "投委会",
+          "洞察"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D07-2"
+      ],
+      "concept_key": "投资靠洞察非民主",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0094-07",
+      "unit_id": "GG-U0094",
+      "speaker": "史实",
+      "claim_text": "杜尔担心毛利率太高：SGI毛利70%，低利润该做的事都没做、不会过苦日子，泡沫破碎即断崖破产",
+      "quote": "毛利率太高了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6241,
+        "end_line": 6249,
+        "sha1": "e16736d604ce828e6a2349b9aae78a51381b5da3",
+        "fingerprint": [
+          "毛利率",
+          "SGI"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "高毛利之危SGI",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "细节：SGI曾被认为将取代太阳公司、Google总部即其旧址（6243-6244行）；杜尔对大家不注意的机会与风险都多看两眼（6240行）。"
+    },
+    {
+      "claim_id": "C-GG-U0094-08",
+      "unit_id": "GG-U0094",
+      "speaker": "转述·第三方",
+      "claim_text": "杜尔把赚钱做成可复制的常态：双倍砸钱优质企业+被投公司相互帮助（广义校友关系），退出多为互相收购",
+      "quote": "让所有被他投资的公司相互帮助",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6253,
+        "end_line": 6256,
+        "sha1": "d0ee649142702147d3357acc819041ac9aa6aada",
+        "fingerprint": [
+          "常态",
+          "关系网"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D10-1"
+      ],
+      "concept_key": "可复制常态与关系网",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "数据：20年投不到300家、上市近100家（硅谷平均约1%）、每期回报40-50倍（6253-6254行，时点数据留痕）；融资每次控制在8-10亿不贪多（6252行）；投的是一群未来精英的关系网（6256行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0094",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6260-6261行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第054封信：投人1卡+企业家四能力+明天的企业家+四借口+潜行+洞察+SGI+关系网共8卡。"
+}

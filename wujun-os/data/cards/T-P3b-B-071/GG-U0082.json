@@ -1,0 +1,105 @@
+{
+  "unit_id": "GG-U0082",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0082-01",
+      "unit_id": "GG-U0082",
+      "speaker": "吴军本人",
+      "claim_text": "品牌因一种产品做得特别好而出名；懂行的人按需求去找相应的品牌，而不是反过来凭品牌名气挑商品",
+      "quote": "去找相应的品牌，而不是反过来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5458,
+        "end_line": 5458,
+        "sha1": "81ecf38c70828c91a14301447ae0fa3ffb475ece",
+        "fingerprint": [
+          "品牌",
+          "懂行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "按产品找品牌",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：路易威登做包、菲拉格慕做鞋；越野选路虎揽胜/陆巡、加速选保时捷，会玩车的不倒过来买；歌剧听瓦格纳威尔第普契尼、交响乐室内乐听莫扎特（5458行）。"
+    },
+    {
+      "claim_id": "C-GG-U0082-02",
+      "unit_id": "GG-U0082",
+      "speaker": "吴军本人",
+      "claim_text": "选学校要想清楚学什么、想成为什么样的人，挑选最适合自己的大学，而不是仅看名气和排名",
+      "quote": "挑选最适合自己的大学",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5460,
+        "end_line": 5460,
+        "sha1": "ec90a29c2c93589a8516f74a495be89643586578",
+        "fingerprint": [
+          "专业",
+          "名气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "按适合选学校",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：耶鲁名气大但很多专业弱，卡内基·梅隆排名远不如耶鲁但计算机全美第一（5460行）；与卡1同构（按需选最适合）。"
+    },
+    {
+      "claim_id": "C-GG-U0082-03",
+      "unit_id": "GG-U0082",
+      "speaker": "吴军本人",
+      "claim_text": "用人要人尽其才；被别人用的时候，也应考虑用人单位的核心业务",
+      "quote": "考虑用人单位的核心业务",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5462,
+        "end_line": 5462,
+        "sha1": "7c6f2facb5f1d7067729269dacbe74e33d7f91ea",
+        "fingerprint": [
+          "人尽其才",
+          "核心业务"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "去核心业务平台",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：当厨师去顶级餐厅、做IT去BAT、做金融去投行（5462行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0082",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "歌剧史与赏析（瓦格纳总体艺术与拜罗伊特、威尔第普契尼莫扎特风格比较、《罗恩格林》剧情梗概、莫扎特穷困而欢快的品评，5407-5455行）为纯艺术赏析内容，按X8处置"
+    },
+    {
+      "unit_id": "GG-U0082",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "5464-5467行今日思考/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第048封信（歌剧）：由歌剧引出的三条可迁移判断成卡；艺术赏析X8。"
+}

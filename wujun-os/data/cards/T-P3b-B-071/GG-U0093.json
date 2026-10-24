@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0093",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0093-01",
+      "unit_id": "GG-U0093",
+      "speaker": "转述·第三方",
+      "claim_text": "杜尔三问之一：按你希望的金额投资，两年后世界会有什么不同？「比别人做得更好」不算——世界不需要多余的重复竞争者",
+      "quote": "两年后世界会有什么不同",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6150,
+        "end_line": 6152,
+        "sha1": "ef9c84b9dfc7b321b969d5697cbc86b915423805",
+        "fingerprint": [
+          "杜尔",
+          "世界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "两年后世界有何不同",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述杜尔（经其徒弟W先生）；微软后做PC操作系统者、Google后做搜索者都自称更好，但世界该是什么样还是什么样（6151-6152行）。"
+    },
+    {
+      "claim_id": "C-GG-U0093-02",
+      "unit_id": "GG-U0093",
+      "speaker": "转述·第三方",
+      "claim_text": "杜尔三问之二：为什么微软或Google不做？——看创业者是否深思熟虑：绝大多数点子大公司考虑过试过放弃了",
+      "quote": "是否有深思熟虑的考虑",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6154,
+        "end_line": 6157,
+        "sha1": "f4c9e74b57ea53f531d6a11b2db920752e923c52",
+        "fingerprint": [
+          "微软",
+          "深思熟虑"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "为什么大公司不做",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：贾里尼克教授「这想法IBM十年前试过不管用，有甲乙丙三因素没考虑到」——迅速告知什么不能做，省试错时间并教大局观（6159-6160行）；创业者抱怨VC不懂，多半是自己没深思（6162行）。"
+    },
+    {
+      "claim_id": "C-GG-U0093-03",
+      "unit_id": "GG-U0093",
+      "speaker": "转述·第三方",
+      "claim_text": "杜尔三问之三：如果微软或Google做了，你会不会被碾压死、壁垒在哪——望看到从新维度解决前人解决不了的问题",
+      "quote": "你的壁垒在哪里",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6164,
+        "end_line": 6175,
+        "sha1": "2c560dce3ca47ab956823067add5a95a26c0327c",
+        "fingerprint": [
+          "壁垒",
+          "维度"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "新维度解决老问题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：布林人脸识别三年后靠数据剧增+天然壁垒重启成功（6166-6170行）；吴军选复杂问答因有数据与NLP平台壁垒、对手跟不上（6172-6174行）；新维度尝试即使失败也是对世界的贡献，拷贝别人做得更便宜的不投（6175-6176行）。"
+    },
+    {
+      "claim_id": "C-GG-U0093-04",
+      "unit_id": "GG-U0093",
+      "speaker": "转述·第三方",
+      "claim_text": "杜尔很少以成败论英雄：钱不是继续生出更多钱的工具，而是改变世界的工具——投赛格威与新能源基金虽败犹投",
+      "quote": "改变世界的工具",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6185,
+        "end_line": 6187,
+        "sha1": "30be3a1dd60c603aa57bd0444711ecb3b88cd599",
+        "fingerprint": [
+          "改变世界",
+          "工具"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "钱是改变世界的工具",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "案例：赛格威6000美元、对己对人均不安全仍投（6178-6181行）；戈尔新能源基金全面失败仍义无反顾（6182-6184行）；吴军承袭此问法：投资后世界有微小但正面的改变也是好的（6187行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0093",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6190-6191行本周思考为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第053封信：杜尔三问3卡+投资价值观1卡（均转述E2）。"
+}

@@ -1,0 +1,148 @@
+{
+  "unit_id": "GG-U0098",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0098-01",
+      "unit_id": "GG-U0098",
+      "speaker": "吴军本人",
+      "claim_text": "要想在高盛式百里挑一的面试中脱颖而出，就要想到别人通常不会想到的地方：情怀、责任感、兴趣爱好、资产流动性都是非常规出发点",
+      "quote": "想到别人通常不会想到的地方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6476,
+        "end_line": 6485,
+        "sha1": "5c7160ff043cf3e5db5be99b0ff2bd65452bfe5f",
+        "fingerprint": [
+          "脱颖而出",
+          "情怀"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D10-1"
+      ],
+      "concept_key": "非常规视角脱颖而出",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "背景：酒店vs汽车旅馆思考题没有对错只有好坏；回报/品牌/管理三视角是中规中矩的好回答（6471-6475行）；四出发点例证（6478-6484行）。"
+    },
+    {
+      "claim_id": "C-GG-U0098-02",
+      "unit_id": "GG-U0098",
+      "speaker": "吴军本人",
+      "claim_text": "线上培训无法取代线下：教育很重要的目的是和人打交道，而不是单纯学知识——线上最有价值的部分也是学员间的互动",
+      "quote": "线上培训是无法取代线下的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6533,
+        "end_line": 6533,
+        "sha1": "d42d0878bb8c86baac827037438661c5a3828868",
+        "fingerprint": [
+          "线上",
+          "线下"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D08-2"
+      ],
+      "concept_key": "线上不能取代线下",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0098-03",
+      "unit_id": "GG-U0098",
+      "speaker": "吴军本人",
+      "claim_text": "取长补短更强调取长：培养要像圆规——各方面相对均衡即可，每个人要有一个扎得越深越好的圆心；一个100分比五个90分好",
+      "quote": "把他们的特长发挥到极致",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6538,
+        "end_line": 6538,
+        "sha1": "1c740965e2e384b5950c569303b44106d49a1381",
+        "fingerprint": [
+          "取长",
+          "圆规"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "取长重于补短",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0067卡3（两门百分胜过一堆八十分）。"
+    },
+    {
+      "claim_id": "C-GG-U0098-04",
+      "unit_id": "GG-U0098",
+      "speaker": "吴军本人",
+      "claim_text": "考前策略：把成绩分三类——擅长的一分不能丢、似是而非的下真功夫（这才是提分处）、真难的认倒霉；考出平时平均水平即可",
+      "quote": "该得到分的就都得到了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6571,
+        "end_line": 6577,
+        "sha1": "c4ba18011f18acdb982d912a6f27bd1c19131e34",
+        "fingerprint": [
+          "高考",
+          "策略"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-2"
+      ],
+      "concept_key": "考前三类分策略",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "反例：为不擅长的课程多争两分、丢掉本可多得20分的课程复习，得不偿失（6542行）；不到100天不要指望12年学不好的课程变好（6542行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0098",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "直播提问与读者精彩回答（古小千品牌溢价/文化价值/商圈论、邵伯远位置决定见识论等，6465-6517行）为读者内容，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0098",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "留学四宜四不宜、美国三类大学特点、研究经费数据（6547-6569行）属教育选择议题，记X5；「没有最好只有最适合的学校」已由U0082卡2承载"
+    },
+    {
+      "unit_id": "GG-U0098",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "资产配置具体建议（70%股指+30%债券、一线城市购房等，6528-6529行）为个人化时点建议，记X2"
+    },
+    {
+      "unit_id": "GG-U0098",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6518行奖金发放、6544-6545行活动推荐、6578行特别版推荐为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问14+直播：面试方法论/教育形态/取长/考前策略4卡。"
+}

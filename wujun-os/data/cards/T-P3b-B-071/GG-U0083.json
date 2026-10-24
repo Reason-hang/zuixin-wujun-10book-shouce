@@ -1,0 +1,102 @@
+{
+  "unit_id": "GG-U0083",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0083-01",
+      "unit_id": "GG-U0083",
+      "speaker": "吴军本人",
+      "claim_text": "真正的大师靠细节做到完美：既能把控宏大场面让每种乐器发挥特点，也极在意演奏者位置这类细节——不满意就重排到满意才开始",
+      "quote": "真正的大师是如何做到完美的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5488,
+        "end_line": 5494,
+        "sha1": "bd0c3a7f18fa18c04fd493e9ef741d419705e040",
+        "fingerprint": [
+          "大师",
+          "细节"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "大师细节完美主义",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：巴伦博伊姆两次重排钢琴与乐队座位、女高音被大提琴挡住即重新安排（5491-5494行）；复杂作品中听出每一个层次（5489行）。"
+    },
+    {
+      "claim_id": "C-GG-U0083-02",
+      "unit_id": "GG-U0083",
+      "speaker": "吴军本人",
+      "claim_text": "凡有生必有死，人的生命如草如花；对于死亡，信仰是一种安慰——把上帝换成信仰，更具广泛的涵义",
+      "quote": "对于死亡，信仰其实是一种安慰",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5511,
+        "end_line": 5512,
+        "sha1": "78f17fa8876e312b5ea81202d2910691dc1011bf",
+        "fingerprint": [
+          "信仰",
+          "安慰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-3"
+      ],
+      "concept_key": "信仰慰藉生死",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境：勃拉姆斯《德意志安魂曲》不为超度死者而为慰藉生者（5499行）；母亲去世后补写的两个乐章没有忧伤、非常平和——逝者已去，生者好好活下去更有意义（5512行）。"
+    },
+    {
+      "claim_id": "C-GG-U0083-03",
+      "unit_id": "GG-U0083",
+      "speaker": "吴军本人",
+      "claim_text": "死亡无法避免，更积极的做法是透过死更好地理解生命的意义：与其忧伤怀旧，不如做好今天的事情，让生更有意义",
+      "quote": "透过死更好地理解生命的意义",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 5518,
+        "end_line": 5519,
+        "sha1": "d98be6e2d62e20dc02655a0be83eb114a033c194",
+        "fingerprint": [
+          "死亡",
+          "意义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-1"
+      ],
+      "concept_key": "向死而生",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "延伸：想到生命总会凋零，就把坏习惯赶快改掉、该享受生活就享受，每一天好好过的生活才是自己的——这也是每年度长假的原因（5519行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0083",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "巴伦博伊姆生平与富特文格勒往事、勃拉姆斯音乐风格与安魂曲乐章赏析、马丁·路德宗教改革背景（5476-5510/5513-5516行）为艺术史赏析，按X8处置；其人生哲思已由3卡承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（音乐会）：大师细节1卡+生死哲思2卡；音乐赏析X8。"
+}

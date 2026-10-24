@@ -1,0 +1,213 @@
+{
+  "unit_id": "GG-U0095",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-071",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0095-01",
+      "unit_id": "GG-U0095",
+      "speaker": "转述·第三方",
+      "claim_text": "PEG＝PE÷几年平均增长率：成长型公司PEG大于1不值得投——林奇退休公布后信号立即失效",
+      "quote": "除以几年平均的增长率",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6286,
+        "end_line": 6289,
+        "sha1": "636ec070a3d9a97049b767631ca329652e641d27",
+        "fingerprint": [
+          "PEG",
+          "增长率"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D04-1"
+      ],
+      "concept_key": "PEG指标",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例：PE 50/增速50%→PEG=1；PE 30/增速20%看都不看（6287行）；背景：PE 的问题在 past 不代表未来（6283-6284行）。"
+    },
+    {
+      "claim_id": "C-GG-U0095-02",
+      "unit_id": "GG-U0095",
+      "speaker": "吴军本人",
+      "claim_text": "任何为大众所知的信息在投资上都没有价值：信号一公开股价就涨到无利可图——发现秘密者闷声发大财",
+      "quote": "在投资上都是没有价值的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6291,
+        "end_line": 6294,
+        "sha1": "33bdd308dfd19e99e14b16a6b69a38352e93c674",
+        "fingerprint": [
+          "大众",
+          "信息"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D04-1"
+      ],
+      "concept_key": "公开信息无价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信息论可严格证明（6292行）；林奇从不公开 PEG 直到退休（6288-6289行）。"
+    },
+    {
+      "claim_id": "C-GG-U0095-03",
+      "unit_id": "GG-U0095",
+      "speaker": "转述·第三方",
+      "claim_text": "须鲸式投资：先小仓买入一批用时间考验，表现不好毫不犹豫卖出，表现好的仔细研究逐步加仓，最终只留极少数长期持有",
+      "quote": "用时间来考验它们",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6296,
+        "end_line": 6298,
+        "sha1": "7799cd2cacd8c63cee150829e9be05e32408154b",
+        "fingerprint": [
+          "须鲸",
+          "加仓"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "须鲸式投资",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对照：巴菲特每年几个大决定，林奇每周小决定积少成多、防一次大错致巨损（6298行）；市场没经济学家想的那么有效、多数人长期不知不觉故不急于求成（6300行）。"
+    },
+    {
+      "claim_id": "C-GG-U0095-04",
+      "unit_id": "GG-U0095",
+      "speaker": "吴军本人",
+      "claim_text": "最多的资源要用到最有效的地方（霍夫曼编码原理）：把考察交给时间而非主观判断；勿把80%时间浪费在小事上",
+      "quote": "最多的资源要用到最有效的地方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6301,
+        "end_line": 6302,
+        "sha1": "a1c6c9f37b1b4abf406a062f4ccd1073f67430ea",
+        "fingerprint": [
+          "霍夫曼",
+          "资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "霍夫曼编码资源配置",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四点智慧之四同义（6327行）。"
+    },
+    {
+      "claim_id": "C-GG-U0095-05",
+      "unit_id": "GG-U0095",
+      "speaker": "吴军本人",
+      "claim_text": "坚决止损＋强者恒强：对好公司不断投资——散户反着做：卖掉赚钱的好股票、留一堆潜水股",
+      "quote": "但是不上两次当",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6303,
+        "end_line": 6305,
+        "sha1": "bcf7c1002eac7166051b151ea5b0141afb8d18a1",
+        "fingerprint": [
+          "止损",
+          "强者恒强"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "止损与强者恒强",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "推论：随大流的思维永远不可能成为时代的精英（6306行）；吴军把此扩展到交友（6325行）。"
+    },
+    {
+      "claim_id": "C-GG-U0095-06",
+      "unit_id": "GG-U0095",
+      "speaker": "转述·第三方",
+      "claim_text": "鸡尾酒会四场景：没人谈股票=可能上涨；仍只讲风险=潜力未尽；人人围着投资人=过热；外行荐股=下跌将至",
+      "quote": "下跌就要来临了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6308,
+        "end_line": 6313,
+        "sha1": "b5377bff08d9415e54d867f07cbf3999c16c0a42",
+        "fingerprint": [
+          "鸡尾酒会",
+          "过热"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "鸡尾酒会理论",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "林奇自警：不一定什么时候都灵、切忌盲目迷信权威包括他自己（6314行）；吴军常用此反共识原则审视该做不该做（6313行）。"
+    },
+    {
+      "claim_id": "C-GG-U0095-07",
+      "unit_id": "GG-U0095",
+      "speaker": "吴军本人",
+      "claim_text": "懂得什么时候收手，说明看透了钱，是极有智慧的人——林奇46岁如日中天时退休，留下不败神话",
+      "quote": "懂得什么时候收手",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 6316,
+        "end_line": 6317,
+        "sha1": "e4da06181614a3bd4508c770d5cee42e944e1a98",
+        "fingerprint": [
+          "收手",
+          "智慧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D09-1"
+      ],
+      "concept_key": "懂得收手",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "马尔基尔认为再做必遇滑铁卢（6316行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0095",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "6328/6331-6332行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第055封信：林奇智慧7卡（四点智慧全覆盖）。"
+}
