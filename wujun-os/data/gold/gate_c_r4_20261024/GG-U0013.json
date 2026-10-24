@@ -1,0 +1,239 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD4-inline",
+  "batch_id": "GATE-C-R4",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把事情做好有三条边：基线（人类或自己已有的知识，要从基线出发而非其下）、理论极限（不可突破）、以及连接两者的攀登路径",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1074,
+        "sha1": "5444a8b713b987873582721fca8abbf222da1e72",
+        "fingerprint": [
+          "基线",
+          "专家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-1"
+      ],
+      "concept_key": "三条边模型",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "来源：Google新工程师培训课（1069行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "民间发明家搞一辈子发明没有实际价值，因为起点远低于时代基线；很多人工作中的方法与民间发明家无异",
+      "quote": "远低于这个时代的基线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1074,
+        "end_line": 1077,
+        "sha1": "1f0af1407ec5a7c50938aac3385cc6131e8560d8",
+        "fingerprint": [
+          "民间发明家",
+          "基线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "民间发明家地下室基线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：民间自制小飞机，专业团队在三层楼、北航毕业生在地平线、民间发明家在地下三层（1075-1079行）；散户投资与之无异（1086行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "接受教育的目的就是提高自己的基线；不主张大学生退学创业，因为那样基线太低",
+      "quote": "提高自己的基线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1087,
+        "end_line": 1087,
+        "sha1": "2e4ded58a2adf342ca5f3983f0b60deecb6b4fb4",
+        "fingerprint": [
+          "教育",
+          "基线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "教育提高基线",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "理论给出的极限无法突破（光速、绝对零度、卡诺定理）；专业人士与业余爱好者的差别在于是否了解极限的存在",
+      "quote": "在于是否了解极限的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1091,
+        "sha1": "16b1a58feeba9644b8f60d7aa2890cca2ec32032",
+        "fingerprint": [
+          "极限",
+          "卡诺定理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "知道理论极限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：蒸汽温度有限，卡诺定理限死涡轮蒸汽机效率上限（1090行）；图灵机/摩尔定律/冯诺依曼结构三边界（1092行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-05",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "莱特兄弟系统学习凯利理论并核实计算无误，以200多种翼形和自建风洞上千次试验找到设计方案——与民间发明家本质不同",
+      "quote": "计算无误",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1080,
+        "end_line": 1083,
+        "sha1": "aa45f5892ebe5c9a911495c14eab9bf44c5629f2",
+        "fingerprint": [
+          "莱特兄弟",
+          "风洞"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "莱特兄弟先验证再用",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "引语：奥维尔1912年讲成功完全感谢凯利100年前的理论（1080行）；同代发明家造好就上天多摔死（1082行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-06",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "科学家告诉大家事情可以做，工程师要明白怎么做：工程师的工作就是找到或编织从基线到极限的攀登绳索——越往上道路越细",
+      "quote": "就是找到或者编织攀登绳索的工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1095,
+        "end_line": 1098,
+        "sha1": "7eee40c0cf7f914b99ecc4bbf76407f269c3bf56",
+        "fingerprint": [
+          "绳索",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "工程师编织绳索",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：鸟巢需从勘察设计到施工管理的一整套方案（总工李久林，1094-1096行）；斜线下粗上细因越往上可循之路越少（1097行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-07",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "L君首融资：认清经验名望是基线、无管钱经验是欠缺，只做通道内的事——把天花板变成新基础，投资人带钱上门",
+      "quote": "把过去的天花板变成了后来的基础",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1104,
+        "end_line": 1108,
+        "sha1": "7ff01048451c46b01f11850dd2e8d38e7da8b0c6",
+        "fingerprint": [
+          "天花板",
+          "通道"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1",
+        "D08-2"
+      ],
+      "concept_key": "天花板变基础L君例",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "细节：企业界泰斗点破两线（1101-1103行）；从工业界而非金融界融资、聚集年轻人做大公司不愿建团队的项目（1107-1108行）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-08",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "找不到基线和极限是蛮干傻干，找不到攀登路径（第三条边）则永远只能纸上谈兵",
+      "quote": "永远只能纸上谈兵",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1109,
+        "end_line": 1110,
+        "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb",
+        "fingerprint": [
+          "纸上谈兵",
+          "蛮干"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "三条边缺一不可",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0013",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "1112-1113行今日思考为互动运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "GATE-C r4 盲抽：三条边模型及配套判断与案例。"
+}
