@@ -1,0 +1,71 @@
+{
+  "unit_id": "GG-U0027", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0027-01", "unit_id": "GG-U0027", "speaker": "吴军本人",
+      "claim_text": "凡是世界上大部分人都能做到的事，就没有稀缺性",
+      "quote": "就没有稀缺性",
+      "anchor": {"book_code": "GG", "start_line": 2003, "end_line": 2009, "sha1": "ce319ffdf8cdf1bfd92984067f42f0c565dfbcec", "fingerprint": ["稀缺性", "鸡首"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-2"],
+      "concept_key": "大部分人能做到的无稀缺性",
+      "ability_tags": ["思"], "status": "已生成", "notes": "答读者问04上半。稀缺性的操作性定义；互引 C-GG-U0027-06"
+    },
+    {
+      "claim_id": "C-GG-U0027-02", "unit_id": "GG-U0027", "speaker": "吴军本人",
+      "claim_text": "世上缺的是牛首而非鸡首或牛尾，做鸡首未必比做牛尾强",
+      "quote": "牛尾比鸡首让人更有价值",
+      "anchor": {"book_code": "GG", "start_line": 2005, "end_line": 2012, "sha1": "d152a304e05b069f5d8b21fc894daf38fa7d8827", "fingerprint": ["牛首", "鸡首"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-1", "D01-2"],
+      "concept_key": "牛首与鸡首之辨",
+      "ability_tags": ["思"], "status": "已生成", "notes": "反"宁当鸡头不当凤尾"；例证（腾讯阿里普通员工购房、硅谷思科英特尔副总裁vs Google Facebook员工）并入本卡；鸡首变牛首前提是鸡长成牛"
+    },
+    {
+      "claim_id": "C-GG-U0027-03", "unit_id": "GG-U0027", "speaker": "吴军本人",
+      "claim_text": "教会徒弟不会饿死师父，好的师父进步应比徒弟快，首先在见识格局上更高",
+      "quote": "进步应该比徒弟快",
+      "anchor": {"book_code": "GG", "start_line": 2013, "end_line": 2017, "sha1": "d1e0befb28d411815c50f74f63cc9e4c27b46d37", "fingerprint": ["见识", "格局"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-1", "D06-3"],
+      "concept_key": "师父进步快于徒弟",
+      "ability_tags": ["学"], "status": "已生成", "notes": "张三李四级别差距例并入本卡；回答"教会徒弟饿死师父"之问的核心机理"
+    },
+    {
+      "claim_id": "C-GG-U0027-04", "unit_id": "GG-U0027", "speaker": "吴军本人",
+      "claim_text": "组织里不缺掌握技能的人，缺愿意分享提携的人；无分享精神者难获提拔",
+      "quote": "愿意分享，愿意相互提携的人",
+      "anchor": {"book_code": "GG", "start_line": 2023, "end_line": 2030, "sha1": "8bd094b4f7866e5e37896f685b81e3cc27d17de2", "fingerprint": ["分享精神", "提拔"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2", "D06-3"],
+      "concept_key": "组织缺愿意分享的人",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "反对"传授三招管用的"式技能保留；Google副总裁学妹案例（项目被下属拿走仍带徒弟、持续被提拔）并入本卡；与格局《分享利益，独立决定》同主题"
+    },
+    {
+      "claim_id": "C-GG-U0027-05", "unit_id": "GG-U0027", "speaker": "史实",
+      "claim_text": "风投之王杜尔年年培养年轻人，无人见识超过他，事业反而更大",
+      "quote": "没有人在见识上超过杜尔",
+      "anchor": {"book_code": "GG", "start_line": 2018, "end_line": 2022, "sha1": "5884b8fd11b56c443bfda2894f2d545d91a7bea3", "fingerprint": ["杜尔", "凯鹏华盈"]},
+      "evidence_level": "E3", "pillar_candidates": ["D07-2", "D06-3"],
+      "concept_key": "杜尔培养徒弟",
+      "ability_tags": [], "status": "已生成", "notes": "专名案例+可迁移机理（培养大量年轻人使自己能做的事更多更大）；母卡见 C-GG-U0027-03/04"
+    },
+    {
+      "claim_id": "C-GG-U0027-06", "unit_id": "GG-U0027", "speaker": "吴军本人",
+      "claim_text": "世上永远不缺低质量的东西，只缺高质量、少数人能做到的东西",
+      "quote": "只缺乏高质量的",
+      "anchor": {"book_code": "GG", "start_line": 2031, "end_line": 2033, "sha1": "4814d777c2bf7e47919fdb0dacca5b6ed0222486", "fingerprint": ["低质", "精致"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-2", "D05-1"],
+      "concept_key": "高质量才是稀缺的",
+      "ability_tags": ["做"], "status": "已生成", "notes": "以"己所不欲勿施于人"推出只做高质量之事；互引 C-GG-U0027-01"
+    },
+    {
+      "claim_id": "C-GG-U0027-07", "unit_id": "GG-U0027", "speaker": "吴军本人",
+      "claim_text": "不认真准备、不断返工的员工总体效率为零甚至为负；宁要慢而正向的员工",
+      "quote": "效率就等于零",
+      "anchor": {"book_code": "GG", "start_line": 2040, "end_line": 2046, "sha1": "bcc3081024efec8c44d524701b0eb01f45303ebf", "fingerprint": ["返工", "毛手毛脚"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-2", "D05-1"],
+      "concept_key": "不准备者贡献为负",
+      "ability_tags": ["做"], "status": "已生成", "notes": "答读者问04下半；效率=得到的结果/投入的定义随卡；管理视角"辛苦一年贡献为负"例并入本卡"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问04：吴军对稀缺性/牛首鸡首/带徒弟/效率四问均给出可迁移判断，读者提问本身无独立论点不入卡"
+}

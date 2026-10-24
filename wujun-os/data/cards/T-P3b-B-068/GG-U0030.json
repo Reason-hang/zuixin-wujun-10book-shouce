@@ -1,0 +1,46 @@
+{
+  "unit_id": "GG-U0030", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0030-01", "unit_id": "GG-U0030", "speaker": "吴军本人",
+      "claim_text": "主观看法并非坏事，多角度的主观合成起来就是带立体感的真实描述",
+      "quote": "带有立体感的现实描述",
+      "anchor": {"book_code": "GG", "start_line": 2165, "end_line": 2167, "sha1": "f966a0b159c14c486d49d99808e8aee59c2c4209", "fingerprint": ["主观", "立体感"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"],
+      "concept_key": "多角度主观合成真实",
+      "ability_tags": ["思"], "status": "已生成", "notes": "听取意见时偏爱真实的主观感受；认知方法卡"
+    },
+    {
+      "claim_id": "C-GG-U0030-02", "unit_id": "GG-U0030", "speaker": "吴军本人",
+      "claim_text": "中国人强的是家族观念而非家庭观念，美国中等以上家庭的家庭观念更强",
+      "quote": "家族观念，不是家庭观念",
+      "anchor": {"book_code": "GG", "start_line": 2173, "end_line": 2177, "sha1": "c900a7a8833d9607cd25e90d16cce25e0a42cec5", "fingerprint": ["家庭观念", "家族观念"]},
+      "evidence_level": "E1", "pillar_candidates": ["DT-待判"],
+      "concept_key": "家族观念与家庭观念之辨",
+      "ability_tags": ["思"], "status": "已生成", "notes": "跨文化比较判断，最接近 D01/D07 之间的"文明特征是理解行为的钥匙"类素材（格局同主题），无现成支柱，留 P4 裁；三层亲疏圈与家庭活动例并入"
+    },
+    {
+      "claim_id": "C-GG-U0030-03", "unit_id": "GG-U0030", "speaker": "吴军本人",
+      "claim_text": "凡事预约、按计划做事反而省时间，因为不用等待",
+      "quote": "凡事预约的习惯",
+      "anchor": {"book_code": "GG", "start_line": 2200, "end_line": 2206, "sha1": "332b4b49eb5a874976c638099da8f1d956b91c18", "fingerprint": ["预约", "计划"]},
+      "evidence_level": "E1", "pillar_candidates": ["D05-1", "D02-4"],
+      "concept_key": "凡事预约省时间",
+      "ability_tags": ["做"], "status": "已生成", "notes": "美国做事方式差异中的可迁移判断；差旅计划一做一年、牙科预约半年例并入；遗嘱信托式财产安排（默多克例）为计划性延伸表现，并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0030-04", "unit_id": "GG-U0030", "speaker": "吴军本人",
+      "claim_text": "计划性是双刃剑：太规范会失去灵活性和新机会，但没有计划也不行",
+      "quote": "计划性本身也是双刃剑",
+      "anchor": {"book_code": "GG", "start_line": 2211, "end_line": 2213, "sha1": "168af60caca70501302ecb353b615c2b70a75c79", "fingerprint": ["双刃剑", "灵活性"]},
+      "evidence_level": "E1", "pillar_candidates": ["D05-1"],
+      "concept_key": "计划性的双刃剑",
+      "ability_tags": ["思"], "status": "已生成", "notes": "出自今日思考题干中的吴军自述判断；与 C-GG-U0030-03 互为补充"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0030", "disposal": "X", "x_subtype": "X8", "reason": "中美生活优劣比较的叙述部分（好山好水好寂寞、家庭生活细节描述）属移民生活话题（HC-09 默认排除），仅抽可迁移方法论（主观合成、预约计划、计划双刃剑）"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第017封信以中美生活比较叙述为主，含4条可独立成立的方法论判断成卡，比较叙述记 X8"
+}

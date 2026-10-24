@@ -1,0 +1,62 @@
+{
+  "unit_id": "GG-U0026", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0026-01", "unit_id": "GG-U0026", "speaker": "吴军本人",
+      "claim_text": "用户关注本身可能很不值钱，建立在廉价关注基础上的生意难以挣钱",
+      "quote": "关注可能很不值钱",
+      "anchor": {"book_code": "GG", "start_line": 1937, "end_line": 1946, "sha1": "dc54d6704f165ae62a745c441cb0d73ae67d7870", "fingerprint": ["吸引眼球", "关注很不值钱"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-2", "D08-1"],
+      "concept_key": "关注不等于金钱",
+      "ability_tags": ["思"], "status": "已生成", "notes": "第016封信。反方观点"目光聚集金钱追随"；例证（颜伟鹏游戏广告获客成本2000元、失败投资人投备受关注产品）并入本卡。与格局《免费时代的赢家和输家》同主题，双出处由来信1批次登记"
+    },
+    {
+      "claim_id": "C-GG-U0026-02", "unit_id": "GG-U0026", "speaker": "吴军本人",
+      "claim_text": "不同人的关注价值不平等，优质、有自己观点的内容才带来高价值关注",
+      "quote": "不同人的关注是不平等的",
+      "anchor": {"book_code": "GG", "start_line": 1950, "end_line": 1958, "sha1": "87c618b2ed1ac515d136e1963a18648472ece53c", "fingerprint": ["严肃杂志", "优质的"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-2"],
+      "concept_key": "关注价值不平等",
+      "ability_tags": ["思"], "status": "已生成", "notes": "数据例证（美国观众每小时电视20美分、严肃杂志1美元、八卦小报不足10美分）并入本卡；结论句"优质的、有自己观点的内容的重要性""
+    },
+    {
+      "claim_id": "C-GG-U0026-03", "unit_id": "GG-U0026", "speaker": "吴军本人",
+      "claim_text": "经营好坏不看用户数量与关注，看ARPU值；小公司更应聚焦核心顾客",
+      "quote": "就看 ARPU 值高低了",
+      "anchor": {"book_code": "GG", "start_line": 1962, "end_line": 1969, "sha1": "baf28136d03a7cbbc2e8dfe29dfb641bfc0e16d8", "fingerprint": ["ARPU", "核心顾客"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1", "D08-2"],
+      "concept_key": "ARPU值思维",
+      "ability_tags": ["思"], "status": "已生成", "notes": "ARPU数据（苹果300美元、Google 30余美元、BAT 20余美元）为2017年时点数据，属证据非论断，不入X；概念与格局ARPU过滤标准同源，双出处由来信1批次登记"
+    },
+    {
+      "claim_id": "C-GG-U0026-04", "unit_id": "GG-U0026", "speaker": "史实",
+      "claim_text": "徕卡放弃与日本厂商拼价格，转而培养核心用户提升ARPU值，起死回生",
+      "quote": "不再和日本公司在价格上竞争",
+      "anchor": {"book_code": "GG", "start_line": 1970, "end_line": 1977, "sha1": "1acb095ef619a6f838a666db914f4919e503c557", "fingerprint": ["徕卡", "ARPU"]},
+      "evidence_level": "E3", "pillar_candidates": ["D08-2", "D08-1"],
+      "concept_key": "徕卡培养核心用户",
+      "ability_tags": [], "status": "已生成", "notes": "专名案例+可迁移机理（放弃价格竞争、以社区建设提高核心用户ARPU），母卡见 C-GG-U0026-03；含自媒体按ARPU排序的过滤标准"
+    },
+    {
+      "claim_id": "C-GG-U0026-05", "unit_id": "GG-U0026", "speaker": "吴军本人",
+      "claim_text": "个人发展上与其四处求廉价关注，不如为高价值的朋友提供价值",
+      "quote": "这种努力方向完全错了",
+      "anchor": {"book_code": "GG", "start_line": 1979, "end_line": 1982, "sha1": "9d0a78d87bac066e511249823eb8667031a4648d", "fingerprint": ["廉价的关注", "高 ARPU 值的群体"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2", "D03-1"],
+      "concept_key": "高ARPU值的朋友",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "把ARPU逻辑迁移到交友与精力取舍；同段"不读免费低质量内容"判断见 C-GG-U0026-06"
+    },
+    {
+      "claim_id": "C-GG-U0026-06", "unit_id": "GG-U0026", "speaker": "吴军本人",
+      "claim_text": "对读者而言，消费付费高质量内容远比免费低质量内容有意义",
+      "quote": "远没有付费高质量的内容有意义",
+      "anchor": {"book_code": "GG", "start_line": 1958, "end_line": 1961, "sha1": "d4b6b5c779daf381a01315141de75153f141417c", "fingerprint": ["付费", "低质量"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-2", "D02-2"],
+      "concept_key": "付费优质内容胜免费",
+      "ability_tags": ["学"], "status": "已生成", "notes": "以书30美元/10小时、电影4美元/小时与小报几毛钱的对照为据；互引 C-GG-U0026-02"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第016封信通篇为超越免费/ARPU价值判断，含6条可独立成立论点，全部成卡"
+}

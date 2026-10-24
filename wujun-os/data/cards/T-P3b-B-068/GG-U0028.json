@@ -1,0 +1,47 @@
+{
+  "unit_id": "GG-U0028", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0028-01", "unit_id": "GG-U0028", "speaker": "吴军本人",
+      "claim_text": "创业公司让优秀员工在低收入、前景不确定时团结一致，靠的是创始人领袖魅力",
+      "quote": "领袖魅力起了非常重要的作用",
+      "anchor": {"book_code": "GG", "start_line": 2057, "end_line": 2062, "sha1": "c2b6ded07ebb2cf94962ff509d9c8f7168655cc1", "fingerprint": ["佩奇", "布林"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1", "D07-2"],
+      "concept_key": "创始人领袖魅力聚人",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "周末放送，节选自《浪潮之巅》第18章；门卫评价、布林朴素随和轶事并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0028-02", "unit_id": "GG-U0028", "speaker": "吴军本人",
+      "claim_text": "办好公司光靠友好和善不够，还需知人善任、技术判断与商业眼光",
+      "quote": "光靠友好和善不足以办好公司",
+      "anchor": {"book_code": "GG", "start_line": 2066, "end_line": 2073, "sha1": "f975dbf14ab89443a0b58ec9bd8d8ddbc0fdc41e", "fingerprint": ["知人善任", "用人艺术"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1", "D06-3"],
+      "concept_key": "和善不足以办好公司",
+      "ability_tags": [], "status": "已生成", "notes": "罗森案例（以指数增长曲线说服苹果前副总裁加盟）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0028-03", "unit_id": "GG-U0028", "speaker": "吴军本人",
+      "claim_text": "Google 的成功不是碰巧蒙对搜索广告，而是它把搜索广告业务变成了金矿",
+      "quote": "将搜索广告业务变成了金矿",
+      "anchor": {"book_code": "GG", "start_line": 2075, "end_line": 2077, "sha1": "f81d79cd72756ae2b43651c106b92f39737d7ce9", "fingerprint": ["机会论", "因果关系"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1"],
+      "concept_key": "因果反转看成功",
+      "ability_tags": ["思"], "status": "已生成", "notes": "反"蒙对了"的机会论；《华尔街日报》因果反转观点为佐证来源，吴军明确采纳为己论"
+    },
+    {
+      "claim_id": "C-GG-U0028-04", "unit_id": "GG-U0028", "speaker": "吴军本人",
+      "claim_text": "改变用户习惯、确立新游戏规则，对手一旦按你的规则竞争就已落下风",
+      "quote": "着了 Google 的道儿",
+      "anchor": {"book_code": "GG", "start_line": 2078, "end_line": 2080, "sha1": "0db4b0ab5395c5c94766dad01b0a96bbef697cd2", "fingerprint": ["制高点", "游戏规则"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1", "D10-1"],
+      "concept_key": "自定游戏规则",
+      "ability_tags": ["思"], "status": "已生成", "notes": "浏览转搜索、雅虎微软拼搜索即落入 Google 规则；与来信1"新旧时代之争"主题相邻，双出处由来信1批次登记"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0028", "disposal": "X", "x_subtype": "X4", "reason": "佩奇布林公司史叙述（注资AOL击退微软、收购YouTube、MySpace广告经营权等互联网2.0布局史实）并入卡内例证，仅留可迁移方法论"},
+    {"unit_id": "GG-U0028", "disposal": "X", "x_subtype": "X1", "reason": "单元末尾《浪潮之巅第三版》购书推广语（京东App链接）属出版营销载体非内容"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末放送虽为公司史节选，但含领袖魅力、因果反转、游戏规则三条可迁移商业判断，成4卡"
+}

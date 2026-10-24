@@ -1,0 +1,19 @@
+{
+  "unit_id": "GG-U0029", "book_code": "GG", "extractor": "EXT-GG3", "batch_id": "T-P3b-B-068",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0029-01", "unit_id": "GG-U0029", "speaker": "吴军本人",
+      "claim_text": "读完来信后要多思考、多分享、多做笔记，把学到的知识用起来",
+      "quote": "多思考、多分享、多做笔记",
+      "anchor": {"book_code": "GG", "start_line": 2098, "end_line": 2099, "sha1": "cfc91d76f517662bcb19a422e7206ae271777aff", "fingerprint": ["回信", "稀缺性"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"],
+      "concept_key": "多思考多分享多做笔记",
+      "ability_tags": ["学"], "status": "已生成", "notes": "周末互动单元中吴军仅有的本人方法论句；与"凡事做记录"（来信1）主题相邻"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0029", "disposal": "X", "x_subtype": "X7", "reason": "本单元主体为读者回信精选（@乔叶价值链职业定位、@肖男忍与能两条线、@古小千稀缺五维、@Jimm效率曲线、@emily有趣的人特征），吴军仅作主题引荐未逐条评述，按读者来信原文排除；其中波特价值链系读者转述第三方"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末互动以读者回信为主体（X7 排除），吴军引言中含一条学习方法判断成卡"
+}
