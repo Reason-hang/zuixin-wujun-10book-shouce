@@ -1,0 +1,108 @@
+{
+  "unit_id": "GG-U0166",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0166-01",
+      "unit_id": "GG-U0166",
+      "speaker": "吴军本人",
+      "claim_text": "凡事有一利就有一弊的实例：法国从小注重思辨训练与理性质疑出了无数思想家，但过分强调怀疑使年轻人永远不满现状",
+      "quote": "凡事有一利就有一弊",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11242,
+        "end_line": 11246,
+        "sha1": "82d0ae52dae69d6942f6d364291646670f7b1eb7",
+        "fingerprint": [
+          "思辨",
+          "怀疑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "思辨的利与弊",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "法国高考哲学作文四小时三选一（语录评论/观点论述如「语言仅仅是一种工具吗」11238-11240行）。"
+    },
+    {
+      "claim_id": "C-GG-U0166-02",
+      "unit_id": "GG-U0166",
+      "speaker": "吴军本人",
+      "claim_text": "在法国要出人头地唯一的办法是挤进精英学校：非精英学校毕业成为精英的可能性非常小——很多人的命运在20岁就由学校决定了",
+      "quote": "由他们的学校决定了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11265,
+        "end_line": 11270,
+        "sha1": "91a5335f8d7c20d7eb0075a1f613dc5fc76b6fae",
+        "fingerprint": [
+          "精英学校",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-2"
+      ],
+      "concept_key": "法国精英通道",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "数据：巴黎高师年招本科不足百名、10个菲尔兹奖；500强法国公司半数CEO出自综合理工；8位总统6位出自巴黎政治学院（11253-11266行）；预科班每周50小时课（11273行）。"
+    },
+    {
+      "claim_id": "C-GG-U0166-03",
+      "unit_id": "GG-U0166",
+      "speaker": "吴军本人",
+      "claim_text": "任何国家要长期保持竞争力，一定不能搞完全公平的高等教育：最好的教育资源永远是紧缺的——不要梦想最好的教育资源能普遍化",
+      "quote": "不能搞完全公平的高等教育",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11287,
+        "end_line": 11294,
+        "sha1": "cbfe9bd590e040444b24ed5dc6100de16b908550",
+        "fingerprint": [
+          "竞争力",
+          "公平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "不可完全公平",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：法国一般教育公平得过分、精英教育比中国还独木桥（从考高中开始，11289-11292行）；要感谢今天中国给每个人提供的机会（11296行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0166",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "Grande Ecole沿革与各校名人录、就业能力排名（11247-11285行）为教育制度史，记X5"
+    },
+    {
+      "unit_id": "GG-U0166",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11299行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第095封信：法国思辨与精英教育3卡。"
+}

@@ -1,0 +1,108 @@
+{
+  "unit_id": "GG-U0157",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0157-01",
+      "unit_id": "GG-U0157",
+      "speaker": "吴军本人",
+      "claim_text": "世界上95%的人不适合做主动投资，这是人性所致：患得患失、定力不够",
+      "quote": "95%的人不适合做主动投资",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10664,
+        "end_line": 10668,
+        "sha1": "360834073e93e5f0e18eb2cffc8c6f0b463900e4",
+        "fingerprint": [
+          "主动投资",
+          "人性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-1"
+      ],
+      "concept_key": "95%不适合主动投资",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：后悔没买比特币=后悔双色球没选中奖号码（10668行）；苹果2004年起的回报100倍 vs Google 30倍——上市后再投也有大机会（10666行）。"
+    },
+    {
+      "claim_id": "C-GG-U0157-02",
+      "unit_id": "GG-U0157",
+      "speaker": "吴军本人",
+      "claim_text": "中药方与西方实验记录的差异：药方只给答案不讲来由（跳过步骤、根据猜测）、疗效因人而异难以复现、只记成功不记失败",
+      "quote": "只记录成功的情况",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10676,
+        "end_line": 10684,
+        "sha1": "fbfba318e4b788dfb6fb8e3ea616b1e90b474b95",
+        "fingerprint": [
+          "药方",
+          "记录"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "答案式vs过程式记录",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0154卡3（记录带来叠加进步）；有经验的科学家带博士生能告知哪些路走不通（10683行）；中国较完整的档案其实是县志地方志（10684行）。"
+    },
+    {
+      "claim_id": "C-GG-U0157-03",
+      "unit_id": "GG-U0157",
+      "speaker": "吴军本人",
+      "claim_text": "美国高铁建不起来的三个原因：航空发达地面耗时少（每年飞行人次世界第一）、地广人稀高铁无法盈利、土地私有难以征地",
+      "quote": "三个原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10692,
+        "end_line": 10701,
+        "sha1": "cba5dd1db219d5f853715030ff22712e38a9b440",
+        "fingerprint": [
+          "高铁",
+          "航空"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "美国高铁三因",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "背景：美国铁路里程世界第一（约中国两倍）但系统老旧运力不足（10694行）；汽车进入家庭与飞机兴起使铁路失去客运（10696行）；郊区人因环保重新坐火车通勤（10701行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0157",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（10648-10650/10658-10660/10670-10671/10686-10688行）为读者来信，按X7处置"
+    },
+    {
+      "unit_id": "GG-U0157",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10702-10704行发布时间变更通知为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问22：投资/记录/高铁3卡（西班牙环球航线10654-10656行并入卡3航空背景）。"
+}

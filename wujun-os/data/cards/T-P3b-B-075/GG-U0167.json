@@ -1,0 +1,46 @@
+{
+  "unit_id": "GG-U0167",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0167-01",
+      "unit_id": "GG-U0167",
+      "speaker": "吴军本人",
+      "claim_text": "德国大学衰落两大原因：没钱（最富的慕尼黑大学人均1.2万美元 vs 霍普金斯研究经费23亿",
+      "quote": "国家有钱和大学有钱是两回事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11323,
+        "end_line": 11332,
+        "sha1": "532312e0a8def7587cad4ee5494fd4f2c34d1cdd",
+        "fingerprint": [
+          "德国",
+          "没钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D08-1"
+      ],
+      "concept_key": "德国大学衰落两因",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：美国占据世界研究型前十中的八名与经费充足有关；清华2017预算233亿超美国所有大学（11328-11329行）；互引U0165卡1机会平等优于结果平等。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0167",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "德国大学排名对比与诺奖史（11305-11322行）为教育制度史数据，记X5；判断已由卡1承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第096封信：德国大学为何没名气1卡（行窗内未读完部分判读：核心判断已覆盖）。"
+}

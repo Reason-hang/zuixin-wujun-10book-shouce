@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0158",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0158-01",
+      "unit_id": "GG-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "衡量发明影响力=长度×宽度×深度：集成电路排20世纪第一",
+      "quote": "现有产业＋集成电路＝新产业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10720,
+        "end_line": 10727,
+        "sha1": "81b8780d30031eda14d1c846db845581a0c7b2d6",
+        "fingerprint": [
+          "集成电路",
+          "范式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "集成电路最伟大发明",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "美国人评20世纪最伟大美国人：诺伊斯基尔比肖克利并列第一、福特第二、罗斯福第三——更敬重发明家（10728-10729行）；互引U0131卡6人生一条河。"
+    },
+    {
+      "claim_id": "C-GG-U0158-02",
+      "unit_id": "GG-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "诺伊斯道出摩尔定律成立的原因：半导体原材料（沙子和金属导线）成本趋近于零，竞争转向制造工艺——信息时代值钱的是知识附加值",
+      "quote": "成本趋近于零",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10749,
+        "end_line": 10752,
+        "sha1": "9756d8caed93f84b2726652fb24c384d6cbc039e",
+        "fingerprint": [
+          "摩尔定律",
+          "附加值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "诺伊斯预言摩尔定律",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "1957年诺伊斯说服菲尔柴尔德的原话：制造电子产品将比修理更便宜（10751行）。"
+    },
+    {
+      "claim_id": "C-GG-U0158-03",
+      "unit_id": "GG-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "封装基础功能是IT产业的重要方法：算法可封装开源、电路功能也能封装成集成电路",
+      "quote": "封装",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10770,
+        "end_line": 10770,
+        "sha1": "4d93566929935c8e25ddc70246ce80e71bc190c9",
+        "fingerprint": [
+          "封装",
+          "功能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "封装即IT方法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0138卡2（数据结构=程序的预制件）。"
+    },
+    {
+      "claim_id": "C-GG-U0158-04",
+      "unit_id": "GG-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "没有继承就没有颠覆：八叛徒继承肖克利的工作做成更可靠的晶体管是颠覆，赫尔尼平面工艺既是继承又是颠覆",
+      "quote": "没有继承，就没有颠覆",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10772,
+        "end_line": 10772,
+        "sha1": "f4cf1ab3b30c84add4b2cba0e67fc93998f6646e",
+        "fingerprint": [
+          "继承",
+          "颠覆"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D10-1"
+      ],
+      "concept_key": "继承与颠覆",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "平面工艺如底片印照片：拍照→复制100份→光刻→切割封装（10760-10762行）。"
+    },
+    {
+      "claim_id": "C-GG-U0158-05",
+      "unit_id": "GG-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "融资要找对人：八叛徒各个是世界级专家、洛克后来被称为风投之父，但一开始找错了人（鞋业/食品厂/运输公司）接连30次碰壁",
+      "quote": "融资要找对人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10774,
+        "end_line": 10774,
+        "sha1": "77dd62c26738f5ff0800537002ec9187f3692f7e",
+        "fingerprint": [
+          "融资",
+          "找对人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-1"
+      ],
+      "concept_key": "融资找对人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0158-06",
+      "unit_id": "GG-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "人必须有三两句话就把问题讲清楚的本领：诺伊斯说服菲尔柴尔德没有多费口舌，几句话击中要害对方马上就懂",
+      "quote": "三两句话就把问题讲清楚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10776,
+        "end_line": 10776,
+        "sha1": "3d7742f18364aef36fc67ca5173fd0c435d3498d",
+        "fingerprint": [
+          "讲清楚",
+          "要害"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-2"
+      ],
+      "concept_key": "三两句讲清本领",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "互引U0090卡1（名片背面写清楚）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0158",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "八叛徒融资史与仙童公司沿革（10731-10765行，含10张一美元钞票签名）为产业史叙述，记X4；四要点已由卡3-6承载；中兴事件评论（10713-10716行）留痕notes于卡1"
+    },
+    {
+      "unit_id": "GG-U0158",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10779行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第089封信：集成电路发明四要点+影响力6卡。"
+}

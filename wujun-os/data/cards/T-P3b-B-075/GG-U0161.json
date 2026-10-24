@@ -1,0 +1,186 @@
+{
+  "unit_id": "GG-U0161",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0161-01",
+      "unit_id": "GG-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "客观性标准本身可能是主观的：所谓客观结论依然由人给出，日常生活办不到完全不受个人因素影响",
+      "quote": "本身可能也是主观的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10908,
+        "end_line": 10915,
+        "sha1": "bebbea6f1876607b7ba43581aa500a1a0eb76948",
+        "fingerprint": [
+          "客观",
+          "主观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "客观标准的主观性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0161-02",
+      "unit_id": "GG-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "Facebook提供了另一种组织信息的方式：以你信得过的人为过滤依据",
+      "quote": "以你信得过的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10922,
+        "end_line": 10928,
+        "sha1": "b98283e418427ac382af0f6f7a8da5af33fcef3f",
+        "fingerprint": [
+          "Facebook",
+          "过滤"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D01-1"
+      ],
+      "concept_key": "两种信息组织方式",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "Page Rank本质是网页用链接变相投票（10918行）；Google后来只强调算法产生、不人为调整（10921行）。"
+    },
+    {
+      "claim_id": "C-GG-U0161-03",
+      "unit_id": "GG-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "主观意见比客观事实重要：真知灼见都在主观看法中——客观描述通常完全正确又完全无用；华尔街日报唯一的价值是主观性极强的专栏",
+      "quote": "主观的意见比客观的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10936,
+        "end_line": 10941,
+        "sha1": "2bcddd5935f959fe4c3d12e2b9611e66f523d19f",
+        "fingerprint": [
+          "主观",
+          "专栏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "主观意见的价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两个原因：客观不过是按某一主观标准滤除主观性的结果；把各种主观观点综合分析可得深刻看法（10940-10941行）。"
+    },
+    {
+      "claim_id": "C-GG-U0161-04",
+      "unit_id": "GG-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "人的主观性是区别于动物的本质属性：动物只有本能，人有不同的想法——这本该是人的价值所在",
+      "quote": "区别于动物的一个固有的本质属性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10942,
+        "end_line": 10945,
+        "sha1": "674b5e724a2f826166e3d826a1e85cebb6d37fc1",
+        "fingerprint": [
+          "主观性",
+          "动物"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "主观性是人的价值",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述斯坦福哲学博士同事杰克逊之言。"
+    },
+    {
+      "claim_id": "C-GG-U0161-05",
+      "unit_id": "GG-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "看到各种主观意见反而能做到客观；最怕的是听不到任何人的主观意见、自以为看到了客观结果——对任何排名评判要看根据与出发点",
+      "quote": "就反而能做到客观了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10948,
+        "end_line": 10949,
+        "sha1": "df9b29b8cce5f8e36d6c2b5b7b1287dff7384047",
+        "fingerprint": [
+          "主观",
+          "排名"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "多听主观才客观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0161-06",
+      "unit_id": "GG-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "四条实践：没有绝对客观、不可偷懒接受权威标准",
+      "quote": "公平、公正",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10951,
+        "end_line": 10959,
+        "sha1": "f1c9a5581029ccf6b20b248735068f1d3bbebf4a",
+        "fingerprint": [
+          "公平",
+          "规则"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D05-1"
+      ],
+      "concept_key": "主客观四条实践",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "另：Google打赢排名官司靠的是宪法第一修正案（言论自由=排名是主观意愿的表达）（10932-10935行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0161",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10960-10963行思考题/回顾引导为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第092封信：主观与客观6卡。"
+}

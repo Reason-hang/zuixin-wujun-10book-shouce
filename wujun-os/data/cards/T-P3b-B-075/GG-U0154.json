@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0154",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0154-01",
+      "unit_id": "GG-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "盲目试错是效率最低的做事方法：欧洲早期工匠无方向地尝试烧制瓷器一浪费就是上百年——做好计划事先考虑周全并不影响速度",
+      "quote": "盲目试错才是效率最低的做事方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10483,
+        "end_line": 10484,
+        "sha1": "e31605780e8cf038dbec0a1af3ef40bb6e8dc1dc",
+        "fingerprint": [
+          "盲目",
+          "试错"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "盲目试错最低效",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：美第奇家族用各种漂亮材料盲目烧制无法成功（10483行）。"
+    },
+    {
+      "claim_id": "C-GG-U0154-02",
+      "unit_id": "GG-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "伯特格尔4年3万次实验再发明瓷器：记录全部过程与细微差异（存德累斯顿档案馆）",
+      "quote": "3万次实验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10493,
+        "end_line": 10501,
+        "sha1": "88c625d6dba09f70c9d62565b7f2d9c9da73b06b",
+        "fingerprint": [
+          "伯特格尔",
+          "3万次"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "伯特格尔3万次实验",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "细节：红陶→麦森高岭土加长石烧出白瓷（10493-10495行）；欧洲人有理性认识和定量了解、善于细微调节配比（10501行）。"
+    },
+    {
+      "claim_id": "C-GG-U0154-03",
+      "unit_id": "GG-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "保留做事的记录很重要：既能找出成败原因、重复成功，又容易取得可叠加性进步——中国名瓷因不记录而总在发明-失传怪圈中徘徊",
+      "quote": "实验记录",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10509,
+        "end_line": 10512,
+        "sha1": "0d4351890ca18ac816cdb8bdb672a235b3ab8361",
+        "fingerprint": [
+          "记录",
+          "叠加"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "记录带来叠加进步",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对照：欧洲因有全部配比与工艺记录今天能仿制任何一款历史瓷器并继续改进；汝窑成分工艺今天没人说得清（10509-10511行）；中国人不重定量分析致不同批次水平相差大（10526行）。"
+    },
+    {
+      "claim_id": "C-GG-U0154-04",
+      "unit_id": "GG-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "不用担心笨办法和慢节奏，但要避免狗熊掰棒子原地踏步——只要进步是可持续、不断叠加的，稍长时间就比别人快",
+      "quote": "狗熊掰棒子",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10529,
+        "end_line": 10529,
+        "sha1": "bafce5bee484c831be3119f4e255d83603656e04",
+        "fingerprint": [
+          "叠加",
+          "笨办法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "可持续叠加进步",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0075卡4可叠加进步、U0118卡3渐变是常态。"
+    },
+    {
+      "claim_id": "C-GG-U0154-05",
+      "unit_id": "GG-U0154",
+      "speaker": "史实",
+      "claim_text": "韦奇伍德借工业革命后来居上：以地质学家身份发现英国高岭土、用瓦特蒸汽机制瓷",
+      "quote": "骨质瓷器",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10520,
+        "end_line": 10521,
+        "sha1": "235fa1fa71cc1c3f440aa81c980a5425fb796dbd",
+        "fingerprint": [
+          "韦奇伍德",
+          "蒸汽机"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "蒸汽机制瓷首例",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "另例：法国塞夫勒镀金（大蒜汁和24K金粉）与宝石蓝珐琅彩——康熙下令仿制标志中国已落后于欧洲（10515-10519行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0154",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "欧洲瓷器研制史与各国瓷窑沿革（10476-10482/10486-10521行）为工艺史叙述，记X4；方法论已由5卡承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第087封信：欧洲再发明瓷器5卡。"
+}

@@ -1,0 +1,135 @@
+{
+  "unit_id": "GG-U0165",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0165-01",
+      "unit_id": "GG-U0165",
+      "speaker": "吴军本人",
+      "claim_text": "创造平等的机会比平等的结果更合理：直接给贫民子弟留配额会毁学校声誉与国家竞争力",
+      "quote": "平等的机会，而不是平等的结果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11190,
+        "end_line": 11197,
+        "sha1": "02f0d89fd4542428e8e251b6de7373a8854382d0",
+        "fingerprint": [
+          "机会",
+          "结果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "机会平等优于结果平等",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：教育均等法案要求30%学生来自贫民区，类似计划经济、大学消极抵制（11199-11201行）。"
+    },
+    {
+      "claim_id": "C-GG-U0165-02",
+      "unit_id": "GG-U0165",
+      "speaker": "吴军本人",
+      "claim_text": "只有计划性教育系统才一种标准，民主政治下的高等教育一定是兼顾各方利益后形成的奇葩形态",
+      "quote": "犬牙交错",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11210,
+        "end_line": 11211,
+        "sha1": "cccea80db1075495183399675178e4b64facede4",
+        "fingerprint": [
+          "利益博弈",
+          "犬牙交错"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-2"
+      ],
+      "concept_key": "博弈产生复杂形态",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0165-03",
+      "unit_id": "GG-U0165",
+      "speaker": "吴军本人",
+      "claim_text": "法国公平观：富家子弟社会资源多、大学对他帮助不明显；贫家子弟不给机会可能一辈子毁了",
+      "quote": "大学对他很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11213,
+        "end_line": 11217,
+        "sha1": "253374fd30e493b9b7dc1da6fba7c4c6a218c210",
+        "fingerprint": [
+          "公平",
+          "贫家"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2",
+        "D09-1"
+      ],
+      "concept_key": "法国公平观",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述法国大学教授观点并注明吴军保留意见（11217行）。"
+    },
+    {
+      "claim_id": "C-GG-U0165-04",
+      "unit_id": "GG-U0165",
+      "speaker": "吴军本人",
+      "claim_text": "就近录取+抽签录取：奥数金牌比数学学渣没有太多优势——法国人认为达到基本要求就应该平等一视同仁",
+      "quote": "抽签",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11218,
+        "end_line": 11222,
+        "sha1": "7144694a63f7226d864699acd6929ca038a50360",
+        "fingerprint": [
+          "抽签",
+          "就近"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "法国就近与抽签",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "好学区房价贵：中国家长花50万欧元买9平米房（11218行）；但法国人没把上大学看成唯一出路、抢学区房没中国严重（11219行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0165",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "法国高考Bac科目结构与教育均等法案细节（11187-11209行）为教育制度介绍，记X5；判断已由4卡承载"
+    },
+    {
+      "unit_id": "GG-U0165",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11227行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第094封信：法国教育体系（上）4卡。"
+}

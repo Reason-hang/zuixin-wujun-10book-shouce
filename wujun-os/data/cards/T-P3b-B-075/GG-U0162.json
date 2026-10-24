@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0162",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0162-01",
+      "unit_id": "GG-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "安迪-比尔定律：比尔拿走安迪所给的——软件吃掉硬件提升的全部好处迫使用户更新机器，硬件厂商恰恰靠软件用光硬件资源而生存",
+      "quote": "安迪所给的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10986,
+        "end_line": 10994,
+        "sha1": "709d563a809a56dea8a00973eb03f99c47fc4dc1",
+        "fingerprint": [
+          "安迪",
+          "比尔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "安迪-比尔定律",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "生态链：微软吃硬件好处→用户换机→惠普戴尔受益→订购英特尔芯片→利润投入研发按摩尔定律提升→为微软下一步做准备（11019-11020行）；Vista延期一年使英特尔到外设厂股票跌20-40%（11009-11010行）。"
+    },
+    {
+      "claim_id": "C-GG-U0162-02",
+      "unit_id": "GG-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "软件越来越大不是阴谋而是工程规律：编程语言越来越好用而执行效率越来越低（Java比C++低、C++比C低）",
+      "quote": "执行效率却越来越低",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10997,
+        "end_line": 11006,
+        "sha1": "4b45fd8c489d24847bd99fb198ebef26ef35ff19",
+        "fingerprint": [
+          "Java",
+          "效率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "软件膨胀的机理",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：当年BASIC用汇编写成精炼至极，今天.NET几百兆——盖茨本人也希望做小（10997-11002行）。"
+    },
+    {
+      "claim_id": "C-GG-U0162-03",
+      "unit_id": "GG-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "没有魔鬼比尔天使安迪就不存在：2011-2015年PC软件更新动力不足，英特尔也不再重视PC处理器",
+      "quote": "不复存在了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11040,
+        "end_line": 11046,
+        "sha1": "380dec60ccc5e643fb7d36b9e60ef9c2441bee85",
+        "fingerprint": [
+          "比尔",
+          "安迪"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "比尔与安迪共生",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "手机格局And-Arm：Android如当年Windows、高通博通Marvell如当年英特尔（11031行）；G1主频528MHz一年后Nexus One达1GHz（11037行）。"
+    },
+    {
+      "claim_id": "C-GG-U0162-04",
+      "unit_id": "GG-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "安迪-比尔定律把耐用消费品变成消耗性商品——三年前的手机已无法流畅用微信，唯一选择是更换，这刺激着整个IT行业的发展",
+      "quote": "耐用消费品",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11048,
+        "end_line": 11049,
+        "sha1": "232de1a8983738ff8fa46cc571f61edbecd81496",
+        "fingerprint": [
+          "耐用",
+          "消耗"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "耐用变消耗",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0162-05",
+      "unit_id": "GG-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "通用芯片不是一个孤立产品：处理器性能须靠操作系统配合才能发挥（英特尔与Windows磨合几十年、安卓与ARM天衣无缝）",
+      "quote": "放到一个系统中才能有用途",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10972,
+        "end_line": 10977,
+        "sha1": "2a44e3820334b550d85aa9072e105b31bda253b8",
+        "fingerprint": [
+          "通用芯片",
+          "生态"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "通用芯片须生态",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "回答「为何航天器能上天却做不出通用芯片」：通用处理器是巨大系统工程与特殊产业生态（10976行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0162",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "PC/手机销量与股价沿革数据（10983-10984/11009-11017/11037-11039行）为产业史数据，记X4"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（安迪-比尔定律）：5卡。"
+}

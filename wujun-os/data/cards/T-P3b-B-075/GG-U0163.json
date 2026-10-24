@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0163",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0163-01",
+      "unit_id": "GG-U0163",
+      "speaker": "吴军本人",
+      "claim_text": "有一个明确的答案比没有答案好：怕犯错误的教育养成了选择困难，两边都想得到的人常常两边都得不到——必须舍弃一个",
+      "quote": "有一个明确的答案都比没有答案好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11064,
+        "end_line": 11067,
+        "sha1": "dfae5a816921aafd7a00e842051ce90ebd7dbe45",
+        "fingerprint": [
+          "明确",
+          "舍弃"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D03-1"
+      ],
+      "concept_key": "明确答案优于兼顾",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0139卡1（任何选择都比没有选择好）。"
+    },
+    {
+      "claim_id": "C-GG-U0163-02",
+      "unit_id": "GG-U0163",
+      "speaker": "吴军本人",
+      "claim_text": "一旦选定就好好经营不要回头：真正的幸福有些时候是认死理——娶了红玫瑰就想白玫瑰的毛病要避免",
+      "quote": "不要再回头想着另一方面的好处",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11069,
+        "end_line": 11069,
+        "sha1": "595ad597986a8844f0163719658b4bb2db0d865f",
+        "fingerprint": [
+          "认死理",
+          "红玫瑰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "认死理的幸福",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引《硅谷来信》第117封不选择的自由。"
+    },
+    {
+      "claim_id": "C-GG-U0163-03",
+      "unit_id": "GG-U0163",
+      "speaker": "吴军本人",
+      "claim_text": "不要觉得百年老店能保证铁饭碗：AT&T快下坡使瑞里跑得早赶上Google；微软IBM温水煮青蛙式下坡使师兄失去机会",
+      "quote": "温水煮青蛙式地走下坡路",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11072,
+        "end_line": 11077,
+        "sha1": "28fa2952a75d0eb93a6ac9550f60440460bd5449",
+        "fingerprint": [
+          "百年老店",
+          "铁饭碗"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D02-1"
+      ],
+      "concept_key": "百年老店非铁饭碗",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0163-04",
+      "unit_id": "GG-U0163",
+      "speaker": "吴军本人",
+      "claim_text": "AI比人客观体现在两点：发挥稳定一致性好（今天这么开明天还这么开）；算法设定经过事先深思熟虑",
+      "quote": "AI比较客观",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11085,
+        "end_line": 11097,
+        "sha1": "f153172186db3a08b43b91f5253bff640bc2a778",
+        "fingerprint": [
+          "AI",
+          "客观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "AI的客观与主观",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：哈佛录取官忘了哪摞是录取的（人的随意性，11093-11094行）；无人车撞骑车人还是跌山崖的策略都是人事先设定的（11098行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0163",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（11059-11060/11078-11079/11085行）为读者来信，按X7处置；MIT拉万人机关系研究引子（11099行）留待后续单元"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问23：选择/铁饭碗/AI客观4卡。"
+}

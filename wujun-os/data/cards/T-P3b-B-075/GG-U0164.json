@@ -1,0 +1,129 @@
+{
+  "unit_id": "GG-U0164",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0164-01",
+      "unit_id": "GG-U0164",
+      "speaker": "转述·第三方",
+      "claim_text": "纽曼：如果必须选，我毫不犹豫选那种没教授没考试、让年轻人共同生活互相学习三四年的大学",
+      "quote": "即使没有人教，他们也能互相学习",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11125,
+        "end_line": 11131,
+        "sha1": "d864518137fa935073c933d47a13f201e85151d6",
+        "fingerprint": [
+          "纽曼",
+          "互相学习"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "纽曼大学理念",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "转述《大学的理念》；教育终极目的是培养有能力服务于社会的人而非发文凭（11128行）；大学是传播大行之道而非雕虫小技的地方（11136行，互引U0069 X5纽曼条）。"
+    },
+    {
+      "claim_id": "C-GG-U0164-02",
+      "unit_id": "GG-U0164",
+      "speaker": "吴军本人",
+      "claim_text": "学院制贯彻纽曼理念：为学生建大家庭、教授与学生生活在一起，让年轻人相互学习并从教授身上学到课本之外的知识",
+      "quote": "课本之外的知识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11138,
+        "end_line": 11139,
+        "sha1": "946e7f595b5106fba34271e108d9d5086229be2b",
+        "fingerprint": [
+          "学院制",
+          "课本之外"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "学院制贯彻理念",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "前提：选牛剑首先要认可学院制——只慕盛名却不能与同学共同生活就失去意义（11139行）；互引U0127卡1。"
+    },
+    {
+      "claim_id": "C-GG-U0164-03",
+      "unit_id": "GG-U0164",
+      "speaker": "吴军本人",
+      "claim_text": "导师制是牛剑第二大特色：导师定期与学生交流、据个人特点指导读书做实验、点评研究报告",
+      "quote": "导师制",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11144,
+        "end_line": 11152,
+        "sha1": "6a5e18712ba15cab273fa526d469556852ec80c9",
+        "fingerprint": [
+          "导师",
+          "交流"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "导师制",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "双方都有压力：学生怕选错、导师怕看走眼招进让自己受三年罪的学生（11152行）；互引U0127卡3。"
+    },
+    {
+      "claim_id": "C-GG-U0164-04",
+      "unit_id": "GG-U0164",
+      "speaker": "吴军本人",
+      "claim_text": "上课考试只是牛剑学习的一部分：三学期每年仅24周上课，其余时间学生回学院在导师指导下做实验写研究报告",
+      "quote": "只有8周时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11154,
+        "end_line": 11161,
+        "sha1": "c1ab05ca28beb8504842ff09c68cc705fe7ceb20",
+        "fingerprint": [
+          "Triposes",
+          "24周"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "课内外分工",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "人文社科每篇研究报告三四十页不比本科毕设短（11163行）；剑桥与MIT合作培养本科科研（11166行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0164",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "牛剑录取数据对比（HYPMS每年录取中国人不超50 vs 牛桥各上百，11171-11172行）为升学信息，记X5"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第093封信：牛剑教育与导师制4卡。"
+}

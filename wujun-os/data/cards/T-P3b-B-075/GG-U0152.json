@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0152",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0152-01",
+      "unit_id": "GG-U0152",
+      "speaker": "吴军本人",
+      "claim_text": "炉温＝文明程度：能烧1000度进青铜时代、1200度冶炼生铁、1300度以上才能烧瓷",
+      "quote": "炉温＝文明程度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10371,
+        "end_line": 10372,
+        "sha1": "fa55270f00f431f9420887f9c7c7b1978b8f0b29",
+        "fingerprint": [
+          "炉温",
+          "文明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "炉温即文明",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "原理：文明能使用的能量大小是衡量标准（10372行）；互引U0124卡4（能量守恒）。"
+    },
+    {
+      "claim_id": "C-GG-U0152-02",
+      "unit_id": "GG-U0152",
+      "speaker": "吴军本人",
+      "claim_text": "重要发明三条件＝大前提+小前提+运气：瓷器需高温（大前提）、上釉（小前提）、高岭土（运气）——缺一不可如木桶板",
+      "quote": "大前提、小前提和偶然性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10365,
+        "end_line": 10372,
+        "sha1": "02e232baa9c4a7b32aea28d5da9cdc659cf1d852",
+        "fingerprint": [
+          "大前提",
+          "高岭土"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "发明三条件",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：美索不达米亚文明领先一千年却无高岭土无森林；美洲高岭土丰富但文明太落后（10380-10394行）；应用：理解美国高铁为何落后（10400行）。"
+    },
+    {
+      "claim_id": "C-GG-U0152-03",
+      "unit_id": "GG-U0152",
+      "speaker": "吴军本人",
+      "claim_text": "很多时候我们的成功都必须感谢运气：只有中华文明同时具备瓷器三条件——必然性是中国，运气也是中国",
+      "quote": "感谢运气",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10394,
+        "end_line": 10395,
+        "sha1": "c97e1a1ec5768db57164e0b48d191f0a79913e8a",
+        "fingerprint": [
+          "运气",
+          "必然"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-1"
+      ],
+      "concept_key": "成功感谢运气",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0052卡4时机、U0087卡3命好。"
+    },
+    {
+      "claim_id": "C-GG-U0152-04",
+      "unit_id": "GG-U0152",
+      "speaker": "吴军本人",
+      "claim_text": "发明是从偶然到必然的过程：偶然的发现没有什么了不起，能从偶然成功中找到规律、重复成功，才算完成真正的发明",
+      "quote": "从偶然到必然的过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10401,
+        "end_line": 10402,
+        "sha1": "9c7128dec7501af92741443b5a79af84d4f16c18",
+        "fingerprint": [
+          "偶然",
+          "必然"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "偶然到必然",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：炭渣溅落自然上釉是偶然，草木灰灰浆浸泡上釉是掌握规律后的自觉（10389-10391行）；组织要把偶然成功变成必然结果（10402行）。"
+    },
+    {
+      "claim_id": "C-GG-U0152-05",
+      "unit_id": "GG-U0152",
+      "speaker": "吴军本人",
+      "claim_text": "把一件事研究透、放到很大的时空里思考，从而提高认知能力——瓷器是了解世界千年历史的一把钥匙",
+      "quote": "很大的时空里去思考",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10356,
+        "end_line": 10357,
+        "sha1": "f0458037c70bfaf53adb02b27654eaff34636e98",
+        "fingerprint": [
+          "研究透",
+          "时空"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "研究透一物提高认知",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0074卡2（历史即大时空方法论）、U0145卡1。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0152",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "陶器瓷器工艺史与上釉技术沿革（10360-10392行）为科技史叙述，记X4；判断已由5卡承载"
+    },
+    {
+      "unit_id": "GG-U0152",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10404-10407行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第085封信：瓷器为何诞生在中国5卡。"
+}

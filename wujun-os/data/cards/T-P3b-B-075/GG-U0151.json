@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0151",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0151-01",
+      "unit_id": "GG-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "区块链的数据确权想象：数据存在公网、公司每访问统计一次付用户一分钱——既完成了大数据统计又不暴露隐私（全加密）",
+      "quote": "数据只是用户的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10245,
+        "end_line": 10252,
+        "sha1": "3a4e31bb9443ecfb58fefe9d82f53109ad2ceeb9",
+        "fingerprint": [
+          "数据",
+          "公网"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "数据确权分红",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "背景：Facebook卖5000万隐私数据、人人受价格歧视之害（10239-10241行）；尺子实验：方便与隐私两头用户如何选（10243行）。"
+    },
+    {
+      "claim_id": "C-GG-U0151-02",
+      "unit_id": "GG-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "区块链真正有用的两大应用：跟踪（药/发动机溯源",
+      "quote": "跟踪",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10256,
+        "end_line": 10267,
+        "sha1": "626df83c756874a8c519facb992b87d5b125c9ae",
+        "fingerprint": [
+          "跟踪",
+          "智能合约"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "跟踪与智能合约",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0126卡2（跟踪经济）。"
+    },
+    {
+      "claim_id": "C-GG-U0151-03",
+      "unit_id": "GG-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "判断一项技术的价值要放到大场景：时间场景（第几代技术）与空间场景（在整个技术体系中的地位）",
+      "quote": "时间场景和空间场景",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10269,
+        "end_line": 10282,
+        "sha1": "4581fce1b2883122c314a3f7381688a46c897223",
+        "fingerprint": [
+          "大场景",
+          "时空"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D01-1"
+      ],
+      "concept_key": "大场景定位法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0145卡1（大时空定位）与U0126卡1（超级智能公式）；互联网三代史：PC互联→手机互联→人与人的互联（10283-10288行）。"
+    },
+    {
+      "claim_id": "C-GG-U0151-04",
+      "unit_id": "GG-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "人工智能是生产力、区块链是生产关系：AI提高生产水平，区块链重新定义人与人的关系（贡献可跟踪、早期贡献者可获币",
+      "quote": "区块链是生产关系",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10294,
+        "end_line": 10306,
+        "sha1": "6bb027bc18511bac3f37faf25af34d525f1c5ca7",
+        "fingerprint": [
+          "生产关系",
+          "重新定义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "生产力与生产关系",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：滴滴前一千个接单司机与前一万个乘客贡献很大却分不着钱，因为没法跟踪贡献（10301-10304行）；提醒：99%的币是骗钱的（10311行，互引U0148卡6）。"
+    },
+    {
+      "claim_id": "C-GG-U0151-05",
+      "unit_id": "GG-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "区块链=公众号：以太坊如微信平台，人人可发自己的币",
+      "quote": "区块链=公众号",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10322,
+        "end_line": 10325,
+        "sha1": "a32054fa8ec9034c4d67d3d43190320b82516e71",
+        "fingerprint": [
+          "公众号",
+          "币"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "区块链如公众号",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：学霸笔记发币分享、出书前一千个买币读者有动力做成畅销书（10316-10320行）。"
+    },
+    {
+      "claim_id": "C-GG-U0151-06",
+      "unit_id": "GG-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "区块链三代演进：一代比特币证明随机算法可行但效率低成本高",
+      "quote": "第三代",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10327,
+        "end_line": 10341,
+        "sha1": "f55ea48fa64f6536fd2d11e5df71f1ec8db4bf09",
+        "fingerprint": [
+          "第三代",
+          "点对点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "区块链三代论",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0151",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "直播内容对区块链未来的展望性表述（10272-10273行智能时代判断等）留痕X2；机制解释已由6卡承载"
+    },
+    {
+      "unit_id": "GG-U0151",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10235行读前提示与10342行留言引导为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "直播文字版（区块链新见解）：6卡（与U0126演讲互补、概念键互引）。"
+}

@@ -1,0 +1,74 @@
+{
+  "unit_id": "GG-U0156",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0156-01",
+      "unit_id": "GG-U0156",
+      "speaker": "史实",
+      "claim_text": "日本瓷器崛起路径：朝鲜俘获千名瓷工→仿制中国青花→柿右卫门发明赤绘（颜料需10年加工），30年从仿制进入创新",
+      "quote": "赤绘瓷器",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10619,
+        "end_line": 10630,
+        "sha1": "667a6b8ceb3b7251cc2c7735ed07518cf5b7b1f3",
+        "fingerprint": [
+          "赤绘",
+          "有田"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "日本瓷器崛起路径",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0152卡4从偶然到必然、U0063卡3从模仿到发明。"
+    },
+    {
+      "claim_id": "C-GG-U0156-02",
+      "unit_id": "GG-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "品牌之失重于品质之差：中国清代外贸瓷品质不稳且多为订单加工，日本「有田烧」赤绘成为欧洲人心目中的名牌",
+      "quote": "有田烧",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10633,
+        "end_line": 10638,
+        "sha1": "cb523b2746c04e680f0b8fa2ab034ed9af01ac8c",
+        "fingerprint": [
+          "品牌",
+          "订单加工"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "品牌胜于代工",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中国虽未沦为二流，但垄断世界瓷器市场的时代一去不返（10638行）；康熙雍正官窑极高而民窑外贸瓷无进步（10633行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0156",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "万历朝鲜之役与朝鲜工匠被掳史（10604-10621行）为史叙述，记X4（出自《文明之光》）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（日本瓷器崛起）：2卡。"
+}

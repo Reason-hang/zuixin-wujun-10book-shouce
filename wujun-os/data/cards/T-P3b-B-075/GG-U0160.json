@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0160",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0160-01",
+      "unit_id": "GG-U0160",
+      "speaker": "转述·第三方",
+      "claim_text": "朱雪龙教授：世界上很多事情无所谓优点和缺点，只有特点——急性子有时能把事办成，看似优点在另一条件下就是缺点",
+      "quote": "无所谓优点和缺点，只有特点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10847,
+        "end_line": 10855,
+        "sha1": "fc84706349725444edfaf89ffc8e0932c926d4ea",
+        "fingerprint": [
+          "特点",
+          "优点"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-2"
+      ],
+      "concept_key": "只有特点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述清华朱雪龙教授课堂之言；吴军由此能宽容别人的缺点并防范好心办坏事（10857行）。"
+    },
+    {
+      "claim_id": "C-GG-U0160-02",
+      "unit_id": "GG-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "糟糕的管理不是缺点而是特点（not a bug, it's a feature）：肖克利的坏毛病逼走八叛徒才有硅谷",
+      "quote": "feature",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10860,
+        "end_line": 10866,
+        "sha1": "e4644bef622828484cd84942f6b9d6d19941e126",
+        "fingerprint": [
+          "肖克利",
+          "feature"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D10-1"
+      ],
+      "concept_key": "糟糕管理是特点",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "环境变了糟糕的管理就真是缺点（10866行）；肖克利发掘八人100%成才、赶走他们也是有功（10860行）。"
+    },
+    {
+      "claim_id": "C-GG-U0160-03",
+      "unit_id": "GG-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "格罗夫偏执狂管理的两面：高压使英特尔生存并超强竞争力（只有偏执狂才能生存），但扼杀技术多样性",
+      "quote": "只有偏执狂才能生存",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10872,
+        "end_line": 10880,
+        "sha1": "5883882cd9f231b04e9c78a585054ee68c8e4796",
+        "fingerprint": [
+          "格罗夫",
+          "偏执狂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-1"
+      ],
+      "concept_key": "偏执狂管理两面",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：诺伊斯的宽容管理使英特尔差点卖给国家半导体（10869行）；华为十年做出手机芯片而英特尔办不到（10880行）。"
+    },
+    {
+      "claim_id": "C-GG-U0160-04",
+      "unit_id": "GG-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "实践「只有特点」的三个做法：凡事就事论事不以好恶判断人",
+      "quote": "就事论事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10888,
+        "end_line": 10894,
+        "sha1": "f748cbdea47d8843aa54a3b070079856b2f13560",
+        "fingerprint": [
+          "就事论事",
+          "场景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-2"
+      ],
+      "concept_key": "特点观三做法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "朱教授两个博士生：邋遢乖张的极有灵气、工整有条理的灵性不足——把特点都用好（10881-10887行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0160",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10895-10898行思考题/预告为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第091封信：优点缺点与特点4卡。"
+}

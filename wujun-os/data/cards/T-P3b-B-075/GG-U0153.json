@@ -1,0 +1,108 @@
+{
+  "unit_id": "GG-U0153",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-075",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0153-01",
+      "unit_id": "GG-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "让各国人都喜欢的产品是多元文化的产物：青花瓷融蒙古尚白、穆斯林尚蓝（天堂是蓝色的水世界）、波斯颜料与商人监制",
+      "quote": "多元文化的产物",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10428,
+        "end_line": 10440,
+        "sha1": "fb9694f6e73c3d03cdfe1e9ed67fa7180e7c0e7d",
+        "fingerprint": [
+          "多元文化",
+          "青花瓷"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "多元文化产品",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "细节：宋士大夫「白不如青」故宋代不会发明青花瓷；元青花大量葡萄藤图案融古埃及希腊西亚文化（10451行）；元青花藏品最多的是伊朗和土耳其（10426行）。"
+    },
+    {
+      "claim_id": "C-GG-U0153-02",
+      "unit_id": "GG-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "iPhone如青花瓷：乔布斯吸收禅宗「少即是多」、德国保时捷技术与艺术结合、奥地利钢琴意大利工业品",
+      "quote": "一款打遍天下",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10453,
+        "end_line": 10462,
+        "sha1": "d7a59e27f3e94a78623682a530bba377028f855c",
+        "fingerprint": [
+          "iPhone",
+          "文化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "iPhone与青花瓷同构",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：诺基亚为不同市场设计几十款每季推新（10462行）；林璎回忆乔布斯贯穿「少即是多」（10454行）。"
+    },
+    {
+      "claim_id": "C-GG-U0153-03",
+      "unit_id": "GG-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "能融入各种习俗各种文化的人会受到更多人喜爱——多元文化不仅造就好产品，也提高人的社会生存能力",
+      "quote": "受到更多人的喜爱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 10464,
+        "end_line": 10464,
+        "sha1": "a7d9713c5aa03496d0d2bd771ec04877bb7564aa",
+        "fingerprint": [
+          "融入",
+          "文化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D07-2"
+      ],
+      "concept_key": "融入多元文化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引U0113卡1（多元文化的重要性=知道世上有不一样的想法）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0153",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "青花瓷工艺与元朝色目人制度史（10416-10427/10432-10451行）为文化史叙述，记X4；判断已由3卡承载"
+    },
+    {
+      "unit_id": "GG-U0153",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "10466-10467行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第086封信：青花瓷与iPhone的多元文化3卡。"
+}
