@@ -1,0 +1,159 @@
+{
+ "unit_id": "TD-U0014",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0014-01",
+   "unit_id": "TD-U0014",
+   "speaker": "转述·第三方",
+   "claim_text": "德国人常说：生活是具体的",
+   "quote": "生活是具体的",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 514,
+    "end_line": 514,
+    "sha1": "6ab9d9a29b068514bb9feec5e54781bd603e366b",
+    "fingerprint": [
+     "张伯伯",
+     "德国"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "生活是具体的",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：德国人常用语，经张伯伯（旅德老同学）转述；吴军概括取用见 C-TD-U0014-02",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0014-02",
+   "unit_id": "TD-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "生活是具体的：不泛泛谈概念，拿具体数据比较；不静态谈，看前后变化判断进退",
+   "quote": "不要泛泛地谈这个概念",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 524,
+    "end_line": 524,
+    "sha1": "8528e25a86aa23c0fc98dda070e3b70d17415d85",
+    "fingerprint": [
+     "生活是具体的",
+     "比一比"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "生活是具体的（方法论）",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "贪腐争论、电动车环保（526 行算细账）、机构争执（528 行犯错次数与程度）三应用及 520 行'一点点放一起产生巨大差别'并入本卡",
+   "boundary_original": "原著条件：适用于可量化比较的争论与评价场景",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0014-03",
+   "unit_id": "TD-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "不空喊提高质量，而是制定一大堆具体指标，每个达标总体质量即达标",
+   "quote": "制定一大堆非常具体的指标",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 530,
+    "end_line": 530,
+    "sha1": "8b4705169cefcc4f8b810940c8ba44552655d07b",
+    "fingerprint": [
+     "徕卡",
+     "指标"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "具体指标保证质量",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "徕卡刻度线规范、美能达合格率 20%、蔡司双线为例证；534-535 行德国论文写全部细节中间结果为科研应用（贾里尼克调侃并入）",
+   "boundary_original": "原著条件：徕卡标准下日本产首批合格率仅 20% 多——具体指标的高成本由高价支撑",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0014-04",
+   "unit_id": "TD-U0014",
+   "speaker": "吴军本人",
+   "claim_text": "严格遵守步骤、量化称量，胜过凭经验和悟性，可传承可复制",
+   "quote": "严格遵守步骤",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 537,
+    "end_line": 537,
+    "sha1": "18d1d2649f6cc4a48c22a6cb830f1359220b869e",
+    "fingerprint": [
+     "量杯",
+     "步骤"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "量化步骤优于经验",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "妹妹自学做点心（量杯量勺计时器）为家庭例证；对照上一代凭经验难传承",
+   "boundary_original": "原著条件：西餐/点心等可量化操作场景",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0014",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "交换生建议（510 行）：去苏黎世联邦理工、了解德语国家做事方式——子女升学与留学规划，按 HC-09 排除；德国货品质对比（512 行）为引入性论据随段处理"
+  },
+  {
+   "unit_id": "TD-U0014",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "异国见闻段（532 行）：德国人带路帮忙帮到底——旅行观察类材料，无可独立论点"
+  },
+  {
+   "unit_id": "TD-U0014",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景（504 行）：交换生讨论缘起——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信围绕'生活是具体的'一个核心概念：转述源卡+方法论卡+两个应用方法卡均已成卡"
+}

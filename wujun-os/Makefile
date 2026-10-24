@@ -66,3 +66,6 @@ unitcards:
 
 batch:
 	$(PY) scripts/s10_batch.py --units data/units --cards data/unitcards --out data/batches --log logs/batch_plan.md
+
+s11:
+	$(PY) scripts/s11_readlevel.py

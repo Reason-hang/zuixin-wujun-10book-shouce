@@ -1,0 +1,190 @@
+{
+ "unit_id": "TD-U0013",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0013-01",
+   "unit_id": "TD-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "人一旦习惯获得短期利益，境界就高不起来，可能永远不会追求更高的境界",
+   "quote": "习惯获得短期利益",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 481,
+    "end_line": 481,
+    "sha1": "9fd5f8099e9a45e7269db5559d84650c63d6ac66",
+    "fingerprint": [
+     "短期利益",
+     "境界"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "短期利益锁死境界",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "反驳'先富国强兵再谈帝道'的让步论证；D01-3 素材线索《做事时境界要高》",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0013-02",
+   "unit_id": "TD-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "人们很难用短期方法达到长期目标：速效策略常透支长期利益",
+   "quote": "短期方法达到长期目标",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 487,
+    "end_line": 487,
+    "sha1": "a9d38594f3a96dd8e11c52b933dd8ff0d64142fb",
+    "fingerprint": [
+     "长期目标",
+     "境界"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3",
+    "D03-1"
+   ],
+   "concept_key": "短期方法达不成长期目标",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "律师、金融数学行业热门即回报下降为时效例证（并入，X2 留痕）；479 行'绝大多数人只知追求速效'为同段概括并入",
+   "boundary_original": "原著条件：但凡长期稳定赚钱的行业初期投入都大",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0013-03",
+   "unit_id": "TD-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "人追求多高的境界，最后就会得到多好的结果",
+   "quote": "追求多高的境界",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 489,
+    "end_line": 489,
+    "sha1": "91bcb0dffdc54e45106aeed06640cfe14e928e56",
+    "fingerprint": [
+     "境界",
+     "高度"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "境界高度决定结果",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "吴军两次辞职回校读书、中途退学同侪高度受限为自身对照例证",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0013-04",
+   "unit_id": "TD-U0013",
+   "speaker": "吴军本人",
+   "claim_text": "抵御短期诱惑靠定力：境界高一点儿，多关注长远，少盯着眼前，才能走得更远",
+   "quote": "多关注长远，少盯着眼前",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 491,
+    "end_line": 491,
+    "sha1": "7c0e4f458d5748e6917a8976657b50683ac773e6",
+    "fingerprint": [
+     "诱惑",
+     "定力"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3",
+    "D02-4"
+   ],
+   "concept_key": "抵御短期诱惑靠定力",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "与 D02-4 定力主题（第 3 信）交叉，P4 定主归属",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0013-05",
+   "unit_id": "TD-U0013",
+   "speaker": "转述·第三方",
+   "claim_text": "拿破仑：战争胜利的光荣会被滑铁卢抹去，唯有法典功绩永垂不朽",
+   "quote": "这就是我的法典",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 485,
+    "end_line": 485,
+    "sha1": "10029157cfe72d31ada6a26c7cfc944e0c8d67fa",
+    "fingerprint": [
+     "法典",
+     "滑铁卢"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "拿破仑重法典轻军功",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：拿破仑（临终语）；吴军评述：拿破仑一开始就把目标定在确立现代国家（帝道而非霸道），佐证 C-TD-U0013-01/02；例证性转述，P4 可降级并入母卡",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0013",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "商鞅变法史记叙事（469-479 行）：帝道王道霸道三次游说全过程——史实叙事为卡01/02 核心论据，仅取吴军评述（479 行）入卡，史实本体按 X4 排除"
+  },
+  {
+   "unit_id": "TD-U0013",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "行业时效例证（487 行内）：律师、金融数学报考热与回报下滑——2016 时效数据，已在卡02 notes 留痕"
+  },
+  {
+   "unit_id": "TD-U0013",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "信件衔接（465 行）：续上信话题的过渡——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信核心论点'境界要高'的四个独立判断与拿破仑转述均已成卡"
+}

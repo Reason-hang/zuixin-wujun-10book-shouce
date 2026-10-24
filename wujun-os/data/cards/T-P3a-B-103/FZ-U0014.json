@@ -1,0 +1,93 @@
+{
+  "unit_id": "FZ-U0014",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0014-01",
+      "speaker": "吴军本人",
+      "claim_text": "多数人决定做不做只看别人做不做或有无收益，很少考虑收益率即收益与成本之比",
+      "quote": "很少考虑收益率",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 417,
+        "end_line": 417,
+        "sha1": "23b3ebe0dcbacad21949e6bcc1fd17e28c20d650",
+        "fingerprint": [
+          "收益率",
+          "收益和成本",
+          "跟着做"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "看收益率而非收益",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三层人群递进：看别人做→看收益→看收益率（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0014-02",
+      "speaker": "吴军本人",
+      "claim_text": "判断做不做的标准是时间精力成本而非金钱；算上机会成本，低效投入实为亏损",
+      "quote": "还不是金钱的成本",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 421,
+        "end_line": 425,
+        "sha1": "8fb04d7270a25f804c3497558c68390cbaa656e6",
+        "fingerprint": [
+          "金钱的成本",
+          "时间和精力",
+          "机会成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "时间精力成本与机会成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "补习班5小时成本模型：提高一两分收益vs自己复习提高三五分机会成本，相抵亏两三分（行425）；补习班现象背景（行419-423）"
+    },
+    {
+      "claim_id": "C-FZ-U0014-03",
+      "speaker": "吴军本人",
+      "claim_text": "善于学习者懂机会成本，自己复习效率高就该自己做；做决定前要考虑成本防止坏选择",
+      "quote": "防止做出坏选择",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 427,
+        "end_line": 429,
+        "sha1": "87eaf552e5875c78dc3205cc8ab898c930fdcf9f",
+        "fingerprint": [
+          "机会成本",
+          "不合算",
+          "坏选择"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D02-2"
+      ],
+      "concept_key": "决策前算机会成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "MIT年级第一名期末请假自己复习、学霸逃课复习（行427）；家长自己辅导vs送大班补课的教培机构朋友观察（行429）为例证；与C-FZ-U0014-02同链（成本核算方法的应用）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第08节'做决定前，先考虑成本'：收益率视角与时间精力/机会成本核算，抽3卡"
+}

@@ -1,0 +1,125 @@
+{
+ "unit_id": "TD-U0015",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0015-01",
+   "unit_id": "TD-U0015",
+   "speaker": "吴军本人",
+   "claim_text": "几何级数复合增长的威力：每年20%增长二十多年，远超线性增长的原地踏步",
+   "quote": "1.2自己相乘20多次",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 580,
+    "end_line": 580,
+    "sha1": "d0d18f8257f539fa9d19225b6f3e9ecb01b1d353",
+    "fingerprint": [
+     "几何级数",
+     "线性增长"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "几何级数复合增长",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "以中国互联网 20% 年复合增长解释股市富人与马云财富分化；富足《线性成长的局限性》同族概念",
+   "boundary_original": "原著条件：连续复合增长场景；股市波动则近似原地踏步的线性增长",
+   "stability": "永恒原理",
+   "math_mapping": "原著自带"
+  },
+  {
+   "claim_id": "C-TD-U0015-02",
+   "unit_id": "TD-U0015",
+   "speaker": "吴军本人",
+   "claim_text": "做成任何一件大事都需要合作，与人相处合作的能力要从学校共事中练习",
+   "quote": "都需要合作",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 572,
+    "end_line": 572,
+    "sha1": "740b1e4b502320219d01cf1506946363b88b905c",
+    "fingerprint": [
+     "合作",
+     "相处"
+    ]
+   },
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "大事需合作",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "学校教育不仅学课程也学共处合作；办校报、辅导低年级为练习方式",
+   "boundary_original": "原著条件：今天（现代社会分工）做成大事的场景",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0015-03",
+   "unit_id": "TD-U0015",
+   "speaker": "吴军本人",
+   "claim_text": "不要为成绩或好学校读书，要为立足社会、成为有用之人读书",
+   "quote": "为了进入一个好学校而读书",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 598,
+    "end_line": 598,
+    "sha1": "8c68a19208567ecb0caea138c27f26e46a0a26ed",
+    "fingerprint": [
+     "成绩",
+     "有用之人"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "为有用之人而读书",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "全信结论句；读书目的属'为什么学'（D02-1/D02-3 口径），教育制度本体部分已按 X5 排除",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0015",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "教育改变命运主体段（558-568、574-596 行）：好教育与好大学之辨、教育改变命运共识史、洪堡体系、KIPP、退学创业五人辨析（盖茨/扎克伯格先成功后退学）、好大学价值与名校纠结、曾国藩'唯有教育保家族兴盛'转述（与 D09-1 家族财富有交集，P4 复议）——教育制度与升学主题，按 HC-09/D02 排除准则处理；'认识到教育的益处是动力的来源'（570 行）等派生句随段排除"
+  },
+  {
+   "unit_id": "TD-U0015",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "教育史实叙事（564-566、574 行）：爱德华六世、伊丽莎白一世、星期日学校、牛顿、洪堡、肯尼亚——史实科普，仅作'教育改变命运'论证的论据"
+  },
+  {
+   "unit_id": "TD-U0015",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景（550 行）：梦馨两问缘起——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "教育主题大部分按 X5 排除，但信内三条可独立迁移的判断（几何级数、大事需合作、为有用之人读书）已抽出成卡"
+}

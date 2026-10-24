@@ -1,0 +1,122 @@
+{
+  "unit_id": "FZ-U0005",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0005-01",
+      "speaker": "吴军本人",
+      "claim_text": "凡事都有对立两面，有得必有失；思考正数时永远不能忽视负数，想问题才能全面",
+      "quote": "永远不能忽视负数",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 119,
+        "end_line": 125,
+        "sha1": "9861cdf54e51d0e3a783d7b2703360a2669c5b97",
+        "fingerprint": [
+          "对立的两面",
+          "有得",
+          "负数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "负数思维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "张首晟报告问什么数自乘等于4、众答2漏-2（行121）；物质能量守恒、电荷正负、反粒子（行123）；行135'世界上不仅有正数还有负数要刻在基因里'为重申，不另立卡"
+    },
+    {
+      "claim_id": "C-FZ-U0005-02",
+      "speaker": "吴军本人",
+      "claim_text": "0不是最小的数，比没钱更糟糕的是负债；净资产为负数时一辈子很难翻身",
+      "quote": "0不是最小的数",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 127,
+        "end_line": 129,
+        "sha1": "a48a4d864300b4a1aeeeebd57dca90e953a7a623",
+        "fingerprint": [
+          "0不是最小的数",
+          "欠了一屁股的债",
+          "净资产是负数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-1"
+      ],
+      "concept_key": "净资产为负难翻身",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国80%家庭负债、一半以上美国人20%税前收入用于还债（行127-129）为例证；资不抵债'首富'破产为例证（行129）"
+    },
+    {
+      "claim_id": "C-FZ-U0005-03",
+      "speaker": "吴军本人",
+      "claim_text": "每做一件事获得的收益未必是正的，完全可能是负的，决策时要想到坏结果",
+      "quote": "获得的收益未必是正的",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 131,
+        "end_line": 133,
+        "sha1": "821ed8ee1c1cb3e2983f8c8c8840f92162458072",
+        "fingerprint": [
+          "未必是正的",
+          "负数概念",
+          "栽跟头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-2"
+      ],
+      "concept_key": "做事收益可能为负",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "硅谷投资人辞职做基金错失前东家股票上市数百倍涨幅（行133）为例证；没有负数概念的人在投资领域早晚栽跟头（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0005-04",
+      "speaker": "吴军本人",
+      "claim_text": "人一辈子在用自己的时间和生命投资，人们通常只想到好结果忽视坏结果；朋友并非越多越好，会遇到损友",
+      "quote": "用自己的时间和生命投资",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 137,
+        "end_line": 141,
+        "sha1": "6ba3ec884590cdfe7572d06f9518e21467de6ce5",
+        "fingerprint": [
+          "时间和生命投资",
+          "损友",
+          "虎妈战歌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D07-2"
+      ],
+      "concept_key": "时间生命投资与损友",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "蔡美儿《虎妈战歌》坏朋友一小时毁掉十几年好习惯、夫妇择友教养（行139-141）为例证；行143 欧盟吸纳拖后腿国家致危机中无法快速反应，'负值国家'同构例证"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第01节'做事永远不要忽视负数'：负数思维原理及其在负债、投资、交友上的应用判断，抽4卡"
+}

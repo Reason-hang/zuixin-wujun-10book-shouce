@@ -1,0 +1,148 @@
+{
+  "unit_id": "FZ-U0006",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0006-01",
+      "speaker": "吴军本人",
+      "claim_text": "多维变量的复杂问题难度远超想象，每个维度变化一点都会产生巨大变化，要特别小心",
+      "quote": "复杂性通常会远远超出我们的想象",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 147,
+        "end_line": 153,
+        "sha1": "f96f9ac6901eaf3e901e36280eb24cc13147a647",
+        "fingerprint": [
+          "维度的概念",
+          "复杂性通常",
+          "每一个维度变化一点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "维度与复杂度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "香肠/比萨选择实验：直径1.5的圆超两倍（行149-151）；球直径增一倍体积增7倍（行151）；登顶珠峰、奥运冠军、亿万富翁之比引入（行153）"
+    },
+    {
+      "claim_id": "C-FZ-U0006-02",
+      "speaker": "吴军本人",
+      "claim_text": "成为亿万富翁是综合能力、运气和环境的多维度难题，比登顶珠峰、成为奥运冠军难得多",
+      "quote": "是一个多维度的难题",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 155,
+        "end_line": 157,
+        "sha1": "0f56a0e18eba5a44c4a2008d895548c5cf38c4a8",
+        "fingerprint": [
+          "多维度的难题",
+          "单一维度",
+          "6万倍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "亿万富翁多维度难题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "奥运冠军是单一维度、登顶珠峰是沿前人之路，量化：10个维度每个好2倍需提高6万倍（行157）；几乎全部白手亿万富翁来自成功创业（行155）在锚内"
+    },
+    {
+      "claim_id": "C-FZ-U0006-03",
+      "speaker": "吴军本人",
+      "claim_text": "遇到多因素复杂问题不要低估难度，宁可一开始把困难想得多一点，避免轻敌完不成任务",
+      "quote": "宁可一开始把困难想得多一点",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 159,
+        "end_line": 159,
+        "sha1": "52c2a793c3393186d5bd87b0c381f8211d1c609e",
+        "fingerprint": [
+          "不敢低估",
+          "困难想得多一点",
+          "轻敌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "宁可高估困难",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承接维度原理的决策态度判断"
+    },
+    {
+      "claim_id": "C-FZ-U0006-04",
+      "speaker": "吴军本人",
+      "claim_text": "耕耘和收获是积分关系：努力产生进步的加速度，需时间积累才有收获，急于求成无果",
+      "quote": "耕耘和收获的关系是积分的关系",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 163,
+        "end_line": 173,
+        "sha1": "44bfd9687325d99c15006c286ec5c73542cf7de5",
+        "fingerprint": [
+          "积分的关系",
+          "飞轮原理",
+          "时间的积累"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "耕耘收获的积分效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "踩油门产生加速度需时间积累才跑得远（行167）；努力几天就放弃、反复换事者怀疑运气与'一分耕耘一分收获'（行169-171）；学了大学数学体会不到积分效应说明思维没长进（行173）"
+    },
+    {
+      "claim_id": "C-FZ-U0006-05",
+      "speaker": "吴军本人",
+      "claim_text": "数学思维的背后是理性二字，懂得负数、维度、积分效应都是用理性思考做判断",
+      "quote": "用理性思考来做判断",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 175,
+        "end_line": 177,
+        "sha1": "a32b4f11753467eaeea38e33f069adf6b9464e1a",
+        "fingerprint": [
+          "理性",
+          "理性思考",
+          "做事方法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "数学思维即理性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承上启下总结句：以基本数学知识为抓手了解理性有效的做事方法（行177）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第02节'你与亿万富翁的距离'：维度、积分效应等数学思维判断，抽5卡"
+}

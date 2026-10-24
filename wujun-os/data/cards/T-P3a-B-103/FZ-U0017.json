@@ -1,0 +1,124 @@
+{
+  "unit_id": "FZ-U0017",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0017-01",
+      "speaker": "吴军本人",
+      "claim_text": "平台体量相当于杠杆可放大个人贡献；第一份工作最好找好单位，做出单干做不出的事",
+      "quote": "平台的体量相当于杠杆",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 517,
+        "end_line": 527,
+        "sha1": "eaed9effba9fed56d9650a6c6b5ff366d3e5176a",
+        "fingerprint": [
+          "平台",
+          "体量",
+          "第一份工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "平台体量即杠杆",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "央视主持人记者离开大平台创业不成功（行521-525，呼应《见识》）为例证；好单位省去人事财务琐事专心进步（行527锚内后续）"
+    },
+    {
+      "claim_id": "C-FZ-U0017-02",
+      "speaker": "吴军本人",
+      "claim_text": "个人成长速度是自身进步、单位发展速度与环境杠杆的乘法关系，选单位要看发展速度",
+      "quote": "它们之间基本上是乘法关系",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 529,
+        "end_line": 531,
+        "sha1": "097ae827deb64c3503ec0fe4fef4f0ec039c1546",
+        "fingerprint": [
+          "三个因素",
+          "乘法关系",
+          "发展速度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-1"
+      ],
+      "concept_key": "成长速度乘法三因素",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "大机构内耗多发展缓慢甚至退步（行529）；华为腾讯技术总监影响力=环境杠杆（行531）；5年前入职头条拼多多搭快车vs运营商惯性发展为例证（行531，时效性公司名另记X2）"
+    },
+    {
+      "claim_id": "C-FZ-U0017-03",
+      "speaker": "吴军本人",
+      "claim_text": "最好的投资是把钱、时间和注意力投资到自己的事业上",
+      "quote": "投资到自己的事业上",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 535,
+        "end_line": 535,
+        "sha1": "3163999f14a5cec0338dac84a2d559c34766efc0",
+        "fingerprint": [
+          "最好的投资",
+          "时间和注意力",
+          "事业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资自己的事业",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "大学时5元买牛津字典回报高于千分之一股伯克希尔（锚内）；行539-541 福布斯前五皆靠主场行业而非炒股、章末'最好的投资，一定是在自己的专业上'为本卡同旨重申，不另立卡"
+    },
+    {
+      "claim_id": "C-FZ-U0017-04",
+      "speaker": "吴军本人",
+      "claim_text": "在自己擅长的领域竞争是主场作战、事半功倍；时间投给专业远胜投给不擅长的投资",
+      "quote": "就是主场作战，事半功倍",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 537,
+        "end_line": 537,
+        "sha1": "d05d55e41eb3251cffc7d61136090ccf61d10f18",
+        "fingerprint": [
+          "主场作战",
+          "事半功倍",
+          "擅长的方向"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D02-1"
+      ],
+      "concept_key": "主场作战优势",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "特长=知识技能+领域人脉的体量（锚内）；每周10小时业余炒股即使15%回报一年仅多几千元vs投入专业可能产出知识产权或创业资助（锚内量化）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "FZ-U0017",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行531 以头条/拼多多/中国移动为例的5年发展对比与行539 2022年福布斯榜单数据为时效性例证，乘法三因素与主场作战机理已分别入卡C-FZ-U0017-02/04，登记X2候选由P4终裁"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第11节'最好的投资是自己的专业'：平台体量、成长乘法三因素、投资自己的专业，抽4卡+1条X2"
+}

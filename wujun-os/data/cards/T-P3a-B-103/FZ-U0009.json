@@ -1,0 +1,210 @@
+{
+  "unit_id": "FZ-U0009",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0009-01",
+      "speaker": "吴军本人",
+      "claim_text": "企业留人看创造的价值是否大于薪酬福利；只有大量净绩效为负的员工才触发大规模请退",
+      "quote": "也就是收益减去支出",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 287,
+        "end_line": 289,
+        "sha1": "63f9d80a5d6fca48ba54866d574594e7b8202986",
+        "fingerprint": [
+          "薪酬福利",
+          "净绩效",
+          "收益减去支出"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D08-1"
+      ],
+      "concept_key": "净绩效为负被请退",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "少数贡献小于薪酬者企业也不开刀，因社会形象丢分（行287）；对私营企业'里子'比面子更重要（行289）"
+    },
+    {
+      "claim_id": "C-FZ-U0009-02",
+      "speaker": "吴军本人",
+      "claim_text": "35岁危机直接原因是大厂请退，但指责无用，破解之道要从员工自身找原因",
+      "quote": "从员工自身的角度出发",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 293,
+        "end_line": 295,
+        "sha1": "053837ecceb3ac0965485156c64b2a4beb6b369f",
+        "fingerprint": [
+          "35岁中年危机",
+          "直接原因",
+          "员工自身"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "35岁危机归因自身",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "美国每十年衰退裁员史（行293）、思科朗讯裁员存活vs北方电讯限制裁员倒闭（行295）为例证；心慈大厂留负绩效员工只会整体倒闭（行295）"
+    },
+    {
+      "claim_id": "C-FZ-U0009-03",
+      "speaker": "吴军本人",
+      "claim_text": "加班文化和老油条化都不是35岁危机的原因：大部分加班是磨洋工，30多岁的人大多仍敬业",
+      "quote": "绝大部分人加班其实是在磨洋工",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 297,
+        "end_line": 301,
+        "sha1": "e9d8acf70fbb8a93f8a6691c84a6c8f2c18cc885",
+        "fingerprint": [
+          "加班文化",
+          "磨洋工",
+          "老油条"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "加班非危机成因",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "万人以上大厂裁员一半营收不减（行299）；30多岁有经验员工按正常强度工作性价比好于新人（行299）"
+    },
+    {
+      "claim_id": "C-FZ-U0009-04",
+      "speaker": "吴军本人",
+      "claim_text": "职场竞争力=技能总量×技能单位价值；技能随年限增长但价值按半衰期衰减，危机源于知识结构老化",
+      "quote": "等于这两个因素的乘积",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 305,
+        "end_line": 307,
+        "sha1": "b47ee748aaec93c4eb9d1ca3701e01ae1827d713",
+        "fingerprint": [
+          "竞争力",
+          "乘积",
+          "半衰期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-1"
+      ],
+      "concept_key": "竞争力乘积模型",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Kt=K0+rt增长、Vt假设5年贬值一半（行305-307，公式OCR有失真，以纸质原书为准）；贬值两因：技能过时、学的人多不值钱（行307）；半衰期较长行业也不能指望不学习干一辈子（行309）；要看掌握的技能今天是否有价值（行311）"
+    },
+    {
+      "claim_id": "C-FZ-U0009-05",
+      "speaker": "吴军本人",
+      "claim_text": "人在不断做加法，但世界对技能价值产生除法效果抵消增长，这是35岁力不从心的原因",
+      "quote": "世界本身产生了一种除法的效果",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 321,
+        "end_line": 323,
+        "sha1": "8c56b48eba8f83e61d554a75de66a5a8e5a60c65",
+        "fingerprint": [
+          "力不从心",
+          "除法",
+          "抵消"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-1"
+      ],
+      "concept_key": "世界对技能做除法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "峰值后技能增长赶不上价值衰减（行321）；竞争力曲线先升后降、最近5年技能决定竞争力（行313-319）为本卡模型铺垫"
+    },
+    {
+      "claim_id": "C-FZ-U0009-06",
+      "speaker": "吴军本人",
+      "claim_text": "破解之道两条：职业初期提高技能增长速度（找进步快的工作和好师傅）；选门槛高的技能减缓贬值",
+      "quote": "应对的策略无非两种",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 329,
+        "end_line": 333,
+        "sha1": "7467493a8289a8ab65b0328cbf2a1c9f99352899",
+        "fingerprint": [
+          "进步快",
+          "好师傅",
+          "贬值的速度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "提速与延缓贬值",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "年轻有为者都是初期高速进步占据重要岗位（行329）；快速入门技能贬值快、门槛高技能贬值慢（行331）；甘蔗不会两头甜：头几年轻松vs中年后收红利（行333）"
+    },
+    {
+      "claim_id": "C-FZ-U0009-07",
+      "speaker": "吴军本人",
+      "claim_text": "只要社会在发展就不存在不贬值的技能；智慧不随时间衰减，抵抗贬值最好的方法是获得智慧",
+      "quote": "抵抗技能贬值最好的方法",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 335,
+        "end_line": 337,
+        "sha1": "d136bab218d359072917c950166d5ec5df206e81",
+        "fingerprint": [
+          "智慧",
+          "孔子",
+          "巴菲特"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-1"
+      ],
+      "concept_key": "智慧不衰减",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "孔子2000多年前智慧今天仍有效（行335）；巴菲特金融知识过时但投资智慧仍超绝大部分投资人、40万美元一股听智慧（行337）为例证"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "FZ-U0009",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行283-285 腾讯2021年'请退'老员工福利计划（2022年《中国新闻周刊》报道）为具体公司事件时效内容，雇佣机理已并入C-FZ-U0009-01，登记X2候选由P4终裁"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第05节'破解35岁中年危机'：成因（竞争力乘积模型/技能半衰期）与两条破解之道，抽7卡+1条X2"
+}

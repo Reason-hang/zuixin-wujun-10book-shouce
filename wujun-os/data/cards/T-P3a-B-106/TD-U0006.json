@@ -1,0 +1,319 @@
+{
+ "unit_id": "TD-U0006",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0006-01",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "幸福是一种感受，并非钱可衡量，且需与生活的环境及价值观相吻合",
+   "quote": "并非是钱可以衡量的",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 195,
+    "end_line": 195,
+    "sha1": "38ec71d0e0b6021d85d352059d41cf365bd5426b",
+    "fingerprint": [
+     "幸福是一种感受",
+     "哥斯达黎加"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福是感受与环境相吻合",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "转述自丹·比特纳《幸福的蓝色地带》并赞同；女儿选 MIT 为应用例（197 行）",
+   "boundary_original": "原著条件：感受需与所处环境的文化习俗匹配（哥斯达黎加/新加坡例）",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-02",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "幸福需要基本保障：保障健全才能无后顾之忧地追寻理想；人穷志短",
+   "quote": "幸福需要基本保障",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 199,
+    "end_line": 199,
+    "sha1": "447a3ad328b2c7bffc0bdc65608dc31a7d9d9f4a",
+    "fingerprint": [
+     "基本保障",
+     "人穷志短"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福需要基本保障",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "转述自比特纳（哥斯达黎加/丹麦/新加坡共性）并赞同",
+   "boundary_original": "原著条件：基本保障指社会保障健全、无后顾之忧",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-03",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "任何时候给自己留一笔应急积蓄，做事才能没有后顾之忧",
+   "quote": "留一笔应急的积蓄",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 199,
+    "end_line": 199,
+    "sha1": "447a3ad328b2c7bffc0bdc65608dc31a7d9d9f4a",
+    "fingerprint": [
+     "应急",
+     "后顾之忧"
+    ]
+   },
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "应急积蓄",
+   "ability_tags": [],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "吴军在比特纳观点后给女儿的独立建议；与 C-TD-U0006-02 同行不同论点",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-04",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "生命通过基因传承延续是幸福感最根本的来源之一，陪伴的幸福感无可取代",
+   "quote": "最根本的来源之一",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 203,
+    "end_line": 203,
+    "sha1": "32805232b02ecd1c0128fac883037f50feebb0ad",
+    "fingerprint": [
+     "基因传承",
+     "陪伴"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "基因传承的幸福",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "转述幸福学学者共识并取用（回家陪伴女儿为自身例证）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-05",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "人的存在和行为给世界留下烙印、创造快乐，会带来发自内心的快乐",
+   "quote": "给世界留下烙印",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 205,
+    "end_line": 205,
+    "sha1": "8782ce7083eb8c8ee116b1c040a2ae9197ccd217",
+    "fingerprint": [
+     "烙印",
+     "快乐"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "留下烙印的快乐",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "普通人版本见 209 行（谷歌代码被上百项目使用之例，论据并入）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-06",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "生前看不到效果时，支撑人追求成就的是给世界留下点儿美好东西的信念",
+   "quote": "留下点儿美好东西",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 211,
+    "end_line": 211,
+    "sha1": "e590514c4bdcf0ef7bd77eac6abd6d99b8ef2f68",
+    "fingerprint": [
+     "信念",
+     "莫扎特"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "留下美好东西的信念",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "牛顿/贝多芬/尼采/莫扎特为例证链",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-07",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "人生是一条河：水量由长度、宽度和深度决定，影响力绵长深远胜过宽浅短",
+   "quote": "人生是一条河",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 207,
+    "end_line": 207,
+    "sha1": "8b8958111d90f194dcdbf989b447d73cc872278d",
+    "fingerprint": [
+     "人生是一条河",
+     "莫扎特"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "人生是一条河",
+   "ability_tags": [],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "流行歌手（宽浅短）与莫扎特（深长河）对比为例证；见识书同名文章为同概念",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "可检验映射"
+  },
+  {
+   "claim_id": "C-TD-U0006-08",
+   "unit_id": "TD-U0006",
+   "speaker": "转述·第三方",
+   "claim_text": "高尔基：给总比拿要快乐得多",
+   "quote": "给总比拿要快乐得多",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 213,
+    "end_line": 213,
+    "sha1": "7314f7cf16c6804e801b9f98fb80375259d7464c",
+    "fingerprint": [
+     "给予",
+     "捐款"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "给比拿快乐",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：高尔基；吴军取用见 C-TD-U0006-09",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-09",
+   "unit_id": "TD-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "给予带来幸福感：捐款让人看到自己的钱在宽度、深度和长度上影响未来",
+   "quote": "给予带来的幸福感",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 213,
+    "end_line": 213,
+    "sha1": "7314f7cf16c6804e801b9f98fb80375259d7464c",
+    "fingerprint": [
+     "幸福感",
+     "宽度"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4",
+    "D09-1"
+   ],
+   "concept_key": "给予的幸福",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "回答美国人为何捐钱；高尔基原话见 C-TD-U0006-08",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0006-10",
+   "unit_id": "TD-U0006",
+   "speaker": "转述·第三方",
+   "claim_text": "欧文：人类一切努力的目的在于获得幸福",
+   "quote": "目的在于获得幸福",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 215,
+    "end_line": 215,
+    "sha1": "d45991a8b0facff0a03d8e950430225a26170e1c",
+    "fingerprint": [
+     "欧文",
+     "幸福"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "一切努力为了幸福",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：欧文；吴军评述：做一件事背离此初衷就需审视自己（215 行内）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0006",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景与书目介绍（185、191-193 行）：共读习惯、《幸福的蓝色地带》作者与名词介绍——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信系统论述幸福来源：比特纳两观点、吴军两点看法及三条独立判断，均已抽卡"
+}

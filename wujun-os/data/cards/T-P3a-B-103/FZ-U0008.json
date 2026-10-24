@@ -1,0 +1,261 @@
+{
+  "unit_id": "FZ-U0008",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0008-01",
+      "speaker": "吴军本人",
+      "claim_text": "做减法的一个重要目的是便于做乘法，乘法代表生活中的放大效应",
+      "quote": "乘法代表了生活中的放大效应",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 235,
+        "end_line": 235,
+        "sha1": "95edc94328423bf13cd55e43826c1dad828deaea",
+        "fingerprint": [
+          "便于做乘法",
+          "放大效应"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "减法便于乘法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "3+4=7而3x4=12，操作数增大差距更大（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0008-02",
+      "speaker": "吴军本人",
+      "claim_text": "杠杆不能无限加大：资本回报可能为负数，借贷太多成本上升，两种力量限制杠杆上限",
+      "quote": "杠杆不能加得太大",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 239,
+        "end_line": 241,
+        "sha1": "2ccf986904182f3236cd85decf49a39a4ad6442c",
+        "fingerprint": [
+          "加杠杆",
+          "回报",
+          "借贷的成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D08-1"
+      ],
+      "concept_key": "杠杆受负回报约束",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "借1亿赚1500万的加杠杆模型（行239）；供过于求价格下降利润没了（行241，负数思维回扣）"
+    },
+    {
+      "claim_id": "C-FZ-U0008-03",
+      "speaker": "吴军本人",
+      "claim_text": "成熟的管理者和百年老店都严格控制债务规模；高杠杆遇风吹草动迅速爆雷，做乘法是双刃剑",
+      "quote": "做乘法是把双刃剑",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 243,
+        "end_line": 245,
+        "sha1": "9058b4edaeedb26b4a0f6e55e14eacc31012d2f2",
+        "fingerprint": [
+          "巴菲特",
+          "杠杆投资",
+          "双刃剑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D09-2"
+      ],
+      "concept_key": "严控杠杆规模",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "巴菲特强调永远不要用杠杆投资、60多年6次跌幅超50%（行243，吴军引巴菲特作例证支撑）；2015-2016中国股灾散户加杠杆一夜清仓（行245）为例证"
+    },
+    {
+      "claim_id": "C-FZ-U0008-04",
+      "speaker": "吴军本人",
+      "claim_text": "做乘法的基本条件是同一类东西可以相乘，不同类只能相加；可复制的产品才能获得乘法效应",
+      "quote": "同一类的东西可以相乘",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 247,
+        "end_line": 251,
+        "sha1": "b2c2dbcdf6304262b35b7d4ecad035de9651e164",
+        "fingerprint": [
+          "同一类的东西",
+          "相乘",
+          "复制的成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "同类相乘原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "5筐同种水果称一筐乘5 vs 不同水果逐筐称（行249）；定制产品只能做加法，数字产品复制成本忽略不计形成垄断（行251）"
+    },
+    {
+      "claim_id": "C-FZ-U0008-05",
+      "speaker": "吴军本人",
+      "claim_text": "个人把一个本领练到极致，解决问题的努力可重复用于类似问题，这就是发挥杠杆的作用",
+      "quote": "这就是在发挥杠杆的作用",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 253,
+        "end_line": 255,
+        "sha1": "675b52c7779cba4cdb71ca3d94a528a6fe2788eb",
+        "fingerprint": [
+          "一个本领练到极致",
+          "杠杆的作用",
+          "一鱼三吃"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "专长复用杠杆",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "贝聿铭卢浮宫玻璃金字塔设计思想复用到多地 标建筑（行253）为例证；'一鱼三吃'（行255）"
+    },
+    {
+      "claim_id": "C-FZ-U0008-06",
+      "speaker": "吴军本人",
+      "claim_text": "用好杠杆取决于事情和人：底层逻辑与系统、算法知识有杠杆效应、一通百通，窄应用知识衰减快",
+      "quote": "能否用好杠杆取决于两个因素",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 257,
+        "end_line": 263,
+        "sha1": "e6e7a060ca5888b809bf63dead1143d38027e33a",
+        "fingerprint": [
+          "两个因素",
+          "通识教育",
+          "杠杆效应"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "知识的杠杆效应",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "数学/理论物理是底层逻辑可通吃理工与金融（行259）；计算机知识三分：系统、算法有杠杆、应用可复用性差（行261-263）；道可应用于各种场合、术做不了乘法（行265，锚外支撑）；35岁危机预告见下一单元"
+    },
+    {
+      "claim_id": "C-FZ-U0008-07",
+      "speaker": "吴军本人",
+      "claim_text": "热衷解决具体问题是加法思维，发明解决同类问题的机器是乘法思维，后者效率高得多",
+      "quote": "发明一种解决同类问题的机器",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 267,
+        "end_line": 267,
+        "sha1": "0599a2594fcbf1e921952036e8b1f357fc76758d",
+        "fingerprint": [
+          "两种人",
+          "加法思维",
+          "乘法思维"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "造机器的乘法思维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "德国工程师楚泽因公式雷同而发明计算机（锚内）；美国研制电子计算机算弹道同源（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0008-08",
+      "speaker": "吴军本人",
+      "claim_text": "遇事强调特殊性的人习惯做加法，能看到事物共性的人通过做乘法极大提高效率",
+      "quote": "通过做乘法极大地提高效率",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 273,
+        "end_line": 273,
+        "sha1": "bff6efa742ade860a3158fbce5c10939d365d624",
+        "fingerprint": [
+          "特殊性",
+          "共性",
+          "做乘法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "找共性做乘法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "eBay/谷歌/脸书自助平台颠覆手工行业、谷歌关键词广告系统睡觉也挣钱、阿里巴巴淘宝自助系统为例证（行269-271，锚外支撑）"
+    },
+    {
+      "claim_id": "C-FZ-U0008-09",
+      "speaker": "吴军本人",
+      "claim_text": "很多事无法做乘法，这正是要做减法的原因：删掉相关性小、重要性差的事，集中做有乘法效应的事",
+      "quote": "能够做出乘法效应的事情",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 275,
+        "end_line": 275,
+        "sha1": "5473b22f8e39afcf5317405d7a1b4d9d2afecef8",
+        "fingerprint": [
+          "无法做乘法",
+          "做减法",
+          "乘法效应"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "为乘法做减法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-FZ-U0007-01做减法主卡同链：两件完全不同的事无法用杠杆（锚内）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第04节'善用杠杆，事半功倍'：杠杆/乘法的条件、双刃剑与个人应用系列判断，抽9卡"
+}

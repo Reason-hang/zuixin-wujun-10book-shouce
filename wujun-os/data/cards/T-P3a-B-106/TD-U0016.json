@@ -1,0 +1,275 @@
+{
+ "unit_id": "TD-U0016",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0016-01",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "想获得10分成绩要准备30分努力：先假设自己遇到更坏的运气，准备充足好运自来",
+   "quote": "准备30分的努力",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 623,
+    "end_line": 623,
+    "sha1": "f678aed11acf38b9480cd3498fa1c57043045ed7",
+    "fingerprint": [
+     "30分的努力",
+     "好运气"
+    ]
+   },
+   "pillar_candidates": [
+    "D03-2",
+    "D02-3"
+   ],
+   "concept_key": "三倍努力换好运气",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "范佛里特弹药量（5 倍投入）与威灵顿备周全例（621 行）、叔叔三倍准备考第一（625-626 行）、628 行复述均为论据并入；619 行'运气实实在在'为前提句",
+   "boundary_original": "原著条件：想获得 10 分成绩的目标场景；与 C-TD-U0010-01 运气观互补",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-02",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "在强手如林的新环境把自己定位放低，以放松心态按自己节奏进步即可",
+   "quote": "定位在最后的30％",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 630,
+    "end_line": 630,
+    "sha1": "80ab79727da810b0dfd54d5f1f8c81a6b85fadc4",
+    "fingerprint": [
+     "定位",
+     "节奏"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "低定位稳节奏",
+   "ability_tags": [],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "MIT 93% 新生原为前 5% 的统计为背景；定位 70% 位置非不求上进",
+   "boundary_original": "原著条件：定位低是为了放松心态而并非不求上进；按自己节奏每年有进步即可",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-03",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "人的成长是自己不断提升自我的过程，不在于一次名次",
+   "quote": "不断提升自我的过程",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 632,
+    "end_line": 632,
+    "sha1": "4cecbeb20f7549068ac4934dbdf9440923c956c5",
+    "fingerprint": [
+     "成长",
+     "适应过程"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "成长是自我提升",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "清华班级状元与奥赛金牌者为例证；再优秀的学生也需要适应过程",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-04",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "接受经验不足的坏结果；聪明人不重复同样的失败，从失败中学习才能成熟",
+   "quote": "不会让同样的失败重复出现",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 634,
+    "end_line": 634,
+    "sha1": "1789ed3be8bdd3174955bf5dc35faf0bb2daa8d1",
+    "fingerprint": [
+     "失败",
+     "成熟"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "从失败中学习成熟",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "自己决定事情的自由与坏结果并列为前提；与复盘主题（D05-2）交叉，P4 定主归属",
+   "boundary_original": "原著条件：任何尝试都会伴随失败，指不重复同类失败",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-05",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "避免不必要的失败的最好办法，是倾听周围老师和同学的建议并向他们学习",
+   "quote": "倾听周围老师和同学的建议",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 636,
+    "end_line": 636,
+    "sha1": "fc35f94c2b9401f4a29589debc90689675673907",
+    "fingerprint": [
+     "倾听",
+     "美德"
+    ]
+   },
+   "pillar_candidates": [
+    "D07-1",
+    "D02-2"
+   ],
+   "concept_key": "倾听建议避免失败",
+   "ability_tags": [
+    "沟"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "与杜鲁门式独立准备互补：从他人经验学习以减少不必要失败",
+   "boundary_original": "原著条件：'不必要的失败'——必要挫折仍需亲历",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-06",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "上大学最重要的目的是向周围的人学习，而不仅仅是学习课程",
+   "quote": "向周围的人学习",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 644,
+    "end_line": 644,
+    "sha1": "606dd78d81b498dee8d3437bc0038406a6bc2703",
+    "fingerprint": [
+     "周围的人",
+     "同学"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "向周围的人学习",
+   "ability_tags": [
+    "学"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "吴军对纽曼理念的取用（见 C-TD-U0016-08）；MIT 同学与教授为场景",
+   "boundary_original": "原著条件：有好同学与好教授的环境；进不了一流大学则用心找好同学为伴",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-07",
+   "unit_id": "TD-U0016",
+   "speaker": "吴军本人",
+   "claim_text": "人生最重要的是成为一个好人",
+   "quote": "成为一个好人",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 646,
+    "end_line": 646,
+    "sha1": "7216fa5361c50f9836fb22298b6726f1093114f2",
+    "fingerprint": [
+     "好人",
+     "自豪"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "成为好人最重要",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "信末结论句；D02-3 素材线索《更重要的是做个好人》同概念；不论成功与否父母都自豪",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0016-08",
+   "unit_id": "TD-U0016",
+   "speaker": "转述·第三方",
+   "claim_text": "纽曼：宁选让聪明年轻人共同生活、互相学习的大学，而非只修学分毕业的大学",
+   "quote": "即使没有人教，他们也能互相学习",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 640,
+    "end_line": 640,
+    "sha1": "49a96170f8ca31b026d0341591f9504f20f77ac1",
+    "fingerprint": [
+     "互相学习",
+     "年轻人"
+    ]
+   },
+   "pillar_candidates": [
+    "DT-待判"
+   ],
+   "concept_key": "纽曼式大学教育",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：约翰·纽曼（英国教育家）；归属两难：大学教育形态偏 X5、'互相学习'偏 D02-2，按 R4 记 DT-待判，最接近 D02-2；吴军明确认可（644 行，见 C-TD-U0016-06）",
+   "boundary_original": "原著条件：纽曼假设两型大学二选一",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0016",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子沟通方式段（615-617 行）：以朋友而非父母口气交流、感恩与放手——家庭亲子关系场景，按 HC-09 排除（沟通原则已由 U0003-04 通用卡覆盖）"
+  },
+  {
+   "unit_id": "TD-U0016",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景与后记（609、657 行）：MIT 送行、高中校长写信传统、媒体实验室后记——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信运气方法论、定位、成长、失败学习、倾听、向人学习、好人七个独立判断与纽曼转述均已成卡"
+}

@@ -1,0 +1,221 @@
+{
+  "unit_id": "FZ-U0003",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0003-01",
+      "speaker": "吴军本人",
+      "claim_text": "外在财富靠运气，但收获与付出成正比；人能改变的只有自己，把自己塑造成不同的人就会得到不同的命运",
+      "quote": "把自己塑造成不同的人",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 71,
+        "end_line": 71,
+        "sha1": "3a703bd07dcea7918489aaed94fca999c51cd3c5",
+        "fingerprint": [
+          "收获和付出是成正比的",
+          "试图控制运气是徒劳的",
+          "不同的命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "命运靠自己塑造",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "算命次数与命运无关（锚内）；出身、年代、机遇属难控的运气因素"
+    },
+    {
+      "claim_id": "C-FZ-U0003-02",
+      "speaker": "吴军本人",
+      "claim_text": "专长跨领域运用即做乘法，财富积累快的人都做了乘法；乘法不能乱用于有风险的事，否则会被风险淹没",
+      "quote": "乘法不能乱用",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 75,
+        "end_line": 75,
+        "sha1": "0d104b4624862dc5cc8bda857754c065c6a9380a",
+        "fingerprint": [
+          "数学思维",
+          "一通百通",
+          "做乘法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-2"
+      ],
+      "concept_key": "做乘法与风险边界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数学思维是吴军理解世界的工具（锚内）；风险上做乘法反被淹没为例证"
+    },
+    {
+      "claim_id": "C-FZ-U0003-03",
+      "speaker": "吴军本人",
+      "claim_text": "正确决策最重要的是有敬畏之心：分清能力之外不能做、不值得做、不应该做的事并从脑中清除，选择就容易",
+      "quote": "最重要的是要有敬畏之心",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 77,
+        "end_line": 77,
+        "sha1": "960a2603685ba53021810f502e7d5ffc6b9f3a7d",
+        "fingerprint": [
+          "敬畏之心",
+          "不值得做",
+          "清除"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "决策敬畏之心",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两例：试图打败市场的事不能做、只有一时收益无长期回报的事不值得做（锚内）；违道义的事不应该做"
+    },
+    {
+      "claim_id": "C-FZ-U0003-04",
+      "speaker": "吴军本人",
+      "claim_text": "先动脑后动手与先动手再总结没有高下之分，但须适合自己的方法；经历须经思考总结和交流才能变为经验",
+      "quote": "经过大脑的思考总结",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 79,
+        "end_line": 81,
+        "sha1": "b355660e3e25ca0fb7bcb1e228c292b8a8cb8ff6",
+        "fingerprint": [
+          "没有高下之分",
+          "经验和经历",
+          "大脑的思考总结"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "经历变经验",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "方法因人因事而异，知道用什么方法做什么事是艺术也是经验（行79）；简单重复的经历不产生经验（行81）"
+    },
+    {
+      "claim_id": "C-FZ-U0003-05",
+      "speaker": "转述·第三方",
+      "claim_text": "伊壁鸠鲁：快乐分动态短暂与静态永恒两种，真正的快乐来自明智、清醒和道德的生活",
+      "quote": "另一种是静态的、永恒的快乐",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 85,
+        "end_line": 87,
+        "sha1": "2ada909f68e584fcbefaeb464274b4010b4c0da3",
+        "fingerprint": [
+          "伊壁鸠鲁",
+          "动态的、短暂的快乐",
+          "明智、清醒"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-4",
+        "D01-4"
+      ],
+      "concept_key": "伊壁鸠鲁快乐二分",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：伊壁鸠鲁（论快乐）。吴军本人对富足的概括见 C-FZ-U0003-06（R1互引）；物质欲望满足的快乐短暂如渴了喝水（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0003-06",
+      "speaker": "吴军本人",
+      "claim_text": "财富带来的快乐是暂时的，人只有在精神上感到富足，才是真正的富足",
+      "quote": "在精神上感到富足",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 87,
+        "end_line": 87,
+        "sha1": "67a7f611bc5f102aa8c94afe05167751d072389f",
+        "fingerprint": [
+          "真正的富足",
+          "精神上感到富足"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "精神富足才是真富足",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "R1互引：伊壁鸠鲁快乐二分原话见 C-FZ-U0003-05；行89 波义耳、哈雷、伏尔泰等求知识贵族被后世纪念、同期求权贵者湮没为例证（行89末总结句与本卡同旨）"
+    },
+    {
+      "claim_id": "C-FZ-U0003-07",
+      "speaker": "吴军本人",
+      "claim_text": "成为精神富足的人要做好三件事：认清自己、在道的层面提升而非满足于术、从学习知识上升到获得智慧",
+      "quote": "做好以下三件事",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 91,
+        "end_line": 99,
+        "sha1": "69868355772996b025392506bf432803fd73441c",
+        "fingerprint": [
+          "认清自己",
+          "悟“道",
+          "知识和智慧不能画等号"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D01-3"
+      ],
+      "concept_key": "精神富足三件事",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3）：①认清自己才能开放接受外部输入（行93）②术有严格应用场景、悟道才能运用之妙存乎一心（行95-97）③智慧富于创造性、有智慧者站得更高看得更远（行99）"
+    },
+    {
+      "claim_id": "C-FZ-U0003-08",
+      "speaker": "吴军本人",
+      "claim_text": "理解世界规律不需高深数学知识，只需掌握数学思维、习惯用数学头脑分析日常现象",
+      "quote": "只需要掌握数学思维",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 107,
+        "end_line": 111,
+        "sha1": "98b79a277cfdc648bdbcd99fe608c5c62b6c95a5",
+        "fingerprint": [
+          "做简单的加法",
+          "掌握数学思维",
+          "负数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学思维理解世界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第一章章前导语：做加法与做乘法（行107）、忽视负数（行109）两大主题预告；行105为章名残行不抽"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "前言：富足的定义（外在财富+精神富足）与成为精神富足者的路径，含多个独立可迁移判断，抽8卡（含伊壁鸠鲁转述卡）"
+}

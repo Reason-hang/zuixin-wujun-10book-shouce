@@ -1,0 +1,176 @@
+{
+  "unit_id": "FZ-U0015",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0015-01",
+      "speaker": "吴军本人",
+      "claim_text": "免费的东西也有成本：互联网免费服务以个人信息泄露和后续麻烦支付代价",
+      "quote": "这些都是使用免费服务付出的成本",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 433,
+        "end_line": 437,
+        "sha1": "329d6a31b2717281d5c08c4019a2112244fe59bf",
+        "fingerprint": [
+          "免费服务",
+          "个人信息",
+          "麻烦"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D08-2"
+      ],
+      "concept_key": "免费的隐性成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "下载一堆App短期方便、长期信息泄露遇麻烦递进（行435-437）；'先给好处再让你补成本'模式（行437）"
+    },
+    {
+      "claim_id": "C-FZ-U0015-02",
+      "speaker": "吴军本人",
+      "claim_text": "误区一：舍不得抛弃沉没成本；明知沉没成本不再是成本，事到临头仍不愿放弃",
+      "quote": "沉没成本不再是成本",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 441,
+        "end_line": 441,
+        "sha1": "b63f82741267b9db1cf185d75758b208f3ab1a35",
+        "fingerprint": [
+          "沉没成本",
+          "电影票",
+          "放弃"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "沉没成本误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "100元电影票看10分钟无聊仍看完，既无受益又耽误两小时（锚内）；'船已沉没不必再计较'类比在锚内"
+    },
+    {
+      "claim_id": "C-FZ-U0015-03",
+      "speaker": "吴军本人",
+      "claim_text": "误区二：任何资源使用的机会成本是无风险收益；收益不如定期存款就是亏钱，跑不赢大盘即白付机会成本",
+      "quote": "哪怕看上去是小赚",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 443,
+        "end_line": 445,
+        "sha1": "8d0787f746d357006ddf04887143108ea2a226e8",
+        "fingerprint": [
+          "机会成本",
+          "定期存款",
+          "指数基金"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D09-2"
+      ],
+      "concept_key": "机会成本误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "10万炒股不赔不赚实亏两三个点利息（行443）；黄金涨幅低于通胀不保值、贝润生9000两买狮子林今不值百万（行443）；指数基金是投资基准点（行445）"
+    },
+    {
+      "claim_id": "C-FZ-U0015-04",
+      "speaker": "吴军本人",
+      "claim_text": "误区三：人天生厌恶损失，有机会找回损失就不算成本也去做，算总账往往得不偿失",
+      "quote": "把自己的损失找回来",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 447,
+        "end_line": 449,
+        "sha1": "b6f22c53f435fdf6a074dac345215d5e92987e28",
+        "fingerprint": [
+          "厌恶损失",
+          "找回来",
+          "损失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D03-2"
+      ],
+      "concept_key": "损失找补误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "白送200元吹风机会算成本、退货找补200元却不算（行449）；中关村-西单退货成本≈货款、'顺便去办常办不成'呼应《态度》上帝喜欢笨人（行451，锚外支撑）；谷歌广告主和解金回投广告白得的钱花得快（行453，锚外支撑）"
+    },
+    {
+      "claim_id": "C-FZ-U0015-05",
+      "speaker": "吴军本人",
+      "claim_text": "误区四：过于看重成本会忽视品质和效率；高品质与普通的差别平时不明显，关键时刻特别明显",
+      "quote": "只有在关键时刻才会显现出来",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 455,
+        "end_line": 461,
+        "sha1": "cc830ac333fea6daf185b57350fabec6fcfa4db7",
+        "fingerprint": [
+          "品质",
+          "关键时刻",
+          "高盛"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D09-2"
+      ],
+      "concept_key": "关键时刻品质显差",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "富达先锋便宜但交易慢、互联网股灾时大券商客户先抛止损而廉价券商散户多损失几成（行455-459）；买车重安全性与加速为例证（行463，锚外支撑）"
+    },
+    {
+      "claim_id": "C-FZ-U0015-06",
+      "speaker": "吴军本人",
+      "claim_text": "让回报成本比整体最大：算明面加隐性的总成本、格局大不贪小便宜、好得难以置信的事一概不理会",
+      "quote": "明面上的成本加上隐性成本",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 465,
+        "end_line": 471,
+        "sha1": "93d061028ea23d3c0329ebaa5301b3b846c649db",
+        "fingerprint": [
+          "隐性成本",
+          "贪小便宜",
+          "难以置信"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-2"
+      ],
+      "concept_key": "回报成本比三原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论一卡（R3）：①总成本=明面+隐性（行467）②盗版软件隐患、贪小便宜一辈子改不了（行469）③'你惦记别人那点利息时，别人在惦记你的本金'、非法集资爆雷（行471）；比较本身也有成本（行465）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第09节'如何让回报大于成本'：免费成本+四大成本误区+三点体会，抽6卡"
+}

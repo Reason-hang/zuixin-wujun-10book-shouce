@@ -1,0 +1,177 @@
+{
+  "unit_id": "FZ-U0011",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0011-01",
+      "speaker": "吴军本人",
+      "claim_text": "通用有生命力的成果推广程度与存在时间成正比，创造者影响力随工作年限三次方增长",
+      "quote": "和他工作年限的三次方",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 367,
+        "end_line": 371,
+        "sha1": "4b27f0c395c2dc09d5554437b17d40baeff8db3d",
+        "fingerprint": [
+          "三次方",
+          "通用",
+          "推广"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D06-1"
+      ],
+      "concept_key": "三次方影响力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "国内企业各自为战重复开发vs谷歌几万工程师共享一个代码库、亚马逊AWS由统一接口到云平台（行369）为例证；3个月生存期代码无法推广（行371）；吴军2003年系统级代码上百项目使用（行373）为例证"
+    },
+    {
+      "claim_id": "C-FZ-U0011-02",
+      "speaker": "吴军本人",
+      "claim_text": "持续做出被广泛采用、不断放大的工作，影响力与年限四次方成正比；量级差异造成同学天壤之别",
+      "quote": "影响力就和工作年限的四次方",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 375,
+        "end_line": 379,
+        "sha1": "4533c0cab2b4dd09eea29a1bfe55493439ba1811",
+        "fingerprint": [
+          "四次方",
+          "量级",
+          "天壤之别"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D06-1"
+      ],
+      "concept_key": "量级与四次方增长",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大于1的数乘方次数越高数值越大（行377）；线性、平方量级低，三次方四次方量级高，时间足够长差异越来越明显（行379）"
+    },
+    {
+      "claim_id": "C-FZ-U0011-03",
+      "speaker": "吴军本人",
+      "claim_text": "朗道等级的数学解释：普通工作者贡献线性增长，顶级成果被后续发展放大至三次方四次方，差一万倍不夸张",
+      "quote": "差出了一万倍并不夸张",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 381,
+        "end_line": 385,
+        "sha1": "218abfeda020e6b50ed064aaf231e3b9ebbc0a88",
+        "fingerprint": [
+          "朗道等级",
+          "三次方",
+          "一万倍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-2"
+      ],
+      "concept_key": "等级差距的数学解释",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引：朗道分级原述见C-FZ-U0007-03；第五级培养 学生线性增长、八九成论文无人读（行381）；玻尔海森堡量子力学被物理化材、信息革命逐层放大至三次方四次方（行383）；迪安云计算工具、莱万多夫斯基自动驾驶收入例证（行387-389，锚外支撑）"
+    },
+    {
+      "claim_id": "C-FZ-U0011-04",
+      "speaker": "吴军本人",
+      "claim_text": "在收入这件事上，世界更多看中功劳很少看苦劳，辛苦不是获得更好待遇的依据",
+      "quote": "在收入这件事上",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 391,
+        "end_line": 391,
+        "sha1": "47f712d691aaf8bf7e8ad12c8fb4e6b8231cd076",
+        "fingerprint": [
+          "功劳",
+          "苦劳",
+          "辛苦"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D04-1"
+      ],
+      "concept_key": "功劳与苦劳",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "辛苦做一大堆影响力有限的工作难获高回报（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0011-05",
+      "speaker": "吴军本人",
+      "claim_text": "很少有人前20年线性发展后突然乘方进步；乘方思维方式决定成就高低",
+      "quote": "乘方的思维方式",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 393,
+        "end_line": 393,
+        "sha1": "f7d4a0191842aab0d156a05be266cef16f699c32",
+        "fingerprint": [
+          "乘方的思维方式",
+          "莫笑少年穷",
+          "熬年头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D09-2"
+      ],
+      "concept_key": "乘方思维决定成就",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "投资偏好：宁投年轻但能力和影响力乘方上升者，不投熬年头者（锚内）；对创业者讲能否具有乘方思维决定成就高低（锚内）"
+    },
+    {
+      "claim_id": "C-FZ-U0011-06",
+      "speaker": "转述·第三方",
+      "claim_text": "吴国盛：先影响一批有影响力的人，由他们一圈圈传播出去，这是普及思想的有效做法",
+      "quote": "先影响一批具有影响力的人",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 395,
+        "end_line": 395,
+        "sha1": "76372ae517142006d7617d10c1e6e02a04112af6",
+        "fingerprint": [
+          "吴国盛",
+          "科学精神",
+          "传播"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-1",
+        "D07-2"
+      ],
+      "concept_key": "影响有影响力的人",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：清华科学史教授吴国盛（普及科学精神的方法）；吴军评述：这就是做乘方的思维方式（锚内，R1同链并存）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第07节'用乘方思维扩大影响力'：三次方/四次方增长、朗道等级数学解释、乘方思维选人，抽6卡（含吴国盛转述卡）"
+}

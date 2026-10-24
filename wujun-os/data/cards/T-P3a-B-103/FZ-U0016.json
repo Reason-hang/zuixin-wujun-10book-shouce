@@ -1,0 +1,190 @@
+{
+  "unit_id": "FZ-U0016",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0016-01",
+      "speaker": "吴军本人",
+      "claim_text": "巴菲特成功难复制：严守纪律、运气好活得长、当年做价值投资的人少且市场有效性差",
+      "quote": "至少有三个因素值得我们了解",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 475,
+        "end_line": 479,
+        "sha1": "68995e683d7e508b58cdd332ac2e57d72e14a846",
+        "fingerprint": [
+          "严守纪律",
+          "活得足够长",
+          "长期价值投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "巴菲特难复制三因素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "不做空、不用杠杆的纪律（行479）；二战后近80年和平+经营58年（行479）；'股神'们风光一时淡出（行477）为例证"
+    },
+    {
+      "claim_id": "C-FZ-U0016-02",
+      "speaker": "吴军本人",
+      "claim_text": "巴菲特靠体量换管理层化腐朽为神奇；没有他的体量，创造不出同样的奇迹",
+      "quote": "没有他的体量，是创造不出奇迹的",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 485,
+        "end_line": 491,
+        "sha1": "70eb125a7d53ff0aa9d743fab5adac72a195978d",
+        "fingerprint": [
+          "体量",
+          "化腐朽为神奇",
+          "管理层"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-1"
+      ],
+      "concept_key": "体量创造奇迹",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "巴菲特从不'炒'股、靠投资经营好生意赚钱（行483，锚外支撑）；选好生意+近期低迷企业+换管理层监督运营（行487）；散户买一万元烂公司只能割肉（行489）；对冲基金有体量但不做长期投资（行491）在锚内"
+    },
+    {
+      "claim_id": "C-FZ-U0016-03",
+      "speaker": "吴军本人",
+      "claim_text": "股息滚入复合增长影响巨大：可口可乐算股息年回报14.5%与11.7%半世纪差3.4倍",
+      "quote": "1美元可以变成871美元",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 495,
+        "end_line": 497,
+        "sha1": "9cd5fdbe8fd8b3dbab784bc03e730764051f28b5",
+        "fingerprint": [
+          "股息",
+          "复合增长率",
+          "可口可乐"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D04-1"
+      ],
+      "concept_key": "股息复合增长",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "伯克希尔年回报15%中约2%来自未分红滚存（行495）；14.5%复合50年1美元变871美元、11.7%仅252美元（行497）；公式量化以纸质原书为准"
+    },
+    {
+      "claim_id": "C-FZ-U0016-04",
+      "speaker": "吴军本人",
+      "claim_text": "巴菲特的体量带来不派息和税率优势；即使做一模一样的事，投资收益也不可能一样好",
+      "quote": "投资收益也不可能和他一样好",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 499,
+        "end_line": 505,
+        "sha1": "bfbfc3f7b662a911a901ea4bfafcaed4de0c315e",
+        "fingerprint": [
+          "派息",
+          "税率",
+          "复合增长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "体量的税息优势",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "以股票而非现金形式回报+税负从35%降至7%（行503）；没有每年2%滚存，58年股价只有今天的30%（行501，承接-03量化链）；90年代完全照抄巴菲特仓位者回报仍不及（行493，锚外背景）"
+    },
+    {
+      "claim_id": "C-FZ-U0016-05",
+      "speaker": "吴军本人",
+      "claim_text": "受本金体量限制，中产阶层就算有巴菲特的投资水平，指望在股市上致富也不现实",
+      "quote": "指望在股市上赚钱富裕起来",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 507,
+        "end_line": 509,
+        "sha1": "36e5cf9e15998696019c77fecd9c8c4df82714a2",
+        "fingerprint": [
+          "体量",
+          "财富自由",
+          "中产阶层"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D09-1"
+      ],
+      "concept_key": "股市致富不现实",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "20年不到5倍：100万变600万不够一线城市买房（行509，推演含时效假设，另记X2）"
+    },
+    {
+      "claim_id": "C-FZ-U0016-06",
+      "speaker": "吴军本人",
+      "claim_text": "巴菲特近20年回报下降三原因：市场有效性提高、错过信息革命、体量太大难高增长",
+      "quote": "资讯的发展让市场的有效性更好",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 511,
+        "end_line": 511,
+        "sha1": "6e681028bbaa350be0fcf87dbf626378bf4eb79a",
+        "fingerprint": [
+          "有效性",
+          "信息革命",
+          "体量"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "市场有效性归因",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "1982-2002年200多倍神话与近20年对比（锚内）为史实归因，非未来预测；市场越有效越难捡便宜（可迁移机理）"
+    },
+    {
+      "claim_id": "C-FZ-U0016-07",
+      "speaker": "吴军本人",
+      "claim_text": "诺威格定律：企业占有50%市场份额后就别指望份额翻番，体量太大是高增长的天花板",
+      "quote": "就不要指望市场份额能翻番了",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 513,
+        "end_line": 513,
+        "sha1": "dc45ebbfcf96c7a7e97e8270545c7b1881e15cb6",
+        "fingerprint": [
+          "诺威格定律",
+          "50%",
+          "翻番"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D04-1"
+      ],
+      "concept_key": "诺威格定律",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "出自吴军《浪潮之巅》本人定律的本节复述（speaker仍为吴军本人）；伯克希尔仅占美股0.7%但动辄翻番已无可能、文艺复兴大体量后回报回落（锚内）为例证"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第10节'没有体量创造不了奇迹'：体量、股息复合增长、诺威格定律系列判断，抽7卡"
+}

@@ -1,0 +1,274 @@
+{
+ "unit_id": "TD-U0010",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0010-01",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "成功创始人几乎都承认自己不过是运气好一点儿；没有运气，再努力也未必有结果",
+   "quote": "自己不过是运气好一点儿",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 351,
+    "end_line": 351,
+    "sha1": "9d3d39bc061cea5cb680866053806476855e3bc0",
+    "fingerprint": [
+     "运气",
+     "创始人"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "成功含运气成分",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "彩票中奖者 10 年败光、股市冒险者无好结局为反例论据（同段）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-02",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "人很难一辈子走好运，也不会一辈子走霉运，坏运气背后有必然性",
+   "quote": "不会一辈子走霉运",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 353,
+    "end_line": 353,
+    "sha1": "c2fe24bd8c4c70357b7b014a9ce9901df5d2de0e",
+    "fingerprint": [
+     "杜鲁门",
+     "霉运"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "好运霉运不终随身",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "霍普金斯校长讲杜鲁门前半生霉运后半生转运为例证；355 行孔子'从心所欲不逾矩'与摩伊拉为宿命概念铺垫（转述论据）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-03",
+   "unit_id": "TD-U0010",
+   "speaker": "转述·第三方",
+   "claim_text": "撒切尔夫人：注意想法、言辞、行为、习惯与性格，它们最终决定命运",
+   "quote": "它能塑造你的性格",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 361,
+    "end_line": 369,
+    "sha1": "99d1025f21f4c6face434577f2b55e07586423a0",
+    "fingerprint": [
+     "性格",
+     "命运"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "想法—习惯—性格—命运链",
+   "ability_tags": [],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：撒切尔夫人；与 C-TD-U0003-02 为同源引文（书内序言与第 6 信重复出现），P4 去重合并",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-04",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "从小养成的习惯最终决定命运：命运在一开始就被不好的做事方法和行为决定",
+   "quote": "最终决定了我们的命运",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 373,
+    "end_line": 373,
+    "sha1": "7dea60b8d55a01c47825657f0f08c428f0d982e0",
+    "fingerprint": [
+     "习惯",
+     "跳步骤"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D02-3"
+   ],
+   "concept_key": "习惯决定命运",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "学数学跳步骤/字迹潦草/草稿密集的链式后果为例证；397 行总结句（好习惯好性格交好人）为复述并入",
+   "boundary_original": "原著条件：习惯在人生早期形成，经行为—习惯—性格链条起作用",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-05",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "豪门未必出贵子，寒门未必不能出贵子：起决定作用的是不知不觉形成的小地方与习惯",
+   "quote": "豪门未必出贵子",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 375,
+    "end_line": 377,
+    "sha1": "fb3cc94c216957d0b394104c6170f6b2f26ecb3d",
+    "fingerprint": [
+     "寒门",
+     "豪门"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "寒门豪门与贵子无关",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "范德比尔特后代、特朗普/克林顿之女、福布斯榜一代为论据（时事例证不独立成卡）",
+   "boundary_original": "原著条件：美国底层孩子多数仍难摆脱阶层（吴军自注）",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-06",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "人的运气首先由环境决定：出生的时间和地点在很大程度上决定命运",
+   "quote": "运气首先由环境决定",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 379,
+    "end_line": 379,
+    "sha1": "20ffb4ef8d8814bd00588fb12e7bb06408847e4f",
+    "fingerprint": [
+     "格拉德威尔",
+     "事半功倍"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "运气由环境决定",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "转述马尔科姆·格拉德威尔《异类》并取用；工业革命/改革开放/婴儿潮为例证；'在家说中文多一条腿走路'为育儿应用（X5 记录）",
+   "boundary_original": "原著条件：就时代与大环境而言；个人努力在 381 行起另有论述",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-07",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "对待麻烦和难题（巴掌）的态度与处理方法决定命运：扇回去、认命或冷静分析处理",
+   "quote": "就决定了我们的命运",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 381,
+    "end_line": 385,
+    "sha1": "baedc5b5c0ba47d6532b0086a181e22c42e21d18",
+    "fingerprint": [
+     "一巴掌",
+     "认命"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "巴掌反应定命运",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "小学考试三法为应用例；387-389 行健走'不作不死'新闻为'扇回去'类时事例证（并入，X2 留痕）",
+   "boundary_original": "原著条件：三种反应具有跨情境一致性（387 行'高度的一致性'）",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0010-08",
+   "unit_id": "TD-U0010",
+   "speaker": "吴军本人",
+   "claim_text": "受了不公不要认怂：不争取就没有机会，行动最终决定命运",
+   "quote": "行动最终决定命运",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 391,
+    "end_line": 391,
+    "sha1": "9d99dc0a6ca3bcce811f68a047dc3041008cdabf",
+    "fingerprint": [
+     "行动",
+     "认怂"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "行动决定命运",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "亚裔争取权益与参与政治为时政例证（具体 AA 议案内容随段留痕，不作卡）；393 行女儿向航司交涉为正面例",
+   "boundary_original": "原著条件：针对受到不公对待的群体；'路很长但必须开始走'",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0010",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "择偶与伴侣段（395 行）：巴菲特嫁人建议、林徽因/胡因梦/李敖例——家庭与亲密关系主题，按 HC-09 排除（含巴菲特转述随段排除）；另 379 行'在家说中文'为育儿语言教育建议，一并排除"
+  },
+  {
+   "unit_id": "TD-U0010",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "时代趋势判断（379 行内）：'接下来几十年世界发展只能指望美国和中国'——宏观趋势预测，登记 X6 候选由 P4 终裁"
+  },
+  {
+   "unit_id": "TD-U0010",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景与后记（343、408 行）：实习面试不顺缘起、布隆伯格邀约后记——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信系统论述命运：运气、环境、巴掌反应、习惯、行动五个独立判断加撒切尔转述，均已成卡"
+}

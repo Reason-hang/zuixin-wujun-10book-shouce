@@ -1,0 +1,199 @@
+{
+ "unit_id": "TD-U0005",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0005-01",
+   "unit_id": "TD-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "一个乐观的人生态度比什么都重要",
+   "quote": "乐观的人生态度比什么都重要",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 148,
+    "end_line": 148,
+    "sha1": "7bfff844faf74fbde55140f340d4489a1efce429",
+    "fingerprint": [
+     "乐观",
+     "巴尔的摩"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "乐观的人生态度比什么都重要",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "论据：巴尔的摩家长先快乐过 18 年的观点（概括转述论据，不独立成卡）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0005-02",
+   "unit_id": "TD-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "快乐与财富多少关系不大，更多是一种生活态度；人不快乐，再多的钱也没有意义",
+   "quote": "更多的是一种生活态度",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 150,
+    "end_line": 152,
+    "sha1": "d014bc71064073be62ef44d530fbdc962cb7cf9a",
+    "fingerprint": [
+     "快乐",
+     "财富"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "快乐是生活态度与财富无关",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "论据：巴尔的摩/新泽西/硅谷收入与快乐对比、吴军童年赤贫却快乐的自述",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0005-03",
+   "unit_id": "TD-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "快乐的外部源泉：家庭和谐、天性自然释放、有朋友不孤独",
+   "quote": "和谐产生快乐",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 154,
+    "end_line": 158,
+    "sha1": "82af84afb96ef1a2d470ccc94f10825eed5c8529",
+    "fingerprint": [
+     "和谐产生快乐",
+     "天性"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "快乐的来源—外部",
+   "ability_tags": [],
+   "type": "清单",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "奶奶叮嘱（不在孩子面前争执）为家庭论据；孤独的人很难快乐为第三条结论",
+   "boundary_original": "原著条件：外部因素指家庭氛围、成长环境与同伴环境",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0005-04",
+   "unit_id": "TD-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "快乐更多来自内心：豁达包容自然快乐，权责越重越需提高内心修养",
+   "quote": "快乐更多地来自内心",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 160,
+    "end_line": 160,
+    "sha1": "546712ac0c3c16432235ab82a244d644c74b7411",
+    "fingerprint": [
+     "内心",
+     "甘地"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "快乐来自内心",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "圣雄甘地内心宁静为例证（E3 论据并入）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0005-05",
+   "unit_id": "TD-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "怨气、嫉妒和骄慢是快乐的敌人；钱对快乐的作用有限，达一定数量后只是账面数字",
+   "quote": "它们都是快乐的敌人",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 162,
+    "end_line": 162,
+    "sha1": "281cf782d6511f92c1e0bbc271d34ef24674fe1a",
+    "fingerprint": [
+     "快乐的敌人",
+     "嫉妒"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "快乐的敌人",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "与 C-TD-U0005-02 互补：02 讲快乐与财富弱相关，本卡讲负面情绪清单",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0005-06",
+   "unit_id": "TD-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "保持快乐的四个做法：终身学习新知、有理想且身体力行、待人包容少争、看透人生",
+   "quote": "学习是一辈子的事",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 166,
+    "end_line": 172,
+    "sha1": "0bfc26effa2328b5313450d40ca948a7de298a08",
+    "fingerprint": [
+     "理想",
+     "包容",
+     "看透人生"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "快乐的四个习惯",
+   "ability_tags": [],
+   "type": "清单",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡（R3）",
+   "boundary_original": "原著条件：吴军自述的四个方面，非封闭清单",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0005",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景与落款（138、142-144、176-181 行）：MIT 入学情境、问候与署名——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信围绕乐观与快乐的来源展开，6 个可独立成立的判断均已成卡"
+}

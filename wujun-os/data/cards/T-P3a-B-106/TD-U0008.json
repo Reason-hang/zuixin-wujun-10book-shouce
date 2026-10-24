@@ -1,0 +1,152 @@
+{
+ "unit_id": "TD-U0008",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0008-01",
+   "unit_id": "TD-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "年轻时需做成几件事，通过成功学会成功的方法；失败不是成功之母，成功才是成功之母",
+   "quote": "成功才是成功之母",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 289,
+    "end_line": 289,
+    "sha1": "01642fe35534c0ee93b4f5483740b3fc590a57cf",
+    "fingerprint": [
+     "成功才是成功之母",
+     "香山"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "成功是成功之母",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "香山登顶为吴军自身例证；对应 D05-2 可重复的成功（富足同名主题）",
+   "boundary_original": "原著条件：人在年轻的时候；失败一次后第二次可能在最后时刻功亏一篑",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0008-02",
+   "unit_id": "TD-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "每天看到进步或得到奖励才有动力；不能马上看到结果，人们通常会失去耐心",
+   "quote": "人们通常会失去耐心",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 283,
+    "end_line": 283,
+    "sha1": "702afc0fe2a528f23417318b8621edf82097fbd6",
+    "fingerprint": [
+     "进步",
+     "奖励"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "即时反馈驱动动力",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "解释练琴兴趣下降的第二原因；281 行（基本功枯燥但提高几个级别）为第一原因论据，一并并入",
+   "boundary_original": "原著条件：对大部分人特别是年轻人而言",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0008-03",
+   "unit_id": "TD-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "面对困难，回避或挑战的不同态度日积月累造成人的分化；做成不想做之事让做事有目的、有主动性",
+   "quote": "态度不同，结果不同",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 287,
+    "end_line": 287,
+    "sha1": "6b32181ebe4d34c8f18d28da0e11e2d3b1bdf131",
+    "fingerprint": [
+     "分化",
+     "主动性"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D02-4"
+   ],
+   "concept_key": "面对困难的态度决定分化",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "同龄人分化叙事为论据；学琴决定为应用场景",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0008-04",
+   "unit_id": "TD-U0008",
+   "speaker": "转述·第三方",
+   "claim_text": "柏拉图：音乐是教养的和谐、灵魂的完善、激情的中和",
+   "quote": "教养的和谐",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 293,
+    "end_line": 293,
+    "sha1": "cf890c9c7a0fcfe12cb2954c1f0bb8613ce77c95",
+    "fingerprint": [
+     "柏拉图",
+     "音乐"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "柏拉图论音乐",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：柏拉图；吴军按三层含义展开评述并认同（同段内）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0008",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "学琴决策段（275、277、279、291、295 行）：是否放弃钢琴/计算机、不走冷门乐器捷径、姐姐标杆——家庭子女教育决策，按 HC-09 排除；'学音乐为愉悦自己不走捷径'仅作决策理由随段排除"
+  },
+  {
+   "unit_id": "TD-U0008",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景与后记（267、303 行）：通话缘起、钢琴 9 级与林肯中心后记——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信核心判断（成功是成功之母、即时反馈机制、困难态度分化）与柏拉图转述均已成卡"
+}

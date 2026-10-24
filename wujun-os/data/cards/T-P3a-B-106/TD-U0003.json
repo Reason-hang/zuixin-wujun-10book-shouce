@@ -1,0 +1,181 @@
+{
+ "unit_id": "TD-U0003",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0003-01",
+   "unit_id": "TD-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "代际交流与经验传递是人类进步的根本；凡事靠自己试错摸索，进步会比同龄人慢",
+   "quote": "是人类进步的根本",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 68,
+    "end_line": 72,
+    "sha1": "8fc587c662bc0116b0e076bb49df1721a3793c3d",
+    "fingerprint": [
+     "人类进步的根本",
+     "试错"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D07-1"
+   ],
+   "concept_key": "前人经验优于亲身试错",
+   "ability_tags": [
+    "学"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "文字出现与文明加速、物种基因传承对比为论据（史实仅作支撑不独立成卡）；背景见 74 行家书沟通方式叙述",
+   "boundary_original": "原著限定于人类文明代际传递场景；其他场景原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0003-02",
+   "unit_id": "TD-U0003",
+   "speaker": "转述·第三方",
+   "claim_text": "撒切尔夫人：想法决定言辞行动，言辞主导行为，行为成习惯，习惯塑造性格，性格决定命运",
+   "quote": "它能决定你的命运",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 91,
+    "end_line": 99,
+    "sha1": "99d1025f21f4c6face434577f2b55e07586423a0",
+    "fingerprint": [
+     "习惯",
+     "性格"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "想法—习惯—性格—命运链",
+   "ability_tags": [],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：撒切尔夫人；吴军加句概括与取用见 C-TD-U0003-03",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0003-03",
+   "unit_id": "TD-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "态度影响想法，是习惯与性格链条的起点；孩子命运在父母传递坏习惯时已被决定",
+   "quote": "注意你的态度",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 103,
+    "end_line": 103,
+    "sha1": "1af0c88508af104c1552e1c130858ad22b32f097",
+    "fingerprint": [
+     "态度",
+     "命运"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "态度决定命运",
+   "ability_tags": [],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "本书书名由来；撒切尔原话见 C-TD-U0003-02；重复出现于第 6 信（见 C-TD-U0010-03 同源引文）",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0003-04",
+   "unit_id": "TD-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "沟通是双向的，倾听孩子的想法比发表意见更重要",
+   "quote": "倾听孩子的想法比发表意见更重要",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 107,
+    "end_line": 107,
+    "sha1": "8b456d8fb1c72379abc59246c6124e09c749f2c9",
+    "fingerprint": [
+     "双向",
+     "倾听"
+    ]
+   },
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "倾听重于发表意见",
+   "ability_tags": [
+    "沟"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "亲子语境下提出，结论句为通用沟通原则，可迁移到一般沟通",
+   "boundary_original": "原著限定于长辈与晚辈沟通场景；一般场景为迁移推断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0003-05",
+   "unit_id": "TD-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "建议因人而异：没有绝对好与不好的建议，只有适合和不适合的",
+   "quote": "只有适合和不适合的",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 105,
+    "end_line": 105,
+    "sha1": "80e4431272fdaa38591c22339bbc1637d0219e3d",
+    "fingerprint": [
+     "因人而异",
+     "子路"
+    ]
+   },
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "建议因人而异",
+   "ability_tags": [
+    "沟"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "孔子答子路、冉有因材施教为转述史实论据，不独立成卡",
+   "boundary_original": "原著条件：听建议者的性格与处境不同（子路/冉有例）",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0003",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "沟通心得一/二（80-87 行）：尊重子女人格、倚老卖老阻碍沟通、不向子女转嫁愿望、榜样的力量大于说教（含毛泽东/富兰克林引语、熊孩子论）——主题为家庭亲子教育，按 HC-09 排除；毛泽东/富兰克林语为其中转述论据"
+  },
+  {
+   "unit_id": "TD-U0003",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "成书背景与致谢（74、76、109-129 行）：书信集由来、六主题目录、出版致谢——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "序言含核心论点：代际经验传递、态度决定命运、倾听重于说、建议因人而异，均已抽卡"
+}

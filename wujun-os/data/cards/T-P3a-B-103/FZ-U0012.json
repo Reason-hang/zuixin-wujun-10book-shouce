@@ -1,0 +1,121 @@
+{
+  "unit_id": "FZ-U0012",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0012-01",
+      "speaker": "吴军本人",
+      "claim_text": "突破常人天花板者境界高出一筹：防范风险、集中精力、利用杠杆、多维度发挥、乘方增长；发展的天花板就是境界",
+      "quote": "这个天花板就是他的境界",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 399,
+        "end_line": 399,
+        "sha1": "f5baa94a8a996795212f48b64b176726e6cbeffa",
+        "fingerprint": [
+          "天花板",
+          "境界",
+          "乘方增长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D04-1"
+      ],
+      "concept_key": "发展的天花板是境界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第一章章末小结，清单式总结一卡（R3）：防风险/聚焦/杠杆/多维度/乘方/累计效应"
+    },
+    {
+      "claim_id": "C-FZ-U0012-02",
+      "speaker": "吴军本人",
+      "claim_text": "凡事都有成本，免费的东西也有成本；该舍弃的沉没成本要舍弃，做投资后更深认识机会成本",
+      "quote": "凡事都是有成本的",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 403,
+        "end_line": 405,
+        "sha1": "465a88f860ba22bbedf60d3799a8b23fd5031c80",
+        "fingerprint": [
+          "免费的东西",
+          "沉没成本",
+          "机会成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D09-1"
+      ],
+      "concept_key": "凡事皆有成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第二章章前导语；瞎折腾浪费资源的自我复盘（行405前半）为例证"
+    },
+    {
+      "claim_id": "C-FZ-U0012-03",
+      "speaker": "转述·第三方",
+      "claim_text": "松下幸之助：产品不能盈利就是对人类的犯罪，资源本可用来做更有意义的事情",
+      "quote": "就是对人类的犯罪",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 407,
+        "end_line": 407,
+        "sha1": "c1043e8aa5baa86167bef8dfff85141bdd6bf244",
+        "fingerprint": [
+          "松下幸之助",
+          "不能盈利",
+          "宝贵的资源"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "不盈利即浪费资源",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：松下幸之助；吴军以成本意识承接该引语（R1互引：吴军概括见C-FZ-U0012-04）"
+    },
+    {
+      "claim_id": "C-FZ-U0012-04",
+      "speaker": "吴军本人",
+      "claim_text": "成本意识是人有智慧的标志；懂得舍弃回报不高的事、专注高回报的事是进入高境界的开始",
+      "quote": "具有成本意识是人有智慧的标志",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 409,
+        "end_line": 409,
+        "sha1": "840739468da68ffcd5e5df2b7c915d7083261d9a",
+        "fingerprint": [
+          "成本意识",
+          "智慧的标志",
+          "高回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-3"
+      ],
+      "concept_key": "成本意识即智慧",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "R1互引：松下幸之助原话见C-FZ-U0012-03；本卡为吴军本人总结句"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第一章本章小结+第二章章前导语：境界天花板总结与成本意识起兴，抽4卡（含松下幸之助转述卡）"
+}

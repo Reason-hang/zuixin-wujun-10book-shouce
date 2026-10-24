@@ -1,0 +1,160 @@
+{
+ "unit_id": "TD-U0009",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0009-01",
+   "unit_id": "TD-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "最好是更好的敌人：任何进步都比没有进步好，一根筋追求最好往往什么也得不到",
+   "quote": "最好是更好的敌人",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 320,
+    "end_line": 322,
+    "sha1": "22e2be404115be878bd2452dad24beb1adabf7ef",
+    "fingerprint": [
+     "最好是更好的敌人",
+     "进步"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "最好是更好的敌人",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "源于 2016 限枪法案双方互不让步案例；322 行展开：追求卓越与接受部分改进不矛盾；谷歌反作弊 46% 案例（324 行）为例证并入",
+   "boundary_original": "原著条件：追求卓越、实现最后 1% 与接受部分改进不矛盾",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0009-02",
+   "unit_id": "TD-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "渐进交付优于完美延迟：把更好的版本按时提供，胜过为完美版什么都提供不了",
+   "quote": "永远没有完美的时候",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 326,
+    "end_line": 326,
+    "sha1": "9fce011a246c420c245a03426028d7aceb85f13c",
+    "fingerprint": [
+     "截止日期",
+     "完美"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "渐进交付优于完美延迟",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "谷歌新版本上线实践为例证",
+   "boundary_original": "原著条件：快到截止日期且个别功能缺位的版本决策场景",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0009-03",
+   "unit_id": "TD-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "世界本来就不完美：两次八成收益的改进胜过自认完美的一次，不怕慢就怕停",
+   "quote": "做事情不怕慢，就怕停",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 328,
+    "end_line": 328,
+    "sha1": "53c296070dfa14f2b1f6d0930843f330ec10c3c8",
+    "fingerprint": [
+     "不怕慢",
+     "完美"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "不怕慢就怕停",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "原理",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "2＋2＞3 论证；与富足《不怕慢，就怕停》同概念",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0009-04",
+   "unit_id": "TD-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "保守主义做事观：从小事、身边事、容易做的事开始一步步改善，而非等待扯皮",
+   "quote": "从小事、身边的事",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 330,
+    "end_line": 330,
+    "sha1": "c7c893799cbc66ae3aedd43836597f6703df3953",
+    "fingerprint": [
+     "保守主义",
+     "理想主义者"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1",
+    "D02-3"
+   ],
+   "concept_key": "保守主义的渐进改善",
+   "ability_tags": [
+    "做"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "吴军自述信奉保守主义哲学的理由；理想主义者对照",
+   "boundary_original": "原著条件：最终达到进化目的；控枪等社会问题适用折中方案（332 行）",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0009",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "控枪时事叙述（314-318、332 行）：枪击案、宪法第二修正案、2016 限枪法案过程——时事背景，仅作卡01 论据，按 X2 登记候选"
+  },
+  {
+   "unit_id": "TD-U0009",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "个人安全叮嘱（314 行部分）：夜间结伴逆行、求助校警等具体叮嘱——无可迁移论点"
+  },
+  {
+   "unit_id": "TD-U0009",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景（308 行）：协会事务缘起——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信核心论点'最好是更好的敌人'及三条派生判断均已成卡"
+}

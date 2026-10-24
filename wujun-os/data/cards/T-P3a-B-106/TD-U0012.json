@@ -1,0 +1,159 @@
+{
+ "unit_id": "TD-U0012",
+ "book_code": "TD",
+ "extractor": "EXT-TD",
+ "batch_id": "T-P3a-B-106",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0012-01",
+   "unit_id": "TD-U0012",
+   "speaker": "吴军本人",
+   "claim_text": "格局的大小决定了成就的顶点：以改变世界为目的利益大，赚小钱者众利润被摊薄",
+   "quote": "格局的大小决定了成就的顶点",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 442,
+    "end_line": 442,
+    "sha1": "0738bd17aeff252733e03f224be7cc56e2e5ff6d",
+    "fingerprint": [
+     "格局",
+     "改变世界"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "格局决定成就顶点",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "谷歌苹果 vs 高频交易公司对比为论据；D01-2 素材线索《决策时格局要大》",
+   "boundary_original": "原著未说明",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0012-02",
+   "unit_id": "TD-U0012",
+   "speaker": "吴军本人",
+   "claim_text": "选择做什么不做什么时格局要大；开始做就要往最好目标努力，境界即目光能看多远",
+   "quote": "尽可能往最好的目标努力",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 448,
+    "end_line": 448,
+    "sha1": "289cf53738f5140427e57b155df54f0cb987a152",
+    "fingerprint": [
+     "格局",
+     "境界"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-2",
+    "D01-3"
+   ],
+   "concept_key": "选择时格局要大",
+   "ability_tags": [
+    "思"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "境界定义（目光能看多远）引出第 8 信主题",
+   "boundary_original": "原著条件：境界的比较尺度是能看到多远之后的事情",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0012-03",
+   "unit_id": "TD-U0012",
+   "speaker": "吴军本人",
+   "claim_text": "人文课程让人眼界开阔、格局变大：从大处着眼，在境界而非仅技能上超过同龄人",
+   "quote": "从大处着眼",
+   "evidence_level": "E1",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 424,
+    "end_line": 426,
+    "sha1": "765e4417667aa7d61b10326f01410a40a9986598",
+    "fingerprint": [
+     "人文课程",
+     "眼界"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-2",
+    "D02-2"
+   ],
+   "concept_key": "人文教育开阔眼界",
+   "ability_tags": [
+    "学"
+   ],
+   "type": "判断",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "给女儿的选课建议中抽出的一般判断；离开学校后人文课难再学为理由",
+   "boundary_original": "原著条件：MIT 在校场景；专业课将来自学机会多",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  },
+  {
+   "claim_id": "C-TD-U0012-04",
+   "unit_id": "TD-U0012",
+   "speaker": "转述·第三方",
+   "claim_text": "杜尔的投资标准：不看赚钱，看能否对世界产生重大影响、两年后世界有何不同",
+   "quote": "两年后世界会因此有什么不同",
+   "evidence_level": "E2",
+   "anchor": {
+    "file": "《态度》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 438,
+    "end_line": 438,
+    "sha1": "d3c6e3e82355540cf24125912fcd39a75d4501a7",
+    "fingerprint": [
+     "杜尔",
+     "重大影响"
+    ]
+   },
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "杜尔式投资标准",
+   "ability_tags": [],
+   "type": "方法",
+   "disposal": "K",
+   "status": "已生成",
+   "notes": "被转述者：约翰·杜尔（凯鹏华盈）；吴军以此说明为何拒投高频交易团队（436 行）",
+   "boundary_original": "原著条件：杜尔原则与'以赚钱为目的'相对；'做得更好'类项目不被认可",
+   "stability": "永恒原理",
+   "math_mapping": "不适用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0012",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "高频交易行业叙述与产值数据（430-434、440 行）：机制、芝加哥光纤、威图/骑士资本与谷歌苹果人均产值对比——2017 时效性行业数据，作为卡01 论据登记 X2 候选"
+  },
+  {
+   "unit_id": "TD-U0012",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "高频交易机制科普（430-432 行）：一分钱价差原理讲解——金融知识科普，仅作论据"
+  },
+  {
+   "unit_id": "TD-U0012",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "写信背景（416 行）与院长发问叙述（424 行部分）——载体与非内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全信核心论点'格局决定成就顶点'及选择观、人文教育、杜尔标准均已成卡"
+}

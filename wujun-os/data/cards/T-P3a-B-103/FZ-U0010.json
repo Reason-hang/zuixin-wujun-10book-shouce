@@ -1,0 +1,94 @@
+{
+  "unit_id": "FZ-U0010",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ",
+  "batch_id": "T-P3a-B-103",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0010-01",
+      "speaker": "吴军本人",
+      "claim_text": "成就差距不能用努力解释：有些人成就是线性叠加的，有些人按平方甚至立方速度增长",
+      "quote": "成就是线性叠加的",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 341,
+        "end_line": 347,
+        "sha1": "fcdef5608a5e412eb61f92714611cff8aa0e9377",
+        "fingerprint": [
+          "线性叠加",
+          "平方",
+          "数量级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D06-1"
+      ],
+      "concept_key": "线性vs平方增长",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "每周工时差不多成就差数量级（行341）；谷歌代码存留两三个版本vs腾讯代码半年内被替换（行343-347）为例证（不讲究代码质量所致，行347）"
+    },
+    {
+      "claim_id": "C-FZ-U0010-02",
+      "speaker": "吴军本人",
+      "claim_text": "工作成果生命周期决定累计贡献量级：短周期成果是年限的线性函数，长周期成果与年限平方成正比",
+      "quote": "累计贡献和工作年限的平方",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 349,
+        "end_line": 357,
+        "sha1": "b4d4467632ab48ed230ca8ca6630ed43ad9c43c5",
+        "fingerprint": [
+          "张三",
+          "李四",
+          "平方"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D06-1"
+      ],
+      "concept_key": "累计贡献平方增长",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "张三3个月失效月贡献恒定3000行线性、李四4年失效逐月累加（行349-357）；平方函数比线性函数增长快得多（行357）"
+    },
+    {
+      "claim_id": "C-FZ-U0010-03",
+      "speaker": "吴军本人",
+      "claim_text": "做短影响力的事如狗熊掰棒子；能持续长销的工作，累计回报随时间平方增加",
+      "quote": "总收入就会随着时间的平方增加",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 359,
+        "end_line": 363,
+        "sha1": "215cac2ae99b3939532a0d2fb0d00672c7fc9688",
+        "fingerprint": [
+          "狗熊掰棒子",
+          "长销书",
+          "平方增加"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "长销的平方回报",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "航空业80年代代码仍在使用、失败初创公司每项工作影响力持续短（行359）；能养活自己的作家不超过出书人的1%、绝大部分书6个月后挣不到钱（行361-363）为例证"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第06节'线性成长的局限性'：成果生命周期决定线性/平方量级增长，抽3卡"
+}
