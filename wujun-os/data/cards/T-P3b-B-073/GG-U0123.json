@@ -1,0 +1,129 @@
+{
+  "unit_id": "GG-U0123",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0123-01",
+      "unit_id": "GG-U0123",
+      "speaker": "史实",
+      "claim_text": "佩奇不作恶是身体力行：发现很多互联网公司市值不如手上现金也不买来停掉业务——因为那样太邪恶，早晚被同业抛弃",
+      "quote": "那样太邪恶",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8236,
+        "end_line": 8239,
+        "sha1": "d98004d5a6dc356096c1732bd0c1a01b4408eed2",
+        "fingerprint": [
+          "不作恶",
+          "现金"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-2"
+      ],
+      "concept_key": "不作恶的身体力行",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "细节：佩奇有研究公司财报与行业情报的习惯（8234行）。"
+    },
+    {
+      "claim_id": "C-GG-U0123-02",
+      "unit_id": "GG-U0123",
+      "speaker": "史实",
+      "claim_text": "佩奇式务实决策：相关搜索两次被拒后用数据证明增加2%搜索量，佩奇有条件同意——先1%流量测试两个月、数据无误再全量",
+      "quote": "有条件地同意了这个项目上线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8256,
+        "end_line": 8258,
+        "sha1": "a86649b1f6f116846c3919bfb5d91275d8c0fec4",
+        "fingerprint": [
+          "测试",
+          "数据"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "数据说服灰度测试",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "背景：佩奇布林曾担心用户习惯点击会流向雅虎MSN（8256行）；后来Google主动给关键词提示（8258行）。"
+    },
+    {
+      "claim_id": "C-GG-U0123-03",
+      "unit_id": "GG-U0123",
+      "speaker": "吴军本人",
+      "claim_text": "看到成功者的光环，也要想到他们背后花费的努力——佩奇不到40岁头发花白，是过度操心所致",
+      "quote": "也要想到他们在背后花费的努力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8277,
+        "end_line": 8278,
+        "sha1": "64fd8780fe1d0e20ee9ee62d25c9b89decec290e",
+        "fingerprint": [
+          "光环",
+          "努力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "光环背后的努力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "近距离观察：佩奇极为用功、商业研究深入、深思熟虑才表态；维持高增长盈利但从不取悦华尔街；不满者也承认他是绅士（8274-8277行）。"
+    },
+    {
+      "claim_id": "C-GG-U0123-04",
+      "unit_id": "GG-U0123",
+      "speaker": "史实",
+      "claim_text": "Google三驾马车慷慨大气：Review上布林二话不说给服务器、佩奇算出每天两美元说这点钱不要省",
+      "quote": "这点钱不要省",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8244,
+        "end_line": 8247,
+        "sha1": "61ad20ef81269a05b061043e68adccc13e9824b9",
+        "fingerprint": [
+          "慷慨",
+          "合力"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "佩奇式慷慨",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0123",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "佩奇个人轶事与Google中国决策史（旱冰球/梅耶尔恋情/上海办公室/李开复推荐，8251-8273行）为人物与公司史叙述，记X4"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "特别加餐（佩奇亲历）：不作恶/灰度测试/光环努力/慷慨4卡。"
+}

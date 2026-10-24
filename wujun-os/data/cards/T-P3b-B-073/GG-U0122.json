@@ -1,0 +1,190 @@
+{
+  "unit_id": "GG-U0122",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0122-01",
+      "unit_id": "GG-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "洪堡体制三原则：研究与教学合一、课题与工业结合；知识总和（跨学科）；学生必须集中精深于一个专业",
+      "quote": "研究、教学合一",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8179,
+        "end_line": 8185,
+        "sha1": "eeba90af9f1cbae29bd20a051e43f378c1de0be2",
+        "fingerprint": [
+          "洪堡",
+          "研究"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "洪堡体制三原则",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "沿革：前苏联照抄洪堡、中国50年后又照抄前苏联（理工分校，8174-8176行）；柏林洪堡大学出了马克思黑格尔俾斯麦门德尔松赫兹普朗克（8202行）。"
+    },
+    {
+      "claim_id": "C-GG-U0122-02",
+      "unit_id": "GG-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "不能含糊说纽曼通才与洪堡专才各有千秋：要看国家发展阶段与受教育者阶层——教育应先解决温饱，再追求高远",
+      "quote": "先解决温饱，再追求高远",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8197,
+        "end_line": 8197,
+        "sha1": "79e81c221cb9918ae2b5598217e91a8b8e89e253",
+        "fingerprint": [
+          "通才",
+          "专才"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "先温饱后高远",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "洪堡体制优势：学生温饱不愁、国家有可用人才、办学成本低易管理（8193-8195行）；短处：知识面窄、申请前就偏科（8192行）。"
+    },
+    {
+      "claim_id": "C-GG-U0122-03",
+      "unit_id": "GG-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "照抄者没读懂洪堡：洪堡强调「知识的总和」被复制者们忘记了——任何制度设计都是特定历史条件的产物，晚百年想法必不同",
+      "quote": "被他的复制者们忘记了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8201,
+        "end_line": 8202,
+        "sha1": "af7a92232b112455ea993be960b3e9a3f04f992e",
+        "fingerprint": [
+          "照抄",
+          "知识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D10-1"
+      ],
+      "concept_key": "照抄者忘记灵魂",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清华300学生无一人读过雪莱、可清华曾出曹禺钱钟书（8169-8170行）。"
+    },
+    {
+      "claim_id": "C-GG-U0122-04",
+      "unit_id": "GG-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "学与做事的方法要切合自己的性格特点：德国人追求细化分工愿一辈子做好一件事，与洪堡体制相配",
+      "quote": "切合自己的性格特点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8203,
+        "end_line": 8207,
+        "sha1": "817e143b7b405d605306e27d3805721744b0e2f0",
+        "fingerprint": [
+          "性格",
+          "分工"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "方法切合性格",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "「是否做一辈子工程师把技术练精」无标准答案（8207行）；吴军与其弟在这方面的表现完全不同（8207行）。"
+    },
+    {
+      "claim_id": "C-GG-U0122-05",
+      "unit_id": "GG-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "洪堡教育是低成本典范：触类旁通一通百通的人是少数——目标要与能力条件匹配，与其蜻蜓点水面面俱到，不如先把一件事做好",
+      "quote": "不如先把一件事做好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8208,
+        "end_line": 8209,
+        "sha1": "218d580ffd923a3b0b6ab888c5b08f608d63388a",
+        "fingerprint": [
+          "低成本",
+          "一件事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "先把一件事做好",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0122-06",
+      "unit_id": "GG-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "每个人和自己比：保证今天的自己比昨天的好、明天的自己比今天的好就可以",
+      "quote": "今天的自己比昨天的好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8212,
+        "end_line": 8212,
+        "sha1": "5536d4db2da92bda9450e620bd6beb59465e5f9a",
+        "fingerprint": [
+          "自己",
+          "好"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "与自己比",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0122",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "1952理工分校沿革与前苏联教育制度史（8165-8176行）属教育制度史，记X5；其判断已由卡1-3承载"
+    },
+    {
+      "unit_id": "GG-U0122",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8214-8218行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第069封信：洪堡教育6卡（教育制度史X5）。"
+}

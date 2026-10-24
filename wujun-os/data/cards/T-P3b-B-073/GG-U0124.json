@@ -1,0 +1,161 @@
+{
+  "unit_id": "GG-U0124",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0124-01",
+      "unit_id": "GG-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "对绝大多数人，高等教育需要考虑饭碗问题：培养出来的人若因人穷而志短，不可能有真正高远的志向",
+      "quote": "因为人穷而变得志短",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8294,
+        "end_line": 8295,
+        "sha1": "f8bcecfddfb42208b05051d3d21816f4a534c436",
+        "fingerprint": [
+          "饭碗",
+          "志短"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "教育先虑饭碗",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：教育也必须培养精神上的富翁，否则不如去做学徒（8296行）。"
+    },
+    {
+      "claim_id": "C-GG-U0124-02",
+      "unit_id": "GG-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "大学诞生于中世纪的根本原因：中世纪更重视精神层面",
+      "quote": "精神上的富翁",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8315,
+        "end_line": 8316,
+        "sha1": "c30889a6bca2ea0608044215a594d8fc333492cc",
+        "fingerprint": [
+          "精神",
+          "教士"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "重精神才生大学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "修正认知：真正黑暗的中世纪只有三个半世纪而非九个（8310行，哈斯金研究）；阿拉伯8世纪科学繁荣同理——为定麦加方位发展了天文学（8319-8321行）。"
+    },
+    {
+      "claim_id": "C-GG-U0124-03",
+      "unit_id": "GG-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "做学问要有宗教般的虔诚：没有对科学宗教般的虔诚成不了大科学家",
+      "quote": "宗教般的虔诚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8325,
+        "end_line": 8334,
+        "sha1": "4f91a893b53528a7e472b2a5b3956773cda8fbb1",
+        "fingerprint": [
+          "虔诚",
+          "教士"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "科学的宗教虔诚",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "早期大学师生研习的目的是了解上帝设计的世界奥秘（8323行）；哈佛毕业典礼仍用拉丁文即培养教士传统（8327行）。"
+    },
+    {
+      "claim_id": "C-GG-U0124-04",
+      "unit_id": "GG-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "学术自由靠权力保障而非乱世：1158年腓特烈一世签署学术特权（大学人员有神职人员般的自由豁免、自由旅行迁徙",
+      "quote": "学术特权",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8338,
+        "end_line": 8348,
+        "sha1": "79809044427d5287b525336606ca56c6a9666516",
+        "fingerprint": [
+          "学术特权",
+          "裁决"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学术自由靠权力保障",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "结论三：神权王权都强大才保障了学术自由，而非乱世文化繁荣（8353行）；对照欧洲文化繁荣多在治世（8303行）。"
+    },
+    {
+      "claim_id": "C-GG-U0124-05",
+      "unit_id": "GG-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "接受高等教育的人应按精神贵族的要求对待自己，不能变得太俗气——中世纪的学者是精神上的贵族，比世俗贵族更高贵",
+      "quote": "精神贵族",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8349,
+        "end_line": 8349,
+        "sha1": "a4ae18da4c331f5c9b60821a03ac53a2773908d2",
+        "fingerprint": [
+          "精神贵族",
+          "俗气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "精神贵族",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0124",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "中世纪史与大学起源沿革（8299-8331行）属教育制度史背景，记X5；其判断已由5卡承载"
+    },
+    {
+      "unit_id": "GG-U0124",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8355-8359行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第070封信：大学诞生与精神层面5卡。"
+}

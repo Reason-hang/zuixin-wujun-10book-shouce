@@ -1,0 +1,217 @@
+{
+  "unit_id": "GG-U0117",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0117-01",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "怀旧的黄金时代多为想象：孔子商鞅崇上古三代、赫西俄德怀念的黄金时代不过是谁也吃不饱的石器时代——过去远不如今天好",
+      "quote": "过去远不如今天好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7859,
+        "end_line": 7863,
+        "sha1": "d4d95133c32e84174dbde063c5d51f64a944de7b",
+        "fingerprint": [
+          "黄金时代",
+          "石器时代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "黄金时代是想象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中西皆然：维多利亚时代空气弥漫硫磺与粪便味、俄国辉煌年代商店空空（7871行）；美国半世纪前癌症心血管死亡率和交通事故率都远高于今天（7872行）。"
+    },
+    {
+      "claim_id": "C-GG-U0117-02",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "每代人都骂下一代世风日下：60后70后看90后是肤浅自私，康熙乾隆这样看八旗子弟，司马光痛心疾首世风日下",
+      "quote": "世风日下",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7874,
+        "end_line": 7875,
+        "sha1": "287aa488db11fc4941517946b3619ec4a5d97db6",
+        "fingerprint": [
+          "世风日下",
+          "八旗子弟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "代代骂下一代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0117-03",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "不能证明昨天比今天好，就无法得出未来会变差的结论——所有悲观主义者都对今天相比昨天的变化视而不见",
+      "quote": "都对今天相比昨天的变化视而不见",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7877,
+        "end_line": 7877,
+        "sha1": "d991392c9337dbb9c5e0c32f27d0f7b50f69ad66",
+        "fingerprint": [
+          "悲观主义",
+          "视而不见"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "视而不见变好",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0117-04",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "智能化后人们整体工作时间必然缩短，更重要的是更有选择做什么事的自由——就业多样性不过是过去半个多世纪的事",
+      "quote": "更有选择做什么事情的自由",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7890,
+        "end_line": 7890,
+        "sha1": "3540b6897033b84a71b111182a6740c9741d2591",
+        "fingerprint": [
+          "自由",
+          "多样性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D06-2"
+      ],
+      "concept_key": "智能化带来自由",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照：农业社会大多数人只能种田、工业早期都在流水线（7890行）；农业社会的人比今天更累（7884-7886行宣德皇帝问农）。"
+    },
+    {
+      "claim_id": "C-GG-U0117-05",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "世界上的转折都是持续的过程而非一两天完成：积极参与并做得比另一半人好就容易成为受益者",
+      "quote": "永远是船小好调头",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7891,
+        "end_line": 7892,
+        "sha1": "16cbb6302bdfde21e54b775f345d632eacfbef87",
+        "fingerprint": [
+          "转折",
+          "船小好调头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "转折中船小好调头",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0117-06",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "除了往前走没有第二个选择：限制技术、限制AI、向机器人征税等试图回到过去的想法都不切实际",
+      "quote": "除了往前走，没有第二个选择",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7894,
+        "end_line": 7897,
+        "sha1": "13e20a9e322e33efd3361d919fd34c51436811a1",
+        "fingerprint": [
+          "往前走",
+          "回到过去"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "只能往前走",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：烧林成田后生态在新基础上平衡，再恢复森林生态也完全不同——人类除了接受新生态别无他法（7898-7900行）；振兴经济强调过去辉煌毫无意义、二次腾飞地区产业与一次全不同（7902行）。"
+    },
+    {
+      "claim_id": "C-GG-U0117-07",
+      "unit_id": "GG-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "人要往前走，每一章结束了就翻过去了",
+      "quote": "每一章结束了就翻过去了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7904,
+        "end_line": 7904,
+        "sha1": "01e483a86991ae342e4c3ac7e69456669bbd4479",
+        "fingerprint": [
+          "往前走",
+          "翻过去"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "人生翻篇",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0117",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7906-7907行思考题/本周回信为互动运营文字（HC-20）"
+    },
+    {
+      "unit_id": "GG-U0117",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "全球变暖与智能化焦虑的宏观评论背景（7881-7882行）记X6；文革时期个人经历（7865-7867行）为例证并入卡1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第067封信：反怀旧与往前走7卡。"
+}

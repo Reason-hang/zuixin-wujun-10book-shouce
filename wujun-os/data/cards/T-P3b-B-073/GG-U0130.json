@@ -1,0 +1,107 @@
+{
+  "unit_id": "GG-U0130",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0130-01",
+      "unit_id": "GG-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "辛苦和痛苦是两回事：快乐教育要避免的是让孩子「痛苦」，而不是不让孩子「辛苦」——讨论时很多人偷换概念",
+      "quote": "辛苦和痛苦是两回事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8796,
+        "end_line": 8801,
+        "sha1": "b581c03d3827e9ef26b1f4c41d4eed58530a008a",
+        "fingerprint": [
+          "辛苦",
+          "痛苦"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-2"
+      ],
+      "concept_key": "辛苦不等于痛苦",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：著名演奏家从小被逼学乐器、恨乐器，音乐界评其只是表演者而非艺术家（8797-8798行）；吴军自己高中大学学得辛苦但不痛苦（8796行）。"
+    },
+    {
+      "claim_id": "C-GG-U0130-02",
+      "unit_id": "GG-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "几乎每个行业最成功的前5%都因喜欢和兴趣出发；从利益出发只能做到前20%到前5%之间",
+      "quote": "都是因为喜欢",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8799,
+        "end_line": 8799,
+        "sha1": "628074d85c5944c0919e9bb44389ee495b0fcc8c",
+        "fingerprint": [
+          "兴趣",
+          "前5%"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "兴趣决定前5%",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0130-03",
+      "unit_id": "GG-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "孩子的天赋要靠挖掘：让孩子不断尝试、不喜欢不擅长的就不逼——大女儿跆拳道黑带、二女儿歌剧一年得奖登卡内基，都非家长设计",
+      "quote": "天赋要靠挖掘",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8806,
+        "end_line": 8817,
+        "sha1": "90da564bd77e6993f8dca5ebffc0e23549d8b102",
+        "fingerprint": [
+          "天赋",
+          "尝试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "天赋靠挖掘",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "细节：大女儿每周三次训练+医院义工+绘画音乐仍十点睡觉不熬夜（8806-8812行）；喜欢的事辛苦但不痛苦即快乐教育（8810行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0130",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "两位读者的子女教育回信原文（Steve.Lin幸福三要素/陈悦龙责任心好奇心爱，8768-8792行）按X7处置"
+    },
+    {
+      "unit_id": "GG-U0130",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "子女教育议题的读者讨论部分（8765-8766行引导语）记X5；吴军节选自《硅谷来信》第189/190封的3条独立判断已成卡（辛苦vs痛苦/兴趣前5%/天赋挖掘）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "回信精选（含《硅谷来信》节选）：快乐教育3卡（辛苦痛苦之辨/兴趣/天赋）；读者回信X7。"
+}

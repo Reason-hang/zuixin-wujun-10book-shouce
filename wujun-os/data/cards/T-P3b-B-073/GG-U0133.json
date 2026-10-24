@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0133",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0133-01",
+      "unit_id": "GG-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "智能问题从根本上讲都是数学问题：奥科不懂中文阿拉伯文却做出世界最好的机器翻译——做好机器翻译与语言水平本身没有太大关系",
+      "quote": "都是数学问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9002,
+        "end_line": 9003,
+        "sha1": "72af7bb8fce36cb9d25601e9fd9a4ad21bb233be",
+        "fingerprint": [
+          "数学",
+          "智能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "智能即数学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "延伸：AlphaGo团队几乎无人会下围棋却击败李世石柯洁（9003行）；互引鸟飞派vs空气动力学派（U0063卡5）。"
+    },
+    {
+      "claim_id": "C-GG-U0133-02",
+      "unit_id": "GG-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "当数据量成千上万倍增加以后，就会由量变形成质变",
+      "quote": "由量变形成质变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8998,
+        "end_line": 9000,
+        "sha1": "c9ae8b1d3982ca0c60dba28dc6a49056118a27c7",
+        "fingerprint": [
+          "数据",
+          "质变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "万倍数据质变",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "背景：同一人写的南加大与亚琛系统因数据少而差距巨大（8997行）；大数据话题由此兴起（9000行）；互引U0120卡1势能积累。"
+    },
+    {
+      "claim_id": "C-GG-U0133-03",
+      "unit_id": "GG-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "基于规则的机器翻译死路：覆盖率每提高10个百分点需要增加十倍的规则——SYSTRAN两万条规则仍有1/5语言现象无法覆盖",
+      "quote": "需要增加十倍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8964,
+        "end_line": 8968,
+        "sha1": "b33701353504feae2db5b6d26689cf7467c66875",
+        "fingerprint": [
+          "规则",
+          "覆盖"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "规则法十倍困境",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：布朗的统计/数据驱动方法因当时数据不足效果不好（8970-8971行）；1999年奥科让统计法超越规则法（8977行）。"
+    },
+    {
+      "claim_id": "C-GG-U0133-04",
+      "unit_id": "GG-U0133",
+      "speaker": "史实",
+      "claim_text": "Google请奥科的三条件：交出整个小组、准其IPO日入职再休4个月长假、随意用全部数据并配迪恩等顶级工程师支持",
+      "quote": "Google也兑现了全部的承诺",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8987,
+        "end_line": 8994,
+        "sha1": "954d34cfda485c7061d0f429a09a302a935e5ac7",
+        "fingerprint": [
+          "真诚",
+          "承诺"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-2"
+      ],
+      "concept_key": "求才三条件",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "结果：入职半年NIST评测中英/阿英互译遥遥领先第一名（8995-8996行）。"
+    },
+    {
+      "claim_id": "C-GG-U0133-05",
+      "unit_id": "GG-U0133",
+      "speaker": "史实",
+      "claim_text": "中间语言策略：百种语言两两互译约一万对，一一开发太慢——奥科用几种中间语言中转，两年实现40种语言互译",
+      "quote": "中间语言",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9008,
+        "end_line": 9011,
+        "sha1": "e252cf70d254370b8eb8258baf10dfef96a659ba",
+        "fingerprint": [
+          "中间语言",
+          "互译"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "中间语言降维",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：人类学七八种语言远超两年（9006行）。"
+    },
+    {
+      "claim_id": "C-GG-U0133-06",
+      "unit_id": "GG-U0133",
+      "speaker": "史实",
+      "claim_text": "奥科的一通百通：从人类语言互译到人类语言翻译成计算机语言（自动编程）再到生物制药与癌症早筛",
+      "quote": "也是数学问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 9013,
+        "end_line": 9018,
+        "sha1": "17113e01e5f8414be57bb64051f00e4f45a53340",
+        "fingerprint": [
+          "数学问题",
+          "医疗"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "奥科一通百通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "轨迹：2014年让计算机编简单程序（9014行）；任人类长寿公司与圣杯公司首席科学家、吴军基金均投资（9016-9017行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0133",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "机器翻译史与奥科生平（布朗/SYSTRAN/贾里尼克评价/NIST评测细节，8956-8996/9013-9017行）为科学史叙述，记X4；核心判断已由6卡承载"
+    },
+    {
+      "unit_id": "GG-U0133",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "9028-9032行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第075封信：奥科6卡。"
+}

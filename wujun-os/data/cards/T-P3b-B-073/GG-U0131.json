@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0131",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0131-01",
+      "unit_id": "GG-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "计算机需要顶层设计：冯·诺依曼系统结构是最高层抽象——至今所有计算机原理上未脱离他划定的框架",
+      "quote": "需要顶层设计",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8852,
+        "end_line": 8860,
+        "sha1": "b155a0b6263d9b48b0cd5801328c29815721e74a",
+        "fingerprint": [
+          "系统结构",
+          "顶层设计"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "计算机顶层设计",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "细节：ENIAC每算一题改一次电路、根本不实用；EDVAC才是今天计算机的鼻祖（8841-8848行）；互引U0102卡5边界。"
+    },
+    {
+      "claim_id": "C-GG-U0131-02",
+      "unit_id": "GG-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "高手中的高手一眼看出高手的破绽：冯·诺依曼一眼看出ENIAC设计者的问题——如同练剑高手的旁观者",
+      "quote": "高手中的高手",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8849,
+        "end_line": 8849,
+        "sha1": "9aa9d7b3cb3cb264a44fd108a982a38c0a7cba65",
+        "fingerprint": [
+          "高手",
+          "破绽"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D04-1"
+      ],
+      "concept_key": "高手中的高手",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0131-03",
+      "unit_id": "GG-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "很多时候需要承认智力上的差异，这才是唯物主义的态度——冯·诺依曼心算半小时解决费米费曼计算机算一夜的问题",
+      "quote": "承认智力上的差异",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8864,
+        "end_line": 8865,
+        "sha1": "f94fa31f4bb1d077c55ba5f84ba584f0b8e3a3fb",
+        "fingerprint": [
+          "智力",
+          "差异"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-1"
+      ],
+      "concept_key": "承认智力差异",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "普林斯顿同事认为他比爱因斯坦更聪明（8864行）；互引朗道等级。"
+    },
+    {
+      "claim_id": "C-GG-U0131-04",
+      "unit_id": "GG-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "科学是相通的、一通百通：冯·诺依曼精通数学与理论物理几乎每个领域，同量级贡献七八项",
+      "quote": "科学是相通的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8866,
+        "end_line": 8876,
+        "sha1": "d710a5a1a8ad389227a5211ca22cee650f157ffd",
+        "fingerprint": [
+          "相通",
+          "全才"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "一通百通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "贡献清单：博弈论（学生纳什获诺奖）/线性规划/数理统计/测度论/量子逻辑/冯·诺依曼代数/连续几何/氢弹工程（8868-8875行）；互引U0111卡5。"
+    },
+    {
+      "claim_id": "C-GG-U0131-05",
+      "unit_id": "GG-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "再聪明的人要做好事情也需要专注：冯·诺依曼一辈子是技术专家，没当政客没搞金融没跨界当作家",
+      "quote": "一辈子都是技术专家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8877,
+        "end_line": 8877,
+        "sha1": "4a57e4483718b8c3a50a406c9f61023ee4638a92",
+        "fingerprint": [
+          "专注",
+          "技术专家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "聪明人也须专注",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "另两观点：人类需要见识超出同时代的人；宁做影响力大的少事（8881-8882行）；成就大的人很多、远不到沾沾自喜（8884行）。"
+    },
+    {
+      "claim_id": "C-GG-U0131-06",
+      "unit_id": "GG-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "人生是一条河：影响力取决于长度、宽度和深度——冯·诺依曼是一条很长很深但不宽的河",
+      "quote": "长度、宽度和深度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8862,
+        "end_line": 8862,
+        "sha1": "a70d8ced916e609d978ecd94d9a4783e4881c335",
+        "fingerprint": [
+          "一条河",
+          "影响力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "人生一条河",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概念键与《见识》跨书同键；互引U0105卡2成就公式。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0131",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "ENIAC/EDVAC研制史与冯·诺依曼生平（8828-8851/8863-8875行）为科学史叙述，记X4"
+    },
+    {
+      "unit_id": "GG-U0131",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8886-8890行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第073封信：冯·诺依曼6卡。"
+}

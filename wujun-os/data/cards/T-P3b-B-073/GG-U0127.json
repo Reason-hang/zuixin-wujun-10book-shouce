@@ -1,0 +1,136 @@
+{
+  "unit_id": "GG-U0127",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0127-01",
+      "unit_id": "GG-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "牛津剑桥学院制的本质：学院是一个「家」、一个小社会",
+      "quote": "那就是",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8611,
+        "end_line": 8613,
+        "sha1": "c4c896c224bae9d1321a3ebf8315ad492763cf66",
+        "fingerprint": [
+          "学院",
+          "家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "学院是家",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "规模：圣约翰学院有形资产6亿多英镑、若独立排名全英第四——学院其实就是一所小型却完整的大学（8582行）。"
+    },
+    {
+      "claim_id": "C-GG-U0127-02",
+      "unit_id": "GG-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "学院录取看的不是成绩而是能否融入大家庭并做出特别贡献——录取一个和大家玩不到一起的同学，四年大家都会觉得别扭",
+      "quote": "有无可能融入他们的大家庭",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8601,
+        "end_line": 8605,
+        "sha1": "a563aa664a17e4245608fe0d45095f47caa995ff",
+        "fingerprint": [
+          "录取",
+          "融入"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D06-2"
+      ],
+      "concept_key": "学院看融入",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "机制：学校录取只占一小部分、关键是学院接受；由教授和在校学生组成的委员会决定（8599-8601行）；学院有自己的奖学金（8605行）。"
+    },
+    {
+      "claim_id": "C-GG-U0127-03",
+      "unit_id": "GG-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "剑桥照顾教授不是养懒汉，而是给教授腾出时间教育学生和做研究——教授与学生亦师亦友，帮学生成长为「社会的人」",
+      "quote": "腾出时间教育学生和做研究",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8607,
+        "end_line": 8611,
+        "sha1": "8127d57dcf19260a876d919e829d3ab42e93cb79",
+        "fingerprint": [
+          "教授",
+          "亦师亦友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D02-2"
+      ],
+      "concept_key": "教授住学院",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：单身教授住学院过着贵族般生活（8608行）；学院是熔炉，将青涩大学生变成能立足于社会的人（8613行）。"
+    },
+    {
+      "claim_id": "C-GG-U0127-04",
+      "unit_id": "GG-U0127",
+      "speaker": "史实",
+      "claim_text": "相邻较劲的定律：清北、牛剑、斯坦福伯克利、哈佛MIT",
+      "quote": "学院之间也在较劲",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8594,
+        "end_line": 8596,
+        "sha1": "f34b083df7f0a4514779ffa2d731f603f8489e89",
+        "fingerprint": [
+          "较劲",
+          "诺贝尔"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D07-2",
+        "D10-1"
+      ],
+      "concept_key": "相邻较劲定律",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0127",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "学院制沿革与各学院规矩特权（天鹅特权/新旧学院差异/封闭象牙塔，8568-8597行）属教育制度史，记X5"
+    },
+    {
+      "unit_id": "GG-U0127",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8616-8618行本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第072封信：学院制本质4卡（制度史X5）。"
+}

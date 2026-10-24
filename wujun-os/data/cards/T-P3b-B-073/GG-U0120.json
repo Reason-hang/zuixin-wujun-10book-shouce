@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0120",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0120-01",
+      "unit_id": "GG-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "历史的伟大时刻到来前常经历几百上千年的寂静：当势能积累到一定程度才会有爆发——量变不断只是我们不在意，回首才见质变",
+      "quote": "势能积累到一定的程度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8052,
+        "end_line": 8056,
+        "sha1": "2c0b597edb4c52d808d26274966d158f5b72fd40",
+        "fingerprint": [
+          "势能",
+          "量变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D05-1"
+      ],
+      "concept_key": "势能积累才爆发",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：摩尔定律十年百倍，iPhone X与初代iPhone差100倍（8055-8056行）；互引茨威格《人类的群星闪耀时》（8052行）。"
+    },
+    {
+      "claim_id": "C-GG-U0120-02",
+      "unit_id": "GG-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "质变未必是数量级变化：语音识别从70%到90%无数量级差别，但十个字错三个无法还原、错一个能猜出",
+      "quote": "这就是质的差别",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8058,
+        "end_line": 8060,
+        "sha1": "e7abb3e442960a7df758c182544c631d80326ab5",
+        "fingerprint": [
+          "质变",
+          "识别率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "质变非必数量级",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "积累：错误率每年降0.5%~1%，从30%到10%走了三十年（8060行）；DNA每代个别碱基变化、多了才突变，500万年积累即人与黑猩猩之别（8062-8063行）。"
+    },
+    {
+      "claim_id": "C-GG-U0120-03",
+      "unit_id": "GG-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "质变之后有新的渐变：考入重点初中是一次质变，此后三年的渐变决定下一次分叉走到哪里——在普通基础上则需渐变速度更快",
+      "quote": "在质变基础上会有新的渐变",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8065,
+        "end_line": 8066,
+        "sha1": "c8f3923436222f598568d22fe81dc8ec04602d7c",
+        "fingerprint": [
+          "质变",
+          "分叉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "质变后新渐变",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0120-04",
+      "unit_id": "GG-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "乐观的心态配悲观的做法是危险的：能忍20%波动却选10%以下保守策略，时间一长失去很多机会——对未来乐观就要接受相应风险",
+      "quote": "时间一长就会失去很多机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8073,
+        "end_line": 8079,
+        "sha1": "4ddfa9598444c2cdc5cc62262c7003d757d0b5c0",
+        "fingerprint": [
+          "波动",
+          "乐观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "乐观配适度风险",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "机制：投行先问损失承受力再配组合，能忍20%波动者配更多高风险高回报资产（8074-8076行）；没有回报不需要付出代价（8079行）。"
+    },
+    {
+      "claim_id": "C-GG-U0120-05",
+      "unit_id": "GG-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "学术研究天然向颠覆性警示性结论倾斜：未知领域七八种逻辑自洽的理论只有一种经得起检验，都发表才能找到",
+      "quote": "不能盲从",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8090,
+        "end_line": 8094,
+        "sha1": "8517242d55c7ac1c1375b432e7c5489cf371516a",
+        "fingerprint": [
+          "学术",
+          "系统性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "学术倾斜与系统学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "呼应U0115卡4（惊人语信息量大）与U0116卡5（逻辑严密不必然）；科普与背景知识是定位诸观点的基础（8094行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0120",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（8045-8046/8068-8069/8081-8085行）为读者来信，按X7处置"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问17：渐变与突变+乐观配险+学术判断5卡。"
+}

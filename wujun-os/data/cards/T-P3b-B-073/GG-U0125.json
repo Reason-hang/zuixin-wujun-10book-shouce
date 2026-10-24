@@ -1,0 +1,162 @@
+{
+  "unit_id": "GG-U0125",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0125-01",
+      "unit_id": "GG-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "知识使人自由：一旦让人们自由地研究学问，就会产生动摇旧教条的新知识，最终知识使人们摆脱控制",
+      "quote": "知识使人自由",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8375,
+        "end_line": 8375,
+        "sha1": "8e08c98709e4ecf76528b2888526d57c69301a1d",
+        "fingerprint": [
+          "知识",
+          "自由"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "知识使人自由",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：教会并不禁止研究自然哲学，但自由研究最终摆脱了教会控制（8375行）。"
+    },
+    {
+      "claim_id": "C-GG-U0125-02",
+      "unit_id": "GG-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "好奇心和求知欲是人类的天性：早期大学无政府资助、上学与就业无关，人们上大学的原因是对未知世界的好奇",
+      "quote": "好奇心这东西是人类的天性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8377,
+        "end_line": 8379,
+        "sha1": "adc85f33797930d9a43aaf2a8831a384c0961b87",
+        "fingerprint": [
+          "好奇心",
+          "天性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "好奇心是天性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "佐证：今天美国教授薪金不高仍有很多人爱当教授，想法与七八百年前无异（8379行）。"
+    },
+    {
+      "claim_id": "C-GG-U0125-03",
+      "unit_id": "GG-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "学习一定要系统化：只有系统化的学习才能取得事半功倍的效果——格罗斯泰斯特为牛津确立标准教纲，结束了师父带徒弟的随意性",
+      "quote": "学习一定要系统",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8386,
+        "end_line": 8387,
+        "sha1": "d5e4adca8d4854d088c86498936c677b500e3828",
+        "fingerprint": [
+          "系统",
+          "教纲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "系统化学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "呼应U0120卡5（系统性学习才能给诸观点定位）。"
+    },
+    {
+      "claim_id": "C-GG-U0125-04",
+      "unit_id": "GG-U0125",
+      "speaker": "史实",
+      "claim_text": "罗杰·培根：实验科学的开山鼻祖——经院哲学只是对已有知识的诠释，只有实验科学才能获得新知识",
+      "quote": "只有实验科学才能获得新知识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8402,
+        "end_line": 8402,
+        "sha1": "8af4956d0f4d2df9235078d04f5f3f21ae5c9700",
+        "fingerprint": [
+          "培根",
+          "实验"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "实验出新知",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "培根自费建英国第一个科学实验室（8400行）；做研究不为名利纯粹探求真理（8403行）；牛津至今坚持这一理念。"
+    },
+    {
+      "claim_id": "C-GG-U0125-05",
+      "unit_id": "GG-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "每所一流大学都有一两个确立其历史地位的教育家——没有格罗斯泰斯特就没有牛津的今天；教育家对文明的贡献比政治军事家大得多",
+      "quote": "每一所顶级大学",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8394,
+        "end_line": 8397,
+        "sha1": "fef93c5e45353a9dcc545e7893e6e87608e650d1",
+        "fingerprint": [
+          "教育家",
+          "贡献"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "大学与教育家",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：哈佛艾略特、霍普金斯/卡梅吉尔曼、斯坦福特尔曼、北大蔡元培、清华梅贻琦（8397行）；格罗斯泰斯特辞去所有职务潜心办学、80岁去世墓志铭传颂（8392-8393行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0125",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "博洛尼亚/巴黎/牛津/剑桥沿革史（8369-8384/8406-8415行）属教育制度史，记X5；中国大学官办传统与学而优则仕评论（8413行）同入"
+    },
+    {
+      "unit_id": "GG-U0125",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8423-8424行思考题/本周回信为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第071封信：知识自由/好奇心/系统学习/实验科学/教育家5卡。"
+}

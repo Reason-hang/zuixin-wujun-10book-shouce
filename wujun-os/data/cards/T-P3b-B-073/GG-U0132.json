@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0132",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0132-01",
+      "unit_id": "GG-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "利用艺术和科学的相通性：很多黑客级计算机专家都是艺术天才",
+      "quote": "艺术和科学的相通性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8929,
+        "end_line": 8933,
+        "sha1": "a9dacd2d25bb20e145ae1c846e0ad2a35b3d46d6",
+        "fingerprint": [
+          "艺术",
+          "相通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "艺术科学相通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：明斯基钢琴全世界前十、科恩全职搞音乐、高德曼钢琴天才转数学（8904-8906行）；顶级理工讲座300学生仅1人读过雪莱（8933行）。"
+    },
+    {
+      "claim_id": "C-GG-U0132-02",
+      "unit_id": "GG-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "起跑线一说不必太在意：高德纳本科非名校，但每做一件事就想方设法做到最好——拼字比赛自拼4500词远超组织方答案2500词",
+      "quote": "想方设法地做到最好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8935,
+        "end_line": 8935,
+        "sha1": "67cb4c36bf9d314efe7fc87b9ba0a4f09f2cfc7e",
+        "fingerprint": [
+          "最好",
+          "起跑线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "事事做到最好",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "此后他无论做什么很少是第二名（8935行）。"
+    },
+    {
+      "claim_id": "C-GG-U0132-03",
+      "unit_id": "GG-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "既要头顶青天也要脚踏实地：抽象思维能力要比肩科学家、动手能力要比肩工程师——灵感来了就能自己实现",
+      "quote": "头顶青天，也要能脚踏实地",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8937,
+        "end_line": 8937,
+        "sha1": "c97eb23f98a30fefcedcc5013ebe117b66fc06bb",
+        "fingerprint": [
+          "青天",
+          "脚踏实地"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "头顶青天脚踏实地",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对照：Google Research要求所有科学家自己写程序；微软研究院给研究员配程序员——《纽约时报》称这是微软竞争不过Google的重要原因（8937行）；MIT校训「脑与手」。"
+    },
+    {
+      "claim_id": "C-GG-U0132-04",
+      "unit_id": "GG-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "对待问题的态度决定命运：任何人在前进中都会遇到问题，大师们「遇到问题解决问题」",
+      "quote": "对待问题的态度决定了命运",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8939,
+        "end_line": 8941,
+        "sha1": "5c592a926a23653774c99e6a7d624e60fcf31bf8",
+        "fingerprint": [
+          "态度",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "态度决定命运",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "细节：Tex悬赏找bug金额指数递增、写三张支票后再无人找到错误（8921-8922行）；互引U0111卡6。"
+    },
+    {
+      "claim_id": "C-GG-U0132-05",
+      "unit_id": "GG-U0132",
+      "speaker": "史实",
+      "claim_text": "高德纳用最慢的计算机获编程比赛第一：早年计算机太慢编译太费时，他力争一次全对、算法设计时就最佳",
+      "quote": "用一台最慢的计算机获得第一名",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8925,
+        "end_line": 8928,
+        "sha1": "d86cff6a2aef8554622f252994b9126c6a68902e",
+        "fingerprint": [
+          "最慢",
+          "第一"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "最慢机器第一",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "参与者含视窗发明人凯、AI理论提出人纽维尔等图灵奖得主（8925行）。"
+    },
+    {
+      "claim_id": "C-GG-U0132-06",
+      "unit_id": "GG-U0132",
+      "speaker": "史实",
+      "claim_text": "高德纳分析篮球联赛数据帮教练选人夺全美冠军——这可能是最早的大数据在体育上的成功应用",
+      "quote": "大数据在体育上的成功应用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8907,
+        "end_line": 8908,
+        "sha1": "05fc14a32cb86f04147cfc536d1d3fb78d88b9d1",
+        "fingerprint": [
+          "大数据",
+          "篮球"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "大数据体育首例",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0132",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "高德纳生平五事（《计算机程序设计艺术》/最年轻图灵奖/Tex革命/中文名由来，8899-8925/8942-8943行）为科学史叙述，记X4；四成功原因已由卡1-4承载"
+    },
+    {
+      "unit_id": "GG-U0132",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8946行思考题为互动运营文字（HC-20）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第074封信：高德纳6卡。"
+}

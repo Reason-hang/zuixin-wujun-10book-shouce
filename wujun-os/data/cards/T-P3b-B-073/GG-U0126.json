@@ -1,0 +1,136 @@
+{
+  "unit_id": "GG-U0126",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0126-01",
+      "unit_id": "GG-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "未来超级智能社会＝AI+IoT+区块链：AI是大脑、IoT是感官、区块链是神经系统",
+      "quote": "人工智能+物联网+区块链",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8449,
+        "end_line": 8454,
+        "sha1": "10b55779901f1f8248419fd003aadcf8a45d5114",
+        "fingerprint": [
+          "AI",
+          "Blockchain"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "超级智能公式",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "时点预测成分记X2候选；IoT数据量大到人脑处理不了必须AI（8452行）。"
+    },
+    {
+      "claim_id": "C-GG-U0126-02",
+      "unit_id": "GG-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "跟踪经济是未来社会的经济特点：食品安全、交易诚信、健康溯源都靠跟踪解决——区块链让每个实体从出厂起就有唯一不可改的记录",
+      "quote": "跟踪经济",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8455,
+        "end_line": 8461,
+        "sha1": "019071820350f14bb23c228c54b3c8fcafb6e0c6",
+        "fingerprint": [
+          "跟踪",
+          "区块链"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "跟踪经济",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：一箱药10瓶可能2瓶来历不明（8461行）；清华老师被骗转账本可跟踪追回（8463行）；飞机发动机上千传感器每天10亿数据而人对自身几乎不跟踪（8468行）。"
+    },
+    {
+      "claim_id": "C-GG-U0126-03",
+      "unit_id": "GG-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "不能把跟踪全交给IT巨头：即使数据不丢，全方位跟踪也会让你利益受损——价格歧视（同一本书给你和朋友的折扣不同）",
+      "quote": "价格歧视",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8469,
+        "end_line": 8475,
+        "sha1": "9c1f12aae0f0183808718af42c6c7fbb9d436b48",
+        "fingerprint": [
+          "巨头",
+          "歧视"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "巨头跟踪之害",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "亲历：航空公司网站订票与电话订票价格有差异（8474行）；Facebook5000万用户数据丢失加剧担忧（8469行）。"
+    },
+    {
+      "claim_id": "C-GG-U0126-04",
+      "unit_id": "GG-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "区块＝每个实体产生时形成的唯一记录，一旦形成不可改——如同人的DNA，名字可重名但DNA独一无二",
+      "quote": "区块",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8480,
+        "end_line": 8488,
+        "sha1": "0fe3b59d34733904328c835da8e8d3498c4f2fd3",
+        "fingerprint": [
+          "区块",
+          "DNA"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "区块如DNA",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：一瓶药出厂即产生一个区块、一一对应（8483行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0126",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2018演讲对区块链/超级智能时代的预测（8446-8454行）记X2候选；机制解释已由4卡承载"
+    },
+    {
+      "unit_id": "GG-U0126",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8433-8435行音频说明与8445行高创会介绍为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "特别加餐（高创会演讲上半）：超级智能/跟踪经济/巨头之害/区块DNA 4卡。"
+}

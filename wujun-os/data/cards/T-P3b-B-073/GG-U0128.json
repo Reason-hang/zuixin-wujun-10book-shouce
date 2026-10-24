@@ -1,0 +1,247 @@
+{
+  "unit_id": "GG-U0128",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-073",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0128-01",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "拿什么人群做分母很重要：换分母就能得到完全相反的结论——你想得到什么结论，都能找到你的证据",
+      "quote": "拿什么人群做分母很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8636,
+        "end_line": 8642,
+        "sha1": "8cc734967d7dadcf99ca4f523e80c2a4f9067c8d",
+        "fingerprint": [
+          "分母",
+          "证据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "分母决定结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：县一中做分母北大数学系年年有；全县做分母几万人出不了一两个（8637-8638行）；清华农村生源减少与农村人口占比下降同步（8641-8642行）。"
+    },
+    {
+      "claim_id": "C-GG-U0128-02",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "由俭入奢容易、由奢入俭千难万难：小时候穷不一定一辈子穷，吃过苦的人反而更有动力更懂珍惜",
+      "quote": "由俭入奢容易",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8649,
+        "end_line": 8651,
+        "sha1": "49f292d71e4e0f70584f617a87c07fc45a28d76d",
+        "fingerprint": [
+          "由俭入奢",
+          "珍惜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "由俭入奢易",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引茨威格《昨日的世界》（8651行）。"
+    },
+    {
+      "claim_id": "C-GG-U0128-03",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "比贫穷更可怕的是缺乏见识：没有见识视野就被局限——和某些人讲道理永远讲不通，是认知水平不在一个平面上（夏虫不可以语冰）",
+      "quote": "没有见识，视野就被局限了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8654,
+        "end_line": 8657,
+        "sha1": "2288a9b363450689e089627f9d9c6ba8a35dc68e",
+        "fingerprint": [
+          "见识",
+          "夏虫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-1"
+      ],
+      "concept_key": "缺乏见识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "《庄子·秋水》「夏虫不可以语于冰者，笃于时也；曲士不可以语于道者，束于教也」（8657行）；与《见识》同主题互引。"
+    },
+    {
+      "claim_id": "C-GG-U0128-04",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "缺乏爱比贫穷更可怕：小家子气是缺乏爱的表现——从小没人关爱的人不懂得关爱别人和分享",
+      "quote": "小家子气，其实就是缺乏爱的表现",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8658,
+        "end_line": 8662,
+        "sha1": "0bd0186cf48ed74b5df730befe4b10b6d5af94a2",
+        "fingerprint": [
+          "缺乏爱",
+          "分享"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "缺乏爱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "独生子女从小没跟亲密同龄人玩耍、长大不知怎么关心别人和分享（8661行）。"
+    },
+    {
+      "claim_id": "C-GG-U0128-05",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "缺乏规矩比贫穷更可怕：轻则没人愿意帮、重则大家和你作对——往飞机发动机撒硬币祈福的老太太未必坏，是没有规矩",
+      "quote": "缺乏规矩",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8663,
+        "end_line": 8666,
+        "sha1": "e56cfb13de59c4ee849f1c7b0a6f0b99c8f34aaf",
+        "fingerprint": [
+          "规矩",
+          "倒霉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D07-2"
+      ],
+      "concept_key": "缺乏规矩",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0128-06",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "上学读书是学习新知的绝佳途径：认知三来源中亲身感知太慢、逻辑推知（牛顿）大多数人达不到——课堂学习事半功倍",
+      "quote": "认知有三个来源",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8673,
+        "end_line": 8675,
+        "sha1": "e48233b15ba8701381d8ef5d802d4c3ef340340c",
+        "fingerprint": [
+          "认知",
+          "三个来源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "认知三来源上学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0080卡2（亲身感知/他人告知/逻辑推知）。"
+    },
+    {
+      "claim_id": "C-GG-U0128-07",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "上学不仅学知识更重要的是交朋友；跟老师学的是解决问题的思路——MIT说法：选物理化学生物课不重要，谁教课很重要",
+      "quote": "谁教课很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8677,
+        "end_line": 8684,
+        "sha1": "c98bf6817eed0d9e5837575cffbcfeb26ca1fe77",
+        "fingerprint": [
+          "交朋友",
+          "老师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-2"
+      ],
+      "concept_key": "上学交友与师从",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "学院录取不看成绩看老师学生是否认可你（8680行）；互引U0127卡2。"
+    },
+    {
+      "claim_id": "C-GG-U0128-08",
+      "unit_id": "GG-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "金融大鳄做加法、企业家做乘法：只盯着股票波动挣50%赔1/3没有叠加效应；马云马化腾的企业是乘法叠加",
+      "quote": "做的是乘法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8686,
+        "end_line": 8693,
+        "sha1": "42ff79f3f04a6486a463d3d9d48f0c544e5f6694",
+        "fingerprint": [
+          "加法",
+          "乘法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-2"
+      ],
+      "concept_key": "加法乘法与教育",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "案例：早期胆大挣钱的金融人被做正经生意的企业家超过、眼睁睁没办法（8688-8689行）；互引U0067卡2散户vs马云。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0128",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "寒门贵子比例之争与教育资源分配评论（8633-8646行）属教育制度议题，记X5；方法论判断已由8卡承载"
+    },
+    {
+      "unit_id": "GG-U0128",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "8694行留言互动为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充（媒体四问）：分母效应/由俭入奢/缺见识缺爱缺规矩/认知来源/加法乘法8卡。"
+}
