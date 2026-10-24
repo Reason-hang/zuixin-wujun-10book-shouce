@@ -2,8 +2,8 @@
  "project": "WJ-OS 吴军十书·认知与行动操作系统",
  "pack_version": "1.0",
  "updated": "2026-10-24",
- "phase": "P1 全部收口（规则 v1.0 冻结、M1 关门）；P2 分诊进行中（S09/S10 脚本就绪）",
- "step": "放量 13 单元 76 卡全过统一校验；N4 盲抽复验 attr 0.857/0.933/0.824 全过 → 规则 v1.0 冻结（D-28）、ST-3 通过、gold_v1 登记。P2：1,742 单元卡 + 108 批装箱完成（D-27 口径修正），下一步读法层标注（T-P2-04）",
+ "phase": "P2 收口（分诊表+审计放行）；P3a 抽取已启动（2/108 批完成）",
+ "step": "读法层标注 1,742（三断言全过）+ P2A 审计放行；P3a 首批 B-106/B-103 完成（144 卡、处置覆盖 100%、黄金回归 attr=1.0）。下一步：P3a 剩余 20 批（境界→格局→数学→见识 + 态度/富足各 2 批）",
  "spec": {
   "v2_方案": "v2（2026-10-19）",
   "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
@@ -18,11 +18,11 @@
  "progress": {
   "units_total": 1742,
   "units_content": 1697,
-  "units_done": 16,
+  "units_done": 43,
   "chars_total": 5038558,
-  "chars_done": 44405,
-  "batches_done": 0,
-  "batches_est": "108（全量装箱，D-27）；A 层必读约 28 批"
+  "chars_done": 106134,
+  "batches_done": 2,
+  "batches_est": "108（全量装箱，D-27）；A 层必读 22 批（P3a）"
  },
  "in_flight": {
   "ticket": null,
@@ -30,8 +30,8 @@
   "unsaved": [],
   "note": "无进行中工单。P1 全产物：cards_first/second（微试跑 57 卡）、batch2/（放量 76 卡+9X）、batch2_recheck/（N4 盲抽 28 卡）；P2：unitcards 1,742、batch_plan 108 批"
  },
- "last_ticket": "T-P1-12（ST-3 通过、ST-2 等效演示；P1 收口，M1 关门）",
- "next_ticket": "T-P2-03/04（读法层 A/B/C 标注——P3 批次工单生成的前置）",
+ "last_ticket": "T-P3a-B-103/B-106（首批 2 批完成，GATE-B 全过）",
+ "next_ticket": "P3a 第 3–8 批（B-107/108 态度、B-104/105 富足、B-100/101 境界…按 ledger/P3批次工单清单.md 顺序）",
  "blocked_by": [],
  "open_items": [
   "P2 读法层标注（T-P2-03/04）：1,742 单元卡 read_level 为 null，待按 A/B/C 标注后生成 P3 批次工单",
