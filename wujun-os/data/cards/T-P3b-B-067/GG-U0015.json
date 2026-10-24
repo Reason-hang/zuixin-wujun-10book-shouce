@@ -1,0 +1,34 @@
+{
+  "unit_id": "GG-U0015",
+  "book_code": "GG",
+  "extractor": "EXT-GG2",
+  "batch_id": "T-P3b-B-067",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0015-01",
+      "unit_id": "GG-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "有动力的人应该成为引擎，有经验的人应该成为刹车；既探寻怎么做，也了解什么不能做",
+      "quote": "有经验的人应该成为刹车",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1252,
+        "end_line": 1254,
+        "sha1": "1c141f4ff8607aa3f2fa5ec2818a380c7cb1ae43",
+        "fingerprint": ["引擎", "刹车", "驾车自如"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2"],
+      "concept_key": "刹车与引擎",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军自引第一季《硅谷来信》第053封《引擎和刹车》原文回应读者龚立志'学会刹车'；概念键沿用既有'刹车与引擎'（CK-0642，JS），与来信1重复主题照常抽卡，双出处由来信1批次登记；'什么不能做'=决策红线故归 D03-2"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0015", "disposal": "X", "x_subtype": "X7", "reason": "读者丁一奇回信（角色边界/越界论述）与读者龚立志回信（学会刹车、贪与怨）为读者来信原文，吴军未逐条评述仅刊出，按 X7 排除原文"},
+    {"unit_id": "GG-U0015", "disposal": "X", "x_subtype": "X7", "reason": "'本周留言精选'（楚王失弓胸怀量级、读者张益达量级公式、读者茹萍不姓陆捡芝麻感悟）为读者发言、无吴军评述，按 X7 排除；其量级公式母论点见量级主题来信单元"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末互动回信精选：仅吴军回应段（自引来信1引擎与刹车）成卡，两封读者回信与留言精选按 X7 排除"
+}

@@ -1,0 +1,28 @@
+{
+  "unit_id": "GG-U0022",
+  "book_code": "GG",
+  "extractor": "EXT-GG2R2",
+  "batch_id": "T-P3b-B-067",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0022-01",
+      "unit_id": "GG-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "读后来信要多思考、多分享、多做笔记，把学到的知识用起来才能收获更多",
+      "quote": "把学到的知识用起来",
+      "anchor": {"book_code": "GG", "start_line": 1654, "end_line": 1656, "sha1": "6cfd8466182b9f0abb068f27de3e4b42f64fda59", "fingerprint": ["多做笔记", "收获更多"]},
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-2"],
+      "concept_key": "把学到的用起来",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "单元导语中吴军本人唯一实质判断；与 FZ CK-0852『学以致用·太初有为』同族；本单元其余为读者内容，见 x_disposals"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0022", "disposal": "X", "x_subtype": "X7", "reason": "@古小千回信全文（1658-1684）为读者来信原文：其以囚徒困境/重复博弈与香农信息冗余度重述『上帝喜欢笨人』，吴军仅以『特别精彩』刊登背书、未展开本人评述，按 X7 排除；对应母题已由 C-GG-U0016-01/C-GG-U0017-04 承载"},
+    {"unit_id": "GG-U0022", "disposal": "X", "x_subtype": "X7", "reason": "本周留言精选4条（1686-1710，米铺秤亏斤得大利、笨=慢而有效、转自小说《绝情华尔街》雄鹰与蜗牛、《海贼王》医生语录）均为读者发言或读者二次转述，吴军无逐条评述，按 X7 排除（批次特则②：读者发言不得成卡）"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末互动单元主体为读者回信与留言（X7 排除），吴军本人仅导语含一条学习法判断，1 卡成卡"
+}

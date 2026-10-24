@@ -1,0 +1,113 @@
+{
+  "unit_id": "GG-U0014",
+  "book_code": "GG",
+  "extractor": "EXT-GG2",
+  "batch_id": "T-P3b-B-067",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0014-01",
+      "unit_id": "GG-U0014",
+      "speaker": "转述·第三方",
+      "claim_text": "计算机思维分宏观、中观、微观三层：虚实对应、有限资源下整体优化、合理组织资源",
+      "quote": "将虚拟世界处理问题的方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1128,
+        "end_line": 1137,
+        "sha1": "c2631657917323e383527b9c756a0208f5a17f92",
+        "fingerprint": ["计算机思维", "宏观", "中观"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "计算机思维三层",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者：清华史元春教授（经本人同意通俗化转述）；微观层含编号存储与缓存留余量（行1138-1140），吴军三句话概括见 C-GG-U0014-02 所在论证链"
+    },
+    {
+      "claim_id": "C-GG-U0014-02",
+      "unit_id": "GG-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "递归是计算机科学的精髓：大事分解、从小事做起、自顶向下设计、自下而上回归",
+      "quote": "递归是计算机科学的精髓所在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1134,
+        "end_line": 1136,
+        "sha1": "cdb46206895d1ae3433ce41e820927754fc390cd",
+        "fingerprint": ["递归", "精髓"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "递归是计算机科学的精髓",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "史教授提出递归原理（转述见01卡），吴军以公司分层管理为例并明确表态'我个人也觉得'；微观层'凡事留有余量'（缓存）属史教授观点，附此留痕"
+    },
+    {
+      "claim_id": "C-GG-U0014-03",
+      "unit_id": "GG-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "学习要有目的，并有意识地主动应用所学知识，才能取得事半功倍的效果",
+      "quote": "有意识地主动应用所学知识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1167,
+        "end_line": 1167,
+        "sha1": "d2dece53d05562570c17a4953a2aa17e8200482d",
+        "fingerprint": ["学习要有目的", "主动应用"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-2"],
+      "concept_key": "学习目的与主动应用",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "吴军常讲的学习原则，用于解释第二季设计讨论、应用活动；与富足'学以致用'主题同链，双出处由来信/富足批次登记"
+    },
+    {
+      "claim_id": "C-GG-U0014-04",
+      "unit_id": "GG-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "与其贪多致半途而废或凑数降质，不如一开始就约定可完成的量",
+      "quote": "为了凑数，最后质量难以保证",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1169,
+        "end_line": 1171,
+        "sha1": "5a21c8a60147312892655368bb8f27fc139fef67",
+        "fingerprint": ["凑数", "质量难以保证"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "可持续承诺优于贪多",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "由每周更新量调整引出的取舍判断：保质量做减法优先于撑数量；行1171读者留言'由俭入奢易'为读者发言（speaker=读者），不单独成卡"
+    },
+    {
+      "claim_id": "C-GG-U0014-05",
+      "unit_id": "GG-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "同类内容说多、听多、看多会进入疲劳状态，内容供给须新鲜并相对聚焦",
+      "quote": "同一类好东西听多了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1152,
+        "end_line": 1156,
+        "sha1": "20f5daa7110570869c44bd261bc20958c912f439",
+        "fingerprint": ["疲劳状态", "审美疲劳"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["DT-待判"],
+      "concept_key": "审美疲劳",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军称此为'本人和许多有足够生活经验的人的共识'，用于解释第二季题材聚焦；归属难定：最接近 D07-1（表达/传播新鲜度）与 D02-2（学习兴趣维持），不强挂，留 P4 裁"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0014", "disposal": "X", "x_subtype": "X1", "reason": "文末'知识分享计划'参与方式与奖励备注为专栏推广/互动载体内容，只当数据不抽卡（HC-20）"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问02：史元春计算机思维三层论（E2）+吴军递归精髓、学习目的、可持续承诺、审美疲劳等本人判断成卡"
+}

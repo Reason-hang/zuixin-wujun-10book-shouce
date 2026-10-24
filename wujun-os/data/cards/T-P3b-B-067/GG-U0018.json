@@ -1,0 +1,111 @@
+{
+  "unit_id": "GG-U0018",
+  "book_code": "GG",
+  "extractor": "EXT-GG2R2",
+  "batch_id": "T-P3b-B-067",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0018-01",
+      "unit_id": "GG-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "威灵顿式笨办法：认清能力边界、不指望士气与超水平发挥，战前事无巨细做最充足准备并在边界里把事情做好",
+      "quote": "事无巨细地安排好每一件事情",
+      "anchor": {"book_code": "GG", "start_line": 1421, "end_line": 1426, "sha1": "e41d702062ab62ad0e9af37d9c2ace0c0ab81e66", "fingerprint": ["以横制纵", "结硬寨，打呆仗", "边界"]},
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1", "D04-3"],
+      "concept_key": "威灵顿式笨办法",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "清单式方法论一卡：善总结败因/战前最充足准备/以横制纵/重组部队坚持到底/守住既定战略；曾国藩『结硬寨打呆仗』（转述）并为本卡注脚；呼应第006封信边界做事与 CK-1747『边界内成长』"
+    },
+    {
+      "claim_id": "C-GG-U0018-02",
+      "unit_id": "GG-U0018",
+      "speaker": "史实",
+      "claim_text": "滑铁卢战役威灵顿获胜多少是运气帮忙：拿破仑名将缺席、大雨限炮兵、格鲁西误事",
+      "quote": "滑铁卢战役的获胜多少是运气帮忙",
+      "anchor": {"book_code": "GG", "start_line": 1416, "end_line": 1419, "sha1": "5df359e87b611867009b850d693651ed5d009491", "fingerprint": ["格鲁西", "布吕歇尔"]},
+      "evidence_level": "E3",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "滑铁卢之胜有运气",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名战史+可迁移机理（成功含运气成分），与 GJ CK-1023 同族；战前罗斯柴尔德同时下注英法两头的史实辨误（1409-1410）并入本卡；威灵顿的必然性一面见 C-GG-U0018-01"
+    },
+    {
+      "claim_id": "C-GG-U0018-03",
+      "unit_id": "GG-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "拿破仑式天才从不信边界、屡创奇迹后自觉无所不能，最终撞上上帝划定的不可逾越之界",
+      "quote": "从来不相信有所谓的边界存在",
+      "anchor": {"book_code": "GG", "start_line": 1427, "end_line": 1427, "sha1": "388bcff6e17b651065af360128ff3cded3017ee3", "fingerprint": ["无所不能", "头破血流"]},
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "无所不能终撞边界",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与 CK-1022『成功后的无所能错觉』同族（该书作『无所不能』）；卡01 的反面对照"
+    },
+    {
+      "claim_id": "C-GG-U0018-04",
+      "unit_id": "GG-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "非天才者要得满分结果，须预先想清所有意外与对策、多花三五倍准备精力，五分十分的差距有数量级效果",
+      "quote": "多花三五倍的精力",
+      "anchor": {"book_code": "GG", "start_line": 1428, "end_line": 1430, "sha1": "9c9e52cfa7dcabde06098f503adafab860cc3def", "fingerprint": ["数量级的提升", "临场100%发挥"]},
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1"],
+      "concept_key": "多花三五倍准备",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "吴军自述大学毕业即悟：自己非能100%发挥之人；与 FZ CK-1869『首次尝试做足准备』同族；例证见 C-GG-U0018-05/06"
+    },
+    {
+      "claim_id": "C-GG-U0018-05",
+      "unit_id": "GG-U0018",
+      "speaker": "史实",
+      "claim_text": "库旦普做15分钟报告会预设每张PPT听众可能的提问并备好解答，多备三五倍内容换来超乎寻常的效果",
+      "quote": "任何听众可能提出的问题列出来",
+      "anchor": {"book_code": "GG", "start_line": 1432, "end_line": 1435, "sha1": "bda731f6dc867c4cb1e1f685523fef97441e10e8", "fingerprint": ["库旦普", "PPT"]},
+      "evidence_level": "E3",
+      "pillar_candidates": ["D07-1", "D05-1"],
+      "concept_key": "库旦普式报告准备",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（超额准备成就精彩演讲）；延伸阅读中库旦普8小时指导半小时报告的细节并入本卡；机理见 C-GG-U0018-04"
+    },
+    {
+      "claim_id": "C-GG-U0018-06",
+      "unit_id": "GG-U0018",
+      "speaker": "史实",
+      "claim_text": "辛格博士英语口音重却交流顺畅，靠讲话前把内容先写在纸上整理一遍的笨办法",
+      "quote": "整理一遍后才去和别人讲",
+      "anchor": {"book_code": "GG", "start_line": 1436, "end_line": 1437, "sha1": "6eebf32428af4ef1c57c9159d2990aefcfc5f9d0", "fingerprint": ["辛格", "写在纸上"]},
+      "evidence_level": "E3",
+      "pillar_candidates": ["D07-1"],
+      "concept_key": "写下来再讲",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（书面预整理补偿先天不足）；机理论证见 C-GG-U0018-07"
+    },
+    {
+      "claim_id": "C-GG-U0018-07",
+      "unit_id": "GG-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "人有先天不足首先要承认它是边界，再提前备好应对方式；用笨办法解决问题的人反而走得更远",
+      "quote": "首先要承认它们，这是我们的边界",
+      "anchor": {"book_code": "GG", "start_line": 1438, "end_line": 1439, "sha1": "18c4b511be541598b5ccd89b1da0e9ca51fbdb1f", "fingerprint": ["笨办法解决问题", "认清自己的能力边界"]},
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1", "D06-1"],
+      "concept_key": "承认先天不足备对策",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "印度人在跨国公司做到高位很大程度因笨办法的群体观察并入本卡（职业发展侧 D06-1）；总结句『趁早采用威灵顿的笨办法』呼应卡01"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0018", "disposal": "X", "x_subtype": "X5", "reason": "延伸阅读末句『好的教育不仅教专业技能还包括终身技能』属教育理念论断，归 X5；其案例载体库旦普指导细节已并入 C-GG-U0018-05"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "威灵顿vs拿破仑单元承载『笨办法做事』核心方法论，7 卡成卡（含 E3 案例卡 3 张）"
+}
