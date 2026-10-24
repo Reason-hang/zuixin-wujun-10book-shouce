@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0169",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0169-01",
+      "unit_id": "GG-U0169",
+      "speaker": "吴军本人",
+      "claim_text": "惊艳的产品是先开发很多前沿技术再找能展示所有技术的场景，而非先想原型再研发",
+      "quote": "展示所有这些技术的场景",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11443,
+        "end_line": 11444,
+        "sha1": "e7c3d18f14579aa506a9e815d7eac1bab60fef14",
+        "fingerprint": [
+          "技术积累",
+          "场景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "技术先行找场景",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0169-02",
+      "unit_id": "GG-U0169",
+      "speaker": "吴军本人",
+      "claim_text": "复杂问答靠数据优势：五类事实问题各公司差不多，Why/How复杂问题Google远好于对手——微软被刨根问底就打哈哈",
+      "quote": "打哈哈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11460,
+        "end_line": 11468,
+        "sha1": "019c522acf9daa05a9e9465903c3b784d5c32a6a",
+        "fingerprint": [
+          "复杂问题",
+          "数据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-1"
+      ],
+      "concept_key": "复杂问答靠数据",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "Google把全网句子都先做语法分析、靠强大算力；其他公司只分析常用业务数据（11467行）。"
+    },
+    {
+      "claim_id": "C-GG-U0169-03",
+      "unit_id": "GG-U0169",
+      "speaker": "吴军本人",
+      "claim_text": "个性化信息让对话机器人更像人：知道你的位置与日程就能提出更合理的建议——需要收集大量用户数据，小公司几乎不可能做到",
+      "quote": "个性化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11472,
+        "end_line": 11473,
+        "sha1": "d7829b07663e2ad1ea8f72894cf9c6d66b2f117a",
+        "fingerprint": [
+          "个性化",
+          "数据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-2"
+      ],
+      "concept_key": "个性化靠数据",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "技术好不等于商业成功：Google助手能否挑战Alexa还是谜（11474行）。"
+    },
+    {
+      "claim_id": "C-GG-U0169-04",
+      "unit_id": "GG-U0169",
+      "speaker": "吴军本人",
+      "claim_text": "产品原型的成功不等于商业的成功：亚马逊开放平台占先机，Google推广自家服务、平台效益上恐竞争不过",
+      "quote": "不等于商业的成功",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11491,
+        "end_line": 11493,
+        "sha1": "6d1bb3c4f8263492db62b550b3c3e8278a0c81d5",
+        "fingerprint": [
+          "原型",
+          "商业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "原型≠商业成功",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "微软一直有好技术但20年没能转化成产品、小冰是展示技术的玩具（11493行）；语音合成Google不如科大讯飞但产品经验老道（11458行）。"
+    },
+    {
+      "claim_id": "C-GG-U0169-05",
+      "unit_id": "GG-U0169",
+      "speaker": "吴军本人",
+      "claim_text": "让人眼睛一亮的产品背后都是长期辛苦的技术研发——Google助手六年积累是例外也是规律",
+      "quote": "长期辛苦的技术研发",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11485,
+        "end_line": 11485,
+        "sha1": "4d294d6111d112234212b9135ba50d4031261034",
+        "fingerprint": [
+          "研发",
+          "长期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "亮眼产品靠研发",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0169",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2018 I/O产品对比与Siri/小冰评价（11431-11433/11482行）为时点产品评论，记X2；判断已由5卡承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "特别加餐（Google助手）：5卡。"
+}

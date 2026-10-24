@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0170",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0170-01",
+      "unit_id": "GG-U0170",
+      "speaker": "吴军本人",
+      "claim_text": "名校录取要招的是今后能够成才的学生，不是今天成绩最好的学生——两件事有相关性但不能划等号",
+      "quote": "今后能够成才的学生",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11524,
+        "end_line": 11527,
+        "sha1": "0378d02fff4799fba22171aeec9b78346e34f013",
+        "fingerprint": [
+          "成才",
+          "成绩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-2"
+      ],
+      "concept_key": "招将成才者",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "背景：学习成绩只是诸多因素之一甚至不起决定作用（11522行）；牛桥成绩作用大、美国五校名额主要留本国（11516-11522行）。"
+    },
+    {
+      "claim_id": "C-GG-U0170-02",
+      "unit_id": "GG-U0170",
+      "speaker": "吴军本人",
+      "claim_text": "亚裔精英占比低于录取比例的原因是不愿付出：从政20年无回报不愿做、不愿回馈母校捐钱",
+      "quote": "不愿意付出",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11529,
+        "end_line": 11533,
+        "sha1": "e4f6552582ab1879cd44e99a027000d33da52494",
+        "fingerprint": [
+          "亚裔",
+          "付出"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D02-2"
+      ],
+      "concept_key": "族裔地位靠付出",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对照：犹太人在精英中占比不低于在名校学生占比（11530行）；希望中国名校读者多为母校社会做贡献（11533行）。"
+    },
+    {
+      "claim_id": "C-GG-U0170-03",
+      "unit_id": "GG-U0170",
+      "speaker": "吴军本人",
+      "claim_text": "普通人和精英最大的差距在于学习的意愿，而不是条件或手段——方便学习的技术不仅没缩小差距反而拉大了差距：想学的人还是会学",
+      "quote": "学习的意愿",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11540,
+        "end_line": 11545,
+        "sha1": "02782cf1572f7dedf794077b3ffc6f98fd23c0d0",
+        "fingerprint": [
+          "意愿",
+          "差距"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "意愿是最大差距",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0170-04",
+      "unit_id": "GG-U0170",
+      "speaker": "吴军本人",
+      "claim_text": "精英永远不会有很多人：牛桥培养方式的前提是学生本身足够好；人天性好逸恶劳，能克服惰性终身学习的人永远是少数",
+      "quote": "终身学习的人永远是少数",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11553,
+        "end_line": 11554,
+        "sha1": "2cd5fd57e2ce73f20d4635e0d0176cc57268de9d",
+        "fingerprint": [
+          "精英",
+          "惰性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "精英永远是少数",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0170-05",
+      "unit_id": "GG-U0170",
+      "speaker": "吴军本人",
+      "claim_text": "同理心是教育的基本要求而非精英教育专属，不存在过度问题——到了利他开始自虐的程度就不是同理心了",
+      "quote": "同理心",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11561,
+        "end_line": 11561,
+        "sha1": "ce5182ea74fb2f2b6b95ed015f1025846155b63c",
+        "fingerprint": [
+          "同理心",
+          "自虐"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D07-2"
+      ],
+      "concept_key": "同理心基本要求",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0170",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（11506-11510/11535-11536/11547-11549/11556-11557/11563-11564行）为读者来信，按X7处置；法国启蒙运动答问（11568-11569行）记X4"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问24：名校录取与教育5卡。"
+}

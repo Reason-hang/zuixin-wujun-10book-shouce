@@ -1,0 +1,214 @@
+{
+  "unit_id": "GG-U0168",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0168-01",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "学好和考好是两回事：最后一个月不要再学新内容，三年没学会的两三周学不会——要保障的是发挥出水平",
+      "quote": "学好和考好是两回事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11360,
+        "end_line": 11366,
+        "sha1": "4d10b2ddfd8cf528b1f2fef24e310b52e09adbf4",
+        "fingerprint": [
+          "考好",
+          "发挥"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "学好考好之分",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "自述：90分水平只发挥80-85%就认命（11368行）；发挥不好80考70是大概率（11365-11369行）；互引U0098卡4。"
+    },
+    {
+      "claim_id": "C-GG-U0168-02",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "把原因归结到粗心是极不负责任又愚笨的想法：粗心背后是没掌握、看错题、做题方式不对",
+      "quote": "归结到粗心上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11374,
+        "end_line": 11379,
+        "sha1": "fbca800d024bd4bd20c145558c3c79abbeeb2c57",
+        "fingerprint": [
+          "粗心",
+          "责任"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "粗心非借口",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "送分题是必须100%保住的西瓜，保95%甚至99%都不够（11374行）。"
+    },
+    {
+      "claim_id": "C-GG-U0168-03",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "战略上求稳不求大胜：学AlphaGo保证必胜——少20分没关系、失常少50分心仪大学就无关，主因是贪图多考10分",
+      "quote": "不求大胜，但要保证必胜",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11383,
+        "end_line": 11389,
+        "sha1": "b20875d0b752a1b5dfea63cceb513d7b34669ad3",
+        "fingerprint": [
+          "必胜",
+          "状元"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-2"
+      ],
+      "concept_key": "求稳不求大胜",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据：北京状元705 vs 清华线667（11386行）；互引U0095卡6。"
+    },
+    {
+      "claim_id": "C-GG-U0168-04",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "考试不要恋战：卡壳坚决跳过去——吴军高考数学因恋战一题发挥失常，从此没再恋战也没再失常；归结回认命",
+      "quote": "不要恋战",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11401,
+        "end_line": 11410,
+        "sha1": "becb693476c822e14ed04ca787ca0b5ce7b01000",
+        "fingerprint": [
+          "恋战",
+          "卡壳"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "考试不恋战",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "经历：数学比赛北京市第三却高考数学唯一失常（11408-11409行）。"
+    },
+    {
+      "claim_id": "C-GG-U0168-05",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "理科检查三法：交叉验证（解带回验算而非原思路重做）；每步追问数字从哪来；常识判断（4、5、10构不成三角形）",
+      "quote": "交叉验证",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11412,
+        "end_line": 11415,
+        "sha1": "256d4665cfb427d75e3d40bc0159f36c3567b801",
+        "fingerprint": [
+          "检查",
+          "交叉验证"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D04-1"
+      ],
+      "concept_key": "理科检查三法",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0168-06",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "文科问答按要点给分：要点丢了答再长也没用、没有辛苦分——只想起两个要点就不要展开恋战",
+      "quote": "根据要点给分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11417,
+        "end_line": 11420,
+        "sha1": "d85c01fc18183c42a21862401cea679884fb3ac6",
+        "fingerprint": [
+          "要点",
+          "辛苦分"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D03-1"
+      ],
+      "concept_key": "要点给分",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0168-07",
+      "unit_id": "GG-U0168",
+      "speaker": "吴军本人",
+      "claim_text": "维持日常生活习惯、家长千万不要特别的保障——停电梯之类除增加压力没有半点好处",
+      "quote": "维持日常的生活习惯",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11421,
+        "end_line": 11422,
+        "sha1": "9a7773d67ddbd1d1b7774df61b155fe47a0cc15a",
+        "fingerprint": [
+          "习惯",
+          "保障"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D06-2"
+      ],
+      "concept_key": "维持习惯忌特殊保障",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0168",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11357行分享引导为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "特别来信（大考前一个月清单）：7卡。"
+}
