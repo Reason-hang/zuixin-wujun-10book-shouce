@@ -1,0 +1,66 @@
+{
+  "unit_id": "JS-U0030",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0030-01",
+      "unit_id": "JS-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "OKR法：季度定目标公开透明，自评打分，目标须有挑战性",
+      "quote": "完成目标的得分情况总是1",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1421,
+        "end_line": 1423,
+        "sha1": "23ea27111e9c7fdbaaf0bb2b0cb90c9977392cc9",
+        "fingerprint": [
+          "OKR",
+          "挑战性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-2"
+      ],
+      "concept_key": "OKR目标管理",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "得分总为1说明目标太低，多数人得分0.7-0.8；过时目标不能删只能说明（1423行）；吴军2017年自用例（1423-1426行）"
+    },
+    {
+      "claim_id": "C-JS-U0030-02",
+      "unit_id": "JS-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "消耗跟踪曲线：比较实际与计划进度，提醒按期完成任务",
+      "quote": "消耗跟踪曲线",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1428,
+        "end_line": 1434,
+        "sha1": "5810644772fe87aa2ad84bac69a946f9bd1e8390",
+        "fingerprint": [
+          "消耗跟踪曲线",
+          "进度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "消耗跟踪曲线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "实际曲线在计划直线上方即落后须加紧；对总拖到最后分钟者有效的督促法（1434行）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "OKR目标管理+消耗跟踪曲线2卡"
+}

@@ -1,0 +1,200 @@
+{
+  "unit_id": "JS-U0016",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0016-01",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "创始人易陷入自己的专长，反而把优势变成劣势",
+      "quote": "反而把优势变成劣势",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 743,
+        "end_line": 745,
+        "sha1": "77d9cca46cbe7afae928dc2ba1c3364d5baa1cb7",
+        "fingerprint": [
+          "一锤在手",
+          "优势变成劣势"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "一锤在手满眼都是钉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大数据工程师/产品经理出身创始人/天使投资人三例（745行）；'遇到公司需要自己上，投资已失败一大半'（745行）"
+    },
+    {
+      "claim_id": "C-JS-U0016-02",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "创始人要找到关键岗位合适的人并信任他们，而非事必躬亲",
+      "quote": "把重要的事情交给他们做",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 753,
+        "end_line": 753,
+        "sha1": "ab79be72d92bc613f06465366328d8f6dd8ac64f",
+        "fingerprint": [
+          "事必躬亲",
+          "合适的人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "找对人而非事必躬亲",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "司徒雷登评蒋介石例（755行）；谷歌400人规模时创始人面试占1/4时间例（757行）；'人没找好或培养方式有问题'"
+    },
+    {
+      "claim_id": "C-JS-U0016-03",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "录用的人应高出现有员工平均水平，否则公司越大素质越低；走下坡路从乱招人开始",
+      "quote": "应该高出现有员工的平均水平",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 761,
+        "end_line": 761,
+        "sha1": "a1d00c2c574e79ed609d59a51ccbf530fad0c811",
+        "fingerprint": [
+          "平均水平",
+          "乱招人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "招人高于平均水平",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "小公司招人还须极强主动性（759行）并入本条论证链"
+    },
+    {
+      "claim_id": "C-JS-U0016-04",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "管理有序的公司动力应来自底层，刹车应来自高层",
+      "quote": "动力应该来自底层",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 769,
+        "end_line": 769,
+        "sha1": "6c6663a1d6f0bc6edbe93d9e26b6bd9478be4386",
+        "fingerprint": [
+          "动力",
+          "刹车"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "刹车与引擎",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "创始人当刹车不当引擎；谷歌100人规模时高管每周一天听项目只判该不该做（771行）"
+    },
+    {
+      "claim_id": "C-JS-U0016-05",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "公司基因很大程度上取决于创始人基因；目标函数使员工不自觉调整行为",
+      "quote": "取决于创始人的基因",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 779,
+        "end_line": 779,
+        "sha1": "dbd649877d45336f2a37ae8fc7d8946ccc2cc6eb",
+        "fingerprint": [
+          "创始人的基因",
+          "目标函数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "公司基因与目标函数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-JS-U0017-02、C-JS-U0017-04互引（期望值最大化原理）"
+    },
+    {
+      "claim_id": "C-JS-U0016-06",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "成功的大公司都只有一种基因，文化骑墙的公司没有战斗力",
+      "quote": "都只有一种基因",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 787,
+        "end_line": 787,
+        "sha1": "5cf0193796589b27a868314ac5370b1fe9cf8a55",
+        "fingerprint": [
+          "一种基因",
+          "骑墙"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "单一基因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "工程师文化（谷歌）/产品导向（苹果腾讯）/销售导向（阿里）皆有成功先例（781-785行）"
+    },
+    {
+      "claim_id": "C-JS-U0016-07",
+      "unit_id": "JS-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "公司价值观和企业文化须在成立初期确立，没有5年后才确立的成功公司",
+      "quote": "企业文化是在5年后确立的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 789,
+        "end_line": 789,
+        "sha1": "cab32b589acbcf919a09134f49cd724b77cb5029",
+        "fingerprint": [
+          "企业文化",
+          "成立的初期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "价值观确立在初期",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "诸葛亮式事必躬亲累死自己做死公司为反例；非创始人可用三标准衡量老板（791行）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "给创始人的建议：招人/刹车/价值观三事+公司基因论共7卡"
+}

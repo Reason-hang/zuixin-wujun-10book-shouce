@@ -1,0 +1,224 @@
+{
+  "unit_id": "JS-U0027",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0027-01",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "互联网产品开发是动态迭代，工作永远做不完；应追求做完最重要的几件事",
+      "quote": "做完了哪几件重要的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1267,
+        "end_line": 1271,
+        "sha1": "6785d7bc3a4b09abed6f4ce4bc34beb55d755fdf",
+        "fingerprint": [
+          "动态迭代",
+          "最重要"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "做完哪几件重要的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0356）；有经验员工善于找最重要工作并优先完成（1271行）；谷歌中国工程师工作清单诊断（1265行）"
+    },
+    {
+      "claim_id": "C-JS-U0027-02",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "伪工作者每天把自己搞得很忙但工作不产生效果；伪工作多公司竞争处下风",
+      "quote": "不产生什么效果",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1273,
+        "end_line": 1273,
+        "sha1": "4c35c7b342a88208084f8766a352775bbb92be70",
+        "fingerprint": [
+          "伪工作者",
+          "下风"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "伪工作者",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0335）；英文pseudo worker直译"
+    },
+    {
+      "claim_id": "C-JS-U0027-03",
+      "unit_id": "JS-U0027",
+      "speaker": "史实",
+      "claim_text": "雅虎衰落被收购：全公司处于伪工作状态，改版不增功能、十年鲜有新品",
+      "quote": "全公司处于伪工作状态的结果",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1275,
+        "end_line": 1275,
+        "sha1": "bba62f88816c87e3acf4d52c4089c1c4ecc96f2b",
+        "fingerprint": [
+          "雅虎",
+          "梅耶尔"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "雅虎的伪工作衰败",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2016年被威瑞森收购；工作狂CEO梅耶尔高压下仍不产生效果；谷歌'工程大使'计划解决中国团队伪工作（1279行）——'正确指导提升表现'（CK-0592）"
+    },
+    {
+      "claim_id": "C-JS-U0027-04",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "防止伪工作两点：让员工站在公司最大获益高度工作；明白积极工作最大受益是自己",
+      "quote": "做什么事情能让公司最大获益",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1281,
+        "end_line": 1283,
+        "sha1": "fb62aed782125b3c5bfad6d7109cb5912b326058",
+        "fingerprint": [
+          "最大获益",
+          "受益方"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "防止伪工作两点",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0768）；知识型企业不应事无巨细管理，员工主动性重要"
+    },
+    {
+      "claim_id": "C-JS-U0027-05",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "伪工作做得越多个人进步越慢甚至能力倒退，实际在坑自己",
+      "quote": "伪工作做得越多，个人进步就越慢",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1283,
+        "end_line": 1283,
+        "sha1": "fae5980e48763ef31d8405ba718a25005435a967",
+        "fingerprint": [
+          "坑自己",
+          "能力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "伪工作坑自己",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "任劳任怨挑容易活做的'鬼精人'考评及格但坑自己；管理者伪工作=动辄改制度左右摇摆回原点，'一将无能累死千军'（1285行）并入本链"
+    },
+    {
+      "claim_id": "C-JS-U0027-06",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "我们常把时间浪费在可做可不做的事上；焦虑时应停下梳理，完成最重要的工作",
+      "quote": "可做可不做的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1287,
+        "end_line": 1287,
+        "sha1": "f4b3bbf5ca443947a4c2863f28a0dc4dfdb13f2b",
+        "fingerprint": [
+          "可做可不做",
+          "焦虑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "可做可不做的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0401）；从公司获益与提升自己能力两个角度筛选"
+    },
+    {
+      "claim_id": "C-JS-U0027-07",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "工作永远做不完时，仍要留时间欣赏身边的风景",
+      "quote": "欣赏身边的风景",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1289,
+        "end_line": 1289,
+        "sha1": "6a7f09a9a984c8102566d50e47134cf7d7c87ee0",
+        "fingerprint": [
+          "欣赏身边的风景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "欣赏身边的风景",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0590）；工作与生活节奏的平衡判断"
+    },
+    {
+      "claim_id": "C-JS-U0027-08",
+      "unit_id": "JS-U0027",
+      "speaker": "吴军本人",
+      "claim_text": "伪工作典型特征：无价值改进、守旧工具、盲目试错、轻质量、纠结5%、无效会议",
+      "quote": "伪工作和伪工作者典型的特征",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1291,
+        "end_line": 1305,
+        "sha1": "3d05673614a85d8c2c39b8ea92d63704cde54a03",
+        "fingerprint": [
+          "伪工作",
+          "典型的特征"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "伪工作特征清单",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0334）；与罗振宇交流总结的清单式方法论，整体一卡"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "伪工作者：定义/雅虎案例/防止两点/特征清单等8卡"
+}

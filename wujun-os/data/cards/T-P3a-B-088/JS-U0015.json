@@ -1,0 +1,148 @@
+{
+  "unit_id": "JS-U0015",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0015-01",
+      "unit_id": "JS-U0015",
+      "speaker": "转述·第三方",
+      "claim_text": "斯加鲁菲：改变世界的科技发明多非源于硅谷，硅谷优势在叛逆和执着",
+      "quote": "叛逆和执着",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 725,
+        "end_line": 725,
+        "sha1": "142088684be08bae5d8353499fa37d4af6cdb160",
+        "fingerprint": [
+          "叛逆和执着",
+          "斯加鲁菲"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "叛逆与执着",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=皮埃罗·斯加鲁菲（《硅谷百年史》作者）；MIT喜从0到1懒走完全程为例证（721行），Mobileye例（723行）"
+    },
+    {
+      "claim_id": "C-JS-U0015-02",
+      "unit_id": "JS-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "颠覆者靠寻找而非发明被束之高阁的技术，把它带到硅谷发扬光大",
+      "quote": "是寻找而不是发明",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 727,
+        "end_line": 727,
+        "sha1": "1931bff78af590eea9f54e4d7d91105e236a1c73",
+        "fingerprint": [
+          "寻找而不是发明",
+          "从1到N"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "寻找而非发明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承接上卡E2的本人引申；谷歌接手卡内基-梅隆无人驾驶团队为例证（729行）"
+    },
+    {
+      "claim_id": "C-JS-U0015-03",
+      "unit_id": "JS-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "小公司与大公司竞争不能按其市场规则，须靠N+1式质的飞跃",
+      "quote": "实现一个质的飞跃",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 731,
+        "end_line": 731,
+        "sha1": "9a1b9c533bf0a2126624e024b9252584cb5cd8e5",
+        "fingerprint": [
+          "N+1",
+          "质的飞跃"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "N+1创新",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "夏克利-仙童-英特尔/AMD技术进步谱系为例证；与C-JS-U0014-02互引"
+    },
+    {
+      "claim_id": "C-JS-U0015-04",
+      "unit_id": "JS-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "山寨是N-1式低水平重复；比从0到1更难的是走完从0到N全过程",
+      "quote": "更困难的是走完从0到N",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 733,
+        "end_line": 733,
+        "sha1": "9e6ab155c8c69c427697640be4549fcbd158645c",
+        "fingerprint": [
+          "N-1",
+          "低水平重复"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "山寨是N-1",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-JS-U0014-01互引；'天上掉馅饼'式从0到1幻想为反面（733行）"
+    },
+    {
+      "claim_id": "C-JS-U0015-05",
+      "unit_id": "JS-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "叛逆和执着是初创公司成功必不可少的要素",
+      "quote": "叛逆和执着是成功必不可少的要素",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 735,
+        "end_line": 735,
+        "sha1": "617c3c4cf7dbfcf918cae2222411cf26095ae33a",
+        "fingerprint": [
+          "叛逆和执着",
+          "必不可少的要素"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "叛逆与执着",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "节末本人总结，与01（E2转述）同一论证链两卡并存、互引"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "硅谷N+1创新法：斯加鲁菲转述+吴军本人方法判断共5卡"
+}

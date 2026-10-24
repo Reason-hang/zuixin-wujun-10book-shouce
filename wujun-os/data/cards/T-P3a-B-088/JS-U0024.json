@@ -1,0 +1,148 @@
+{
+  "unit_id": "JS-U0024",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0024-01",
+      "unit_id": "JS-U0024",
+      "speaker": "史实",
+      "claim_text": "曼施泰因闪电战：只要进攻足够快，就不需要防御侧翼和后方",
+      "quote": "只要进攻足够快",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1153,
+        "end_line": 1153,
+        "sha1": "4f5e5966c553cd48e5ff94e04a63401a8421c2a2",
+        "fingerprint": [
+          "曼施泰因",
+          "闪电战"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "闪电战理论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以少胜多靠进攻快速出奇；兵力不足被动防守时无力回天（1161行）；生平战例（1149-1159行）为史实载体不单独立卡"
+    },
+    {
+      "claim_id": "C-JS-U0024-02",
+      "unit_id": "JS-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "创新力真正很强的公司其实专利很少，专利大户多是老一代跨国公司",
+      "quote": "真正很强的公司其实专利很少",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1163,
+        "end_line": 1165,
+        "sha1": "171936a46eceb87ef3ac7a6cb22887f26209228f",
+        "fingerprint": [
+          "专利",
+          "创新力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "专利数量与创新力无关",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "苹果/亚马逊/Facebook从不上专利榜；特斯拉仅400多项且大半不值钱（1165行）"
+    },
+    {
+      "claim_id": "C-JS-U0024-03",
+      "unit_id": "JS-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "专利不是进攻的工具而是防守的工具；业务停滞时才需要专利保护侧翼",
+      "quote": "进攻是最好的防守",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1167,
+        "end_line": 1167,
+        "sha1": "f46318490e2bb8def2b134dc1872af68eebeb75d",
+        "fingerprint": [
+          "防守的工具",
+          "停滞"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "专利是防守工具",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与曼施泰因'进攻是最好的防守'对应；微软购专利打官司收安卓厂商费例（1169-1173行）"
+    },
+    {
+      "claim_id": "C-JS-U0024-04",
+      "unit_id": "JS-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "小公司和新进入者应进攻出奇制胜而非靠专利防守，创造力与执行力是立足之本",
+      "quote": "执行力才是在新行业中的立足之本",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1175,
+        "end_line": 1175,
+        "sha1": "8629fa7e27395e01269cef24724ea88f3a37860e",
+        "fingerprint": [
+          "进攻",
+          "立足之本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "小公司的进攻心态",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "女企业家天天晒专利致转型失败例（1175行）；大公司员工申请专利名利双收的对照"
+    },
+    {
+      "claim_id": "C-JS-U0024-05",
+      "unit_id": "JS-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "个人与其纠结过去的得失，不如提高执行力不断开拓新事业",
+      "quote": "与其纠结过去的得失",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1175,
+        "end_line": 1175,
+        "sha1": "8629fa7e27395e01269cef24724ea88f3a37860e",
+        "fingerprint": [
+          "执行力",
+          "立于不败之地"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "提高执行力开拓新事业",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "进攻防守论的个人层面引申"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "曼施泰因和专利：进攻防守论+专利三判断+个人执行力5卡"
+}

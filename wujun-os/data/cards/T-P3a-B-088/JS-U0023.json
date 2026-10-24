@@ -1,0 +1,119 @@
+{
+  "unit_id": "JS-U0023",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0023-01",
+      "unit_id": "JS-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "两公司生产关系处不同时代，竞争结果几乎无悬念；核心是人际关系与利益分配",
+      "quote": "生产关系处在不同时代",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1113,
+        "end_line": 1113,
+        "sha1": "9d7c21d9c0ab6918f5a1169ca7c48f505bd5679c",
+        "fingerprint": [
+          "生产关系",
+          "利益的分配"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "生产关系决定竞争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "甲午战争/普法战争军事史与摩托罗拉vs英特尔（期权激励）、微软vsIBM、微软vs谷歌（研产一体）例（1101-1123行）为论证载体；约米尼内线/毛奇外线为史实不单独立卡"
+    },
+    {
+      "claim_id": "C-JS-U0023-02",
+      "unit_id": "JS-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "新兴公司胜在生产关系（分配制度）与管理理念的进步；新旧之争是时代之争，新时代终胜",
+      "quote": "新时代最终会战胜旧时代",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1129,
+        "end_line": 1129,
+        "sha1": "633315fb45944b6c1289adeddb8c7ea26723526c",
+        "fingerprint": [
+          "分配制度",
+          "两个时代的竞争"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "新旧时代之争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "罗辑思维卖书快于传统电商渠道/互联网公司胜传统企业例（1125-1127行）；老公司利益难平衡、理念难扭转"
+    },
+    {
+      "claim_id": "C-JS-U0023-03",
+      "unit_id": "JS-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "公司未做事先封一堆官、暮气沉沉，如年轻人有老人心态，难有作为",
+      "quote": "官的数量比员工还多",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1131,
+        "end_line": 1131,
+        "sha1": "b296ea9453f25e66a562e32d0e331c8ec52d327b",
+        "fingerprint": [
+          "封了许多",
+          "暮气沉沉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "未做事先封官",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "CSO/CTO/COO/CFO比员工多为讽"
+    },
+    {
+      "claim_id": "C-JS-U0023-04",
+      "unit_id": "JS-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "点子不如现有产品、利益分配不如大公司的初创公司被碾压无可抱怨",
+      "quote": "被BAT碾死也没什么可抱怨的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1133,
+        "end_line": 1133,
+        "sha1": "813313d41184f01566d98a7d8aead0a519d830f1",
+        "fingerprint": [
+          "BAT",
+          "利益分配"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "被碾压无可抱怨",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "小公司成长最终靠把产品和技术做好（1135行）承下节"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "大小之争变时代之争：生产关系代差+时代战胜+暮气小公司4卡"
+}

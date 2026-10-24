@@ -1,0 +1,153 @@
+{
+  "unit_id": "JS-U0019",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0019-01",
+      "unit_id": "JS-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "明星员工的人脉极大依赖原组织光环，离开后就不那么值钱",
+      "quote": "极大程度上依赖于原有的组织",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 911,
+        "end_line": 911,
+        "sha1": "f460a9f503208fbd30b04bddd16ebff3382c7578",
+        "fingerprint": [
+          "人脉",
+          "光环"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "人脉依赖组织光环",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高盛基金经理/家具销售经理/风投合伙人离职创业难复制表现（901-905行）"
+    },
+    {
+      "claim_id": "C-JS-U0019-02",
+      "unit_id": "JS-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "离职创业者误用了原组织的隐含资源而不自知",
+      "quote": "他们忽视了隐含资源",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 911,
+        "end_line": 915,
+        "sha1": "5d47c6823228feb1e03dffdff43e718643d5738c",
+        "fingerprint": [
+          "隐含资源",
+          "第二次机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "隐含资源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "市场不好时钱留在高盛不给个人第二次机会为隐含资源例（913-915行）；分成由市场决定（917行）并入论证链"
+    },
+    {
+      "claim_id": "C-JS-U0019-03",
+      "unit_id": "JS-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "成功的媒体创业者不做自媒体，而是打造平台：培养新人和塑造明星",
+      "quote": "打造了一个新的平台",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 933,
+        "end_line": 937,
+        "sha1": "e6a213e1a5e1dd821534de4018d07323759f3d0b",
+        "fingerprint": [
+          "平台",
+          "培养新人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "平台而非自媒体",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "罗振宇/马东/虎嗅例；平台两个看家本领（937-939行）；个人积累离开单位后用得很快（935行）"
+    },
+    {
+      "claim_id": "C-JS-U0019-04",
+      "unit_id": "JS-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "科技创业者成功率更高：凭手艺吃饭，而不是靠光环吃饭",
+      "quote": "凭手艺吃饭，而不是靠光环吃饭",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 941,
+        "end_line": 941,
+        "sha1": "fdb6fbc8621b2951f1e45b6b7eadf4841939d713",
+        "fingerprint": [
+          "手艺",
+          "光环"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "凭手艺吃饭",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "大科技公司出身者名气属于自己，靠手艺换钱；与缪贤误区同源对照"
+    },
+    {
+      "claim_id": "C-JS-U0019-05",
+      "unit_id": "JS-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "缪贤误区：要分清对方的善意是冲自己还是冲背后的公司；英雄不问出身",
+      "quote": "还是冲着背后的公司来的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 949,
+        "end_line": 953,
+        "sha1": "a1d54b7fff3bb0079dd79528a015109cf47446e6",
+        "fingerprint": [
+          "缪贤",
+          "英雄不问出身"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "缪贤的误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "《史记》缪贤-蔺相如故事为载（943-947行，史实不单独立卡）；吴军劝媒体人别急着离职创业（929行）并入链"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0019",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "951行'真正的好大学毕业生不需把母校名字挂在嘴边'属大学教育理念评价，按排除准则X5（教育）不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "缪贤的误区：人脉光环/隐含资源/平台/手艺/出身判断共5卡，教育评价部分记X5"
+}

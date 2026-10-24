@@ -1,0 +1,123 @@
+{
+  "unit_id": "JS-U0029",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0029-01",
+      "unit_id": "JS-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "进步要先立合适愿景；战略即设阶段性目标，战术是分解成可操作步骤",
+      "quote": "战略的核心就是设置阶段性目标",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1377,
+        "end_line": 1379,
+        "sha1": "9a016c1c9b8828b4e9844b3d2ea8fb526593bc6e",
+        "fingerprint": [
+          "愿景",
+          "阶段性目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "愿景目标道路",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "第一板斧；熟练工种技能会过时（打算盘/翻译被AI替代例，1377行）；三级工程师阶段目标例（1379行）"
+    },
+    {
+      "claim_id": "C-JS-U0029-02",
+      "unit_id": "JS-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "听到不中听的话也要三思找出合理之处：换位思考、自省境界、理解人性",
+      "quote": "凡事要习惯回过头来三思",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1393,
+        "end_line": 1395,
+        "sha1": "3571b484c2299fc57d498285f5f17e9be19d976c",
+        "fingerprint": [
+          "三思",
+          "合理性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D01-1"
+      ],
+      "concept_key": "不中听话找合理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第二板斧；源自中学校长万帮儒毕业赠言（E2源流，1387-1389行）；泼妇骂街找原因例（1395行）；'从不中听的话中找到合理性'（1397行）"
+    },
+    {
+      "claim_id": "C-JS-U0029-03",
+      "unit_id": "JS-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "凡事做记录：避免重复解难题，记录中又思考一遍进步更快",
+      "quote": "在记录的过程中又思考了一遍",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1405,
+        "end_line": 1407,
+        "sha1": "12046f756afc4786c667837df766396b2efef26b",
+        "fingerprint": [
+          "做记录",
+          "积累"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-2"
+      ],
+      "concept_key": "凡事做记录",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "第三板斧防狗熊掰棒子；欧美重记录利传承vs中国常失传低水平重复（1407行）"
+    },
+    {
+      "claim_id": "C-JS-U0029-04",
+      "unit_id": "JS-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "有效的方法常常是简单的，太多太复杂的方法难以实施",
+      "quote": "有效的方法也常常是简单的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1411,
+        "end_line": 1411,
+        "sha1": "5248fe2cc3fb2e1bbc8a5af737aad7cb00fc735b",
+        "fingerprint": [
+          "简单",
+          "难以实施"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D06-2"
+      ],
+      "concept_key": "简单方法更有效",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "节末感悟；牛顿'自然界喜欢简单性'为转述引证（1411行）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "三板斧破四困境：愿景目标道路/不中听找合理/做记录/简单方法4卡"
+}

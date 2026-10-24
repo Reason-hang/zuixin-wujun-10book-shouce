@@ -1,0 +1,177 @@
+{
+  "unit_id": "JS-U0017",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0017-01",
+      "unit_id": "JS-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "期望值最大化：设收益函数，每步沿最大期望方向走，必达收益最大终点",
+      "quote": "沿着这个方向走一小步",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 801,
+        "end_line": 811,
+        "sha1": "7ad6268404600ab16cc6f73d9cca70f33f99159b",
+        "fingerprint": [
+          "收益函数",
+          "迭代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D04-1"
+      ],
+      "concept_key": "期望值最大化原理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "机器学习（AlphaGo训练）同用此法；高考足球/百米设收益函数的比喻（815-817行）"
+    },
+    {
+      "claim_id": "C-JS-U0017-02",
+      "unit_id": "JS-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "公司设置什么收益函数，员工就会将其最大化；与其教育员工不如设好函数",
+      "quote": "与其教育员工，不如设置一个",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 833,
+        "end_line": 837,
+        "sha1": "f200bdea2bed66bffc08227a35d745bd8dd0bcbc",
+        "fingerprint": [
+          "收益函数",
+          "最大化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-2"
+      ],
+      "concept_key": "收益函数决定员工行为",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "朗讯重账面利润/IBM重现金流/甲骨文重市占率例（835行）；与C-JS-U0016-05互引"
+    },
+    {
+      "claim_id": "C-JS-U0017-03",
+      "unit_id": "JS-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "专利数量由公司奖励程度决定，与创新力没有直接关系",
+      "quote": "取决于公司对申请专利的奖励程度",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 825,
+        "end_line": 829,
+        "sha1": "abb889d204c1be566b1426dd1cdf61d0501c1fd8",
+        "fingerprint": [
+          "专利",
+          "奖励"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "专利数量与创新力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "IBM专利最多因挂钩绩效（829行）；谷歌降奖致专利锐减、重奖后进前十案例（831行）"
+    },
+    {
+      "claim_id": "C-JS-U0017-04",
+      "unit_id": "JS-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "创始人的基因决定公司的基因，成立时最重要的工作之一是定规矩",
+      "quote": "最重要的工作之一就是定规矩",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 833,
+        "end_line": 833,
+        "sha1": "e9722c062905fe7842955ac361123af9951419d2",
+        "fingerprint": [
+          "定规矩",
+          "创始人的基因"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "公司基因与创始人基因",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "规矩=公司管理的收益函数；与C-JS-U0016-05、C-JS-U0017-02互引"
+    },
+    {
+      "claim_id": "C-JS-U0017-05",
+      "unit_id": "JS-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "交朋友是按各自收益函数无意识优化的过程",
+      "quote": "所设定的收益函数是不同的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 821,
+        "end_line": 821,
+        "sha1": "28b87d6c967ac9d68c5062546df95bb012446317",
+        "fingerprint": [
+          "收益函数",
+          "交朋友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D03-2"
+      ],
+      "concept_key": "交友的收益函数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对他好/多巴胺/物理距离近者成朋友，其余淡出；宇宙演化与物种进化类比（819行）并入论证链"
+    },
+    {
+      "claim_id": "C-JS-U0017-06",
+      "unit_id": "JS-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "期望值最大化是宇宙演变与进化的规律，科学原理也适用于生活",
+      "quote": "科学原理不仅适用于科学本身",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 839,
+        "end_line": 839,
+        "sha1": "20b977e807db853e13bf936dec35b558594890b7",
+        "fingerprint": [
+          "天道",
+          "科学原理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "期望值最大化是天道",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "节末升华判断；主张主管与基层员工都可利用该原理最大化自己期望值"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "期望值最大化原理：本人原理/管理/专利/天道判断共6卡"
+}

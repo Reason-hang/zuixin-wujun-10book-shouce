@@ -1,0 +1,66 @@
+{
+  "unit_id": "JS-U0020",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0020-01",
+      "unit_id": "JS-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "每次技术革命都会让现有行业升级一次，催生大量更有活力的新公司",
+      "quote": "现有行业就会升级一次",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 969,
+        "end_line": 969,
+        "sha1": "d10a377c2291b73a1d85668d1ce945cc6584df49",
+        "fingerprint": [
+          "技术革命",
+          "新的公司"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "技术革命催生新公司",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "章首历史规律判断，服务本章以小博大创新主题"
+    },
+    {
+      "claim_id": "C-JS-U0020-02",
+      "unit_id": "JS-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "创业者要有足够耐心，从给大公司干脏活累活开始，不可能一步办成大企业",
+      "quote": "干脏活、累活开始",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 969,
+        "end_line": 969,
+        "sha1": "d10a377c2291b73a1d85668d1ce945cc6584df49",
+        "fingerprint": [
+          "脏活",
+          "耐心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "从脏活累活开始",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与C-JS-U0021-05（同主题节末总结）互引"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第三章章首：技术革命催生新公司+创业从脏活累活做起2卡"
+}

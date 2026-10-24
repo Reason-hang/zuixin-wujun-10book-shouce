@@ -1,0 +1,154 @@
+{
+  "unit_id": "JS-U0022",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0022-01",
+      "unit_id": "JS-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "信息时代新公司加速取代老公司，很小时就很有竞争力，胜过大公司",
+      "quote": "新公司的体量只能算作蚂蚁",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1021,
+        "end_line": 1021,
+        "sha1": "e5487f00176bd2a6c55e6391fbeaa24b657084c9",
+        "fingerprint": [
+          "蚂蚁",
+          "大象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "蚂蚁战胜大象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谷歌2000人胜微软8万/Facebook800人扰谷歌/ARM挤走英特尔例（1021行）；独角兽快死与Theranos例（1023行）"
+    },
+    {
+      "claim_id": "C-JS-U0022-02",
+      "unit_id": "JS-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "获胜的小公司用洋枪洋炮（代差技术）对付大公司的大刀长矛",
+      "quote": "用洋枪洋炮对付行业中现有大公司",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1025,
+        "end_line": 1031,
+        "sha1": "b442b69e11a2b53f301077b4ecd9f76455826ead",
+        "fingerprint": [
+          "洋枪洋炮",
+          "大刀长矛"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "洋枪洋炮对大刀长矛",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "皮萨罗灭印加/克莱夫征服印度史例（1033-1035行）；谷歌PageRank/苹果触屏对诺基亚例（1041-1049行）"
+    },
+    {
+      "claim_id": "C-JS-U0022-03",
+      "unit_id": "JS-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "从生产关系讲，获胜的小公司和现有大公司不属于同一代",
+      "quote": "和现有的大公司不属于同一代",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1025,
+        "end_line": 1031,
+        "sha1": "b442b69e11a2b53f301077b4ecd9f76455826ead",
+        "fingerprint": [
+          "生产关系",
+          "同一代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "生产关系代差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两特点之二；与C-JS-U0023-01、C-JS-U0023-02互引"
+    },
+    {
+      "claim_id": "C-JS-U0022-04",
+      "unit_id": "JS-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "颠覆式创新要有撒手锏，且撒手锏能借当时周边技术进步飞速放大",
+      "quote": "容易得到当时相关技术的帮助",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1085,
+        "end_line": 1087,
+        "sha1": "c9ab9cf6378ead5e147e6a9967ffad3f82787e6d",
+        "fingerprint": [
+          "撒手锏",
+          "颠覆式创新"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "撒手锏与时代助力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "蒸汽船受益机械革命/微软受益摩尔定律/谷歌受益互联网（1085行）；'初生的婴儿都是不美的'（1087行）并入链"
+    },
+    {
+      "claim_id": "C-JS-U0022-05",
+      "unit_id": "JS-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "若大公司掌握洋枪洋炮且灵活善舞，小公司机会就非常小",
+      "quote": "如果对方是一只非常会跳舞的大象",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1089,
+        "end_line": 1089,
+        "sha1": "02ab14ca0a8503e829a04bfdb30eefcb68e6e1a3",
+        "fingerprint": [
+          "跳舞的大象",
+          "执行能力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "会跳舞的大象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "引出下节小公司应对之法；孤立技术进步讨不到便宜的告诫（1085行）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0022",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "1023行'我预计很快会有大量大数据公司和人工智能公司死掉'为时效性行业预测，按X6不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "蚂蚁战胜大象：现象+两特点+颠覆式创新条件+会跳舞的大象5卡，死公司预测记X6"
+}

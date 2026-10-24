@@ -1,0 +1,181 @@
+{
+  "unit_id": "JS-U0025",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0025-01",
+      "unit_id": "JS-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "互联网产业没有上下半场之分，任何历史都是延续的而非割裂的",
+      "quote": "哪儿有什么上半场、下半场之分",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1191,
+        "end_line": 1195,
+        "sha1": "abd41960b615ddc806501b18168ed7e948ee1525",
+        "fingerprint": [
+          "上半场",
+          "割裂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "没有下半场",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "悔棋朋友比喻（1193行）；技术强关联紧耦合难以跳跃（1201行）；落伍公司只能补课（1203行）"
+    },
+    {
+      "claim_id": "C-JS-U0025-02",
+      "unit_id": "JS-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "连续落伍的公司多因管理和战略出大问题，仅技术往前走更可能继续落伍",
+      "quote": "管理和战略出了大问题",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1205,
+        "end_line": 1205,
+        "sha1": "521798a55713908dc8f626fba9bc9a3d95563565",
+        "fingerprint": [
+          "管理",
+          "落伍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "落伍归因管理战略",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "股市'买涨不买跌'类比"
+    },
+    {
+      "claim_id": "C-JS-U0025-03",
+      "unit_id": "JS-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "免费和收费不是划分时代的标准，大公司商业模式并未改变",
+      "quote": "免费和收费不是划分时代的标准",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1207,
+        "end_line": 1207,
+        "sha1": "d62aa7823dd7199d402f508fd6c2620e071867a2",
+        "fingerprint": [
+          "免费",
+          "商业模式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "免费收费非时代标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "占全球互联网80%营业额的不到10家大公司商业模式未变"
+    },
+    {
+      "claim_id": "C-JS-U0025-04",
+      "unit_id": "JS-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "应是原有产业+互联网而非互联网+；互联网是提升效率的工具，要解决原有产业的问题",
+      "quote": "互联网是一个工具",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1217,
+        "end_line": 1221,
+        "sha1": "2f65a7aed942f2223aa1f6bbce73085cd202c81c",
+        "fingerprint": [
+          "原有产业",
+          "工具"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "原有产业加互联网",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谷歌/亚马逊/Facebook与BAT都只是用互联网改造原有产业（1221-1223行）；炒'互联网+'概念者没成功"
+    },
+    {
+      "claim_id": "C-JS-U0025-05",
+      "unit_id": "JS-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "后起之秀没有一个靠炒概念成功；持续发展的产业任何时候进来都不晚",
+      "quote": "没有一个是靠炒概念做成的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1215,
+        "end_line": 1215,
+        "sha1": "2738627e6b2b6a53b2ea2f5e384382d17d9fca5e",
+        "fingerprint": [
+          "炒概念",
+          "后起之秀"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "炒概念做不成",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "下半场炒作动机是错过发展阶段者想清零重来（1193行）"
+    },
+    {
+      "claim_id": "C-JS-U0025-06",
+      "unit_id": "JS-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "大家都不理性投资、做表面文章时，用新思维改造现有产业的机会就来了",
+      "quote": "当大家都在做表面文章时",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1227,
+        "end_line": 1227,
+        "sha1": "7a939993b043a578382bda1671b143d3b865a464",
+        "fingerprint": [
+          "表面文章",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "表面文章与机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "节末收束判断"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0025",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "1195-1199行中世纪与两次文艺复兴连续性的文明史叙述为纯史实佐证，按X4不入卡，仅留'历史延续不割裂'的可迁移判断（C-JS-U0025-01）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "没有什么下半场：连续性/管理归因/免费标准/原有产业+互联网等6卡，中世纪史述记X4"
+}

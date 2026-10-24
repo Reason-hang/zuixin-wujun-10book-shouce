@@ -1,0 +1,182 @@
+{
+  "unit_id": "JS-U0021",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0021-01",
+      "unit_id": "JS-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "两种好的商业模式：印钞机式自动交易与让用户互动式",
+      "quote": "打造一个“印钞机”式的公司",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 975,
+        "end_line": 975,
+        "sha1": "6484472b70f1129b32115e6ca2ea445f60a8e59e",
+        "fingerprint": [
+          "商业模式",
+          "印钞机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "两种好的商业模式",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "源自其《浪潮之巅》观点复述（本人）；变现能力是最后一环"
+    },
+    {
+      "claim_id": "C-JS-U0021-02",
+      "unit_id": "JS-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "没有人一开始就能做出通用平台；单点突破常是结果而非一开始的目标",
+      "quote": "一开始就能够做出一个通用平台",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 985,
+        "end_line": 985,
+        "sha1": "32cf54de7963f8e738e49b3b654db34c611fe93a",
+        "fingerprint": [
+          "通用平台",
+          "单点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "单点突破是结果",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谷歌靠搜索/阿里做B2B苦差事/腾讯靠聊天软件起家例（985行）；A公司空谈平台失败、B公司聚焦物流成功对照（983-987行）"
+    },
+    {
+      "claim_id": "C-JS-U0021-03",
+      "unit_id": "JS-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "小公司资源有限，须把人力集中在一个点上，把一个产品打磨好",
+      "quote": "把所有的人力集中在一个点上",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 989,
+        "end_line": 989,
+        "sha1": "c024e301f16b4e0e4f06fc2370c512a3aa44ff0a",
+        "fingerprint": [
+          "突破点",
+          "打磨"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "集中一点打磨产品",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "产品打磨需10000小时级功夫；苹果手机四角弧度例（989行）"
+    },
+    {
+      "claim_id": "C-JS-U0021-04",
+      "unit_id": "JS-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "新技术小公司靠为大公司干脏活累活立足，形成双赢的新产业格局",
+      "quote": "不愿意做的脏活、累活",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 997,
+        "end_line": 1001,
+        "sha1": "bd009c26d9f3530c96c651b8b0fd551f6e4463c8",
+        "fingerprint": [
+          "脏活",
+          "双赢"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "脏活累活的定位",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "第二类公司有数据缺催化剂不会委托第一类，故扶持第三类（999-1001行）；'原有产业+新技术=新产业'格局"
+    },
+    {
+      "claim_id": "C-JS-U0021-05",
+      "unit_id": "JS-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "创业者不要一开始就想办谷歌阿里，必须先从脏活累活做起",
+      "quote": "不要一开始就想着去创办一个谷歌",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1009,
+        "end_line": 1011,
+        "sha1": "f2918d3db7dadd43ce989f49472b3a4a16772226",
+        "fingerprint": [
+          "脏活",
+          "成功机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "从脏活累活开始",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "节末观点概括；变革年代机会更多（1011行）；与C-JS-U0020-02互引"
+    },
+    {
+      "claim_id": "C-JS-U0021-06",
+      "unit_id": "JS-U0021",
+      "speaker": "史实",
+      "claim_text": "华院数据：干脏活累活的数据服务公司，解决行业问题后剥离孵化合资",
+      "quote": "孵化出十多个开始挣钱",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1003,
+        "end_line": 1007,
+        "sha1": "c1db0a8385cdb35f53729e2ca5da42a1c59eb30d",
+        "fingerprint": [
+          "华院数据",
+          "合资公司"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "华院数据模式",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "宣晓华创办；MBA+数学家+工程师三类人组队模式；用阿里云不自建平台避免与阿里冲突"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0021",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "991-995行智能时代三类受益公司的趋势预判属科技趋势预测，按X6不入卡（其中第三类小公司干脏活的可迁移逻辑已抽为C-JS-U0021-04）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "创业是苦差事：商业模式/平台/单点/脏活累活+华院数据案例6卡，AI趋势预测记X6"
+}

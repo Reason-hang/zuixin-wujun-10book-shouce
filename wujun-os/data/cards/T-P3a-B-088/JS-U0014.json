@@ -1,0 +1,65 @@
+{
+  "unit_id": "JS-U0014",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0014-01",
+      "unit_id": "JS-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "真正的创新要走完从0到N的全过程，从0到1只是万里长征第一步",
+      "quote": "要走完从0到N的全过程",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 705,
+        "end_line": 710,
+        "sha1": "95052d1bc62e2c392f48d6c88ed844bbcf4c22b6",
+        "fingerprint": [
+          "从0到N",
+          "万里长征"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "从0到N全过程",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第二章章首总起判断；与C-JS-U0015-04互引"
+    },
+    {
+      "claim_id": "C-JS-U0014-02",
+      "unit_id": "JS-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "伟大的发明是基于前人工作的N+1过程，山寨是N-1的低水平倒退",
+      "quote": "它所完成的是从“N+1”的过程",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 705,
+        "end_line": 710,
+        "sha1": "95052d1bc62e2c392f48d6c88ed844bbcf4c22b6",
+        "fingerprint": [
+          "N+1",
+          "山寨"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "N+1创新",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "同段第二条独立判断；富足'从0到1是全过程'（CK-0318）同源主题跨书呼应"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "章首论断密集：从0到N全过程与N+1/山寨N-1两条核心判断成卡"
+}

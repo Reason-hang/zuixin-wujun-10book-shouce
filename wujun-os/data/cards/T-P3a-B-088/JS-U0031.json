@@ -1,0 +1,128 @@
+{
+  "unit_id": "JS-U0031",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0031-01",
+      "unit_id": "JS-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "大部分人愿意开头不愿收尾；不走完最后一步质量打折，成就相去甚远",
+      "quote": "大部分人愿意开头而不愿意收尾",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1452,
+        "end_line": 1454,
+        "sha1": "f41b12f0871e549f5203fc1ffb5d4b6db85af4bb",
+        "fingerprint": [
+          "最后一步",
+          "收尾"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "走完最后一步",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "高中同学'九十九步为何不走完最后一步'赠言为源（1448行，转述不单独立卡）；朋友送人差5分钟掉头例（1450行）"
+    },
+    {
+      "claim_id": "C-JS-U0031-02",
+      "unit_id": "JS-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "瑞士制造精神：以质取胜，只比对手好5%就能赢得数倍市场份额",
+      "quote": "只比竞争对手好5%",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1456,
+        "end_line": 1456,
+        "sha1": "07774da4af4ab0026481f3798c878684d1063832",
+        "fingerprint": [
+          "瑞士",
+          "市场份额"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "瑞士制造精神",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "谷歌质量比对手好5%即得几倍份额；奢侈品只比高档商品好5%却贵两三倍"
+    },
+    {
+      "claim_id": "C-JS-U0031-03",
+      "unit_id": "JS-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "沟通也要走完最后一步：让对方说出确认才算通知完成",
+      "quote": "都要让我说出“确认”两个字",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1458,
+        "end_line": 1460,
+        "sha1": "09aa59a0926866285c94d3f11811e65023f8cae5",
+        "fingerprint": [
+          "确认",
+          "最后一步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通确认制",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "高盛与摩根士丹利邮件电话必获确认的做法；只走九十九步会导致不愉快"
+    },
+    {
+      "claim_id": "C-JS-U0031-04",
+      "unit_id": "JS-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "做得过得去的人与前1%只差最后几步，收入地位机会差别却很大",
+      "quote": "可能就差最后几步路",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1462,
+        "end_line": 1462,
+        "sha1": "1619f1210d38361be245ff89fcc8800ad354fcd4",
+        "fingerprint": [
+          "前1%",
+          "最后几步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D06-1"
+      ],
+      "concept_key": "前1%的差距",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "好地段房子为做得最好的5%甚至1%的人准备；把事做好至少为了配得上好生活"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0031",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "1464-1466行纽曼'最好的教育是让年轻人生活在一起相互学习'及'得到'读者进步例属教育理念议题，按X5不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "做好最后的1%：收尾/瑞士制造/沟通确认/前1%差距4卡，纽曼教育名言记X5"
+}

@@ -1,0 +1,298 @@
+{
+  "unit_id": "JS-U0028",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0028-01",
+      "unit_id": "JS-U0028",
+      "speaker": "转述·第三方",
+      "claim_text": "格拉德威尔：成功需要10000小时苦功，加上智商、运气和家庭环境，皆必要非充分",
+      "quote": "10000小时努力的重要性",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1323,
+        "end_line": 1323,
+        "sha1": "cb4e157163a8c0b045df1ab8bef897fc34cbe8fb",
+        "fingerprint": [
+          "格拉德威尔",
+          "必要因素"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-2",
+        "D02-3"
+      ],
+      "concept_key": "格拉德威尔成功框架",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=马尔科姆·格拉德威尔《异类》；智商120/生逢其时/家庭环境三因素展开（1325-1329行）；反方见C-JS-U0028-02"
+    },
+    {
+      "claim_id": "C-JS-U0028-02",
+      "unit_id": "JS-U0028",
+      "speaker": "转述·第三方",
+      "claim_text": "罗振宇：花10000小时可能也没用，思维方式、环境、境界比下笨功夫重要",
+      "quote": "比下笨功夫要重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1319,
+        "end_line": 1319,
+        "sha1": "e8c736708c11ea8cefde08cd31fa7be036455213",
+        "fingerprint": [
+          "思维方式",
+          "境界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "思维方式重于笨功夫",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=罗振宇（罗辑思维视频第185期）；吴军评两人观点不完全矛盾（1321行）"
+    },
+    {
+      "claim_id": "C-JS-U0028-03",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "勤能补拙并没有科学依据；智商低于120很难成功是事实",
+      "quote": "勤能补拙并没有科学依据",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1325,
+        "end_line": 1325,
+        "sha1": "68cb19e0b6f97ada928e5d914f1d921b1241f20b",
+        "fingerprint": [
+          "勤能补拙",
+          "智商"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "勤能补拙无科学依据",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对格拉德威尔第一观点的本人背书；'上清华靠智商论'争议（1325行）"
+    },
+    {
+      "claim_id": "C-JS-U0028-04",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "成功的人承认运气成分、遇挫检讨自己；不成功者得意时封神、失败怪运气",
+      "quote": "成功的人都承认自己有运气的成分",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1327,
+        "end_line": 1327,
+        "sha1": "f6918f416173f4fde4e4c12cb959edeb581c3256",
+        "fingerprint": [
+          "运气",
+          "检讨"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "成功者承认运气",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "命运观判断；商业巨子与盖茨乔布斯皆生逢其时"
+    },
+    {
+      "claim_id": "C-JS-U0028-05",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "10000小时只是必要条件远不充分，不仅要花更要看怎么花",
+      "quote": "一个必要条件而已，远不充分",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1333,
+        "end_line": 1333,
+        "sha1": "53f882296984f182b24a2979c89cca3c706c0d85",
+        "fingerprint": [
+          "必要条件",
+          "怎么花"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "10000小时必要不充分",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "节末'天赋环境努力皆必要不充分，总有更好做法'（1359行）并入本链"
+    },
+    {
+      "claim_id": "C-JS-U0028-06",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "10000小时苦功夫对团队做出好产品同样必要，靠聚焦加加班积累",
+      "quote": "做出一款好的产品也是必要的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1331,
+        "end_line": 1331,
+        "sha1": "e8ea925a24c4173a13fe9271df4e45fe0205ad38",
+        "fingerprint": [
+          "苦功夫",
+          "聚焦"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-2"
+      ],
+      "concept_key": "产品打磨的10000小时",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "亚马逊硅谷负责人'聚焦+加班'说（1331行）"
+    },
+    {
+      "claim_id": "C-JS-U0028-07",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "误区一简单重复：10000小时都花在低层次重复上不会进步",
+      "quote": "都是在从事低层次的重复",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1337,
+        "end_line": 1339,
+        "sha1": "63793d079a439e7fb727431ac2ebe175cce0abba",
+        "fingerprint": [
+          "低层次",
+          "简单重复"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "简单重复误区",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "只会写脚本的程序员终将被淘汰（1339行）"
+    },
+    {
+      "claim_id": "C-JS-U0028-08",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "误区二习惯性失败：简单重复失败走不出怪圈，要总结教训、肯请教",
+      "quote": "重复失败是永远走不出失败的怪圈",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1343,
+        "end_line": 1345,
+        "sha1": "a2912a6c6bef3794d0a18fceb1e34529d67aeaca",
+        "fingerprint": [
+          "习惯性失败",
+          "怪圈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "习惯性失败误区",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "好高骛远、脸皮薄不好意思请教者时间花了很多不见效果"
+    },
+    {
+      "claim_id": "C-JS-U0028-09",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "误区三林黛玉式困境：越精进对外界越排斥，适应性越差",
+      "quote": "一个概念内涵越宽，外延就会越窄",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1351,
+        "end_line": 1351,
+        "sha1": "eda4efd4bbaab3d12dfc3fd6b701c04d4a0fc041",
+        "fingerprint": [
+          "林黛玉",
+          "适应性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D02-2"
+      ],
+      "concept_key": "林黛玉式困境",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概念内涵外延之辨；爱因斯坦费米路越走越宽vs肖克利越走越窄（1351行）"
+    },
+    {
+      "claim_id": "C-JS-U0028-10",
+      "unit_id": "JS-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "误区四狗熊掰棒子：努力需积累效应，第二次要最大限度复用第一次的结果",
+      "quote": "最大限度地复用第一次努力的结果",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1357,
+        "end_line": 1357,
+        "sha1": "dfc2762547f5c0c0d4bf606ccf16cd0174dee00f",
+        "fingerprint": [
+          "积累",
+          "复用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D02-2"
+      ],
+      "concept_key": "狗熊掰棒子",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "希腊科学体系可叠加vs东方工匠体系失传（1357行）；读书做题零散知识点例并入链"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0028",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "1329行'父母的见识就是起跑线''比贫穷更可怕的是缺乏见识、缺乏爱、缺乏规矩'属家庭教育议题，按X5不入卡"
+    },
+    {
+      "unit_id": "JS-U0028",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "1339行'智能时代真正受益于技术进步的个人可能不超过人口2%'为科技时代趋势预测，按X6不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "10000小时辨析：格拉德威尔/罗振宇转述+必要不充分+四误区10卡，家庭与2%预测记X"
+}

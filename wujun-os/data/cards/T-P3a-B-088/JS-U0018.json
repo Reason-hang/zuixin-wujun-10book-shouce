@@ -1,0 +1,149 @@
+{
+  "unit_id": "JS-U0018",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0018-01",
+      "unit_id": "JS-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "好产品的目标必须明确，技术指标围绕目标，其他功能都变次要",
+      "quote": "好产品的目标必须明确",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 885,
+        "end_line": 885,
+        "sha1": "9bf51a0904c751319a24b3a8cfddc7f150c1bd63",
+        "fingerprint": [
+          "目标必须明确",
+          "技术指标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "好产品目标明确",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "四条总结之一；米格-25所有指标针对XB-70轰炸机"
+    },
+    {
+      "claim_id": "C-JS-U0018-02",
+      "unit_id": "JS-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "工程不同于科学，没有绝对正确的答案，只能在现有条件下找最好办法",
+      "quote": "寻找最好的解决办法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 887,
+        "end_line": 887,
+        "sha1": "b21b91612eedcd1cf2494fb2bad6bf4186e328af",
+        "fingerprint": [
+          "工程和科学不同",
+          "条件的成熟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-3"
+      ],
+      "concept_key": "工程无标准答案",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "四条总结之二；工程师不能等待条件成熟，要用现有技术解决实际问题"
+    },
+    {
+      "claim_id": "C-JS-U0018-03",
+      "unit_id": "JS-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "解决一个问题会派生新问题，遇到问题就解决问题；实用设计要取舍，取舍围绕最终目标",
+      "quote": "遇到问题就解决问题",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 889,
+        "end_line": 889,
+        "sha1": "75a13d5070d82972f980cde23812eb1a42e805ad",
+        "fingerprint": [
+          "取舍",
+          "最终的目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "问题解决与取舍",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "四条总结之三"
+    },
+    {
+      "claim_id": "C-JS-U0018-04",
+      "unit_id": "JS-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "目标变了还用原方案是刻舟求剑；好产品用错地方也达不到效果",
+      "quote": "如果用错了地方",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 891,
+        "end_line": 891,
+        "sha1": "230daaf650e0a0c418a28c5176fabb55d4311b3a",
+        "fingerprint": [
+          "刻舟求剑",
+          "用错了地方"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "刻舟求剑与用错工具",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四条总结之四；米格-25被第三世界用于空战表现差为例（891行）"
+    },
+    {
+      "claim_id": "C-JS-U0018-05",
+      "unit_id": "JS-U0018",
+      "speaker": "史实",
+      "claim_text": "米格-25以钢代钛：苏联用聪明才智弥补资源局限造出高性能飞机",
+      "quote": "聪明才智来弥补资源的局限",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 879,
+        "end_line": 881,
+        "sha1": "4a04e450d4638fbcbfd95cb370c8fd1b86bc0a79",
+        "fingerprint": [
+          "米格-25",
+          "弥补资源的局限"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1",
+        "D04-3"
+      ],
+      "concept_key": "米格-25的启示",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "别连科叛逃后美日拆解研究、美国人评价原话（879-881行）；承载机理见本单元01-04卡"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "什么是好的产品：米格-25案例+四条总结判断共5卡"
+}

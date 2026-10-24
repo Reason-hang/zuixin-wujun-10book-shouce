@@ -1,0 +1,66 @@
+{
+  "unit_id": "JS-U0026",
+  "book_code": "JS",
+  "extractor": "EXT-JS2",
+  "batch_id": "T-P3a-B-088",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0026-01",
+      "unit_id": "JS-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "提高效率唯一能控制的是少做事；效率取决于完成了多少而非开始了多少",
+      "quote": "而在于完成了多少",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1247,
+        "end_line": 1247,
+        "sha1": "96497728075e4d0a88c08ea7b5534dd2c7f33773",
+        "fingerprint": [
+          "少做一点事情",
+          "伪工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "效率与少做事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键（CK-0552）；与C-JS-U0027-01互引"
+    },
+    {
+      "claim_id": "C-JS-U0026-02",
+      "unit_id": "JS-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "很多看似非做不可的事想通了并不重要，提高效率要从拒绝伪工作开始",
+      "quote": "都需要从拒绝伪工作开始",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1247,
+        "end_line": 1247,
+        "sha1": "96497728075e4d0a88c08ea7b5534dd2c7f33773",
+        "fingerprint": [
+          "伪工作",
+          "拒绝"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "拒绝伪工作",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "章首立论，开启第四章；无论职场还是生活皆适用"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第四章章首：效率在完成量/少做事+拒绝伪工作2卡"
+}
