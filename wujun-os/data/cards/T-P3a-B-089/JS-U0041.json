@@ -1,0 +1,91 @@
+{
+  "unit_id": "JS-U0041",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0041-01",
+      "unit_id": "JS-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "只考虑收益不考虑风险的人常得不到最好结果；有风险意识者决策稳妥、结果好很多",
+      "quote": "只考虑收益、不考虑风险",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2004,
+        "end_line": 2004,
+        "sha1": "eef6fca7c9e566620feba41a24c6f8add94808b8",
+        "fingerprint": ["收益", "风险"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2"],
+      "concept_key": "风险意识改变策略",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本节核心论点；海外淘货例（行李丢失率0.3%~1%、补缴税、退货三风险折20%加价后省不了钱，1980-2002行）并入：'大家买东西基本按零风险假设，只比较标价'。"
+    },
+    {
+      "claim_id": "C-JS-U0041-02",
+      "unit_id": "JS-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "买债券理财产品不仅要看回报更要看风险：年化6%的理财品未必比复利3%的国库券值得投",
+      "quote": "更要看它们的风险",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2006,
+        "end_line": 2006,
+        "sha1": "35f760e23eb72cb9d630aaa2a21e9b012906e01f",
+        "fingerprint": ["回报", "风险"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "回报与风险并看",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "债券评级AAA到垃圾债26%赖账风险（转述评级体系）并入；'中国卖理财品的人从不告诉你具体风险'。"
+    },
+    {
+      "claim_id": "C-JS-U0041-03",
+      "unit_id": "JS-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "遵守交规不等于安全：要防范他人违规带来的风险，绿灯亮先确认垂直方向无闯灯者再起步",
+      "quote": "防御性驾驶",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2010,
+        "end_line": 2010,
+        "sha1": "b424e387cac4110ad37e9aa225221c7a18769baa",
+        "fingerprint": ["防御性驾驶", "风险"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2"],
+      "concept_key": "防御性驾驶",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "绿灯立即冲出比闯红灯更危险（美交通事故统计）；短道速滑队连吃三届亏后才懂假定对方犯规（2012行）并入：风险意识通用于一切竞争场景。"
+    },
+    {
+      "claim_id": "C-JS-U0041-04",
+      "unit_id": "JS-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "任何好的投资都要建立在控制风险的基础之上",
+      "quote": "建立在控制风险的基础之上",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2016,
+        "end_line": 2016,
+        "sha1": "a7f9d134fb0e7ae5b1a41d6f085db779998bd3ef",
+        "fingerprint": ["控制风险", "投资"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "投资先控风险",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "本节收尾判断，向投资章过渡；与 C-JS-U0040-13 风险意识互引。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第30节风险意识成卡4张：通则（D03-2）2张、投资应用（D09-2）2张；淘货三风险等例证并入母卡。"
+}

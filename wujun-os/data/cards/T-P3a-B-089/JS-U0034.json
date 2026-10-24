@@ -1,0 +1,131 @@
+{
+  "unit_id": "JS-U0034",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0034-01",
+      "unit_id": "JS-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "朗道等级的核心：人和人的能力差距是数量级的差别，而非差一点点",
+      "quote": "是数量级的差别",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1544,
+        "end_line": 1544,
+        "sha1": "bf4db80931413d38093752a2c9521cbd99e276c5",
+        "fingerprint": ["朗道", "数量级"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D01-2"],
+      "concept_key": "朗道等级",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "吴军对朗道物理学家等级的概括句（R1 判 E1，原话未见直引，体系源自朗道）；跨书同概念 CK-0444/CK-0573。用于职业分级语境，候选含 D01-2 量级。"
+    },
+    {
+      "claim_id": "C-JS-U0034-02",
+      "unit_id": "JS-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "仿朗道把工程师分五级：五级独立解决问题，四级化解大问题，三级做盈利产品，二级首创，一级开产业",
+      "quote": "工程师分成了5个等级",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1548,
+        "end_line": 1548,
+        "sha1": "438c5364bed12398445ed1f2dcacc552de49fb19",
+        "fingerprint": ["5个等级", "朗道"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "工程师五级划分",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "清单式框架整体一卡（R3）；跨书近邻 CK-0303（TD 五级专业人士分级）。各级细则见卡03/05；二级如邓锋防火墙、杰夫·迪恩，一级如爱迪生、福特、贝尔（例证并入）；吴军自评2.5级。"
+    },
+    {
+      "claim_id": "C-JS-U0034-03",
+      "unit_id": "JS-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "能熟练应用工程知识独立解决问题、不需他人指导，才算合格的第五级工程师",
+      "quote": "不需要他人指导",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1558,
+        "end_line": 1558,
+        "sha1": "7e7cedec8c3f1d4ed210932557a211c9783a2b12",
+        "fingerprint": ["第五级工程师", "独立"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "五级工程师合格线",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "京东开发找数据工具例并入；'码农'之辨同段。"
+    },
+    {
+      "claim_id": "C-JS-U0034-04",
+      "unit_id": "JS-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "科学家考虑对与错，工程师只在现有条件下考虑好和坏的解决方案",
+      "quote": "考虑好和坏的解决方案",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1564,
+        "end_line": 1564,
+        "sha1": "a76848c9c26f4cb410474f87fed6295b68318835",
+        "fingerprint": ["对和错", "好和坏"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "工程师与科学家之别",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "工程思维原理归 D04-3；海湾大桥与浮桥目标不同方案不同例并入；跨书同概念 CK-0476（GG）。"
+    },
+    {
+      "claim_id": "C-JS-U0034-05",
+      "unit_id": "JS-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "第三级工程师要能带人做出为公司挣得利润的产品，本身必须是最好的产品经理",
+      "quote": "必须是非常好的产品经理",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1574,
+        "end_line": 1574,
+        "sha1": "510c14316b2c2d1da9532f8049a00a627ba0d9a8",
+        "fingerprint": ["产品经理", "利润"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "三级工程师即产品经理",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "三级需市场判断与营销能力；机会来自与上下级的沟通能力（同段）。"
+    },
+    {
+      "claim_id": "C-JS-U0034-06",
+      "unit_id": "JS-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "人有多大的心，就能做多大的事情",
+      "quote": "人有多大的心，就能做多大的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1574,
+        "end_line": 1574,
+        "sha1": "510c14316b2c2d1da9532f8049a00a627ba0d9a8",
+        "fingerprint": ["多大的心", "多大的事情"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-3", "D06-1"],
+      "concept_key": "心有多大事业多大",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军解释为何强调心胸开阔（三级工程师语境），结论句指向认知与人生层次，D01-3 主、D06-1 辅。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第24节五级工程师论点密集，成卡6张（朗道数量级、五级框架、五级线、工程师科学家之别、三级产品经理、心胸做事）。"
+}

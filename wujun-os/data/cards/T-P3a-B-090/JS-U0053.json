@@ -1,0 +1,104 @@
+{
+  "unit_id": "JS-U0053",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0053-01",
+      "unit_id": "JS-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "幸福感和成就不是来回来去选择的结果，而是在没有多少选择时深度经营的结果",
+      "quote": "不选择反而获得幸福",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2582,
+        "end_line": 2582,
+        "sha1": "b37ce08c4c4b7d30493ea10c4f5ead20415a72f0",
+        "fingerprint": ["深度经营", "不选择反而获得幸福"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-4", "D03-1"],
+      "concept_key": "不选择的幸福",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "章末总结句\"精力花在选择而非经营上导致难以精进，少些选择更聚焦更幸福更成功\"（2600）并入本卡。印度婚姻满意度与盖洛普离婚五年幸福感数据为例证。理论来源见 C-JS-U0053-02（奚恺元）。"
+    },
+    {
+      "claim_id": "C-JS-U0053-02",
+      "unit_id": "JS-U0053",
+      "speaker": "转述·第三方",
+      "claim_text": "印度精英在公司的成功，得益于缺乏选择的状态和不选择产生的幸福感和成就感",
+      "quote": "不选择而产生的幸福感",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2572,
+        "end_line": 2572,
+        "sha1": "cde1939d678b61102ac29a605665f853a2d4f4fb",
+        "fingerprint": ["幸福感和成就感", "奚恺元"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-4", "D06-1"],
+      "concept_key": "缺乏选择助成功",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=奚恺元（芝加哥大学商学院，自幸福学角度）；吴军表态\"我认为颇为合理的解释\"。与 C-JS-U0053-01 同一论证链互引（概括/理论来源两卡并存）。"
+    },
+    {
+      "claim_id": "C-JS-U0053-03",
+      "unit_id": "JS-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "机会太多使人不停重新选择、无法安心经营一件事，反而长期在原有职级上停滞",
+      "quote": "在原有的职级上踏步",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2594,
+        "end_line": 2594,
+        "sha1": "432a94e874c2af08c2d2455decde42eb94af75c0",
+        "fingerprint": ["重新选择", "踏步"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D06-1"],
+      "concept_key": "选择过多致停滞",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "谷歌印度裔元老科学家（班加罗尔研究院主管等）专名例证并入；皮柴\"没有选择老实爬楼梯\"为对照例并入。在美中国人因选择太多而浮躁（2596-2598）同一机理。"
+    },
+    {
+      "claim_id": "C-JS-U0053-04",
+      "unit_id": "JS-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "做到顶级需要时间：要长期在一个地方、一个领域努力经营，浮躁换地难以成事",
+      "quote": "做到顶级是需要时间的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2598,
+        "end_line": 2598,
+        "sha1": "553b1eea17074959ed00e49dc4075e8202dc0c47",
+        "fingerprint": ["努力经营", "顶级"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2"],
+      "concept_key": "做到顶级需要时间",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "80年代留学生安心在美国学界成名 vs 近年留学生浮躁为例证；与 CK-0651（TD 短期方法达不成长期目标）同族。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0053",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "印度种姓制度史与婚姻习俗科普（婆罗门四阶层、十几层几十种细分、门当户对从一而终，2574-2578）为纯史实/制度背景，仅服务于\"缺乏选择\"论证。"
+    },
+    {
+      "unit_id": "JS-U0053",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "印度裔高管多于中国裔的流行解释（走出国门早晚、英语能力、西方意识形态防范）及2012年硅谷占比数据（2564-2570）属依附时点的族群现象分析；\"中国教育重理轻文致表达欠缺\"归教育议题一并留此记录。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《不做选择的幸福》核心单元（D02-4 素材线索直指），抽 4 卡（E1×3、E2×1 转述），种姓史与时点性族群分析按 X4/X2 记录。"
+}

@@ -1,0 +1,191 @@
+{
+  "unit_id": "JS-U0038",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0038-01",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "凡事50分靠常识，50到90分靠技术，90到100分靠艺术，每个阶段不能跳跃",
+      "quote": "每一个阶段是不能跳跃的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1856,
+        "end_line": 1856,
+        "sha1": "24d28fbf334346a6915975ae477e98932496f466",
+        "fingerprint": ["常识", "艺术"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1", "D06-2"],
+      "concept_key": "常识科技艺术三段论",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "本节一句话总结（R1 总结句卡）；'做到90分通过努力都能达到，更好则可遇不可求，不必有负担'同段；地基楼层之喻并入。"
+    },
+    {
+      "claim_id": "C-JS-U0038-02",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "衡量专家水平最可靠的方法，是看他化繁为简让每个人能懂，还是故作高深把简单问题复杂化",
+      "quote": "将复杂的问题简单化",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1828,
+        "end_line": 1828,
+        "sha1": "a195d9e4cd72c5a487d69b9f75a04f4cd7f41f5f",
+        "fingerprint": ["专家", "简单化"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "化繁为简辨专家",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "辨别专家水平的判断方法归认知；'真正的大科学家总是谦逊的'同段；巴菲特致股东信倡导常识（转述素材）并入本卡notes。"
+    },
+    {
+      "claim_id": "C-JS-U0038-03",
+      "unit_id": "JS-U0038",
+      "speaker": "转述·第三方",
+      "claim_text": "牛顿认识世界四法则第一条常识性原则：除足够说明现象的真实解释外，不必另找自然界事物的其他原因",
+      "quote": "不必寻找自然界事物的其他原因",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1828,
+        "end_line": 1828,
+        "sha1": "a195d9e4cd72c5a487d69b9f75a04f4cd7f41f5f",
+        "fingerprint": ["牛顿", "常识"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "牛顿常识性原则",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者=牛顿《自然哲学的数学原理》；与 C-JS-U0038-02 同链并存（R1）。"
+    },
+    {
+      "claim_id": "C-JS-U0038-04",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "常识是生活中经千百年验证的知识；真理被大多数人认识后即成常识，二者不矛盾",
+      "quote": "经过千百年验证的经验",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1834,
+        "end_line": 1834,
+        "sha1": "9b4e9d01d9b5359d4022eee6453a9f4eb0291a2a",
+        "fingerprint": ["常识", "真理"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "真理被认识即成常识",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "爱因斯坦'真理就是在经验面前站得住脚的东西'（同段转述素材）并入notes。"
+    },
+    {
+      "claim_id": "C-JS-U0038-05",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "与常识相违的新认知多数是错的；此时不要急于否定常识，要仔细验证甚至请人验证",
+      "quote": "不要急于否定常识",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1836,
+        "end_line": 1836,
+        "sha1": "0a76cc51bc5be898f160c359aedee72b46ad5e4e",
+        "fingerprint": ["常识", "验证"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "勿急于否定常识",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "水变汽油例、伽利略自由落体例并入；'合格科学工作者先检查自己而非制造新闻'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0038-06",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "金融游戏只是把钱换口袋、不可能产生财富，财富最终要靠创造获得",
+      "quote": "财富最终要靠创造才能获得",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1838,
+        "end_line": 1838,
+        "sha1": "50c5093cff01a630de1866281bc1a7684b27e217",
+        "fingerprint": ["金融游戏", "财富"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "财富靠创造不靠金融游戏",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "作为常识应用于钱的领域；'在钱驱使下缺乏常识的理论很有市场'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0038-07",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "科学技术的特点是可重复性：同样条件下重复流程即得一致结果，这是技术的优点",
+      "quote": "具有可重复性",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1842,
+        "end_line": 1842,
+        "sha1": "89652f793b948ec50e619368efd049d07c6bc536",
+        "fingerprint": ["可重复性", "流程"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2"],
+      "concept_key": "技术的可重复性",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "跨书近邻 CK-0403 可复制的成功（FZ）；烧开水的实验、工厂流程、餐馆菜谱例并入；'技术不是万能的，90分后差距越小'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0038-08",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "技术人人可学而艺术靠天赋：顶尖5%靠兴趣与天赋，利益驱动者会遇到瓶颈天花板",
+      "quote": "艺术则要靠天赋",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1848,
+        "end_line": 1848,
+        "sha1": "fb8e9160769a38037fe6ff5a8f89d76654e2ff6b",
+        "fingerprint": ["天赋", "5%"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1", "D01-3"],
+      "concept_key": "艺术靠天赋",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "法拉利兰博基尼手工打磨例（1846行）、苹果手机技术与艺术结合、老中医之'医学艺术'例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0038-09",
+      "unit_id": "JS-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "任何老板都喜欢看似比自己傻的下属，而非耍心眼的人；教人对付老板的成功学有害",
+      "quote": "看似比自己傻的下属",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1852,
+        "end_line": 1852,
+        "sha1": "af95dca7282830751efee8a371030ab26fbe2fd8",
+        "fingerprint": ["老板", "下属"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "老板喜欢实在的下属",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "成功学批判之落点：讲常识只能到50分、违背常识的成功学对读者有害（同段）；'没有常识的人被认为没有情商'（1854行）同链。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第28节常识科技艺术论点密集，成卡9张（含牛顿转述卡1张）。"
+}

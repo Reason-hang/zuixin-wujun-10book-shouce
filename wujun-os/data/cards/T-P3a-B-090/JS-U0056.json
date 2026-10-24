@@ -1,0 +1,131 @@
+{
+  "unit_id": "JS-U0056",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0056-01",
+      "unit_id": "JS-U0056",
+      "speaker": "转述·第三方",
+      "claim_text": "生命有限而知识无限，以有限的生命追求无限的知识，是要失败的",
+      "quote": "以有涯随无涯，殆矣",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2670,
+        "end_line": 2670,
+        "sha1": "3eb1ab691229db35f2129abeb2cea6a43364d3f0",
+        "fingerprint": ["养生主", "无涯"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D01-4"],
+      "concept_key": "生有涯知无涯",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者=庄子（《养生主》开篇）；吴军自陈\"做减法\"即从《庄子》学来，其本人概括见 C-JS-U0056-02，两卡同链互引。"
+    },
+    {
+      "claim_id": "C-JS-U0056-02",
+      "unit_id": "JS-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "人生成功的秘诀在于做减法：跳出常人思维，找出无关紧要的事，下决心放弃",
+      "quote": "人生成功的秘诀在于做减法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2698,
+        "end_line": 2698,
+        "sha1": "6b97a8fed8ef90a440c80814e59b659f649cb01a",
+        "fingerprint": ["做减法", "无关紧要"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "成功秘诀在做减法",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "章末总结句；\"两个优点：跳出思维定式换角度判断重要性、敢于舍弃\"（2674）与习惯性迟到者的思维定式例证（2678）并入。源出庄子（见 C-JS-U0056-01）。"
+    },
+    {
+      "claim_id": "C-JS-U0056-03",
+      "unit_id": "JS-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "你不可能有更多时间；解法是跳出原有思维方式少做事，而非让自己更忙碌",
+      "quote": "跳出原有的思维方式少做事",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2680,
+        "end_line": 2680,
+        "sha1": "e2130b218ffdd3cc8aee61aead171cc294f1f306",
+        "fingerprint": ["少做事", "忙碌"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D06-2"],
+      "concept_key": "效率与少做事",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "概念键对齐既有 CK-0552（JS 同名键）。管理落地\"不胜任者交出一部分事而非加班；同时做几件事收获0、集中做好一件收获1\"与 B 女士（取消应酬备考、十几年只跳一次槽）例证并入；A 女士舍不得舍弃为反例。"
+    },
+    {
+      "claim_id": "C-JS-U0056-04",
+      "unit_id": "JS-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "生命由有限的时间构成，钱超过一定程度后不重要；换取时间必须牺牲经济利益",
+      "quote": "必须牺牲很多经济利益",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2682,
+        "end_line": 2682,
+        "sha1": "409be62ae422fbda0dac0bf49c660960008fdf36",
+        "fingerprint": ["经济利益", "有限的时间"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D02-3"],
+      "concept_key": "以金钱换时间",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "2014 年底辞去谷歌工作为例证（个人经历→判断）；大部分人\"在时间和金钱之间选金钱\"为所破立场。"
+    },
+    {
+      "claim_id": "C-JS-U0056-05",
+      "unit_id": "JS-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "低水平上做多件事，两倍时间只得两倍收益；集中把事做好，两倍时间可得十倍收益",
+      "quote": "两倍的时间可以获得10倍",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2694,
+        "end_line": 2694,
+        "sha1": "fe74bfa73066d0d7ea63ce52e9257c95a3184947",
+        "fingerprint": ["两倍", "10倍"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "低水平多做不如集中做好",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "原文作\"两倍的时间可以获得10倍甚至更多的收益\"；IT 人接私活挣外快水平无长进为例证；吴军自点\"这就是捡芝麻和捡西瓜的关系\"，与 C-JS-U0055-01 互引。"
+    },
+    {
+      "claim_id": "C-JS-U0056-06",
+      "unit_id": "JS-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "小公司资源有限，必须做减法、把人力集中在一个点上，才能短时间领先大公司",
+      "quote": "小公司必须学会做减法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2696,
+        "end_line": 2696,
+        "sha1": "da900f6422fe3695900859df0da355fa1f3fe9a9",
+        "fingerprint": ["做减法", "集中在一个点"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "初创公司做减法",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念键对齐既有 CK-0377/CK-0036（FZ 同族）。硅谷视频识别公司把长清单减到一件事、一年多被亚马逊高价收购为专名例证并入。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《生也有涯知也无涯》为做减法核心单元，抽 6 卡（E1×5、E2×1 转述庄子），个人/管理/创业三层齐备，无整段排除内容。"
+}

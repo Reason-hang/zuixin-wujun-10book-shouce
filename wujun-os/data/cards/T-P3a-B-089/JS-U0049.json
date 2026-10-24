@@ -1,0 +1,64 @@
+{
+  "unit_id": "JS-U0049",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0049-01",
+      "unit_id": "JS-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "对绝大部分人含专业投资人，长期投资回报不会超过市场平均值，靠投资致富并不现实",
+      "quote": "不会比市场的平均值更高",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2390,
+        "end_line": 2390,
+        "sha1": "afdfac7380ccf0f058909ac1f8a26495c9ee6702",
+        "fingerprint": ["平均值", "财富自由"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "不要试图战胜市场",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念键沿用跨书 CK-0280（FZ）；市场平均回报一年7%~8%；与 C-JS-U0042-05 同链互引。"
+    },
+    {
+      "claim_id": "C-JS-U0049-02",
+      "unit_id": "JS-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "年轻人对自己的投资和在职业上的进步，远比在股市捞钱或借钱买房更重要、更靠得住",
+      "quote": "对自己的投资和在职业上的进步",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2392,
+        "end_line": 2392,
+        "sha1": "b3b30e8d2cb94c36cb3bd7eb71af098b0ad42606",
+        "fingerprint": ["投资", "职业"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2", "D02-1"],
+      "concept_key": "投资自己胜过炒股买房",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "'人生最重要的投资'之可迁移结论；'找一个好配偶是至少同样重要的投资'属婚姻议题，见本单元 X5 处置。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0049",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "择偶婚姻转述块（2394-2400行）：摩根'婚姻投资得当'与好妻子三要求、巴菲特两条择偶建议、沙皮拉JDate'70分男生看不到80分以上女生'配对秘诀，均属爱情婚姻议题，按 X5 排除（exclusions.yaml：用户已定暂不需要）。"
+    },
+    {
+      "unit_id": "JS-U0049",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "给男生/女生的择偶与婚姻建议块（2402-2466行）：聪明人欣赏聪明人、夫妻优先于子女与父母、可塑性、恋爱与婚姻之别、'没有老实男生只有对你好不好的'、嫁得早等，属家庭与亲密关系议题，按 X5 排除。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第36节主体为婚姻择偶议题（X5 排除2条），仅开篇两段投资判断成卡2张。"
+}

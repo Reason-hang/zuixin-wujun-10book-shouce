@@ -1,0 +1,110 @@
+{
+  "unit_id": "JS-U0054",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0054-01",
+      "unit_id": "JS-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "人生不仅要做人，也要作诗；仅会做人难以脱颖而出，会作诗方易鹤立鸡群",
+      "quote": "如果还会作诗，便容易鹤立鸡群",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2628,
+        "end_line": 2628,
+        "sha1": "0edc11ea14b85fa2391b61c77befcf21b12a3600",
+        "fingerprint": ["做人", "作诗"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-3", "D02-3"],
+      "concept_key": "做人与作诗",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "作诗性格=只要意境浪漫唯美理想、不失率真、不屑世俗美德；黛玉（作诗/灵性）与宝钗（做人/美德）之辨（2610-2614）为定义性论述并入；\"形容之美终不如举止优雅、腹有诗书\"（2608）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0054-02",
+      "unit_id": "JS-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "世界上不能缺少以生命作诗的人，否则社会和国家都会变得庸俗、失去灵性",
+      "quote": "否则一个社会就是庸俗的社会",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2616,
+        "end_line": 2616,
+        "sha1": "5ecb49390b4042c71bb7c6dcb989d266dcb5e6b6",
+        "fingerprint": ["庸俗的社会", "以生命作诗"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-3"],
+      "concept_key": "社会需要作诗的人",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "屈原李白李商隐、贝多芬托尔斯泰梵高海明威例证与\"作诗的性格在文明进程中的作用不容小觑\"（2618）并入；微信群精英只发红包、\"毕业生太无趣\"（2620）为例证；俞敏洪\"精致的利己主义者\"为转述旁证（教育议题不入主干）。"
+    },
+    {
+      "claim_id": "C-JS-U0054-03",
+      "unit_id": "JS-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "艺术创造力与想象力、梦想和浪漫情怀是机器无法取代的人类天赋，必须用好它",
+      "quote": "上帝赋予的特殊天赋",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2626,
+        "end_line": 2626,
+        "sha1": "8e8aeea453e1cc253784e347850019691d8e3797",
+        "fingerprint": ["艺术", "梦想"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D06-1"],
+      "concept_key": "机器取代不了的艺术与梦想",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "回答\"机器智能取代人后人怎么办\"；古人类学家\"智人是唯一具有梦想能力的物种\"为转述例证并入。主归属按结论句（机器与人的分工）判 D04-2，辅 D06-1（与之相关的职业不惧机器）。"
+    },
+    {
+      "claim_id": "C-JS-U0054-04",
+      "unit_id": "JS-U0054",
+      "speaker": "转述·第三方",
+      "claim_text": "硅谷的成功主要靠林黛玉式的理想主义叛逆行为",
+      "quote": "林黛玉式的理想主义",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2624,
+        "end_line": 2624,
+        "sha1": "199fa217ab958efcecc64d96791bcaa8fa0dd700",
+        "fingerprint": ["林黛玉式", "硅谷的成功"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D10-1", "D08-1"],
+      "concept_key": "硅谷靠理想主义叛逆",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=皮埃罗·斯加鲁菲（《硅谷百年史》作者之一）；吴军自陈倾向保守主义但从心里敬佩此类人。与 C-JS-U0054-02 论证链相连。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0054",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "《红楼梦》阅读经历、黛玉之死的凄美赏析、黛钗印象变化等纯文学赏析与个人轶事（2606-2612 部分），其可迁移结论已入卡，赏析本体按 X8 处置。"
+    },
+    {
+      "unit_id": "JS-U0054",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "两次世界大战之间\"真正左派\"（罗曼·罗兰、茨威格、奥威尔、白求恩、卡帕等保卫马德里）的历史叙述属文明史（X6），仅作\"以生命写诗\"例证。"
+    },
+    {
+      "unit_id": "JS-U0054",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "对当下键盘侠\"伪左派\"、难民安置精英等时点性社会批评（2622-2624），依附当下舆论环境，不入主干。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《做人与作诗》为境界/人生观单元，抽 4 卡（E1×3、E2×1 转述），文学赏析、左派史、时评分别按 X8/X6/X2 记录。"
+}

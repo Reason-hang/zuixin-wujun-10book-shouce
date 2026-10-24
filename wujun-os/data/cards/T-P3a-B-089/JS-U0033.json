@@ -1,0 +1,171 @@
+{
+  "unit_id": "JS-U0033",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0033-01",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "买东西与其为省钱留下遗憾，不如心疼一次出高价，让自己长期满意",
+      "quote": "不如心疼一次，让自己长期满意",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1500,
+        "end_line": 1500,
+        "sha1": "0cb270d262b80081d20232d4aa797112686c4ae9",
+        "fingerprint": ["拍卖", "溢价"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "宁出高价不留遗憾",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "拍卖会出价原则；与卡02/03同一花钱-投资论证链，互引。"
+    },
+    {
+      "claim_id": "C-JS-U0033-02",
+      "unit_id": "JS-U0033",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特：要用合理的价格买好的公司，不要用便宜的价格买平庸的公司",
+      "quote": "合理的价格购买一个好的公司",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1500,
+        "end_line": 1500,
+        "sha1": "0cb270d262b80081d20232d4aa797112686c4ae9",
+        "fingerprint": ["巴菲特", "便宜"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "合理价格买好公司",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特；吴军概括见 C-JS-U0033-03（永远不捡便宜货），两卡同链并存（R1）。"
+    },
+    {
+      "claim_id": "C-JS-U0033-03",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "投资永远不捡便宜货：不在意公司今天股价或估值多少，只在意它是否足够好",
+      "quote": "永远不捡便宜货",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1500,
+        "end_line": 1500,
+        "sha1": "0cb270d262b80081d20232d4aa797112686c4ae9",
+        "fingerprint": ["便宜货", "足够好"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "永远不捡便宜货",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军本人投资原则，借巴菲特语佐证；原话转述见 C-JS-U0033-02。"
+    },
+    {
+      "claim_id": "C-JS-U0033-04",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "谷歌工程成功的奥秘是杀鸡用牛刀：关键岗位开出双倍薪酬由公司挑最好的人",
+      "quote": "杀鸡一定要用牛刀",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1504,
+        "end_line": 1504,
+        "sha1": "937f530483be24e03e092a7692678a419808e704",
+        "fingerprint": ["牛刀", "薪酬"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "杀鸡用牛刀",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "经营方（企业招聘）视角归 D08-1；例证并入：奥科（Franz Och）机器翻译双倍福利包、吴军自用双薪会计师律师；关键岗位一流与三流差数量级。"
+    },
+    {
+      "claim_id": "C-JS-U0033-05",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "几乎没有人靠第一份工作工资发财，多20%的工资毫无意义，该阶段挣多少花多少",
+      "quote": "没有人是靠第一份工作的工资发财",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1508,
+        "end_line": 1508,
+        "sha1": "831e646f91e945b3a4611281a1bc3a86e400a1f5",
+        "fingerprint": ["20%", "工资"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "第一份工资多20%无意义",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "北京名校研究生30万年薪攒房款例（1510行）为时点佐证，不入卡干。"
+    },
+    {
+      "claim_id": "C-JS-U0033-06",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "第一份工作要选能让人极快速成长的：帮你在10年后挣到同学3~5倍收入",
+      "quote": "帮助你在10年后挣到",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1512,
+        "end_line": 1512,
+        "sha1": "e1279b4ce725607cb92c1695f36dcc55dd4a2dc3",
+        "fingerprint": ["3~5倍", "成长"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "第一份工作以成长为目标",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "再择新公司仍以成长为目标而非20%报酬（1514行）；谷歌微软重培养、三年后跳槽例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0033-07",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "第一份工作只图多挣钱而学不到东西，十年下来原地踏步，坏习惯影响一生",
+      "quote": "养成坏习惯，会影响自己一生",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1520,
+        "end_line": 1520,
+        "sha1": "b6caf55a7ec3d1c60effff5b03e33934a8d59c4e",
+        "fingerprint": ["原地踏步", "坏毛病"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "第一份工作的坏习惯害一生",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "面试清华北大'混一圈'者、拒谷歌offer后职级低一级例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0033-08",
+      "unit_id": "JS-U0033",
+      "speaker": "吴军本人",
+      "claim_text": "在乎20%工资的人远多于注重成长的人，这给有志气的人留下了机会",
+      "quote": "给有志气的人留下了机会",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1522,
+        "end_line": 1522,
+        "sha1": "542e9b84d431b23abc15ad4c0b4c8a887a4e3576",
+        "fingerprint": ["20%", "成长"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "在乎工资者众留机会",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "本节收尾判断，与 C-JS-U0033-06 同链。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第23节完整论点单元，含本人判断7张与巴菲特转述1张；北京房价/硅谷住房比例等时点数字仅作例证留痕。"
+}

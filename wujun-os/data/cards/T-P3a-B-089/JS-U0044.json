@@ -1,0 +1,191 @@
+{
+  "unit_id": "JS-U0044",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0044-01",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "为长期稳定增值的投资，效果主要取决于资产的配置，而非选哪只股票或把握哪次机会",
+      "quote": "主要取决于资产的配置",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2190,
+        "end_line": 2190,
+        "sha1": "5a73776678ab2a54be03b4098c276efbf92ddb47",
+        "fingerprint": ["资产的配置", "股票"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "资产配置决定回报",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "本节总论点，由三种策略对比支撑（卡02-04）。"
+    },
+    {
+      "claim_id": "C-JS-U0044-02",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "全部资产押在一两只股票上近于赌博：个股波动巨大、卖点极难选择，难获最大收益",
+      "quote": "这种情况和赌博差不多",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2194,
+        "end_line": 2194,
+        "sha1": "f7aa066e94894b3f47f8a1aa180a207df2be6dd4",
+        "fingerprint": ["赌博", "腰斩"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "全押个股近于赌博",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "微软2000年反垄断败诉腰斩、15年才恢复（时点佐证）；2010年宝洁瞬间暴跌37%带崩大盘（2260行）；吴军卖出百度/Facebook/特斯拉价不及2017年现价33%/70%/50%（2262行，时点数据佐证）。"
+    },
+    {
+      "claim_id": "C-JS-U0044-03",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "拿极小比例资产炒股没有意义：即便选中两年十倍股，对总资产收益的贡献也可忽略",
+      "quote": "浪费时间和交易手续费",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2266,
+        "end_line": 2266,
+        "sha1": "37d6521266eb2623f299f7ca1f71ba02e40d6ece",
+        "fingerprint": ["手续费", "资产"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "小比例炒股无意义",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "朋友0.1%资产买十几只股票例、百度IPO仅分到100股例并入；'有当股市劳模的时间精力，不如做好本职工作或陪家人'。"
+    },
+    {
+      "claim_id": "C-JS-U0044-04",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "散户自己选股几年下来超过指数的可能性非常小，应立足于长期复合增长的回报",
+      "quote": "超过指数的可能性非常小",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2270,
+        "end_line": 2270,
+        "sha1": "b0059565e8a3debb3e58205cdc86c0aca225981f",
+        "fingerprint": ["指数", "散户"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "放弃自己选股",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "散户仅5%跑赢指数、60%亏钱；道指30只与标普500相关性高达99%（选得有代表性则少数组合≈指数）；与 C-JS-U0042-05 同链互引。"
+    },
+    {
+      "claim_id": "C-JS-U0044-05",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "长期复合增长三要诀：用受益经济增长的工具、低迷时有钱买入高涨时收回利润、按个人情况定目标",
+      "quote": "差不到哪里去",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2272,
+        "end_line": 2272,
+        "sha1": "2eb98722d49d294a992c030f465eb20a1a70399a",
+        "fingerprint": ["长期复合增长", "工具"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "长期复合增长三要诀",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3）；'懂得这两条，即使傻子做投资也差不到哪里去'；30年闲钱与5年结婚用钱者目标不同例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0044-06",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "普通人应忘掉风投、金融衍生品、高价值实物等不适合的投资工具，核心是股指基金与国库券",
+      "quote": "不适合自己的投资工具",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2272,
+        "end_line": 2272,
+        "sha1": "2eb98722d49d294a992c030f465eb20a1a70399a",
+        "fingerprint": ["股指基金", "投资工具"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "普通人投资工具取舍",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六条建议之第一/三/四条整合；'黑五类股票'坚决远离（2280行）；'做到6条可获丰厚长期回报、胜过绝大部分专业机构'（2286行）同链收束。"
+    },
+    {
+      "claim_id": "C-JS-U0044-07",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "年轻人决定长居且有能力就该买房：首先考虑使用价值而非投资价值，但不为买而买",
+      "quote": "使用价值，而非它的投资价值",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2274,
+        "end_line": 2276,
+        "sha1": "3ed7d12b72a2c87bca3c84aca9b7fb87b11b8ac2",
+        "fingerprint": ["使用价值", "投资价值"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "买房先看使用价值",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六条建议之二；'为等房价下跌而降低生活质量不合算'、'没能力别硬买致双方家长负债'（2276行）同段。"
+    },
+    {
+      "claim_id": "C-JS-U0044-08",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "按收入、风险承受力与用钱时间将资产按比例配置；股市衰退期可长达20年，临近用钱要稳妥",
+      "quote": "投资反而需要稳妥些",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2282,
+        "end_line": 2282,
+        "sha1": "fb8304f8c72479b7bd8f366e764f5f7e0b947a8e",
+        "fingerprint": ["比例", "衰退期"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "按个人情况配比资产",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六条建议之五；年轻养老者80%指数基金+20%债现不算冒险；1929-33危机30余年恢复、纳指2016年才回2001水平、日本至今未回（时点数据佐证）；'压力下动作会变形'。"
+    },
+    {
+      "claim_id": "C-JS-U0044-09",
+      "unit_id": "JS-U0044",
+      "speaker": "吴军本人",
+      "claim_text": "组合再平衡：股票占比过高时拿回收益；大跌时不割肉反而买入，维持既定比例，每年一次",
+      "quote": "用比较便宜的价格在投资",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2284,
+        "end_line": 2284,
+        "sha1": "490af608ab7d105e5f985587b95d04f8be467e63",
+        "fingerprint": ["比例", "割肉"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "组合再平衡",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六条建议之六；巴菲特'别人贪婪时我恐惧，别人恐惧时我贪婪'（转述，同段）为机理；遇好运感谢上帝别感谢自己。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第33节资产配置成卡9张：总论1+三种策略3+六条建议5；2196-2258为图6-1曲线OCR噪声，无内容可抽。"
+}

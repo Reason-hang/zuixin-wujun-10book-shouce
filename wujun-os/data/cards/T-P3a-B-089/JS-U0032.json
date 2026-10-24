@@ -1,0 +1,31 @@
+{
+  "unit_id": "JS-U0032",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0032-01",
+      "unit_id": "JS-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "人的第一份工作很重要，其性质和成败决定此后职业发展的方向和事业起点",
+      "quote": "第一份工作很重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1488,
+        "end_line": 1488,
+        "sha1": "dcc35aeb24abda165dc31a9494b9880954a4fd39",
+        "fingerprint": ["第一份工作", "事业起点"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "第一份工作定方向",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "第五章引言段的可独立判断（R3）；同链展开见 C-JS-U0033-05/07 互引。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "章引言含可独立成卡的判断（第一份工作的性质成败决定职业方向），成卡 1 张。"
+}

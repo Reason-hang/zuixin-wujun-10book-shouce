@@ -1,0 +1,31 @@
+{
+  "unit_id": "JS-U0039",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0039-01",
+      "unit_id": "JS-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "金钱观不仅会对人的事业产生影响，也会决定人的幸福；会挣钱还要会花钱会理财",
+      "quote": "也会决定人的幸福",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1866,
+        "end_line": 1866,
+        "sha1": "e30f2d290f859971fc246fe24f8b283435546b95",
+        "fingerprint": ["金钱观", "幸福"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "金钱观决定幸福",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "第六章引言的可独立判断（R3）；展开见 U0040 金钱观五条（C-JS-U0040-04）互引；鲁迅金钱观预告在该段，转述卡在 U0040。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "章引言含可独立成卡的判断（金钱观影响事业并决定幸福），成卡1张。"
+}

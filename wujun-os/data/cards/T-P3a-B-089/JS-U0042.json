@@ -1,0 +1,198 @@
+{
+  "unit_id": "JS-U0042",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0042-01",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "人人应学点投资知识：不仅为用钱挣钱，更为在生活中用理性的态度、量化的方法看待处理事情",
+      "quote": "理性的态度、量化的方法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2022,
+        "end_line": 2024,
+        "sha1": "7e071489dfb1b6321cf87eb4703339749b52f96c",
+        "fingerprint": ["投资", "量化"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2", "D01-1"],
+      "concept_key": "学投资的必要性",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "学投资还带来人生智慧（'这份收获有时比经济回报更有意义'）。"
+    },
+    {
+      "claim_id": "C-JS-U0042-02",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "投资先搞清目的：发财、保值、情怀、名声四种人目的不同，采用的策略完全不同",
+      "quote": "采用的策略也会完全不同",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2028,
+        "end_line": 2030,
+        "sha1": "e8cc5d0e38b29eaee04b7f5807eb65f252ec002c",
+        "fingerprint": ["目的", "策略"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "投资围绕目的",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "三个基本问题之一；高盛为'衣食无忧'目标算5%年回报即足、全放国债例（2032行）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0042-03",
+      "unit_id": "JS-U0042",
+      "speaker": "转述·第三方",
+      "claim_text": "老约瑟夫·肯尼迪：为了保住我一半的财产，我愿意放弃掉另一半——保值对大家族最重要",
+      "quote": "我愿意放弃掉另一半",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2028,
+        "end_line": 2028,
+        "sha1": "299db769b9e06f643dae904258de85542ec68b7d",
+        "fingerprint": ["财产", "保住"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "保住一半放弃一半",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=老约瑟夫·肯尼迪（约翰·肯尼迪总统之父、美国成功投资人）；支持 C-JS-U0042-02 保值目的。"
+    },
+    {
+      "claim_id": "C-JS-U0042-04",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "投资要用钱挣钱，而不是拿自己的钱没完没了交学费；两年零回报也是交学费",
+      "quote": "没完没了地交学费",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2034,
+        "end_line": 2034,
+        "sha1": "5c7f47af6264e8ad0239b209673324c8e32beda4",
+        "fingerprint": ["交学费", "挣钱"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "投资不交学费",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "'存银行或买国库券都能得到更多钱，两年不涨就是交学费'；'忘了投资目的——赚钱而不是交学费'（2036行）同链。"
+    },
+    {
+      "claim_id": "C-JS-U0042-05",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "全世界任何国家任何时期，瞎折腾的股民很少有人做得比大盘更好",
+      "quote": "很少有人做得比大盘更好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2036,
+        "end_line": 2036,
+        "sha1": "41239474b6ab9eb9f87e2085dcfeb3cfdaba2380",
+        "fingerprint": ["大盘", "折腾"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "不要试图战胜市场",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念键沿用跨书 CK-0280（FZ）；1990-2017年中国股指基金1元变30元、年化13%-15%为时点行情数据，仅作本卡佐证不入卡干（X2敏感留痕）。"
+    },
+    {
+      "claim_id": "C-JS-U0042-06",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "按全世界资本市场几百年数据，年均回报做到8%就不错；把目标定得更高会适得其反",
+      "quote": "年均回报率能够做到8%就不错了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2038,
+        "end_line": 2038,
+        "sha1": "b3ffd7b876aabc8c4aa2b57e582f754f023e0c8a",
+        "fingerprint": ["8%", "目标"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "年均回报8%已属不易",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "目标如健身举重过重只会受伤之喻；20/30年复利测算（68.3万/136万元）为演示数据；'想提前10年达成不能靠投资，要靠事业发展'（2042行）同链。"
+    },
+    {
+      "claim_id": "C-JS-U0042-07",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "投资工具主要有六类：可流通股票、债券、不动产、风险投资基金、金融衍生品、高价值实物",
+      "quote": "投资挣钱的工具",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2046,
+        "end_line": 2056,
+        "sha1": "63f5529aab5e011a116c8e41787f3b28a12cb9e4",
+        "fingerprint": ["投资的对象", "6类"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "六类投资工具",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3）；原文'6类'，卡干用通行写法。"
+    },
+    {
+      "claim_id": "C-JS-U0042-08",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "风险低的投资回报肯定不高，风险高的回报未必高；低风险高回报是天方夜谭",
+      "quote": "风险低的投资，回报肯定不会高",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2060,
+        "end_line": 2060,
+        "sha1": "63800d0aa43ff0638b495b24739653f528297ea9",
+        "fingerprint": ["回报", "风险"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "低风险高回报是天方夜谭",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "夏普比率=（投资回报-无风险回报）/波动性标准差（威廉·夏普提出，转述概念）作量化支撑；表6-1各国夏普比率（美0.47最高、中国0.22第二）为10年时点数据仅佐证。"
+    },
+    {
+      "claim_id": "C-JS-U0042-09",
+      "unit_id": "JS-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "投资除回报与风险外，还必须考虑流动性（变现便利性）与准入成本（手续费税费）",
+      "quote": "投资时还必须考虑两个重要因素",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2110,
+        "end_line": 2116,
+        "sha1": "c767ab63d20ed819bf1f70ceae0442a8770929c4",
+        "fingerprint": ["流动性", "准入成本"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "流动性与准入成本",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "存款流动性最好、中国房市流动性差、收藏品手续费高例并入；'准入成本3%而回报8%，一小半收益给了中介'。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0042",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "1990年起买中国股指基金1元变30元、年均13%-15%（2036行）为依附时点的行情论断，不入卡干；其可迁移逻辑已由 C-JS-U0042-05（勿瞎折腾）承载并标稳定度。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第31节投资三基本问题成卡9张（含老肯尼迪转述卡1张），另有1条时点行情数据记 X2 处置。"
+}

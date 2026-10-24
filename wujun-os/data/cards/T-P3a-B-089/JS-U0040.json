@@ -1,0 +1,271 @@
+{
+  "unit_id": "JS-U0040",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0040-01",
+      "unit_id": "JS-U0040",
+      "speaker": "转述·第三方",
+      "claim_text": "鲁迅：人一要生存，二要温饱，三要发展；生存非苟活、温饱非奢侈、发展非放纵",
+      "quote": "一要生存，二要温饱，三要发展",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1872,
+        "end_line": 1872,
+        "sha1": "1ed37c55bdcd2360de93251f962d85a0291551e2",
+        "fingerprint": ["生存", "温饱"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-3", "D09-1"],
+      "concept_key": "生存温饱发展",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=鲁迅；概念键沿用跨书 CK-0623（TD）；吴军以此引出金钱观（'鲁迅是很实在的人'）。"
+    },
+    {
+      "claim_id": "C-JS-U0040-02",
+      "unit_id": "JS-U0040",
+      "speaker": "转述·第三方",
+      "claim_text": "鲁迅：经济是最要紧的；自由固不是钱所能买到的，但能够为钱而卖掉",
+      "quote": "自由固不是钱所能买到的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1882,
+        "end_line": 1886,
+        "sha1": "2fdd61b25d9a6a9cc830d6e763281f76795adffc",
+        "fingerprint": ["经济", "自由"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "娜拉走后要有钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=鲁迅《娜拉走后怎样》（易卜生《玩偶之家》之评）；吴军自陈赞同'没有钱是万万不能的'（1888行）。"
+    },
+    {
+      "claim_id": "C-JS-U0040-03",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "不要因别人辞职退学发财就置之死地求后生：置之死地后大部分情况是死掉了",
+      "quote": "置之死地后大部分情况是死掉了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1888,
+        "end_line": 1888,
+        "sha1": "10e4419c6fa53f8c5bc50af4cb48f954e881b863",
+        "fingerprint": ["置之死地", "退学"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "置之死地多数死掉",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "盖茨、佩奇、布林、扎克伯格是先找到挣钱方法才退学，因果不能颠倒；'饭碗可以跟理想分开'（鲁迅语，1874行）同链留痕。"
+    },
+    {
+      "claim_id": "C-JS-U0040-04",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "金钱观五句话：钱是上帝存你那里要还、花出去才是你的、为生活更好、靠挣不靠省、花不光但可迅速投光",
+      "quote": "钱是上帝存在你那里的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1890,
+        "end_line": 1900,
+        "sha1": "dc73a7f440d2bc31067e53cd20f59be40bcd0168",
+        "fingerprint": ["5句话", "上帝"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "金钱观五句话",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3）；逐条展开见卡06-12；条1论证'巨额遗产只有花掉、交国家慈善、留给他人三个去处，没有第四个去处'（1910-1918行）并入本卡notes。"
+    },
+    {
+      "claim_id": "C-JS-U0040-05",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "钱是对各种资源所有权和使用权的量化度量，钱的多少反映能调动社会资源的总量",
+      "quote": "所有权和使用权的量化度量",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1938,
+        "end_line": 1940,
+        "sha1": "658aab2a24410a430a33aae20c54add1bdfc2fb5",
+        "fingerprint": ["量化度量", "社会资源"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "钱是资源的量化度量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "钻石、土地、买汽车即买工人时间、腾讯游戏例并入；100万存款者可调动资源为1万者的100倍。"
+    },
+    {
+      "claim_id": "C-JS-U0040-06",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "钱只有花出去才是你的：有效花钱等于有效利用社会资源，是可能获得更多钱的良性循环",
+      "quote": "钱只有花出去才是自己的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1942,
+        "end_line": 1942,
+        "sha1": "08815ff4ffc681d6ee82c0b0443079f328d4da2e",
+        "fingerprint": ["良性循环", "资源"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "钱花出去才是你的",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "五条第2条展开；舍不得花钱享受精神产品即失去利用资源进步的可能；浪费钱（烧掉/股市烧掉）即放弃资源使用权。"
+    },
+    {
+      "claim_id": "C-JS-U0040-07",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "让钱发挥最大效能的办法是利用它把今天过好；要留应急积蓄，但别为攒钱牺牲当下生活",
+      "quote": "利用它把今天过好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1944,
+        "end_line": 1944,
+        "sha1": "999737786e48ae8d8f25307e1eccf9f0f91fe40c",
+        "fingerprint": ["今天", "积蓄"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "用钱把今天过好",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "昨天是沉没成本、未来有太多不确定性、'未来是在今天的基础上发展的'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0040-08",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "钱和任何好东西都应让生活更好：追求前先问它是让生活更好还是带来麻烦，代价是生活质量变差就不要",
+      "quote": "是让我的生活变得更好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1950,
+        "end_line": 1950,
+        "sha1": "0223f135853f1f34896b5006accafd7b761e1e4f",
+        "fingerprint": ["好东西", "麻烦"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "好东西不该带来麻烦",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "五条第3条展开；为炫耀买奢侈品、卖肾换iPhone、大房子节衣缩食、藏包不用例（1952行）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0040-09",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "钱是靠挣出来的，不是靠省出来的：有省钱的心思，不如多花工夫去挣钱",
+      "quote": "钱是靠挣出来的，不是靠省出来的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1960,
+        "end_line": 1960,
+        "sha1": "e47e6d4a4da8ff8c02a129725aa07fd2ef5b4c57",
+        "fingerprint": ["靠挣出来的", "省钱"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "钱靠挣不靠省",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "五条第4条前半；'用5元钱办不成10元钱的事'同段；年薪翻倍仍不够花的心理调查并入。"
+    },
+    {
+      "claim_id": "C-JS-U0040-10",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "挣钱秘诀是掌握大部分人不会的技能：稀缺资源才值钱，人人都会的技能不值钱",
+      "quote": "必须掌握一些大部分人不会的技能",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1968,
+        "end_line": 1968,
+        "sha1": "6a2b457f2339f1012b36ec81017812f87245e6ed",
+        "fingerprint": ["稀缺资源", "技能"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1", "D02-2"],
+      "concept_key": "稀缺技能决定挣钱效率",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "五条第4条后半（挣钱效率取决于气度）；延长工时最多多挣一倍（1962-1966行）留痕；'英语计算机将贬值'为预测成分，仅作例证不入卡干（X2敏感）。"
+    },
+    {
+      "claim_id": "C-JS-U0040-11",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "能力有极限：超过自己能力去挣钱，即使有收获，各种成本也太高，并不合算",
+      "quote": "超过自己的能力去挣钱",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1928,
+        "end_line": 1928,
+        "sha1": "e83234325411b5f94184a215a36deac900e74a15",
+        "fingerprint": ["极限", "成本"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "超越能力挣钱不合算",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "孔子'不逾矩'（转述）、巴尔扎克拼命工作40岁垮掉例并入；'前半生用命换钱'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0040-12",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "钱靠消费花不光，但可因投资投机迅速败光；大家族破产无一例外因投资不当",
+      "quote": "钱是花不光的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1970,
+        "end_line": 1972,
+        "sha1": "4291612749cccc4d725129b17b68629d64c32c00",
+        "fingerprint": ["投资", "破产"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "钱花不光能投光",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "五条第5条；马克·吐温乱投资、麦克莱恩石油投资失败、亨特兄弟白银豪赌（E3素材）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0040-13",
+      "unit_id": "JS-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "投资不当败光是命不好，而命不好源于思维方式有问题；做人做事永远要有风险意识",
+      "quote": "命不好是因为思维方式有问题",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1974,
+        "end_line": 1974,
+        "sha1": "ecc44b9f6da12442ff99c79c38ccb5554abab836",
+        "fingerprint": ["风险意识", "思维方式"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D09-2"],
+      "concept_key": "命不好源于思维方式",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "命运观归 D02-3 主、投资语境辅 D09-2；'想赚钱时恰是利令智昏时'同段；与 U0041 风险意识章互引。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第29节金钱观为全书核心节之一（6032字），成卡13张：本人11张、鲁迅转述2张；五条清单整体成卡后逐条展开。"
+}

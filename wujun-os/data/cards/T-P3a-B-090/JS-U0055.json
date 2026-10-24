@@ -1,0 +1,91 @@
+{
+  "unit_id": "JS-U0055",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0055-01",
+      "unit_id": "JS-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "心思一旦放到捡芝麻上，就永远失去捡西瓜的可能性；捡得再勤劳也捡不出西瓜的重量",
+      "quote": "永远失去了捡西瓜的可能性",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2648,
+        "end_line": 2648,
+        "sha1": "448e8b243fd907f59925a9fa5589de9ed18952b0",
+        "fingerprint": ["捡芝麻", "捡西瓜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "捡西瓜不捡芝麻",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "概念键对齐既有 CK-0543（TD 同名键）。王妈妈/郭台铭故事（2636-2640）、抢红包双十一代购等生活例证（2644-2648）、\"人一旦心志变低就很难提升\"、结尾\"大家喜欢捡芝麻所以西瓜留给有智慧的人\"（2662）均并入本卡。"
+    },
+    {
+      "claim_id": "C-JS-U0055-02",
+      "unit_id": "JS-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "人一旦习惯简单、重复、低价值的工作，真正有创造性的工作就做不来了",
+      "quote": "真正有创造性的工作就做不来了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2650,
+        "end_line": 2650,
+        "sha1": "e9c64520a6f61b227e6f1a21d26da74fb8b22caf",
+        "fingerprint": ["伪工作者", "创造性"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-2", "D03-1"],
+      "concept_key": "低价值工作锁死创造力",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "伪工作者即捡芝麻的典型（与既有 CK-0335 伪工作者同族不同判断）；2016 阿里抢月饼事件为例证；总结句\"糟糕的思维方式和衡量价值的标准决定人不幸的命运\"并入。"
+    },
+    {
+      "claim_id": "C-JS-U0055-03",
+      "unit_id": "JS-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "公司见别人在某领域挣钱就跟风涉足，只分得芝麻份额得不偿失，不如发挥自己专长",
+      "quote": "不如把自己的专长发挥好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2654,
+        "end_line": 2654,
+        "sha1": "8b0a01144e615b57385a9798f09f78cd2fa16e3c",
+        "fingerprint": ["市场份额", "专长"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "专长胜于跟风",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "雅虎产品无数而无世界第一（2652）为专名例证；苹果产品线一巴掌数得过来、乔布斯给项目画叉只留个位数产品（2656）为对照例证，均并入。"
+    },
+    {
+      "claim_id": "C-JS-U0055-04",
+      "unit_id": "JS-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "捡西瓜靠长期培养的能力而非运气：把心思聚焦到一点，练就捡西瓜的能力",
+      "quote": "练就捡西瓜的能力",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2658,
+        "end_line": 2658,
+        "sha1": "38cd26f816f0da9fc5659aaefbf7f8fe5b3e61fc",
+        "fingerprint": ["长期培养", "聚焦"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D06-1"],
+      "concept_key": "练就捡西瓜的能力",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "\"能力晋级一个台阶，贡献、职责、影响力增加一个数量级\"与 CK-0444（朗道等级）同族；\"耐得住寂寞\"\"满眼芝麻就没机会练捡西瓜能力\"并入。辅 D06-1 取职业晋级数量级之意。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《西瓜与芝麻》为 D03-1 取舍核心单元，抽 4 卡（全部 E1），个人/职场/公司三层论点齐备，无整段排除内容。"
+}

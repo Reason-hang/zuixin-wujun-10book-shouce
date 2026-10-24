@@ -1,0 +1,171 @@
+{
+  "unit_id": "JS-U0036",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0036-01",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "很多职业员工对事物贴得太近，只看到色块而忽略整幅画，缺乏大局观",
+      "quote": "只看到色块，而忽略了整幅画",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1686,
+        "end_line": 1686,
+        "sha1": "f97cd86fb2ea717e1ca72e1b6c04704a5bd97463",
+        "fingerprint": ["色块", "整幅画"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "只见色块不见画",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "达利《林肯》画之喻；'专业水平高却得不到提拔，因为缺乏大局观'（1732行）同链收束。"
+    },
+    {
+      "claim_id": "C-JS-U0036-02",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "从业者不了解所做产品的基本收入情况，就永远没有机会成为老板，产品失败也措手不及",
+      "quote": "永远没有机会成为老板",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1708,
+        "end_line": 1712,
+        "sha1": "24dac025e8ecf8118a1fabbd4cc9a158c9e877a5",
+        "fingerprint": ["基本收入情况", "成为老板"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "从业者须懂产品盈利",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "视频工程师答不出广告费例；产品不盈利的三个结局（1710行）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0036-03",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "最有效的沟通是在第一时间直接给出答案，然后补充解释，而不是绕开问题堆砌信息",
+      "quote": "在第一时间直接给出答案",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1718,
+        "end_line": 1718,
+        "sha1": "ba4533da56af63cc94ab17d04e50bf6439041cde",
+        "fingerprint": ["第一时间", "答案"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-1"],
+      "concept_key": "先给答案再解释",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "沟通机制归 D07-1；工程师'挤牙膏'式答问反例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0036-04",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "善于沟通的人会理解对方提问的目的并提供有用信息，而非按自己意思解释字面问题",
+      "quote": "理解对方提问的目的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1722,
+        "end_line": 1722,
+        "sha1": "642ed5906f78ceab77dcd5cbd9593a87116d1d75",
+        "fingerprint": ["提问", "信息"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-1"],
+      "concept_key": "理解提问的目的",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "龚宇估算网红节目收入例并入；律师答专利周期无信息量反例（1724-1730）留痕。"
+    },
+    {
+      "claim_id": "C-JS-U0036-05",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "关注细节必须以能把握住全局为前提；动态范围不大时直接给出大致范围即可",
+      "quote": "以能够把握住全局为前提",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1720,
+        "end_line": 1720,
+        "sha1": "d6d7eeaed5389d329456d7e327a16aa39a6cc726",
+        "fingerprint": ["细节", "全局"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D01-2"],
+      "concept_key": "细节以全局为前提",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "点击率0.1%~2%直接答'1%左右'例；与卡01大局观链互引。"
+    },
+    {
+      "claim_id": "C-JS-U0036-06",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "为让对方重视而夸大其词常适得其反：10分的事吹成100分，被识破后评价只剩1分",
+      "quote": "这种做法常常适得其反",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1738,
+        "end_line": 1740,
+        "sha1": "f38f8dacb71ba79478c699401740c1514539c3be",
+        "fingerprint": ["夸大其词", "适得其反"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-1", "D06-3"],
+      "concept_key": "夸大其词适得其反",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "讲不清想法两原因（脑子不清、怕说小了）；12个路演项目5-6分钟讲背景例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0036-07",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "领导不了解细节，部门就不可能有高效率；做到第5级需了解第3级的工作",
+      "quote": "需要了解第3级的工作",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1748,
+        "end_line": 1748,
+        "sha1": "daa9834f2d5857107135f2435257898b74a6c363",
+        "fingerprint": ["细节", "效率"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "管理者要了解细节",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "例证并入：奥本海默了解几乎每个细节成最好老板、韦尔奇同；总监为提升扩张队伍把小事做大（1746行）。"
+    },
+    {
+      "claim_id": "C-JS-U0036-08",
+      "unit_id": "JS-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "基层的员工要抬起头看大局，而管理者要弯下腰了解细节",
+      "quote": "管理者要弯下腰",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1752,
+        "end_line": 1752,
+        "sha1": "ab829501a639168ff3331fa784f3d299ca477d92",
+        "fingerprint": ["抬起头", "弯下腰"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D06-3"],
+      "concept_key": "员工抬头管理者弯腰",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "本节一句话总结（R1 总结句卡）；'只从空中俯瞰森林只能看到一片绿'之喻并入。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第26节职业员工与管理者的两件事论点密集，成卡8张（大局观3、沟通3、管理2）。"
+}

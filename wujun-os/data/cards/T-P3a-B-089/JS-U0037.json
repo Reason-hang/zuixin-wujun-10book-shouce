@@ -1,0 +1,171 @@
+{
+  "unit_id": "JS-U0037",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0037-01",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "在自身可控因素中，立意至关重要：目标设置错了，结果肯定好不到哪里去",
+      "quote": "立意至关重要",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1764,
+        "end_line": 1764,
+        "sha1": "d3a95ebb2e669c9a161e139ad72184f28db97979",
+        "fingerprint": ["立意", "目标"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "立意至关重要",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "职业天花板语境；走多远由可控与不可控因素构成，只在可控处下功夫。"
+    },
+    {
+      "claim_id": "C-JS-U0037-02",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "秦孝公弃帝道王道选霸道，立意错误：短期速效却让秦国走入死胡同",
+      "quote": "速效却危险的策略",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1782,
+        "end_line": 1782,
+        "sha1": "8a4bba90eb3eb0c7039a77abd3b588ebcf0c29c8",
+        "fingerprint": ["帝道", "霸道"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "帝道王道霸道",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "史实素材（E3）：《史记》商鞅三说孝公（帝道/王道/霸道），暴秦统一后20年而亡；吴军按'立意错误'评述成 E1 卡；'今天追求速效霸道的人仍占大多数'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0037-03",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "拿破仑的成就源于一开始把立意定在确立现代国家，追求帝道而非军功征服",
+      "quote": "追求的是帝道而不是霸道",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1794,
+        "end_line": 1794,
+        "sha1": "aff75220d6e6221e9cf3dc4ac294d2a0bf1174bf",
+        "fingerprint": ["法典", "帝道"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "拿破仑重法典轻军功",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军对拿破仑立意的概括（R1）；102次宪法讨论会亲自主持97次等史实并入；跨书同概念 CK-0539（TD）；拿破仑临终原话见 C-JS-U0037-04。"
+    },
+    {
+      "claim_id": "C-JS-U0037-04",
+      "unit_id": "JS-U0037",
+      "speaker": "转述·第三方",
+      "claim_text": "拿破仑临终言：40次战争胜利的光荣被滑铁卢抹去，永垂不朽的是我的法典",
+      "quote": "这就是我的法典",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1794,
+        "end_line": 1794,
+        "sha1": "aff75220d6e6221e9cf3dc4ac294d2a0bf1174bf",
+        "fingerprint": ["法典", "帝道"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "拿破仑重法典轻军功",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=拿破仑（临终感慨）；与吴军概括卡 C-JS-U0037-03 同链并存（R1）。"
+    },
+    {
+      "claim_id": "C-JS-U0037-05",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "用短期的方法达成长期的目标是不可能的；不存在不需投入就有高回报的行业，否则拥挤致回报骤降",
+      "quote": "短期的方法达到长期的目标",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1796,
+        "end_line": 1796,
+        "sha1": "7607ce4a8338bc9d30238e4ce8c4988df367897c",
+        "fingerprint": ["短期", "长期"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D06-1"],
+      "concept_key": "短期方法达不成长期目标",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念键沿用跨书 CK-0651（TD）；外贸、金融数学拥挤贬值例并入。"
+    },
+    {
+      "claim_id": "C-JS-U0037-06",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "求其上者得其中，求其中者得其下：追求的层次本身在中下，就不可能靠运气不断进步",
+      "quote": "求其上者得其中",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1802,
+        "end_line": 1802,
+        "sha1": "0d7eaf5e0ebdd31d96c1b230573195eae85790ef",
+        "fingerprint": ["求其上", "层次"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D01-3"],
+      "concept_key": "求其上者得其中",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "古语为引，判断为吴军所用；欧美日大学生平均一生仅两次升迁（同段统计）留痕。"
+    },
+    {
+      "claim_id": "C-JS-U0037-07",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "突破职业天花板的办法是自我通识教育：博雅教育带来的广视野使人后来居上",
+      "quote": "自我的通识教育",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1808,
+        "end_line": 1810,
+        "sha1": "3c0354262b5b98552ce4d259e0fbeafffc79f683",
+        "fingerprint": ["通识教育", "博雅教育"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "通识教育破天花板",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "职业发展方法论（非教育制度批评，不落 X5）；美国名校人文教育者10年后收入反超工学院毕业生例；'叶公好龙、只盯专业则10000小时精进也只两次提升'（1812行）同链。"
+    },
+    {
+      "claim_id": "C-JS-U0037-08",
+      "unit_id": "JS-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "人必须掌握专业之外的知识，眼界才开阔，才能与人合作、调动更多资源",
+      "quote": "专业之外的知识",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1814,
+        "end_line": 1814,
+        "sha1": "bc62ddd971805d1cbb8ee40367900c9d0c3100be",
+        "fingerprint": ["专业之外", "眼界"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D01-2"],
+      "concept_key": "掌握专业之外的知识",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "'早已不是一个人关起门搞定一切的时代'；与 C-JS-U0037-07 通识教育链互引。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第27节帝道王道霸道论点密集，成卡8张（含拿破仑临终言转述卡1张）；商鞅、拿破仑史实并入对应卡notes。"
+}

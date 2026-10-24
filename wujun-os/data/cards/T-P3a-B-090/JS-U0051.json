@@ -1,0 +1,178 @@
+{
+  "unit_id": "JS-U0051",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0051-01",
+      "unit_id": "JS-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "生命有限没有时间什么都做：向死而生，倒着思考，从最重要的事做起，舍弃别人能替代的事",
+      "quote": "向死而生",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2532,
+        "end_line": 2532,
+        "sha1": "5cf70faa581eccf9f929680c269d8143623f9c3a",
+        "fingerprint": ["向死而生", "倒着来思考"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D03-1"],
+      "concept_key": "向死而生",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "含操作法：列单子从最重要做起、舍弃\"对社会对历史无增益、别人也能做\"的事。开篇\"该态度让工作生活有效率\"（2520）并入本卡。辅 D03-1（优先级取舍）。"
+    },
+    {
+      "claim_id": "C-JS-U0051-02",
+      "unit_id": "JS-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "除死无大难：遇到困难、挫折和失败就想我还活着，活着就有希望",
+      "quote": "活着就有希望",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2532,
+        "end_line": 2532,
+        "sha1": "5cf70faa581eccf9f929680c269d8143623f9c3a",
+        "fingerprint": ["除死无大难", "活着就有希望"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-4"],
+      "concept_key": "活着就有希望",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "金融危机一天损失20%财富仍吃好睡好为例证（并入不另立）；与 C-JS-U0051-01 同锚点不同判断。"
+    },
+    {
+      "claim_id": "C-JS-U0051-03",
+      "unit_id": "JS-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "应酬占用的时间是被拿走的一部分生命；应按重要性安排事，应酬就免了",
+      "quote": "被拿走了一部分生命",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2534,
+        "end_line": 2534,
+        "sha1": "b5e692ea41a3528af47034b4766b5a9c29a05b34",
+        "fingerprint": ["应酬就免了", "一部分生命"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D02-3"],
+      "concept_key": "应酬拿走的是生命",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "与既有 CK-0552（JS 效率与少做事）相邻但独立：本卡论时间即生命的取舍，彼卡论少做事效率。"
+    },
+    {
+      "claim_id": "C-JS-U0051-04",
+      "unit_id": "JS-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "与其过分看重临终一两周，不如把健康的几十年活好；珍视生命从平时点滴做起即延寿",
+      "quote": "从平时一点一滴做起",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2540,
+        "end_line": 2540,
+        "sha1": "81b76da8192bc609cda415bfba77a4ef630b30d7",
+        "fingerprint": ["一点一滴", "延长了我们的寿命"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D02-4"],
+      "concept_key": "珍视生命在平时",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "绝症末段医药费超一生总和、美国生前遗嘱等例证（2536-2538）并入；医学界\"与其生不如死多活两月\"为转述旁证，不立卡。"
+    },
+    {
+      "claim_id": "C-JS-U0051-05",
+      "unit_id": "JS-U0051",
+      "speaker": "转述·第三方",
+      "claim_text": "对死亡的恐惧莫名其妙：站在\"有\"的世界，用\"有\"的逻辑去理解\"无\"的问题",
+      "quote": "对死亡的恐惧有点儿莫名其妙",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2528,
+        "end_line": 2528,
+        "sha1": "569961046001a65f5c4f6de6919321d25290c677",
+        "fingerprint": ["死亡的恐惧", "时空的智者"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D01-4"],
+      "concept_key": "以有解无的死亡恐惧",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者=爱因斯坦（与其朋友的谈话）；吴军评述称其为\"看穿了时空的智者\"，持认同态度。"
+    },
+    {
+      "claim_id": "C-JS-U0051-06",
+      "unit_id": "JS-U0051",
+      "speaker": "转述·第三方",
+      "claim_text": "人人都在排着队走向死亡、停不下来；与其伤感，不如让整个队伍充满欢乐",
+      "quote": "整个队伍便充满了欢乐",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2530,
+        "end_line": 2530,
+        "sha1": "0a521de8fabd8f550444e42da1b681c185eb31de",
+        "fingerprint": ["排着队", "充满了欢乐"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-3", "D02-4"],
+      "concept_key": "人生排队说",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=周国平；吴军明确表态\"我想，我们的生活其实就应该是这样的\"。梁实秋\"人一出生死期已定\"为对比引子（伤感态度，吴军不取），不立卡。"
+    },
+    {
+      "claim_id": "C-JS-U0051-07",
+      "unit_id": "JS-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "生命没那么重要：在有限生命里把遗传信息和创造出的知识传递下去，生命已相当完美",
+      "quote": "生命已经相当完美",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2542,
+        "end_line": 2542,
+        "sha1": "fe70cec12fcb1ed0c500276caf0b4f7ff026d0c5",
+        "fingerprint": ["遗传的信息", "相当完美"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "生命在于传递信息",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "建立在道金斯\"人是基因载体\"转述（同段）之上；\"死亡是人对社会的最后一次贡献\"借自一位基督徒之言，吴军认同，并入本卡。"
+    },
+    {
+      "claim_id": "C-JS-U0051-08",
+      "unit_id": "JS-U0051",
+      "speaker": "转述·第三方",
+      "claim_text": "只有癌细胞不死，但不死的细胞会害死整个机体；人若不死，社会就要死亡",
+      "quote": "只有一种细胞不死",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2542,
+        "end_line": 2542,
+        "sha1": "fe70cec12fcb1ed0c500276caf0b4f7ff026d0c5",
+        "fingerprint": ["癌细胞", "整个机体"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D01-4"],
+      "concept_key": "不死的癌细胞喻",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者=凯文·凯利；吴军取用以论证\"没有个体的死亡，就没有整体的发展\"（该取用见 C-JS-U0051-07 notes）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0051",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "延寿科技与绝症医疗背景叙述（寿命极限115岁、基因编辑无法逆转衰老、Calico/库兹韦尔永生企图、晚期癌症特效药仅延两三个月等，2522-2526、2536-2538）属医学科技背景，无可独立归属的支柱判断，仅作人生态度卡的语境，按 X8 记录。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《向死而生》为人生观核心单元（D02-3 素材线索直指），抽 8 卡（E1×5、E2×3 转述），延寿医学背景按 X8 记录。"
+}

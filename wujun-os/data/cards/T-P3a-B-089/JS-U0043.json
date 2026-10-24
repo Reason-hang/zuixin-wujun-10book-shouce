@@ -1,0 +1,171 @@
+{
+  "unit_id": "JS-U0043",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0043-01",
+      "unit_id": "JS-U0043",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特强调：长期成功的投资，关键不在于把握了多少次机会，而在于能否少犯错误",
+      "quote": "关键不在于是否把握了多少次机会",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2124,
+        "end_line": 2124,
+        "sha1": "b0c165edb3b14fddb15c266257fce8a60281c8dd",
+        "fingerprint": ["巴菲特", "错误"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "少犯错误重于抓机会",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（吴军转述其长期强调的观点）；引出六大误区。"
+    },
+    {
+      "claim_id": "C-JS-U0043-02",
+      "unit_id": "JS-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "贵重金属长期跑输通胀不是好投资，因为它们与人类创造财富没有什么关系",
+      "quote": "和人类创造财富没有什么关系",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2130,
+        "end_line": 2130,
+        "sha1": "050d94c32e1a9e343c24e4bc76295d1f30807d56",
+        "fingerprint": ["贵重金属", "创造财富"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "贵重金属非好投资",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "误区一；机理：股票反映社会创造财富能力、债券获利息、房产助创造财富，唯贵重金属无此特点；1792-2017黄金年化不足2%（时点数据佐证）、亨特兄弟白银豪赌破产、'要投资就远离赌场'（2138行）同链并入。"
+    },
+    {
+      "claim_id": "C-JS-U0043-03",
+      "unit_id": "JS-U0043",
+      "speaker": "转述·第三方",
+      "claim_text": "夏普建议解雇理财顾问：他们远不如想象的聪明，讲市场趋势有一半时间是错的",
+      "quote": "解雇自己的理财顾问",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2142,
+        "end_line": 2148,
+        "sha1": "ceffb3c941416b20f9eacac8a68ca9c50539938d",
+        "fingerprint": ["夏普", "理财顾问"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "解雇理财顾问",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=威廉·夏普（2004年谷歌第一堂投资课）；理由二（管理费2%侵蚀回报：40年20.7倍变9.3倍）与理由三（市场有效、资金涌入摊薄表现）在2150-2156行，65%/79%/81%基金跑输标普为统计佐证。"
+    },
+    {
+      "claim_id": "C-JS-U0043-04",
+      "unit_id": "JS-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "谷歌工程师实验证明：简单投资策略加恪守简单准则，完全能比专业投资团队做得好",
+      "quote": "恪守一些简单的投资准则",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2158,
+        "end_line": 2158,
+        "sha1": "1746ce674d8a4dacb84ef0db8e48c3be18a445da",
+        "fingerprint": ["工程师", "准则"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "简单策略胜专业团队",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "'成功的关键不在战术而在恪守准则'；与误区二（专业人士理财一定更好）链互引。"
+    },
+    {
+      "claim_id": "C-JS-U0043-05",
+      "unit_id": "JS-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "研究越多回报越高是误区：方法不对，越努力越频繁交易回报越差，散户平均回报仅2%",
+      "quote": "越是经常交易，回报越差",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2162,
+        "end_line": 2162,
+        "sha1": "c17f0cfbe171135feb0d00a463e455837062cfe5",
+        "fingerprint": ["交易", "回报"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "散户越交易回报越差",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "误区三；'像傻子一样投资反而比股市劳模效果好'；过去200年散户平均回报2%为历史统计佐证。"
+    },
+    {
+      "claim_id": "C-JS-U0043-06",
+      "unit_id": "JS-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "买受人追捧的高价股票指望后人接手，如同击鼓传花，鼓声常在花传到你手上时停止",
+      "quote": "如同玩儿击鼓传花的游戏",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2166,
+        "end_line": 2166,
+        "sha1": "b3a4d6f25ca6d993133db9c39681a7ada3fd28f2",
+        "fingerprint": ["击鼓传花", "股灾"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "击鼓传花式投资",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "误区四；马尔基尔称之'建立在空中楼阁上的投资'（转述）、老肯尼迪'鞋童兜售股票经即近股灾'故事并入。"
+    },
+    {
+      "claim_id": "C-JS-U0043-07",
+      "unit_id": "JS-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "亏了不卖就没损失是鸵鸟心态：持股财富取决于当下的交易价格，而非你的购买价格",
+      "quote": "取决于它当下的交易价格",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2170,
+        "end_line": 2172,
+        "sha1": "9423e1eea18649a5b2f0b98b5d97e1aa761ad2d2",
+        "fingerprint": ["鸵鸟", "交易价格"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "市值取决于当下价格",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "误区五；指数跌了会涨回来但单只股票未必：跌50%需涨100%回本、'公司最后难免要死，单只股票早晚清零'、100年前道指成分股只剩通用电气、英特尔思科未回2000年水平（时点数据佐证）。"
+    },
+    {
+      "claim_id": "C-JS-U0043-08",
+      "unit_id": "JS-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "一毛钱的股票未必便宜：贵贱要看发行股数、盈利能力与成长率，而非票面价",
+      "quote": "未必比100元的更便宜",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2178,
+        "end_line": 2178,
+        "sha1": "9170312c29c651cb9f67f31d993c73ffea239098",
+        "fingerprint": ["一毛钱", "便宜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "低价股未必便宜",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "误区六；伯克希尔24万美元一股不更贵；巴菲特'烟蒂'比喻（转述）、津巴布韦元之喻、'0.1美元跌到0.01远多于涨回1美元'并入。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第32节投资六大误区逐条成卡8张（含巴菲特、夏普转述卡各1张）；'扣除经济上涨因素投资本身是零和游戏'（2180行）并入卡05链。"
+}

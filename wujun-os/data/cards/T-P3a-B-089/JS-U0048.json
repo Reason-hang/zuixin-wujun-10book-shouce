@@ -1,0 +1,131 @@
+{
+  "unit_id": "JS-U0048",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0048-01",
+      "unit_id": "JS-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "寒窗苦读只是成功的一个变量，社会竞争是长期系统性竞赛，命运是多个变量互动的结果",
+      "quote": "命运是多个变量互动的结果",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2358,
+        "end_line": 2358,
+        "sha1": "10d06f1838c1bd110f6cce0a8ceb4bfd5917e2e5",
+        "fingerprint": ["变量", "寒窗苦读"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "命运是多变量互动",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与经济条件好、智商高、出身好、长得美同为变量之一；'因为寒窗苦读所以全世界都欠你钱的三观，早一天毁掉比晚一天好'（单元题眼）同段。"
+    },
+    {
+      "claim_id": "C-JS-U0048-02",
+      "unit_id": "JS-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "任何国家任何时代社会都是分层的，好社会有上下流动通道；底层者先认清现实才有希望",
+      "quote": "社会都是分层的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2362,
+        "end_line": 2362,
+        "sha1": "d9fd00f992fbf23d2aae18753b322c71dacaf5d4",
+        "fingerprint": ["分层", "通道"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "社会分层与流动通道",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "以'社会分100层'模型说明；改革开放前同样分层（城乡鸿沟等）之叙述为史实佐证；'今天的中国已算相对公平的社会，因此才有逆袭一词'。"
+    },
+    {
+      "claim_id": "C-JS-U0048-03",
+      "unit_id": "JS-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "逆袭要实际：别指望从第80层升到前10层，能往上挤几层就已很好，方法得当可以做到",
+      "quote": "往上挤几层就已经很好了",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2364,
+        "end_line": 2364,
+        "sha1": "510a6adb486088e0a8e6707d5b2a8b193e15e068",
+        "fingerprint": ["80层", "10层"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "逆袭要实际",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "美国底层20%仅0.8%进入最上层（统计佐证）；'没有一个社会会每两年把金字塔打碎重建'。"
+    },
+    {
+      "claim_id": "C-JS-U0048-04",
+      "unit_id": "JS-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "逆袭不成功是常态：上位层八成努力胜过下层十成努力；多数人常处松懈才给逆袭者机会",
+      "quote": "逆袭不成功是常态",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2366,
+        "end_line": 2368,
+        "sha1": "d62917556ade7b26c0696e1c6f86106006a460c1",
+        "fingerprint": ["努力", "松懈"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "逆袭不成功是常态",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "第70层者与69层同等努力最多原地甚至下滑；'只看到自己的努力，没看到别人的努力'是逆袭者误区；第10层者10%努力胜过第70层100%努力；三本二本大学用功差异观察（2372行）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0048-05",
+      "unit_id": "JS-U0048",
+      "speaker": "转述·第三方",
+      "claim_text": "骆家辉：从爷爷家到州长官邸只有100米的距离，他们家人走了两代人——逆袭是漫长过程",
+      "quote": "走了两代人的时间",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2368,
+        "end_line": 2368,
+        "sha1": "0760738109e674eaaa8755c0097a2f05fa6a81f3",
+        "fingerprint": ["骆家辉", "两代人"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "逆袭需要两代人",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=骆家辉（美国商业部前部长、当选华盛顿州州长时所言）；吴军评'逆袭是一个漫长的过程'，'朝为田舍郎暮登天子堂'非常见。"
+    },
+    {
+      "claim_id": "C-JS-U0048-06",
+      "unit_id": "JS-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "爬阶层者要做的不是抱怨社会不公，而是付出足够努力，把注意力放到最该关注的事上",
+      "quote": "不是抱怨社会的不公平",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2384,
+        "end_line": 2384,
+        "sha1": "94ab80df8a1a80426e816c7fc673507dd571f8ba",
+        "fingerprint": ["抱怨", "注意力"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "不抱怨把注意力放对",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "史蒂芬森史实（E3素材）：文盲矿工出身、安全灯之争失利不在意，终成'火车之父'——用半辈子弥补不足、再用半辈子往上走；'往下的通道永远非常宽，稍不努力或多抱怨就下滑'同段。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第35节成卡6张（含骆家辉转述卡1张）；VIP卡实习新闻、贝润生狮子林等为背景素材并入；银行逐利之辨留痕不独立成卡。"
+}

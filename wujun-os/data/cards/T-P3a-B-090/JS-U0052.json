@@ -1,0 +1,31 @@
+{
+  "unit_id": "JS-U0052",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0052-01",
+      "unit_id": "JS-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "人的天性喜欢增加与获得，但减少和舍弃常让我们过得更好；因违背天性，能做到者得到更多机会",
+      "quote": "减少和舍弃会让我们过得更好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2558,
+        "end_line": 2558,
+        "sha1": "7b979897cc94302cfdcd51632026549335973c1d",
+        "fingerprint": ["不喜欢舍弃", "更多的机会"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "人生需要做减法",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "工单预标 S/N（章题+引言），但引言含可独立成立的减法总论点且后续单元（不做选择/作诗性格）均未复述，按 R3 抽 1 卡。与 CK-0023（FZ 做减法比做加法重要）跨书同族。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "章题结构单元，但引言段含本章减法总论点（独立成立的 E1 判断），抽 1 卡而非记 N，理由见卡片 notes。"
+}

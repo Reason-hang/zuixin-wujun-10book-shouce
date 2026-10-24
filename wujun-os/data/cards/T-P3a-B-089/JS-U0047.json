@@ -1,0 +1,131 @@
+{
+  "unit_id": "JS-U0047",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0047-01",
+      "unit_id": "JS-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "成功只是手段不是目标：事业有成不过是手段，目的是获得幸福",
+      "quote": "成功只是手段不是目标",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2320,
+        "end_line": 2320,
+        "sha1": "e13d2edb46b393ea3f82942310f8f196312a3bf2",
+        "fingerprint": ["成功只是手段", "手段"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-4"],
+      "concept_key": "幸福是目的成功是手段",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "第七章题眼（章引言'事业有成不过是手段，目的是获得幸福'同句异文，见 U0046）；正向影响力带来由衷幸福感（2314行）并入。"
+    },
+    {
+      "claim_id": "C-JS-U0047-02",
+      "unit_id": "JS-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "人生如河：影响力由宽度、深度、长度三个因素决定，如河流水量由三因素决定",
+      "quote": "长度、宽度和深度三个因素",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2330,
+        "end_line": 2330,
+        "sha1": "15a7b74f7835a623252c9d268c7b643c4581f28c",
+        "fingerprint": ["影响力", "宽度"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "人生是一条河",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念键沿用跨书 CK-0313（TD）；迈克尔·杰克逊宽浅短河 vs 莫扎特深长河之对比、'时代越久远离长河不会断流'（2332行）并入；莫扎特生前身后境遇为史实素材。"
+    },
+    {
+      "claim_id": "C-JS-U0047-03",
+      "unit_id": "JS-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "幸福感的本源只有两个：基因的传承和影响力",
+      "quote": "基因的传承和影响力",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2334,
+        "end_line": 2336,
+        "sha1": "3d9bcb5f1a851246720d57a2583df4b400d60186",
+        "fingerprint": ["本源", "影响力"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-4"],
+      "concept_key": "幸福感的两个本源",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "男欢女爱、财富、成就等来源因人而异，本源归二；谷歌旧代码被上百项目使用的幸福感例（2336行）并入；'社会增加民众幸福感的最简单办法是肯定每个人的成就，让他们感觉自己在给予'（2338行）同链留痕；跨书近邻 CK-0430。"
+    },
+    {
+      "claim_id": "C-JS-U0047-04",
+      "unit_id": "JS-U0047",
+      "speaker": "转述·第三方",
+      "claim_text": "高尔基：给总比拿要快乐得多——给予带来幸福感",
+      "quote": "给总比拿要快乐得多",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2338,
+        "end_line": 2338,
+        "sha1": "fcdf0cf0339382a0154241c53c85aa8d33334a89",
+        "fingerprint": ["快乐", "捐款"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-4"],
+      "concept_key": "给比拿快乐",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=高尔基；概念键沿用跨书 CK-0696（TD）；吴军用以解释美国富豪大量捐款（看到钱在宽度深度长度上影响未来比挣钱更快乐）。"
+    },
+    {
+      "claim_id": "C-JS-U0047-05",
+      "unit_id": "JS-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "人生之河更深靠自己的修行与对世界的理解，更宽靠与志同道合者共同做事",
+      "quote": "靠自己的修行和对世界的理解",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2340,
+        "end_line": 2340,
+        "sha1": "874892e20ab95ccc64b88982803a2d4f66306bac",
+        "fingerprint": ["修行", "志同道合"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D07-2"],
+      "concept_key": "更深靠修行更宽靠合作",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "写作、《硅谷来信》、出书皆借平台把思想传得更广；'思想能否流传更远要靠思想的价值'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0047-06",
+      "unit_id": "JS-U0047",
+      "speaker": "吴军本人",
+      "claim_text": "应有莫扎特的心态：平静认真地做好自己认为有意义的事，其价值或于后世显现",
+      "quote": "莫扎特那种心态",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2342,
+        "end_line": 2342,
+        "sha1": "ad76f9fa3507596b03fc484476cf901d2fffabd4",
+        "fingerprint": ["莫扎特", "意义"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D02-4"],
+      "concept_key": "莫扎特心态",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "牛顿、贝多芬生前已知伟大，尼采自信身后名（同段素材）；'几十年后仍有人因我们的工作成果受益，便会从心里绽开微笑'。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第34节人生是一条河成卡6张（含高尔基转述卡1张）；萨尔茨堡音乐节与莫扎特生平叙述为史实素材并入母卡。"
+}

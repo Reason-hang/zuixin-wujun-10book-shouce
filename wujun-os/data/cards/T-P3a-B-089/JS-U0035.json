@@ -1,0 +1,211 @@
+{
+  "unit_id": "JS-U0035",
+  "book_code": "JS",
+  "extractor": "EXT-JS3",
+  "batch_id": "T-P3a-B-089",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0035-01",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "工作只是谋生手段，职业是一辈子的事业：对职业有利的事不论报酬都要做，与职业无关的高收入事少做",
+      "quote": "凡是对将来职业有利的事情",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1610,
+        "end_line": 1610,
+        "sha1": "71afd2c4313f434ca749b8b840225196f4fee3db",
+        "fingerprint": ["工作", "职业"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "工作与职业之辨",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "误区一之解：选择做事以终身职业为准绳。"
+    },
+    {
+      "claim_id": "C-JS-U0035-02",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "专业就是一切以工作目标的达成为中心，少受负面情绪影响，避免消极应付",
+      "quote": "一切以工作目标的达成为中心",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1612,
+        "end_line": 1612,
+        "sha1": "aafd3f22b41d72d2aa3d603a9e993cab46acffc1",
+        "fingerprint": ["专业", "目标"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-2"],
+      "concept_key": "专业即以目标达成为中心",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "做事专业则同事也只能用同样态度打交道（同段）。"
+    },
+    {
+      "claim_id": "C-JS-U0035-03",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "把自己当过客容易不求上进，既浪费宝贵时间又丧失锻炼机会，跳槽也难被赋予重任",
+      "quote": "既浪费了宝贵的时间",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1620,
+        "end_line": 1620,
+        "sha1": "741b2cf04f70a863b40dc9cf43a5f831ca8d1b28",
+        "fingerprint": ["过客", "锻炼"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "过客心态之害",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "误区二：过客心态还必然给同事留坏印象。"
+    },
+    {
+      "claim_id": "C-JS-U0035-04",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "语言暴力最大危害是打击自信、引诱偏离工作重心；应不为所动，继续工作并让施暴者有交代",
+      "quote": "打击你的自信心",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1628,
+        "end_line": 1632,
+        "sha1": "fc9877c828f0a9880bd1f693544318c938af6596",
+        "fingerprint": ["语言暴力", "工作重心"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "语言暴力与不为所动",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "误区三；判断善意批评与语言暴力的标准（采纳后是否有利）在同段1632行。"
+    },
+    {
+      "claim_id": "C-JS-U0035-05",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "应对语言暴力三步：先反省自己，再把周围同事分三类区别对待，最后搞清施暴者目的再主动沟通",
+      "quote": "周围的同事分为三种人",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1648,
+        "end_line": 1652,
+        "sha1": "4e1713a5cb9a7e29de688526e584feaa68b7ef66",
+        "fingerprint": ["反省", "三种人"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "应对伤害三步法",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "破法二的清单式方法整体一卡（R3）。"
+    },
+    {
+      "claim_id": "C-JS-U0035-06",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "大度应表现为指出对方错误后的宽容，而不是在是非问题上没有原则",
+      "quote": "而不是在是非问题上没有原则",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1654,
+        "end_line": 1656,
+        "sha1": "5ee20baab078cf97ee4bba952a73879149102baf",
+        "fingerprint": ["大度", "是非"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3"],
+      "concept_key": "大度与是非之辨",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "例证并入：贝尔胜专利官司后许格雷免费用但发明权不让步；'以正压邪没有行动不会实现'同段。"
+    },
+    {
+      "claim_id": "C-JS-U0035-07",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "为人要谦卑，只有谦卑才能有效沟通；既谦卑又能把事情分析入木三分的人最让人钦佩",
+      "quote": "才能更有效地沟通",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1646,
+        "end_line": 1646,
+        "sha1": "32742b4eb17a49a7391a30bfeccf1388faae7ffb",
+        "fingerprint": ["谦卑", "沟通"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-1"],
+      "concept_key": "谦卑才能有效沟通",
+      "ability_tags": ["沟"],
+      "status": "已生成",
+      "notes": "破法一；谦卑使人把注意力集中在事情本身（沟通机制归 D07-1）。原文'谦皁'为OCR异体。"
+    },
+    {
+      "claim_id": "C-JS-U0035-08",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "工作不是为公司或他人，而是为自己的职业发展；要主动做事、多帮助他人支持团队",
+      "quote": "而是为了自己的职业发展",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1660,
+        "end_line": 1662,
+        "sha1": "aa5817452d9ca56350a43a0a61ab56d3b38a86e4",
+        "fingerprint": ["职业发展", "主动"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "工作为自己的职业",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "破法三；破法四'把一件事放到两三年的时间周期来看待'（1664行）并入本链：长期视角改变态度。"
+    },
+    {
+      "claim_id": "C-JS-U0035-09",
+      "unit_id": "JS-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "年轻人应远离任人唯亲、马屁精当道的单位：这样的单位搞不好，巴结也难自保",
+      "quote": "应该远离这些单位",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1596,
+        "end_line": 1596,
+        "sha1": "36c60d5460698e2d255bab869cce3cca4c7f6e34",
+        "fingerprint": ["溜须拍马", "亲戚"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "远离任人唯亲单位",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "某知名媒体裙带例并入；'与其寄托拍马屁不如在能力业绩上下功夫'（1598行）同链；'领导眼中贤是综合因素、十年八年当不上经理很正常'（1600行）留痕。"
+    },
+    {
+      "claim_id": "C-JS-U0035-10",
+      "unit_id": "JS-U0035",
+      "speaker": "转述·第三方",
+      "claim_text": "孔子：危邦不入，乱邦不居——对没有前途的单位应趁早离开",
+      "quote": "危邦不入，乱邦不居",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 1666,
+        "end_line": 1666,
+        "sha1": "b2a9f220671edb0462c2b289da5b7d7581082b5a",
+        "fingerprint": ["孔子", "危邦"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "危邦不入乱邦不居",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=孔子；吴军用以支持'对进步没帮助的单位趁早离开'（与 C-JS-U0035-09 同链）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第25节四大误区四破法论点密集，成卡10张（含孔子转述卡1张）。"
+}
