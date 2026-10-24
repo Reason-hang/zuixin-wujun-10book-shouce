@@ -1,0 +1,338 @@
+{
+ "unit_id": "JJ-U0007",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0007-01",
+   "unit_id": "JJ-U0007",
+   "speaker": "转述·第三方",
+   "claim_text": "尼采：我们注定对自己陌生、把自己看错，离每个人最远的就是他自己",
+   "quote": "离每个人最远的人就是他自己",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 271,
+    "end_line": 273,
+    "sha1": "34f8dc6ea9f23953c8b0b3e72b9a63814edabb99",
+    "fingerprint": [
+     "陌生",
+     "永恒真理",
+     "四因说"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "尼采认识自己之难",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：尼采《道德的系谱》；德尔斐认识你自己与泰勒斯出处考（行269）为背景史实；亚氏四因说回应见行273"
+  },
+  {
+   "claim_id": "C-JJ-U0007-02",
+   "unit_id": "JJ-U0007",
+   "speaker": "转述·第三方",
+   "claim_text": "四因说：质料因（材质元素）与形式因（本质属性）决定事物是什么",
+   "quote": "造成结果的四种原因",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 275,
+    "end_line": 279,
+    "sha1": "124d6c4b984d5022f59dabdeb2113696b0cbc6a2",
+    "fingerprint": [
+     "质料因",
+     "形式因",
+     "本质属性"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "四因说·质料因与形式因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：亚里士多德；《大卫》/《思想者》质料与形式之别为例（行279）；续卡见 C-JJ-U0007-03"
+  },
+  {
+   "claim_id": "C-JJ-U0007-03",
+   "unit_id": "JJ-U0007",
+   "speaker": "转述·第三方",
+   "claim_text": "四因说：动力因（手段/动力）与目的因（目标/意义），两维度解释事物联系",
+   "quote": "目的和手段来看",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 281,
+    "end_line": 287,
+    "sha1": "c261a22eacd20da110e94c24c719044f49a6e5eb",
+    "fingerprint": [
+     "动力因",
+     "目的因",
+     "手段"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "四因说·动力因与目的因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：亚里士多德；iPhone 与搜索引擎的目的因例（行285）、内外性质与目的手段两维度（行287）；续卡 of C-JJ-U0007-02"
+  },
+  {
+   "claim_id": "C-JJ-U0007-04",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "分析企业成败要从四因找原因：材质、形式（股权结构）、动力、目的",
+   "quote": "这就要从“四因”上找原因",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 299,
+    "end_line": 299,
+    "sha1": "dbe4f9409b9f43919217240879d8ede93d7114a4",
+    "fingerprint": [
+     "成功的企业",
+     "四因",
+     "找原因"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "四因分析企业成败",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "吴军对四因说的商业取用；例证并入：设计公司三人皆二把刀（行301）、爱迪生vs特斯拉质料因（行303-305）、瓦特博尔顿互补（行311）、家电企业股权形式因（行313-315）、苹果vs谷歌目的因（行319）"
+  },
+  {
+   "claim_id": "C-JJ-U0007-05",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "世界上从不缺好点子，缺的是执行力——执行力就是企业的动力因",
+   "quote": "缺的是执行力",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 317,
+    "end_line": 317,
+    "sha1": "1691a72486b80db30ccd2196827a44c7a2246479",
+    "fingerprint": [
+     "好点子",
+     "执行力",
+     "动力因"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "执行力是动力因",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "5000 家团购只剩美团、王兴执行力特例（行317）；大互联网公司新技术为他人作嫁衣为例证"
+  },
+  {
+   "claim_id": "C-JJ-U0007-06",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "做到前20%靠利益、前5%靠喜爱、前1%靠天赋，勤能补拙有限度",
+   "quote": "最后那一点点要靠天赋",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 325,
+    "end_line": 329,
+    "sha1": "a35925c8cc3294a752f8be173f9edf01005c1e20",
+    "fingerprint": [
+     "利益驱动",
+     "喜爱",
+     "天赋"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D06-1"
+   ],
+   "concept_key": "前20%与前1%",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "《见识》观点重申：承认不足是勇气；数学家需智商前1%、IT 中上即可、按质料因定道路（行329）；家长望子女特长加分多达不到（行327）为例证"
+  },
+  {
+   "claim_id": "C-JJ-U0007-07",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "形式因决定人是不同的人，跨界对多数人难，做好自己比什么都重要",
+   "quote": "做好自己比什么都重要",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 331,
+    "end_line": 337,
+    "sha1": "ecabc35f573942ed049e9223084c9981a6482ece",
+    "fingerprint": [
+     "跨界",
+     "做好自己",
+     "形式因"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "形式因与做好自己",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "判断他人也看质料因与形式因：医生荐股不可信、听医嘱即信其决定作用（行337）"
+  },
+  {
+   "claim_id": "C-JJ-U0007-08",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "看人四问：才智品行能否做好、身份是否适合、目的是否一致、手段是否正当",
+   "quote": "我们看人就大差不差了",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 343,
+    "end_line": 351,
+    "sha1": "e88af7fc6ecbb075c0ec4b7ff4a502211074a6d0",
+    "fingerprint": [
+     "四个问题",
+     "信任他",
+     "不择手段"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "看人四问",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡（行343-349 四问+行351 结论）；认清自己四因作正确选择同段"
+  },
+  {
+   "claim_id": "C-JJ-U0007-09",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "挣钱是动力因、幸福快乐是目的因，把两者搞反会得不偿失",
+   "quote": "把挣钱当成目的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 357,
+    "end_line": 357,
+    "sha1": "d6ec5b1a7fcdf5c75dab6dc42ad96e9db4417ecf",
+    "fingerprint": [
+     "动力因",
+     "目的因",
+     "幸福和快乐"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "动力因与目的因不可倒置",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "为住房大五平米打两份工为反例（行357）"
+  },
+  {
+   "claim_id": "C-JJ-U0007-10",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "遇发展瓶颈时要定期审视自己的目的因、动力因、形式因是否过时",
+   "quote": "审视一下自己的目的因",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 371,
+    "end_line": 371,
+    "sha1": "73501e0f7d6c896b267b155452eba58f39c367ee",
+    "fingerprint": [
+     "过时",
+     "瓶颈",
+     "培养新人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-3"
+   ],
+   "concept_key": "定期审视自己的四因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军自审实践：研究目的从生计到难题到培养新人的三次调整（行371）；自知质材不做数学家、发掘深度思考者特长（行359-367）为佐证；写书目的决定写法（行369）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0007-11",
+   "unit_id": "JJ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "长期困境要靠换工具换引擎突破，而非用原有工具更努力",
+   "quote": "而是靠换工具、换引擎",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 373,
+    "end_line": 375,
+    "sha1": "fe14021e6addbf7b62a97a2af3f8544223327d07",
+    "fingerprint": [
+     "困境",
+     "换工具",
+     "人工智能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-1"
+   ],
+   "concept_key": "换工具换引擎",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "早期人工智能研究靠大量使用数据破局为例证（行373）；目的和动力变了形式因也变（行375）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0007",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "德尔斐神庙三句箴言与泰勒斯/第欧根尼·拉尔修出处考（行269、行271 注）为哲学史实，其回应已入 C-JJ-U0007-01"
+  },
+  {
+   "unit_id": "JJ-U0007",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "家长望子成龙学数学学音乐与高考加分段落（行327）属亲子教育场景，吴军判断已并入 C-JJ-U0007-06 notes，不独立成卡"
+  },
+  {
+   "unit_id": "JJ-U0007",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "王仁华教授支持学生刘庆峰办科大讯飞的案例（行355）为例证性人物史，已并入 C-JJ-U0007-07 notes（形式因清楚：要实验室而非公司）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章四因说及其应用：转述卡 3 张（E2）+吴军应用与自审判断 8 张，箴言出处考与亲子场景记 X4/X5"
+}

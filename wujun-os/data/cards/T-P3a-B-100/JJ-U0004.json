@@ -1,0 +1,65 @@
+{
+ "unit_id": "JJ-U0004",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0004-01",
+   "unit_id": "JJ-U0004",
+   "speaker": "吴军本人",
+   "claim_text": "见识=所见多少（见）+判断力（识）；境界取决于内心取舍的门道",
+   "quote": "取决于他内心取舍的门道",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 79,
+    "end_line": 79,
+    "sha1": "36c7969f0c023345753def4cdca7cae74a341e6b",
+    "fingerprint": [
+     "见识的高低",
+     "判断力",
+     "取舍的门道"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "见识的构成",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "全篇导语的总纲式定义句，第一篇主题句"
+  },
+  {
+   "claim_id": "C-JJ-U0004-02",
+   "unit_id": "JJ-U0004",
+   "speaker": "吴军本人",
+   "claim_text": "眼睛盯在哪里、被谁感动，就会成为什么样的人，最后一切在于行动",
+   "quote": "就可能会成为什么样的人",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 81,
+    "end_line": 81,
+    "sha1": "3d4eaed4c932058c107aa2ff695ace1651c916fb",
+    "fingerprint": [
+     "眼睛盯在哪里",
+     "成为什么样的人",
+     "在于行动"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "注意力塑造人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "盯知识不至无知、心里有他人成善人（行81）；行83轴心文明先贤已知这些智慧并入"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第一篇导语（341字），两条总纲式定义判断，无转述无史实，抽 K 卡 2 张"
+}

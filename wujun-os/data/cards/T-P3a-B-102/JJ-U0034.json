@@ -1,0 +1,53 @@
+{
+ "unit_id": "JJ-U0034",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0034-01",
+   "unit_id": "JJ-U0034",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "太初有为：世界的本源是行为而不是大道理，先有行动后有语言和思想",
+   "quote": "世界的本源是行为",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 2017,
+    "end_line": 2017,
+    "sha1": "fa8e7ca4d397f3c0fee7df2f3cd2a8944d3be236",
+    "fingerprint": [
+     "太初有为",
+     "浮士德"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-8570",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：歌德《浮士德》（“in the beginning was the deed”）；维特根斯坦《哲学研究》以此阐述对知识和宗教的看法及对世界应有的态度。第五篇纲领句，吴军高度认同（见 C-JJ-U0037-11）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0034",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "第五篇导语余文（2019）：哲学是什么/位置何在的设问与维特根斯坦引出，过渡性文字无独立判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "篇章导语单元（6行）：仅“太初有为”纲领句成卡，其余过渡文字X4"
+}

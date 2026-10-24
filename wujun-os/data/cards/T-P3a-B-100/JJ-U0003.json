@@ -1,0 +1,130 @@
+{
+ "unit_id": "JJ-U0003",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0003-01",
+   "unit_id": "JJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "境界有三层：看得远、看得透、看得开，可分层提升，有规律可循",
+   "quote": "看得远，看得透，看得开",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 71,
+    "end_line": 71,
+    "sha1": "b0da1e285dd0cc81fca4793c727c39e9ad658f96",
+    "fingerprint": [
+     "看得远",
+     "看得透",
+     "看得开"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "境界三层次",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "分层展开见行59-69：看得远（境界第一层，行59）、看得透（行61）、看得开（行65）；《大腕》扔石头比喻（行55）与《说文解字》境=疆域（行57）并入本卡为例证/字源"
+  },
+  {
+   "claim_id": "C-JJ-U0003-02",
+   "unit_id": "JJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "境界比学识、财富和资源更重要，三者兼备生活事业才会好",
+   "quote": "境界比学识、财富和资源更重要",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 71,
+    "end_line": 71,
+    "sha1": "b0da1e285dd0cc81fca4793c727c39e9ad658f96",
+    "fingerprint": [
+     "境界",
+     "学识",
+     "资源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "境界重于学识财富",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与 C-JJ-U0003-01 同段总结句；看不开者例子（英若诚藏柜子，行67）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0003-03",
+   "unit_id": "JJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "看不透不是智力和学识问题，是境界问题（巴菲特穿越泡沫与危机例）",
+   "quote": "是境界的问题",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 63,
+    "end_line": 63,
+    "sha1": "8a6bd1b472e666bf4aa211772284ca8cbacd0bcf",
+    "fingerprint": [
+     "巴菲特",
+     "看不透",
+     "境界的问题"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "看不透是境界问题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名例证卡：众人信息与巴菲特相同仍看不透互联网泡沫、金融危机与疫情（行61-63）"
+  },
+  {
+   "claim_id": "C-JJ-U0003-04",
+   "unit_id": "JJ-U0003",
+   "speaker": "吴军本人",
+   "claim_text": "提高境界可学习经千百年验证的先哲智慧，取自己理解透彻且应验过的",
+   "quote": "在我身上应验过的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 73,
+    "end_line": 73,
+    "sha1": "755204c4dfbfe6eae44d6b6bbb240df379d1a82c",
+    "fingerprint": [
+     "先哲们",
+     "应验过",
+     "入门的读物"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "向先哲学习提高境界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军选材原则与全书方法论：只介绍理解透彻且亲验过的先哲思想（行73），亲历佐证见行75"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0003",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "《说文解字·新附》境字考（行57）为字学史实，无吴军可迁移判断，已并入 C-JJ-U0003-01 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "前言提出境界三层框架与提升路径，吴军本人概括判断密集，抽 K 卡 4 张（含 E3 例证 1 张），字源考据记 X4"
+}

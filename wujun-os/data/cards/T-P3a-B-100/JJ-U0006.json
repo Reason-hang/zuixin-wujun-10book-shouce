@@ -1,0 +1,276 @@
+{
+ "unit_id": "JJ-U0006",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0006-01",
+   "unit_id": "JJ-U0006",
+   "speaker": "转述·第三方",
+   "claim_text": "濠梁之辩：惠子主张个体之间不可知，庄子主张可知（安知鱼之乐）",
+   "quote": "子非鱼，安知鱼之乐",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 149,
+    "end_line": 157,
+    "sha1": "cdf6aee72dada3d61f8d3f1eb90795ffa4e7ad8a",
+    "fingerprint": [
+     "濠梁",
+     "子非鱼",
+     "鱼之乐"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "濠梁之辩",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：庄子与惠子（《庄子·秋水》原文，行149-157）；白话译解在行161-169；吴军评析见 C-JJ-U0006-02（R1 互引）"
+  },
+  {
+   "claim_id": "C-JJ-U0006-02",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "惠子濠梁之辩含三个逻辑谬误：不当对比、转移话题、自相矛盾",
+   "quote": "三个逻辑谬误",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 171,
+    "end_line": 177,
+    "sha1": "3450f66f414e2bc57809d949d3dd9eb233efe377",
+    "fingerprint": [
+     "不当对比",
+     "转移话题",
+     "自相矛盾"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "惠子三谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对辩辞的提炼（行171 总评+173/175/177 分述），可迁移的逻辑分析工具；原文见 C-JJ-U0006-01"
+  },
+  {
+   "claim_id": "C-JJ-U0006-03",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "青春期叛逆的本质是理解他人的能力未发育好，懂事即具此能力",
+   "quote": "懂事就是指具有理解他人的能力",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 181,
+    "end_line": 181,
+    "sha1": "d1a436030e35f4f6a4a47a94d0752bc90a8992b2",
+    "fingerprint": [
+     "叛逆",
+     "理解他人的能力",
+     "懂事"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "懂事即理解他人",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "引心理学家与教育学家结论（12~18岁该能力未发育好）+吴军定义性概括；心智成熟不起来的父母常吵架（行183）为例证"
+  },
+  {
+   "claim_id": "C-JJ-U0006-04",
+   "unit_id": "JJ-U0006",
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：客观世界是主观看法的基础，万物背后有普遍真理，人可靠求知把握",
+   "quote": "人类可以通过求知来了解真理",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 217,
+    "end_line": 217,
+    "sha1": "78c3640b2b82eea357dafd58b3fcfb97394b4389",
+    "fingerprint": [
+     "客观世界",
+     "普遍性的东西",
+     "求知"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "亚里士多德客观世界三要点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：亚里士多德（《形而上学》脉络）；反对吠陀内心镜像说与柏拉图理念决定论；若亚氏评濠梁之辩的推演（行219）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0006-05",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "亚里士多德重现实世界的立场，坚定了吴军靠自己努力搞清世界的信念",
+   "quote": "搞清楚世界是怎么一回事",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 213,
+    "end_line": 213,
+    "sha1": "5f81ecc896bdfba7a3f69f42498d0536948de737",
+    "fingerprint": [
+     "现实世界",
+     "信念",
+     "深层原理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "靠自己搞清世界的信念",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军亲历取用：因此信念才研究科学、研究人与管理（行213）；柏拉图理念世界观点为行211转述背景"
+  },
+  {
+   "claim_id": "C-JJ-U0006-06",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "客观评判标准是了解世界真实性的主轴，理解偏离它大概率是自己出错",
+   "quote": "了解世界真实性的一根主轴",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 231,
+    "end_line": 231,
+    "sha1": "2911becebd8160969f6b5ae3ef5881cb94fd6fa2",
+    "fingerprint": [
+     "主轴",
+     "客观的评判标准",
+     "偏离"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "客观评判主轴",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "山高之问（苏格拉底不知/柏拉图标准/吠陀感觉/亚氏海拔，行227）、考试分数（行233-235）、富有标准（行237）为例证；朋友好坏有客观依据（行229）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0006-07",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "人先是最个性化的自己再是群体一员，个体感受与群体认知常有矛盾",
+   "quote": "首先是自己最个性化的属性",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 249,
+    "end_line": 251,
+    "sha1": "62ca97588ebe0a09f06481db5ea6b51a0e1f0e94",
+    "fingerprint": [
+     "个性化",
+     "群体的认知",
+     "厌恶损失"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "个体与群体的认知落差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军为王五圆谎的亲历（行243-247）+厌恶损失是天性（行249）+阿德勒研究佐证（行251）"
+  },
+  {
+   "claim_id": "C-JJ-U0006-08",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "纠偏不能靠换位思考，要让偏差者体会回归真实性的好处与标新立异的痛处",
+   "quote": "简单的换位思考是不能解决问题的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 253,
+    "end_line": 257,
+    "sha1": "a17b4912997518df582bd058335179decdc75fc8",
+    "fingerprint": [
+     "换位思考",
+     "主轴",
+     "标新立异"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "以好处与痛处纠偏",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "王五案例收尾（行253）；亲子场景（行255-257，麦田里的守望者考尔菲德例）为一般机理的例证而非亲子方法论"
+  },
+  {
+   "claim_id": "C-JJ-U0006-09",
+   "unit_id": "JJ-U0006",
+   "speaker": "吴军本人",
+   "claim_text": "不能总想改变他人，只能告知真相让其自决；认识并顺应规律才有精神自由",
+   "quote": "自由来自对规律的认识",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 261,
+    "end_line": 261,
+    "sha1": "d431f4c324f07005f1463abf44e8ea3bdbe0cd4e",
+    "fingerprint": [
+     "改变他们",
+     "规律",
+     "精神上的自由人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "自由来自对规律的认识",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "马可·奥勒留忽略观（转述）与吴军判断并存（行261）；只要自己认识合理公正就不会落伍、周围终成认知一致者"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0006",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "亚里士多德生平与学术地位铺陈（行189-211：学科贡献、《工具论》与逻辑学第一科学、200部著作31部传世、拉斐尔《雅典学院》画释）为哲学史叙事；其可迁移取用已入 C-JJ-U0006-05"
+  },
+  {
+   "unit_id": "JJ-U0006",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "濠梁之辩白话全文翻译（行161-169）为古籍译述，观点已由 C-JJ-U0006-01 覆盖"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章借濠梁之辩与亚里士多德立论：转述卡 2 张（E2）+吴军认知判断 7 张，亚氏生平史实与古文翻译记 X4"
+}

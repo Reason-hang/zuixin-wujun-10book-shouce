@@ -1,0 +1,166 @@
+{
+ "unit_id": "JJ-U0011",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0011-01",
+   "unit_id": "JJ-U0011",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "吠陀文化持空幻宇宙观：宇宙本是空无的、所见皆幻象，与柏拉图二元宇宙观相近，别于古希腊实体宇宙观",
+   "quote": "宇宙本是空无的",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 635,
+    "end_line": 635,
+    "sha1": "de31865806eae96bc76f3b8259a0b770e76a11c5",
+    "fingerprint": [
+     "空幻宇宙观",
+     "幻象",
+     "柏拉图"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1001",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著说明此为古代印度人的宇宙观与柏拉图学说的对照，属思想史转述而非普适论断",
+   "boundary_integrator": "",
+   "notes": "被转述者：吠陀文化/古代印度人（635 行）。柏拉图：理念为本体、现实世界是理念世界的表象，与印度空幻观对应；吴军对比评述见同段"
+  },
+  {
+   "claim_id": "C-JJ-UU0011-02",
+   "unit_id": "JJ-U0011",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "吠陀知识体系纯靠主观理性思考建立、缺乏实证研究，故古代印度数学发达却未发展出自然科学",
+   "quote": "不需要考虑外部世界",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 639,
+    "end_line": 641,
+    "sha1": "afca8af196da075ed1656445c03f6687c82f0681",
+    "fingerprint": [
+     "主观的理性思考",
+     "实证主义",
+     "自然科学"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1002",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著隐含条件：关起门苦思冥想不足以发展自然科学",
+   "boundary_integrator": "",
+   "notes": "发展数学需逻辑思维、发展自然科学需观察实验（641 行）；「零」的发明与虚空观相关（641 行）。转述吠陀知识观后吴军本人的解释"
+  },
+  {
+   "claim_id": "C-JJ-UU0011-03",
+   "unit_id": "JJ-U0011",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "吠陀世界观使印度人凡事向内心寻求答案，此特点延续至佛教与印度教，也解释印度人不重体育运动",
+   "quote": "向内心寻求答案",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 645,
+    "end_line": 645,
+    "sha1": "8be8def6cd2893c9a660612d0d9ba8eca8c79d79",
+    "fingerprint": [
+     "向内心寻求答案",
+     "佛教",
+     "印度教"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1003",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著限定为印度文化的特点，非普适主张",
+   "boundary_integrator": "",
+   "notes": "与古希腊人从外部解决问题对比：印度人冥想瑜伽以从内部完善自己、看轻体力劳动（663-665 行）；佛教觉悟成佛亦为向内求（649 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0011-04",
+   "unit_id": "JJ-U0011",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "愿意思考的人会形成自己对待人和世界的整套哲学；印度精英执掌全球500强与文明重视思考的传统有关",
+   "quote": "愿意思考的人",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 669,
+    "end_line": 669,
+    "sha1": "8551232f7ec961a5258452afeda22896a41a4033",
+    "fingerprint": [
+     "愿意思考",
+     "500强",
+     "哲学"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "CK-1004",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "待判",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军取用：「这是我们可以学习的地方」。甘地纺纱、萨古鲁绿手计划与河流拯救行动为身体力行例证（667 行），不独立成卡"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0011",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "吠陀文明史叙事：哈拉帕/雅利安人迁徙、《吠陀经》四部与梵书森林书奥义书分类、沙门思潮与佛教创立（619-633、637-659 行），属文明史背景，无可迁移论点"
+  },
+  {
+   "unit_id": "JJ-U0011",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "古印度 33 神与注释性考据（637、643、661 行）为宗教史细节"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "吠陀文化单元：抽 4 卡（1 转述 E2+2 本人 E2+1 本人 E1），文明史叙事记 X4 两处"
+}

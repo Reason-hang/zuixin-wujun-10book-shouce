@@ -1,0 +1,482 @@
+{
+ "unit_id": "JJ-U0026",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0026-01",
+   "unit_id": "JJ-U0026",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "休谟的叉子：知识分观念知识（演绎自证）与经验知识（其余几乎所有）",
+   "quote": "观念知识不需要经验的验证",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1521,
+    "end_line": 1525,
+    "sha1": "f6014848f72f2a29e018583e9355d9243d2abf63",
+    "fingerprint": [
+     "休谟的叉子",
+     "观念知识"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8513",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：休谟。数学是特例（勾股定理靠公理演绎即可，不必测量百个直角三角形）；经验知识无法单靠理性获得、单靠理性思考反而不可靠（1525-1527）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-02",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "除数学外任何知识体系都无法确保前提完全正确，演绎滥用致教条主义",
+   "quote": "无法确保前提条件完全正确",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1533,
+    "end_line": 1533,
+    "sha1": "cc6b1b6ba1089ad0ce67a15597182427ebb42a22",
+    "fingerprint": [
+     "前提",
+     "教条主义"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8514",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著说明：数学除外，前提可由公理体系保证",
+   "boundary_integrator": "",
+   "notes": "演绎推理成立依赖前提蕴含结论，但教科书/《圣经》/亚里士多德式权威预设不可靠，极致即教条主义（休谟反对）。边界：数学前提可由公理保证，原著自述。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-03",
+   "unit_id": "JJ-U0026",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "时间空间相近的两件事常被误套因果：真因果很难判断",
+   "quote": "套上了因果关系",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1535,
+    "end_line": 1541,
+    "sha1": "796d3fd8b64a478ebaa8fd99e1d56e9c7170d241",
+    "fingerprint": [
+     "因果关系",
+     "鼻病毒"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-8515",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：休谟。吴军例证：着凉不致感冒（病原体才是原因，不透气暖房更易感染）、“乌鸦叫丧事到”可能是人将死吸引乌鸦（1537-1541）；“今天认为毫无疑问的因果关系也未必是真因果”（1541，吴军句）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-04",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "归纳两大陷阱：个案未必有代表性；个案再多也不能保证规律成立",
+   "quote": "并非对所有情况都成立",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1543,
+    "end_line": 1549,
+    "sha1": "cce4910bddca93dee0b8c9546917691a0533c9a5",
+    "fingerprint": [
+     "火鸡悖论",
+     "学霸"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8516",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "学霸看参考书例（样本无代表性，1545）；火鸡悖论=不完全归纳（感恩节前规律失效，1547）；选择性取例：炒股只记赚忘赔，归纳结论站不住脚（1549）。经验主义者多怀疑普遍真理、常被视为怀疑主义者（1551）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-05",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "从侥幸成功归纳的规律终会失效：懦夫困境式冒险终致崩溃",
+   "quote": "万劫不复的深渊",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1555,
+    "end_line": 1561,
+    "sha1": "58ac53aad281e01988ae1ce35968616cf4d22b63",
+    "fingerprint": [
+     "懦夫困境",
+     "希特勒"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "CK-8517",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "案例",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "希特勒案例：1936 莱茵兰→1938 吞并奥地利→苏台德三连冒险成功，强化“西方必退让”“元首比将军对”两条错误规律并陷入信息茧房，1939 但泽走廊碰壁引发大战惨败。霸凌者同理（1565）。从懦夫身上总结的成功经验只是偶然运气好。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-06",
+   "unit_id": "JJ-U0026",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "杜威：除数学外真理皆相对，须反复实验验证哪怕已成常识的真理",
+   "quote": "没有什么永恒的东西",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1569,
+    "end_line": 1571,
+    "sha1": "31282f10b01cb7e68767fe86930dea9624be2ae7",
+    "fingerprint": [
+     "杜威",
+     "实验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8518",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：杜威（实验主义）。新经验主义=杜威实验主义+波普尔证伪主义，基本解决不完全归纳不可靠问题（1569）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-07",
+   "unit_id": "JJ-U0026",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "波普尔：可证伪性是理论有无意义的标准，并以此划分科学与非科学",
+   "quote": "真理最重要的是具有证伪的可能性",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1573,
+    "end_line": 1577,
+    "sha1": "27f0f8923c57fb5136597f3c812c58d6f57452b7",
+    "fingerprint": [
+     "可证伪",
+     "非科学"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8519",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：波普尔。证实一万次不能覆盖所有可能性；“股市早晚要崩盘”不可证伪故无价值，“2023年5月前崩盘”可证伪故有意义（1575）；非科学≠伪科学（结论可能对，只是不可证伪，人文社科多属此类，1577）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-08",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "科学不代表正确，只是保留证伪可能、可不断修正进步的方法",
+   "quote": "科学从来不代表正确",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1579,
+    "end_line": 1581,
+    "sha1": "ad9b216d153ac6c1e2736c9f9584cf7ec10cec28",
+    "fingerprint": [
+     "证伪",
+     "修正"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8520",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "普通人对科学最大的误解是以为科学结论都正确；科学方法保留证伪可能故能越来越准确认识规律、错误出现即可修正；任何人皆可证伪，不需要专家权威；非科学体系无法判断对错故难进步。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-09",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "合杜威与波普尔：不断用经验验证知识特别是常识，被证伪即更正",
+   "quote": "不断用经验验证自己的知识",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1583,
+    "end_line": 1583,
+    "sha1": "99729719dba339609ac32ec817bd5977dc2f9174",
+    "fingerprint": [
+     "常识",
+     "证伪"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8521",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "方法",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军概括句（“将杜威和波普尔的思想结合起来，对待知识和经验的态度应该是这样的”）。不完全归纳知识的正确性总是相对的，被证伪后修正即可，不必担心。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-10",
+   "unit_id": "JJ-U0026",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "库恩：科学分常规进步与科学革命两阶段；领域进步加速时须更新知识",
+   "quote": "科学革命的范式理论",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1585,
+    "end_line": 1587,
+    "sha1": "2c552cbd0a77f04643c651daaf949524612cf8e3",
+    "fingerprint": [
+     "范式",
+     "修修补补"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8522",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：库恩《科学革命的结构》。常规期普遍性认识基本准确、小修小补即可；革命期基础认知危机、新世界观取代旧范式（日心说/氧化说/相对论）。吴军取用：大数据使 AI 突飞猛进，很多认知不得不更新（1587）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-11",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "知识体系三分：数学纯理性、科学理性加实证、非科学经验为主",
+   "quote": "把知识体系分为三种",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1587,
+    "end_line": 1593,
+    "sha1": "86646bbe2c1ad4c338bbfa4e6131805b61040c67",
+    "fingerprint": [
+     "纯粹理性",
+     "可以证伪的知识"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8523",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "方法",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著说明：每类知识的认知方法不同，见正文三分法",
+   "boundary_integrator": "",
+   "notes": "吴军综合休谟+波普尔+库恩的操作框架。数学概念（等号/开方/对数）无实物对应只能理性认识；科学归纳得规律+实证验证+证伪勾边界；非科学（社科人文）不能全靠逻辑、经验可少走弯路但规律有严格适用范围；医学心理学介于其间、经验地位重要（1595）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-12",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "经验主义与理性主义难以合而为一：康德调和失败，简单并用成四不像",
+   "quote": "人类的语言就没有这么简单了",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1601,
+    "end_line": 1601,
+    "sha1": "5694cdb364ce6ba6a2e4a36317c39f5de4219867",
+    "fingerprint": [
+     "乔姆斯基",
+     "贾里尼克"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8524",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "康德见休谟后多年调和两派未成功（1599）。NLP 例：乔姆斯基形式语言对计算机语言可行、对总有例外的人类语言失效；贾里尼克经验派让机器从经验案例学习，今日 AI 成就皆出于此（1601）；COLING 与 EMNLP 两派同办会议也未融合（1603-1605）。"
+  },
+  {
+   "claim_id": "C-JJ-U0026-13",
+   "unit_id": "JJ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "先用休谟的叉子划界再对不同问题用不同方法；经验与逻辑双重验证可避免绝大部分失误",
+   "quote": "采用经验和逻辑进行双重验证",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1607,
+    "end_line": 1607,
+    "sha1": "5046a99616ed260b89fd858a8cd8bb547eb83490",
+    "fingerprint": [
+     "双重验证",
+     "钉子"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8525",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "方法",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "反对“手里拿着锤子看什么都是钉子”。自然科学规律由实验经验发现（经验部分）、须数学化才能广泛应用（理性部分）；经济学结论多由经验方法得到；生活问题经验更有效，基本判断有时需逻辑。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0026",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "杜威门下名人录（胡适、冯友兰、陶行知等，1571）：师承考据"
+  },
+  {
+   "unit_id": "JJ-U0026",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "希特勒军事冒险编年（1557-1563）：史实叙事，机理已并入 C-JJ-U0026-05 E3 卡"
+  },
+  {
+   "unit_id": "JJ-U0026",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "着凉感冒/乌鸦叫的医学与民俗解释（1537-1539）：例证已并入 C-JJ-U0026-03 notes"
+  },
+  {
+   "unit_id": "JJ-U0026",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "NLP 学术会议两派史（COLING/EMNLP，1603）：学科史，已并入 C-JJ-U0026-12 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全书方法论核心章：休谟叉子/归纳演绎误区/杜威波普尔库恩/三分法/双重验证共 13 卡；学派史与轶事 X4 已记"
+}

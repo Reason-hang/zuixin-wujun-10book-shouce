@@ -1,0 +1,262 @@
+{
+ "unit_id": "JJ-U0024",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0024-01",
+   "unit_id": "JJ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "「经验」不等于「经验主义方法论」：靠经验做事是被动重复（如工艺失传）；经验主义是主动通过经验获得新知的方法论",
+   "quote": "通过经验获得新知的方法论",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1353,
+    "end_line": 1355,
+    "sha1": "2cbb336f3e718f7938a45dff8c6267cd22c5c943",
+    "fingerprint": [
+     "经验主义",
+     "被动",
+     "方法论"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1085",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "靠经验做事人人都会、甚至退步（1355 行）；年轻人跟父亲学种田=重复旧事（1355 行）；「empirical」一词最初特指古希腊医生拒绝教条、依赖观察的做事方法（1357 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0024-02",
+   "unit_id": "JJ-U0024",
+   "speaker": "史实",
+   "evidence_level": "E3",
+   "claim_text": "希波克拉底学派靠观察记录行医：详实记录疗程与症状、量脉搏做检查并与患者描述相互印证，故被西方称为「临床医学之父」",
+   "quote": "临床医学之父",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1357,
+    "end_line": 1357,
+    "sha1": "753db459071e4379e217db16e82baa26c1e3aa62",
+    "fingerprint": [
+     "希波克拉底",
+     "记录",
+     "临床"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1086",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "史实叙述，原著未附适用条件",
+   "boundary_integrator": "",
+   "notes": "专名案例+可迁移机理（记录+检查与描述交叉印证）；据《医学史》：先有临床检测和医学实践，然后才有医学（1357 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0024-03",
+   "unit_id": "JJ-U0024",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "亚里士多德强调通过观察和亲身体验了解真实可触碰的世界；柏拉图因觉得经验靠不住而只信理性的思考和讨论",
+   "quote": "通过观察和亲身体验",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1359,
+    "end_line": 1361,
+    "sha1": "32a4e41e279e77c69c3b48e232964b20c50104a5",
+    "fingerprint": [
+     "亚里士多德",
+     "观察",
+     "柏拉图"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-1087",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：亚里士多德/柏拉图。亚里士多德的认识论为探索真理指明正确道路（1359 行）；古罗马重经验故工程学贡献多，盖伦为经验总结代表（1361、1363 行）；亚里士多德亦为逻辑学开山（1373 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0024-04",
+   "unit_id": "JJ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "人的感觉和经验可能靠不住（视错觉、重物落快、血从心脏流向四肢皆错）；集体共同的感受也会错（地心说自洽解释一切观察）",
+   "quote": "人的感觉很有可能是错的",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1365,
+    "end_line": 1371,
+    "sha1": "83ca0a3d5107d659f60b55615765d602a2d0f125",
+    "fingerprint": [
+     "误导",
+     "经验",
+     "宇宙中心"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1088",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "灰度背景误导眼睛（1365 行）；地心说直到牛顿万有引力后才被彻底纠正（1371 行）；亚里士多德宇宙模型与盖伦医学理论多错误（1365 行）；图 3-1 视错觉（1369 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0024-05",
+   "unit_id": "JJ-U0024",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "鲁世德：事物的存在决定本质、世界自有运动规律；以基于经验的自然哲学挑战一神教基础，其亚里士多德注释使失传著作传回欧洲",
+   "quote": "存在决定了事物的本质",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1379,
+    "end_line": 1385,
+    "sha1": "1c2a540a82728a9c42d4cac9f9dbfcf50c1ef2a4",
+    "fingerprint": [
+     "鲁世德",
+     "本质",
+     "经验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1089",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：伊本·鲁世德（「西欧世俗思想之父」）。神学家驳不倒他，因为人们容易验证他说的是对的（1383 行）；伊斯兰神学家排斥他，其影响反在西方更大（1385 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0024-06",
+   "unit_id": "JJ-U0024",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "阿奎那把亚里士多德主义纳入神学：上帝创造规律后即退出，人天生能以理性认识规律；「凡是在理智中的，无不先在感性之中」",
+   "quote": "无不先在感性之中",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1395,
+    "end_line": 1397,
+    "sha1": "0b787f55a329a28fc201da2b0052131994a4300c",
+    "fingerprint": [
+     "阿奎那",
+     "理性",
+     "规律"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-1090",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：阿奎那《神学大全》。其观点被称为自然神论，牛顿、莱布尼茨、伏尔泰、孟德斯鸠皆其继承者（1397 行）；他客观上保护了自然科学研究，但也使亚里士多德错误结论成教条（1401 行）；被视为近代理性主义与经验主义共同的启蒙者（1403 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0024-07",
+   "unit_id": "JJ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "阿奎那：可从经验获得超验（问「什么是美」难、问「什么美」易）；不满足于经验，要透过经验找背后规律，推动近代经验主义方法论",
+   "quote": "从经验出发，可以获得超验",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1405,
+    "end_line": 1407,
+    "sha1": "a52c2b8f1c25cdfb2b7431a4c34de652b7ad3574",
+    "fingerprint": [
+     "超验",
+     "经验",
+     "规律"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-1091",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "阿奎那并不满足于获得经验本身（1407 行）；运动/运动中的物体同理（1405 行）；阿奎那与代代相传经验的农民、与希波克拉底盖伦之经验皆不同——要找经验后面的规律（1407 行）；吴军解读取用"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0024",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "新柏拉图主义/普罗提诺「太一」与奥古斯丁借之立基督教哲学（1375 行）、中世纪方法论停滞（1377 行）、阿奎那生平（娼妓诱惑轶事、求学经历，1387-1393 行）为哲学史/人物史背景"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "经验靠得住吗单元：抽 7 卡（2 本人 E1+3 转述 E2+1 本人 E2+1 史实 E3），哲学史与生平记 X4"
+}

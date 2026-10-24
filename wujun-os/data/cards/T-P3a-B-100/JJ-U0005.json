@@ -1,0 +1,275 @@
+{
+ "unit_id": "JJ-U0005",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0005-01",
+   "unit_id": "JJ-U0005",
+   "speaker": "转述·第三方",
+   "claim_text": "孔子：所信者目也而目犹不可信，所恃者心也而心犹不足恃，知人固不易",
+   "quote": "所信者目也",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 91,
+    "end_line": 91,
+    "sha1": "9e6209184ae1b67eec91fecf46116b301608fb09",
+    "fingerprint": [
+     "颜回",
+     "所信者目也",
+     "知人固不易"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "眼见非实（孔子攫甑）",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：孔子（《吕氏春秋》原文，颜回攫甑故事）；吴军白话译解见行93，概括见 C-JJ-U0005-02（R1 互引）"
+  },
+  {
+   "claim_id": "C-JJ-U0005-02",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "了解事情真相并不容易，了解人性的本质更难；眼见与内心皆可能自欺",
+   "quote": "而了解人性的本质就更难了",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 93,
+    "end_line": 93,
+    "sha1": "a3c67361bfd54d16dd5b116eed05e4da8a8eed93",
+    "fingerprint": [
+     "眼见不一定为实",
+     "人性的本质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "知人不易",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对孔子故事的概括（R1）；原文见 C-JJ-U0005-01"
+  },
+  {
+   "claim_id": "C-JJ-U0005-03",
+   "unit_id": "JJ-U0005",
+   "speaker": "转述·第三方",
+   "claim_text": "柏拉图洞穴隐喻：感知可能欺骗我们，所见世界可能只是影像幻象",
+   "quote": "柏拉图通过这个故事告诉我们",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 99,
+    "end_line": 105,
+    "sha1": "601cdb43bb5a88386700a5a2605c48ab3a91b910",
+    "fingerprint": [
+     "洞穴",
+     "幻象",
+     "柏拉图"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "洞穴隐喻",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：柏拉图《理想国》第七卷（借苏格拉底之口）；洞穴场景与出洞者无人信（行99-103），吴军点题在行105"
+  },
+  {
+   "claim_id": "C-JJ-U0005-04",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "庄子井蛙讲未知世界不可想象，柏拉图洞穴讲真实与影像，两者是两回事",
+   "quote": "其实他们讲的完全是两回事",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 107,
+    "end_line": 111,
+    "sha1": "4a3eddb736d0d703a259ab4d24833a0b335d76b4",
+    "fingerprint": [
+     "井底之蛙",
+     "洞穴隐喻",
+     "真实与影像"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "井蛙与洞穴之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对两喻的辨析：解庄子问题靠行万里路积累经验，解柏拉图问题靠教育讨论（行111），取用引出 C-JJ-U0005-05/06"
+  },
+  {
+   "claim_id": "C-JJ-U0005-05",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "自学效果差因难验证理解对错；上学优势是一群人帮你验证知识掌握",
+   "quote": "自学很难验证我们的理解是否正确",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 113,
+    "end_line": 113,
+    "sha1": "389ebfdf542429648f305fe7d2e23a86ab090950",
+    "fingerprint": [
+     "自学",
+     "系统教育",
+     "验证"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "自学与系统教育",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "霍普金斯选课现象（行115）佐证：有课堂讨论的课才多人选；吴军亲历观察"
+  },
+  {
+   "claim_id": "C-JJ-U0005-06",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "教育目的是学会检验经验真实性；验证感知可用客观标准或他人感受",
+   "quote": "柏拉图给出的是我听过的最好的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 117,
+    "end_line": 117,
+    "sha1": "6f8b67db9ff5e948b13b0aced6c9c82461a6d3f5",
+    "fingerprint": [
+     "教育的目的",
+     "客观的标准",
+     "他人的感受"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "验证经验的真实性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军评柏拉图教育目的答案为最佳；恋爱感受难自证（行119-125）与西方重推荐信（行127）为例证并入"
+  },
+  {
+   "claim_id": "C-JJ-U0005-07",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "人认知天然含矛盾性，消除含糊矛盾看法需与人讨论对比，再以理性判断",
+   "quote": "就需要和别人讨论",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 131,
+    "end_line": 131,
+    "sha1": "7a1bf94a6f4c3ace032d9c678a0e823f81a1ba30",
+    "fingerprint": [
+     "ambivalence",
+     "矛盾",
+     "理性"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "以讨论消解认知矛盾",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "转述柏拉图 ambivalence（矛盾）概念并取用：讨论对比后用理性思考而非好恶作判断；吴军展开判断与取用入主干"
+  },
+  {
+   "claim_id": "C-JJ-U0005-08",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "有意义的讨论需两前提：各自说真实感受+在共同基础上谈同一件事",
+   "quote": "讨论问题有两个前提",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 133,
+    "end_line": 137,
+    "sha1": "7e39b6bb362ea583a303142775e836ebb70142fe",
+    "fingerprint": [
+     "真实的感受",
+     "共同的基础",
+     "系统性偏差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "讨论的两个前提",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "说假想正确想法会产生系统性偏差（行135，曾国藩至诚转述并入）；缺共同基础则各说各话（行137）"
+  },
+  {
+   "claim_id": "C-JJ-U0005-09",
+   "unit_id": "JJ-U0005",
+   "speaker": "吴军本人",
+   "claim_text": "增长见识唯有不断获得新经验并用理性思考和讨论去验证，别无他法",
+   "quote": "通过讨论验证真理",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 139,
+    "end_line": 139,
+    "sha1": "190b3f95324c63ef4c6c0214c9b21d57ec428806",
+    "fingerprint": [
+     "增长见识",
+     "别无他法",
+     "验证"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "经验加验证增长见识",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "苏格拉底未经审视的生活不值得过、柏拉图没有验证的经验靠不住为转述引语（行139）；孔门对话教学为佐证"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0005",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "柏拉图学术地位与苏格拉底无著作、思想多经柏拉图转述的哲学史叙事（行129），无独立可迁移判断，其要点并入 C-JJ-U0005-03 notes"
+  },
+  {
+   "unit_id": "JJ-U0005",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "译注出处（行97 张双棣《吕氏春秋译注》）与延伸阅读（行141）为编校信息，不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章为求真主题：孔子/柏拉图转述卡 2 张（E2）+吴军概括与取用判断 7 张，译注与哲学史背景记 X4/X8"
+}

@@ -1,0 +1,400 @@
+{
+ "unit_id": "JJ-U0013",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0013-01",
+   "unit_id": "JJ-U0013",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "《沉思录》有三条思想脉络：理性与本性（对世界人生的态度）、灵魂与死亡（生死永恒）、入世与出世（精神与物质）",
+   "quote": "我用“理性”和“本性”来概括",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 757,
+    "end_line": 757,
+    "sha1": "88dcf2e55099927b8bc07808038d39a24e1ed559",
+    "fingerprint": [
+     "三个维度",
+     "理性",
+     "入世"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1012",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著说明《沉思录》各卷各段无逻辑关联，三维度为吴军概括的脉络",
+   "boundary_integrator": "",
+   "notes": "吴军对《沉思录》的框架性概括（R1 总结句，三维度六关键词）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-02",
+   "unit_id": "JJ-U0013",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "奥勒留：神即万事万物背后的规律（天道）；理性是人本性的延伸而非激情欲望，遵从本性行事即理智且道德",
+   "quote": "理性是人“本性”的延伸",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 765,
+    "end_line": 779,
+    "sha1": "181366381526bddd501a4e690084f173b5590b31",
+    "fingerprint": [
+     "本性",
+     "神明",
+     "道德"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-1013",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著区分：与通常「激情欲望才是本性」的理解不同（767 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：马可·奥勒留/斯多葛学派。引文「幸福在哪里?就在于做人的本性所要求的事情」（777 行）；吴军注与老子庄子顺其自然相似（785 行）。「世界是理性的、万物互联」在 759-761 行"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-03",
+   "unit_id": "JJ-U0013",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "奥勒留论待人：焦虑愤怒源于太在意外在而迷失本性；对世人须保持仁爱之心，并适应与我们不同者的存在",
+   "quote": "保持仁爱之心",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 787,
+    "end_line": 789,
+    "sha1": "ca16ace47b375641190c9a892ff9e78b8a13d220",
+    "fingerprint": [
+     "仁爱之心",
+     "焦虑",
+     "本性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "CK-1014",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出条件：明白很多人与我们不一样，适应其存在则其伤害不到我们（789 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：奥勒留。焦虑是对自己的负面情绪、愤怒是对他人的（783 行）；向发怒者对抗违背与同类相处的本性（787 行）；劝不动者为善就算了（791 行前半）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-04",
+   "unit_id": "JJ-U0013",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "以对抗心态生活即使赢了也辛苦一生；尽可能适应环境、就事论事、争取合作化解矛盾，会活得轻松很多",
+   "quote": "适应不理想环境中的生活",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 791,
+    "end_line": 791,
+    "sha1": "b90ba0e7bf6d770c4a94366ba4e1a3e98d8f6469",
+    "fingerprint": [
+     "对抗",
+     "适应",
+     "合作"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4",
+    "D07-2"
+   ],
+   "concept_key": "CK-1015",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军自述职场经历后的总结（791 行）；有此心态后跟身边七八成的人都能和平相处。夫妻婆媳矛盾以真诚的爱求解，做不到就分开（793-795 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-05",
+   "unit_id": "JJ-U0013",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "奥勒留：一个人的价值可以用他所专注的事情来衡量；以快乐诱惑、痛苦恐吓我们的事物及浮华名声都毫无价值",
+   "quote": "他所专注的事情来衡量",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 799,
+    "end_line": 801,
+    "sha1": "d54e510cfa67a37d02dc159e8d930a725173d44c",
+    "fingerprint": [
+     "专注",
+     "名声",
+     "毫无价值"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "CK-1016",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：奥勒留；吴军注明「还有一个观点我很赞同」（801 行）。心静如水靠坚守心中神明=人性中的理性（803 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-06",
+   "unit_id": "JJ-U0013",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "奥勒留：万物有生必有死，死亡是物体的分解、回归自然，是自然的运转且有利于自然；惧怕死亡只是稚气未脱",
+   "quote": "有利于自然的事情",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 813,
+    "end_line": 813,
+    "sha1": "84cd7bbae82fcbdb9cacc1739d9c5345366b108b",
+    "fingerprint": [
+     "分解",
+     "自然",
+     "稚气未脱"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "CK-1017",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出二难式安慰结构（813 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：奥勒留。若死后走向另一生命则无须担心，若无知无觉则不再有痛苦（813 行）。人们对死亡的恐惧比死亡本身更可怕（809 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-07",
+   "unit_id": "JJ-U0013",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "死亡是一个人对世界做出的最后一次贡献：为后来者腾出位置、让家人得到解脱；企业死亡释放资源、鲸落滋养物种同理",
+   "quote": "最后一次贡献",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 815,
+    "end_line": 819,
+    "sha1": "790ccf817e17be5246e2be27c0f0272973fbe99f",
+    "fingerprint": [
+     "鲸落",
+     "贡献",
+     "癌细胞"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "CK-1018",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军取用（《硅谷之谜》企业观+生物界鲸落）；凯文·凯利「如果作为个体的人不死，人类就死了」为转述第三方观点（819 行）；纽约看讣告找房为例"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-08",
+   "unit_id": "JJ-U0013",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "奥勒留：寿命长短意义不大，人真正拥有的只有现在，最重要的只有珍惜当下",
+   "quote": "只有珍惜当下",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 823,
+    "end_line": 829,
+    "sha1": "8d7d5561d4dad05ab9a3e192b3d177284b54e2ba",
+    "fingerprint": [
+     "现在",
+     "珍惜当下",
+     "寿命"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "CK-1019",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：奥勒留（希波克拉底、亚历山大等皆逃不出命运，829 行）。吴军按语：年长者积累的偏见会超过见识的提升、地位权势不带来智慧（827 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-09",
+   "unit_id": "JJ-U0013",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "斯多葛学派主张以出世的态度做入世的事情：把财富地位与苦乐情感看淡，又埋头苦干、履行社会义务为大众谋幸福",
+   "quote": "以出世的态度，做入世的事情",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 839,
+    "end_line": 841,
+    "sha1": "cc7c0887172bf942f8572e1fec429d8a509f1764",
+    "fingerprint": [
+     "出世",
+     "入世",
+     "斯多葛"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "CK-1020",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：斯多葛学派（吴军概括）。奥勒留践行：不重名誉不贪享受却日日尽皇帝之责（841-847 行）；「不要谈论一个高尚的人应当具有什么品质，而要成为这样的人」（847 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-10",
+   "unit_id": "JJ-U0013",
+   "speaker": "史实",
+   "evidence_level": "E3",
+   "claim_text": "东晋谢安先隐居山林淡泊名利，乱世出山操劳国事（挫桓温、胜淝水），功成后主动隐退：其一生是以出世的态度入世的中国史印证",
+   "quote": "以出世的态度入世",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 849,
+    "end_line": 849,
+    "sha1": "77cbef749b62e7c9679c23f020ba6d4f1b0d4413",
+    "fingerprint": [
+     "谢安",
+     "淝水之战",
+     "隐退"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1021",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "史实叙述，原著未附适用条件",
+   "boundary_integrator": "",
+   "notes": "吴军读《沉思录》时联想到的中国史对读案例（849 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0013-11",
+   "unit_id": "JJ-U0013",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "入世是生活的目的，否则生命失去意义；应冷静达观地投入生活，不争不躲、仁爱宽容；归隐未必要退隐山林，归隐于内心即可",
+   "quote": "归隐于自己的内心就好",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 851,
+    "end_line": 851,
+    "sha1": "7565b7a4eb51abc6ad7ffd157d6847671f51f893",
+    "fingerprint": [
+     "入世",
+     "归隐",
+     "神明"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "CK-1022",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军总结句（「我一直认为」起首，851 行）；对待自己理性节制、看淡死亡、心中神明为伴"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0013",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "奥勒留与五贤帝生平、《沉思录》成书及克林顿乔布斯评价（741-755 行）为思想史背景；吴军小女儿读《沉思录》变平和为亲历引子（741 行）"
+  },
+  {
+   "unit_id": "JJ-U0013",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "第一篇结语：轴心时代群星与文明意义铺陈（853 行），属史观叙事，其中「先哲思想对认识世界和自我有启发」已由本单元各卡承载"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "沉思录单元：抽 11 卡（6 转述 E2+3 本人 E1/E2+1 史实 E3+1 本人概括 E1），生平与结语记 X4"
+}

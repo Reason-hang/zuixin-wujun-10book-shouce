@@ -1,0 +1,94 @@
+{
+ "unit_id": "JJ-U0038",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0038-01",
+   "unit_id": "JJ-U0038",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "最有价值的书是思想家著作与传记：不教挣钱不解决具体问题，却教人智慧",
+   "quote": "浓缩了人类文明成就的精髓",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 2183,
+    "end_line": 2183,
+    "sha1": "e96d568b86e51f19996e65ab58c32a9e8202c08b",
+    "fingerprint": [
+     "哲学的历史",
+     "智慧"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D02-3"
+   ],
+   "concept_key": "CK-8594",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军引黑格尔历史三分：自然的历史（史事）、反省的历史（以史为鉴）、哲学的历史（文明、科学、思想文化史，最有价值）；这类书浓缩人类文明成就的精髓和思想结晶。"
+  },
+  {
+   "claim_id": "C-JJ-U0038-02",
+   "unit_id": "JJ-U0038",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "把先贤思想作为工具理解世界、解决日常问题；无此思想成就不及现在十分之一",
+   "quote": "将他们的思想作为工具",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 2185,
+    "end_line": 2185,
+    "sha1": "30ac36813fbc563eca8ce27f607ce8dde1a2e14e",
+    "fingerprint": [
+     "十分之一",
+     "体会"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-8595",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军从大学时代起系统阅读哲学与思想家经典，在生活工作中体会其思想、作为工具理解身边世界解决日常问题；“如果没有从那些书中学到的思想，我能取得的成就可能连现在的十分之一都没有”。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0038",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "成书过程与致谢（2014 离开谷歌、英文版重读、疫情整理笔记、《硅谷来信3》专栏、得到团队与家人致谢，2187-2199）：出版后记叙事"
+  },
+  {
+   "unit_id": "JJ-U0038",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "CIP 版权数据与免责表述（2201-2203）：非正文内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "后记单元：读书价值与思想工具两判断成卡；成书致谢与版权页X4/X8"
+}

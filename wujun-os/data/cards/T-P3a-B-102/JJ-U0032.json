@@ -1,0 +1,286 @@
+{
+ "unit_id": "JJ-U0032",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0032-01",
+   "unit_id": "JJ-U0032",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "尼采的道德指人对世界的态度与世界观及其文化，非约定俗成的行为规范",
+   "quote": "人对世界的态度",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1919,
+    "end_line": 1919,
+    "sha1": "d5c7b44a88282a47a9ac95c5cce4e9d434987fa6",
+    "fingerprint": [
+     "道德",
+     "世界观"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8554",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采《善恶的彼岸》（1886）、《论道德的谱系》（1887）。道德分主人道德与奴隶道德。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-02",
+   "unit_id": "JJ-U0032",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "主人道德：有助于追求卓越与超越自我的价值；奴隶道德：软弱被动、靠阴招获利",
+   "quote": "追求卓越和超越自我",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1921,
+    "end_line": 1923,
+    "sha1": "ff2a473590be7b8cc09bd36cd2b25c1107f62479",
+    "fingerprint": [
+     "主人道德",
+     "奴隶道德"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "CK-8555",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采。主人=思想开阔、勇敢、诚实、守信、对自我价值有准确认识、有原则；奴隶=软弱懦弱胆小小气、遇事被动反应、悲观犬儒，通过求强者怜悯或腐蚀强者获权、“在底下玩阴的”（尼采以“实用性”形容）。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-03",
+   "unit_id": "JJ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "主奴道德生活例证：按孩子特点培养vs盲从鸡娃；坦荡合作vs厚黑阴谋论",
+   "quote": "厚黑学和丛林法则",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1925,
+    "end_line": 1925,
+    "sha1": "d46dadce424bf22831fe338dc22bf083692fbb7a",
+    "fingerprint": [
+     "鸡娃",
+     "投机取巧"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "CK-8556",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "案例",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军用生活例阐释：坚持按孩子本人特点培养、不在意议论、绝不违规=主人道德；不顾特点盲目鸡娃、为分数投机取巧=奴隶道德；大大方方本着合作精神解决问题 vs 笃信厚黑学丛林法则阴谋论。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-04",
+   "unit_id": "JJ-U0032",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "主人/奴隶指心态而非身份：独断国王可能被奴隶道德控制，贫民可有主人道德",
+   "quote": "取决于他行为中所蕴含的心态",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1929,
+    "end_line": 1931,
+    "sha1": "5f9d341bfe2f2730e5c107e839ae57061477cfae",
+    "fingerprint": [
+     "精神上的贵族",
+     "怨恨"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-3"
+   ],
+   "concept_key": "CK-8557",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采+吴军解读。与身份高低、财富多少无关；由怨恨报复推动的行为即奴隶道德，自我肯定主动做事即主人道德；尼采一生不富裕但始终是精神上的贵族，与中国古代的士相似——追寻崇高理想信念（1931）。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-05",
+   "unit_id": "JJ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "有道德原则总比没有强：无原则者只看眼前、终将半途而废或原地转圈",
+   "quote": "一定要坚持一些道德原则",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1933,
+    "end_line": 1933,
+    "sha1": "5d98d2d7962290845a3c0325a457e547259e038e",
+    "fingerprint": [
+     "道德原则",
+     "半途而废"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "CK-8558",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军观察判断：遵循奴隶道德原则也比没有任何原则好；要做成事、走得远、找到伙伴一同做事，就一定要坚持一些道德原则；尼采也肯定奴隶道德中的韧性值得学习。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-06",
+   "unit_id": "JJ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "批判阅读提醒：尼采主奴道德部分内容已过时（少数命令多数服从的判断已变）",
+   "quote": "部分内容已经过时了",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1935,
+    "end_line": 1935,
+    "sha1": "1162e7d0f426c30fe2892531f0d5b095de343ca4",
+    "fingerprint": [
+     "命令者",
+     "服从者"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8559",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军提醒读尼采书注意时代局限：尼采引“总是有跟为数甚少的命令者相比非常之多的服从者”（《善恶的彼岸》），认为大多数民众逆来顺受乐意接受强人安排，今天这种情况已改变。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-07",
+   "unit_id": "JJ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "吴军转译：宁用主动心态/被动心态表述；主人心态不需物质地位，重在原则与态度",
+   "quote": "以主人翁的心态看待问题",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1937,
+    "end_line": 1943,
+    "sha1": "568a741ce6a1d3d1f422649de39eced8431b3d9d",
+    "fingerprint": [
+     "主人心态",
+     "被动心态"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-3"
+   ],
+   "concept_key": "CK-8560",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军不觉得“主人”傲慢；以积极态度生活、赋予生命新意义、以主人翁心态看待和解决问题，就是真正理解了主人-奴隶道德说（1943）。"
+  },
+  {
+   "claim_id": "C-JJ-U0032-08",
+   "unit_id": "JJ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "物质丰富未解精神匮乏：金钱崇拜使人无原则，信息易得使人失去自我与创造力",
+   "quote": "失去了自我和创造力",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1945,
+    "end_line": 1945,
+    "sha1": "a8dfb28d5d2ba1533fb1c6193157a24bca98b8f9",
+    "fingerprint": [
+     "精神匮乏",
+     "金钱"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4",
+    "D01-4"
+   ],
+   "concept_key": "CK-8561",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "今天堂堂正正做人似比尼采时代更困难；娱乐至死比以往任何时代更普遍；尼采哲学贯穿对人生意义和个人价值的肯定，让人以主人心态面对社会；人成了主人之后，接下来要做的就是超越自我（引向超人学说）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0032",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "主奴道德说著作出处与版本信息（1917、1941）：文献考据"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "主奴道德章：概念与对比转述卡+生活例证E3+吴军转译与当代对照共8张"
+}

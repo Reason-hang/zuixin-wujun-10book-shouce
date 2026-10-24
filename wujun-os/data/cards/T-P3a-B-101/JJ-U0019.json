@@ -1,0 +1,335 @@
+{
+ "unit_id": "JJ-U0019",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0019-01",
+   "unit_id": "JJ-U0019",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "莱布尼茨充分性推理原则：凡事有果必有因；把所有必要条件凑齐即构成充分条件，结果必然发生",
+   "quote": "凡事有果必有因",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1071,
+    "end_line": 1075,
+    "sha1": "8b68377b0c9369f8df172d09f16285287a2c3de6",
+    "fingerprint": [
+     "莱布尼茨",
+     "必要条件",
+     "充分性推理"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1051",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：莱布尼茨（充足理由律）。若必要条件凑齐而结果未发生，说明还有必要条件没找到（1109 行）；该原则本为证明上帝存在（1137 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-02",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "真理分永真（重言式，无条件）与相对（有条件）；重言式看似废话却能以逻辑组合构建知识体系；自然科学真理皆有条件",
+   "quote": "帮我们构建起知识体系",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1083,
+    "end_line": 1095,
+    "sha1": "95d675efc7c0775f8ff7e5b2407861f88d54971d",
+    "fingerprint": [
+     "重言式",
+     "相对真理",
+     "条件"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1052",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出条件分类：永真无条件，自然科学真理有条件",
+   "boundary_integrator": "",
+   "notes": "「1+1=2」与「单身人士」定义皆重言式（1081-1083 行）；由 1+1=2 等重言式逻辑组合得新永真命题（1087-1091 行）；水 100℃ 沸腾需一个大气压（1095 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-03",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "分清必要与充分条件：绩效达标、读书用功都只是必要条件；凑齐所有必要条件才构成充分条件，结果未发生说明还有条件没找到",
+   "quote": "必要条件，而不是充分条件",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1101,
+    "end_line": 1109,
+    "sha1": "79eea40c9bf6e2687635d3242e4eab2e02c474c7",
+    "fingerprint": [
+     "必要条件",
+     "充分条件",
+     "提拔"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1053",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "职场提拔例：绩效达标+推荐材料皆必要条件（1103-1107 行）；善于职场晋升者会事先把所有必要条件问清楚（1109 行）；「答应条件就一定能办成吗」即在找充分条件"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-04",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "探究本源是不断证伪先前结论的过程：每发现结果未发生就找新的必要条件（杂质、微波炉无对流），科学由此累积前进",
+   "quote": "不断证伪先前结论",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1111,
+    "end_line": 1115,
+    "sha1": "9325191ef274bd611dba12d98f82f1a16a257daa",
+    "fingerprint": [
+     "证伪",
+     "必要条件",
+     "微波炉"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1054",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "盐水糖水沸点升高、微波炉加热无对流不沸腾（1111-1113 行）；17 世纪进入科学时代后大部分新知识由此获得（1115 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-05",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "对原因的原因不断溯源（分子→化学键→原子核→核力），知识经充分条件形成逻辑链；数学溯源止于公理，自然科学可无穷尽",
+   "quote": "形成一个逻辑链",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1127,
+    "end_line": 1135,
+    "sha1": "8e4c3064910eb5612f90943f9e2bd7287dc720be",
+    "fingerprint": [
+     "溯源",
+     "逻辑链",
+     "公理"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1055",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出边界：自然科学溯源可无穷无尽、直到问不下去（1135 行）",
+   "boundary_integrator": "",
+   "notes": "太阳内部温度过高则原子无法成键、物质不由分子构成（1119-1123 行）；量子力学与广义相对论至今无法统一，因充分条件未明（1135 行）；「粗心」只是直接原因，须找原因的原因（1161-1163 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-06",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "人文学科溯因比自然科学难：历史事件不重复、必要条件难验证；各派争论不休不说明谁错，只说明找原因难，故学术需要宽容",
+   "quote": "只能说明寻找原因很难",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1139,
+    "end_line": 1145,
+    "sha1": "b9fbbbae81bfafacd41fdec2a5679ffcdb40f8be",
+    "fingerprint": [
+     "人文学科",
+     "辛亥革命",
+     "宽容"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1056",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "辛亥革命爆发出几十个原因；四川保路运动是否为清朝灭亡必要条件亦有争议（1141-1143 行）；自然科学可反复实验，社会事件不可重复"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-07",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "对任何重要结论，不仅要看是否符合事实，还要看是否符合逻辑：报道删 5% 文字即可呈现相反结论，溯因推导可发现被遗漏的事实",
+   "quote": "是否符合事实",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1149,
+    "end_line": 1151,
+    "sha1": "13d3f4775dd3267a0268b179ab9ac944f9f75a3f",
+    "fingerprint": [
+     "事实",
+     "逻辑",
+     "偏差"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1057",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "纯粹理性原则是判断消息真实性的好工具（1155 行，锚外呼应）；克强指数例见 C-JJ-U0019-08"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-08",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "克强指数以用电量、铁路货运量、贷款余额三个与 GDP 正相关的数据加权测算增长，体现用因果相关数据交叉检验经济事实",
+   "quote": "克强指数",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1153,
+    "end_line": 1153,
+    "sha1": "58a56ca496c5e4c57076025663866969d2b00b8b",
+    "fingerprint": [
+     "克强指数",
+     "用电量",
+     "正相关"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1058",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "待判",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "专名案例+可迁移机理（可验证因果数据交叉检验统计）；由来：2007 年李克强与美国大使雷德谈话，《经济学人》据此命名；公式：用电量40%+铁路货运量25%+中长期贷款余额35%"
+  },
+  {
+   "claim_id": "C-JJ-UU0019-09",
+   "unit_id": "JJ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "几乎所有结论的成立都有条件：死记结论必生搬硬套；有疑问就该思考提问，培养创造力的第一步是培养理性思维",
+   "quote": "培养理性思维",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1167,
+    "end_line": 1173,
+    "sha1": "7fbaf1474bbc99a7db2cfccd36e3947d849eea31",
+    "fingerprint": [
+     "生搬硬套",
+     "追问",
+     "理性思维"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-1059",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "「书上就是这么说的」式教育与中世纪教条无异，会打击孩子刨根问底的天性（1169 行）；养成刨根问底思维方式者即使不做科研也有独立思考判断力（1171 行）；新教区创造力与理性传统相关（1171 行）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0019",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "莱布尼茨学术地位铺陈（1073 行）与「上帝」始因的哲学背景（1137 行）为思想史叙事，已并入相关卡 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "充分性推理单元：抽 9 卡（4 本人 E1+4 本人 E2+1 本人 E3），谱系背景记 X4"
+}

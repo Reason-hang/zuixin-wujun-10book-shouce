@@ -1,0 +1,124 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD",
+  "cards": [
+    {
+      "claim_id": "CG-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把事情做好有三条边：基线、理论极限和连接两者的路径",
+      "quote": "做事情的三条边",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1066,
+        "end_line": 1072,
+        "sha1": "c6abb1a5b75c083f4182ddfe9fc045a741008082",
+        "fingerprint": [
+          "三条边",
+          "方法论",
+          "Google"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "把事情做好的三条边",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "全信总框架（Z形图）；基线见 CG-GG-U0013-02、极限见 CG-GG-U0013-03、连接路径见 CG-GG-U0013-04"
+    },
+    {
+      "claim_id": "CG-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "工作应建立在时代基线之上而非其下；基线太低是蛮干无果的原因",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1077,
+        "sha1": "72626f65f57745235c90c946c1e61d737e201a45",
+        "fingerprint": [
+          "基线",
+          "民间发明家",
+          "蛮干"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "基线与提高基线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "莱特兄弟系统学习凯利理论（行1079-1083）为例证；教育/培训/不主张退学创业=提高基线（行1087）；散户投资同理（行1086）"
+    },
+    {
+      "claim_id": "CG-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "理论给出的极限无法突破，专业人士与业余者的差别在于懂极限",
+      "quote": "是否了解极限的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1092,
+        "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0",
+        "fingerprint": [
+          "极限",
+          "卡诺定理",
+          "业余爱好者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "理论极限无法突破",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "卡诺定理、图灵机、摩尔定律、冯·诺依曼结构为例证"
+    },
+    {
+      "claim_id": "CG-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "有基线和极限还不够，工程师的工作是找到连接两者的攀登绳索",
+      "quote": "找到或者编织攀登绳索",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1098,
+        "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28",
+        "fingerprint": [
+          "绳索",
+          "鸟巢",
+          "斜线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "连接基线与极限的路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "鸟巢施工（李久林）与L君融资（行1099-1108）为例证：明确通道、通道之外的事不做、把天花板变成基础；工程师与科学家之别（行1095）并入：科学家证明可做，工程师明白怎么做"
+    }
+  ],
+  "x_disposals": []
+}

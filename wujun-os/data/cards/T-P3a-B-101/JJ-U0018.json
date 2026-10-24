@@ -1,0 +1,308 @@
+{
+ "unit_id": "JJ-U0018",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0018-01",
+   "unit_id": "JJ-U0018",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "笛卡尔科学方法五要点：不盲从、大胆假设小心求证、化繁为简、先易后难、综合答案；前两个是道，后三个是术",
+   "quote": "五个要点",
+   "type": "清单",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1007,
+    "end_line": 1009,
+    "sha1": "83116b2ee0f5d2c50f4bd6c45e91af41f610086a",
+    "fingerprint": [
+     "笛卡尔",
+     "科学方法",
+     "要点"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1043",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著说明：这套方法亦称科学方法（1007 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：笛卡尔《方法论》。各要点展开见 C-JJ-U0018-02/03/04，模块化综合见 06；「道/术」分层出自吴军（1055 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-02",
+   "unit_id": "JJ-U0018",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "不盲从：不接受任何自己不清楚的结论，哪怕来自权威；「怀疑一切」非胡乱猜疑，而是用理性过滤有明显矛盾的结论",
+   "quote": "用理性过滤",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1011,
+    "end_line": 1013,
+    "sha1": "de8e23491558d6028daff4a906b2913fd09f9a25",
+    "fingerprint": [
+     "怀疑一切",
+     "权威",
+     "理性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1044",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出边界：怀疑一切≠胡乱猜疑疑神疑鬼（1013 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：笛卡尔。时代背景：17 世纪前人们习惯服从权威与正统（1011 行）；吴军取用：信息多而彼此矛盾的今天，听专家、先入为主即懒惰（1013 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-03",
+   "unit_id": "JJ-U0018",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "大胆假设＝假设时不引入任何未经检验的先验知识；小心求证＝靠逻辑而非个人感受得结论，逻辑结论不受感受影响才普遍可靠",
+   "quote": "未经检验的先验知识",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1017,
+    "end_line": 1019,
+    "sha1": "4e667bd0134a0722f0acfc8289c660cb60804435",
+    "fingerprint": [
+     "先验知识",
+     "假设",
+     "求证"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1045",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出条件：不排除不符合直观的备择假设（1019 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：笛卡尔。「大胆假设，小心求证」八字系胡适对其思想的总结（1017 行）；增税例：不能一开始排除「税率提高反使税收减少」（1019 行）；头脑风暴与阿奎那辩证法同源（1021-1023 行）；蜂蜡例（1025 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-04",
+   "unit_id": "JJ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "解决问题的能力大多体现在能拆解问题上；能干的人未必花更多时间，而是能按部就班解决各种问题的人",
+   "quote": "体现在能拆解问题上",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1039,
+    "end_line": 1049,
+    "sha1": "442317b1dc5b90db8711c8756f109c143a419481",
+    "fingerprint": [
+     "拆解",
+     "先易后难",
+     "按部就班"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "CK-1046",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军按语（笛卡尔化繁为简、先易后难两要点的取用）：难题如复杂几何题，拆解到定义公理定理（1041 行）；庖丁解牛类比；拼图数独先做能做的（1047 行）；死磕知难而上可敬但解决问题要讲方法（1049 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-05",
+   "unit_id": "JJ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "今天的复杂问题来自复杂的系统：把每个局部搞清楚也不等于能简单拼接还原整体，还须花大量时间搞清局部之间的关联",
+   "quote": "还原系统这个整体",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1053,
+    "end_line": 1053,
+    "sha1": "eef62a547bd74dc5e9f70704da2b2dcb1582222a",
+    "fingerprint": [
+     "复杂的系统",
+     "局部",
+     "关联"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "CK-1047",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著限定：笛卡尔时代复杂问题常是简单问题叠加，今日不然（1053 行）",
+   "boundary_integrator": "",
+   "notes": "吴军对「综合答案」要点的时代性补充：过去问题如搭积木，今天如真盖房——砖要水泥粘、钢筋要焊接（1053 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-06",
+   "unit_id": "JJ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "化繁为简+先易后难+综合答案＝模块化方法：问题分析、模块实现、模块集成；模块可重复使用，带来可叠加式进步",
+   "quote": "问题分析、模块实现和模块集成",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1055,
+    "end_line": 1055,
+    "sha1": "695a4e17bd5f9f0c323785242c99a0211fe29fd4",
+    "fingerprint": [
+     "模块化",
+     "可叠加",
+     "重复使用"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D01-1"
+   ],
+   "concept_key": "CK-1048",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军综合判断（1055 行）；证数学题同时发现新定理=中间模块；曼哈顿计划、阿波罗登月催生大量可复用技术"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-07",
+   "unit_id": "JJ-U0018",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "笛卡尔分知识三类：生来就有（本能）、从外界学来（他人告之）、自己创造；第三类最重要，人类进步速度取决于其产生速度",
+   "quote": "自己创造的知识",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 999,
+    "end_line": 1007,
+    "sha1": "d67b8fa3610e2c271d6f261bc9e4e4e65686e6cf",
+    "fingerprint": [
+     "三类",
+     "创造",
+     "知识"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-1049",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：笛卡尔。吴军按语：今天的挑战是第二类知识总量太多，必须知道如何过滤，接受太多甚至有害（1005 行）；创造力取决于能否创造知识"
+  },
+  {
+   "claim_id": "C-JJ-UU0018-08",
+   "unit_id": "JJ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "科学革命加速的主因是科学家掌握了好方法论、获得可重复的成功；此前方法靠自发、成败系于个人条件与机遇",
+   "quote": "可重复的成功",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 983,
+    "end_line": 983,
+    "sha1": "ae4b7f97f52a24e36234796958088a05e1be9c92",
+    "fingerprint": [
+     "方法论",
+     "科学革命",
+     "运气"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1050",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "此前突破常等几百年（983 行）；喜帕恰斯靠超常视力、开普勒靠继承数据、亚里士多德靠亚历山大——条件难重复（1057 行）；笛卡尔之后别人能做成的我们也能做成、第一次做成第二次还能做成（1059-1061 行）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0018",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "笛卡尔生平（家世、游历、从军、瑞典女王宫廷教师轶闻，985-997 行）与墓志铭评价（1063 行）为人物史叙事"
+  },
+  {
+   "unit_id": "JJ-U0018",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "附录：笛卡尔关于「大胆假设、小心求证」的原文引录（1065-1067 行），核心已入 C-JJ-U0018-03"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "系统发现真理方法单元：抽 8 卡（4 本人 E1+4 转述 E2），笛卡尔生平与附录记 X4"
+}

@@ -1,0 +1,259 @@
+{
+ "unit_id": "JJ-U0012",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0012-01",
+   "unit_id": "JJ-U0012",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "伊壁鸠鲁主张人生目的即追求快乐，但快乐非肉体快感，而是无痛苦、感受幸福的明智、清醒和道德的生活",
+   "quote": "明智、清醒和道德的生活",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 693,
+    "end_line": 695,
+    "sha1": "5304a6384e8719d4741e4c9aaf5dda6a7a50fe17",
+    "fingerprint": [
+     "没有痛苦",
+     "感受到幸福",
+     "伊壁鸠鲁"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "CK-1005",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著说明此为伊壁鸠鲁学说本义，与后世「纸醉金迷」用法相对（675、683 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：伊壁鸠鲁（693 行）。花园告示「在这里享乐乃是至善之事」（691 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0012-02",
+   "unit_id": "JJ-U0012",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "伊壁鸠鲁分快乐为动态与静态：动态快乐暂时、静态快乐长久；人本能先取动态，最终幸福靠持久的静态快乐",
+   "quote": "静态的快乐更加长久",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 697,
+    "end_line": 699,
+    "sha1": "ff90dc53a65cb3866b7c2e91371c387422ad778f",
+    "fingerprint": [
+     "动态的快乐",
+     "静态的快乐",
+     "幸福"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4",
+    "D01-4"
+   ],
+   "concept_key": "CK-1006",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：伊壁鸠鲁。生活的目的在最大化快乐、最小化痛苦，即快乐减去痛苦的相对值最大化（699 行）；动态≈感官、静态≈精神之解亦出自本段"
+  },
+  {
+   "claim_id": "C-JJ-UU0012-03",
+   "unit_id": "JJ-U0012",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "吴军评述：以感官享乐冠伊壁鸠鲁之名是对其思想的曲解；其办法是行事前理性权衡快乐与痛苦的多寡",
+   "quote": "对伊壁鸠鲁思想的曲解",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 701,
+    "end_line": 701,
+    "sha1": "34b8ec1ac9ab977e955ba86bb6e8b62df26e2906",
+    "fingerprint": [
+     "曲解",
+     "理性",
+     "痛苦"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "CK-1007",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "伊壁鸠鲁原话「愉悦的生活……需要通过清醒的思维来获得」（701 行）为被转述内容；吴军取用为行事权衡办法"
+  },
+  {
+   "claim_id": "C-JJ-UU0012-04",
+   "unit_id": "JJ-U0012",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "伊壁鸠鲁把快乐看成善、痛苦看成恶，趋乐避苦即趋善避恶；不理智、不公正的行为终将带来痛苦",
+   "quote": "把快乐看成善",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 705,
+    "end_line": 705,
+    "sha1": "87a3cb7811cf97d75fdb103e7d3a092dd49c844e",
+    "fingerprint": [
+     "善",
+     "恶",
+     "趋善避恶"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "CK-1008",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出条件：即便无道德感者，仇恨与法律制裁仍构成长期静态痛苦（707 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：伊壁鸠鲁。吴军例证：合法挣钱快乐短暂、坑蒙拐骗良心不安痛苦持久；逃税朋友建开曼信托终陷长期恐惧（705-709 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0012-05",
+   "unit_id": "JJ-U0012",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "为动态快感招致静态长期痛苦不符合幸福原则；讲幸福趋利避害是让行为对长期有利，获得持久恒定的幸福",
+   "quote": "持久恒定的幸福",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 711,
+    "end_line": 711,
+    "sha1": "aaaad76e8521e0fdd5d73054fee053f51f2db57a",
+    "fingerprint": [
+     "幸福的原则",
+     "长期有利",
+     "持久恒定"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "CK-1009",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著边界：以「快乐减痛苦相对值为正」为条件",
+   "boundary_integrator": "",
+   "notes": "吴军总结句（711 行）；概念键：幸福原则=行为对长期有利。依法纳税睡得好为其亲身例证（713 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0012-06",
+   "unit_id": "JJ-U0012",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "伊壁鸠鲁建议降低对物质欲望的追求：生存必需品即足，追求奢侈恰恰背离其主张；可支配的快乐是内心和精神的快乐",
+   "quote": "内心和精神的快乐",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 717,
+    "end_line": 725,
+    "sha1": "30fc629a0c0306b47067f9fa23edeafb18687eab",
+    "fingerprint": [
+     "生存必需品",
+     "奢侈",
+     "副作用"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-4",
+    "D02-3"
+   ],
+   "concept_key": "CK-1010",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出清单边界：生存必需品=简单食物、居所与基本保障（719 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：伊壁鸠鲁。快乐清单：食物、衣物、住所、友谊、自由、思想（735 行）；肉欲与物质快感是外界强加且带副作用（721 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0012-07",
+   "unit_id": "JJ-U0012",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "伊壁鸠鲁建议不要惧怕死亡：对死亡的恐惧带来的痛苦远大于死亡本身的伤害；灵魂由原子构成，死后消散",
+   "quote": "不要惧怕死亡",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 727,
+    "end_line": 733,
+    "sha1": "4579187f47a523e6a2ceb565754f1e3dafd12086",
+    "fingerprint": [
+     "死亡",
+     "原子",
+     "恐惧"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "CK-1011",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：伊壁鸠鲁（原子论承自德谟克利特）。「死亡和我们没有关系」与墓志铭 Non fui. Fui. Non sum. Non curo.（733 行）；吴军注明这种人生态度其很喜欢"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0012",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "伊壁鸠鲁生平（出身萨摩斯岛、花园哲学家、学派建制，685-691 行）与渔民基金经理笑话（677-679 行）为引子性叙事"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "伊壁鸠鲁单元：抽 7 卡（5 转述 E2+1 本人 E2+1 本人 E1），生平叙事记 X4"
+}

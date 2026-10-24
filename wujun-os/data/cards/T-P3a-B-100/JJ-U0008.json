@@ -1,0 +1,284 @@
+{
+ "unit_id": "JJ-U0008",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0008-01",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "柏拉图主张靠理性思考和讨论求知识，亚里士多德发展出科学哲学方法论",
+   "quote": "要靠理性思考和讨论",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 383,
+    "end_line": 383,
+    "sha1": "002e58be94a6ab56c78e7078f42c661975587553",
+    "fingerprint": [
+     "四因说",
+     "理性思考",
+     "科学哲学"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "柏拉图与亚里士多德认识论分野",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军的哲学史比较评述：四因说标志两人认识论分道扬镳；三角形内角和靠推理为例（行383）"
+  },
+  {
+   "claim_id": "C-JJ-U0008-02",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "科学哲学是科学研究的基础方法、了解世界的方法论，做研究必须掌握",
+   "quote": "是我们了解世界的方法论",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 383,
+    "end_line": 385,
+    "sha1": "1bb625d07cf116f34e48ab9772d610fd73799a82",
+    "fingerprint": [
+     "科学哲学",
+     "方法论",
+     "博士"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学哲学方法论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "读博无论文理都需了解科学哲学、不掌握难以融入学术圈（行385）；库恩《科学革命的结构》范式转换为颠覆式创新理论基础（行387-389）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0008-03",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "吴军评价：科学哲学人类共走的90步中，亚里士多德走完了前70步",
+   "quote": "前面70步都是亚里士多德走完的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 391,
+    "end_line": 395,
+    "sha1": "aed11c9783464ea41cb6219d9ff7a8b8b8c8fac4",
+    "fingerprint": [
+     "90步",
+     "70步",
+     "经验"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "亚里士多德90步之喻",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对亚氏地位的评价性比喻；今天进步在更严密数学基础、双方基本原则无分歧（行395）；方法论源于其16年生物学研究（行397-399）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0008-04",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "不信神不意味着不迷信，有些人只是改变了迷信的对象（专家、智者）",
+   "quote": "只是改变了迷信的对象",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 417,
+    "end_line": 417,
+    "sha1": "c60ff55f669b98242a4c789b911c10e1a09f8c4f",
+    "fingerprint": [
+     "迷信",
+     "专家",
+     "神话世界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "迷信对象的转移",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "指望智者给出所有问题答案=仍相信有启示自己的神话世界；早期文明神话解释与吠陀幻象（行405-415）为背景史实"
+  },
+  {
+   "claim_id": "C-JJ-U0008-05",
+   "unit_id": "JJ-U0008",
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：可以相信自己的感官经验，现实世界不是虚幻、经验上有形",
+   "quote": "在经验上是有形的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 419,
+    "end_line": 419,
+    "sha1": "66942b051fe63424d19d846532c3a34eaa74a648",
+    "fingerprint": [
+     "感官经验",
+     "有形",
+     "实在"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "经验上有形",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：亚里士多德；empirically tangible 可触碰之义；与柏拉图《雅典学院》手势对照（行419）；吾爱吾师吾更爱真理的拉丁文直译辨析（行421-423）并入"
+  },
+  {
+   "claim_id": "C-JJ-U0008-06",
+   "unit_id": "JJ-U0008",
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德知识三分：科学知识靠经验加逻辑、技能知识靠练习、道德知识靠实践",
+   "quote": "把知识分成了三类",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 429,
+    "end_line": 437,
+    "sha1": "ade1269855720029aaae4e6b6b02175b98d36e73",
+    "fingerprint": [
+     "科学知识",
+     "技能知识",
+     "道德知识"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "知识三分类",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：亚里士多德；吴军取用例证并入：大学生一毕业做管理不切实际、管理学是道德知识（行437）；科学知识求真提供原因、技能知识提供工具（行443-445）"
+  },
+  {
+   "claim_id": "C-JJ-U0008-07",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "人文对科学是放风筝的人：松绑让科学飞更高，彻底剪断线终会坠落",
+   "quote": "高飞的风筝与放风筝的人",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 447,
+    "end_line": 447,
+    "sha1": "0b97013dd1691e78ccaf8c4b9cf183e12b08eedd",
+    "fingerprint": [
+     "人文",
+     "风筝",
+     "指导作用"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "人文与科学的风筝",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "科学与人文关系的比喻判断：人文的指导作用最易被忽略（行447）"
+  },
+  {
+   "claim_id": "C-JJ-U0008-08",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "世界上的知识是相通的：背后逻辑相通，学透一门掌握通用方法论可一通百通",
+   "quote": "世界上的知识是相通的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 459,
+    "end_line": 459,
+    "sha1": "345fa3eb6f603fdc153668212ca402dbe0823c96",
+    "fingerprint": [
+     "相通",
+     "逻辑",
+     "方法论"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "知识相通",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "杰出学者多科建树、华尔街最好交易员学理论物理出身为例（行459）；无论学什么都要认认真真学透彻"
+  },
+  {
+   "claim_id": "C-JJ-U0008-09",
+   "unit_id": "JJ-U0008",
+   "speaker": "吴军本人",
+   "claim_text": "所有知识都是不断触碰世界的结果：信世界可触碰并不断去触碰",
+   "quote": "不断地去触碰它",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 461,
+    "end_line": 461,
+    "sha1": "a75dd88d16b6ef6fc369b487f1469ba2bf00e94a",
+    "fingerprint": [
+     "可触碰",
+     "管理学课程",
+     "爱情小说"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "可触碰的经验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "没有人能靠学一百门管理学课程管好公司、读一百本爱情小说收获爱情（行461）；任何知识体系都可用系统方法扩展（行449）并入"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0008",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "早期文明借神话解释世界、吠陀幻象论、色即是空与慧能偈语、柏拉图理念世界评述（行401-415）为哲学与宗教史叙事，其现代取用已入 C-JJ-U0008-04"
+  },
+  {
+   "unit_id": "JJ-U0008",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "伊斯兰文明黄金时代继承发展亚里士多德、经验主义始祖源流（行451-455）为思想史叙事，无独立可迁移判断"
+  },
+  {
+   "unit_id": "JJ-U0008",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "原书行内残留电子书分享水印文字（行383 括注）与行457 行首残留字符“米”，提请 P4 版式清理，不影响锚点有效性"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章科学哲学：转述卡 2 张+吴军评述卡 2 张（E2）+本人判断 5 张，神话解释史与思想史源流记 X4，版式残留记 X8"
+}

@@ -1,0 +1,159 @@
+{
+ "unit_id": "JJ-U0017",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0017-01",
+   "unit_id": "JJ-U0017",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "伽利略靠指出亚里士多德落体说的逻辑矛盾（两球相缚则快慢悖论）得出轻重同速；比萨斜塔实验即便存在也只是验证，知识来自理性",
+   "quote": "他的知识来自理性",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 963,
+    "end_line": 963,
+    "sha1": "acdcd6b128548410e60ba7e51c428d97e56cb739",
+    "fingerprint": [
+     "伽利略",
+     "矛盾",
+     "比萨斜塔"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1039",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著说明：即便做过实验也只是验证想法，非由经验获得知识（963 行）",
+   "boundary_integrator": "",
+   "notes": "专名案例+可迁移机理（逻辑矛盾证伪法）；10磅与1磅球绑定：按亚氏说既应更快又应更慢，矛盾→只能同速（963 行）。斜塔实验仅维维亚尼记录、科学史家存疑（959-961 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0017-02",
+   "unit_id": "JJ-U0017",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "理性成立的条件是假设前提必须正确；伽利略虽笃信理性，也因前提错误犯过错",
+   "quote": "假设前提必须正确",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 965,
+    "end_line": 967,
+    "sha1": "daf9ec0359a52a88ab19ca5438942a7f57760e67",
+    "fingerprint": [
+     "伽利略",
+     "前提",
+     "理性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1040",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出条件：前提正确",
+   "boundary_integrator": "",
+   "notes": "伽利略对日心说的完善是理性思考成果，但也因前提错误犯错（965-967 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0017-03",
+   "unit_id": "JJ-U0017",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "哈维由逻辑推算心脏泵血量发现盖伦理论矛盾，先提血液循环猜想、再以九年实验验证，确立「逻辑自洽假设+实验验证」的医学方法",
+   "quote": "从逻辑推理出发",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 973,
+    "end_line": 973,
+    "sha1": "4874244a67100905c736c1aca98b03bec7cbb82a",
+    "fingerprint": [
+     "哈维",
+     "血液循环",
+     "实验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1041",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "专名案例+可迁移机理（量级推算发现矛盾）；心脏一小时泵近500磅血浆→血液必须循环（973 行）；盖伦经验医学的放血疗法谬误（971 行，锚外背景）；哈维方法启发笛卡尔《方法论》（973 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0017-04",
+   "unit_id": "JJ-U0017",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "生活中很多事不必真做，靠逻辑就能验证真假：多数大学毕业生年薪百万不可能、带庞氏骗局色彩的投资必爆雷",
+   "quote": "靠逻辑就能验证其真假",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 975,
+    "end_line": 977,
+    "sha1": "576d7600b8225a81969cadeb7d8884849a0dcf1b",
+    "fingerprint": [
+     "庞氏骗局",
+     "逻辑",
+     "年薪"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1042",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "例证出自吴军《软能力》（975 行）；逻辑的预见性既适用于物理学也适用于医学等经验领域（969 行）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0017",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "中世纪哲学史铺陈：奥古斯丁以柏拉图哲学立神学、阿奎那纳科学入神学及其后果（953-955 行），为背景叙事"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "逻辑预见性单元：抽 4 卡（2 本人 E1+2 本人 E3 案例卡），中世纪哲学史记 X4"
+}

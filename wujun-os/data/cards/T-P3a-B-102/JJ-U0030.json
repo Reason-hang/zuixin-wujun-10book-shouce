@@ -1,0 +1,436 @@
+{
+ "unit_id": "JJ-U0030",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0030-01",
+   "unit_id": "JJ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "尼采提供了一套哲学思想工具，能帮助现代人摆脱心灵困境",
+   "quote": "哲学和思想上的工具",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1773,
+    "end_line": 1773,
+    "sha1": "8a71c2a86ad4035443ba4ba5170575ad4ed6cfeb",
+    "fingerprint": [
+     "尼采",
+     "低谷"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "CK-8536",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军亲历：身体与心情最低谷时读尼采走出困境。尼采不好懂：著作不富逻辑性+需了解欧洲文化历史，否则易片面误解；纳粹借用其思想宣传属断章取义（1775）。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-02",
+   "unit_id": "JJ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "尼采思想难懂：书缺逻辑性且需欧洲历史文化背景，字面理解易断章取义",
+   "quote": "很容易产生片面的理解和误解",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1775,
+    "end_line": 1775,
+    "sha1": "b68d5f8ab8a6b2e53283e04776d4f7efd7215464",
+    "fingerprint": [
+     "逻辑性",
+     "断章取义"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8537",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军方法论提醒：纳粹借尼采宣传其理念、有人称其危险思想家，均是断章取义；真正了解欧洲历史与尼采思想后可知误解所在。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-03",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "叔本华唯意志论：世界分表象与意志，根本上是意志；理念靠感知获得",
+   "quote": "表象和意志两部分",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1783,
+    "end_line": 1785,
+    "sha1": "b89c05e2b813345cea0dd8ebf387d677d0611c6d",
+    "fingerprint": [
+     "唯意志论",
+     "理念"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8538",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：叔本华《作为意志和表象的世界》。与柏拉图二元世界同构（理念为桥梁），但叔本华的理念可经感知获得、强调艺术审美对认知的作用，柏拉图理念须靠纯粹理性推理触及。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-04",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "叔本华奠定尼采两基调：人生悲剧底色+意志作用；但尼采转向积极创造",
+   "quote": "生命存在无限可能",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1787,
+    "end_line": 1791,
+    "sha1": "85e62a522a6097436ff041aae5844b971e18906e",
+    "fingerprint": [
+     "悲剧的底色",
+     "创造"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8539",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：叔本华、尼采。叔本华：人生就是痛苦、似乎无法改变（消极）；尼采：生命存在无限可能、应积极去创造。其二，叔本华启发尼采思考非理性的艺术对感知世界的作用。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-05",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "尼采：军事政治的胜利不仅带不来先进文化，反而可能制约文化发展",
+   "quote": "反而有可能制约文化的发展",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1813,
+    "end_line": 1813,
+    "sha1": "9bdc90a0bdff8dc6a83646a96bc6da01424dd2fb",
+    "fingerprint": [
+     "普法战争",
+     "法兰西"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8540",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采。普法战争胜利后日耳曼人自认文化超法，尼采指出德意志文化底蕴比法兰西差得远；德文化最大威胁恰是其军事政治胜利（1811）。纳粹把军国主义与德意志文化绑定宣传恰是尼采反对的（1815）。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-06",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "酒神精神指人非理性的一面，日神精神指理性的一面；二者构成人的两维",
+   "quote": "指代人精神上非理性的那一面",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1819,
+    "end_line": 1825,
+    "sha1": "23fa88c8cea511e31b73dcab9b04d6ee95187ab1",
+    "fingerprint": [
+     "酒神",
+     "日神"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8541",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采《悲剧的诞生》。酒神=生命力、戏剧、狂喜、醉酒：打破禁忌、解除束缚、消弭界限、复归自然，代表悲剧艺术；日神=理性、秩序、形式美、节制对称、分析分辨（形式主义古典主义视觉艺术）。励志文章与“科技永远进步”宣传皆日神精神（1821）；疲惫孤独无助=日神精神不足以支撑（1825）。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-07",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "尼采：悲剧艺术让人感知神圣之物以化解苦难获得欢乐，唯艺术能做到",
+   "quote": "去化解苦难，获得欢乐",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1827,
+    "end_line": 1827,
+    "sha1": "0d1c69e6d1c09279f07f2b3b444f77a1f804468d",
+    "fingerprint": [
+     "悲剧艺术",
+     "唯有艺术"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "CK-8542",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采。赞同叔本华悲剧人生观，但对人生苦难的态度是积极的。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-08",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "“上帝死了”=虚伪道德与传统价值失效；出路是向内、从人本身的存在找答案",
+   "quote": "从人本身的存在寻找答案",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1831,
+    "end_line": 1831,
+    "sha1": "7a696adc4421807f70d288e66c0705bd1378ba99",
+    "fingerprint": [
+     "上帝死了",
+     "荒原"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8543",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采。摆脱基督教束缚后人们站在荒原上自由却无方向；很多人所谓道德只是虚伪表现；精神世界充斥软弱与虚伪（详见 C-JJ-U0031 系列）。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-09",
+   "unit_id": "JJ-U0030",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "超人哲学：人天生有德性被后天虚伪掩盖，强者在于掌握自己自由的意志",
+   "quote": "掌握自己自由的意志",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1833,
+    "end_line": 1833,
+    "sha1": "7937c157803900650107927a61b11ba5bd25e654",
+    "fingerprint": [
+     "德性",
+     "超人哲学"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-3"
+   ],
+   "concept_key": "CK-8544",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：尼采。人应昭示天性；真正强者是在世人庸俗盲从时掌握自由意志，通过精神升华拯救自己的苦难；哲学有悲观底色但充满积极昂扬精神。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-10",
+   "unit_id": "JJ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "“超人”之“超”是超越而非超级：内心强大、不盲从、敢冒险、不怕失败",
+   "quote": "超越他人，超越自我",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1835,
+    "end_line": 1843,
+    "sha1": "7f0a50e144fd6ed2c3eac181a47b26de84f04409",
+    "fingerprint": [
+     "超级英雄",
+     "存在主义"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-3"
+   ],
+   "concept_key": "CK-8545",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军澄清+取用。萨特保留尼采积极因素：每个人根本上自由、有内在价值——这是尼采思想精髓（1835）；吴军取用：这个概念强调的精神特质确实是一个人应该拥有的（1843）；吴军不喜用“超人”说法因其易生误解。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-11",
+   "unit_id": "JJ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "尼采问题是每一代人的终极问题：工业化困境与娱乐至死的轮回重现",
+   "quote": "人类的终极问题",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1839,
+    "end_line": 1847,
+    "sha1": "f5cfbcb216562338c7ddc620e07f36bd94453f32",
+    "fingerprint": [
+     "物质主义",
+     "娱乐至死"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "CK-8546",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "工业化起步时理性主义占上风，之后重现尼采时代困境：人成工业化工具失去意义+物质主义拜金虚伪浮华（1839）；人生鸡汤不能解决，如柯勒律治“到处都是水，却没有一滴可以喝”（1841）；20世纪媒体使颓废思潮触达大众、娱乐至死（1847）。"
+  },
+  {
+   "claim_id": "C-JJ-U0030-12",
+   "unit_id": "JJ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "困境中人两种选择：躺平或站起来抗争；站起来才能彰显内在价值",
+   "quote": "彰显自己内在的价值",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1849,
+    "end_line": 1849,
+    "sha1": "b5ee9c27c0f2f89a5ca3c39020f05e09ac1a1c7b",
+    "fingerprint": [
+     "躺平",
+     "抗争"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3",
+    "D02-4"
+   ],
+   "concept_key": "CK-8547",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军亲历：几十年前精神困境时读尼采备受鼓舞；抗争艰难不舒适，但只有站起来才能彰显内在价值——这正是尼采最基本的主张。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0030",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "尼采生平（出生普鲁士、牧师家庭、音乐造诣、与瓦格纳交往、巴塞尔任教、放弃普鲁士公民权，1779-1809）：传记叙事"
+  },
+  {
+   "unit_id": "JJ-U0030",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "瓦格纳两重身份与德意志民族主义史、三十年战争到拿破仑战争（1799-1807）：音乐史与民族史叙事"
+  },
+  {
+   "unit_id": "JJ-U0030",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "理性主义一脉相承与19世纪末困境（1793）：思想史框架叙事，背景已并入 C-JJ-U0030-06/11 notes"
+  },
+  {
+   "unit_id": "JJ-U0030",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "尼采生前不受欢迎、书滞销（1795、1855）：出版史轶事，孤独奋斗意象已并入 C-JJ-U0030-08 相关 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "尼采总论章：思想要点以转述卡留痕+吴军取用与亲历判断独立成卡共12张；生平与思想史背景X4"
+}

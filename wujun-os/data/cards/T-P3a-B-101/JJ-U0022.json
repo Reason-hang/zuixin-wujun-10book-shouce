@@ -1,0 +1,374 @@
+{
+ "unit_id": "JJ-U0022",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0022-01",
+   "unit_id": "JJ-U0022",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "哥德尔不完备定理：绝大部分公理系统不可能既自洽又完备；任何知识体系都无法证明自己的正确性——打碎希尔伯特大一统构想",
+   "quote": "不可能既是自洽的",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1283,
+    "end_line": 1285,
+    "sha1": "e68857fc8b8c29a1eaca986057fbb90d0449ccc4",
+    "fingerprint": [
+     "哥德尔",
+     "自洽",
+     "完备"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1074",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著注明：自洽=结论不矛盾，完备=所有正确结论可被推出（1283 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：哥德尔。逻辑学家对莱布尼茨体系要求自洽+完备，充分性推理原则无法证明自身（1281-1283 行）；尼采 19 世纪末已质疑理性社会（1283 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-02",
+   "unit_id": "JJ-U0022",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "量子力学表明微观世界同样的因可能得到不同的果、不确定性是天然属性（测不准原理、薛定谔的猫：观察影响所谓客观）",
+   "quote": "不确定性也是世界的天然属性",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1287,
+    "end_line": 1287,
+    "sha1": "eab3d8a28866cd71e6fe3cc68606ac67bbf2982a",
+    "fingerprint": [
+     "量子力学",
+     "测不准",
+     "薛定谔"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1075",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著限定：结论针对微观世界（1287 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：量子力学研究成果（海森堡 1927、薛定谔 1935）；此前人们相信存在完全不依赖主观的客观（1287 行）；理性主义圭臬立于确定性+因果（1289 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-03",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "复杂问题必要条件太多无法找齐（上万经济指标影响股市）；市场随机性使充分性推理原则失效，单靠理性预测市场是徒劳",
+   "quote": "这里不是使用它的地方",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1291,
+    "end_line": 1291,
+    "sha1": "6ce416a75f9f6b6db025eb5bb83c2cc6541965c3",
+    "fingerprint": [
+     "随机性",
+     "股市",
+     "必要条件"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "CK-1076",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出边界：市场等必要条件过多的复杂领域",
+   "boundary_integrator": "",
+   "notes": "「我们必须承认，市场的随机性会导致充分性推理原则失效，这里不是使用它的地方」（1291 行）；家长请辅导老师例反证人们信因果（1289 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-04",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "灭狼致草原森林生态失衡、美国引进亚洲鲤鱼经严格论证仍酿生态灾难：单靠理性无法从未发生的事情推导出所有结果",
+   "quote": "推导出所有可能的结果",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1299,
+    "end_line": 1305,
+    "sha1": "75a65fcb26ac102923880e19e622d8f2d1958a34",
+    "fingerprint": [
+     "狼群",
+     "鲤鱼",
+     "生态"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1077",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "专名案例+可迁移机理（未发生事件的不可推导性）；牧民欠考虑 vs 专家严格论证仍误判（1305 行）；鲤鱼一天可吃掉自身重量40%的水草（1303 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-05",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "把结果建立在没发生或无意义的假设上是思维误区（高考差两分式反事实）；成功才是成功之母：从未成功者无从知晓成功的条件",
+   "quote": "成功才是成功之母",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1307,
+    "end_line": 1311,
+    "sha1": "6b8cb42313684b831141f50004aed0a7159556d9",
+    "fingerprint": [
+     "假设",
+     "成功之母",
+     "条件"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "CK-1078",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军常讲金句（1311 行）；「少吃两分/多吃两分」两种矛盾归因皆无意义（1307 行）；做了 A 导致失败，无法推断不做 A 或补做什么才能成功（1311 行）；「成功需要什么条件，他当然无从知晓」"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-06",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "要跟着老师或有经验的同事学习：在其带领下成功几次，才知道成功是怎么回事、需要哪些必要条件；盲目试错蒙对可能近乎为零",
+   "quote": "知道成功需要哪些必要条件",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1313,
+    "end_line": 1315,
+    "sha1": "8f2bf8fdd5883e6ed5639df9c245aa6041a603ac",
+    "fingerprint": [
+     "老师",
+     "必要条件",
+     "试错"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "CK-1079",
+   "aux_tags": [],
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "托尔斯泰「幸福的家庭都是相似的，不幸的家庭各有各的不幸」为转述引证：幸福家庭具备所需必要条件（1317 行）；历史研究者不研究不存在的历史事件（1317 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-07",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "计划失效的根本原因是理性无法预测从未见过的事情；大数据是对过往发生过的事情的总结，对没发生过的事不知如何应对",
+   "quote": "对过往发生过的事情的总结",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1319,
+    "end_line": 1319,
+    "sha1": "bb4f93f4448444be313fb0f91eae3d1f30d23246",
+    "fingerprint": [
+     "大数据",
+     "预测",
+     "计划"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-2"
+   ],
+   "concept_key": "CK-1080",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "回答「有了大数据能否准确预测未来」之问（1319 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-08",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "弥补充分性推理缺陷靠经验主义：找不到因果链时据大量经验找大部分情况下有效的方法；多数时候理性结论有用，少数例外用经验",
+   "quote": "行之有效的方法",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1321,
+    "end_line": 1325,
+    "sha1": "f2dcca6780558be87e325b523fb5e2a29bc43c5d",
+    "fingerprint": [
+     "经验主义",
+     "例外",
+     "理性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1081",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出分工边界：绝大多数时候理性、少数例外经验（1325 行）",
+   "boundary_integrator": "",
+   "notes": "「行之有效」为原文措辞（1321 行）；通勤留一小时规则遇大雾大雨失效，靠经验早出门、绕路（1327 行）；投资异常波动靠经验（1329 行）；大陆法系少数未写明情况靠司法解释=司法机关经验（1329 行）；「了解局限不是放弃它，而是懂得何时能用不能用」（1323 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-09",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "把充分性推理倒过来看：有因也必会有果。做事前应把结果尤其不良后果考虑周全；人常对好可能性预期过高、对坏可能性视而不见",
+   "quote": "有因也必会有果",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1331,
+    "end_line": 1335,
+    "sha1": "d569caa2a27a027bf1104c7219b080730dccacbe",
+    "fingerprint": [
+     "后果",
+     "预期",
+     "危险"
+    ]
+   },
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-1082",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "很多事情做了会产生预想外的不想要后果（1335 行）；人们通常对好可能性预期过高、对坏可能性预期过低甚至视而不见——非常危险"
+  },
+  {
+   "claim_id": "C-JJ-UU0022-10",
+   "unit_id": "JJ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "近代文明加速源于认知提高：既用理性主义方法论探索未知，又有效获取经验、过滤噪音；先学好用好先贤方法论是最有效的进步方式",
+   "quote": "最有效的进步方式",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1337,
+    "end_line": 1343,
+    "sha1": "cda8c94704dd6f8df328cd7e70a3f9590f091ecf",
+    "fingerprint": [
+     "方法论",
+     "经验",
+     "进步"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-1083",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "第二篇结语（1337-1343 行）：科学革命、工业革命、摆脱神权皆系认知提高；方法论已被验证几百年，先学好用好=最有效的进步方式"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0022",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "20 世纪初理性万能信念的思潮铺陈（1279 行）与尼采担忧（1283 行）为思想史背景，已并入相关卡 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "理性主义局限单元：抽 10 卡（7 本人 E1+2 转述 E2+1 本人 E3），思潮背景记 X4"
+}

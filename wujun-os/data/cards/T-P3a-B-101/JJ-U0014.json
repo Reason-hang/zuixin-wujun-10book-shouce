@@ -1,0 +1,54 @@
+{
+ "unit_id": "JJ-U0014",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0014-01",
+   "unit_id": "JJ-U0014",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "17—20世纪科技商业与制度的大发展，根源在哲学方法论突破：人类不再靠感觉、经验或神启，而开始靠自己的理性行事",
+   "quote": "靠自己的理性行事",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 855,
+    "end_line": 857,
+    "sha1": "20475edf6088fc83c7dbf1d94348923d3ef499c0",
+    "fingerprint": [
+     "方法论",
+     "理性",
+     "突破"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1023",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著限定时段：17 世纪至 20 世纪初",
+   "boundary_integrator": "",
+   "notes": "第二篇《通过理性思考获得新知》篇首导语（855-857 行）；微积分、牛顿力学、启蒙运动等成果罗列为背景"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0014",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "成果罗列（微积分、牛顿力学、启蒙运动、工业革命等，857 行）为史实背景，论点已入 C-JJ-U0014-01"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "结构单元（第二篇篇首）：抽 1 卡（本人 E2 史论判断），成果罗列记 X4"
+}

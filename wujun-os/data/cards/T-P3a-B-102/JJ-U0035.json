@@ -1,0 +1,100 @@
+{
+ "unit_id": "JJ-U0035",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0035-01",
+   "unit_id": "JJ-U0035",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "知识中简单的部分早已被前人建完，剩下都很难，故后人学说难免曲高和寡",
+   "quote": "简单的部分早已被前人构建完成",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 2023,
+    "end_line": 2025,
+    "sha1": "e46fa2d9f7356dcb1104d3b02cb3740f5836aa2e",
+    "fingerprint": [
+     "轴心文明",
+     "曲高和寡"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8571",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "解释大思想家集中轴心时代、大科学家集中科学革命至二战前：哲学最简单易理解部分在轴心时代奠定；笛卡尔康德比孔子柏拉图难读，维特根斯坦萨特更难；量子力学比牛顿难。任何时代都有神一样的人，罗素评维特根斯坦“天才人物的最完美范例”（2027）。"
+  },
+  {
+   "claim_id": "C-JJ-U0035-02",
+   "unit_id": "JJ-U0035",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "罗素形式逻辑：不依赖主观概念、以符号建立纯粹逻辑系统，为计算机科学之基",
+   "quote": "纯粹的逻辑系统",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 2043,
+    "end_line": 2043,
+    "sha1": "8ee0204a12f017760a2b54981e4be677439f5d21",
+    "fingerprint": [
+     "形式逻辑",
+     "三段论"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-2",
+    "D01-4"
+   ],
+   "concept_key": "CK-8572",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：罗素。日常逻辑（如三段论）皆可用形式逻辑表述；背景：希尔伯特计划以逻辑和公理构建所有数学（2043）；维特根斯坦由此追问：哲学能否像数学一样用逻辑表述、哲学问题能否通过逻辑找到答案——此前无人考虑（2045），亚里士多德曾把哲学（形而上学）与逻辑学（工具）分开（2047）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0035",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "维特根斯坦家族财富、教育经历、林茨中学与希特勒同学、玻尔兹曼、航空工程、《数学原理》与弗雷格罗素交往（2027-2041）：传记叙事"
+  },
+  {
+   "unit_id": "JJ-U0035",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "挪威隐居、一战参军动机、勋章、《逻辑哲学论》成书与出版（2049-2053）：传记叙事"
+  },
+  {
+   "unit_id": "JJ-U0035",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "乡村教师、修道院园丁、建筑师、布劳维尔讲演、博士答辩、回剑桥与辞职、《哲学研究》整理出版（2055-2065）：传记叙事；《哲学研究》与《逻辑哲学论》观点差异巨大、罗素不接受致裂痕（2065）为下一单元背景"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "维特根斯坦突破章（以传记为主）：仅知识结构规律与形式逻辑两判断成卡；生平大段X4"
+}

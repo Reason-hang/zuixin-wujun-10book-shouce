@@ -1,0 +1,454 @@
+{
+ "unit_id": "JJ-U0025",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0025-01",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "经验主义：知识须由感觉经验获得，规律须经经验验证证实",
+   "quote": "规律必须通过经验的验证来证实",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1413,
+    "end_line": 1415,
+    "sha1": "188bb5595c14e68fa4496aed536b2ad0735e09bf",
+    "fingerprint": [
+     "经验主义",
+     "感觉的经验",
+     "验证"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8501",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军给出的定义性概括。经验主义两个高峰：杜威实验主义+波普尔证伪主义；大数据方法使 empirical 广泛应用（1413）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-02",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "有经验不等于掌握经验主义方法论：靠经验谋生≠系统实验总结规律",
+   "quote": "有经验和运用经验主义方法论",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1417,
+    "end_line": 1421,
+    "sha1": "eefef434bf14b0dd0184910f1e679caead952968",
+    "fingerprint": [
+     "经验主义方法论",
+     "川菜厨子"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8502",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "川菜厨子例：照师父经验做饭=靠经验谋生；懂基本道理+系统性实验+顾客反馈、总结味道-原料-流程关系设计新美食=掌握方法论。大数据时代几乎所有行业都在用，不懂难以立足（1421）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-03",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "人自发形成的方法论有两大缺陷：不成体系、静态看待对错",
+   "quote": "静态地看待对与错",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1431,
+    "end_line": 1431,
+    "sha1": "5d96f655544fc48b742c1c11b5ab0ad91d1481aa",
+    "fingerprint": [
+     "不成体系",
+     "静态看待对错"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8503",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "古代方法论问题（本体论方法论混在一起、只验证单点对错而非建立知识体系），今人未经系统学习前同款：爱就一事对错争吵、求绝对正确万能答案。近代哲学家超越处：方法论系统化+可不断获得新知（1433）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-04",
+   "unit_id": "JJ-U0025",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "培根：新知识经主动实验与归纳获得，不应先预设结论再找证据",
+   "quote": "不能通过想象和预先假定",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1443,
+    "end_line": 1447,
+    "sha1": "a9a66278a1e28b51a58d635b6cd1067f4370fba2",
+    "fingerprint": [
+     "归纳法",
+     "预设结论"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8504",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：培根《新工具》。吴军概括两要点：用经验主动地探索未知（实验vs农民被动观察，1441）、发现普遍规律性用于各种场景（个例上升为共性）。今人多预设结论再找证据恰为反例（1447）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-05",
+   "unit_id": "JJ-U0025",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "洛克白板说：人无先天观念，知识由感官经验决定，经历塑造人",
+   "quote": "人在出生时头脑是一块白板",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1459,
+    "end_line": 1459,
+    "sha1": "7fda1ffe831a9a99c9fb489204ce2b366d45ed9d",
+    "fingerprint": [
+     "白板说",
+     "感官的经验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8505",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：洛克。吴军概括洛克两句：经验是验证真理的而非经验即真理；人出生空白无高低贵贱、经历与环境塑造人（1479）。白板说可自然推出自然权利论（1477）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-06",
+   "unit_id": "JJ-U0025",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "洛克：经验用于证实和证伪理论，经验本身未必正确",
+   "quote": "一旦发现它不真实",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1463,
+    "end_line": 1465,
+    "sha1": "091542b0e3bacd0eaa519755379a90f1a99d786f",
+    "fingerprint": [
+     "证实和证伪",
+     "扔进火里"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8506",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：洛克（“无论我写什么，一旦发现它不真实，我会马上把它扔进火里”）；“为真理而爱真理是所有美德的种子”（1463）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-07",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "经验不一定都对：一面用经验验证真理，一面用真理审视误导性经验",
+   "quote": "用真理去审视哪些经验在误导我们",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1471,
+    "end_line": 1475,
+    "sha1": "4fd2007df6c5b40352e0ad15390de1adeec06a1e",
+    "fingerprint": [
+     "倚老卖老",
+     "误导"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8507",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "方法",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军概括句。低水平训练一万小时无法进步（1471）。与 C-JJ-U0025-06 互引：洛克原话见 06，本卡为吴军取用后的概括。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-08",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "有用经验分两种（转技能、验认知），另有无用经历与须淘汰的错误经验",
+   "quote": "有用的经验分为两种",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1467,
+    "end_line": 1473,
+    "sha1": "c18c72f14afe19af61b2b8feee183828b857f5ae",
+    "fingerprint": [
+     "错误常识",
+     "低水平"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8508",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "方法",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军受洛克启发的取用（1467“洛克的这个观点对我很有启发”）。无反馈重复（张三算错无人知对错）与重复已有经验（百道同型题）皆无用；画K线炒股、感冒捂汗出身汗属习以为常的错误常识，须及时更新。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-09",
+   "unit_id": "JJ-U0025",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "贝克莱“存在即被感知”：把世界真实性与可感知性相连，是经验主义基础",
+   "quote": "存在就是被感知",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1489,
+    "end_line": 1493,
+    "sha1": "bb9db590cd0c84af47707126f7297fb3c44614c7",
+    "fingerprint": [
+     "贝克莱",
+     "参照系"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8509",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：贝克莱。吴军澄清：is=具有属性而非等同；感知受参照系欺骗（冷热水手盆实验）；不可感知≠不存在（电磁场可靠手机感知，1493）。吴军评述：此句把真实性与可感知性联系、是经验主义成立的基础（1491）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-10",
+   "unit_id": "JJ-U0025",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "笛卡尔“我思故我在”：怀疑→思考→明白；“第一性原理”一词由此而来",
+   "quote": "我思故我在",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1495,
+    "end_line": 1495,
+    "sha1": "b2bc0b14e8165e4c5ca2d5a6a388ad0e405ae5e9",
+    "fingerprint": [
+     "第一性原理",
+     "I doubt"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-8510",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：笛卡尔。原话上下文“I doubt, then, I think, therefore I am”（我对未知有疑问→思考→明白）；按中文字面理解是谬误。理性思考时感觉才真实是其“第一性原理”。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-11",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "笛卡尔重思考、贝克莱重感知并不矛盾，是认识方法的两个不同侧面",
+   "quote": "认识方法的两个不同侧面",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1497,
+    "end_line": 1499,
+    "sha1": "98cc710bc528f483851430f47b6019d0095329da",
+    "fingerprint": [
+     "思考",
+     "感知"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-8511",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军评述。二人分歧源于经历：笛卡尔数学家擅演绎、贝克莱研究视觉感知（1499-1505）。适用场景判别工具见下一章休谟的叉子（1513）。"
+  },
+  {
+   "claim_id": "C-JJ-U0025-12",
+   "unit_id": "JJ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "哲人经历塑造其思想：我们的经验也在限制思维，应多了解思维工具与他人想法",
+   "quote": "经验其实也在限制我们的思维",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1509,
+    "end_line": 1511,
+    "sha1": "20112722399742f02de027f8dd4f560757f4147c",
+    "fingerprint": [
+     "思维工具",
+     "洛克"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-3"
+   ],
+   "concept_key": "CK-8512",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "洛克行医+与波义耳胡克共事、贝克莱研究视觉成像的经历塑造其经验主义哲学；读哲人经历才能理解其思想与盲区。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0025",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "培根生平（受贿案、伦敦塔、雪地冻鸡实验临终）1425-1455：哲学史轶事，无可迁移判断"
+  },
+  {
+   "unit_id": "JJ-U0025",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "牛顿（科茨序言“不把尚未由现象确定的东西作为原理”）、拉瓦锡天平（1449）：科学史叙事"
+  },
+  {
+   "unit_id": "JJ-U0025",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "“知识就是力量”拉丁文出处与霍布斯英译（1435-1439）：考据"
+  },
+  {
+   "unit_id": "JJ-U0025",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "洛克政治理论→美国《独立宣言》与国父叙事（1477-1485）：政治史叙事；贝克莱地名纪念（1487）"
+  },
+  {
+   "unit_id": "JJ-U0025",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "贝克莱视觉研究《视觉新论》与医学结论“画面仅中心约一度清晰、整体是大脑联想合成”（1505-1507）：科学史叙事，已并入 C-JJ-U0025-09 notes 作支撑"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "经验主义总论章：吴军定义与取用为 K 卡 12 张；哲学家思想以转述卡留痕；生平与科学史叙事 X4 已记 x_disposals"
+}

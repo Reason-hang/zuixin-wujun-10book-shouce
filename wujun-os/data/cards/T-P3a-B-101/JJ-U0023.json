@@ -1,0 +1,53 @@
+{
+ "unit_id": "JJ-U0023",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0023-01",
+   "unit_id": "JJ-U0023",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "经验主义与理性主义如一张纸的两面：不应只接受其一而忽略另一；笛卡尔不否认经验、亚里士多德强调理性，两种工具须同时了解",
+   "quote": "不同却又互相关联的认知工具",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1349,
+    "end_line": 1349,
+    "sha1": "a163ef23533630606767f29c9def8e15a3fbc59c",
+    "fingerprint": [
+     "经验主义",
+     "理性主义",
+     "认知工具"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1084",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "第三篇《什么是有用的经验》篇首导语（1345-1349 行）；毕达哥拉斯与希波克拉底、苏格拉底柏拉图与亚里士多德的并存铺陈（1347 行）为背景"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0023",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "第三篇篇首哲学史铺陈（毕达哥拉斯/希波克拉底、苏格拉底/亚里士多德并存，1347 行）为背景，论点已入 C-JJ-U0023-01"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "结构单元（第三篇篇首）：抽 1 卡（本人 E1），哲学史铺陈记 X4"
+}

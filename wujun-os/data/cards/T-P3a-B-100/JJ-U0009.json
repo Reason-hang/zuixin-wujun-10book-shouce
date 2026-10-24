@@ -1,0 +1,218 @@
+{
+ "unit_id": "JJ-U0009",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ1",
+ "batch_id": "T-P3a-B-100",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0009-01",
+   "unit_id": "JJ-U0009",
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底：人有肉体与灵魂，肉体欲望常干扰灵魂思考，死是灵魂的解脱",
+   "quote": "经常会干扰灵魂思考",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 483,
+    "end_line": 483,
+    "sha1": "67a1659b341fdfb7b81b81fdb813f02f782bb5d0",
+    "fingerprint": [
+     "肉体",
+     "灵魂",
+     "解脱"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "肉体干扰灵魂",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：苏格拉底（柏拉图《斐多篇》记录）；灵魂不朽四论证前提不符今科学认知、吴军认为说服力不足的评述（行485）并入；与庄子死亡观之别（回归自然vs灵魂不朽）"
+  },
+  {
+   "claim_id": "C-JJ-U0009-02",
+   "unit_id": "JJ-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "苏格拉底灵魂观的取用价值：教会我们如何看待生死、积极面对死亡",
+   "quote": "积极面对死亡的态度",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 485,
+    "end_line": 487,
+    "sha1": "0d4a99f4f7e46b2969081a7be32597eb089dda05",
+    "fingerprint": [
+     "庄子",
+     "灵魂不朽",
+     "启发"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-3"
+   ],
+   "concept_key": "积极面对死亡的态度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对《斐多篇》的取用定性（R1 概括卡）；原文见 C-JJ-U0009-01"
+  },
+  {
+   "claim_id": "C-JJ-U0009-03",
+   "unit_id": "JJ-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "太在意物质得失会丧失思维敏锐性；看轻物质欲望得更持久的心灵满足",
+   "quote": "丧失思维的敏锐性",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 493,
+    "end_line": 495,
+    "sha1": "67f7d6e30fbdc7ccc10595ce64c391f68b5bd0eb",
+    "fingerprint": [
+     "物质欲望",
+     "敏锐性",
+     "心灵上的满足"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "物质欲望与思维敏锐",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "俞敏洪之问答入（行495）；吴军两段科学高产期皆远离世俗的亲历（行497）为例证；苏格拉底纯粹知识论为源（行489 转述背景）"
+  },
+  {
+   "claim_id": "C-JJ-U0009-04",
+   "unit_id": "JJ-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "相信灵魂不灭的人活着不敢做坏事；人的行为受法律与信仰观念双重约束",
+   "quote": "在活着的时候就不会做坏事",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 499,
+    "end_line": 503,
+    "sha1": "78ae8fc76bbb8a67a3cc17c23af0d9a4652dfca1",
+    "fingerprint": [
+     "灵魂",
+     "做坏事",
+     "惩罚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "灵魂不灭的约束作用",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "苏格拉底告诫转述（行501）+各大宗教类似思想（行503）；美国谋杀破案率约60%仍少人犯罪（行511）、名人丑闻受公序良俗约束（行509）为例证"
+  },
+  {
+   "claim_id": "C-JJ-U0009-05",
+   "unit_id": "JJ-U0009",
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底临终告诫：若灵魂不死就必须关怀其全部时间，保持灵魂纯洁",
+   "quote": "我们就必须关怀它",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 513,
+    "end_line": 513,
+    "sha1": "e6e4290ea74a355d8a85ca17eddd16f787ff0a56",
+    "fingerprint": [
+     "关怀",
+     "灵魂",
+     "纯洁"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "关怀灵魂",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：苏格拉底（柏拉图《斐多篇》）；远离罪恶、追求善良明智；吴军按语“这些话也是讲给后人听的”"
+  },
+  {
+   "claim_id": "C-JJ-U0009-06",
+   "unit_id": "JJ-U0009",
+   "speaker": "吴军本人",
+   "claim_text": "三哲拔高学习目的：柏拉图验证真理、亚里士多德发现真理、苏格拉底净化灵魂",
+   "quote": "拔高了学习的目的",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 515,
+    "end_line": 519,
+    "sha1": "e3035a15d3c4556c512c0c87de698fa42c70e49c",
+    "fingerprint": [
+     "验证真理",
+     "发现真理",
+     "净化我们的灵魂"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "三哲学习目的",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "吴军的比较概括；衣食无忧后须在继续逐物与花时间学习间二选一（行519）；苏格拉底以学习追求智慧境界（行515）为转述背景"
+  },
+  {
+   "claim_id": "C-JJ-U0009-07",
+   "unit_id": "JJ-U0009",
+   "speaker": "转述·第三方",
+   "claim_text": "柏拉图与亚里士多德：民主若无制度制约即多数人的暴政，理想是精英统治",
+   "quote": "无异于多数人的暴政",
+   "anchor": {
+    "book_code": "JJ",
+    "start_line": 525,
+    "end_line": 529,
+    "sha1": "170bb1289a7911785c468d029dd93d134be9c701",
+    "fingerprint": [
+     "民主",
+     "多数人",
+     "精英"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "多数人的暴政",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：柏拉图（批评雅典不受制约的简单民主，行527-529）、亚里士多德（民主解决不了寡头问题、扩大的精英民主）；吴军梳理柏拉图至尼采无一人赞同民粹式民主的佐证（行529）；苏格拉底之死使哲学转向伦理道德正义（行523）并入"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0009",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "古希腊人死亡观与《奥德赛》阿喀琉斯、苏格拉底生平与《斐多篇》成书背景（行467-479）为文化史叙事"
+  },
+  {
+   "unit_id": "JJ-U0009",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "苏格拉底之死与亚里士多德逃亡的历史细节、两人不同选择对比（行531-535）、笛卡尔临终之言（行537）为史实，其世界观差异已入 C-JJ-U0009-01 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "本章灵魂与生死：转述卡 3 张（E2 苏格拉底与政治哲学）+吴军取用与价值判断 4 张，文化史背景与临终叙事记 X4"
+}

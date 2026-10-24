@@ -1,0 +1,333 @@
+{
+ "unit_id": "JJ-U0016",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0016-01",
+   "unit_id": "JJ-U0016",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "动了脑子不等于理性思维：把「对未来的假设」当「已发生的事实」套三段论、用不完全归纳，结论不可靠",
+   "quote": "错用了三段论",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 903,
+    "end_line": 905,
+    "sha1": "0091fab18779182705fb00735e802c45b1237073",
+    "fingerprint": [
+     "三段论",
+     "假设",
+     "理性思考"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1030",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著区分：三段论推理「小明在上补习班因此成绩提高了」是对已发生事实的陈述（903 行）",
+   "boundary_integrator": "",
+   "notes": "补习班例子（897-905 行）：三段论本身没错，是把已发生事实与未来假设搞混；炒股跟风比特币、迷信荐股机构同理（905 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-02",
+   "unit_id": "JJ-U0016",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "理性思维三要义：以清晰概念为基础；找真正具因果关系的原因而非看似合逻辑的原因；论证必须符合逻辑",
+   "quote": "清晰的概念为基础",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 909,
+    "end_line": 913,
+    "sha1": "be78ac717b681bc0dcd94ddd2b337ad8ad0a1d45",
+    "fingerprint": [
+     "概念",
+     "因果关系",
+     "逻辑"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1031",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "概念是人类理性的发明（909 行）；从错误前提出发可推出合逻辑但错误的结论——超自然解释与阴谋论皆前提错误（911 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-03",
+   "unit_id": "JJ-U0016",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "泰勒斯用自然解释自然，并区分知识：仅解具体问题的是经验，具规律性、可解决大量问题的才是定理",
+   "quote": "用自然解释自然的人",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 917,
+    "end_line": 919,
+    "sha1": "47bc23911bcb33068b8fb7a3471ea6528c6dbc77",
+    "fingerprint": [
+     "泰勒斯",
+     "定理",
+     "经验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-1032",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：泰勒斯（亚里士多德称之为 Physikoi 物理学家）。月亮反光、日食成因皆求自然原因（917 行）；欧几里得将部分发现收入《几何原本》（919 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-04",
+   "unit_id": "JJ-U0016",
+   "speaker": "史实",
+   "evidence_level": "E3",
+   "claim_text": "泰勒斯把埃及人只用于农耕的几何知识迁移去测金字塔高度与河宽：同一原理可解决一大批问题，故受埃及人敬重",
+   "quote": "测量大金字塔的高度",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 917,
+    "end_line": 917,
+    "sha1": "a0bd110f11d339b6d84f9b58f9cf34f9687bb0c4",
+    "fingerprint": [
+     "金字塔",
+     "几何学",
+     "泰勒斯"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1033",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "史实叙述，原著未附适用条件",
+   "boundary_integrator": "",
+   "notes": "专名案例+可迁移机理（知识迁移），R3 强化独立成 E3 卡，不并入 C-JJ-U0016-03"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-05",
+   "unit_id": "JJ-U0016",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "毕达哥拉斯建立理性主义方法论：从假设前提出发经逻辑推导得结论、结论复为新前提，不引入主观想象完全靠逻辑构建知识体系",
+   "quote": "完全靠逻辑构建知识体系",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 925,
+    "end_line": 925,
+    "sha1": "3e170e55dcb63e0631dda0e5ec48c39fdea5f5c3",
+    "fingerprint": [
+     "毕达哥拉斯",
+     "假设",
+     "逻辑"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1034",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出成立条件：结论均为逻辑自然演绎、非度量实验所得（925 行）",
+   "boundary_integrator": "",
+   "notes": "被转述者：毕达哥拉斯。勾股定理从现象举例到命题+逻辑证明，才具普遍意义（925 行）；「万物皆数」（937 行）；最初假设前提之问由柏拉图理念世界回应（939-941 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-06",
+   "unit_id": "JJ-U0016",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "蒙洛迪诺：自文明诞生至毕达哥拉斯时代，人类全部知识体系只是「前科学」（巫术式、想当然），泰勒斯也未完全走出",
+   "quote": "“巫术式”的知识体系",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 923,
+    "end_line": 923,
+    "sha1": "a86bdabc6fa3fc13eb9c75f5ba6ad06fe77a1014",
+    "fingerprint": [
+     "前科学",
+     "巫术式",
+     "蒙洛迪诺"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1035",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著为思想史断代转述，非普适论断",
+   "boundary_integrator": "",
+   "notes": "被转述者：伦纳德·蒙洛迪诺《思维简史》（923 行）；泰勒斯地震成因解释即无根据想象"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-07",
+   "unit_id": "JJ-U0016",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "理性主义可构建非数学知识体系：大陆法系以法律概念为点线面、法条为定理、自然法为公理；古典经济学立于「经济人」公理",
+   "quote": "“经济人”这个抽象概念",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 929,
+    "end_line": 931,
+    "sha1": "57929697dca7a2bafbfdcdbc46c1074cd3425649",
+    "fingerprint": [
+     "大陆法系",
+     "经济人",
+     "公理"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1036",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著给出条件：经济人假设无法证明，作为公理使用且实践未推翻（931 行）",
+   "boundary_integrator": "",
+   "notes": "吴军取用映射：法律主体≈点线面、应用法条判案≈应用定理（929 行）；经济人假设被几百年实践未推翻（931 行）；自然科学亦靠命名法与抽象概念成体系（935 行，锚外补充）"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-08",
+   "unit_id": "JJ-U0016",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "理性主义思维四要词：概念、前提、因果关系、逻辑；争吵多因概念不清晰，做事失败常因忽略前提",
+   "quote": "前提、因果关系和逻辑",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 943,
+    "end_line": 943,
+    "sha1": "b3d832318e28507717c660c0a56aad5f07393548",
+    "fingerprint": [
+     "概念",
+     "前提",
+     "逻辑"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1037",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著注明：最易被忽略的是概念和前提（943 行）",
+   "boundary_integrator": "",
+   "notes": "吴军总结句（943 行）；因果关系是概念之间的关联，逻辑是解决问题的框架或工具；原文「概念、前提」顿号后带排版空格"
+  },
+  {
+   "claim_id": "C-JJ-UU0016-09",
+   "unit_id": "JJ-U0016",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "理性主义与「人要理性」不是一回事：不采理性主义方法论未必不理性；理性主义方法更具预见性，经验主义方法更具适应性",
+   "quote": "更具有预见性",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 945,
+    "end_line": 945,
+    "sha1": "85f61605210cdd98b4e9de8ccf12b3adfd49ba32",
+    "fingerprint": [
+     "预见性",
+     "适应性",
+     "西蒙斯"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1038",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "西蒙斯出奇地理性但不看重因果；巴菲特每份股东报告强调经验验证理论（945 行）；发现一个规律可用很久、用于多场景是理性主义之长"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0016",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "毕达哥拉斯生平游学与学派（937 行）、公理溯源谱系（欧几里得公理/西塞罗自然法/柏拉图二元世界观，939-941 行）为哲学史铺陈，已并入 C-JJ-U0016-05 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "理性主义思维单元：抽 9 卡（4 本人 E1+3 转述 E2+1 本人 E2+1 史实 E3），生平谱系记 X4"
+}

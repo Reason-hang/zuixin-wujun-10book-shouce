@@ -1,0 +1,297 @@
+{
+ "unit_id": "JJ-U0021",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0021-01",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "牛顿在哈特百人榜居第二，非仅因科学贡献，更因作为思想家改变了人类的思维方式，以及对自然和自我的认知",
+   "quote": "改变了人类的思维方式",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1229,
+    "end_line": 1229,
+    "sha1": "94b2db87831b3a946141dbd5b1c3f22c1c78ff0a",
+    "fingerprint": [
+     "牛顿",
+     "哈特",
+     "思维方式"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1066",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "史实引述+吴军评价，原著未附适用条件",
+   "boundary_integrator": "",
+   "notes": "哈特《影响人类历史进程的100名人排行榜》排序仅次穆罕默德、高于耶稣佛陀孔子（1229 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-02",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "迷信与阴谋论源于认知上的无知和被动（不是神创造了人，而是人创造了神）；有知识则不再神秘，主动者遇未知用科学方法找答案",
+   "quote": "认知上的无知和被动",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1233,
+    "end_line": 1241,
+    "sha1": "dcafaa765ca363f0dee9eed5968f5e2796f511fa",
+    "fingerprint": [
+     "阴谋论",
+     "无知",
+     "主动"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1067",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "「人可以通过主动性使用理性，让未知变成已知」（1239 行）；股市恐慌例（1235 行）；波义耳、胡克、哈雷一代科学家皆信规律可识（1241 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-03",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "牛顿仿《几何原本》结构写《原理》：由定义、公理、定律出发，以引理-定理-推论构建经典力学大厦，示范纯粹理性可构建自然科学",
+   "quote": "仿照《几何原本》的结构",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1243,
+    "end_line": 1243,
+    "sha1": "7a44883dbb76702e367a3fd8842837d622b446fa",
+    "fingerprint": [
+     "几何原本",
+     "公理",
+     "经典力学"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1068",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "自牛顿后科学家用数学和逻辑重构自然科学，使其成为逻辑自洽、严谨的知识体系（1243 行）；引理/定理/推论之别见 1247 行注"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-04",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "牛顿教人动态地看待世界和规律、看整个过程而不单看状态：微积分描述变化全过程，飞轮效应即加速度的积累",
+   "quote": "动态地看待世界和规律",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1245,
+    "end_line": 1245,
+    "sha1": "27f0fb34ce3235bd3fc5c1d748f85869cc3d9446",
+    "fingerprint": [
+     "微积分",
+     "过程",
+     "飞轮"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-1069",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "飞轮效应常被用于讲长期主义，牛顿积分解释了加速度积累如何导致速度增加（1245 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-05",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "牛顿诠释简单性原则（奥卡姆剃刀）成科学铁律：同一自然现象须尽可能归于同一原因；为简单问题搞复杂理论大概率走错了方向",
+   "quote": "大概率是我们走错了方向",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1249,
+    "end_line": 1251,
+    "sha1": "c8bf1b52ee1c161373c84840faab13f1c8ad5454",
+    "fingerprint": [
+     "奥卡姆剃刀",
+     "简单性",
+     "同一原因"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-3",
+    "D01-1"
+   ],
+   "concept_key": "CK-1070",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "奥卡姆原话「如无必要，切勿假定繁多」；牛顿表述见 1249 行引文；焦耳、麦克斯韦、爱因斯坦、DNA 双螺旋皆简单性例证（1251 行）；后句为吴军本人引申判断"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-06",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "机械论三核心思想：变化有规律且可简单描述；规律确定、合条件即正确（确定性是可重复成功的基础）；规律有预见性",
+   "quote": "可重复成功的基础",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1253,
+    "end_line": 1261,
+    "sha1": "a5cb432d7de8df215d3a4315a899449176e1e7f0",
+    "fingerprint": [
+     "机械论",
+     "确定性",
+     "预见性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1071",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "「机械论」一词为波义耳发明（1263 行注）；玄学神秘主义不可知论在科学革命前盛行（1257 行）；哈雷彗星预言例（1265 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-07",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E2",
+   "claim_text": "规律的预见性使科学和技术开始融合：科学结论指导技术改进（牛顿发明反射望远镜、瓦特依《原理》预见性发明蒸汽机开启工业革命）",
+   "quote": "科学和技术开始融合",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1265,
+    "end_line": 1269,
+    "sha1": "efe811d3f614f67b547d26ca48e04523fe0964f7",
+    "fingerprint": [
+     "瓦特",
+     "蒸汽机",
+     "预见性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1072",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "牛顿前科学研究与工匠经验改进互不相干（1267 行）；「科技」一词自此才有（1269 行）；普通人学基础科学也因预见性（1269 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0021-08",
+   "unit_id": "JJ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "对理性坚定的信念是不断成功的关键；牛顿开启科学时代、理性时代与西方近代社会",
+   "quote": "对理性坚定的信念",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1271,
+    "end_line": 1273,
+    "sha1": "08471b8b7ffcccc3ae30b9ec0ab59bff53d42391",
+    "fingerprint": [
+     "理性",
+     "信念",
+     "成功"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1073",
+   "aux_tags": [],
+   "ability_tags": [],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "末段过渡：100 年前人们坚信理性万能，20 世纪之事让人意识到理性也有局限（1273 行），引出下一单元"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0021",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "引理/定理/推论概念注释（1247 行）与波义耳发明「机械论」一词（1263 行）为术语注释，已并入相关卡 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "牛顿开启近代社会单元：抽 8 卡（2 本人 E1+5 本人 E2+1 本人 E3），术语注释记 X4"
+}

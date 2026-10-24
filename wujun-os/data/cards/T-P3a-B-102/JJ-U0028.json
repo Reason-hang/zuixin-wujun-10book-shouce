@@ -1,0 +1,242 @@
+{
+ "unit_id": "JJ-U0028",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ3",
+ "batch_id": "T-P3a-B-102",
+ "cards": [
+  {
+   "claim_id": "C-JJ-U0028-01",
+   "unit_id": "JJ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "英美特殊论是把经验主义思想方法应用于社会问题的结果",
+   "quote": "经验主义思想方法应用到社会",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1747,
+    "end_line": 1753,
+    "sha1": "e3281a14214974c408e8a38a6971f89f9a0ce5df",
+    "fingerprint": [
+     "英美特殊论",
+     "经验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "CK-8530",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "英美靠不断积累经验优化自身，法德俄等专门做过制度设计（1753）；谁当总统首相影响都不大，只能在传统和经验基础上微调（1747）。表现：判例法系、联邦地方自治、几乎无国企（1717-1721）；概念源自托克维尔（1711）。"
+  },
+  {
+   "claim_id": "C-JJ-U0028-02",
+   "unit_id": "JJ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "成文法制定速度赶不上商业创新；判例法以经验和常识灵活应对新型纠纷",
+   "quote": "赶不上商业的创新速度",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1741,
+    "end_line": 1743,
+    "sha1": "9329d5eb33815b64c2cb4eda8aff25164a9ce0a6",
+    "fingerprint": [
+     "判例法",
+     "陪审团"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "CK-8531",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "大陆法条像定律、依赖使用者水平；判例法像习题集、后人照例题办（1741）；新型纠纷无法律可依时陪审团可依生活经验和常识判断（1743）。吴军亲历：判例法凡事有据可循、同案同判，法律没覆盖处靠新判例纠偏（1737）。"
+  },
+  {
+   "claim_id": "C-JJ-U0028-03",
+   "unit_id": "JJ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "美股注册制宽进＋做空与退市压力形成市场纠错，管理最好回报最高",
+   "quote": "靠经验的方法和市场的力量",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1745,
+    "end_line": 1745,
+    "sha1": "061a9248e977c0d7e045222d23751eb49189d9cb",
+    "fingerprint": [
+     "注册制",
+     "做空"
+    ]
+   },
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "CK-8532",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "案例",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "注册制无明确门槛、流程不到10个月；不限制做空、造假或不及预期企业股价可日跌90%、长期低迷即退市；上市公司数1996年约8000家降至2020年4000多家，市值却从不到10万亿升至50万亿美元（2021）。宽进严出+司法严监管+市场纠错。英国脱欧动因之一即受不了欧盟金融监管。"
+  },
+  {
+   "claim_id": "C-JJ-U0028-04",
+   "unit_id": "JJ-U0028",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "斯密：反对国家自上而下主导贸易，相信市场对经济的自我调节",
+   "quote": "看不见的手",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1749,
+    "end_line": 1751,
+    "sha1": "abaca14d4061f1af2ef472ad4d354c9b94ef95c9",
+    "fingerprint": [
+     "看不见的手",
+     "自由贸易"
+    ]
+   },
+   "pillar_candidates": [
+    "D08-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-8533",
+   "ability_tags": [],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "原理",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：亚当·斯密。工业革命前即见放弃贸易保护、倡导全球贸易；首相小皮特推自由贸易、1784年改革东印度公司垄断。吴军评述：这是对经济法则的尊重，也是现代商业社会的基础；美国学英国小政府大市场、以商业立国（1751）。"
+  },
+  {
+   "claim_id": "C-JJ-U0028-05",
+   "unit_id": "JJ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "理性主义与经验主义不矛盾、适用场景不同：先分类再用休谟的叉子选方法",
+   "quote": "有不同的适用场景",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1755,
+    "end_line": 1763,
+    "sha1": "0d5b440a1d4c604138775acddc29a92616c42db7",
+    "fingerprint": [
+     "休谟的叉子",
+     "适用场景"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8534",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "方法",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "结语概括。理性主义：人有能力以理性认识世界、基本规律简单可重复使用；经验主义：世界复杂、规则覆盖不到的复杂问题靠经验积累（1761）；经验主义不意味固步自封，而是用经验不断验证认知、获得更丰富的经验（1755）。信息过载时代有效学习须懂两主义（1759）。"
+  },
+  {
+   "claim_id": "C-JJ-U0028-06",
+   "unit_id": "JJ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "警惕理性主义解决社会问题的简单化：自然演变的结果多好于理性设计",
+   "quote": "自然演变得到的结果",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 1763,
+    "end_line": 1763,
+    "sha1": "148d4d2a736c32a1fa0341464d79c53d91a82d07",
+    "fingerprint": [
+     "自然演变",
+     "简单化"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-8535",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "disposal": "K",
+   "type": "判断",
+   "stability": "永恒原理",
+   "math_mapping": "不适用",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "与 C-JJ-U0027-02（法苏启蒙对比）互引：法式理性设计付出血雨腥风代价，英美自然演变+渐进改良胜出。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0028",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "英制单位/华氏换算亲历（1715）：生活细节"
+  },
+  {
+   "unit_id": "JJ-U0028",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "诺曼征服、大宪章、两院制形成史（1727）；美国独立与宪法妥协史（1729-1733）：宪政史，要点已并入 C-JJ-U0028-01 notes"
+  },
+  {
+   "unit_id": "JJ-U0028",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "马萨诸塞打呼噜法等奇葩判例（1735）：趣闻例证"
+  },
+  {
+   "unit_id": "JJ-U0028",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "拿破仑法典与大陆法系气质（1739-1741）：法系比较已并入 C-JJ-U0028-02 notes"
+  },
+  {
+   "unit_id": "JJ-U0028",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "重商主义定义、英法百年战争转海洋贸易（1749）：经济史概念解释"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "英美特殊性章+本篇结语：经验主义治国的机理判断与美股纠错E3、斯密转述、结语方法论共6卡；宪政史X4已记"
+}

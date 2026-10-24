@@ -1,0 +1,230 @@
+{
+ "unit_id": "JJ-U0015",
+ "book_code": "JJ",
+ "extractor": "EXT-JJ2",
+ "batch_id": "T-P3a-B-101",
+ "cards": [
+  {
+   "claim_id": "C-JJ-UU0015-01",
+   "unit_id": "JJ-U0015",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "近代哲学从追问世界本源转向方法论：笛卡尔开创理性主义（靠理性思考获新知），培根等开创经验主义（从经验总结知识）",
+   "quote": "变成了关注方法论",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 861,
+    "end_line": 865,
+    "sha1": "4e1f0141396d766824faaa4ef317694b58eca6fb",
+    "fingerprint": [
+     "理性主义",
+     "经验主义",
+     "培根"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1024",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著限定：两大方法论形成于 17 世纪起的认识论转向",
+   "boundary_integrator": "",
+   "notes": "被转述者：哲学史共识（吴军转述）。理性主义后继斯宾诺莎、莱布尼茨；经验主义有霍布斯、洛克、贝克莱、休谟（865 行）。两问题：别人想什么、如何获得知识经验（863 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0015-02",
+   "unit_id": "JJ-U0015",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "系统掌握理性主义与经验主义方法论，才能获得可重复的成功、可叠加的进步；同等条件者成就之差系于是否主动应用方法论",
+   "quote": "可重复的成功、可叠加的进步",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 867,
+    "end_line": 867,
+    "sha1": "2f6982e1b21e1bbfb86c8022dab0156229bcbdac",
+    "fingerprint": [
+     "方法论",
+     "可叠加",
+     "成功"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D05-2"
+   ],
+   "concept_key": "CK-1025",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "吴军判断+亲历：年轻时自己总结的方法不系统，系统学习方法论后成功率显著提高（867 行）；别人兜圈子时他们在稳步前进"
+  },
+  {
+   "claim_id": "C-JJ-UU0015-03",
+   "unit_id": "JJ-U0015",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "站队并不可怕，可怕的是不知道往哪里站；成功投资人靠长期坚持自己一整套方法论，缺乏方法论者遇事抓瞎、不断亏钱",
+   "quote": "可怕的是不知道往哪里站",
+   "type": "判断",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 877,
+    "end_line": 879,
+    "sha1": "80a7830542766cf74fe55797c3ed0b8c346c5921",
+    "fingerprint": [
+     "站队",
+     "投资哲学",
+     "方法论"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1026",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "站队现象：股市涨跌归因之争（871 行）、单位里经验与理论之争（877 行）；看法相反但无对错之分，只要坚持自己的方法论（879 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0015-04",
+   "unit_id": "JJ-U0015",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "claim_text": "柏拉图二元论主张理念世界决定现实世界；亚里士多德主张外在形式决定内在属性——两派分野延续至近代理性主义与经验主义",
+   "quote": "理念世界决定了现实世界",
+   "type": "原理",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 881,
+    "end_line": 887,
+    "sha1": "6af48fb1cf7cad3b323e8bbda8cc12a06d7f2a58",
+    "fingerprint": [
+     "理念世界",
+     "亚里士多德",
+     "形式"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1027",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "被转述者：柏拉图/亚里士多德。吴军映射：认可柏拉图→巴菲特式价值投资（信内在规律）；认可亚里士多德→西蒙斯式（就事论论、不同股票不同原因）（885、887 行）"
+  },
+  {
+   "claim_id": "C-JJ-UU0015-05",
+   "unit_id": "JJ-U0015",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "claim_text": "理性与经验两种方法论都有大量成功案例支持；可以选一队去站，但要事先了解每支队伍通向哪里",
+   "quote": "事先了解每支队伍通向哪里",
+   "type": "方法",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 889,
+    "end_line": 889,
+    "sha1": "1192d31180a82f1b0c94e9856eb2c63e560dc02e",
+    "fingerprint": [
+     "成功案例",
+     "站",
+     "队伍"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1028",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "本节结论句（889 行）；具体站队案例见 C-JJ-U0015-06"
+  },
+  {
+   "claim_id": "C-JJ-UU0015-06",
+   "unit_id": "JJ-U0015",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "claim_text": "投资界两派实证：价值投资者信内在价值（巴菲特），随机论者重外在表现（西蒙斯）——前者理性主义、后者经验主义方法论",
+   "quote": "价值投资者",
+   "type": "案例",
+   "disposal": "K",
+   "anchor": {
+    "file": "《境界：提升认知与人生维度的底层逻辑》[吴军]-原著完整精排版_副本2.md",
+    "book_code": "JJ",
+    "start_line": 871,
+    "end_line": 875,
+    "sha1": "199abb510f47276411fdd1454a773fc741fafd5a",
+    "fingerprint": [
+     "巴菲特",
+     "西蒙斯",
+     "内在价值"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1029",
+   "aux_tags": [],
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "stability": "永恒原理",
+   "boundary_original": "原著未说明",
+   "boundary_integrator": "",
+   "notes": "专名案例承载「方法论站队」机理（R3 强化独立成卡）；内在属性 vs 外在表现两种判断依据（873 行）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "JJ-U0015",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "哲学史谱系铺陈（理性主义/经验主义代表人物列举与两百年交锋，865 行）已压缩入 C-JJ-U0015-01 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "理性还是经验单元：抽 6 卡（1 转述 E2+4 本人 E1/E3+1 转述 E2），谱系叙事记 X4"
+}
