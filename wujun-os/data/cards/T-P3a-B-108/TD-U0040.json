@@ -1,0 +1,187 @@
+{
+ "unit_id": "TD-U0040",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0040-01",
+   "unit_id": "TD-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "本科专业并不那么重要；本科学习的三个主要目的：一生要用的科学常识与人文素养、做事方法与自我学习能力、协作精神",
+   "quote": "本科专业并不那么重要",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1700,
+    "end_line": 1700,
+    "sha1": "e14893dbd3230d8042a8a2551dc6e1b9de41d0cc",
+    "fingerprint": [
+     "三个主要目的"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-2020",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "清单主卡（引入句为锚）；三目的分述见 02/03 卡，第一目的（科学常识与人文素养，L1702）含“凑学分毕业即失去最好学习时间”的批评"
+  },
+  {
+   "claim_id": "C-TD-U0040-02",
+   "unit_id": "TD-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "大学要学做事的方法并掌握自我学习能力：技术更新快，走出校门后自学能力最重要；跟一流教授学思考与解决问题的方法终身受益",
+   "quote": "自我学习能力就显得非常重要",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1704,
+    "end_line": 1704,
+    "sha1": "91333cbba8d7bd40566f59fcd7c44cb42d28ec00",
+    "fingerprint": [
+     "自我学习",
+     "解决问题的方法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-2021",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "MIT 重教授水平胜过课程内容的选课风气之评论；很多课程内容一辈子用不上，但学会了解决问题的方法"
+  },
+  {
+   "claim_id": "C-TD-U0040-03",
+   "unit_id": "TD-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "协作精神的培养始于大学：没有哪个重要工作仅靠个人努力能完成；为小组贡献想法并把同伴当知识资源，交换的不只是知识还有友谊",
+   "quote": "培养协作精神",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1706,
+    "end_line": 1706,
+    "sha1": "18979ca4b36b7cba0acc6b5aaba39224b32ba973",
+    "fingerprint": [
+     "协作",
+     "友谊"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "CK-2022",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "“一起做过作业的同学关系最好”佐证协作即信任交换"
+  },
+  {
+   "claim_id": "C-TD-U0040-04",
+   "unit_id": "TD-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "从信息论角度，任何一个艰难的决定都会造成信息损失，因此推迟决定并不是坏事：可多了解各学科、开阔视野、找到兴趣",
+   "quote": "推迟决定并不是坏事",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1708,
+    "end_line": 1708,
+    "sha1": "5e842621abfe67e9aa5a43f55a089634a71e7bf0",
+    "fingerprint": [
+     "信息损失",
+     "推迟决定"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-2023",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "语境为 MIT 允许推迟到二年级末定专业；决策通用判断"
+  },
+  {
+   "claim_id": "C-TD-U0040-05",
+   "unit_id": "TD-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "未来大部分专业的生命周期远短于人的寿命，人一生从事多个专业很正常；有学习能力和解决问题的方法，各专业一通百通",
+   "quote": "一通百通",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1724,
+    "end_line": 1724,
+    "sha1": "a394a4f094464ec7e4c1abb9af6ea5e066072d2a",
+    "fingerprint": [
+     "生命周期",
+     "一通百通"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-2024",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "职业观判断；鼓励换专业重试的语境"
+  },
+  {
+   "claim_id": "C-TD-U0040-06",
+   "unit_id": "TD-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "机器智能的本质与人的智能不同：计算机依靠大数据和计算解决智能问题，谁掌握大量数据谁就能让计算机更聪明",
+   "quote": "依靠大数据和计算解决智能问题",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1719,
+    "end_line": 1719,
+    "sha1": "d07e99012759aae9a8bf848bca584138835370b5",
+    "fingerprint": [
+     "大数据",
+     "机器智能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "CK-2025",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "阿尔法狗不知自己在下围棋只懂计算；由此对梦华的建议（修统计第二学位）属亲子升学建议，登记 X5；实践对掌握计算机科学的重要性（比尔·乔伊例）并入本卡 notes 参考（L1721-1722）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0040",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "给梦华的大学专业操作建议：主修计算机后应多修人文课（L1712）、最好修统计第二学位（L1719）、MIT CSAIL 训练无忧（L1716-1717）等，属大学与专业选择场景"
+  },
+  {
+   "unit_id": "TD-U0040",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "时效预测：计算机科学将是未来几十年非常好的行业、第四次智能革命（大数据与机器智能）正到来、多数行业将被机器智能改变（L1716-1717），按 R5 登记 X6 候选由 P4 终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第32封信（我们在大学学什么）6 卡 E1 为可迁移判断；给梦华的专业操作建议（X5）与行业趋势预测（X6）登记 x_disposals 由 P4 终裁"
+}

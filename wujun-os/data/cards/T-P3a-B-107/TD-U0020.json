@@ -1,0 +1,149 @@
+{
+  "unit_id": "TD-U0020",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0020-01",
+      "unit_id": "TD-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "穷人在主流环境常遭白眼，物质越缺心理越脆弱（玻璃心），最后回到熟悉的穷苦环境，难以走出原阶层。",
+      "quote": "玻璃心",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 774,
+        "end_line": 774,
+        "sha1": "9d42325e3eca8989c0eb486e7f86990194da7561",
+        "fingerprint": [
+          "玻璃心",
+          "白眼",
+          "舒适区"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "玻璃心与阶层固化",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "卖肾买iPhone、成绩差的孩子扎堆为例证；杜月笙打碎玻璃心挤入上层（行776）为例证并入：不怕嘲笑的穷人首先要打碎玻璃心。人要走出舒适区表述并入。"
+    },
+    {
+      "claim_id": "C-TD-U0020-02",
+      "unit_id": "TD-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "对穷人和弱者越保护越照顾，反而给他们贴上弱势标签，把他们禁锢在原来的社会地位上。",
+      "quote": "越保护，越照顾",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 774,
+        "end_line": 774,
+        "sha1": "9d42325e3eca8989c0eb486e7f86990194da7561",
+        "fingerprint": [
+          "保护",
+          "照顾",
+          "标签"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "过度保护的弱势标签",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与 C-TD-U0020-01 同段独立判断，单列一卡。原著未说明政策适用边界。"
+    },
+    {
+      "claim_id": "C-TD-U0020-03",
+      "unit_id": "TD-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "有信仰的人通常比较宽宏大量，较易不怕白眼、在贫困中保持奋发向上的动力。",
+      "quote": "有信仰的人通常比较宽宏大量",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 778,
+        "end_line": 778,
+        "sha1": "dc9b45973668671505babee815d3aecef6f895ab",
+        "fingerprint": [
+          "信仰",
+          "宽宏大量",
+          "犹太人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D09-1"
+      ],
+      "concept_key": "信仰与宽宏大量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "犹太人出身贫困而成功的群体例证并入。与所罗门转述卡 C-TD-U0020-04 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0020-04",
+      "unit_id": "TD-U0020",
+      "speaker": "转述·第三方",
+      "claim_text": "所罗门：贫困使人奋发上进，只要不失去信仰就能把贫穷变成力量；智慧不分贫富，贫穷是神对人的考验。",
+      "quote": "智慧是不分贫富的",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 778,
+        "end_line": 778,
+        "sha1": "dc9b45973668671505babee815d3aecef6f895ab",
+        "fingerprint": [
+          "所罗门",
+          "信仰",
+          "考验"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "所罗门论贫穷与信仰",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：所罗门（古代犹太王，吴军转述其论贫穷观点）。吴军的取用概括见 C-TD-U0020-03（信仰使人宽宏、贫困中奋发）。"
+    },
+    {
+      "claim_id": "C-TD-U0020-05",
+      "unit_id": "TD-U0020",
+      "speaker": "吴军本人",
+      "claim_text": "永远要承认自己的贫穷、不怕别人白眼，才能真正富有；做好事情才是为自己保留情面的唯一可行方法。",
+      "quote": "永远要承认自己的贫穷",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 782,
+        "end_line": 782,
+        "sha1": "52ea6808314e6bb38e77c7a2c3b45a79e93da71e",
+        "fingerprint": [
+          "贫穷",
+          "白眼",
+          "情面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "承认贫穷才能真正富有",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "是否愿意融入更『富有』更高层次的环境决定能否不断进步；很多人进步到30多岁就停止，并入本卡。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0020",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "行780：女儿弹钢琴陷入困境、是否选容易课程的亲子教育场景（学琴/选课专属），其通用机理（不躲在舒适区）已在 C-TD-U0020-01 表述，场景细节不另成卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第14封信，5卡（贫穷心理机制2张、信仰与所罗门互引2张、核心判断1张），亲子场景X5。"
+}

@@ -1,0 +1,154 @@
+{
+  "unit_id": "TD-U0030",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0030-01",
+      "unit_id": "TD-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "领导力最要紧两方面：一是组织和工作能力（分解任务、组织大家完成），二是团结大多数人、各尽其才。",
+      "quote": "团结大多数人",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1182,
+        "end_line": 1182,
+        "sha1": "ff3409109fa0bf2e8d35a32f2fb5c8cd3969f1e0",
+        "fingerprint": [
+          "领导力",
+          "组织",
+          "各尽其才"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D06-3"
+      ],
+      "concept_key": "领导力两要素",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "领导力难定义但这两方面相对易训练。一般组织语境为主归属 D07-2，职场领导辅 D06-3。"
+    },
+    {
+      "claim_id": "C-TD-U0030-02",
+      "unit_id": "TD-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "可按关系好坏与能力强弱把人分四种：需重点对待关系好但能力有限者（勿偏袒）与有能力但非朋友者（勿排斥）。",
+      "quote": "把世界上的人分成4种",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1184,
+        "end_line": 1184,
+        "sha1": "95b3161991cdc7779a6fe390407d56aa7cf17c53",
+        "fingerprint": [
+          "四种人",
+          "能力",
+          "朋友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "四种人分类",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "分类框架卡：第一种放心，第二种防偏袒，第三种（重点）能力强但难相处，第四种交集少不必在意。"
+    },
+    {
+      "claim_id": "C-TD-U0030-03",
+      "unit_id": "TD-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "塔列朗式能吏：利益一致时是很好的伙伴，专业强且忠于职守；与他们处好关系是完成伟大事业的前提。",
+      "quote": "完成一项伟大事业的前提条件",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1202,
+        "end_line": 1202,
+        "sha1": "618204d03364cbac3c6e34a1a820b58180649f1e",
+        "fingerprint": [
+          "能吏",
+          "利益一致",
+          "忠于职守"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "团结能吏",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "塔列朗生平（行1188-1200，见X4处置）为背景例证；『按中国旧标准是能吏：办事能力强、道德未必高尚』为吴军概括并入。"
+    },
+    {
+      "claim_id": "C-TD-U0030-04",
+      "unit_id": "TD-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "不能按自己喜好评判人、对人不能有洁癖；要看到并善用别人的长处；设定共同目标、利益绑定、对事不对人，就能团结大多数人。",
+      "quote": "对事不对人",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1204,
+        "end_line": 1204,
+        "sha1": "9e1587de4c5e232e1b92cfa1c428e8c40dee9ef1",
+        "fingerprint": [
+          "洁癖",
+          "长处",
+          "共同目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "团结大多数人的方法",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "把塔列朗式的人推到对立面是最蠢的办法；大部分人对我们并无恶意，不能横挑鼻子竖挑眼，并入本卡。"
+    },
+    {
+      "claim_id": "C-TD-U0030-05",
+      "unit_id": "TD-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "不能因关系好就凡事偏袒能力有限的人：任人唯亲是坏习惯，常带来灾难。",
+      "quote": "任人唯亲",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1206,
+        "end_line": 1206,
+        "sha1": "53970b910a609032b5174b7c0a5346ff64253efb",
+        "fingerprint": [
+          "偏袒",
+          "任人唯亲",
+          "灾难"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D06-3"
+      ],
+      "concept_key": "任人唯亲之害",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "亚洲企业多传不过一代（创始人只信孩子亲信）与美国企业靠职业经理人基业长青的对比为例证并入。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0030",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "行1188-1200：塔列朗生平史事（出身、革命、投靠拿破仑、维也纳会议、私生活），属历史人物叙事，可迁移判断已抽入 C-TD-U0030-03。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第23封信，5卡（领导力/四种人/能吏/团结方法/任人唯亲），塔列朗史事X4。"
+}

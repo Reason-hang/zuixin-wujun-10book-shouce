@@ -1,0 +1,65 @@
+{
+  "unit_id": "FZ-U0051",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0051-01",
+      "unit_id": "FZ-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "简单系统整体等于部分之和：零件功能不随系统改变，可拆解设计再组装，汽车是典型",
+      "quote": "整体等于部分之和",
+      "anchor": {
+        "start_line": 1823,
+        "end_line": 1825,
+        "sha1": "a7b05572be634d47555b8b3b3561bdc8659ff788",
+        "fingerprint": [
+          "笛卡儿",
+          "逆向工程"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "简单系统可拆",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "笛卡儿方法论的基本假设；福特生产线把零件扔进去组装出的一定是汽车；中国小厂逆向工程拆车仿造；坏一个零件换掉即可——工业时代该假设基本成立；Wi-Fi部署vs城市配套（1811-1819）对比见卡02。概念键\"简单系统可拆\""
+    },
+    {
+      "claim_id": "C-FZ-U0051-02",
+      "unit_id": "FZ-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "复杂系统整体不等于部分之和：部分特性随整体改变，难以由部分了解整体；须用系统方法看世界",
+      "quote": "整体不等于部分之和",
+      "anchor": {
+        "start_line": 1827,
+        "end_line": 1831,
+        "sha1": "6f217c5e4cc5affb5dd80605a4173fb4bc1a5b03",
+        "fingerprint": [
+          "工蚁",
+          "脑细胞"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "复杂系统整体性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "蚁群蜂群：个体智力很低合起来能做成大事；人体：手的多重功能、无法由单个脑细胞得知大脑如何思维；不用系统眼光看待经济体会好初衷带来坏结果——特拉斯减税45天下台例证（1833，锚外）。概念键\"复杂系统整体性\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：简单系统vs复杂系统共2卡"
+}

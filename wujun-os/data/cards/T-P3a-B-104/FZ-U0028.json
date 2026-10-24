@@ -1,0 +1,135 @@
+{
+ "unit_id": "FZ-U0028",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0028-01",
+   "unit_id": "FZ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "最常用的经验是常识：有常识的人生活不会太差，无常识者才高八斗也可能身处险境",
+   "quote": "身处险境而不自知",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 951,
+    "end_line": 951,
+    "sha1": "0e9e2a1cdca97ba1f5164309956b1e536aef7937",
+    "fingerprint": [
+     "常识",
+     "股市有风险",
+     "身败名裂"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1051",
+   "concept_name": "不要轻视常识",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "'经验老到位高权重富可敌国者瞬间身败名裂'（951 行）为史实性佐证；轻视原因见 C-FZ-U0028-02。"
+  },
+  {
+   "claim_id": "C-FZ-U0028-02",
+   "unit_id": "FZ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "人们轻视常识的三个原因：听上去简单不当回事、获得容易不珍惜、人人都有显得不值钱",
+   "quote": "轻视常识",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 953,
+    "end_line": 953,
+    "sha1": "c3412fec7a6e26e15caeb5ad607dab74753ab488",
+    "fingerprint": [
+     "常识",
+     "敬畏",
+     "珍惜"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1052",
+   "concept_name": "轻视常识三原因",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "三原因均在 953 行；与 D01-1 must_check⑥（常识的使用与更新）直接对应。"
+  },
+  {
+   "claim_id": "C-FZ-U0028-03",
+   "unit_id": "FZ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "常识是世界的轮廓：符合常识的不一定对，但不符合常识的通常都是错的",
+   "quote": "世界的轮廓",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 955,
+    "end_line": 959,
+    "sha1": "8ca39a4974dab548a58716d5abd29450f46c0798",
+    "fingerprint": [
+     "轮廓",
+     "鸡蛋",
+     "宏观"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1053",
+   "concept_name": "常识是世界的轮廓",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "画鸡蛋轮廓类比（955/957 行）、'常识的作用不是解释细节而是宏观判定'（959 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0028-04",
+   "unit_id": "FZ-U0028",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "常识也会错且可以改变：它来自过去的经验，对同一件事的常识会随认知进步而更新",
+   "quote": "常识也会错",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 961,
+    "end_line": 965,
+    "sha1": "b4e92dd599ffabbcfdc74c3bcb1da1a67344768f",
+    "fingerprint": [
+     "过去的经验",
+     "地心说",
+     "哥白尼"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1054",
+   "concept_name": "常识也会错",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "鸡蛋苹果轮廓认知演化（963 行）、'数学上日心说和地心说等价'（965 行）在本锚；承接 U0029 更新机制。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "常识节：4 卡（价值/误区原因/轮廓判定/可错性），日心说例为转述背景入卡"
+}

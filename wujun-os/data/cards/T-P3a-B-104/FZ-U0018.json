@@ -1,0 +1,228 @@
+{
+ "unit_id": "FZ-U0018",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0018-01",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "不要试图战胜市场：散户与专业基金经理长期都难跑赢大盘，方向一开始就错了",
+   "quote": "和市场的有效性做对",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 543,
+    "end_line": 549,
+    "sha1": "386e212df6b07b6dcd2af9a6e916f79ccb65e4e8",
+    "fingerprint": [
+     "战胜市场",
+     "市场的有效性",
+     "通货膨胀率"
+    ]
+   },
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "CK-1001",
+   "concept_name": "不要试图战胜市场",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "本节总判断；金融机制见 C-FZ-U0018-03。干预市场长期得不偿失亦在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0018-02",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "市场有效性带来两个结果：行业只获平均合理利润、资源得到调配，对社会是福音",
+   "quote": "市场的有效性会带来两个结果",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 551,
+    "end_line": 557,
+    "sha1": "59d5c3589caf8b115c65fb91897c9e07bd867ffa",
+    "fingerprint": [
+     "看不见的手",
+     "平均的合理的利润",
+     "资源的分配"
+    ]
+   },
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "CK-1002",
+   "concept_name": "市场的有效性",
+   "ability_tags": [],
+   "boundary_original": "原著给出成立前提：充分竞争的环境与足够大的时空（579 行，见 C-FZ-U0018-07）",
+   "status": "已生成",
+   "notes": "亚当·斯密'看不见的手'为吴军转述背景（551 行），不另立转述卡；成立前提见 C-FZ-U0018-07。IBM 造机枪、口罩厂转型为例证。"
+  },
+  {
+   "claim_id": "C-FZ-U0018-03",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "金融市场比商品市场更有效，价格已反映价值，自以为捡便宜实则会被市场打败",
+   "quote": "一定会被市场打败",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 559,
+    "end_line": 563,
+    "sha1": "be90499c63e8df31f68c1bebcf52c630ed7adb89",
+    "fingerprint": [
+     "金融市场",
+     "价格和背后的价值"
+    ]
+   },
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "CK-1003",
+   "concept_name": "金融市场有效性",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "概括见 C-FZ-U0018-01；非上市公司估值（565 行疫情送菜公司例）同样印证，并入本卡 notes。"
+  },
+  {
+   "claim_id": "C-FZ-U0018-04",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "社会有效性下选择不能只看当下一两年：众争勿往，聪明人走少有人走的路",
+   "quote": "少有人走的路",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 573,
+    "end_line": 577,
+    "sha1": "ae163a90479db894bf6f1fd02a5590fa2e762e85",
+    "fingerprint": [
+     "众争勿往",
+     "少有人走的路"
+    ]
+   },
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "CK-1004",
+   "concept_name": "众争勿往",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "'众争勿往'出自吴军《格局》自引；567-571 行热门专业供大于求、医生律师门槛回报为例证（锚外，备查）。地铁扶梯、黄车类比在锚内。"
+  },
+  {
+   "claim_id": "C-FZ-U0018-05",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "市场的有效性要从宏观整体看：微观波动相互抵消，任何切换都有切换成本",
+   "quote": "都是有切换成本的",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 585,
+    "end_line": 591,
+    "sha1": "f5c01be51018e7ceda2c9b95a3fe042dcdcb648b",
+    "fingerprint": [
+     "宏观上和整体上",
+     "切换成本",
+     "微小浮动"
+    ]
+   },
+   "pillar_candidates": [
+    "D03-1",
+    "D09-2"
+   ],
+   "concept_key": "CK-1005",
+   "concept_name": "切换成本",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "高频交易与文艺复兴公司例（593 行）、老司机看远方类比（595 行）为佐证，在锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0018-06",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "社会的有效性是运作公理，境界高低不在智商而在对规律的态度，傻福源于敬畏",
+   "quote": "对规律的态度",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 597,
+    "end_line": 597,
+    "sha1": "216d6d11d4052d5f7ca05e6f3b1ac976612c78ea",
+    "fingerprint": [
+     "社会运作规律的公理",
+     "怀才不遇",
+     "傻人有傻福"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-3",
+    "D08-1"
+   ],
+   "concept_key": "CK-1006",
+   "concept_name": "对规律的态度",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "违背社会公理与违背物理学公理同理；'傻人有傻福'被吴军重新定义为敬畏规律。"
+  },
+  {
+   "claim_id": "C-FZ-U0018-07",
+   "unit_id": "FZ-U0018",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "世界的有效性成立需两个前提：充分竞争的环境与足够大的时空",
+   "quote": "充分竞争的环境",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 579,
+    "end_line": 583,
+    "sha1": "1de73fa0fe1850fb30756e7270bed35a9a25c66d",
+    "fingerprint": [
+     "充分竞争",
+     "足够大的时空",
+     "起薪"
+    ]
+   },
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "CK-1007",
+   "concept_name": "有效性的前提",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "边界卡：C-FZ-U0018-02 的适用条件。竞争对每个人是机会；起薪谈亏长远会持平（583 行）亦在本锚。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "单元含多条吴军本人可迁移判断（投资红线/市场规律/择业/境界），7 卡入主干"
+}

@@ -1,0 +1,227 @@
+{
+ "unit_id": "FZ-U0024",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0024-01",
+   "unit_id": "FZ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "处理多维复杂问题时理性通常不够用，需要靠经验（常识、情商、传统）",
+   "quote": "理性通常是不够用的",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 769,
+    "end_line": 777,
+    "sha1": "0e18c9bd98d5908f5b945a70c9ae60c8bf2e07c9",
+    "fingerprint": [
+     "理性",
+     "常识和经验",
+     "规章制度"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1026",
+   "concept_name": "理性不够用靠经验",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "机器人买咖啡比下棋难（AlphaGo 对照）、规章制度管不了人事关系、社会问题靠传统，均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0024-02",
+   "unit_id": "FZ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "做事方法有多种，把目光放长远，重视经验和传统的做法（英日）比理性设计（法德）更好",
+   "quote": "重视经验和传统的做法会更好",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 779,
+    "end_line": 779,
+    "sha1": "73b5d412d02d6835b665e0267a92f5a690cd4b71",
+    "fingerprint": [
+     "传统",
+     "经验主义",
+     "理性设计"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1027",
+   "concept_name": "经验主义的优越性",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "英国日本诺奖数据与竞争力评述（781-783 行，时效统计锚外备查）、岛国共性（785 行）、理性主义与经验主义学者谱系（787-789 行，笛卡儿/莱布尼茨/斯宾诺莎/康德 vs 培根/洛克/贝克莱/休谟，背景转述）均并入本卡 notes。"
+  },
+  {
+   "claim_id": "C-FZ-U0024-03",
+   "unit_id": "FZ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "纯粹依靠理性做事不可能不犯错：绝对理性造成巨大毁灭性灾难，经验之祸仅微小局部",
+   "quote": "不可能不犯错误",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 793,
+    "end_line": 795,
+    "sha1": "afb271da8d046692122e1eb41285281f4556fddf",
+    "fingerprint": [
+     "理性",
+     "灾难",
+     "毁灭性"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1028",
+   "concept_name": "绝对理性的灾难",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "强大意志者把想法当理性构建完美世界（793 行）；'依赖经验的灾难微小局部、绝对理性的灾难巨大毁灭性'（795 行）为结论句。转述警句见 C-FZ-U0024-04。"
+  },
+  {
+   "claim_id": "C-FZ-U0024-04",
+   "unit_id": "FZ-U0024",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "type": "判断",
+   "claim_text": "撒切尔：人类灾难都来自欧洲大陆而解决方案来自英语国家；哈耶克：通往地狱之路由天堂梦想铺就",
+   "quote": "理性的自负",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 797,
+    "end_line": 797,
+    "sha1": "27bded0a92f1947b2b4faac099dfa87f81f4f817",
+    "fingerprint": [
+     "撒切尔",
+     "哈耶克",
+     "天堂的梦想"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1029",
+   "concept_name": "理性的自负",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "被转述者：撒切尔夫人、哈耶克（吴军直引两句名言）；吴军的概括论证（法国大革命/拿破仑/两次大战源自大陆、英美收场）与本卡同锚。概括见 C-FZ-U0024-03。"
+  },
+  {
+   "claim_id": "C-FZ-U0024-05",
+   "unit_id": "FZ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "正确的理性实施中也可能产生与想法相反的结果；没有人文的科学可能就是灾难",
+   "quote": "和想法相反的结果",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 799,
+    "end_line": 799,
+    "sha1": "c72abb4ec662290eaad1a68ad9ea62cf49f23b29",
+    "fingerprint": [
+     "王安石变法",
+     "科学至上",
+     "人文"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1030",
+   "concept_name": "正确理性也可能适得其反",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "理性主义缺陷第二方面；第一方面（合乎理性的结论本身可能错：柏拉图、地心说）在 797 行末锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0024-06",
+   "unit_id": "FZ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "英国的保守不是因循守旧而是审慎：凭经验渐变几百年达到进步，比激进重构更稳",
+   "quote": "审慎的做事态度",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 803,
+    "end_line": 803,
+    "sha1": "a2dac2a1f139c0fb6cc4c92b59778770b787e9e4",
+    "fingerprint": [
+     "保守",
+     "改良",
+     "审慎"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "CK-1031",
+   "concept_name": "审慎渐变",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "柏克《法国革命论》英法对比、法国1789年来五个共和国政权平均不到30年（805-807 行）、休谟'明天的太阳'之问与邓小平'摸着石头过河'（801 行）为例证/背景锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0024-07",
+   "unit_id": "FZ-U0024",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "人们对经验有三个误区：把经验与经历混谈、与资历混谈、把经验传统当成固定不变",
+   "quote": "三个理解误区",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 809,
+    "end_line": 811,
+    "sha1": "3d1810b0f4171aafbb6aeb777826a7397b1d2ab6",
+    "fingerprint": [
+     "经历",
+     "资历",
+     "固定不变"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-1032",
+   "concept_name": "经验三误区",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "承上启下节：三个误区分别引出 U0025（经历≠经验）与资历≠经验两节。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "经验vs理性核心节：本人判断6卡+撒切尔/哈耶克转述1卡；英日国力数据入notes"
+}

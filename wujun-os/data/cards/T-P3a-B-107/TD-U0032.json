@@ -1,0 +1,177 @@
+{
+  "unit_id": "TD-U0032",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0032-01",
+      "unit_id": "TD-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "沟通以对方确信接收到信息及其含义才算结束：不能话说完就算完成，须确认对方明白并给出答复。",
+      "quote": "通信要以确信对方真正接收到了",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1290,
+        "end_line": 1290,
+        "sha1": "c15f1aaee93434390427ba05a0e316e1dbaca8d6",
+        "fingerprint": [
+          "确认",
+          "接收",
+          "结束"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通以确认为准",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "借鉴计算机通信须得确认机制的类比；妈妈漏看短信订票、李四没开始做任务为例证并入。信末四句话总结中的第一、四条即本卡与 C-TD-U0032-06。"
+    },
+    {
+      "claim_id": "C-TD-U0032-02",
+      "unit_id": "TD-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "要在双方共同认知基础上、用对方听得懂能马上理解的语言沟通；好老师把深奥道理讲简单，而非把简单问题复杂化。",
+      "quote": "要用对方能听得懂",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1292,
+        "end_line": 1292,
+        "sha1": "440fed00409af7db69bde3567203301de9e48abd",
+        "fingerprint": [
+          "听得懂",
+          "认知",
+          "简单"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "用对方听得懂的话",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "顾维钧巴黎和会以耶稣喻孔子讲山东重要性为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0032-03",
+      "unit_id": "TD-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "沟通切忌啰唆：废话太多对方搞不清你要说什么，效果为零；话多难免词不达意（噪声）。",
+      "quote": "切忌啰唆",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1294,
+        "end_line": 1294,
+        "sha1": "eebc8541c4994880e60dca4fca52f0efcf47a0bd",
+        "fingerprint": [
+          "啰唆",
+          "噪声",
+          "废话"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通忌啰唆",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "好的沟通要清楚对方是谁、用一两句话让对方理解意图。"
+    },
+    {
+      "claim_id": "C-TD-U0032-04",
+      "unit_id": "TD-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "说话要看对象：同样的道理对不同的人要用不同的说法，先了解听众的知识背景。",
+      "quote": "说话要看对象",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1306,
+        "end_line": 1306,
+        "sha1": "ce4739d615a4762a833d4669a84010731d486b3d",
+        "fingerprint": [
+          "对象",
+          "听众",
+          "说法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "说话看对象",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "吴军自述做报告前先问听众是谁；诺伊斯一席话说服费尔柴尔德投资（行1296-1300）为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0032-05",
+      "unit_id": "TD-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "信息时代的商业特点：值钱的不是材料，而是上面的知识附加值。",
+      "quote": "值钱的不是材料",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1304,
+        "end_line": 1304,
+        "sha1": "7b1be22fcdefe29f6903e3f0d9de5f35d92c87d4",
+        "fingerprint": [
+          "知识附加值",
+          "材料",
+          "信息时代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "知识附加值",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "由诺伊斯『沙子和导线将使晶体管成本趋近于零，竞争转向制造工艺』引出的吴军判断；沟通场景中独立成立的商业规律卡。"
+    },
+    {
+      "claim_id": "C-TD-U0032-06",
+      "unit_id": "TD-U0032",
+      "speaker": "吴军本人",
+      "claim_text": "有效沟通重点不在证明自己正确而在达到目的；善辩不等于好沟通，说服靠确定的事实而非花言巧语与雄辩。",
+      "quote": "重点不在于证明自己正确",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1308,
+        "end_line": 1308,
+        "sha1": "31050570a06149811287608b8c7e83eb45cd16c3",
+        "fingerprint": [
+          "证明自己正确",
+          "善于辩论",
+          "事实"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通不为辩赢",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "辩论赢了却让人产生逆反心理的沟通是彻底失败；对方『改变主意』其实是从未被说服，并入本卡。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第25封信，6卡（有效沟通5张E1归D07-1＋知识附加值1张E1归D08-2），诺伊斯例证与信末四句总结并入母卡。"
+}

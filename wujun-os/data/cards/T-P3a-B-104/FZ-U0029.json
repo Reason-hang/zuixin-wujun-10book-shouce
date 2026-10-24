@@ -1,0 +1,166 @@
+{
+ "unit_id": "FZ-U0029",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0029-01",
+   "unit_id": "FZ-U0029",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "把常识当静态会走两个极端（套用一辈子/彻底否认）；常识需要不断更新才能解决主要问题",
+   "quote": "常识也是需要不断更新的",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 971,
+    "end_line": 973,
+    "sha1": "af5ae4d7d833f5eb6b3a4ae015bcc42c2ea7dc75",
+    "fingerprint": [
+     "静态",
+     "极端",
+     "更新"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1055",
+   "concept_name": "常识需要更新",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "感冒由病原体引起、进补旧识被营养新知替代（975 行）为锚外例证备查；两种过时情况见 C-FZ-U0029-02/04。"
+  },
+  {
+   "claim_id": "C-FZ-U0029-02",
+   "unit_id": "FZ-U0029",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "常识过时第一种情况：由不完全归纳得出的伪常识——几次巧合加刻意忽略反例",
+   "quote": "不完全归纳",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 977,
+    "end_line": 981,
+    "sha1": "ef007e132eedcd251c14d661b1afc2ff2be43aea",
+    "fingerprint": [
+     "不完全归纳",
+     "伪常识",
+     "马尔基尔"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1056",
+   "concept_name": "伪常识与不完全归纳",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "短裙指数、马尔基尔《漫步华尔街》伪常识清单（转述）、癌症与阿尔茨海默病'变多'实为寿命延长的误读（981 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0029-03",
+   "unit_id": "FZ-U0029",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "人接触的只是范围规模有限的局部世界，从有限经验总结的常识必然有不准确之处",
+   "quote": "有限的局部世界",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 983,
+    "end_line": 983,
+    "sha1": "a95688d00914d13bee100652d024b04f8f79c40c",
+    "fingerprint": [
+     "局部世界",
+     "经验",
+     "日心说"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1057",
+   "concept_name": "有限局部世界",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "月入1万者想象不出亿万富翁花钱方式、日心说在伽利略发现木星卫星后才被接受，均在本锚行。"
+  },
+  {
+   "claim_id": "C-FZ-U0029-04",
+   "unit_id": "FZ-U0029",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "常识过时第二种情况：过去常识成立的条件消失了（如低速条件下的质量时间恒定、农耕社会的养儿防老）",
+   "quote": "成立的条件消失了",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 985,
+    "end_line": 987,
+    "sha1": "983b568c0c0eceefe0ef115a0743a920f75b7ce1",
+    "fingerprint": [
+     "相对论",
+     "养儿防老",
+     "条件"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1058",
+   "concept_name": "成立条件消失",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "1905 相对论颠覆物理常识、家族互助农耕社会到社会养老（985-987 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0029-05",
+   "unit_id": "FZ-U0029",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "更新的常识能解释旧常识能解释的现象还能解释新现象；反常识连旧问题都解释不了",
+   "quote": "基础和起点",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 991,
+    "end_line": 993,
+    "sha1": "ef0ad1233123ec1def09e957264d7b2c82c19529",
+    "fingerprint": [
+     "参照系",
+     "庞氏骗局",
+     "怀疑"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1059",
+   "concept_name": "更新常识vs反常识",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "日心说与地心说只是换参照系、相对论把古典物理学纳入自身、庞氏骗局'新金融理论'解释不了钱如何无中生有（991 行）；'常识是思考问题的基础和起点，未经验证的违反常识的新理论值得怀疑'（993 行）为本锚结论。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "常识更新节：5 卡（两极端/两种过时情况/局部世界/更新vs反常识）"
+}

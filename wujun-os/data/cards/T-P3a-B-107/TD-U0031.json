@@ -1,0 +1,124 @@
+{
+  "unit_id": "TD-U0031",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0031-01",
+      "unit_id": "TD-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "小人四特质（清单一卡）：都聪明不笨；让人觉得对他特别好而人常倒霉在小人身上；目的是私利不惜损人；以朋友形式出现。",
+      "quote": "小人都不是笨人",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1243,
+        "end_line": 1251,
+        "sha1": "9996d109288f34c1bb00343f552850aab4de7e96",
+        "fingerprint": [
+          "小人",
+          "聪明",
+          "朋友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D06-3"
+      ],
+      "concept_key": "小人四特质",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与直接损害你的恶棍不同，小人吃大亏前常被误当挚友、能把人服侍得很舒服。费无极故事（见X4处置）的核心教训『楚平王看不清对方对自己好的目的』并入本卡。"
+    },
+    {
+      "claim_id": "C-TD-U0031-02",
+      "unit_id": "TD-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "防范小人第一条是自己戒除贪欲：贪欲让小人乘虚而入；无缘无故对你特别好的人反而要警惕。",
+      "quote": "自己要戒除贪欲",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1255,
+        "end_line": 1255,
+        "sha1": "e41fffbc7151d8729d041b2947e44133db36a0c3",
+        "fingerprint": [
+          "贪欲",
+          "乘虚而入",
+          "警惕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D06-3"
+      ],
+      "concept_key": "戒贪防小人",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "楚平王贪色中计、贪免费装盗版软件中毒（包藏祸心的免费提供者也是小人）为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0031-03",
+      "unit_id": "TD-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "善良的人会从你的最大利益对你好；小人利用你的弱点给你局部小利，长远却损害你最大最根本的利益。",
+      "quote": "从你的最大利益上对你好",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1259,
+        "end_line": 1263,
+        "sha1": "da07c94cbe3c23dcfc3f098be1b2f5574fb0992f",
+        "fingerprint": [
+          "最大利益",
+          "小恩小惠",
+          "原则"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "从最大利益识善人",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "收礼让做违反原则的事永远不能做、要远离这种人，并入本卡。"
+    },
+    {
+      "claim_id": "C-TD-U0031-04",
+      "unit_id": "TD-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "识人勿只看对你如何，还要看他对周围人如何（对你刻薄之外唯独对你好者要小心）；物以类聚，观其交友可侧面识人。",
+      "quote": "不要只看他对你如何",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1265,
+        "end_line": 1269,
+        "sha1": "cf352e35b01165797808db185236b3062ea83de8",
+        "fingerprint": [
+          "周围的人",
+          "刻薄",
+          "物以类聚"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "观其对周围人",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "爷爷的话（对周围刻薄唯独对你好要小心）与『周围高尚者多为君子』并入。与 C-TD-U0031-03 同属区分好人小人的三点体会，两点合并为一卡。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0031",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "行1231-1241：费无极与伍子胥史事（迎亲、劝娶、废太子、迫害伍奢、掘墓鞭尸），历史叙事，可迁移判断已抽入 C-TD-U0031-01/02/03。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第24封信，4卡（小人四特质/戒贪/最大利益识人/观其交友），费无极史事X4。"
+}

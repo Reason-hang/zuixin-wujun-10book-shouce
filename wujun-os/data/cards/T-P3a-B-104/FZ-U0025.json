@@ -1,0 +1,256 @@
+{
+ "unit_id": "FZ-U0025",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0025-01",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "经历人人都有而经验未必：简历只是经历汇总，别人要看的是你做成过什么",
+   "quote": "经历人人都有，经验却未必",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 815,
+    "end_line": 819,
+    "sha1": "8c268c4686cc863d17ca8fbe3620382f79c0fd11",
+    "fingerprint": [
+     "经历",
+     "经验",
+     "简历"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-1033",
+   "concept_name": "经历不等于经验",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "resume 词源（817 行）在本锚；三种难变经验的经历见 C-FZ-U0025-02。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-02",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "三种经历难以变成经验：失败的经历、重复的经历、无用的经历",
+   "quote": "重复的经历",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 823,
+    "end_line": 831,
+    "sha1": "c5a57f2619f2ae16ece18bd4ef37b4f6524ae90d",
+    "fingerprint": [
+     "失败的经历",
+     "重复的经历",
+     "收费"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D05-2"
+   ],
+   "concept_key": "CK-1034",
+   "concept_name": "三种难变经验的经历",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "第三种无用经历（刷短视频如垃圾堆翻硬币、通勤买菜，835-837 行）与'减少无用的经历很重要'（839 行）锚外备查，见 C-FZ-U0025-04。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-03",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "重复性工作的经验会贬值：干20年与七八年差不多，需用新课题避免经历过度重复",
+   "quote": "经验是差不多的",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 833,
+    "end_line": 833,
+    "sha1": "b3e3a1f4ebcd4a2d667594b6aa4fd0ca92c9167d",
+    "fingerprint": [
+     "同一门课",
+     "科研",
+     "疑难杂症"
+    ]
+   },
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "CK-1035",
+   "concept_name": "重复性工作经验贬值",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "教授靠科研晋升、医生研究疑难杂症、律师接复杂案子均为避免重复，均在本锚行；用人单位视角（20年经验者竞争不过七八年者）。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-04",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "减少无用的经历：与己无关的会议是无用经历，招聘方对事务性工作经历打折计算",
+   "quote": "无用经历",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 841,
+    "end_line": 845,
+    "sha1": "ec151aa3806af042c3def3e73ce65d4accf7890b",
+    "fingerprint": [
+     "会议",
+     "韦尔奇",
+     "打折"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D05-2"
+   ],
+   "concept_key": "CK-1036",
+   "concept_name": "减少无用经历",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "杰克·韦尔奇砍会议为公司管理例证（843 行，转述背景）；硅谷对'上一代'IT企业十几年事务性经历除以2（845 行，行业做法时效备查）。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-05",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "经历可被动获得，经验需主动获取：科学实验、试点、对比是主动积累经验的方法",
+   "quote": "经验有时需要主动获取",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 847,
+    "end_line": 851,
+    "sha1": "22759112e6b40ee45bb0835f8409c277fa83c67e",
+    "fingerprint": [
+     "主动",
+     "实验",
+     "梅森瓷器"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-1037",
+   "concept_name": "主动获取经验",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "伯特格尔3万次瓷土配比实验与梅森瓷器档案（849 行）、改革开放特区试点、广告候选对比、互联网灰度放量（851 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-06",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "一个领域的经验弥补不了另一个领域的不足，需主动补足多维经验",
+   "quote": "不能弥补另一个领域的不足",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 853,
+    "end_line": 859,
+    "sha1": "fde9ec8f041c2d4804008b5747c11994f535e973",
+    "fingerprint": [
+     "单一维度",
+     "社会经验",
+     "学校大院"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-1038",
+   "concept_name": "经验不能跨领域",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "吴军学校大院长辈社会经验少、外出两年胜过二十年（859 行）为自证例证；教授挂职、在职MBA（861 行）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-07",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "有些经验必须亲身经历才能获得：光看书学不会别人的经验，不经历体会不深",
+   "quote": "光看书是学不会的",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 863,
+    "end_line": 863,
+    "sha1": "f6f5611aebef51cb740dba20fd809caa2e535e88",
+    "fingerprint": [
+     "上当受骗",
+     "亲力亲为",
+     "经验"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D02-1"
+   ],
+   "concept_key": "CK-1039",
+   "concept_name": "亲历才学会",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "防诈骗必须自己上过当例、网上经历多的人遇现实难题脑子空白，均在本锚行。"
+  },
+  {
+   "claim_id": "C-FZ-U0025-08",
+   "unit_id": "FZ-U0025",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "资历不等于经验：资历可能混出来且随时间贬值，过去的资历不代表未来的能力",
+   "quote": "论资排辈",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 865,
+    "end_line": 869,
+    "sha1": "3be3022992529539c04749bbae1c8a3dca9295ff",
+    "fingerprint": [
+     "资历",
+     "论资排辈",
+     "贬值"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "CK-1040",
+   "concept_name": "资历不等于经验",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "越落后地区越讲论资排辈、快速发展地区讲经验（869 行）；'我们信任一个人是认定他有经验而非经历多'（871 行）为收尾，锚外备查。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "经历/经验辨析高密度节：8 条独立判断成卡，韦尔奇例转述入 notes"
+}

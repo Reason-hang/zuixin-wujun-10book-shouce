@@ -1,0 +1,107 @@
+{
+ "unit_id": "TD-U0041",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0041-01",
+   "unit_id": "TD-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "学术水平的提高需要交流，人员的流动是最好的交流；本科、研究生和任教都在一所大学看似最大化利益，实为“近亲繁殖”的受害者",
+   "quote": "人员的流动是最好的交流",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1747,
+    "end_line": 1749,
+    "sha1": "c54dd0591ceec0ee575ac4a58e112203a799de4a",
+    "fingerprint": [
+     "近亲繁殖",
+     "交流"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "CK-2026",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清华“三清团”现象批评；美国一所大学的教授通常来自很多不同大学（L1747-1749）"
+  },
+  {
+   "claim_id": "C-TD-U0041-02",
+   "unit_id": "TD-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "专业方向确定后读研导师比学校重要：好导师帮你在学术界迅速站稳脚跟，对一辈子职业发展都有帮助",
+   "quote": "导师比学校重要",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1761,
+    "end_line": 1763,
+    "sha1": "7afe3c665ffd3e5f615779106af67178a108777a",
+    "fingerprint": [
+     "导师",
+     "师门"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "CK-2027",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "美欧日学术界讲究师门；玻尔哥本哈根学派、贾里尼克为语音领域精神领袖的例证（L1763）；与本科生先选学校再选专业正相反"
+  },
+  {
+   "claim_id": "C-TD-U0041-03",
+   "unit_id": "TD-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "好导师的价值在于告诉你哪些事情不要做，为博士省大量时间；平庸的导师让学生按自己的想法做，抑制兴趣和创造力",
+   "quote": "哪些事情不要做",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1765,
+    "end_line": 1765,
+    "sha1": "691a54a16f406b638c804e42a1d8e5ba670afd4e",
+    "fingerprint": [
+     "不要做",
+     "创造力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "CK-2028",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "博士课题须是前人未触及的，连导师也未必知道怎么做；贾里尼克实验室 CLSP 靠高频学术交流让学生毕业前认识本领域全部知名学者（L1767）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0041",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "升学选校方法论主体：读研与本科大学分开的三好处（L1741-1749）、选专业以喜好为准与冷门专业就业三辩（L1751-1757）、两步考察教授与实验室（L1767-1771），按家书规则升学场景归 X5（含方法论例外）"
+  },
+  {
+   "unit_id": "TD-U0041",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "时效预测：5 年后哪个行业最热门难以预测（人工智能 10 年前在学术界找不到工作而今天大热，L1757），登记 X6 候选由 P4 终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第33封信（如何选择学校和专业）主体为升学选校建议（X5）；抢救出 3 条可迁移判断（学术流动、导师重于学校、好导师教你不要做什么），其余登记 x_disposals"
+}

@@ -1,0 +1,148 @@
+{
+  "unit_id": "FZ-U0053",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0053-01",
+      "unit_id": "FZ-U0053",
+      "speaker": "转述·第三方",
+      "claim_text": "奥卡姆剃刀：能得出同样结论的各组前提假设中，应挑选使用假设条件最少的一组",
+      "quote": "假设条件最少",
+      "anchor": {
+        "start_line": 1873,
+        "end_line": 1875,
+        "sha1": "64555bd96e8d21a0b8e855e56b107c1eee2f844e",
+        "fingerprint": [
+          "奥卡姆",
+          "牛顿"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "奥卡姆剃刀",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：14世纪英国方济各会修士奥卡姆的威廉（逻辑学法则，又称简约原则）；牛顿《自然哲学的数学原理》第三卷的科学表述使其尽人皆知。概念键\"奥卡姆剃刀\""
+    },
+    {
+      "claim_id": "C-FZ-U0053-02",
+      "unit_id": "FZ-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "世界的规律在形式上很简单；搞出了一个非常复杂的理论，大概率是走错了路",
+      "quote": "大概率是走错了路",
+      "anchor": {
+        "start_line": 1883,
+        "end_line": 1885,
+        "sha1": "2889e9ec23a6887db45b4ade14925ef3529a4e95",
+        "fingerprint": [
+          "开普勒",
+          "椭圆"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "世界规律形式简单",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "宇宙背后仅四种作用力（1877，锚外）；天文学模型简化史：托勒密几十个圆→哥白尼十几个圆→开普勒一个椭圆→牛顿三定律+万有引力解释一切（1879-1881，锚外）。概念键\"世界规律形式简单\""
+    },
+    {
+      "claim_id": "C-FZ-U0053-03",
+      "unit_id": "FZ-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "复杂的计算无法通过把机器做得更复杂来完成，要用简单的计算单元来实现",
+      "quote": "简单的计算单元",
+      "anchor": {
+        "start_line": 1899,
+        "end_line": 1901,
+        "sha1": "6cb0dae7d882dae8cfc3d3c75bd3edcdc6cd5e94",
+        "fingerprint": [
+          "巴贝奇",
+          "楚泽"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D04-3"
+      ],
+      "concept_key": "简单单元实现复杂计算",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "巴贝奇20位差分机2.5万零件耗尽家财失败（更本质原因是不理解计算原理）；楚泽用二进制+布尔简单模块一人造出可编程计算机；香农证实复杂计算由简单模块实现、图灵提出通用方法；把计算机做复杂实现多功能又走错路。概念键\"简单单元实现复杂计算\""
+    },
+    {
+      "claim_id": "C-FZ-U0053-04",
+      "unit_id": "FZ-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "需要通过很复杂的原因才能解释一件事情时，通常找错了原因、搞错了方向，损失的是自己",
+      "quote": "我们通常找错了原因",
+      "anchor": {
+        "start_line": 1903,
+        "end_line": 1905,
+        "sha1": "b7d6528615c8520125289ac6a574a872f40286b8",
+        "fingerprint": [
+          "量化宽松",
+          "美联储"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-3"
+      ],
+      "concept_key": "复杂解释即错因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美联储量化宽松/加息的因果很简单（救困/抗通胀），复杂阴谋解释（抽干全世界财富）自相矛盾；热钱流向美国是套利的资本基本属性（时效例证，X2候选P4复核）。概念键\"复杂解释即错因\""
+    },
+    {
+      "claim_id": "C-FZ-U0053-05",
+      "unit_id": "FZ-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "阴谋论和\"下一盘大棋\"通常无可证伪；识破它们最好的武器是奥卡姆剃刀原则",
+      "quote": "最好的武器",
+      "anchor": {
+        "start_line": 1915,
+        "end_line": 1923,
+        "sha1": "50635a2438a7c2246e27e1ade63f6db3e6bc3b87",
+        "fingerprint": [
+          "阴谋论",
+          "证伪"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "剃刀破阴谋论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "盖茨疫苗芯片阴谋论（美国超10%人拒打，1909-1913，锚外）、共济会/犹太人阴谋等核心命题雷同；灾难多由很直接的原因造成，阴谋论构造长逻辑链让人不易驳倒；危害：失去信任、疏于防范、沦为散布者工具；符合简约原则的原因常常是真实的，复杂阴谋论是幻象。概念键\"剃刀破阴谋论\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：奥卡姆剃刀与阴谋论辨析共5卡"
+}

@@ -1,0 +1,122 @@
+{
+  "unit_id": "TD-U0017",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0017-01",
+      "unit_id": "TD-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "对公司和对人一样：相比能力，品行更重要；品行不端则一生没有希望。",
+      "quote": "相比能力，品行更重要",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 673,
+        "end_line": 673,
+        "sha1": "889a3bc656fbe7e46e6961e2d03bdcb6283142a7",
+        "fingerprint": [
+          "品行",
+          "能力",
+          "面试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "品行重于能力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "谷歌面试把品行看得比能力重、公司选人只重能力则因内斗分崩离析为例证，并入本卡（R3）。原著未说明适用边界。"
+    },
+    {
+      "claim_id": "C-TD-U0017-02",
+      "unit_id": "TD-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "优良品行不是天生的，是从小通过一件件小事养成的；成绩可以不在意，不诚实涉及品行则须严厉。",
+      "quote": "通过一件件小事养成的",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 675,
+        "end_line": 675,
+        "sha1": "fab06728a464cb74fdf7d5ae1f15d7f44b343c41",
+        "fingerprint": [
+          "品行",
+          "小事",
+          "管教"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "品行从小事养成",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "对女儿成绩不好不报则严厉的亲子管教场景为例示，判断本身为一般品行养成观。家长疏于管教致品行缺失的社会观察并入。"
+    },
+    {
+      "claim_id": "C-TD-U0017-03",
+      "unit_id": "TD-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "相比成功，维持善心更重要；宁选友善不选成功，成功不等于幸福，向善感恩内心才会幸福。",
+      "quote": "维持善心更重要",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 677,
+        "end_line": 680,
+        "sha1": "fa8370e7dce6493d8ebdf45fa986cf72cf13c2d2",
+        "fingerprint": [
+          "善心",
+          "友善",
+          "幸福"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "做个好人比成功重要",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "英文格言 It's nice to be great, yet it's great to be nice 原文未署名作者，吴军明确赞赏并取用，故并入本卡不作单独转述卡。谷歌同事教育共识（有教养、友善、有爱心）为例证。"
+    },
+    {
+      "claim_id": "C-TD-U0017-04",
+      "unit_id": "TD-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "好孩子4条标准：诚实守信用；勤勉自律谦虚；友善随和；正直公正（清单一卡）。",
+      "quote": "只要做到下面4点",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 682,
+        "end_line": 693,
+        "sha1": "e2e7bee5e0e9dca071c3470c9d271c59dd40d2a2",
+        "fingerprint": [
+          "诚实",
+          "守信用",
+          "正直"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "好孩子四条标准",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3）。吴军明确说明该标准对任何人（做好人）适用，非仅亲子场景。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0017",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "升学减压亲子场景专属：导语（行661）及信末『上什么大学不重要／哪怕上迪安萨学院也爱你们』（行679-680），属吴军对女儿的升学安慰，无可迁移通用判断（品行观已入卡）。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第12封信，4张本人卡（品行>能力、品行从小事养成、善心>成功、好孩子4条），升学安慰段X5。"
+}

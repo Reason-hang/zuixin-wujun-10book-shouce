@@ -1,0 +1,92 @@
+{
+ "unit_id": "TD-U0038",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0038-01",
+   "unit_id": "TD-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "读非小说类名著除增长知识外还有好处：提高语文能力特别是理解力、名著中充满智慧、是系统地了解一种思想的捷径",
+   "quote": "以下4个好处",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1581,
+    "end_line": 1581,
+    "sha1": "3bbe171029347dc5c275415c08737a9b1134baea",
+    "fingerprint": [
+     "4个好处",
+     "名著"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-2014",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "清单主卡（引入句为锚）。第一好处延伸：名著是写作范本，专业人士写东西的最好办法是看别人怎么写（L1583-1587）；第二好处例证：富兰克林自传、年轻时靠尼采和贝多芬走出忧郁（L1589-1595）"
+  },
+  {
+   "claim_id": "C-TD-U0038-02",
+   "unit_id": "TD-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "阅读名著是系统了解一种思想的捷径：杂志文章只讲孤立观点、省略前因后果，形成不了知识体系，只读偏激文章会以偏概全",
+   "quote": "系统地了解一种思想的捷径",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1597,
+    "end_line": 1599,
+    "sha1": "eacac4dafcdc12b8b19aa1c22523c75ec04aa906",
+    "fingerprint": [
+     "知识体系",
+     "捷径"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-2015",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "观点只有放到完整知识体系中才能理解其地位和意义；例证：读伽莫夫《从一到无穷大》建立对数学的整体了解后再读杂志才有深刻认识（L1601）"
+  },
+  {
+   "claim_id": "C-TD-U0038-03",
+   "unit_id": "TD-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "读经典两个从易到难的方法：先读介绍、简写本或精彩章节节选再整篇研读；或先快速通读做标记再回来细读；经典值得至少读两遍",
+   "quote": "都是从易到难",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1603,
+    "end_line": 1611,
+    "sha1": "903df8736a96ad8d386c491d515b1dc4a3ce0928",
+    "fingerprint": [
+     "从易到难",
+     "读两遍"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-2016",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "清单卡；哈佛必读丛书书单（L1613-1627）为给梦馨的具体推荐不入卡"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第30封信（为什么要读非小说类名著）3 卡均 E1；具体书单与编者注（梦馨读书进展）不入卡；梦馨阅读场景承载通用阅读方法论不作 X5"
+}

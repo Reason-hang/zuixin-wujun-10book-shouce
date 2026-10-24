@@ -1,0 +1,149 @@
+{
+ "unit_id": "TD-U0047",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0047-01",
+   "unit_id": "TD-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "领导力的形成常常从学会服从开始：我行我素不愿服从的人难以和同事相处；没有接受和执行过别人的命令，就很难理解被领导者的心理",
+   "quote": "从服从开始的",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2012,
+    "end_line": 2012,
+    "sha1": "31744e11665c79d786215da1cfab3de9e74258e4",
+    "fingerprint": [
+     "服从",
+     "领导力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "CK-2027",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "西点军校前三年要求学生学会服从、第四年学战术指挥（L2005-2009）为佐证；今日单靠个人力量无法完成大事"
+  },
+  {
+   "claim_id": "C-TD-U0047-02",
+   "unit_id": "TD-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "被直接赋予权力而非因执行任务出色获得同事认可的人大多难堪大任：亚洲家族企业创始人交班子女大多失败即为此故",
+   "quote": "难堪大任",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2012,
+    "end_line": 2012,
+    "sha1": "31744e11665c79d786215da1cfab3de9e74258e4",
+    "fingerprint": [
+     "子女",
+     "赋予"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "CK-2028",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "与 C-TD-U0047-01 同段独立判断：权力来源决定领导合法性"
+  },
+  {
+   "claim_id": "C-TD-U0047-03",
+   "unit_id": "TD-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "领导力训练第二步是合作：要在公共场合认可合作者的贡献，让其相信你会为其争取荣誉和利益，接受你的领导对他有好处",
+   "quote": "认可他们的贡献",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2016,
+    "end_line": 2016,
+    "sha1": "baf31bfab2bb375f86cb2f5eaeb5c684999c9c89",
+    "fingerprint": [
+     "合作",
+     "贡献"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "CK-2029",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "服从只是第一步，仅懂得对上负责无法成为领导"
+  },
+  {
+   "claim_id": "C-TD-U0047-04",
+   "unit_id": "TD-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "培养领导力的第三步是给领导当好助手：当助手是学习统筹全局的过程；好助手完成关键任务并帮助领导成功，上级晋升后你也会受益",
+   "quote": "给领导当好助手",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2018,
+    "end_line": 2018,
+    "sha1": "8e1c60881df8da5cd1a7d80a029d10fec7066b09",
+    "fingerprint": [
+     "助手",
+     "统筹"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "CK-2030",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "一把手要对组织的运转与未来负责，非仅出色完成单项任务者所能胜任"
+  },
+  {
+   "claim_id": "C-TD-U0047-05",
+   "unit_id": "TD-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "几乎每一位好领导都是优秀的沟通者：会控制自己的情绪，不因自己的原因发泄不满，也不因主观好恶违背客观的做事原则",
+   "quote": "优秀的沟通者",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2020,
+    "end_line": 2020,
+    "sha1": "248553041c1d35c2b3c91a308ea7a86a2fb93862",
+    "fingerprint": [
+     "沟通者",
+     "情绪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-1"
+   ],
+   "concept_key": "CK-2031",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": ""
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第38封信（服从是学会领导的第一步）5 卡均 E1；西点军校录取率与学生素质数据（L2005）为背景事实并入 01 卡 notes"
+}

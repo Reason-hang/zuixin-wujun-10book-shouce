@@ -1,0 +1,195 @@
+{
+  "unit_id": "TD-U0023",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0023-01",
+      "unit_id": "TD-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "世上没有理所应当的东西，一切都要通过劳动来换；想赚大钱要从赚小钱开始。",
+      "quote": "一切都需要通过劳动来换",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 864,
+        "end_line": 864,
+        "sha1": "9b34be367fadf845f651ac0c973bbf1716884cf4",
+        "fingerprint": [
+          "劳动",
+          "小钱",
+          "大钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "小钱大钱与劳动换取",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "富养女儿但须对『小钱』有概念、洗车挣零花钱等亲子场景为例示；与 J.P.摩根转述卡 C-TD-U0023-02 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0023-02",
+      "unit_id": "TD-U0023",
+      "speaker": "转述·第三方",
+      "claim_text": "J.P.摩根：任意让『小钱』从身边溜走的人，一定留不住『大钱』。",
+      "quote": "从身边溜走的人",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 864,
+        "end_line": 864,
+        "sha1": "9b34be367fadf845f651ac0c973bbf1716884cf4",
+        "fingerprint": [
+          "摩根",
+          "小钱",
+          "大钱"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "留不住小钱留不住大钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：J.P.摩根。吴军的概括见 C-TD-U0023-01（赚大钱从赚小钱开始、一切靠劳动换取）。"
+    },
+    {
+      "claim_id": "C-TD-U0023-03",
+      "unit_id": "TD-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "金钱有两个用途：作媒介发挥更大作用（投资/支持事业）；享受生活但须量入为出，先挣钱再花钱，次序不能颠倒。",
+      "quote": "这个次序不能颠倒",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 868,
+        "end_line": 868,
+        "sha1": "5f354f2c54192e2d77b719c6b6662d2a3bac5024",
+        "fingerprint": [
+          "媒介",
+          "量入为出",
+          "挣钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "金钱的两个用途",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "行870 透支未来的花钱哲学批判（寅吃卯粮、高利贷、借新债还旧债至破产）并入本卡：先挣钱再花钱的顺序不能颠倒。"
+    },
+    {
+      "claim_id": "C-TD-U0023-04",
+      "unit_id": "TD-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "借钱花的习惯会让人渐渐丧失努力挣钱的动力，如同药物上瘾，最终还不上钱、友谊中断。",
+      "quote": "渐渐丧失了自己努力挣钱的动力",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 872,
+        "end_line": 872,
+        "sha1": "26144d8d78457932924d0f04ac3a9385894049f5",
+        "fingerprint": [
+          "借钱",
+          "动力",
+          "上瘾"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "借钱丧挣钱动力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "行874 鼓吹借钱者自己不借（毒枭类比）、透支未来者令挚友离去、花钱如流水只招酒肉朋友并入。与 C-TD-U0023-05 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0023-05",
+      "unit_id": "TD-U0023",
+      "speaker": "转述·第三方",
+      "claim_text": "J.P.摩根：失去朋友最有效的方式是借钱给他。",
+      "quote": "最有效的方式是借钱给他",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 872,
+        "end_line": 872,
+        "sha1": "26144d8d78457932924d0f04ac3a9385894049f5",
+        "fingerprint": [
+          "摩根",
+          "朋友",
+          "借钱"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2",
+        "D09-1"
+      ],
+      "concept_key": "失去朋友最有效的方式",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：J.P.摩根。吴军的解读（借钱习惯丧动力、友谊中断）见 C-TD-U0023-04。"
+    },
+    {
+      "claim_id": "C-TD-U0023-06",
+      "unit_id": "TD-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "用钱做好事不仅需要善心意愿，还需要善于用钱的能力，这种能力要从学习阶段开始培养。",
+      "quote": "还需要一种能力",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 876,
+        "end_line": 876,
+        "sha1": "c483a7bf0efdb975ff29a60f726b2671f98394f7",
+        "fingerprint": [
+          "能力",
+          "意愿",
+          "用钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "用钱需要能力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "人要有钱但不能守财；科学家有钱可发明抗癌新药、政客空谈理想糟蹋钱的对比并入。与释永信转述卡 C-TD-U0023-07 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0023-07",
+      "unit_id": "TD-U0023",
+      "speaker": "转述·第三方",
+      "claim_text": "释永信答库克：苹果做出好用的产品就是行善，把产品做得更好就是向善的行为。",
+      "quote": "这就是行善",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 878,
+        "end_line": 878,
+        "sha1": "1a647ffb2e6dc4bd7c9e2c2af728a6060612c361",
+        "fingerprint": [
+          "释永信",
+          "产品",
+          "行善"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D09-1"
+      ],
+      "concept_key": "做好产品就是行善",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：释永信（对库克的回答，吴军转述）。吴军的评述：空谈向善无意义，要有能力把善变成现实，产品做烂而自我修行提高只是伪善；概括见 C-TD-U0023-06。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第17封信，7卡（本人5张E1：劳动换取/金钱两用途/借钱丧动力/用钱需能力＋转述2张E2：摩根×2、释永信1张实际为3张E2）。"
+}

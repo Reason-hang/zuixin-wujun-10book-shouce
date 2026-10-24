@@ -1,0 +1,73 @@
+{
+ "unit_id": "FZ-U0022",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0022-01",
+   "unit_id": "FZ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "世上没有捷径：少在低水平重复、少做无用功，让成功可重复、进步为后续铺路",
+   "quote": "没有捷径可走",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 749,
+    "end_line": 751,
+    "sha1": "7d55ad989cbe9e67d936a9dc8212f90c0b4ac11b",
+    "fingerprint": [
+     "世界的有效性",
+     "成本意识",
+     "低水平"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D03-1"
+   ],
+   "concept_key": "CK-1024",
+   "concept_name": "世上没有捷径",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "第二章（有效性/成本/做减法/可重复/可叠加）的吴军本人总结句（R1）。"
+  },
+  {
+   "claim_id": "C-FZ-U0022-02",
+   "unit_id": "FZ-U0022",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "对经验主义是否有正确认识、善不善于积累利用经验，决定你犯错的概率",
+   "quote": "决定了你有多大可能犯错误",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 755,
+    "end_line": 761,
+    "sha1": "825c26060108a6ca14eff2e50dc5be39e117a980",
+    "fingerprint": [
+     "经验主义",
+     "波普尔",
+     "证伪"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D02-1"
+   ],
+   "concept_key": "CK-1025",
+   "concept_name": "善用经验少犯错",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "'当别人犯错误而你不犯错误时，你就赢了'（761 行）在本锚；尼采、哥德尔、波普尔（755-757 行）为思想史背景转述，一笔带过不另立卡。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "小结+引子两条本人判断成卡，思想史背景不独立"
+}

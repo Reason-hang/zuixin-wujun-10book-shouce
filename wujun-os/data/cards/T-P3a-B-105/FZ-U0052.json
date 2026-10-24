@@ -1,0 +1,121 @@
+{
+  "unit_id": "FZ-U0052",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0052-01",
+      "unit_id": "FZ-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "系统思维关键是整体性与关联性：总体优化可让整体大于部分之和，局部优化常得不偿失",
+      "quote": "整体大于部分之和",
+      "anchor": {
+        "start_line": 1837,
+        "end_line": 1841,
+        "sha1": "0b0da3ef69a0603cefa576476f190bceb93f7039",
+        "fingerprint": [
+          "里根",
+          "特拉斯"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "整体大于部分之和",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "里根减税vs特拉斯减税：同是减税，前者汇率高位+债务不高+开支可削，整体净收益大于零；后者经济虚弱时下猛药，局部修复整体受损；1869总结\"局部优化得不偿失\"并入。概念键\"整体大于部分之和\""
+    },
+    {
+      "claim_id": "C-FZ-U0052-02",
+      "unit_id": "FZ-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "紧耦合部分必须一同考虑，弱关联部分拆开简化；球队要在各位置找最合适者而非最贵者",
+      "quote": "关联性紧密",
+      "anchor": {
+        "start_line": 1843,
+        "end_line": 1847,
+        "sha1": "9cecbef9fce97a9f84340d7098b0d0c914b4e016",
+        "fingerprint": [
+          "球队",
+          "相互关联"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "按耦合度拆解",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "富豪买球队堆球星成绩反降（引入主力影响原有战术）；5个部分×10种变化：全关联10万种可能性vs分两组1100种，减少99%工作量；哪些一起考虑、哪些拆开属艺术。概念键\"按耦合度拆解\""
+    },
+    {
+      "claim_id": "C-FZ-U0052-03",
+      "unit_id": "FZ-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "复杂问题无法一次性解决也不能指望一次完美设计：确定目标加持续反馈，量化离目标的距离逐步迭代",
+      "quote": "不断迭代分步骤逐渐解决",
+      "anchor": {
+        "start_line": 1851,
+        "end_line": 1859,
+        "sha1": "e79e0c1b4fc0dc303d474e451b63539e8501f7f6",
+        "fingerprint": [
+          "反馈",
+          "量化"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-2"
+      ],
+      "concept_key": "迭代逼近",
+      "ability_tags": [
+        "思",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与工业时代先设计后制造一步完成（汽车定型不再天天改）的差异；信息时代多数公司如此工作；每次迭代需付出成本——组织进步要投入、生命体进化要能量、国家调结构要财政（负熵输入，1861，锚外）。概念键\"迭代逼近\""
+    },
+    {
+      "claim_id": "C-FZ-U0052-04",
+      "unit_id": "FZ-U0052",
+      "speaker": "吴军本人",
+      "claim_text": "开放系统定好目标即可自我组织、自我管理、自我进化；封闭系统每次迭代朝熵增发展，结果退化",
+      "quote": "自我组织、自我管理、自我进化",
+      "anchor": {
+        "start_line": 1863,
+        "end_line": 1867,
+        "sha1": "b64ed18b53c3b5096cd8b97e7b7a9bcf7cf49ecc",
+        "fingerprint": [
+          "蚁后",
+          "内卷"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "开放进化封闭退化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "蚁群靠目标函数（基因传承）+开放获能而非蚁后智慧；优秀企业把责权利说清楚各部门主动开拓，老板拿走所有利润则办不到；中国古代王朝为封闭系统，\"内卷\"\"内斗\"是形象比喻。概念键\"开放进化封闭退化\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：系统思维方法共4卡"
+}

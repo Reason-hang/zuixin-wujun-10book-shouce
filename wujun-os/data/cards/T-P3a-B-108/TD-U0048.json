@@ -1,0 +1,175 @@
+{
+ "unit_id": "TD-U0048",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0048-01",
+   "unit_id": "TD-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "工业界与学术界的差别：学术界好 1% 可发优秀论文，工业界原则是“够用就行了”，97% 与 95% 准确率无本质差别",
+   "quote": "够用就行了",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2049,
+    "end_line": 2049,
+    "sha1": "970d4019a587e9d31fd7918248ac33d4f831f3d4",
+    "fingerprint": [
+     "工业界",
+     "够用"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-3"
+   ],
+   "concept_key": "CK-2032",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "工程精度按场景权衡的商业版本"
+  },
+  {
+   "claim_id": "C-TD-U0048-02",
+   "unit_id": "TD-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "工业界做事两个原则：一看投入产出率，在耗费的资源与产出效率间求平衡；二尽可能利用现有条件解决问题，部分解决甚至绕过问题",
+   "quote": "投入产出率",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2049,
+    "end_line": 2049,
+    "sha1": "970d4019a587e9d31fd7918248ac33d4f831f3d4",
+    "fingerprint": [
+     "投入产出率",
+     "现有条件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-1"
+   ],
+   "concept_key": "CK-2033",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "苹果产品用的都是已有技术而非自研多年成果；工业界没时间像学术界那样用几年研究新方法"
+  },
+  {
+   "claim_id": "C-TD-U0048-03",
+   "unit_id": "TD-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "公司里几乎没时间做完所有工作，只能捡最重要的先做：不要因任务简单就开干，先慢三拍想清楚优先级，别让简单劳动挤占重要工作",
+   "quote": "捡最重要的先做",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2053,
+    "end_line": 2054,
+    "sha1": "29d4e58dd7e5c4e5e6a8a2d471e0d075636004e3",
+    "fingerprint": [
+     "优先级",
+     "伪工作"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "CK-2034",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "伪工作定义并入：花了时间做却没有影响力的工作；与学校“先做最简单的题”相反"
+  },
+  {
+   "claim_id": "C-TD-U0048-04",
+   "unit_id": "TD-U0048",
+   "speaker": "转述·第三方",
+   "claim_text": "钱三强：在居里实验室时别人不愿做的脏活他都做，日后回国需要一人建立完整原子能实验室时这些经验全派上用场",
+   "quote": "所谓的脏活",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2045,
+    "end_line": 2045,
+    "sha1": "495144e0ef5b7fc7a5e4a53a08b494e5a8673184",
+    "fingerprint": [
+     "钱三强",
+     "居里实验室"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "CK-2035",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：钱三强（物理学家）；吴军取用：大学生实习目的是面向未来而非眼前项目，应尽可能多做、多学、开阔视野"
+  },
+  {
+   "claim_id": "C-TD-U0048-05",
+   "unit_id": "TD-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "实习期间要和尽可能多的同事吃午饭交流，好处有三：建立人脉、了解整家公司与行业、提升软实力",
+   "quote": "和公司每个人吃一顿午饭",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2056,
+    "end_line": 2056,
+    "sha1": "45f46cfd9bda3864c97b2e4dfaa814681b8dcdb2",
+    "fingerprint": [
+     "人脉",
+     "软实力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-2"
+   ],
+   "concept_key": "CK-2036",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "导师库旦普要求吴军入职谷歌一年内尽量和每人吃一顿午饭（实际约上百人）；离开前当面向所有同事道别并致谢（L2060）为职场礼仪延伸"
+  },
+  {
+   "claim_id": "C-TD-U0048-06",
+   "unit_id": "TD-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "身体才是最重要的：不停加班熬夜有时并不能推动工作进度，只会损害健康；工作上的事对公司的影响没你想象的那么大",
+   "quote": "身体才是自己最宝贵的东西",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 2058,
+    "end_line": 2058,
+    "sha1": "391e5c2fe4212cac1eb6e9552d46493d2ff635ee",
+    "fingerprint": [
+     "加班",
+     "健康"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "CK-2037",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": ""
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第39封信（捡最重要的事先做）6 卡：5 张 E1 + 1 张 E2 转述（钱三强，注明被转述者）；带参考书/看博物馆等叮嘱为例示不入卡"
+}

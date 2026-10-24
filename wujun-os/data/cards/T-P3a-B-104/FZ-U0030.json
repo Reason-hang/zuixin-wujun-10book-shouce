@@ -1,0 +1,328 @@
+{
+ "unit_id": "FZ-U0030",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0030-01",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "单靠从经历中总结经验所得有限：多数人的经历本身就是被动的结果",
+   "quote": "半主动",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 999,
+    "end_line": 1011,
+    "sha1": "518aff4a31098a738f7536514002c06e39518bdf",
+    "fingerprint": [
+     "半主动",
+     "经历",
+     "被动"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-1060",
+   "concept_name": "半主动获取经验",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "2022年美国人口调查局与哈佛研究：千禧世代80%在26岁仍住成长地100英里内（1005-1007 行）、盖茨猜日用品价格错得离谱（1009 行）均在本锚，为时效统计例证。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-02",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "真正有效获取经验需要主动去做事情：主动增加未来用得上的经验",
+   "quote": "主动获取经验",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1013,
+    "end_line": 1023,
+    "sha1": "96ac63b5a3d1d56174039d693417aebfd9e7d0ff",
+    "fingerprint": [
+     "主动",
+     "经验",
+     "小猎犬"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-1061",
+   "concept_name": "主动获取经验",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "达尔文小猎犬号5年环球、李希霍芬走遍三大洲（丝绸之路/高岭土/青岛选址）均在本锚；约翰·霍普金斯2022年八成录取者高中打过工或实习（1025 行，时效统计）与两大优势'主动性/跑得比同龄人快'（1027-1029 行）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-03",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "主动试错分盲目与科学：专家胜在科学试错，能控制失败次数和负面影响",
+   "quote": "科学试错",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1037,
+    "end_line": 1037,
+    "sha1": "f7d694d4510b2ff928a00f2a9936d3e09c7593ae",
+    "fingerprint": [
+     "盲目试错",
+     "科学试错",
+     "副作用"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D04-3"
+   ],
+   "concept_key": "CK-1062",
+   "concept_name": "科学试错",
+   "ability_tags": [
+    "做"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "烤面包配方组合爆炸（七八万种组合，1035 行）为引入例锚外备查；'调整不好伤害经济'的央行例在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-04",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "多因素优化用爬山法（最大梯度法）：先沿改进最大的方向走，再做细节微调",
+   "quote": "最大梯度法",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1039,
+    "end_line": 1041,
+    "sha1": "738489c418700dba62dfe4b3f931bdead0ec75cf",
+    "fingerprint": [
+     "爬山法",
+     "梯度",
+     "微调"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-3",
+    "D05-2"
+   ],
+   "concept_key": "CK-1063",
+   "concept_name": "爬山法",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "烤面包变为多维空间寻优问题、沿最陡方向爬最快（灰色箭头），均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-05",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "高影响场景要保守试错：小步试探看反应再推进，如渐进加息、1%-5%用户灰度放量",
+   "quote": "保守的办法",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1043,
+    "end_line": 1043,
+    "sha1": "0d02e3c6c37685c488fe29c749e4ab1a28d92bec",
+    "fingerprint": [
+     "加息",
+     "试用",
+     "推广"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D04-3"
+   ],
+   "concept_key": "CK-1064",
+   "concept_name": "保守试错",
+   "ability_tags": [
+    "做"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "'即便知道最终要加息3个百分点也不能一次到位'、大用户基数公司先让1%或5%用户试用再推广，均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-06",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "负面效果难承担又必须试错的领域用替代法：医学先动物后病人，航天先地面模拟",
+   "quote": "替代的方法",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1045,
+    "end_line": 1045,
+    "sha1": "d1b8b3ff5636c7844697f076728d27548cc6b6c2",
+    "fingerprint": [
+     "动物",
+     "模拟",
+     "失败恐惧症"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-3",
+    "D05-2"
+   ],
+   "concept_key": "CK-1065",
+   "concept_name": "替代试错",
+   "ability_tags": [
+    "做"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "准备不充分就急于尝试，一次次失败会形成'失败恐惧症'，在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-07",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "清单",
+   "claim_text": "科学试错两点共性：重视反馈（无反馈的系统会积累错误）；渐进且收敛（每次更近一步）",
+   "quote": "重视反馈的作用",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1047,
+    "end_line": 1053,
+    "sha1": "4d87df27b2fe4f0657a8c26938f35cda3a9f9c93",
+    "fingerprint": [
+     "反馈",
+     "闻过则喜",
+     "收敛"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-3",
+    "D05-2"
+   ],
+   "concept_key": "CK-1066",
+   "concept_name": "反馈与渐进收敛",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "R3 清单式整体一卡：'闻过则喜'即负反馈（1049 行）；1000千米目标每次范围除以10逼近、左右摇摆永远徘徊（1053 行）、'弯道超车式的直通车几乎不存在'（1051 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-08",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "积累经验要与时俱进：脑容量有限，须删除过时的经验，别被自己的经验束缚",
+   "quote": "与时俱进",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1055,
+    "end_line": 1059,
+    "sha1": "be23ab9058204fabe7112a2147787e96940a2dcf",
+    "fingerprint": [
+     "与时俱进",
+     "倚老卖老",
+     "删除"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-1067",
+   "concept_name": "经验与时俱进",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "人喜欢获得厌恶失去、年轻时反感倚老卖老老了却成为那样的老人（1057 行）；总结句'主动地、有目的地获取经验，科学试错，删除过时的经验'（1059 行）在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-09",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "经历自动增加而经验转化因人而异，几年即天壤之别；科学获取经验是一辈子的课程",
+   "quote": "天壤之别",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1063,
+    "end_line": 1063,
+    "sha1": "9314d83a30665cc9baaaf54613afbfb70ad83529",
+    "fingerprint": [
+     "经历",
+     "经验",
+     "课程"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "CK-1068",
+   "concept_name": "经验转化天壤之别",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "第三章本章小结的吴军本人总结句（R1）。"
+  },
+  {
+   "claim_id": "C-FZ-U0030-10",
+   "unit_id": "FZ-U0030",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "动脑与动手各有所长，'都重要'是正确的废话；应根据自己的特长决定做什么工作",
+   "quote": "正确的废话",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1069,
+    "end_line": 1071,
+    "sha1": "b3648a5a73f4315f6989bbd4cf59be86926c31ba",
+    "fingerprint": [
+     "废话",
+     "特长",
+     "工程师"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "CK-1069",
+   "concept_name": "根据特长选路",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "第四章引言：会动脑者成理论家智囊、会动手者成工程师医生企业家，贡献同样大（1071 行）；MIT 全才不多（1069 行）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "点石成金节+小结+第四章引言：试错方法体系 10 卡（半主动/主动/科学试错四法/共性/更新/小结/特长）"
+}

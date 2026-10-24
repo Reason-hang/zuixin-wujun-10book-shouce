@@ -1,0 +1,200 @@
+{
+  "unit_id": "TD-U0024",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0024-01",
+      "unit_id": "TD-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "永远不要觉得自己能打败市场：挑战市场就是挑战市场有效性即微观经济学基本原则，99%的人最好买标普500指数。",
+      "quote": "永远不要觉得自己能够打败市场",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 915,
+        "end_line": 915,
+        "sha1": "8f7eb884dbb53d9f032b9f8b09f112df3db0128b",
+        "fingerprint": [
+          "打败市场",
+          "指数基金",
+          "标准普尔500"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "不要试图打败市场",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "每年70%基金跑输标普500、5-10年80%跑输的统计及巴菲特遗嘱指定标普500为例证并入。提示句（行917）为核心机理。"
+    },
+    {
+      "claim_id": "C-TD-U0024-02",
+      "unit_id": "TD-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "对市场要有信心：股市虽有涨跌，但从有记载的历史看依然是最好的投资方式。",
+      "quote": "对市场要有信心",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 921,
+        "end_line": 921,
+        "sha1": "538a4cfb5556e09ddcf2f5129edf1e1982c824a0",
+        "fingerprint": [
+          "市场",
+          "信心",
+          "投资方式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "对市场要有信心",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "华盛顿就职时投100美元变20亿美元、巴菲特成功在于永远相信股市长期向上为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0024-03",
+      "unit_id": "TD-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "股市指数跌后总会涨回来，但单一股票未必：世界只有不死的商业，没有不死的公司。",
+      "quote": "没有不死的公司",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 923,
+        "end_line": 925,
+        "sha1": "4f3b42b11bb67ea4f1e4af4335e29a18e038bcc4",
+        "fingerprint": [
+          "单一股票",
+          "指数",
+          "公司"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "没有不死的公司",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "道指成分股12家仅剩通用电气、英特尔思科股价不足峰值1/4为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0024-04",
+      "unit_id": "TD-U0024",
+      "speaker": "转述·第三方",
+      "claim_text": "马尔基尔：时间是你的朋友，而时机不是。",
+      "quote": "时间是你的朋友，而时机不是",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 927,
+        "end_line": 927,
+        "sha1": "3b5a5c51f6b1a5d45025607a6539004840f4c4b7",
+        "fingerprint": [
+          "时间",
+          "时机",
+          "马尔基尔"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "时间是朋友时机不是",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：马尔基尔（《漫步华尔街》作者，吴军注明出处）。吴军的取用概括见 C-TD-U0024-05。"
+    },
+    {
+      "claim_id": "C-TD-U0024-05",
+      "unit_id": "TD-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "投资靠耐心让时间成为朋友：错过增长最快的25天回报少八成，聪明人永远在市场而非择时。",
+      "quote": "耐心是成功的第一条要素",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 927,
+        "end_line": 927,
+        "sha1": "3b5a5c51f6b1a5d45025607a6539004840f4c4b7",
+        "fingerprint": [
+          "耐心",
+          "25天",
+          "投机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "耐心与不择时",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "45年7%回报、错过25天每年仅3.5%的测算为例证。与马尔基尔转述卡 C-TD-U0024-04 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0024-06",
+      "unit_id": "TD-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "最好的办法是定投指数基金ETF：固定时间固定金额买入，涨也买跌也买，摊平成本。",
+      "quote": "定投指数基金ETF",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 929,
+        "end_line": 929,
+        "sha1": "631ff4baa584a2f61aca638ffdadbe5f82944f30",
+        "fingerprint": [
+          "定投",
+          "ETF",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "定投指数基金",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "前提是相信股市；多数人涨时嫌贵跌时恐惧，最好的办法是把自己当傻子涨跌都买。"
+    },
+    {
+      "claim_id": "C-TD-U0024-07",
+      "unit_id": "TD-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "买了股票不要天天盯价格：天天操作股票的人都是向股市送钱，耐得住性子才能赚钱。",
+      "quote": "都是在向股市送钱",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 933,
+        "end_line": 933,
+        "sha1": "96861923bd16e047a6acf221243949f2563c4e80",
+        "fingerprint": [
+          "盯着价格",
+          "患得患失",
+          "耐得住性子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "别天天盯股价",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "涨跌不平摊到每一天、波动2%-3%正常、看涨自封股神看跌茶饭不思者不适合投资，并入本卡。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0024",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行905-911 开户选券商三原则（推荐富达、5美元费率、电话服务）及行931 具体分批投入金额节奏建议，涉具体券商、费率与时点，时效性强，登记X2候选由P4终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第18封信，7卡（投资通则6张E1＋马尔基尔转述1张E2），开户实操与具体节奏X2。"
+}

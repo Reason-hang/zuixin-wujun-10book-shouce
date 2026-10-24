@@ -1,0 +1,72 @@
+{
+ "unit_id": "TD-U0042",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0042-01",
+   "unit_id": "TD-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "今天的学术研究 99% 是 N+1 的工作：发现前人工作的改进之处并解决它，本身就足够有意义，无需夸大",
+   "quote": "99％是N＋1的工作",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1806,
+    "end_line": 1806,
+    "sha1": "301f8c221cd6357e5223674303edcf7944bed09c",
+    "fingerprint": [
+     "N＋1",
+     "前人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "CK-2029",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "论文语境中用于说明必须先综述前人（N）的工作；与见识《硅谷的N+1创新法》同源概念"
+  },
+  {
+   "claim_id": "C-TD-U0042-02",
+   "unit_id": "TD-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "科研实验结果必须能够重复：仅凭几个精心挑选的结果给出普遍规律不成立；删掉不好实验数据致同行无法重复属于欺诈行为",
+   "quote": "实验结果要能重复",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1808,
+    "end_line": 1810,
+    "sha1": "6e7b80e82d70d8a7d75f06efc986d773ee256cc0",
+    "fingerprint": [
+     "重复",
+     "欺诈"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2030",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "结论应是前提假设和研究工作的自然结果，从前提得不到结论的论文难以通过审核（L1810）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "TD-U0042",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "第34封信主体为科技论文写作技巧（学术写作规范，D07-1 排除条款归 X8）：论文语言与结构（L1798）、四个必写部分（L1802-1820）、三件不要做的事（L1824-1834）、注明出处与鸣谢（L1836）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第34封信（写科技论文的技巧）主体为学术写作规范归 X8；抢救 2 条可迁移科研判断（N+1、实验可重复性）"
+}

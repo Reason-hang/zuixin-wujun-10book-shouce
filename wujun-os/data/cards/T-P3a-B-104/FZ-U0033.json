@@ -1,0 +1,269 @@
+{
+ "unit_id": "FZ-U0033",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0033-01",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "脑先于手的例外：纯粹理性能演绎出动手得不到的知识；早期文明有具体方法却无定理",
+   "quote": "思辨的能力",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1127,
+    "end_line": 1133,
+    "sha1": "87ec34af0be56332f4f60d7564cc87a4bf1620c9",
+    "fingerprint": [
+     "纯粹的理性",
+     "莱茵德",
+     "定理"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "CK-1074",
+   "concept_name": "脑先于手",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "《莱茵德纸莎草书》有算法无规律性描述（1133 行）；'对大多数人应该是手先于脑'的对照（1127 行）在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-02",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "古希腊获知识新途径：从已证明的前提出发用逻辑推导结论，定理化而非举例说明",
+   "quote": "从已经被证明的前提出发",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1135,
+    "end_line": 1139,
+    "sha1": "d40e50c00d90027bf8fba345cba124ec1298eb43",
+    "fingerprint": [
+     "毕达哥拉斯",
+     "定理",
+     "逻辑"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1075",
+   "concept_name": "逻辑推导新途径",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "毕达哥拉斯确立数学规范化起点、勾股定理以定理+证明形式表达（1137-1139 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-03",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "逻辑结论要与经验一致：既符合逻辑又符合经验的结论可信度最高，凡事拿逻辑再检验",
+   "quote": "凡事要拿逻辑再检验一遍",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1141,
+    "end_line": 1141,
+    "sha1": "2f51b487cb94b22ea545ddd06b8a1b4d70475989",
+    "fingerprint": [
+     "芝诺悖论",
+     "悖论",
+     "经验"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1076",
+   "concept_name": "逻辑再检验",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "芝诺悖论（阿喀琉斯追不上乌龟）存疑处理、'不符合逻辑的结论一定错不等于符合逻辑的一定对'，均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-04",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "在已验证的知识上构建新知识大厦；规律性知识可被千万次应用而惠及全人类",
+   "quote": "知识大厦",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1143,
+    "end_line": 1143,
+    "sha1": "52604fc3afa34446ae0e41f99f236a110dbfe0fe",
+    "fingerprint": [
+     "欧几里得",
+     "阿基米德",
+     "公理"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-1077",
+   "concept_name": "知识大厦",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "欧几里得五公理五公设建几何大厦、阿基米德用数学物理解决实际问题，均在本锚；与 C-FZ-U0021-03（可叠加的知识结构）互证。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-05",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "古希腊人用逻辑而非情感思考，解决定理枝干问题而非具体叶子，故能获得大道",
+   "quote": "枝干上的问题",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1151,
+    "end_line": 1153,
+    "sha1": "60046dd8c05792bb915fcbf95925d3486a9698a3",
+    "fingerprint": [
+     "形式逻辑学",
+     "枝干",
+     "叶子"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "CK-1078",
+   "concept_name": "枝干与叶子",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "亚里士多德《方法论》开形式逻辑学=逻辑学鼻祖（1151 行，书名依原文）；闲暇辩论、苏格拉底、百牛庆与尤里卡等背景（1147-1149 行）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-06",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "古印度向内心而非外部世界找答案：吠陀空幻宇宙观孕育了0的概念",
+   "quote": "向内心",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1163,
+    "end_line": 1167,
+    "sha1": "faad884ad5194cd8608083517afef5878fb6be96",
+    "fingerprint": [
+     "吠陀",
+     "拉马努金",
+     "冥想"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "CK-1079",
+   "concept_name": "向内心求答案",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "吠陀'空与幻'宇宙观为吴军转述背景（1161 行锚外）；拉马努金求诸内心、修行冥想获认识、美索不达米亚/埃及/《九章算术》从观察与具体问题出发的对照（1163-1167 行）；'0在公理化体系中从空集定义'（1179 行）、亚历山大与修行者对话（1169-1177 行）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-07",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "ad hoc 就事论事不能根治问题；脑先于手：先掌握成体系知识，再找能用上它的问题",
+   "quote": "脑先于手",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1181,
+    "end_line": 1187,
+    "sha1": "1d2d5ee35748b60a4b90ea61b4767e415595a465",
+    "fingerprint": [
+     "ad hoc",
+     "锤子",
+     "钉子"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D05-1"
+   ],
+   "concept_key": "CK-1080",
+   "concept_name": "ad hoc与锤子钉子",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "绑椅子腿/胶带粘天窗/绕过程序漏洞 vs 换新腿/根治漏水/修复程序（1181-1183 行）；'先有锤子再找钉子'的比喻（1187 行）均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0033-08",
+   "unit_id": "FZ-U0033",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "手先于脑还是脑先于手因人而异：求结果者从实事做起，爱知识者用理性创造新知",
+   "quote": "适合不同的人",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1189,
+    "end_line": 1193,
+    "sha1": "b8f3e4a858a7ee5c75d8334ed79507ec35952530",
+    "fingerprint": [
+     "中华文化",
+     "实事求是",
+     "纯粹"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-1081",
+   "concept_name": "因人而异的学习次序",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "中华文化更讲究手先于脑（1191 行）为文化评述；两条自处建议（1191/1193 行）在本锚。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "脑先于手节：8 卡（例外/逻辑三原理/枝干叶子/吠陀/ad hoc/因人而异）"
+}

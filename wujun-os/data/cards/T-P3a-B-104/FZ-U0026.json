@@ -1,0 +1,232 @@
+{
+ "unit_id": "FZ-U0026",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0026-01",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "失败未必是成功之母，成功才是成功之母：错误答案千千万，否定再多错误也难找到正确",
+   "quote": "成功才是成功之母",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 875,
+    "end_line": 881,
+    "sha1": "f1b994f43448db80ddeb499e9af0f4ad9726cce0",
+    "fingerprint": [
+     "答案千千万",
+     "成功之母",
+     "偷换了概念"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D03-2"
+   ],
+   "concept_key": "CK-1041",
+   "concept_name": "成功才是成功之母",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "源自《态度》观点的重申（自引）；'失败导致成功'指失败大概率导致成功，个案（古人屡败屡成）说明不了问题（877-881 行在本锚）。条件概率论证见 C-FZ-U0026-02。"
+  },
+  {
+   "claim_id": "C-FZ-U0026-02",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "条件概率上P(成功|成功)远大于P(成功|失败)：把钱交给成功过的人管理而非失败很多次的人",
+   "quote": "条件概率",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 883,
+    "end_line": 889,
+    "sha1": "c4b0b81f2d4ef24a18b29a40279085f29baee0de",
+    "fingerprint": [
+     "条件概率",
+     "概率",
+     "投资"
+    ]
+   },
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "CK-1042",
+   "concept_name": "成败条件概率",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "三局两胜 2:0 远多于 2:1、2022 温网女单女双混双 93% 对局 2:0（891 行，时效统计锚外备查）、硅谷概率面试题均为佐证。"
+  },
+  {
+   "claim_id": "C-FZ-U0026-03",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "清单",
+   "claim_text": "从失败走向成功需知三个事实：并非必然、有通道可请教、成败有偶然需尽人事听天命",
+   "quote": "三个事实",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 895,
+    "end_line": 897,
+    "sha1": "0ec193f632643f99baf749ce20f82dc3a1cfa335",
+    "fingerprint": [
+     "心灵鸡汤",
+     "通道",
+     "尽人事"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D03-2"
+   ],
+   "concept_key": "CK-1043",
+   "concept_name": "从失败到成功三事实",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "R3 清单式整体一卡；第三点'成败是概率问题'与 C-FZ-U0026-02 互证。"
+  },
+  {
+   "claim_id": "C-FZ-U0026-04",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "首次尝试前要做足准备、慎重出战：匆忙上手不把问题想清楚是第一次失败的主因",
+   "quote": "慎重出战",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 899,
+    "end_line": 907,
+    "sha1": "40da57e9a5999b308c3d2d5ba75c572fd972ec33",
+    "fingerprint": [
+     "准备",
+     "动手",
+     "深思熟虑"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-1044",
+   "concept_name": "首次尝试做足准备",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "'动手不行的脑子都比较懒'（903 行）、烧元器件与工程师家庭对照（905-907 行）在本锚；父母实验室规范与电容器事故（909 行）、美国教授让学生先重复前人论文再创新（911 行，与 C-FZ-U0020-05 呼应）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0026-05",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "失败后要尽可能找出全部失败原因再尝试：失败通常是多个问题叠加，绝非解决一个即可",
+   "quote": "找出全部失败的原因",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 917,
+    "end_line": 919,
+    "sha1": "0e3d46ac6cf8905fb375a00330aab09dcfaddbf1",
+    "fingerprint": [
+     "失败的原因",
+     "海恩法则",
+     "叠加"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D04-3"
+   ],
+   "concept_key": "CK-1045",
+   "concept_name": "找出全部失败原因",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "海恩法则（帕布斯·海恩：重大事故背后平均29次小事故/10次未遂/3-4个隐患）为转述例证，在本锚；'好产品没人推广也会口口相传'（919 行）。"
+  },
+  {
+   "claim_id": "C-FZ-U0026-06",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "找到原因后要重新做一遍直到成功：错题重做式转化，'觉得自己会了'最不靠谱",
+   "quote": "从失败到成功的转化",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 921,
+    "end_line": 921,
+    "sha1": "6cea76193e9efee0b15b6161c708218c2e0aab07",
+    "fingerprint": [
+     "错题",
+     "学渣",
+     "觉得"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D02-2"
+   ],
+   "concept_key": "CK-1046",
+   "concept_name": "从失败到成功的转化",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "高尔夫青少年同点练到打好、职业运动员不放过自己且专注一事、'人一辈子能做成几件事就好'（925-929 行）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0026-07",
+   "unit_id": "FZ-U0026",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "成事需要水平努力加运气眷顾；越有敬畏之心越易成事，因为会打出富余量",
+   "quote": "敬畏之心",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 931,
+    "end_line": 931,
+    "sha1": "2043f22492ebcb262abb7e1958c29e4734057d67",
+    "fingerprint": [
+     "运气",
+     "富余量",
+     "眷顾"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-3",
+    "D03-2"
+   ],
+   "concept_key": "CK-1047",
+   "concept_name": "敬畏与富余量",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "成败不必自得或过于沮丧（931 行）；'尽人事听天命'的命运观表述与 C-FZ-U0026-03 呼应。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "失败vs成功核心节：7 卡（概率论证+三事实+三步方法+运气观）"
+}

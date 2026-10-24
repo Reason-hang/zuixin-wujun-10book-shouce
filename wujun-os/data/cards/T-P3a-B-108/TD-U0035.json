@@ -1,0 +1,170 @@
+{
+ "unit_id": "TD-U0035",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0035-01",
+   "unit_id": "TD-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "数学考试“粗心”出错的根源是概念理解不透和跳步骤；按部就班的笨办法常常是好办法",
+   "quote": "按部就班的笨办法常常是好办法",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1402,
+    "end_line": 1402,
+    "sha1": "c34d06401a1716505893a4e187c9cc48e58c9347",
+    "fingerprint": [
+     "粗心",
+     "跳步骤",
+     "按部就班"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-2008",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "数学学习方法（方法层面），非亲子专属场景；不建议过多使用计算器同此理（L1404）"
+  },
+  {
+   "claim_id": "C-TD-U0035-02",
+   "unit_id": "TD-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "手工整理投资信息而非工具生成：手工过程即边整理边思考，且花时间的笨办法约束频率、聚焦少数重要投资",
+   "quote": "永远不要投机取巧",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1404,
+    "end_line": 1406,
+    "sha1": "b25fd0eea5c7b4cf5483532e140cc82d5074bec8",
+    "fingerprint": [
+     "笨办法",
+     "投机取巧"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "CK-2009",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "寄税表专程办妥而非“顺便”处理的例子（L1406）：宁可采用笨办法并使之成为做事原则；对照每周投一家公司的投资人一年后自己也说不清"
+  },
+  {
+   "claim_id": "C-TD-U0035-03",
+   "unit_id": "TD-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "承认自己笨的人不高估自己的能力，兢兢业业、比别人多花时间并避免导致失败的意外，反而更可能取得好结果",
+   "quote": "人会高估自己的能力",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1410,
+    "end_line": 1410,
+    "sha1": "50c357f27f5018a5cbcd46ae0302f1347146961d",
+    "fingerprint": [
+     "高估",
+     "兢兢业业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "CK-2010",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "上帝喜欢笨人的第一层理由（自我认知）；总结句“聪明人做事情未必做得过笨人”见 L1418（聪明人总想以一己之力做事）"
+  },
+  {
+   "claim_id": "C-TD-U0035-04",
+   "unit_id": "TD-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "笨人不打擦边球、凡事留很大余量：经常占边际的便宜早晚误大事，提前量在意外发生时起作用——“最后5分钟不是你的，是上帝的”",
+   "quote": "凡事要留很大的余量",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1412,
+    "end_line": 1412,
+    "sha1": "05ac72e38ab25da60c611bb8ee0a535f5c48e85a",
+    "fingerprint": [
+     "余量",
+     "擦边球"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "CK-2011",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机场安检口抢行 vs 每次出门多留三五分钟的对照；留余量的代价是每天早起 5 分钟"
+  },
+  {
+   "claim_id": "C-TD-U0035-05",
+   "unit_id": "TD-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "当笨人有更多朋友：生意场不缺聪明人，恪守只挣自己那一份、不贪对方任何利益，生意才能持久；别人觉得你老实才放心与你来往",
+   "quote": "只挣自己那一份就好",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1414,
+    "end_line": 1414,
+    "sha1": "6d22493fd8676ce0ea3bfe38ef5f3f738a2cecec",
+    "fingerprint": [
+     "生意",
+     "吃亏"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "CK-2012",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "经验来自中关村做生意；与小朋友相处不必怕吃亏同理"
+  },
+  {
+   "claim_id": "C-TD-U0035-06",
+   "unit_id": "TD-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "宿命观：上帝给每个人的福祉是一个常数，在一个方面要求过多，就会影响其他方面的福气",
+   "quote": "福祉是一个常数",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1416,
+    "end_line": 1416,
+    "sha1": "8114c8cfbe880bc0cdd26ce2f6b3791aeaebd36a",
+    "fingerprint": [
+     "福祉",
+     "常数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "CK-2013",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证并入：马尔库拉早卖苹果股份仅赚 10 亿美元但活得好好的，乔布斯精明赚得多却已去世"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第27封信（上帝喜欢笨人）为吴军通用做事与人生信条，6 卡均 E1；梦馨数学作业场景承载的是通用学习方法，不作 X5 处理"
+}

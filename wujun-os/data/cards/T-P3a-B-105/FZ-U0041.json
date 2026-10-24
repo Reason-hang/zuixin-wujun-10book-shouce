@@ -1,0 +1,113 @@
+{
+  "unit_id": "FZ-U0041",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0041-01",
+      "unit_id": "FZ-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "处在关键路径上的企业定义产业规范、长期盈利；有替代方案的企业只是\"打酱油\"",
+      "quote": "所有路线都绕不过去的",
+      "anchor": {
+        "start_line": 1489,
+        "end_line": 1495,
+        "sha1": "2b84f34b8aa0a1cae16d3c9707a651b02f896ddb",
+        "fingerprint": [
+          "图论",
+          "安迪-比尔"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "关键路径",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "关键路径概念来自图论；WinTel时代（安迪-比尔定律）：处理器+操作系统绕不过去，其他企业打酱油；内存硬盘有替代方案所以定义不了产业规范；手机市场安卓+ARM同理（1497-1499，锚外）。概念键\"关键路径\""
+    },
+    {
+      "claim_id": "C-FZ-U0041-02",
+      "unit_id": "FZ-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "取代关键路径等于推翻整个产业，商业上不可能也没必要；没必要做成功率极低的事",
+      "quote": "取代关键路径等于推翻整个产业",
+      "anchor": {
+        "start_line": 1501,
+        "end_line": 1507,
+        "sha1": "ed90ab45be593bea9ba474d3db6157a292ebf3b7",
+        "fingerprint": [
+          "安卓",
+          "265万"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "取代关键路径即推翻产业",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "开发新操作系统取代安卓：技术可行商业不可能——推翻安卓=毁掉手机互联网产业再重建，265万个App、上百万开发者的生态挤不进去。概念键\"取代关键路径即推翻产业\""
+    },
+    {
+      "claim_id": "C-FZ-U0041-03",
+      "unit_id": "FZ-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "关键路径源于大众市场标准化、模块化与充分竞争；它与垄断不能画等号，垄断难持久",
+      "quote": "模块化的大众市场",
+      "anchor": {
+        "start_line": 1515,
+        "end_line": 1519,
+        "sha1": "f5c4d83ee9e4eacc0c5ba42af02ff6ff9186c793",
+        "fingerprint": [
+          "惠特尼",
+          "标准件"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "关键路径的成因",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与垄断辨析（1511，锚外）：关键路径企业可不取垄断利润（安卓）；垄断不靠关键路径形成则市场有效性会让新企业进入；小众需求合并成大众需求→分工→模块化标准件的演化链见1513-1515；惠特尼标准件起源；把市场保护起来造不出关键路径企业。概念键\"关键路径的成因\""
+    },
+    {
+      "claim_id": "C-FZ-U0041-04",
+      "unit_id": "FZ-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "绝大部分人因可替代只拿行业平均薪水；35岁危机源于能替代自己的人太多",
+      "quote": "能替代自己的人太多了",
+      "anchor": {
+        "start_line": 1521,
+        "end_line": 1525,
+        "sha1": "4292e8c8fb3b1720cd5b09fcf1aaa9d3367f9166",
+        "fingerprint": [
+          "备胎",
+          "挖掘机"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "守住个人关键路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "人也分关键路径和替代方案（备胎）；开挖掘机者对工地是关键路径；安身立命要守住依赖经验的关键路径，技术专家比趋之若鹜的领导岗更不可替代；挤破头的事不再值得做。概念键\"守住个人关键路径\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：关键路径与替代方案共4卡"
+}

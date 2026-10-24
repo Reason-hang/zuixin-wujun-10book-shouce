@@ -1,0 +1,115 @@
+{
+  "unit_id": "FZ-U0039",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0039-01",
+      "unit_id": "FZ-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "从0到1是从科学到技术再到产品、商业成功的完整全过程，不是灵机一动想到好点子就算完事",
+      "quote": "从科学到技术再到产品",
+      "anchor": {
+        "start_line": 1399,
+        "end_line": 1399,
+        "sha1": "d681d00b746a2c805b88242e54aeb673f834e8e4",
+        "fingerprint": [
+          "蒂尔",
+          "商业成功"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "从0到1是全过程",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "评述彼得·蒂尔《从0到1》：微软DOS/Windows、苹果iPod、谷歌搜索都非原创，把定义改为全过程后例子才说得通。概念键\"从0到1是全过程\""
+    },
+    {
+      "claim_id": "C-FZ-U0039-02",
+      "unit_id": "FZ-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "青霉素从0到1靠科研团队、药厂与工程量产接力完成，弗莱明的偶然发现只是一小步",
+      "quote": "只说出了一小部分事实",
+      "anchor": {
+        "start_line": 1401,
+        "end_line": 1405,
+        "sha1": "177a66906925d7087e502f07d3ef8688b435fda8",
+        "fingerprint": [
+          "弗莱明",
+          "青霉菌"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "青霉素接力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（E3）：弗洛里团队分离提纯、希特利水溶液、动员英美药厂上万工程师量产（1407-1409，锚外续述）、哈密瓜找菌种；单一环节≠从0到1。概念键\"青霉素接力\""
+    },
+    {
+      "claim_id": "C-FZ-U0039-03",
+      "unit_id": "FZ-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "技术强调新颖性，工程强调可重复性、能大量复制、可预期效果，两者不能混为一谈",
+      "quote": "工程则强调可重复性",
+      "anchor": {
+        "start_line": 1419,
+        "end_line": 1419,
+        "sha1": "3acbae72e39b21490c5a76991710fee3af214922",
+        "fingerprint": [
+          "桥梁",
+          "新颖性"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "技术重新颖工程重可重复",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "只有技术不解决工程问题创新会被埋没（1417 除泡剂例证）；新能源车基金亏损=只看技术不看工程（1421）；软件同样有工程问题：资源占用、稳定性（1423-1425）。概念键\"技术重新颖工程重可重复\""
+    },
+    {
+      "claim_id": "C-FZ-U0039-04",
+      "unit_id": "FZ-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "任何不完整的工作都是没有意义的，只有完成了1，之前所做的工作才能体现出价值",
+      "quote": "从来不缺迈出第一步的人",
+      "anchor": {
+        "start_line": 1427,
+        "end_line": 1429,
+        "sha1": "5e6a4c75036fd42f38d51dc83213309053f38ab3",
+        "fingerprint": [
+          "迈出第一步",
+          "苹果"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "完成才有价值",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "把后一半做好更重要：苹果微软谷歌都是走完后半程的公司；从0走到0.1不算完成。概念键\"完成才有价值\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：从0到1全过程+技术与工程之别共4卡"
+}

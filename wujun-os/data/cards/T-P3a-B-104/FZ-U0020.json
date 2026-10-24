@@ -1,0 +1,230 @@
+{
+ "unit_id": "FZ-U0020",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0020-01",
+   "unit_id": "FZ-U0020",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "可重复的成功至关重要：稳定可复制的医生才值得托付性命",
+   "quote": "可重复性的成功",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 631,
+    "end_line": 637,
+    "sha1": "b925c750fa3265224db400793abafb9f53805ec8",
+    "fingerprint": [
+     "心脏搭桥",
+     "可重复性"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "CK-1012",
+   "concept_name": "可重复的成功",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "两医生手术记录对比为本锚内例证；曾国藩'良医七分治人三分害人'（639 行，转述）、产褥感染、江宁织造掉色（641 行）均为'过去成功难复制'例证，锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0020-02",
+   "unit_id": "FZ-U0020",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "可重复的成功是走得更快的基本要求：灵时不灵者无人敢托付要事",
+   "quote": "一个最基本的要求",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 645,
+    "end_line": 649,
+    "sha1": "ad0cad5736ffb01d2b6f1f8ffb94ad1690c99b7a",
+    "fingerprint": [
+     "可重复的成功",
+     "四则运算",
+     "复制成功的方法论"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "CK-1012",
+   "concept_name": "可重复的成功",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "与 C-FZ-U0020-01 同概念键不同侧面（对他人信任/对自己信心）；互联网服务 5% 中断跑掉一半用户、清华附中 100 题例均在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0020-03",
+   "unit_id": "FZ-U0020",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "复制成功成为常态靠理性主义方法论，吴军概括为刨根问底与按部就班八字",
+   "quote": "刨根问底",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 653,
+    "end_line": 657,
+    "sha1": "ce6bab23617c9623d82b9d370435a4d64c245a77",
+    "fingerprint": [
+     "理性主义",
+     "莱布尼茨",
+     "笛卡儿"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1013",
+   "concept_name": "刨根问底与按部就班",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "吴军本人概括（E1）：刨根问底=莱布尼茨，按部就班=笛卡儿；原话转述见 C-FZ-U0020-04/05。"
+  },
+  {
+   "claim_id": "C-FZ-U0020-04",
+   "unit_id": "FZ-U0020",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "type": "原理",
+   "claim_text": "莱布尼茨：凡事有果必有因，搞清真理成立的充分条件才能回答同一类问题",
+   "quote": "凡事有果必有因",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 659,
+    "end_line": 665,
+    "sha1": "e018b0cca94953b9f1300439bc81f7b8e5d1a980",
+    "fingerprint": [
+     "莱布尼茨",
+     "充分条件",
+     "单身汉"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "CK-1014",
+   "concept_name": "莱布尼茨充分条件",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "被转述者：莱布尼茨；概括见 C-FZ-U0020-03。烧水 100℃ 在高原/硬水/微波炉失效例（661-663 行）在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0020-05",
+   "unit_id": "FZ-U0020",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "type": "清单",
+   "claim_text": "笛卡儿科学方法五步（上）：先提出问题，大胆假设小心求证，实验得结论",
+   "quote": "大胆假设，小心求证",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 669,
+    "end_line": 675,
+    "sha1": "d5cea45b01ca2164ce1db10713be925976e4d865",
+    "fingerprint": [
+     "笛卡儿",
+     "方法论",
+     "求证"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1015",
+   "concept_name": "笛卡儿方法论五步",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "被转述者：笛卡儿《方法论》；675 行含笛卡儿原话直引；'大胆假设不是胡乱假设，是不事先设定结果'为吴军按语。塞麦尔维斯洗手例（667 行）锚外备查；勇士队用数据分析复制成功（691-697 行）为应用例证，战绩数据时效备查。续卡见 C-FZ-U0020-06。"
+  },
+  {
+   "claim_id": "C-FZ-U0020-06",
+   "unit_id": "FZ-U0020",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "type": "清单",
+   "claim_text": "笛卡儿五步（下）：结论推广并普遍化才能举一反三，回到实践找新问题循环",
+   "quote": "举一反三",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 677,
+    "end_line": 683,
+    "sha1": "596d9cf83ad18f1d781754f522d6f1e6c7b5558b",
+    "fingerprint": [
+     "普遍化",
+     "举一反三",
+     "循环反复"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-1015",
+   "concept_name": "笛卡儿方法论五步",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "续卡 of C-FZ-U0020-05（清单超锚点上限拆分，R3）；第四五步+循环。"
+  },
+  {
+   "claim_id": "C-FZ-U0020-07",
+   "unit_id": "FZ-U0020",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "学科学重在掌握世界背后的基本原理与科学方法，这是可复制成功的基础",
+   "quote": "最基本的原理",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 685,
+    "end_line": 689,
+    "sha1": "0209956d4c642b596a62d8eb6f1b61f01cdf6a2e",
+    "fingerprint": [
+     "基础科学知识",
+     "科学的方法论",
+     "井喷式"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "CK-1016",
+   "concept_name": "学原理与科学方法",
+   "ability_tags": [
+    "学"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "学基础知识=复制前人千百年成就、获得高起点；笛卡儿之后科学井喷为史实佐证（锚内）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "单元为方法论核心节：本人判断 4 卡+转述 3 卡（五步法拆续卡），共 7 卡"
+}

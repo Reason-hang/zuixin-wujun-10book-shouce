@@ -1,0 +1,231 @@
+{
+ "unit_id": "FZ-U0021",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0021-01",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "实质性进步需要在前人基础上做叠加，重复旧成功或灵机一动都带不来进步",
+   "quote": "可叠加的进步",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 703,
+    "end_line": 713,
+    "sha1": "fb2e268e2fc163fa4a49c55926fb0180f25c38a4",
+    "fingerprint": [
+     "可叠加的进步",
+     "成语",
+     "叠加"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D02-2"
+   ],
+   "concept_key": "CK-1017",
+   "concept_name": "可叠加的进步",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "成语游戏两种方式为本锚内例证（覆盖式=灵机一动会重复写过的成语）；'对社会和个人都是如此'为总起。"
+  },
+  {
+   "claim_id": "C-FZ-U0021-02",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "人类进步两个高峰（轴心时代、近代科学革命）共同点是叠加，千年低谷源于循环重复",
+   "quote": "长达千年的低谷",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 713,
+    "end_line": 717,
+    "sha1": "a6185c6a342df31ae831a603dfcc25460ac6320c",
+    "fingerprint": [
+     "轴心时代",
+     "古典文明",
+     "王朝更替"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "CK-1018",
+   "concept_name": "进步两高峰与低谷",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "中世纪修士重复研究同样东西、中国技术发明-失传怪圈（719 行）为例证锚外备查；本卡为吴军的文明史论判断而非单纯史实罗列。"
+  },
+  {
+   "claim_id": "C-FZ-U0021-03",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "古希腊与近代科学的共同特点：经得起验证的公理、逻辑自洽、可叠加的知识结构",
+   "quote": "可叠加的知识结构",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 721,
+    "end_line": 721,
+    "sha1": "d6b6ab1f23e37c315f4467a10dd8c0b9a9ed84ba",
+    "fingerprint": [
+     "公理",
+     "逻辑自洽",
+     "知识结构"
+    ]
+   },
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "CK-1019",
+   "concept_name": "可叠加的知识结构",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "欧几里得几何五公理、《几何原本》人人可学为本锚内例证；牛顿按《几何原本》格式写《原理》、瓦特-富尔顿-史蒂芬森技术叠加链（723 行）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0021-04",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "系统学习是为了站在前人肩膀上叠加：近代之后自学成才与全能型学者几乎不可能",
+   "quote": "站在了前人的肩膀上",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 725,
+    "end_line": 725,
+    "sha1": "b0aea82cbde5ffd4b72ef7d3dbc3b6a0a780fdbc",
+    "fingerprint": [
+     "初中生",
+     "伽利略",
+     "叠加"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2",
+    "D05-2"
+   ],
+   "concept_key": "CK-1020",
+   "concept_name": "站在前人肩膀上",
+   "ability_tags": [
+    "学"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "回答'为什么要在学校里学习而不是退学摸索'；亚里士多德、阿奎纳、牛顿为古代全能学者对照，均在本锚行。"
+  },
+  {
+   "claim_id": "C-FZ-U0021-05",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "真正伟大的发明都是在已有发明基础上叠加的结果，从0到1也不例外",
+   "quote": "叠加的结果",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 727,
+    "end_line": 727,
+    "sha1": "4cb433513a5b8afe14959cd24b55d7d5badf8a5b",
+    "fingerprint": [
+     "彼得•蒂尔",
+     "特斯拉",
+     "叠加"
+    ]
+   },
+   "pillar_candidates": [
+    "D10-1",
+    "D05-2"
+   ],
+   "concept_key": "CK-1021",
+   "concept_name": "伟大发明都是叠加的",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "彼得·蒂尔《从0到1》四例（苹果原型施乐Alto、视窗仿麦金托什、谷歌前有Inktomi、特斯拉前有通用EV1）为吴军转述并逐一反驳，均在本锚行。"
+  },
+  {
+   "claim_id": "C-FZ-U0021-06",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "把之前的特长和经验作为完成当下任务的起点，做当下的事又为更上一层楼做准备",
+   "quote": "完成当下任务的起点",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 731,
+    "end_line": 737,
+    "sha1": "30180937d3035891911bfbf044655a05331289d5",
+    "fingerprint": [
+     "跨界",
+     "叠加效应",
+     "自然语言处理"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "CK-1022",
+   "concept_name": "经验作为起点",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "吴军自证跨界路径（数学→计算机→通信→语音识别→谷歌NLP）均在本锚；729 行词典类比、745-747 行'最有效的做事方式是叠加经验后更上一层楼'收尾句锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0021-07",
+   "unit_id": "FZ-U0021",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "选任务两原则：依赖过去经验且能让经验增加；如爬树要顺树干往上爬，不横走不换树",
+   "quote": "不要横着走",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 739,
+    "end_line": 743,
+    "sha1": "2b0e4206eec72c23c20455143bc4433fa3de2504",
+    "fingerprint": [
+     "爬树",
+     "大树干",
+     "原地踏步"
+    ]
+   },
+   "pillar_candidates": [
+    "D06-1",
+    "D05-2"
+   ],
+   "concept_key": "CK-1023",
+   "concept_name": "选任务两原则",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "婉辞重复性工作邀请（743 行）为两原则应用例，在本锚；末梢树枝爬得快也走不远（741 行）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "方法论核心节：叠加原理/知识结构/发明史论/个人方法共 7 卡，蒂尔例转述并入卡5 notes"
+}

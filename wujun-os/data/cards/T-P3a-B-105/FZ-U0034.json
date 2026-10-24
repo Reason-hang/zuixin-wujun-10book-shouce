@@ -1,0 +1,171 @@
+{
+  "unit_id": "FZ-U0034",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0034-01",
+      "unit_id": "FZ-U0034",
+      "speaker": "转述·第三方",
+      "claim_text": "太初有为：一切的开端是行动，然后才是语言和思想；千年哲学难题多源于万物有本质的错误假设",
+      "quote": "一切的开端是行动",
+      "anchor": {
+        "start_line": 1223,
+        "end_line": 1225,
+        "sha1": "857a8b8e3fe2e13c93b38a1c2abb1bb69a8758dd",
+        "fingerprint": [
+          "太初有为",
+          "维特根斯坦"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4",
+        "D05-1"
+      ],
+      "concept_key": "太初有为",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦（座右铭，语出歌德《浮士德》\"太初有为\"）；吴军取用为行动哲学，本人概括见 C-FZ-U0034-02/03 互引。概念键\"太初有为\""
+    },
+    {
+      "claim_id": "C-FZ-U0034-02",
+      "unit_id": "FZ-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "对于生活中不知道答案的问题，不需要纠结，先行动起来就好",
+      "quote": "先行动起来就好",
+      "anchor": {
+        "start_line": 1241,
+        "end_line": 1243,
+        "sha1": "8deb5dee2e6ea1bdd7d22da8a4d6d91b6f54ea6f",
+        "fingerprint": [
+          "先行动"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "先行动起来",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "承接卡01的本人落地判断；1241行尼采\"基督教是外在的实践\"为转述（E2，尼采）。概念键\"先行动起来\""
+    },
+    {
+      "claim_id": "C-FZ-U0034-03",
+      "unit_id": "FZ-U0034",
+      "speaker": "转述·第三方",
+      "claim_text": "理解知识的标志不是能够背诵或讲给别人听，而是能够用好这些知识",
+      "quote": "而是能够用好这些知识",
+      "anchor": {
+        "start_line": 1243,
+        "end_line": 1243,
+        "sha1": "5db696eba00b66411ba31a2a249f720811dcb3b2",
+        "fingerprint": [
+          "用好这些知识"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学以致用·太初有为",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦；吴军以此解释\"太初有为\"的含义（学以致用）。概念键\"学以致用·太初有为\""
+    },
+    {
+      "claim_id": "C-FZ-U0034-04",
+      "unit_id": "FZ-U0034",
+      "speaker": "转述·第三方",
+      "claim_text": "对任何问题有一致性答案的前提是有共识存在；无解的哲学问题源于大家无法取得共识",
+      "quote": "有一致性答案的前提",
+      "anchor": {
+        "start_line": 1233,
+        "end_line": 1239,
+        "sha1": "1c3fed02e8cbbc347a8a5f3f0c8588073c4bbe28",
+        "fingerprint": [
+          "共识",
+          "刚性的尺子"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "共识是答案的前提",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦；刚性尺vs橡皮尺测箱子的类比；对无解问题不要强求给出答案。概念键\"共识是答案的前提\""
+    },
+    {
+      "claim_id": "C-FZ-U0034-05",
+      "unit_id": "FZ-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "很多问题并没有我们所期待的标准答案，即便耗尽一生求索也得不到答案",
+      "quote": "耗尽一生求索",
+      "anchor": {
+        "start_line": 1215,
+        "end_line": 1215,
+        "sha1": "16fa87d51b8aabf59f04fd9723fa4a9b6c978184",
+        "fingerprint": [
+          "浮士德",
+          "标准答案"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "问题未必有标准答案",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军对歌德《浮士德》的概括评述（R1：概括句本身=本人卡）；浮士德与梅菲斯特交易情节（1203-1213）为例证；歌德晚年转向重视行动见1221-1223。概念键\"问题未必有标准答案\""
+    },
+    {
+      "claim_id": "C-FZ-U0034-06",
+      "unit_id": "FZ-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "成功创业者的经验多为事后对行动的合理解释；投资回报本质上是对行动力的回报，不是对答案的回报",
+      "quote": "是对行动力的回报",
+      "anchor": {
+        "start_line": 1247,
+        "end_line": 1247,
+        "sha1": "47af029e956748e35fa275ee486c2a580ceefde4",
+        "fingerprint": [
+          "行动力",
+          "创业者"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D05-1"
+      ],
+      "concept_key": "回报是对行动力的回报",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "投资视角：对商业计划不感兴趣，看重诚信、勤奋、执行力与做事决心；德国崛起靠半个世纪的行动（1245）为例证。概念键\"回报是对行动力的回报\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：太初有为（维特根斯坦转述+吴军行动论）共6卡，全部K卡锚点齐全"
+}

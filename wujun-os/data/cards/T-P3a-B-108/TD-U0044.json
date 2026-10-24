@@ -1,0 +1,115 @@
+{
+ "unit_id": "TD-U0044",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0044-01",
+   "unit_id": "TD-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "人的格局不能太小，不能完全用薪水、名望等利益来衡量自己该做什么事情；是否喜欢一件事要尝试了才知道，特别是年轻的时候",
+   "quote": "不能完全用利益来衡量",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1867,
+    "end_line": 1867,
+    "sha1": "3b61eb1bbd4fb6c99f654665f3110da9c9f15fee",
+    "fingerprint": [
+     "格局",
+     "利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "CK-2014",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "多数人为生存依薪水与名望决定做什么，每天做喜欢工作的人很少"
+  },
+  {
+   "claim_id": "C-TD-U0044-02",
+   "unit_id": "TD-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "复盘人生路：以自己的能力和勤勉程度依然会走到今天这步，并非宿命；有所得也有所失，必须接受所有结果——“随缘，别后悔”",
+   "quote": "随缘，别后悔",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1877,
+    "end_line": 1877,
+    "sha1": "64c449402764aa92ed5ae190fafb485ab002fd20",
+    "fingerprint": [
+     "复盘",
+     "接受"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "CK-2015",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "智者三封信故事（往前走去闯／别灰心继续闯／随缘别后悔，L1869-1875）为民间故事非专名案例，不独立成卡，此处取其落点"
+  },
+  {
+   "claim_id": "C-TD-U0044-03",
+   "unit_id": "TD-U0044",
+   "speaker": "转述·第三方",
+   "claim_text": "郭台铭常说：阿里山的神木之所以大，是 3000 余年前种子掉到土里时就已决定了的",
+   "quote": "种子掉到土里时就已决定了的",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1879,
+    "end_line": 1879,
+    "sha1": "fa16c3f58aeb8be1301483026305c82a8da3075f",
+    "fingerprint": [
+     "神木",
+     "郭台铭"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "CK-2016",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：郭台铭（企业家）；吴军取用：回顾一个人成长过程的酸甜苦辣只有自己能体会；与 C-TD-U0044-02（随缘别后悔）互引，概括见彼卡"
+  },
+  {
+   "claim_id": "C-TD-U0044-04",
+   "unit_id": "TD-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "做事前不要过分算概率：想清楚的事做起来不要犹豫；很多事做成后回头看成功概率不过 5%，做之前就算概率很多事根本不会开始",
+   "quote": "做之前就开始算概率",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1881,
+    "end_line": 1881,
+    "sha1": "164a2de869e6543494c40086f8e83db2a13f6a5a",
+    "fingerprint": [
+     "算概率",
+     "希望"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "CK-2017",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "努力了至少还有一个希望，放弃了永远不可能有希望；年轻人不知艰难去做反而做成，老年人算完成本未做先弃"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第35封信（做事前不要过分算概率）4 卡：3 张 E1 + 1 张 E2 转述（郭台铭，注明被转述者并与本人卡互引）；读博纠结语境为亲子建议不作 X5 的部分已被通用判断吸收"
+}

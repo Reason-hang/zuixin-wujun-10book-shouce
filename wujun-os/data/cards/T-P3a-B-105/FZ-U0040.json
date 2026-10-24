@@ -1,0 +1,138 @@
+{
+  "unit_id": "FZ-U0040",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0040-01",
+      "unit_id": "FZ-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "小众需求通常变不成大众需求，这与努力无关；把身边朋友的需求当大众需求是创业常见错误",
+      "quote": "和人努力不努力无关",
+      "anchor": {
+        "start_line": 1437,
+        "end_line": 1441,
+        "sha1": "485ca3acffa29e785ef47b14fb844c1eadafd819",
+        "fingerprint": [
+          "阿司匹林",
+          "埃里森"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "小众变不成大众",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "霍夫曼阿司匹林=个人需求也是大众需求（正面）；埃里森只开一家高档日料店=小众（反面）；人类喜欢大不喜欢小、喜欢获得厌恶失去的弱点。概念键\"小众变不成大众\""
+    },
+    {
+      "claim_id": "C-FZ-U0040-02",
+      "unit_id": "FZ-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "小众市场值得做但不能按大众市场策略做；其产量上不去、成本下不来有三个原因",
+      "quote": "不能像做大众市场那么去做",
+      "anchor": {
+        "start_line": 1451,
+        "end_line": 1459,
+        "sha1": "62d2a3e8f3cceb9a1fe3bb574c31f944c2abea06",
+        "fingerprint": [
+          "雅马哈",
+          "施坦威"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "小众市场另做",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "三因：具体要求多成本下不来（钢琴家挑音色）、个性稀缺有人要不同（奢侈品提价十倍）、患者少量上不去（CAR-T、Glybera罕见病药）；保时捷356/911小众跑车vs大众甲壳虫（1447-1449，锚外）为例证。概念键\"小众市场另做\""
+    },
+    {
+      "claim_id": "C-FZ-U0040-03",
+      "unit_id": "FZ-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "善于经营的企业不给用户太多选择：选项让用户只看缺点致交易难成，且让成本暴涨吞掉利润",
+      "quote": "不要给用户太多选择",
+      "anchor": {
+        "start_line": 1463,
+        "end_line": 1469,
+        "sha1": "30e8cb2f319ddc3ae4295fc077b1ee42c6136792",
+        "fingerprint": [
+          "打车",
+          "性价比"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "没有选择的好处",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "打车软件给乘客选司机选路线反而出局；大众并不清楚自己要什么，苹果产品型号单调是刻意把小众需求合并成大众需求。概念键\"没有选择的好处\""
+    },
+    {
+      "claim_id": "C-FZ-U0040-04",
+      "unit_id": "FZ-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "成熟产业用基础软件加可搭配的通用模块平衡大众与小众需求；把大众生意按小众做导致低利润",
+      "quote": "通过基础软件和应用模块",
+      "anchor": {
+        "start_line": 1471,
+        "end_line": 1475,
+        "sha1": "c830933555004ad487be2d6b1d267ccd60f80992",
+        "fingerprint": [
+          "甲骨文",
+          "ERP"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "基础软件+模块平衡",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "宜家半成品类比；甲骨文微软IBM做底层，行业软件提供通用模块让企业挑搭；国内软件业迁就客户定制需求、全行业市值抵不上美国一家中型软件公司（Salesforce/Adobe，1477，锚外）。概念键\"基础软件+模块平衡\""
+    },
+    {
+      "claim_id": "C-FZ-U0040-05",
+      "unit_id": "FZ-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "总提特别要求的人交往成本极高、难以相处；理解大众小众关系才能安排好时间精力和资源",
+      "quote": "交往成本其实是极高的",
+      "anchor": {
+        "start_line": 1479,
+        "end_line": 1483,
+        "sha1": "eca973e17b00938a0a65b113e6fe9dd7d1c18978",
+        "fingerprint": [
+          "随和",
+          "深交"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "处世的大众小众",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "处世层面的大众小众：随和=需求与大家一致；需要很多特殊关照的关系要考虑是否深交（定制关照期望更高回报）；设定目标前搞清大众小众关系少走弯路（1483）。概念键\"处世的大众小众\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：大众/小众需求辩证共5卡"
+}

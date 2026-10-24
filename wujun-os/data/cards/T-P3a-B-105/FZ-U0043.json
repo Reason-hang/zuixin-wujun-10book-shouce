@@ -1,0 +1,88 @@
+{
+  "unit_id": "FZ-U0043",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0043-01",
+      "unit_id": "FZ-U0043",
+      "speaker": "转述·第三方",
+      "claim_text": "人生算法即基本行为模式，在潜意识中支配人的一生，其基本框架在七岁前大致形成",
+      "quote": "很小的时候就大致形成了",
+      "anchor": {
+        "start_line": 1569,
+        "end_line": 1573,
+        "sha1": "67d5cfee40b802671503e7fa3cec6b90048b90eb",
+        "fingerprint": [
+          "利普顿",
+          "潜意识"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "人生算法七岁成型",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：美国发育生物学家利普蒂（利普顿）；类似\"三岁看小七岁看老\"；学界反对派（基因决定论/随时可教论）见1585-1587；\"道理也懂但做不到\"=理性意识不支配行为（1575）。概念键\"人生算法七岁成型\""
+    },
+    {
+      "claim_id": "C-FZ-U0043-02",
+      "unit_id": "FZ-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "理性上懂道理远远不够，须行动次数足够多、形成潜意识习惯，才能覆盖旧的人生算法",
+      "quote": "将它付诸行动",
+      "anchor": {
+        "start_line": 1599,
+        "end_line": 1601,
+        "sha1": "0312e37ae49288724191316d2f18a8395a01d879",
+        "fingerprint": [
+          "一万小时",
+          "肌肉记忆"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "练习覆盖旧算法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "利普顿\"一万小时定律有生理学支持、练习让行为从有意识变潜意识\"为转述（E2）；心理疏导与练习成习两种改变方法（1595-1597）；军队服役、韦尔斯利晨跑传统例证。概念键\"练习覆盖旧算法\""
+    },
+    {
+      "claim_id": "C-FZ-U0043-03",
+      "unit_id": "FZ-U0043",
+      "speaker": "吴军本人",
+      "claim_text": "多数人的人生算法一开始就没设置好且不自知，努力无果；多学习相关科学研究可免于不自知",
+      "quote": "充斥着漏洞的算法",
+      "anchor": {
+        "start_line": 1603,
+        "end_line": 1605,
+        "sha1": "374947a83a081774e78b944f65fe83ff459d3907",
+        "fingerprint": [
+          "漏洞",
+          "努力"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "算法漏洞与自知",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "不知道被漏洞算法控制，所以虽努力无结果也不知问题在哪；今天有很多学者用科学方法研究思想行为习惯。概念键\"算法漏洞与自知\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：人生算法形成与改变共3卡"
+}

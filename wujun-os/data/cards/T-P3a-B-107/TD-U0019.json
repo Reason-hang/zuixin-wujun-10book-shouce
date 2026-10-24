@@ -1,0 +1,149 @@
+{
+  "unit_id": "TD-U0019",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0019-01",
+      "unit_id": "TD-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "因国家与家庭的原因孩子生来并不平等；只有了解贫穷，才能让自己和更多人免于贫穷。",
+      "quote": "每个孩子生来并不平等",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 729,
+        "end_line": 729,
+        "sha1": "8a18d2e9a81abc9536e8b7710ed812acbd3e76a0",
+        "fingerprint": [
+          "贫穷",
+          "平等",
+          "欠缺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "了解贫穷才能免于贫穷",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与《独立宣言》转述卡 C-TD-U0019-02 互引：吴军引杰斐逊理想后给出『生而不平等』的现实判断。含着金钥匙出生是最大欠缺的表述并入。"
+    },
+    {
+      "claim_id": "C-TD-U0019-02",
+      "unit_id": "TD-U0019",
+      "speaker": "转述·第三方",
+      "claim_text": "杰斐逊《独立宣言》：我们认为这是一个不证自明的真理，所有人生来都是平等的。",
+      "quote": "所有人生来都是平等的",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 729,
+        "end_line": 729,
+        "sha1": "8a18d2e9a81abc9536e8b7710ed812acbd3e76a0",
+        "fingerprint": [
+          "独立宣言",
+          "平等",
+          "真理"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "人生而平等的理想",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：杰斐逊（《独立宣言》）。吴军的取用与反题概括见 C-TD-U0019-01（生而并不平等，故须了解贫穷）。"
+    },
+    {
+      "claim_id": "C-TD-U0019-03",
+      "unit_id": "TD-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "贫穷是把双刃剑：可让人沉沦，也可让人奋起；贫穷时无物分心反而能集中心思读书成为动力。",
+      "quote": "贫穷可以让一些人沉沦",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 745,
+        "end_line": 745,
+        "sha1": "71a886825fcb9db18b1b7e4ffbad14a7dddb7fd0",
+        "fingerprint": [
+          "贫穷",
+          "沉沦",
+          "奋起"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "贫穷的双刃剑",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军自身经历（贫困中求学、富裕后不敢松懈不投机）为『经历→判断』支撑，并入本卡。来信标题即此判断。"
+    },
+    {
+      "claim_id": "C-TD-U0019-04",
+      "unit_id": "TD-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "改变命运的原动力和来自同伴的压力能激发人的本能，比任何外在条件和辅导更管用。",
+      "quote": "改变自己命运的原动力",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 747,
+        "end_line": 747,
+        "sha1": "ed865320d0dbdc68339ac96e24d49fcd76b7cb0d",
+        "fingerprint": [
+          "原动力",
+          "同伴",
+          "本能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-1"
+      ],
+      "concept_key": "原动力与同伴压力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "周围聚集同样靠自己改变经济地位的人为佐证。兼具成长心路（D02-1）线索，按结论句主归属贫穷与经济地位观（D09-1）。"
+    },
+    {
+      "claim_id": "C-TD-U0019-05",
+      "unit_id": "TD-U0019",
+      "speaker": "吴军本人",
+      "claim_text": "不能因人穷就认为他们不努力，穷人常更有改变经济地位的动力；帮助更多人富裕，世界会更安全。",
+      "quote": "穷人常常更有动力",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 751,
+        "end_line": 751,
+        "sha1": "0ce004ddff93adc1d55e0ade6aa124e5eee6d397",
+        "fingerprint": [
+          "穷人",
+          "动力",
+          "富裕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "穷人更有动力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "靠自己改变经济地位值得荣耀、吃福利可耻的中国语境判断（行749）及亚当·斯密改天换地引述并入本卡 notes 背景。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0019",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "童年贫困长篇个人叙事（行731-743：南京/北京/四川生活细节），纯个人经历讲述，其可迁移判断（贫穷给动力、无物分心）已抽入 C-TD-U0019-03，叙事本身不成卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第13封信，5卡（贫穷观4张E1＋《独立宣言》转述1张E2），童年叙事X3。"
+}

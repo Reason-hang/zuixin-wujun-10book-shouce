@@ -1,0 +1,119 @@
+{
+  "unit_id": "FZ-U0050",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0050-01",
+      "unit_id": "FZ-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "封住谣言传播渠道徒劳甚至有害：谣言比真相更容易传播，拦住的可能是真相",
+      "quote": "反而是真相",
+      "anchor": {
+        "start_line": 1783,
+        "end_line": 1783,
+        "sha1": "a94acd96b846f519a4b068aa9c75f8ab81f4f889",
+        "fingerprint": [
+          "鱼雷",
+          "删除"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "封渠反挡真相",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "\"谣言像鱼雷发射后自行前进、不会自动消失\"及\"否认或简单删除无效\"转述自纳普（E2 互引 FZ-U0049 卡04）；吴军的引申判断：封渠道阻挡的可能不是谣言。概念键\"封渠反挡真相\""
+    },
+    {
+      "claim_id": "C-FZ-U0050-02",
+      "unit_id": "FZ-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "社会层面对抗谣言的有效方式是提供针对谣言的真相、增加信息透明度增强民众免疫力",
+      "quote": "谣言诊所",
+      "anchor": {
+        "start_line": 1785,
+        "end_line": 1785,
+        "sha1": "7e5a3a364ed023d50ef0179af0c8adef775b9c7a",
+        "fingerprint": [
+          "谣言诊所",
+          "透明度"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "真相对冲谣言",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "二战美国\"谣言诊所\"收集谣言、提供真实信息辟谣；科普作家出版图书发文属社会层对抗；《犹太退伍军人期刊》\"主动曝光、回复、消毒好过毒药溃烂\"。概念键\"真相对冲谣言\""
+    },
+    {
+      "claim_id": "C-FZ-U0050-03",
+      "unit_id": "FZ-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "个人层面理性思考是对付谣言最有效的手段；高学历不等于能识破骗术",
+      "quote": "最有效的手段",
+      "anchor": {
+        "start_line": 1787,
+        "end_line": 1789,
+        "sha1": "540bcec48a4188d044c4b44e6d0a6058933ab1cf",
+        "fingerprint": [
+          "传销",
+          "庞氏骗局"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "理性思考防谣",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "能理性思考者知道财富不可能凭空产生所以骗不了；理工博士也会陷传销——能识破简单庞氏骗局却信稍加包装的骗术。概念键\"理性思考防谣\""
+    },
+    {
+      "claim_id": "C-FZ-U0050-04",
+      "unit_id": "FZ-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "防谣两法：对常传谣信谣者一棒子打死不听其任何话；涉自身利益时警惕利于自己的谣言",
+      "quote": "一棒子打死",
+      "anchor": {
+        "start_line": 1793,
+        "end_line": 1799,
+        "sha1": "fbadc69c617879c7ece6d53067e23624097c5144",
+        "fingerprint": [
+          "证词",
+          "关心则乱"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "信源黑名单与关心则乱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "法理类比：美国法庭不采纳撒过谎者的证词；接受被污染的信息比没有信息更危险（1797）；\"关心则乱\"：同学推研信利好谣言不行动、投行人士危机中乱操作例证（1799-1801，锚外）；遇麻烦事直接面对解决而非打探小道消息（1801）。概念键\"信源黑名单与关心则乱\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：辨真伪的社会与个人手段共4卡"
+}

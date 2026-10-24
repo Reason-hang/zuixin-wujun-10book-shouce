@@ -1,0 +1,176 @@
+{
+ "unit_id": "TD-U0039",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0039-01",
+   "unit_id": "TD-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "学习数学的意义远超算账：数学承载的知识用途远超其表面作用，是各行业成就出众者的好工具",
+   "quote": "意义远远超过算账",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1651,
+    "end_line": 1651,
+    "sha1": "63cb7f505acf6b3e649dfb2d69bab80974616aed",
+    "fingerprint": [
+     "算账",
+     "数学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-2014",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "个人体感：没学好数学不可能胜任谷歌工作；“为什么学”层论述，D02-2 排除条款下亦可挂 D02-1，留 P4 定"
+  },
+  {
+   "claim_id": "C-TD-U0039-02",
+   "unit_id": "TD-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "学好数学的三大好处：它是所有自然科学的基础（对经济学等也至关重要）、培养逻辑推理能力、提高阅读理解能力",
+   "quote": "至少有三个好处",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1653,
+    "end_line": 1653,
+    "sha1": "4475a10e5fa4ec0266f60a336b5ec8f5cb9a556e",
+    "fingerprint": [
+     "三个好处"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-2015",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单主卡；三好处分述见 03/04/05 卡，此卡锚同行为引入句"
+  },
+  {
+   "claim_id": "C-TD-U0039-03",
+   "unit_id": "TD-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "数学是所有自然科学的基础，对经济学等人文社科也至关重要；今天学数学的人大多只把数学作为工具使用",
+   "quote": "所有自然科学的基础",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1655,
+    "end_line": 1661,
+    "sha1": "6e4fad6e941329405999b63a42e8f0f8a80648ff",
+    "fingerprint": [
+     "自然科学",
+     "工具"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "CK-2016",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证并入：沃森与克里克凭数学思维后来居上发现 DNA 双螺旋（L1657）；文艺复兴科技公司由数学家创办（L1659）"
+  },
+  {
+   "claim_id": "C-TD-U0039-04",
+   "unit_id": "TD-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "中学之后学数学的主要目的是培养逻辑推理能力：只背解题技巧、题海战术偏离学数学的目的，要平衡理解力、逻辑能力和基础知识",
+   "quote": "培养人的逻辑推理能力",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1663,
+    "end_line": 1663,
+    "sha1": "9701c655e0be5459116f972860bb02c8f1734744",
+    "fingerprint": [
+     "逻辑推理",
+     "题海战术"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-2017",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "要求梦馨把教科书公式推导一遍即为训练逻辑推理（L1665）"
+  },
+  {
+   "claim_id": "C-TD-U0039-05",
+   "unit_id": "TD-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "学习数学能提高阅读理解能力：很多难题的条件是隐含的，要通过字面含义读懂真实含义，这一技能在生活工作中同样常用",
+   "quote": "通过字面含义，读懂真实含义",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1667,
+    "end_line": 1669,
+    "sha1": "499f1e088c9d58857ecf242b28c5e8c6f5801aa3",
+    "fingerprint": [
+     "阅读理解",
+     "隐含"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "CK-2018",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证并入：等边三角形隐含大量已知条件；“学术会议在纽约举行”推演出行社交信息（L1669）"
+  },
+  {
+   "claim_id": "C-TD-U0039-06",
+   "unit_id": "TD-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "学好数学的三件事：提高阅读理解、建立完整的数学知识体系、善用逻辑推理；方法得当不必题海战术，约半年见效",
+   "quote": "事半功倍",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1671,
+    "end_line": 1677,
+    "sha1": "402a9b407ef195e8079e9e33171ce62dcf20be14",
+    "fingerprint": [
+     "知识体系",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-2019",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "怎样学清单卡；例证并入：斯坦福 1/5 学生不知 sin90° 说明美国中学数学基础教育欠缺、知识体系不完整（L1675）；吴军自测 AIME 得 12 分（L1679）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第31封信（为什么要学好数学）6 卡均 E1；“为什么学数学”与“怎样学好数学”分层归属，梦馨数学成绩场景承载通用论述不作 X5"
+}

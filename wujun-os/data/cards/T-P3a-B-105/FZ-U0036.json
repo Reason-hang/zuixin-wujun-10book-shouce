@@ -1,0 +1,119 @@
+{
+  "unit_id": "FZ-U0036",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0036-01",
+      "unit_id": "FZ-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "看似简单却无解的难题，答案不在当前认知维度，须到更高维度找它的\"空气动力学\"原理",
+      "quote": "隐藏在更高的维度",
+      "anchor": {
+        "start_line": 1319,
+        "end_line": 1327,
+        "sha1": "9166b1be339a531f37a1d29f234259ddc318999b",
+        "fingerprint": [
+          "伽罗瓦",
+          "空气动力学"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D05-1"
+      ],
+      "concept_key": "答案在更高维度",
+      "ability_tags": [
+        "思",
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "三等分角（伽罗瓦近世代数）、飞行（凯利空气动力学）、智能（数据派）三案例共性：问题A的答案在B；解决者多是外领域或反传统者；难题不能被解决是常态（1327）。概念键\"答案在更高维度\""
+    },
+    {
+      "claim_id": "C-FZ-U0036-02",
+      "unit_id": "FZ-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "智能有多种形态，人的智能只是其一；今天的人工智能靠大数据、算力和数学模型三大基石",
+      "quote": "人工智能的三大基石",
+      "anchor": {
+        "start_line": 1313,
+        "end_line": 1315,
+        "sha1": "842c3603ceee7fdbc17344f2afba00228fb0612b",
+        "fingerprint": [
+          "大数据",
+          "多任务智能"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "智能形态不唯一",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "人类多任务智能vs蚁群蜂群群体智能；今天AI更像蚁群智能（鸟飞派vs空气动力学派，1311）；含AI现状时效成分（X6候选，P4复核）。概念键\"智能形态不唯一\""
+    },
+    {
+      "claim_id": "C-FZ-U0036-03",
+      "unit_id": "FZ-U0036",
+      "speaker": "转述·第三方",
+      "claim_text": "教育公平问题的解法在教育之外：做到社会分工公平、职业平等，人人有尊严",
+      "quote": "职业的平等",
+      "anchor": {
+        "start_line": 1335,
+        "end_line": 1341,
+        "sha1": "ada4575e9c2c66a81e2fc073ef3995991322480c",
+        "fingerprint": [
+          "杜波伊斯",
+          "分工"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "教育公平在职业平等",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：杜波伊斯（哈佛第一位黑人博士）；吴军赞同并以日本欧洲职业平等为例；教育制度与升学讨论本身属X5范畴，本卡取其分工平等的价值判断。概念键\"教育公平在职业平等\""
+    },
+    {
+      "claim_id": "C-FZ-U0036-04",
+      "unit_id": "FZ-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "遇到所有人无解的问题，接受其无解，跳出问题本身到更高维度寻找，勿绞尽脑汁或贸然动手",
+      "quote": "接受它们无解的事实",
+      "anchor": {
+        "start_line": 1343,
+        "end_line": 1345,
+        "sha1": "2a456ceb6948bc5e89484ae18e61c8e0c0798b3f",
+        "fingerprint": [
+          "无解"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D05-1"
+      ],
+      "concept_key": "接受无解与升维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本章小结（1345）：先动手还是先动脑因人因事而异，但获得真知需纯粹理性思考而非简单经验积累；升学就业\"5%机会满足不了100%需求\"论证（1329-1333）为例证。概念键\"接受无解与升维\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：跳出问题升维求解共4卡；含本章小结"
+}

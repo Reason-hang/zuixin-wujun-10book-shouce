@@ -1,0 +1,94 @@
+{
+ "unit_id": "TD-U0046",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0046-01",
+   "unit_id": "TD-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "倒霉事一再发生说明做事的方法可能有问题，需要跳出原有固定思维寻找更好的方法；这既是技巧，也是积极的生活态度",
+   "quote": "寻找更好的方法",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1960,
+    "end_line": 1960,
+    "sha1": "d6df7cf33ccfeef492a29c0c3638bb2a88cd9a84",
+    "fingerprint": [
+     "固定思维",
+     "更好的方法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "CK-2024",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "学习层面延伸：每个人都有适合自己的学习方法，有心寻找更好的解决方法最终一定能找到对自己有效的（L1978）"
+  },
+  {
+   "claim_id": "C-TD-U0046-02",
+   "unit_id": "TD-U0046",
+   "speaker": "转述·第三方",
+   "claim_text": "休伯：未及早发现癌症因过去方法不对、忽视 IT 进步；Grail 以抽血检基因+大数据做早筛；永远要问自己是否有更好方法",
+   "quote": "永远要问自己",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1974,
+    "end_line": 1974,
+    "sha1": "f1ac40cf1284028957f23e456f0e2e27c98217c3",
+    "fingerprint": [
+     "休伯",
+     "Grail"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1",
+    "D10-1"
+   ],
+   "concept_key": "CK-2025",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：杰夫·休伯（吴军谷歌前同事、Grail 联合创始人）；毕业演讲三故事（铲粪娃求学／被 eBay 开除后入谷歌／丧妻后创业，L1962-1972）为其方法观例证；吴军概括见 C-TD-U0046-01 互引"
+  },
+  {
+   "claim_id": "C-TD-U0046-03",
+   "unit_id": "TD-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "遇到不尽如人意甚至悲剧，人不要抱怨，要主动想想是否有更好的方法然后行动起来；遇事不要逃避，问问自己能否解决哪怕一部分问题",
+   "quote": "遇事不要逃避",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1976,
+    "end_line": 1976,
+    "sha1": "3d3575b3b088f3d7291a72d44e7adb4ca418caf7",
+    "fingerprint": [
+     "抱怨",
+     "逃避"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "CK-2026",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "持有这种对待困难和问题的积极态度将受用终身（L1980）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第36-37 信边界：本单元为第37封信（永远寻找更好的方法）3 卡：2 张 E1 + 1 张 E2 转述（杰夫·休伯）；给梦馨的三条具体学习动作（放学前问老师等）为例示不入卡"
+}

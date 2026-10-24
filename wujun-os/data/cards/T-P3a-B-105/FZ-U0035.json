@@ -1,0 +1,117 @@
+{
+  "unit_id": "FZ-U0035",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0035-01",
+      "unit_id": "FZ-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "学科鄙视链源于知识性质差异：数学证明后永远成立，物理学靠数学化和可实验证伪立身",
+      "quote": "数学知识一旦被证明",
+      "anchor": {
+        "start_line": 1259,
+        "end_line": 1265,
+        "sha1": "38fd5a6b6a27e20f62512935aa027efac451c2fa",
+        "fingerprint": [
+          "勾股定理",
+          "证伪"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "知识可靠性的谱系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "学术圈鄙视链（1257）为背景陈述；物理学顶端地位靠牛顿数学化+实验可证伪两大特点；经济学对比见卡03。概念键\"知识可靠性的谱系\""
+    },
+    {
+      "claim_id": "C-FZ-U0035-02",
+      "unit_id": "FZ-U0035",
+      "speaker": "转述·第三方",
+      "claim_text": "经济学是研究如何将有限的不同用途资源进行配置、来满足特定目的的科学",
+      "quote": "满足特定的目的",
+      "anchor": {
+        "start_line": 1267,
+        "end_line": 1269,
+        "sha1": "d68f20624de8a5352fd9cadd02a80a6f1bb37f2d",
+        "fingerprint": [
+          "罗宾斯"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "罗宾斯经济学定义",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：英国经济学家莱昂内尔·罗宾斯（经典定义）；吴军评述\"这个定义今天被广泛接受\"。最接近的柱：D01-1（认识世界的学科性质），为学科定义转述不强挂。概念键\"罗宾斯经济学定义\""
+    },
+    {
+      "claim_id": "C-FZ-U0035-03",
+      "unit_id": "FZ-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "经济学难以做好有三因：问题范围大变量太多、人的经济活动非理性、实验几乎不可能",
+      "quote": "变量就特别多",
+      "anchor": {
+        "start_line": 1285,
+        "end_line": 1289,
+        "sha1": "76d34b0e733c0df41c307cdd68919185b5a44205",
+        "fingerprint": [
+          "非理性",
+          "变量"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "经济学三难",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三因分述于1287（变量多，仅美国年经济指标2万多个）、1289（非理性，炒虚拟货币传销）、1291（实验不可能，只能看是否有效果——该因锚外，见原文）；圣塔菲研讨会（1275-1279）、2008危机集体失察（1271）、曼昆\"奶农\"自嘲（1279）为例证；罗宾斯定义见卡02。概念键\"经济学三难\""
+    },
+    {
+      "claim_id": "C-FZ-U0035-04",
+      "unit_id": "FZ-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "很多事情无法直接套用他人理论、经验或靠动脑筋解决，只有真正开始做才能慢慢解决",
+      "quote": "真正开始做",
+      "anchor": {
+        "start_line": 1295,
+        "end_line": 1297,
+        "sha1": "61abf9ab88014de6ef6a83fa2a742b7113bb919d",
+        "fingerprint": [
+          "动脑筋",
+          "开始做"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "问题的解决不只靠脑子",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "本单元主论点（D05-1素材线索明确）：单纯靠动脑能解决的问题很有限，大部分事要动手后才知道如何解决。概念键\"问题的解决不只靠脑子\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：学科性质差异与\"动手才能解决\"共4卡"
+}

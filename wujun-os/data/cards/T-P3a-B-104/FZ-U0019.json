@@ -1,0 +1,135 @@
+{
+ "unit_id": "FZ-U0019",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0019-01",
+   "unit_id": "FZ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "凡事不怕慢，就怕停，更怕反复：停与走回头路让长期积累倒退",
+   "quote": "凡事不怕慢，就怕停",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 601,
+    "end_line": 605,
+    "sha1": "436a264199c7ba22d4d662b28a97af13153b0c90",
+    "fingerprint": [
+     "龟兔赛跑",
+     "走回头路",
+     "去碳减碳"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "CK-1008",
+   "concept_name": "不怕慢就怕停更怕反复",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "德国去碳政策反复致十余年努力大打折扣（605-613 行）为国家级例证：默克尔依赖俄气、2022 重启燃煤、2035 目标删除，时效细节备查不入主干。"
+  },
+  {
+   "claim_id": "C-FZ-U0019-02",
+   "unit_id": "FZ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "原理",
+   "claim_text": "先赚50%再赔50%只剩本金75%：反复折腾的损失不对称，故坚持不折腾",
+   "quote": "资产的75%",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 615,
+    "end_line": 615,
+    "sha1": "4f9a9d18d504cdce4d9625d670653cbe5e6c7a54",
+    "fingerprint": [
+     "75%",
+     "不折腾",
+     "水浒传"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D04-1"
+   ],
+   "concept_key": "CK-1009",
+   "concept_name": "反复的损失不对称",
+   "ability_tags": [
+    "思"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "水浒好汉折腾回原点例与'不折腾'原则均在本锚行；量化了 C-FZ-U0019-01 的代价机理。"
+  },
+  {
+   "claim_id": "C-FZ-U0019-03",
+   "unit_id": "FZ-U0019",
+   "speaker": "转述·第三方",
+   "evidence_level": "E2",
+   "type": "原理",
+   "claim_text": "黑格尔：人类有社会的、文明的、反省的三种历史，文明的历史一直向前",
+   "quote": "反省的历史",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 617,
+    "end_line": 619,
+    "sha1": "72e53af8c9f6bf9335243e8ed1146c201172429b",
+    "fingerprint": [
+     "黑格尔",
+     "历史哲学",
+     "文明的历史"
+    ]
+   },
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "CK-1010",
+   "concept_name": "黑格尔三种历史",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "被转述者：黑格尔《历史哲学》；吴军的取用见 C-FZ-U0019-04（原话见本卡/概括见04）。"
+  },
+  {
+   "claim_id": "C-FZ-U0019-04",
+   "unit_id": "FZ-U0019",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "借三种历史看人生：要有进步与反省的经历；财产地位会消失，本事拿不走",
+   "quote": "别人就拿不走",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 621,
+    "end_line": 625,
+    "sha1": "a604a89411cc6f40cb9825f6e47c6deb5d9969b4",
+    "fingerprint": [
+     "活动的经历",
+     "反省的经历",
+     "考核评语"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-1",
+    "D05-2"
+   ],
+   "concept_key": "CK-1011",
+   "concept_name": "本事拿不走",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "吴军对黑格尔工具的取用（概括见本卡/原话见 C-FZ-U0019-03）；认真读考核评语并改正者晋升快（625 行）为本锚内方法细节。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "单元含本人判断 3 条+黑格尔转述 1 条，成 4 卡；德国能源细节作例证留 notes"
+}

@@ -1,0 +1,248 @@
+{
+  "unit_id": "TD-U0025",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0025-01",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "你周围有什么样的人，决定了你的运气；投资千万不要听普通人的建议，因为大众在股市上是亏钱的。",
+      "quote": "千万不要听普通人的建议",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 958,
+        "end_line": 958,
+        "sha1": "f8c0c3426834565979595675b2ea391f3f94e6fb",
+        "fingerprint": [
+          "周围",
+          "普通人",
+          "大众"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D07-2"
+      ],
+      "concept_key": "投资听谁的建议",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "Z伯伯S伯伯引路经历为例证。兼具交友含义（D07-2）线索，按结论句主归属投资（D09-2）。"
+    },
+    {
+      "claim_id": "C-TD-U0025-02",
+      "unit_id": "TD-U0025",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特两条建议：不要进行过于冒险、会导致灭顶之灾的投资；不要进行自己不懂的投资。",
+      "quote": "会导致灭顶之灾的投资",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 962,
+        "end_line": 962,
+        "sha1": "2b39e2f39125c7b002c993f9b689e0e6d3475ce9",
+        "fingerprint": [
+          "巴菲特",
+          "灭顶之灾",
+          "不懂"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "巴菲特两条红线",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：巴菲特（吴军经与巴菲特共餐的两位朋友核实后转述）。吴军展开的概括见 C-TD-U0025-03/04/06 与清单卡 C-TD-U0025-09。"
+    },
+    {
+      "claim_id": "C-TD-U0025-03",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "做空股票收益有限而风险无限大：股票不跌反涨时理论损失无穷大，且经济总体向上使亏钱成为常态。",
+      "quote": "收益有限，但是风险无限大",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 966,
+        "end_line": 966,
+        "sha1": "f86cc801eaf76c284e988b4a7c2e61aad7c5b28b",
+        "fingerprint": [
+          "做空",
+          "风险",
+          "倾家荡产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "做空风险无限",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "做多最多损失100%、做空谷歌每股损失950美元的对比例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0025-04",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "杠杆投资放大损失：两倍杠杆遇股市下跌50%即被抹平出局，10倍杠杆10%波动即出局。",
+      "quote": "借钱买股票",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 968,
+        "end_line": 968,
+        "sha1": "99c4d76f992aced6e662a27956d1331e12aaf846",
+        "fingerprint": [
+          "杠杆",
+          "抵押",
+          "抹平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "杠杆会被抹平",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "巴菲特信中伯克希尔半世纪4次大跌（两次超50%）、长期资本10倍杠杆覆灭为例证，并入 C-TD-U0025-05。"
+    },
+    {
+      "claim_id": "C-TD-U0025-05",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "在投资中，严于律己和恪守原则比聪明与专业知识更重要。",
+      "quote": "恪守原则比聪明与专业知识更重要",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 969,
+        "end_line": 969,
+        "sha1": "5067dbb10a4e729ac9d6849d5519ab22cef8cdf3",
+        "fingerprint": [
+          "严于律己",
+          "恪守原则",
+          "聪明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "恪守原则胜过聪明",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "诺贝尔奖得主创立的长期资本加10倍杠杆覆灭为核心例证。边界：原著限定于投资语境，迁移到其他领域为整合者推断。"
+    },
+    {
+      "claim_id": "C-TD-U0025-06",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "不做自己不懂的投资：看不懂的投资常藏陷阱；大道至简，刻意把简单道理搞复杂的人要防范。",
+      "quote": "大道至简",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 971,
+        "end_line": 971,
+        "sha1": "b744626336e81ff112a488ca63e55e478aec6478",
+        "fingerprint": [
+          "不懂",
+          "陷阱",
+          "防范"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D03-2"
+      ],
+      "concept_key": "不做不懂的投资",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "巴菲特一天读不完衍生品说明书、2008金融衍生品例证并入；吴军明确此原则也适用于生活和工作。"
+    },
+    {
+      "claim_id": "C-TD-U0025-07",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "人在某领域获得一点成功后易自觉无所不懂无所不能，做很多不擅长的事，最后一败涂地。",
+      "quote": "觉得自己无所不懂，无所不能",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 973,
+        "end_line": 973,
+        "sha1": "c2f39e1a0ca5f5ea8f3a67d516bc03eeb4722dbd",
+        "fingerprint": [
+          "成功",
+          "擅长",
+          "一败涂地"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D09-2"
+      ],
+      "concept_key": "成功后的无所不能错觉",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "D伯伯拒办广告公司（『若逻辑成立最大广告公司应是可口可乐广告公司』）为例证并入。判断本身为一般成功认知规律，主归属经历认知（D02-1），投资语境辅（D09-2）。"
+    },
+    {
+      "claim_id": "C-TD-U0025-08",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "永远不要眼红别人抓住的投机机会而乱方寸：投机改不了一生命运，捡便宜心态买来的多是垃圾。",
+      "quote": "乱了自己的方寸",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 975,
+        "end_line": 975,
+        "sha1": "55e1fa5a24608f8c841ec9413b3e901d44755ab4",
+        "fingerprint": [
+          "投机",
+          "方寸",
+          "守株待兔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "不眼红投机机会",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "比特币百倍论、吴军百度股票十几美元全卖、美国乐透得主10年内返贫为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0025-09",
+      "unit_id": "TD-U0025",
+      "speaker": "吴军本人",
+      "claim_text": "一生不要碰的三条投资红线：灭顶之灾的冒险（做空/杠杆）、自己不懂的投资、眼红投机机会（清单一卡）。",
+      "quote": "三根标志高压电的红线",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 977,
+        "end_line": 977,
+        "sha1": "8ec7d98513801cffda3b665efdc02cf0b3a3c2f1",
+        "fingerprint": [
+          "红线",
+          "高压电",
+          "一辈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资三条红线",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "信末清单式总结（R3 整体一卡）。前两条源自巴菲特（转述见 C-TD-U0025-02），第三条为吴军自加（见 C-TD-U0025-08）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第19封信，9卡（红线体系8张E1＋巴菲特转述1张E2），D伯伯案例并入07卡notes。"
+}

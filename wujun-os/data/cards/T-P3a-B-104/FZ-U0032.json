@@ -1,0 +1,137 @@
+{
+ "unit_id": "FZ-U0032",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0032-01",
+   "unit_id": "FZ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "成为领域专家必须补上学校只给轮廓之外的细节；动手做、思考、再针对性学习是有效方式",
+   "quote": "有效的学习方式",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1093,
+    "end_line": 1097,
+    "sha1": "854b9e8b8170c1de6b4bc5126e12e7b45116f899",
+    "fingerprint": [
+     "轮廓",
+     "细节",
+     "动手"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-1070",
+   "concept_name": "手先于脑有效学习",
+   "ability_tags": [
+    "学"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "小女儿拆钢笔故事（拆笔→大气压→毛细现象→改装售卖，1079-1091 行）为本判断的自证例证，锚外备查；1099-1105 行（好奇心强于抽象思维、面包板搭电路帮同学找错）锚外备查。"
+  },
+  {
+   "claim_id": "C-FZ-U0032-02",
+   "unit_id": "FZ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "学知识忌贪多嚼不烂：只经过脑子没经过手的知识是摆设，用得滚瓜烂熟的才真正受益",
+   "quote": "贪多嚼不烂",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1107,
+    "end_line": 1111,
+    "sha1": "0c31770355d8678793a11bd63bea839b8db8006d",
+    "fingerprint": [
+     "贪多嚼不烂",
+     "摆设",
+     "滚瓜烂熟"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-1071",
+   "concept_name": "贪多嚼不烂",
+   "ability_tags": [
+    "学"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "学十几年语文写不好邮件、近十年英语张不开嘴、大量数理化设计不出实验（1107 行）；'凡事动手试一试慢总比停好'（1111 行）在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0032-03",
+   "unit_id": "FZ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "任何时候知道怎样学习，都比学到的那点东西更有价值；新发现常从亲手做中来",
+   "quote": "更有价值",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1121,
+    "end_line": 1121,
+    "sha1": "cb7c59788aa72e1b766d661f4b7411989849c5b6",
+    "fingerprint": [
+     "学习方法",
+     "奥数",
+     "拆"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-1072",
+   "concept_name": "知道怎样学习",
+   "ability_tags": [
+    "学"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "口罩研究（细纤维静电吸附强、纳米口罩、潮湿即失效）与电解液机器学习选配方两例（1113-1119 行）为 E3 例证锚外备查；'逼孩子学奥数大概率无用'的对照在本锚。"
+  },
+  {
+   "claim_id": "C-FZ-U0032-04",
+   "unit_id": "FZ-U0032",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "对擅长动手的人，手先于脑：先动手再动脑是其有效的学习次序",
+   "quote": "手先于脑",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 1123,
+    "end_line": 1123,
+    "sha1": "544ed79ec97acc6ea39d39fe6542963866e923b5",
+    "fingerprint": [
+     "手先于脑",
+     "小女儿",
+     "手比脑更重要"
+    ]
+   },
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "CK-1073",
+   "concept_name": "手先于脑",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "以小女儿为限定的本人结论（'至少对我的小女儿而言'）；方法展开见 C-FZ-U0032-01，另一路径见 C-FZ-U0033-01。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "手先于脑节：4 卡（补细节/贪多嚼不烂/怎样学习/次序结论），拆笔叙事为例证不入卡"
+}

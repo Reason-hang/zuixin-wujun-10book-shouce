@@ -1,0 +1,220 @@
+{
+  "unit_id": "TD-U0028",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0028-01",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "上名校的目的之一是获得好的同学圈子，便于交朋友，这甚至比教育更重要；大学是时间与可交往对象兼备的窗口。",
+      "quote": "这甚至比教育更重要",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1076,
+        "end_line": 1078,
+        "sha1": "93a678d3066aee9025c34ba202c1caa9ee807b8d",
+        "fingerprint": [
+          "同学",
+          "圈子",
+          "教育"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D02-2"
+      ],
+      "concept_key": "大学交友窗口",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "MIT学生坦诚相处、4年时间了解细节为佐证。载体为名校教育语境，结论句为交友圈价值，主归属 D07-2。"
+    },
+    {
+      "claim_id": "C-TD-U0028-02",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "大学同学功利心弱、彼此平等，才能倾心交往；工作后是业务功利关系、分你我、难深交。",
+      "quote": "才能倾心交往",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1080,
+        "end_line": 1082,
+        "sha1": "2a4a62ccf3a4c44c3761a0a9ec44269abe875761",
+        "fingerprint": [
+          "平等",
+          "功利",
+          "深交"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "平等才能深交",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "上级安排任务帮一点忙就欠人情、上市公司创始人内斗、『一起抄过作业的同学感情如战友』为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0028-03",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "做事总需要别人帮助，今天很难一个人做成大事；遇到值得交往一辈子的朋友要像对兄弟姐妹一样对待。",
+      "quote": "很难一个人做成大事",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1084,
+        "end_line": 1084,
+        "sha1": "8ad98ac070d372a39efe599b60c499bce43dd516",
+        "fingerprint": [
+          "帮助",
+          "兄弟姐妹",
+          "挚友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "挚友相助",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与朱会灿（大卫爸爸）两次共事、协商分工、如约合伙的经历为例证并入（经历→判断，D02-1线索不计主归属）。与莎翁转述卡 C-TD-U0028-04 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0028-04",
+      "unit_id": "TD-U0028",
+      "speaker": "转述·第三方",
+      "claim_text": "莎士比亚《哈姆雷特》：相知有素的朋友应该用钢圈箍在你的灵魂上，但不要对泛泛新知滥施交情。",
+      "quote": "相知有素的朋友",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1084,
+        "end_line": 1084,
+        "sha1": "8ad98ac070d372a39efe599b60c499bce43dd516",
+        "fingerprint": [
+          "莎士比亚",
+          "钢圈",
+          "滥施交情"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "钢圈箍友",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：莎士比亚（《哈姆雷特》台词，吴军注明出处）。吴军的概括见 C-TD-U0028-03。"
+    },
+    {
+      "claim_id": "C-TD-U0028-05",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "因地位权力天赋与你交往的人，在你无用时离开；先考虑自己利益是本能，不必太在意，对比才知挚友难得。",
+      "quote": "挚友多么难得",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1090,
+        "end_line": 1090,
+        "sha1": "eb4ffd8e87978f5212c704bd1befdd69ebbaf912",
+        "fingerprint": [
+          "地位",
+          "权力",
+          "挚友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "势利朋友的离开",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "离开腾讯后90%的人不再打招呼、国企负责人退休后无人陪打高尔夫为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0028-06",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "好朋友是巨大财富，损友是巨大负资产；防范之法：先假设人正直善良诚信，但只上一次当，从不给第二次机会。",
+      "quote": "我从不给人第二次机会",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1092,
+        "end_line": 1092,
+        "sha1": "c986129b1d75a6626f8505cd5a62e4cd7de3f332",
+        "fingerprint": [
+          "止损",
+          "第二次机会",
+          "损友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "止损式交友",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "此法源自曾国藩对荒唐亲戚坚决不来往（吴军注明出处，无原话直引故不另立转述卡）；『一个好汉三个帮』、家人圈子不可选而朋友可选并入。"
+    },
+    {
+      "claim_id": "C-TD-U0028-07",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "在大学阶段广泛交友，万一上当损失也不大；要摔跟头，宁可早点儿摔。",
+      "quote": "宁可早点儿摔",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1094,
+        "end_line": 1094,
+        "sha1": "50e4b12129ec4b6d00eb0141f393f543c3f51bcc",
+        "fingerprint": [
+          "上当",
+          "摔跟头",
+          "损失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "早点摔跟头",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "商界交友不慎损失巨大为对比背景。"
+    },
+    {
+      "claim_id": "C-TD-U0028-08",
+      "unit_id": "TD-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "交友要真诚、大方、宽容：不要怕自己吃小亏，容忍别人的小毛病，不因缺点否定整个人。",
+      "quote": "不要怕自己吃小亏",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1098,
+        "end_line": 1098,
+        "sha1": "a706c05d7cebc1789d8139a6ce100f759415b0b5",
+        "fingerprint": [
+          "真诚",
+          "宽容",
+          "吃小亏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "交友不怕吃小亏",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "处理矛盾时看开一些，就给自己留下了空间。信标题即此判断。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第21封信，8卡（交友通则7张E1＋莎翁转述1张E2），朱会灿合作经历与曾国藩出处并入notes。"
+}

@@ -1,0 +1,136 @@
+{
+  "unit_id": "FZ-U0038",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0038-01",
+      "unit_id": "FZ-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "科学不等于技术：科学研究是把钱变成知识，技术开发是把知识变成钱",
+      "quote": "把钱变成知识",
+      "anchor": {
+        "start_line": 1367,
+        "end_line": 1371,
+        "sha1": "805788afcc7258c17723d1596c5e1c0e2d77244a",
+        "fingerprint": [
+          "李约瑟",
+          "钱变成知识"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "科学与技术之别",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "李约瑟之问、钱学森之问同源：混淆科学和技术；中国技术成就远大于科学成就；教授既做研究又想变现不符合科学发展模式。概念键\"科学与技术之别\""
+    },
+    {
+      "claim_id": "C-FZ-U0038-02",
+      "unit_id": "FZ-U0038",
+      "speaker": "转述·第三方",
+      "claim_text": "科学以获得世界结构和规律的知识为目的，研究时不知道最后有没有用、能否赚钱",
+      "quote": "扯淡的事情",
+      "anchor": {
+        "start_line": 1373,
+        "end_line": 1373,
+        "sha1": "b3e50de8623a66c7ec52c4440eae345a31a8bc66",
+        "fingerprint": [
+          "郭毅可",
+          "观察和实验"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "科学的目的是知识本身",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：郭毅可院士原话\"科学就是研究一些扯淡的事情\"；深度学习三先驱当年不知用途为例证；科学家要成为精神上的富翁。概念键\"科学的目的是知识本身\""
+    },
+    {
+      "claim_id": "C-FZ-U0038-03",
+      "unit_id": "FZ-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "真正的科学家更希望成为精神上的富翁，做学问要对科学有宗教般的虔诚",
+      "quote": "精神上的富翁",
+      "anchor": {
+        "start_line": 1375,
+        "end_line": 1377,
+        "sha1": "2ea1abf2b8248e35f00d73a94e381a071d6d19f2",
+        "fingerprint": [
+          "波义耳",
+          "毕达哥拉斯"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "精神富翁与虔诚",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "波义耳哈雷自富研究、牛顿受支持；高斯墓碑刻正十七边形；毕达哥拉斯\"万物皆数\"；中世纪学者几十年如一日。价值观层面判断（什么人做科学见D10）。概念键\"精神富翁与虔诚\""
+    },
+    {
+      "claim_id": "C-FZ-U0038-04",
+      "unit_id": "FZ-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "做技术的首要任务是用好已有知识而非创造新知识，技术开发和创新的目的是赚钱",
+      "quote": "寻找已有的知识",
+      "anchor": {
+        "start_line": 1385,
+        "end_line": 1389,
+        "sha1": "558a602f51679e8d9407ccca3a208f2fa26bd2bf",
+        "fingerprint": [
+          "鱼香肉丝",
+          "乔布斯"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "技术=用好已知",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "炒鱼香肉丝别先养猪类比；博士生轻产品改进重基础研究=混淆技术开发与科学研究；乔布斯组合已有技术（触摸屏为伯克利教授发明）。概念键\"技术=用好已知\""
+    },
+    {
+      "claim_id": "C-FZ-U0038-05",
+      "unit_id": "FZ-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "技术若得不到保护、不能变成钱就无人开发；创新者收益须超过做生意和搞管理的",
+      "quote": "收益上超过",
+      "anchor": {
+        "start_line": 1391,
+        "end_line": 1393,
+        "sha1": "6c77e535bd30bcf0aeaabf2cd72ebfdd628428e7",
+        "fingerprint": [
+          "新药",
+          "20亿美元"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "技术保护与回报",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "企业B偷用技术则企业A不再开发、最后互相抄袭；新药研发成本约20亿美元，卖不到则无人研制。概念键\"技术保护与回报\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：科学/技术之辨共5卡"
+}

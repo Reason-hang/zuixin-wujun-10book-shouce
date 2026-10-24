@@ -1,0 +1,196 @@
+{
+  "unit_id": "TD-U0026",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0026-01",
+      "unit_id": "TD-U0026",
+      "speaker": "转述·第三方",
+      "claim_text": "鲁迅论钱的三层次：人要生存（体面度日）、要温饱（衣食无忧）、要发展（物质上适当享受）。",
+      "quote": "人要生存，要温饱，要发展",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 998,
+        "end_line": 998,
+        "sha1": "0e941a44d6b035726d55d2a8259c2890bc959a14",
+        "fingerprint": [
+          "鲁迅",
+          "生存",
+          "温饱"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "生存温饱发展",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：鲁迅（吴军注明『中国文豪鲁迅先生观点』并表示赞同）。吴军的取用：望女儿正确理解钱的用途与意义。"
+    },
+    {
+      "claim_id": "C-TD-U0026-02",
+      "unit_id": "TD-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "在美国衡量精英的标准不是钱和学历，而是影响力；对钱的执着会让人走不到顶尖。",
+      "quote": "衡量精英的标准不是钱和学历",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1002,
+        "end_line": 1002,
+        "sha1": "9477b09ef12c7e603625a2d7080d4935d2b57c77",
+        "fingerprint": [
+          "精英",
+          "影响力",
+          "钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-3"
+      ],
+      "concept_key": "精英标准是影响力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "哈佛华裔学生扎堆计算机/医预科、华裔教授下海捞钱为例证并入（含2018年前后社会观察，具时效性仅作支撑）；温饱无虞者应把钱看得淡一点。"
+    },
+    {
+      "claim_id": "C-TD-U0026-03",
+      "unit_id": "TD-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "钱从本质上讲是物质的媒介而不是物质本身；美国富豪捐钱出于宗教传统、防后代颓废、作实现理想的工具。",
+      "quote": "从本质上讲是物质的媒介",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1004,
+        "end_line": 1004,
+        "sha1": "d1b8a245a03b9f8c24e3b6eb80216353e79a1d20",
+        "fingerprint": [
+          "媒介",
+          "捐钱",
+          "影响力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "钱是媒介而非本身",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "洛克菲勒5%奉献、卡内基『钱是为了让孩子做喜欢的事，而不是为了炫富和无所事事』为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0026-04",
+      "unit_id": "TD-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "上名校的目的首先是学成为精英以便有钱后反哺社会；名校的意义在于看透钱是媒介，这比挣钱本身更重要。",
+      "quote": "能否看透钱",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1006,
+        "end_line": 1006,
+        "sha1": "138d863e7d4a0628938bea546c81f6d61d8d9347",
+        "fingerprint": [
+          "名校",
+          "看透钱",
+          "反哺社会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "名校目的在看透钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "中国士绅修桥铺路传统、满足于工程师/交易员/家庭医生即未摆脱穷人心态的观察并入。载体为教育语境但结论句为金钱观，主归属 D09-1。"
+    },
+    {
+      "claim_id": "C-TD-U0026-05",
+      "unit_id": "TD-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "挣大钱的关键是捡西瓜不捡芝麻：一个西瓜抵200万粒芝麻，做一万件小事不如做一件大事。",
+      "quote": "要捡西瓜，不要捡芝麻",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1008,
+        "end_line": 1008,
+        "sha1": "b2cf5c493fd1b8e21778cf2506aea1f8589b907c",
+        "fingerprint": [
+          "西瓜",
+          "芝麻",
+          "大事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D09-1"
+      ],
+      "concept_key": "捡西瓜不捡芝麻",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "人要大气勿为蝇头小利动脑筋；捡芝麻行为清单（为免费东西打破头、抢红包、比价两小时等，行1014-1023）按R3并入本卡；雅虎多而不精、中国综合体公司例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0026-06",
+      "unit_id": "TD-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "捡到西瓜的关键在于把一个东西做到极致。",
+      "quote": "关键在于把一个东西做到极致",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1025,
+        "end_line": 1025,
+        "sha1": "7a041b85d9f51ed8292e1dc0ce0274ee74520f42",
+        "fingerprint": [
+          "极致",
+          "百达翡丽",
+          "石英表"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "做到极致",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "百达翡丽10万美元与石英表几十美元对比、朗道『人与人的差距是数量级的差别』为例证并入。"
+    },
+    {
+      "claim_id": "C-TD-U0026-07",
+      "unit_id": "TD-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "任何专业人士都可仿朗道按能力贡献分5级；每晋升一级贡献和收入约多10倍，捡西瓜的关键是承担高级别任务。",
+      "quote": "分成5个等级",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 1027,
+        "end_line": 1039,
+        "sha1": "a5eb181ee3bdb3ce21a4f5b26ab3aa435ed98c5a",
+        "fingerprint": [
+          "朗道",
+          "工程师",
+          "10倍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-1"
+      ],
+      "concept_key": "五级专业人士分级",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "工程师五级清单（能独立解决问题→能开创新产业）按R3整体一卡；做5件5级事收益只及1件3级事的5%并入。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第20封信，7卡（金钱观5张E1＋鲁迅转述1张E2＋五级分级1张），捡芝麻清单与朗道例证并入母卡。"
+}

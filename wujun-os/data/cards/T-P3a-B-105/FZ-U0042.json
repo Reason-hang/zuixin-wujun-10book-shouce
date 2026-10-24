@@ -1,0 +1,140 @@
+{
+  "unit_id": "FZ-U0042",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0042-01",
+      "unit_id": "FZ-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "做大事要找最大带宽的宽路而非只求最短的近路：总盯眼前小利省小钱，就做不成大事",
+      "quote": "带宽最大的道路",
+      "anchor": {
+        "start_line": 1531,
+        "end_line": 1535,
+        "sha1": "3e6b50377daec5191858262e528e372aef9a70c5",
+        "fingerprint": [
+          "富爸爸",
+          "穷人思维"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "最大带宽",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "图论最短路径vs最大带宽：步行者选最短路、500辆卡车车队选最大带宽路（1529，锚外）；大公司采购选供货有保障者；罗伯特·清崎《富爸爸穷爸爸》穷人思维例证。概念键\"最大带宽\""
+    },
+    {
+      "claim_id": "C-FZ-U0042-02",
+      "unit_id": "FZ-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "企业做大后买得多价格反而上涨；应用对冲和保险锁定长期稳定供应，而非谈判压价",
+      "quote": "价格反而上涨了",
+      "anchor": {
+        "start_line": 1537,
+        "end_line": 1541,
+        "sha1": "dc03e9f2c26140ed8618a844a854fdf477a1999a",
+        "fingerprint": [
+          "铁矿石",
+          "对冲"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "大买家锁供",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "买得多改变了供求关系（中国人买什么什么涨价的2000s现象，含时效成分）；日本经济腾飞期同现象；航空公司花成本锁油价。概念键\"大买家锁供\""
+    },
+    {
+      "claim_id": "C-FZ-U0042-03",
+      "unit_id": "FZ-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "创始人不放权会成为企业瓶颈；走远一点却宽的路比一个人能走的窄近路更重要",
+      "quote": "成为他们开展业务的瓶颈",
+      "anchor": {
+        "start_line": 1545,
+        "end_line": 1549,
+        "sha1": "3b1a99f21bcfd7e0c3602f5b19a1c4bef50c2b98",
+        "fingerprint": [
+          "放权",
+          "瓶颈"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "放权走宽路",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "年销售几亿仍亲批10万元以上花销的案例：走个形式更糟——不了解细节还替下属担责、致懒政、卡付款；放权后控各部门利润率而非每笔开销，两年后营业额增长逾10倍。概念键\"放权走宽路\""
+    },
+    {
+      "claim_id": "C-FZ-U0042-04",
+      "unit_id": "FZ-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "新任管理者要忍住不亲自上，善于找到大家都能走的大路，让全组一同前进",
+      "quote": "大家都能走的大路",
+      "anchor": {
+        "start_line": 1551,
+        "end_line": 1553,
+        "sha1": "429f73bb5ecb334e00569fff5335a5b445663594",
+        "fingerprint": [
+          "提拔",
+          "近路"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "找大家能走的大路",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "提拔业务骨干时吴军的忠告：你善于找别人找不到的近路是优点，但近路不是大路、不可能全组每个人都走；部分人思维不随职级提升而遇职业天花板（1553）。概念键\"找大家能走的大路\""
+    },
+    {
+      "claim_id": "C-FZ-U0042-05",
+      "unit_id": "FZ-U0042",
+      "speaker": "转述·第三方",
+      "claim_text": "长期难获提拔者多为年轻时人生算法就没设计好，此后再努力也事倍功半、难破天花板",
+      "quote": "人生算法就没有设计好",
+      "anchor": {
+        "start_line": 1555,
+        "end_line": 1559,
+        "sha1": "f5f4e7f15603b76f295a6e53d89fe57b009028e8",
+        "fingerprint": [
+          "部级",
+          "处级"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "人生算法定天花板",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：领导力培训专家；吴军以给部级/处级干部讲课的差异（专注度、求知欲、尊重他人）为观察佐证；人生算法机制详见 FZ-U0043 互引。概念键\"人生算法定天花板\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：做大事心态+管理者转型共5卡"
+}

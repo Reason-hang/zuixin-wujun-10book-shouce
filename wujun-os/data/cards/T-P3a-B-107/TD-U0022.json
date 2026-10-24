@@ -1,0 +1,96 @@
+{
+  "unit_id": "TD-U0022",
+  "book_code": "TD",
+  "extractor": "EXT-TD2",
+  "batch_id": "T-P3a-B-107",
+  "cards": [
+    {
+      "claim_id": "C-TD-U0022-01",
+      "unit_id": "TD-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "一个人有了财富，能否善用财富决定他的格局，格局又决定他能走多远。",
+      "quote": "善用财富",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 826,
+        "end_line": 826,
+        "sha1": "dd959a034aa3b662748696e3095b86c9c1bcf0b4",
+        "fingerprint": [
+          "财富",
+          "格局",
+          "善用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "善用财富定格局",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "哈雷、波依耳、拉瓦锡以财富支持科学的例证及『政府资助后科研动机反而不纯』的观察并入。与巴菲特转述卡 C-TD-U0022-02 互引。"
+    },
+    {
+      "claim_id": "C-TD-U0022-02",
+      "unit_id": "TD-U0022",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特：钱是为了让你做想做的事，而不是为了让你无所事事。",
+      "quote": "钱是为了让你做想做的事",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 824,
+        "end_line": 824,
+        "sha1": "0e3ece18ca4f20da1f63be6b8bebf90568e2a727",
+        "fingerprint": [
+          "巴菲特",
+          "钱",
+          "无所事事"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "钱为做想做的事",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：巴菲特。吴军的取用（女儿想到用钱做有意义的事、勿存银行勿炒股勿不工作）概括见 C-TD-U0022-01 与 C-TD-U0022-03。"
+    },
+    {
+      "claim_id": "C-TD-U0022-03",
+      "unit_id": "TD-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "实现财富自由后应把财富用于做他人没做或做不到的事，尤其是短期无收益、无人会做的有意义之事。",
+      "quote": "其他人没有做或者做不到的事",
+      "anchor": {
+        "book_code": "TD",
+        "start_line": 838,
+        "end_line": 838,
+        "sha1": "2996b066a9b6e42abd57e4cf812b69608895102c",
+        "fingerprint": [
+          "财富自由",
+          "收益",
+          "谷歌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财富用于做无人做之事",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "商业目的之事总有人做（谷歌/苹果/特斯拉）、韦恩·罗辛建全球联网天文台证实引力波为例证；徐霞客游记与『有钱+有脑子+有持久力做前人未做之事』（行830）并入本卡。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "TD-U0022",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "行832-836：李希霍芬考察史（祁连山命名、高岭土、青岛选址、都江堰、罗布泊、斯文·赫定）为地理学史人物史叙事，可迁移机理已并入 C-TD-U0022-03 notes，史实细节不抽卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第16封信，3卡（善用财富定格局E1、巴菲特转述E2、财富做无人做之事E1），李希霍芬史事X4。"
+}

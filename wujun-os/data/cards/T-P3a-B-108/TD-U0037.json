@@ -1,0 +1,229 @@
+{
+ "unit_id": "TD-U0037",
+ "book_code": "TD",
+ "extractor": "EXT-TD3",
+ "batch_id": "T-P3a-B-108",
+ "cards": [
+  {
+   "claim_id": "C-TD-U0037-01",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "科学不代表正确：广义科学是能自洽的知识体系，狭义科学须严格逻辑推理、可证实可证伪；数学和历史学都不是狭义科学",
+   "quote": "能够自洽的知识体系",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1524,
+    "end_line": 1524,
+    "sha1": "f15695ef99eab83ccbb8cdf843011a800a7b9066",
+    "fingerprint": [
+     "自洽",
+     "证伪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2022",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "广义与狭义之分；两者共同点是看重方法和过程而非结论"
+  },
+  {
+   "claim_id": "C-TD-U0037-02",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "科学看重方法和过程而非结论：不走的钟一天也能对两次，蒙对的结论没有价值；坚持实证、可重复、可验证，知识才能叠加",
+   "quote": "仅有结论是不行的",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1526,
+    "end_line": 1526,
+    "sha1": "20655620bdb4c8cc166af2faacc90c7400aec281",
+    "fingerprint": [
+     "可重复性",
+     "实证"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2023",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "炒股偶尔赚钱便自封股神类比停走的钟"
+  },
+  {
+   "claim_id": "C-TD-U0037-03",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "正确不等于有用，正确也不能和科学画等号：牛顿定律在宇宙尺度不准确仍是科学，巫医烧香治好绝症并非科学",
+   "quote": "正确不等于有用",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1528,
+    "end_line": 1528,
+    "sha1": "f48bbbf0f945211e93f55dbe0b81ee3acbfb5996",
+    "fingerprint": [
+     "牛顿",
+     "巫医"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2024",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三个概念（正确/有用/科学）互不等价的辨析"
+  },
+  {
+   "claim_id": "C-TD-U0037-04",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "科学是不断发展的，没有绝对正确和绝对真理；有学识的科学家对世界和规律充满敬畏，只有宗教人士才称握有绝对真理",
+   "quote": "没有绝对正确和绝对真理",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1530,
+    "end_line": 1532,
+    "sha1": "56a7bf05f9456b79a30cdf6a0a0378b824ce1b61",
+    "fingerprint": [
+     "敬畏",
+     "绝对真理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2025",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-TD-U0037-05",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "科学家并不高人一等，也不比别人更接近真理，不会因学历高、职位高就更接近真理；任何时候都要冷静思考、保持独立的思想",
+   "quote": "科学家并不高人一等",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1534,
+    "end_line": 1534,
+    "sha1": "d5aff2bc38c757f0b30d4baa03df68dbeb121049",
+    "fingerprint": [
+     "高人一等",
+     "独立的思想"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "CK-2026",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "语境：批评 MIT 学生因特朗普科学知识差而全盘反对其政策；多学几门科学课程不等于树立崇尚科学的精神"
+  },
+  {
+   "claim_id": "C-TD-U0037-06",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "霍夫曼案例：阿司匹林与海洛因同出善意，善意未必得到好结果；全面认识一种药品的疗效和危害常需很长时间，当初说错的正是科学家",
+   "quote": "善意未必会得到好结果",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1548,
+    "end_line": 1548,
+    "sha1": "5b8343637d5bf77405d88ff123d30ea99786b8f5",
+    "fingerprint": [
+     "阿司匹林",
+     "海洛因"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2027",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "E3 例证卡（专名案例+可迁移机理）：霍夫曼因海洛因背负道义责任孤独而死（L1538-1546）；拜耳当年据动物实验判定高效低毒"
+  },
+  {
+   "claim_id": "C-TD-U0037-07",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "科学家犯错误有主客观原因：学识有限、被利益绑架，且事情复杂致短时间难以全面认识；故科学结论未必都正确、认识不断深入",
+   "quote": "科学家也是人",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1550,
+    "end_line": 1550,
+    "sha1": "0fef7338b15dc4ca5cadce5ad9e1477d75070036",
+    "fingerprint": [
+     "利益绑架",
+     "认识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2028",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证并入：卡森《寂静的春天》后 DDT 遭全球禁用，非洲疟疾复虐，2006 年 WHO 重新允许使用（L1552-1556），说明科学结论随认识反复"
+  },
+  {
+   "claim_id": "C-TD-U0037-08",
+   "unit_id": "TD-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "不要把科学当成宗教：盲从科学结论、道德优越感、迷信书本教条和权威结论是宗教式态度；要做一个理性的怀疑者、对未知的探索者",
+   "quote": "千万不要把科学当成宗教",
+   "anchor": {
+    "book_code": "TD",
+    "start_line": 1558,
+    "end_line": 1558,
+    "sha1": "38176ba7d5d7f2b411c47afcb6c8efb2db4863d2",
+    "fingerprint": [
+     "盲从",
+     "道德优越感",
+     "怀疑者"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "CK-2029",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "宗教三特点对照半瓶子醋科技工作者；吴军批评梦华同学“因人废言”式反特朗普，提醒清高与简单化"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第29封信（做理性的怀疑者）为吴军科学观专篇，8 卡含 1 张 E3 例证（霍夫曼双药），其余 E1；DDT 案例并入 07 卡 notes"
+}

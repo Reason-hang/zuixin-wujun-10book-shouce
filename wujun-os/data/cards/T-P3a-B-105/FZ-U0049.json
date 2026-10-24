@@ -1,0 +1,142 @@
+{
+  "unit_id": "FZ-U0049",
+  "book_code": "FZ",
+  "extractor": "EXT-FZ3",
+  "batch_id": "T-P3a-B-105",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0049-01",
+      "unit_id": "FZ-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "谣言造成的损失常大于有用信息带来的收益；真相有时候斗不过谣言",
+      "quote": "真相有时候斗不过谣言",
+      "anchor": {
+        "start_line": 1743,
+        "end_line": 1745,
+        "sha1": "f7d6b4c908f8da42502bb51a435eedc6b8a1a7ae",
+        "fingerprint": [
+          "卡瓦佐斯"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "真相斗不过谣言",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谣言每年造成约400亿美元投资损失（转述·卡瓦佐斯研究）；2017特朗普通俄假新闻致投资人一小时损失约3400亿美元、逾500亿永久损失（史实例证）。概念键\"真相斗不过谣言\""
+    },
+    {
+      "claim_id": "C-FZ-U0049-02",
+      "unit_id": "FZ-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "单一信息源加海量重复让八千万德国人失去独立思考能力；少量的真相对抗不过大量的谣言",
+      "quote": "失去了独立思考的能力",
+      "anchor": {
+        "start_line": 1753,
+        "end_line": 1757,
+        "sha1": "14c5283258031187138f148bf4bfda0d307f9ffc",
+        "fingerprint": [
+          "夏伊勒",
+          "施佩尔"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "单一信息源洗脑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（E3）：戈培尔\"人民收音机\"只能收几个德国台（1747-1749，锚外）；改装收音机听到BBC真相的母亲反而告发提醒者（夏伊勒《柏林日记》）；纽伦堡审判中施佩尔的判断。概念键\"单一信息源洗脑\""
+    },
+    {
+      "claim_id": "C-FZ-U0049-03",
+      "unit_id": "FZ-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "人容易信谣言：一因难以判定信息来源的准确性，二因固有偏见把看似符合逻辑的联想当逻辑链",
+      "quote": "人固有的偏见",
+      "anchor": {
+        "start_line": 1763,
+        "end_line": 1767,
+        "sha1": "2e59806de7355d6c5ebb7f9509f707581d33c67b",
+        "fingerprint": [
+          "主流媒体",
+          "阴谋论"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "信谣的两因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "主流媒体也预设观点、社交平台有倾向（2020大选、推特封号等时效例证）；1935年哈莱姆骚乱：救护车+灵车被想当然加工成\"少年被打死\"（1769-1771，锚外）；第三原因（谣言满足情感与社会需求）转述自纳普，见卡04互引。概念键\"信谣的两因\""
+    },
+    {
+      "claim_id": "C-FZ-U0049-04",
+      "unit_id": "FZ-U0049",
+      "speaker": "转述·第三方",
+      "claim_text": "越是动荡的年代人们越想听到对自己有利的消息、惧怕不利消息，此时首先盲信或恐惧而非理性思考",
+      "quote": "盲信或者恐惧",
+      "anchor": {
+        "start_line": 1773,
+        "end_line": 1775,
+        "sha1": "7be217140def36b6c8e3f10c4c9894ea932395cb",
+        "fingerprint": [
+          "纳普",
+          "股灾"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "动荡与盲信",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：心理学家罗伯特·纳普1944年谣言研究论文；股灾时把不存在的救市计划当事实传播；《生活》杂志\"波士顿烟囱藏防空火炮\"随机实验验证。概念键\"动荡与盲信\""
+    },
+    {
+      "claim_id": "C-FZ-U0049-05",
+      "unit_id": "FZ-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "身边人股市亏钱几乎无一例外与听信谣言有关：看好时把任何消息当好话解读，看空时把传闻都当坏话",
+      "quote": "和听信谣言有关",
+      "anchor": {
+        "start_line": 1777,
+        "end_line": 1777,
+        "sha1": "2aac13e7ae50bafd62f08249fc94ef5b3ebfb705",
+        "fingerprint": [
+          "熊市",
+          "敌对情绪"
+        ],
+        "book_code": "FZ"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D01-1"
+      ],
+      "concept_key": "仓位决定解读",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "真实的消息对他们反而不起作用；指出谣言反遭敌对情绪。投资行为观察（D09-2 误区），兼认知偏差（D01-1）。概念键\"仓位决定解读\""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "正文单元精读抽卡：谣言与真相之辩共5卡"
+}

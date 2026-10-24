@@ -1,0 +1,113 @@
+{
+ "unit_id": "FZ-U0027",
+ "book_code": "FZ",
+ "extractor": "EXT-FZ2",
+ "batch_id": "T-P3a-B-104",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0027-01",
+   "unit_id": "FZ-U0027",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "方法",
+   "claim_text": "有效复盘靠过程记录：每做一步记录结果，出错才能回溯定位，不能只看总结果",
+   "quote": "每做一步都记录",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 937,
+    "end_line": 937,
+    "sha1": "d08342ffa892c4608feeac9f3e45e9ed9c6f031a",
+    "fingerprint": [
+     "排错",
+     "复盘",
+     "记录"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "CK-1048",
+   "concept_name": "过程记录复盘",
+   "ability_tags": [
+    "做"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "谷歌指导中国工程师案例（一步一记录 vs 十步一起做）在本锚；'从重复前人工作出发建基点'与本锚内。总结句见 C-FZ-U0027-03。"
+  },
+  {
+   "claim_id": "C-FZ-U0027-02",
+   "unit_id": "FZ-U0027",
+   "speaker": "吴军本人",
+   "evidence_level": "E3",
+   "type": "案例",
+   "claim_text": "半导体DFT例：预留测试电路才能快速定位问题，一次失败导向成功；省略测试设计是习惯性失败",
+   "quote": "测试部分",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 939,
+    "end_line": 941,
+    "sha1": "2f22869e3f88fc4f716cbf0b0d8a7a7d623bfcc9",
+    "fingerprint": [
+     "测试",
+     "样片",
+     "成品率"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2",
+    "D04-3"
+   ],
+   "concept_key": "CK-1049",
+   "concept_name": "可测试性设计",
+   "ability_tags": [
+    "做"
+   ],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "E3 例证卡（专名案例+可迁移机理）：10亿晶体管芯片难排查、样片成本与百万片相当、台积电成品率约70%（均在本锚）；'中国最好半导体公司未达世界一流'与国内企业退市案例（939/943 行）为时效性竞争格局内容，另行 X2 处置。"
+  },
+  {
+   "claim_id": "C-FZ-U0027-03",
+   "unit_id": "FZ-U0027",
+   "speaker": "吴军本人",
+   "evidence_level": "E1",
+   "type": "判断",
+   "claim_text": "失败是大概率事件，小问题都可能导致失败；要假定每步都可能失败并记录结果",
+   "quote": "失败是一个大概率事件",
+   "anchor": {
+    "book_code": "FZ",
+    "file": "《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md",
+    "start_line": 945,
+    "end_line": 945,
+    "sha1": "15d8a6285c7f6e3bcaa7ed2c629258053b38bcec",
+    "fingerprint": [
+     "大概率",
+     "失败",
+     "记录"
+    ]
+   },
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "CK-1050",
+   "concept_name": "失败是大概率事件",
+   "ability_tags": [],
+   "boundary_original": "原著未说明",
+   "status": "已生成",
+   "notes": "本节结论句；与 C-FZ-U0027-01/02 构成'记录-排查-复盘'闭环。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "FZ-U0027",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "中国半导体设计制造未达世界一流、DFT 重视度差距、台积电成品率约70%、国内企业因省测试电路致退市等竞争格局与公司现状判断，时效性强，登记 X2 候选由 P4 终裁（机理已入 C-FZ-U0027-02）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "复盘方法节：方法1卡+DFT例证E3一卡+结论句1卡；行业格局时效内容登记X2"
+}
