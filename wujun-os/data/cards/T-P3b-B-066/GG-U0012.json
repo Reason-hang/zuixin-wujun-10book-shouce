@@ -1,0 +1,171 @@
+{
+  "unit_id": "GG-U0012",
+  "book_code": "GG",
+  "extractor": "EXT-GG1R",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0012-01",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "科学和技术并非一回事：科学家研究科学，工程师负责把科学变成技术再变成产品",
+      "quote": "科学和技术是紧密相连的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1005,
+        "end_line": 1006,
+        "sha1": "eaeca4572f476a1814a529e61112fcaf59fb7500",
+        "fingerprint": ["科学", "工程师"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "科学与技术之别",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "concept_key沿用CK-1470（富足同主题）。与CK-0062'工程师与科学家之别'同族；'没有前者技术不进步，没有后者科学停滞'双向依赖（1006行）并入。"
+    },
+    {
+      "claim_id": "C-GG-U0012-02",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "细微差距在科学与数学上是根本差别，在工程上不作区分、属同一时代技术",
+      "quote": "都处在同一个时代",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1008,
+        "end_line": 1011,
+        "sha1": "99079a1d24d1ab596d0bbbbcbbeb031a18346ff9",
+        "fingerprint": ["不作区分", "同一个时代"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "细小技术差距属同代",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "双例：10000与10001（1008行，工程师不区分vs数学扣分）、语音识别错误率7.8%与8%（1010-1011行，论文价值之别vs产品同代）。1016行'工程思维与科学一定要分对错的思维迥然不同'为本链收束句并入。"
+    },
+    {
+      "claim_id": "C-GG-U0012-03",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "个人持股买细分市场第一名，收购获技术则买便宜得多的同代二三名",
+      "quote": "永远拿不到第一名的市盈率估值",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1012,
+        "end_line": 1013,
+        "sha1": "c3341fff81a960360c98d53cdff4e0a68bd3d105",
+        "fingerprint": ["第一名", "收购"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2", "D08-1"],
+      "concept_key": "买股买第一收购买二三名",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "同一'同代技术差'判断的两面应用（个人投资vs企业收购），对照成卡；'未来五年第一名'为表述性时间窗非行情预测。手册章首声明：转述原著判断，不构成投资建议。"
+    },
+    {
+      "claim_id": "C-GG-U0012-04",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "技术第一不等于胜算大，细小技术差不能弥补量级欠缺，时间越长差距越大",
+      "quote": "不能弥补其他地方量级上的欠缺",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1014,
+        "end_line": 1015,
+        "sha1": "f1b3c256d5758f2619b453b1934a4aa3caf46ccc",
+        "fingerprint": ["量级", "欠缺"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "细小技术差难补量级欠缺",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "'创业成功需要很多因素'（1014行）并卡；量级概念回指第005封信（C-GG-U0010-01）。"
+    },
+    {
+      "claim_id": "C-GG-U0012-05",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "真内行知道技术边界所在；设计产品先辨明哪些技术已实用、哪些需再等",
+      "quote": "只有外行才会无法无边",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1031,
+        "end_line": 1037,
+        "sha1": "5972c993309ff65902e59294fc6a24352910188d",
+        "fingerprint": ["边界", "内行"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "了解时代的技术边界",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "苹果四条经验之一；巴菲特'不做自己不懂的事'为类比；iPhoneX结构光刷脸与中国简单图像识别的代差辨析（1034-1035行）、中科院哼歌识别因不成熟被弃（1037行）为例证，承接U0011边界论。"
+    },
+    {
+      "claim_id": "C-GG-U0012-06",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "技术无公司边界和国界，只要好就用；本位关系户心态会失去最新技术",
+      "quote": "只要技术或者产品好，谁的都行",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1039,
+        "end_line": 1042,
+        "sha1": "5fd9250b169b9fb217e60bc309726785f8fa0ec3",
+        "fingerprint": ["国界", "关系户"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1", "D08-1"],
+      "concept_key": "技术无公司边界",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "苹果四条经验之二；iPod充电器芯片（中美合资公司案例，1041行）为正面例，国内企业照顾本位关系户（1042行）为反面。次属D08-1（技术获取的经营心态）。"
+    },
+    {
+      "claim_id": "C-GG-U0012-07",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "不把新产品命运寄托在尚无结果的科学研究上，不为难题从基础研究做起",
+      "quote": "从来不把新产品的命运",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1044,
+        "end_line": 1049,
+        "sha1": "5f30c2c7077895439a7095c74e6f6e2abeb433b5",
+        "fingerprint": ["基础研究", "回锅肉"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "不寄托于未决科学",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "苹果四条经验之三；'为了吃回锅肉赶紧养猪'为比喻；苹果研发费低、关键技术买来（1048行）；贝尔实验室/IBM/Google研究院对照（1045-1046行）为背景并入。"
+    },
+    {
+      "claim_id": "C-GG-U0012-08",
+      "unit_id": "GG-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "单项指标不必是翘楚，兼顾各方面需求、在边界内整体上做到最好",
+      "quote": "给一个整体上最好的答案",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1051,
+        "end_line": 1053,
+        "sha1": "4ab2a546987ca802a9c5bf14e36c285432681b4f",
+        "fingerprint": ["极致", "翘楚"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "边界内整体最优",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "苹果四条经验之四，直接承接U0011'边界内找相对优解'。前置铺垫并入notes：苹果产品技术非原创但'发明权和荣誉给苹果没问题'（1027行）、发明与应用相差30年众多公司没做成（1028行）、蒂尔《从0到1》以NeXT为原创代表之忽略事实（1024-1025行）；贝尔实验室受科学界尊敬vs果粉尊重苹果（1055行）为例证。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "核心信件全文主张密集：科学与技术之别及同代技术差推理链、买卖对照建议、量级欠缺、苹果四条经验各成卡共8卡；iPhoneX刷脸等产品时点比较作为例证并入卡notes，'今日思考'互动按HC-20只当数据。"
+}

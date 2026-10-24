@@ -1,0 +1,115 @@
+{
+  "unit_id": "GG-U0002",
+  "book_code": "GG",
+  "extractor": "EXT-GG1",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0002-01",
+      "unit_id": "GG-U0002",
+      "speaker": "吴军本人",
+      "claim_text": "智能时代人与人的差距不在计算机工具，而在是否掌握适应计算机的思维方式",
+      "quote": "并非是计算机，而是思维方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 393,
+        "end_line": 395,
+        "sha1": "6c161c1bce5ec276737c34f8e75227420d900f23",
+        "fingerprint": ["洋枪洋炮", "大刀长矛"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D01-1"],
+      "concept_key": "洋枪洋炮与大刀长矛",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "发刊词总纲：全书画像性主张（Google方法论=适应计算机的思维方式）。行417-418'学习这些思维方式是赢得智能时代的唯一方式'同链并入本卡；时点性预测部分见 x_disposals X6。"
+    },
+    {
+      "claim_id": "C-GG-U0002-02",
+      "unit_id": "GG-U0002",
+      "speaker": "吴军本人",
+      "claim_text": "在计算机看来围棋是一道数学题，数学视角才是对的；棋道文化之说源于人算不清这道题",
+      "quote": "围棋是一道数学题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 396,
+        "end_line": 398,
+        "sha1": "0fdee073cecb7f50ae19ed55685b3b516e3cdfda",
+        "fingerprint": ["棋道", "数学题"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "围棋是一道数学题",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "计算机视角vs人文直觉的对立例证；史证支撑见 C-GG-U0002-03。"
+    },
+    {
+      "claim_id": "C-GG-U0002-03",
+      "unit_id": "GG-U0002",
+      "speaker": "史实",
+      "claim_text": "人类棋谱反而教坏计算机，不用人类对弈数据的AlphaGo Zero远胜AlphaGo",
+      "quote": "人类的棋谱反而教坏了计算机",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 399,
+        "end_line": 402,
+        "sha1": "c204f14013447567370cfb2d778ac6a5afcb5ec2",
+        "fingerprint": ["AlphaGo Zero", "棋谱"]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "人类棋谱教坏计算机",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（人类经验数据未必是机器学习最优输入），独立成卡；支撑 C-GG-U0002-02。"
+    },
+    {
+      "claim_id": "C-GG-U0002-04",
+      "unit_id": "GG-U0002",
+      "speaker": "吴军本人",
+      "claim_text": "多语言搜索的奇迹不靠人力智力，靠直接面对所有语言找共性、从信息的数学基础出发",
+      "quote": "找到语言的共性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 407,
+        "end_line": 410,
+        "sha1": "cbd197db885ac121ffaa2669f7c3238e299a1297",
+        "fingerprint": ["70种", "共性"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D05-1"],
+      "concept_key": "找共性与数学基础",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "Google四工程师处理70种语言搜索为吴军亲历案例，其总结句'在于我们的方法和别人不同'为本人判断故记E1；机理：找共性从数学基础出发，替代逐语言逐事做。"
+    },
+    {
+      "claim_id": "C-GG-U0002-05",
+      "unit_id": "GG-U0002",
+      "speaker": "吴军本人",
+      "claim_text": "人的智能是个体行为，机器的智能在很大程度上来自网络效应",
+      "quote": "在很大程度上来自于网络效应",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 412,
+        "end_line": 414,
+        "sha1": "9abed53ca79323e89e7d70a5196aed82f0899a0f",
+        "fingerprint": ["网络效应", "支付宝"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "机器智能与网络效应",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "支付宝反欺诈率低于银行两个数量级为例证（传统银行孤立看个案vs网状智能），并入本卡 notes 不另立。"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0002", "disposal": "X", "x_subtype": "X2", "reason": "行391：2008金融危机前后全球市值前十公司构成对比为依附时点的观察论断，离开2017时点即失效。"},
+    {"unit_id": "GG-U0002", "disposal": "X", "x_subtype": "X6", "reason": "行390'未来的时代又将是一个洋枪洋炮对大刀长矛的时代'属时代趋势预测本体；可迁移判断（思维方式是武器）已抽入 C-GG-U0002-01。"},
+    {"unit_id": "GG-U0002", "disposal": "X", "x_subtype": "X1", "reason": "行423-439'未来一年你将得到'四模块课程介绍为发刊词推广/载体文字，只当数据不抽卡。"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "发刊词含多条可迁移方法论主张（思维方式武器论、围棋数学题、机器智能网络效应等），抽取5卡。"
+}

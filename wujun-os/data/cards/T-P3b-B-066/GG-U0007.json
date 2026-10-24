@@ -1,0 +1,118 @@
+{
+  "unit_id": "GG-U0007",
+  "book_code": "GG",
+  "extractor": "EXT-GG1R",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0007-01",
+      "unit_id": "GG-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "计算机思维是全方位的，核心在于处理好大和小、快和慢、全局和局部等七对关系",
+      "quote": "计算机思维是全方位的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 655,
+        "end_line": 658,
+        "sha1": "bcc470d5e41834ee6fadf59a7691508754eafccf",
+        "fingerprint": ["计算机思维", "七对关系"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "计算机思维七对关系",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡。七对关系=大和小/快和慢/多维度和单一维度/网络和个体/自顶向下和自底向上/全局和局部/成本和表现，逐条展开超锚点上限不拆分列卡；其中'群体智慧的简单叠加甚至不如个人的智慧'（667行）为网络和个体关系内的独立判断，并入本卡notes留痕。大和小关系原文已在前两封来信（U0005/U0006）详述。"
+    },
+    {
+      "claim_id": "C-GG-U0007-02",
+      "unit_id": "GG-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "较难的问题常与更容易的问题等价，应转而解决等价但更简单的问题",
+      "quote": "计算机则会试图解决等价",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 677,
+        "end_line": 679,
+        "sha1": "0469b6bd5640559fd60544be4ed7ab99de922e2d",
+        "fingerprint": ["等价性原则", "更简单的问题"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "等价性原则",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "计算机思维两补充原则之一（等价性原则），与C-GG-U0007-03（模块化原则）并列，各自可独立成立故分卡。"
+    },
+    {
+      "claim_id": "C-GG-U0007-03",
+      "unit_id": "GG-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "计算机思维先造能大量复制的简单模块，再用模块搭出复杂的系统",
+      "quote": "能够大量复制的乐高积木块",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 680,
+        "end_line": 681,
+        "sha1": "c5730c7b8494b1ecad32f7b470f48857bdb0ebc9",
+        "fingerprint": ["模块化原则", "乐高积木块"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "模块化原则",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "计算机思维两补充原则之二（模块化原则），乐高积木块为类比非专名案例。"
+    },
+    {
+      "claim_id": "C-GG-U0007-04",
+      "unit_id": "GG-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "行业升级转变要遵循四原则：目标超前、做法渐进、原有产业加新技术、坚决淘汰不适应者",
+      "quote": "原有产业＋新技术＝新产业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 689,
+        "end_line": 698,
+        "sha1": "13e3275fb2f161c1537a913c4c972a914dd915fc",
+        "fingerprint": ["四个原则", "推倒重来"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D05-1"],
+      "concept_key": "行业转变四原则",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "答读者Mart（传统银行人转型）问，行业层面升级经验（历史经验通则，非2017时点论断）。清单式四原则整体一卡。'原有产业＋新技术'与《见识》同主题重复，双出处由来信1批次登记。次属D05-1因'做法渐进、反对推倒重来'为做事通则。"
+    },
+    {
+      "claim_id": "C-GG-U0007-05",
+      "unit_id": "GG-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "数据增长快于存储与带宽增长，不能只靠堆硬件，还要改进算法让硬件发挥更大功效",
+      "quote": "还要改进算法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 715,
+        "end_line": 715,
+        "sha1": "79e11fcf2b9bc9f83f5be6768eaee8263e25e370",
+        "fingerprint": ["改进算法", "摩尔定律"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "改进算法发挥硬件功效",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "答读者文成问。'数据增速超存储/带宽增速'为计算领域结构性判断非时点预测，故不入X2/X6。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0007",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "对马斯克AI威胁论'毫无道理'的评断及机器人杀人讨论属科技趋势评论；'火枪/原子弹未增加人类杀戮'为佐证性历史论据，无独立可迁移机理，不单独成卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "问答单元，吴军回答含计算机思维七对关系、两原则、行业转变四原则、算法与硬件五个可迁移判断成卡；AI威胁论评断记X6；读者提问与结尾预告为结构过渡不成卡。"
+}

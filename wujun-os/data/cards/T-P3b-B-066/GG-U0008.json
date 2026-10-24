@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0008",
+  "book_code": "GG",
+  "extractor": "EXT-GG1R",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0008-01",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "不上市公司无外界知晓商业细节、无人干涉决策，商业竞争中能出奇制胜",
+      "quote": "在商业竞争中能够出奇制胜",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 753,
+        "end_line": 754,
+        "sha1": "7e21bf34e085f2d3c5e4f4cf1c4d214e88e5114e",
+        "fingerprint": ["不上市公司", "出奇制胜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "不上市的经营优势",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "《浪潮之巅》转载章。雷曼兄弟非上市公司可免破产为佐证例（并入notes）。与C-GG-U0008-02（上市时机）同一论证链不同判断。"
+    },
+    {
+      "claim_id": "C-GG-U0008-02",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "越晚上市盘子做得越大收益越高，尽可能拖后上市时间被证明是正确决策",
+      "quote": "盘子做得越大收益越高",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 757,
+        "end_line": 757,
+        "sha1": "cc4930d300813d62cd5ca742ac62eb64c7ffe3e0",
+        "fingerprint": ["越晚上市", "拖后上市时间"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "越晚上市收益越高",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "Google董事会判断，吴军以'事实证明这个决策非常正确'背书，按R1总结句判据记本人卡。"
+    },
+    {
+      "claim_id": "C-GG-U0008-03",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "与多家意向方保持接触、不急于承诺也不得罪任何一家，可把条件压到最低",
+      "quote": "将承销商的佣金压到了最低点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 762,
+        "end_line": 764,
+        "sha1": "8fb49bfd46df03d7de20864be0b5524f98b0630c",
+        "fingerprint": ["佣金压到了最低点", "有耐心地"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D07-1"],
+      "concept_key": "多方接触压低条件",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "Google选承销商的谈判机理（多家投行互相牵制），吴军概括'由此可见Google在生意场上的精明程度'。次属D07-1（谈判沟通）。"
+    },
+    {
+      "claim_id": "C-GG-U0008-04",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "传统IPO定价通常低于实际价值，承销商与大客户赚差价，损害公司与中小投资者利益",
+      "quote": "承销商和它们的大客户则赚差价",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 768,
+        "end_line": 771,
+        "sha1": "26e8e24604e0d10406f697843478df9af4760c00",
+        "fingerprint": ["低于实际价值", "中小投资者"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "IPO定价低于实际价值",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "IPO三件事之一（拍卖定价）的机理层：拍卖定价+上市前调低价格避免低价稀释（771行）为应对；百度27美元定价为例证并入notes。三件事总起句见765行。"
+    },
+    {
+      "claim_id": "C-GG-U0008-05",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "一次融足资会大量稀释股票，分次融资、择有利时机增发，最大化公司与股东利益",
+      "quote": "大量稀释自己的股票",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 772,
+        "end_line": 775,
+        "sha1": "287e99b2fec79c6c4d7423402b33eb647fc5191a",
+        "fingerprint": ["稀释自己的股票", "最大利润"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "分次融资减少稀释",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "IPO三件事之二（拆分三次融资）：借标普纳入消息增发（777-780行）为案例延伸，三轮80亿美元仅稀释不到10%。"
+    },
+    {
+      "claim_id": "C-GG-U0008-06",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "管理者应把现金储备当头等大事，保证公司最坏情况下能挺过很多道难关",
+      "quote": "现金储备作为他关心的头等大事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 781,
+        "end_line": 783,
+        "sha1": "a51ffc1b551d15ba2b804a96b747861b8c9a67b4",
+        "fingerprint": ["现金储备", "最坏情况"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "现金储备保难关",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概括施密特管理实践（含其原话'我更喜欢看着这些钱在公司的银行账户上'），吴军定性'非常稳健的管理者'，按R1记本人卡，被转述者施密特留痕。"
+    },
+    {
+      "claim_id": "C-GG-U0008-07",
+      "unit_id": "GG-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "创始人以双重股权掌握绝对多数投票权，可免受华尔街干涉、保长期利益",
+      "quote": "拥有绝对多数的投票权",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 788,
+        "end_line": 793,
+        "sha1": "a7f915df437c5198ada2d0bb91fdbd4371581a66",
+        "fingerprint": ["投票权", "巴菲特"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "双重股权保控制权",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "IPO三件事之三（双重股权）。巴菲特伯克希尔A/B股做法（789-791行）为被转述思想，吴军概括'公司内部的人要有绝对的发言权'为本卡主干；百度效仿为例证。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0008",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "本单元主体为《浪潮之巅》Google上市章节的公司史叙述（2004年IPO现场、投行承销名单、标普纳入事件、高盛缺席经过等事件流水），按X4排除史实本体，仅抽可迁移经营方法论（7卡）。"
+    },
+    {
+      "unit_id": "GG-U0008",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "'2003年美国股市步入低谷，Google上市将变成整个股市的兴奋剂'等依附2003-2008年市况的时点论断，及'到2012年员工数超7万'等时点数据，离开该时点失效，不入卡干。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《浪潮之巅》转载加餐：公司史叙述记X4、时点评论记X2，抽取7条可迁移经营判断（不上市优势、上市时机、谈判压价、IPO定价机制、分次融资、现金储备、双重股权）；篇首专栏导语与注释为结构性过渡。"
+}

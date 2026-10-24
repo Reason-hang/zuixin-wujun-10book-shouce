@@ -1,0 +1,178 @@
+{
+  "unit_id": "GG-U0009",
+  "book_code": "GG",
+  "extractor": "EXT-GG1R",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0009-01",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "产业早期领导者选定的商业模式，对该产业的影响几乎是决定性的",
+      "quote": "几乎是决定性的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 808,
+        "end_line": 808,
+        "sha1": "ee2e64a3bba759573a70086368226646c17bfc2b",
+        "fingerprint": ["商业模式", "决定性的"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "早期商业模式决定性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "雅虎案例为母卡例证：若非雅虎免费模式，互联网或长期为有钱人奢侈品。"
+    },
+    {
+      "claim_id": "C-GG-U0009-02",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "让用户免费上网、从商家而非用户处挣钱，可培养出巨大的市场",
+      "quote": "从商家而非用户那里挣钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 812,
+        "end_line": 813,
+        "sha1": "5f3c8411807f944c9fe4d563a5f367fdd83aa269",
+        "fingerprint": ["商家而非用户", "免费"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D08-2"],
+      "concept_key": "从商家而非用户挣钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "雅虎（及搜狐新浪网易效仿）以免费接入做大市场、刺激电子商务诞生，为C-GG-U0009-01的实现机制，两卡同一论证链notes互引。次属D08-2（免费模式）。"
+    },
+    {
+      "claim_id": "C-GG-U0009-03",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "起步期的权宜做法会给组织带来持久的路径依赖传统",
+      "quote": "不好的传统",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 817,
+        "end_line": 817,
+        "sha1": "5e64abb399597b2f2c2eb960e6010a690f432e34",
+        "fingerprint": ["人工而不是自动", "传统"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "早期做法固化传统",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "雅虎手工建目录起家→至今更信人工不信自动，与CK-0581'公司基因决定论'同族机理。"
+    },
+    {
+      "claim_id": "C-GG-U0009-04",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "没有本领域条条框框的外行，反而能从全新角度看待并突破问题",
+      "quote": "头脑里没有那些条条框框",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 827,
+        "end_line": 827,
+        "sha1": "327e26115345997e674e50fc306d8bff5655c444",
+        "fingerprint": ["条条框框", "全新的角度"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1", "D01-1"],
+      "concept_key": "无条条框框出新角度",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "佩奇布林非文献检索出身故突破萨尔顿框架发明PageRank为案例；826行'习惯性思维的限制，无非是修修补补'为反面铺垫并入本卡。次属D01-1（跳出思维框架）。"
+    },
+    {
+      "claim_id": "C-GG-U0009-05",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "只有质的飞跃才能造就新的主导者、取代原有公司",
+      "quote": "只有质的飞跃才能造就新的主导者",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 843,
+        "end_line": 843,
+        "sha1": "ad2f05de71cb8e5f8fb515fbec798d73cb781357",
+        "fingerprint": ["质的飞跃", "主导者"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D10-1"],
+      "concept_key": "质的飞跃造就新主导者",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军自述'在提及创业和技术进步时曾多次讲'，为反复主张；833行'搜索引擎领域迄今为止的质变只有Google取代AltaVista那一次'为佐证。次属D10-1（判断技术前景）。"
+    },
+    {
+      "claim_id": "C-GG-U0009-06",
+      "unit_id": "GG-U0009",
+      "speaker": "转述·第三方",
+      "claim_text": "朗道将物理学家按贡献分五级、每级差一个数量级，工程师亦可照此分级",
+      "quote": "每个层次的贡献差一个数量级",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 850,
+        "end_line": 851,
+        "sha1": "bb9dffc1bdc3301b553832ad0c86505a7beb88fd",
+        "fingerprint": ["朗道", "数量级"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "朗道等级",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=列夫·朗道（物理学家五级分层）；吴军将其推广到工程师分级（西尔弗斯坦1级、自评2.5级）为吴军取用部分。与《见识》'五级工程师和职业发展'同主题（concept_key沿用'朗道等级'），双出处由来信1批次登记。"
+    },
+    {
+      "claim_id": "C-GG-U0009-07",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "招人宁缺毋滥，每招一人必须所有面试者一致同意",
+      "quote": "坚持宁缺毋滥",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 860,
+        "end_line": 861,
+        "sha1": "d3ca0bddaf2cdc72ad0979557c21d856d0c52b28",
+        "fingerprint": ["宁缺毋滥", "一致同意"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "招人宁缺毋滥",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "Google早期招聘实践（吴军概括），862行'2002年仍须两位创始人或Fellow面试并同意'为延伸例证并入notes。"
+    },
+    {
+      "claim_id": "C-GG-U0009-08",
+      "unit_id": "GG-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "凡做大事的人，必须有做大事的气度和胸怀",
+      "quote": "必须有做大事的气度和胸怀",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 872,
+        "end_line": 873,
+        "sha1": "e0a31cb1e9e6856f1a613e0bde4c1b78266bdbb9",
+        "fingerprint": ["气度和胸怀", "雄心"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-2"],
+      "concept_key": "做大事须有大气度",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军'常常想'的自我总结；佩奇布林拒售（亚马逊10亿美元天价婉拒、雅虎收购误解）与对手因年轻而低估（873行）为例证并入。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0009",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "主体为Google早期创业公司史/技术史叙述（佩奇布林读博与PageRank发明、贝托谢姆10万美元支票、注册公司、西尔弗斯坦写第一版引擎、KPCB红杉投资、亚马逊雅虎收购传闻等），按X4排除史实本体；佩奇谈'互联网建模为图'的原话（828行）属技术史并入X4，'研究和开发不分离'（854行）、'规范流程至今适用'（857-858行）为公司实践叙述无可独立迁移机理，均留痕于此。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《浪潮之巅》转载加餐：创业史流水记X4，抽取8条可迁移判断（商业模式决定性、免费做大市场、路径依赖、外行破框、质的飞跃、朗道分级E2、宁缺毋滥招人、做大事气度）；篇首导语与文末延伸阅读为结构过渡。"
+}

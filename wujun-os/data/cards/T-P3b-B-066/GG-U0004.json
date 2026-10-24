@@ -1,0 +1,134 @@
+{
+  "unit_id": "GG-U0004",
+  "book_code": "GG",
+  "extractor": "EXT-GG1",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0004-01",
+      "unit_id": "GG-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "从小数量总结出来的做事方法无法应用到更高量级的问题之上",
+      "quote": "无法应用到更高量级的问题之上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 506,
+        "end_line": 509,
+        "sha1": "6e91d132a8a68be7b938a7ba976ced569e73bc0f",
+        "fingerprint": ["量级", "做事方法"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D05-1"],
+      "concept_key": "小数方法不适用大数问题",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "行500'小数字世界的做事方法与大数世界完全不同'同链；EMBA学员鞋数调查（少则随意放、百双必分类、近万双须建索引）、万册藏书建索引为例证并入（行501-505）。"
+    },
+    {
+      "claim_id": "C-GG-U0004-02",
+      "unit_id": "GG-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "从事计算机行业不能先验假设数值一定不多，笨办法在大数据下计算量会增千倍万倍",
+      "quote": "不能先验地假设数值一定不多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 513,
+        "end_line": 514,
+        "sha1": "c95b36685040b6d336eb28c6d6cfd78e962fec3f",
+        "fingerprint": ["先验", "笨办法"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D06-2"],
+      "concept_key": "不能先验假设数据量小",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "总监批评程序员用笨排序的对话为例证；行518'IT从业者遇职业天花板第一个原因是思维一开始就错'与 C-GG-U0003-01 同链互引。"
+    },
+    {
+      "claim_id": "C-GG-U0004-03",
+      "unit_id": "GG-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "计算机常见问题多已有优化答案，从业者应善用验证过的成熟方案而非拍脑袋自创",
+      "quote": "验证了无数次的答案",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 516,
+        "end_line": 517,
+        "sha1": "75e4819a9799baf2f6845c938a77fc5857d11d01",
+        "fingerprint": ["拍脑袋", "优化"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-2", "D05-1"],
+      "concept_key": "善用验证过的成熟答案",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "以IT从业者工作方法为载体归职场效能；赶时间应采用现有高质量代码而非自己写，了解高质量代码需经常学习（行517）。"
+    },
+    {
+      "claim_id": "C-GG-U0004-04",
+      "unit_id": "GG-U0004",
+      "speaker": "史实",
+      "claim_text": "雅虎以分类目录组织信息在小数世界有效，网页剧增至几百亿后衰落，被谷歌搜索取代",
+      "quote": "以分类目录组织信息的门户网站",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 522,
+        "end_line": 523,
+        "sha1": "168d87788f16539617b219960d4d40111caec350",
+        "fingerprint": ["雅虎", "Google"]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": ["D04-2", "D08-1"],
+      "concept_key": "分类目录让位于搜索",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（目录式组织只匹配小量级信息，大数世界需搜索）；今日头条以个性化筛选取代栏目分类（行525-526）、蚂蚁金服vs传统银行手工审批（行528-531）、Calico/人类长寿公司大数据制药vs传统药厂（行532-533）为同机理案例并入本卡 notes。"
+    },
+    {
+      "claim_id": "C-GG-U0004-05",
+      "unit_id": "GG-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "对数量大小的认知决定了商业模式，也决定了企业的成败",
+      "quote": "对数量大小的认知决定了商业模式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 534,
+        "end_line": 535,
+        "sha1": "e0d38c1224a010e3628bdb4ebb3e30c2542d5d7a",
+        "fingerprint": ["商业模式", "思维方式"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D04-2"],
+      "concept_key": "量级认知决定商业模式",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本信标题主张的总结句；行535'困局不在员工不努力或不聪明，而在思维方式不同'同链；案例汇总见 C-GG-U0004-04 notes。"
+    },
+    {
+      "claim_id": "C-GG-U0004-06",
+      "unit_id": "GG-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "智能时代对大多数人而言，思维提升比学计算机编程更重要更有益",
+      "quote": "在思维上要提升",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 536,
+        "end_line": 537,
+        "sha1": "65ae7966df85ed69d1556d2f44a4273e14c52a19",
+        "fingerprint": ["编程", "天花板"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D02-2"],
+      "concept_key": "思维提升优先于学编程",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "行537'学会编程若仍按固有思维定式理解计算机问题，很快也会遇到天花板'同链；'前2%受益者'为课程话术，判断本体为思维优先于工具。"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0004", "disposal": "X", "x_subtype": "X2", "reason": "行520-531：雅虎与门户今日困境、银行网点萎缩贷款难做、蚂蚁金服威胁大银行、大银行互联网银行数年无进步等依附2017年时点的行业现状论断（机理已并入卡 notes）。"},
+    {"unit_id": "GG-U0004", "disposal": "X", "x_subtype": "X1", "reason": "行540-541'今日思考'栏目互动提问为课程载体文字。"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第002封信以量级思维解释商业模式成败，含6条可独立成立判断（含雅虎等E3案例卡）。"
+}

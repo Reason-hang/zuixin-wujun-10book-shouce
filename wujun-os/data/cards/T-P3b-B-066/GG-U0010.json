@@ -1,0 +1,171 @@
+{
+  "unit_id": "GG-U0010",
+  "book_code": "GG",
+  "extractor": "EXT-GG1R",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0010-01",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "针对小规模问题的解法对大问题常常不适用，量级是优秀工程师首先关注的",
+      "quote": "量级是优秀工程师首先关注的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 887,
+        "end_line": 888,
+        "sha1": "7dcbd7ec0ff07606cec2019abf4408cc9e0698d9",
+        "fingerprint": ["量级", "排序"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "量级意识",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "排序算法例（几亿与几百万操作之差）为载体。数量级（十倍）与量级（芝麻到银河系）之别的定义为铺垫（889-893行）并入notes；认知层推论见C-GG-U0010-02。与《硅谷来信1》量级主题重复，双出处由来信1批次登记。"
+    },
+    {
+      "claim_id": "C-GG-U0010-02",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "不能用来自小世界的直觉和经验，处理大世界里的问题",
+      "quote": "不能用来自小世界里的直觉",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 896,
+        "end_line": 896,
+        "sha1": "bf7f1dac407559e5526555ec06317fcb320c458e",
+        "fingerprint": ["小世界", "大世界"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D04-2"],
+      "concept_key": "小世界直觉不适用大世界",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "量级之差（一辈子的时间vs分分钟）推出的认知层结论：直觉与经验的适用边界。次属D04-2（量级原理）。"
+    },
+    {
+      "claim_id": "C-GG-U0010-03",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "小量级与大量级放在一起必须忽略前者，几个小量级之和远不及一个大量级",
+      "quote": "前者必须被忽略掉",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 897,
+        "end_line": 902,
+        "sha1": "2c1567da284b71927364e74a72d6ab1ce2a51a5b",
+        "fingerprint": ["芝麻", "西瓜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D03-1"],
+      "concept_key": "小量级必须忽略",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "工程师处理不同量级事物两点不同整体一卡：1)忽略并入的小量级（橘子加芝麻无意义）；2)十几把芝麻比不过西瓜（投资上亦重要）。与《见识》《西瓜与芝麻》同主题，双出处由来信1批次登记。"
+    },
+    {
+      "claim_id": "C-GG-U0010-04",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "把精力放在从量级上改进方法，收获几百倍几万倍，远胜加班做重复的事",
+      "quote": "从量级上改进工程方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 903,
+        "end_line": 903,
+        "sha1": "848e8dc6259d9aed6cd525a8c2f841528e37f14d",
+        "fingerprint": ["量级上改进", "重复性的事情"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D05-1"],
+      "concept_key": "量级上改进",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "concept_key沿用CK-1802。反面：'每天挤时间多工作一小时做重复性的事'（1.1个芝麻远差于橘子）。"
+    },
+    {
+      "claim_id": "C-GG-U0010-05",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "梳理难题中各因素量级的不同，把无关紧要的事从To Do List上删掉",
+      "quote": "在量级上的不同",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 904,
+        "end_line": 904,
+        "sha1": "74db80b1e79706871a95c636be88aa66c586f7d8",
+        "fingerprint": ["量级", "To Do List"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D04-2"],
+      "concept_key": "按量级删清单",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "结论句含'删掉哪些'为优先级取舍归D03-1，量级为判据故次属D04-2。反面：'没经验的人什么问题先来先解决，费力不讨好'。"
+    },
+    {
+      "claim_id": "C-GG-U0010-06",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "好产品经理在细节上做1%的改进使品质高一个数量级，而非省小成本",
+      "quote": "让产品的品质显得高出一个数量级",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 905,
+        "end_line": 906,
+        "sha1": "65f63863c5884a959bd38dbf393543feee4b4982",
+        "fingerprint": ["产品经理", "视网膜显示屏"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "细节1%数量级改进",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "concept_key沿用CK-1550。苹果视网膜屏（贵10美元多卖100多美元）=芝麻成本换橘子效果，为例证并入；山寨产品经理省几分钱为反例。"
+    },
+    {
+      "claim_id": "C-GG-U0010-07",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "成就＝成功率×事情的量级×做事的速度；职场上最难做到的是提高量级",
+      "quote": "事情的量级x做事的速度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 907,
+        "end_line": 911,
+        "sha1": "221c4b19dc949dc764ae07081cfac3e4d1ded9e9",
+        "fingerprint": ["成功率", "量级"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "成就三要素相乘",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "concept_key沿用CK-1028。公式（907-908）与'大部分人做不到提高量级'（909-911）、'好高骛远成功率永远为零'（910）同一论证链并卡；天使投资人例（913-917：只写第一张支票'不是荣耀是耻辱'）为例证。"
+    },
+    {
+      "claim_id": "C-GG-U0010-08",
+      "unit_id": "GG-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "提高量级靠身份转型而非多做：从俞老师到俞校长、在更有影响力的事中参与1%",
+      "quote": "从俞老师转型成了俞校长",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 920,
+        "end_line": 931,
+        "sha1": "1bfed7fa40bc34be7610504d0bb4c2a7b0f6702a",
+        "fingerprint": ["身份转型", "俞敏洪"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "身份转型跃迁量级",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "concept_key沿用CK-1740。俞敏洪身份转型（920-922）+明星媒体人'从主播到台长'补充（923-924）+两条经验之二'改变习惯'清单（929-931：写最大支票/当好校长/参与影响力的事中做1%/让用户多掏一倍钱）同一主张整体一卡；经验之一（牢记量级概念）归C-GG-U0010-01。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "核心信件全文为主张密集区，抽8卡（量级意识、小世界直觉边界、忽略小量级、量级上改进、按量级删清单、细节1%、成就公式、身份转型）；文末'今日思考'互动与转发引导按HC-20只当数据、推荐阅读链接为结构过渡，不成卡。"
+}

@@ -1,0 +1,154 @@
+{
+  "unit_id": "GG-U0003",
+  "book_code": "GG",
+  "extractor": "EXT-GG1",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0003-01",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "IT从业者难破职业天花板的根本原因，是思维方式没有跟上智能时代",
+      "quote": "突破天花板的根本原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 485,
+        "end_line": 487,
+        "sha1": "6d01305760e9afa3f5b8817fc1ac5f559e7c2cdf",
+        "fingerprint": ["天花板", "思维方式"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D04-2"],
+      "concept_key": "职业天花板来自认识的局限性",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本信标题主张；乔布斯（计算机思维想象未来）vs诺基亚CEO奥利拉（常人思维）致诺基亚遇天花板为例证并入本卡。机理展开见 C-GG-U0003-02 至 -06。"
+    },
+    {
+      "claim_id": "C-GG-U0003-02",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "计算机思维不是计算机有思维，而是伴随计算机出现、与常人思维完全不同的思维方式",
+      "quote": "和常人思维完全不同的一种方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 457,
+        "end_line": 459,
+        "sha1": "8ed17226a9ede5d419471f27b13d9299b31c48d8",
+        "fingerprint": ["计算机思维", "信息时代"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "计算机思维的含义",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "计算机思维定义句；本信仅展开其'量级'一面，量级展开见 C-GG-U0003-03/04。"
+    },
+    {
+      "claim_id": "C-GG-U0003-03",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "人对大小数字的理解受限于具体生活环境，对大数字天然无感",
+      "quote": "对大数字是无感的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 460,
+        "end_line": 462,
+        "sha1": "9b57e72da87e98a2dbc05f8f9d8a2a27c67caeac",
+        "fingerprint": ["无感", "环境"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D01-1"],
+      "concept_key": "对大数字无感",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "伽莫夫《从1到无穷大》酋长数到3（转述例证）、PPT宜用图表、王健林'小目标'被吐槽（行463-466）为例证并入；行466'习惯了某一环境的度量就难理解量级上大得多的世界'同链。"
+    },
+    {
+      "claim_id": "C-GG-U0003-04",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "计算机从诞生起就针对大数（海量数字）设计，因此计算机思维与人类思维根本不同",
+      "quote": "计算机思维和人的思维是不同的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 467,
+        "end_line": 470,
+        "sha1": "77ef6b2e0918f7200929590757ac5a19eeca8490",
+        "fingerprint": ["大数", "酋长"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "计算机天生针对大数设计",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "1946年首台电子计算机算炮弹轨迹、蒙巴顿'电的脑'为史实例证并入；与 C-GG-U0003-03 构成'人无感大数vs机为大数而生'对偶。"
+    },
+    {
+      "claim_id": "C-GG-U0003-05",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "认知决定思维方式：人算不清围棋变化便以棋道文化自解，计算机则视之为可计算的有限问题",
+      "quote": "认知决定了思维方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 477,
+        "end_line": 479,
+        "sha1": "5401dffb9c41535a783f1c9f9138cc55299bc937",
+        "fingerprint": ["棋道", "有限的问题"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D01-1"],
+      "concept_key": "认知决定思维方式",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "与 C-GG-U0002-02（围棋是一道数学题）同链互引；3^361≈2x10^172 与宇宙基本粒子 10^80~10^82 的量级对比为数学佐证（行471-475）。"
+    },
+    {
+      "claim_id": "C-GG-U0003-06",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "人类数字认知受生物进化速度限制，计算机则按摩尔定律每十年进步百倍",
+      "quote": "受限于我们作为生物进化的速度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 480,
+        "end_line": 483,
+        "sha1": "63d4a27bbba66afe33dbeda1173b77562c997cd3",
+        "fingerprint": ["摩尔定律", "进化"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "进化速度与摩尔定律",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "人类识数1万年从3到1亿（每十年进步不到1%）vs iPhone十年提速100倍为量级佐证；此为人的思维与计算机思维差异的另一根源。"
+    },
+    {
+      "claim_id": "C-GG-U0003-07",
+      "unit_id": "GG-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "开发面向未来的IT产品，必须按今天10倍资源的框架进行设计",
+      "quote": "假设在今天10倍资源的框架",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 484,
+        "end_line": 485,
+        "sha1": "1ce73afd8f427ac7737ae85c3c241974a65bac58",
+        "fingerprint": ["10倍", "乔布斯"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1", "D04-2"],
+      "concept_key": "10倍资源框架设计",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "可迁移产品方法论而非时点预测；乔布斯能想象几年后世界为其人格化例证（并入 C-GG-U0003-01 notes）。"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0003", "disposal": "X", "x_subtype": "X2", "reason": "行452-456：IT十年天花板/银行业每况愈下/几家公司市值不及一家腾讯等依附2017年时点的行业观察论断。"},
+    {"unit_id": "GG-U0003", "disposal": "X", "x_subtype": "X1", "reason": "行489-490'今日思考'栏目互动提问（未来十年什么增长最快）为课程载体文字，且为提问非论断。"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第001封信以计算机思维之'量级'解释职业天花板，含7条可独立成立的方法论判断。"
+}

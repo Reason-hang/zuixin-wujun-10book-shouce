@@ -1,0 +1,184 @@
+{
+  "unit_id": "GG-U0011",
+  "book_code": "GG",
+  "extractor": "EXT-GG1R",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0011-01",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "单纯为与众不同谈差异化毫无意义，为标新立异选更差的路是愚蠢的",
+      "quote": "单纯谈差异化是一件极其没有意义",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 953,
+        "end_line": 953,
+        "sha1": "ea02d95246ed2577105fb40a9b3ee1c877bbd395",
+        "fingerprint": ["差异化", "与众不同"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1", "D08-1"],
+      "concept_key": "差异化本身无意义",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "由民间科学家自认突破极限引出：改变有好有坏，为标榜与众不同选更差的差异化道路是傻。与CK-0932'差异化是手段'同族。次属D08-1。"
+    },
+    {
+      "claim_id": "C-GG-U0011-02",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "对待科学边界的态度，是衡量职业科学家和民间科学家的试金石",
+      "quote": "职业科学家和民间科学家的试金石",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 954,
+        "end_line": 954,
+        "sha1": "6273c475c6573f71e72057f637a7dcc3300adc5d",
+        "fingerprint": ["边界", "试金石"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "边界态度试金石",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "辨别真伪与专业性的判断（认识论层），引出全信四点感受。"
+    },
+    {
+      "claim_id": "C-GG-U0011-03",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "在边界里做事情适用于一切工程领域，是事半功倍的工程思维",
+      "quote": "让我们做事情事半功倍的方法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 955,
+        "end_line": 955,
+        "sha1": "9619ada341fcfa6d03e7085edb74cc2a662286cc",
+        "fingerprint": ["边界", "事半功倍"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "在边界内做事",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "总起主张，图灵机为计算机行业理论边界实例（948-952行背景并入）；四点感受分别展开为后续各卡。"
+    },
+    {
+      "claim_id": "C-GG-U0011-04",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "技术不成熟时可提高，成熟后理论极限无法突破，突破尝试是徒劳",
+      "quote": "理论上的极限是无法突破的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 959,
+        "end_line": 970,
+        "sha1": "af65ed11631fc54ca3bc408a68a8ab32ca4490ca",
+        "fingerprint": ["极限", "标准"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "理论极限无法突破",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "concept_key沿用CK-1396。第一点感受：标准的本质=在边界内尽可能做好（959行）；激光盘DVD例（东芝微软红光方向失败，963行）、无线带宽信息论上限例（967-970行）为双例证；突破靠换技术（蓝光）即换边界。951-952行'突破图灵机几乎不可能，舍近求远没必要'为同主张延伸。"
+    },
+    {
+      "claim_id": "C-GG-U0011-05",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "我们所能做的是在边界内找到相对好的答案，边界限制下好办法数量有限",
+      "quote": "在边界内找到相对好的答案",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 971,
+        "end_line": 974,
+        "sha1": "af946bc41309f4cc0e3e7c33f316da9add6ff2a3",
+        "fingerprint": ["边界", "相对好"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "边界内找相对优解",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "第二点感受：不能指望传输率/人数/不掉线/成本全优的标准（973行）。高通CDMA专利例（975行）与4G中国同起跑线（976行，时点叙述）为例证并入notes。"
+    },
+    {
+      "claim_id": "C-GG-U0011-06",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "好的工程师和产品经理要把边界写清楚，不让外行越界闯祸",
+      "quote": "不让外行过去",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 977,
+        "end_line": 980,
+        "sha1": "ad9f83e861d07195a55c52d72c97cbd7d9515998",
+        "fingerprint": ["边界", "外行"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3", "D10-1"],
+      "concept_key": "边界不让外行过去",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "第三点感受：软件屏蔽致死机功能（微软苹果）、处方药瓶儿童防开为产品例证；'常人做事不在边界附近设防以致闯祸'为反面。次属D10-1（产品防护设计）。"
+    },
+    {
+      "claim_id": "C-GG-U0011-07",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "很多厂家利用大众对边界的不了解赚钱：像素虚标、超剂量维生素无效",
+      "quote": "利用大众对边界的不了解来赚钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 981,
+        "end_line": 986,
+        "sha1": "fc5ae198c144294a4a1217832c194a15f9a8ab27",
+        "fingerprint": ["边界", "像素"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "利用边界无知赚钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "第四点感受：镜头分辨率受光波长干涉限制、感光元件尺寸限制、维生素摄入上限排出体外（985-986行）为机理例证。"
+    },
+    {
+      "claim_id": "C-GG-U0011-08",
+      "unit_id": "GG-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "只有不逾矩才能随心所欲：在边界内玩出精彩，幻想突破者处处碰壁",
+      "quote": "只有不逾矩，才能随心所欲",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 988,
+        "end_line": 988,
+        "sha1": "2547decd1d680f174338b81f31c374099f307bed",
+        "fingerprint": ["随心所欲", "碰壁"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "不逾矩才能随心所欲",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "结语收束全信；引孔子语为用典（非第三方思想转述主干），吴军取用为其边界主张的概括。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0011",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'任何今天开始的努力，可能十年后有突破性成果、再20年后才有产品，周期至少30年'（950行）为科技发展周期的趋势性预测，按P3b特则①记X6不入卡干。"
+    },
+    {
+      "unit_id": "GG-U0011",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末'今日思考'、读者回信征集活动、签名书与学习鼓励金等礼品说明及回信邮箱（989-996行）属互动推广载体，按HC-20只当数据，记X1。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "核心信件'在边界里面做事情'四点感受全部成卡（共8卡：差异化、试金石、边界内做事、理论极限、相对优解、不让外行越界、利用边界无知、不逾矩结语），另有科技周期预测记X6、互动推广记X1。"
+}

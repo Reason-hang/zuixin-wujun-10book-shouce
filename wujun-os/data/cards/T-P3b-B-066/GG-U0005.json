@@ -1,0 +1,133 @@
+{
+  "unit_id": "GG-U0005",
+  "book_code": "GG",
+  "extractor": "EXT-GG1",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0005-01",
+      "unit_id": "GG-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "直觉和生活常识非常有用，但缺乏知识的直觉会欺骗我们",
+      "quote": "缺乏知识的直觉会欺骗我们",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 555,
+        "end_line": 557,
+        "sha1": "8a6499c9644f3bec5d1d1a70571f13552af8cfcd",
+        "fingerprint": ["直觉", "体积"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3", "D01-1"],
+      "concept_key": "缺乏知识的直觉会欺骗",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "分苹果例证：刮掉直径70%果肉只占30%重量、球直径大一倍体积大7倍（行556-557）；火车打光束爱因斯坦光速不叠加例证并入（行565-566，转述素材）。"
+    },
+    {
+      "claim_id": "C-GG-U0005-02",
+      "unit_id": "GG-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "在没有数据之前不要轻易给出结论，靠直觉瞎猜在数量级上会差十万八千里",
+      "quote": "在没有数据之前不要轻易给出结论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 558,
+        "end_line": 561,
+        "sha1": "101ef0d3fcbf54d232887957d12aefa050f89ce9",
+        "fingerprint": ["高尔夫球", "数量级"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D04-3"],
+      "concept_key": "无数据不下结论",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "谷歌产品经理面试'房间装多少高尔夫球'题为载体：考察有无数据化解题思路（15平米高3米约70万个）；多数人猜少不猜多（行561-562）并入。"
+    },
+    {
+      "claim_id": "C-GG-U0005-03",
+      "unit_id": "GG-U0005",
+      "speaker": "史实",
+      "claim_text": "卡诺设计理想热机并从理论上估算效率，断言任何热机的转化效率都不会超过它",
+      "quote": "任何热机转化的效率都不会超过",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 568,
+        "end_line": 569,
+        "sha1": "509f06e15a1aa4179015ac05b575c26425a21fb1",
+        "fingerprint": ["卡诺", "热机"]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "卡诺理想热机定上限",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（理想模型可先于工程给出性能上限）；19世纪追求效率大于一的热机与永动机尝试者为反例背景（行568）。"
+    },
+    {
+      "claim_id": "C-GG-U0005-04",
+      "unit_id": "GG-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "任何产品性能都有物理上无法突破的极限，且可由已有理论提前给出，知道极限才不浪费时间",
+      "quote": "物理上无法突破的极限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 570,
+        "end_line": 572,
+        "sha1": "f35fae1b6d24af32528b1dcad76985ff0b960e2a",
+        "fingerprint": ["极限", "工程师"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "性能极限可由理论预知",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "行571'极限是工程师的福气，不为不可能的事浪费时间；以为科技发展任何奇迹皆可能=缺乏工程思维'同链；行572物理极限近乎不可推翻、数学极限（逻辑之上）完全不可推翻并入。"
+    },
+    {
+      "claim_id": "C-GG-U0005-05",
+      "unit_id": "GG-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "直觉失灵时应抛开生活认知约束，用跳出问题本身的数学或工程工具找答案",
+      "quote": "比生活超越一个层级",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 580,
+        "end_line": 581,
+        "sha1": "b0618290137b87b7701d9f475bee3b4fd53404e1",
+        "fingerprint": ["认知的约束", "蚂蚁"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3", "D01-1"],
+      "concept_key": "跳出问题本身",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "看蚂蚁爬行轨迹须从上方看之喻；两数列对照（1+1/2+1/4…收敛于2；1+1/2+1/3…发散无穷大，行574-578）为'生活经验限制思维'的数学佐证并入。与富足'跳出问题看问题'同义，跨书登记由后续批次处理。"
+    },
+    {
+      "claim_id": "C-GG-U0005-06",
+      "unit_id": "GG-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "判断机器智能是否万能，应先直接找其数学与物理上的极限，而非按当前速度外推想象",
+      "quote": "在数学上和物理上的极限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 582,
+        "end_line": 585,
+        "sha1": "e0f6924af4902a82e691e1c44cea295fb373ef5b",
+        "fingerprint": ["常人的思维", "极限"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3", "D04-2"],
+      "concept_key": "先找极限再判断机器智能",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本信方法论落点；行583'AI产生自主意识反控人类'的推理没有逻辑根据，并入本卡（对AI预测的否定性方法论判断，非时效预测本体）。"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0005", "disposal": "X", "x_subtype": "X1", "reason": "行587-588'今日思考'栏目互动提问（经济增长为何难长期维持7%以上）为课程载体文字，且为提问非论断。"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第003封信系统阐述工程思维的直觉与极限概念，含6条可独立成立判断。"
+}

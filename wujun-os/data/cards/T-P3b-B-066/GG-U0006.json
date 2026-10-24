@@ -1,0 +1,174 @@
+{
+  "unit_id": "GG-U0006",
+  "book_code": "GG",
+  "extractor": "EXT-GG1",
+  "batch_id": "T-P3b-B-066",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0006-01",
+      "unit_id": "GG-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "工匠式方法（经验积累从量变到质变，即迭代进步、小步快跑）至今常用且大多数时候有效",
+      "quote": "在大多数时候很有效",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 600,
+        "end_line": 603,
+        "sha1": "f17fd7d5fdf6bc28fa71737b87a831214a58ed20",
+        "fingerprint": ["工匠式", "小步快跑"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1", "D04-3"],
+      "concept_key": "小步快跑",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "与既有概念键'小步快跑'同义（data/rules/concept_keys.csv CK-0907），跨卡同义登记；与图灵式自上而下思维构成对照（见 C-GG-U0006-02）。"
+    },
+    {
+      "claim_id": "C-GG-U0006-02",
+      "unit_id": "GG-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "超越时代的思维是先找到极限所在，在极限里找具体问题的答案，不为超越极限之事浪费时间",
+      "quote": "在极限里寻找具体问题的答案",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 608,
+        "end_line": 610,
+        "sha1": "1f08c9477c529c0e48fc7c16abb397c0787afe13",
+        "fingerprint": ["蚂蚁", "极限"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3", "D04-2"],
+      "concept_key": "在极限里寻找答案",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军对图灵三问（行605-607：是否有答案→能否有限步算出→能否有假想机械）思维的概括，按R1记E1；行624图灵认知'高屋建瓴、自上而下'并入；与 C-GG-U0005-04/06 互引。"
+    },
+    {
+      "claim_id": "C-GG-U0006-03",
+      "unit_id": "GG-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "今天所有计算机解决问题的能力都没有超出图灵机，图灵机划定了不可超越的边界",
+      "quote": "都没有超出图灵机的范畴",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 611,
+        "end_line": 612,
+        "sha1": "75715f67633867e1e20f31bb26b4dff901b8324c",
+        "fingerprint": ["图灵机", "边界"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "图灵机边界",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "计算机极限核心命题；图灵机为数学模型（行611），为当下与未来计算机划界（行612）。"
+    },
+    {
+      "claim_id": "C-GG-U0006-04",
+      "unit_id": "GG-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "用理论武装起来的工程头脑，比直觉的头脑影响力深远得多",
+      "quote": "用理论武装起来的工程的头脑",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 613,
+        "end_line": 614,
+        "sha1": "1582b7e48b3401dd90485d647459686e00ea487f",
+        "fingerprint": ["图灵机", "直觉"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3", "D01-1"],
+      "concept_key": "理论武装的工程头脑",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "以图灵机提出80年IT业未超出为证据的总结句。"
+    },
+    {
+      "claim_id": "C-GG-U0006-05",
+      "unit_id": "GG-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "世界问题仅一小部分是数学问题，逐层收缩后AI能解决的只是其中很小一部分",
+      "quote": "世界上问题的很小一部分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 616,
+        "end_line": 621,
+        "sha1": "823971f42b5fa5f69a0378f0960a95f3924c3f37",
+        "fingerprint": ["数学问题", "图灵机"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "人工智能解决问题的边界",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "五层嵌套清单（问题→数学问题→有解→图灵机可解→实际计算机→AI）整体一卡；行622推论'该去解决未解决的问题而非杞人忧天担心AI太强'并入本卡。"
+    },
+    {
+      "claim_id": "C-GG-U0006-06",
+      "unit_id": "GG-U0006",
+      "speaker": "史实",
+      "claim_text": "希尔伯特第十问题1970年被否定解决：很多数学问题无解，且无解的比有解的多得多",
+      "quote": "上帝也不知道答案是否存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 626,
+        "end_line": 631,
+        "sha1": "117617da1c198d7735e148ad3ae28166f582786c",
+        "fingerprint": ["希尔伯特", "马季亚谢维奇"]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": ["D04-2", "D04-1"],
+      "concept_key": "希尔伯特第十问题",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（大量问题无解=计算机极限的理论根源，图灵受此启发）；1970年马季亚谢维奇证明（行630），对认知的冲击大于数学影响（行631）。"
+    },
+    {
+      "claim_id": "C-GG-U0006-07",
+      "unit_id": "GG-U0006",
+      "speaker": "转述·第三方",
+      "claim_text": "计算是确定的而意识可以是不定的，两者不可能划等号——这是任何计算机的边界",
+      "quote": "两者不可能划等号",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 633,
+        "end_line": 635,
+        "sha1": "376775f8426285544e7c514d79f0176c85a72654",
+        "fingerprint": ["测不准原理", "图灵"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D04-2"],
+      "concept_key": "计算与意识不可划等号",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者：图灵（受冯·诺依曼《量子力学的数学原理》启发：计算来自确定性机械运动，意识或来自测不准原理）；吴军评述（行635'胡思乱想计算机有意识，图灵80年前已指出两回事'）同锚互引。"
+    },
+    {
+      "claim_id": "C-GG-U0006-08",
+      "unit_id": "GG-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "要和比自己强的人在一起，认知才能提升；总和臭棋篓子下棋只会越下越臭",
+      "quote": "和臭棋篓子下棋",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 636,
+        "end_line": 637,
+        "sha1": "adeeed81086a6998d13f0873db4a299861c6bc07",
+        "fingerprint": ["认知", "臭棋篓子"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-1", "D07-2"],
+      "concept_key": "与强者在一起提升认知",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "由图灵受希尔伯特、冯·诺依曼启示引出；结论句重心在'认知才能提升'故主挂成长/认知，交友层面为辅（D07-2 候选）。"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0006", "disposal": "X", "x_subtype": "X1", "reason": "行639-640'今日思考'栏目互动提问为课程载体文字。"},
+    {"unit_id": "GG-U0006", "disposal": "X", "x_subtype": "X4", "reason": "行599图灵'神一样的人'、智力与爱因斯坦冯诺依曼比较等人物评点性史述，无可独立迁移判断，机理已并入相关卡 notes。"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第004封信以图灵三问与图灵机讲计算机极限，含8条可独立成立判断（含E2图灵转述、E3希尔伯特第十问题）。"
+}
