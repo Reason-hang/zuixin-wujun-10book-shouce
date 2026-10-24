@@ -1,0 +1,34 @@
+{
+  "unit_id": "GG-U0198", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0198-01", "unit_id": "GG-U0198", "speaker": "吴军本人",
+      "claim_text": "课外阅读的目的不是获取更多信息，而是通过阅读形成自己的思想，区别于半小时快读一本书",
+      "quote": "通过阅读形成自己的思想",
+      "anchor": {"book_code": "GG", "start_line": 13174, "end_line": 13175, "sha1": "1f1bf509eda3bc577e2fc7ae7875784261e5a32f", "fingerprint": ["博雅", "形成自己的思想"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "阅读形成思想",
+      "ability_tags": ["学"], "status": "已生成", "notes": "读书目的与方法判断；『博雅通识教育是学会思考做人做事而非学科拼盘』为其上位理念并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0198-02", "unit_id": "GG-U0198", "speaker": "吴军本人",
+      "claim_text": "从侧面反映历史的纪实作品对人的影响常常超过通史读物；对反派也持客观态度和评价",
+      "quote": "常常超过通史类读物",
+      "anchor": {"book_code": "GG", "start_line": 13190, "end_line": 13193, "sha1": "8d67ea3610e662e7201d09471aea4253935a0eb8", "fingerprint": ["安妮日记", "侧面反映"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "侧面史实胜过通史",
+      "ability_tags": ["学"], "status": "已生成", "notes": "读什么的方法判断；《安妮日记》与叛徒阿诺德传记（『颇具争议的汪精卫』类比）为例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0198-03", "unit_id": "GG-U0198", "speaker": "吴军本人",
+      "claim_text": "文学评论与读后感写作不要求观点正确，要求逻辑合理；不同于中国归结于时代与家族的定式",
+      "quote": "不要求观点正确，要求逻辑合理",
+      "anchor": {"book_code": "GG", "start_line": 13234, "end_line": 13234, "sha1": "e12c805f7d2c3242a68ea9e9b5f61a44aa8cded6", "fingerprint": ["观点正确", "逻辑合理"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2", "D01-1"], "concept_key": "写作重逻辑轻定论",
+      "ability_tags": ["学"], "status": "已生成", "notes": "写作与批判性思维判断；小女儿分析罗密欧与朱丽叶归责罗密欧不理智获高分为例证"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0198", "disposal": "X", "x_subtype": "X5", "reason": "美国中小学阅读书单五类、通识教育三特点、整本原著文学课与巨大读写量均属美国教育制度观察本体，仅按例外抽阅读与写作方法论"},
+    {"unit_id": "GG-U0198", "disposal": "X", "x_subtype": "X4", "reason": "阿诺德生平与叛变经过属人物史科普，仅作客观评价反派之例证"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "教育观察信按X5例外抽取三条阅读与写作方法论判断"
+}

@@ -1,0 +1,42 @@
+{
+  "unit_id": "GG-U0204", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0204-01", "unit_id": "GG-U0204", "speaker": "吴军本人",
+      "claim_text": "看似同样复杂的问题真实复杂度可能相差甚远；觉得一件事很复杂，往往是因为没有找到好办法",
+      "quote": "复杂度相差甚远",
+      "anchor": {"book_code": "GG", "start_line": 13631, "end_line": 13631, "sha1": "9632459f13f3cd8e1c4f4becee12dc9ecb991b3a", "fingerprint": ["复杂度", "好办法"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "真实复杂度相差甚远",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第1条；围棋3^361≈10^172（超多宇宙粒子总和）vs 打车匹配O(M×N)、分散后几百亿次眨眼算完（13608-13617）为量化例证；『前提是找到好的算法』（13619）并入"
+    },
+    {
+      "claim_id": "C-GG-U0204-02", "unit_id": "GG-U0204", "speaker": "吴军本人",
+      "claim_text": "教育背景和经历看上去差不多的人，本身差距可能是数量级的，见识上的差距就更大了",
+      "quote": "见识上的差距就更大了",
+      "anchor": {"book_code": "GG", "start_line": 13633, "end_line": 13633, "sha1": "82ec2a70bec4efdc1dbb92821794ba45acf1a0b2", "fingerprint": ["数量级", "见识"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-2"], "concept_key": "人与人的数量级差距",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第2条，由问题复杂度类比到人的差距；谷歌《量级和职业发展》为跨书互证线索"
+    },
+    {
+      "claim_id": "C-GG-U0204-03", "unit_id": "GG-U0204", "speaker": "吴军本人",
+      "claim_text": "很多看似不同的问题，背后的数学原理相同（打车/广告/交友匹配皆二分图最大匹配），故学与善用数学工具重要",
+      "quote": "数学原理都是相同的",
+      "anchor": {"book_code": "GG", "start_line": 13635, "end_line": 13635, "sha1": "a238478cabab501d45af750b6ebea6a52b827e08", "fingerprint": ["数学原理", "数学工具"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-1"], "concept_key": "问题等价性原则",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第3条；与C-GG-U0202-03、C-GG-U0203-04同一原理互见；Google/Facebook广告、交友、亚马逊推荐四个等价例（13593-13603）与克尼格最大匹配算法（13620-13627）并入"
+    },
+    {
+      "claim_id": "C-GG-U0204-04", "unit_id": "GG-U0204", "speaker": "吴军本人",
+      "claim_text": "对于媒体上的话，要有甄别能力",
+      "quote": "要有甄别能力",
+      "anchor": {"book_code": "GG", "start_line": 13636, "end_line": 13637, "sha1": "12668b7c0e4d29a795117388d6df704cbc158c40", "fingerprint": ["媒体", "甄别"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "媒体话须甄别",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第4条；滴滴『匹配比围棋复杂』说法之辨为其触发语境（评论本体按X2处置）"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0204", "disposal": "X", "x_subtype": "X2", "reason": "滴滴高管言论点评（夸大其辞或技术太差二选一）与千万辆/亿级用户等2018年运营数据属时点评论，仅留复杂度与甄别方法论"},
+    {"unit_id": "GG-U0204", "disposal": "X", "x_subtype": "X1", "reason": "思考题（举看似复杂实为简单之例）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "按全信四条总结句成4卡，滴滴评论本体记X2"
+}

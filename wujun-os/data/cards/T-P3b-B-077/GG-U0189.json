@@ -1,0 +1,50 @@
+{
+  "unit_id": "GG-U0189", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0189-01", "unit_id": "GG-U0189", "speaker": "吴军本人",
+      "claim_text": "众利勿为，众争勿往：大家都觉得有利可图的事已无利润空间，大家都在抢的事不要凑热闹",
+      "quote": "众利勿为，众争勿往",
+      "anchor": {"book_code": "GG", "start_line": 12666, "end_line": 12667, "sha1": "3a8ad811f52ee825a6c71a0c22c5afa6c338c325", "fingerprint": ["众利勿为", "众争勿往"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-2"], "concept_key": "众利勿为众争勿往",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-0506（GJ）。扎堆创业（视频/团购）与十字路口开店差异化、大学同质化、拼特长均为例证并入本卡；『当一种特长为所有人掌握之后就不叫特长』为其推论"
+    },
+    {
+      "claim_id": "C-GG-U0189-02", "unit_id": "GG-U0189", "speaker": "吴军本人",
+      "claim_text": "当一件事所有人都提不出反对意见时可能是一个坑：或见识不够有盲点，或最好时机已过去",
+      "quote": "这个可能是一个坑",
+      "anchor": {"book_code": "GG", "start_line": 12671, "end_line": 12673, "sha1": "9e7f0ae2f9bf0915132fde19814c344697761c73", "fingerprint": ["反对意见", "盲目乐观", "最好时机"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-2"], "concept_key": "无反对意见可能是坑",
+      "ability_tags": ["思"], "status": "已生成", "notes": "众利勿为的机理卡，与卡1同一论证链并存；基金投资恪守『全体合伙人都叫好要特别小心』为其落地例证"
+    },
+    {
+      "claim_id": "C-GG-U0189-03", "unit_id": "GG-U0189", "speaker": "吴军本人",
+      "claim_text": "真正颠覆大公司的新公司，用的是一部分人看好另一部分人看不懂的技术，或做一部分人看不上的事",
+      "quote": "一部分人看不上的事情",
+      "anchor": {"book_code": "GG", "start_line": 12674, "end_line": 12675, "sha1": "96c498b446458a9b737d4fbeb079e6ea204e2e1a", "fingerprint": ["趋之若鹜", "颠覆", "防备"]},
+      "evidence_level": "E1", "pillar_candidates": ["D10-1"], "concept_key": "颠覆来自盲区技术",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1867（GJ）。『区块链颠覆GAFA可能性不大』系2018年时点判断，已按批次特则记X2不入卡，只保留可迁移逻辑"
+    },
+    {
+      "claim_id": "C-GG-U0189-04", "unit_id": "GG-U0189", "speaker": "吴军本人",
+      "claim_text": "勿以小恶而忘大善：小恶与大善量级相差大，不能因局部不爽否定全局的好并轻率离职",
+      "quote": "勿以小恶而忘大善",
+      "anchor": {"book_code": "GG", "start_line": 12697, "end_line": 12702, "sha1": "35146f84131df083e92647e387a42a1ea1b9a9df", "fingerprint": ["小恶", "大善", "因小失大"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-2"], "concept_key": "勿以小恶忘大善",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-0665（GJ）。Facebook前100员工因小事早离职损失约一亿美元为例证并入；职场天花板讨论（12702）亦并入"
+    },
+    {
+      "claim_id": "C-GG-U0189-05", "unit_id": "GG-U0189", "speaker": "吴军本人",
+      "claim_text": "爱屋及乌是人固有弱点：容易因个人好恶全盘接受或否定一个人一件事，把局部得失放大成全局结果",
+      "quote": "把局部的得失，放大成全局",
+      "anchor": {"book_code": "GG", "start_line": 12704, "end_line": 12705, "sha1": "1ce6462b772eeb6efaa2934320b22ef2ab812b09", "fingerprint": ["爱屋及乌", "礼记"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "爱屋及乌放大局部得失",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1360（GJ）；《礼记》『好而知其恶』为引证，与卡4同一论证链互见"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0189", "disposal": "X", "x_subtype": "X2", "reason": "区块链难以颠覆Google/亚马逊/Facebook系2018年针对当期技术热点的时点判断"},
+    {"unit_id": "GG-U0189", "disposal": "X", "x_subtype": "X1", "reason": "思考题（能否就勿以小恶而忘大善谈看法）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "第109封信两条处世原则及其机理均含可独立成立的吴军判断"
+}

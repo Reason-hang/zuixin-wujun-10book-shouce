@@ -1,0 +1,121 @@
+{
+  "unit_id": "GG-U0187",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0187-01",
+      "unit_id": "GG-U0187",
+      "speaker": "吴军本人",
+      "claim_text": "瓦克斯曼贡献比沙茨大得多：没有之前近30年工作基础，沙茨无法分离出链霉素——但沙茨水平不容置疑且运气好",
+      "quote": "贡献比沙茨大得多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12561,
+        "end_line": 12561,
+        "sha1": "f84711a4af4987f5fbd0f23fe3dc8fa7bf99dee6",
+        "fingerprint": [
+          "瓦克斯曼",
+          "沙茨"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "功劳看基础",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沙茨分离出低毒链霉素、最重要论文第一作者（12544/12519）。"
+    },
+    {
+      "claim_id": "C-GG-U0187-02",
+      "unit_id": "GG-U0187",
+      "speaker": "吴军本人",
+      "claim_text": "实验室负责人把下属功劳记在自己头上在旧年代颇为常见：迈特纳的核裂变贡献被老板哈恩独占并因此得诺奖",
+      "quote": "颇为常见",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12563,
+        "end_line": 12564,
+        "sha1": "ce4b614eb98ec9c8681f119fb7694efd44a3d816",
+        "fingerprint": [
+          "功劳",
+          "迈特纳"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "功劳归于负责人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瓦克斯曼视付费买成果天经地义的老式观念至今不少见（12565）。"
+    },
+    {
+      "claim_id": "C-GG-U0187-03",
+      "unit_id": "GG-U0187",
+      "speaker": "吴军本人",
+      "claim_text": "博士多少都受导师智力剥削、没有公平可讲：好学生故意不让毕业多干活，没潜力的趁早送毕业",
+      "quote": "智力剥削",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12566,
+        "end_line": 12567,
+        "sha1": "80839f0aa4f3f2b5758fb9ea87eb10dc2fc8ed1f",
+        "fingerprint": [
+          "导师",
+          "毕业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "导师智力剥削",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Google终身教授亲述其辅导学生细节（12566-12567，转述留痕）。"
+    },
+    {
+      "claim_id": "C-GG-U0187-04",
+      "unit_id": "GG-U0187",
+      "speaker": "吴军本人",
+      "claim_text": "学术圈是封闭群体讲究内部解决：受剥削学者靠后来建立声誉拿回荣誉（迈特纳例）；对簿公堂的沙茨被学术界排斥",
+      "quote": "有问题内部解决",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12572,
+        "end_line": 12574,
+        "sha1": "9fefc769d16832d16ef78d5069bb18f0f2860690",
+        "fingerprint": [
+          "封闭",
+          "声誉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-2"
+      ],
+      "concept_key": "学术圈内部解决",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沙茨获12万美元+3%专利费但无法在美国一流大学任职（12549-12551）；迈特纳后获除诺奖外所有大奖、109号元素以其命名（12573-12574）；《自然》2002年发文重提公案（12558）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：链霉素发明权公案与学术界规矩（4卡）。"
+}

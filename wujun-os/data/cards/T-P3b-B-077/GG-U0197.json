@@ -1,0 +1,51 @@
+{
+  "unit_id": "GG-U0197", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0197-01", "unit_id": "GG-U0197", "speaker": "吴军本人",
+      "claim_text": "文明人与强盗的鉴别在于前者懂得守规矩能带来长期利益；想破坏规矩时想想是否该汗颜",
+      "quote": "后者懂得守规矩",
+      "anchor": {"book_code": "GG", "start_line": 13144, "end_line": 13145, "sha1": "b53000228d030a4d688f1fbb95472ebd04f21700", "fingerprint": ["守规矩", "长期的利益"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "文明人守规矩享长期利益",
+      "ability_tags": [], "status": "已生成", "notes": "吴军自陈『第一个结论』；广汉土匪三条规矩与1913年考据、乱收费土匪被枪毙（13136-13143）为史实支撑并入"
+    },
+    {
+      "claim_id": "C-GG-U0197-02", "unit_id": "GG-U0197", "speaker": "转述·第三方",
+      "claim_text": "从野蛮到文明其实就是一个大家一同守规矩的过程：我们都是强盗的后代，但不再是土匪",
+      "quote": "一个大家一同守规矩的过程",
+      "anchor": {"book_code": "GG", "start_line": 13133, "end_line": 13133, "sha1": "e1055089f6a0a86b624297d28c996a377cd112da", "fingerprint": ["野蛮", "守规矩"]},
+      "evidence_level": "E2", "pillar_candidates": ["D02-3"], "concept_key": "文明即共同守规矩",
+      "ability_tags": [], "status": "已生成", "notes": "复用CK-1184（GJ）。被转述者为易中天；吴军评价『过程不假但土匪有此觉悟匪夷所思』并自行考据证实（13134-13136），与卡1互见"
+    },
+    {
+      "claim_id": "C-GG-U0197-03", "unit_id": "GG-U0197", "speaker": "吴军本人",
+      "claim_text": "看似不合理的硬性一刀切规定，是复杂条件下维持秩序唯一可行的办法；规则一旦允许例外就无法可行",
+      "quote": "唯一可行的办法",
+      "anchor": {"book_code": "GG", "start_line": 13148, "end_line": 13153, "sha1": "aecd23e100a692c69626680efc347872f601ad25", "fingerprint": ["一刀切", "例外"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-1"], "concept_key": "一刀切规则可行",
+      "ability_tags": ["思"], "status": "已生成", "notes": "规则设计判断；张麻子要政策倾斜设例、法国式繁琐公平规矩、读者投票选高考一刀切（13149-13151）并入；刘邦约法三章与规则随复杂度精细化（13152-13154）为文明进化机理并入"
+    },
+    {
+      "claim_id": "C-GG-U0197-04", "unit_id": "GG-U0197", "speaker": "吴军本人",
+      "claim_text": "财富积累与社会进步，速度慢不可怕，最可怕的是规矩被破坏后一遍又一遍推倒重来",
+      "quote": "最可怕的是一遍又一遍推倒重来",
+      "anchor": {"book_code": "GG", "start_line": 13155, "end_line": 13156, "sha1": "ca1c354bbfd007d4d181ef02f84aa0243b74d310", "fingerprint": ["推倒重来", "新的平衡"]},
+      "evidence_level": "E1", "pillar_candidates": ["D05-2"], "concept_key": "渐进优于推倒重来",
+      "ability_tags": ["做"], "status": "已生成", "notes": "复用CK-1348（GJ）。与富足『不怕慢就怕停更怕反复』跨书互证；恢复规矩到新平衡需很长时间为其机理"
+    },
+    {
+      "claim_id": "C-GG-U0197-05", "unit_id": "GG-U0197", "speaker": "吴军本人",
+      "claim_text": "利益与所在之地绑定者懂养鸡生蛋、低收费养经济；无绑定者竭泽而渔短期最大化，付费生态才能形成市场",
+      "quote": "宁可养鸡生蛋",
+      "anchor": {"book_code": "GG", "start_line": 13158, "end_line": 13161, "sha1": "6d9bdb21e25ec3384f5caaa43e45d390937b8e82", "fingerprint": ["养鸡生蛋", "竭泽而渔"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1"], "concept_key": "养鸡生蛋与竭泽而渔",
+      "ability_tags": ["思"], "status": "已生成", "notes": "以土匪5%保护费vs国民政府预征税、软件版权付费生态（13160-13161）为载体的商业生态判断；吴思研究引述记线索"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0197", "disposal": "X", "x_subtype": "X6", "reason": "文明从野蛮进化的一般史述与广汉土匪故事叙事本体按文明历史处置，仅抽吴军可迁移判断（已分归D02-3/D03-1/D08-1）"},
+    {"unit_id": "GG-U0197", "disposal": "X", "x_subtype": "X5", "reason": "法国高等教育繁琐规矩与中国高考录取制度比较本体属教育制度史，仅作卡3例证"},
+    {"unit_id": "GG-U0197", "disposal": "X", "x_subtype": "X1", "reason": "思考题（广汉土匪与海洋秩序体会）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "由易中天故事引出守规矩、规则设计、推倒重来、养鸡生蛋五条可迁移判断（含易中天转述卡）"
+}

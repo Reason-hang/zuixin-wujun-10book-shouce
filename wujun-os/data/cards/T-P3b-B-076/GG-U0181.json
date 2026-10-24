@@ -1,0 +1,129 @@
+{
+  "unit_id": "GG-U0181",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0181-01",
+      "unit_id": "GG-U0181",
+      "speaker": "吴军本人",
+      "claim_text": "看新闻不能只看标题：互联网媒体质量下降断章取义普遍，脑子的首要任务不是接受信息而是过滤和分析",
+      "quote": "过滤信息和分析信息",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12215,
+        "end_line": 12218,
+        "sha1": "1dade726c8a487646ee3b70df67cb4056d044228",
+        "fingerprint": [
+          "标题党",
+          "过滤"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "过滤先于接受",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "马斯克薪酬新闻四个被掩盖的事实：期权包≠工资（基本年薪不足5万美元）、涨10倍几不可能、拿整个福利包比别人CEO工资是橘子比苹果、财富大头在现有股票（12206-12213）。"
+    },
+    {
+      "claim_id": "C-GG-U0181-02",
+      "unit_id": "GG-U0181",
+      "speaker": "吴军本人",
+      "claim_text": "金融相关信息一律看第一手材料：公司自发布新闻与向证监会提交的信息，媒体转述都带情绪化",
+      "quote": "看第一手材料",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12219,
+        "end_line": 12219,
+        "sha1": "d504908b9b3c37b5320f71d7bbbe2cb18a275c3c",
+        "fingerprint": [
+          "第一手",
+          "转述"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "金融看一手信源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0181-03",
+      "unit_id": "GG-U0181",
+      "speaker": "吴军本人",
+      "claim_text": "第一手材料是原材料须进一步处理：分析基本商业数据的能力是投资最基本能力，否则盲人开车",
+      "quote": "盲人开车",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12220,
+        "end_line": 12220,
+        "sha1": "e0b618a6a0f009d2fb74232086b894aff84c6532",
+        "fingerprint": [
+          "第一手",
+          "原材料"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-2"
+      ],
+      "concept_key": "一手材料须加工",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0181-04",
+      "unit_id": "GG-U0181",
+      "speaker": "吴军本人",
+      "claim_text": "天价期权激励刺激CEO短期行为：宁做利于股价而非长期业绩的事——梅耶尔5年3.65亿最终玩死雅虎",
+      "quote": "有利于股价提升",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12222,
+        "end_line": 12228,
+        "sha1": "db02f460769f3ac2cb1b382ee498b9c6890359a6",
+        "fingerprint": [
+          "期权",
+          "短期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "期权激励致短期行为",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信息时代老板与职业经理人合二为一、董事会变弱势（12222-12223）；欧洲CEO薪酬低得多而长期业绩无差（12228）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0181",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "12230-12231行特斯拉2018年危机（保时捷Mission E上线、股东维持泡沫动机）为时效性公司分析"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：马斯克天价薪酬与财经新闻分析法（4卡+时效X2）。"
+}

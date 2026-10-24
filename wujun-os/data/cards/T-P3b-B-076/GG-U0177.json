@@ -1,0 +1,79 @@
+{
+  "unit_id": "GG-U0177",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0177-01",
+      "unit_id": "GG-U0177",
+      "speaker": "吴军本人",
+      "claim_text": "激情不代表有希望更不代表成功：重要发明是巨大系统工程，要实实在在做事而非玩概念",
+      "quote": "激情不代表有希望",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11948,
+        "end_line": 11949,
+        "sha1": "0e82e53ba2bd90d418628a49816c4b8f8bd84a64",
+        "fingerprint": [
+          "系统工程",
+          "概念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "激情不等于成功",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本周火星系列的立意（11949）。"
+    },
+    {
+      "claim_id": "C-GG-U0177-02",
+      "unit_id": "GG-U0177",
+      "speaker": "吴军本人",
+      "claim_text": "机构反复用夸大的重大发现换预算会透支公信力：NASA多次火星生命说法实为高氯酸盐湿沙，民众渐失关心",
+      "quote": "毫不关心",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11986,
+        "end_line": 11988,
+        "sha1": "57135ab3381d8aba14263498a68c8f25f0a733c7",
+        "fingerprint": [
+          "NASA",
+          "预算"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "夸大宣传透支公信",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中美媒体态度差异两因：发展阶段信心差+NASA失望积累（11983-11988）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0177",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "11950-11981行各国及私营火星计划时间表/成本/发射预测（萤火虫四步、BFR千万美元、火星一号8万报名等）为时效性科技计划内容"
+    },
+    {
+      "unit_id": "GG-U0177",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11992行思考题（是否对20年内登陆火星乐观）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第101封信：火星计划（时效计划X2，可迁移判断2卡）。"
+}

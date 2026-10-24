@@ -1,0 +1,173 @@
+{
+  "unit_id": "GG-U0185",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0185-01",
+      "unit_id": "GG-U0185",
+      "speaker": "吴军本人",
+      "claim_text": "判断一件事最好的方法是用时间检验其真伪善恶——科学上很多事情不能过早下结论",
+      "quote": "用时间来检验其真伪善恶",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12435,
+        "end_line": 12439,
+        "sha1": "a5ff4ca2e4852c17e599bcc7c6f55c53bd1e4444",
+        "fingerprint": [
+          "时间",
+          "检验"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "时间检验真伪",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "白居易《放言》'试玉要烧三日满，辨材须待七年期'（12438，转述留痕）；周公王莽诗（12436）。"
+    },
+    {
+      "claim_id": "C-GG-U0185-02",
+      "unit_id": "GG-U0185",
+      "speaker": "吴军本人",
+      "claim_text": "有些危害靠生物富集才显现：毒素在食物链高端积累到阈值才爆发——对这类副作用的认识除时间外别无他法",
+      "quote": "富集的过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12460,
+        "end_line": 12462,
+        "sha1": "bffb4df27ffc219d30faa780f7d0a76bf3bbff57",
+        "fingerprint": [
+          "富集",
+          "积累"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "富集延迟显现",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "DDT致肝癌心脏病脑损害（12460）；海洋中半衰期150年（12466）。"
+    },
+    {
+      "claim_id": "C-GG-U0185-03",
+      "unit_id": "GG-U0185",
+      "speaker": "吴军本人",
+      "claim_text": "赶尽杀绝催生抗药超级害虫并改变食物链：须给害虫留生存空间维持生态平衡",
+      "quote": "超级害虫",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12464,
+        "end_line": 12464,
+        "sha1": "42347a085ab5fb4ed70a103638c72f63f307160f",
+        "fingerprint": [
+          "抗药",
+          "食物链"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "留生态余地",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国农庄常被要求保留一块不喷药的闲置田（12484）。"
+    },
+    {
+      "claim_id": "C-GG-U0185-04",
+      "unit_id": "GG-U0185",
+      "speaker": "吴军本人",
+      "claim_text": "发明如万物有生命周期与历史使命：不能脱离历史环境评判事物对错——DDT禁用后非洲疟疾卷土重来",
+      "quote": "不能脱离历史环境",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12486,
+        "end_line": 12486,
+        "sha1": "97e1787e53a8dfdcfcfb7e923ca50ed0e4d22ecc",
+        "fingerprint": [
+          "生命周期",
+          "历史使命"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "发明的生命周期",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2006年世卫允许非洲室内滞留喷洒DDT抗疟（12472-12474）；印度疟疾7500万→500万例、战后拯救约5亿人（12446/12452）。"
+    },
+    {
+      "claim_id": "C-GG-U0185-05",
+      "unit_id": "GG-U0185",
+      "speaker": "吴军本人",
+      "claim_text": "人类很多悲剧不在于发明本身而在于使用的人：非洲年30亿抗疟经费因行政效率低下几乎无效果，而疫苗全程仅30-60美元",
+      "quote": "不在于发明本身，而在于使用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12478,
+        "end_line": 12478,
+        "sha1": "87db3162c8a2fe6fa55b989ab3883cac01589173",
+        "fingerprint": [
+          "悲剧",
+          "行政"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "悲剧在使用的人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "疫苗3针30-60美元/人（12477）。"
+    },
+    {
+      "claim_id": "C-GG-U0185-06",
+      "unit_id": "GG-U0185",
+      "speaker": "转述·第三方",
+      "claim_text": "哈耶克：通向奴役的道路最初都是设计为通向天堂的",
+      "quote": "设计为通向天堂的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12484,
+        "end_line": 12484,
+        "sha1": "e479e6c27533df495fbbe3a1073289ba4e755929",
+        "fingerprint": [
+          "奴役",
+          "天堂"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "通往天堂的奴役路",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=哈耶克（12484）；全面认识一件事很难，不只是简单得出对错结论（12484）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第107封信：对DDT的重新认识（6卡）。"
+}

@@ -1,0 +1,57 @@
+{
+  "unit_id": "GG-U0192", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0192-01", "unit_id": "GG-U0192", "speaker": "吴军本人",
+      "claim_text": "凡事谋事在人成事在天：尽人事以平和心态做事，结果交给天命；对死亡、失败、成功都接受结果",
+      "quote": "谋事在人，成事在天",
+      "anchor": {"book_code": "GG", "start_line": 12819, "end_line": 12820, "sha1": "1814debb349290e4f88bb1d76e777d646dccf660", "fingerprint": ["以识为主", "尽人事"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "尽人事听天命",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-0919（JS）。中美对死亡抢救、高考失利、成功归因三个对比（12826-12833）为文化例证并入；黄仁勋输官司自责而进军AI为例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0192-02", "unit_id": "GG-U0192", "speaker": "转述·第三方",
+      "claim_text": "问心无愧是我们唯一稳得的报酬：上天不佑我，但求尽力之后问心无愧",
+      "quote": "问心无愧是我们唯一稳得的报酬",
+      "anchor": {"book_code": "GG", "start_line": 12823, "end_line": 12823, "sha1": "339eae29f8ab0547fc243210e92dfc9a6ad39e0d", "fingerprint": ["肯尼迪", "阿波罗计划"]},
+      "evidence_level": "E2", "pillar_candidates": ["D02-3"], "concept_key": "问心无愧稳得报酬",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-0099（GJ）。被转述者为肯尼迪1961就职演讲；吴军认同并以其壮志未酬为佐证，与卡1同一论证链互见"
+    },
+    {
+      "claim_id": "C-GG-U0192-03", "unit_id": "GG-U0192", "speaker": "吴军本人",
+      "claim_text": "世上稍难之事都极复杂、超出有限认知，努力只解决部分维度的问题，所以须听天命",
+      "quote": "超出我们有限的认知",
+      "anchor": {"book_code": "GG", "start_line": 12835, "end_line": 12836, "sha1": "c3b4902ccc9eebe2bffdbe25ea4cf8d1801d4a57", "fingerprint": ["有限的认知", "维度"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "世界复杂超出认知",
+      "ability_tags": ["思"], "status": "已生成", "notes": "听天命的认知机理卡；『但凡觉得自己了不起的人是没见过真正聪明能干的人』（12836）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0192-04", "unit_id": "GG-U0192", "speaker": "吴军本人",
+      "claim_text": "不能接受天命者难以正确审视自己与形势；把偶然成功归结为努力的必然结果，必伴随巨大失败",
+      "quote": "难以正确地审视自己",
+      "anchor": {"book_code": "GG", "start_line": 12834, "end_line": 12834, "sha1": "29dad6647ea5a0ec44f0bb0bd05432d59cd3fbcc", "fingerprint": ["偶然的成功", "灭顶之灾"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1", "D09-2"], "concept_key": "偶然成功归因偏差",
+      "ability_tags": ["思"], "status": "已生成", "notes": "归因偏差认知卡，以散户投资失败为载体；投资操作层面判断并入不另立"
+    },
+    {
+      "claim_id": "C-GG-U0192-05", "unit_id": "GG-U0192", "speaker": "吴军本人",
+      "claim_text": "见识比才干更重要：天才因缺乏见识一辈子做妄想之事；英伟达式垄断企业留对手倒逼创新也是见识",
+      "quote": "见识比才干更重要",
+      "anchor": {"book_code": "GG", "start_line": 12841, "end_line": 12843, "sha1": "6cf8ebde24ba6911f51eb0c0f9a7f8008b5c88ea", "fingerprint": ["见识", "妄想"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-3"], "concept_key": "见识重于才干",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1650（GJ）。斯坦福印度天才学生『一事无成』与查菲博士评语（12838-12840）、英特尔微软思科留对手（12845）均为例证并入；吴军自述运气不增能力、能力不及之事一律推却（12843）并入"
+    },
+    {
+      "claim_id": "C-GG-U0192-06", "unit_id": "GG-U0192", "speaker": "吴军本人",
+      "claim_text": "知道自己不擅长什么、不因利益大诱惑大而勉强承受，是智慧的表现；曾国藩因此全身而退",
+      "quote": "则是智慧的表现",
+      "anchor": {"book_code": "GG", "start_line": 12849, "end_line": 12851, "sha1": "70a7e4f790b1de507274556b515b7d297c72e298", "fingerprint": ["曾国藩", "全身而退"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-3"], "concept_key": "知所不能是智慧",
+      "ability_tags": ["思"], "status": "已生成", "notes": "曾国藩不上前线、让曾纪泽作序、晚年推李鸿章为例证；『秦有六国兢兢以强』（12846）与投资人18个月重排组合避险（12853-12854）并入；与卡5见识论互见"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0192", "disposal": "X", "x_subtype": "X1", "reason": "思考题（哪些因素好把控哪些难把控）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "第112封信尽人事听天命与见识论含多条可独立成立的判断，含肯尼迪转述卡"
+}

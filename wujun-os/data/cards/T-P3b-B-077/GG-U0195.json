@@ -1,0 +1,41 @@
+{
+  "unit_id": "GG-U0195", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0195-01", "unit_id": "GG-U0195", "speaker": "吴军本人",
+      "claim_text": "中文最容易写错字，因常用字数太少、语言冗余度不足致二义性大，读音含义须靠上下文确定",
+      "quote": "语言的冗余度不够大",
+      "anchor": {"book_code": "GG", "start_line": 13023, "end_line": 13027, "sha1": "d6c555e05395ec6136cffa4ebcd3f2233c5661c5", "fingerprint": ["冗余度", "二义性"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "中文冗余度与二义性",
+      "ability_tags": ["思"], "status": "已生成", "notes": "信息论视角的语言判断；『读错字与学术水平关系不大、对念错字不要太苛刻』（13019/13031）、英语be/do/get少用、捷克语词汇量与二义性（13029-13030）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0195-02", "unit_id": "GG-U0195", "speaker": "吴军本人",
+      "claim_text": "正式活动讲演要多预演几遍，越重要的讲话越要自己准备发言稿；用熟悉的词不卖弄学问",
+      "quote": "一定要多预演几遍",
+      "anchor": {"book_code": "GG", "start_line": 13032, "end_line": 13034, "sha1": "c1dcbd2095249f987999e18de17780fcee85da72", "fingerprint": ["预演", "发言稿"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-1"], "concept_key": "重要讲演须预演",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "林肯葛底斯堡三分钟准备三天、戈培尔演说前后称体重（数据事实，仅作例证）、林肯只用圣经例子为例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0195-03", "unit_id": "GG-U0195", "speaker": "吴军本人",
+      "claim_text": "犯了错误做好善后处理很重要，处理得好反而可以加分；帮倒忙的解释与自以为是的画蛇添足最糟",
+      "quote": "处理得好，反而可以加分",
+      "anchor": {"book_code": "GG", "start_line": 13035, "end_line": 13040, "sha1": "16fef6071a84f118f1eb2abb84e43fbe84f8673e", "fingerprint": ["善后", "画蛇添足"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-1", "D05-1"], "concept_key": "犯错善后可加分",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "危机沟通判断；清华不评论vs北大校友硬拗洪皓例（13036-13038）并入；结尾『不要自以为是地画蛇添足』（13048）为同一结论"
+    },
+    {
+      "claim_id": "C-GG-U0195-04", "unit_id": "GG-U0195", "speaker": "吴军本人",
+      "claim_text": "质疑是科学价值链的第一环，提出好问题比解决问题更难；没有质疑就跟跑，无原创性发明",
+      "quote": "质疑本身是科学价值链的第一环",
+      "anchor": {"book_code": "GG", "start_line": 13044, "end_line": 13045, "sha1": "d58863e2a202f87525f853ece626ca71070beccd", "fingerprint": ["质疑", "原创性"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "质疑是科学价值链第一环",
+      "ability_tags": ["思"], "status": "已生成", "notes": "张守晟『MIT斯坦福教授能提出问题，北大清华教授能解决问题』并入；刘红教授批判性思维评论（13047）为第三方佐证；哥白尼/爱因斯坦/马克思例（13041-13042）并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0195", "disposal": "X", "x_subtype": "X2", "reason": "北大校庆读错字事件始末、网民反应与两校校长表现对比系2018年时事评论，只留其中可迁移判断"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "从时事引出四条可迁移判断：语言二义性、讲演预演、犯错善后、质疑价值"
+}

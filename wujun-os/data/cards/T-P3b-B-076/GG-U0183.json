@@ -1,0 +1,150 @@
+{
+  "unit_id": "GG-U0183",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0183-01",
+      "unit_id": "GG-U0183",
+      "speaker": "吴军本人",
+      "claim_text": "偶然成功与可重复成功差别巨大：通过FDA二期的药仅1/7能过三期",
+      "quote": "偶然的成功和能重复性的成功",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12361,
+        "end_line": 12361,
+        "sha1": "31bcbf3c5b961b3164c18c76b6517762fb5f33dc",
+        "fingerprint": [
+          "二期",
+          "三期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D10-1"
+      ],
+      "concept_key": "可重复的成功",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0183-02",
+      "unit_id": "GG-U0183",
+      "speaker": "吴军本人",
+      "claim_text": "未谋胜先虑败：改进产品或制度首先保证不变坏，每次进步才可叠加而非左右摇摆",
+      "quote": "未谋胜，先虑败",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12354,
+        "end_line": 12356,
+        "sha1": "b33bf1a766ba3366d0de7edfa4633fc3a1d9644b",
+        "fingerprint": [
+          "一期",
+          "可叠加"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "先虑败可叠加",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "新药两原则：无害先于有效（FDA批准标准，12352）；产品改动至少保住原常用功能（12356）。"
+    },
+    {
+      "claim_id": "C-GG-U0183-03",
+      "unit_id": "GG-U0183",
+      "speaker": "吴军本人",
+      "claim_text": "双盲测试区分疗效来自药品还是心理作用：随机分组加安慰剂、医患双方不知情——成就须可观衡量",
+      "quote": "双盲测试",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12358,
+        "end_line": 12360,
+        "sha1": "3a80fe60b3641368f02f19c4f6afe7002d52af9b",
+        "fingerprint": [
+          "安慰剂",
+          "实验组"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "双盲测试",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "二期=区域有效、三期=全国有效方可上市（12360）。"
+    },
+    {
+      "claim_id": "C-GG-U0183-04",
+      "unit_id": "GG-U0183",
+      "speaker": "吴军本人",
+      "claim_text": "成药与原料差别巨大：阿司匹林不等于水杨酸、青蒿素不等于青蒿——有价值发明与偶然发现隔着漫长过程",
+      "quote": "阿司匹林不能等同于水杨酸",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12364,
+        "end_line": 12364,
+        "sha1": "64cf7c4be575df17ab1aab76add2afbffd4c0bc8",
+        "fingerprint": [
+          "青蒿素",
+          "水杨酸"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "成药不等于原料",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "1763斯通发现水杨酸→1853格哈特合成→1897霍夫曼成药，德国两代人近40年（12335-12346）；霍夫曼初衷为父治病、重点降副作用（12348-12350）。"
+    },
+    {
+      "claim_id": "C-GG-U0183-05",
+      "unit_id": "GG-U0183",
+      "speaker": "吴军本人",
+      "claim_text": "发明的荣誉给予最后一个发明人：霍夫曼得阿司匹林之功，向前追溯到希波克拉底则没完没了",
+      "quote": "最后一个发明人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12327,
+        "end_line": 12328,
+        "sha1": "43f293708ddfadb64c942ee48d193e1b282d238d",
+        "fingerprint": [
+          "发明",
+          "荣誉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "荣誉给最后发明人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中国人用青蒿治疟疾≠屠呦呦发明青蒿素（12329）；传统医学不知机理、疗效难预期（12328-12331）；曾国藩'良医七分治人三分害人'（12332，转述留痕）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第105封信：阿司匹林与水杨酸（5卡）。"
+}

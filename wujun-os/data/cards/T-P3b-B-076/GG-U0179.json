@@ -1,0 +1,218 @@
+{
+  "unit_id": "GG-U0179",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0179-01",
+      "unit_id": "GG-U0179",
+      "speaker": "吴军本人",
+      "claim_text": "登月级巨大系统工程：火箭之外还需控制、着陆对接返回与大量配套技术及国力，缺一不可",
+      "quote": "巨大的系统工程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12069,
+        "end_line": 12072,
+        "sha1": "c07a901288d2868aa39b83d67ed169cf1dd99243",
+        "fingerprint": [
+          "配套",
+          "经济"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "系统工程必要条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "卡尔曼滤波保落点精度（12075）；摩托罗拉对讲、哈苏相机等配套（12087-12090）。"
+    },
+    {
+      "claim_id": "C-GG-U0179-02",
+      "unit_id": "GG-U0179",
+      "speaker": "史实",
+      "claim_text": "登月精度靠卡尔曼滤波；控制专家把八阶模型简化为三阶才在当时计算机上跑起来——算力约束下的工程简化",
+      "quote": "卡尔曼滤波",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12075,
+        "end_line": 12076,
+        "sha1": "8021c4b5d8a3c7f9aa57e7b7062bb9ffbdd48a49",
+        "fingerprint": [
+          "八阶",
+          "三阶"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "模型简化适配算力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "speaker=史实；当年登月大型计算机不如今天智能手机快（12076）。"
+    },
+    {
+      "claim_id": "C-GG-U0179-03",
+      "unit_id": "GG-U0179",
+      "speaker": "史实",
+      "claim_text": "阿波罗采用侯博尔特力主的环月轨道对接方案：少数人的正确意见说服多数，始有60年代末登月",
+      "quote": "越轻越好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12083,
+        "end_line": 12086,
+        "sha1": "8c1a62bc1d96c7e46b15a7a9e8e4b2bf40cdfdc4",
+        "fingerprint": [
+          "侯博尔特",
+          "第三种方案"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "少数派正确意见",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "speaker=史实；美国史学家：不采用少数人意见就不可能登月（12086）；中国火星计划沿用第三方案（12086）。"
+    },
+    {
+      "claim_id": "C-GG-U0179-04",
+      "unit_id": "GG-U0179",
+      "speaker": "吴军本人",
+      "claim_text": "关键系统须留安全余量：美国技术能做到5只敢让宇航员用3；苏联敢把不成熟新技术用于关键任务",
+      "quote": "留出的余量",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12099,
+        "end_line": 12099,
+        "sha1": "8d6ab8a58a092d95d7d6ed3f65cd21e037e9640a",
+        "fingerprint": [
+          "余量",
+          "成熟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-3"
+      ],
+      "concept_key": "安全余量原则",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0179-05",
+      "unit_id": "GG-U0179",
+      "speaker": "吴军本人",
+      "claim_text": "无市场竞争的制造体系质量无保障：N-1未经严格出厂测试即发射，四次全炸且都在一二级分离前",
+      "quote": "质量管理无保障",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12094,
+        "end_line": 12096,
+        "sha1": "bf76771af47034ec2aa400942008bf97b82269b9",
+        "fingerprint": [
+          "N-1",
+          "出厂测试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "制造质量定成败",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "氢燃料控制未掌握改煤油、运载能力小1/4（12095）；电子管vs集成电路（12100）。"
+    },
+    {
+      "claim_id": "C-GG-U0179-06",
+      "unit_id": "GG-U0179",
+      "speaker": "吴军本人",
+      "claim_text": "GDP按官方汇率折算无意义：苏联官方1卢布=1.5美元而自由市场1美元=5卢布起，自由汇率国家GDP才有意义",
+      "quote": "自由汇率的国家才有意义",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12102,
+        "end_line": 12102,
+        "sha1": "a80de031d5147f2c428ba4185d747b95c79e5e6a",
+        "fingerprint": [
+          "汇率",
+          "GDP"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "GDP须自由汇率",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0179-07",
+      "unit_id": "GG-U0179",
+      "speaker": "史实",
+      "claim_text": "双子星/阿波罗用高密度流水线研发换时间：一枚发射时下一枚在测试再下一枚组装；中途出错全线报废",
+      "quote": "流水线式的研发方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12105,
+        "end_line": 12108,
+        "sha1": "0466528dd4a70c150271dcde32cf3c58196c22ce",
+        "fingerprint": [
+          "流水线",
+          "报废"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "流水线研发换时间",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "speaker=史实；间隔半年甚至更短、三枚火箭因此报废、用钱换时间（12107-12108）；40万人参与、物理学家后来开出租车（12110-12111）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0179",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "12113-12115行登火星难度两个数量级、需全世界合作的可行性判断为时效预测"
+    },
+    {
+      "unit_id": "GG-U0179",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "12119行思考题（是否值得举全世界之力登火星）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第103封信：前苏联为何无法登月（系统工程7卡）。"
+}

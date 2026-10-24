@@ -1,0 +1,58 @@
+{
+  "unit_id": "GG-U0203", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0203-01", "unit_id": "GG-U0203", "speaker": "吴军本人",
+      "claim_text": "很多时候误差比我们想象的大得多，任何误差不校正会使导航偏差几百米到几十公里，这是直接应用很多原理不管用的原因",
+      "quote": "误差比我们想象的大得多",
+      "anchor": {"book_code": "GG", "start_line": 13565, "end_line": 13565, "sha1": "13f8ffd407c66853992a90dc486e854a40411af8", "fingerprint": ["误差", "不管用"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-3"], "concept_key": "误差超乎想象",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第1条；时钟差0.1毫秒偏30公里、业余爱好者只能降两三个数量级故机会很少（13532/13549）、GPS误差源分类并入"
+    },
+    {
+      "claim_id": "C-GG-U0203-02", "unit_id": "GG-U0203", "speaker": "吴军本人",
+      "claim_text": "解决问题的关键是知道问题所在，发现问题就比解决问题显得更重要；最好的教授能发现问题，二流教授解决问题",
+      "quote": "发现问题就比解决问题显得更重要",
+      "anchor": {"book_code": "GG", "start_line": 13550, "end_line": 13550, "sha1": "523c763653c55524c0f20c8a8c590b922c9d8441", "fingerprint": ["知道问题所在", "发现问题"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1", "D05-1"], "concept_key": "发现问题重于解决问题",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第2条；『知道误差来自何方就能校正五个数量级（上百公里到一米）』为其佐证；相对论误差『错都不知道错在哪』为例证"
+    },
+    {
+      "claim_id": "C-GG-U0203-03", "unit_id": "GG-U0203", "speaker": "吴军本人",
+      "claim_text": "我们的生活经历会妨碍想象力和认知，只有学习才能突破自身的局限",
+      "quote": "只有学习才能突破自身的局限",
+      "anchor": {"book_code": "GG", "start_line": 13569, "end_line": 13569, "sha1": "e77b560c94e495eb50a7036042bbbc6027283623", "fingerprint": ["生活经历", "突破"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1", "D02-2"], "concept_key": "学习突破经验局限",
+      "ability_tags": ["学"], "status": "已生成", "notes": "全信总结第3条；相对论与黎曼几何超出生活直觉、系统学习特别重要（13553-13562）为其展开；欧氏/罗巴切夫斯基/黎曼几何公理差异并入"
+    },
+    {
+      "claim_id": "C-GG-U0203-04", "unit_id": "GG-U0203", "speaker": "吴军本人",
+      "claim_text": "同一问题在不同坐标系中难度不同：地球坐标与直角坐标等价，找到合适的工具很重要",
+      "quote": "找到合适的工具很重要",
+      "anchor": {"book_code": "GG", "start_line": 13571, "end_line": 13571, "sha1": "8166d691633ce1b73a7f3b29ebd4db04c242f098", "fingerprint": ["等价", "工具"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-1"], "concept_key": "坐标系选择即工具选择",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结第4条，与C-GG-U0202-03等价性原则卡同一原理互见；无人车按黎曼几何算球面距离为应用例"
+    },
+    {
+      "claim_id": "C-GG-U0203-05", "unit_id": "GG-U0203", "speaker": "吴军本人",
+      "claim_text": "面试选人要求对基本概念和方法非常了解，具体技术可以到公司再学；前者不懂是致命的",
+      "quote": "知道了问题就能找到解决方法",
+      "anchor": {"book_code": "GG", "start_line": 13547, "end_line": 13547, "sha1": "6f18af9e7fd5aff16a5c854e64aea326e7fbd62a", "fingerprint": ["致命", "基本概念"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-1"], "concept_key": "面试重基本概念",
+      "ability_tags": [], "status": "已生成", "notes": "Google面试原则；『没有误差概念的人不适合做自动驾驶』（13545）并入"
+    },
+    {
+      "claim_id": "C-GG-U0203-06", "unit_id": "GG-U0203", "speaker": "吴军本人",
+      "claim_text": "从长远来看，所有的科学研究都是应用研究，相对论在GPS中的应用证实了这一点",
+      "quote": "所有的科学研究都是应用研究",
+      "anchor": {"book_code": "GG", "start_line": 13538, "end_line": 13539, "sha1": "7826c6b769d1626c586ebfcdf5b3908087de593a", "fingerprint": ["应用研究", "相对论"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "科学研究皆应用研究",
+      "ability_tags": ["思"], "status": "已生成", "notes": "科学价值观判断，答记者问语境；相对论误差校正为论据"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0203", "disposal": "X", "x_subtype": "X4", "reason": "GPS三球面定位原理、星历时钟与相对论误差机理、黎曼几何与非欧几何公理叙述属技术史科普，仅作各卡例证"},
+    {"unit_id": "GG-U0203", "disposal": "X", "x_subtype": "X1", "reason": "思考题（差之毫厘谬以千里谈看法）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "GPS面试题信按四条总结句+两条面试与科学观判断成6卡"
+}

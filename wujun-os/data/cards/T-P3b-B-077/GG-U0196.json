@@ -1,0 +1,49 @@
+{
+  "unit_id": "GG-U0196", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0196-01", "unit_id": "GG-U0196", "speaker": "史实",
+      "claim_text": "『没有永恒的朋友只有永恒的利益』出自帕麦斯顿议会发言，原意是内阁对国家利益尽责，掐掉后半句即成断章取义",
+      "quote": "盟友不可能永恒",
+      "anchor": {"book_code": "GG", "start_line": 13070, "end_line": 13073, "sha1": "e08cae75f1a781f2238927acd27857a316f42f04", "fingerprint": ["巴麦尊", "掐掉"]},
+      "evidence_level": "E3", "pillar_candidates": ["D01-1"], "concept_key": "帕麦斯顿名言原意",
+      "ability_tags": ["思"], "status": "已生成", "notes": "名言考据史实：非丘吉尔所说；其生平与国葬、南丁格尔评价（13074-13081）为背景并入"
+    },
+    {
+      "claim_id": "C-GG-U0196-02", "unit_id": "GG-U0196", "speaker": "吴军本人",
+      "claim_text": "人们常为让名言更有说服力，把俗语硬加到大人物头上，传讹即成『名言』",
+      "quote": "把它们硬是加到大人物的头上",
+      "anchor": {"book_code": "GG", "start_line": 13065, "end_line": 13066, "sha1": "f358f1143759161406d571b5434803099d26c9d7", "fingerprint": ["名言", "大人物"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "名言硬安给大人物",
+      "ability_tags": ["思"], "status": "已生成", "notes": "信息辨别判断，与卡1考据互见；中英文搜索结果对比（13062）为佐证"
+    },
+    {
+      "claim_id": "C-GG-U0196-03", "unit_id": "GG-U0196", "speaker": "吴军本人",
+      "claim_text": "对人的偏见与误解来自断章取义、对自己违规的过分谅解和自编有利说辞；全面了解人事物才能更好融入世界",
+      "quote": "来自于断章取义",
+      "anchor": {"book_code": "GG", "start_line": 13105, "end_line": 13105, "sha1": "1c7bae0846c600b014ec502392f0af7110e5386b", "fingerprint": ["断章取义", "融入世界"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "偏见源于断章取义",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结句，统摄两句口头语的论证链"
+    },
+    {
+      "claim_id": "C-GG-U0196-04", "unit_id": "GG-U0196", "speaker": "吴军本人",
+      "claim_text": "『顾客是上帝』并非西方谚语而是糊弄人的话：说者未必对顾客好，顾客当真自居上帝反失守规矩",
+      "quote": "常常是这句话糊弄人",
+      "anchor": {"book_code": "GG", "start_line": 13084, "end_line": 13088, "sha1": "af4bfaccfef0b7555e72f555e748d8608bfd3a49", "fingerprint": ["顾客是上帝", "糊弄"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1"], "concept_key": "顾客是上帝之辨",
+      "ability_tags": ["思"], "status": "已生成", "notes": "商业话术判断；基督徒『能亵渎上帝就能欺负顾客』系第三方说法（13085-13086）记转述线索；飞机晚点闹柜台例（13089-13091）并入；该语或为港商 invention（13102-13103）作源流备考"
+    },
+    {
+      "claim_id": "C-GG-U0196-05", "unit_id": "GG-U0196", "speaker": "吴军本人",
+      "claim_text": "比贫穷更可怕的是缺乏见识、爱与规矩；守规矩不仅针对孩子，也针对成年人",
+      "quote": "守规矩不仅针对孩子",
+      "anchor": {"book_code": "GG", "start_line": 13094, "end_line": 13094, "sha1": "f1c121203d1e4c6d5771b5db147020f3148d10ee", "fingerprint": ["见识", "规矩"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "缺规矩之害",
+      "ability_tags": [], "status": "已生成", "notes": "复用CK-1583（JS）。跨书线索：出自《见识》『比贫穷更可怕的是缺乏见识、缺乏爱、缺乏规矩』，本信为重提；温哥华老太太碰瓷案例（13095-13099）与监护人责任并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0196", "disposal": "X", "x_subtype": "X1", "reason": "思考题（为何被断章取义、还有哪些俗语被断章取义）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "两句口头语考据引出断章取义认知判断与守规矩判断，含一条名言考据E3卡"
+}

@@ -1,0 +1,33 @@
+{
+  "unit_id": "GG-U0202", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0202-01", "unit_id": "GG-U0202", "speaker": "吴军本人",
+      "claim_text": "人惯用自底向上的递推思维，计算机用自顶向下、从整体到局部的递归思维：要抢20先抢17",
+      "quote": "从整体到局部的递归思维",
+      "anchor": {"book_code": "GG", "start_line": 13469, "end_line": 13470, "sha1": "0d8c14828f9cc449b7832f2a4414e18da65c637f", "fingerprint": ["递推", "递归"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "递归思维",
+      "ability_tags": ["思"], "status": "已生成", "notes": "抢20博弈（控制每轮和为3的关键点2/5/8…17）与路径计数F(20)=F(18)+F(19)为递归例证并入；约三分之一从业者不会用递归为背景"
+    },
+    {
+      "claim_id": "C-GG-U0202-02", "unit_id": "GG-U0202", "speaker": "吴军本人",
+      "claim_text": "做事用倒推（倒逼）比顺序估算更有效：从最终期限倒推各节点，发现做不完就做减法，原理同递归",
+      "quote": "通常是后一种",
+      "anchor": {"book_code": "GG", "start_line": 13489, "end_line": 13491, "sha1": "407a73a3f32f2fb2a9d61c07201311a83bd1872c", "fingerprint": ["倒逼", "做减法"]},
+      "evidence_level": "E1", "pillar_candidates": ["D05-1"], "concept_key": "倒逼工作法",
+      "ability_tags": ["做"], "status": "已生成", "notes": "以出书『双十一前上市倒推入库开印定稿』为载体；『很多事情根本不可能在规定时间做完→做减法』并入"
+    },
+    {
+      "claim_id": "C-GG-U0202-03", "unit_id": "GG-U0202", "speaker": "吴军本人",
+      "claim_text": "数学与计算机的等价性原则：很多问题彼此等价，归结为一类后解决其一，其余迎刃而解",
+      "quote": "等价性原则",
+      "anchor": {"book_code": "GG", "start_line": 13501, "end_line": 13502, "sha1": "c6a487abb22ca1143f47e83461864d24fe1c81b9", "fingerprint": ["等价性原则", "迎刃而解"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-1"], "concept_key": "问题等价性原则",
+      "ability_tags": ["思"], "status": "已生成", "notes": "爬20层楼梯=抢20=斐波那契数列；F(20)=10946按几何级数增长、穷举不可行为佐证（13496-13499）并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0202", "disposal": "X", "x_subtype": "X1", "reason": "两道思考题（抢40策略、谈倒逼体会）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "递归原理信含递归思维、倒逼工作法、等价性原则三条可独立成立的判断"
+}

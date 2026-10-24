@@ -1,0 +1,174 @@
+{
+  "unit_id": "GG-U0182",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0182-01",
+      "unit_id": "GG-U0182",
+      "speaker": "吴军本人",
+      "claim_text": "无人驾驶总体靠谱：技术已成熟，卡点是法规与人和机器人如何相处——创业界泡沫大但工业界踏实",
+      "quote": "总体上来讲还是很靠谱的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12263,
+        "end_line": 12265,
+        "sha1": "e34558d8545086acfd81b52c4b091da79109835e",
+        "fingerprint": [
+          "无人驾驶",
+          "泡沫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "无人驾驶靠谱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "L1-L5五级分级（12251-12255）；Waymo已L5商业运营2000+辆、通用2019/福特2021计划（12257，时效入notes）；无人驾驶难度1vs火星100（12265）。"
+    },
+    {
+      "claim_id": "C-GG-U0182-02",
+      "unit_id": "GG-U0182",
+      "speaker": "吴军本人",
+      "claim_text": "IT的指数进步不适用于所有领域：客机未超协和、最快客机仍是60年代末747、高铁60年代已商业运行",
+      "quote": "没有超越当时的协和",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12279,
+        "end_line": 12280,
+        "sha1": "aeb9e32591932f525b9e13b2008f29a8832419f4",
+        "fingerprint": [
+          "波音747",
+          "高铁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "进步领域差异",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "轮船速度百年未变（12280）；登火星需要量级跃迁的飞跃（12282）。"
+    },
+    {
+      "claim_id": "C-GG-U0182-03",
+      "unit_id": "GG-U0182",
+      "speaker": "转述·第三方",
+      "claim_text": "布林：青蛙蹦得再快也飞不起来——渐进优化无法替代量级跃迁",
+      "quote": "青蛙蹦得再快也飞不起来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12283,
+        "end_line": 12283,
+        "sha1": "c17aa70508f0f547d0e2f0a01d34ec787f2ab850",
+        "fingerprint": [
+          "青蛙",
+          "飞不起来"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "青蛙飞不起来",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=Google创始人布林（12283）。"
+    },
+    {
+      "claim_id": "C-GG-U0182-04",
+      "unit_id": "GG-U0182",
+      "speaker": "吴军本人",
+      "claim_text": "只有最认真的玩家获得真正关注：SpaceX是票友真下海登台唱戏，Blue Origin等玩票不受关注",
+      "quote": "让他唱主角",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12290,
+        "end_line": 12292,
+        "sha1": "258aac1fa58be6bfa9849b7301db06d0e94906c3",
+        "fingerprint": [
+          "票友",
+          "唱戏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "认真者得关注",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "维京航空送人至太空边界、保罗·艾伦亦私人航天（12291-12292）。"
+    },
+    {
+      "claim_id": "C-GG-U0182-05",
+      "unit_id": "GG-U0182",
+      "speaker": "吴军本人",
+      "claim_text": "做事前全要素考量：能力是否及、成本、优先级、做成后的收益——判断什么能做的见识特别重要",
+      "quote": "判断什么事情能做的见识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12303,
+        "end_line": 12304,
+        "sha1": "91a081a6912d115c5fca89a76124da6285825252",
+        "fingerprint": [
+          "成本",
+          "收益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "能做什么的见识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "航天项目常超预算、经费紧张时先被裁（12303）；NASA小行星着陆5年32亿公里技术领先（12300-12301）。"
+    },
+    {
+      "claim_id": "C-GG-U0182-06",
+      "unit_id": "GG-U0182",
+      "speaker": "吴军本人",
+      "claim_text": "范式跃迁要等周边技术都具备才水到渠成：大航海时代没人想到可以不航海而在天上飞",
+      "quote": "水到渠成",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12313,
+        "end_line": 12313,
+        "sha1": "8a8a4e161140afa3f453bf3fb3b4326863b8713a",
+        "fingerprint": [
+          "帆船",
+          "飞行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "周边技术齐才跃迁",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "超光速不可能、化学火箭到不了1%光速（12312）；回顾第29-32封信飞机发明（12314）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问26：无人驾驶期望（双说话人：转述1+本人5）。"
+}

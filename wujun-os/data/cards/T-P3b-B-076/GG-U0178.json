@@ -1,0 +1,79 @@
+{
+  "unit_id": "GG-U0178",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0178-01",
+      "unit_id": "GG-U0178",
+      "speaker": "吴军本人",
+      "claim_text": "科技进步与国家投入相关：只有国家安全受到威胁时才有不计成本的投入（含人才培养国策）",
+      "quote": "不计成本的投入",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12051,
+        "end_line": 12051,
+        "sha1": "c4f94cd827f339ed0271c1f250490ee1076cb116",
+        "fingerprint": [
+          "投入",
+          "国家安全"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "威胁驱动投入",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "最接近D10-1/D08-1，留P4裁决；航天预算曾占GDP约2%（12046）；美苏冷战倾国力才有1969登月（12003）。"
+    },
+    {
+      "claim_id": "C-GG-U0178-02",
+      "unit_id": "GG-U0178",
+      "speaker": "吴军本人",
+      "claim_text": "重大技术突破还需要超越时代的人：冯·布劳恩被NASA誉为人类航天史第一人",
+      "quote": "超越时代的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12053,
+        "end_line": 12053,
+        "sha1": "7a0d58b19c3807b19c84c8542f0ba37b15c8d3bb",
+        "fingerprint": [
+          "冯·布劳恩",
+          "科罗廖夫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-1"
+      ],
+      "concept_key": "超越时代的人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "科罗廖夫以囚徒身份主持苏联航天（12006）；土星五号13发全成功、51年未超越（12039-12040）；'重型猎鹰最大火箭'系翻译丢半句next to（12041-12042）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0178",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "12055行登火星可行性量级判断（长江vs太平洋、需全面超越冯·布劳恩级专家）为时效预测"
+    },
+    {
+      "unit_id": "GG-U0178",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "12060行思考题（为何科学巨人未诞生在中国）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第102封信：两人的竞赛（史料为主，可迁移判断2卡）。"
+}

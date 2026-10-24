@@ -1,0 +1,51 @@
+{
+  "unit_id": "GG-U0200", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0200-01", "unit_id": "GG-U0200", "speaker": "吴军本人",
+      "claim_text": "学以致用与无用之用分两个阶段安排：待养家糊口者学习须有针对性，泛谈无用之用是自欺欺人",
+      "quote": "无用之用是为大用",
+      "anchor": {"book_code": "GG", "start_line": 13333, "end_line": 13337, "sha1": "b780717d8be655b71fb2a0e5b42b69c4c52922bb", "fingerprint": ["优先级", "自欺欺人"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "按处境定学习优先级",
+      "ability_tags": ["学"], "status": "已生成", "notes": "学什么的方法判断；美国精英文理学院晚几年选专业（13339-13343）、能力强者兼顾与多数人业余学无用之物（13348-13351）并入"
+    },
+    {
+      "claim_id": "C-GG-U0200-02", "unit_id": "GG-U0200", "speaker": "吴军本人",
+      "claim_text": "学无用之用要讲究效率：时间有限不可能什么都学好，最有效的学习是在学的过程中不断反思",
+      "quote": "在学的过程中不断反思",
+      "anchor": {"book_code": "GG", "start_line": 13353, "end_line": 13353, "sha1": "49e9940ee6a06cf248b4de24030f1093c2adfdd3", "fingerprint": ["效率", "反思"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "学无用之用靠反思",
+      "ability_tags": ["学"], "status": "已生成", "notes": "与卡1同一答问链；『讲究效率』点出时间约束"
+    },
+    {
+      "claim_id": "C-GG-U0200-03", "unit_id": "GG-U0200", "speaker": "吴军本人",
+      "claim_text": "未来的竞争最终靠自己的能力而不是别人的能力；条件再好也须掌握谋生技能，否则只是二代",
+      "quote": "最终靠自己的能力",
+      "anchor": {"book_code": "GG", "start_line": 13345, "end_line": 13346, "sha1": "66cc3b73187a55f3465a6c9e83698399e0da3daa", "fingerprint": ["谋生的技能", "暴富"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "竞争靠自己的能力",
+      "ability_tags": [], "status": "已生成", "notes": "成长观判断，针对富家子弟不学技能现象"
+    },
+    {
+      "claim_id": "C-GG-U0200-04", "unit_id": "GG-U0200", "speaker": "吴军本人",
+      "claim_text": "维系繁荣比创造繁荣更难：见识过几百年兴衰成败的欧美精英二代习气较少，一代暴富者尚未摆脱暴富心态",
+      "quote": "维系繁荣比创造繁荣更难",
+      "anchor": {"book_code": "GG", "start_line": 13346, "end_line": 13346, "sha1": "23b75c0b671cf45b479a81e8d01f1e9245792385", "fingerprint": ["兴衰成败", "维系繁荣"]},
+      "evidence_level": "E1", "pillar_candidates": ["D09-1"], "concept_key": "维系繁荣难于创造",
+      "ability_tags": [], "status": "已生成", "notes": "家族财富视角；中产孩子最辛苦的论断（13338）并入"
+    },
+    {
+      "claim_id": "C-GG-U0200-05", "unit_id": "GG-U0200", "speaker": "吴军本人",
+      "claim_text": "守规矩是迭代过程，人好了伤疤忘了疼；但从长期效果看，守规矩的人会比不守规矩的人结果好",
+      "quote": "比不守规矩的人结果要好",
+      "anchor": {"book_code": "GG", "start_line": 13397, "end_line": 13399, "sha1": "50dec1a0b02f9939e54453f36d0a9723ab3c4755", "fingerprint": ["迭代", "好了伤疤忘了疼"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "守规矩者长期结果好",
+      "ability_tags": [], "status": "已生成", "notes": "与C-GG-U0197-01、C-GG-U0197-04同一论证链互见；《文明之光》华尔街规矩演进为例证"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0200", "disposal": "X", "x_subtype": "X6", "reason": "文明社会四条件与历史学家定义（书写系统/金属器/城市分层）、文明发展因欧亚交流而趋同的地理解释属文明史论述本体"},
+    {"unit_id": "GG-U0200", "disposal": "X", "x_subtype": "X2", "reason": "2018年中国知识产权保护状况、软件公司市值不及Adobe、90后付费意识评论系时点判断"},
+    {"unit_id": "GG-U0200", "disposal": "X", "x_subtype": "X1", "reason": "『寻找知识伙伴』兑换码活动属运营载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "五组问答中学以致用、靠自己能力、维系繁荣、守规矩四组含可迁移判断成5卡，文明标准与知识产权组记X"
+}

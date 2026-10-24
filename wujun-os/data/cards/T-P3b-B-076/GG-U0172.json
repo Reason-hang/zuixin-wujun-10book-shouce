@@ -1,0 +1,232 @@
+{
+  "unit_id": "GG-U0172",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0172-01",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "堆栈先进后出：解决排队处理的两个隐藏难题——元素无需移动、空间自动回收不浪费",
+      "quote": "先进后出",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11653,
+        "end_line": 11654,
+        "sha1": "0f312488c101db88b60a1886099aa8c5cf580128",
+        "fingerprint": [
+          "堆栈",
+          "先进后出"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "堆栈先进后出",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "三问题：长任务阻塞、箱子不能自走需搬运开销、空位浪费（11647-11652）；FILO/FILS与队列FIFO对照（11656-11657）；火车调头/电梯/电影院同理（11655）；互引U0173卡4递归用堆栈实现。"
+    },
+    {
+      "claim_id": "C-GG-U0172-02",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "操作系统调度无单一最优策略：五种常见策略各有得失，实际系统混合使用",
+      "quote": "混合使用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11663,
+        "end_line": 11673,
+        "sha1": "deac75c3edf35086a12d2f46d04298906aadc92c",
+        "fingerprint": [
+          "调度",
+          "优先级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "调度策略混合",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "五策略：先来先服务/最省时间/最少资源/释放资源多/优先级高（11666-11670）；单用第二种则大任务永无机会（11671）；混合例：等待越久+任务越小优先级越高（11673）。"
+    },
+    {
+      "claim_id": "C-GG-U0172-03",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "死机三因：调度不合理任务堆积、程序循环依赖死锁、出入队列次序被Bug搞乱",
+      "quote": "会有一大堆程序堆在队列中",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11674,
+        "end_line": 11678,
+        "sha1": "f324e691c4b58b75b5583cbaeceb8474f83a2c75",
+        "fingerprint": [
+          "死循环",
+          "死机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "死机三因",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "循环依赖A↔B↔C除重启无解（11677）；红绿灯坏+交警疏导类比见卡6。"
+    },
+    {
+      "claim_id": "C-GG-U0172-04",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "机器表现好坏主要取决于资源管理与调度的操作系统，而非硬件指标——同配置Mac久用不慢于PC",
+      "quote": "完全取决于管理和调度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11679,
+        "end_line": 11683,
+        "sha1": "f7a0e7072e2be891b51d312048f627e549c580e0",
+        "fingerprint": [
+          "操作系统",
+          "硬件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "操作系统定体验",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "PC三年慢、Mac五年勉强能用（11683）；微软手机份额近零为佐证（时效事实并入notes不单独成卡）。"
+    },
+    {
+      "claim_id": "C-GG-U0172-05",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "计算机与人思维不同之一：只追求整体效率不追求公平；人的社会不能只这样想",
+      "quote": "效率和公平性是矛盾的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11684,
+        "end_line": 11685,
+        "sha1": "7cf1b98d6c422c3076fa8510b70aee4237d6565d",
+        "fingerprint": [
+          "公平",
+          "效率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "效率优先于公平",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "计算机不需要为公平发愁，资源紧张时不采用先来先服务（11685）。"
+    },
+    {
+      "claim_id": "C-GG-U0172-06",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "人可以不按事先设定的规则行事，解开计算机无法自解的死锁死局",
+      "quote": "人可以不按照事先设定的规则行事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11686,
+        "end_line": 11689,
+        "sha1": "439a18dd9e0cbb2e568eba4a96dbae5ea0456b04",
+        "fingerprint": [
+          "死锁",
+          "疏导"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "人不按规则解死局",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "交警强制停车+让逆行清空十字路口例（11689）；事先规划的策略总有未预知情况（11686）。"
+    },
+    {
+      "claim_id": "C-GG-U0172-07",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "科学家特殊能力：从复杂问题抽象出简单概念（堆栈/队列），一次性解决许多相似问题",
+      "quote": "抽象出这些概念",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11690,
+        "end_line": 11690,
+        "sha1": "0febb032c2fa9b7365898a2be5d3e04dd4d9c9f0",
+        "fingerprint": [
+          "抽象",
+          "科学家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D02-2"
+      ],
+      "concept_key": "抽象概念能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "很多看似简单理所当然的事后面其实很复杂（11690）。"
+    },
+    {
+      "claim_id": "C-GG-U0172-08",
+      "unit_id": "GG-U0172",
+      "speaker": "吴军本人",
+      "claim_text": "裁员后进先出：新人参与业务浅裁掉损失最小；常跳槽者永远资历最浅、易陷被裁怪圈",
+      "quote": "资历最浅的员工",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11662,
+        "end_line": 11662,
+        "sha1": "9a159b97e1c79b2ed1c61c000e96fa424ed481d1",
+        "fingerprint": [
+          "裁员",
+          "资历"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "裁员后进先出",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "堆栈LIFO现实应用；金融先卖后买省税同理（11659-11660）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第098封信：死机与资源调度8卡。"
+}

@@ -1,0 +1,41 @@
+{
+  "unit_id": "GG-U0207", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0207-01", "unit_id": "GG-U0207", "speaker": "吴军本人",
+      "claim_text": "做成一件事复盘常见多次成败转折点，只是运气好；遇坏运气坦然接受，对命运存一点敬畏有好处",
+      "quote": "对命运存在一点敬畏有好处",
+      "anchor": {"book_code": "GG", "start_line": 13800, "end_line": 13800, "sha1": "1fc3951246fc5f72b36ce57e5fd7703d8ff3b843", "fingerprint": ["运气", "敬畏"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "成功者承认运气",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1027（JS）。『相信命中注定的三种人』（生物学家医生/占星术者/宗教人士，13802-13808）并入；本信目的为破除迷信、树立信心（13795）"
+    },
+    {
+      "claim_id": "C-GG-U0207-02", "unit_id": "GG-U0207", "speaker": "转述·第三方",
+      "claim_text": "腾讯早期合同常在一念之间签成，运气非常好所以公司办成了，但千万别把自己当根葱",
+      "quote": "千万别把自己当根葱",
+      "anchor": {"book_code": "GG", "start_line": 13797, "end_line": 13800, "sha1": "8504f1661c3f7ae29dca587a9b7c8d0a78f88626", "fingerprint": ["刘成敏", "腾讯"]},
+      "evidence_level": "E2", "pillar_candidates": ["D02-3"], "concept_key": "运气好勿自视过高",
+      "ability_tags": [], "status": "已生成", "notes": "被转述者为腾讯前高级副总裁刘成敏；吴军称此类观点在其成功朋友圈非常普遍，与卡1互见"
+    },
+    {
+      "claim_id": "C-GG-U0207-03", "unit_id": "GG-U0207", "speaker": "吴军本人",
+      "claim_text": "绝大部分人还没把自己的智力开发出来，不用给后天的懒惰找借口，每个人都有成功的希望",
+      "quote": "不用给自己后天的懒惰找借口",
+      "anchor": {"book_code": "GG", "start_line": 13804, "end_line": 13804, "sha1": "d86a3649d872f5eb26f993f6eab5b3d2dd2bed46", "fingerprint": ["基因", "懒惰"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-1"], "concept_key": "智力未开发勿借口懒惰",
+      "ability_tags": [], "status": "已生成", "notes": "成长观判断，回应基因决定论；家庭医生基因论对话为其语境"
+    },
+    {
+      "claim_id": "C-GG-U0207-04", "unit_id": "GG-U0207", "speaker": "吴军本人",
+      "claim_text": "星座描述显得灵验的秘诀在随机：随机分派的形容词与每个人都多少对得上，且人并不真正了解自己",
+      "quote": "和每个人多少都能对上点号",
+      "anchor": {"book_code": "GG", "start_line": 13815, "end_line": 13823, "sha1": "23e9747eb8c320133f79d40af73b7ea0d6f6110e", "fingerprint": ["随机", "对上点号"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1"], "concept_key": "随机描述皆可对号",
+      "ability_tags": ["思"], "status": "已生成", "notes": "辨别真伪判断：心理学家洗牌实验（形容词随机分12盒）；双胞胎反例不能推翻星座论（13811-13813）与『正因自己不了解自己，社交网络才显得了解你』（13828）、Facebook点赞画像（13825-13826）并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0207", "disposal": "X", "x_subtype": "X6", "reason": "占星术起源的文明史叙述（古埃及天狼星年与历法、苏美尔十二宫、德尔斐神谕制度史）属文明历史本体，无可迁移个人判断"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "运气观信含吴军三条命运观/认知判断与刘成敏一条转述判断，占星术起源史述记X6"
+}

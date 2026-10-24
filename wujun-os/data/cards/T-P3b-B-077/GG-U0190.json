@@ -1,0 +1,41 @@
+{
+  "unit_id": "GG-U0190", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0190-01", "unit_id": "GG-U0190", "speaker": "吴军本人",
+      "claim_text": "在大组织里只有相互分享利益、承认他人贡献才能形成合力，不注重相互提携者难以晋升",
+      "quote": "只有这样才能形成合力",
+      "anchor": {"book_code": "GG", "start_line": 12740, "end_line": 12740, "sha1": "760831637aaf99c5ea712c02ce05f15a15ad34e9", "fingerprint": ["分享利益", "提携", "合力"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2"], "concept_key": "分享利益聚合力",
+      "ability_tags": ["做"], "status": "已生成", "notes": "复用CK-0626（GJ）。布莱尔要求论文引私下讨论、贾里尼克两条原则、专利署名与产品发布鸣谢（12725-12737）均为养成过程例证并入；陈平故事另立史实卡互见"
+    },
+    {
+      "claim_id": "C-GG-U0190-02", "unit_id": "GG-U0190", "speaker": "史实",
+      "claim_text": "陈平离项羽投刘邦：项王对有功之人舍不得封赏，众人为之离去；刘邦不吝恩赐故得人才",
+      "quote": "舍不得封赏",
+      "anchor": {"book_code": "GG", "start_line": 12746, "end_line": 12749, "sha1": "3aeb010cdf113e0ff4110bad1e762a19785868a0", "fingerprint": ["陈平", "项王", "封赏"]},
+      "evidence_level": "E3", "pillar_candidates": ["D07-2"], "concept_key": "舍不得封赏失人心",
+      "ability_tags": [], "status": "已生成", "notes": "《史记》专名案例，机理为吴军概括『再好的人舍不得分享利益，大家就会离他而去』，与卡1同一论证链互见"
+    },
+    {
+      "claim_id": "C-GG-U0190-03", "unit_id": "GG-U0190", "speaker": "吴军本人",
+      "claim_text": "作决定时征求别人意见是好事，但补齐遗漏后决断要自己作，而且要作得坚决",
+      "quote": "决断要自己作",
+      "anchor": {"book_code": "GG", "start_line": 12763, "end_line": 12764, "sha1": "4df06dca93ba21c129fc099b73081b6f4ee60b7f", "fingerprint": ["决断", "坚决"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-1", "D06-3"], "concept_key": "补遗漏后独立决断",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1640（GJ）。美国公司权力下放后负责人自行决定（12750-12754）与英美大学非正式商议即定（12757）为机制背景；韦尔奇限制邮件抄送人数、GE市值增长（12759-12761）为组织提效例证一并并入"
+    },
+    {
+      "claim_id": "C-GG-U0190-04", "unit_id": "GG-U0190", "speaker": "吴军本人",
+      "claim_text": "明白没有最好只有更好，很多决策并不需要基于解决所有问题，有瑕疵没关系，只要在进步就好",
+      "quote": "没有最好，只有更好",
+      "anchor": {"book_code": "GG", "start_line": 12756, "end_line": 12757, "sha1": "d1e4f3fb02cf08c63fe89e9e545556ad316180d1", "fingerprint": ["没有最好", "瑕疵", "进步"]},
+      "evidence_level": "E1", "pillar_candidates": ["D03-1"], "concept_key": "没有最好只有更好",
+      "ability_tags": ["思"], "status": "已生成", "notes": "决策标准判断，与卡3同一封信论证链互见"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0190", "disposal": "X", "x_subtype": "X1", "reason": "思考题（就决策果断性谈看法）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "第110封信分享利益与独立决断两条原则均含可迁移判断，另有史记案例成E3卡"
+}

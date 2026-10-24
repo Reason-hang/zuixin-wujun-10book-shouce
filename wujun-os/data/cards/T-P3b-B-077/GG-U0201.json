@@ -1,0 +1,33 @@
+{
+  "unit_id": "GG-U0201", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0201-01", "unit_id": "GG-U0201", "speaker": "吴军本人",
+      "claim_text": "计算机处理信息时通常要把信息变成另一种形式才好处理，那种形式并非人所熟悉，须走出日常认知",
+      "quote": "一定要走出人日常的认知",
+      "anchor": {"book_code": "GG", "start_line": 13458, "end_line": 13458, "sha1": "02314b142011b6e08da5fc7e775a95f429a02e75", "fingerprint": ["另一种形式", "认知"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "信息变形式再处理",
+      "ability_tags": ["思"], "status": "已生成", "notes": "全信总结句，统摄面试题与压缩原理"
+    },
+    {
+      "claim_id": "C-GG-U0201-02", "unit_id": "GG-U0201", "speaker": "吴军本人",
+      "claim_text": "先把看得懂的信息变成看不懂但无任何损失的中间信息，每步保证信息不丢失，是语音图像压缩的基础",
+      "quote": "没有任何损失的中间信息",
+      "anchor": {"book_code": "GG", "start_line": 13445, "end_line": 13448, "sha1": "e6eb18cd4961c5debb4a6c703d90f2fb7fcc9d0d", "fingerprint": ["信息不丢失", "中间信息"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "无损中间信息",
+      "ability_tags": ["思"], "status": "已生成", "notes": "语音图像先变频率信号再滤高频的压缩流程、JPEG压缩10倍肉眼难辨（13449-13456）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0201-03", "unit_id": "GG-U0201", "speaker": "吴军本人",
+      "claim_text": "解此题的关键是打破固有思维：先把整个句子变成无意义字串（两步字母对调），先搞乱再规整",
+      "quote": "把单词先搞乱，再规整起来",
+      "anchor": {"book_code": "GG", "start_line": 13427, "end_line": 13430, "sha1": "9eff1ba3db4085cf831c84224850eefe6be47fc6", "fingerprint": ["固有的思维方式", "死胡同"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-1", "D04-2"], "concept_key": "先搞乱再规整",
+      "ability_tags": ["思"], "status": "已生成", "notes": "通用解题思维判断：直观方案在计算机中几乎无法实现（10位候选人均陷死胡同）；具体两步算法（13434-13440）为载体并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0201", "disposal": "X", "x_subtype": "X1", "reason": "两道思考题（搞懂面试题、举先变复杂再解决的例子）与分享引导属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "计算机科学原理信含三条可迁移判断：信息变形式、无损中间信息、先搞乱再规整"
+}

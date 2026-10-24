@@ -1,0 +1,50 @@
+{
+  "unit_id": "GG-U0206", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0206-01", "unit_id": "GG-U0206", "speaker": "吴军本人",
+      "claim_text": "五线谱是准确完整记录音高音值音强的编码系统，故千年音乐可还原；描述性乐谱千差万别致传承断绝",
+      "quote": "准确而完整记录",
+      "anchor": {"book_code": "GG", "start_line": 13718, "end_line": 13719, "sha1": "375a2f60f2994641c3d448646aa2c047b4be3708", "fingerprint": ["编码系统", "千差万别"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "完整编码方能传承",
+      "ability_tags": ["思"], "status": "已生成", "notes": "信息记录判断，答中欧乐谱之问；纽姆谱演进与16世纪法国整合五线谱、『信息全记录未丢失故中世纪音乐可恢复』（13721-13728）并入；与C-GG-U0201-02无损中间信息卡互见"
+    },
+    {
+      "claim_id": "C-GG-U0206-02", "unit_id": "GG-U0206", "speaker": "吴军本人",
+      "claim_text": "计算机用的数学是离散数学（数理逻辑、集合论、图论等），与连续数学不同，与二值逻辑契合；学它为培养计算机思维",
+      "quote": "培养计算机思维方式",
+      "anchor": {"book_code": "GG", "start_line": 13737, "end_line": 13740, "sha1": "ef304f5ceca387b9d43aadbfacf16b30ab90ca0b", "fingerprint": ["离散数学", "二值逻辑"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-2"], "concept_key": "离散数学养计算机思维",
+      "ability_tags": ["学"], "status": "已生成", "notes": "学科地图判断；离散数学在化学生物工程中的应用（13740）并入"
+    },
+    {
+      "claim_id": "C-GG-U0206-03", "unit_id": "GG-U0206", "speaker": "吴军本人",
+      "claim_text": "把计算机当工具的人最好的办法是学好现成工具（SAS、Matlab、经典算法书），最忌讳什么都自己从头学从头做",
+      "quote": "最忌讳什么都自己从头学，从头做",
+      "anchor": {"book_code": "GG", "start_line": 13742, "end_line": 13746, "sha1": "50325e853f793fe5d30732256d98a2212d6d8a77", "fingerprint": ["工具", "从头做"]},
+      "evidence_level": "E1", "pillar_candidates": ["D05-1"], "concept_key": "善用工具忌从头造",
+      "ability_tags": ["做"], "status": "已生成", "notes": "做事方法判断：不重复造轮子；面向非计算机专业人士"
+    },
+    {
+      "claim_id": "C-GG-U0206-04", "unit_id": "GG-U0206", "speaker": "吴军本人",
+      "claim_text": "有编程与算法基础后学人工智能并不难：先补概率论与数理统计，再读最好的教科书，按应用补专业知识",
+      "quote": "学习人工智能其实并不难",
+      "anchor": {"book_code": "GG", "start_line": 13753, "end_line": 13758, "sha1": "eef369fa4b6597c35beea7cc00f862c283ac3dd9", "fingerprint": ["概率论", "教科书"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "学AI先概率统计",
+      "ability_tags": ["学"], "status": "已生成", "notes": "学习路径判断；罗素与诺威格《人工智能：一种现代方法》、人脸识别配图像处理等（13755-13758）并入"
+    },
+    {
+      "claim_id": "C-GG-U0206-05", "unit_id": "GG-U0206", "speaker": "吴军本人",
+      "claim_text": "培养提问能力四法：世上没有傻问题尽管问、疑问不放过、反问养成问的习惯、培养观察细节",
+      "quote": "世界上没有傻问题",
+      "anchor": {"book_code": "GG", "start_line": 13765, "end_line": 13773, "sha1": "51dfd67621caff518acc25777314f49b4d52c05e", "fingerprint": ["傻问题", "好奇心", "观察细节"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "培养提问能力四法",
+      "ability_tags": ["学"], "status": "已生成", "notes": "清单式方法论整体一卡；吴军自注『其实包括任何人』，故按通用学习方法而非亲子教育处置；与C-GG-U0195-04质疑卡互见"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0206", "disposal": "X", "x_subtype": "X4", "reason": "神舟飞船降落精度解释（知道位置与到达位置之别、降落伞与不同高度风向）属航天知识科普答疑"},
+    {"unit_id": "GG-U0206", "disposal": "X", "x_subtype": "X1", "reason": "『寻找知识伙伴』兑换码活动属运营载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "五组问答中乐谱编码、离散数学、善用工具、学AI路径、提问四法五组均含可迁移判断"
+}

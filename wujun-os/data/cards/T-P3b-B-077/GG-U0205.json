@@ -1,0 +1,42 @@
+{
+  "unit_id": "GG-U0205", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0205-01", "unit_id": "GG-U0205", "speaker": "吴军本人",
+      "claim_text": "Google提出云计算概念不是炒作，而是此前已在工程上做了很多准备，且自己的产品就是这么设计的",
+      "quote": "并不是要炒作概念",
+      "anchor": {"book_code": "GG", "start_line": 13649, "end_line": 13650, "sha1": "3c5ccf3fa7da7a5c2a423e9932a4ff7e9bd5b393", "fingerprint": ["云计算", "准备"]},
+      "evidence_level": "E1", "pillar_candidates": ["D10-1"], "concept_key": "概念须先有工程准备",
+      "ability_tags": ["思"], "status": "已生成", "notes": "创新方法判断：先有工程实践与自用验证再提概念；跨书线索：本单元重刊《浪潮之巅》云计算章节；佩奇布林『大文件』→GFS雏形并入"
+    },
+    {
+      "claim_id": "C-GG-U0205-02", "unit_id": "GG-U0205", "speaker": "吴军本人",
+      "claim_text": "用大量廉价服务器加周全的容错与并发设计，完成超级计算机的计算存储功能；并为10倍业务量预留可扩展、省运维的公共平台",
+      "quote": "容错性和并发处理能力",
+      "anchor": {"book_code": "GG", "start_line": 13655, "end_line": 13658, "sha1": "3753712c3d12b7123bbb532897a5d13bb6f525fa", "fingerprint": ["容错性", "业务量"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-3"], "concept_key": "廉价服务器容错架构",
+      "ability_tags": ["思"], "status": "已生成", "notes": "工程架构判断：廉价不可靠硬件靠架构容错补足；迪恩与戈马瓦特在工程师紧缺时潜心建平台（13655）为组织背景；Google服务器数量全球第三的类比（13676）并入"
+    },
+    {
+      "claim_id": "C-GG-U0205-03", "unit_id": "GG-U0205", "speaker": "吴军本人",
+      "claim_text": "Google发展顺利的一个原因是比其他公司更早看到互联网基础设施的重要性，抢先布局光缆、数据中心与节能机柜",
+      "quote": "互联网基础设施的重要性",
+      "anchor": {"book_code": "GG", "start_line": 13664, "end_line": 13668, "sha1": "8228ffb8ca81e0e5321fa4b761fc860238f86c52", "fingerprint": ["霍尔斯", "数据中心"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1"], "concept_key": "抢先布局基础设施",
+      "ability_tags": ["做"], "status": "已生成", "notes": "经营判断：别人被蛇咬不敢投时反向上游布局；霍尔斯三贡献（租购光缆、占数据中心最佳点位、节能机柜）与海底电缆系统工程（13666-13669）并入"
+    },
+    {
+      "claim_id": "C-GG-U0205-04", "unit_id": "GG-U0205", "speaker": "吴军本人",
+      "claim_text": "每一次重大的技术变革都预示着产业格局的演变，也会促成主流企业的重新洗牌",
+      "quote": "促成主流企业的重新洗牌",
+      "anchor": {"book_code": "GG", "start_line": 13698, "end_line": 13699, "sha1": "52acfaae01f7d3d16d9f55ca920d952b43a7b431", "fingerprint": ["技术变革", "重新洗牌"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1"], "concept_key": "技术变革重塑产业格局",
+      "ability_tags": ["思"], "status": "已生成", "notes": "历史规律性判断，按X6例外归商业；Google借云计算寄望下次变革领跑的当期预测部分不入卡（记X2）"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0205", "disposal": "X", "x_subtype": "X4", "reason": "Google公司史叙述（迪恩/戈马瓦特/霍尔斯贡献、Gmail安全团队、免费Wi-Fi与气球计划、服务器规模）属企业史/人物史科普，仅按例外抽方法论"},
+    {"unit_id": "GG-U0205", "disposal": "X", "x_subtype": "X2", "reason": "网络中立立法之争、中美运营商与内容商强弱格局、云计算颠覆IT产业结构并助Google领跑的当期预测系时点/趋势判断"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "重刊《浪潮之巅》云计算章节，按批次特则照常抽4条可迁移判断并留跨书线索"
+}

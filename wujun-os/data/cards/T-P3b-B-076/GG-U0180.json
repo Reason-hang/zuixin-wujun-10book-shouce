@@ -1,0 +1,134 @@
+{
+  "unit_id": "GG-U0180",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0180-01",
+      "unit_id": "GG-U0180",
+      "speaker": "吴军本人",
+      "claim_text": "考察火箭性能要具体分析推力、比冲、室压三项指标，而非捆绑数量与宣传载荷",
+      "quote": "三项技术指标",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12151,
+        "end_line": 12154,
+        "sha1": "ced0816552193726e2272368a3d9296a5283979b",
+        "fingerprint": [
+          "比冲",
+          "室压"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "火箭三指标",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "梅林1D室压仅RD-180的40%、YF-100的60%（12153）；27台发动机可靠性挑战与N-1教训（12155-12158）；变轨技术未被证明（12159-12160）。"
+    },
+    {
+      "claim_id": "C-GG-U0180-02",
+      "unit_id": "GG-U0180",
+      "speaker": "转述·第三方",
+      "claim_text": "真实水平看实际举起的重量而非推算：举重运动员看赛场杠铃不看肌肉纤维数量——火箭载荷同理",
+      "quote": "举起了多重的杠铃",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12150,
+        "end_line": 12150,
+        "sha1": "70f7f1da2af9c9f08abcf33cbaa2639ee8078571",
+        "fingerprint": [
+          "举重运动员",
+          "杠铃"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-3"
+      ],
+      "concept_key": "实举优于推算",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=航天领域朋友（12150）；重型猎鹰=3×猎鹰九号捆绑、首飞载荷仅两吨（12148）；土星五号实带登月舱与返回火箭多次发射（12150）。"
+    },
+    {
+      "claim_id": "C-GG-U0180-03",
+      "unit_id": "GG-U0180",
+      "speaker": "吴军本人",
+      "claim_text": "一流公关制造浪漫叙事转移专业质疑：送车上天同时解决配重难题与夺眼球，少有人追问载荷不足两吨",
+      "quote": "瞒天过海",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12167,
+        "end_line": 12174,
+        "sha1": "7adbb7e437750b652068f885974bfdd87ad7d05e",
+        "fingerprint": [
+          "配重",
+          "浪漫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "浪漫叙事转移质疑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "常规做法用水配重安全无污染（12167）；诺威格博士（前NASA技术总监）解读：水放多怕出事放少露馅，一辆车瞒天过海（12172，转述留痕）；'钢铁侠'称呼中文Google互信息为英文40倍（12136）。"
+    },
+    {
+      "claim_id": "C-GG-U0180-04",
+      "unit_id": "GG-U0180",
+      "speaker": "转述·第三方",
+      "claim_text": "航天业要练内功走自己的路：打造有技术含量的大推力火箭，不搞华而不实的东西",
+      "quote": "练好内功",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12178,
+        "end_line": 12178,
+        "sha1": "cfbf4836c8226577f5e0def669856c547a2a421d",
+        "fingerprint": [
+          "内功",
+          "大推力"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "练内功造大火箭",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=国内老一辈航天专家（12178）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0180",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "12128-12165行重型猎鹰技术水平/中外评价/长征五号对比等2018年时效性技术评估"
+    },
+    {
+      "unit_id": "GG-U0180",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "12180-12181行思考题与下封信预告为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第104封信：SpaceX水平评估（时效评估X2，可迁移4卡）。"
+}

@@ -1,0 +1,204 @@
+{
+  "unit_id": "GG-U0176",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0176-01",
+      "unit_id": "GG-U0176",
+      "speaker": "转述·第三方",
+      "claim_text": "游戏要当电影做而非IT产品：先大情节后细节；成败第一条是流派风格契合主题，运气成分大",
+      "quote": "把游戏看成是一部电影",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11894,
+        "end_line": 11897,
+        "sha1": "54de7c68bf371f0c196b59cff9090a1a6f70fcb5",
+        "fingerprint": [
+          "电影",
+          "流派"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "游戏如电影",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=池宇峰等游戏老兵（11893）；爆款设计师潜行多年再出第二款常见、成败勿太在意（11897）。"
+    },
+    {
+      "claim_id": "C-GG-U0176-02",
+      "unit_id": "GG-U0176",
+      "speaker": "转述·第三方",
+      "claim_text": "游戏开发强干弱枝：架构设计远比开发重要，架构出错几乎无修补可能——宁可先多花时间做架构",
+      "quote": "强干弱枝",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11899,
+        "end_line": 11900,
+        "sha1": "f34bb45f96022ebe523a9ae727544e8bfaa19138",
+        "fingerprint": [
+          "架构",
+          "修补"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "架构优先",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=腾讯经验（11899）；架构完成赶时间是赶得出来的、树不能一开始种歪（11900）。"
+    },
+    {
+      "claim_id": "C-GG-U0176-03",
+      "unit_id": "GG-U0176",
+      "speaker": "转述·第三方",
+      "claim_text": "用户体验细节决定游戏成败：腾讯早期多款游戏失败，由任宇昕定位到体验细节问题",
+      "quote": "体验的细节上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11902,
+        "end_line": 11902,
+        "sha1": "cc466e70ca7ef2a52ae1360018a8c0b96bc798c3",
+        "fingerprint": [
+          "任宇昕",
+          "细节"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "体验细节定成败",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=任宇昕（腾讯COO，11902）。"
+    },
+    {
+      "claim_id": "C-GG-U0176-04",
+      "unit_id": "GG-U0176",
+      "speaker": "吴军本人",
+      "claim_text": "递归实现占用堆栈空间多：实践中常按递归原则设计、递推原则实现；八皇后类问题只能真递归",
+      "quote": "递归的原则设计，递推的原则实现",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11911,
+        "end_line": 11913,
+        "sha1": "2ce014de1ed54bf8a8530dac16063b3d010247cd",
+        "fingerprint": [
+          "压栈",
+          "堆栈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "递归设计递推实现",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0173卡3/4。"
+    },
+    {
+      "claim_id": "C-GG-U0176-05",
+      "unit_id": "GG-U0176",
+      "speaker": "吴军本人",
+      "claim_text": "世上很多事情分逻辑方案与物理方案两种：先搞清逻辑，再进行物理设计",
+      "quote": "先搞清逻辑，再进行物理设计",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11914,
+        "end_line": 11914,
+        "sha1": "6ab59071e670478813e94ee02658eeb44f2ff039",
+        "fingerprint": [
+          "逻辑",
+          "物理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "先逻辑后物理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0176-06",
+      "unit_id": "GG-U0176",
+      "speaker": "吴军本人",
+      "claim_text": "手机久用变慢差在系统机制与生态：苹果优化单进程、安卓优化多进程；安卓被厂商乱改、App管控松",
+      "quote": "对单进程进行优化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11926,
+        "end_line": 11930,
+        "sha1": "a902cbede45c69df41c5a584ffafda716302d6bf",
+        "fingerprint": [
+          "单进程",
+          "多进程"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "系统机制定流畅",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2018语境（读者iPhone 5s/三星例）；国内安卓App多被官方认定木马、360在美被认定木马（11930，时效事实入notes）。"
+    },
+    {
+      "claim_id": "C-GG-U0176-07",
+      "unit_id": "GG-U0176",
+      "speaker": "吴军本人",
+      "claim_text": "快速理解商业问题没有捷径：花工夫与行业顶级人士交流、大量阅读财报与商业新闻",
+      "quote": "需要花工夫",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11938,
+        "end_line": 11939,
+        "sha1": "e5c01e81b35e8d82cc79f147a08d2fc1640eb7d6",
+        "fingerprint": [
+          "顶级人士",
+          "财报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-2"
+      ],
+      "concept_key": "理解商业无捷径",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "吴军自谦'比较笨'（11938）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问25：递归做事的缺点（双说话人：转述3+本人4）。"
+}

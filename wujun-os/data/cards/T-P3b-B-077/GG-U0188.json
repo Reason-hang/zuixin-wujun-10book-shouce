@@ -1,0 +1,42 @@
+{
+  "unit_id": "GG-U0188", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0188-01", "unit_id": "GG-U0188", "speaker": "吴军本人",
+      "claim_text": "新药贵是因为研发需20年20亿美元，上市后专利期平均仅剩7年，药厂必须在专利期内收回成本",
+      "quote": "这也就是新药很贵的原因",
+      "anchor": {"book_code": "GG", "start_line": 12609, "end_line": 12610, "sha1": "ec5816089d4ccbcbbf46eed382a255f384702a77", "fingerprint": ["20亿美元", "专利期", "新药很贵"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-2"], "concept_key": "新药定价与专利期",
+      "ability_tags": [], "status": "已生成", "notes": "药品定价的底层逻辑例证；废药按特定人群再利用降价（12611-12612）并入本卡notes，属行业做法不单列"
+    },
+    {
+      "claim_id": "C-GG-U0188-02", "unit_id": "GG-U0188", "speaker": "吴军本人",
+      "claim_text": "新药在少量病人身上有疗效并不等于对大多数人都有疗效，小样本统计显著的结论可能带随机性",
+      "quote": "并不等于对大多数人都有疗效",
+      "anchor": {"book_code": "GG", "start_line": 12595, "end_line": 12604, "sha1": "e0fcff17ae2afb58d4aa31fb0fe3ed9196b80972", "fingerprint": ["统计意义", "随机性", "二期临床"]},
+      "evidence_level": "E1", "pillar_candidates": ["D04-1"], "concept_key": "小样本疗效的随机性",
+      "ability_tags": ["思"], "status": "已生成", "notes": "样本与总体关系的统计原理，以FDA二期/三期为载体；二期成分被过度优化致缺乏普遍意义（12606-12607）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0188-03", "unit_id": "GG-U0188", "speaker": "吴军本人",
+      "claim_text": "不保护药品专利就不会有人投入时间金钱研制新药，盗版盛行最终使全人类医疗水平无法提高",
+      "quote": "整个人类的医疗水平就无法提高",
+      "anchor": {"book_code": "GG", "start_line": 12639, "end_line": 12640, "sha1": "fecee46e7da7bb62b5d9baa444ac89db537d3ff5", "fingerprint": ["专利", "盗版", "医疗水平"]},
+      "evidence_level": "E1", "pillar_candidates": ["D08-1"], "concept_key": "专利保护激励研发",
+      "ability_tags": [], "status": "已生成", "notes": "专利制度与研发投入的商业逻辑；药企对穷人设特价通道但绝不容盗版（12643-12646）为佐证并入"
+    },
+    {
+      "claim_id": "C-GG-U0188-04", "unit_id": "GG-U0188", "speaker": "吴军本人",
+      "claim_text": "开放心态没有问题，但今天中国的主要问题是太浮躁，没有多少人愿意专注做好一件事",
+      "quote": "没有多少人愿意专注做好一件事",
+      "anchor": {"book_code": "GG", "start_line": 12654, "end_line": 12654, "sha1": "ffffe7e9ec3e29ed9ec3387cacbb9ea135a25b25", "fingerprint": ["太浮躁", "专注"]},
+      "evidence_level": "E1", "pillar_candidates": ["D05-1"], "concept_key": "专注做好一件事",
+      "ability_tags": ["做"], "status": "已生成", "notes": "答读者问收尾判断；与开放心态的取舍，主判断落在专注"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0188", "disposal": "X", "x_subtype": "X2", "reason": "FDA审查过严、缺人手、赔偿过高致审批积压系针对2018年美国监管现状的评论，离开时点即失效"},
+    {"unit_id": "GG-U0188", "disposal": "X", "x_subtype": "X4", "reason": "美国保健品只需验证无害不需验证疗效属监管制度事实科普，无可迁移判断"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "吴军答读者问含新药定价、小样本统计、专利激励、专注做事四条可独立成立判断"
+}

@@ -1,0 +1,50 @@
+{
+  "unit_id": "GG-U0194", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0194-01", "unit_id": "GG-U0194", "speaker": "吴军本人",
+      "claim_text": "人总要竞争，逃避竞争者只是换到低层次竞争（如排队买便宜菜）；在事业上竞争反而能摆脱众争之地",
+      "quote": "其实是另一种竞争",
+      "anchor": {"book_code": "GG", "start_line": 12945, "end_line": 12949, "sha1": "4edcc451d6aee7051debd9001bebca870e77bdc0", "fingerprint": ["低层次的竞争", "众争之地"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-2"], "concept_key": "逃避竞争仍是竞争",
+      "ability_tags": ["思"], "status": "已生成", "notes": "冬存大白菜与80年代民企对比为例证；教育医疗扎堆亦属众争（12948-12949）并入；与U0189众利勿为众争勿往卡互见"
+    },
+    {
+      "claim_id": "C-GG-U0194-02", "unit_id": "GG-U0194", "speaker": "吴军本人",
+      "claim_text": "顺应潮流与众争勿往不矛盾：避开众人扎堆的快钱处，做潮流中需扎实投入的真难题，回报很高",
+      "quote": "避开了众争之地",
+      "anchor": {"book_code": "GG", "start_line": 12975, "end_line": 12978, "sha1": "ca8d006f717a830700f7067c0cf494fad93681e2", "fingerprint": ["众利众争", "扎实"]},
+      "evidence_level": "E1", "pillar_candidates": ["D01-2", "D03-1"], "concept_key": "顺应潮流避开众争",
+      "ability_tags": ["思"], "status": "已生成", "notes": "以区块链发币vs改算法为例（被投公司估值数据系2018年时点，仅作例证不入主干）"
+    },
+    {
+      "claim_id": "C-GG-U0194-03", "unit_id": "GG-U0194", "speaker": "吴军本人",
+      "claim_text": "时代的力量是巨大的，个人的成功其实有很大的偶然性",
+      "quote": "时代的力量是巨大的",
+      "anchor": {"book_code": "GG", "start_line": 12993, "end_line": 12993, "sha1": "c481a1429c9917a8443e83cbce6d34485f774f2f", "fingerprint": ["时代的力量", "偶然性"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "时代力量与个人偶然",
+      "ability_tags": ["思"], "status": "已生成", "notes": "命运观判断；没有阿里腾讯也会有同类公司（Q信例）、南北朝鲜/香港/前苏联错过信息革命的对比（12986-12992）为例证并入"
+    },
+    {
+      "claim_id": "C-GG-U0194-04", "unit_id": "GG-U0194", "speaker": "吴军本人",
+      "claim_text": "世上有领袖与谋臣两种能人：前者关键时刻站出来担起众人责任，后者聪明但不愿担责成执行者；按特长把握度",
+      "quote": "一种人是领袖，另一种人是谋臣",
+      "anchor": {"book_code": "GG", "start_line": 13003, "end_line": 13005, "sha1": "69ed5e02b3cf24a5e948a997fd338f9524a54966", "fingerprint": ["领袖", "谋臣", "特点"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-1"], "concept_key": "领袖与谋臣的差别",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1866（GJ）。刘邦曹操vs萧何荀彧郭嘉为例证；朱雪龙『人无优缺点只有特点』与苏格拉底『人贵在了解自己』（13005）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0194-05", "unit_id": "GG-U0194", "speaker": "吴军本人",
+      "claim_text": "独立决断必然要承担后果；下属不愿承担后果会把责任往上推，导致组织分权不够",
+      "quote": "必然是要承担后果",
+      "anchor": {"book_code": "GG", "start_line": 13001, "end_line": 13002, "sha1": "30b46bba9bc82635025a7b4436cd2f5ca48096a5", "fingerprint": ["承担后果", "分权"]},
+      "evidence_level": "E1", "pillar_candidates": ["D06-3"], "concept_key": "决断与担责",
+      "ability_tags": ["做"], "status": "已生成", "notes": "以腾讯与Google管理文化对比为载体；与U0190补遗漏后独立决断卡互见"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0194", "disposal": "X", "x_subtype": "X2", "reason": "『今天挤Google/Facebook已失去挣钱最好时机、Airbnb或还有机会』系2018年就业与公司时点判断"},
+    {"unit_id": "GG-U0194", "disposal": "X", "x_subtype": "X6", "reason": "中国人感恩文化分析（求神还愿的功利心态、两岸三地捐赠比较）属文化史评述，无个人层面可迁移判断"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "五组问答中四组含吴军可独立成立判断，成5卡；感恩文化组记X6"
+}

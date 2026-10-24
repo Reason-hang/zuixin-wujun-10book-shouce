@@ -1,0 +1,25 @@
+{
+  "unit_id": "GG-U0199", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0199-01", "unit_id": "GG-U0199", "speaker": "吴军本人",
+      "claim_text": "通俗小说文笔好读来省劲，可作培养阅读习惯与写作的范文；通俗读物流传下来就是经典",
+      "quote": "几百年后如果还有人读，就是经典",
+      "anchor": {"book_code": "GG", "start_line": 13249, "end_line": 13251, "sha1": "6164dab685a3d89ba457b293f8b07c2a8ba96fa0", "fingerprint": ["通俗", "经典"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "通俗流传即经典",
+      "ability_tags": ["学"], "status": "已生成", "notes": "读书观念判断；『很多人不喜欢阅读是因为读不下去』与奥斯丁/莎士比亚当年亦通俗为论据；跨书线索：书单重刊自《硅谷来信》"
+    },
+    {
+      "claim_id": "C-GG-U0199-02", "unit_id": "GG-U0199", "speaker": "吴军本人",
+      "claim_text": "给中学生选书的标准：读完在大学能进步较快，尽量不选太难懂的；易读对十几岁的人非常重要",
+      "quote": "尽量不选太难懂的",
+      "anchor": {"book_code": "GG", "start_line": 13315, "end_line": 13316, "sha1": "87f109fca28f812fdaa2c67309b16b38f86b48f7", "fingerprint": ["进步比较快", "难懂"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "选书以易读为先",
+      "ability_tags": ["学"], "status": "已生成", "notes": "选书方法论；伽莫夫『沿大师思路学会科学思维方法』与温伯格书『容易阅读、科学思想贯穿故事』（13306-13308）并入本卡"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0199", "disposal": "X", "x_subtype": "X1", "reason": "文学/历史/哲学/思维/科学/经济六类推荐书单本体属推荐载体，仅抽其中两条阅读与选书方法论；重刊《硅谷来信》书单留跨书线索"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "书单载体单元，按批次特则照常抽取其中可迁移的阅读与选书判断"
+}

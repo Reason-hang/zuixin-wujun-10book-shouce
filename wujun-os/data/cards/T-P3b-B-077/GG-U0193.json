@@ -1,0 +1,65 @@
+{
+  "unit_id": "GG-U0193", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0193-01", "unit_id": "GG-U0193", "speaker": "吴军本人",
+      "claim_text": "人很多成功有运气因素，聪明人总是能将厄运变成好运（MIT落第与被福特拒绝反成就张忠谋）",
+      "quote": "聪明人总是能将厄运变成好运",
+      "anchor": {"book_code": "GG", "start_line": 12887, "end_line": 12888, "sha1": "d59a8082c343b2867883ab21efac267e50b9cc3b", "fingerprint": ["厄运", "运气"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "厄运变好运",
+      "ability_tags": ["思"], "status": "已生成", "notes": "命运观判断，张忠谋两次求职挫折为例证；人物史本体按X4处置见x_disposals"
+    },
+    {
+      "claim_id": "C-GG-U0193-02", "unit_id": "GG-U0193", "speaker": "吴军本人",
+      "claim_text": "进入新行业必须接受专业训练：张忠谋像读荷马史诗那样逐字抠行业经典著作与论文成专家",
+      "quote": "需要接受专业的训练才行",
+      "anchor": {"book_code": "GG", "start_line": 12888, "end_line": 12888, "sha1": "d8cabd08aa81b465b5f27972ecd7c401271112e6", "fingerprint": ["荷马史诗", "经典著作"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-2"], "concept_key": "逐字抠经典入行",
+      "ability_tags": ["学"], "status": "已生成", "notes": "跨行业学习的方法论判断，以张忠谋入半导体行为载体"
+    },
+    {
+      "claim_id": "C-GG-U0193-03", "unit_id": "GG-U0193", "speaker": "吴军本人",
+      "claim_text": "人需要对自己不满足，才能有进步",
+      "quote": "人需要对自己不满足，才能有进步",
+      "anchor": {"book_code": "GG", "start_line": 12891, "end_line": 12891, "sha1": "afe20bddd5b7ccc8d2beafb0924127e2729d41d3", "fingerprint": ["不满足", "进步"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-1"], "concept_key": "对己不满足才有进步",
+      "ability_tags": [], "status": "已生成", "notes": "张忠谋离开小公司转投德州仪器为承接例证"
+    },
+    {
+      "claim_id": "C-GG-U0193-04", "unit_id": "GG-U0193", "speaker": "吴军本人",
+      "claim_text": "贵人相助对成功非常重要：基尔比使其认识前瞻技术力量，蒋经国政策与格鲁夫订单成就台积电",
+      "quote": "贵人相助的重要性",
+      "anchor": {"book_code": "GG", "start_line": 12910, "end_line": 12910, "sha1": "bc4b20ae36107df296b120584d3815c4c4159c21", "fingerprint": ["贵人"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-2"], "concept_key": "贵人相助",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "三位贵人史实（12890-12909）为支撑并入；『看似与当下事业无关的新技术一律关心』系张忠谋做法，并入本卡notes"
+    },
+    {
+      "claim_id": "C-GG-U0193-05", "unit_id": "GG-U0193", "speaker": "史实",
+      "claim_text": "台积电把制造做到极致：成品率远超对手、毛利40%，持续研发投入把技术积累变成竞争门槛",
+      "quote": "把事情做到极致",
+      "anchor": {"book_code": "GG", "start_line": 12913, "end_line": 12915, "sha1": "f5aeb38d5a0756e35f7406255af0bdcbbb1e916b", "fingerprint": ["毛利润率", "成品率", "门槛"]},
+      "evidence_level": "E3", "pillar_candidates": ["D08-1"], "concept_key": "做到极致",
+      "ability_tags": ["做"], "status": "已生成", "notes": "复用CK-0558（TD）。专名案例+可迁移机理：制造业也能靠极致摆脱低利润；每年20多亿美元研发增高门槛为其手段"
+    },
+    {
+      "claim_id": "C-GG-U0193-06", "unit_id": "GG-U0193", "speaker": "史实",
+      "claim_text": "台积电确立半导体设计与制造分离的行业规则，使创业者只需设计芯片，催生大批设计公司",
+      "quote": "创业者只需要设计芯片",
+      "anchor": {"book_code": "GG", "start_line": 12874, "end_line": 12877, "sha1": "7354b7d07baf482ee83ea1888151ecf40164bf52", "fingerprint": ["台积电", "设计", "制造"]},
+      "evidence_level": "E3", "pillar_candidates": ["D08-1"], "concept_key": "设计制造分离",
+      "ability_tags": ["思"], "status": "已生成", "notes": "专名案例+可迁移机理：专业化分工把行业进入成本从十亿美金降到设计端，创业机会由此打开；全球60%芯片份额等经营数据并入"
+    },
+    {
+      "claim_id": "C-GG-U0193-07", "unit_id": "GG-U0193", "speaker": "转述·第三方",
+      "claim_text": "张忠谋总结台积电经验16字：锁定客户、坚守阵地、设置障碍、永远创新；成功关键先在方向策略再在找对人",
+      "quote": "锁定客户、坚守阵地",
+      "anchor": {"book_code": "GG", "start_line": 12917, "end_line": 12919, "sha1": "4ae1f247c752e80907d77d4329d47e08c34ab3c9", "fingerprint": ["锁定客户", "方向和策略", "找对人"]},
+      "evidence_level": "E2", "pillar_candidates": ["D08-1"], "concept_key": "锁定客户十六字",
+      "ability_tags": ["做"], "status": "已生成", "notes": "被转述者为张忠谋；每年20%利润分员工留人一并记入；吴军仅引述未作独立评述"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0193", "disposal": "X", "x_subtype": "X4", "reason": "张忠谋生平与台积电企业史叙述本体（求学、TI降价竞争、退休新闻、AlphaGo电子管注脚）属人物史/企业史科普，仅按例外抽可迁移方法论"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "人物稿按X4例外抽取7条可迁移判断（吴军概括4+E3史实2+张忠谋自述转述1）"
+}

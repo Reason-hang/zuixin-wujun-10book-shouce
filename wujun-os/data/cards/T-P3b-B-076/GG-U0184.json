@@ -1,0 +1,128 @@
+{
+  "unit_id": "GG-U0184",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0184-01",
+      "unit_id": "GG-U0184",
+      "speaker": "吴军本人",
+      "claim_text": "好的初衷未必得到好的结果：阿司匹林与海洛因的初衷甚至方法都相通，结果却相反",
+      "quote": "好的初衷，未必得到好的结果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12411,
+        "end_line": 12413,
+        "sha1": "e676fdc1d86e926b29ac7da8844e84e34f7fcfc6",
+        "fingerprint": [
+          "初衷",
+          "结果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D03-1"
+      ],
+      "concept_key": "初衷不保证结果",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "霍夫曼出于善意、29岁同年先后发明两药（12380/12385）；拜耳当初确实不知危害、动物实验未发现问题（12392-12393）；霍夫曼一生未婚、在骂名中孤独死去（12410）。"
+    },
+    {
+      "claim_id": "C-GG-U0184-02",
+      "unit_id": "GG-U0184",
+      "speaker": "吴军本人",
+      "claim_text": "对发明的全面认识需要很长时间：副作用需时间才显现，量积累到质变；发明方出于功利常夸大好处隐瞒副作用",
+      "quote": "夸大好的作用，而隐瞒副作用",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12415,
+        "end_line": 12417,
+        "sha1": "37966d9069da4c54923ce97df53161f4a4d2f55a",
+        "fingerprint": [
+          "副作用",
+          "质变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D10-1"
+      ],
+      "concept_key": "副作用长周期显现",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "阿司匹林一度被认为副作用太大差点被枪毙（12416）；并非内行和专家就不隐瞒（12417）；海洛因口服起效慢未即成瘾、注射两次即上瘾（12398/12392）。"
+    },
+    {
+      "claim_id": "C-GG-U0184-03",
+      "unit_id": "GG-U0184",
+      "speaker": "吴军本人",
+      "claim_text": "人类常为解决一个问题制造出更大的问题：吗啡治鸦片瘾、海洛因替吗啡、美沙酮治海洛因瘾层层替代",
+      "quote": "制造出一个更大的问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12419,
+        "end_line": 12420,
+        "sha1": "f945e972e28520df764441d8e0d8fa660efae7bf",
+        "fingerprint": [
+          "吗啡",
+          "美沙酮"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "解决造更大问题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国死于阿片类药物者为海洛因5倍、每年1.6万/全球7万、90%使用属滥用（12420，时效数据入notes）；张学良是吗啡替鸦片受害者（12419）。"
+    },
+    {
+      "claim_id": "C-GG-U0184-04",
+      "unit_id": "GG-U0184",
+      "speaker": "吴军本人",
+      "claim_text": "不能指望新科技把人从精神鸦片中拯救出来：戒除不良习惯只能痛下决心并付诸行动，别无他法",
+      "quote": "痛下决心",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12422,
+        "end_line": 12422,
+        "sha1": "f3e3180bc8014919722729751d16456407877224",
+        "fingerprint": [
+          "精神鸦片",
+          "戒除"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "戒除靠决心行动",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "各种精神鸦片伤害不亚于罂粟制品（12422）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0184",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "12425行思考题（对精神鸦片的看法）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第106封信：海洛因的发明的另一面（4卡）。"
+}

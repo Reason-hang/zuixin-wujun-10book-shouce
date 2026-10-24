@@ -1,0 +1,33 @@
+{
+  "unit_id": "GG-U0191", "book_code": "GG", "extractor": "EXT-GG12", "batch_id": "T-P3b-B-077",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0191-01", "unit_id": "GG-U0191", "speaker": "吴军本人",
+      "claim_text": "勿因人之短护己之短：不因为别人做得不好或逃脱了处罚，就是自己做不好事的理由",
+      "quote": "勿因人之短护己之短",
+      "anchor": {"book_code": "GG", "start_line": 12776, "end_line": 12776, "sha1": "b856b70f4121c15eb543fae5b3ab073177afa4b4", "fingerprint": ["护己之短", "炫己之长"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3"], "concept_key": "就事论事勿护己短",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-0917（GJ）。闯红灯/超速庭辩、中国式过马路与京沪交通对比（12777-12797）为例证并入；鲁迅『更多的是无情地解剖自己』引文（12794）并入"
+    },
+    {
+      "claim_id": "C-GG-U0191-02", "unit_id": "GG-U0191", "speaker": "吴军本人",
+      "claim_text": "就事论事：先解决当前的事，之前的原因是另一件事；只问当前某人是否做错，该怎么解决就怎么解决",
+      "quote": "这件事和别人无关",
+      "anchor": {"book_code": "GG", "start_line": 12786, "end_line": 12793, "sha1": "11bc6dd0201885ff5ec9996954aa871b0146fc24", "fingerprint": ["就事论事", "两件不同的事"]},
+      "evidence_level": "E1", "pillar_candidates": ["D07-1"], "concept_key": "就事论事",
+      "ability_tags": ["沟"], "status": "已生成", "notes": "Google总监戴维处理强纳森大嗓门的完整话术（『你提醒得很好…今天你的调门确实高了』）为可迁移沟通范例并入本卡，不另立E3"
+    },
+    {
+      "claim_id": "C-GG-U0191-03", "unit_id": "GG-U0191", "speaker": "吴军本人",
+      "claim_text": "勿以人之短炫己之长：要比的是超过他人的长处，而不是满足于超越别人的短处",
+      "quote": "我们要比的是超过他人的长处",
+      "anchor": {"book_code": "GG", "start_line": 12801, "end_line": 12804, "sha1": "e4c6df4488edb38612c17f8774bfc783b120338e", "fingerprint": ["超过他人的长处", "超越别人的短处"]},
+      "evidence_level": "E1", "pillar_candidates": ["D02-3", "D06-1"], "concept_key": "超人之长非人之短",
+      "ability_tags": ["思"], "status": "已生成", "notes": "复用CK-1729（GJ）。赢了两位世界冠军笑话、『最会写程序的产品经理』、二流工程师靠产品意识不加分（12799-12803）为例证并入；美国培养领域专业人士的观察（12806）并入"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "GG-U0191", "disposal": "X", "x_subtype": "X1", "reason": "思考题（为什么士大夫强调修心）属运营互动载体"}
+  ],
+  "unit_disposal": "K", "unit_disposal_reason": "第111封信两条处世原则均含可独立成立的判断，另有就事论事方法卡"
+}

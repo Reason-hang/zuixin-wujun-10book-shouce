@@ -1,0 +1,180 @@
+{
+  "unit_id": "GG-U0173",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0173-01",
+      "unit_id": "GG-U0173",
+      "speaker": "吴军本人",
+      "claim_text": "计算机与人思维最大不同是递归：自顶向下层层分解的逆向思维，对应人正向的递推",
+      "quote": "递归的逆向思维",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11700,
+        "end_line": 11701,
+        "sha1": "fd667fd641cb308e4f6945f5ed189efd47131a15",
+        "fingerprint": [
+          "递归",
+          "递推"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "递归vs递推",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "成为顶级计算机人才必须换思维方式，对普通人也有启发（11701）。"
+    },
+    {
+      "claim_id": "C-GG-U0173-02",
+      "unit_id": "GG-U0173",
+      "speaker": "吴军本人",
+      "claim_text": "高斯穷一生只得八皇后76解而计算机穷举92种：固有递推思维不适合穷举类问题",
+      "quote": "人类固有的递推思维方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11718,
+        "end_line": 11723,
+        "sha1": "712a12a14ec3e5ac44e5af1274673b474bbc34a1",
+        "fingerprint": [
+          "高斯",
+          "递推"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "递推不适合穷举",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "4万种组合计算机不到一秒（11740）；八皇后由贝瑟尔提出（11712）；5分钟找到一个解已算快（11717）。"
+    },
+    {
+      "claim_id": "C-GG-U0173-03",
+      "unit_id": "GG-U0173",
+      "speaker": "吴军本人",
+      "claim_text": "递归本质两条：自顶而下、自己不断重复——每步同一算法逻辑简单",
+      "quote": "自顶而下",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11732,
+        "end_line": 11733,
+        "sha1": "c57908a3ec7a5db1ed47e65aa5f83f3810bd0dcc",
+        "fingerprint": [
+          "自顶而下",
+          "重复"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "递归本质两条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "阶乘例：N!=N×(N-1)!逐层展开到1!=1再回溯（11726-11728）。"
+    },
+    {
+      "claim_id": "C-GG-U0173-04",
+      "unit_id": "GG-U0173",
+      "speaker": "吴军本人",
+      "claim_text": "递归与堆栈天然对应：自上而下展开入栈、自下而上回溯出栈，栈清空算法结束",
+      "quote": "先进后出，后进先出",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11729,
+        "end_line": 11730,
+        "sha1": "b114ee8abe74ea58b521421609ab6ebb5f110730",
+        "fingerprint": [
+          "回溯",
+          "堆栈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "递归用堆栈实现",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "互引U0172卡1堆栈。"
+    },
+    {
+      "claim_id": "C-GG-U0173-05",
+      "unit_id": "GG-U0173",
+      "speaker": "吴军本人",
+      "claim_text": "人的认识受生活空间局限习惯由小到大；计算机处理大场景、从大到小层层分解提供新思路",
+      "quote": "从大到小，层层分解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11741,
+        "end_line": 11741,
+        "sha1": "4b21c540049f17f29c7d600a42150ce8537bc9d5",
+        "fingerprint": [
+          "层层分解",
+          "思路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "逆向分解新思路",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "明天讲顶层设计与大局观的引子（11764）。"
+    },
+    {
+      "claim_id": "C-GG-U0173-06",
+      "unit_id": "GG-U0173",
+      "speaker": "吴军本人",
+      "claim_text": "语法分析显示计算机自顶向下拆解、人自底向上学习——人天生不适应自顶向下的做事方式",
+      "quote": "天生不适应自顶向下的做事方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11752,
+        "end_line": 11754,
+        "sha1": "2b10a8541fd733d6171ee2c152b318e466336de3",
+        "fingerprint": [
+          "自顶向下",
+          "循序渐进"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "人不适自顶向下",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语法规则自上往下嵌套（11745-11750）；小学老师若自顶向下教语文再聪明的孩子也糊涂（11752）；总结四条见11757-11763。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0173",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11766行思考题（找一个递归解决实际问题的例子）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第099封信：递归思维6卡。"
+}

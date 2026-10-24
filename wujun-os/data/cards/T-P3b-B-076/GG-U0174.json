@@ -1,0 +1,232 @@
+{
+  "unit_id": "GG-U0174",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0174-01",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "封建等级与今日组织都是递归式管理：只管下一层不管更下细节，不提倡越级管理",
+      "quote": "仆人的仆人不是自己仆人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11777,
+        "end_line": 11780,
+        "sha1": "7d0ae0ef0b6337e8e93a0d4e8c8364791aca2ba9",
+        "fingerprint": [
+          "递归",
+          "越级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "递归式组织",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "国王→贵族→骑士；总理→省长→市长→县长，每级是上级缩影（11780）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-02",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "递归式组织的好处是授权与各级同质化，代价是上下层级立场相反的矛盾",
+      "quote": "这种做法被称为授权",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11781,
+        "end_line": 11783,
+        "sha1": "09c79f3f3f97737e2abbb5bc1e784b8c50ed4ae1",
+        "fingerprint": [
+          "授权",
+          "同质化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "授权与同质化",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "当市长者学当省长容易（11781）；员工向上看与管理者的期待不同，作者遇劳资冲突热点少表态（11783）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-03",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "要成长为领导须站在领导角度看问题；对领导层则强调层层授权才能构建大组织",
+      "quote": "站在领导的角度",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11785,
+        "end_line": 11786,
+        "sha1": "d9c71ece5481559597a3ee33c7e7e01cbec9ffe1",
+        "fingerprint": [
+          "授权",
+          "领导"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "换位到领导视角",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引第40封大学要学会服从；《硅谷来信》多次讲同题（11785）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-04",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "最糟糕的管理是规定每个细节的微观管理——组织与家庭中父母对孩子皆然",
+      "quote": "微观管理",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11788,
+        "end_line": 11789,
+        "sha1": "0653c86056c4f359c4998a4d2bcb78a38930cc4b",
+        "fingerprint": [
+          "微观管理",
+          "细节"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "微观管理最糟",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "有此习惯者记住递归方法（11789）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-05",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "下一层与上一层做法一致即共享文化与榜样力量：创始人塑造公司、家风塑造孩子",
+      "quote": "榜样的力量",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11791,
+        "end_line": 11794,
+        "sha1": "29c617a2a9cfa49b7fbf1d532608a402886f375e",
+        "fingerprint": [
+          "榜样",
+          "家风"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-1"
+      ],
+      "concept_key": "榜样与文化复制",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "杜尔经验：什么创始人吸引什么早期员工、最终什么公司（11792，互引第53封）；熊孩子背后有熊家长（11794）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-06",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "复杂系统应先顶层设计再补细节：先看细节易陷盲人摸象，与系统论一致",
+      "quote": "瞎子摸象",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11795,
+        "end_line": 11797,
+        "sha1": "373b35cb1663b4e22a7773d1f161c895cccb15f2",
+        "fingerprint": [
+          "顶层设计",
+          "系统论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "顶层设计先行",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "盖房先外观草图、写书先框架（11796-11797）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-07",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "没有顶层设计的代码扩展处处受限；工程师水平可用能驾驭的代码规模衡量",
+      "quote": "能hold住多大规模的代码",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11799,
+        "end_line": 11803,
+        "sha1": "a31b87905226625d6af5c8016c9f3432ce24c895",
+        "fingerprint": [
+          "顶层",
+          "两万行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D06-1"
+      ],
+      "concept_key": "代码规模衡量水平",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "经验不足的工程师难写出超两万行规模的程序（11802）；Google面试题：你写过最大程序多少行（11803）；顶层设计并非不能改，但不能因怕改就不设计（11805）。"
+    },
+    {
+      "claim_id": "C-GG-U0174-08",
+      "unit_id": "GG-U0174",
+      "speaker": "吴军本人",
+      "claim_text": "倒推式做事：从截止日倒推各步时限，做不完必须舍弃保证交付满意；极限是向死而生",
+      "quote": "事情根本不可能全部做完",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11807,
+        "end_line": 11815,
+        "sha1": "85a188dfb37dba8bcfece208358aacd03efa0086",
+        "fingerprint": [
+          "倒推",
+          "向死而生"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "倒推与舍弃",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例：10月1日完成分解5步、第五步需一月则第四步9月1日前完成（11810）；向死而生懂得做减法（11815）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第100封信：递归算法、管理授权和系统论8卡。"
+}

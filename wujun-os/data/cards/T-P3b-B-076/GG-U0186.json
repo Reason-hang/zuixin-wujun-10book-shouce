@@ -1,0 +1,175 @@
+{
+  "unit_id": "GG-U0186",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0186-01",
+      "unit_id": "GG-U0186",
+      "speaker": "吴军本人",
+      "claim_text": "伟大发明是从0到N的完整过程，从0到1只是很小部分——弗莱明发现菌斑不等于发明青霉素药品",
+      "quote": "从0到N完整的过程",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12500,
+        "end_line": 12501,
+        "sha1": "c2b6a55a04298ff5347453dd83b44c0e03adf235",
+        "fingerprint": [
+          "青霉素",
+          "弗莱明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "从0到N",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "弗莱明发现≈古人柳树皮煮水；弗洛里钱恩制成药品≈霍夫曼制阿司匹林（12501）；瓦克斯曼1932/1935两次错过抗生素发现机会（12508-12509）。"
+    },
+    {
+      "claim_id": "C-GG-U0186-02",
+      "unit_id": "GG-U0186",
+      "speaker": "吴军本人",
+      "claim_text": "成功的机会通常不止一次：不必为失去一次机会烦恼，机会还会有的",
+      "quote": "机会还会有的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12523,
+        "end_line": 12523,
+        "sha1": "a4a969ed835763ebd3001a4dd78654bdc4b1e122",
+        "fingerprint": [
+          "机会",
+          "烦恼"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "机会不止一次",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瓦克斯曼接二连三错过仍发明链霉素（12523）。"
+    },
+    {
+      "claim_id": "C-GG-U0186-03",
+      "unit_id": "GG-U0186",
+      "speaker": "吴军本人",
+      "claim_text": "很多现象早就存在，我们视而不见因为心思不在那里",
+      "quote": "视而不见",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12525,
+        "end_line": 12525,
+        "sha1": "cf29e2bfcc4735a40a2834945d97077fd84a670c",
+        "fingerprint": [
+          "现象",
+          "心思"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "视而不见因心不在",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0186-04",
+      "unit_id": "GG-U0186",
+      "speaker": "吴军本人",
+      "claim_text": "做新事如研制新药：第一要求是不把事情搞得更糟，第二才是有效——未谋胜先虑败",
+      "quote": "未谋胜，先虑败",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12527,
+        "end_line": 12527,
+        "sha1": "bc6f807c21440678135a05b7836396bbb0342052",
+        "fingerprint": [
+          "未谋胜",
+          "先虑败"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "先虑败可叠加",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0183-02（同概念重申）；制药关键先在毒性小、沙茨方向即找低毒菌种（12518-12519）。"
+    },
+    {
+      "claim_id": "C-GG-U0186-05",
+      "unit_id": "GG-U0186",
+      "speaker": "吴军本人",
+      "claim_text": "和同行的交流很重要：瓦克斯曼若没听弗莱明报告还会多次对杀菌菌种视而不见",
+      "quote": "和同行的交流很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12529,
+        "end_line": 12529,
+        "sha1": "e9f7e5716487a9ff88f205ff2909e73cfb402016",
+        "fingerprint": [
+          "交流",
+          "弗莱明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "同行交流",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0186-06",
+      "unit_id": "GG-U0186",
+      "speaker": "吴军本人",
+      "claim_text": "运气很重要：成功背后或多或少有运气成分——对命运心存敬畏而非宣扬宿命",
+      "quote": "心存敬畏",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 12531,
+        "end_line": 12531,
+        "sha1": "918700228782292c04b200169b912dacd3d6b4c7",
+        "fingerprint": [
+          "运气",
+          "敬畏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "运气与敬畏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沙茨几个月即找到低毒菌种有幸运输气（12531/12519）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第108封信：发明链霉素的启示（6卡）。"
+}

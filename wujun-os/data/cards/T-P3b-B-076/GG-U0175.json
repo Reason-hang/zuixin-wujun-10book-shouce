@@ -1,0 +1,155 @@
+{
+  "unit_id": "GG-U0175",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-076",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0175-01",
+      "unit_id": "GG-U0175",
+      "speaker": "吴军本人",
+      "claim_text": "机器学习本质是寻找符合描述对象的数学模型，参数由历史数据算出",
+      "quote": "寻找一种数学模型",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11827,
+        "end_line": 11833,
+        "sha1": "0ea33826a8a477a561cbbe1bd91aaf2fcc766012",
+        "fingerprint": [
+          "机器学习",
+          "参数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "机器学习即建模",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "开普勒前半生跟第谷拿数据、后半生人肉机器学习拟合参数（11833）；契合度与切比雪夫大数定律（11834）；哈雷预测彗星回归（11832）。"
+    },
+    {
+      "claim_id": "C-GG-U0175-02",
+      "unit_id": "GG-U0175",
+      "speaker": "吴军本人",
+      "claim_text": "无监督与有监督各有取舍：前者数据海量但方向易错，后者精确但贵且量少上限受限",
+      "quote": "各有千秋",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11838,
+        "end_line": 11842,
+        "sha1": "6f4b8efc222602d29ba24206a112601f9e9738de",
+        "fingerprint": [
+          "无监督",
+          "有监督"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "监督与无监督取舍",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "星图不标注自动找轨迹=无监督，人标注名称再学=有监督（11839-11840）；Google无人驾驶用标注街景数据做有监督、特斯拉靠人接管反馈做强化（11851-11858）。"
+    },
+    {
+      "claim_id": "C-GG-U0175-03",
+      "unit_id": "GG-U0175",
+      "speaker": "吴军本人",
+      "claim_text": "AlphaGo选择强化学习：只学人类棋谱上限约人类水平、纯试错不可行，需反馈纠偏",
+      "quote": "强化学习",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11847,
+        "end_line": 11848,
+        "sha1": "f1528c2951f1211d7dc2f839f5ac223fe0b20327",
+        "fingerprint": [
+          "强化学习",
+          "反馈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D10-1"
+      ],
+      "concept_key": "强化学习破上限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "李世石柯洁一生顶级对弈仅为AlphaGo训练量1%（11844）；围棋变化太多纯试错试不过来（11846）。"
+    },
+    {
+      "claim_id": "C-GG-U0175-04",
+      "unit_id": "GG-U0175",
+      "speaker": "吴军本人",
+      "claim_text": "反馈如何得来是一门艺术：AlphaGo用代理判断若干步累计胜率再反推每步反馈",
+      "quote": "反馈怎么得来，则是一门艺术",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11864,
+        "end_line": 11868,
+        "sha1": "fe54c5b23b02da36dcd521ed9a467bbf8132d023",
+        "fingerprint": [
+          "代理",
+          "胜率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "反馈信号设计",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Agent程序判断棋盘大致胜率、提升则鼓励否则处罚（11865）；对李世石与柯洁之间一年持续改进代理准确性（11866）。"
+    },
+    {
+      "claim_id": "C-GG-U0175-05",
+      "unit_id": "GG-U0175",
+      "speaker": "吴军本人",
+      "claim_text": "强化学习与日常做事相通：做得好及时反馈鼓励、做坏批评——教育与管理皆同",
+      "quote": "及时给你反馈",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 11871,
+        "end_line": 11875,
+        "sha1": "26470db4a10c5c27b9c7a0178a1fbd0fad06d44f",
+        "fingerprint": [
+          "强化学习",
+          "反馈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "及时反馈塑造行为",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "教育小孩表现好给鼓励（11871）；三比喻：有监督=凡事学上级做法水平难超上级、无监督=没人管以奖金为目标函数（11873-11874）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0175",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11869行推荐阅读《解析人工智能阿尔法元》为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：机器学习与强化学习5卡。"
+}
