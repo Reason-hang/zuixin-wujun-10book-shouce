@@ -1,0 +1,154 @@
+{
+ "unit_id": "SX-U0049",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0049-01",
+   "unit_id": "SX-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "制定最好策略要考虑对方采用每种策略的概率，而非最不利假设",
+   "quote": "考虑到对方采用每一种策略的概率",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6316,
+    "end_line": 6332,
+    "sha1": "25115f6a620a867418db2e1f302f398ffeb4e3b1",
+    "fingerprint": [
+     "策略",
+     "概率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "按对手策略概率定策",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者周周'对手非理性还算博弈吗'：职业棋手对业余者可只攻不守，但这正是体育比赛爆冷的原因"
+  },
+  {
+   "claim_id": "C-SX-U0049-02",
+   "unit_id": "SX-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "非零和博弈中两人与多人完全不同：先结盟再谈判几乎永不成",
+   "quote": "几乎永远达不成协议",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6337,
+    "end_line": 6354,
+    "sha1": "eaf37c5bb23572c38b36f9baeb4ed4be539baeb0",
+    "fingerprint": [
+     "非零和博弈",
+     "谈判"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "多人博弈不等价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者小白：两人闭门谈利益能成，先说服同盟者再集体谈判几乎达不成；零和情形下多人博弈可拆分为两人博弈（数学上等价），但选手一多不确定性大增"
+  },
+  {
+   "claim_id": "C-SX-U0049-03",
+   "unit_id": "SX-U0049",
+   "speaker": "转述·第三方",
+   "claim_text": "切比雪夫大数定律：多次试验的频率收敛于客观存在的概率",
+   "quote": "切比雪夫大数定理",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6358,
+    "end_line": 6370,
+    "sha1": "1c245c79bd241f6b45ed53228dea56780fa84d8d",
+    "fingerprint": [
+     "切比雪夫",
+     "收敛"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "大数定律的收敛性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：切比雪夫。吴军澄清（记本卡notes）：与'数学不能测量'不矛盾——定理讲频率序列收敛于客观存在的数，不讲如何做试验测概率"
+  },
+  {
+   "claim_id": "C-SX-U0049-04",
+   "unit_id": "SX-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "有效筛选数据三原则：提信噪比、舍低可信源、一致性验证",
+   "quote": "有效筛选数据有三个原则",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6384,
+    "end_line": 6412,
+    "sha1": "3ee673b5dae22722bcea07496efae91ed66e6b46",
+    "fingerprint": [
+     "信噪比",
+     "一致性验证"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "筛选数据三原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者日积月累。大数据三特征：量大、完备性、非刻意收集的自然数据；网上言行更极端+水军干扰使代表性受损；有大数据仍需把控质量，否则垃圾进垃圾出。例证：盖洛普vs文学文摘、AlphaGo Zero弃人类棋谱、八卦杂志信源低可信"
+  },
+  {
+   "claim_id": "C-SX-U0049-05",
+   "unit_id": "SX-U0049",
+   "speaker": "吴军本人",
+   "claim_text": "公理的选择标准：不重复不矛盾且能推出已有的全部规律",
+   "quote": "能够用逻辑推导出来",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6417,
+    "end_line": 6437,
+    "sha1": "a9f039a432361a0671d90fd60d3da41940fc5de3",
+    "fingerprint": [
+     "公理",
+     "欧几里得"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "公理的选择标准",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者涂防晒霜的番薯叶。五条几何公理是历代数学家尝试后在欧几里得手里定下的；胡乱构造公理得不到有价值结论；等价表述中须定一个作公理（如戴德金表述，其余七个等价定理）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0049",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "五道测试题（三门问题、集卡期望、线性规划、赌注翻番、同花概率）与99元得到贝奖励为教学运营内容，无论点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答单元，5卡覆盖按概率定策、多人博弈、大数定律、筛选数据三原则、公理选择标准"
+}

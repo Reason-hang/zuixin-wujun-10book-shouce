@@ -1,0 +1,128 @@
+{
+ "unit_id": "SX-U0054",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0054-01",
+   "unit_id": "SX-U0054",
+   "speaker": "转述·第三方",
+   "claim_text": "群论一举证明三大古典作图难题无解及5次以上方程无解析解",
+   "quote": "直接证明三大古典数学难题无解",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7076,
+    "end_line": 7087,
+    "sha1": "f770e311d04d5af076f08ef249e64212b0b8fe5a",
+    "fingerprint": [
+     "群论",
+     "伽罗瓦"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "群论与古典难题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：伽罗瓦（群论/伽罗瓦理论，刘维尔1846年整理发表）；还证明哪些正多边形可尺规作图；怀尔斯复证费马大定理亦用伽罗瓦理论；证明细节以正文为准"
+  },
+  {
+   "claim_id": "C-SX-U0054-02",
+   "unit_id": "SX-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "知识体系难兼完备与一致；区域内难题需更大知识域解决",
+   "quote": "需要更大区域的知识",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7088,
+    "end_line": 7098,
+    "sha1": "77f50fd8fb79c3abccc40baef20051ee4c7aa27f",
+    "fingerprint": [
+     "完备性",
+     "哥德尔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "扩域解题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "哥德尔证明希尔伯特'完备且一致'的愿望办不到；数学内划一个区域，区域内知识可能解决不了区域内问题（三大古典难题即如此）；小学难题到中学扩域后回头解决=为什么要不断学习"
+  },
+  {
+   "claim_id": "C-SX-U0054-03",
+   "unit_id": "SX-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "学习工具善用工具是学好数学的秘诀，也是做事需要的能力",
+   "quote": "善用工具，是学好数学的秘诀",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7100,
+    "end_line": 7105,
+    "sha1": "d271f6f6e54fbbdf8c496b8680a596cf814f2137",
+    "fingerprint": [
+     "工具",
+     "秘诀"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "善用工具",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "每种数学工具能解决很多问题并找出看似不相关难题的共性；没有工具靠特定技巧即便解出也无法推广；伽罗瓦发明新工具一劳永逸解决很多问题"
+  },
+  {
+   "claim_id": "C-SX-U0054-04",
+   "unit_id": "SX-U0054",
+   "speaker": "吴军本人",
+   "claim_text": "跳出圈外：时代难题常需圈外更高视角才能看清",
+   "quote": "一切就看得一清二楚了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7106,
+    "end_line": 7115,
+    "sha1": "b179ee5e7fcbe5f8c6e2f81ff5a308d2946b2d06",
+    "fingerprint": [
+     "跳出圈外",
+     "一清二楚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "跳出圈外",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三等分角看似几何作图题，实则非欧氏几何范围内能解，属近世代数问题；比喻：无阳光森林辨方位难，飞越500米上空一清二楚；吴军：'如果说有什么数学思维，其实就是这讲的内容'"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0054",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "伽罗瓦生平（评语、两考巴黎综合理工、柯西论文公案、决斗而死）、高斯正十七边形'运气好'分析、阿贝尔提名为数学史轶事，仅保留其方法卡C-01与启发卡，生平不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "古典数学难题单元，4卡覆盖群论、扩域解题、善用工具、跳出圈外"
+}

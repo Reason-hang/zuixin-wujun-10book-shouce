@@ -1,0 +1,204 @@
+{
+ "unit_id": "SX-U0021",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0021-01",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "多个低阶无穷大相加也赶不上一个高阶无穷大",
+   "quote": "很多个低阶无穷大",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2449,
+    "end_line": 2450,
+    "sha1": "c87af3df09aee4234364ed69b350e0109758cf1c",
+    "fingerprint": [
+     "低阶无穷大",
+     "高阶"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "高阶压倒低阶",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：10000x 比不过 x²，x³ 又比任意有限个 x² 大（例证并入）"
+  },
+  {
+   "claim_id": "C-SX-U0021-02",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "计算机算法的精髓是在各种无穷大中找一个小一点的无穷大",
+   "quote": "找一个小一点的无穷大",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2468,
+    "end_line": 2471,
+    "sha1": "88b098547b0d0e9af2bcc63feed2ac59c747e8f2",
+    "fingerprint": [
+     "算法",
+     "无穷大",
+     "计算量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "算法找小无穷大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "好从业者看计算量增长趋势（无穷大端），平庸者盯固定 N 的计算量（并入本卡 notes）"
+  },
+  {
+   "claim_id": "C-SX-U0021-03",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "上大学首先是通过学习课程换脑筋，然后才是掌握知识点",
+   "quote": "首先是通过学习课程换脑筋",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2472,
+    "end_line": 2474,
+    "sha1": "a86695e66fafaf4c08be6ca9ea13a42946e07556",
+    "fingerprint": [
+     "换脑筋",
+     "知识点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "上大学换脑筋",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "由算法从业者的高等数学水平对比引出；ability 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0021-04",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "算法迭代应以高阶无穷小的速度趋近误差目标",
+   "quote": "以高阶无穷小的速度接近零",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2475,
+    "end_line": 2490,
+    "sha1": "ff457046c66df48396d0806c3b79b42b3af609c9",
+    "fingerprint": [
+     "迭代",
+     "误差",
+     "高阶无穷小"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "高阶无穷小迭代收敛",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：调和序列需 1000 次调整 vs 等比序列 4 次；火箭飞行精度场景（例证并入）"
+  },
+  {
+   "claim_id": "C-SX-U0021-05",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "无穷大无穷小能比大小：比的是变化趋势快慢而非数值",
+   "quote": "而是变化的趋势",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2504,
+    "end_line": 2507,
+    "sha1": "a3c2b5f210762caea1e87795a72d50e430598e66",
+    "fingerprint": [
+     "高阶",
+     "趋势"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无穷大比大小比趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "房价与收入增速对比（几何级数 vs 3%/10%/20%）例证并入 notes；认知拓展\"比大小\"概念"
+  },
+  {
+   "claim_id": "C-SX-U0021-06",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "无穷大与无穷小的乘除结果取决于阶的高低，是趋势的博弈",
+   "quote": "一个无穷大和一个无穷小相乘",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2516,
+    "end_line": 2522,
+    "sha1": "a7c4a1ea5f4132ee679aa63eeb32609c3649515a",
+    "fingerprint": [
+     "博弈",
+     "阶"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无穷大无穷小的博弈",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "恋爱中激情与亲情的趋势对比为例证（吴军自述感慨，并入 notes）"
+  },
+  {
+   "claim_id": "C-SX-U0021-07",
+   "unit_id": "SX-U0021",
+   "speaker": "吴军本人",
+   "claim_text": "用数学逻辑理解人生道理，是把数学作为通识课讲的原因",
+   "quote": "把数学作为通识课讲的原因",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2523,
+    "end_line": 2525,
+    "sha1": "e34e2575b927ca3e7c8eb21a7db2944a81e450b8",
+    "fingerprint": [
+     "通识",
+     "数学的逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "用数学逻辑理解人生",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军课程定位表态"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第18讲无穷比大小：阶的比较、算法无穷大端优化、高阶无穷小迭代、趋势博弈等核心卡，全部为吴军本人判断"
+}

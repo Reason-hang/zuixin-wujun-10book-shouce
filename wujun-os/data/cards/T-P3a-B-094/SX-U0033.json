@@ -1,0 +1,200 @@
+{
+ "unit_id": "SX-U0033",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U33-01",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "微积分主要训练思维方式，线性代数工作生活中真正用得上",
+   "quote": "微积分主要是训练我们的思维方式",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4004,
+    "end_line": 4007,
+    "sha1": "1f0f73db312c032ae9956bce960c06abef9e2e32",
+    "fingerprint": [
+     "微积分",
+     "线性代数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "微积分与线性代数的分工",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第29讲开篇对两门基础数学课功能的定位；30讲开头（4134-4137）重申：学没学过微积分思维方式会不同，不另立卡。"
+  },
+  {
+   "claim_id": "C-SX-U33-02",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "矩阵形式是结果不是原因，它产生于向量的扩展",
+   "quote": "矩阵产生的原因是向量的扩展",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4015,
+    "end_line": 4017,
+    "sha1": "c82d28b3eca795b3e7c6d0c45813e2e2e9799b7a",
+    "fingerprint": [
+     "向量",
+     "矩阵"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "矩阵源于向量扩展",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "多向量并列表示的最直观方式即成矩阵（4019-4029 例证并入）。"
+  },
+  {
+   "claim_id": "C-SX-U33-03",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "矩阵1850年才由西尔维斯特提出，早期雏形与今日数学无关",
+   "quote": "和今天的数学发展没有半点关系",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4030,
+    "end_line": 4039,
+    "sha1": "b035d43e1c4f47701636d91d640e3a39bfe5e649",
+    "fingerprint": [
+     "西尔维斯特",
+     "1850"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "工具成立的标准",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（西尔维斯特）。可迁移机理：行列被赋予含义并配套一系列运算才算发明，3世纪中国等地的形式雏形不满足此条件。"
+  },
+  {
+   "claim_id": "C-SX-U33-04",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "矩阵加法启示：固定核心加增量，优于复制后逐一修改",
+   "quote": "固定的核心，再加上一个增量",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4053,
+    "end_line": 4055,
+    "sha1": "d21dc37f2c575ee5348de91fea6c8f09b220d219",
+    "fingerprint": [
+     "核心",
+     "增量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "核心加增量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "跨国公司总体要求A+某国调整B的例证（4042-4052）并入；对应“大原则固定+小变动”的普遍结构。"
+  },
+  {
+   "claim_id": "C-SX-U33-05",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "矩阵与向量相乘是批处理思路，乘法连加是单个处理思路",
+   "quote": "批处理解决问题的思路",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4083,
+    "end_line": 4087,
+    "sha1": "ae230cb8bacbddcbc17f81bead36c7a9cc929f30",
+    "fingerprint": [
+     "批处理",
+     "矩阵"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "批处理思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "投行配置资产的例子（4059-4082）并入；三维可手算，上万维必须矩阵工具。"
+  },
+  {
+   "claim_id": "C-SX-U33-06",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "将单个计算变成大批量处理，是信息时代应有的思维方式",
+   "quote": "从单个的，变成批处理的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4111,
+    "end_line": 4117,
+    "sha1": "a880fc1f633b9d180d92e1741248384533647633",
+    "fingerprint": [
+     "批处理",
+     "信息时代"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "批处理思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲要点总结句，与 C-SX-U0033-05 同论证链（概括见本卡/机理见05）。"
+  },
+  {
+   "claim_id": "C-SX-U33-07",
+   "unit_id": "SX-U0033",
+   "speaker": "吴军本人",
+   "claim_text": "自然界的数学问题多非线性，常近似为线性以套用线性代数工具",
+   "quote": "近似为线性的问题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4122,
+    "end_line": 4127,
+    "sha1": "2917aa10650a9d1ab636f55c4a332285a082598b",
+    "fingerprint": [
+     "线性",
+     "近似"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "线性近似",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲结尾：矩阵向量乘法对应线性方程组，故名线性代数（4122-4125 定义并入）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第29讲（矩阵）：7卡全部入库（D04-1主柱），无X处置；公式与矩阵图示区不入卡（以正文为准）。"
+}

@@ -1,0 +1,227 @@
+{
+ "unit_id": "SX-U0040",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U40-01",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "概率规律常与直觉相违：抛十次硬币恰五次朝上仅约四分之一",
+   "quote": "和大多数人的直觉完全不同",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4980,
+    "end_line": 4996,
+    "sha1": "065fb86f11c22b989458821abf90bc1b86b38ba7",
+    "fingerprint": [
+     "直觉",
+     "硬币"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "概率反直觉",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "赢面10%玩十次不能保证赢一次、需约26次（4984-4986）；掷12次骰子约仅30%恰两次六点，也不能据此武断否定1/6（4990-4994）。"
+  },
+  {
+   "claim_id": "C-SX-U40-02",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "伯努利试验：只有两种结果、同条件可重复、概率一致的试验",
+   "quote": "被称为伯努利试验",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4998,
+    "end_line": 5005,
+    "sha1": "1883275c194b59ec2ae09b0f9be9b5d8e248fac2",
+    "fingerprint": [
+     "伯努利",
+     "随机试验"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "伯努利试验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（伯努利）。非A即B、无第三状态、同条件重复时A与B概率保持一致；为解释真实与理想概率偏差而设。"
+  },
+  {
+   "claim_id": "C-SX-U40-03",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "不确定性的规律只在大量随机试验中显现；次数不足只见偶然",
+   "quote": "不确定性的规律",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5031,
+    "end_line": 5038,
+    "sha1": "5ded07df1e359b57612de8e60684ac8d27a365f6",
+    "fingerprint": [
+     "大量",
+     "偶然性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "大数显现规律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "N 大时分布集中在 N*p 附近（大鼓包），N 小则曲线平缓、A 发生多少次都难判定（5031-5035）；100 次试验 80% 落 40-60 次、1000 次 99.9% 落 400-600（5017-5023 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U40-04",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "试验次数越多方差标准差越小，频率估计概率越准",
+   "quote": "概率的分布越往平均值",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5058,
+    "end_line": 5067,
+    "sha1": "170154c9954fa01117b50eeac6e7560484f8ed83",
+    "fingerprint": [
+     "方差",
+     "标准差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "方差与集中",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "期望值N*p、方差=对误差的加权平均、标准差=方差开根号（5042-5057 概念并入）；100次误差约10%、10000次约1%（5065-5067）。"
+  },
+  {
+   "claim_id": "C-SX-U40-05",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "越小概率事件，确保其发生所需试验次数比理想次数多得多",
+   "quote": "越是小概率事件",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5068,
+    "end_line": 5084,
+    "sha1": "b30307fe2360564b84a6cfaa845d0643a20c7160",
+    "fingerprint": [
+     "小概率",
+     "标准差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "小概率的代价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "概率1%期望100次成功1次，但标准差约同为1（误差约100%），确保一次需约260次；中彩概率百万分之一需买约260万次、花的钱远比获得多，故该懂得人为什么不要去赌（5073-5084）。"
+  },
+  {
+   "claim_id": "C-SX-U40-06",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "提高单次成功率，远比多做试验更重要、更省成本",
+   "quote": "要远比多做试验更重要",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5085,
+    "end_line": 5091,
+    "sha1": "f0efc74e0890f068d1a870b548eb4be6302aa28b",
+    "fingerprint": [
+     "成功率",
+     "试验"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "提高单次成功率",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "50%成功率约4次确保一次（多做100%）；5%成功率约需50次而非理想20次（多做150%）；赌小概率事件“成本低”是错觉，确保其发生成本高得多。"
+  },
+  {
+   "claim_id": "C-SX-U40-07",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "现实中相同条件与互不影响难以满足，要预留更多余量",
+   "quote": "还真不容易满足",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5092,
+    "end_line": 5097,
+    "sha1": "01d962dc99d04efbc4d54cb8f991122a7f769049",
+    "fingerprint": [
+     "相同条件",
+     "余量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "试验条件的现实偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "大量随机试验需相同条件且各次互不影响；骰子磨损、桌面砸坑等细微差异累积会改变结果（5095-5097）。"
+  },
+  {
+   "claim_id": "C-SX-U40-08",
+   "unit_id": "SX-U0040",
+   "speaker": "吴军本人",
+   "claim_text": "凡事充分准备争取一次成功，远比不断试小概率事件靠谱",
+   "quote": "争取一次性成功",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5098,
+    "end_line": 5102,
+    "sha1": "330541bfe284d8ee6e40225590dbfc219322891a",
+    "fingerprint": [
+     "准备",
+     "一次性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "一次性成功",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲要点总结句（“从概率论上证明了”），与 C-SX-U0040-05/06 同链（概括见本卡/机理见05、06）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第36讲（伯努利试验）：8卡入库（D04-1主柱）；二项分布曲线与方差公式推导细节不入卡（以正文为准）；无X处置。"
+}

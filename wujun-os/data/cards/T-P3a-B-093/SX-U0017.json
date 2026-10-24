@@ -1,0 +1,176 @@
+{
+ "unit_id": "SX-U0017",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0017-01",
+   "unit_id": "SX-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "无穷大不是静态大数，而是动态无限增大的变化趋势",
+   "quote": "它不是静态的，而是动态的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1920,
+    "end_line": 1927,
+    "sha1": "f7ef8812c190939e794ed542f73f8a7a4b48fe32",
+    "fingerprint": [
+     "无穷大",
+     "动态",
+     "趋势"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无穷大是动态趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对应要点：无穷大反映无限增加的趋势，有的无穷大因变化更快而更大"
+  },
+  {
+   "claim_id": "C-SX-U0017-02",
+   "unit_id": "SX-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "无穷大代表新的科学世界观：关注变化趋势延伸到远方",
+   "quote": "代表着一种新的科学世界观",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1925,
+    "end_line": 1927,
+    "sha1": "863154a87606f0c42becede0dda066e168e7ddbe",
+    "fingerprint": [
+     "科学世界观",
+     "动态变化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "关注变化趋势的世界观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军数学观：以动态眼光看世界；与 C-SX-U0017-01 同链互证"
+  },
+  {
+   "claim_id": "C-SX-U0017-03",
+   "unit_id": "SX-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "不能以有限经验理解无限事物，有限结论放到更大场景须重验",
+   "quote": "以有限的经验理解无限事物",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1956,
+    "end_line": 1965,
+    "sha1": "72f9ade3aeeccdbfa508e7e24345c3e5535d785c",
+    "fingerprint": [
+     "有限的认知",
+     "无穷大的世界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "有限经验不可放大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "认知迁移：受过一两次骗就断言无好人是典型误区；主柱 D04-1（无穷大规律），辅 D01-1"
+  },
+  {
+   "claim_id": "C-SX-U0017-04",
+   "unit_id": "SX-U0017",
+   "speaker": "转述·第三方",
+   "claim_text": "希尔伯特旅馆：客满的无穷旅馆仍能入住，部分与整体等价",
+   "quote": "部分可以完全和整体等价",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1956,
+    "end_line": 1959,
+    "sha1": "d7669bcf2b2128abcbfc5608edc9e574598024ea",
+    "fingerprint": [
+     "希尔伯特",
+     "旅馆悖论"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "部分与整体等价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：希尔伯特（1924 旅馆悖论，经吴军转述）；吴军取用于说明有限世界等价性在无穷世界失效；原话与机理见 C-SX-U0017-03"
+  },
+  {
+   "claim_id": "C-SX-U0017-05",
+   "unit_id": "SX-U0017",
+   "speaker": "吴军本人",
+   "claim_text": "量级差异重于同量级常数倍差异，应优先提升量级",
+   "quote": "而不是捡芝麻的事情",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1966,
+    "end_line": 1968,
+    "sha1": "e98f2b6513aa3767bf2bfb821b28456b9144fe88",
+    "fingerprint": [
+     "量级的差异",
+     "捡芝麻"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-1"
+   ],
+   "concept_key": "量级优先于倍数",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "应用例：算法复杂度 N^2 降到线性是捡西瓜，线性内再省几倍是捡芝麻（例证并入本卡）；辅 D03-1 优先级取舍"
+  },
+  {
+   "claim_id": "C-SX-U0017-06",
+   "unit_id": "SX-U0017",
+   "speaker": "转述·第三方",
+   "claim_text": "庄子：夏虫不可语冰，认知受限于生命与经验的尺度",
+   "quote": "夏虫不可以语于冰者，笃于时也",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1846,
+    "end_line": 1853,
+    "sha1": "62f9eb399a6450bdea09e01be241ca9c479e7b3c",
+    "fingerprint": [
+     "夏虫",
+     "吾生也有涯"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "认知受限于尺度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：庄子（经吴军转述引于无穷大讲）；吴军取用：通识教育助人走出认知围墙"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第14讲无穷大：产出无穷大动态趋势、世界观、有限经验不可放大等核心论点卡；希尔伯特旅馆悖论与庄子引语各立转述卡；算法复杂度例证并入量级卡 notes"
+}

@@ -1,0 +1,180 @@
+{
+ "unit_id": "SX-U0039",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U39-01",
+   "unit_id": "SX-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "课程暗线：从不确定到确定再到不确定，量子力学开不确定性先河",
+   "quote": "从不确定到确定的过程",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4855,
+    "end_line": 4872,
+    "sha1": "7869c43b9a5bac9ead3c7cdf998b4342e7b2aff0",
+    "fingerprint": [
+     "不确定",
+     "确定"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "确定性的演化线索",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "几何（公理推演）、代数（解方程）、函数（确定变量关系）、微积分（宏观微观互定）属确定性阶段；普朗克史实并入：当年科学家以为物理规律已被发现完，普朗克却成量子力学开山鼻祖（4866-4871）。"
+  },
+  {
+   "claim_id": "C-SX-U39-02",
+   "unit_id": "SX-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "最早从数学角度研究随机性的是赌徒，而非数学家",
+   "quote": "寻找随机性背后的规律",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4875,
+    "end_line": 4890,
+    "sha1": "81c783c83eb8df6997aceb82af306203a626cb5b",
+    "fingerprint": [
+     "赌徒",
+     "随机性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "概率论起源于赌徒",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "桥牌例并入：打牌靠概率趋势不靠运气，牌型概率常与直觉违背（4张黑桃 1-3 分布大于 2-2）；庄家凭长期经验统计出概率分布，通常占玩家便宜（4877-4890）。"
+  },
+  {
+   "claim_id": "C-SX-U39-03",
+   "unit_id": "SX-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "帕斯卡费马1654年回应赌徒之问，算出庄家赢面52%对48%",
+   "quote": "帕斯卡和费马有很多通信",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4891,
+    "end_line": 4904,
+    "sha1": "5dbe9b30e59f2439fdc57782fdf7fbd54b354ca0",
+    "fingerprint": [
+     "帕斯卡",
+     "费马"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "概率论的创立",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（帕斯卡、费马）。机理：52%vs48% 四个百分点经长期累积即聚敛大量财富；二人工作表明不确定性背后依然有规律可循（4902-4903 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U39-04",
+   "unit_id": "SX-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "拉普拉斯以等可能单位事件定义概率，厘清有可能与概率大之别",
+   "quote": "定义了什么是概率",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4921,
+    "end_line": 4933,
+    "sha1": "19e6dde16dc7755b1d6434cfdbce66c1e9bd7363",
+    "fingerprint": [
+     "拉普拉斯",
+     "概率"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "古典概率定义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（拉普拉斯）。此前人们对“有可能”和“概率大”分不清（如以为中彩概率50%）；两骰子11种点数和并非等概率、总点数5含4个单位事件例（4925-4942 并入）；拿破仑评其“伟大数学家但不称职部长”为轶事背景不独立成卡。"
+  },
+  {
+   "claim_id": "C-SX-U39-05",
+   "unit_id": "SX-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "拉普拉斯古典概率定义有循环定义嫌疑，且依赖已知全部可能性",
+   "quote": "有循环定义的嫌疑",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4955,
+    "end_line": 4965,
+    "sha1": "51ca8bfcc9fa66c933179f73b26d7f827324aeb6",
+    "fingerprint": [
+     "循环定义",
+     "等可能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "古典定义的漏洞",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "等可能性需先有概率定义（循环）；骰子非完美对称则单位事件存疑；对未来预测常无法列举各种可能性（医保公司算60岁人三年内大病概率之例）；因易懂暂不追究严密性。"
+  },
+  {
+   "claim_id": "C-SX-U39-06",
+   "unit_id": "SX-U0039",
+   "speaker": "吴军本人",
+   "claim_text": "掌握不确定性背后的规律，就从自发状态进入自由状态",
+   "quote": "不确定性背后的规律",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4966,
+    "end_line": 4971,
+    "sha1": "08d37c5f0a5a8ecfdb7daecad9c2b0ca20123c4e",
+    "fingerprint": [
+     "自发状态",
+     "规律"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "从自发到自由",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲要点总结句；随机性是自然属性、无法否认其存在；人类最初研究动机与金钱相关。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0039",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "伏尔泰算出法国政府彩票漏洞只赚不赔（4906-4912）属数学史人物轶事，无可迁移方法论，不入卡。"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第35讲（概率简史）：6卡入库（D04-1主柱）；伏尔泰利用法国彩票漏洞致富（4906-4912）登记X4数学史人物轶事；19世纪数学家贡献罗列（4913-4915）为史实背景并入notes；古典概率计算细节不入卡。"
+}

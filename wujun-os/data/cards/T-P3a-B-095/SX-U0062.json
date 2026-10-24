@@ -1,0 +1,70 @@
+{
+ "unit_id": "SX-U0062",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0062-01",
+   "unit_id": "SX-U0062",
+   "speaker": "吴军本人",
+   "claim_text": "富翁分愁眉苦脸与吹口哨两种，差别在天性快乐而非钱的多少",
+   "quote": "而在于天性是否快乐",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 8109,
+    "end_line": 8119,
+    "sha1": "9dc896a33a98790d5a6e49b8266dd3c88ab4182e",
+    "fingerprint": [
+     "天性",
+     "快乐"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "快乐天性",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "元旦彩蛋结语：新年打起响指吹起口哨，过好当下的生活；吴军对莎翁的取用（记notes）：莎士比亚在福斯塔夫身上注入旺盛生命力，寄托对自由的向往与对秩序的嘲讽颠覆；福斯塔夫答霍茨波'荣誉能替我重装一条腿吗'、答大法官'白发提醒我生命无常，应该多吃吃喝喝'"
+  },
+  {
+   "claim_id": "C-SX-U0062-02",
+   "unit_id": "SX-U0062",
+   "speaker": "转述·第三方",
+   "claim_text": "恩格斯：福斯塔夫式的背景——在广阔社会背景中再现真实生活",
+   "quote": "福斯塔夫式的背景",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 8078,
+    "end_line": 8086,
+    "sha1": "d93892cd6e5299eebd5c9c01ebdaec0aea6d11d3",
+    "fingerprint": [
+     "福斯塔夫",
+     "恩格斯"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "DT-待判"
+   ],
+   "concept_key": "福斯塔夫式的背景",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：恩格斯（文学批评概念，吴军转述）。DT-待判理由：文学批评概念，手册十柱无直接对应；最接近 D01-4（哲学与思想评述）但该簇定义为哲学流派，文学赏析按 pillars.yaml D01-4 排除准则'纯赏析→X8'，故列 DT-待判由 P4 终裁；福斯塔夫连接上层贵族与底层市民，全景式场景构成多声部大合唱"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0062",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "福斯塔夫剧情详述、《亨利四世》历史背景、金庸韦小宝对比、《温莎的风流娘儿们》赏析、莎翁笔名八卦等属文学赏析，吴军的可迁移取用已入C-01，其余无论点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "元旦彩蛋文学单元，2卡覆盖快乐天性（吴军取用）与恩格斯福斯塔夫式背景（DT-待判）"
+}

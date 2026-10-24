@@ -1,0 +1,210 @@
+{
+ "unit_id": "SX-U0057",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0057-01",
+   "unit_id": "SX-U0057",
+   "speaker": "转述·第三方",
+   "claim_text": "希尔伯特：数学是调解理论与实践的工具，当今文化建立在数学基础上",
+   "quote": "都是建立在数学基础之上的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7661,
+    "end_line": 7671,
+    "sha1": "847a2c4ace03796594662a806833f9d0704fd9de",
+    "fingerprint": [
+     "数学",
+     "自然科学"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学是桥梁",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：希尔伯特1930年退休广播演说（吴军译）。演说内双重转述（记notes）：伽利略'自然界的语言是数学'、康德'自然科学中只有数学由纯粹真理构成'；没有数学就不可能有今天的天文学与物理学"
+  },
+  {
+   "claim_id": "C-SX-U0057-02",
+   "unit_id": "SX-U0057",
+   "speaker": "转述·第三方",
+   "claim_text": "希尔伯特：数学的价值尺度不是具体应用，是人类精神的荣耀",
+   "quote": "具体应用作为数学的价值尺度",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7672,
+    "end_line": 7678,
+    "sha1": "b3d19edd27b79e772ef754092b585bef3d6fb2fc",
+    "fingerprint": [
+     "价值尺度",
+     "高斯"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学的价值尺度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：希尔伯特演说（含高斯、克罗内克、庞加莱、雅可比言论的转引）：高斯谈数论魔幻吸引力、克罗内克比忘忧果、庞加莱反驳托尔斯泰'为科学而科学是愚蠢的'、雅可比'人类精神的荣耀是所有科学的唯一目的'；缺不为利益所动的'傻瓜'就没有今天的工业成就"
+  },
+  {
+   "claim_id": "C-SX-U0057-03",
+   "unit_id": "SX-U0057",
+   "speaker": "转述·第三方",
+   "claim_text": "希尔伯特：没有什么是不可知的，我们必须知道，我们必将知道",
+   "quote": "我们必须知道",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7679,
+    "end_line": 7684,
+    "sha1": "5f21cb89d3e5fbf02a5ad74bddbee28edafffb9b",
+    "fingerprint": [
+     "不可知论",
+     "必将知道"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "我们必须知道",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：希尔伯特演说结语名言，反驳当时'文化衰落'与'不可知论'；吴军评：洋溢着乐观主义激情，至今听来让人动容"
+  },
+  {
+   "claim_id": "C-SX-U0057-04",
+   "unit_id": "SX-U0057",
+   "speaker": "吴军本人",
+   "claim_text": "加密的本质是数学的不对称性：验证容易、破解极难",
+   "quote": "所有的加密货币之所以能够流通",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7772,
+    "end_line": 7790,
+    "sha1": "81f9d8a93056edc6b6cee84601fb03cd3487f97b",
+    "fingerprint": [
+     "不对称",
+     "加密"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D04-2"
+   ],
+   "concept_key": "加密的不对称性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "信息安全需不对称机制：特定授权下不拥有信息也能使用信息，不授访问权限也能验证；比特币靠私钥加密、公钥验证（公钥倒推私钥在有限计算时间内做不到）；房产证上链例：买主只需验证所有权无需了解其它信息；黄金分割也是不对称之美"
+  },
+  {
+   "claim_id": "C-SX-U0057-05",
+   "unit_id": "SX-U0057",
+   "speaker": "转述·第三方",
+   "claim_text": "椭圆曲线离散对数：算终点容易，猜步数计算量极大",
+   "quote": "验证结果非常容易",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7843,
+    "end_line": 7865,
+    "sha1": "ac93529be9c72584d54419a652f96d21ab3afefa",
+    "fingerprint": [
+     "椭圆曲线",
+     "离散对数"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1",
+    "D04-2"
+   ],
+   "concept_key": "椭圆曲线加密",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：椭圆曲线密码学（比特币协议，标准名以正文为准）。点乘运算满足交换律结合律；160位密钥比RSA最短1024位短很多而安全相当；2003年万台PC一年半破109位密钥，破译时间随密钥长度指数增长；算法与公式以正文为准"
+  },
+  {
+   "claim_id": "C-SX-U0057-06",
+   "unit_id": "SX-U0057",
+   "speaker": "吴军本人",
+   "claim_text": "只要数学非对称性存在加密就安全，算力提升只需更复杂加密",
+   "quote": "加密就是安全的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7867,
+    "end_line": 7874,
+    "sha1": "f3ed41a87173d0d337c31564ac0f038d0a3254b7",
+    "fingerprint": [
+     "量子计算",
+     "非对称"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "非对称性保安全",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "2019年Google量子计算在特定计算上突破引发区块链安全担忧；若真能走出实验室用于更多计算，现有算法要修改，但椭圆曲线加密思想依然安全"
+  },
+  {
+   "claim_id": "C-SX-U0057-07",
+   "unit_id": "SX-U0057",
+   "speaker": "吴军本人",
+   "claim_text": "看似无用的数学理论最后可能有大用途，分支相互关联",
+   "quote": "那些看似没有用的数学理论",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7875,
+    "end_line": 7881,
+    "sha1": "d5482f82d51ac7de56cd96a0476fbe06e4b66311",
+    "fingerprint": [
+     "费马大定理",
+     "椭圆曲线"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无用理论的大用途",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "谷山丰发现椭圆曲线与费马大定理关联、志村五郎完善为谷山-志村猜想、怀尔斯由此完成证明（转述记notes，被转述者：谷山丰/志村五郎/怀尔斯）；呼应 C-SX-U0055-01、C-SX-U0050-06 同主题"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0057",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "希尔伯特生平（柯尼斯堡/康德/七桥问题、冯·诺依曼改写海森堡论文、哥德尔破灭大一统、哥廷根衰落）与英文原文残段为史实与编校内容，不入卡；哥德尔完备性要点已在 C-SX-U0054-02 覆盖"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "希尔伯特演说+椭圆曲线加餐单元，7卡覆盖演说三论点、加密不对称、离散对数、量子安全、无用之用"
+}

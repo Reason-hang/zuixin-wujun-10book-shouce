@@ -1,0 +1,197 @@
+{
+ "unit_id": "SX-U0042",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U42-01",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "发明的荣誉常授予最后一个发明者，高斯分布即如此",
+   "quote": "授予最后一个发明者",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5381,
+    "end_line": 5388,
+    "sha1": "0bfe790c15860ca0853d4f4523397cdba154c434",
+    "fingerprint": [
+     "高斯",
+     "正态分布"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1",
+    "D10-1"
+   ],
+   "concept_key": "荣誉归最后发明者",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（棣莫弗、拉普拉斯已提出正态分布，高斯以均值和标准差作更严格分析、为发现画了句号故得名）；与 C-SX-U0038-08（看贡献非看最早）同一概念链。"
+  },
+  {
+   "claim_id": "C-SX-U42-02",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "均值差异若与标准差相当，就没有足够证据判断优劣",
+   "quote": "足够的证据说明哪个班成绩更好",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5407,
+    "end_line": 5426,
+    "sha1": "ada098e7506d50843f07f47dbdfd0cc2e55aaf1d",
+    "fingerprint": [
+     "标准差",
+     "置信度"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "均值差异与随机性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两班成绩例：均值差5分、标准差5分时65%无法判断（置信度概念）；标准差降到1则有95%把握；标准差越大曲线越扁、重合面积越大（5392-5406 设定并入）。"
+  },
+  {
+   "claim_id": "C-SX-U42-03",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "提高统计人数可减小标准差，小样本差异会被其掩盖",
+   "quote": "标准差就会从5 降低到1 左右",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5427,
+    "end_line": 5441,
+    "sha1": "fe40b52eff0b5ed25c1ee25e803069a254064943",
+    "fingerprint": [
+     "样本",
+     "标准差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "大样本降标准差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "成绩分布不变、人数提高25倍，标准差5→1；百健（Biogen）阿尔茨海默药：半年前小样本药效不明显、2019年10月大样本证明有效，巨大标准差曾掩盖药效差异。"
+  },
+  {
+   "claim_id": "C-SX-U42-04",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "三西格玛原则：随机性结论通常需95%置信度才可靠",
+   "quote": "需要有95%的置信度",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5442,
+    "end_line": 5458,
+    "sha1": "9c972b1c90a4e64b16a3a579c37f44ecc3eaefbd",
+    "fingerprint": [
+     "置信度",
+     "标准差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "68-95-99.7原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "一个标准差内置信度68%、两倍95%、三倍99.7%；做科学实验通常需95%置信度，要求极高时更高；曲线下面积即积分=概率（5460-5461 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U42-05",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "标普500年回报7-8%而标准差16%：股市风险远超想象",
+   "quote": "标准差直接称为风险",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5465,
+    "end_line": 5477,
+    "sha1": "466d7e01f578bd8f639c8a9a2aa985d41941cf32",
+    "fingerprint": [
+     "标准普尔",
+     "风险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-1"
+   ],
+   "concept_key": "股市风险超想象",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "金融领域把标准差直接称为风险；标普500已是世界风险最低、回报最高的投资工具，其他投资风险更高，投资如何小心都不为过；对大概率事件人们往往视而不见（5471-5472）。"
+  },
+  {
+   "claim_id": "C-SX-U42-06",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "对比投资回报须在相同风险下对比，存款债券也有通胀风险",
+   "quote": "不能只考虑回报不考虑风险",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5478,
+    "end_line": 5489,
+    "sha1": "36ce607011afb1423984f3f86b0020a8360a4c93",
+    "fingerprint": [
+     "风险",
+     "回报"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "同风险比回报",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "A回报10%风险20%与B回报5%风险3%不可直比（且具互补性）；存款回报3%遇通胀5%即风险；各国刻意低报通胀（房价上涨不计入而它恰可能是通胀重要原因）。"
+  },
+  {
+   "claim_id": "C-SX-U42-07",
+   "unit_id": "SX-U0042",
+   "speaker": "吴军本人",
+   "claim_text": "回报差异小于标准差时更可能是随机波动，勿自认股神",
+   "quote": "更可能是市场浮动的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5490,
+    "end_line": 5497,
+    "sha1": "aa2dc4f65db1abfbd160d0d9c5484aeff2c05232",
+    "fingerprint": [
+     "标准差",
+     "随机性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-1"
+   ],
+   "concept_key": "跑赢大盘或是随机性",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "连续三年10%与5%回报的股票分不出好坏（个股方差比股指更大）；美国每年涨幅前十的股票、基金次年多跌出前十；要点总结“很小的均值差异可能说明不了问题”（5499-5501）同链。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第38讲（高斯分布）：7卡入库（D04-1主柱4卡、D09-2主柱3卡其中2卡辅D04-1）；正态分布公式与曲线图不入卡（以正文为准）；无X处置。"
+}

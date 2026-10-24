@@ -1,0 +1,263 @@
+{
+ "unit_id": "SX-U0038",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U38-01",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "数学界定两人共同发明微积分并非和稀泥：角度不同、各有贡献",
+   "quote": "并不是和稀泥",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4719,
+    "end_line": 4722,
+    "sha1": "5e9fcc614ab665883535ce156f374a114d2ef401",
+    "fingerprint": [
+     "共同发明",
+     "贡献"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "共同发明的根据",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "史实梗概并入：莱布尼茨1673访伦敦、1676抄录牛顿手稿（4675-4718）；两人不对付重要原因是宗教信仰分歧（4765-4782）。"
+  },
+  {
+   "claim_id": "C-SX-U38-02",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "牛顿从物理力学出发构建微积分，思想直接服务物理",
+   "quote": "服务于物理学的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4723,
+    "end_line": 4735,
+    "sha1": "7feeab931d98d58cfed41ec8a684f98f188c22f1",
+    "fingerprint": [
+     "牛顿",
+     "力学"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "牛顿的物理视角",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（牛顿）。三大力学问题：加速度-速度-距离、动量-动能-撞击力、向心加速度与万有引力；其符号不便表达、概念欠清晰，今已不用。"
+  },
+  {
+   "claim_id": "C-SX-U38-03",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "莱布尼茨从哲学逻辑出发构建微积分，比牛顿版本更严格",
+   "quote": "由简单世界到复杂世界的必经之路",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4736,
+    "end_line": 4754,
+    "sha1": "ee42ecbcbe74e1c12da3df4d04b5bc882cc8c381",
+    "fingerprint": [
+     "莱布尼茨",
+     "哲学"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "莱布尼茨的哲学视角",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（莱布尼茨）。哲学两要点：概念由简单单元复合、复合过程即计算；提出dx/dy无穷小、宏观拆微观再合并；今日微积分符号多承其手，另发明二进制。"
+  },
+  {
+   "claim_id": "C-SX-U38-04",
+   "unit_id": "SX-U0038",
+   "speaker": "转述·第三方",
+   "claim_text": "莱布尼茨1676年信中承认牛顿积分法在先，赞其为天才发明者",
+   "quote": "他是天才的发明者",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4699,
+    "end_line": 4704,
+    "sha1": "42386d14aca6b8306d2cb8fef04e5808d03bd042",
+    "fingerprint": [
+     "莱布尼茨",
+     "牛顿"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "莱布尼茨承认牛顿在先",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：莱布尼茨（1676年致皇家学会秘书奥登伯格信）。发明权之争的关键证据；吴军以此说明两人工作并不独立（互见 C-SX-U0038-01）。"
+  },
+  {
+   "claim_id": "C-SX-U38-05",
+   "unit_id": "SX-U0038",
+   "speaker": "转述·第三方",
+   "claim_text": "莱布尼茨1701年答腓特烈大帝：牛顿工作超此前全部数学一半",
+   "quote": "牛顿的工作超过了一半",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4760,
+    "end_line": 4763,
+    "sha1": "6a3754d745607fe32bcf7234456e7385a5c7f3fd",
+    "fingerprint": [
+     "莱布尼茨",
+     "牛顿"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "莱布尼茨盛赞牛顿",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：莱布尼茨（发明权论战期间答普鲁士国王腓特烈大帝问）。私下评价极高，与其公开之争形成对照。"
+  },
+  {
+   "claim_id": "C-SX-U38-06",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "自然科学可启发数学但非必需，凭正确前提与逻辑可构建体系大厦",
+   "quote": "构建起一个体系的大厦",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4783,
+    "end_line": 4789,
+    "sha1": "088ab68ab0ce60c4934721e3fc3bd70988322f63",
+    "fingerprint": [
+     "逻辑",
+     "体系"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学独立于自然科学",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "由莱布尼茨反科学自然观却发明伟大数学工具引出；对应“数学与逻辑、哲学的关系”主题。"
+  },
+  {
+   "claim_id": "C-SX-U38-07",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "重大发明是水到渠成：缺牛顿或莱布尼茨一人，微积分依然会出现",
+   "quote": "水到渠成的结果",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4794,
+    "end_line": 4800,
+    "sha1": "7a1e99826ad7e5eb8b23ca4991a39e24527f767e",
+    "fingerprint": [
+     "水到渠成",
+     "微积分"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-1"
+   ],
+   "concept_key": "发明的水到渠成",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "“在任何重大发明的过程中，时间早可能远没有我们想象的重要”；巴罗的原始思想不算微积分、各国雏形之说“当笑话听听”，与工具成立标准（C-SX-U0033-03）同链；今微积分承莱布尼茨版本更多、学的是柯西后完善版（4802-4805 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U38-08",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "对一项发明，简单追溯最早发明人无意义，要看谁做出具体贡献",
+   "quote": "最早的发明人是没有意义的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4755,
+    "end_line": 4756,
+    "sha1": "2606336f6f99d864f5d844d42e06b7b63daae7fb",
+    "fingerprint": [
+     "发明人",
+     "贡献"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-1"
+   ],
+   "concept_key": "看贡献非看最早",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "据此莱布尼茨当之无愧是微积分发明人之一；未提牛顿或因其作风及宗教观点分歧（4757-4759 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U38-09",
+   "unit_id": "SX-U0038",
+   "speaker": "吴军本人",
+   "claim_text": "醉心从零到一不够，伟大发明要走完从0到N全过程，何时进入都不晚",
+   "quote": "任何时候进入相关的领域都不晚",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4806,
+    "end_line": 4807,
+    "sha1": "2caa8c693f6db867a12c5ad2177f33f0cf0ee9c6",
+    "fingerprint": [
+     "从0 到N",
+     "不晚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "从0到N",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "微积分大厦经柯西、魏尔斯特拉斯、黎曼、勒贝格两百余年才建成（4790-4793 并入）；模块结语：从会算题到拥有动态看世界的眼光（4808-4809）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0038",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "单元尾部为课程考试题（证明题/计算题，4811-4850），属课程运营内容，不含可迁移论点，不入卡。"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第34讲（微积分发明权）：9卡入库（D04-1主柱6卡、D10-1主柱3卡均辅D04-1；含2张莱布尼茨原话转述卡E2）；单元尾部考试题区（4811-4850）登记X8不入卡。"
+}

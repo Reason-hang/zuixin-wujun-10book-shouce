@@ -1,0 +1,204 @@
+{
+ "unit_id": "SX-U0018",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0018-01",
+   "unit_id": "SX-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "无穷小不是确定的数更不是零，是与无穷大一样的趋势",
+   "quote": "更不是零，它和无穷大一样",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1978,
+    "end_line": 1984,
+    "sha1": "ab654e9697a38b283d7d910dee36ab891c891724",
+    "fingerprint": [
+     "无穷小",
+     "趋势",
+     "认知世界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无穷小是趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "定义两条件（非零、绝对值小于任意给定数）属数学事实不入卡；此卡收吴军\"所以然\"概括"
+  },
+  {
+   "claim_id": "C-SX-U0018-02",
+   "unit_id": "SX-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "掌握无穷小概念是检验把握变化思维层次的很好标准",
+   "quote": "就是很好的检验标准",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1981,
+    "end_line": 1984,
+    "sha1": "96732611a5f6f74ec11d6c0f1c3c238483da5364",
+    "fingerprint": [
+     "高等数学",
+     "检验标准"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无穷小检验思维层次",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学水平不在会做题，而在把握世界变化的层次"
+  },
+  {
+   "claim_id": "C-SX-U0018-03",
+   "unit_id": "SX-U0018",
+   "speaker": "转述·第三方",
+   "claim_text": "芝诺四悖论：无限分割时空推出运动不可能等反直觉结论",
+   "quote": "从A 点到B 点是不可能的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 1993,
+    "end_line": 2008,
+    "sha1": "8959e083e493b1a7f01f8e310bdab9283fe7489d",
+    "fingerprint": [
+     "芝诺",
+     "悖论",
+     "阿喀琉斯"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "芝诺悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：芝诺（四悖论：二分法、阿喀琉斯、飞箭不动、相对运动，经吴军转述）；悖论细节为史实仅录要旨"
+  },
+  {
+   "claim_id": "C-SX-U0018-04",
+   "unit_id": "SX-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "芝诺错误的实质是把无穷小直接当成了零",
+   "quote": "把无穷小直接当做了0",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2027,
+    "end_line": 2029,
+    "sha1": "37b2a6d14d8ce8d79d3e5be9a6c668a3339b64cd",
+    "fingerprint": [
+     "无穷小",
+     "芝诺"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "芝诺错误的实质",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "相对运动悖论中 Δ 无限接近零但非零，故 1Δ≠2Δ；原话见 C-SX-U0018-03"
+  },
+  {
+   "claim_id": "C-SX-U0018-05",
+   "unit_id": "SX-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "严守逻辑的思维方式使数学和自然科学得以体系化发展",
+   "quote": "严守逻辑的思维方式",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2030,
+    "end_line": 2034,
+    "sha1": "70cb298f4bd5bf0d0c2a2f865d678a577785a5a9",
+    "fingerprint": [
+     "古希腊",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "严守逻辑成就科学体系",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对照：中国士大夫学以致用取向不屑芝诺式问题；吴军评述文明差异"
+  },
+  {
+   "claim_id": "C-SX-U0018-06",
+   "unit_id": "SX-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "逻辑与经验矛盾：或经验错，或逻辑缺概念，补上即获大发展",
+   "quote": "因为有概念的缺失",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2035,
+    "end_line": 2042,
+    "sha1": "e2d198e6b3db92a6caaa9e7ab58e202d95fc3f1f",
+    "fingerprint": [
+     "经验",
+     "逻辑",
+     "缺失"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "逻辑与经验矛盾时补概念",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：地心说经验错；无理数概念补毕达哥拉斯定理缺口；辅 D01-1 推理与经验适用条件"
+  },
+  {
+   "claim_id": "C-SX-U0018-07",
+   "unit_id": "SX-U0018",
+   "speaker": "吴军本人",
+   "claim_text": "接受数是趋势而非具体数，看世界从逐点变为按趋势",
+   "quote": "数的概念可以超出一个具体的数",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2092,
+    "end_line": 2097,
+    "sha1": "9e2820e9eb1f25abb11d27a1fb9957da390f332f",
+    "fingerprint": [
+     "趋势",
+     "思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "按趋势看世界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "弦论讲趋势非具体点，例证并入；承接 C-SX-U0017-01"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第15讲无穷小（一）：产出无穷小是趋势、检验思维层次、芝诺错误实质、严守逻辑、补概念、按趋势看世界等卡；芝诺四悖论立转述卡"
+}

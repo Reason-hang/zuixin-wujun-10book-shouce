@@ -1,0 +1,119 @@
+{
+  "unit_id": "JS-U0008",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0008-01",
+      "unit_id": "JS-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "让客户满意的销售和服务，恰恰是不给客户太多的选择",
+      "quote": "不给客户太多的选择",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 343,
+        "end_line": 343,
+        "sha1": "d60fcfdc97b544d69f250a71013fb9f0f0088226",
+        "fingerprint": [
+          "不给客户太多的选择",
+          "满意"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "没有选择的好处",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证（345-357行）：苹果不给选项反被追捧；何庭波转述三星砍至上几款机型市占第一、华为效仿；哈耶克将欧米茄上千种减到一百种销量反升；iPhone 5C 反例；谷歌缺省设置实验更满意；本田短产品线畅销 vs 通用长产品线难选；林璎概括乔布斯“少就是多”（转述链并入）。"
+    },
+    {
+      "claim_id": "C-JS-U0008-02",
+      "unit_id": "JS-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "对内管理同样不给太多选择，有利于提高管理效率和员工幸福感",
+      "quote": "有利于提高管理的效率",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 359,
+        "end_line": 359,
+        "sha1": "94f239ea2ba7889d1d35b3e924397f547215e61a",
+        "fingerprint": [
+          "管理的效率",
+          "员工的幸福感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "管理上没有选择",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：腾讯部门旅游只留北海道一地反人人满意（361行吴军亲历，两案对比必有一方后悔）；同学聚会时间由核心同学定而非投票（365-367行）。"
+    },
+    {
+      "claim_id": "C-JS-U0008-03",
+      "unit_id": "JS-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "不必追求人人满意：排斥产品者本非潜在客户；设计者引导顾客，管理者不必事事取悦员工",
+      "quote": "没有能力让所有人都满意",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 369,
+        "end_line": 371,
+        "sha1": "df2932bcaa082982f235673a0af6742d39fc4e86",
+        "fingerprint": [
+          "潜在客户",
+          "引导顾客"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "不追求人人满意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "偏好永远与团队不一致者，除非不可替代，替换对双方都是解脱（369行）；好制度=简单有效+绝大多数员工满意（371行）。"
+    },
+    {
+      "claim_id": "C-JS-U0008-04",
+      "unit_id": "JS-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "适度的选择给我们自由，过多的选择会适得其反",
+      "quote": "适度的选择给我们自由",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 373,
+        "end_line": 373,
+        "sha1": "d69be1aeb3a007c55a99445c5e49cb100800d30e",
+        "fingerprint": [
+          "适度的选择",
+          "适得其反"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "适度选择",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全节总结句，统摄对外经营（343行）与对内管理（359行）两支。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "经营与管理秘诀节：4 卡（E1×4），大量公司案例（苹果/三星/哈耶克/谷歌/本田/通用/腾讯）按 R3 并入母卡 notes。"
+}

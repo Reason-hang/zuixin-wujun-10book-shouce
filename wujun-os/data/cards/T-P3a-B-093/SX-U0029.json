@@ -1,0 +1,187 @@
+{
+ "unit_id": "SX-U0029",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0029-01",
+   "unit_id": "SX-U0029",
+   "speaker": "转述·第三方",
+   "claim_text": "费曼：看似严谨的定义不过是用词解释词，背熟仍不懂含义",
+   "quote": "不过是用一些词解释另一些词",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3486,
+    "end_line": 3488,
+    "sha1": "fdb475972c875fd01ec24e5575b8d5472e031c04",
+    "fingerprint": [
+     "费曼",
+     "定义",
+     "物理学课本"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "用词解释词的定义无效",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：费曼（对物理学课本的批评，经吴军转述）；吴军由初中函数定义绕口引出，教科书编写有问题；ability 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0029-02",
+   "unit_id": "SX-U0029",
+   "speaker": "吴军本人",
+   "claim_text": "函数概念的提出有划时代意义：从对数的计算转向变量关系",
+   "quote": "在数学史上有划时代的意义",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3533,
+    "end_line": 3541,
+    "sha1": "fd97c528ba87ab294a0b5eb8f842d6e999930f4c",
+    "fingerprint": [
+     "函数",
+     "变量",
+     "方程"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "函数概念的划时代意义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "此前方程只是解题工具不表示变量关系；解析几何与天文物理发展是两大铺垫；李善兰\"函\"译名词源与莱布尼茨生逢其时为史实并入"
+  },
+  {
+   "claim_id": "C-SX-U0029-03",
+   "unit_id": "SX-U0029",
+   "speaker": "吴军本人",
+   "claim_text": "人对变量关系的感觉不准确，函数帮助我们弥补先天不足",
+   "quote": "弥补了这个先天不足",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3543,
+    "end_line": 3557,
+    "sha1": "4af777a26794a61a1488926780e44fb201086b94",
+    "fingerprint": [
+     "西瓜",
+     "平方关系",
+     "立方关系"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "函数弥补直觉不足",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "西瓜直径差 1/4 重量多一倍、圆面积平方、球体积立方例证并入；线性好懂、平方费劲、立方更难"
+  },
+  {
+   "claim_id": "C-SX-U0029-04",
+   "unit_id": "SX-U0029",
+   "speaker": "吴军本人",
+   "claim_text": "函数让人从关注具体数转向趋势，不因单点消息过度乐观悲观",
+   "quote": "度量变化趋势所带来的差异",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3558,
+    "end_line": 3575,
+    "sha1": "c51ac0bb7e529ade2c4d4e1fcec8f8c96db7b485",
+    "fingerprint": [
+     "趋势",
+     "GDP",
+     "见识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "从具体数到趋势的见识",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "GDP 增长率曲线对比例证；PPT 用曲线直方图替代直接引数据（报告技巧并入）"
+  },
+  {
+   "claim_id": "C-SX-U0029-05",
+   "unit_id": "SX-U0029",
+   "speaker": "吴军本人",
+   "claim_text": "函数为同类问题提供普遍性答案，让人有一通百通的可能",
+   "quote": "通过学习几个例题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3576,
+    "end_line": 3584,
+    "sha1": "0b15bcb0a352d10d7bb034b0649a8318db4fd7d6",
+    "fingerprint": [
+     "例题",
+     "抛射",
+     "弹道"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "函数一通百通",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "抛射距离是角度函数（运动员炮兵狙击手）、电子计算机最初为算弹道（史实并入）；辅 D02-2 学习迁移"
+  },
+  {
+   "claim_id": "C-SX-U0029-06",
+   "unit_id": "SX-U0029",
+   "speaker": "吴军本人",
+   "claim_text": "思维方式要从常数思维到变量思维，再到函数思维",
+   "quote": "从常数思维到变量思维",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3586,
+    "end_line": 3593,
+    "sha1": "0656d32e68301c7f526320da589f64ac75976ba3",
+    "fingerprint": [
+     "常数思维",
+     "变量思维",
+     "函数思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "常数变量到函数思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "要点总结核心句；与 C-SX-U0022-01 孤立静止到动态趋势同链"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0029",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "函数四特性（变量/对应/确定/可计算）为数学定义事实；\"函\"字译名词源为史实，均不入论点卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第25讲函数（上）：函数划时代意义、弥补直觉、趋势见识、一通百通、函数思维等 6 卡；费曼转述卡；函数四特性定义与李善兰词源记 X4"
+}

@@ -1,0 +1,160 @@
+{
+  "unit_id": "JS-U0013",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0013-01",
+      "unit_id": "JS-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "预售式众筹做不大：参与者无利益所得，商业的事要以商业方式办才能持久做大",
+      "quote": "任何商业行为都不能持久",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 649,
+        "end_line": 649,
+        "sha1": "d84c78869258034cfb10c97948729d5605c1bba0",
+        "fingerprint": [
+          "预售",
+          "利益所得"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "预售式众筹做不大",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出书/出唱片式众筹本质是预售、参与者出于慈善情怀（647行）；七八年无大起色为例证。"
+    },
+    {
+      "claim_id": "C-JS-U0013-02",
+      "unit_id": "JS-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "众筹经济的本质：基于大数据、机器智能和跟踪技术等新生产力要素之上的新生产关系",
+      "quote": "一种新的生产关系",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 699,
+        "end_line": 699,
+        "sha1": "0f60813e3a8509e8c7b7d5dab68340b3373f3727",
+        "fingerprint": [
+          "新的生产关系",
+          "生产力要素"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "众筹经济＝新生产关系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "不止商品预售、也不止新技术优化产业链去环节，而是生产关系变革（699行）。"
+    },
+    {
+      "claim_id": "C-JS-U0013-03",
+      "unit_id": "JS-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "特斯拉众筹造车：用户付定金参与设计，按需生产、绕过批发零售直销，不需大量贷款",
+      "quote": "像搭积木似的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 663,
+        "end_line": 665,
+        "sha1": "5731e4d56b7684fdde7acc8c7117e65a23379352",
+        "fingerprint": [
+          "众筹的方式",
+          "批发零售环节"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "特斯拉众筹造车",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（先收款后生产、用户选项迭代成标配、不产卖不出的车，653行）；传统链 6 环节贷款重、资本回收周期长、顾客意见进不了下次迭代（657-659行）；同性能车价差大半被经销渠道与借贷成本赚走（667行）。"
+    },
+    {
+      "claim_id": "C-JS-U0013-04",
+      "unit_id": "JS-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "顾客成为投资者：众筹改变生产关系中的利益分配，参与者以面子溢价获投资回报",
+      "quote": "顾客成为投资者",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 677,
+        "end_line": 677,
+        "sha1": "9cbc8176b6ca006e2e50fe6ebf8dfb1bc58974f9",
+        "fingerprint": [
+          "顾客成为投资者",
+          "投资的回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "顾客成为投资者",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "马斯克不让经销商黄牛赚溢价而返还首批众筹用户；例证：iPhone 近 100% 溢价、爱马仕/哈苏/徕卡 20% 溢价、i8 10% 溢价；吴军读者群调查约一半愿 100 美元参与苹果式众筹（675-677行）；小米、摩拜 299 元充值即变相众筹（679行）。"
+    },
+    {
+      "claim_id": "C-JS-U0013-05",
+      "unit_id": "JS-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "区块链供应链融资：银行见全链合同后可按核心企业低息信用放贷，专款专用防挪用",
+      "quote": "看到上下游各方签署的全部合同",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 693,
+        "end_line": 695,
+        "sha1": "ae77b997953a781ab16afc241c5b2c15b36b8b0a",
+        "fingerprint": [
+          "区块链",
+          "上下游",
+          "挪用贷款"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "区块链供应链融资",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "【领域直连：供应链金融】康奈尔大学太阳能项目案例（683-689行）：核心企业信用 4.9% vs 承包商短贷 12.99%，区块链披露上下游合同+按进度付款使银行敢低息放贷且无法挪用；Skuchain 落地（697行）；再往前一步资金方可为中小投资人即真众筹。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0013",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2016-2017 年时点数据：特斯拉出货 7 万辆/市值超通用、摩拜 299 元充值模式（669-679行）等依赖当时市场状态，机理已留卡，登记 X2 由 P4 终裁。"
+    },
+    {
+      "unit_id": "JS-U0013",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "Fintech 与“将金融系统接入商品制造和流通”的进一步众筹展望、个性化定制在智能时代才可行的技术判断（681/673行）属未来趋势预测，登记 X6 由 P4 终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "众筹经济节：5 卡（E1×3、E3×2 含特斯拉模式与区块链供应链融资领域直连卡）；时点数据登记 X2、Fintech 展望登记 X6。"
+}

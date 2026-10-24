@@ -1,0 +1,264 @@
+{
+  "unit_id": "JS-U0004",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0004-01",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "运气是一时的、随机性很强；命才影响人的一生、起决定作用，一时好运不可能大富大贵",
+      "quote": "运气是一时的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 151,
+        "end_line": 153,
+        "sha1": "a54fba75341a1fc234f6d264e5adda7d0b4c2b23",
+        "fingerprint": [
+          "运气是一时的",
+          "具有很强的随机性",
+          "起着决定作用"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "运气与命之分",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "邻家师姐高考好运、彩票大奖10年败光为例证（149/151行）；吴晓波《大败局》转述并入。"
+    },
+    {
+      "claim_id": "C-JS-U0004-02",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "命就是一个人看问题和做事情的方法，它决定人的一生；思维方式出问题的人命运之神永不眷顾",
+      "quote": "看问题和做事情的方法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 171,
+        "end_line": 173,
+        "sha1": "90a4acfab0151fc79971ccc87e86b4307dffeed4",
+        "fingerprint": [
+          "看问题和做事情的方法",
+          "命运之神"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "命＝看问题做事的方法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "217行“思维方式出问题的人，命运之神是永远不会眷顾的”同链；例证：李广难封（思维未达侯级）、孙策逞勇、马路上健走者（185-193行），及性格决定命运的辨析（217行）。"
+    },
+    {
+      "claim_id": "C-JS-U0004-03",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "信命是知道自己有所不能，认命是不超越命运给自己画的线，对得不到的坦然接受",
+      "quote": "信命和认命",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 155,
+        "end_line": 155,
+        "sha1": "d15829dc0e5a260eb76ff856c258fce1b46f72fa",
+        "fingerprint": [
+          "信命是知道自己有所不能",
+          "认命"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "信命与认命",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "孔子“从心所欲，不逾矩”之“不逾矩”即认命（转述并入）；169行“到哪座山唱哪座山的歌”亦属信命。"
+    },
+    {
+      "claim_id": "C-JS-U0004-04",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "命主要取决于两个因素：环境的因素和我们自己对未来走向划定的方向，努力与运气只是线间微调",
+      "quote": "环境的因素和我们自己",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 167,
+        "end_line": 167,
+        "sha1": "9da1064866736c01afc1b396ae55b5e0ad884d87",
+        "fingerprint": [
+          "环境的因素",
+          "两条线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "命的两因素",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出身好只是交了一次好运，不等于命好（165行崇祯/曹雪芹例证并入）。"
+    },
+    {
+      "claim_id": "C-JS-U0004-05",
+      "unit_id": "JS-U0004",
+      "speaker": "转述·第三方",
+      "claim_text": "格拉德威尔《异类》：人出生的时间和地点在很大程度上决定了他们的命运",
+      "quote": "出生的时间和地点",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 169,
+        "end_line": 169,
+        "sha1": "ca7606bf27ed47e1d53f4bfde51c41d9a9bb7384",
+        "fingerprint": [
+          "异类",
+          "出生的时间和地点"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "出生时间地点决定命运",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：马尔科姆·格拉德威尔《异类》；吴军引以支撑“环境因素”，概括见 C-JS-U0004-04。"
+    },
+    {
+      "claim_id": "C-JS-U0004-06",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "人生麻烦如被扇巴掌，对待巴掌的三种态度与处理方法决定命运，且方法有高度一致性",
+      "quote": "巴掌的态度和处理方法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 203,
+        "end_line": 205,
+        "sha1": "0a0d6aa00d59eb42011909959eb9c9d5a69bd0b0",
+        "fingerprint": [
+          "扇我们巴掌",
+          "高度的一致性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "巴掌反应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三种反应：扇回去/捂脸认怂/冷静分析（197-201行）；考试考砸三法例证（203行）；219-225行认怂型家长、亚裔分数内卷、刘震云阿Q祥林嫂之评并入。"
+    },
+    {
+      "claim_id": "C-JS-U0004-07",
+      "unit_id": "JS-U0004",
+      "speaker": "转述·第三方",
+      "claim_text": "撒切尔夫人：注意想法→言辞行动→行为→习惯→性格→命运的链条",
+      "quote": "注意你的想法",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 205,
+        "end_line": 217,
+        "sha1": "4cfa6719abd3065c0b659fe1f71d2a11c34cb810",
+        "fingerprint": [
+          "注意你的想法",
+          "习惯",
+          "决定你的命运"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "想法到命运的链条",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：撒切尔夫人（吴军整段转述，207-215行）；“性格决定命运”或源于此；吴军按语：决定命运的还包括习惯、行为及其背后的思维方式（217行），与 C-JS-U0004-02 互证。"
+    },
+    {
+      "claim_id": "C-JS-U0004-08",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "知识面稍宽、圈子稍广、了解事情稍全面，命就会好很多；见识与判断力不足则命差",
+      "quote": "知识面稍微宽一点",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 183,
+        "end_line": 183,
+        "sha1": "a4c2511f3e316de078a1e345ffd134d4ec2f5cfb",
+        "fingerprint": [
+          "知识面稍微宽一点",
+          "见识和判断力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "见识宽则命好",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：苦命演员（读书少、圈子窄）、马克·吐温挣稿费投资糟践光（183行）。"
+    },
+    {
+      "claim_id": "C-JS-U0004-09",
+      "unit_id": "JS-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "选公司只看独一无二的价值与行业定价权，不看概念与一时股价，不挣一次性快钱",
+      "quote": "独一无二的价值",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 175,
+        "end_line": 181,
+        "sha1": "faf592d0628ad8adb28a6888b74f0e71fda0f120",
+        "fingerprint": [
+          "独一无二的价值",
+          "定价权"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2",
+        "D02-3"
+      ],
+      "concept_key": "独一无二的价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "从其北大康奈尔朋友经历归纳（E2）；只关注命中能得到的、不眼红快钱即认命的投资面（181行）；正面例子高盛/亚马逊/谷歌/腾讯，反例乐视、小米。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0004",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "227行“中国今天这样一个大环境下，成功是一件大概率事件/想不成功都难”及169行“错过中国发展机会事倍功半”系对2018年前后时代环境的时效性判断，登记 X2 由 P4 终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "序言核心章：9 卡（E1×7、E2×2，含格拉德威尔、撒切尔夫人两张转述卡）；时效性环境判断 1 条登记 X2。"
+}

@@ -1,0 +1,260 @@
+{
+ "unit_id": "SX-U0019",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0019-01",
+   "unit_id": "SX-U0019",
+   "speaker": "转述·第三方",
+   "claim_text": "牛顿：Δt 趋近零时ΔS/Δt 为瞬间速度，即切线斜率",
+   "quote": "切线的斜率就是t0 的瞬间速度",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2122,
+    "end_line": 2131,
+    "sha1": "f525bccbad666100b54c35f8433832b4501311ed",
+    "fingerprint": [
+     "牛顿",
+     "瞬间速度",
+     "切线"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "牛顿瞬间速度与导数",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：牛顿（流数即导数，经吴军转述）；导数定义细节为数学事实"
+  },
+  {
+   "claim_id": "C-SX-U0019-02",
+   "unit_id": "SX-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "导数使人类从掌握平均规律进入掌握瞬间与加速变化规律",
+   "quote": "体会不出加速变化",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2148,
+    "end_line": 2151,
+    "sha1": "4e169726d81a921488558d8186ce3786840df935",
+    "fingerprint": [
+     "导数",
+     "瞬间规律"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "从平均规律到瞬间规律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "应用例：经济增长率是 GDP 的导数（并入 notes）；概念见 C-SX-U0019-01"
+  },
+  {
+   "claim_id": "C-SX-U0019-03",
+   "unit_id": "SX-U0019",
+   "speaker": "转述·第三方",
+   "claim_text": "贝克莱质疑：无穷小是零不能作分母，非零则只是平均速度",
+   "quote": "如果是零，它不能做分母",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2172,
+    "end_line": 2176,
+    "sha1": "882656961f695d78628a7c6871bd88b04a6db1a5",
+    "fingerprint": [
+     "贝克莱",
+     "分母",
+     "平均速度"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "贝克莱质疑",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：贝克莱（经吴军转述）；贝克莱为经验主义哲学家，此处只录数学质疑"
+  },
+  {
+   "claim_id": "C-SX-U0019-04",
+   "unit_id": "SX-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "贝克莱无穷小悖论引发第二次数学危机：当时逻辑讲不清无穷小",
+   "quote": "引发了第二次数学危机",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2180,
+    "end_line": 2186,
+    "sha1": "4f104aaa17270af9d95f71b6f36b7a7627cc8248",
+    "fingerprint": [
+     "第二次数学危机",
+     "无穷小"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "第二次数学危机",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第一次危机为无理数发现；时代危机常需后人新理论解决"
+  },
+  {
+   "claim_id": "C-SX-U0019-05",
+   "unit_id": "SX-U0019",
+   "speaker": "转述·第三方",
+   "claim_text": "伽利略：两球绑定的归谬矛盾，纯逻辑推翻重物先落地论",
+   "quote": "这就在逻辑上产生了矛盾",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2192,
+    "end_line": 2201,
+    "sha1": "7e8adcfa878908f6ef73ada51bff6d72d6f0cec2",
+    "fingerprint": [
+     "伽利略",
+     "亚里士多德",
+     "矛盾"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "伽利略归谬法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：伽利略（经吴军转述）；比萨斜塔实验真伪有争议，吴军强调其推翻路径是纯逻辑"
+  },
+  {
+   "claim_id": "C-SX-U0019-06",
+   "unit_id": "SX-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "数学不能有逻辑错误，否则人类知识体系都会出问题",
+   "quote": "数学千万不能有逻辑错误",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2202,
+    "end_line": 2204,
+    "sha1": "277a4e3177639c336584bce8c7e401ab36ae2211",
+    "fingerprint": [
+     "逻辑错误",
+     "知识体系"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "数学不能有逻辑错误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "由伽利略例引出（例见 C-SX-U0019-05）；辅 D01-1 逻辑与真伪"
+  },
+  {
+   "claim_id": "C-SX-U0019-07",
+   "unit_id": "SX-U0019",
+   "speaker": "转述·第三方",
+   "claim_text": "柯西与魏尔斯特拉斯：无穷小是趋向零的动态变化而非最小数",
+   "quote": "小得不能再小的数",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2216,
+    "end_line": 2223,
+    "sha1": "d9419187d14275a5d75d8934e974f71bea953cbd",
+    "fingerprint": [
+     "柯西",
+     "无穷小",
+     "趋势"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无穷小定义趋势化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：柯西、魏尔斯特拉斯（19 世纪严格化，经吴军转述）；吴军评为人类认知一大飞跃"
+  },
+  {
+   "claim_id": "C-SX-U0019-08",
+   "unit_id": "SX-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "芝诺贝克莱式较真而讲理的质疑推动数学完善，不应讨厌",
+   "quote": "他们对数学的完善是有贡献",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2228,
+    "end_line": 2231,
+    "sha1": "437327ba478b11530ba6e8206e16544e82d48d5a",
+    "fingerprint": [
+     "较真",
+     "贡献"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "较真质疑完善数学",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对质疑者的态度；辅 D01-1 理性怀疑"
+  },
+  {
+   "claim_id": "C-SX-U0019-09",
+   "unit_id": "SX-U0019",
+   "speaker": "吴军本人",
+   "claim_text": "数学不是实证科学，不能靠实验证实，须在逻辑上完美",
+   "quote": "数学不是实证科学",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2232,
+    "end_line": 2234,
+    "sha1": "1e4749ac4884a8eca97c9409554061fbab462959",
+    "fingerprint": [
+     "实证科学",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学不是实证科学",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军数学观：数学与实验科学的区别"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第16讲无穷小（二）：导数意义、第二次数学危机、数学不是实证科学等核心卡；牛顿、贝克莱、伽利略、柯西魏尔斯特拉斯四张转述卡"
+}

@@ -1,0 +1,120 @@
+{
+ "unit_id": "SX-U0037",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U37-01",
+   "unit_id": "SX-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "靠解题技巧考高分不值得沾沾自喜，经验难推广到一般问题",
+   "quote": "很难推广用来解决一般性问题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4576,
+    "end_line": 4581,
+    "sha1": "f8a465fbf9859ce9f8c37cd269a29b9c274f32c4",
+    "fingerprint": [
+     "技巧",
+     "推广"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "技巧不通用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "抛物线配方技巧只解决一类题，遇三次函数即失效（4549-4579 例并入）；正面表述见 C-SX-U0037-03（同一论证链）。"
+  },
+  {
+   "claim_id": "C-SX-U37-02",
+   "unit_id": "SX-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "牛顿把最优化从数量比大小变为研究函数动态变化趋势",
+   "quote": "看成是研究函数动态变化趋势",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4586,
+    "end_line": 4589,
+    "sha1": "4f125352bc9763f5226c030bc93606ee36475d86",
+    "fingerprint": [
+     "牛顿",
+     "动态变化"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "最优化视角转换",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（牛顿）。时代背景：伽利略、开普勒年代物理天文最优化需求催生系统方法（4582-4585 并入）；本讲总结“让人类对事物的理解从静态到动态”（4657-4662）亦属此链。"
+  },
+  {
+   "claim_id": "C-SX-U37-03",
+   "unit_id": "SX-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "有了导数，求最大值变成解方程，适用于任何函数",
+   "quote": "适用于任何函数",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4614,
+    "end_line": 4623,
+    "sha1": "5e5aae18dca16b3138d852d8e81a412ab4b1a1a1",
+    "fingerprint": [
+     "导数",
+     "解方程"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "通用方法取代技巧",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "最大值=导数为零的点（左升右降）；新方法免不了有破绽要一一补救（立方函数漏洞性质与导数符号反转检验，4624-4636 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U37-04",
+   "unit_id": "SX-U0037",
+   "speaker": "吴军本人",
+   "claim_text": "多个局部极大值中找全局最大值，至今无系统方法",
+   "quote": "目前依然没有很好的方法",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4638,
+    "end_line": 4656,
+    "sha1": "ef1f7f81248aeae3c30e96d3fd6266713f50e6e2",
+    "fingerprint": [
+     "极大值",
+     "最大值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "局部极大值难题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "极大值（局部）与最大值（全局）的定义区分（4642-4648）并入；机器学习长期训练常找到的只是局部极大值之一；对企业管理和创新的启发在最后一模块。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第33讲（最值）：4卡入库（D04-1主柱，1卡辅D02-2）；抛物线配方证明步骤、导数作图等演算细节不入卡（以正文为准）；无X处置。"
+}

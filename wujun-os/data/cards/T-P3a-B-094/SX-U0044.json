@@ -1,0 +1,200 @@
+{
+ "unit_id": "SX-U0044",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U44-01",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "统计概率：大量独立试验的频率极限即概率，回避等可能性问题",
+   "quote": "将相对频率极限等同于概率",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5658,
+    "end_line": 5673,
+    "sha1": "13396713038b3ea21dba31989c94dda62b629a83",
+    "fingerprint": [
+     "维恩",
+     "统计概率"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "统计概率定义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（约翰·维恩、冯·米泽斯）。骰子六点例：比例在特定值上下浮动趋近极限；词概率无等概率原子事件、只能靠试验得到（5671-5673）；遗留问题：多少次试验才够准（5674-5677 并入）；拉普拉斯循环定义问题重申见 C-SX-U0039-05。"
+  },
+  {
+   "claim_id": "C-SX-U44-02",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "伯努利大数定理：试验次数趋于无穷，频率与真概率误差无穷小",
+   "quote": "伯努利版本",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5686,
+    "end_line": 5691,
+    "sha1": "6cf6d134c27d3c94fde91319376f7cbfdd165046",
+    "fingerprint": [
+     "伯努利",
+     "大数定理"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "伯努利大数定理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（伯努利）。前提问题：古典定义与统计定义所得是否同一（0.999…=1 之喻，5679-5685 并入）；此版本隐含“概率P预先存在”的假设故不算很严格（5690-5691）。"
+  },
+  {
+   "claim_id": "C-SX-U44-03",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "切比雪夫版大数定理不预设概率存在，奠定大数据方法理论基础",
+   "quote": "就可以作为它的概率",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5692,
+    "end_line": 5697,
+    "sha1": "a85f377b1eb6d3d89aff88ab2e3728d5ef9d4128",
+    "fingerprint": [
+     "切比雪夫",
+     "平均值"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "切比雪夫大数定理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（切比雪夫）。只要求随机变量大量试验后平均值和方差恒定，平均值即可作概率；在数学上说明了维恩等人定义的合理性。"
+  },
+  {
+   "claim_id": "C-SX-U44-04",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "概率论至切比雪夫已严格但欠美感，道理仍需自然语言解释",
+   "quote": "有数学本身的美感",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5698,
+    "end_line": 5707,
+    "sha1": "208c86bbf8514d0bea96823a4a2901529e1d2f30",
+    "fingerprint": [
+     "美感",
+     "公理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学美感",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "几何学、微积分只要几个公理几个概念即成完整分支、很漂亮；现代概率论建立在公理与“测度”概念之上（5705-5707）。"
+  },
+  {
+   "claim_id": "C-SX-U44-05",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "柯尔莫哥洛夫以公理和测度建成现代概率论，成严格数学分支",
+   "quote": "概率论建立在严格的公理基础上",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5708,
+    "end_line": 5720,
+    "sha1": "56c2a5e53d05ff018a06ddda9dd655ea340247c2",
+    "fingerprint": [
+     "柯尔莫哥洛夫",
+     "公理"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "概率论公理化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（柯尔莫哥洛夫）。22岁发首篇论文、30岁出版《概率论基础》；同年《概率论中的分析方法》奠定马尔可夫过程基础，成为信息论/人工智能/机器学习的工具，“没有这些基础今天AI就缺乏理论依据”；被许多数学家誉为20世纪数学第一人并非过誉（5717-5719）。"
+  },
+  {
+   "claim_id": "C-SX-U44-06",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "三个简单公理可推导出整个概率论：古典、统计、贝叶斯皆然",
+   "quote": "都可以推导出来",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5744,
+    "end_line": 5757,
+    "sha1": "92484fc050f8a5da8bfc07aba2d105b9bf375add",
+    "fingerprint": [
+     "公理",
+     "推导"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "三公理体系",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三公理：概率为0-1实数、样本空间概率为1、互斥事件加法法则（5731-5743 并入）；定理一互补事件概率和为1、定理二不可能事件概率为零（5748-5754）。"
+  },
+  {
+   "claim_id": "C-SX-U44-07",
+   "unit_id": "SX-U0044",
+   "speaker": "吴军本人",
+   "claim_text": "只有公理化基础上的概率论才站得住脚，此前理论只是知识点",
+   "quote": "才站得住脚",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5759,
+    "end_line": 5768,
+    "sha1": "7803e19d8e7ddc82b506dbf6ee7da245bcde2147",
+    "fingerprint": [
+     "公理化",
+     "站得住脚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "公理化才严密",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲要点总结句；概率论从经验总结的应用工具变为逻辑严密的数学分支；大数定理证明理论概率与大量统计一致、大数据方法因此有理论基础（5766-5768）；与 C-SX-U0038-06（逻辑构建体系大厦）互见。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第40讲（概率公理化）：7卡入库（D04-1主柱，含4张数学史专名E3卡）；公理推导细节与测度论技术展开不入卡（以正文为准）；纯数学界鄙视概率论的轶事（5645-5647）并入背景不独立；无X处置。"
+}

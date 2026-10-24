@@ -1,0 +1,148 @@
+{
+ "unit_id": "SX-U0034",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U34-01",
+   "unit_id": "SX-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "牛顿为计算瞬间速度，用无限逼近从平均速度定义出导数",
+   "quote": "他采用了无限逼近的方法",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4140,
+    "end_line": 4153,
+    "sha1": "fe33a8fd2419a6e576a44a38d768c9cc5ec80a59",
+    "fingerprint": [
+     "牛顿",
+     "无限逼近",
+     "瞬间速度"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无限逼近定义瞬间",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（牛顿为解决力学问题发明微积分）。可迁移机理：瞬时量由无穷小邻域的平均量定义；流数即今之导数（4157-4160 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U34-02",
+   "unit_id": "SX-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "导数的本质是对变化快慢的准确量化度量",
+   "quote": "对变化快慢的准确量化度量",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4175,
+    "end_line": 4179,
+    "sha1": "1a2681e1fdee083b9d4becd5547f619a4defd044",
+    "fingerprint": [
+     "导数",
+     "量化度量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "导数量化变化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "此前“变化快慢”只是宏观定性描述，导数使之可量化（4162-4174 抛物线例并入）。"
+  },
+  {
+   "claim_id": "C-SX-U34-03",
+   "unit_id": "SX-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "梯度解决多变量下往哪个方向改变进步最快的问题",
+   "quote": "利用梯度，我们就能解决这个问题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4208,
+    "end_line": 4219,
+    "sha1": "0e360de9dc00d81bb72ac362f122cfb0df334d8a",
+    "fingerprint": [
+     "梯度",
+     "最陡"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "梯度与最陡方向",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "储油罐例（4202-4207）：高度未达半径1/2时优先增高，并入本卡。"
+  },
+  {
+   "claim_id": "C-SX-U34-04",
+   "unit_id": "SX-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "木桶长板之争可用梯度决断：沿最陡且收益最大的路径前进",
+   "quote": "在任何时刻算出梯度",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4233,
+    "end_line": 4242,
+    "sha1": "9aa5ae9fb78d8d8079a9208d7ec1ff352c44c798",
+    "fingerprint": [
+     "梯度",
+     "短板"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-1"
+   ],
+   "concept_key": "梯度决断长短板",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "长方体补最小的边（4221-4229）与圆柱体分情况（4240-4242）为例证；结论句落在“该往哪个方向努力”的选择上，故列 D03-1 为次候选。"
+  },
+  {
+   "claim_id": "C-SX-U34-05",
+   "unit_id": "SX-U0034",
+   "speaker": "吴军本人",
+   "claim_text": "微积分的思维提升：从宏观趋势中把握微观变化、认清方向",
+   "quote": "从宏观趋势中把握微观变化",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4244,
+    "end_line": 4254,
+    "sha1": "38300d4baab346429df8127b035a756e58ad03dd",
+    "fingerprint": [
+     "宏观趋势",
+     "微观变化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "宏观把握微观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲要点总结句；4244-4247（每一时刻算梯度找最显著方向）为其正文表述。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第30讲（微分上）：5卡入库（D04-1主柱）；导数/微分计算细节与公式行不入卡；开头与第29讲重复的“两课分工”论不另立卡（见 C-SX-U0033-01 notes）。"
+}

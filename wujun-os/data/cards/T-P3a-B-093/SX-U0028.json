@@ -1,0 +1,234 @@
+{
+ "unit_id": "SX-U0028",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0028-01",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "好的教学要匹配学生接受能力，不看对象过分拔高害大于利",
+   "quote": "害处远远大于好处",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3346,
+    "end_line": 3352,
+    "sha1": "920f4ef3e95acf35af51aca2684085b94b78ea39",
+    "fingerprint": [
+     "接受能力",
+     "拔高",
+     "教学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "教学匹配接受能力",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "小学生学二元一次方程解鸡兔同笼之问；把数学学成死记硬背会一辈子烦这门课；ability 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0028-02",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "生活中的极限更像数学的上界；数学极限是趋势并非不可突破",
+   "quote": "一个无法超越的边界",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3365,
+    "end_line": 3376,
+    "sha1": "7d3c05f9946cf49271974e5afd3691dd64c5fd5e",
+    "fingerprint": [
+     "上界",
+     "极限",
+     "深蹲"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "极限与上界之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "深蹲 80 公斤为上界例；斐波那契比值在黄金分割附近浮动非不可超"
+  },
+  {
+   "claim_id": "C-SX-U0028-03",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "数学极限绝对明确；生活中的天花板随能力和见识可被突破",
+   "quote": "原本的天花板可能就被突破了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3377,
+    "end_line": 3381,
+    "sha1": "543d6ca800f1c4d3eb9a697a0064eecb5c47e224",
+    "fingerprint": [
+     "天花板",
+     "百米",
+     "12.5"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "生活天花板可突破",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "百米极限 13 秒实为 12.5 秒例；呼应《谷歌方法论》第 8 封信做事三条边"
+  },
+  {
+   "claim_id": "C-SX-U0028-04",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "数学概念助解现实但不能划等号，很多问题并非数学问题",
+   "quote": "并不一定能和现实问题划等号",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3382,
+    "end_line": 3384,
+    "sha1": "01ec2556c36ec962ce10780cd258d7a2b6f93d42",
+    "fingerprint": [
+     "划等号",
+     "数学问题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学不能与现实划等号",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学适用边界的清醒判断"
+  },
+  {
+   "claim_id": "C-SX-U0028-05",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "延拓即保持原逻辑扩展定义域，是合乎逻辑的认知升级",
+   "quote": "一次合乎逻辑的认知升级",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3397,
+    "end_line": 3406,
+    "sha1": "b09383a907ca40a87d0aba595a2d614ea3474eb2",
+    "fingerprint": [
+     "延拓",
+     "负数",
+     "虚数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "延拓是认知升级",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "负数、虚数皆为延拓实例（数学史实并入）；延拓要求计算逻辑与原来完全相同"
+  },
+  {
+   "claim_id": "C-SX-U0028-06",
+   "unit_id": "SX-U0028",
+   "speaker": "转述·第三方",
+   "claim_text": "欧拉：将级数延拓到不收敛域，得出正整数之和为-1/12",
+   "quote": "延拓到可以不收敛时",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3428,
+    "end_line": 3440,
+    "sha1": "1915abacfd58e4978f16935eb657ec540447028d",
+    "fingerprint": [
+     "欧拉",
+     "级数",
+     "正整数之和"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "欧拉级数延拓",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：欧拉（Zeta 函数与解析延拓思想经吴军转述）；调和级数发散、π²/6 收敛为史实背景；公式以正文为准不入 quote"
+  },
+  {
+   "claim_id": "C-SX-U0028-07",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "数学一旦设定前提，任何逻辑结果皆合理，这是与自然科学本质差别",
+   "quote": "这是数学和自然科学本质的差别",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3441,
+    "end_line": 3447,
+    "sha1": "aa5024ac4c53a83f35a236a95b4e2e4b33770a69",
+    "fingerprint": [
+     "前提",
+     "逻辑",
+     "条件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "前提加逻辑皆合理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与 C-SX-U0019-09 数学不是实证科学同链互证；但结论在通常定义域不成立，使用须注意条件"
+  },
+  {
+   "claim_id": "C-SX-U0028-08",
+   "unit_id": "SX-U0028",
+   "speaker": "吴军本人",
+   "claim_text": "看似荒唐却符合逻辑的数学结论，常在几十百年后显现实用",
+   "quote": "并非一点用途没有",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3455,
+    "end_line": 3462,
+    "sha1": "da48e3332808202796f948cc723b149e5b1c0522",
+    "fingerprint": [
+     "荒唐",
+     "用途",
+     "黎曼猜想"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "荒唐结论的后发之用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "黎曼猜想与寻找大素数、加密相关（近百年后发现）；纯数学加逻辑游戏的后发价值"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第24讲后问答：教学匹配、极限与上界之别、天花板可突破、数学不与现实划等号、延拓认知升级、前提逻辑、后发之用等 8 卡；欧拉转述卡；读者提问三问为引子不独立成卡"
+}

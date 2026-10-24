@@ -1,0 +1,73 @@
+{
+  "unit_id": "JS-U0009",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0009-01",
+      "unit_id": "JS-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "新技术产品通常到第三代才能普及：一代革命但毛病多、二代好但贵、三代解决价格才大众化",
+      "quote": "必经的三个阶段",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 407,
+        "end_line": 407,
+        "sha1": "cb865594f44369965ba6d35a32d4a6fc77565220",
+        "fingerprint": [
+          "必经的三个阶段",
+          "普及到大众"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "第三眼美女",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概念键取吴军比喻命名“发现第三眼美女”（391行）；核心定义另见 399 行“通常都需要到第三代才能够普及”；例证（399-405行）：施乐PARC→Mac→Windows、微软/黑莓/诺基亚→iPhone→安卓、通用EV-1→特斯拉S/X→3系；“第三眼美女到来说明市场成熟”（405行）。"
+    },
+    {
+      "claim_id": "C-JS-U0009-02",
+      "unit_id": "JS-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "三个阶段多由不同公司领跑，前两阶段公司商业上常不成功，只是为第三阶段做准备",
+      "quote": "为第三个阶段做准备",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 407,
+        "end_line": 407,
+        "sha1": "cb865594f44369965ba6d35a32d4a6fc77565220",
+        "fingerprint": [
+          "不同公司领跑",
+          "第三个阶段做准备"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "三代不同公司领跑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "个别财力充足且长期投入的公司能走完全三阶段但非常罕见；3D 电视走不到第三代即夭折（407行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0009",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2016 年底 VR“雷声大雨点小”的普及进度判断、特斯拉 3 系一周 20 余万辆订单等数据（389/405行）属时效性内容，机理已留卡（C-JS-U0009-01/02），登记 X2 由 P4 终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第三眼美女节：2 卡（E1×2），公司案例（施乐/苹果/微软/安卓/通用/特斯拉）按 R3 并入母卡 notes；VR 与特斯拉销量时效登记 X2。"
+}

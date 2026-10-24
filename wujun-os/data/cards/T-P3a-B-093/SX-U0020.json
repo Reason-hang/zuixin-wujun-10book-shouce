@@ -1,0 +1,291 @@
+{
+ "unit_id": "SX-U0020",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0020-01",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "第二次数学危机根源：渐变世界的人类难以理解瞬间突变",
+   "quote": "难以理解瞬间突变造成的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2239,
+    "end_line": 2243,
+    "sha1": "a1430f7c73b77003f0f2a0367d2852693ecb082d",
+    "fingerprint": [
+     "认识论",
+     "渐变",
+     "瞬间突变"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "第二次数学危机的认识论根源",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "围绕无穷小争论无解，须认识上提升到极限概念"
+  },
+  {
+   "claim_id": "C-SX-U0020-02",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "极限是客观存在，最大特征是无限逼近、最后趋同",
+   "quote": "极限最大的特征是",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2267,
+    "end_line": 2272,
+    "sha1": "aba2c76fee01f874c7332cb2540990ed605ef9c3",
+    "fingerprint": [
+     "客观存在",
+     "无限逼近",
+     "趋同"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "极限是无限逼近",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：1/2+1/4+… 极限为 1（例证并入）；斐波那契比趋近黄金分割"
+  },
+  {
+   "claim_id": "C-SX-U0020-03",
+   "unit_id": "SX-U0020",
+   "speaker": "转述·第三方",
+   "claim_text": "柯西：从数学本身出发重定义微积分，打造成公理化系统",
+   "quote": "重新定义微积分中那些含混的概念",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2273,
+    "end_line": 2278,
+    "sha1": "ddc3eaa52efa1bfb96d4e1bb8ed2311cc1cbe449",
+    "fingerprint": [
+     "柯西",
+     "公理化",
+     "欧几里得"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "柯西公理化微积分",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：柯西（19 世纪法国数学界集大成者，经吴军转述）；放弃物理应用场景，比牛顿更抽象更普适"
+  },
+  {
+   "claim_id": "C-SX-U0020-04",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "柯西魏尔斯特拉斯高于牛顿处：动态描述概念而非静态定义",
+   "quote": "不是对概念进行静态的定义",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2280,
+    "end_line": 2282,
+    "sha1": "9baa7bc582e5824e82c61ae1f42d44ef1f583e01",
+    "fingerprint": [
+     "动态",
+     "描述"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "动态描述优于静态定义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对柯西、魏尔斯特拉斯的评述；更抽象的描述更准确更普适"
+  },
+  {
+   "claim_id": "C-SX-U0020-05",
+   "unit_id": "SX-U0020",
+   "speaker": "转述·第三方",
+   "claim_text": "魏尔斯特拉斯：极限即任给误差皆可满足的无限逼近趋势",
+   "quote": "任意给一个小的数字",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2315,
+    "end_line": 2325,
+    "sha1": "a3626260c02bf54ed07b90a5e047a5531a4405ae",
+    "fingerprint": [
+     "魏尔斯特拉斯",
+     "趋近",
+     "极限"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "魏尔斯特拉斯极限定义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：魏尔斯特拉斯（ε-N 定义思想经吴军转述；具体数学定义以正文为准，公式区不入 quote）；吴军评述见 C-SX-U0020-09"
+  },
+  {
+   "claim_id": "C-SX-U0020-06",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "老师的作用是把数学语言翻译成大白话，做不到不如自学",
+   "quote": "翻译成大家容易明白的内容",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2334,
+    "end_line": 2337,
+    "sha1": "a30ee23bf5beedff81c36b7cf755d00ad51b127e",
+    "fingerprint": [
+     "大白话",
+     "翻译"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "老师翻译大白话",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "通识教学法；ability 标签按 D02-2 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0020-07",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "数学危机根源是直观认识与数学逻辑的矛盾，解法是先存疑后完善",
+   "quote": "先存疑，后完善",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2344,
+    "end_line": 2349,
+    "sha1": "079db1f427c9fbd3ae3caff5c5f8376d64b7743d",
+    "fingerprint": [
+     "直观",
+     "逻辑",
+     "存疑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "先存疑后完善",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对照毕达哥拉斯视而不见甚至否认；辅 D01-1 怀疑与真伪"
+  },
+  {
+   "claim_id": "C-SX-U0020-08",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "封闭体系内的漏洞须扩大体系才能弥补，关键是把定义搞清楚",
+   "quote": "把问题的定义搞清楚",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2353,
+    "end_line": 2357,
+    "sha1": "de2d9531c79577501428a4d2f9d11e2ea0760d90",
+    "fingerprint": [
+     "封闭体系",
+     "定义",
+     "庐山"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "跳出封闭体系补漏洞",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "喻：不识庐山真面目只缘身在此山；沟通的基础是对定义的共同认知"
+  },
+  {
+   "claim_id": "C-SX-U0020-09",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "魏尔斯特拉斯定量描述无限趋势并用逆向思维使其可理解",
+   "quote": "用逆向思维让大家理解了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2362,
+    "end_line": 2364,
+    "sha1": "4c606d7498417c416c5f4620bdf24d9f529cd13a",
+    "fingerprint": [
+     "定量",
+     "逆向思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "定量与逆向思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "定量和逆向思维是今天应用的思维方式；原话定义见 C-SX-U0020-05"
+  },
+  {
+   "claim_id": "C-SX-U0020-10",
+   "unit_id": "SX-U0020",
+   "speaker": "吴军本人",
+   "claim_text": "认知升级四步：提傻问题、跳出圈子、扩大体系、不怕指漏",
+   "quote": "不要怕提出傻问题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2366,
+    "end_line": 2378,
+    "sha1": "62e321bfac4bac275a68f81372caff7abe16d062",
+    "fingerprint": [
+     "傻问题",
+     "认知升级",
+     "漏洞"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "认知升级四步法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡（R3）；符合逻辑的傻问题是认知升级的开始"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第17讲极限：极限定义、动态描述、先存疑后完善、跳出封闭体系、认知升级四步法等核心卡；柯西与魏尔斯特拉斯立转述卡；公式定义细节以正文为准不入卡"
+}

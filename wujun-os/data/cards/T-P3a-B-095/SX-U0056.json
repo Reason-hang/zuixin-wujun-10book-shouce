@@ -1,0 +1,237 @@
+{
+ "unit_id": "SX-U0056",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0056-01",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "数学是公理化的体系：是特点、是方法，也是对其它知识体系的启发",
+   "quote": "数学是一个公理化的体系",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7275,
+    "end_line": 7285,
+    "sha1": "e739f579b532253594647f7aa61c68cb787d3525",
+    "fingerprint": [
+     "公理化",
+     "体系"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学公理化体系",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "50讲覆盖代数、几何、微积分、高等代数、概率论、数论、最优化、博弈论=理工科到大学的数学基础；几何学与概率论公理化为例"
+  },
+  {
+   "claim_id": "C-SX-U0056-02",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "数学上没有'显然''必然'，只有建立在定义和公理上的结论",
+   "quote": "只有建立在定义和公理上的结论",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7288,
+    "end_line": 7293,
+    "sha1": "1fb7014545214a5e261af9afc53e5276f7401c40",
+    "fingerprint": [
+     "显然",
+     "公理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "没有显然",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "自然数也需公理化：皮亚诺公理（0是自然数、后继、0非后继等，E2转述记notes，被转述者皮亚诺）；从自然数定义出整数、有理数、实数、复数，数的理论才完备"
+  },
+  {
+   "claim_id": "C-SX-U0056-03",
+   "unit_id": "SX-U0056",
+   "speaker": "转述·第三方",
+   "claim_text": "罗素悖论（理发师悖论）引发第三次数学危机，由公理化集合论解决",
+   "quote": "这个悖论引发了第三次数学危机",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7353,
+    "end_line": 7368,
+    "sha1": "a326efe34539b61f53f9d470856ffca214d6365a",
+    "fingerprint": [
+     "罗素悖论",
+     "第三次数学危机"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "罗素悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：罗素（悖论提出）、策梅洛与弗兰克尔（公理化集合论ZFC解决）；吴军强调（记notes）：看似小问题的问题都不小，悖论推动数学发展；空集从无到有构建自然数（0=Φ）说明数学分支相通"
+  },
+  {
+   "claim_id": "C-SX-U0056-04",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "数学思维四点：从公理出发、先明问题定义、知识相通、动态眼光",
+   "quote": "不轻易相信没有根据的结论",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7369,
+    "end_line": 7379,
+    "sha1": "37ec30dc9821e07fea52167c814f561c220f3225",
+    "fingerprint": [
+     "公理",
+     "相通"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学思维四点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单整体一卡（R3）：①不轻信无根据结论，从公理出发用逻辑得结论②解决问题前先搞清问题定义③各种知识体系相通④用动态发展的眼光看世界；空集构建自然数即'相通'例证"
+  },
+  {
+   "claim_id": "C-SX-U0056-05",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "通识教育即社会主人所需的知识体系与解决无答案问题的方法",
+   "quote": "自己作为社会主人所应有的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7381,
+    "end_line": 7401,
+    "sha1": "4bace026a848a7097b2b2b5bfbe195138ec24f85",
+    "fingerprint": [
+     "通识教育",
+     "社会主人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D04-1"
+   ],
+   "concept_key": "通识教育之义",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "Liberal Arts词源=古希腊'自由民'+'知识'=作为社会主人所需掌握的知识；中产的职业天花板与阶层壁垒先需主人知识体系而非具体知识；顶级名牌大学的亮点在通识教育而非专业课；10小时数学课的思想方法收获≈大学多门数学课，要用数学再查参考书找工具"
+  },
+  {
+   "claim_id": "C-SX-U0056-06",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "语文学习最基本目的：理解他人，表达自己",
+   "quote": "理解他人，表达自己",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7403,
+    "end_line": 7419,
+    "sha1": "20411fd03e06eaa816c672e76cddc4aacea3715d",
+    "fingerprint": [
+     "理解他人",
+     "表达自己"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-2"
+   ],
+   "concept_key": "理解他人表达自己",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "理解他人=文学欣赏、阅读理解（读论文、读数学题都是理解出题人）；表达自己=口头、写作、辩论；修辞文法语义修养=人的修养；很多人高考托福考不好是因为不理解对方"
+  },
+  {
+   "claim_id": "C-SX-U0056-07",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "图形先入为主的直觉不是逻辑：眼睛测量不能代替数学证明",
+   "quote": "测量和数学证明的区别",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7513,
+    "end_line": 7518,
+    "sha1": "7473b982c6a87cf50098299992dd06bce20017bc",
+    "fingerprint": [
+     "逻辑",
+     "证明"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "测量与证明之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第5题（等腰三角形中垂线）答案的评述：学生逻辑前提得不到结论，看似正确的结论是看图先入为主想出来的，不是逻辑推出来的"
+  },
+  {
+   "claim_id": "C-SX-U0056-08",
+   "unit_id": "SX-U0056",
+   "speaker": "吴军本人",
+   "claim_text": "翻番下注误区：只看概率趋无穷小，忽视输额指数级上升",
+   "quote": "忽视自己输钱的数量在指数上升",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7595,
+    "end_line": 7601,
+    "sha1": "fcf2f585c5a01c036732da02d805956b6b465061",
+    "fingerprint": [
+     "无穷小",
+     "指数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-2"
+   ],
+   "concept_key": "无穷小乘无穷大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第9题（赌注翻番必胜法）答案：庄家赢钱概率是无穷小但非零，输钱金额近乎无穷大，两者相乘仍是常数；即使赢也只有一块钱，与所筹赌资完全不成比例"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0056",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "十道测试题答案的计算与解题过程（黄金分割证明、梯子拐弯、近光速旅行、等额本息月供、三门问题、集卡期望、线性规划、同花概率）为教学运算细节不入卡，仅第5/9题的评述性论点入卡C-07/C-08；第3题'人不适合星际旅行、光速送信息3D打印'为题解延伸推断不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "结课单元，8卡覆盖公理化体系、没有显然、罗素悖论、思维四点、通识之义、语文目的、测量与证明、无穷小误区"
+}

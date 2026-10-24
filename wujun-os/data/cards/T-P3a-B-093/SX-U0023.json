@@ -1,0 +1,109 @@
+{
+ "unit_id": "SX-U0023",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0023-01",
+   "unit_id": "SX-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "几何学因实际需要先于代数发展，其历程反映人类认知进步",
+   "quote": "反映出人类认知的进步过程",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2671,
+    "end_line": 2675,
+    "sha1": "3ebeb0cbf3b5208d5d39e1d8cc187f6ab233eaca",
+    "fingerprint": [
+     "实际需要",
+     "几何学",
+     "认知"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "几何发展史即认知史",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "先难后易发展几何的动因是实际需要（土地丈量、农耕、建设）"
+  },
+  {
+   "claim_id": "C-SX-U0023-02",
+   "unit_id": "SX-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "几何发展三阶段即认知过程：量化度量单位是常缺的一步",
+   "quote": "缺的是第二步",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2781,
+    "end_line": 2787,
+    "sha1": "7a397c1fae0d3080bdc7698f5137cab5a7f5ec17",
+    "fingerprint": [
+     "度量单位",
+     "认知过程",
+     "记载"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "量化度量是认知关键步",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三阶段：感性到量化、确立度量单位、记载传播；没有度量单位知识只能大概定量描述；辅 D04-1"
+  },
+  {
+   "claim_id": "C-SX-U0023-03",
+   "unit_id": "SX-U0023",
+   "speaker": "吴军本人",
+   "claim_text": "希腊建成几何理论：低物质欲投入理性思辨，无强权容异见",
+   "quote": "希腊人对物质生活要求很低",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2791,
+    "end_line": 2795,
+    "sha1": "13e6acb0565fc2938edf1b3cdf45d2c46604ec6b",
+    "fingerprint": [
+     "理性",
+     "辩论",
+     "强权"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "希腊理性思辨成就体系",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军引\"一般认为\"之通说并取用（\"这两点也给了我们一些启发\"），故 speaker 仍为吴军本人、evidence 记 E2"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0023",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "古埃及天狼星年 1461 天周期、金字塔勾股定理与圆周率 3.16、莱茵德纸草书等为文明史实，无可迁移新判断，方法论已收 C-SX-U0023-02"
+  },
+  {
+   "unit_id": "SX-U0023",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美索不达米亚 360 度、60 进制起源、12 星座由来、巴比伦泥板勾股数（18541,12709,13500）等为数学史实，不入论点卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第20讲几何学史：收认知过程、度量单位、希腊思辨条件三张可迁移卡；古埃及天狼星年/金字塔、美索不达米亚 360 度 60 进制、巴比伦泥板等史实记 X4"
+}

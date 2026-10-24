@@ -1,0 +1,38 @@
+{
+  "unit_id": "JS-U0006",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0006-01",
+      "unit_id": "JS-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "商业概念不断翻新炒作，但商业的本质上千年都没有什么改变",
+      "quote": "上千年都没有什么改变",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 273,
+        "end_line": 273,
+        "sha1": "8fc27da50a0240526fbcd6fbd581c77e58ee0d6d",
+        "fingerprint": [
+          "商业的本质",
+          "上千年"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "商业本质不变",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "“互联网+”、O2O、P2P 等概念炒完剩不下什么（273行）为例证；为第一章立论。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "章首引言：1 卡（“商业本质不变”立论句），例证并入。"
+}

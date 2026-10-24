@@ -1,0 +1,133 @@
+{
+ "unit_id": "SX-U0032",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0032-01",
+   "unit_id": "SX-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "数学体系可从已知定理推导出新定理，体会概念间关联",
+   "quote": "是让你再次体会数学体系的重要性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3902,
+    "end_line": 3904,
+    "sha1": "56a323b51cb2855d8ab2f2358b1324c94a51758b",
+    "fingerprint": [
+     "体系",
+     "定理",
+     "关联"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "体系推导出新定理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "余弦定理由毕达哥拉斯定理推出；与 C-SX-U0024-01 公理体系威力同链互证"
+  },
+  {
+   "claim_id": "C-SX-U0032-02",
+   "unit_id": "SX-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "文本分类即词频特征向量的夹角计算，夹角小则主题相近",
+   "quote": "该属于同一类",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3935,
+    "end_line": 3952,
+    "sha1": "2b66b3d52aa3802b4b90a611d3f3dd84f5856e83",
+    "fingerprint": [
+     "特征向量",
+     "夹角",
+     "余弦定理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "特征向量夹角分类",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机理：同维度分量都大则夹角小，不同维度分量大则近乎正交；各维度成比例夹角为零；全维度相等向量与谁都不接近（伏笔见 C-SX-U0032-04）；金融 vs 计算机八词例 82 度/7.5 度、10 万维特征向量为例证"
+  },
+  {
+   "claim_id": "C-SX-U0032-03",
+   "unit_id": "SX-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "岗位与简历均向量化按夹角匹配，漏一人对公司无损对求职者全损",
+   "quote": "对公司来讲没什么损失",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3973,
+    "end_line": 3984,
+    "sha1": "4848a85aff77b43c96fc1a758f81ddfd0bc29aa6",
+    "fingerprint": [
+     "简历",
+     "匹配",
+     "筛选"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D04-2"
+   ],
+   "concept_key": "简历向量匹配",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "开发岗六维权重（编程 40/工程 20/沟通 10 等）例证；初筛标准宽、错漏概率不高；无强推荐简历不好常过不了第一关；辅 D04-2"
+  },
+  {
+   "claim_id": "C-SX-U0032-04",
+   "unit_id": "SX-U0032",
+   "speaker": "吴军本人",
+   "claim_text": "简历重点不突出即均匀向量，全能简历稀释竞争力应按岗位维度写",
+   "quote": "稀释了求职者的竞争力",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3985,
+    "end_line": 3996,
+    "sha1": "08a233f8b6a5427661853e90ec0467c9bc1626ea",
+    "fingerprint": [
+     "重点不突出",
+     "画蛇添足",
+     "全能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D04-2"
+   ],
+   "concept_key": "简历聚焦与稀释",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机理回扣：各维度数值差不多的向量与谁夹角都不小；按目标岗位看中的维度写简历；与 C-SX-U0031-03 做事聚焦同机理不同场景"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0032",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "余弦定理从毕达哥拉斯定理的推导过程、判定因子构造、波斯数学家阿尔卡西提出余弦定理的史实、八维词频例具体数值均为数学事实史实，不入论点卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第28讲向量（下）：体系推导、特征向量分类、简历匹配、简历聚焦四卡；余弦定理推导、判定因子、阿尔卡西史实记 X4"
+}

@@ -1,0 +1,99 @@
+{
+  "unit_id": "JS-U0011",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0011-01",
+      "unit_id": "JS-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "跟踪经济：IoT+机器智能+区块链三技术使商业精确到每笔交易、每个细节、每个人",
+      "quote": "精确到每一笔交易",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 503,
+        "end_line": 503,
+        "sha1": "0c7aab5d20867fdc93d31a55c3f9f663886b51e9",
+        "fingerprint": [
+          "精确到每一笔交易",
+          "机器智能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "跟踪经济",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三个关键技术（517行）：IoT 监控全程、机器智能承担计算、区块链记账；例证：美国酒吧 23% 的酒被偷喝、10 美分传感器跟踪每笔倒酒（505-511行）；区块链=特殊账本、可组合打散，100 瓶药装箱合成新链、混入假药可查（519-521行）；假药与食品安全追溯（513-515行）。"
+    },
+    {
+      "claim_id": "C-JS-U0011-02",
+      "unit_id": "JS-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "IoT 是第三代互联网：一代计算机联网、二代人与人联网，三代万物联网且人是核心",
+      "quote": "当作第三代互联网",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 533,
+        "end_line": 533,
+        "sha1": "e2edff142b011b7f754c0f4137fd4384c79f3598",
+        "fingerprint": [
+          "第三代互联网",
+          "计算机之间的联网"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "第三代互联网",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "只想着“物”的互联太狭窄，人是 IoT 最不能忽略的因素（531行）；例证：Google Now 跟踪个人行为（537-539行）、中关村赊账与运通黑卡说明身份认证能力受人力成本限制（545-547行）。"
+    },
+    {
+      "claim_id": "C-JS-U0011-03",
+      "unit_id": "JS-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "金风案例：IoT 跟踪设备运行后，商业模式从卖制造转为运营服务，一次性赚钱变持续赚钱",
+      "quote": "运营和服务",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 529,
+        "end_line": 529,
+        "sha1": "a55de0f33ecfb5736ce11f6eb3d44e437d1c8815",
+        "fingerprint": [
+          "金风",
+          "运营和服务"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "从卖产品到卖服务",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（金风科技，《智能时代》引用）+可迁移机理（跟踪数据支撑制造业服务化转型），故 E3；类似：特斯拉记录全部运行状态、凭历史数据远程定位故障省工时（571行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0011",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "未来场景与技术预测密集：2030 年跟踪经济产值 7 万亿美元（575行）、智能摄像头身份认证与无人收款购物（547-553行）、亚马逊预测式购物（555-559行）、大众 2020 汽车身份确认（551行）、基因检测预测疾病与 Grail 癌细胞筛查展望（561-567行）等属趋势预测，登记 X6 由 P4 终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "跟踪经济节：3 卡（E1×2、E3×1 金风案例机理）；未来场景与产值预测登记 X6。"
+}

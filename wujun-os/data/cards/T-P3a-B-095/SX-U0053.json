@@ -1,0 +1,101 @@
+{
+ "unit_id": "SX-U0053",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0053-01",
+   "unit_id": "SX-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "运筹学用数学工具从整体改进系统效率，整体不等于部分之和",
+   "quote": "整体不等于部分之和",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6885,
+    "end_line": 6906,
+    "sha1": "7a803ea4bcdbddcad7753edba44c9c9ad386cb8f",
+    "fingerprint": [
+     "关键路径",
+     "运筹学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D05-1"
+   ],
+   "concept_key": "关键路径与整体",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "关键路径例：缩短非关键路径工序对整体下线时间无帮助（瓶颈在关键路径）；吴军童年煮饭与做功课并行的运筹学启蒙来自父亲；二战时英美找数学家规划战争资源，运筹学才成交叉科学"
+  },
+  {
+   "claim_id": "C-SX-U0053-02",
+   "unit_id": "SX-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "企业三公理：愿景使命、价值观、文化如公理，制度是定理",
+   "quote": "这三条，相当于几何学上的公理",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6911,
+    "end_line": 6935,
+    "sha1": "c9b7bad9725b90c2861158facc7961060f546f1d",
+    "fingerprint": [
+     "公理",
+     "定理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-1"
+   ],
+   "concept_key": "企业三公理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军与刘润共同总结：愿景使命=企业存在的理由（Google/阿里/微软例），价值观=企业与外界关系，文化=人与人的关系；制度流程=定理与推论；公理定了基因就定（平行公理不同设定得不同几何体系）；无制度企业事事靠CEO权力救火；企业不应把使命愿景文化变大杂烩；吴军引申：个人立足社会也应有自己的公理定理推论（康德的星空与道德律即其公理）"
+  },
+  {
+   "claim_id": "C-SX-U0053-03",
+   "unit_id": "SX-U0053",
+   "speaker": "吴军本人",
+   "claim_text": "大历史方法：以公理化构建自洽体系，重逻辑自洽胜过正统观点",
+   "quote": "强调逻辑的自洽",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6953,
+    "end_line": 6976,
+    "sha1": "4c2611c2f0e7346d5ee1d15367fbec2e3a4ae3f2",
+    "fingerprint": [
+     "大历史",
+     "自洽"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "历史的公理化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "用归纳演绎构建自洽知识体系，评判历史不是'司马光认为'而是史实自然演绎的结果；公理不同结论不同（费正清以经济学为公理认为宋朝最辉煌vs钱穆积贫积弱）；吴军《文明之光》《全球科技通史》以科技文明为公理；历史没有对错但有好坏，标准=公理的客观性+论证的逻辑性；赫拉利《人类简史》同理；收束（记notes）：理解人类知识底层相通性是通识教育目的（6979-6980行）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0053",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "林肯用《几何原本》说服国会为已讲过的史实引用，一句带过无论点；二战运筹学史实细节并入C-01 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "数学与其它学科关系单元，3卡覆盖运筹学整体观、企业三公理、大历史公理化"
+}

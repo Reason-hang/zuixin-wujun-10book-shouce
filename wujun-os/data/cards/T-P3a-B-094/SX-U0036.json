@@ -1,0 +1,147 @@
+{
+ "unit_id": "SX-U0036",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U36-01",
+   "unit_id": "SX-U0036",
+   "speaker": "吴军本人",
+   "claim_text": "距离是速度的积分；微分与积分互为逆运算",
+   "quote": "微分和积分是互为逆运算的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4425,
+    "end_line": 4427,
+    "sha1": "63a3e4f5a79ac2f914f1abca0acd7aac65fbcf96",
+    "fingerprint": [
+     "积分",
+     "逆运算"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "微积分互逆",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "闯红灯算术例（4399-4424）引出“曲线下面积=积分”，并入本卡；开篇对照（4396-4397）：微分从宏观看微观、积分从微观看宏观。"
+  },
+  {
+   "claim_id": "C-SX-U36-02",
+   "unit_id": "SX-U0036",
+   "speaker": "吴军本人",
+   "claim_text": "积分思想的本质：从动态变化看累积效应",
+   "quote": "从动态变化来看累积效应",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4435,
+    "end_line": 4443,
+    "sha1": "9295f9027e80e9104d257b31ab7da72a4f6d3842",
+    "fingerprint": [
+     "累积效应",
+     "积分"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "积分看累积效应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "无积分前只能靠平均值估计累积效应，有了积分才能把握每个细节对整体的影响（4440-4442 并入）；切分无穷小求和的算法细节（4428-4434）不入卡。"
+  },
+  {
+   "claim_id": "C-SX-U36-03",
+   "unit_id": "SX-U0036",
+   "speaker": "吴军本人",
+   "claim_text": "指数增长的优势需较长时间才显现，前期累积量可能落后",
+   "quote": "指数增长的优势",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4464,
+    "end_line": 4470,
+    "sha1": "ccf89b9c9e4e9b97db1e858de36361073ab6b0a8",
+    "fingerprint": [
+     "指数增长",
+     "季度"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "指数增长的滞后",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两公司20季度利润例：第14季度才反超，第19季度前线性增长公司累积更多；反直觉结论。"
+  },
+  {
+   "claim_id": "C-SX-U36-04",
+   "unit_id": "SX-U0036",
+   "speaker": "吴军本人",
+   "claim_text": "积分量有滞后效应：结果滞后于瞬间变化，趋势一旦形成难逆转",
+   "quote": "滞后效应",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4471,
+    "end_line": 4482,
+    "sha1": "e9a01060aeb0dbd411a91373791ad4a7b6f014d5",
+    "fingerprint": [
+     "滞后效应",
+     "飞轮"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "滞后效应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两要点原文（4471-4478）；飞轮效应即其别名，量化演算（4483-4508）与《谷歌方法论》206信“J曲线”互见；距离比速度更滞后、逆转飞轮需先减速再抵消圈数。"
+  },
+  {
+   "claim_id": "C-SX-U36-05",
+   "unit_id": "SX-U0036",
+   "speaker": "吴军本人",
+   "claim_text": "从努力到能力到成绩到被赏识，是一级级积分的结果",
+   "quote": "级级积分的结果",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4509,
+    "end_line": 4524,
+    "sha1": "f2a6decfd05eae9b1893c51eef8bae590f727e2a",
+    "fingerprint": [
+     "努力",
+     "积累"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D05-2"
+   ],
+   "concept_key": "努力到赏识的积分链",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "反面同理：停止努力后能力、业绩、处境会先后出问题，扭转为时已晚；人的弱点是指望努力瞬间见效、忘了积累效应（4518-4522 并入）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第32讲（积分）：5卡入库（D04-1主柱，1卡辅D05-2）；积分计算与飞轮公式细节不入卡（以正文为准）；无X处置。"
+}

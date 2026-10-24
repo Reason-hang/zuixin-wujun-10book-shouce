@@ -1,0 +1,184 @@
+{
+ "unit_id": "SX-U0058",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0058-01",
+   "unit_id": "SX-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "施密特的核心贡献是规范化改造：让偶然的个人成功变成必然结果",
+   "quote": "变成了必然性的结果",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7909,
+    "end_line": 7919,
+    "sha1": "bd95cecac7076fbe0365f880aafde3a558926863",
+    "fingerprint": [
+     "规范化",
+     "必然性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "偶然变必然",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "吴军为《成就》作序。企业到几千上万人不可能再靠高比例'超级英雄'，其个性会让大组织崩溃；施密特延续早期文化同时改造规范化，期间产出AdSense/地图/文档/翻译/无人驾驶/YouTube/安卓；施密特之于Google堪比格鲁夫之于英特尔"
+  },
+  {
+   "claim_id": "C-SX-U0058-02",
+   "unit_id": "SX-U0058",
+   "speaker": "吴军本人",
+   "claim_text": "人才培养造就伟大企业：Google出身创业者成功率远超行业平均",
+   "quote": "要远远高于行业的平均水平",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7920,
+    "end_line": 7936,
+    "sha1": "3b0b4787bf947ded0a37a913135172802f729bff",
+    "fingerprint": [
+     "人才梯队",
+     "黄埔军校"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "人才梯队",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "Google为每位员工设计职业发展通道，成IT行业黄埔军校；小米、拼多多、创新工场、快手创始人来自Google；罗森伯格任首位投资导师请夏普（诺奖）、马尔基尔讲投资课；营收好但人才培养乏善可陈的企业难成伟大企业"
+  },
+  {
+   "claim_id": "C-SX-U0058-03",
+   "unit_id": "SX-U0058",
+   "speaker": "转述·第三方",
+   "claim_text": "坎贝尔：IT企业需要规范管理，超扁平化是管理不善的表现",
+   "quote": "其实是管理不善的表现",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7959,
+    "end_line": 7971,
+    "sha1": "f1f2e6e92d29e7ba43fdafc1eff9d09d4514b9e6",
+    "fingerprint": [
+     "扁平",
+     "规范管理"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "规范管理必要性",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：比尔·坎贝尔（《成就》主角，施密特与罗森伯格的导师，吴军转述并认同）。副总裁/CEO下上百直接汇报者看似灵活实则管理不善，难维持效率且不利个人成长；吴军评（记notes）：中国创业公司难完成小公司到中型公司转变，管理水平跟不上业务发展是关键原因"
+  },
+  {
+   "claim_id": "C-SX-U0058-04",
+   "unit_id": "SX-U0058",
+   "speaker": "转述·第三方",
+   "claim_text": "坎贝尔：IT管理靠下属信任而非公司权威，外行经理人难立足",
+   "quote": "通过下属对他们的信任",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7972,
+    "end_line": 7983,
+    "sha1": "fad7b3bcc186f33f8ed51dbb92461b04055850e8",
+    "fingerprint": [
+     "知识型员工",
+     "信任"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-3"
+   ],
+   "concept_key": "信任型管理",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：坎贝尔。IT企业管的是知识型员工，只动口不动手的经理人没有必要也难立足；Google大量管理者是技术专家，靠对行业更深入认识让下属跟随；施密特本人是UNIX专家、Lex作者、美国工程院院士，技术人员与其交流无'对外行讲东西'之感"
+  },
+  {
+   "claim_id": "C-SX-U0058-05",
+   "unit_id": "SX-U0058",
+   "speaker": "转述·第三方",
+   "claim_text": "坎贝尔：管理是为下属提供服务，好的管理者必须是好的倾听者",
+   "quote": "管理是对下属提供服务",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7984,
+    "end_line": 7991,
+    "sha1": "81257f5699d2305f154abacabbc53c7ace8c341f",
+    "fingerprint": [
+     "服务型管理",
+     "倾听"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-3"
+   ],
+   "concept_key": "服务型管理",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：坎贝尔。吴军深有体会：其上级辛格哈尔、诺威格、尤斯塔斯都强调'他们是我的资源'；管理者任务是协调资源保证业务最快最好发展，而非炫耀权力；好管理者全神贯注倾听、找出真问题并给建议"
+  },
+  {
+   "claim_id": "C-SX-U0058-06",
+   "unit_id": "SX-U0058",
+   "speaker": "转述·第三方",
+   "claim_text": "坎贝尔：管理者须持续学习受培训，靠有限经验自作聪明难胜任高位",
+   "quote": "都需要学习并接受专业的培训",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7992,
+    "end_line": 8001,
+    "sha1": "5d718c60966143ee3f05968af609cd4df5c45be3",
+    "fingerprint": [
+     "培训",
+     "形式主义"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-3"
+   ],
+   "concept_key": "管理者持续学习",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：坎贝尔。乔布斯苹果第一段经历尚非合格管理者，经近十年学习锻炼终成全球最好的管理者之一；反对形式主义：PPT不要花里胡哨，要有实质内容、关注细节；IT企业管理者比例不应很高"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0058",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "施密特推动Google进入中国、全球化回忆与2004年'移动互联网流量超PC'预言为史实回忆/已验证预测，无论点不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "新书推荐序言单元，6卡覆盖偶然变必然、人才梯队、坎贝尔四特色（规范管理/信任型/服务型/持续学习）"
+}

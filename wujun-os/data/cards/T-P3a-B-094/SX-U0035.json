@@ -1,0 +1,252 @@
+{
+ "unit_id": "SX-U0035",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U35-01",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "魏尔斯特拉斯反例证明：连续与可导是两回事",
+   "quote": "处处连续，但是处处不可导",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4269,
+    "end_line": 4274,
+    "sha1": "8d2284d918bc489046756c325ca6f40af959f7f6",
+    "fingerprint": [
+     "魏尔斯特拉斯",
+     "连续",
+     "可导"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "连续不等于可导",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学史专名案例（魏尔斯特拉斯，即前述严格定义极限者）。可迁移机理：一个反例即可厘清两个被混同的概念；柯西年代数学家尚以为连续几乎处处可导。"
+  },
+  {
+   "claim_id": "C-SX-U35-02",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "导数更本质的意义是对连续性的测度，可作判断未来走势的依据",
+   "quote": "对于连续性的一种测度",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4279,
+    "end_line": 4281,
+    "sha1": "3b8c248b7142e2528943a85c8ce926351c5af924",
+    "fingerprint": [
+     "导数",
+     "测度"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "导数测连续性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲枢纽论点；可导性今被反过来用于衡量曲线光滑程度（4275-4278 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U35-03",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "企业收入曲线光滑意味着可预测，管理层决策才有依据",
+   "quote": "商业活动完全可以预测",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4282,
+    "end_line": 4290,
+    "sha1": "00ccaf0fdef1dffe8ba49abf2a8a463b110095a7",
+    "fingerprint": [
+     "光滑",
+     "预测"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "光滑曲线可预测",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "反面：不连续（时高时低）的公司完全无法预测，员工应准备退路（4288-4290 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U35-04",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "连续但不可导的销售尖点同样危险：扩张收缩都来不及调整",
+   "quote": "消化快速扩张的后遗症",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4291,
+    "end_line": 4301,
+    "sha1": "367eb0efba4dca0eacbb9b82caddec75a2d62d89",
+    "fingerprint": [
+     "不可导",
+     "尖尖点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "不可导尖点之险",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "企业须提前备料备货雇人，尖点处要么裁人清仓、要么消化扩张后遗症；销售突然加速的尖点见 C-SX-U0035-05。"
+  },
+  {
+   "claim_id": "C-SX-U35-05",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "王老吉断货教训：空中轰炸之前，地面挺进要先准备好",
+   "quote": "学到一个营销的策略",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4302,
+    "end_line": 4320,
+    "sha1": "66f794b622b707ad32389072304fab01e24d583e",
+    "fingerprint": [
+     "王老吉",
+     "空中轰炸"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-1"
+   ],
+   "concept_key": "空中轰炸与地面挺进",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "专名案例（2008汶川地震后王老吉慈善营销、二线城市饭馆断货，作者亲历）。可迁移机理：需求引爆前供应链与铺货须先行；产能有限且增产有滞后。挂在“销售不可导伤企业”论证链（C-SX-U0035-04）之下。"
+  },
+  {
+   "claim_id": "C-SX-U35-06",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "业绩不平滑的公司股价常好不了，因为投资人无法预期",
+   "quote": "投资人无法预期它的表现",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4321,
+    "end_line": 4328,
+    "sha1": "e91808da92a1262f5502fedb8cc52e15081386d8",
+    "fingerprint": [
+     "股价",
+     "平滑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-1"
+   ],
+   "concept_key": "业绩平滑与股价",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "特斯拉Model3订单暴涨产能跟不上致退货、巴菲特偏好业绩平稳股票，为一般例证并入 notes（不独立成卡）。"
+  },
+  {
+   "claim_id": "C-SX-U35-07",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "向前看的人更关注导数性质而非总量，如看增长率不看经济总量",
+   "quote": "更喜欢看一个函数导数的性质",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4348,
+    "end_line": 4364,
+    "sha1": "e01a05883741ba2e90f7bf0ce29bca3d2b596e6f",
+    "fingerprint": [
+     "导数",
+     "增长率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "看导数不看总量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "媒体谈中国经济增长率（导数）而非总量（原函数）为例证（4361-4364 并入）；导数性质三条总结见 4349-4358。"
+  },
+  {
+   "claim_id": "C-SX-U35-08",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "经济增长率骤降即硬着陆、骤升即过热，连续变化才可取",
+   "quote": "那就是所谓的硬着陆",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4365,
+    "end_line": 4371,
+    "sha1": "5b8350d0cb42f78f8b2869ee5734ea95d091c82b",
+    "fingerprint": [
+     "硬着陆",
+     "经济过热"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "增长率连续性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对应第二/三个不可导点；增长率连续则总量曲线光滑。"
+  },
+  {
+   "claim_id": "C-SX-U35-09",
+   "unit_id": "SX-U0035",
+   "speaker": "吴军本人",
+   "claim_text": "营收或经济结构单一，则增长曲线不可导、趋势靠不住",
+   "quote": "收入就会大幅度波动",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 4372,
+    "end_line": 4384,
+    "sha1": "c55d7aceaa7d8e28e9d5a2dd351eb977f67def3e",
+    "fingerprint": [
+     "营收",
+     "单一"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-1"
+   ],
+   "concept_key": "结构单一与不可导",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "同收入同利润下多客户公司估值高于两大客户公司；资源型国家抱着金饭窝难长期稳定（4374-4383 例证并入）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第31讲（微分下）：9卡入库（D04-1主柱5卡、D08-1主柱3卡+辅1卡）；奇点定义与导数四段曲线演算细节不入卡（以正文为准）；无时效预测类内容，无X处置。"
+}

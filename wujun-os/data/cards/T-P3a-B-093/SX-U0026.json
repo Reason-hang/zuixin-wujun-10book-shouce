@@ -1,0 +1,130 @@
+{
+ "unit_id": "SX-U0026",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0026-01",
+   "unit_id": "SX-U0026",
+   "speaker": "转述·第三方",
+   "claim_text": "笛卡尔：用坐标把几何问题化为方程，以代数解几何难题",
+   "quote": "为了把几何问题变简单",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3096,
+    "end_line": 3110,
+    "sha1": "eb11c99e95adaeb52f28dc05f0cc9388210958fd",
+    "fingerprint": [
+     "笛卡尔",
+     "坐标",
+     "代数"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "解析几何",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：笛卡尔（经吴军转述）；时代背景：开普勒椭圆轨道定律与透镜折射研究使传统几何工具不够用（史实并入）；吴军评\"活十辈子也想不出\"的伟大想法；苍蝇传说已被吴军说明并非灵机一动"
+  },
+  {
+   "claim_id": "C-SX-U0026-02",
+   "unit_id": "SX-U0026",
+   "speaker": "吴军本人",
+   "claim_text": "学好数学靠系统性方法与帮助理解的工具，而非悟性记忆力",
+   "quote": "靠的是有一套系统性的方法",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3151,
+    "end_line": 3156,
+    "sha1": "0acdbd541dec57c73867ae0a151df7404486279f",
+    "fingerprint": [
+     "悟性",
+     "系统性的方法",
+     "工具"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学好数学靠系统方法",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "悟性难复制、记忆不可靠；解析几何正是理解方程组解的工具；ability 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0026-03",
+   "unit_id": "SX-U0026",
+   "speaker": "吴军本人",
+   "claim_text": "解析几何宇宙中本不存在，数学之虚可为现实之实服务",
+   "quote": "这个普遍规律",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3187,
+    "end_line": 3192,
+    "sha1": "85f0b5f8bd45f923efbf1aa40f4879648b49d665",
+    "fingerprint": [
+     "工具",
+     "凭空构建",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "虚为实服务",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学工具按逻辑凭空构建却能解几何难题、释三次方程必有实数解；与 C-SX-U0022-07 虚构概念同链互证"
+  },
+  {
+   "claim_id": "C-SX-U0026-04",
+   "unit_id": "SX-U0026",
+   "speaker": "吴军本人",
+   "claim_text": "学好数学是融会贯通可理解的知识，刷超出理解的题收获为零",
+   "quote": "融会贯通起来",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3193,
+    "end_line": 3201,
+    "sha1": "a83573a93b864ccb6fd3615c35a5ad5b3653d563",
+    "fingerprint": [
+     "融会贯通",
+     "难题",
+     "80 分"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "融会贯通地学",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "40 岁回望 16 年学数学除加减乘除全忘光的悲哀（例证并入）；学数学当作用工具的练习、解析几何承前启后出微积分（体会三并入）；ability 取[学]"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0026",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "线性方程与直线对应、方程组解与直线相交平行重合对应、二次三次方程曲线图解为数学教学内容事实；教科书外国人名补课建议为操作性小建议，均不入论点卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第23讲解析几何：笛卡尔转述卡+系统方法、虚为实服务、融会贯通三张本人卡；直线方程/方程组解的几何意义、三次方程图解等教学内容记 X4"
+}

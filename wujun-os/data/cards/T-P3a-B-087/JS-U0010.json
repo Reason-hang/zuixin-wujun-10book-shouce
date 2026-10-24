@@ -1,0 +1,132 @@
+{
+  "unit_id": "JS-U0010",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0010-01",
+      "unit_id": "JS-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "共享成功的本质是创造出更大的市场、更多需求、让人多花钱；让经济萎缩的共享维持不下去",
+      "quote": "创造出更大的市场",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 477,
+        "end_line": 477,
+        "sha1": "c60fe54a621f9618edae6159f5527e4ead724039",
+        "fingerprint": [
+          "创造出更大的市场",
+          "更多的需求"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "共享经济＝做大市场",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "GDP 试金石（447行）：让经济萎缩的商业模式维持不下去；成功例：网约车把出租车市场从约200万牌照扩到900余万辆（451行）、爱彼迎让家庭旅游 3 天变 5 天（455行）；与 C-JS-U0007-01“商业的本质”同链互证。"
+    },
+    {
+      "claim_id": "C-JS-U0010-02",
+      "unit_id": "JS-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "共享是为了带来便利而不是节省资源；由闲置方还是公司供给无关紧要",
+      "quote": "共享是为了带来便利",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 461,
+        "end_line": 461,
+        "sha1": "19e9484da0f17a7321ba20b3bc53cc6271337a8f",
+        "fingerprint": [
+          "带来便利",
+          "节省资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "共享为便利非省资源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：电钻/割草机共享因不便失败（433行）、机场闲置车共享三年未起（461行）；王晓峰转述：摩拜不用闲置车、品质无保障且掉链子无人修（461行）；成功面：服装饰品给多样性、照相器材给便利性，租金约售价 1/10（463-467行）。"
+    },
+    {
+      "claim_id": "C-JS-U0010-03",
+      "unit_id": "JS-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "除住房外，任何把个人闲置资源拿出来共享的尝试至今都不成功",
+      "quote": "闲置资源拿来共享的尝试都不成功",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 449,
+        "end_line": 449,
+        "sha1": "c359a9df7df4daa7fd44c8404646e4bbd08d77a2",
+        "fingerprint": [
+          "除了住房之外",
+          "闲置资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "闲置共享皆败",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "网约车从业者多为专职且专门购车（449行）；中国共享律师/医生/会计为美国失败案例翻版（435行）。"
+    },
+    {
+      "claim_id": "C-JS-U0010-04",
+      "unit_id": "JS-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "专业技能难平台化共享：好专业者永远供不应求；顾客满意后绕开平台建立长期关系，平台只得第一单",
+      "quote": "总是希望建立一种长期的关系",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 471,
+        "end_line": 473,
+        "sha1": "35031f8788b89a7f53585f058890b68d6c702e4a",
+        "fingerprint": [
+          "供不应求",
+          "长期的关系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "专业共享难过长期关系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "看病难症结是好医生供不应求而非缺平台（471行）；上门美甲加微信后脱离平台、使用频率也不因平台提高（473行投资人例）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0010",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "共享经济三波浪潮预判（第一波已败于闲置资源误解、第二波进步、第三波补入用户信用与行为习惯）及 IoT/移动支付/机器智能使共享更便利的技术展望（475/477行）属未来趋势预测，登记 X6 由 P4 终裁。"
+    },
+    {
+      "unit_id": "JS-U0010",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "摩拜 2016 分水岭、共享单车估值、“接下来几年共享充电宝等会死掉一大片”、第一波共享公司存活状态（427/431/441/443行）等依赖 2017-2018 年行业状态与时点预测，登记 X2 由 P4 终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "共享经济本质节：4 卡（E1×4）；三波浪潮与技术使能预测登记 X6，行业时点与公司状态登记 X2。"
+}

@@ -1,0 +1,155 @@
+{
+ "unit_id": "SX-U0055",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0055-01",
+   "unit_id": "SX-U0055",
+   "speaker": "吴军本人",
+   "claim_text": "最理论的纯数学研究与现实问题相关，无用智力游戏有大用场",
+   "quote": "那些看似无用的智力游戏",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7248,
+    "end_line": 7254,
+    "sha1": "15168cec49548fada8284f736e311c821450f92d",
+    "fingerprint": [
+     "纯数学",
+     "智力游戏"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "无用之大用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "七大问题中三个直接和计算机加密相关，其它与宇宙学力学相关；呼应第45讲'无用之用方为大用'（C-SX-U0050-06）"
+  },
+  {
+   "claim_id": "C-SX-U0055-02",
+   "unit_id": "SX-U0055",
+   "speaker": "吴军本人",
+   "claim_text": "佩雷尔曼体现真正数学家的追求：对未知的好奇与探索精神",
+   "quote": "一个真正的数学家所追求的目标",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7248,
+    "end_line": 7254,
+    "sha1": "15168cec49548fada8284f736e311c821450f92d",
+    "fingerprint": [
+     "佩雷尔曼",
+     "数学家"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-3"
+   ],
+   "concept_key": "数学家的追求",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例：佩雷尔曼拒绝菲尔兹奖与百万美元奖金（行7173-7184，锚外）；吴军推断'在他心中解决难题比得奖和金钱重要得多'（E3色彩记notes）"
+  },
+  {
+   "claim_id": "C-SX-U0055-03",
+   "unit_id": "SX-U0055",
+   "speaker": "吴军本人",
+   "claim_text": "千禧问题非随意确定：其领域与当代科技密切相关",
+   "quote": "千禧问题不是随便确定的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7125,
+    "end_line": 7138,
+    "sha1": "16f377fbf653ef19ccf00c30ea59541bd5f8f6f7",
+    "fingerprint": [
+     "千禧",
+     "克雷"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "千禧问题的遴选",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "克雷数学研究所2000年设七题回应1900年希尔伯特23问（约17个已解决或部分解决），每题百万美元、两年审核；破解极可能带来物理学大统一理论、计算机科学、密码学、通讯突破"
+  },
+  {
+   "claim_id": "C-SX-U0055-04",
+   "unit_id": "SX-U0055",
+   "speaker": "吴军本人",
+   "claim_text": "数学上只有公理是显然的，越显然的结论有时越难证明",
+   "quote": "越是显然的结论越难证明",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7148,
+    "end_line": 7154,
+    "sha1": "fe3b56d4c6bf711359114be9579c4f0ca722ed35",
+    "fingerprint": [
+     "公理",
+     "证明"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "显然与证明",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "以庞加莱猜想为例：看似显然（单连通封闭三维形体等价于三维球）却几十年无人能证；5维与4维变种先被斯梅尔、弗里德曼证明获菲尔兹奖"
+  },
+  {
+   "claim_id": "C-SX-U0055-05",
+   "unit_id": "SX-U0055",
+   "speaker": "转述·第三方",
+   "claim_text": "NP问题反映解题难度与验证难度的不对称，关乎加密安全",
+   "quote": "正是因为这种不对称性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 7194,
+    "end_line": 7209,
+    "sha1": "790b82873c1f2dffe59fe129a92849a008a58bf3",
+    "fingerprint": [
+     "NP",
+     "多项式"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "解与验的不对称",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：计算机科学NP问题（克雷千禧问题之二）。若答案否定，公钥加密原理上安全（不怕量子计算出现）；肯定则可能找到与验证同难度的破译算法；吴军本人持否定观点（2012年调查84%同行同观点）；古德里奇教授告诫不要在此问题上花时间；比特币加密用椭圆曲线同 asymmetry（贝赫和斯维讷通-戴尔猜想、黎曼猜想素数分布与加密，记本卡notes）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0055",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "佩雷尔曼生平细节（住福利公寓、arXiv贴文、拒奖过程、怼同行）、斯梅尔/弗里德曼/杨-米尔斯/霍奇猜想介绍性史实，机理已入卡，生平与罗列不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "千禧难题单元，5卡覆盖无用之大用、数学家追求、遴选逻辑、显然与证明、NP不对称"
+}

@@ -1,0 +1,154 @@
+{
+ "unit_id": "SX-U0047",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0047-01",
+   "unit_id": "SX-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "博弈论本质是解决最优化问题的方法，最优化须考虑对方行为",
+   "quote": "策略要考虑对方的行为",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6036,
+    "end_line": 6047,
+    "sha1": "c8b9a9bdd12382c71d208354667432a929650d28",
+    "fingerprint": [
+     "博弈论",
+     "最优化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "博弈论的本质",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军概括：博弈论=对策论，研究竞争中采用什么好策略，本质是解最优化问题；与传统最优化不同在多方参与"
+  },
+  {
+   "claim_id": "C-SX-U0047-02",
+   "unit_id": "SX-U0047",
+   "speaker": "转述·第三方",
+   "claim_text": "零和博弈通用策略：在对方造成的最糟局面里选相对最好的",
+   "quote": "最小值中的最大值策略",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6064,
+    "end_line": 6081,
+    "sha1": "a0c2dcdce443c92ad9dcb3221e713c89acb9a5b8",
+    "fingerprint": [
+     "最小值中的最大值",
+     "策略"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "极小极大策略",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：冯·诺依曼博弈论（计算机算法中的min-max策略）。不考虑对方应对时最好与最差策略可能反过来；胜率矩阵以正文为准"
+  },
+  {
+   "claim_id": "C-SX-U0047-03",
+   "unit_id": "SX-U0047",
+   "speaker": "转述·第三方",
+   "claim_text": "势均力敌的博弈中双方必然被锁死在马鞍点平衡点上",
+   "quote": "寻找最小值中的最大值",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6090,
+    "end_line": 6103,
+    "sha1": "8839bb507529784a8f1e969f4c51a75679ac4364",
+    "fingerprint": [
+     "马鞍点",
+     "平衡点"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "鞍点平衡",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：冯·诺依曼零和博弈鞍点理论。吴军补充（记本卡notes）：走出平衡点扩大利益会遭对方反制；成立前提是阳谋+双方足够精明"
+  },
+  {
+   "claim_id": "C-SX-U0047-04",
+   "unit_id": "SX-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "抽签先后不影响中奖概率：条件概率下各人获胜机会相等",
+   "quote": "所有人命中赢球的可能性都相等",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6132,
+    "end_line": 6147,
+    "sha1": "99bbcbc4fa930bc44fc01632d9bde791373326f0",
+    "fingerprint": [
+     "条件概率",
+     "抽签"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "抽签等概率",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例：投篮问题/抽签（案例名在锚前6122-6131行）。误信源于只看条件概率（别人没中）而忽视奖品已被抽走；命中率与距离关系改变则结论变。吴军引申：职场站出来讲话/接受任务的时机——太早失败率高，太晚没机会，最好临危受命成功"
+  },
+  {
+   "claim_id": "C-SX-U0047-05",
+   "unit_id": "SX-U0047",
+   "speaker": "吴军本人",
+   "claim_text": "更能保障利益的是达成各方平衡，多考虑下行风险",
+   "quote": "是达成各方面的平衡",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6152,
+    "end_line": 6161,
+    "sha1": "eb0094919c4a134c6131ac80e6dc10f6d658d6ed",
+    "fingerprint": [
+     "平衡",
+     "下行风险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "博弈平衡优先",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "要点总结：不要老考虑对自己有利的情况而低估对手，在所有最小值中找最大值；创业出手时机按任务难度把握。博弈论的意义=把感性认识量化为理性指导（吴军E1，附记本卡）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0047",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "冯·诺依曼、纳什生平及'比爱因斯坦还聪明的天才'等为数学史/人物轶事，保留其方法卡，史实叙述不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "博弈论原理单元，5卡覆盖博弈论本质、极小极大、鞍点、投篮问题、吴军平衡方法论"
+}

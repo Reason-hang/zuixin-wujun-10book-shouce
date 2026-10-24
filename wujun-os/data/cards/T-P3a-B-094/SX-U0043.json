@@ -1,0 +1,175 @@
+{
+ "unit_id": "SX-U0043",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U43-01",
+   "unit_id": "SX-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "特定条件下的条件概率通常不等于本身概率，可差数量级",
+   "quote": "通常不等于本身的概率",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5512,
+    "end_line": 5529,
+    "sha1": "f7b650dbb2debfe8f966837527c627381c5ebadf",
+    "fingerprint": [
+     "条件概率",
+     "中药"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "条件概率",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "拼音 tian qi 例：无上下文“天气”可能性是“田七”上千倍，前词为“中药”则反转（5513-5523）；考虑不考虑条件，概率可差很多数量级。"
+  },
+  {
+   "claim_id": "C-SX-U43-02",
+   "unit_id": "SX-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "学别人经验用在自己身上不灵，是因没搞清条件",
+   "quote": "原因就是没有搞清楚条件",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5527,
+    "end_line": 5532,
+    "sha1": "2f9ebb00857dd30075db806f268fd178ab8072af",
+    "fingerprint": [
+     "经验",
+     "条件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "经验迁移看条件",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "条件概率的认知意义；反过来，原以为不可能的事一旦条件具备就成为大概率事件；从学习方法角度亦可归 D02-2。"
+  },
+  {
+   "claim_id": "C-SX-U43-03",
+   "unit_id": "SX-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "条件和结果可互换，从易得条件概率推导难得的即贝叶斯公式",
+   "quote": "这就是著名的贝叶斯公式",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5572,
+    "end_line": 5589,
+    "sha1": "ba3a948bf0d646ce1a9130939c59db75f776b2ec",
+    "fingerprint": [
+     "贝叶斯",
+     "条件概率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "贝叶斯公式",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学上因果关系可互为因果（5572-5573）；P(Y|X)=P(X,Y)/P(X) 及联合概率互换推导（5564-5586 概要并入）；知三个因子可求第四个。"
+  },
+  {
+   "claim_id": "C-SX-U43-04",
+   "unit_id": "SX-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "机器翻译即取条件概率最大的译文，贝叶斯化不可算为可算",
+   "quote": "这便是机器翻译的原理",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5598,
+    "end_line": 5620,
+    "sha1": "07b63a81772c560b7d519aaab24eaceb339117b6",
+    "fingerprint": [
+     "机器翻译",
+     "条件概率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D04-2"
+   ],
+   "concept_key": "机器翻译原理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "翻译看似语言学问题，实为概率/最优化问题（5595-5604 并入）；三个因子：翻译模型P(Y|X)、语言模型P(X)、常数P(Y)，均可用马尔可夫模型计算，细节见《数学之美》（5610-5617）。"
+  },
+  {
+   "claim_id": "C-SX-U43-05",
+   "unit_id": "SX-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "贝叶斯本质：条件结果互换，把复杂问题变成几个简单问题",
+   "quote": "变成三个简单的问题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5621,
+    "end_line": 5630,
+    "sha1": "9238b0ab8fae32824d6615c29ac6eea18859a768",
+    "fingerprint": [
+     "贝叶斯",
+     "桥梁"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "绕弯架桥",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲要点总结句；看似绕弯实则架起桥梁，让无直接通路的两个点绕几段路联通，虚数的作用同理；“凡事讲究条件”亦为本讲要点（5623）。"
+  },
+  {
+   "claim_id": "C-SX-U43-06",
+   "unit_id": "SX-U0043",
+   "speaker": "吴军本人",
+   "claim_text": "很多看似智能的问题实际是数学问题，学好数学以解决现实",
+   "quote": "学好数学，就是掌握一个工具",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5631,
+    "end_line": 5633,
+    "sha1": "7b5cfc9b1f5acfe475f127f6d6e2f9a366692486",
+    "fingerprint": [
+     "智能",
+     "数学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "智能问题数学化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "生活中很多类似机器翻译的问题皆然；数学是解决现实问题的工具（本讲结语）。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第39讲（条件概率与贝叶斯）：6卡入库（D04-1主柱，含机器翻译卡辅D04-2、经验迁移卡辅D02-2）；条件概率词频估算与公式推导细节不入卡（以正文为准）；无X处置。"
+}

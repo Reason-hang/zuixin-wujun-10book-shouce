@@ -1,0 +1,350 @@
+{
+ "unit_id": "SX-U0022",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0022-01",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "高等数学的本质是改变思维方式：从孤立静止到动态趋势看世界",
+   "quote": "而是在改变大家的一种思维方式",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2537,
+    "end_line": 2540,
+    "sha1": "856aee63f63ec85530935d9339a0d0c416ba3adf",
+    "fingerprint": [
+     "思维方式",
+     "动态发展"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "从孤立静止到动态趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "认知从初等到高等的过程；课程讲法不强调知识点"
+  },
+  {
+   "claim_id": "C-SX-U0022-02",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "刷题不如理解概念：懂高等数学是对趋势的动态描述后微积分变容易",
+   "quote": "是对趋势的动态描述",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2541,
+    "end_line": 2551,
+    "sha1": "317fc9d6924176512af76311ea648591915990e2",
+    "fingerprint": [
+     "习题",
+     "基本的概念"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "刷题不如理解概念",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "吴军自述吉米多维奇习题集弯路（经历→判断）；将来遇到题可查参考书或用计算机工具；ability 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0022-03",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "数学是真实世界的高度抽象：概念浓缩对象，规律抽象表述",
+   "quote": "高度抽象的结果",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2552,
+    "end_line": 2554,
+    "sha1": "6f03a7674b49048e9964761d6cdf8c80a7a1a6d0",
+    "fingerprint": [
+     "抽象",
+     "浓缩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学是世界的抽象",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "有生活阅历后回头看数学书可理清零碎想法"
+  },
+  {
+   "claim_id": "C-SX-U0022-04",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "贫穷限制的是维度经验而非想象力；知未知无穷更接近真理",
+   "quote": "贫穷不会限制想象力",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2560,
+    "end_line": 2568,
+    "sha1": "b38e9341caa64609348ef1425ce0890672e13e5d",
+    "fingerprint": [
+     "想象力",
+     "经验",
+     "苏格拉底"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "贫穷限制维度经验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "罗斯柴尔德阴谋论书作者判读为例证；苏格拉底知道自己知识有穷尽"
+  },
+  {
+   "claim_id": "C-SX-U0022-05",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "真正的大趋势持续数十年不易错过；几个月时间窗只是投机",
+   "quote": "那根本不是机会，只是一次投机",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2579,
+    "end_line": 2583,
+    "sha1": "fa16b92a83eb9829b2ebd5a40a4fd1a7fa12168a",
+    "fingerprint": [
+     "大趋势",
+     "时间窗",
+     "投机"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-1"
+   ],
+   "concept_key": "大趋势与小时间窗",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "做事要以动态为前提假设（足球例）；莫嫌少年贫=看成长趋势（例证并入）；辅 D03-1 机会判断"
+  },
+  {
+   "claim_id": "C-SX-U0022-06",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "过分精明盯眼前利益反而不聪明，赚差价错过长期增长",
+   "quote": "过分精明的结果就是",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2586,
+    "end_line": 2591,
+    "sha1": "f0586e5d9d6c10855a07f0d1c11d0c4ddb83d5cb",
+    "fingerprint": [
+     "精明",
+     "长期的利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D04-1"
+   ],
+   "concept_key": "精明与聪明",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "投资低买高卖例证；持续增长趋势假以时日涨得快（数学根为长期趋势）；辅 D09-2 关联见 notes"
+  },
+  {
+   "claim_id": "C-SX-U0022-07",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "数学工具建于虚构概念却实用，人靠虚拟媒介解决真实问题",
+   "quote": "虚构概念之上的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2593,
+    "end_line": 2605,
+    "sha1": "e66325989392eb9bb6c0455b92093fce096cdbef",
+    "fingerprint": [
+     "虚构",
+     "抽象思维",
+     "货币"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "虚构概念与虚拟媒介",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "无理数、货币、茅台礼品转手为例证；人要有抽象思维；辅 D01-1"
+  },
+  {
+   "claim_id": "C-SX-U0022-08",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "财富靠赚不靠攒：收入增长与通胀贬值是两种趋势的博弈",
+   "quote": "财富靠赚，而不靠攒",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2606,
+    "end_line": 2619,
+    "sha1": "6610c2771269f9c0f7e5b18b85f2aecc25f504c6",
+    "fingerprint": [
+     "攒钱",
+     "赚钱",
+     "购买力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D04-1"
+   ],
+   "concept_key": "财富靠赚不靠攒",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "通胀房价是贬向无穷小的力量，收入增长是涨向无穷大的力量（数学根）；北京计算机毕业生年薪年涨 17% 例证"
+  },
+  {
+   "claim_id": "C-SX-U0022-09",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "直觉只适用熟悉世界；逻辑能分析看不见甚至不存在的事",
+   "quote": "我们熟悉或者能够感知到的世界",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2620,
+    "end_line": 2627,
+    "sha1": "44044b1e23b9efef5f4101e9d3688e5b7f51a438",
+    "fingerprint": [
+     "直觉",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "直觉与逻辑的边界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "芝诺、贝克莱悖论源于直觉与无穷小世界规律不一致；伽利略例复引；辅 D04-1"
+  },
+  {
+   "claim_id": "C-SX-U0022-10",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "形象比喻不够处需严格语言，做事专业须掌握专业术语",
+   "quote": "做事专业，就需要掌握专业的术语",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2628,
+    "end_line": 2634,
+    "sha1": "c1f03dc3832a7777c6f67895d64c65f4c82d6df9",
+    "fingerprint": [
+     "表述",
+     "专业的术语",
+     "比喻"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D04-1"
+   ],
+   "concept_key": "专业术语与严格表述",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "数学语言、法律语言同属严格表述；ability 取[沟]"
+  },
+  {
+   "claim_id": "C-SX-U0022-11",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "惊人成就需要理性对手；都赞同时发现不了系统漏洞",
+   "quote": "对于那些理性的对手",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2636,
+    "end_line": 2644,
+    "sha1": "d6a39b03e256a9d977b9e98bb815b3f409f76eb3",
+    "fingerprint": [
+     "理性的对手",
+     "漏洞",
+     "朋友"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D04-1"
+   ],
+   "concept_key": "理性对手的价值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "小成就靠朋友，惊人成就靠理性对手；芝诺贝克莱罗素为数学反角；金融危机前经济学家无预警为例证"
+  },
+  {
+   "claim_id": "C-SX-U0022-12",
+   "unit_id": "SX-U0022",
+   "speaker": "吴军本人",
+   "claim_text": "科学无专利争第一发现，技术有专利须独占，二者不能混谈",
+   "quote": "因此科学很难直接带来财富",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2645,
+    "end_line": 2659,
+    "sha1": "871df4283546a8d57144ce7c08018b7917eff25d",
+    "fingerprint": [
+     "专利",
+     "荣誉",
+     "技术"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-1"
+   ],
+   "concept_key": "科学的荣誉与技术的财富",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "费罗塔尔塔利亚保守解法被遗忘 vs 卡尔达诺公之于世（史实例证并入）；科学无国界技术有国界；辅 D10-1"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第19讲复盘九体会：思维方式转变、贫穷与维度经验、动态趋势、精明聪明、攒赚、直觉逻辑、术语、理性对手、科学荣誉技术财富等 12 卡，全为吴军本人判断"
+}

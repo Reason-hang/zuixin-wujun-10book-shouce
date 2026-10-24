@@ -1,0 +1,174 @@
+{
+ "unit_id": "SX-U0052",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0052-01",
+   "unit_id": "SX-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "数学结论取决于公理与逻辑，但数学和逻辑是完全独立的两门学问",
+   "quote": "完全独立的两门学问",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6731,
+    "end_line": 6738,
+    "sha1": "f6dbccd3d727e7e97689e78c418ea011601577c7",
+    "fingerprint": [
+     "公理",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学与逻辑之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学结论正确性=公理正确性+逻辑严密性；欧氏几何完全依赖逻辑；逻辑是人类理性的体现，基本原理是大白话但只有少数人能坚持"
+  },
+  {
+   "claim_id": "C-SX-U0052-02",
+   "unit_id": "SX-U0052",
+   "speaker": "转述·第三方",
+   "claim_text": "同一律：一个事物只能是其本身，偷换概念即违反同一律",
+   "quote": "一个事物只能是其本身",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6739,
+    "end_line": 6762,
+    "sha1": "4b4cc5f575ff27b2fdc9d7d9b14d8dd7a1f5fdfe",
+    "fingerprint": [
+     "同一律",
+     "偷换概念"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "同一律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：逻辑学基本原理（亚里士多德传统，吴军通识转述）。吴军应用（记notes）：'股市都是骗局'把个体换集合=以偏概全；施坦威不说限量版vs日本限量版钢琴偷换外延；左右派'平等'各指结果/机会平等；孩子移项出错=不懂同一律；吴军本人沟通习惯=复述对方的话确认讨论同一件事（6777-6780，沟通方法）"
+  },
+  {
+   "claim_id": "C-SX-U0052-03",
+   "unit_id": "SX-U0052",
+   "speaker": "转述·第三方",
+   "claim_text": "矛盾律：同一时刻同一方面不可能既是A又不是A",
+   "quote": "不可能既是A 又不是A",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6781,
+    "end_line": 6805,
+    "sha1": "258cedb37633ce8284ecef65a33124989374807d",
+    "fingerprint": [
+     "矛盾律",
+     "同一律"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "矛盾律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：逻辑学矛盾律（词源contra+dicti=相反的讲话）。反证法基于矛盾律；波粒二象性、'人在某处心在你身边'不违反（不同方面），'人在北京又不在北京'违反；无理数发现、相对论提出均源于矛盾；逻辑学家强调四个'同一'（时间/方面/属性/对象）；'既慷慨又斤斤计较'实为违反同一律"
+  },
+  {
+   "claim_id": "C-SX-U0052-04",
+   "unit_id": "SX-U0052",
+   "speaker": "转述·第三方",
+   "claim_text": "排中律：明确条件下须有明确是非判断，不存在中间状态",
+   "quote": "不存在中间状态",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6806,
+    "end_line": 6830,
+    "sha1": "1c46ddd987ad1a59e4f72a869e566456f40ca324",
+    "fingerprint": [
+     "排中律",
+     "二分"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "排中律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：逻辑学排中律。大于零的反面是不大于零（等于零属后者）；数学排除法/枚举法、计算机二分算法的逻辑基础；1976年阿佩尔与哈肯计算机穷举证明四色定理靠排中律保障；中国学生'既要又要'作文在SAT/GRE不及格=违反排中律；检察官'受贿中有没有奔驰'预设圈套，好的回答是否定大前提（吴军应用记notes）"
+  },
+  {
+   "claim_id": "C-SX-U0052-05",
+   "unit_id": "SX-U0052",
+   "speaker": "转述·第三方",
+   "claim_text": "充分条件律：任何结论都要有充足理由，即因果原理",
+   "quote": "这也就是我们常说的因果原理",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6844,
+    "end_line": 6856,
+    "sha1": "cdcd67afc47baa85593581a77b19d27b0c93e27d",
+    "fingerprint": [
+     "充分条件律",
+     "因果"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "充分条件律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：逻辑学家（与前三律并称逻辑四基本原则，吴军转述）。成立原因：宇宙中任何事物不能自我解释；单条件常不构成充分条件，需多条件同时满足；数学靠内在逻辑性避免自相矛盾"
+  },
+  {
+   "claim_id": "C-SX-U0052-06",
+   "unit_id": "SX-U0052",
+   "speaker": "吴军本人",
+   "claim_text": "运用逻辑把事实分析一遍真相就清楚；学逻辑的好方法是学好数学",
+   "quote": "把事实分析一遍，真相就清楚了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6858,
+    "end_line": 6863,
+    "sha1": "9751babed3775b00fc9101b50d92ae780befb6ff",
+    "fingerprint": [
+     "逻辑",
+     "数学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "逻辑清障",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本讲收束（吴军本人）：人们常身陷矛盾而不自知，因为缺乏逻辑性；对重要事物想不清楚时，运用逻辑把事实分析一遍，真相就清楚"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "数学与逻辑学单元，6卡覆盖数学逻辑之辨、同一律、矛盾律、排中律、充分条件律、逻辑启发"
+}

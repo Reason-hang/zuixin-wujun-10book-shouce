@@ -1,0 +1,191 @@
+{
+ "unit_id": "SX-U0030",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0030-01",
+   "unit_id": "SX-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "使用任何规律前要看条件是否相符，不能错误套用公式",
+   "quote": "要看条件是否相符",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3627,
+    "end_line": 3632,
+    "sha1": "68b2ac44491086f68c1b2ee704e9df3c33b4cb0f",
+    "fingerprint": [
+     "定义域",
+     "条件",
+     "套用"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "规律使用先看定义域",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：90 分以上学生多教 10% 多学 5%，70 分以下可能相反（例证并入）；要点总结\"函数的使用要考虑使用范围\"同链；辅 D01-1"
+  },
+  {
+   "claim_id": "C-SX-U0030-02",
+   "unit_id": "SX-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "数学函数中因果关系未必单向：自变量因变量角色可互换",
+   "quote": "因果关系未必如此",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3640,
+    "end_line": 3653,
+    "sha1": "c6e30fd5206593bd3629f3bbc25336fd48b23bae",
+    "fingerprint": [
+     "自变量",
+     "因变量",
+     "互换"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "函数因果可互换",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "半径→面积与面积→半径（必胜客点披萨例）；反函数图 45 度对称；对数与指数互为反函数（国库券翻番例并入）"
+  },
+  {
+   "claim_id": "C-SX-U0030-03",
+   "unit_id": "SX-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "72 定律估翻番年数，小利率差异经长期复利放大为财富倍差",
+   "quote": "财富很容易差出一倍",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3667,
+    "end_line": 3672,
+    "sha1": "27d37ccc76f9c530531596595256039502d5239d",
+    "fingerprint": [
+     "72",
+     "翻番",
+     "理财"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D04-1"
+   ],
+   "concept_key": "72定律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "R=6 约 12 年、R=8 约 9 年；36 年差出翻三番与翻四番；数学根为指数复利，理财语境归 D09-1"
+  },
+  {
+   "claim_id": "C-SX-U0030-04",
+   "unit_id": "SX-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "多变量下各变量与结果只有相关性无必然因果，勿相混淆",
+   "quote": "正相关性、因果关系和必然性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3673,
+    "end_line": 3695,
+    "sha1": "e0a2c2f478f86480ea563c1dd8e121a5df0f7ca2",
+    "fingerprint": [
+     "正相关",
+     "因果关系",
+     "必然性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "相关不等于因果",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "圆柱体积 V=πR²h 两变量例；平均回报率高≠拿回钱多（高风险应验例）；辅 D01-1"
+  },
+  {
+   "claim_id": "C-SX-U0030-05",
+   "unit_id": "SX-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "不能因难定必然性就放弃相关性探究，明变量知相关才见全局",
+   "quote": "就放弃对相关性的探究",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3704,
+    "end_line": 3709,
+    "sha1": "b3977dd73d3804609e9feee83ecc79e8f6cbe021",
+    "fingerprint": [
+     "相关性",
+     "变量",
+     "走向"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "相关性的价值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "知半径高度密度虽无单项因果仍可按场合调整达目的；辅 D01-1"
+  },
+  {
+   "claim_id": "C-SX-U0030-06",
+   "unit_id": "SX-U0030",
+   "speaker": "吴军本人",
+   "claim_text": "学术研究已从找确定性转向挖变量与相关性，专著当相关性著作读",
+   "quote": "从过去那种寻找确定性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3710,
+    "end_line": 3722,
+    "sha1": "de37d79d18e36e274ae1986480a5f3728fbb9c10",
+    "fingerprint": [
+     "学术研究",
+     "相关性",
+     "视角"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "学术研究转向相关性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "研究某变量须屏蔽其他变量（先假定半径不变）；万维钢\"人文社科像江湖\"评述并入；生物指标相关性模糊误作因果非常危险；辅 D04-1"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0030",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "定义域/值域/反函数的数学定义、国库券复利计算过程为数学事实；万维钢引语已并入卡 6 notes 作支撑，不独立成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第26讲函数（下）：定义域条件、因果可互换、72定律、相关不等于因果、相关性价值、学术转向等 6 卡"
+}

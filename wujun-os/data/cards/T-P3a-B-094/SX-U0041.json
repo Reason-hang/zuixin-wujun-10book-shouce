@@ -1,0 +1,332 @@
+{
+ "unit_id": "SX-U0041",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0041-01",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "泊松分布：小概率、大试验次数的伯努利试验之分布",
+   "quote": "这种分布被称为泊松分布",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5111,
+    "end_line": 5115,
+    "sha1": "f6956bb5bd11d7d5748f7ee2c55392a48e41de96",
+    "fingerprint": [
+     "泊松分布",
+     "伯努利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "泊松分布",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "如车祸发生；车位例设定（100人/10位/10%概率，5117-5124）并入。"
+  },
+  {
+   "claim_id": "C-SX-U0041-02",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "投资失败与概率误判，多因靠直觉而非严密的数学推导",
+   "quote": "靠直觉和有严重漏洞的逻辑",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5147,
+    "end_line": 5154,
+    "sha1": "11f767abe6d687bbcdb2f33845ecae7aa40cf79a",
+    "fingerprint": [
+     "直觉",
+     "数学逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "直觉不可靠",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "车位概率实为0.46，直觉答案10%与90%皆错（5147-5153）；判定可能性的误差源于直觉而非数学逻辑。"
+  },
+  {
+   "claim_id": "C-SX-U0041-03",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "池子变大获位率升但有上限，保证供给需留余量",
+   "quote": "需要增加一点余量了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5157,
+    "end_line": 5172,
+    "sha1": "7ffab52b8475f2e441525306435ba3c2d9944467",
+    "fingerprint": [
+     "池子",
+     "余量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "池子与余量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "40人4位约40%、10人1位约1/3、200人20位约50%（上限）；100人备13位得85%概率，30%冗余“增加不多但解决大问题”。"
+  },
+  {
+   "claim_id": "C-SX-U0041-04",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "随机性下资源准备达到平均值不够，需备冗余量",
+   "quote": "需要准备一些冗余量",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5174,
+    "end_line": 5184,
+    "sha1": "eb915467d4d14783599a7aaa1b828d8de1b124e4",
+    "fingerprint": [
+     "冗余",
+     "平均值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "冗余量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "电话公司例：备均值则一半时间占线；多备20%降至1/4、多备50%降至5%以下，节假日备数倍（5175-5182）；本讲要点总结第1条（5218-5221）同链。"
+  },
+  {
+   "claim_id": "C-SX-U0041-05",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "池子越大越能抵消随机误差，保险池子越大风险越小",
+   "quote": "越能抵消随机性带来的误差",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5185,
+    "end_line": 5206,
+    "sha1": "66f55671ec2aae9409e2aba1617d9319d83191e4",
+    "fingerprint": [
+     "池子",
+     "误差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "大池子抵消误差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "保险例：200人收1000元仅约一半获赔；收1500元达98%但多交50%没人买；2000人只需多交15%（1150元）即98%（5191-5206）；要点总结第2条（联合起来资源放一起）同链。"
+  },
+  {
+   "claim_id": "C-SX-U0041-06",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "保险业池子越大风险越小，个人应优先投大保险公司",
+   "quote": "很多小保险公司是赔不出来的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5207,
+    "end_line": 5216,
+    "sha1": "c3885a5149a464d543027e02c3d0f1730ca5b6d9",
+    "fingerprint": [
+     "保险公司",
+     "池子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D08-1"
+   ],
+   "concept_key": "优先大保险公司",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "小公司服务好、承诺相同，但索赔时可能赔不出；再保险=几个大池子合并成超级池子，除非2008年级危机否则够赔（5211-5216）。"
+  },
+  {
+   "claim_id": "C-SX-U0041-07",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "数据难成资产：所有权不清晰，且无法防止无成本复制",
+   "quote": "所有权不清晰",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5233,
+    "end_line": 5250,
+    "sha1": "b2f13d343340e5416b12a065d54f946a2ca9d8b3",
+    "fingerprint": [
+     "数据",
+     "资产"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据资产化的两障碍",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "调查：约100名创业者/EMBA学员中95%选100万元现金而非10万人数据（5235-5240）；大数据公司也不敢拿用户数据抵押贷款，故不具资产特性（5248-5250）。"
+  },
+  {
+   "claim_id": "C-SX-U0041-08",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "GDPR确立数据所有权归提供者，公司是管理者、用者受益",
+   "quote": "数据的所有权属于数据的提供者",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5251,
+    "end_line": 5273,
+    "sha1": "894ecc3fa99519d70e336de2e7a98c6eda7b5e0b",
+    "fingerprint": [
+     "GDPR",
+     "所有权"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据三权关系",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "加州CCPA为美国版GDPR（5269-5272）；要像管理银行那样管理数据公司、说清数据流向（5259-5268）；银行存贷三方受益类比：未来数据同样按所有者-管理者-使用者分利（5276-5286 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U0041-09",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "能随意拷贝的东西没有价值，越稀缺越有价值",
+   "quote": "任何能够拷贝的东西都没有价值",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5296,
+    "end_line": 5308,
+    "sha1": "d9729264e69aa957ebb6e50b05b000e9c028b035",
+    "fingerprint": [
+     "拷贝",
+     "稀缺"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D04-2"
+   ],
+   "concept_key": "稀缺与可拷贝",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "郭毅可教授案例：制药公司以百万英镑购六种癌症患者近乎独一无二的数据（5302-5305）；空气随手可得价值近零；金钱不可复制 vs 数据可复制任意份（5310-5312）。"
+  },
+  {
+   "claim_id": "C-SX-U0041-10",
+   "unit_id": "SX-U0041",
+   "speaker": "转述·第三方",
+   "claim_text": "施密特：区块链能创建数字世界中不可复制的内容",
+   "quote": "不可复制的内容",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5320,
+    "end_line": 5322,
+    "sha1": "76597121b7b6c18097f3d82f60fb00af4823e240",
+    "fingerprint": [
+     "施密特",
+     "区块链"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "区块链防复制",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：Google前CEO施密特（2014）。区块链作用远不限于加密货币，可适用任何数据；数据成为资产须做到不可随便复制（5313-5315 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U0041-11",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "区块链能把验证、使用与拥有数据分开，病例可还给患者",
+   "quote": "使用数据和拥有数据分开",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5325,
+    "end_line": 5346,
+    "sha1": "57b3a99163d5afbd89aa9f5e485437fcf88dc54b",
+    "fingerprint": [
+     "区块链",
+     "病例"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "验证与拥有分离",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "王永雄院士（转述例证）：美国大部分医生愿每次付10-15美元查询接触不到的病例，疑难患者估计年收1-2万美元信息费；米勒教授（转述例证）：有效疗法因信息不流通5年无人知。"
+  },
+  {
+   "claim_id": "C-SX-U0041-12",
+   "unit_id": "SX-U0041",
+   "speaker": "吴军本人",
+   "claim_text": "数据资产化进而资本化，对所有者、管理者、使用者都有巨大利益",
+   "quote": "将数据资产化，进而资本化",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5356,
+    "end_line": 5363,
+    "sha1": "f6dd6afcaf86336dedd987c696f7d38f6bc2c792",
+    "fingerprint": [
+     "数据资产",
+     "资本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据资产化",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "技术保障下数据交还个人、授权平台管理变现，如同存钱授权银行放贷；网上活动越多数据越值钱，而非越受价格歧视（5350-5354 并入）；我国将发展区块链作为国策很有道理（5363）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0041",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "加餐末段“数据资产→数据资本”的前景展望及实现时间线判断（5356-5361）属时效预测类，登记X6候选由P4终裁；核心稳定判断（稀缺性、三权分离）已正常抽卡。"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第37讲（泊松分布）6卡（D04-1主柱）+数据资产加餐6卡（D08-2/D04-2）共12卡入库；数据资本化前景与2019时点性判断登记X6候选；泊松公式与计算表格不入卡（以正文为准）。"
+}

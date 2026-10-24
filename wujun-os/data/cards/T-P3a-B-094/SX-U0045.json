@@ -1,0 +1,200 @@
+{
+ "unit_id": "SX-U0045",
+ "book_code": "SX",
+ "extractor": "EXT-SX3",
+ "batch_id": "T-P3a-B-094",
+ "cards": [
+  {
+   "claim_id": "C-SX-U45-01",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "统计学是独立科学：收集分析解释陈述数据，不止概率论应用",
+   "quote": "统计学严格来讲是一门独立的科学",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5786,
+    "end_line": 5797,
+    "sha1": "a9f6abca577aef1d7bb33a50c54e422e6480d350",
+    "fingerprint": [
+     "统计学",
+     "数据"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "统计学的界定",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "含陈述数据使人接受结论等非数学工作（描述统计学；人对图表敏感度远高于数字）；词源=研究国家的科学（阿亨瓦尔，5798-5805 并入）；目的=寻规律、相关性、可能因果并建模预估（5806-5815 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U45-02",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "企业数据决策失败，多因大数据离开方差足够小的数学基础",
+   "quote": "就是因为所用的大数据",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5778,
+    "end_line": 5784,
+    "sha1": "742efc09152a1a05f7d2714d48852d0e43c9add8",
+    "fingerprint": [
+     "方差",
+     "数据决策"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D08-1"
+   ],
+   "concept_key": "数据决策的数学基础",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "统计量须大到方差足够小，结论才可信、足以说服人；企业用数据决策场景故列 D08-1 为辅。"
+  },
+  {
+   "claim_id": "C-SX-U45-03",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "选准相关变量体现人类智慧；行为变量难找且行为会改变条件",
+   "quote": "则体现了人类的智慧",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5821,
+    "end_line": 5829,
+    "sha1": "eaac01d8b2b33f4bc805f8c00dc64c316e219f4a",
+    "fingerprint": [
+     "变量",
+     "关联"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "选变量的智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "语音识别诞生20多年无人想到用前词预测后词；研究人类行为时，影响行为的客观变量更难找。"
+  },
+  {
+   "claim_id": "C-SX-U45-04",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "霍桑效应：被观察者知道被观察而改变行为倾向",
+   "quote": "于是就有了“霍桑效应”这个名词",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5830,
+    "end_line": 5854,
+    "sha1": "1b93bb7d194a8bfd0f25240afd322a47dea49dc8",
+    "fingerprint": [
+     "霍桑效应",
+     "被观察"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "霍桑效应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例（西屋电气霍桑工厂实验）：改进照明等或无效或很快回落，因实验非双盲、工人觉得被围观而有干劲；药品试验心理作用同理。群体版：GDP按5%公布民众有信心反促成上涨、拥堵信息发布致绿色道路反堵（往哪走哪堵死循环）、推荐系统推什么你没兴趣（5848-5854 并入）。"
+  },
+  {
+   "claim_id": "C-SX-U45-05",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "低估数据稀疏性：高维切分后大数据量远不够估算",
+   "quote": "低估了数据的稀疏性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5856,
+    "end_line": 5866,
+    "sha1": "6a3ff57765c14784bb941b8027e9c0643c6e3096",
+    "fingerprint": [
+     "稀疏",
+     "维度"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数据稀疏性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两词预测第三词：词汇10万则需估算1000万亿个条件概率值，整个互联网中文内容不超100万亿词，数据量显然不够。"
+  },
+  {
+   "claim_id": "C-SX-U45-06",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "大数据失效常因因果搞反：相关变量互为条件难分因果",
+   "quote": "把原因和结果搞反了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5867,
+    "end_line": 5876,
+    "sha1": "b36e5ec3ebda5017199c606f449c6d594ee507c0",
+    "fingerprint": [
+     "因果",
+     "条件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "因果搞反",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "人文社科期刊同见相反因果方向的论著；上网找酒店并非要买机票（里程票到期须用掉）。"
+  },
+  {
+   "claim_id": "C-SX-U45-07",
+   "unit_id": "SX-U0045",
+   "speaker": "吴军本人",
+   "claim_text": "用数据五步法：立目标备假说、选数据、析方差、提新假说、用结果",
+   "quote": "通常还是有章可循的",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5877,
+    "end_line": 5898,
+    "sha1": "9853d2a2c37b8229b87b43466bb0a2828dee5da3",
+    "fingerprint": [
+     "假说",
+     "方差"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D05-1"
+   ],
+   "concept_key": "用数据五步法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡：①目标+可对比备用假说（证有效须同时否定安慰剂同样有效）②设计实验选可量化数据③统计并分析方差（不能只看均值，投资看回报也看风险）④统计常证明假说无效，须提新假说⑤使用结果含报告技巧；按 D04-1 excludes“用数学工具做事的步骤→D05”列 D05-1 为辅。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第41讲（统计学与大数据）：7卡入库（D04-1主柱，五步法辅D05-1、数据决策辅D08-1）；霍桑实验细节并入霍桑效应卡notes；无X处置。"
+}

@@ -1,0 +1,121 @@
+{
+  "unit_id": "JS-U0012",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0012-01",
+      "unit_id": "JS-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "产业变革范式：原有产业＋新技术＝新产业，技术与原有产业是合作而非颠覆关系",
+      "quote": "合作关系，而不是颠覆关系",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 611,
+        "end_line": 611,
+        "sha1": "c30d22c4b2bafc4c9c1d189c5d9475f0635c6d89",
+        "fingerprint": [
+          "合作关系",
+          "颠覆关系"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "原有产业＋新技术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "历次革命验证（601-619行）：+蒸汽机、+电、+计算机、+互联网、+机器智能；银行业/广告业/零售业未消失而以更有效率形式存在；互联网角色如 100 年前的电话（595行）。"
+    },
+    {
+      "claim_id": "C-JS-U0012-02",
+      "unit_id": "JS-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "任何看似巨大的质变都需量变积累，过程中原有形态大部分保留；真创新漫长艰难并非从0到1",
+      "quote": "量变的积累",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 595,
+        "end_line": 595,
+        "sha1": "f86820772917a61f5f91b4ffd591dd80ddc98190",
+        "fingerprint": [
+          "量变的积累",
+          "质变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "质变靠量变积累",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "青霉素发明例（《文明之光》）；颠覆式创新被热捧源于缺什么喜欢什么与缺乏量变到质变的耐心（589行）。"
+    },
+    {
+      "claim_id": "C-JS-U0012-03",
+      "unit_id": "JS-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "原有产业才是创业者的入手点；略懂新技术者的优越感使其鄙视原有产业、兜圈回原点",
+      "quote": "应该思考的入手点",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 617,
+        "end_line": 617,
+        "sha1": "a8269b7dcc69ebe35601615d3a0bf7102cd0358e",
+        "fingerprint": [
+          "入手点",
+          "原有产业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "从原有产业入手",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "“互联网+”只满足挂靠虚荣心、稻草卖黄金价（591行）；正确提法是“原有产业＋互联网”，核心是原有产业（595行）。"
+    },
+    {
+      "claim_id": "C-JS-U0012-04",
+      "unit_id": "JS-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "智能时代三类受益者：技术领先大公司、有大量数据的传统公司、深入原有产业做升级的公司；小公司机会在第三类",
+      "quote": "三种公司能够受益",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 623,
+        "end_line": 623,
+        "sha1": "a8e0cb9eba6b45c650a91eef3111f338347692ee",
+        "fingerprint": [
+          "三种公司能够受益",
+          "原有产业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "智能时代三类受益者",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "第三类做脏活累活、起初低利润，大公司不屑故留给小公司；小公司拼 AI 基础技术近乎无望（数据与计算资源决定，李飞飞亦需与谷歌合作），合作是今后创业的方式（621/625/627行）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "合作经济节：4 卡（E1×4）；颠覆式创新与互联网+的批判（2018 语境）按例证并入母卡 notes，未单列 X。"
+}

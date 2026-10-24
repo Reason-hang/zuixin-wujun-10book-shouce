@@ -1,0 +1,180 @@
+{
+ "unit_id": "SX-U0051",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0051-01",
+   "unit_id": "SX-U0051",
+   "speaker": "转述·第三方",
+   "claim_text": "马克思：科学只有成功运用数学才算达到真正完善",
+   "quote": "才算达到了真正完善的地步",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6606,
+    "end_line": 6612,
+    "sha1": "40445433777bd0bc5746a3b899e783e5db8ffd9b",
+    "fingerprint": [
+     "数学",
+     "科学"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "科学与数学化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：马克思原话（吴军书中引用）；吴军评述：这是对笛卡尔理性主义的另一种描述，也是对伽利略至19世纪中期自然科学发展的总结"
+  },
+  {
+   "claim_id": "C-SX-U0051-02",
+   "unit_id": "SX-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "数学不属于自然科学：它是人为制造，为发展科学而生",
+   "quote": "数学显然不属于自然科学",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6613,
+    "end_line": 6628,
+    "sha1": "2701bb68608804d39559d937933c7897efcdffee",
+    "fingerprint": [
+     "自然科学",
+     "微积分"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学非自然科学",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "自然科学研究自然现象，数学是人为制造（如牛顿为研究运动学发明微积分）；自然科学早期称自然哲学，19世纪初英国人才定义'科学'"
+  },
+  {
+   "claim_id": "C-SX-U0051-03",
+   "unit_id": "SX-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "数学理论反作用于学科使其脱胎换骨：学科发展即+数学过程",
+   "quote": "学科便脱胎换骨了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6622,
+    "end_line": 6628,
+    "sha1": "8d3be28d885f4d63ed9046eef9cd3b688f116ca6",
+    "fingerprint": [
+     "+数学",
+     "脱胎换骨"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "+数学",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军类比'+互联网'：产业用互联网改造效率倍增，学科用数学改造脱胎换骨。吴军建议（记notes）：自己的工作不妨试试'+数学'，养成理性和量化处理日常工作的习惯（6723-6726行）"
+  },
+  {
+   "claim_id": "C-SX-U0051-04",
+   "unit_id": "SX-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "学科升华三共同点：理性分析、量化结论、用数学语言描述",
+   "quote": "从简单的观察上升到理性的分析",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6700,
+    "end_line": 6727,
+    "sha1": "a118aea925ade47fac86b9b7774aebebb0380942",
+    "fingerprint": [
+     "量化",
+     "公式"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "理性量化公式化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单整体一卡：①观察上升到理性分析②原则性结论到量化结论③公式化描述（F=ma等，公式以正文为准）。量化例（记notes）：拉瓦锡'没有天平就没有真理'（E2，被转述者拉瓦锡），氧化说推翻燃素说靠逻辑判断；医药学近代靠大量统计；古代手稿用自然语言，矛盾难发现，公式化后矛盾易暴露"
+  },
+  {
+   "claim_id": "C-SX-U0051-05",
+   "unit_id": "SX-U0051",
+   "speaker": "转述·第三方",
+   "claim_text": "赫兹：数学公式本身有智慧，得到的比放进去的还多",
+   "quote": "比当初放到这些公式中的还多",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6658,
+    "end_line": 6671,
+    "sha1": "b8477622f0c04b4fb24a3a9b6b33abef27279ed4",
+    "fingerprint": [
+     "麦克斯韦",
+     "赫兹"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "公式的预见性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：赫兹（评麦克斯韦方程原话，吴军书中直引）。麦克斯韦从数学出发统一电磁学、预见电磁波与光为电磁波；其方程与牛顿力学矛盾→最初假设（时间距离绝对性）错了→相对论诞生；量子力学也几乎完全建立在数学之上"
+  },
+  {
+   "claim_id": "C-SX-U0051-06",
+   "unit_id": "SX-U0051",
+   "speaker": "吴军本人",
+   "claim_text": "数学严谨性是科学准入门槛：傅里叶恶补数学后终成经典",
+   "quote": "理由还是因为数学上的缺陷",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6672,
+    "end_line": 6684,
+    "sha1": "605f0f5ccc29f109e14bd2772687187236c4af20",
+    "fingerprint": [
+     "傅里叶",
+     "法拉第"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学门槛",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例：傅里叶1807/1811两篇热传导论文被法兰西科学院拒稿均因数学不严谨，1822《热的分析理论》数学严谨终成经典。可迁移机理：数学水平不够的物理学家地位不高（法拉第vs麦克斯韦）；今天理论物理学家通常半个数学家，黑洞、引力波靠数学预测"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0051",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "托勒密地心说、阿基米德浮力杠杆、拉瓦锡公制、喜帕恰斯等科学史叙述为史实线索，支撑论点的机理已入卡，生平细节不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "数学与自然科学关系单元，6卡覆盖马克思引文、数学定性、+数学、三共同点、赫兹引文、傅里叶案例"
+}

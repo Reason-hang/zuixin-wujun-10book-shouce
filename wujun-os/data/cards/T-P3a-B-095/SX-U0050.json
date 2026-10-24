@@ -1,0 +1,174 @@
+{
+ "unit_id": "SX-U0050",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0050-01",
+   "unit_id": "SX-U0050",
+   "speaker": "吴军本人",
+   "claim_text": "数学止于公理：分支基础一旦建立就几乎不变，数学已经到底",
+   "quote": "一旦建立起来，就几乎不会改变",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6483,
+    "end_line": 6498,
+    "sha1": "ebef69763acdaacaa7055dd25486eaba99943a40",
+    "fingerprint": [
+     "止于公理",
+     "公理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "止于公理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "科学越挖越深（分子→原子→夸克），数学基础不再加深；公理是'上帝的禁区'，公理之上数学完全理性，但数学家对公理的态度更像信仰（记本卡notes）"
+  },
+  {
+   "claim_id": "C-SX-U0050-02",
+   "unit_id": "SX-U0050",
+   "speaker": "转述·第三方",
+   "claim_text": "笛卡尔：用理性过滤直接经验，以数学方法代替测量获得真知",
+   "quote": "代替依靠测量的物理的方法",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6512,
+    "end_line": 6533,
+    "sha1": "4c78101f593f3dd6d525ffffa5e41e3118e22df6",
+    "fingerprint": [
+     "笛卡尔",
+     "理性"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "理性过滤经验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：笛卡尔（《谈谈方法》）。直接经验慢且常不可靠（太阳东升西落、振翼飞机）；理性两层=实证+逻辑数学方法；笛卡尔肯定人生而具有理性，斯密将其推广至经济学（人能算清自己利益）；吴军自述'我本人也自觉地从笛卡尔那里得到很多智慧'"
+  },
+  {
+   "claim_id": "C-SX-U0050-03",
+   "unit_id": "SX-U0050",
+   "speaker": "转述·第三方",
+   "claim_text": "莱布尼茨：相对因果时空观与离散世界观，启发相对论与量子力学",
+   "quote": "他对世界离散，不连续的看法",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6540,
+    "end_line": 6559,
+    "sha1": "35222ad1913a354b913fce27e3f25ce74a2115d6",
+    "fingerprint": [
+     "莱布尼茨",
+     "因果"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "因果时空观与离散世界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：莱布尼茨。时间无绝对先后、只有前后因果（不违反因果则时间可伸缩）；从二进制到符号学、物质四特征均持离散观点；爱因斯坦相对论证明相对因果时空观比绝对时空观更合理"
+  },
+  {
+   "claim_id": "C-SX-U0050-04",
+   "unit_id": "SX-U0050",
+   "speaker": "转述·第三方",
+   "claim_text": "莱布尼茨原话：使推理同数学一样切实，争议时让我们计算",
+   "quote": "让我们计算",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6560,
+    "end_line": 6564,
+    "sha1": "2d62f73371ce6fbfae7086930cf6fa61b90b9f9e",
+    "fingerprint": [
+     "莱布尼茨",
+     "推理"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "让我们计算",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：莱布尼茨原话（吴军书中直引）。原话卡与概括卡并存：莱布尼茨思想概括见 C-SX-U0050-03。吴军评述（记notes）：从笛卡尔和莱布尼茨开始进入理性时代，直到叔本华尼采质疑纯粹理性；数学透露了一种哲学之道"
+  },
+  {
+   "claim_id": "C-SX-U0050-05",
+   "unit_id": "SX-U0050",
+   "speaker": "吴军本人",
+   "claim_text": "缺乏哲学修养的人学数学，最好结果只是一般数学工作者",
+   "quote": "成不了数学大家",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6565,
+    "end_line": 6586,
+    "sha1": "0ba7c0c5814fcf1f6f49d1e3b29814339f0bc7cd",
+    "fingerprint": [
+     "哲学",
+     "数学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "哲学修养与数学成就",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证（记notes）：费马、希尔伯特均有深厚哲学修养；转述罗素观点：德国古典哲学构建大一统知识体系的企图影响希尔伯特（大一统数学）与爱因斯坦，希尔伯特努力被哥德尔证明徒劳；吴军引申：像苏格拉底那样以主人态度学习，需在认知层面提高"
+  },
+  {
+   "claim_id": "C-SX-U0050-06",
+   "unit_id": "SX-U0050",
+   "speaker": "吴军本人",
+   "claim_text": "无用之用方为大用：理解普遍原理才能站上制高点俯视",
+   "quote": "无用之用，方为大用",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6587,
+    "end_line": 6601,
+    "sha1": "8834b54b3112a752e44d1b4e15fb3c43f904c4e1",
+    "fingerprint": [
+     "无用之用",
+     "制高点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-3"
+   ],
+   "concept_key": "无用之用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "层次：数学为底、中间自然科学、顶上哲学；看似无实际用途的数学与哲学恰恰共同。给想当数学家读者的建议：自由而炽热的心+站在哲学高度研究数学"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "数学与哲学关系单元，6卡覆盖止于公理、笛卡尔理性、莱布尼茨两要点及原话、哲学修养、无用之用"
+}

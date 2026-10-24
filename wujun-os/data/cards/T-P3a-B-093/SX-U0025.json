@@ -1,0 +1,245 @@
+{
+ "unit_id": "SX-U0025",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0025-01",
+   "unit_id": "SX-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "改公理两种结果：相矛盾体系建不成，无矛盾可出自洽新体系",
+   "quote": "和之前不同的知识体系",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2957,
+    "end_line": 2962,
+    "sha1": "4750748e28231bac895b8573432c3e0fc195c39a",
+    "fingerprint": [
+     "公理",
+     "自洽",
+     "矛盾"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "改公理得新体系",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与现实不符但与其他公理无矛盾的假设可推出自洽但可能与其他体系矛盾的新体系"
+  },
+  {
+   "claim_id": "C-SX-U0025-02",
+   "unit_id": "SX-U0025",
+   "speaker": "转述·第三方",
+   "claim_text": "罗氏几何黎曼几何：改平行公理各自推出自洽的非欧几何体系",
+   "quote": "一整套能够自洽的新的几何体系",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2972,
+    "end_line": 2993,
+    "sha1": "a581435ac6bd303cd17e8f358a920b868283c707",
+    "fingerprint": [
+     "罗巴切夫斯基",
+     "黎曼",
+     "第五公理"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "非欧几何",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：罗巴切夫斯基（双曲面、三角形内角和小于180度）、黎曼（椭球空间、大于180度），经吴军转述；体系细节为数学史实"
+  },
+  {
+   "claim_id": "C-SX-U0025-03",
+   "unit_id": "SX-U0025",
+   "speaker": "转述·第三方",
+   "claim_text": "爱因斯坦广义相对论用黎曼几何：引力是弯曲时空的几何属性",
+   "quote": "所采用的数学工具就是黎曼几何",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3003,
+    "end_line": 3013,
+    "sha1": "4da6aba905b09e037254187134c6b3a8d9493e79",
+    "fingerprint": [
+     "爱因斯坦",
+     "广义相对论",
+     "弯曲时空"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "黎曼几何与相对论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：爱因斯坦（经吴军转述）；1918 爱丁顿日食观测证实；黎曼几何后用于超弦、计算机图形学（例证并入）；选黎曼几何因时空与物质分布互相影响"
+  },
+  {
+   "claim_id": "C-SX-U0025-04",
+   "unit_id": "SX-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "欧氏几何未定义平面；习以为常之事未明确说明前认同存误解",
+   "quote": "在没有明确说明之前",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3023,
+    "end_line": 3034,
+    "sha1": "85b1e0f30ae931c64402f6bf23911c3a77a0d64a",
+    "fingerprint": [
+     "平面",
+     "定义",
+     "误解"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "习以为常存误解",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "19 世纪数学家补定义：满足平行公理的面为平面；例：不同人理解的深颜色不同；辅 D04-1"
+  },
+  {
+   "claim_id": "C-SX-U0025-05",
+   "unit_id": "SX-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "三种几何等价殊途同归，学数学要会按场景选用方便的工具",
+   "quote": "就成为了活学活用数学的技巧了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3037,
+    "end_line": 3047,
+    "sha1": "f0b0457202ccd932a8b8311d22d767ecafc8e9f9",
+    "fingerprint": [
+     "等价",
+     "工具",
+     "方便"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学工具选用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "命题可在三体系内互相转换，欧氏无矛盾则非欧无矛盾；改锥比喻；爱因斯坦过人处在善于找最方便的数学工具；体会二：学数学关键知道何时用什么工具"
+  },
+  {
+   "claim_id": "C-SX-U0025-06",
+   "unit_id": "SX-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "数学之美在逻辑自洽与系统和谐：改平行公理出新工具，乱改则崩塌",
+   "quote": "逻辑自洽性和系统之间的和谐性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3048,
+    "end_line": 3051,
+    "sha1": "30ce7db48e014c718a849ad62aa40279d657e29d",
+    "fingerprint": [
+     "自洽",
+     "和谐",
+     "崩塌"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学的自洽与和谐",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "罗黎改公理非随机：平行公理描述最长最不直观且最晚用到；贝尔特拉米证明其独立性（史实并入）"
+  },
+  {
+   "claim_id": "C-SX-U0025-07",
+   "unit_id": "SX-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "90% 公理相同差一条，体系完全不同；学经验常败在忽略 10% 细节",
+   "quote": "这种差异来自于细节",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3059,
+    "end_line": 3064,
+    "sha1": "e7cacca696aac23b5ea0bc5475f9bfe3091ee6d4",
+    "fingerprint": [
+     "公理",
+     "细节",
+     "一致性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "百分之九十与百分之十",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "学别人经验觉得学到了但做出来不一样，差异常来自 10% 细节；满足于 90% 一致导致结果完全不同；辅 D04-1"
+  },
+  {
+   "claim_id": "C-SX-U0025-08",
+   "unit_id": "SX-U0025",
+   "speaker": "吴军本人",
+   "claim_text": "基本假设不荒唐，与众不同的东西或有用，活出精彩即贡献",
+   "quote": "天生我材必有用",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3065,
+    "end_line": 3068,
+    "sha1": "6cd9cce01cb99d7af46d21f348b8e7db9a38b99b",
+    "fingerprint": [
+     "李白",
+     "与众不同",
+     "精彩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D04-1"
+   ],
+   "concept_key": "活出自己的精彩",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军由非欧几何引申的人生态度；不必刻意强求和别人的一致性；辅 D04-1 新假设新体系"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0025",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "北极三角形 270 度实例、球面方程 R=5 vs x²+y²+z²=25、贝尔特拉米独立性证明等数学史实与例证，可迁移判断已分收入各卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第22讲非欧几何：改公理两种结果、习以为常存误解、工具选用、自洽和谐、90%与10%、活出精彩等 6 张本人卡；罗巴切夫斯基黎曼、爱因斯坦两张转述卡；北极三角 270 度等例证记 X4"
+}

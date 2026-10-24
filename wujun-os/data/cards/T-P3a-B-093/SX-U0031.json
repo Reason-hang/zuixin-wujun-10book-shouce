@@ -1,0 +1,104 @@
+{
+ "unit_id": "SX-U0031",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0031-01",
+   "unit_id": "SX-U0031",
+   "speaker": "吴军本人",
+   "claim_text": "数字有方向性：多数物理量与生活数量既要看大小也要看方向",
+   "quote": "还需要关心方向",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3762,
+    "end_line": 3767,
+    "sha1": "22ee26a8b3c1b24dfbe54075a426ee8c61302fa0",
+    "fingerprint": [
+     "方向",
+     "物理量",
+     "大小"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数字的方向性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "拉箱合力例与爆破逃离例（跑 250 米只离开 106 米吃力不讨好）；\"跑错方向再努力也没用\"非鸡汤；大学生看数字须自问\"是否考虑了方向\""
+  },
+  {
+   "claim_id": "C-SX-U0031-02",
+   "unit_id": "SX-U0031",
+   "speaker": "吴军本人",
+   "claim_text": "形成合力须方向一致，夹角超 120 度两力相加不如一个力",
+   "quote": "要形成合力就必须方向一致",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3844,
+    "end_line": 3846,
+    "sha1": "d00f09a67c40a4f533dd36de12c19f23de239041",
+    "fingerprint": [
+     "合力",
+     "夹角",
+     "方向一致"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D07-2"
+   ],
+   "concept_key": "合力与夹角",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "单位向量七种夹角特例（2/1.93/1.73/1.4/1/0.5/0）为数值并入；辅 D07-2 组织协同"
+  },
+  {
+   "claim_id": "C-SX-U0031-03",
+   "unit_id": "SX-U0031",
+   "speaker": "吴军本人",
+   "claim_text": "做事要聚焦：多方向使劲努力相互抵消，牛人不配合越牛越有副作用",
+   "quote": "努力相互抵消掉了",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 3847,
+    "end_line": 3859,
+    "sha1": "e791b66db95f41c5b2e5de94c3591db1287851bf",
+    "fingerprint": [
+     "聚焦",
+     "抵消",
+     "创业公司"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-1"
+   ],
+   "concept_key": "做事聚焦",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "120 度合作=两人只产出一人产出；堆牛人是小学生思维；方向摇摆兜圈子；辅 D04-1 向量原理"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0031",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "向量/标量定义、极坐标与直角坐标表示法、向量加法与平行四边形法则、七种夹角特例数值均为数学事实，可迁移判断已收三卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第27讲向量（上）：方向性、合力夹角、做事聚焦三卡；向量标量定义、极坐标直角坐标、平行四边形法则与七特例数值记 X4"
+}

@@ -1,0 +1,177 @@
+{
+ "unit_id": "SX-U0048",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0048-01",
+   "unit_id": "SX-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "零和博弈无双赢可能；媒体常说的双赢九成以上只是达到平衡",
+   "quote": "只有平衡的可能性",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6165,
+    "end_line": 6174,
+    "sha1": "54cd4b3be48a5354dfc66a5d76dd419deaf8c62a",
+    "fingerprint": [
+     "零和博弈",
+     "双赢"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "双赢与平衡之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军概括：各拿5000元不是双赢而是平衡；非零和博弈才可能双赢。概念辨析卡"
+  },
+  {
+   "claim_id": "C-SX-U0048-02",
+   "unit_id": "SX-U0048",
+   "speaker": "转述·第三方",
+   "claim_text": "非零和博弈的现实结局常是纳什均衡（双输），双赢靠信任",
+   "quote": "实现双赢的前提是彼此有信任",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6183,
+    "end_line": 6205,
+    "sha1": "88bc3469ba608d1f67e857f2b81a7314f98e8a6b",
+    "fingerprint": [
+     "纳什均衡",
+     "双赢"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "纳什均衡与双赢前提",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：纳什（非合作博弈均衡理论）；囚徒困境收益矩阵以正文为准。吴军补充：有信任的博弈称合作型博弈；冷战核裁军为应用例"
+  },
+  {
+   "claim_id": "C-SX-U0048-03",
+   "unit_id": "SX-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "现实双赢远比想象少：反复博弈、阴谋、道德、乌合之众、伪双赢",
+   "quote": "远比大家想象的小很多",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6206,
+    "end_line": 6230,
+    "sha1": "88e6c79c2b1d0a8cd5fe1f2c9bf9c3ab2634ff0c",
+    "fingerprint": [
+     "双赢",
+     "乌合之众"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D07-2"
+   ],
+   "concept_key": "双赢难达成的五因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡：①反复博弈难长期信任②阴谋破坏信任（威尔逊推国际联盟化阴谋为阳谋）③道德水准不容高估④乌合之众效应：民主国家/分散机构内部利益冲突拉偏共赢点；⑤看似双赢实为更大范围零和（员工期权vs资本市场/股民，锚外6232-6237行，清单完整见正文）"
+  },
+  {
+   "claim_id": "C-SX-U0048-04",
+   "unit_id": "SX-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "达成双赢的关键是选对博弈对象：对方一次不诚信即永久删除",
+   "quote": "我们可以选择和谁玩",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6238,
+    "end_line": 6259,
+    "sha1": "f29af1e810c73ce19aa981446a766beebe9ee3a8",
+    "fingerprint": [
+     "双赢",
+     "诚信"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D04-1"
+   ],
+   "concept_key": "选择博弈对象",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "吴军个人方法论：第一次相信任何人诚实，一次不诚信永久删除（轻易破坏原则如同破坏几何公理）；永远不玩难以双赢的游戏，人不可能永远在零和博弈中占便宜；合作者多为十几年以上关系"
+  },
+  {
+   "claim_id": "C-SX-U0048-05",
+   "unit_id": "SX-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "智猪博弈：小企业和后来者宜采用搭便车式跟随策略",
+   "quote": "鼓励小企业和后来者",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6273,
+    "end_line": 6296,
+    "sha1": "cc789fd5b5e8e9a054886db07294095cb01a5545",
+    "fingerprint": [
+     "跟随策略",
+     "小猪"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-1"
+   ],
+   "concept_key": "搭便车跟随策略",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例：智猪博弈（小猪等食槽、大猪按按钮，恰好是稳定均衡点；案例名见锚前6263-6272行）。吴军应用：日韩台及中国大陆起步先从模仿做起；无知识产权保护则小企业无活力、大企业永远垄断（强调专利保护者的论据）。收益矩阵以正文为准"
+  },
+  {
+   "claim_id": "C-SX-U0048-06",
+   "unit_id": "SX-U0048",
+   "speaker": "吴军本人",
+   "claim_text": "通识讲数学是要用主人态度掌握方法精髓并加以利用",
+   "quote": "用主人的态度掌握",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6260,
+    "end_line": 6265,
+    "sha1": "a21f5991fbbc1a890c6397670f262c6fb55408b6",
+    "fingerprint": [
+     "通识",
+     "精髓"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D04-1"
+   ],
+   "concept_key": "数学的主人态度",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "吴军数学学习观：对大部分人博弈论是明白道理的工具而非解数学题；学数学以通识为目的=掌握精髓加以利用（学以致用）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "纳什均衡单元，6卡覆盖双赢之辨、纳什均衡、五因、选博弈对象、智猪博弈、主人态度"
+}

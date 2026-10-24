@@ -1,0 +1,211 @@
+{
+  "unit_id": "JS-U0007",
+  "book_code": "JS",
+  "extractor": "EXT-JS1",
+  "batch_id": "T-P3a-B-087",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0007-01",
+      "unit_id": "JS-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "商业的本质是让人多花钱，而不是省钱；让人愿意花钱是艺术",
+      "quote": "让人多花钱，而不是省钱",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 323,
+        "end_line": 323,
+        "sha1": "f2555062df9fc9d8e661fcd3cd88becf71a7ad03",
+        "fingerprint": [
+          "商业的本质",
+          "多花钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "商业的本质",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三点启发之首（323行）；前提：省下的钱和时间最终要花掉（见 C-JS-U0007-02）。"
+    },
+    {
+      "claim_id": "C-JS-U0007-02",
+      "unit_id": "JS-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "人满足基本需求后必追求娱乐享受，随经济水平提高越来越强；省下的钱与时间终会被花掉",
+      "quote": "常常会追求娱乐和享受",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 295,
+        "end_line": 295,
+        "sha1": "daa0d8263a05c4c1a666bcc5317fba7d7038d7fd",
+        "fingerprint": [
+          "追求娱乐和享受",
+          "经济水平的提高"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "闲钱闲暇必花掉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "人性使然的前提假设；曾国藩收复南京后恢复秦淮灯船酒肆（赵烈文日记转述，291-293行）为例证。"
+    },
+    {
+      "claim_id": "C-JS-U0007-03",
+      "unit_id": "JS-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "线下到线上是省时间省钱，路越走越窄；线上回到线下是花时间花钱，路越走越宽、机会更大",
+      "quote": "越走越窄",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 303,
+        "end_line": 303,
+        "sha1": "2aa621ae1b40d4978a0f61a5d5b5ce027003c295",
+        "fingerprint": [
+          "省时间、省钱",
+          "越走越窄",
+          "越走越宽"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "线上回归线下的机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "从线上回到线下的趋势被忽视而机会更大；摄影/影视后仍旅游、唱片后仍听现场、转播后仍出国看球（297-301行）为例证；2016 年互联网营业额 3800 亿 vs 电信 35000 亿数据登记 X2。"
+    },
+    {
+      "claim_id": "C-JS-U0007-04",
+      "unit_id": "JS-U0007",
+      "speaker": "转述·第三方",
+      "claim_text": "增田宗昭：寻找网络和实体的真正协同作用，才是最佳选择",
+      "quote": "真正的协同作用",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 317,
+        "end_line": 317,
+        "sha1": "3b1405b316106fb76a3ba09ed44962a0ed3bd0d3",
+        "fingerprint": [
+          "真正的协同作用",
+          "增田宗昭"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "网络实体协同",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：增田宗昭（茑屋书店/CCC 创始人，吴军整句转述）；茑屋在线获客上千万导流线下，机理见 C-JS-U0007-05。"
+    },
+    {
+      "claim_id": "C-JS-U0007-05",
+      "unit_id": "JS-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "茑屋模式：书店只是锚定产品，靠生活平台聚集人气、以商家房租和线下消费挣钱",
+      "quote": "锚定产品",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 309,
+        "end_line": 313,
+        "sha1": "443ede292c531ddaeef47e6a4b62c44bbe935981",
+        "fingerprint": [
+          "锚定产品",
+          "生活平台"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "锚定产品＋生活平台",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（增田宗昭/茑屋 CCC）+可迁移机理（锚定产品引流、平台变现靠房租），故 E3 独立成卡；枚方市选址“有钱有闲暇”客群条件（311行）；近 7000 万会员数据时效不另处置。"
+    },
+    {
+      "claim_id": "C-JS-U0007-06",
+      "unit_id": "JS-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "一谈互联网就谈在线是随大溜；应从事物的本质出发独立思考，找随大溜者忽视的机会",
+      "quote": "从事物的本质出发",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 325,
+        "end_line": 325,
+        "sha1": "e1b6d6892a71d605175f3e76afbe1e0b86aac4a5",
+        "fingerprint": [
+          "随大溜",
+          "从事物的本质出发"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-2"
+      ],
+      "concept_key": "不随大溜",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三点启发之二；线下生活平台无人投资正是被忽视的机会（319行例证）。"
+    },
+    {
+      "claim_id": "C-JS-U0007-07",
+      "unit_id": "JS-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "互联网是手段而非目的：用它获客发展业务，不烧钱、不炒概念",
+      "quote": "一个手段，而不是目的",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 327,
+        "end_line": 327,
+        "sha1": "b5c029855566a9f923377e7a731d7c2ee5cf93cb",
+        "fingerprint": [
+          "手段",
+          "烧钱",
+          "炒概念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "技术是手段不是目的",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三点启发之三（对增田宗昭新技术态度的概括）；免费倒贴入互联网非明智之选见 303 行，登记 X2。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0007",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2016 年全球互联网企业营业额 3800 亿美元 vs 电信行业 35000 亿美元、“免费倒贴加入互联网多半不明智”等判断依赖当时数据与环境（303行），机理已留卡（C-JS-U0007-03），数据时效登记 X2 由 P4 终裁。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "商业的本质核心节：7 卡（E1×5、E2×1 转述、E3×1 茑屋案例机理）；2016 年行业规模数据登记 X2。"
+}

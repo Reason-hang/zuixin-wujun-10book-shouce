@@ -1,0 +1,147 @@
+{
+ "unit_id": "SX-U0046",
+ "book_code": "SX",
+ "extractor": "EXT-SX4",
+ "batch_id": "T-P3a-B-095",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0046-01",
+   "unit_id": "SX-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "黑天鹅事件的根源是把小概率事件默认为零概率事件",
+   "quote": "认为是零概率事件",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5941,
+    "end_line": 5944,
+    "sha1": "6610f3c3e53d8048bab6117e6498b06f4eacf7a3",
+    "fingerprint": [
+     "黑天鹅事件",
+     "零概率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "零概率谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军概括：语言演变恰恰靠将过去不可能的组合用起来；将小概率事件概率强设为零，早晚会遇到黑天鹅事件"
+  },
+  {
+   "claim_id": "C-SX-U0046-02",
+   "unit_id": "SX-U0046",
+   "speaker": "转述·第三方",
+   "claim_text": "古德-图灵折扣估计：把高频事件概率打折分给未见事件",
+   "quote": "多出来的词频分配给了低频词",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5986,
+    "end_line": 5994,
+    "sha1": "7096b5833a72edbd9c13f2cf4fa0862d67b3082c",
+    "fingerprint": [
+     "古德",
+     "低频词"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "折扣估计",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：图灵的学生古德（Good，含图灵思想）。数学家方法=转述·第三方E2。调整公式以正文为准；今天各种统计为避免零概率灾难都会作类似处理"
+  },
+  {
+   "claim_id": "C-SX-U0046-03",
+   "unit_id": "SX-U0046",
+   "speaker": "转述·第三方",
+   "claim_text": "齐普夫定律：词的排位乘词频近似常数，属自然界普遍规律",
+   "quote": "一个词的排位，和它词频的乘积",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 5948,
+    "end_line": 5962,
+    "sha1": "8eee5c9a1e26d7865c6771bf1c91f7b30316f8c5",
+    "fingerprint": [
+     "齐普夫",
+     "80/20"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "齐普夫定律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：语言学家齐普夫（George Zipf）；80/20定律是其特例。吴军引申（本人E1色彩记于本卡）：人人创业致富的鸡汤违背齐普夫定律，不可信"
+  },
+  {
+   "claim_id": "C-SX-U0046-04",
+   "unit_id": "SX-U0046",
+   "speaker": "转述·第三方",
+   "claim_text": "插值法精髓：统计不足时降低不可靠统计权重、用可靠的弥补",
+   "quote": "见到次数比较多的统计结果",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6006,
+    "end_line": 6019,
+    "sha1": "bed658965bce3e184dc9a13334cb8b00e059f605",
+    "fingerprint": [
+     "贾里尼克",
+     "插值法"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "插值法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：吴军导师贾里尼克（删除插值法）。可证明插值法/备用法比直接统计更准确；条件概率加权组合公式以正文为准"
+  },
+  {
+   "claim_id": "C-SX-U0046-05",
+   "unit_id": "SX-U0046",
+   "speaker": "吴军本人",
+   "claim_text": "预防不测有成本：需让渡部分高收益利润，且永远更依赖可靠统计",
+   "quote": "降低一些高收益项目的利润",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 6020,
+    "end_line": 6031,
+    "sha1": "b5a90de3668777c868ff557bc54638eb74a437c6",
+    "fingerprint": [
+     "预防不测",
+     "统计结果"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "预防不测的成本",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "要点总结。原话见 C-SX-U0046-02/04（古德、贾里尼克两法）；吴军概括其生活方法论：凡事都有成本"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "单元整体为概率统计方法论内容，5卡覆盖黑天鹅成因、折扣估计、齐普夫定律、插值法、吴军方法论总结"
+}

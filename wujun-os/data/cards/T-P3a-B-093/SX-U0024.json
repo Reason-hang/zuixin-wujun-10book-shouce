@@ -1,0 +1,244 @@
+{
+ "unit_id": "SX-U0024",
+ "book_code": "SX",
+ "extractor": "EXT-SX2",
+ "batch_id": "T-P3a-B-093",
+ "cards": [
+  {
+   "claim_id": "C-SX-U0024-01",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "公理体系的威力：任何难题都可拆解为简单问题最终归于公理",
+   "quote": "被拆解成一些比较简单的问题",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2819,
+    "end_line": 2825,
+    "sha1": "128c3b52faac55b5e3a7721d6fb9ee8136baad4e",
+    "fingerprint": [
+     "公理",
+     "拆解",
+     "定理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "公理体系的拆解威力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "掌握基本方法可解应用难题还可能推导新定理"
+  },
+  {
+   "claim_id": "C-SX-U0024-02",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "构建几何体系：定义公理出定理循环，逻辑是结论间唯一通道",
+   "quote": "结论通向另一个结论",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2860,
+    "end_line": 2869,
+    "sha1": "c5af7640bbfc2008ea8a91d47071a0bae89c96a2",
+    "fingerprint": [
+     "定义",
+     "定理",
+     "循环"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "逻辑是结论间唯一通道",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "几何大厦由定义→定理→新概念→新定理不断循环构成"
+  },
+  {
+   "claim_id": "C-SX-U0024-03",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "几何学中除公理外没有显而易见，一切表述都需证明",
+   "quote": "没有什么是显而易见的规律",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2873,
+    "end_line": 2876,
+    "sha1": "3775b8db0926ef0adf6160ee0daca8da157c1e21",
+    "fingerprint": [
+     "公理",
+     "证明",
+     "引理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "除公理外无显而易见",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "用量角器量出的只是实验科学结论不是数学结论（见 C-SX-U0019-09 同链）；辅 D01-1"
+  },
+  {
+   "claim_id": "C-SX-U0024-04",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "辅助线辅助角是为证明虚构的工具，体现数学中虚与实的关系",
+   "quote": "为了证明而虚构出来的东西",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2907,
+    "end_line": 2913,
+    "sha1": "7e6b25bd3414fa762b0bc7463e2d20c4cac36daf",
+    "fingerprint": [
+     "辅助线",
+     "辅助角",
+     "虚与实"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "辅助工具的虚实关系",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与虚数工具同属数学虚实关系；虚构媒介助证实在之事"
+  },
+  {
+   "claim_id": "C-SX-U0024-05",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "零散解题难成体系难举一反三，公理逻辑体系让后人累积进步",
+   "quote": "后人可以不断在前人基础上进步",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2926,
+    "end_line": 2934,
+    "sha1": "8db57e02f440a40b92d0112c328ad7a1271ef907",
+    "fingerprint": [
+     "体系",
+     "举一反三",
+     "公理化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D05-2"
+   ],
+   "concept_key": "体系化知识可累积",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：祖冲之方法失传后人原地踏步 vs 曾纪鸿靠《几何原本》自学推圆周率 200 位；现代学科含人文学科受益公理化；辅 D05-2 可叠加进步"
+  },
+  {
+   "claim_id": "C-SX-U0024-06",
+   "unit_id": "SX-U0024",
+   "speaker": "转述·第三方",
+   "claim_text": "恩诺皮德斯：定理是体系基石，一般性问题再多无助体系",
+   "quote": "它们是搭建体系的基石",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2939,
+    "end_line": 2941,
+    "sha1": "054cbf82273b44869189706e6732e1fc424434d8",
+    "fingerprint": [
+     "恩诺皮德斯",
+     "定理",
+     "体系"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "定理是体系基石",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：恩诺皮德斯（经吴军转述）；此后几何学走向正轨"
+  },
+  {
+   "claim_id": "C-SX-U0024-07",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "学几何不在多做题，而在理解定理来龙去脉形成体系导图",
+   "quote": "每一个定理的来龙去脉",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2942,
+    "end_line": 2944,
+    "sha1": "67a8a98d1aff586cda0f88f3deb849d2a1488092",
+    "fingerprint": [
+     "练习",
+     "导图",
+     "几何学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学几何重定理来龙去脉",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "脑中有几何学导图，遇新问题可用类似方法解决；ability 取[学]"
+  },
+  {
+   "claim_id": "C-SX-U0024-08",
+   "unit_id": "SX-U0024",
+   "speaker": "吴军本人",
+   "claim_text": "作决定勿加过多主观假设，未经逻辑检验的结论价值不大",
+   "quote": "未经逻辑检验的结论",
+   "anchor": {
+    "book_code": "SX",
+    "start_line": 2945,
+    "end_line": 2947,
+    "sha1": "a2590fe6385a1be56caae7fa1f2622a167e08d28",
+    "fingerprint": [
+     "主观假设",
+     "逻辑检验"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "未经逻辑检验的结论价值不大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "呼应\"未经审视的人生没有价值\"；辅 D04-1 公理化思维"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SX-U0024",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "欧几里得五条一般公理五条公设清单、对顶角相等与内错角相等证明步骤为数学事实，证明细节不入卡（工单口径），方法论已收本单元各卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第21讲公理体系：公理拆解威力、逻辑唯一通道、除公理外无显而易见、辅助工具虚实、体系化累积、学习方法、主观假设等 8 卡；恩诺皮德斯转述卡；十条公理清单与对顶角证明细节记 X4"
+}
