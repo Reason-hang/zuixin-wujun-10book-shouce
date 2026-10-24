@@ -1,0 +1,191 @@
+{
+  "unit_id": "FZ-U0007",
+  "book_code": "FZ",
+  "extractor": "GAUD5",
+  "batch_id": "GATE-C-R4B",
+  "cards": [
+    {
+      "claim_id": "C-FZ-U0007-01",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "无论个人还是企业，要把成就或利益最大化，都需要做减法而不是做加法",
+      "quote": "做减法比做加法重要",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 179,
+        "end_line": 187,
+        "sha1": "a51346500338015992bf04b8b09b14ac220c29d0",
+        "fingerprint": ["做减法", "喜欢做加法"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "做减法",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本节母论点。例证：乔布斯1996年把14条产品线砍到4条救回苹果（行183）；全球市值前五公司产品线极短、产品线超长的集团反不及零头（行185）。「最有智慧的人会慎重地开始每一件事，次之的人理智做减法」（行227）同属此论点。取舍原则的第三方表述见 C-FZ-U0007-09。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-02",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "成本投入超过阈值才产生效果；同时做太多事都不达阈值，则全部无效",
+      "quote": "超过一定的阈值后才能取得效果",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 193,
+        "end_line": 195,
+        "sha1": "672bb9426649d4ccdd9e58e388cc8a4eb156f278",
+        "fingerprint": ["阈值", "特长班"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "投入阈值",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：锻炼须超10分钟、读书5~10分钟才入深度思考（行193）；中小学生上大量特长班因精力分散每项都不达收益阈值，效果加起来为零（行195）。支撑母卡 C-FZ-U0007-01。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-03",
+      "unit_id": "FZ-U0007",
+      "speaker": "转述·第三方",
+      "claim_text": "朗道把物理学家分为五级，每差一级贡献和影响力就差一个数量级",
+      "quote": "把物理学家分为五个等级",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 203,
+        "end_line": 203,
+        "sha1": "7273c4bf89dd829b9269aebcb581c44b8711e2a1",
+        "fingerprint": ["朗道", "五个等级"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D01-2"],
+      "concept_key": "朗道等级",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者=朗道（原文称\"俄罗斯著名物理学家、诺贝尔奖得主\"）。第一级例：玻尔、海森堡、薛定评（原文OCR如此，即薛定谔）；第一级贡献为第五级的10000倍。吴军对其普适性的概括见 C-FZ-U0007-04，两卡同链互引。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-04",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "朗道等级理论在几乎所有专业领域都成立，贡献每差一级差一个数量级",
+      "quote": "朗道的等级理论都成立",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 205,
+        "end_line": 205,
+        "sha1": "b5bfccda2a449be8db4cd482985acc7f1a7db98f",
+        "fingerprint": ["朗道", "高德纳"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-2"],
+      "concept_key": "朗道等级普适",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军本人概括（\"后来我发现，在几乎所有的专业领域，朗道的等级理论都成立\"）。原表述见 C-FZ-U0007-03。例证：高德纳当属第一级，莱万多夫斯基、杰夫·迪安接近第一级，与普通\"码农\"贡献差千万倍（行205）。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-05",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "与其低水平跨界做多件事，不如把力量集中到一点实现等级跃迁",
+      "quote": "把力量集中到一点",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 209,
+        "end_line": 209,
+        "sha1": "fa0d66013eba94d84e9b62df5d5b17747b6dd7ef",
+        "fingerprint": ["斜杠青年", "等级的跃迁"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D01-2"],
+      "concept_key": "等级跃迁",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "批评\"斜杠青年\"式低水平跨界。例证：两份简单工作的收入顶不上一份有难度的工作（行207）；蔻驰与爱马仕品质差百分之几、价格差好几倍（行201）。与 C-FZ-U0007-04 等级理论互证。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-06",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "初创企业摊子铺大几乎必然快速失败，聚焦一点做到极致才能成功",
+      "quote": "把一个看似小的问题解决到极致",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 215,
+        "end_line": 217,
+        "sha1": "e6eeabf4a08efba0c019c683cd9ca1c0f842accb",
+        "fingerprint": ["初创企业", "摊子铺得"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "初创做减法",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：几乎所有风险投资人（含吴军本人）投资前都要求初创公司把任务清单减到无法再减；创始人把心思放到做出代差产品上时才接近成功（行217，《格局》有同类例）。支撑母卡 C-FZ-U0007-01。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-07",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "在自己不擅长领域的扩张，是大企业由盛而衰的开始",
+      "quote": "在自己不擅长领域的扩张",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 223,
+        "end_line": 223,
+        "sha1": "9f64ecf8b725240c1cceac9e1d18909afb964097",
+        "fingerprint": ["由盛而衰", "金牌"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "不擅长的扩张",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：绝对第一胜过十个领域第二，如奥运后人们只记得金牌得主（行223）；Zoom坚持做减法、只把视频会议核心功能做好，在方便性、定制化、低速网络视频质量等指标上超过微软Teams（行219-221）。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-08",
+      "unit_id": "FZ-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "很多市场上第一名拿走70%的利润，第二名20%，其余竞争者不足10%",
+      "quote": "70-20-10",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 225,
+        "end_line": 225,
+        "sha1": "4bb43c24226de4346c8120e63d87dcc4f15618a3",
+        "fingerprint": ["70-20-10", "拳头产品"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "70-20-10定律",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军自《浪潮之巅》提出的定律。例证：半导体任一细分市场第一名盈利、第二名勉强打平、其余亏损（吴子宁，行225），故英特尔、英伟达、三星拳头产品只有一两个；制药业每类药品亦循此规律。"
+    },
+    {
+      "claim_id": "C-FZ-U0007-09",
+      "unit_id": "FZ-U0007",
+      "speaker": "转述·第三方",
+      "claim_text": "你想过什么样的生活，就保留相应的东西，放弃与它无关的东西",
+      "quote": "断舍离",
+      "anchor": {
+        "book_code": "FZ",
+        "start_line": 231,
+        "end_line": 231,
+        "sha1": "9909a2a773ac1e9afe02ed8a5ff7c99252eb97ab",
+        "fingerprint": ["断舍离", "山下英子"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D03-1"],
+      "concept_key": "断舍离",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者=山下英子（《断舍离》）。吴军引申至做事：先问目标是什么，与目标无关的事情应通过做减法删掉（行231），该引申并入母卡 C-FZ-U0007-01。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "《做减法比做加法重要》全节为高密度方法论论点，核心判断及支撑判断成卡9张（E1×7、E2×2），例证均并入母卡notes。"
+}

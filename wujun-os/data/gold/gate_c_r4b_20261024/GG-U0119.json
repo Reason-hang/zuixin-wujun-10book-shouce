@@ -1,0 +1,178 @@
+{
+  "unit_id": "GG-U0119",
+  "book_code": "GG",
+  "extractor": "GAUD5",
+  "batch_id": "GATE-C-R4B",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0119-01",
+      "unit_id": "GG-U0119",
+      "speaker": "转述·第三方",
+      "claim_text": "好的产品要有牙刷功能：用户每天用上几分钟，久而久之养成使用习惯",
+      "quote": "好的产品要有牙刷的功能",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7991,
+        "end_line": 7993,
+        "sha1": "790f8d2f93a78faf668410f34d9ae5335b94f8c3",
+        "fingerprint": ["牙刷", "佩奇"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D10-1", "D08-1"],
+      "concept_key": "牙刷原则",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇。例证：Google搜索每天用两三次，习惯养成后被设为开机默认页（行7993）；此法并非佩奇发明，宝洁、可口可乐一直这么做，习惯养成即形成稳定生意（行7995-7997）。"
+    },
+    {
+      "claim_id": "C-GG-U0119-02",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "牙刷式产品要解决两个根本问题：可靠性稳定性，以及功能简单易被替代",
+      "quote": "时灵时不灵的牙刷是不会有人要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7999,
+        "end_line": 8001,
+        "sha1": "10257434b55fe9fd57d9ea25f5b337e2499df443",
+        "fingerprint": ["可靠性", "替代"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "牙刷的可靠性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "两问题框架为吴军分析；针对替代性的解法（爆款）归佩奇，见 C-GG-U0119-03。例证：牙刷式产品99%时间好用、1%不能用用户也会烦；Google搜索在中国做不好非技术原因，而是服务不稳，年断网10天即3%不可用（行8000）。"
+    },
+    {
+      "claim_id": "C-GG-U0119-03",
+      "unit_id": "GG-U0119",
+      "speaker": "转述·第三方",
+      "claim_text": "好产品每过一段时间要用爆款带来惊喜、提醒存在，否则会被淡忘",
+      "quote": "爆款效应",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8003,
+        "end_line": 8007,
+        "sha1": "f804c9674ba17a2fc3d9020f38e0ca94365a85bd",
+        "fingerprint": ["爆款", "淡忘"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D10-1"],
+      "concept_key": "爆款效应",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇（\"第二招——爆款\"）。例证：可口可乐、宝洁每年花上百亿广告加定期促销强化印象（行8005-8006）；消费电子以一年为爆款营销周期，周期太长在下一次爆款前已被淡忘（行8006-8007）。"
+    },
+    {
+      "claim_id": "C-GG-U0119-04",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "职场中每周用三句话向老板汇报，每半年到一年拿出一个让他惊喜的成果",
+      "quote": "把你的工作总结成三句话",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8009,
+        "end_line": 8009,
+        "sha1": "4e2f14071363f4bec8be38da234d6be541fbb008",
+        "fingerprint": ["三句话", "惊喜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-3", "D06-2"],
+      "concept_key": "三句话汇报",
+      "ability_tags": ["沟", "做"],
+      "status": "已生成",
+      "notes": "吴军将牙刷+爆款原则迁移到职场：每周三句话周一汇报=牙刷，半年到一年一个惊喜成果=爆款，\"这样的员工，哪个老板都抢着要\"。与 C-GG-U0119-01/03 互引。"
+    },
+    {
+      "claim_id": "C-GG-U0119-05",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "凡事有开始就有终结，组织如生物必有生死；不刻意拯救衰老公司，往前寻找下一次机会",
+      "quote": "凡事有开始就有终结",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8011,
+        "end_line": 8013,
+        "sha1": "571f46d47ca088058ea220bccc01afae61a2c68e",
+        "fingerprint": ["终结", "硅谷之谜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "组织生死观",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军明言\"先来说一说我的观点\"。《硅谷之谜》总结的硅谷公司特点：不介意公司死亡、不刻意拯救衰老公司、把目光往前看（行8013）。与 C-GG-U0119-06（佩奇海蜇策略）、08（薪尽火传）同一论证链。"
+    },
+    {
+      "claim_id": "C-GG-U0119-06",
+      "unit_id": "GG-U0119",
+      "speaker": "转述·第三方",
+      "claim_text": "企业像海蜇长出新细胞：不断孵化能独立生存的新业务部门，逃脱大公司宿命",
+      "quote": "逃脱大公司的宿命",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8014,
+        "end_line": 8018,
+        "sha1": "55000cdad4f3d6729262496c354e7255b84153df",
+        "fingerprint": ["海蜇", "宿命"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "海蜇策略",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇（内部会议所讲）。比喻：一种海蜇受刺激长出新细胞，母体死后新细胞发育成完整个体（行8014-8015）。例证：Google成立Google风投、X实验室等独立部门尝试新领域（行8018）。"
+    },
+    {
+      "claim_id": "C-GG-U0119-07",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "创始人应把成熟业务交给他人，自己负责最需支持的新业务，避开公司基因决定论",
+      "quote": "把已经成熟的果实交给他人看管",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8024,
+        "end_line": 8026,
+        "sha1": "b7708dfcfe9a95cc108f565af3a33a1e07119f31",
+        "fingerprint": ["基因决定论", "皮柴"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "公司基因决定论",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军评述佩奇改组（培养皮柴主管Chrome/安卓/COO职责、改名Alphabet，行8020-8022）的逻辑：若创始人守旧业务、新人试新业务，新业务必发展成IBM个人电脑部门或微软在线部门而无竞争力（行8025）。Google拆分的第二考虑=防范反垄断诉讼（行8028-8029），属时点性公司事件，见本单元 x_disposals X2 记录。"
+    },
+    {
+      "claim_id": "C-GG-U0119-08",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "公司能传承的只是基因；先认同公司必死是常态，再考虑传承基因与文化",
+      "quote": "真正能够传承的其实也只是基因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8032,
+        "end_line": 8034,
+        "sha1": "75af375c8c046aa2f692b9a21953936f30738a32",
+        "fingerprint": ["薪尽火传", "基因"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "薪尽火传",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军小结本节：家族传承除物质财富还有精神财富即基因（行8032）；佩奇比很多企业家聪明处=先认同公司死掉是常态，再考虑传承基因与文化，而非维持不死的公司（行8033）；\"薪尽火传，柴火虽然烧尽了，火种仍然留传\"（行8034）。与 C-GG-U0119-05/06 互引。文末思考题（行8035）为指令性文字，按HC-20不抽取。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0119",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "Google反垄断诉讼防范叙述（市场份额远超对手总和、2008年聘司法部前官员任法务副总裁、被拆分与否的两种前途，行8028-8031）依附具体公司与时点，属时事时点论断；其可迁移逻辑（双情景未雨绸缪预安排）已在 C-GG-U0119-07 notes 留痕。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "佩奇人生智慧来信补充：牙刷/爆款/组织生死/海蜇策略/基因决定论/薪尽火传等论点成卡8张（E1×5、E2×3）；反垄断时点性内容记X2一条；文末思考题为指令性文字不抽取。"
+}
