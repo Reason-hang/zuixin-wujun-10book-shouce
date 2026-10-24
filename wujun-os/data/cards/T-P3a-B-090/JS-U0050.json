@@ -1,0 +1,84 @@
+{
+  "unit_id": "JS-U0050",
+  "book_code": "JS",
+  "extractor": "EXT-JS4",
+  "batch_id": "T-P3a-B-090",
+  "cards": [
+    {
+      "claim_id": "C-JS-U0050-01",
+      "unit_id": "JS-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "人不可能一辈子不栽跟头；若一定要栽，早栽比晚栽好，年轻时有试错的本钱",
+      "quote": "早一点比晚一点好",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2490,
+        "end_line": 2490,
+        "sha1": "b9afffacce7341877475889d4793cfd974c06922",
+        "fingerprint": ["栽跟头", "是祸躲不过"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-1"],
+      "concept_key": "早点摔跟头",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念键对齐既有 CK-0559（TD 书同名键，跨书复现）。语境为反驳父母过度保护，母题（亲子）按 X5 处置；杰斐逊\"相信年轻人相信未来\"为其转述，不另立卡。"
+    },
+    {
+      "claim_id": "C-JS-U0050-02",
+      "unit_id": "JS-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "一个人是否愿意接受新知识，取决于有没有开放的心态，而非过去的教育程度",
+      "quote": "在于是否有开放的心态",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2512,
+        "end_line": 2512,
+        "sha1": "1b24592ab7ab1519c427e40675f5326f9dbd7fec",
+        "fingerprint": ["开放的心态", "教育程度"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-2", "D01-1"],
+      "concept_key": "开放心态接受新知识",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "由旅美农村老伯接受新饮食建议的例证归纳；例证并入本卡不另立。主归属按结论句（怎样接受新知）判 D02-2，辅 D01-1。"
+    },
+    {
+      "claim_id": "C-JS-U0050-03",
+      "unit_id": "JS-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "聪明人做事要留三分余地，不把各方逼到死角、让谁都下不了台",
+      "quote": "聪明人做事会留三分余地",
+      "anchor": {
+        "book_code": "JS",
+        "start_line": 2510,
+        "end_line": 2510,
+        "sha1": "da3c74f7ce489be3bd616792eab758091c732cd0",
+        "fingerprint": ["三分余地", "死角"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2", "D05-1"],
+      "concept_key": "做事留三分余地",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "源语境为张靓颖母亲将家事公开化之失策；判断本身可独立成立，按结论句归处世（辅做事原则）。同段\"搬救兵施压\"为反面例证并入。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "JS-U0050",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "全章主体为亲子教育议题：中国父母不成熟、过度关心坑孩子、父母做表率、代沟与一同成长、精英家庭老人三特点、农耕家长制观念批判（2470-2514 主体段落），按 X5 排除；其中\"用上一辈思想教育这一辈人\"\"老年人见识未必更正确\"依附亲子语境不单独成卡。"
+    },
+    {
+      "unit_id": "JS-U0050",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "婚姻家庭干涉议题：\"婚姻更多是两个人的事情\"、父母干涉子女婚恋、张靓颖事件主体叙述（2478-2482、2494），按 X5（爱情婚姻家庭）排除。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "主体为亲子/婚姻家庭议题按 X5 登记排除，依方法论例外抽 3 张可迁移判断卡（栽跟头时机、开放心态、做事留余地）。"
+}
