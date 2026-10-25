@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG3-U0184",
+ "book_code": "SG3",
+ "extractor": "EXT-SG12",
+ "batch_id": "T-P3b-B-056",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莱布尼茨：只有找到所有必要条件才构成充分条件",
+   "quote": "必要条件",
+   "anchor": {
+    "start_line": 19389,
+    "end_line": 19389,
+    "fingerprint": [
+     "莱布尼茨",
+     "充分条件"
+    ],
+    "book_code": "SG3",
+    "sha1": "c894bea6b9e91b069e2067eb39bdf10ff4307de2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "充分条件推理律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=莱布尼茨（充分性推理原则，吴军第64封信已介）；单用一种或几种必要条件论证在逻辑上不严谨甚至错误（19389）；概括见C-SG3-U0184-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0184-01",
+   "unit_id": "SG3-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两事相关未必因果，有因果也难分孰因孰果，个案更不足为据",
+   "quote": "未必有因果关系",
+   "anchor": {
+    "start_line": 19393,
+    "end_line": 19393,
+    "fingerprint": [
+     "相关性",
+     "因果"
+    ],
+    "book_code": "SG3",
+    "sha1": "2b56c19d6fb4f03e35d3e5e1dda1c7c22ccedb16"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "相关非因果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "文理生比例与中等收入陷阱之辨为例（19393）；理性的怀疑即用逻辑找论证错误（19391，塞克斯图斯怀疑论）；莱布尼茨原话见C-SG3-U0184-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0184-02",
+   "unit_id": "SG3-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一连串有序发生的事不能拆出单独一环作因果结论",
+   "quote": "有序发生",
+   "anchor": {
+    "start_line": 19395,
+    "end_line": 19395,
+    "fingerprint": [
+     "无序",
+     "一环"
+    ],
+    "book_code": "SG3",
+    "sha1": "a566ec6966627b5e3b0995fa9158e5a670da3509"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "有序链条不可拆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "张三被裁员→做生意讲诚信→高人指点→成功链条例（19395）；不能用无序的原因解释一系列有序发生的事情（19395）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0184-03",
+   "unit_id": "SG3-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伪命题的论证无论多合逻辑都无意义，因命题本身不成立",
+   "quote": "命题本身是有问题的",
+   "anchor": {
+    "start_line": 19401,
+    "end_line": 19405,
+    "fingerprint": [
+     "伪命题",
+     "差学生"
+    ],
+    "book_code": "SG3",
+    "sha1": "9cb796dc2f7a7eff64827a1683488fbf4be8e147"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "伪命题论证无效",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "小明差学生例（19403-19405）；'全年级都不打球也无人人第一'为第二重伪命题（19407）；与逻辑不严谨并列为两大陷阱（19385）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0184-04",
+   "unit_id": "SG3-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "排位竞争受概率分布约束：全力以赴也仍多数人居中",
+   "quote": "自然概率分布的规律",
+   "anchor": {
+    "start_line": 19407,
+    "end_line": 19407,
+    "fingerprint": [
+     "前十名",
+     "年级第一"
+    ],
+    "book_code": "SG3",
+    "sha1": "7c4cb4539cf3e062a41b4e5095d97b2e0288c033"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "排位概率分布",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "前十名永远只有十个（19407）；考满分与不及格皆少数（19407）；同构于经济体分布、不可能人人发达国家（19441，宏观部分归X6）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0184-05",
+   "unit_id": "SG3-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "前所未见的新观点多半因其本身有问题；用理性和逻辑审视之",
+   "quote": "用理性和逻辑审视",
+   "anchor": {
+    "start_line": 19457,
+    "end_line": 19457,
+    "fingerprint": [
+     "新观点",
+     "前所未见"
+    ],
+    "book_code": "SG3",
+    "sha1": "6a0003d6cff2c087f42a99797e06806baae34b2e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "新观点审视律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "小结（19457）；守住思考原则即不被不靠谱观点迷惑（19457）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0184-06",
+   "unit_id": "SG3-U0184"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0184",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "阿根廷巴西等国人均GDP时点数据与'走出陷阱'论断（庇隆、马岛战争、2017年1.4万美元、2020年9900美元、马来西亚2019年数据19417-19429）：依附具体时点与行情的论断，离开时点即失效"
+  },
+  {
+   "unit_id": "SG3-U0184",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "中等收入陷阱概念辨析与宏观经济分析（发达标准水涨船高、日韩新以港台门票、新兴经济体占比预测、清廉指数相关性19433-19453）：宏观经济与文明史议题不作支柱；其辨伪逻辑已例外成K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第152封信：莱布尼茨E2/相关非因果/有序链条不可拆/伪命题论证无效/排位概率分布/新观点审视；GDP时点数据X2、宏观辨析X6"
+}

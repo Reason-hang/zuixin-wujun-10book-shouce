@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG3-U0187",
+ "book_code": "SG3",
+ "extractor": "EXT-SG12",
+ "batch_id": "T-P3b-B-056",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断前沿科技进展要看科学家成就与专业报告，而非公司宣传",
+   "quote": "宣传价值大于实际的意义",
+   "anchor": {
+    "start_line": 19701,
+    "end_line": 19701,
+    "fingerprint": [
+     "马斯克",
+     "专业报告"
+    ],
+    "book_code": "SG3",
+    "sha1": "f385733082484bb7e60517096d51aea43e21bc2b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科技信息源判断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "马斯克公司新闻宣传价值大于实际意义（19701）；以IEEE研讨会学者成果为据（19699）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0187-01",
+   "unit_id": "SG3-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程落地需把现象分解为可数学描述的自由度问题，光有科学家不够",
+   "quote": "光有科学家是不够的",
+   "anchor": {
+    "start_line": 19759,
+    "end_line": 19759,
+    "fingerprint": [
+     "工程师",
+     "自由度"
+    ],
+    "book_code": "SG3",
+    "sha1": "abba61f7994eed642063d3cbf9bc072bb12c689a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "工程自由度分解",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "手部动作五自由度模拟例（19759）；最重要基础学科为生命科学、信息科学、材料学（19757）；拿鸡蛋测试与机器学习校准（19751-19753）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0187-02",
+   "unit_id": "SG3-U0187"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0187",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "脑机接口技术进展综述（单向双向分类、斯坦福打字与电子眼色盲案例、双向技术难点与波顿教授细节、人工神经系统展望与加大投入预测19693-19769）：科技趋势预测本体；信息源判断与工程分解已例外成K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第155封信：X6科技趋势为主降档，仅抽2卡：看科学家专业报告/工程自由度分解；脑机接口技术综述归X6"
+}

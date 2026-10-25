@@ -1,0 +1,235 @@
+{
+ "unit_id": "GG-U0013",
+ "book_code": "GG",
+ "extractor": "GAUD25",
+ "batch_id": "GATE-C-R23",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "所有的工作都应建立在时代基线之上；起点远低于基线的蛮干没有实际价值。",
+   "quote": "都应该建立在这条线的基础上",
+   "anchor": {
+    "start_line": 1073,
+    "end_line": 1077,
+    "fingerprint": [
+     "基线",
+     "民间发明家"
+    ],
+    "book_code": "GG",
+    "sha1": "72626f65f57745235c90c946c1e61d737e201a45"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "基线是工作的起点",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "基线定义为直到今天人类（或个人）所掌握的工程知识；民间发明家造小飞机为锚内反例（电视台励志节目）。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-01",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "莱特兄弟先系统学习凯利理论、经上千次风洞试验才上天，与蛮干的民间发明家形成对照。",
+   "quote": "打造了一个风洞",
+   "anchor": {
+    "start_line": 1079,
+    "end_line": 1084,
+    "fingerprint": [
+     "莱特兄弟",
+     "风洞"
+    ],
+    "book_code": "GG",
+    "sha1": "5fe3a4f77f2be21cf030a8474ae8e2b50f1f218b"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "科学试错胜过蛮干",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "专名案例承载可迁移机理（先学理论再做充分试验）故独立成卡；奥维尔·莱特1912年自述成功要感谢凯利，系名人原话经吴军转述（行1080），本卡论点为吴军的对照判断。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-02",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要把工作做好首先要提高基线；接受教育、培训的目的就是提高基线，故不主张退学创业。",
+   "quote": "首先就要提高基线",
+   "anchor": {
+    "start_line": 1084,
+    "end_line": 1087,
+    "fingerprint": [
+     "基线",
+     "退学创业"
+    ],
+    "book_code": "GG",
+    "sha1": "1990674009a2a068d66fccdab5a4f7de7f47ae5b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "提高基线靠教育",
+   "ability_tags": [
+    "做",
+    "学"
+   ],
+   "notes": "散户投资与民间发明家造飞机无异为锚内类比；专家常识对他人即新知之辨支撑基线差异。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-03",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专业人士与业余爱好者的差别在于是否了解极限的存在；知道极限才不至于异想天开。",
+   "quote": "是否了解极限的存在",
+   "anchor": {
+    "start_line": 1088,
+    "end_line": 1092,
+    "fingerprint": [
+     "极限",
+     "卡诺定理"
+    ],
+    "book_code": "GG",
+    "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "了解极限的存在",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "极限指理论给出的无法突破的上限（光速、绝对零度、能量守恒）；涡轮蒸汽机卡诺定理为锚内例证；行1092预告图灵机、摩尔定律、冯·诺依曼三个计算机极限。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-04",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有了基线、知道极限还不够，还必须找到扶着向上攀登的绳索（路径与行动步骤）。",
+   "quote": "扶着向上攀登的绳索",
+   "anchor": {
+    "start_line": 1093,
+    "end_line": 1098,
+    "fingerprint": [
+     "绳索",
+     "阶梯"
+    ],
+    "book_code": "GG",
+    "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "攀登的绳索与阶梯",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "鸟巢施工为锚内案例（总工程师李久林的一整套方案即斜线）；越接近极限道路越少故斜线越画越细。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-05",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学家常常只告诉大家这件事可以做，工程师则要明白怎么做。",
+   "quote": "但是工程师要明白怎么做",
+   "anchor": {
+    "start_line": 1095,
+    "end_line": 1097,
+    "fingerprint": [
+     "科学家",
+     "工程师"
+    ],
+    "book_code": "GG",
+    "sha1": "1187fad74dcc3facf56a0cf81033d53190eba4ff"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "科学家与工程师之别",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "锚内含李久林所述鸟巢一整套方案（据其口述转述，为论据）。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-06",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标明确后要划定行动通道，通道之外的事一概不做，才能把天花板变成基础。",
+   "quote": "通道之外，所有的事情都不要做",
+   "anchor": {
+    "start_line": 1101,
+    "end_line": 1108,
+    "fingerprint": [
+     "通道",
+     "天花板"
+    ],
+    "book_code": "GG",
+    "sha1": "a118a6ae10348f1b9f712bcc5a1516cf6e802364"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "通道之外皆不做",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "L君（化名投资界人士）融资案例承载可迁移机理：先明确上下两线（经验人望为基础、缺资金管理为极限）再限定通道行动；与三条边总纲C-GG-U0013-08互引。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-07",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把事情做好需要三条边：基线、极限、连接路径；解决问题有相对固定的章法可循。",
+   "quote": "相对固定的章法",
+   "anchor": {
+    "start_line": 1109,
+    "end_line": 1110,
+    "fingerprint": [
+     "三条线",
+     "纸上谈兵"
+    ],
+    "book_code": "GG",
+    "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "把事情做好的三条边",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "本信（Google内训课程改写）方法论总括；基线见C-GG-U0013-01、极限见C-GG-U0013-04、绳索见C-GG-U0013-05、应用案例见C-GG-U0013-07；找不到第三条线只能纸上谈兵为锚内补充。",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-08",
+   "unit_id": "GG-U0013"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第008封信为吴军本人三条边方法论讲授，整体可迁移，正常抽卡"
+}

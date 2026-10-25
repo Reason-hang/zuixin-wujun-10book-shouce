@@ -1,0 +1,112 @@
+{
+ "unit_id": "SG3-U0186",
+ "book_code": "SG3",
+ "extractor": "EXT-SG12",
+ "batch_id": "T-P3b-B-056",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "复杂工程先限定阶段假设再逐段构造验证，是工程常见方法",
+   "quote": "解决工程问题的一个常见方法",
+   "anchor": {
+    "start_line": 19629,
+    "end_line": 19629,
+    "fingerprint": [
+     "阶段",
+     "人工胎盘"
+    ],
+    "book_code": "SG3",
+    "sha1": "4b146d91738bb08de832be82c860fc69f9caf34b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "分阶段工程法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "米查利斯卡团队先做24周胎儿假设（19629）；人工胎盘是系统性任务：呼吸机+人工肝肾+类子宫环境（19619-19625，转述·米查利斯卡，IEEE会刊采访）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0186-01",
+   "unit_id": "SG3-U0186"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "缺关键材料支撑的思路只是理论可行、工程上不可行",
+   "quote": "理论可行，工程上不可行",
+   "anchor": {
+    "start_line": 19637,
+    "end_line": 19637,
+    "fingerprint": [
+     "纳米材料",
+     "工程问题"
+    ],
+    "book_code": "SG3",
+    "sha1": "a879dce0989016c1759de5729aa3d4bbcbf68378"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "理论可行工程不可行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "氧气泡堵血管例（19633）；纳米小孔渗氧方案（19635）；目前最先进可维28周或500克以上胎儿（19639）；试错迭代见C-SG3-U0186-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0186-02",
+   "unit_id": "SG3-U0186"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从失败解剖获取反馈不断迭代改进，是工程思维的体现",
+   "quote": "不断迭代改进",
+   "anchor": {
+    "start_line": 19645,
+    "end_line": 19645,
+    "fingerprint": [
+     "解剖",
+     "工程思维"
+    ],
+    "book_code": "SG3",
+    "sha1": "6d430cb47dd5c22280f54fd413b121fe49d9320a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "失败迭代工程思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "羊胎儿体外存活由数小时到一周再到四周（19643）；大玛吉案例（19647）；羊与人移植性存疑、羊脑人脑不同（19655）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0186-03",
+   "unit_id": "SG3-U0186"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0186",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "机器辅助孕育技术前沿综述与预测（IEEE会刊缘起19583、米查利斯卡访谈、NIH五年临床估计19647、吴军'一代人成熟'预测19665、伦理问题19667）：科技趋势预测本体；工程方法论已例外成K卡"
+  },
+  {
+   "unit_id": "SG3-U0186",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "胎盘生理机制与早产儿科普（母体物质交换中介、胎盘基因构成、胎儿肺发育周数与呼吸机损伤19591-19615）：生理学科普无可迁移判断"
+  },
+  {
+   "unit_id": "SG3-U0186",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "母亲子宫最好、母爱不可替代的伦理感想与'不需要怀孕后人口是否激增'提问（19669-19671）：亲子生育议题"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第154封信：X6科技趋势为主降档，仅抽工程方法论3卡：分阶段法/理论可行工程不可行/失败迭代；胎盘科普X4、母爱议题X5"
+}
