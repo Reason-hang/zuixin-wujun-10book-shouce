@@ -1,0 +1,113 @@
+{
+  "unit_id": "WJ2-U0126",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0126-01",
+      "unit_id": "WJ2-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "度假村营收主要取决于宏观经济和服务项目两个因素",
+      "quote": "宏观经济和服务项目",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10006,
+        "end_line": 10006,
+        "sha1": "fd210dd3af48ba399419995109df755958773095",
+        "fingerprint": ["度假村", "营收", "宏观经济"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "度假村营收双因素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "领域直连（度假村经济）；宏观经济影响展开见02卡，服务项目见03卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0126-02",
+      "unit_id": "WJ2-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "度假村需求非刚需，收入随经济与季节大波动，收入不稳的企业难以上市",
+      "quote": "不喜欢忽上忽下的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10008,
+        "end_line": 10008,
+        "sha1": "4fe584dc973a5912e51481a9b449000594c233d7",
+        "fingerprint": ["刚需", "旺季", "金融危机"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "非刚需业务波动大",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证（E3并入）：2008金融危机中金沙集团几乎破产；酒店差旅刚需波动小故易上市"
+    },
+    {
+      "claim_id": "C-WJ2-U0126-03",
+      "unit_id": "WJ2-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "在人工智能能取代很多岗位的时代，差异化和特色才是安身立命之本",
+      "quote": "差异化和特色才是安身立命之本",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10012,
+        "end_line": 10012,
+        "sha1": "f3d7a92e4f1c77ee19240d1ffd5ab1fe5b1b151f",
+        "fingerprint": ["差异化", "名厨", "米其林"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D06-1"],
+      "concept_key": "差异化特色安身立命",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "例证：安吉度假村以名厨餐饮特色持续盈利；对照9998行连锁酒店靠标准化服务一致性，功能复杂琐碎的服务业信息技术替代有限（10004）"
+    },
+    {
+      "claim_id": "C-WJ2-U0126-04",
+      "unit_id": "WJ2-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "同质化严重的连锁酒店只能拼成本，人工智能首先取代大量白领而非保洁员",
+      "quote": "首先被取代的反而不是打扫卫生的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10000,
+        "end_line": 10000,
+        "sha1": "6f9c767ee93f7e06ce57cc36d96f2634618b9adb",
+        "fingerprint": ["同质化", "拼成本", "白领"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D04-2"],
+      "concept_key": "同质化拼成本",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "酒店业观察含可迁移逻辑：标准化可编码的白领岗位先被替代；与03卡差异化结论互为反面"
+    },
+    {
+      "claim_id": "C-WJ2-U0126-05",
+      "unit_id": "WJ2-U0126",
+      "speaker": "吴军本人",
+      "claim_text": "越不如意越以为快节奏能解决问题，其实要慢下来有长性，走得长就快不了",
+      "quote": "真正要做的事情是慢下来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10030,
+        "end_line": 10030,
+        "sha1": "0d1671e834abd7a4eed9f14cc306c44098a726bf",
+        "fingerprint": ["慢下来", "长性", "明恩溥"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-4", "D05-2"],
+      "concept_key": "慢下来有长性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "台北饭桌共识+吴军认同；明恩溥《中国人的性格》对匆忙低效的观察为转述例证；跨书线索：与格局《要思考，就需要慢下来》、富足《不怕慢就怕停》呼应"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0126", "disposal": "X", "x_subtype": "X5", "reason": "教育讨论前三点（家长为教育内卷负主责、成绩至上致大学后不会学习、家长只激发低层次幸福感）属亲子教育判断，按X5排除；马斯洛需求层次为背景转述不另卡"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "度假村经济四个可迁移商业判断与慢节奏长期性判断成卡5张，亲子教育三点记X5"
+}

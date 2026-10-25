@@ -1,0 +1,111 @@
+{
+  "unit_id": "WJ2-U0125",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0125-01",
+      "unit_id": "WJ2-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "只会用别人工具做人工智能应用赚不到钱，人工智能只是把原来值钱的工作变得不值钱",
+      "quote": "把原来值钱的工作变得不值钱了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9926,
+        "end_line": 9926,
+        "sha1": "bbd3db27c103afdf40c9146b04db3335e9839869",
+        "fingerprint": ["人工智能", "不值钱", "需求方"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D04-2"],
+      "concept_key": "只会用工具则工作贬值",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：人工做网页1万元→用AI工具最多100元；需求方省钱但操作方不值钱。与02卡同一论证链"
+    },
+    {
+      "claim_id": "C-WJ2-U0125-02",
+      "unit_id": "WJ2-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "学计算机学到能开发工具的水平就一定有用，造机器的人不会丢工作，薪酬反而更高",
+      "quote": "造机器的人不仅不会丢掉工作",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9930,
+        "end_line": 9930,
+        "sha1": "b9c35ebca8f90af30fdffa9a50f7c09a31ee74b2",
+        "fingerprint": ["金刚钻", "开发工具", "寒冬"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "造工具者溢价",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "含\"真正有金刚钻的人不用惧怕寒冬\"；与01卡同一论证链（用工具贬值/造工具溢价）"
+    },
+    {
+      "claim_id": "C-WJ2-U0125-03",
+      "unit_id": "WJ2-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "自动系统适当使用可大幅降低成本，指望它替代全部人工不现实且成本剧增",
+      "quote": "不仅不现实，而且成本会剧增",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9946,
+        "end_line": 9946,
+        "sha1": "5d114917e2d55450ded774d6306e9f1948fda36c",
+        "fingerprint": ["自动系统", "特斯拉", "成本"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D04-3"],
+      "concept_key": "自动化部分替代的经济边界",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "特斯拉例证（E3并入）：机器取代约3/4人工经济划算，比例提到90%以上成本反高于用人"
+    },
+    {
+      "claim_id": "C-WJ2-U0125-04",
+      "unit_id": "WJ2-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "通用大模型数据不准确甚至编造，建议常无价值，专业人工智能服务须以可靠数据为基础",
+      "quote": "甚至有些是编造出来的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9960,
+        "end_line": 9960,
+        "sha1": "0c7c5d68adf8ce44bd0b3725366e3b945261a66a",
+        "fingerprint": ["编造", "不准确", "法律服务"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-2", "D08-1"],
+      "concept_key": "可靠数据是专业AI服务的前提",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "反例：美国律所采OpenAI建议引用不存在案例败诉；对比专业法律系统基于全量法规与判例"
+    },
+    {
+      "claim_id": "C-WJ2-U0125-05",
+      "unit_id": "WJ2-U0125",
+      "speaker": "吴军本人",
+      "claim_text": "非人工智能人士受益于人工智能的路径：先是有多年经验的行业专家，再赶上技术大爆发抓住机遇",
+      "quote": "是如何受益于人工智能的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9968,
+        "end_line": 9968,
+        "sha1": "a9caf9388bce209aa4aa9e01a893d8f32c185aa3",
+        "fingerprint": ["行业专家", "从业经验", "抓住机遇"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1", "D08-1"],
+      "concept_key": "行业专家加技术机遇",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "母卡：法律服务团队8年数据积累+大模型爆发改技术路线；简历筛选系统例证并入（涨价36→72元说明客户认可）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人关于AI应用价值、造工具与用工具、自动化经济边界与专业服务数据前提的可迁移判断成卡5张"
+}

@@ -1,0 +1,175 @@
+{
+  "unit_id": "WJ2-U0133",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0133-01",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "被误导的主因是普通人缺乏判断能力，不是AI捏造事实；没有AI时误导也天天发生",
+      "quote": "普通人本身缺乏判断能力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10514,
+        "end_line": 10514,
+        "sha1": "33bf618128cf9ee4909877d422d1839f47e52f5c",
+        "fingerprint": ["AI", "误导", "判断"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "被误导根源在判断力",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "问答纠偏：提问角度从防AI改为提升自身判断；AI谬误三因（训练数据含谣、水平差、人假借AI传谣）见02/03卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-02",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "防AI谬误：找噪音来源滤掉；可信内容都有来源，没来源的少相信；留意逻辑破绽",
+      "quote": "没有来源的东西，你少相信就好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10518,
+        "end_line": 10520,
+        "sha1": "c3ba58bebe483f4e43103a50598faeeadd15f681",
+        "fingerprint": ["噪音", "来源", "破绽"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "无来源内容少相信",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "方法：防范AI如防范人造谣——不靠谱网站的内容整个删掉；合成图片的破绽（腿的方向、手的姿势）同理发逻辑破绽；谷歌AI标注来源可查"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-03",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "很多人觉得被AI控制，其实是被AI背后的人控制；应惩罚操纵AI造假的人",
+      "quote": "被AI 后面所谓的人控制了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10522,
+        "end_line": 10522,
+        "sha1": "fdf5e89a5ce7d41ac192467fc0664d1a34faa295",
+        "fingerprint": ["谣言", "控制", "包装"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "AI背后是人",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "谣言经AI重新包装显得更合情合理，最难防范；矛与盾并存，最终惩罚落在操纵者（10524并入）"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-04",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "认为只有自己国家甚至本城最安全是各国人都有的偏见",
+      "quote": "这种偏见，其实很多国家的人都有",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10534,
+        "end_line": 10534,
+        "sha1": "5bb87ef4bfceb0ed63c5af2e5202e65534a38db5",
+        "fingerprint": ["偏见", "安全", "城市"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "本地安全偏见",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证并入：美国母亲因第三级旅行警告觉得中国危险；法国人不觉本国危险到不宜留学；各国犯罪率口径不同不好直接对比、想了解实情听在当地的中国人说（10536-10540并入）"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-05",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "语言的背后是文化，为保持文化人们会保持方言，强行统一语言适得其反",
+      "quote": "语言的背后是文化",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10556,
+        "end_line": 10556,
+        "sha1": "fe8632c3d1f2db57a7f2532ceccc1bfd911f8079",
+        "fingerprint": ["语言", "方言", "多元化"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["DT-待判"],
+      "concept_key": "语言背后是文化",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "归属待判：文化语言学判断，最接近D01-4（思想文化评述）与X6文明史边界；法国强推标准法语数百年民众不认可、21世纪转向多元化为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-06",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "标准化让芭蕾高雅统一美丽，也使其失去市场被现代舞挤压",
+      "quote": "逐渐失去了市场",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10558,
+        "end_line": 10558,
+        "sha1": "cb3c28187e33299cd83b98dc4b9de9e5153d29ef",
+        "fingerprint": ["芭蕾舞", "标准化", "现代舞"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D10-1"],
+      "concept_key": "过度标准化失去市场",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "路易十四宫廷标准化礼仪舞蹈诞生芭蕾舞的产品史例证；同质化的文化产品会被差异化产品挤压"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-07",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "标准化并非万能：法国把时间角度改成十进制造成大麻烦，什么都标准化会出问题",
+      "quote": "什么东西都标准化",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10564,
+        "end_line": 10564,
+        "sha1": "fa19af24025a7c6050600a69bec1c4f2f6a47fa5",
+        "fingerprint": ["标准化", "度量", "麻烦"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-3"],
+      "concept_key": "标准化非万能",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：一天10小时一小时100分钟、直角100度致正三角每角66.7度使用不便；公制推广背景（10562）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0133-08",
+      "unit_id": "WJ2-U0133",
+      "speaker": "吴军本人",
+      "claim_text": "标准化适合工业社会；今天世界文化趋势是多元化差异化，统一的文化最无趣",
+      "quote": "统一的文化是最无趣的事情",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10568,
+        "end_line": 10568,
+        "sha1": "866486b774a5dbfc5f4cf6b174848dea9e24f833",
+        "fingerprint": ["统一", "文化", "无趣"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "统一文化最无趣",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "背景（10566并入）：标准化统一是工业化社会的产物，多国拨款保护小众文化；吴军个人价值判断"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0133", "disposal": "X", "x_subtype": "X7", "reason": "三个读者提问原文（耿金、静姝、咚咚锵）及文末咚咚锵长留言为读者来信原文，吴军回应已单独成卡"},
+    {"unit_id": "WJ2-U0133", "disposal": "X", "x_subtype": "X6", "reason": "全球化下文化是否统一的问题主体与法国语言标准化史、公制推广史、文化多元化趋势判断属文明历史叙述与宏观趋势，按X6只留可迁移判断（05-08卡）"},
+    {"unit_id": "WJ2-U0133", "disposal": "X", "x_subtype": "X2", "reason": "美国国务院对华第三级旅行警告、法国犯罪率约为中国两倍等依附时点的国别治安数据记X2，仅偏见判断入卡04"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答三题：AI误导与判断力、安全偏见、标准化边界共8条可迁移判断成卡，读者原文记X7、文明史与时点数据记X6/X2"
+}

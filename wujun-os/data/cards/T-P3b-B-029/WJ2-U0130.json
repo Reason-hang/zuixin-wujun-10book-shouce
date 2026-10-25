@@ -1,0 +1,233 @@
+{
+  "unit_id": "WJ2-U0130",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0130-01",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "穷人很少一夜暴富，中产却可能一夜返贫；财富不论多少，守得住最重要",
+      "quote": "守得住才是最重要的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10238,
+        "end_line": 10238,
+        "sha1": "c5d51f762a8a0ebbe3142a20faa7d45ee971f140",
+        "fingerprint": ["一夜返贫", "暴富", "财富"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "守得住比赚到更重要",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "全信总起：打消暴富念头；富二代几年沦落为穷人也常见"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-02",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "最可怕的不是起点低而是被锁死最底层；把贫困一切归结于社会是懒办法",
+      "quote": "把一切归结于社会是一个懒办法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10240,
+        "end_line": 10240,
+        "sha1": "f2386a07e6cd1e5a8d0384b4495ac7e082c3595c",
+        "fingerprint": ["锁死", "底层", "社会"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1", "D01-1"],
+      "concept_key": "勿把贫困全归因于社会",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "锁住普通人的可能是他们自己；自证：吴军家年收入100斤鸡蛋起步，20多年超美国贫困人口几十倍（10242-10244例证并入）"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-03",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "代际贫困者身上有六种根本问题，这些问题不解决就很难摆脱贫困",
+      "quote": "有六种根本性问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10246,
+        "end_line": 10246,
+        "sha1": "a6f2f9c0112bea9c44b5ebcf27332adc9a13edf2",
+        "fingerprint": ["代代贫困", "根本性问题", "摆脱贫困"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "致贫六根本问题",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单母卡：六问题分记于04/06/07/08/09/10卡（清单超锚点上限拆卡，各卡notes标所属）"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-04",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "未完全富裕就大量补贴原生家庭朋友，滚雪球资金锐减，指数增长变线性",
+      "quote": "指数增长就变成了线性增长",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10254,
+        "end_line": 10254,
+        "sha1": "ef6586bfa9c7e32fb5ec52afdd448c9ced83f88e",
+        "fingerprint": ["滚雪球", "补贴", "大忌"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1", "D03-1"],
+      "concept_key": "未富先补贴阻断指数增长",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六根本问题之一（母卡03）；氧气面罩原则：先解决自己的问题再帮他人（10252）；NBA/巴西球员退役返贫例（10256）"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-05",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "想法受周围人影响，圈层太低难以超脱，即便受更好教育也可能被拉回原环境",
+      "quote": "很难突破原有的圈层和环境",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10258,
+        "end_line": 10258,
+        "sha1": "ddf01165c1c22e4c4bfbc53580cc2d8cecf06914",
+        "fingerprint": ["圈层", "环境", "影响"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2", "D02-1"],
+      "concept_key": "低圈层环境拉回效应",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "出自贫困问题一之引申：出身贫寒需谨慎处理与周围人的关系；跨书线索：与来信2《清理朋友圈，首先要远离自恋者》呼应"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-06",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "积蓄不到年收入四五倍时投资好坏影响不大，乱投资耗精力还迷失事业目标",
+      "quote": "对生活没有太大影响",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10262,
+        "end_line": 10262,
+        "sha1": "5708c8a64eb80302c7953d0fed6a9bdb4ed852a6",
+        "fingerprint": ["积蓄", "投资", "事业"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "小积蓄乱投资之弊",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六根本问题之二（母卡03）：有一点钱就投自己不懂的行业；看多了投资却没时间思考事业发展"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-07",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "消费主义特别是超前消费是成为有钱人的大敌，收入再高也攒不下财富",
+      "quote": "超前消费，是成为有钱人的大敌",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10264,
+        "end_line": 10264,
+        "sha1": "50336b259674d893548a5d04933d0c65be1ab5b5",
+        "fingerprint": ["消费主义", "超前消费", "大敌"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "超前消费是致富大敌",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六根本问题之三（母卡03）；例证：美国年收入5万至20万美元者多为月光族（10266）；国内年入百万老板巴黎一周游学花20多万（10268）"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-08",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "勉强挤进不属于自己的圈子没有用；时间过多用于社交就没空磨练赚钱技能",
+      "quote": "没空磨练自己赚钱的技能",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10272,
+        "end_line": 10272,
+        "sha1": "0fcb09e7b78a1617266e559cb61cfe4771c482a2",
+        "fingerprint": ["圈子", "社交", "乔治五世"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2", "D09-1"],
+      "concept_key": "无效社交挤占技能磨练",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "六根本问题之四（母卡03）；例证：心疼钱却硬住乔治五世酒店挤商学院圈子，与真富人不同圈"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-09",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "过多投入低价值学习——易考证书、低含金量学位、非职业目标的爱好——不利赚钱",
+      "quote": "低价值甚至无价值的学习",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10274,
+        "end_line": 10278,
+        "sha1": "945a64d5a5200a155e35b4a2b5cfb2bb3eaf7bea",
+        "fingerprint": ["证书", "含金量", "支线任务"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-2", "D09-1"],
+      "concept_key": "低价值学习支线任务",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "六根本问题之五（母卡03）：证书考取容易则无说服力；支线任务做多了不利赚钱主线；看书旅行音乐等情绪价值爱好不在此列"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-10",
+      "unit_id": "WJ2-U0130",
+      "speaker": "吴军本人",
+      "claim_text": "在不熟悉的领域太随意创业，大概率以亏损收场，既浪费时间又消耗钱",
+      "quote": "大概率是以亏损收场",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10282,
+        "end_line": 10282,
+        "sha1": "eb77986b99a2cb67a71495a08c10b040f38dd418",
+        "fingerprint": ["创业", "餐馆", "粤菜"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "不熟领域随意创业",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "六根本问题之六（母卡03）；例证：粤菜馆光调料几百种；没写过AI代码却跑来创业如同只吃几顿粤菜就开馆子"
+    },
+    {
+      "claim_id": "C-WJ2-U0130-11",
+      "unit_id": "WJ2-U0130",
+      "speaker": "转述·第三方",
+      "claim_text": "人要少犯错误，少犯错误比抓住机会重要得多",
+      "quote": "人要少犯错误",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10284,
+        "end_line": 10284,
+        "sha1": "de804adaed12ac7c13db167c27c8c8017ba73421",
+        "fingerprint": ["巴菲特", "少犯错误", "机会"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D03-2", "D03-1"],
+      "concept_key": "少犯错误重于抓机会",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "被转述者：巴菲特；吴军以其作全信总结并延伸\"少犯错误比抓住机会重要得多\"，本人认同"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0130", "disposal": "X", "x_subtype": "X7", "reason": "文末用户留言（黃泊淳Only自述踩坑经历）为读者来信原文，吴军回复仅致谢无实质判断，整段排除"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "财商方法论信：守财富、归因、致贫六根本问题清单及巴菲特总结共11卡成卡，用户留言记X7"
+}

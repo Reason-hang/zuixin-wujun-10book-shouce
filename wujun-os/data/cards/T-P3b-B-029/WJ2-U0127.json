@@ -1,0 +1,195 @@
+{
+  "unit_id": "WJ2-U0127",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0127-01",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "世界上没有精算模型能对未来有准确预估，按过去数据定的保费未必能覆盖赔偿",
+      "quote": "对未来能够有准确的预估",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10050,
+        "end_line": 10050,
+        "sha1": "7939c7a4095535246ac07a742ca98e0c29b18b66",
+        "fingerprint": ["精算模型", "预估", "火灾"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-1", "D01-1"],
+      "concept_key": "精算模型预测有边界",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "统计外推的局限：无法据过去10年火灾次数估计未来5年；与02卡同一论证链"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-02",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "即便模型准确，保费收取也有统计两难：数学期望只是平均值，实际赔付波动可使保险公司赔不出",
+      "quote": "但这只是平均值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10052,
+        "end_line": 10052,
+        "sha1": "fd354aa2166a63e06748a12c699ec2b7164a7d8c",
+        "fingerprint": ["泊松分布", "数学期望", "两难"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-1"],
+      "concept_key": "期望值只是平均值",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "泊松分布例证（E3并入）：100栋房1%概率，年烧1栋概率约34%正常赔付、2栋以上约30%赔不出、0栋约36%有利润；多收保费会遭房主诉讼"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-03",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "当下和未来本身并不矛盾：真正二元对立很少，把不需要对立的事情对立起来是大问题",
+      "quote": "把不需要对立的事情对立起来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10066,
+        "end_line": 10066,
+        "sha1": "8a3801d0916bbd3e79aa63e42aae83a47ee1f4e5",
+        "fingerprint": ["二元对立", "当下", "未来"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D02-3"],
+      "concept_key": "勿把不需对立的事对立",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：1万块现在花得好就是投资；对当下有好处的事大概率对未来也有好处（10068）展开见04卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-04",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "过好当下的生活就是对将来好；现在的生活过不好，规划出来的未来也没有理由好",
+      "quote": "过好当下的生活就是对将来好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10070,
+        "end_line": 10070,
+        "sha1": "5e939c8ae27b0f18d0daa5f8c2def0d56c2ad728",
+        "fingerprint": ["当下", "将来", "规划"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "过好当下就是对将来好",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "03卡的应用层结论；跨书线索：与来信1《不选择的幸福》、格局《要思考，就需要慢下来》主题呼应"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-05",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "未来属于今天做好准备的人：事事做得比同龄人好就够了，剩下的交给命运",
+      "quote": "剩下来的就交给命运了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10072,
+        "end_line": 10072,
+        "sha1": "cfd1f61d5ff0f9da80588c25234f9c50d31dc7cd",
+        "fingerprint": ["过分担心", "做好准备", "命运"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D02-4"],
+      "concept_key": "做好准备剩下交给命运",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "命运观：过分担心未来是通病；跨书线索：与格局《尽人事，仍需听天命》同型判断"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-06",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "时间是对于宇宙变化因果关系的记录，前一状态是后一状态的因，状态改变有前后",
+      "quote": "宇宙变化因果关系的记录",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10088,
+        "end_line": 10088,
+        "sha1": "a56c1702f41dcc74cfaecc2b71a5e6a8266cf270",
+        "fingerprint": ["因果关系", "状态", "记录"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-4", "D04-1"],
+      "concept_key": "时间是因果关系的记录",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "吴军对超图/因果图理论的取用式总结；学说史转述部分（牛顿绝对时间、莱布尼茨康德相对时间、超图理论）记X4"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-07",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "很难判断行业是适度泡沫还是过度投机，人普遍过高估计自己的能力，预测是徒劳",
+      "quote": "过高估计自己的能力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10098,
+        "end_line": 10098,
+        "sha1": "3c86547e39b8c562c116596c517e154266a955f2",
+        "fingerprint": ["水晶球", "徒劳", "泡沫"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D03-2"],
+      "concept_key": "泡沫适度与否难判断",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "若真有简单办法区分适度与过度泡沫，就不会一次次泡沫破裂；与09卡应对法互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-08",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "泡沫绝大部分时候比人们想象得更大、持续更久，想很早退出往往会退出过早",
+      "quote": "泡沫都会比想象得大",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10100,
+        "end_line": 10100,
+        "sha1": "16d3c046b8021c94bae8abd9524caaef06ca86f9",
+        "fingerprint": ["泡沫", "比特币", "退出"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2"],
+      "concept_key": "泡沫比想象更大更久",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "史例（并入）：90年代日本房市泡沫超期再涨近一倍；比特币2024年底破10万美元/枚；投行25万美元预测为时效言论不入卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0127-09",
+      "unit_id": "WJ2-U0127",
+      "speaker": "吴军本人",
+      "claim_text": "聪明投资人不预测泡沫区间，只按比例配置资金，使大涨不落空、归零损失可控",
+      "quote": "聪明的投资人不会去预测",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10102,
+        "end_line": 10102,
+        "sha1": "3805c3c7edaf65c7acfa25deb1862ddf3120f5df",
+        "fingerprint": ["投机", "分配资金", "损失可控"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-2", "D03-2"],
+      "concept_key": "控制比例不预测泡沫",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "前提（同句）：行业的投机不参与不行，过度参与有风险；应对07卡的不可判断性"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0127", "disposal": "X", "x_subtype": "X7", "reason": "读者提问原文（FREE便签、钱海江、吃货牙医、咚咚锵及其长留言）为读者来信原文，吴军回应已单独成卡，读者发言不进卡"},
+    {"unit_id": "WJ2-U0127", "disposal": "X", "x_subtype": "X2", "reason": "加州山火保险现状（保费约涨一倍、小型险企退出、政府诉讼、高风险社区无保单）依附2024-25时点，记时事排除"},
+    {"unit_id": "WJ2-U0127", "disposal": "X", "x_subtype": "X4", "reason": "时间观念学说史转述（伽利略牛顿绝对时间、莱布尼茨康德相对时间、超图因果图理论科普）属思想史科普，仅留吴军要点总结成卡06"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答四题中吴军回应含9条可独立成立判断（统计模型边界、当下未来关系、命运观、时间本质、泡沫应对）成卡，读者原文与学说史及时事分别记X7/X4/X2"
+}

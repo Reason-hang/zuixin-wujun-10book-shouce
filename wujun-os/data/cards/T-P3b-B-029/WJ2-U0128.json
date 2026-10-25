@@ -1,0 +1,73 @@
+{
+  "unit_id": "WJ2-U0128",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0128-01",
+      "unit_id": "WJ2-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "韩国无论国家还是企业都有善于转型的基因，大财阀今日业务与初创时几乎完全不同",
+      "quote": "善于转型的基因",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10142,
+        "end_line": 10142,
+        "sha1": "e7d401d82caf2d809ba1adabe9066015c8ded102",
+        "fingerprint": ["转型", "财阀", "现代汽车"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "善于转型的基因",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "企业史方法论例外成卡；例证：LG前身乐喜生产面霜、三星前身贩水果干鱼、SK前身鲜京织物，经济腾飞期均成功转型"
+    },
+    {
+      "claim_id": "C-WJ2-U0128-02",
+      "unit_id": "WJ2-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "经济过度集中于少数财阀很危险：韩国前50大财阀占GDP的94%，势力渗入政治",
+      "quote": "就知道这其实很危险",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10158,
+        "end_line": 10158,
+        "sha1": "0758800f7aa8861b8163dbd39937eefc260baac2",
+        "fingerprint": ["财阀", "94%", "八爪鱼"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "经济命脉过度集中之险",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "国家案例支撑的集中度风险判断；财阀被称为\"八爪鱼事业\"并走到前台影响政治"
+    },
+    {
+      "claim_id": "C-WJ2-U0128-03",
+      "unit_id": "WJ2-U0128",
+      "speaker": "吴军本人",
+      "claim_text": "高速增长把问题暂时掩埋但不会消除，越积越多终会爆发，惯于增长者毫无准备",
+      "quote": "世界上没有什么事是理所当然的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10162,
+        "end_line": 10162,
+        "sha1": "7a29a9efe161d3af4a76f443b4c1b537a27f5313",
+        "fingerprint": ["理所当然", "高速增长", "掩埋"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2", "D01-1"],
+      "concept_key": "增长掩埋问题终将爆发",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "以1997金融危机前韩国社会心态为例；下一代把长期增长当理所当然，问题爆发时绝大多数人无准备"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0128", "disposal": "X", "x_subtype": "X4", "reason": "韩国国家与企业经济史叙述（汉江奇迹经过、朴正熙大棒加胡萝卜与五年计划、财阀发家史、1997危机经过与捐金）属纯史实叙述，按X4只抽方法论，已抽3张吴军可迁移判断"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "韩国经济史主体记X4，吴军三条可迁移判断（转型基因、集中度风险、增长掩埋问题）成卡"
+}

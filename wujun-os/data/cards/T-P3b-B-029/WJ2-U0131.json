@@ -1,0 +1,134 @@
+{
+  "unit_id": "WJ2-U0131",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0131-01",
+      "unit_id": "WJ2-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "人与人的关系要么靠情感维系要么靠利益维护；情感其实很脆弱，长年亲情会因小事破裂",
+      "quote": "情感其实很脆弱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10346,
+        "end_line": 10346,
+        "sha1": "8c1e5d42cf9d7fd869fda6e705deba0ffa19e775",
+        "fingerprint": ["情感", "利益", "破裂"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2"],
+      "concept_key": "情感维系脆弱性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证（10348并入）：两兄弟一发财后母亲要求其多尽义务，几十年亲情变淡无改善——情感远比想象脆弱"
+    },
+    {
+      "claim_id": "C-WJ2-U0131-02",
+      "unit_id": "WJ2-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "道德是社会的理想标准即天花板，把它当基本要求会带来不切实际的预期和困难",
+      "quote": "道德是社会的理想标准",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10350,
+        "end_line": 10350,
+        "sha1": "cfc7c65f9a8db00eeb95d2811068498c95a9f18d",
+        "fingerprint": ["天花板", "地板", "道德"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2", "D02-3"],
+      "concept_key": "道德是天花板不是地板",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "正因情感脆弱人们才倾向在道德上要求别人，而道德在现实面前也脆弱"
+    },
+    {
+      "claim_id": "C-WJ2-U0131-03",
+      "unit_id": "WJ2-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "迷恋权力权威者不认错是怕失去控制；打压下属与不肯放权都怕一松手下面作威作福",
+      "quote": "彻底失去了对孩子的控制",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10352,
+        "end_line": 10352,
+        "sha1": "2fea75aa3e331ad1754f92036d9a128097e9dbdb",
+        "fingerprint": ["权威", "认错", "控制"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2", "D06-3"],
+      "concept_key": "恋权者怕失控不认错",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：父母在单位谦卑却从不向孩子道歉、老板打压下属、官员不愿放权；延伸（10354并入）：认同丛林社会者不相信小国国民可能最幸福"
+    },
+    {
+      "claim_id": "C-WJ2-U0131-04",
+      "unit_id": "WJ2-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "世界本无阶层人上人之分，人人是独立自我；人性需解放、独立存在才有希望",
+      "quote": "作为一个独立的人存在",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10356,
+        "end_line": 10356,
+        "sha1": "99b1c3407be32e8028751a7ce052e80ce92225ed",
+        "fingerprint": ["阶层", "独立的自我", "希望"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-3", "D02-3"],
+      "concept_key": "人性解放独立自我",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "背景：阶层固化是不争事实；认清人性缺点弱点后出路掌握在自己手里（10358并入）"
+    },
+    {
+      "claim_id": "C-WJ2-U0131-05",
+      "unit_id": "WJ2-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "谨防有人利用人性中的贪婪和懒惰牟利：不劳而获神话与炒股期货教程多是骗局",
+      "quote": "利用人性中的贪婪和懒惰牟利",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10364,
+        "end_line": 10364,
+        "sha1": "63d62e602e672aa8344bc116faeaf5d978016f09",
+        "fingerprint": ["贪婪", "懒惰", "牟利"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D07-1"],
+      "concept_key": "防贪婪懒惰型骗局",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "三洞察之一；例证（10366并入）：为融资身家百万而创业、网上教炒股期货的骗术；应对=提高辨别能力不轻信"
+    },
+    {
+      "claim_id": "C-WJ2-U0131-06",
+      "unit_id": "WJ2-U0131",
+      "speaker": "吴军本人",
+      "claim_text": "情感有时经不起利益考验；涉及金钱要清醒，朋友交往原则是少做生意",
+      "quote": "情感有时会经不起利益的考验",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10368,
+        "end_line": 10370,
+        "sha1": "227bf5072709c0c3e01850eab646704f1ce170e4",
+        "fingerprint": ["利益", "生意", "送礼"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D07-2"],
+      "concept_key": "朋友少做生意原则",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "三洞察之二；骗子先从亲戚朋友下手因有情感包装；靠送礼维系的认可，利益一断感情即无；想靠利益培养感情是一厢情愿"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0131", "disposal": "X", "x_subtype": "X5", "reason": "孝道与听话教育部分（听话教育坑人、把听话当孝顺是道德绑架、现代父母因爱不图回报）及婚姻洞察（婚姻影响大于家庭、投资人看配偶、恋爱婚姻是重塑与资产重组）均属亲子/家庭/婚姻议题，按X5排除"},
+    {"unit_id": "WJ2-U0131", "disposal": "X", "x_subtype": "X7", "reason": "文末三条用户留言（艾菲尔上的铁塔梦、Keiko.璟、礼之贤士）为读者来信原文，吴军回复仅为致谢无实质判断，整段排除；留言中温尼科特\"假我\"、纪伯伦、泰戈尔引文随之排除"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "看清人性主题：情感脆弱、道德天花板、恋权心理、独立自我、防骗、朋友少做生意六条可迁移判断成卡，孝道听话教育与婚姻议题记X5、用户留言记X7"
+}

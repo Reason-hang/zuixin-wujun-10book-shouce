@@ -1,0 +1,194 @@
+{
+  "unit_id": "WJ2-U0132",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0132-01",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "很多被称为刚需的概念是被人为创造的，看似提高生活质量，本质可能成为束缚的枷锁",
+      "quote": "其实都是被人为创造出来的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10448,
+        "end_line": 10448,
+        "sha1": "502d705b8702180d5dfa3bab22f3ae627347c751",
+        "fingerprint": ["刚需", "枷锁", "人为"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D09-1"],
+      "concept_key": "人为制造的伪刚需",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "全信核心观点母卡：有房有车上名校应水到渠成而非精神压力；展开见03/04/05/07/08卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-02",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "真正的刚需只有基本生理需求，其余都是锦上添花；一穷二白时过简单生活也能过好人生",
+      "quote": "其实都是锦上添花而已",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10450,
+        "end_line": 10450,
+        "sha1": "e2df5995acc685dbf2acc6c2d8bdaf88b7968a0f",
+        "fingerprint": ["刚需", "锦上添花", "绑架"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3", "D09-1"],
+      "concept_key": "真刚需与锦上添花之辨",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "刚需定义卡：吃喝拉撒睡之外皆锦上添花；轻装上阵不被物质绑架（与10498结尾呼应）"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-03",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "房子在任何国家都不是刚需：房龄40-50年后大修成本会超过租金",
+      "quote": "在任何国家都不是",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10460,
+        "end_line": 10460,
+        "sha1": "0d191ded8e282e78191c6a56a6cd2108af2be46c",
+        "fingerprint": ["刚需", "维护成本", "火烈鸟"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1"],
+      "concept_key": "房子非刚需维护成本律",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证（E3并入）：中国住宅用地70年期限后维护成本或超新建；拉斯维加斯老酒店仅剩火烈鸟且淡季29美元；纽约老房租金低于维修房产税物业费之和"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-04",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "租售比不到3%时买房子不如租房子，房子不一定是刚需",
+      "quote": "买房子不如租房子",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10464,
+        "end_line": 10464,
+        "sha1": "4ad43088a3d9e1efaed211775dd24474dd6bbb7d",
+        "fingerprint": ["租售比", "租金", "投资"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1", "D09-2"],
+      "concept_key": "租售比3%购房决策线",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "北京四环1000万房产年持有成本35-36万vs朝阳公园月租3万等行情数字为2025时点例证（时效部分记X2），规则本身为可迁移算法"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-05",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "事业上升期刚有积蓄就掏空买车买房徒增债务压力，要避免成为新一代骆驼祥子",
+      "quote": "要避免成为新一代的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10474,
+        "end_line": 10474,
+        "sha1": "0943396b17f92d049eb8aa53c58e3fef38cbf52d",
+        "fingerprint": ["骆驼祥子", "债务", "房贷"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D09-1", "D02-4"],
+      "concept_key": "勿为伪刚需背重债",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "老舍《骆驼祥子》为文学例证（转述）；城里用车成本高、停车费将超打车费（10468）与轻易负担才买（10470）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-06",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "雇主最终看重解决实际问题的能力，华而不实的简历与兴趣爱好打动不了人",
+      "quote": "能解决实际问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10486,
+        "end_line": 10486,
+        "sha1": "cb1f2b9fb39e395d1acd807d507a28eaeff0c518",
+        "fingerprint": ["雇主", "简历", "兴趣爱好"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D06-1"],
+      "concept_key": "雇主看重解决问题",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：为上名校堆竞赛与文体的学生四年混日子，毕业找不到实习靠家长；普通校学生专注有用知识道路顺遂"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-07",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "不是真正出于自己喜爱的兴趣爱好通常做不好，不如把时间用在有用的知识上",
+      "quote": "不是真正出于自己喜爱的兴趣爱好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10488,
+        "end_line": 10488,
+        "sha1": "a482610f04091d2b89a24487c035f1bcf081fbfa",
+        "fingerprint": ["名校", "兴趣爱好", "刚需"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-2"],
+      "concept_key": "伪兴趣爱好做不好",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "为升学而生的兴趣爱好非刚需（上下文），判断本身为学习精力分配通则"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-08",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "虚名和荣誉不是刚需：付费摆拍堆头衔是虚假包装，不如把本职工作做好",
+      "quote": "虚假包装和营销手段",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10494,
+        "end_line": 10494,
+        "sha1": "cc996346a5bbb6a6f9c54acbee96ef06b22c5ca7",
+        "fingerprint": ["联合国", "摆拍", "本职工作"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-3"],
+      "concept_key": "虚名荣誉非刚需",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：名片印满头衔对折容纳；花几百美元进联合国拍照自称演讲"
+    },
+    {
+      "claim_id": "C-WJ2-U0132-09",
+      "unit_id": "WJ2-U0132",
+      "speaker": "吴军本人",
+      "claim_text": "负担重时轻装前行走得快；职位和荣誉是结果，不是成功的原因",
+      "quote": "那些都是结果，不是我成功的原因",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10496,
+        "end_line": 10496,
+        "sha1": "17cd746c42b4f300da5e39594bf9259a1a23de12",
+        "fingerprint": ["轻装", "负担", "荣誉"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D02-1", "D02-3"],
+      "concept_key": "荣誉是结果非原因",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "经历→判断：吴军自述买房买车比周围人晚、不刻意争取职位荣誉"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0132", "disposal": "X", "x_subtype": "X5", "reason": "上名校议题的升学部分（名校机会只是多一些不是保险箱、把上名校当刚需全家围着转、大学是知识来源与平台两功能、教育改变命运）属升学与教育制度判断，按X5排除"},
+    {"unit_id": "WJ2-U0132", "disposal": "X", "x_subtype": "X2", "reason": "北京四环房价10万/平米、朝阳公园月租3万、人口饱和后房产投资属性变弱等依附2025时点的行情判断记X2，仅租售比规则入卡04"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "伪刚需主题信：核心观点、刚需定义、房车债务、雇主判断、伪兴趣、虚名、荣誉结果论共9卡，升学部分记X5、行情数字记X2"
+}

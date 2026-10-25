@@ -1,0 +1,115 @@
+{
+  "unit_id": "WJ2-U0134",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0134-01",
+      "unit_id": "WJ2-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "要具备比较数量级的能力与态度：不止比出大小，还要比出差几个数量级",
+      "quote": "要能比较出数量级",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10596,
+        "end_line": 10596,
+        "sha1": "b896c67f177f30f58e27506d1d0600514cf11e43",
+        "fingerprint": ["数量级", "西瓜", "芝麻"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-2", "D04-2"],
+      "concept_key": "比较数量级的能力",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：西瓜与芝麻差约6个数量级（百万倍）；跨书线索：与谷歌《量级和职业发展》、《脉络》数量级论述呼应"
+    },
+    {
+      "claim_id": "C-WJ2-U0134-02",
+      "unit_id": "WJ2-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "不可量化事物的差异常被低估，导致不当类比、高估或低估人与事的作用而误判",
+      "quote": "它们的差异就常常被低估了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10598,
+        "end_line": 10598,
+        "sha1": "57a44a8c2e85b1885a62ecb4c7a5c16c121878f2",
+        "fingerprint": ["量化", "不当类比", "误判"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "不可量化差异被低估",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "例证：两项发明专利贡献可能差1000倍以上；乔布斯比爱迪生、马斯克比特斯拉的不当类比（时点评价部分记X2）"
+    },
+    {
+      "claim_id": "C-WJ2-U0134-03",
+      "unit_id": "WJ2-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "发明创造分数量级：千年级进步让人类受益千年万年，百年级进步影响小得多短得多",
+      "quote": "发明创造是分数量级的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10602,
+        "end_line": 10602,
+        "sha1": "f680864f305facb57ede61a16d0fecbed8c478c4",
+        "fingerprint": ["数量级", "千年", "文明史"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D10-1", "D01-2"],
+      "concept_key": "发明创造分数量级",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "出自《脉络》观点；判断发明前景的量级框架；了解千年级别人与事即懂几千年文明史主干"
+    },
+    {
+      "claim_id": "C-WJ2-U0134-04",
+      "unit_id": "WJ2-U0134",
+      "speaker": "吴军本人",
+      "claim_text": "评估影响力看对普通人的作用：所谓最强者（军事征服者）对普通人可能是灾难",
+      "quote": "对普通人来讲，可能是灾难",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10638,
+        "end_line": 10638,
+        "sha1": "a58c156e7f99dfb70b82c4b99ab3178487667a7e",
+        "fingerprint": ["最强者", "灾难", "普通人"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-2"],
+      "concept_key": "最强者或是灾难",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "对比三组人后的结论；征服者只摧毁不建设、影响不出百年（10634并入），亚历山大融合希腊化为例外"
+    },
+    {
+      "claim_id": "C-WJ2-U0134-05",
+      "unit_id": "WJ2-U0134",
+      "speaker": "转述·第三方",
+      "claim_text": "读书要由薄变厚再变薄；记住千年级别人与事，文明史就纲举目张",
+      "quote": "由薄变厚，再变薄",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10660,
+        "end_line": 10660,
+        "sha1": "e0237ff1fc84299a2ef89a1d23184418ca358444",
+        "fingerprint": ["读书", "文明史", "老师"]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": ["D02-2"],
+      "concept_key": "由薄变厚再变薄",
+      "ability_tags": ["学"],
+      "status": "已生成",
+      "notes": "被转述者：吴军中学老师（通则性说法）；吴军取用：以几个人名几件事把握几千年文明史即变薄过程"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0134", "disposal": "X", "x_subtype": "X6", "reason": "千年级别人物与事件叙述主体（哥白尼牛顿达尔文爱因斯坦、孔子佛陀亚里士多德耶稣穆罕默德、征服者组、工业革命文艺复兴宗教改革科学革命启蒙运动评述）属文明历史叙述，按X6只留数量级方法论与影响力判断4卡"},
+    {"unit_id": "WJ2-U0134", "disposal": "X", "x_subtype": "X8", "reason": "艺术家组赏析（达芬奇米开朗基罗莎士比亚贝多芬；贝多芬把音乐交还民众、2万人送葬与莫扎特葬礼对比）按艺术赏析记X8"},
+    {"unit_id": "WJ2-U0134", "disposal": "X", "x_subtype": "X2", "reason": "乔布斯与爱迪生、马斯克与特斯拉的量级比较含依附时点的评价（00后不知乔布斯、中国电动车与关税），记X2，仅不当类比机理并入卡02"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "文明史信：数量级比较能力、不可量化差异、发明分级、最强者判断、由薄变厚再变薄共5卡，文明史与艺术赏析及人物时评记X6/X8/X2"
+}

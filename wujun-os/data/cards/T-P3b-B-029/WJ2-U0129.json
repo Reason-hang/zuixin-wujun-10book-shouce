@@ -1,0 +1,74 @@
+{
+  "unit_id": "WJ2-U0129",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9R2",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0129-01",
+      "unit_id": "WJ2-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "亏空太大难以补救的大企业最好让它破产，不再有企业太大不能倒",
+      "quote": "最好的办法就是让它破产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10188,
+        "end_line": 10188,
+        "sha1": "88515a150eaaad1a6ca6ef67327235d040906fe9",
+        "fingerprint": ["八爪鱼", "破产", "大宇"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1", "D03-2"],
+      "concept_key": "破除太大不能倒",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "大宇案例（E3并入）：低息贷款无序扩张、靠贸易保护与补贴竞争，大而不强；金大中果断令其破产后上千家企业相继破产，财阀知无兜底"
+    },
+    {
+      "claim_id": "C-WJ2-U0129-02",
+      "unit_id": "WJ2-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "八爪鱼式什么都做的企业大而不强；各选一两项擅长业务专营，每项才够强有国际竞争力",
+      "quote": "值得一些中国的集团公司参考",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10196,
+        "end_line": 10196,
+        "sha1": "f46c1088fc0fbefec06460b5d6566e7f9f3d7bac",
+        "fingerprint": ["业务互换", "大而不强", "专营"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "业务互换聚焦主业",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军明示可迁移：大规模业务互换重组值得中国集团公司参考；现代集团解散重组为例"
+    },
+    {
+      "claim_id": "C-WJ2-U0129-03",
+      "unit_id": "WJ2-U0129",
+      "speaker": "吴军本人",
+      "claim_text": "当一种权力退出时，另一种权力就会进去填补真空",
+      "quote": "另一种权力就会进去填补真空",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10212,
+        "end_line": 10212,
+        "sha1": "1ff1d2269bdb0f82866cfb5b58d724f8cbf74690",
+        "fingerprint": ["权力", "真空", "财阀"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D08-1"],
+      "concept_key": "权力真空必被填补",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "韩国案例：强人政府消失后财阀填补权力真空直接参与政治；铁打的财富流水的政府"
+    }
+  ],
+  "x_disposals": [
+    {"unit_id": "WJ2-U0129", "disposal": "X", "x_subtype": "X4", "reason": "韩国金融危机应对史实叙述（金大中生平、IMF贷款条件、大宇破产经过、民营化与业务互换改革、外资进入与三年恢复数据）属史实叙述，按X4只抽方法论，已抽3卡"},
+    {"unit_id": "WJ2-U0129", "disposal": "X", "x_subtype": "X6", "reason": "韩国政治两极分化与总统单任制得失、财阀产值占GDP从52%回升82%、生育率0.72及\"第一个消失国家\"专家预测，属现状叙述与宏观预测，记X6"}
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "韩国改革开放史主体记X4/X6，吴军三条可迁移判断（太大不能倒、业务互换聚焦、权力真空）成卡"
+}
