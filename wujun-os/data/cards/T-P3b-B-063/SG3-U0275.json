@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG3-U0275",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "细节的失误会引发连锁灾难；面对这类情况应先选择放弃，以后再寻找机会",
+   "quote": "先选择放弃",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28879,
+    "end_line": 28879,
+    "fingerprint": [
+     "细节的失误",
+     "连锁的灾难"
+    ],
+    "sha1": "fc5eccc4bb6c9bb141701d6fc1d8429f2e8ab780"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "细节失误连锁灾难应放弃",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "事故主因是出发太晚，根源是更早时绳索没有准备够（28879）；量力而行、懂得后退的纪念碑警示见C-SG3-U0275-05；K2攀登难度与灾难过程见X4处置",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0275-01",
+   "unit_id": "SG3-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人们常赞扬坚持并获胜者，却忘了那样的胜利有时只是一种侥幸",
+   "quote": "胜利有时是一种侥幸",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28881,
+    "end_line": 28881,
+    "fingerprint": [
+     "侥幸",
+     "失败案例"
+    ],
+    "sha1": "ff40f7ec97e5c71ef7352272ff27fd8a8838bee5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "坚持获胜或为侥幸",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "同一场灾难中11人坚持登顶生还、另有7人采取同样行动却丧生（28881）；幸存者偏差式提醒，勿以幸存案例论证坚持必然获胜",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0275-02",
+   "unit_id": "SG3-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "复杂事件有太多不可控因素，成功不全凭本事还有运气成分，对此要有自知之明",
+   "quote": "还有运气的因素",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28883,
+    "end_line": 28885,
+    "fingerprint": [
+     "不确定因素",
+     "自知之明"
+    ],
+    "sha1": "2936b78b7840a5d42038758e56f76744b377a1b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D02-3"
+   ],
+   "concept_key": "复杂成功含运气成分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "雪崩滚石完全非人所能控制（28885）；夏尔巴谚语见C-SG3-U0275-04；划重点3（28897）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0275-03",
+   "unit_id": "SG3-U0275"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "夏尔巴人：当你登顶成功，不是你征服了山，而是山脉在等你",
+   "quote": "山脉在等你",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28885,
+    "end_line": 28885,
+    "fingerprint": [
+     "夏尔巴人",
+     "山脉在等你"
+    ],
+    "sha1": "53f08bf32785367d42d349574fb18c86f8308dda"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "夏尔巴登顶谚语",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=夏尔巴人（高山民族，常年为登山者担任向导与搬运工，28841）；吴军引以说明成功含运气、须有自知之明（28883-28885）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0275-04",
+   "unit_id": "SG3-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对困难要懂得量力而行，要明白在什么时候应该选择后退",
+   "quote": "量力而行",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28887,
+    "end_line": 28887,
+    "fingerprint": [
+     "量力而行",
+     "选择后退"
+    ],
+    "sha1": "6ee487ac6503b12c38627058b9725f98c4d00af5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D01-2"
+   ],
+   "concept_key": "量力而行懂得后退",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "K2山脚纪念碑对后来登山者的警示（28887）；与C-SG3-U0275-01止损判断互引",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0275-05",
+   "unit_id": "SG3-U0275"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0275",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "K2地理与攀登难度科普、2008乔戈里峰灾难全程叙述（绳索不足延误出发、曼迪奇与拜格坠落、瓶颈段冰砸断绳、11人罹难，28807-28873）及斯特朗事迹（28871-28873），登山史与灾难史实叙述无可迁移判断；教训与运气判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第228封信：细节失误连锁灾难应先放弃、坚持获胜或为侥幸、复杂成功含运气因素、夏尔巴登顶谚语（转述）、量力而行懂得后退；K2科普与2008灾难史实归X4"
+}

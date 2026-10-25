@@ -1,0 +1,188 @@
+{
+ "unit_id": "SG3-U0287",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯垂特菲尔德：'洗脑'在很大程度上是神话甚至阴谋论，世上没有能立竿见影改变心智的技术",
+   "quote": "神话",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29999,
+    "end_line": 29999,
+    "fingerprint": [
+     "斯垂特菲尔德",
+     "阴谋论"
+    ],
+    "sha1": "afb04681d531626c8f80a1a1ef5c4cacf74b4792"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "洗脑术是神话",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=多米尼克·斯垂特菲尔德（《洗脑术：思想控制的荒唐史》作者，29999）；吴军取用：把洗脑理解为逐渐影响心理与思想更符合现实（30001）；互联网与社交媒体助长其影响力（30001）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0287-01",
+   "unit_id": "SG3-U0287"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "洗脑者常强行制造焦虑，让没问题的人觉得自己有问题；避免受害要保护心理健康、不被焦虑感染",
+   "quote": "强行制造焦虑",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30013,
+    "end_line": 30015,
+    "fingerprint": [
+     "制造焦虑",
+     "心理健康"
+    ],
+    "sha1": "5613bf18732723e06ef995e1abf5f391e7fd3caf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-4"
+   ],
+   "concept_key": "警惕强行制造焦虑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "洗脑第一战术是抓住弱点（30007）；最易被洗脑的是生活不幸而又无助者（30011）；遭不幸应向亲友和专业人士求助、勿依赖网上来历不明的人（30015）；历史案例见X4处置",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0287-02",
+   "unit_id": "SG3-U0287"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "信息茧房把人精神隔离在小圈子里；避免被社交媒体左右要保持开放心态、找更高质量的信息渠道",
+   "quote": "信息茧房效应",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30027,
+    "end_line": 30033,
+    "fingerprint": [
+     "信息茧房",
+     "开放的心态"
+    ],
+    "sha1": "5e8ac2fc760ae794ef4be897ca7985c10feb2b39"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信息茧房与开放心态",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "推荐算法制造单一信息圈、留言者同质（30027）；牟利者一边制造焦虑一边兜售解药（30031）；结尾三条甄别要点：远离制造焦虑的信息源、多渠道正反获取、主动走出去而非靠算法（30067-30075）；保健品商挑拨老人与子女、传销隔离（30019-30025）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0287-03",
+   "unit_id": "SG3-U0287"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "被贬低一无是处却在精神上屈服于权力关系是职场精神控制；贬低会摧毁人的自尊与自立能力",
+   "quote": "贬低得一无是处",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30041,
+    "end_line": 30045,
+    "fingerprint": [
+     "精神上的打击",
+     "自尊心"
+    ],
+    "sha1": "a6185afbecc006f2a320275393bb6ea99064381b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D02-4"
+   ],
+   "concept_key": "精神控制摧毁自尊",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "洗脑第二战术是攻击自尊心（30037）；精神打击比肉体酷刑效果更好、斯德哥尔摩综合征案例见X4处置；家长贬低孩子部分按X5登记（见X处置），其'摧毁自尊与自立'的可迁移判断保留在本卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0287-04",
+   "unit_id": "SG3-U0287"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "赞同996的两个前提：出于个人自愿、有回报和补偿（加班费、期权或晋升机会）",
+   "quote": "要有回报和补偿",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30043,
+    "end_line": 30043,
+    "fingerprint": [
+     "996",
+     "自愿"
+    ],
+    "sha1": "b5b8e6fc704f0e5bc4f31a1f181279a170e07b80"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "996两前提",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "无偿奉献式996的惯用话术：离开公司你什么都不是、给你工作机会是恩赐（30043）；'在高速增长的中国怎么可能没有选择'（30045）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0287-05",
+   "unit_id": "SG3-U0287"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从众压力使人放弃独立思考；'带节奏'就是水军制造'局部的大多数'迫使少数人屈从",
+   "quote": "局部的大多数",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30055,
+    "end_line": 30059,
+    "fingerprint": [
+     "从众",
+     "带节奏"
+    ],
+    "sha1": "645ea68095291985fb6e94367a5fc9d9c2d3ea16"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "局部的大多数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "洗脑第三战术是恐吓必须与其他人保持一致（30049-30051）；选择题从众实验：多数人把正确答案改成大众错误答案（30053）；孤立个别人形成局部大多数、炮制几番后小圈子全体接受（30055）；总结三战术与防范（30063-30065）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0287-06",
+   "unit_id": "SG3-U0287"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0287",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "洗脑术历史与案例叙述：古埃及《死者之书》与通灵者邪教、汉武帝唐太宗晚年方士、尼古拉二世与拉斯普京、1973斯德哥尔摩银行劫案经过、战俘审讯策反与《日内瓦公约》、太太亲戚保健品鉴定例（30003-30039），史实与案例叙述；三战术机理判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0287",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "家长以贬低和'只能去事业单位找铁饭碗'方式洗脑孩子的行为分析（30045后半），亲子教育议题；其'摧毁自尊与自立能力'的可迁移判断已保留在C-SG3-U0287-04"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第238封信：洗脑术是神话（转述）、警惕强行制造焦虑、信息茧房与开放心态、精神控制摧毁自尊、996两前提、局部的大多数；洗脑史案例归X4、家长贬低式教育归X5"
+}

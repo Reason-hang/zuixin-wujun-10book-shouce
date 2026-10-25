@@ -1,0 +1,102 @@
+{
+ "unit_id": "SG3-U0276",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "靠自觉性坚持终身学习很难；外部压力撤销后只有少数人能自觉学习，他们十年后甩开同龄人",
+   "quote": "甩出同龄人几条街",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28933,
+    "end_line": 28935,
+    "fingerprint": [
+     "自觉性",
+     "终身学习"
+    ],
+    "sha1": "5de082c59ea91178813b0a1dd55a46252e6d9c85"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-1"
+   ],
+   "concept_key": "自觉学习难能可贵",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "小结同义表述：懂知识重要性者没有考试也会学习，竞争不激烈时更易把别人甩在后面（28963）；无考试岁月同学交白卷等实例见X5处置；划重点1（28969）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0276-01",
+   "unit_id": "SG3-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自我激励可以养成：先靠同伴压力督促，再被努力的师长影响塑造，终至无需外部监督",
+   "quote": "能够自我激励的人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28937,
+    "end_line": 28937,
+    "fingerprint": [
+     "同伴的压力",
+     "自我激励"
+    ],
+    "sha1": "082f9b3c5dbb9145cbeb1028677c37f43311e284"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-2"
+   ],
+   "concept_key": "自我激励的养成路径",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "吴军自述成长路径（28937）；年幼若彻底躺平则不堪设想（28937）；自觉学习之稀缺见C-SG3-U0276-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0276-02",
+   "unit_id": "SG3-U0276"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "师兄的父亲：但凡是人类需要的知识，你学了总会有用",
+   "quote": "你学了总会有用",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28949,
+    "end_line": 28949,
+    "fingerprint": [
+     "他的父亲",
+     "你学了总会有用"
+    ],
+    "sha1": "fe22d9858414e24defa55f2545b9dccbdee0e0c1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-1"
+   ],
+   "concept_key": "知识学了总有用",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=师兄的父亲（一位无权无势的医生，28949）；此话师兄记住一辈子并成为其自我驱动习惯的源头；'为什么学、读书的意义'按规则⑪归成长/三观",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0276-03",
+   "unit_id": "SG3-U0276"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0276",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "考试与教育制度论述：无考试年代同学交白卷降级退学、插队荒废与1977恢复高考、快乐学习下差距拉大、有见识家长督促孩子、80与90年代清华生源家庭构成对比、20世纪初美国名校生源、OECD作业时间数据与作业多少之争（28911-28955），属教育制度与升学议题；可迁移的自觉学习与自我激励判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第229封信：自觉终身学习难能可贵、自我激励的养成路径、师兄父亲知识学了总有用（转述）；考试与教育制度论述归X5"
+}

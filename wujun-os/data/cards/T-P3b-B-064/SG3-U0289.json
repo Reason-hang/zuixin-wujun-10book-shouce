@@ -1,0 +1,217 @@
+{
+ "unit_id": "SG3-U0289",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "夸奖肯定有好处，但一味夸产生不了长久正反馈，进步轨迹仍受限于能力",
+   "quote": "进步轨迹仍然受限于他的能力",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30225,
+    "end_line": 30231,
+    "fingerprint": [
+     "正反馈",
+     "受限于他的能力",
+     "上限"
+    ],
+    "sha1": "af7f86a4b114d840813bf4bc0701090f2c341307"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D02-1"
+   ],
+   "concept_key": "无限正反馈不成立",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "鼓励式教育下成为精英的仍是极少数，想象中的正反馈形成不了（30229）；职场上老板不断鼓励下属早晚会遇瓶颈，不具备素质者越培养越依赖（30231）；'不输在起跑线'罗森塔尔实验部分归X5（30233-30243）；划重点2（30317）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-01",
+   "unit_id": "SG3-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "表扬是为让对方坚持前进、不讨厌工作，而非让其自我感觉良好",
+   "quote": "让他自我感觉良好",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30249,
+    "end_line": 30251,
+    "fingerprint": [
+     "自信心爆棚",
+     "坚持前进",
+     "讨厌这份工作"
+    ],
+    "sha1": "3644d50cf02490a41db9596429b808955b0901a0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D05-2"
+   ],
+   "concept_key": "表扬目的论",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "夸比骂好，但夸奖孩子不为自信心爆棚、而为鼓励坚持前进（30249）；半途而废则前面发展再好也难有成就（30253）；一味骂孩子或动辄批评下属会使其放弃努力（30251）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-02",
+   "unit_id": "SG3-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当学生讨厌一科、员工觉得工作只是混口饭吃时，他的进步就终止了",
+   "quote": "进步就到头了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30255,
+    "end_line": 30259,
+    "fingerprint": [
+     "讨厌某个科目",
+     "混口饭吃"
+    ],
+    "sha1": "48f35a182ab1dec5d6e9d752a927edf8eaf2578f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D02-4"
+   ],
+   "concept_key": "厌情绪终止进步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "产生讨厌情绪时该学科进步到头，之后只为应付考试交差（30255-30257）；老板总否定贬低员工，员工就容易混日子，老板获得最不想要的结果（30259）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-03",
+   "unit_id": "SG3-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人的进步通过不断的反馈实现，得不到反馈就像布朗运动的粒子碰运气",
+   "quote": "做着不规则布朗运动的粒子",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30265,
+    "end_line": 30265,
+    "fingerprint": [
+     "不断的反馈",
+     "碰运气"
+    ],
+    "sha1": "9d241dcfd5a8665173c8a933a97f7e734b8be0a5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D06-3"
+   ],
+   "concept_key": "反馈驱动进步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "没有反馈：做对了不知道、可能不坚持，做错了糊里糊涂以为对、不会改正（30265）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-04",
+   "unit_id": "SG3-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "批评三目的：给予反馈、让对方看到真相、帮助人克服糟糕的一面",
+   "quote": "让对方看到真相",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30267,
+    "end_line": 30271,
+    "fingerprint": [
+     "批评的目的有三点",
+     "给予对方反馈",
+     "掩盖了真相"
+    ],
+    "sha1": "864d2d1208ea6eecc8b91c52d45d1a5d6b5be79c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-1"
+   ],
+   "concept_key": "批评三目的",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "一味褒奖的最大问题是掩盖真相、让人生活在梦里，欧美青年成年后有上当受骗感（30271）；孩子做错事应批评甚至惩罚以养成社会化品质（30273，亲子部分归X5）；批评不是对个人评价而是对事的反馈（30261-30263）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-05",
+   "unit_id": "SG3-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "比喻可助理解概念，但要准确掌握概念，比喻不严谨且常不合逻辑",
+   "quote": "比喻是不严谨的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30283,
+    "end_line": 30287,
+    "fingerprint": [
+     "准确地掌握一个概念",
+     "联想帮助人理解概念"
+    ],
+    "sha1": "36d6bcebee590bc4d6566a57f8e703b5c16103cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "比喻不严谨",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "MIT不主张课堂用比喻、不做取悦学生之事（30283）；辜鸿铭茶壶茶杯比喻被MIT华裔教授指为毫无逻辑——从'一个茶壶配四个茶杯'得不出娶四房太太的结论，大学课堂不是娱乐场所（30289，教授观点为转述不入主干）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-06",
+   "unit_id": "SG3-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "决定求知道路走多远的，是从精深知识体系获得快乐的能力",
+   "quote": "获得快乐的能力",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30309,
+    "end_line": 30309,
+    "fingerprint": [
+     "求知的道路上走多远",
+     "资源"
+    ],
+    "sha1": "f703fa9e305dd9a048fe87f24f8c72903fe6e5af"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-3"
+   ],
+   "concept_key": "求知快乐能力",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "资源到位环境良好、周围不断鼓励夸奖，做不到这一点也无法在求知道路走远（30309）；寓教于乐伪命题与名校学风论述归X5（30275-30305、30315-30319）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0289-07",
+   "unit_id": "SG3-U0289"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0289",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育与寓教于乐论述：'不输在起跑线'是另一种罗森塔尔实验、潜能被提早使用后劲不足（30233-30243）、无限正反馈是家长一厢情愿（30241）；家长夸骂与惩罚、过分宽容孩子成长走偏（30261-30273）；MIT/斯坦福教学风格、寓教于乐伪命题与大学教学神圣论的大学教育论述（30275-30305、30315-30319），均属教育与亲子议题；其中可迁移的表扬批评与反馈判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第240封信：罗森塔尔效应四看法提炼为表扬批评与反馈的职场判断7卡（D06-3/D05-2/D02-2）；亲子教育与寓教于乐论述归X5"
+}

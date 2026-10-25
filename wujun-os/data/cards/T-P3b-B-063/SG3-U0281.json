@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG3-U0281",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "补偿之外还需惩罚性赔偿：让过错方永远记住并警示他人；越有钱强势惩罚越重",
+   "quote": "越是有钱、越是强势",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29459,
+    "end_line": 29461,
+    "fingerprint": [
+     "惩罚性赔偿",
+     "强势"
+    ],
+    "sha1": "e04a8f6c2510643a8ccfe05f8066adf29ec52e0f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "惩罚性赔偿威慑逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "惩罚性赔偿的真正目的在于警示社会、改善有缺陷之处（29443）；赔偿含补偿性与惩罚性两部分（29457）；仅扯平式赔偿不够，强势方无损代价会继续伤害弱势者（29459）；属制度威慑机理，与D03-2风险代价视角最接近；案件案情见X4处置",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0281-01",
+   "unit_id": "SG3-U0281"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "西方人行事三特点：保持距离出于隐私与安全；把丑话说在前面；严守流程出意外属不可抗力责任轻",
+   "quote": "把丑话说在前面",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29487,
+    "end_line": 29497,
+    "fingerprint": [
+     "丑话说在前面",
+     "不可抗力"
+    ],
+    "sha1": "5c3be3df4dab94a323a61e5fa2de6b7736a132bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "西方行事三特点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "请客出事主人担责、不让孩子捎同学（29493）；春游要求健康证明与免责声明（29495）；学校严格校规同样是把丑话说在前面、防巨额索赔（29471-29473）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0281-02",
+   "unit_id": "SG3-U0281"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "觉得西方人人情冷漠实为防范意识强；很多习惯和习俗背后都有深层次的原因",
+   "quote": "深层次的原因",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29499,
+    "end_line": 29499,
+    "fingerprint": [
+     "人情冷漠",
+     "深层次的原因"
+    ],
+    "sha1": "fb409431207b8db8e17352257ace5a02842d580e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "习俗背后有深层原因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "并不代表内心排斥他人（29499）；划重点3（29515）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0281-03",
+   "unit_id": "SG3-U0281"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当每个人都需要担负自己的责任，就会更主动地防范风险，社会整体更稳定安全",
+   "quote": "防范各种风险",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29505,
+    "end_line": 29505,
+    "fingerprint": [
+     "担负自己的责任",
+     "稳定和安全"
+    ],
+    "sha1": "e4cf236a54185eb3611564977303ff3268db2ca5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "责任明晰促防范",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从讲感情到讲规矩、经济补偿普遍化是社会文明进步表现之一（29503）；熊孩子犯错家长担责使家长千叮咛万嘱咐（29483）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0281-04",
+   "unit_id": "SG3-U0281"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0281",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "案件案情叙述：1994麦当劳咖啡案经过与判罚金额变化（29435-29441）、约翰家狗咬小孩案的诉讼与仲裁分期偿付（29445-29449）、小学威胁邮件案与律师家长追责经过（29465-29477），纯案例叙述；赔偿机理与行事特点判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第233封信：惩罚性赔偿的威慑逻辑、西方行事三特点与风险防范、习俗背后有深层原因、责任明晰促社会防范；案件案情叙述归X4"
+}

@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG3-U0301",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "张纯如：语言是唯一能够保存灵魂本质的方式",
+   "quote": "保存灵魂本质的方式",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31511,
+    "end_line": 31511,
+    "fingerprint": [
+     "纪念公园",
+     "灵魂本质"
+    ],
+    "sha1": "2f45b6322d506d41edfc6f851f7483b78fad3011"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "语言保存灵魂",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=张纯如（作家，《南京大屠杀》作者），原文 Words are the only way to preserve the essence of the soul；吴军于信末分享此句（31511）；与'Power of One 一个人的力量'同刻于纪念公园（31501）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0301-01",
+   "unit_id": "SG3-U0301"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凭一己之力也能做成震惊世界的大事：张纯如以一个人的力量揭露南京大屠杀",
+   "quote": "凭一己之力做成了一件大事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31459,
+    "end_line": 31463,
+    "fingerprint": [
+     "一己之力",
+     "影响力"
+    ],
+    "sha1": "641867188b60a07c729d22901e949babf0b1b1b4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "一个人的力量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与本季开篇本·耶胡达、罗林森、李希霍芬并列为以一己之力推进世界文明发展者（31459）；纪念公园石碑镌'Power of One 一个人的力量'（31501）；《南京大屠杀》1997年出版轰动西方、改变西方人对中国抗日战争的看法（31473、31487）；写书起因：这么大的事竟无人知晓也无书讲述（31469）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0301-02",
+   "unit_id": "SG3-U0301"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0301",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "张纯如生平与《南京大屠杀》成书史实：家世与从计算机转新闻专业（31467-31471）、拉贝与魏特琳两位西方见证者的史料（31477-31483）、《华尔街日报》等书评与学界评价（31489-31491）、日本右翼骚扰与抑郁自杀经过、追思会（31495-31499）、纪念公园开幕（31461-31503），纯人物传记；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第250封信：张纯如人物传记归X4，仅'一个人的力量'与语言句成2卡，人物史信降档"
+}

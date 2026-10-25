@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG3-U0302",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人一辈子都被公认为是天才，才是真正的天才；年轻得一次奖不值得沾沾自喜",
+   "quote": "一辈子都被公认为是天才",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31545,
+    "end_line": 31545,
+    "fingerprint": [
+     "真正的天才",
+     "沾沾自喜"
+    ],
+    "sha1": "99285803ca7b79540c338960e6f81e62f6f15808"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "真天才标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一次获奖后默默无闻显然算不上（31545）；早年条件差不代表没天赋、或许只是功夫不够天赋未激发（31545）；录音时代专业评选名列前茅的三人：拉赫玛尼诺夫、鲁宾斯坦、霍洛维茨（31547）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-01",
+   "unit_id": "SG3-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把其他方面的特长发挥到极致、把所有细节做到完美，个别缺陷可以弥补",
+   "quote": "把所有细节都做到完美",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31559,
+    "end_line": 31559,
+    "fingerprint": [
+     "发挥到极致",
+     "缺陷"
+    ],
+    "sha1": "9654e541de5fdbf5cb090181becc1b8ca12225fa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "特长极致补缺陷",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "霍洛维茨手小是钢琴家巨大缺陷、拉赫玛尼诺夫手大故其曲子音符跳跃大（31555）；三大特长：绝对音感（440/441赫兹）、记忆力与肌肉记忆、独特演奏特色（31561-31575）；调音师随行、钢琴摆位一英寸一英寸调整（31567-31569）；划重点1（31613）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-02",
+   "unit_id": "SG3-U0302"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "霍洛维茨：对钢琴家来讲，一直保持练习、不断进步才是成功的关键",
+   "quote": "一直保持练习、不断进步",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31553,
+    "end_line": 31553,
+    "fingerprint": [
+     "比赛选拔",
+     "成功的关键"
+    ],
+    "sha1": "ce30375a785edb12076b383184bbe63f57065575"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "练习进步是关键",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=霍洛维茨；反对通过比赛选拔人才：会适得其反、不断淘汰被选出来的优秀人才（31553）；一步步走过来不背负暴得大名的压力、期望越高失望越大、一夜成名者尚未成熟就被公众抛弃（31551）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-03",
+   "unit_id": "SG3-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要真正把曲子弹好，先要读懂作曲家的心，再把作曲家的心灵表达出来",
+   "quote": "首先要读懂作曲家的心",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31581,
+    "end_line": 31587,
+    "fingerprint": [
+     "作曲家的思想",
+     "电子合成器"
+    ],
+    "sha1": "d5a9c3224058eb1a7f4da0b9ec911bc2309fd98a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-1"
+   ],
+   "concept_key": "读懂作曲家的心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "音符之下潜藏作曲家的思想、只按乐谱弹电子合成器也能做到（31583）；伯恩斯坦：霍洛维茨弹出乐谱中百分之百的音乐、我只弹出百分之七十（31581，转述）；同读《三国演义》有人讲得淋漓尽致、有人生硬复述（31587）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-04",
+   "unit_id": "SG3-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "音乐表演是再创作的过程，大师与普通演奏家的区别就在再创作水平",
+   "quote": "就在于再创作的水平",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31589,
+    "end_line": 31593,
+    "fingerprint": [
+     "再创作",
+     "罗贯中"
+    ],
+    "sha1": "cbaea56cce3982505b898c2b9fe39db17cf4698f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "表演即再创作",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "有人讲《三国演义》可能比原作者罗贯中还讲得好（31589）；拉赫玛尼诺夫听霍洛维茨演奏自己的作品后说不好意思再弹这部曲子（31595，转述）；《降b小调奏鸣曲》两版本经霍洛维茨反馈合二为一（31597）；划重点2（31615）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-05",
+   "unit_id": "SG3-U0302"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "霍洛维茨：对音乐家来说模仿很危险，要不断求新求变挖掘作品内涵",
+   "quote": "模仿是很危险的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31601,
+    "end_line": 31601,
+    "fingerprint": [
+     "求新求变",
+     "自己的风格"
+    ],
+    "sha1": "b470152655bc853f112bb3978f1b8c739aea21a1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D01-1"
+   ],
+   "concept_key": "模仿危险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=霍洛维茨；从不听自己的唱片、听到收音机放自己弹的曲子还评'有几个地方能改进'（31601）；每一次演奏都给观众带来不同的感受（31601）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-06",
+   "unit_id": "SG3-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对标准产品可以做逆向工程，但对艺术很难逆向还原",
+   "quote": "很难逆向还原",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31603,
+    "end_line": 31603,
+    "fingerprint": [
+     "标准产品",
+     "逆向工程"
+    ],
+    "sha1": "ba96a0d6a5d56e293ac519c36ed8a01e0e1ed424"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D10-1"
+   ],
+   "concept_key": "艺术难逆向",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "120位日本钢琴技师中场休息拍下霍洛维茨钢琴的每个细节欲反推制造（31603）；霍洛维茨每次弹法可能都不完全一样、观察一次演奏未必找到多少信息（31603）；划重点3（31617）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0302-07",
+   "unit_id": "SG3-U0302"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0302",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "霍洛维茨演出器材与交往史实：绝对音感440/441赫兹辨听与调音师佐证（31561-31567）、施坦威特制四部钢琴与琴键加轻、弱音踏板特别处理（31575）、拉赫玛尼诺夫合作与降b小调奏鸣曲版本合并轶事（31595-31597）、肖邦《英雄波兰舞曲》《军队波兰舞曲》作品推荐（31607），纯艺术家轶事；机理判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第251封信：霍洛维茨天才与再创作判断7卡（D02/D05/D07/D04/D10）；演出器材轶事归X4"
+}

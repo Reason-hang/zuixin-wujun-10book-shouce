@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG3-U0283",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "出身不平等先天锁定且世代难改，经济不平等主要后天形成、可经努力改变，故前者更可怕",
+   "quote": "但经济不平等是可以改变的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29667,
+    "end_line": 29669,
+    "fingerprint": [
+     "出身的不平等",
+     "后天形成"
+    ],
+    "sha1": "2efa51df5eb808f96cfaaf16653935655d302e28"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-3"
+   ],
+   "concept_key": "经济不平等优于出身不平等",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "属社会史观判断，柱归属存疑（最接近D01-2看待社会的尺度、D02-3命运可否改变），建议P4聚类复核；一代代改变不了命运的不平等最可怕（29679）；王徽之出身琅琊王氏不问政事仍居高位的典故（29673-29677）；与C-SG3-U0283-03互引",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0283-01",
+   "unit_id": "SG3-U0283"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在经济不平等的社会里人人（无论贫富）都需努力工作，社会因此更有活力",
+   "quote": "需要努力工作",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29689,
+    "end_line": 29693,
+    "fingerprint": [
+     "坐享其成",
+     "更有活力"
+    ],
+    "sha1": "15f577b98d3f8e0f655373cbaf6a5d35a3276a4f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "人人努力社会有活力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出身不平等社会里机会被贵族子弟把持、无人有动力努力、社会僵死（29689）；划重点2（29725）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0283-02",
+   "unit_id": "SG3-U0283"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何可以通过钱解决的问题都不是无解难题；最可怕的是花钱也解决不了的问题（如被设定好的命运）",
+   "quote": "花钱也解决不了的问题",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29717,
+    "end_line": 29717,
+    "fingerprint": [
+     "通过钱解决",
+     "命运"
+    ],
+    "sha1": "f0cfd6924c6d103bedbd87ebce6471ba5f7c44a6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "钱可解与不可解问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "题外话（29717）；大革命前的法国社会无法改变被设定的命运；与C-SG3-U0283-01互引",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0283-03",
+   "unit_id": "SG3-U0283"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从出身不平等到经济不平等再到才干不平等，不能因不平等仍存在就否认社会进步",
+   "quote": "否认社会的进步",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29711,
+    "end_line": 29711,
+    "fingerprint": [
+     "才干不平等",
+     "幻想"
+    ],
+    "sha1": "8343d159004e7946336532a72661aca9229e1eb8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "不平等迭代仍有进步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一夜抹平所有不平等是幻想、幻想解决不了真实的问题（29711）；二次分配与提供公平机会两种思路（29697-29705）；划重点3（29727）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0283-04",
+   "unit_id": "SG3-U0283"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0283",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "文明历史与制度史叙述：法国大革命前三等级制度、三级会议与革命成果、《法国民法典》三编内容与后世评价（29631-29661）、魏晋士族政治与王徽之典故（29671-29677）、各国二次分配与考试选才及精英统治的矛盾（29697-29709），历史叙述本体；进步史观与可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第235封信：经济不平等优于出身不平等、人人需努力社会才有活力、钱能解决的问题不是无解难题、不平等迭代中仍有进步；革命史与制度史归X6"
+}

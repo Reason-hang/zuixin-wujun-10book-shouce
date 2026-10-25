@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG3-U0294",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "永远不要把办不成事简单归结于'没有钱'",
+   "quote": "不要把办不成事简单归结于",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30827,
+    "end_line": 30827,
+    "fingerprint": [
+     "办不成事",
+     "没有钱"
+    ],
+    "sha1": "428287269982ba7d895a80a5ecd8bab0088da317"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "不归因没钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信核心一句话（30827，划重点3同）；'没有钱'很多时候只是借口和托词（30821）；韩国新加坡人均支出约为美国2/3但中小学生受教育水平分别领先美国3.2年和1.9年（30821）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0294-01",
+   "unit_id": "SG3-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人做成事情通常因为认真去做事，而不是因为有钱；微软谷歌特斯拉融资不高照样成大事",
+   "quote": "因为他认真去做事了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30823,
+    "end_line": 30823,
+    "fingerprint": [
+     "融资总金额",
+     "伟业"
+    ],
+    "sha1": "ed6b392de0f059edfc5e8bb58ea3728a31842318"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "成事靠做事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "以一己之力改变世界的人并没有多少资源更没有钱（30823）；微软、谷歌、eBay和特斯拉创业融资总额与同行相比都不算高（30823）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0294-02",
+   "unit_id": "SG3-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'没有钱万万不能'拿来当失败理由，不过是为做不成事情找借口",
+   "quote": "为自己做不成事情找借口",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30825,
+    "end_line": 30825,
+    "fingerprint": [
+     "万万不能",
+     "失败的理由"
+    ],
+    "sha1": "64bc6e30a52ee14c394692779b2d36cfd89473e6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-3"
+   ],
+   "concept_key": "借口心态",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "这句话拿来鼓励自己挣钱还好，失败时拿出来讲就是找借口（30825）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0294-03",
+   "unit_id": "SG3-U0294"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0294",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "美国公立中小学教育论述：经费与教师待遇数据（30775-30787）、办不好四因素——对老师搞大锅饭、政治正确风气影响教学、轻视理科、经费利用效率低（30793-30817）、白卷给50分与'不让一个孩子掉队'考核（30809-30811）、《绝命毒师》中产困境与教师子女免费就读（30765、30787），属教育制度议题；'办事不归因缺钱'的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第244封信：本信主体为美国公立教育论述归X5，仅'办不成事不归因缺钱'可迁移判断成3卡（D05-1），教育信降档"
+}

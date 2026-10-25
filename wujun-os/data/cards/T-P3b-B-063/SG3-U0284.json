@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG3-U0284",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资只秉承两个原则：看人是否值得信赖、看企业未来市场前景；创业者做什么与背景并不看重",
+   "quote": "看人是否值得信赖",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29757,
+    "end_line": 29759,
+    "fingerprint": [
+     "两个原则",
+     "值得信赖"
+    ],
+    "sha1": "2d4de1caf033e6f2dd08b6948fc445678ebd4742"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D07-2"
+   ],
+   "concept_key": "投资两原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "只投后期企业、数量不到10家、每家都能如数家珍（29759）；不赌赛道、只看创业者和项目内在价值（29763）；孙正义不预测赛道不挤赛道（29765）；赌赛道案例史见X4处置",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0284-01",
+   "unit_id": "SG3-U0284"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "赌赛道错在'赌'字：靠做生意、打工、顾问、基金都挣过钱，唯独不曾靠赌挣钱",
+   "quote": "唯独不曾靠赌挣钱",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29769,
+    "end_line": 29769,
+    "fingerprint": [
+     "小赌怡情",
+     "拉斯维加斯"
+    ],
+    "sha1": "9a7c65117094118a70e7a4d367bb7288507db20b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D02-3"
+   ],
+   "concept_key": "不靠赌挣钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'小赌怡情'在头脑里等同于'小偷小摸不算偷'（29769）；拉斯维加斯十多次、赌博花费不超20美元（29769）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0284-02",
+   "unit_id": "SG3-U0284"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "赌赛道违背控制论反馈原理：众人挤同一赛道令项目变贵，即便做成回报率也高不了",
+   "quote": "钱多人傻",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29771,
+    "end_line": 29773,
+    "fingerprint": [
+     "控制论",
+     "钱多人傻"
+    ],
+    "sha1": "ff6dd19b8bc84b495e969a24181870df062aa878"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-3"
+   ],
+   "concept_key": "赛道拥挤回报必低",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "反馈影响接下来的输入和输出（29771-29773）；懂一点控制论就知道不要挤赛道、通识学习主要为懂道理（29773）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0284-03",
+   "unit_id": "SG3-U0284"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多就不可能快，好就不可能省：同时代同等条件下再高明的人也做不到多快好省",
+   "quote": "多就不可能快",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29781,
+    "end_line": 29783,
+    "fingerprint": [
+     "多快好省",
+     "马儿不吃草"
+    ],
+    "sha1": "72865e23c631ffcae5ae551a6f8c116c0f1467ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "多快好省不可兼得",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "比较须在合理时空范围内有可对比性（29781，划重点2）；随意扩大对比范围如同与牛顿比知识、是句废话（29781）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0284-04",
+   "unit_id": "SG3-U0284"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用合理的价钱、成本或时间得到好结果，远胜过用便宜的价钱很快得到不满意的结果",
+   "quote": "合理的价钱",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29799,
+    "end_line": 29799,
+    "fingerprint": [
+     "不满意的结果"
+    ],
+    "sha1": "95f8684da9d47d1136d57c858fdaf48e52fcbcdb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "合理代价换好结果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被多快好省吸引的三类人：缺专业与经验、思维单一、自觉运气好能占便宜（29789-29793）；装修10万报价上当与盖房低价承包商拖过雨季的案例（29795-29797）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0284-05",
+   "unit_id": "SG3-U0284"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "语言会影响甚至塑造我们的思维；提升思维水平不妨定期把低质量的词语从词典中删去",
+   "quote": "语言会影响甚至塑造我们的思维",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29803,
+    "end_line": 29803,
+    "fingerprint": [
+     "语言",
+     "思维水平"
+    ],
+    "sha1": "d81f167751bddceb8397929546ce5bc10defb822"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "淘汰低质词语",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "删词小结（29803，划重点3）；删'赛道'与'多快好省'的缘由见C-SG3-U0284各卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0284-06",
+   "unit_id": "SG3-U0284"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0284",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "'赌赛道'一词的风投源起、IDG与红杉早年的投资环境（当时怎么投都挣钱）、2013年前在线视频/电商/团购三大赛道的投败结果（29747-29755），行业案例史实；投资原则与控制论判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第236封信：投资两原则、不靠赌挣钱、赛道拥挤回报必低（控制论）、多快好省不可兼得、合理代价换好结果、淘汰低质词语；赌赛道案例史归X4"
+}

@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG3-U0296",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只有尊重每个人的权利、包括富人的权利，人们才会有动力去奋斗",
+   "quote": "人们才会有动力去奋斗",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30985,
+    "end_line": 30985,
+    "fingerprint": [
+     "中产阶级",
+     "奋斗的动力"
+    ],
+    "sha1": "1e0b97eefc60370b3d90115f1ee2a24deaead5f3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D08-1"
+   ],
+   "concept_key": "尊重权利有动力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "个人失去奋斗动力，社会也就失去走向繁荣的驱动力（30985）；历史学家克劳德·费斯评柯立芝体现中产阶级的精神与希望（30985，史家评述不入主干）；划重点2（31029）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0296-01",
+   "unit_id": "SG3-U0296"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "柯立芝：随意剥夺一个人的财产，就相当于剥夺他的权利和自由",
+   "quote": "剥夺他的权利和自由",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30965,
+    "end_line": 30971,
+    "fingerprint": [
+     "个人财产",
+     "自由"
+    ],
+    "sha1": "dda209b6a7ebb513801c96c42bfa6c23ce157f51"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "财产权即自由",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尔文·柯立芝（美国第30任总统，古典自由主义）；美国人追求的自由建立在尊重个人财产的前提之上（30965）；20多年后纳粹剥夺公民财产、社会自由就此丧失的对照（30971）；保护有产者的理念造就大量中产阶级而非不平等（30997）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0296-02",
+   "unit_id": "SG3-U0296"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "柯立芝：政府不是保姆，职责不是供养所有人的生活；人仍需要自立",
+   "quote": "政府不是保姆",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30973,
+    "end_line": 30977,
+    "fingerprint": [
+     "弱者",
+     "自立"
+    ],
+    "sha1": "11bc106403b1fd9b9859546f38f8ea91b0911b8c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "政府非保姆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=柯立芝；政府的作用是照顾残障者等社会弱者、表彰杰出人士（30973）；弱者需要保护但不意味着打击强者（30975-30977）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0296-03",
+   "unit_id": "SG3-U0296"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "柯立芝：让每个人拥有平等的机会，穷人未来才可能变得富裕",
+   "quote": "穷人才有可能在未来变得富裕",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30979,
+    "end_line": 30983,
+    "fingerprint": [
+     "平等的机会",
+     "剥夺富人"
+    ],
+    "sha1": "0c0b9b8865a2fac4863b10a619d8154d0f031a55"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "平等机会致富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=柯立芝；若剥夺富人财富，穷人也会失去富裕的机会、人就没有动力追求富裕（30983）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0296-04",
+   "unit_id": "SG3-U0296"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会经济利益分配不可能完全平均，强行拉平像把不一样的树剪成一样高",
+   "quote": "违背了自然的属性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30987,
+    "end_line": 30989,
+    "fingerprint": [
+     "自由市场",
+     "树木剪成一样高"
+    ],
+    "sha1": "6f457482d9ede3a26ad3e69e72c475bfd8debaa2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-4"
+   ],
+   "concept_key": "反平均主义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "财富惠及多数人总有传递过程；知识同理，新知从前沿研究机构和大学向普通学校、中小学普及（30987）；不因大学知识密度高就废掉大学、把研究资料平均分给小学（30989）；柯立芝主张通过社会总财富的增加解决贫困问题而不是平均主义（30989）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0296-05",
+   "unit_id": "SG3-U0296"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "柯立芝：人无法制定法律，只能发现法律；立法是把有益的习惯提炼成法条",
+   "quote": "只能发现法律",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31005,
+    "end_line": 31005,
+    "fingerprint": [
+     "发现它们",
+     "闭门造车"
+    ],
+    "sha1": "62774aaba39b66641d0ff8b6cbe103be6178f221"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "发现法律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=柯立芝；社会存在有利于社会的习惯规则文化，立法机构职责是发现并提炼，而非凭主观闭门造车制定不合民情的僵硬法条（31005）；政治运动不能代替法律、法庭外审判（键盘侠）不符合法制原则（31007）；'广泛地坚定地深刻地相信人民'（31009）；与哈耶克自发秩序呼应（C-SG3-U0299-04）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0296-06",
+   "unit_id": "SG3-U0296"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0296",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "柯立芝生平与柯立芝繁荣经济史实：接任总统与1924大选（30953）、不恋权力不再竞选与传记描写（30955）、州长就职演说背景与工会运动（30959-30961）、工业生产总值失业率汽车电冰箱数据（30995-30997）、减税无赤字与政府债务减少（30999）、否决麦克纳利-豪根农田救济法案与农业现代化（31001）、大萧条归因辨析（31013），纯史实与经济数据；理念判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第246封信：柯立芝古典自由主义理念转述4卡（E2，D01-4）与吴军评述2卡（E1）；柯立芝生平与繁荣经济史实归X4"
+}

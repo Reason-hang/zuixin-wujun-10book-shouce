@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG3-U0297",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考试成绩好不等于独立思考；把学习当背书做题反而削弱独立思考能力",
+   "quote": "更不说明养成了独立思考的习惯",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31051,
+    "end_line": 31051,
+    "fingerprint": [
+     "背书做题",
+     "人云亦云"
+    ],
+    "sha1": "f919cb11d5450b20fb42ba6a6bfef26df1af8391"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "考试不等于思考",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人云亦云与考试成绩好坏没有必然联系；考试好最多说明会考试、学某些知识能力较强（31051）；书背得熟题做得熟、对书本以外不闻不问反而削弱独立思考（31051）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-01",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "独立思考能力通常在面对答案不明确的开放性问题时才会显现",
+   "quote": "独立思考能力",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31053,
+    "end_line": 31055,
+    "fingerprint": [
+     "举一反三",
+     "从来没有答案"
+    ],
+    "sha1": "9dc3237865baf430ae68b039dff04f0292dfad98"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "开放问题见思考",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "很多学霸能举一反三，但未必擅长收集材料做研究、面对从来没有答案的问题去寻找答案（31055）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-02",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "滥用'既要又要'：把不矛盾的事放对立面，面面俱到就没有重点",
+   "quote": "面面俱到就没有了重点",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31071,
+    "end_line": 31077,
+    "fingerprint": [
+     "对立面",
+     "正确的废话"
+    ],
+    "sha1": "cfa60a2f597917119389833fe6ef08511eca35c4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-1"
+   ],
+   "concept_key": "滥用既要又要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "把不可比的东西拿来比较、把不矛盾的事物放对立面是常犯的逻辑错误，如'既要学习好又要把身体锻炼好'（31073）；明天可能下雨也可能不下雨式的滴水不漏等于说废话（31075）；过去国内学术界此类文风基本被拒稿、近十年海外投稿已基本看不到（31077）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-03",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上的事都有一个度，超过限度好事变坏事，做事不要过度",
+   "quote": "好事就变坏事了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31079,
+    "end_line": 31079,
+    "fingerprint": [
+     "一个度",
+     "投资"
+    ],
+    "sha1": "e4a91bcdfa7e2076d17b1ea6c7006633b3ab18e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "凡事有度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投资追求回报过高则风险大、一次失败可能无法挽回，此时'既要追求回报又要控制风险'的思维适用于真矛盾（31079）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-04",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "矛盾双方在某一时间点总有相对重要的一面，不聚焦的人常一事无成",
+   "quote": "总有相对重要的一面",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31081,
+    "end_line": 31083,
+    "fingerprint": [
+     "既要勇于创新",
+     "一事无成"
+    ],
+    "sha1": "8569c0a1fe2ed0f0b553d523163a7b0bebedbff9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "抓主要矛盾",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "领导说'既要勇于创新也要注意谨慎'，第二句才是重点、在用谨慎限制创新（31081）；抱'既要又要'做事瞻前顾后患得患失，自觉无比正确却无实际结果；滴水不漏没意义，关键看能否完成事情（31083）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-05",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "开放性问题没把握一定要找老师问，否则连老师想考察什么都没搞懂",
+   "quote": "连解题的方向都搞错",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31091,
+    "end_line": 31097,
+    "fingerprint": [
+     "开放性的问题",
+     "没有标准答案"
+    ],
+    "sha1": "dd886b476c53e8464945dae65b0ac1ab284eb330"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D07-1"
+   ],
+   "concept_key": "开放题要问",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "美国学生遇到没标准答案的题真的会挨个请教老师（31091）；做助教经历：美国男孩坐办公室门口楼道做作业、做完求看有无大问题（31097）；同组伙伴追问答疑问老师未给满分的原因、中国留学生几乎从来不问、考完拿考卷争论一分半分（31099）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-06",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自己没有把握的事不妨多找人请教；在公司里问一下别人效率高得多",
+   "quote": "不要怕麻烦老师",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31101,
+    "end_line": 31105,
+    "fingerprint": [
+     "请教",
+     "效率"
+    ],
+    "sha1": "0d25dd9b886884200a2ded3cf432b62e3f1d987a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-2"
+   ],
+   "concept_key": "多找人请教",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "研究写论文总拿给同组同学看、请他们提建议帮改英语（31103）；中国人内向者多、怕麻烦人怕笑话，自己看书上网花半天未必有效果（31103）；公司里有人任务干不出来自己看资料加班、就是不愿开口问人（31105）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-07",
+   "unit_id": "SG3-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "找到合适参照系做对比不容易，不值得把心思放在这种事上",
+   "quote": "合适的参照系",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31063,
+    "end_line": 31063,
+    "fingerprint": [
+     "清北毕业生",
+     "参照系"
+    ],
+    "sha1": "eabae1c2487f8b6c6f13d47d7a38cfa1068947df"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "参照系不必强求",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清北本科最难、硕士最容易、博士居中，同为'清北毕业生'水平有差异（31063）；清北毕业生整体水平仍远高于其他大学、各行各业精英占比可证（31057）；吴建平院士不完全统计：清华计算机系本科毕业生在美国前50计算机系任教授人数全球约第八（31059，时点数据）；名校光环下表现不如人会格外显眼（31061）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0297-08",
+   "unit_id": "SG3-U0297"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0297",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文三则：北冥有鱼 人云亦云与后劲之问（31045-31047）、单细胞分裂 '既要又要还要'之问（31065-31067）、Mr.mystery 无标准答案练习题之问（31085-31087）；吴军的回应与评述已单独成卡并标说话人"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问46：独立思考、既要又要、多请教等思维判断8卡（D01-1/D03-1/D02）；读者来信原文归X7"
+}

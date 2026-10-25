@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG3-U0290",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自身条件顶层的人依然各有各的不幸，庄姜便是如此",
+   "quote": "却依然各有各的不幸",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30401,
+    "end_line": 30401,
+    "fingerprint": [
+     "自身条件非常好",
+     "不幸"
+    ],
+    "sha1": "dbaadc0112396b61699d989e08168b88e3be065d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "顶层条件未必幸福",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "庄姜家世显赫、才貌绝似天仙却中年丧夫丧子、孤苦无依（30395-30401）；幸福需要多少物质基础之问见C-SG3-U0290-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0290-01",
+   "unit_id": "SG3-U0290"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "幸福更多是自身的感受和行动，而不是由物质基础决定",
+   "quote": "幸福更多的是自身的感受和行动",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30405,
+    "end_line": 30405,
+    "fingerprint": [
+     "物质基础",
+     "人上人"
+    ],
+    "sha1": "c5dca8d7b3a088a86faa26a267d3954fe3a617b1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福是感受和行动",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有人觉得成为人上人才幸福、有人归咎物质条件不好，但庄姜班婕妤条件顶层仍未获幸福（30405）；划重点3（30471）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0290-02",
+   "unit_id": "SG3-U0290"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天普通人都比庄姜多一项权利：选择自己的命运",
+   "quote": "选择自己的命运",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30407,
+    "end_line": 30407,
+    "fingerprint": [
+     "王侯之女",
+     "选择自己的命运"
+    ],
+    "sha1": "b7025e0f2c81a074931a65f3bc8cca9900cec20b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "选择命运的权利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "庄姜作为王侯之女对婚姻没有选择，今天普通人多了一项选择命运的权利（30407）；究竟哪一方更幸福留与读者思考",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0290-03",
+   "unit_id": "SG3-U0290"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0290",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "庄姜生平与《诗经》赏析为纯史实：《卫风·硕人》描摹与文学史地位、朱熹考证庄姜为第一位女诗人（30333-30355）、先秦姓氏常识（30345-30351）、《柏舟》《绿衣》《燕燕》诗作解读与姚际恒/王士祯/朱熹评述（30359-30397）、州吁之乱与'大义灭亲'成语由来（30381-30387）、班婕妤对照与附诗五首全文（30403、30411-30463），纯史实与文学赏析无可迁移判断；小结幸福与命运判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第241封信：庄姜生平与诗经赏析归X4，仅小结幸福观与命运选择判断成3卡（D02-4/D02-3），纯史实信降档"
+}

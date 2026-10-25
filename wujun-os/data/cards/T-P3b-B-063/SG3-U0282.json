@@ -1,0 +1,102 @@
+{
+ "unit_id": "SG3-U0282",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要解决一个问题就要抓主要矛盾：道路吸热是城市热岛主因，解决它热岛效应可缓解一大半",
+   "quote": "抓主要矛盾",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29555,
+    "end_line": 29557,
+    "fingerprint": [
+     "主要矛盾",
+     "沥青"
+    ],
+    "sha1": "7f215339f879f476ca86714474b5d96efa1a1754"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "抓主要矛盾",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "城市40%街道+40%房屋+20%绿地、全世界95%道路为沥青（29557）；反光材料与涂层实验数据（波士顿降温1.7度、凤凰城2.1度，减排3%与6%，29559-29569）；屋顶涂白设想与朱棣文（29537-29539）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0282-01",
+   "unit_id": "SG3-U0282"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Nesterly把老人闲置房间匹配年轻人住房需求，一个方案同时应对住房与老龄化两大难题",
+   "quote": "同时应对两大社会问题",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29579,
+    "end_line": 29581,
+    "fingerprint": [
+     "空巢老人",
+     "Nesterly"
+    ],
+    "sha1": "5257ac442119ca16a49518505065a74b18b15b29"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "闲置资源匹配需求",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "专名案例+可迁移机理：为闲置资源与未被满足的需求牵线搭桥（29579）；获奖不因技术含量而因同时应对两大社会问题（29581）；大波士顿每晚超500万房间空置（29591）；日本与欧洲跨代共居先例（29593）；全世界住房足够多只是被浪费（29595-29599）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0282-02",
+   "unit_id": "SG3-U0282"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上的答案总是比问题多；遇到问题不可怕，可怕的是不正视问题、陷入悲观而放弃尝试",
+   "quote": "答案总是比问题多",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29603,
+    "end_line": 29603,
+    "fingerprint": [
+     "悲观",
+     "世纪难题"
+    ],
+    "sha1": "4c52db950ec233df6f2e183b47f338101d27e162"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-2"
+   ],
+   "concept_key": "答案比问题多",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军小结（29603，划重点3）；气候难题也有很多答案（29571）；只要经济可持续发展，根深蒂固的世纪难题也总能解决（29603）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0282-03",
+   "unit_id": "SG3-U0282"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0282",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "科技项目与案例细节叙述：全球变暖机理与屋顶涂白设想（29533-29539）、城市热岛效应成因（29541-29551）、MIT反光铺路材料实验过程与数据（29559-29569）、Nesterly运营细节与用户布莱达故事、日本荷兰等跨代共居政策（29583-29599），项目与政策案例叙述；抓主要矛盾与资源匹配机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第234封信：抓主要矛盾、Nesterly闲置资源匹配创新（E3）、答案比问题多；MIT实验与案例细节叙述归X4"
+}

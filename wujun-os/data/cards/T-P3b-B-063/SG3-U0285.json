@@ -1,0 +1,168 @@
+{
+ "unit_id": "SG3-U0285",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新人难免犯低级错误，多是'无知的错误'而非态度问题：学校把问题简化成一维，真实工作细节繁多",
+   "quote": "无知的错误",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29833,
+    "end_line": 29839,
+    "fingerprint": [
+     "无知的错误",
+     "一个维度"
+    ],
+    "sha1": "6390e434943d5bbd4bc46096d9c5322bfe1ab3ca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-2"
+   ],
+   "concept_key": "无知的错误",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "学校问题被简化得只剩一个维度、真实工作再简单也有很多细节（29839）；工业界常识如判断异常、记录关键状态，学校连老师都不做（29841）；好的单位有培训办法与导师制（29843）；'无知'无贬义（29841）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0285-01",
+   "unit_id": "SG3-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场新人宁可慢也要保证质量，让入职成为单位的正数而不是负数",
+   "quote": "宁可慢，也要保证质量",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29849,
+    "end_line": 29853,
+    "fingerprint": [
+     "负数",
+     "正数"
+    ],
+    "sha1": "32c4a0bac9c7f47f91a494ccccb5964c303c53d9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "宁可慢保质量",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "新员工低质量工作会让他人擦屁股、进度反而更慢（29849）；数学思维最基本要求是认识负数的存在（29849）；对领导的建议见C-SG3-U0285-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0285-02",
+   "unit_id": "SG3-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单纯指责新人于事无补；领导要做的是制定新人培养计划、建立对新人工作的把关制度",
+   "quote": "建立对新人工作的把关制度",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29855,
+    "end_line": 29855,
+    "fingerprint": [
+     "指责新人",
+     "把关制度"
+    ],
+    "sha1": "7eb9fa80f6864b244513ad4b32d8040a01ea531c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "新人培养把关制度",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "新人失误更多是缺乏做实际工作的常识（29855）；好单位明确导师职责、新员工半年内由导师与老板把关并分担责任（29847）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0285-03",
+   "unit_id": "SG3-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多次努力仍无法改变的人，需要真正能触动其神经的事或人出现，才可能真正完成改变",
+   "quote": "触动他们神经",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29869,
+    "end_line": 29871,
+    "fingerprint": [
+     "触动",
+     "戒烟"
+    ],
+    "sha1": "b610a53e185499ec50257e51644b55dc66a5e3cd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D07-1"
+   ],
+   "concept_key": "改变需要被触动",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "装睡的人永远叫不醒（29863）；没听懂装懂或认知不足、对相悖信息本能抵触（29865）；老师大病后戒烟、葛培理牧师劝小布什戒酒（29873）；'或许你不是他命中的贵人，也不用太在意'（29873）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0285-04",
+   "unit_id": "SG3-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "是否管闲事、提意见依三原则判断：看大环境、讲效果、看是否符合公益",
+   "quote": "凡事明哲保身",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29881,
+    "end_line": 29887,
+    "fingerprint": [
+     "明哲保身",
+     "公益"
+    ],
+    "sha1": "aca23d9ab3a5e0e149d338f97eaea32c19309105"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-3"
+   ],
+   "concept_key": "提意见三原则",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "领导如唐太宗可直讲、如崇祯就算了（29883）；明知无效何必提、对方生气也比没效果好（29885）；书面规定是提意见的武器（29887）；只是个人看法且与对方同等可行时少提（29889）；别人的错不影响大家与你的利益，可指出可不指出（29891）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0285-05",
+   "unit_id": "SG3-U0285"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0285",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：Sissy问编辑岗位出错与风险预判（29827-29829），无吴军评述部分"
+  },
+  {
+   "unit_id": "SG3-U0285",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：短腿爱德华问身边人不接受任何教育学习改变的心态（29857-29859），无吴军评述部分"
+  },
+  {
+   "unit_id": "SG3-U0285",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：shenjie miao问高情商者何时可以不理解他人甚至起冲突（29875-29877），无吴军评述部分"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问44：无知的错误、宁可慢保质量、新人培养把关制度、改变需要被触动、提意见三原则；三则读者来信原文归X7"
+}

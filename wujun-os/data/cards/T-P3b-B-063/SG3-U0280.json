@@ -1,0 +1,203 @@
+{
+ "unit_id": "SG3-U0280",
+ "book_code": "SG3",
+ "extractor": "EXT-SG19",
+ "batch_id": "T-P3b-B-063",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "以'孩子是否学坏'衡量'应否处罚'是诉诸不当理由的逻辑谬误；处罚与否都不构成学坏的原因",
+   "quote": "诉诸不当",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29329,
+    "end_line": 29333,
+    "fingerprint": [
+     "学坏",
+     "诉诸不当"
+    ],
+    "sha1": "7ebf7e0685f9283ba57a958f99560c4720e7e970"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "诉诸不当理由谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "四种情况枚举法：罚后全坏/罚后部分坏/不罚全坏/不罚部分改，绝对情形现实中不存在（29315-29327）；处罚的依据应是是否触犯规则，'被开除很可怜'属片面辩护谬误（29335）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-01",
+   "unit_id": "SG3-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "联合概率恰等于两事件概率之积说明二者独立无相关；不能因两事同现就认定相关或因果",
+   "quote": "彼此独立的，没有相关性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29357,
+    "end_line": 29357,
+    "fingerprint": [
+     "彼此独立",
+     "没有相关性"
+    ],
+    "sha1": "5b8b6d00ab4775b117f505e01d1726f2f1f9f002"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "联合概率判相关",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Pab大于Pa×Pb为正相关、小于为负相关、等于0为互斥（29361-29369）；Pa=0.5、Pb=0.3时Pab=0.15恰为独立（29357）；现实最难的是获得准确统计数据（29377）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-02",
+   "unit_id": "SG3-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能因两件事在同一个人身上先后发生就认定有相关性，更不能认定有因果关系——常见误区",
+   "quote": "经常陷入的误区",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29371,
+    "end_line": 29375,
+    "fingerprint": [
+     "相关性",
+     "误区"
+    ],
+    "sha1": "d10cd1f16c58b81d6d0eaaac0c504424a7e98f61"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "同现非相关非因果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点1（29411）；概率判据见C-SG3-U0280-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-03",
+   "unit_id": "SG3-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讲逻辑不是强行联系因果，而是识别假的因果关系、找到真正联系，并对巧合给出合理解释",
+   "quote": "识别出假的因果关系",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29385,
+    "end_line": 29385,
+    "fingerprint": [
+     "强行联系",
+     "巧合"
+    ],
+    "sha1": "0966236f5239a930f4600ab41228940488778856"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "讲逻辑识别假因果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点2（29413）；看到同时发生就当有相关也不是讲逻辑（29385）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-04",
+   "unit_id": "SG3-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思考不能片面：定罚不仅看对犯错学生的影响，更要看对受害学生的影响；有规矩不执行比没有规矩更糟糕",
+   "quote": "比没有规矩更糟糕",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29387,
+    "end_line": 29393,
+    "fingerprint": [
+     "片面的思维",
+     "有规矩不执行"
+    ],
+    "sha1": "14be1063243f6b67c0f39a0fe8ee79d5bfa99d73"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "不陷入片面思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "作弊不处理则作弊成风、为全校风气应严惩（29389）；规则初衷是保护易受伤害者（29393）；学校严罚也含避免官司的考量（29401）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-05",
+   "unit_id": "SG3-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场反性骚扰的倾向性处理有道理，否则强势一方会利用优势为自己谋利",
+   "quote": "倾向性的处理方式",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29395,
+    "end_line": 29399,
+    "fingerprint": [
+     "性骚扰",
+     "把办公室的门敞开"
+    ],
+    "sha1": "83fa9babc9b0390dcc2a7e4ce04c10a408ee0c15"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "制度倾向保护弱者",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "证据确凿时通常职级低一方获胜（29395）；无有力证据只能自认倒霉、令强势方更谨慎（29399）；严禁师生恋同理（29399）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-06",
+   "unit_id": "SG3-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能够长期实施的政策通常不会太坏——好处大于坏处才存续，即黑格尔'凡是现实的都是合乎理性的'之意",
+   "quote": "长期实施",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 29379,
+    "end_line": 29379,
+    "fingerprint": [
+     "黑格尔",
+     "长期实施"
+    ],
+    "sha1": "a4107ecbd5f65b0d14a083c4eac0397b87a41773"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "长期存续政策不太坏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对 新政策更需注意观察其带来的结果（29379）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0280-07",
+   "unit_id": "SG3-U0280"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第232封信：诉诸不当理由谬误、联合概率判相关、同现非因果、讲逻辑即识别假因果、忌片面思维、制度倾向保护弱者、长期实施的政策不太坏"
+}

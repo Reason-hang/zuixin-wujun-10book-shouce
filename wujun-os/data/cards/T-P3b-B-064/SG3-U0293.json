@@ -1,0 +1,157 @@
+{
+ "unit_id": "SG3-U0293",
+ "book_code": "SG3",
+ "extractor": "EXT-SG20",
+ "batch_id": "T-P3b-B-064",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用信托管理遗产有三好处：省税、按创立者意愿分配、防后代一次挥霍",
+   "quote": "防止后代中出了败家子",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30709,
+    "end_line": 30717,
+    "fingerprint": [
+     "遗产税",
+     "意愿",
+     "败家子"
+    ],
+    "sha1": "4ec61dc1d3b7351db1fb30aee84523eedae35db4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "信托三好处",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国遗产税约交一半、信托交一次税后子子孙孙不再交（30711）；财产完全按创立者意愿分配，盖蒂不喜欢二儿子故分钱特别少（30713）；家族信托=富豪后代安身立命最后一个保障（30717）；盖蒂子孙雇律师找文件漏洞肢解信托、付巨额遗产税所得税、失去最后保护伞（30721-30723）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0293-01",
+   "unit_id": "SG3-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "德不配财，财富反而会变成诅咒；声望地位来得太快太难承受",
+   "quote": "财富反而会变成诅咒",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30741,
+    "end_line": 30741,
+    "fingerprint": [
+     "德不配财",
+     "诅咒"
+    ],
+    "sha1": "55a4016a46e3940b2215a6dcc61b5c00d292a733"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "德不配财",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "年轻人一毕业加入新兴公司职级水涨船高但能力没跟上、团队大了常干砸事，早年运气反成诅咒（30741）；与'驾驭钱的能力要匹配'（C-SG3-U0292-02）、扫地僧武功德行相匹配（C-SG3-U0293-04）同构",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0293-02",
+   "unit_id": "SG3-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最安全也最容易获得幸福的发展方式：年龄、修养、能力、财富、地位同步上升",
+   "quote": "财富和地位同步上升",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30743,
+    "end_line": 30743,
+    "fingerprint": [
+     "最安全",
+     "同步上升"
+    ],
+    "sha1": "22b4c4f75666a2de2efbd29efc550e3b0cb3fc3f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D09-1"
+   ],
+   "concept_key": "同步上升",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "即使财富地位一夜暴涨，终究会因修养能力不足跌落云端（30743）；现实中遇到诱惑不妨想想盖蒂家族的故事自警（30743）；划重点3（30753）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0293-03",
+   "unit_id": "SG3-U0293"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "扫地僧：武功和德行的修行要相匹配，有武功而无德行，人就会出大问题",
+   "quote": "武功和德行的修行要相匹配",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30735,
+    "end_line": 30739,
+    "fingerprint": [
+     "相匹配",
+     "慈悲"
+    ],
+    "sha1": "66697b7126229829f5dedd7ff9a6a1801ec73c6f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "武功德行匹配",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=《天龙八部》扫地僧（金庸小说人物）；有强力而无慈悲人就会出大问题（30737-30739）；吴军评：金庸小说常有社会隐喻，武功修炼可化用到争名求利等许多事情上（30739）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0293-04",
+   "unit_id": "SG3-U0293"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "盖蒂（电影台词）：成为一个有钱人很容易，做一个有钱人却很难",
+   "quote": "做一个有钱人却很难",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 30729,
+    "end_line": 30729,
+    "fingerprint": [
+     "金钱世界",
+     "台词"
+    ],
+    "sha1": "6532ed06c032d7de2ffe71603123228e2688c4e4"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "有钱人易做难",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=盖蒂（2017年电影《金钱世界》All the Money in the World 中台词）；吴军评'发人深省'（30729）；范德比尔特、麦克林、亨特兄弟家族后人不到一代人财富大幅缩水（30731）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0293-05",
+   "unit_id": "SG3-U0293"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0293",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "盖蒂家族史实叙述：盖蒂发家史与沙特科威特中立区石油开采权（30675-30677）、孙子绑架案与抠门慷慨的两面（30679-30681）、艺术收藏与盖蒂博物馆基金会（30681-30693）、五个儿子的败落个案（30697-30703）、信托肢解与戈登百亿卖石油缩水至20亿（30721-30727），纯人物家族史；德不配财等机理判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第243封信：家族财富与德不配财判断5卡（D09-1/D02-3）含扫地僧、盖蒂台词两张转述卡；盖蒂家族史实归X4"
+}
