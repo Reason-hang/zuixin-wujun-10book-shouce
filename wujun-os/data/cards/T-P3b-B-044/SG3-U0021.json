@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG3-U0021",
+ "book_code": "SG3",
+ "extractor": "EXT-SG2R",
+ "batch_id": "T-P3b-B-044",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市不喜欢不确定性——结果悬而未决期（如计票周）波动加大",
+   "quote": "股市不喜欢不确定性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2387,
+    "end_line": 2387,
+    "fingerprint": [
+     "邮寄选票",
+     "波动"
+    ],
+    "sha1": "e7964d9ed788aa9fa05644611ac078c9fe3a275b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "股市厌恶不确定性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "特别加餐；2020大选计票周为例（时点背景2387）；稳定度：市场一般规律",
+   "claim_id": "C-SG3-U0021-01",
+   "unit_id": "SG3-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "睚眦必报完全是无用功——不迁怒他人要留后路，把同阵营者树成政敌就是做负功",
+   "quote": "睚眦必报是另一回事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2413,
+    "end_line": 2421,
+    "fingerprint": [
+     "迁怒",
+     "负功"
+    ],
+    "sha1": "3abf158db08fc41e9aad064a606e30ca7d27d9ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "不睚眦必报",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "特朗普-麦凯恩恩怨为例（2399-2411，时事留痕）；2020选举实为选民对特朗普的公决（2419，X2）；即便非政治人物也当引以为戒（2421）；划重点1（2465）",
+   "claim_id": "C-SG3-U0021-02",
+   "unit_id": "SG3-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何机构中领导都要当所有下属的领导而非只做支持者的领导——须争取反对者至少不激烈反对",
+   "quote": "当所有下属的领导",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2433,
+    "end_line": 2437,
+    "fingerprint": [
+     "支持者",
+     "反对者"
+    ],
+    "sha1": "e1c6ec24e7c5b2fdeee1b0c823f9e6646bb19a88"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "当所有人的领导",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "幕僚劝特朗普当全体美国人总统、未纳（2427）；里根曾赢49州（2429）；王安石司马光'又是一个拗相公'（范纯仁语，2431）；划重点3（2469）",
+   "claim_id": "C-SG3-U0021-03",
+   "unit_id": "SG3-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对已知风险要有足够防范措施与预案——防范不了显而易见风险的管理者不合格",
+   "quote": "要有防范的预案",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2447,
+    "end_line": 2449,
+    "fingerprint": [
+     "预案",
+     "显而易见的风险"
+    ],
+    "sha1": "dfe6dfe6d903a145a24b59e6189b2e973044bed8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "已知风险预案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "计票疑云判断作弊可能性极小（2445，X2留痕）；执政党被在野党耍了史上未闻（2447）；投资人须时刻看好自己资金的类比（2449）",
+   "claim_id": "C-SG3-U0021-04",
+   "unit_id": "SG3-U0021"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0021",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020美国大选民调、邮寄选票、各州计票、亚利桑那翻蓝、威斯康星密歇根选票曲线、麦凯恩恩怨等时事时点论断（2385-2445、2453）离开时点失效；领导力教训已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "特别加餐大选评论：时事本体归X2，抽出股市厌恶不确定性/不睚眦必报/当所有人的领导/已知风险预案四个可迁移领导力判断"
+}

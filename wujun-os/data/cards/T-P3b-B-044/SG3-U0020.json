@@ -1,0 +1,245 @@
+{
+ "unit_id": "SG3-U0020",
+ "book_code": "SG3",
+ "extractor": "EXT-SG2R",
+ "batch_id": "T-P3b-B-044",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "苏格兰启蒙以润物细无声方式从人的内心与人际关系变革社会，不反对教会与现有制度",
+   "quote": "润物细无声",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2297,
+    "end_line": 2303,
+    "fingerprint": [
+     "润物细无声",
+     "教会"
+    ],
+    "sha1": "cc770144719298bd2c9c5290ab2a9727e5de2e71"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "润物细无声变革",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者问02；答耶律达石问教科书缘由四因之一；法国启蒙是革命者砸烂旧世界的武器（2303）；其余三因=革命挂钩/本国中心/英雄史观（2295-2309）",
+   "claim_id": "C-SG3-U0020-01",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高层领导是领袖、任务是决策；中层是有管理任务的专业人士（技术专家），负责落地执行",
+   "quote": "他们的任务是决策",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2321,
+    "end_line": 2321,
+    "fingerprint": [
+     "领袖",
+     "技术专家"
+    ],
+    "sha1": "31893d54b51e08aa04862357ce76b41ca82b044d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "高中层分工",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "答Jftuhio；层级取决于如何定义组织：CEO/VP/总监/经理（2317）；集团公司与省市之相对性（2319）",
+   "claim_id": "C-SG3-U0020-02",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断产业有无前途：对比产业增速与整体经济增速，前者超过后者即有前途",
+   "quote": "如果前者超过后者，就有前途",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2335,
+    "end_line": 2335,
+    "fingerprint": [
+     "发展速度",
+     "消费电子"
+    ],
+    "sha1": "856199e2e63e19928c3a3fd85712bedc0988fa55"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "产业增速判前途",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答涂立文；三产占比规律=温饱后一产到顶、小康后二产到头（2333，宏观规律X6留痕）；消费电子增速不快于GDP、通信服务业超之（2335）",
+   "claim_id": "C-SG3-U0020-03",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知识传授易被在线教育取代、育人难以被取代——做良师益友指导成长的工作难被取代",
+   "quote": "成为学生的良师益友",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2345,
+    "end_line": 2345,
+    "fingerprint": [
+     "在线教育",
+     "传道解惑"
+    ],
+    "sha1": "998428e238cd035852e0ffcf7bd9700fa201f380"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "育人不可替代",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "答段亚楠；老师亦应通过在线教育学习同行教学经验（2343）；迁移：标准化知识传递易被工具替代",
+   "claim_id": "C-SG3-U0020-04",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "指数基金定投稳赚须两条件：时间足够长；所投市场有稳定经济增长与法律保障",
+   "quote": "时间要足够长",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2353,
+    "end_line": 2357,
+    "fingerprint": [
+     "定投",
+     "经济增长"
+    ],
+    "sha1": "9a87f20337e7354616895cd813659a3a4221bc3d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "定投两条件",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答流言；1929道指须至上世纪60年代解套（2355）；日本股市20年回报不佳例（2357）；美国按十年周期稳定增长（2359）",
+   "claim_id": "C-SG3-U0020-05",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人普遍对自己的能力过分乐观、对潜力估计不足——散户都认定能跑赢大盘故不用指数定投",
+   "quote": "对自己的能力过分乐观",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2363,
+    "end_line": 2363,
+    "fingerprint": [
+     "潜力",
+     "跑赢大盘"
+    ],
+    "sha1": "5f4dbfae833b99fb8a10a741e59077e661821d71"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "能力乐观偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "能力=今天做事的本事、潜力=未来能做的最大事（2363）",
+   "claim_id": "C-SG3-U0020-06",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "永远叫不醒装睡的人——对方已选择不听时不要试图说服；投资上认定自己干的人亦然",
+   "quote": "千万不要试图说服他们",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2365,
+    "end_line": 2365,
+    "fingerprint": [
+     "装睡的人",
+     "说理"
+    ],
+    "sha1": "25dd2abbf086fa1b98a1fde1313ec287585166c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "不说服装睡人",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "说不通不是他不聪明、也不是不明白道理（2365）；已选择自己做就会认定该选择（2365）",
+   "claim_id": "C-SG3-U0020-07",
+   "unit_id": "SG3-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能力与潜力之间隔三道关：知识储备、认知见识、做人态度——三关都过潜力才充分发挥",
+   "quote": "隔着三道关",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2367,
+    "end_line": 2367,
+    "fingerprint": [
+     "知识储备",
+     "见识",
+     "态度"
+    ],
+    "sha1": "c79db613d21d74b796d6b0d0fab2278d691b95e8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "潜力三道关",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "知识储备靠教育、认知见识跟良师益友不断提升、态度受幼年家长老师影响（2367）",
+   "claim_id": "C-SG3-U0020-08",
+   "unit_id": "SG3-U0020"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0020",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文五则（耶律达石 2289、Jftuhio 2311、涂立文 2323、段亚楠 2337、流言 2347）不入卡，吴军回应已按说话人抽取"
+  },
+  {
+   "unit_id": "SG3-U0020",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "第三产业占比随发达程度提高的宏观规律（2333）与1929道指、日本股市20年等市场史实表现（2355-2357）为例证留痕；产业前途判断逻辑已入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问02：润物细无声/高中层分工/产业增速判前途/育人不可替代/定投两条件/能力乐观偏差/装睡人/潜力三关；读者原文X7、宏观规律X6"
+}

@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG3-U0013",
+ "book_code": "SG3",
+ "extractor": "EXT-SG2R",
+ "batch_id": "T-P3b-B-044",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现金为王的成立条件：社会缺现金时现金才是王；市场不缺现金则现金买不来便宜货",
+   "quote": "如果市场上并不缺现金",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1597,
+    "end_line": 1597,
+    "fingerprint": [
+     "现金为王",
+     "大水漫灌"
+    ],
+    "sha1": "4c1e7ad7e52c4bdd4cfd328afa55df37c7d00acb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "现金为王条件",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第010封信；2020大水漫灌背景（1597）；守着现金为王者正受通胀贬值冲击（1603）",
+   "claim_id": "C-SG3-U0013-01",
+   "unit_id": "SG3-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从有限经验得到的结论可能不是真理，只是真相在特定维度的投影，须经讨论与更多经验验证",
+   "quote": "真相在一个特定维度的投影",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1607,
+    "end_line": 1607,
+    "fingerprint": [
+     "有限经验",
+     "投影"
+    ],
+    "sha1": "720d90838090626f31b4625ad3177398cc6d405d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "有限经验投影论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "柏拉图幻象之说（1607）；2008-2009亲历者经验有限难验真伪（1607）；划重点2重申（1661）",
+   "claim_id": "C-SG3-U0013-02",
+   "unit_id": "SG3-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断经验可信与否不能以大众行为为准——乌合之众的多数意见可能不如个人冷静判断可靠",
+   "quote": "越需要理性的判断",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1609,
+    "end_line": 1609,
+    "fingerprint": [
+     "乌合之众",
+     "危机"
+    ],
+    "sha1": "43a9b21fc063a69cd6cda2a6a3a706f51451391d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "多数意见不可靠",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "柏拉图等哲学家均反对民粹式民主（1609）；越是在危机时刻越需要理性的判断（1609）",
+   "claim_id": "C-SG3-U0013-03",
+   "unit_id": "SG3-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断事件对个人投资的影响三因素：财富是否受影响、往哪个方向变、变化幅度能否接受",
+   "quote": "至少要考虑三个因素",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1613,
+    "end_line": 1621,
+    "fingerprint": [
+     "三个因素",
+     "财富",
+     "幅度"
+    ],
+    "sha1": "8ddb17727aa37f7ddab9e8169096fb558e50d782"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "投资影响三因素",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "时点背景为2020疫情；三因素想清楚则做法自明（1621）；房产约占中国城市家庭资产八成（1625）",
+   "claim_id": "C-SG3-U0013-04",
+   "unit_id": "SG3-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "资产波动本身不危险，加了杠杆才危险——不加杠杆则市场大跌也无需恐慌",
+   "quote": "没有用杠杆，其实也不用担心",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1637,
+    "end_line": 1637,
+    "fingerprint": [
+     "杠杆",
+     "清盘"
+    ],
+    "sha1": "9bc71151930c06648e965ce973e188b8c027fa88"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "危险在杠杆",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三倍杠杆股指期权做空者一夜被清盘倒欠250万美元（1637）；呼应态度'一生永远不要碰的三条红线'",
+   "claim_id": "C-SG3-U0013-05",
+   "unit_id": "SG3-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大多数人无需操心抄底或落袋为安——定期做股债资产配置再平衡，或干脆不动",
+   "quote": "资产配置的再平衡",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1639,
+    "end_line": 1641,
+    "fingerprint": [
+     "再平衡",
+     "抄底"
+    ],
+    "sha1": "39afc529fc8ad9eac911a62cc6673499a787e60c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "股债再平衡",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "坚持再平衡者投资表现好于大盘（1639）；动荡中正确操作=不做事情或做再平衡（1641）",
+   "claim_id": "C-SG3-U0013-06",
+   "unit_id": "SG3-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "黄金救灾是战乱年代的经验已不适用——与其靠黄金救急不如让工作稳定可靠",
+   "quote": "适用的其实是战乱年代",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1649,
+    "end_line": 1653,
+    "fingerprint": [
+     "黄金",
+     "战乱年代",
+     "打赢战争"
+    ],
+    "sha1": "74bc6ae75e0eed53466f9cb2c37018d5923cf583"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "黄金避险过时",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "纸黄金动乱时取不出、须存实物黄金（1649）；二战犹太人藏金例（1651）；更靠谱的是打赢战争=让工作稳定可靠（1653）；划重点3（1663）",
+   "claim_id": "C-SG3-U0013-07",
+   "unit_id": "SG3-U0013"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0013",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020行情暴跌、议员抛股、三国救市规模、9年间黄金涨幅对比等依附时点的行情论断（1591-1603、1645-1647），离开时点即失效；可迁移判断逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第010封信：现金为王条件/有限经验投影/多数意见不可靠/三因素框架/杠杆风险/股债再平衡/黄金经验过时；行情时点论断归X2"
+}

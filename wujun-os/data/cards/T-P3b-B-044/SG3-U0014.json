@@ -1,0 +1,271 @@
+{
+ "unit_id": "SG3-U0014",
+ "book_code": "SG3",
+ "extractor": "EXT-SG2R",
+ "batch_id": "T-P3b-B-044",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "放弃追求标准答案的思维方式——凡事都有标准答案的工作毫无创新可能、只剩重复",
+   "quote": "放弃掉得到一个标准答案",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1685,
+    "end_line": 1689,
+    "fingerprint": [
+     "标准答案",
+     "创造力"
+    ],
+    "sha1": "da6484522420f6d9166caa5bc93af19e8dd8c31b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "放弃标准答案思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者问01；中学背标准答案可原谅、工作后仍如此则限制创造力（1685）；凡事有标准答案则只剩重复性工作（1687-1689）",
+   "claim_id": "C-SG3-U0014-01",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "理性主义（笛卡尔/斯宾诺莎/莱布尼茨）：纯粹理性的推理能够得到真知，逻辑先行",
+   "quote": "纯粹理性的推理能够得到真知",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1693,
+    "end_line": 1693,
+    "fingerprint": [
+     "理性主义",
+     "笛卡尔"
+    ],
+    "sha1": "cb82972d56224615f63d8da3370df56bb8bf6f74"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "理性主义真知观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：笛卡尔/斯宾诺莎/莱布尼茨；例：毕达哥拉斯勾股、伽利略落体、哈维血循环皆逻辑先行、后经实验验证（1693）",
+   "claim_id": "C-SG3-U0014-02",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "经验主义（休谟/洛克/贝克莱）：以经验求真知，能指出理性主义缺陷、自身亦有缺陷",
+   "quote": "经验主义能找到理性主义的缺陷",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1695,
+    "end_line": 1695,
+    "fingerprint": [
+     "休谟",
+     "经验主义"
+    ],
+    "sha1": "61e4d0bf8fba004cf4b7cf2c956a0c3d2586b72b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "经验主义真知观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：休谟/洛克/贝克莱；通识教育缺位致大众知其名不知其想（1695）",
+   "claim_id": "C-SG3-U0014-03",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与足够多且想法不同的人讨论，才能发现自己的看法如柏拉图岩洞中的人",
+   "quote": "有着不同想法的人讨论",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1697,
+    "end_line": 1699,
+    "fingerprint": [
+     "岩洞",
+     "讨论"
+    ],
+    "sha1": "da4ef9b8fc6dc54325c0593a60a349ac4c6ead51"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "讨论走出岩洞",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "只与一两人或同想法者讨论不算数（1697）；韩印越历史教科书之惊如岩洞中听外界（1699）",
+   "claim_id": "C-SG3-U0014-04",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讨论不是为证明自己正确，而是听到不同意见促使自己反过来再思考——争吵是好事",
+   "quote": "促使自己反过来再思考",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1703,
+    "end_line": 1707,
+    "fingerprint": [
+     "抬轿子",
+     "争吵"
+    ],
+    "sha1": "55d11b12fae41f2aa990eb9b493add24a9cc56a4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "讨论为听取异见",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "有人因观点争吵=世间另有截然相反观点、是好事（1705-1707）",
+   "claim_id": "C-SG3-U0014-05",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分时候真相只能无限逼近——追根溯源每一步更接近真相，宣称真理到此为止即宗教",
+   "quote": "真相只能无限逼近",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1709,
+    "end_line": 1717,
+    "fingerprint": [
+     "无限逼近",
+     "追根溯源"
+    ],
+    "sha1": "500f16e28064838c70014d75fb32e33dc89d833b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "真相无限逼近",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "分子→原子→原子核→质子中子→夸克层层追问（1711）；宇宙基本模型尚无人能解释（1713）；设上帝为原因的原因方可终止（1715）",
+   "claim_id": "C-SG3-U0014-06",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对真相了解到什么层次取决于要做什么——发射航天器牛顿力学够用、修复基因须到碱基对",
+   "quote": "牛顿力学就够用了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1719,
+    "end_line": 1721,
+    "fingerprint": [
+     "相对论",
+     "钻牛角尖"
+    ],
+    "sha1": "10ee716ac9efc29e9412075b9b38d13fa8b15702"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "够用的真相",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "解释色盲到基因层即可、修基因须了解到碱基对（1721）；发展科学还真需要某些人成为'杠精'（1721）",
+   "claim_id": "C-SG3-U0014-07",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "素材取舍五层集合逐级收敛：感兴趣→读者感兴趣→对读者有帮助→我能讲清楚→别人未谈或角度不同",
+   "quote": "保留对大家可能有帮助的内容",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1735,
+    "end_line": 1745,
+    "fingerprint": [
+     "集合",
+     "切入点"
+    ],
+    "sha1": "8bde30c0ba903e93269ccd3032ed23867a1356c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "素材五集合取舍",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "答慕霞飞问素材取舍五原则；信息论理论部分讲不清即放弃（1743）；热门话题只谈被忽略的侧面（1745）",
+   "claim_id": "C-SG3-U0014-08",
+   "unit_id": "SG3-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对真实世界毫无了解，所谓的岁月静好可能只是海市蜃楼——最怕梦在最脆弱时醒了",
+   "quote": "可能只不过是海市蜃楼",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1751,
+    "end_line": 1755,
+    "fingerprint": [
+     "醉生梦死",
+     "海市蜃楼"
+    ],
+    "sha1": "fe056dec522d42408d53d9d7ed7b152cdea1e53f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "岁月静好海市蜃楼",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "醉生梦死活一辈子也许不错、怕的是梦醒（1753）；小伙子姑娘比方（1753）；答明妹S",
+   "claim_id": "C-SG3-U0014-09",
+   "unit_id": "SG3-U0014"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0014",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文四则（幸福密钥/Calvin 1677、月光 1725、慕霞飞 1731、明妹S 1747）不入卡；吴军回应已按说话人抽取"
+  },
+  {
+   "unit_id": "SG3-U0014",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "夫妻因教养孩子争吵一问的答问（1725-1729）涉家庭亲密关系，整体不抽"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问01：标准答案思维/理性主义E2/经验主义E2/讨论走出岩洞/讨论目的/真相无限逼近/够用真相/素材五集合/海市蜃楼；读者原文X7、夫妻争执X5"
+}

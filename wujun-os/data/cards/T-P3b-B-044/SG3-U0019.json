@@ -1,0 +1,79 @@
+{
+ "unit_id": "SG3-U0019",
+ "book_code": "SG3",
+ "extractor": "EXT-SG2R",
+ "batch_id": "T-P3b-B-044",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "苏格兰与英格兰能联合在一起，不是靠感情也不是靠联姻，而是靠共同的利益",
+   "quote": "不是靠感情，也不是靠联姻",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2265,
+    "end_line": 2265,
+    "fingerprint": [
+     "共同的利益",
+     "联姻"
+    ],
+    "sha1": "d1de9462ad88ef55f0715d8a56bbaf25bbb98e35"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "联合靠共同利益",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "第015封信；彼此敌意却因利益通婚（2243）；英强则并、危则独的数百年分合（2243）；'苏格兰的价格'补偿合并（2263）",
+   "claim_id": "C-SG3-U0019-01",
+   "unit_id": "SG3-U0019"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "所谓现代社会：人们不因宗教或传统强制走到一起，而因共同利益与目标自然地联合",
+   "quote": "共同的目标自然地联合",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2267,
+    "end_line": 2267,
+    "fingerprint": [
+     "欧盟",
+     "宗教"
+    ],
+    "sha1": "627a933ed3bc44b6e2b750ca05662916b0e71900"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "现代社会联合逻辑",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "欧盟同理（2267）；要想理解欧洲就需理解这一点；划重点3（2277）",
+   "claim_id": "C-SG3-U0019-02",
+   "unit_id": "SG3-U0019"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0019",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "米字旗构成与圣安德鲁传说、凯尔特人与罗马/哈德良长城、麦克白原型、玛丽一世与詹姆斯六世、'苏格兰的价格'等纯史实（2179-2263）留痕"
+  },
+  {
+   "unit_id": "SG3-U0019",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "新书《数学之美》（第三版）得到独家上新之推广信息（2269）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第015封信通体为苏格兰英格兰关系史，仅'联合靠共同利益'与'现代社会联合逻辑'两个可迁移判断成卡（卡数低于4系内容性质所限，不凑卡）；史实X4、新书推广X1"
+}

@@ -1,0 +1,135 @@
+{
+ "unit_id": "SG3-U0016",
+ "book_code": "SG3",
+ "extractor": "EXT-SG2R",
+ "batch_id": "T-P3b-B-044",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "苏格兰启蒙能开展的重要原因之一是教育水平高且大学注重实用教育",
+   "quote": "教育水平很高",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1911,
+    "end_line": 1911,
+    "fingerprint": [
+     "实用教育",
+     "大学"
+    ],
+    "sha1": "0c7234d1594e946b066f1c065afce046163b314f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "实用教育土壤",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第012封信；四所大学vs英格兰两所（1911）；STEM与法医经实用课程、类洪堡体系（1913）；普及教育与职业教育（1915）；划重点1（1967）",
+   "claim_id": "C-SG3-U0016-01",
+   "unit_id": "SG3-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知识精英地位高、有社会责任感而非精致利己主义者；教育水平与经济长远相关",
+   "quote": "社会责任感也很强",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1917,
+    "end_line": 1917,
+    "fingerprint": [
+     "利己主义者",
+     "因果关系"
+    ],
+    "sha1": "8bf80e7f3dd2b3538ffe1b5ca7157c5439d7dc72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "知识精英担当",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "教育水平未必与经济直接因果、但长远有关联（1917）",
+   "claim_id": "C-SG3-U0016-02",
+   "unit_id": "SG3-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "苏格兰启蒙是理性运动——重视理性或许是人口稀少民族在文化商业科技上快速发展的原因",
+   "quote": "是一种理性运动",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1939,
+    "end_line": 1939,
+    "fingerprint": [
+     "理性运动",
+     "独立思考"
+    ],
+    "sha1": "6d276729ecc9f2cc3cafe245a6af96cfc97edc0a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "理性运动",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不仅解放思想（独立思考）还教化从善、建法律制度以改良社会（1939）",
+   "claim_id": "C-SG3-U0016-03",
+   "unit_id": "SG3-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何时候头脑之间的充分交流都是文化繁荣的前提——学会与沙龙功不可没",
+   "quote": "充分交流都是文化繁荣的前提",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1945,
+    "end_line": 1945,
+    "fingerprint": [
+     "学术交流",
+     "沙龙"
+    ],
+    "sha1": "03017553c3862edb656722b6445ed16dc09ffeab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "交流是繁荣前提",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "择优学会/扑克俱乐部/格拉斯哥诸学会（1943）；同期天主教国家主要社交是礼拜之对比（1945）；划重点3（1971）",
+   "claim_id": "C-SG3-U0016-04",
+   "unit_id": "SG3-U0016"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0016",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "1707合并法案与苏格兰英镑、地理'两高'与海岸线、宗教改革三支与WASP文化、学会名录等史实叙述（1889-1943）留痕"
+  },
+  {
+   "unit_id": "SG3-U0016",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "地理条件倒逼工商业（对标温州人/荷兰人，1907）属文明史观察；新教国家发展较好之因留待后信（1935）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第012封信：实用教育/知识精英/理性运动/交流繁荣前提四个可迁移判断；合并地理宗教等史实与文明史归X4/X6"
+}
