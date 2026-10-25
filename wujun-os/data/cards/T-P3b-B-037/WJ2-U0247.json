@@ -1,0 +1,128 @@
+{
+ "unit_id": "WJ2-U0247",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "夕阳行业放弃幻想：李嘉图定律只适用地点类稀缺，技术类顶尖也会被淘汰；大势已成追加投入越陷越深",
+   "quote": "彻底放弃幻想吧",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19913,
+    "end_line": 19921,
+    "sha1": "a23471d6dedd6d0fe9e7a7374140336158b9db2b",
+    "fingerprint": [
+     "幻想",
+     "磁带"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-2"
+   ],
+   "concept_key": "夕阳行业弃幻想",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "只要人类在就有人买房vs技术可被整体淘汰（19917）；TDK磁带专家、阿波罗后物理学家开出租、AT&T/贝尔实验室Top3被裁（19919-19921）；下跌股票找理由=否认现实、奇迹不会发生、温水煮青蛙（19923-19925）；刘强东选错专业果断自学计算机（19931）；答寻欢",
+   "claim_id": "C-WJ2-U0247-01",
+   "unit_id": "WJ2-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只招一个名额时，录用的通常不是最合适者：运气或背景起作用——衰退行业的机会不可赌",
+   "quote": "有资源的人，就要开始利用资源了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19927,
+    "end_line": 19927,
+    "sha1": "8ebcc87afcbdc90785df316fcddbbefcf6fcbf34",
+    "fingerprint": [
+     "名额",
+     "背景"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "单名额招聘定律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "招100人基本按水平、招1人则看运气背景；顶级博士薪酬可能不如热门行业本科生（19929）——做不到心甘情愿就别走到那境地",
+   "claim_id": "C-WJ2-U0247-02",
+   "unit_id": "WJ2-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "决策先定目标函数（效果/费用/性价比），再排除无关因素；'不差钱'与'心疼钱'的矛盾才是纠结之源",
+   "quote": "我们的目标函数是什么",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19941,
+    "end_line": 19949,
+    "sha1": "570318260064cb3b2152aef25adf464b1537dfcf",
+    "fingerprint": [
+     "目标函数",
+     "浪费钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "目标函数决策法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "目标函数不同的建议不用听（二叔家技校路线）；硅谷老员工年付5万美元进哈克幼儿园、效果不到5%也不心疼=真不差钱（19953）；答AICat",
+   "claim_id": "C-WJ2-U0247-03",
+   "unit_id": "WJ2-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追求'不得罪人'一开始就错了：你比别人重要——得罪他若过得更好就宁可得罪（底线原则内）",
+   "quote": "你比其他人重要",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19969,
+    "end_line": 19973,
+    "sha1": "daf6508b488941a419f9c901537b73942bdfe4f1",
+    "fingerprint": [
+     "得罪",
+     "底线"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "你比别人重要",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "驾校第一原则：保全生命为要、该闯红灯就闯（19971）；第13封信互参；答银山君；学了不用则再多课也无提高（19975）",
+   "claim_id": "C-WJ2-U0247-04",
+   "unit_id": "WJ2-U0247"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0247",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'寻欢''AICat''银山君'三位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答40：夕阳行业弃幻想/单名额定律/目标函数决策/你比别人重要"
+}

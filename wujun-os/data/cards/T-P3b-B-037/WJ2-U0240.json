@@ -1,0 +1,150 @@
+{
+ "unit_id": "WJ2-U0240",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "西点军校不教制定战略：初级军官奢谈战略有害；总监级以下重在执行力，把事做到尽善尽美帮助最大",
+   "quote": "奢谈战略甚至有害无益",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19363,
+    "end_line": 19365,
+    "sha1": "4b148b2eff9a3be75820ef4c8169e7e7871ed3ea",
+    "fingerprint": [
+     "战略",
+     "执行力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D05-1"
+   ],
+   "concept_key": "不奢谈战略",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "西点16门核心课以数理人文工程为主、纯军事课仅10门（19361）；任正非开除上万言书谈战略的毕业生=尉官向战区司令谈战略",
+   "claim_id": "C-WJ2-U0240-01",
+   "unit_id": "WJ2-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "战略=目标+实现路径（重要的是路径）；愿景、目标、价值观都不是战略（施里芬计划/隋平南策为例）",
+   "quote": "有目标，有实现目标的路径",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19371,
+    "end_line": 19377,
+    "sha1": "b8dd23682fb20d2d809eb4bd62ee2294b3d3c97f",
+    "fingerprint": [
+     "战略",
+     "路径"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "战略即目标加路径",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "'最受尊敬公司'=愿景、'销售额10到50亿'=目标、'不作恶'=价值观（19371）；施里芬计划经曼施坦因修改后成功；隋先和南陈败突厥后南下",
+   "claim_id": "C-WJ2-U0240-02",
+   "unit_id": "WJ2-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "普通人目标明确、可选路径只有一两条（航线/登峰路/南极海峡）：走稳就好，无需奢谈战略",
+   "quote": "能选择的航线也就一两条",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19387,
+    "end_line": 19391,
+    "sha1": "8020798f9380e842e2a2e0c2fe477c3599ef3615",
+    "fingerprint": [
+     "珠峰",
+     "南极"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "路径有限无需战略",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "珠峰商业登山只有东南山脊一条路；南极飞机正点率30%、滞留者多花几十万——老实穿越德雷克海峡才是正路",
+   "claim_id": "C-WJ2-U0240-03",
+   "unit_id": "WJ2-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标清晰后做三件事：提升能力、判断位置（走错位要知变通）、提高境界看得远",
+   "quote": "提升能力，判断位置",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19397,
+    "end_line": 19397,
+    "sha1": "a0c74d423fbb5297382516fef2f8f33a88613208",
+    "fingerprint": [
+     "能力",
+     "位置"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "能力位置与境界",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "贵州山路七绕八绕才能到目的地（如平南策先稳北方）；施里芬失败=实际位置与设想完全不同（19405）；境界高=飞到天上穿林看路（19407）",
+   "claim_id": "C-WJ2-U0240-04",
+   "unit_id": "WJ2-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "个人也要有人生战略：明确目标想好路径；答应请求前先对比长期目标；战术勤奋掩盖战略懒惰=瞎忙",
+   "quote": "掩盖战略上的懒惰",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19417,
+    "end_line": 19417,
+    "sha1": "7e69b116a6d9c085a99ba8289daf4da35b75f8eb",
+    "fingerprint": [
+     "战略",
+     "战术"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D06-2"
+   ],
+   "concept_key": "个人战略与方向对比",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "先忙工作保生活也是战略（隋先败突厥同理19413）；没有战略就没有方向对比、稀里糊涂答应同事请求（19415）",
+   "claim_id": "C-WJ2-U0240-05",
+   "unit_id": "WJ2-U0240"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "普通人不要奢谈战略：不教之因/战略定义/路径有限/三件事/个人战略"
+}

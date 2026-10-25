@@ -1,0 +1,128 @@
+{
+ "unit_id": "WJ2-U0242",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对不断伤害自己的亲近者：要么认怂憋出病，要么下定决心切割——两全的好事不存在",
+   "quote": "这种好事在生活中不存在",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19499,
+    "end_line": 19499,
+    "sha1": "05b619e7093d3c9b1c1bddbc720eb554ebcb1d8e",
+    "fingerprint": [
+     "认怂",
+     "决心"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-4"
+   ],
+   "concept_key": "伤害者前必选一",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；对同事同学类伤害者永远不要理、删掉'万一呢'；下决心本身往往就能解局",
+   "claim_id": "C-WJ2-U0242-01",
+   "unit_id": "WJ2-U0242"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "你若不知道怎么选择，说明你已有了选择：纠结=已选了既定项，接受它或改变它（学姐老板）",
+   "quote": "说明你已经有了选择",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19507,
+    "end_line": 19507,
+    "sha1": "acc3ba6cbae583d2f282ad1257d6358dd579b4e0",
+    "fingerprint": [
+     "选择",
+     "苦水"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "纠结即已选",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=学姐的香港老板（第一句：苦水应倒给制造痛苦的人）；学姐忍婆媳=已选屈服；窦文涛抛硬币'这次不算再来一次'=心里早选了深圳（19513）",
+   "claim_id": "C-WJ2-U0242-02",
+   "unit_id": "WJ2-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "问'如何平衡'者其实已做出排序：纠结源于选择后的亏欠感；托育解决看护、解决不了孩子需要父母",
+   "quote": "其实她也已经做出了选择",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19523,
+    "end_line": 19523,
+    "sha1": "f949534f0d022322acedc0924cb5bfc8327ff8b2",
+    "fingerprint": [
+     "选择",
+     "第一位"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "平衡即已排序",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；工作放第一家庭放第二即其选择；梅耶尔带娃上班、诸葛越辞职全职带娃——不纠结者早有选择（19533-19535）；世界没多少事非某人不可、少20%收入过得下去（19525）；与孩子在一起是享受就不算占用时间（19529）",
+   "claim_id": "C-WJ2-U0242-03",
+   "unit_id": "WJ2-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选择三问：想成为什么样的人、生命中什么最重要、哪些看似重要其实可放弃",
+   "quote": "你想成为什么样的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19539,
+    "end_line": 19539,
+    "sha1": "487c23ea641cec368014bbfd6cbc82a68a02110a",
+    "fingerprint": [
+     "选择",
+     "放弃"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "选择三问",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与U0230'成为什么样的人'、U0226'命运即选择'同族互参",
+   "claim_id": "C-WJ2-U0242-04",
+   "unit_id": "WJ2-U0242"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0242",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'Diana J''张蓓蓓May'两位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "你其实已经做了选择：伤害者必选一/纠结即已选/平衡即已排序/选择三问"
+}

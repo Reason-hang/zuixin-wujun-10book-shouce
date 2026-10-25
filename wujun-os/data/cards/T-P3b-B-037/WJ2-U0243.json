@@ -1,0 +1,182 @@
+{
+ "unit_id": "WJ2-U0243",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同伴压力是最普遍的动力：做得比同伴好、还能给他讲懂——朴素但持久",
+   "quote": "最普遍存在的动力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19565,
+    "end_line": 19567,
+    "sha1": "b8318cabe52116b7274e2b6027542c0bf97653b4",
+    "fingerprint": [
+     "同伴压力",
+     "动力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "同伴压力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三年级上讲台讲连加法例（19569）；工作后有其他动力后同伴压力失效（19571）",
+   "claim_id": "C-WJ2-U0243-01",
+   "unit_id": "WJ2-U0243"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "早年动力之二是对当农民/失业的恐惧：为不下乡、有工作而认真读书",
+   "quote": "对当农民或者失业的恐惧",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19573,
+    "end_line": 19573,
+    "sha1": "d739e9b52cda657cb1f2b0600857624f6bb25cd5",
+    "fingerprint": [
+     "恐惧",
+     "动力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "失业恐惧驱动",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "恢复高考后'考上大学就不用下乡'；高一做高考题发现能上大学后此压力消失（19575）",
+   "claim_id": "C-WJ2-U0243-02",
+   "unit_id": "WJ2-U0243"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "动力随目标升级：校徽→出国→名师之门；登得越高、看到更好的风景，就越有动力更上一层楼",
+   "quote": "更上一层楼",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19581,
+    "end_line": 19585,
+    "sha1": "9a3484e4dfa6fc7c8f33bbaa6fc57232a56bb211",
+    "fingerprint": [
+     "校徽",
+     "目标"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "目标升级链",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "橙色校徽→出国→世界级名师的学生；野心会不断增大（19585）",
+   "claim_id": "C-WJ2-U0243-03",
+   "unit_id": "WJ2-U0243"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把目标定在自己领域的世界第一并找到路径：做到世界第一没有想象得那么难（词性标注例）",
+   "quote": "没有想象得那么难",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19591,
+    "end_line": 19591,
+    "sha1": "a68248519ca5fedbf598d0623e7e51937319ccd7",
+    "fingerprint": [
+     "世界第一",
+     "目标"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "世界第一不难",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "导师指出领先0.3%~0.5%的师弟、再好一点点即第一，几个月后真做到（19589）；与专业投资团队打擂台也办到（19593）；与U0224短目标滚动互参",
+   "claim_id": "C-WJ2-U0243-04",
+   "unit_id": "WJ2-U0243"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工业界的动力转向：与其抠最后0.1%不如做产品影响上亿人；培养年轻人做成事的影响力更大",
+   "quote": "要比最后的那0.1%更有意义",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19599,
+    "end_line": 19599,
+    "sha1": "d3561f5afc6d3f79360264a2914963bf547ab126",
+    "fingerprint": [
+     "产品",
+     "影响"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D10-1"
+   ],
+   "concept_key": "从完美到影响",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "老板给的思维方式：尽快做出产品、做到性价比平衡；后来从自己做变成支持年轻人做；写书写专栏同目的",
+   "claim_id": "C-WJ2-U0243-05",
+   "unit_id": "WJ2-U0243"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "各阶段目标不同动力不同：齐白石黄宾虹早年糊口后追艺术至境；年轻时务实目标+朴实动力即可",
+   "quote": "动力会不同",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19605,
+    "end_line": 19609,
+    "sha1": "58be24af0c07413be918a6d2c913798dd38579cb",
+    "fingerprint": [
+     "动力",
+     "目标"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "阶段动力论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "齐白石50岁见大收藏家而飞跃、黄宾虹80岁才成'黑密厚重'画风（19607）；不必把高大上目标挂嘴边——即使有也不会有相应动力",
+   "claim_id": "C-WJ2-U0243-06",
+   "unit_id": "WJ2-U0243"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0243",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'超'同学两段长留言（动力不足自述）为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "各阶段的动力：同伴压力/失业恐惧/目标升级/世界第一/影响他人/阶段论"
+}

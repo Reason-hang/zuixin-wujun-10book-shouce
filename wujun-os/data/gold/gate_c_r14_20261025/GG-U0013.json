@@ -1,0 +1,261 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD16",
+  "batch_id": "GATE-C-R14",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "做事章法可简化为三条边：基线、极限、连接路径；缺前两条是蛮干，缺第三条纸上谈兵",
+      "quote": "找不到前两条线，是蛮干、傻干",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1109,
+        "end_line": 1110,
+        "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb",
+        "fingerprint": [
+          "三条线",
+          "蛮干",
+          "纸上谈兵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "三条边总纲",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "Google新工程师培训方法论总纲；'工程目的是解决问题，有相对固定章法'并入本卡；三条边=基线、极限、连接路径"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "一切工作应建立在已有知识基线之上，起点低于基线的蛮干没有实际价值",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1077,
+        "sha1": "72626f65f57745235c90c946c1e61d737e201a45",
+        "fingerprint": [
+          "基线",
+          "民间发明家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "基线与提高基线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "民间发明家造小飞机为例证；1084-1086工作方法同民间发明家、散户投资从地下室三层做起亦并入本卡；提高基线见 C-GG-U0013-04"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "莱特兄弟先学透凯利空气动力学理论并做上千次风洞试验才上天，谨慎做足试验是成功关键",
+      "quote": "进行了上千次的风洞试验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1080,
+        "end_line": 1083,
+        "sha1": "aa45f5892ebe5c9a911495c14eab9bf44c5629f2",
+        "fingerprint": [
+          "莱特兄弟",
+          "风洞"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "莱特兄弟的方法",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（立足前人理论基线、做足试验再行动）；与莽撞上天的同行对比"
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "接受教育与持续培训的目的是提高基线；大学生退学创业不可取因基线太低",
+      "quote": "我不主张大学生退学创业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1087,
+        "end_line": 1087,
+        "sha1": "2e4ded58a2adf342ca5f3983f0b60deecb6b4fb4",
+        "fingerprint": [
+          "基线",
+          "退学创业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "教育提高基线",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "规则⑪'为什么学'归D02-1，兼基线原理之应用（D05-1辅）"
+    },
+    {
+      "claim_id": "C-GG-U0013-05",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "理论极限无法突破，专业人士与业余爱好者的差别在于是否了解极限的存在",
+      "quote": "是否了解极限的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1091,
+        "sha1": "16b1a58feeba9644b8f60d7aa2890cca2ec32032",
+        "fingerprint": [
+          "极限",
+          "卡诺定理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "理论极限无法突破",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "光速、绝对零度、能量守恒为例；卡诺定理限定蒸汽机效率上限60%多并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0013-06",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "光有基线和极限还不够，还须找到或编织连接两者的阶梯并沿它向上攀登",
+      "quote": "扶着向上攀登的绳索",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1098,
+        "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28",
+        "fingerprint": [
+          "绳索",
+          "阶梯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "连接基线与极限的路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "斜线下面粗上面细：近基础方法多、近目标须自探索，并入本卡；工程师的工作就是找或编织绳索"
+    },
+    {
+      "claim_id": "C-GG-U0013-07",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "鸟巢工程靠一整套勘察、设计、施工与研发管理方案，才把图纸变成现实",
+      "quote": "把鸟巢从图纸变成现实",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1094,
+        "end_line": 1097,
+        "sha1": "23dcd97357155e8c20b404f766576361f0fda527",
+        "fingerprint": [
+          "鸟巢",
+          "李久林"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "鸟巢的一整套方案",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例（总工李久林自述）+可迁移机理（成套可行方案即连接基线与目标的斜线）"
+    },
+    {
+      "claim_id": "C-GG-U0013-08",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "L君融资先认清自身基础与所欠缺，再锁定通往目标的通道，通道外之事一概不做",
+      "quote": "上下两根线都清楚了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1101,
+        "end_line": 1104,
+        "sha1": "eb49cee4417314f3a6eb853f2847d988defff97d",
+        "fingerprint": [
+          "基础",
+          "极限",
+          "通道"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "编织绳索L君案例",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例（投资界L君，企业界泰斗指点）+机理（三条边应用于个人转型：上下两线清楚+锁定通道）"
+    },
+    {
+      "claim_id": "C-GG-U0013-09",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "科学家告诉大家这件事能不能做，工程师要明白怎么做",
+      "quote": "工程师要明白怎么做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1095,
+        "end_line": 1095,
+        "sha1": "5f0345a1cc81d1e60150d646ec201cb6dcb44a45",
+        "fingerprint": [
+          "科学家",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "工程师与科学家之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "工程与科学的分工判断，独立成立的学科性质论断"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0013",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末'今日思考'为运营互动栏目（向读者布置定2018年目标的作业），非论点内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "高密度方法论单元（三条边），总纲+三边各成卡，莱特/鸟巢/L君三例证按E3独立"
+}

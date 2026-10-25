@@ -1,0 +1,102 @@
+{
+ "unit_id": "WJ2-U0239",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "加拿大同居两年即构成事实婚姻：留发票、注明用途的转账、人前称妻都成分财产证据（小美案）",
+   "quote": "分小美一半的财产增值",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19327,
+    "end_line": 19331,
+    "sha1": "239c8e2630ae3c7414dbf1325a1129b43cd5cde9",
+    "fingerprint": [
+     "事实婚姻",
+     "同居"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-1",
+    "D07-2"
+   ],
+   "concept_key": "事实婚姻陷阱案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：证据链意识；索房屋升值50万加元+抚养费；警察不管（民事）；共同名义报税问题更大（19333）；可能是职业团伙（19335）；行为不违法但防不胜防（19337）",
+   "claim_id": "C-WJ2-U0239-01",
+   "unit_id": "WJ2-U0239"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跨国婚姻的深层文化差异：对婚姻性质、亲属关系、财产的认识，而非饮食与观念细节",
+   "quote": "是指双方对于婚姻性质",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19287,
+    "end_line": 19287,
+    "sha1": "4905a78fa8373b01ab73dfa6a2baf588b0c3244e",
+    "fingerprint": [
+     "文化差异",
+     "财产"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "婚姻文化差异本质",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（跨文化认知普适）；婚前协议/早立遗嘱/AA制是欧美婚姻文化一部分（19289）",
+   "claim_id": "C-WJ2-U0239-02",
+   "unit_id": "WJ2-U0239"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跨国（同居）关系三提醒：搞清法律后果、提前签协议明确财产归属、保留财务独立——这是接入一套制度体系",
+   "quote": "接入一套完全不同的制度体系",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19343,
+    "end_line": 19343,
+    "sha1": "45e932250f124f98a0509768304c91765ada7535",
+    "fingerprint": [
+     "协议",
+     "边界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D07-2"
+   ],
+   "concept_key": "跨国婚恋三提醒",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "人账算得细是无数人教训换来的做法（19341）；勿轻易让对方介入资产与报税事务",
+   "claim_id": "C-WJ2-U0239-03",
+   "unit_id": "WJ2-U0239"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0239",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "小美与小西交往叙事全程、温哥华华裔社区背景等婚恋案例细节按X5留痕，法律与财务机理已入三卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "跨国婚姻文化差异：事实婚姻陷阱案/差异本质/三提醒"
+}

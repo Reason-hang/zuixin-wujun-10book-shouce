@@ -1,0 +1,149 @@
+{
+ "unit_id": "WJ2-U0237",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "财富=你所能调动的社会资源的总量：竞价只是拿自己的资源换想要的资源",
+   "quote": "社会资源的总量",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19141,
+    "end_line": 19143,
+    "sha1": "b39b0c0ea1a4a2565a4a608a02e9c8ec4c1f2d15",
+    "fingerprint": [
+     "财富",
+     "资源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "财富即资源调动权",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "教育多投则医疗投入可能不如人；勿在事前给教育对象贴'废柴'标签（19145）；效率优先非完美但你找不到更好的",
+   "claim_id": "C-WJ2-U0237-01",
+   "unit_id": "WJ2-U0237"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "富二代平均水平普遍更高（基因与环境）；但富不过三代越往后越差，不必担心强者恒强",
+   "quote": "富不过三代",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19147,
+    "end_line": 19151,
+    "sha1": "4ae9dddae1d224429809495fbd053e93cc3580b1",
+    "fingerprint": [
+     "富二代",
+     "纨绔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D09-1"
+   ],
+   "concept_key": "富二代与富不过三代",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "成功的第一代富人精力充沛聪明肯干且配偶不差；例外凤毛麟角",
+   "claim_id": "C-WJ2-U0237-02",
+   "unit_id": "WJ2-U0237"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追求绝对公平不现实且有害：'凭什么'心态滋生戾气，可能演变成对他人合理所得的干预",
+   "quote": "就容易有很重的戾气",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19155,
+    "end_line": 19159,
+    "sha1": "4ef42bf84a783460be6faed077cce6438a6d792b",
+    "fingerprint": [
+     "公平",
+     "干预"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "绝对公平的代价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "脱离现实的大同设想可能成为争夺他人财富的工具（19159）；'凭什么'无从问起",
+   "claim_id": "C-WJ2-U0237-03",
+   "unit_id": "WJ2-U0237"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过度求公平使社会失去动力：法国CEO收入仅普通员工7倍仍被痛恨，人均GDP至今未恢复2008年水平",
+   "quote": "法国民众还咬牙切齿",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19169,
+    "end_line": 19169,
+    "sha1": "ac2ebb8cca6891b7dbf388b39d48c5b169035677",
+    "fingerprint": [
+     "CEO",
+     "员工"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-4"
+   ],
+   "concept_key": "平均主义失动力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "荷兰优步司机：有收入者廉租房排四年、无收入者三个月（19165）；剑桥教授vs五孩不工作家庭换大房（19167）；中国CEO约20倍、美国标普500约270倍对照；适度不平等是世界发展动力（19173）",
+   "claim_id": "C-WJ2-U0237-04",
+   "unit_id": "WJ2-U0237"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不可能同时拥有福利平均与高收入机会：美欧互迁人数相当，移民各自的前两条原因正好相反",
+   "quote": "很说明问题",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19175,
+    "end_line": 19177,
+    "sha1": "411a582ba441c1cbd01d7b79f1d3eaa528f1fc10",
+    "fingerprint": [
+     "移民",
+     "福利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-4"
+   ],
+   "concept_key": "移民用脚投票",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "欧洲赴美470万（2022）、美国赴欧500万（2019）；中国中等收入阶段更走不了欧洲道路（19179）；最现实的是放弃绝对公平的幻想（19181）",
+   "claim_id": "C-WJ2-U0237-05",
+   "unit_id": "WJ2-U0237"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "绝对公平不现实：财富即资源/富不过三代/戾气与干预/平均主义失动力/用脚投票"
+}

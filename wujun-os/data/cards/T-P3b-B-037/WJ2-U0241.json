@@ -1,0 +1,154 @@
+{
+ "unit_id": "WJ2-U0241",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-037",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勤奋者仍贫困的最大相关因素是通勤时间过长；在便利处租房、经济才会持续改善（美国追踪研究）",
+   "quote": "最主要的原因是通勤时间太长",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19435,
+    "end_line": 19435,
+    "sha1": "8128f91f2b420111f2c9b23c64965b1965e80e3b",
+    "fingerprint": [
+     "通勤",
+     "穷人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D09-1"
+   ],
+   "concept_key": "通勤陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "护士单程2小时+丈夫双工通勤5-6小时例（19443）；教育非决定性、社区会迭代（韩裔/越南裔二代离开 19441）；月供压身不敢换工作；答刘伟庆",
+   "claim_id": "C-WJ2-U0241-01",
+   "unit_id": "WJ2-U0241"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "房子小可以适应，通勤长无法适应——它每天都提醒你不舒服；单位旁小房比远处大房幸福（幸福学教授）",
+   "quote": "有些事情是无法适应的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19447,
+    "end_line": 19447,
+    "sha1": "09c3622fc7674428f64f4e68dcc8231fb4b4c792",
+    "fingerprint": [
+     "适应",
+     "幸福感"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "通勤无法适应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=芝加哥大学幸福学教授；与通勤陷阱卡互参",
+   "claim_id": "C-WJ2-U0241-02",
+   "unit_id": "WJ2-U0241"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "重大决定夫妻必须商量不强来：宁买好学区好地段的小房，不贪面积买差地段房",
+   "quote": "不要按照自己的意思强来",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19449,
+    "end_line": 19449,
+    "sha1": "2b41e0f03cd8e13494317734ff6b5866ac653c24",
+    "fingerprint": [
+     "商量",
+     "学区"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "重大决定须共识",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（家庭决策语境）；达不成共识的婚姻本身有问题",
+   "claim_id": "C-WJ2-U0241-03",
+   "unit_id": "WJ2-U0241"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高租售比隐含成本：老房维护+2%房产税+换租客+驱赶难——10%回报实际剩7%，不如股票",
+   "quote": "还不如投资股票呢",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19455,
+    "end_line": 19461,
+    "sha1": "179197aef995895b6e774164bee82539bffe241e",
+    "fingerprint": [
+     "维护",
+     "房产税"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "房东的隐含成本",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "JHU百年老房：热水器3000/空调换新1万+/地下室淹水几千美元（19457-19459）；加州赶租客须告赢官司；买家多为亚裔尤其香港家庭（19463）",
+   "claim_id": "C-WJ2-U0241-04",
+   "unit_id": "WJ2-U0241"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "范德比尔特1.3万平米豪宅白送（年维护200万美元）、子孙百人无百万富翁；东西从方便变麻烦就该考虑放弃持有",
+   "quote": "因为养不起",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19471,
+    "end_line": 19473,
+    "sha1": "3ee94d01da6ab1f7d46eb06cbf9eafdda7d4fabd",
+    "fingerprint": [
+     "维护",
+     "白送"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "大房子的维护陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "Newport两栋范德比尔特度假别墅考察；香港富豪改住地标顶层阁楼（面积小一半+2%管理费也值，19479）；硅谷50多岁卖大房换小房现象（19475）",
+   "claim_id": "C-WJ2-U0241-05",
+   "unit_id": "WJ2-U0241"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0241",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "刘伟庆深圳龙岗买房长留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答39：通勤陷阱/无法适应/重大决定共识/房东成本/豪宅维护陷阱"
+}

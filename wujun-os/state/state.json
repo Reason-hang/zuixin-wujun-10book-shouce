@@ -1,8 +1,8 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-25（J-102 后）",
-  "phase": "P3b 来信抽取 38/86（谷歌 21/21 收口+单书验收 PASS；WJ2 18/22）",
+  "updated": "2026-10-25（J-104 后）",
+  "phase": "P3b 来信抽取 39/86（谷歌 21/21 收口+单书验收 PASS；WJ2 19/22）",
   "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
   "spec": {
     "v2_方案": "v2（2026-10-19）",
@@ -18,22 +18,20 @@
   "progress": {
     "units_total": 1742,
     "units_content": 1697,
-    "units_done": 932,
+    "units_done": 946,
     "chars_total": 5038558,
-    "chars_done": 2707429,
-    "batches_done": 60,
+    "chars_done": 2753484,
+    "batches_done": 61,
     "batches_est": 108
   },
   "in_flight": {
-    "ticket": "T-P3x-B-037",
-    "unit_ids": [
-      "U0237~U0247"
-    ],
+    "ticket": "T-P3x-B-039",
+    "unit_ids": [],
     "unsaved": "无",
-    "note": "两任代理死于限流，主 inline 兜底续跑（D-32）"
+    "note": "r15 于 B-040 后触发（B-038/039/040 满3批）"
   },
-  "last_ticket": "T-P3b-B-038（72 卡 0 FAIL，J-102）",
-  "next_ticket": "T-P3x-B-037 续跑（残片U0234~236+主inline U0237~247）→ B-039~042 → WJ2 单书验收 → SG3 → SG1",
+  "last_ticket": "T-P3b-B-037（71 卡 0 FAIL，J-103）+ GATE-C r14 全绿（J-104）",
+  "next_ticket": "T-P3x-B-039（WJ2⑲）→ B-040~042 → WJ2 单书验收（ck_registry→book_coverage --book WJ2）→ SG3 B-043~065 → SG1 B-001~020",
   "blocked_by": [],
   "open_items": [
     "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",
