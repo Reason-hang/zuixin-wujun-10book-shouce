@@ -1,0 +1,230 @@
+{
+ "unit_id": "SG3-U0079",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "哥德尔：不存在自洽且能证明体系内所有真命题的公理系统",
+   "quote": "哥德尔不完备定理",
+   "anchor": {
+    "start_line": 8059,
+    "end_line": 8059,
+    "fingerprint": [
+     "哥德尔",
+     "公理系统"
+    ],
+    "book_code": "SG3",
+    "sha1": "7a1e58d6c984ea1e3bf7ec069c09d8334d2c66de"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "哥德尔不完备定理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=哥德尔；打碎希尔伯特完备大一统数学体系构想；吴军引申：其他领域知识体系也难以自证正确性（8059）；对莱布尼茨自证缺陷的批评（8055-8057）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-01",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看清事情本质需跳出圈外；接受多样甚至矛盾的思想，包容并蓄才有帮助",
+   "quote": "跳出圈外",
+   "anchor": {
+    "start_line": 8063,
+    "end_line": 8063,
+    "fingerprint": [
+     "本质",
+     "包容并蓄"
+    ],
+    "book_code": "SG3",
+    "sha1": "cbaff4068de65e566df426917d7deae6a3ddeec2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "跳出圈外与包容并蓄",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "经验主义者反而证实莱布尼茨理论并找到证伪可能（8061）；给思想贴标签判断价值没有意义（8061）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-02",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "充分性推理缺陷一：无法推测不存在的结果，事情没发生时找不出原因",
+   "quote": "无法推测不存在的结果",
+   "anchor": {
+    "start_line": 8069,
+    "end_line": 8071,
+    "fingerprint": [
+     "充分性推理",
+     "原因"
+    ],
+    "book_code": "SG3",
+    "sha1": "7483d759fd7a549ed905225d8a92e3b478b4dde2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "无法推测不存在的结果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "10条件例：失败时不知缺哪个条件，可能还有未知条件A11/A12，在已知条件中反复试验也无法成功（8071-8075）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-03",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功一次才知道必要条件有哪些；从未成功者每次失败原因不同，盲目试错近乎无效",
+   "quote": "成功才是成功之母",
+   "anchor": {
+    "start_line": 8077,
+    "end_line": 8081,
+    "fingerprint": [
+     "盲目试错",
+     "充分条件"
+    ],
+    "book_code": "SG3",
+    "sha1": "b5b4c47243f40b9481a9ea8d476f15c344f60ddf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D05-1"
+   ],
+   "concept_key": "成功是成功之母",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "凑齐10个必要条件可重复成功，科学实验如此（8073）；托尔斯泰'不幸的家庭各有各的不幸'类比缺失条件各异（8083，引语入notes）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-04",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "历史研究不做不存在的假设；把不如意只归于一件事（差两分上北大）不合理",
+   "quote": "不存在的假设",
+   "anchor": {
+    "start_line": 8085,
+    "end_line": 8087,
+    "fingerprint": [
+     "陈友谅",
+     "合理"
+    ],
+    "book_code": "SG3",
+    "sha1": "98c44367e79de667b6fe7286b62f83cddaef731e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "不做不存在假设",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "陈友谅胜朱元璋的反事实假设无意义：失败原因可能多到难以把握（8085）；高考少两分式单一归因不合理（8087）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-05",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "充分性推理缺陷二：完全基于确定性否认随机性；量子层面与股市结果随机",
+   "quote": "否认了随机性的存在",
+   "anchor": {
+    "start_line": 8091,
+    "end_line": 8101,
+    "fingerprint": [
+     "确定性",
+     "量子力学"
+    ],
+    "book_code": "SG3",
+    "sha1": "befb0de344c9ce8bac55f8d63bdd4f5be1bc8833"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "确定性受挑战",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "哈雷彗星76年回归的确定性时代（8095）；相信因果才有意愿做事（8097）；经济指标上万无法尽究、股市显随机（8101）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-06",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分时候用理性（规则），少数例外用经验主义补足（规则加机器学习）",
+   "quote": "经验主义方法来解决",
+   "anchor": {
+    "start_line": 8105,
+    "end_line": 8107,
+    "fingerprint": [
+     "扫地机器人",
+     "机器学习"
+    ],
+    "book_code": "SG3",
+    "sha1": "f9816ae963ca4c8b6ac2baf19870fa8bfbb2da90"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理性为主经验为辅",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "扫地机器人规则覆盖90%以上情况、死角靠机器学习（8107）；投资异常波动时固定规则不适用要靠经验（8109）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-07",
+   "unit_id": "SG3-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把充分性推理倒过来看：凡事有果，要考虑后果，行事谨慎防轻率改变条件",
+   "quote": "我们要特别小心",
+   "anchor": {
+    "start_line": 8111,
+    "end_line": 8115,
+    "fingerprint": [
+     "后果",
+     "坏事"
+    ],
+    "book_code": "SG3",
+    "sha1": "b5f706de3c1fab793f87936580ef85b04ff565e2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "考虑后果行事谨慎",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不知坏事何时发生，增加一个条件就可能发生（8115）；小结：无法判断未发生与随机之事时经验主义派上用场（8119）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0079-08",
+   "unit_id": "SG3-U0079"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第065封信：哥德尔不完备定理（转述）、跳出圈外包容并蓄、充分性推理两缺陷、成功是成功之母、不做不存在假设、理性为主经验为辅、考虑后果谨慎行事"
+}

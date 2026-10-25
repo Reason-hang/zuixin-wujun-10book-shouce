@@ -1,0 +1,184 @@
+{
+ "unit_id": "SG3-U0090",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "传统媒体可预设立场但须对内容负责；平台只提供技术，责任是保持中立",
+   "quote": "保持中立",
+   "anchor": {
+    "start_line": 9355,
+    "end_line": 9363,
+    "fingerprint": [
+     "预设立场",
+     "UGC"
+    ],
+    "book_code": "SG3",
+    "sha1": "0de95da09a0f8576f9ee31210c4970fde210c162"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平台媒体之别",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "媒体自带立场读者自知（9357）；平台不产内容、用户生产UGC故不为内容担责（9359-9361）；230条款确认平台免责并允许'善意'屏蔽（9365-9367）；高中生被不实报道起诉获赔例（9355，第45封信）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0090-01",
+   "unit_id": "SG3-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "算法筛选需人为标注校准，人的主观意志仍起作用，算法客观性是相对的",
+   "quote": "算法的客观性也是相对而言的",
+   "anchor": {
+    "start_line": 9375,
+    "end_line": 9377,
+    "fingerprint": [
+     "算法",
+     "人为判断"
+    ],
+    "book_code": "SG3",
+    "sha1": "90525ec4ab77f29fdfea057b8cf2f47728d94c6b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "算法客观性相对",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "平台有能力决定信息优先显示（算法或人工）（9371）；谁来定精选标准、谁判质量高低（9373）；早期网站编辑即具媒体性质（9375）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0090-02",
+   "unit_id": "SG3-U0090"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "克鲁兹：平台若有预设观点就是媒体，应像要求媒体那样要求它",
+   "quote": "像要求媒体那样要求你们",
+   "anchor": {
+    "start_line": 9427,
+    "end_line": 9429,
+    "fingerprint": [
+     "预设的观点",
+     "媒体"
+    ],
+    "book_code": "SG3",
+    "sha1": "bb029bbcfe4240ead0bd97c2d71d69c43f50a227"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "有立场即媒体",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=克鲁兹（参议员，2020年10月28日参议院听证会质问扎克伯格）；吴军引申：若然则平台须对全部内容负责、230条款不适用（9429）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0090-03",
+   "unit_id": "SG3-U0090"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "孟德斯鸠：一切有权力的人都有滥用权力谋私利的倾向，要以权力约束权力",
+   "quote": "以权力约束权力",
+   "anchor": {
+    "start_line": 9435,
+    "end_line": 9437,
+    "fingerprint": [
+     "孟德斯鸠",
+     "滥用权力"
+    ],
+    "book_code": "SG3",
+    "sha1": "208a781f2ed138967f6cd947d89370513d89c0ba"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D08-1"
+   ],
+   "concept_key": "以权力约束权力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=孟德斯鸠；吴军引申：平台权力虽非人们授予但实实在在存在（9437）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0090-04",
+   "unit_id": "SG3-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无约束的平台权力迟早让人成为滥权牺牲品；对被侵害的1%就是100%",
+   "quote": "就是百分之百",
+   "anchor": {
+    "start_line": 9439,
+    "end_line": 9441,
+    "fingerprint": [
+     "滥用权力",
+     "约束"
+    ],
+    "book_code": "SG3",
+    "sha1": "ce1a56b96b8ebf588a4e34dfcdcd24adb8fffdac"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-2"
+   ],
+   "concept_key": "平台滥权代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "利益无冲突时才见'善意'（9439）；支付系统、电商平台同样可能滥权，不能天真信'善意'而要用法律制约（9441）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0090-05",
+   "unit_id": "SG3-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科技本身无善恶，科技为善不等于科技公司为善；与其信善意不如合理监管",
+   "quote": "科技为善和科技公司为善是两回事",
+   "anchor": {
+    "start_line": 9443,
+    "end_line": 9445,
+    "fingerprint": [
+     "善恶",
+     "监管"
+    ],
+    "book_code": "SG3",
+    "sha1": "cd23540efc37742deca2e7cb3890066d76ec801f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "科技为善两回事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "科技公司是否行善谁也不能保证（9443）；合理监管制约权力才能真正促使科技公司做好事（9445）；划重点3（9455）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0090-06",
+   "unit_id": "SG3-U0090"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0090",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020大选与230条款时点叙事：2016年起特朗普新闻被压制与算法回应（9383）、推特发声与传统媒体失信任（9385-9389）、纽约邮报亨特报道遭封杀与两平台理由（9391-9395）、参议院听证会克鲁兹质问多尔西/扎克伯格对话经过与账号恢复（9397-9425）、司法部缩减230提案与硅谷游说（9433），依附具体时点事件；克鲁兹原则命题已抽E2卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第074封信：平台媒体之别、算法客观性相对、有立场即媒体（克鲁兹转述）、以权力约束权力（孟德斯鸠转述）、平台滥权代价、科技为善两回事；听证会与时点叙事X2"
+}

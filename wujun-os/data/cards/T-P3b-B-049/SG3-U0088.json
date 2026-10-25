@@ -1,0 +1,237 @@
+{
+ "unit_id": "SG3-U0088",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理解巧合背后的规则，就会发现有些'巧合'背后其实有着必然性",
+   "quote": "背后其实有着必然性",
+   "anchor": {
+    "start_line": 9127,
+    "end_line": 9133,
+    "fingerprint": [
+     "巧合",
+     "必然"
+    ],
+    "book_code": "SG3",
+    "sha1": "13c4eb56b16c166aacd18d8beaffcf688022111b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "巧合背后必然",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "明藩王名含镭钚烯与元素名重合：起名在先、徐寿命名在后（9127）；金字旁字百余个大半为朱家所造，重合是必然（9131）；取名史实归X4",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-01",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断巧合与必然最好用概率论；重要的不是回答本身，而是判断方法",
+   "quote": "最好用的工具就是概率论",
+   "anchor": {
+    "start_line": 9137,
+    "end_line": 9143,
+    "fingerprint": [
+     "概率论",
+     "判断方法"
+    ],
+    "book_code": "SG3",
+    "sha1": "7ba574db2d3ccf7478091c4d6433d5cf3332ed6f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "概率判断巧合",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "抛10次全正面之问（9139）；凭直觉或日常经验的回答没有意义（9143）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-02",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "十次全正面概率1/1024，与五五开（252种原子事件）本质不同",
+   "quote": "不可以再分的最小的随机事件",
+   "anchor": {
+    "start_line": 9147,
+    "end_line": 9151,
+    "fingerprint": [
+     "原子事件",
+     "1024"
+    ],
+    "book_code": "SG3",
+    "sha1": "b18dc694ca229f97bc6fc6c868b43568a62ff066"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "原子事件与小概率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "五五开含252种原子事件、概率252/1024；十次全正面是小概率事件，发生则背后恐有力量促使（9149-9151）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-03",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断巧合可设对立假设再验证：十次全正面下硬币作假概率为99.7%",
+   "quote": "作了假的概率是99.7%",
+   "anchor": {
+    "start_line": 9153,
+    "end_line": 9157,
+    "fingerprint": [
+     "假设",
+     "硬币"
+    ],
+    "book_code": "SG3",
+    "sha1": "c9e114e3cb8c6460e8dab9c9bab88a91855c0ea0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "对立假设验证",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "假设一硬币均匀、假设二有问题，统计有专门方法（9153）；理性回答：99.7%非巧合而是硬币有问题（9157）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-04",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做判断时事实优先于猜测；得不到事实前，依靠理性和常识思考判断",
+   "quote": "事实要优先于我们的猜测",
+   "anchor": {
+    "start_line": 9159,
+    "end_line": 9161,
+    "fingerprint": [
+     "事实",
+     "理性和常识"
+    ],
+    "book_code": "SG3",
+    "sha1": "a280b3b319c70630a84f3d6c1174b2eaddaa388b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "事实优先于猜测",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "若已确认硬币正常，就要承认0.3%的巧合确实发生了（9159）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-05",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "连续预测全对极大概率背后有原因：对方也在群发、真有本事何不自己发财",
+   "quote": "极大概率背后一定是有什么原因",
+   "anchor": {
+    "start_line": 9165,
+    "end_line": 9169,
+    "fingerprint": [
+     "股神",
+     "骗子"
+    ],
+    "book_code": "SG3",
+    "sha1": "0050c9c4836235429f8655fe88f21ae2bf8ed86b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "连胜背后有原因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "群发股票预测邮件骗局：几千人各收不同预测、连对者奉之为股神（9165）；两常识：你不知他失败多少次、有本事何不自己发财（9169）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-06",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对好得难以置信的事情，想一想好运气背后是否另有原因",
+   "quote": "好得难以置信",
+   "anchor": {
+    "start_line": 9171,
+    "end_line": 9171,
+    "fingerprint": [
+     "骗子",
+     "好运气"
+    ],
+    "book_code": "SG3",
+    "sha1": "cbc721424ae3a6e67cf25b94831e25252179b246"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "好得难以置信",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "马未都汝窑古董案例（转述）：田间地头挖出汝窑、全部积蓄买假（9173-9179）；被骗概率远大于拾珍概率（9179）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-07",
+   "unit_id": "SG3-U0088"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对超级好运气只当没看见、只取应得；超级坏运气大概率另有原因要查明",
+   "quote": "不去肖想额外的所得",
+   "anchor": {
+    "start_line": 9183,
+    "end_line": 9185,
+    "fingerprint": [
+     "超级好运气",
+     "坏运气"
+    ],
+    "book_code": "SG3",
+    "sha1": "711d0f5a9300fb2cfe8b30cf3a8145eb4c0eec93"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-1"
+   ],
+   "concept_key": "超级运气态度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不肖想额外所得也就不会有所失（9183）；坏运气找原因才能避免（9185）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0088-08",
+   "unit_id": "SG3-U0088"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0088",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "明朝皇室取名与化学元素命名史：朱元璋定宗室Naming规矩（诗取二字、五行偏旁9101-9107）、宗室两万人生僻造字（9109-9111）、徐寿三条元素命名标准与氧氮氢定名（9113-9123），纯史实科普；其承载的判断（巧合背后必然）已入C-SG3-U0088-01"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第072封信：巧合背后必然、概率判断巧合、原子事件、对立假设验证、事实优先于猜测、连胜背后有原因、好得难以置信、超级运气态度；明朝取名与元素命名史X4"
+}

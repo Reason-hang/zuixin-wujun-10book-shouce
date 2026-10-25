@@ -1,0 +1,259 @@
+{
+ "unit_id": "SG3-U0082",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风险两特征：一是超出意料的波动，二是坏处因人而异、因承受力而异",
+   "quote": "超出我们意料的波动",
+   "anchor": {
+    "start_line": 8355,
+    "end_line": 8355,
+    "fingerprint": [
+     "风险",
+     "因人而异"
+    ],
+    "book_code": "SG3",
+    "sha1": "9912b1e6638cc6147e032801a2a74eef1bd2f9c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "风险两特征",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "引出四例：考85考80、股票跌20%、家人生病、城市地震（8349-8351）；把诸事全当风险则无事可做（8351）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-01",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "意料之内的正常波动不是风险；不留余量、加满杠杆是把波动自放大成风险",
+   "quote": "放大成了难以承受的风险",
+   "anchor": {
+    "start_line": 8357,
+    "end_line": 8361,
+    "fingerprint": [
+     "正常的波动",
+     "五倍的杆杠"
+    ],
+    "book_code": "SG3",
+    "sha1": "18358928910a16a379540db21cf3256b4341adc4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "波动放大自造风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "考大学600分±20分属正常范围，报考须平时稳超20分（8359）；无杠杆小仓位跌20%不是风险、全仓五倍杆杠是灭顶之灾（8361）；加州按高防震标准建房故地震不算风险（8363）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-02",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对要做的事充分了解、心中有数，本身就会降低风险（启德机场例）",
+   "quote": "心里要有数",
+   "anchor": {
+    "start_line": 8369,
+    "end_line": 8371,
+    "fingerprint": [
+     "充分的了解",
+     "启德机场"
+    ],
+    "book_code": "SG3",
+    "sha1": "c27311e22dad3748e20e73f2fd3e68630bcae240"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "知情降险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "启德机场最危险却几乎无大事故：航司派资深飞行员并格外警惕（8371）；了解不改变几率但带来改变（8369）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-03",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "降低风险的有效办法是安排B 计划：双服务器把10%故障率降到1%",
+   "quote": "安排B 计划",
+   "anchor": {
+    "start_line": 8373,
+    "end_line": 8379,
+    "fingerprint": [
+     "90%",
+     "服务器"
+    ],
+    "book_code": "SG3",
+    "sha1": "381f19b469f9eeb87eca17a18fcac8cc4f971756"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "B计划降险",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "李开复CBS演示语音识别案例（8375-8379，科技史例）；把一辈子的声誉赌在10%概率上是把预料内波动放大成不可承受后果（8377）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-04",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "防范后对小概率事件不必过分忧虑，勿规避不存在的风险，慌乱操作适得其反",
+   "quote": "适得其反",
+   "anchor": {
+    "start_line": 8381,
+    "end_line": 8387,
+    "fingerprint": [
+     "小概率",
+     "平常心"
+    ],
+    "book_code": "SG3",
+    "sha1": "f112e7f29507dd747f9f401b0d202d9ffe36522a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "勿规避不存在风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "股灾中平安度过的是保持平常心者（8387）；2020疫情期间股市震荡例：什么都不做的人随复苏获益（8387，时点例）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-05",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对未设想过的事保留底线：确认不能失去的东西（生死、家人安全、生活所需）",
+   "quote": "保留一条底线",
+   "anchor": {
+    "start_line": 8391,
+    "end_line": 8391,
+    "fingerprint": [
+     "底线",
+     "生死"
+    ],
+    "book_code": "SG3",
+    "sha1": "0e7f702806eed6a3e93291406a62597ce8a53a8b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D02-3"
+   ],
+   "concept_key": "底线思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "未曾设想的事可能是福音也可能是诅咒（8389）；底线在手就不对不确定的未来做无谓担心（8391）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-06",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风险承受分三级：生命家人平安、维持现有生活水准、不让自己心里过不去",
+   "quote": "心里过不去的坎",
+   "anchor": {
+    "start_line": 8397,
+    "end_line": 8403,
+    "fingerprint": [
+     "三级",
+     "生活水准"
+    ],
+    "book_code": "SG3",
+    "sha1": "a21849e2d359a998e081b85f41baed1dbbae99ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "风险承受三级",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "深圳买房读者例：能保房贷即可放手尝试换工作（8401）；老王合伙亏10万心里过不去例（8403）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-07",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "承担风险不超正常浮动三倍（3σ）：美股浮动约17%，承受力须达50%",
+   "quote": "不要超过正常浮动的三倍",
+   "anchor": {
+    "start_line": 8405,
+    "end_line": 8413,
+    "fingerprint": [
+     "西格玛",
+     "99.7%"
+    ],
+    "book_code": "SG3",
+    "sha1": "1761d399fd4e2e87ee79c52181d67503bbff8794"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "三西格玛承受力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "高斯分布：70%不超1σ、99.7%不超3σ（8407-8411）；跌一半超出承受范围即风险过大（8413）；出自《数学通识50讲》",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-08",
+   "unit_id": "SG3-U0082"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "置身大池子能承担更大风险：共担池要找对人、自己有贡献，十人足矣",
+   "quote": "你就能承担更大的风险",
+   "anchor": {
+    "start_line": 8414,
+    "end_line": 8427,
+    "fingerprint": [
+     "泊松分布",
+     "十个人"
+    ],
+    "book_code": "SG3",
+    "sha1": "be58947a990848a80aa46530d84e468736cc380e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D07-2"
+   ],
+   "concept_key": "风险共担池",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "泊松分布：池子越大越抵消随机误差（8414-8419）；亲人生病亲友共担例（8421）；俞敏洪新东方遭浑水做空获同行援手例（8425）；池子大则鱼龙混杂、义务变多（8427）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0082-09",
+   "unit_id": "SG3-U0082"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第067封信：风险两特征、正常波动非风险、知情降险、B计划、勿规避不存在风险、底线思维、三级承受、三西格玛承受力、风险共担池"
+}

@@ -1,0 +1,265 @@
+{
+ "unit_id": "SG3-U0087",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很少有人只靠记住就能吸取教训；对失败做出切实补救行动才能把经历变经验",
+   "quote": "切实的补救行动",
+   "anchor": {
+    "start_line": 8997,
+    "end_line": 9007,
+    "fingerprint": [
+     "吸取教训",
+     "行动"
+    ],
+    "book_code": "SG3",
+    "sha1": "a088b888d736478ce2a401369162d2d714aa1400"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "教训靠行动",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "本问答标题之答（8977）；经历与经验之别、只有补救过才能从失败经历获得经验（9003-9007）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-01",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对赖账要断然行动（直截了当要钱、必要时法律），行动更是纠正识人错误",
+   "quote": "通过行动纠正你自己之前的错误",
+   "anchor": {
+    "start_line": 8993,
+    "end_line": 8995,
+    "fingerprint": [
+     "法律手段",
+     "错误"
+    ],
+    "book_code": "SG3",
+    "sha1": "0888f0a688a6929aab0c4638b7bf9f263532695d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-2"
+   ],
+   "concept_key": "断然行动纠错",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "失误二选一：当初识人不够，或明知对方爱占便宜不爽快还借钱（8995）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-02",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把钱要回来不在于金额多少，而在于把这段经历变成真正对自己有用的经验",
+   "quote": "真正对你有用的经验",
+   "anchor": {
+    "start_line": 9041,
+    "end_line": 9041,
+    "fingerprint": [
+     "把钱拿回来",
+     "经历"
+    ],
+    "book_code": "SG3",
+    "sha1": "00122466072c38050a30d1c7a81b2df280bcb6ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "经历变经验",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军煤矿收款失败亲历：卸保险丝、试用版软件周旋，两趟才收回打印机（9009-9039）；此后类似事情再未失手（9039）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-03",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不必担心得罪借钱不还的人：你根本不需要一个这样不靠谱的朋友",
+   "quote": "不靠谱的朋友",
+   "anchor": {
+    "start_line": 9043,
+    "end_line": 9043,
+    "fingerprint": [
+     "得罪",
+     "朋友"
+    ],
+    "book_code": "SG3",
+    "sha1": "bd0abf8472f5b725b8cc2d4ed8710fcecf2dd43d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "不需不靠谱朋友",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "他对你今后的发展不会有什么帮助（9043）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-04",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "霸凌赖账者多有人格缺陷、难以改变，能做的是不与这样的人交朋友",
+   "quote": "不要和这样的人交朋友",
+   "anchor": {
+    "start_line": 9047,
+    "end_line": 9049,
+    "fingerprint": [
+     "霸凌",
+     "阿德勒"
+    ],
+    "book_code": "SG3",
+    "sha1": "9ea0172d0119054902f869a0d62d8f946fe44d48"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "人格缺陷者难改变",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "心理学家说法（转述，阿德勒有相关论述）：霸凌者多心理人格缺陷、无法感知对方感受、一切以自我为中心（9047）；赖账发火即某种霸凌（9045）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-05",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "维护人际关系不等于多交朋友，要像培育植物一样清理无用有害的关系",
+   "quote": "清理和修剪",
+   "anchor": {
+    "start_line": 9051,
+    "end_line": 9051,
+    "fingerprint": [
+     "朋友圈",
+     "植物"
+    ],
+    "book_code": "SG3",
+    "sha1": "2bc30550bd0d0c93325d4d179720b2f545080a7b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "清理朋友圈",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "完全不靠谱的朋友应从朋友圈清理掉（9051）；维护社交不意味着朋友越来越多（9051）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-06",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "弗洛姆：接受型人格总想靠取悦别人获得友谊与安全感，应增强自信不必用力过度",
+   "quote": "通过取悦别人来获得友谊",
+   "anchor": {
+    "start_line": 9065,
+    "end_line": 9067,
+    "fingerprint": [
+     "弗洛姆",
+     "接受型人格"
+    ],
+    "book_code": "SG3",
+    "sha1": "6ef1630abcd75872047c4df81fd3d4972e178301"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-4"
+   ],
+   "concept_key": "接受型人格",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=弗洛姆（动态社会性格理论）；吴军提醒张伟可能有此特征、判断仅是提醒（9065）；不依赖他人也能生存得很好（9067）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-07",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没心眼不等于对人友善；换方式：有想法不轻易说，征求意见时一语中的才获敬重",
+   "quote": "一语中的",
+   "anchor": {
+    "start_line": 9069,
+    "end_line": 9071,
+    "fingerprint": [
+     "傻实在",
+     "一语中的"
+    ],
+    "book_code": "SG3",
+    "sha1": "10277ffb205931094395b5a3874645e550915742"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "没心眼非友善与一语中的",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "自评憨厚实在可爱、对方眼中只见'傻'（9069）；再有友善忠厚一面便成受欢迎的人（9071）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-08",
+   "unit_id": "SG3-U0087"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莎士比亚：不要想到什么就说什么，凡事必须三思而行；对人和气不过分狎昵",
+   "quote": "凡事必须三思而行",
+   "anchor": {
+    "start_line": 9073,
+    "end_line": 9075,
+    "fingerprint": [
+     "莎士比亚",
+     "三思而行"
+    ],
+    "book_code": "SG3",
+    "sha1": "e485bb6d50b1327da90476d5dc69f6c635afe53f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1",
+    "D07-2"
+   ],
+   "concept_key": "三思而行",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=莎士比亚（吴军元旦彩蛋所引）；'相知有素的朋友应用钢圈箍在灵魂上，勿对泛泛新知滥施交情'（9073）；吴军评：几百年后道理依然成立（9075）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0087-09",
+   "unit_id": "SG3-U0087"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0087",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：罗翔借钱给校友被赖账的提问原文（8987）与张伟'傻白甜得罪人'留言原文（9057）；吴军回应已单独抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问12：教训靠行动补救、断然行动纠错、经历变经验、不需不靠谱朋友、人格缺陷者难改变、清理朋友圈、没心眼非友善与一语中的；弗洛姆/莎士比亚转述卡；读者来信原文X7"
+}

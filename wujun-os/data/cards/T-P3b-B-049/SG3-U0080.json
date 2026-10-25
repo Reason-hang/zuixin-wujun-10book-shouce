@@ -1,0 +1,216 @@
+{
+ "unit_id": "SG3-U0080",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "哈耶克：通往地狱之路，通常是由善意铺成（王安石变法即一例）",
+   "quote": "由善意铺成的",
+   "anchor": {
+    "start_line": 8157,
+    "end_line": 8157,
+    "fingerprint": [
+     "哈耶克",
+     "通往地狱"
+    ],
+    "book_code": "SG3",
+    "sha1": "a7078cb5faede151d8e245afee6e6a6e3bba827f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2",
+    "D01-1"
+   ],
+   "concept_key": "善意铺成地狱路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=哈耶克；王安石变法初衷好而伴生结果全出意料（8155，史实归X4）；承接上信充分性推理无法预测未发生之事（8157）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-01",
+   "unit_id": "SG3-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "古代变革成败有很大随意性：理性设计也难把握结果，理性难测未发生之事",
+   "quote": "理性难以预测没有发生过的事情",
+   "anchor": {
+    "start_line": 8163,
+    "end_line": 8167,
+    "fingerprint": [
+     "随意性",
+     "变法"
+    ],
+    "book_code": "SG3",
+    "sha1": "b4b6c1ebb83fbc2aa7c1d220fa30bdfdb63a20d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "理性难测未发生之事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "反对变法者靠经验直觉、甚至为反对而反对（8161）；古代无成熟社会科学研究与数据（8161）；每一个变法者的难题（8167）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-02",
+   "unit_id": "SG3-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "独立智库的价值：多视角推演尚未发生的事情，避免受决策者立场限制",
+   "quote": "推演多种情况",
+   "anchor": {
+    "start_line": 8171,
+    "end_line": 8171,
+    "fingerprint": [
+     "智库",
+     "独立机构"
+    ],
+    "book_code": "SG3",
+    "sha1": "97b419d21169533c7481dd31bf6573f8fe4d16d4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "智库机制推演",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "预想的事真发生时不至于完全没有应对措施（8171）；近现代新机制缓解理性盲区（8171）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-03",
+   "unit_id": "SG3-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "利益相关者的行业视角是决策者不具备的，可查漏补缺；决策仍归决策者",
+   "quote": "查漏补缺",
+   "anchor": {
+    "start_line": 8185,
+    "end_line": 8185,
+    "fingerprint": [
+     "立场",
+     "决策者"
+    ],
+    "book_code": "SG3",
+    "sha1": "354e6e0f055a78ab92d15b7c31f877cb917d50e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "利益相关者查漏补缺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "施密特/钱伯斯谏止奥巴马海外征税例（8177-8183，时点归X2）：双重征税削弱竞争力、终失海外市场（8181）；为其利益说话无可非议（8185）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-04",
+   "unit_id": "SG3-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "许多看似'好事'的政策做了还不如不做：提最低工资反伤害最需帮助的工人",
+   "quote": "做了还不如不做",
+   "anchor": {
+    "start_line": 8209,
+    "end_line": 8209,
+    "fingerprint": [
+     "最低工资",
+     "好事"
+    ],
+    "book_code": "SG3",
+    "sha1": "438b16d66fab9cbc9d97e7d23450dd61feef11b1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "好事或不如不做",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "总统在顾问建议下知难而退（8207）；雇主以减岗省成本，故最低工资提升通常需缓慢进行（8209）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-05",
+   "unit_id": "SG3-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智库价值不在预言正确（预言多无法验证），而在存在提出多方意见的机制",
+   "quote": "提出多方面意见的机制",
+   "anchor": {
+    "start_line": 8213,
+    "end_line": 8215,
+    "fingerprint": [
+     "预言",
+     "智库"
+    ],
+    "book_code": "SG3",
+    "sha1": "7ed9ceb5de4f4ee44ce71c9709c8453bd1e47e18"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "智库价值在机制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "施密特预言因未征税而无法在现实中检验（8213）；防患于未然的机制（8211）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-06",
+   "unit_id": "SG3-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人做计划易夸大有利结果、忽略不利情况，智库作用就是提醒决策者这一点",
+   "quote": "夸大有利的结果",
+   "anchor": {
+    "start_line": 8221,
+    "end_line": 8223,
+    "fingerprint": [
+     "误区",
+     "提醒"
+    ],
+    "book_code": "SG3",
+    "sha1": "9d6fe3fdfae1349328b33c6fb89d83d29b344603"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "计划夸大有利偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "相比王安石，现代人更有机会避免单纯理性计划的偏差——时代和社会的进步（8222）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0080-07",
+   "unit_id": "SG3-U0080"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0080",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "王安石变法史实叙述：变法初衷与历代评价变迁（否定的主流、梁启超胡适翻案、今日多元评价8149-8151）、失败诸说与黄仁宇金融视角、青苗法依赖信贷体系（8153）、具体措施与伴生恶果（8155-8161），纯史实叙述；机理已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0080",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点内容：2019年美联邦税收个税49%/企业税6%数据与奥巴马拟征海外收入税、施密特钱伯斯建言经过（8173-8183）；胡佛研究所2020年10月13日拜登增税报告五点预测（就业-490万、家庭收入-6500美元、GDP-8%等，8191-8205），依附具体时点与政策现状"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第066封信：智库机制推演与计划偏差提醒、利益相关者查漏补缺、好事或不如不做；哈耶克善意铺路转述卡；王安石变法史实X4、奥巴马征税与胡佛报告时点内容X2"
+}

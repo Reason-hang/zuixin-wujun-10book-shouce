@@ -1,0 +1,241 @@
+{
+ "unit_id": "SG3-U0078",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学之外，除复述性命题外不存在绝对真理，真理都是有条件的",
+   "quote": "不存在绝对的真理",
+   "anchor": {
+    "start_line": 7955,
+    "end_line": 7955,
+    "fingerprint": [
+     "真理",
+     "复述性"
+    ],
+    "book_code": "SG3",
+    "sha1": "375ddfc2b3c72276da98cf5a1c12ab880cad9c61"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "真理的相对性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军旧答，出自《科技史纲60讲》《数学通识50讲》（7955）；莱布尼茨真理二分转述见C-SG3-U0078-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-01",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莱布尼茨：真理分两种，无条件真理只是复述性表述，其余都是有条件真理",
+   "quote": "复述性的表述",
+   "anchor": {
+    "start_line": 7965,
+    "end_line": 7965,
+    "fingerprint": [
+     "莱布尼茨",
+     "真理"
+    ],
+    "book_code": "SG3",
+    "sha1": "9a7582514352481ef426aba2d8375d94331731ed"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "真理二分：复述与有条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=莱布尼茨（理性主义代表）；永真例1+1=2与单身定义（7965）；有条件真理例：物质由分子构成需原子成键前提（7969-7973）；概括见C-SG3-U0078-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-02",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对有条件真理逐步溯源最基本充分条件，知识形成逻辑链；科研即探更基础原因",
+   "quote": "形成一个逻辑链",
+   "anchor": {
+    "start_line": 7977,
+    "end_line": 7981,
+    "fingerprint": [
+     "充分条件",
+     "科学研究"
+    ],
+    "book_code": "SG3",
+    "sha1": "101d3a1997a2d0b85e7a0fa722263107ad4d3fbc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "充分性推理逻辑链",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "莱布尼茨充分性推理原则（7959提出）；科学研究与社会实践=不断探索越来越基础的原因（7981）；划重点2（8035）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-03",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会与历史事件的充分条件很难找全，甚至必要条件也未必能找到",
+   "quote": "充分条件很难找全",
+   "anchor": {
+    "start_line": 7997,
+    "end_line": 8001,
+    "fingerprint": [
+     "社会事件",
+     "必要条件"
+    ],
+    "book_code": "SG3",
+    "sha1": "c42406df76033f2fddc1e052cc67e60e8bb34d30"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "社会归因难",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清朝灭亡/武昌起义/保路运动归因争议例（7999）；人文社科各派争论不休、自然科学对原因有共识（8001）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-04",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "纯粹理性原则：对任何结论既要看是否符合事实，也要看是否符合逻辑",
+   "quote": "而且要看是否符合逻辑",
+   "anchor": {
+    "start_line": 8007,
+    "end_line": 8009,
+    "fingerprint": [
+     "纯粹理性",
+     "事实"
+    ],
+    "book_code": "SG3",
+    "sha1": "9a7804427dcdffad8a009803e4ca3e59e7d31697"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "纯粹理性原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "报道删5%文字结论可反转例（8009）；克强指数看GDP背后推动因素例（8011-8013）；判断消息真实性的工具（8015）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-05",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勿把必要条件当充分条件：用功与学得好都只是成绩好的必要条件",
+   "quote": "远不是充分条件",
+   "anchor": {
+    "start_line": 8019,
+    "end_line": 8019,
+    "fingerprint": [
+     "必要条件",
+     "充分条件"
+    ],
+    "book_code": "SG3",
+    "sha1": "4930dcb69e56382f4cbf1d509488d9c86ee08ddf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "必要非充分条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "预期未发生就抱怨或不知所措（8019）；莱布尼茨：所有必要条件凑齐才构成充分条件（8021）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-06",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "归因不能停在直接原因，要找到原因的原因，否则同样错误反复出现",
+   "quote": "原因的原因",
+   "anchor": {
+    "start_line": 8021,
+    "end_line": 8021,
+    "fingerprint": [
+     "粗心",
+     "直接的原因"
+    ],
+    "book_code": "SG3",
+    "sha1": "c814f9a2a60ba12bdd7a2a5db591cb2b3441ae00"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-2"
+   ],
+   "concept_key": "归因至原因的原因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "考不好归粗心例：粗心另有原因（不专注/考点没搞懂），不找到则下次还丢分（8021）；与复盘通则相通（D05-2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-07",
+   "unit_id": "SG3-U0078"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创造性的第一步是理性思维（从刨根问底开始）",
+   "quote": "从理性思维开始",
+   "anchor": {
+    "start_line": 8027,
+    "end_line": 8027,
+    "fingerprint": [
+     "创造性",
+     "理性思维"
+    ],
+    "book_code": "SG3",
+    "sha1": "d57e177398e1faf3dd1f5a30176b0607f0648810"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "创造性始于理性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "孩子教育段（8023）归X5；西北欧科技创造力与笛卡尔/莱布尼茨/斯宾诺莎理性主义传统相关（8025）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0078-08",
+   "unit_id": "SG3-U0078"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0078",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "莱布尼茨生平与思想史：与牛顿同时发明微积分、发明二进制、创造微积分符号系统、欧洲理性主义代表（7957-7959）；提出充分性推理原则为证明上帝存在、其上帝观与斯宾诺莎及《圣经》之异同（7991-7995），纯思想史科普无可迁移判断"
+  },
+  {
+   "unit_id": "SG3-U0078",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育段：对孩子要鼓励多问为什么、被'书上是这么说的'敷衍大的孩子难有创造性（8023），属亲子教育方法；其可迁移内核（创造性始于理性）已入C-SG3-U0078-08"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第064封信：真理相对性与莱布尼茨真理二分、充分性推理逻辑链、社会归因难、纯粹理性原则、必要非充分条件、归因至原因的原因、创造性始于理性；莱布尼茨生平史实X4、亲子教育段X5"
+}

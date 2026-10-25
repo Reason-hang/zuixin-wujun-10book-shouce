@@ -1,0 +1,265 @@
+{
+ "unit_id": "SG3-U0089",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生活在彼此看法高度类似的环境中，就不容易发现自己的偏见",
+   "quote": "彼此看法高度类似的环境",
+   "anchor": {
+    "start_line": 9239,
+    "end_line": 9239,
+    "fingerprint": [
+     "倾向性",
+     "偏见"
+    ],
+    "book_code": "SG3",
+    "sha1": "32325c48b643c746fe2fa14ccee2236c38a24644"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "同质环境蔽偏见",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "媒体人环境同质致调查设计受倾向性影响（9239）；美国媒体人多倾向民主党、媒体自身也做'新闻管制'（9235-9237，时点内容归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-01",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "引导性问卷设计：先定责任人再问表现、连环问题诱发维护前答",
+   "quote": "先把责任人定好了",
+   "anchor": {
+    "start_line": 9243,
+    "end_line": 9247,
+    "fingerprint": [
+     "引导性",
+     "民调"
+    ],
+    "book_code": "SG3",
+    "sha1": "a9a34751a509e0d5a8fd671f8678f2eb2305a0a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "问卷引导性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "例为2020大选民调电话（时点归X2）：先定特朗普政府责任再问合格与否（9243）；民众惯于不满执政者（9245）；第二问诱导维护前答（9247）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-02",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "警惕幸存者偏差：只统计看得见的样本（返航飞机），需加强的是无弹痕处",
+   "quote": "幸存者偏差",
+   "anchor": {
+    "start_line": 9253,
+    "end_line": 9257,
+    "fingerprint": [
+     "返航",
+     "机翼"
+    ],
+    "book_code": "SG3",
+    "sha1": "4ad006ebf723f4eccf240e1450f0c7272800920e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "幸存者偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二战美军飞机统计案例（9255-9257）；民调仅电话可达者：2016年愿接听不足1/5、愿完成不足10%（9259）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-03",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一群人意见高度一致时，看似思想统一，更可能是陷入小世界产生一致偏见",
+   "quote": "产生了一致的偏见",
+   "anchor": {
+    "start_line": 9277,
+    "end_line": 9281,
+    "fingerprint": [
+     "小世界",
+     "偏见"
+    ],
+    "book_code": "SG3",
+    "sha1": "f12e3a92cd818f56967192bc64dfa764d1be1f0e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "一致即偏见",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点1（9329）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-04",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社交网络预测盲区：支持者主动发声可见，反对者不发声是隐形的",
+   "quote": "反对者在这里则是隐形的",
+   "anchor": {
+    "start_line": 9307,
+    "end_line": 9307,
+    "fingerprint": [
+     "发声",
+     "隐形"
+    ],
+    "book_code": "SG3",
+    "sha1": "4d7e74616c626508498ed835d1ee378598fc789e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "反对者隐形",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "义乌指数、社媒大数据、集会场面2020例全偏（9285-9305，时点归X2）：不喜欢者看都不要看见（9307）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-05",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "冲出洞穴的人看到的世界也可能只是局部（柏拉图洞穴寓言的引申）",
+   "quote": "也可能只是一个局部而已",
+   "anchor": {
+    "start_line": 9309,
+    "end_line": 9309,
+    "fingerprint": [
+     "洞穴",
+     "局部"
+    ],
+    "book_code": "SG3",
+    "sha1": "41967dc33d1a6168950abaed23105248c227adec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "洞穴局部",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "寓言出自柏拉图（吴军此前信中讲过）；'但这就是真理吗'为吴军引申评述（9309）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-06",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "偏见不仅源于知识经验不足与倾向性，更常产生于与周围人的一致性",
+   "quote": "产生于我们与周围人的一致性",
+   "anchor": {
+    "start_line": 9315,
+    "end_line": 9317,
+    "fingerprint": [
+     "偏见",
+     "一致性"
+    ],
+    "book_code": "SG3",
+    "sha1": "2434b836affd2c03cb46f18f3d6eb777ef707c6c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "偏见生于一致性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "周围都是一致观点使人失去思考能力、认为想法经得起检验（9317）；一群媒体与一群特朗普支持者各见其像（9317，时点例）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-07",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "兼听则明不是收集多少人观点；在同温层内反复求证只是偏听次数变多",
+   "quote": "偏听的次数变多了",
+   "anchor": {
+    "start_line": 9319,
+    "end_line": 9321,
+    "fingerprint": [
+     "兼听则明",
+     "求证"
+    ],
+    "book_code": "SG3",
+    "sha1": "3921e0ac1d328fcc4ebd5bffb3037cfec312f26c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "兼听与偏听",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点2（9331）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-08",
+   "unit_id": "SG3-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "避免偏见最重要的是保持独立思考、理性思考和反思自己观点的能力",
+   "quote": "独立思考、理性思考和反思",
+   "anchor": {
+    "start_line": 9323,
+    "end_line": 9323,
+    "fingerprint": [
+     "避免偏见",
+     "声音"
+    ],
+    "book_code": "SG3",
+    "sha1": "87d73982c4990ba23fecf98401804590f93cd815"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "避免偏见三能力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "听到都是同样声音时要特别警惕：未必正确，而可能产生并固化偏见（9323）；划重点3（9333）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0089-09",
+   "unit_id": "SG3-U0089"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0089",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020美国大选时点内容：特朗普政治遗产（三位大法官）与宪政、媒体民调两输家评论（9209-9225）；拜登之子报道与通俄报道双标对比（9237）；拜登民调领先10点以上、120张选举人票预测与实际胶着（9225）；义乌指数2020、社媒统计与集会场面冰火两重天（9285-9305），依附具体时点与事件"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第073封信：意见一致即偏见、问卷引导性、幸存者偏差、反对者隐形、洞穴局部、偏见生于一致性、兼听与偏听、避免偏见三能力；2020大选时点内容X2"
+}

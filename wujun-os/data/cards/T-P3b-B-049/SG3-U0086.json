@@ -1,0 +1,214 @@
+{
+ "unit_id": "SG3-U0086",
+ "book_code": "SG3",
+ "extractor": "EXT-SG5",
+ "batch_id": "T-P3b-B-049",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "解难题四方法：理解题目、边界内做事、信息消不确定性、科学试错，成系统思路",
+   "quote": "共同构成一种处理问题的系统思路",
+   "anchor": {
+    "start_line": 8811,
+    "end_line": 8821,
+    "fingerprint": [
+     "科学的试错",
+     "边界"
+    ],
+    "book_code": "SG3",
+    "sha1": "3b1c705338a8fd842d441d90ace4ac36cb44f5d8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "四方法系统思路",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "以12球问题为载体重温四法（8811-8819）；四法交织，可运用于各领域挑战（8821）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-01",
+   "unit_id": "SG3-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "解题基础是读懂题目隐含信息；很多人考不好是语文没学好、读不懂题",
+   "quote": "读懂题目中隐含的信息",
+   "anchor": {
+    "start_line": 8833,
+    "end_line": 8837,
+    "fingerprint": [
+     "语文",
+     "隐含的信息"
+    ],
+    "book_code": "SG3",
+    "sha1": "362051168c82092ee59646e6f1bf0f6f81f6d51e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "审题读隐含信息",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "三隐含信息：12球每个都可能坏、本质24选1、天平每称三结果（8839-8853）；自以为简单者多半没读懂题（8833）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-02",
+   "unit_id": "SG3-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要在边界之内做事：超边界做事（如造永动机）是做无用功",
+   "quote": "在边界之内做事",
+   "anchor": {
+    "start_line": 8861,
+    "end_line": 8861,
+    "fingerprint": [
+     "永动机",
+     "无用功"
+    ],
+    "book_code": "SG3",
+    "sha1": "11475f40fd6f77446a8174f7554db8bff26e2b28"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "边界内做事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "本题边界：3次称量至多27种可能>24种，可能有解（8869）；某步越界则后面路不可能走通、是解题准则（8871-8873）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-03",
+   "unit_id": "SG3-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "消除不确定性所需的就是信息：确认可能性总数与每次可获得的信息量",
+   "quote": "所需要的东西就是信息",
+   "anchor": {
+    "start_line": 8865,
+    "end_line": 8869,
+    "fingerprint": [
+     "不确定性",
+     "边界内做事"
+    ],
+    "book_code": "SG3",
+    "sha1": "4c6c65feea72941e88146c032c29a8c35e2e9295"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "信息消不确定性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "每次称量至多1 trit、三次3位三进制=27>24故可能有解（8867-8869）；经典错误：1-6对7-12只得二进制信息、24变12后余2次至多9种<12必败（8875-8877）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-04",
+   "unit_id": "SG3-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "天平两边相等也是一条信息：每次称量可得三进制一位（1 trit）",
+   "quote": "两边相等也是一条信息",
+   "anchor": {
+    "start_line": 8853,
+    "end_line": 8853,
+    "fingerprint": [
+     "天平",
+     "三种结果"
+    ],
+    "book_code": "SG3",
+    "sha1": "bb7e896a96756038ab704f7e0c70f668a3cb4ad5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "平衡也是信息",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三进制数位1吹特对应二进制1比特（8855）；可能性简写1轻…12重（8849-8851）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-05",
+   "unit_id": "SG3-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学试错原则：每一步都按理论把可能性除以3，达不到就是盲目试错",
+   "quote": "这就是科学试错的方法",
+   "anchor": {
+    "start_line": 8939,
+    "end_line": 8941,
+    "fingerprint": [
+     "除以了3",
+     "原则"
+    ],
+    "book_code": "SG3",
+    "sha1": "85b9a1c63ce681b9cc3cd823607b5ff59f1e717a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "科学试错除三原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "先1-4对5-8称量使三种结果各剩8种可能（8883-8895）；平衡支8种分3-3-2用好球对照（8897-8911）、不平衡支同（8913-8937）；原则由定边界与信息法推出（8941）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-06",
+   "unit_id": "SG3-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "各方法共同构成系统性方法论；对方法有系统了解才能解未知难题，否则碰运气",
+   "quote": "共同构成了一个系统性的方法论",
+   "anchor": {
+    "start_line": 8945,
+    "end_line": 8951,
+    "fingerprint": [
+     "系统性学习",
+     "盲目行事"
+    ],
+    "book_code": "SG3",
+    "sha1": "c282b8f70fd88a0292933611afb860d20f5d5327"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D05-1"
+   ],
+   "concept_key": "系统性方法论",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "对题目和方法都不了解即盲目行事，碰运气效率极低；问题足够复杂时容不得碰运气（8950）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0086-07",
+   "unit_id": "SG3-U0086"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0086",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "文末思考题：120球称5次找坏球与证明121球不可能（8959-8961），练习附录无可迁移判断（方法论已入K卡）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第071封信：以12球问题示范四方法系统思路——审题、边界内做事、信息消不确定性、科学试错除三原则、系统性方法论；思考题X8"
+}
