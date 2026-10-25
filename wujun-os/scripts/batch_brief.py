@@ -25,7 +25,7 @@ HC = """## HC 红线
 
 FLOW = """## 抽卡流程（card_writer.py 断言前置）
 1. 逐单元读原文→判说话人→找结论句→构造卡片数组 JSON（不含 sha1/claim_id/unit_id，工具自动生成）
-2. 写盘：python3 scripts/card_writer.py <unit_id> {batch_dir} "{book}" <w0> <w1> --extractor {agent} --batch-id {batch_id} --disposal K --reason "<一句话理由>" [--x-disposals-file /tmp/xd_<uid>.json] < cards_<uid>.json
+2. 写盘：python3 scripts/card_writer.py <unit_id> {batch_dir} "{book}" <w0> <w1> --extractor {agent} --batch-id {bname} --disposal K --reason "<一句话理由>" [--x-disposals-file /tmp/xd_<uid>.json] < cards_<uid>.json
 3. 卡片字段：speaker/claim_text(≤60字)/quote(≤15字且锚内连续子串)/anchor{{start_line,end_line,fingerprint[≤3]}}/evidence_level(E1-E4)/pillar_candidates/concept_key/ability_tags(思/学/沟/做)/notes
 4. 工具自动重算 SHA1、校验 quote/指纹词锚内子串、行窗、锚≤800、claim≤60、枚举、赋 claim_id、防覆盖；报错即修即重跑，报错未写盘无脏文件
 5. 每单元 4~9 卡；纯史实/游记为主的信可 2~3 卡并在 reason 说明；整单元确无可抽卡可写 0 卡包装文件（disposal=X，参照 data/cards/T-P3b-B-048/SG3-U0068.json 先例）"""
@@ -54,13 +54,31 @@ def main():
               'GG': ('T-P3b-B-066', 'GG-U0013'), 'WJ2': ('T-P3b-B-042', 'WJ2-U0307'),
               'FZ': ('T-P3a-B-103', 'FZ-U0007')}.get(book_code, ('T-P3b-B-047', 'SG3-U0049'))
     print(f'你是 WJ-OS 项目批次抽取代理，代号 {agent}，领工单 {batch_id}（目录名 {batch_dir.split("/")[-1]}）。工作目录：/Users/lizhihang/Documents/【Zcode--project】/【最新吴军10本书手册工程化】/wujun-os。')
-    print(f'\n## 文件范围（互斥红线，只能写这两个路径）\n- {batch_dir}/\n- logs/cards_verify_{batch_id}_self.md\n严禁触碰：data/unitcards/、state/、data/gold/、data/cards/ 其他目录、git——由主智能体执行。')
+    print(f'\n## 文件范围（互斥红线，只能写这两个路径）\n- {batch_dir}/\n- logs/cards_verify_{os.path.basename(batch_dir)}_self.md\n严禁触碰：data/unitcards/、state/、data/gold/、data/cards/ 其他目录、git——由主智能体执行。')
     print(f'\n{RULES}'.replace('{sample_batch}', sample[0]).replace('{sample_unit}', sample[1]))
     print(f'\n## 工单：原书{book.split("/")[1].split("｜")[0].split("[")[0].strip("《》")} {len(us)} 单元（{b["chars"]:,} 字）\n原书：{book}')
     for r in us:
         print(f"{r['unit_id']}|{r['start_line']}-{r['end_line']}")
-    print('\n' + FLOW.format(batch_dir=batch_dir, book=book, agent=agent, batch_id=batch_id))
+    print('\n' + FLOW.format(batch_dir=batch_dir, book=book, agent=agent, batch_id=batch_id, bname=os.path.basename(batch_dir)))
     print('\n' + HC)
+    if book_code == 'SG1':
+        import re as _re
+        try:
+            g6 = open('logs/g6.md', encoding='utf-8').read()
+        except FileNotFoundError:
+            g6 = ''
+        dupes = []
+        for m in _re.finditer(r'\| \d+ \| (GG-U\d+) \| (SG1-U\d+) \| (.+?) \|', g6):
+            if m.group(2) in {r['unit_id'] for r in us}:
+                dupes.append(f"{m.group(2)}↔{m.group(1)}（{m.group(3)[:40]}）")
+        if dupes:
+            print('\n## 跨书重复提示（logs/g6.md 107段簇表，本批涉及 %d 处）' % len(dupes))
+            print('以下单元与《谷歌方法论》存在同源段落：**照常抽卡**，但必须在 notes 登记"双出处：本段亦见 GG-UXXX（同名概念键收敛，勿另立键）"，覆盖统计由主智能体去重。')
+            for d in dupes:
+                print('-', d)
+        else:
+            print('\n## 跨书重复提示：本批无 GG↔SG1 同源段（logs/g6.md 簇表核对）。')
+
     print(f'\n## 自检收尾\n{len(us)} 单元写盘后：python3 scripts/verify_cards.py --dirs {batch_dir} --out logs/cards_verify_{os.path.basename(batch_dir)}_self.md，须 0 FAIL。若即将中断：保留已写盘文件，最终消息说明进度到哪个单元。')
     print('\n## 汇报格式（最终消息）\n各单元卡数与处置、E1/E2 分布、转述·第三方名单、X 处置条数、verify 结果、批内同名概念键、模糊点。不要贴完整 JSON。')
 
