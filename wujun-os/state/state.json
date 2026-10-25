@@ -1,8 +1,8 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-25（J-107 后）",
-  "phase": "P3b 43/86（谷歌+WJ2 收口验收全 PASS）；B-043 SG3①在途 2/10 单元",
+  "updated": "2026-10-25（J-113 后）",
+  "phase": "P3b 44/86（谷歌+WJ2 收口验收全 PASS；SG3 1/23 B-043 已收编）；GATE-C r15 全绿、r16 到期待派",
   "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
   "spec": {
     "v2_方案": "v2（2026-10-19）",
@@ -18,22 +18,20 @@
   "progress": {
     "units_total": 1742,
     "units_content": 1697,
-    "units_done": 989,
+    "units_done": 1050,
     "chars_total": 5038558,
-    "chars_done": 2900834,
-    "batches_done": 64,
+    "chars_done": 3033287,
+    "batches_done": 66,
     "batches_est": 108
   },
   "in_flight": {
-    "ticket": "T-P3x-B-043",
-    "unit_ids": [
-      "U0005~U0012待做（U0003/U0004已落盘9卡）"
-    ],
+    "ticket": null,
+    "unit_ids": [],
     "unsaved": "无",
-    "note": "r15第三任GAUD17R2后台在途；换窗续跑"
+    "note": "GATE-C r16 GAUD18 待派；下一批 T-P3x-B-044（SG3②）"
   },
-  "last_ticket": "T-P3b-B-041（53 卡 0 FAIL，J-107）",
-  "next_ticket": "T-P3x-B-042（WJ2 收官批）→ GATE-C r15（三任待派）→ r16 → WJ2 单书验收 → SG3 → SG1",
+  "last_ticket": "T-P3b-B-043（67 卡 0 FAIL，J-113）",
+  "next_ticket": "GATE-C r16（GAUD18）→ T-P3x-B-044 SG3② → … → SG3 23 批 → SG1 20 批（107 段重复勿双计）",
   "blocked_by": [],
   "open_items": [
     "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",

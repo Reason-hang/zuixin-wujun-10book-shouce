@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG3-U0012",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三种教学方式：课堂教育（软硬件配合+温故知新）、精英教育（小班/实验/MBA直观学习）、补习答疑",
+   "quote": "三种教学方式",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1493,
+    "end_line": 1505,
+    "sha1": "a6ace65b110d9594061cb46dc9ac1b6c0f9846c9",
+    "fingerprint": [
+     "课堂教育",
+     "精英教育"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "三种教学方式",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第009封信；精英教育传柏拉图'实用智慧和美德'靠手把手与直观感觉（1499）；实验课老师做一遍跟着做、看书做不出（1501）；补习班以产业形式出现、俞敏洪估中国产值5000亿（1505，X6留痕）",
+   "claim_id": "C-SG3-U0012-01",
+   "unit_id": "SG3-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "远程教育替代课堂教育可行：让更多学生听更好的老师讲课，全社会整体效果或超传统课堂",
+   "quote": "远程教育替代课堂教育是可行的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1519,
+    "end_line": 1521,
+    "sha1": "31b2459280d0756c2abbe73495673127041638c6",
+    "fingerprint": [
+     "师资",
+     "替代"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "远程替代课堂可行",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "斯坦福闭路电视、作者弟弟约1/3课程看录像学（1511-1513）；霍普金斯继续教育已远程化、工程继续教育全美最大（1513）；伊兹奥尼：全美或只需不到十个讲AI课的教授（1521）；梅兰芳马连良通吃类比大众传媒（1523）；划重点重申（1571）",
+   "claim_id": "C-SG3-U0012-02",
+   "unit_id": "SG3-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MOOC悖论：课件很好但完课不到5%——想学的人有门槛也能克服，不想学门槛再低也不学",
+   "quote": "三分钟热度",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1515,
+    "end_line": 1517,
+    "sha1": "ab50a555fbceca921dbf2fcdf75b7c1d39e2f693",
+    "fingerprint": [
+     "MOOC",
+     "学费"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-2"
+   ],
+   "concept_key": "MOOC完课率悖论",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "付高学费拿学分者再忙也听完（1517）；问题出在学生不在课件（1515）",
+   "claim_id": "C-SG3-U0012-03",
+   "unit_id": "SG3-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI个性化辅导更有效：一年课程大部分学生3-4个月可学会——关键路径反复讲、支线可跳过",
+   "quote": "远程课外辅导",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1527,
+    "end_line": 1537,
+    "sha1": "1b2cd3412a459909bc62c8c1f71f85594ee2b43d",
+    "fingerprint": [
+     "辅导",
+     "个性化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D10-1"
+   ],
+   "concept_key": "AI个性化辅导",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "学校讲一年因照顾最差25%学生+缺乏针对性（1533）；好学生两三个月学完拿A+（1535）；Afficient案例：不少学生初中修完高中课程再学AP（1537）；疫情期间全转线上效果仍超传统补习班（1539）；大数据AI更易在远程教育中应用（1541）",
+   "claim_id": "C-SG3-U0012-04",
+   "unit_id": "SG3-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "言传身教难转线上：情景化学习学的不只是信息，还有传递方式、操作动作甚至身体语言",
+   "quote": "传递信息的方式、操作的具体动作",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1545,
+    "end_line": 1549,
+    "sha1": "86ff72dc1aaa0c4408b16b074f27e9f9fd80f613",
+    "fingerprint": [
+     "交流",
+     "身体语言"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "言传身教不可替",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "全美教授一致看法：再好的设备也无法实现小范围教学人与人直接交流（1545）；设备寄给学生、操作细节仍无法辅导、科学工程素养靠细节养成（1551）；VR达不到现场效果、情感沟通难以完成（1553）；纽约大街学校租汉普顿校园坚持面授（1555）；划重点重申（1575）",
+   "claim_id": "C-SG3-U0012-05",
+   "unit_id": "SG3-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "教育形式一定会发生改变：新模式兴起旧模式消失，传统教育工作者无竞争力将受冲击",
+   "quote": "教育的形式一定会发生改变",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1561,
+    "end_line": 1565,
+    "sha1": "d5d0810c92e3ced65a0df26721636c640bd3dc3f",
+    "fingerprint": [
+     "教育",
+     "改变"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "教育形式变革",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "小结：课堂可在线替代+个性化智能辅导超辅导班+言传身教需人和人接触（1561-1563）",
+   "claim_id": "C-SG3-U0012-06",
+   "unit_id": "SG3-U0012"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0012",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "俞敏洪5000亿估值（2015）/2020疫情期在线教育数据为例证留痕，机理已入卡；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第009封信：三方式/远程替代可行/MOOC悖论/AI个性化辅导/言传身教/形式变革"
+}

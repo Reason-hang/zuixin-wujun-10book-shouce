@@ -1,0 +1,241 @@
+{
+ "unit_id": "SG3-U0005",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国数十年在不断相对衰退，硅谷却将每一次危机都变成机会——竞争力爆发恰在危机之后",
+   "quote": "将每一次危机都变成机会",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 845,
+    "end_line": 845,
+    "sha1": "b43675a887637033fd1bf211c52df1e354b4c2ed",
+    "fingerprint": [
+     "危机",
+     "机会"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "危机转机会",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第002封信；三代人各自最好时代（835-839）；疫情前失业率3.5%最低但GDP仅占全球约20%（843）；硅谷衰退论与中国衰退论一样不靠谱、本轮竞争力爆发在2008-09金融危机后（845）",
+   "claim_id": "C-SG3-U0005-01",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "硅谷成功的根源：它是较纯粹的技术社会、商业社会与公民社会——现代社会三大基本属性",
+   "quote": "技术社会、商业社会和公民社会",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 847,
+    "end_line": 847,
+    "sha1": "28c81c9b882ce50692a9ac0da0327c500b2d9da4",
+    "fingerprint": [
+     "技术社会",
+     "公民社会"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "三社会论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对今天中国高速发展地区亦有启示（847）；公民社会属性下一信专述（U0006）；划重点重申（931）",
+   "claim_id": "C-SG3-U0005-02",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大硅谷2019年GDP近1万亿美元居全球第17、人均超卢森堡——硅谷共和国富可敌国",
+   "quote": "硅谷共和国",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 857,
+    "end_line": 857,
+    "sha1": "e09f70548f1ebaf8608484c1de2d8991c5fd6021",
+    "fingerprint": [
+     "GDP",
+     "土耳其"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "硅谷经济体量",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "X6时点：美股市值最高五家皆高科技、三家在硅谷两家在西海岸（853）；纳斯达克100强约1/3为硅谷企业（855）；人口仅770万（857）",
+   "claim_id": "C-SG3-U0005-03",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "硅谷60多年高速发展不靠自上而下规划也不靠放任：深层原因是对技术社会的信念，虔诚如宗教",
+   "quote": "宗教般的虔诚",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 867,
+    "end_line": 871,
+    "sha1": "8e203a3a9363bd5de53c3a608ede620fb31c8133",
+    "fingerprint": [
+     "信念",
+     "规划"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "信念驱动繁荣",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "自瓦特时代起即有人信技术进步能改良社会（875）；马斯克乔布斯可把暂时利润放一边把技术做好（875）；小结：信念很重要、勿左右摇摆（919）",
+   "claim_id": "C-SG3-U0005-04",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "叛逆是硅谷的本质特征：叛逆者远离传统中心聚集于此，掌握技术造新产品颠覆原有市场",
+   "quote": "硅谷的本质特征",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 877,
+    "end_line": 883,
+    "sha1": "cccc13c75bed7a4f19e909619f86906aa72382b2",
+    "fingerprint": [
+     "叛逆",
+     "八叛徒"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "叛逆精神",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "乔布斯与伯克利嬉皮士、甲壳虫成员本质一类（879）；八叛徒含摩尔与诺伊斯（883）；技术成熟期要么自我颠覆要么被其他叛逆者颠覆（883）",
+   "claim_id": "C-SG3-U0005-05",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "弹性工作原则区分技术精英与技术工匠：每天与人生阶段均自主，释放自主创造力",
+   "quote": "巨大的自主性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 885,
+    "end_line": 887,
+    "sha1": "f135282c962b7969713b730473168b8aafb2bc2d",
+    "fingerprint": [
+     "弹性",
+     "自主"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "弹性工作原则",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "非年复一年朝九晚五或996（887）；硅谷隔段时间诞生改变世界的技术与该原则不无关系（887）",
+   "claim_id": "C-SG3-U0005-06",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "消费者主权论：过剩经济时代企业只能做三件事——创新产品、持续研发、占大市场",
+   "quote": "消费者主权论",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 891,
+    "end_line": 899,
+    "sha1": "e19cba94c4d28333536b9f44111d23455e40d572",
+    "fingerprint": [
+     "消费者主权",
+     "研发"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "消费者主权论",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "商业社会是硅谷人的第二个信念（891）；替代品很快入场故技术优势与垄断利润短暂（897）；X6时点：2019谷歌研发260亿/苹果160亿美元（897）；大市场两法=挖潜在消费欲+更多消费者（899）",
+   "claim_id": "C-SG3-U0005-07",
+   "unit_id": "SG3-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "格局：在最大范围内做生意——硅谷十几人初创也做全球市场，稳定挣钱的前提是定义好自己的市场",
+   "quote": "在最大范围内做生意",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 923,
+    "end_line": 925,
+    "sha1": "aebed8bd88c06ac106eb3e439a2d4f0fec861371",
+    "fingerprint": [
+     "商业环境",
+     "做生意"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "全球市场格局",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "硅谷大企业一半收入来自海外（901-905）；含加州外收入则产值超俄罗斯（911）；硅谷企业家盼世界少谈政治只做生意（913）；小结：格局很重要（921）",
+   "claim_id": "C-SG3-U0005-08",
+   "unit_id": "SG3-U0005"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0005",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "2020.8苹果市值两万亿/2019年GDP与研发投入等时点数据为例证留痕，机理已入卡；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第002封信：三社会论/信念驱动/叛逆精神/弹性工作/消费者主权/全球市场"
+}

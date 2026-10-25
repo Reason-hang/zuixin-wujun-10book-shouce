@@ -1,0 +1,235 @@
+{
+ "unit_id": "SG3-U0011",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在家办公效率不高三因：个人易怠惰（需有压力氛围）+不便合作+办公条件不如办公室",
+   "quote": "效率不高的原因主要有三个",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1407,
+    "end_line": 1415,
+    "sha1": "803df8b04d64e5911fb29192b77a94e137356411",
+    "fingerprint": [
+     "怠惰",
+     "压力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "在家办公三低因",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "第008封信；宿舍自习vs图书馆占座（1411）；思科太阳放任在家办公、有人午饭后逛街两三小时（1415）；梅耶尔发现有人一周不登VPN、自欺欺人（1415）；90年代硅谷试过效果不好（1401）；设备限制：需Linux服务器（1433-1435）",
+   "claim_id": "C-SG3-U0011-01",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "劳动产出常由同事配合程度决定，而不单靠个人努力——在家办公不利于配合",
+   "quote": "由同事和你配合的程度决定的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1419,
+    "end_line": 1421,
+    "sha1": "10f1a3b37670aeab44a03bd8aa318070b71a4dff",
+    "fingerprint": [
+     "合作",
+     "配合"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "产出由配合决定",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "转身就能问vs微信耽搁；请人审代码走到工位当面解决vs邮件催半天（1421）",
+   "claim_id": "C-SG3-U0011-02",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "战时办公室：紧急情况全员集中待命——这种方式整个部门工作效率最高",
+   "quote": "战时办公室",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1423,
+    "end_line": 1425,
+    "sha1": "1870e2fd5f20fd5a1b3247c9dbeb296c29edc466",
+    "fingerprint": [
+     "紧急",
+     "效率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "战时办公室",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "按任务紧急度切换办公方式：平时可在家、上线冲刺须到岗（1423）；做完也不能离开、随时待命（1425）；长期压力大、紧急过后恢复宽松（1427）",
+   "claim_id": "C-SG3-U0011-03",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "远程沟通损耗：远程办公室完成的任务常完全不是想要的样子——距离造成沟通困难",
+   "quote": "完全不是我想要的样子",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1429,
+    "end_line": 1431,
+    "sha1": "669529e349d3ca63695bb15d65736c981f187568",
+    "fingerprint": [
+     "远程",
+     "沟通"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "远程沟通损耗",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "作者在谷歌管五个地区员工、四个远程（1429）；办法：远程人员每半年来总部工作一两个月、效率高很多（1431）",
+   "claim_id": "C-SG3-U0011-04",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "混合办公趋势：在家工作不会成为唯一方式，但很多人会一周只去办公室三四天",
+   "quote": "一周只去办公室三四天",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1437,
+    "end_line": 1441,
+    "sha1": "f61a7948b6c87d303eeb64c3ca795520e15071af",
+    "fingerprint": [
+     "办公室",
+     "在家工作"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "混合办公趋势",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "与伊兹奥尼教授探讨的结论（1437）；一周一两天在家对缓解交通、增加灵活性有好处（1467）；面对面同工作仍是效率最高方式（1467）",
+   "claim_id": "C-SG3-U0011-05",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在家办公要有仪式感：平时穿什么就穿什么、几点到办公室就几点坐到桌前",
+   "quote": "一定要有仪式感",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1447,
+    "end_line": 1447,
+    "sha1": "dc6c4b87540445aea3922ee514ca1c0518de616e",
+    "fingerprint": [
+     "仪式感",
+     "服装"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "在家办公仪式感",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "不能穿睡衣躺床开电话会（1447）；每天做记录；考虑同事配合度不如办公室、进度留更多时间（1447）",
+   "claim_id": "C-SG3-U0011-06",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "远程管理三件事：早请示晚汇报、立好值班制度、做好办公设备保障",
+   "quote": "早请示，晚汇报",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1449,
+    "end_line": 1461,
+    "sha1": "5c961bf9e38161b677f75f2d14828d1e41b12790",
+    "fingerprint": [
+     "值班",
+     "设备"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "远程管理三件事",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "早会确认每个人都理解意思、晚会半小时汇报防偏离（1453）；纽约/苏黎世/特拉维夫/中国四地每周一视频会（1453）；值班者汇总应急并分发（1457）；公司提供设备勿用个人电脑、防安全与数字资产流失；硅谷公司付宽带费（1461）；划重点重申（1477）",
+   "claim_id": "C-SG3-U0011-07",
+   "unit_id": "SG3-U0011"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "定期交流防水平停滞：长期远程三个月到半年水平差异明显——新员工早送总部、每年全球交流一次",
+   "quote": "水平得不到提高",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1463,
+    "end_line": 1465,
+    "sha1": "997a954761dcf54540027ed2a167c03c6a001e82",
+    "fingerprint": [
+     "交流",
+     "提高"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "定期交流防停滞",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "新毕业生当地办公室三个月后与总部同事进步速度有差异（1465）；入职一两个月办好手续到山景城工作几个月（1465）",
+   "claim_id": "C-SG3-U0011-08",
+   "unit_id": "SG3-U0011"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0011",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "划重点节为结构内容；疫情期间在家办公为背景时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第008封信：三低因/配合决定产出/战时办公室/远程损耗/混合趋势/仪式感/三件事/定期交流"
+}

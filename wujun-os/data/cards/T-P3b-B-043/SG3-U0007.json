@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG3-U0007",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "硅谷会缓慢地相对衰退：今天是它的最高点，过程或长达30年，且在美仍属高水平地区",
+   "quote": "缓慢地相对衰退",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1025,
+    "end_line": 1031,
+    "sha1": "3650963372cd769bec7ace571b8c40417db5d10b",
+    "fingerprint": [
+     "衰退",
+     "相对"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "缓慢相对衰退",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第004封信；三要点=衰退+过程很长+相对衰退（1027-1031）；划重点重申（1105）",
+   "claim_id": "C-SG3-U0007-01",
+   "unit_id": "SG3-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思科英特尔是未来硅谷的缩影：黄金时代已过20多年、市值仅剩最高点约40%——缓慢而相对地衰退",
+   "quote": "缓慢而相对地衰退",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1039,
+    "end_line": 1047,
+    "sha1": "67595e079fb59c72b0f646c7e71b0bfd699467de",
+    "fingerprint": [
+     "英特尔",
+     "思科"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "思科英特尔缩影",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "最高点在2000年前、超5000亿美元可比亚马逊苹果万亿（1039）；WinTel时代→绝对性能不敌英伟达GPU、单位能耗不敌ARM（1041）；思科当年无对手、华为尚低端（1043）；员工从亮工牌买房到总监买不起（1047）；真正危机或再等20年、全程超40年（1049）",
+   "claim_id": "C-SG3-U0007-02",
+   "unit_id": "SG3-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "硅谷当初成功的原因就是它以后衰退的原因——与美国二战后衰退同理，只是晚七八十年",
+   "quote": "就是以后它衰退的原因",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1053,
+    "end_line": 1053,
+    "sha1": "acdd8368536b4c6abf5c5c9c1875fdeea8081895",
+    "fingerprint": [
+     "成功",
+     "衰退"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "成功即衰退之因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清教徒精神构建公民社会使美国崛起（1057）；西部融合宽容+技术社会认同带来硅谷成功（1059）；今清教徒精神衰弱、政治正确侵犯个人自由（1061）；戈尔环保主义者一人年用22万度电之虚伪例（1063，X6留痕）",
+   "claim_id": "C-SG3-U0007-03",
+   "unit_id": "SG3-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技术社会的长期基础是全民高水平教育——美国80%高中毕业生不会解一元二次方程",
+   "quote": "技术社会的基础",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1075,
+    "end_line": 1083,
+    "sha1": "aae099e88f7f655524c86da32d67e539a2b28844",
+    "fingerprint": [
+     "教育",
+     "博士"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "教育为技术社会之本",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "史普尼克危机→国防教育法案、中小学STEM（1077）；加州生均经费前列而水平第48（1079）；精英子女上私立、阿瑟顿公立最差（1081）；理工科博士本土占比从80%降至不足一半、名牌大学与硅谷靠网罗外国精英（1083）",
+   "claim_id": "C-SG3-U0007-04",
+   "unit_id": "SG3-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业社会稳定运行的前提：人人对经济活动有贡献、优势互补——失业率+1pp则犯罪率+15%",
+   "quote": "商业社会能够稳定运行的前提",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1085,
+    "end_line": 1087,
+    "sha1": "4f85b5076364ae9534fde13a46f82c6fd8f4d161",
+    "fingerprint": [
+     "失业率",
+     "犯罪率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业社会稳定前提",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "全球化直接受益者仅约1/4人口、其余依赖当地经济反而易失业（1085）；贫困地区失业率+1pp犯罪率+30%（1087）；把富人的钱分给穷人也形成不了商业社会（1087）",
+   "claim_id": "C-SG3-U0007-05",
+   "unit_id": "SG3-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "越富裕的国家和地区越需珍惜保守的价值观——巴比伦和罗马都毁于富裕平安",
+   "quote": "越是需要珍惜保守的价值观",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1093,
+    "end_line": 1093,
+    "sha1": "dfcec77770481ddfea4f1034bb2535c5410e795e",
+    "fingerprint": [
+     "罗马",
+     "价值观"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "富裕与保守价值观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "罗马起家简朴、后穷奢极欲不事劳动、蛮族入侵无力抵挡（1093）；富裕者沉醉鸡汤极端环保、穷人指望不劳而获（1095）；解决贫困靠财富增加+每个人行动、解决环保靠科技而非协议（1097）；中国发展根本=允许每个人劳动致富（1099）",
+   "claim_id": "C-SG3-U0007-06",
+   "unit_id": "SG3-U0007"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0007",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "戈尔22万度电/硅谷指数2016-2019人口交换（-2.8万）/高中数学与博士本土占比等时点统计为例证留痕，机理已入卡；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第004封信：缓慢相对衰退/思科英特尔缩影/成功即衰退之因/教育为本/商业社会前提/保守价值观"
+}

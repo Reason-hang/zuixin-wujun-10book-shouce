@@ -1,0 +1,270 @@
+{
+ "unit_id": "SG3-U0009",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "全球化不会终结、将进入2.0：全球分工不因病毒改变——缺资源必买、缺熟练工加两三倍成本也做不到",
+   "quote": "全球化2.0",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1209,
+    "end_line": 1217,
+    "sha1": "b837b318d4a3d4b1d757b3ad1a98368cb699eae1",
+    "fingerprint": [
+     "分工",
+     "全球化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "全球化2.0",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第006封信；依据=投行内部报告+世行公开报告+政要观点（1205）；基础设施/教育投资/公共卫生已适应现有分工（1217）；《浪潮之巅》预言欧洲衰落中国崛起已验证（1211）",
+   "claim_id": "C-SG3-U0009-01",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没多少人内心坚决反对全球化：反对只因未得好处，得好处即转支持——照顾好各方利益则基础广泛",
+   "quote": "全球化其实是有广泛基础的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1219,
+    "end_line": 1219,
+    "sha1": "a123bcaa2924315e3d5fc9b32e1a85d8a82fbdc0",
+    "fingerprint": [
+     "全球化",
+     "好处"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "利益分配与全球化态度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与城市化态度类似：带来真实好处即转支持（1219）",
+   "claim_id": "C-SG3-U0009-02",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "政治对全球化的影响没有想象中大：冷战期全球化反而加速，与之最相关的是经济政策",
+   "quote": "没有想象中那么大",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1233,
+    "end_line": 1233,
+    "sha1": "2476fa5d2fc0b7635a6d35d0f64c1d6f739b08d2",
+    "fingerprint": [
+     "冷战",
+     "经济政策"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "经济政策主导全球化",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "一战到二战30年交战仍无法斩断商品资金全球流动（1227）；基洛夫工厂靠1924福特合作起家、二战占苏联20%军工产能（1229-1231，X4史料留痕）；全球贸易占经济总量2010年前后约60%（1225，X6）；划重点重申（1283）",
+   "claim_id": "C-SG3-U0009-03",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "变化①短距离合作取代长距离：疫情暴露远距不确定因素多，就近区域合作风险更可控",
+   "quote": "短距离合作",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1239,
+    "end_line": 1247,
+    "sha1": "ccd756c26cb816d98f46dacb516f1ae04dc578c7",
+    "fingerprint": [
+     "比较优势",
+     "距离"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "短距离区域合作",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "比较优势A/B国算例（1241-1243）；深圳海运洛杉矶比陆路到北京便宜（1245）；长距不确定因素致中间品交付中断、精益库存制造业最受伤（1247）；区域化合作产生新商业机会（1247）",
+   "claim_id": "C-SG3-U0009-04",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "变化②供应商地域多样性：大部分订单给最有优势者+另一地区扶持小供应商，双保险降供应链风险",
+   "quote": "地域多样性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1249,
+    "end_line": 1255,
+    "sha1": "683285aad822aa56b6b8c83b2ea841c98bea25aa",
+    "fingerprint": [
+     "供应商",
+     "双保险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "供应链双保险",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "惠普戴尔联想：大部分处理器订单给英特尔+少部分给AMD，既便议价又防万一（1253）；早几年行动的企业家成功规避风险（1255）",
+   "claim_id": "C-SG3-U0009-05",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "变化③企业间合作向企业内合作转变：完整生产链条不受上下游复工制约，剥离的部门买回来",
+   "quote": "向企业内合作转变",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1257,
+    "end_line": 1263,
+    "sha1": "655bc0c656f488b9313516f6e6df808a3f9e4f9b",
+    "fingerprint": [
+     "剥离",
+     "买回来"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "产业链内化",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "1.0时期为利润率剥离低利润部门、品牌独立（1259）；日美已出现买回、尤其医疗物资企业（1263）；大公司在国际多元化同时更寻求安全（1263）",
+   "claim_id": "C-SG3-U0009-06",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "变化④医疗食品等必需品及国家安全相关产业开始向母国回归——只占全球贸易很小部分",
+   "quote": "向母国回归",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1265,
+    "end_line": 1265,
+    "sha1": "ccd1274461119750e5a65e1bf50ce7ac3741cc11",
+    "fingerprint": [
+     "必需品",
+     "母国"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "必需品母国回归",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "日本企业已在做（1265）",
+   "claim_id": "C-SG3-U0009-07",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "变化⑤电商/视频会议/远程办公等技术变革反过来进一步促进全球化：5公里和5000公里没区别",
+   "quote": "进一步促进全球化",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1267,
+    "end_line": 1271,
+    "sha1": "594a255337a01ef0a1147e3c5a93a985964693fd",
+    "fingerprint": [
+     "远程办公",
+     "成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "技术反促全球化",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "小公司不国际化因办公室/管理/差旅成本高（1269）；作者亲身：远程会议反而能参加所有董事会、获得平等的权利（1271）",
+   "claim_id": "C-SG3-U0009-08",
+   "unit_id": "SG3-U0009"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "疫情让全球化转弯但不逆行：转弯是变化不是停止，变化意味着机会——关注新的驱动因素",
+   "quote": "转弯是变化，不是停止",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 1275,
+    "end_line": 1275,
+    "sha1": "494f94ef6962a40648db7cace44298dfb4d2534b",
+    "fingerprint": [
+     "转弯",
+     "机会"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "转弯不逆行",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "帮助公司应对动荡甚至受益（1275）；个人可重思全球化变化对职业发展的影响（1277）；划重点重申（1285）",
+   "claim_id": "C-SG3-U0009-09",
+   "unit_id": "SG3-U0009"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0009",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "全球贸易占比约60%（2010前后）等时点数据为例证留痕，机理已入卡；划重点节为结构内容"
+  },
+  {
+   "unit_id": "SG3-U0009",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "苏联基洛夫工厂与福特合作史料为例证留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第006封信：全球化2.0五变化+利益基础+经济政策主导+转弯不逆行"
+}
