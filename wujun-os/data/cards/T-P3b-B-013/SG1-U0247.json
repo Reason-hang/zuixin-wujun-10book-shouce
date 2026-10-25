@@ -1,0 +1,267 @@
+{
+ "unit_id": "SG1-U0247",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "确认公司能长期增长后，早买晚买、贵20%便宜20%对长期回报影响都不大",
+   "quote": "从长期来讲都关系不大",
+   "anchor": {
+    "start_line": 15598,
+    "end_line": 15600,
+    "fingerprint": [
+     "长期",
+     "20%的钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "45061d3222d7c59ac9dc2c9daab80b3fd481363c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "长期投资时机无关",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特常买在高位但一持有20年以上，前述差异无关紧要（15600）；若因溢价20%或晚买半年就无利可图，这种股票本身不值得投资（15600）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-01",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看似转瞬即逝的机会不是真机会而只是投机；真机会来自长期持续发展",
+   "quote": "不是真的机会",
+   "anchor": {
+    "start_line": 15634,
+    "end_line": 15634,
+    "fingerprint": [
+     "转瞬即逝",
+     "投机"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9a4e38b4b3adc8c957fa3407419f0ec281c3213"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "机会与投机之分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国有机会的前提是能有20年持续发展，一两年谈不上机会甚至投机可能性都不大（15606）；怕错过一两年就失去机会的焦虑属投机心态（15634）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-02",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "重大决策不可凭冲动，要谋定而后动；想清楚思路的人后动手也做得不错",
+   "quote": "要谋定而后动",
+   "anchor": {
+    "start_line": 15608,
+    "end_line": 15608,
+    "fingerprint": [
+     "冲动",
+     "谋定而后动"
+    ],
+    "book_code": "SG1",
+    "sha1": "52fd2b0ae746a7e3772122855b863107377a52be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "重大决策谋定后动",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例：匆匆跟IT大咖回国者最后干得都不好，因没想清楚；随后几年陆续回去理清思路的不少人做得不错（15608）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-03",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "Z君：全世界只需投资美国和中国两地，其余都不用考虑",
+   "quote": "美国和中国",
+   "anchor": {
+    "start_line": 15616,
+    "end_line": 15618,
+    "fingerprint": [
+     "Z 君",
+     "两个地方"
+    ],
+    "book_code": "SG1",
+    "sha1": "9594fa32b39f4cca41bf3871331bff65e40dd668"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "押注工业化的历史惯性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Z君（吴军朋友，先后亲历三家上市公司含高盛亚马逊Google，判断力经事实验证）；依据=《异类》工业革命诞生1/5超级富豪的类比+《浪潮之巅》惯性（15618）；10年回报极为丰厚（15620）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-04",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业或国家一旦站上浪潮之巅，会顺惯性发展很长一段时间，磕磕碰碰不改大趋势",
+   "quote": "顺着惯性往前发展",
+   "anchor": {
+    "start_line": 15640,
+    "end_line": 15640,
+    "fingerprint": [
+     "浪潮之巅",
+     "惯性"
+    ],
+    "book_code": "SG1",
+    "sha1": "6d8ac19a37235bd732837f219225768ac7053d1f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "浪潮之巅惯性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国南北战争后约30年超英国成第一经济强国再沿惯性发展近20年（15620）；中国约40年超美与AI为今后20年趋势的预测属时效论断已登记X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-05",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把短期困难看成危险、把昙花一现看成繁荣，是很多人的悲剧根源",
+   "quote": "把短期的困难看成危险",
+   "anchor": {
+    "start_line": 15624,
+    "end_line": 15624,
+    "fingerprint": [
+     "悲剧",
+     "昙花一现"
+    ],
+    "book_code": "SG1",
+    "sha1": "b9f721494fac0cba6bfe490ccc7a9ac39c97ae7f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D03-2"
+   ],
+   "concept_key": "时间尺度误判",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "结论句讲看事情的尺度（把短期波动误当长期趋势），属格局问题；同段引出罗斯柴尔德衰落案例（15624-15628）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-06",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "罗斯柴尔德家族因错过美国工业革命机会而衰落：不信趋势者错过时代红利",
+   "quote": "错过了美国工业革命",
+   "anchor": {
+    "start_line": 15626,
+    "end_line": 15628,
+    "fingerprint": [
+     "罗斯柴尔德",
+     "撤资"
+    ],
+    "book_code": "SG1",
+    "sha1": "bd0e08483abd0f44c5fd0fc3c6bf8263b720b77c"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "错过趋势的代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载可迁移判断：内战时从美国撤资、战后仍不看好美国，失去长达半个世纪发展机会（15626）；美国内战实为工业化扫清障碍，参与者大多盆满钵满（15628）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-07",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "相信大时代要做的事很简单：加入时代搭顺风车；成功者首先要感谢时代",
+   "quote": "加入这个时代即可",
+   "anchor": {
+    "start_line": 15630,
+    "end_line": 15630,
+    "fingerprint": [
+     "大时代",
+     "顺风车"
+    ],
+    "book_code": "SG1",
+    "sha1": "e0bcedf88650bc260365f017edc794f662256eb8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D09-2"
+   ],
+   "concept_key": "加入时代搭顺风车",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "马云语被转述：（腾讯市值超香港四大家族）不是马化腾厉害，是时代厉害（15630）；Z君搭中国发展顺风车为例",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-08",
+   "unit_id": "SG1-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思维方式比具体的知识更能决定人的命运",
+   "quote": "思维的方式比具体的知识",
+   "anchor": {
+    "start_line": 15642,
+    "end_line": 15642,
+    "fingerprint": [
+     "思维的方式",
+     "命运"
+    ],
+    "book_code": "SG1",
+    "sha1": "a91868a4932fcc1ca7b51ce3553a0aabf181a1aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "思维方式决定命运",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信总结句（15642）；愿读者成为像Z君那样能理性思考的人",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0247-09",
+   "unit_id": "SG1-U0247"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0247",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "时效预测：中国自1990年起约40年取代美国成第一大经济体（15622）、人工智能将是今后20年的趋势（15632），依附具体时点离开即失效；可迁移逻辑（长期机会、浪潮之巅惯性、20年时间窗口早晚加入关系不大）已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第237封信：长期投资时机无关/机会与投机/谋定后动/Z君押注惯性(转述)/浪潮之巅惯性/尺度误判/罗斯柴尔德案例/加入时代/思维方式定命运；时效预测归X6"
+}

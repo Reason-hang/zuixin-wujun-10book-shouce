@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0252",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "认知受限于行为和周围环境：生活中接触不到的事物，认知里就没有感觉",
+   "quote": "认知受限于我们的行为",
+   "anchor": {
+    "start_line": 16036,
+    "end_line": 16040,
+    "fingerprint": [
+     "无理数",
+     "第一个感悟"
+    ],
+    "book_code": "SG1",
+    "sha1": "5c651f6958906e84465ae07a1a4a3e8fa556645a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "认知受限于行为",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信第一个感悟（16040）；无理数远多于有理数，但生活中接触的大多是有理数故无感觉（16036-16040）；鞋号例子：脚长可能是无理数，找26号24号鞋就能穿不必较真（16038）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0252-01",
+   "unit_id": "SG1-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "行为求近似无可厚非，但认知不应受限于行为，否则就成了井底之蛙",
+   "quote": "井底之蛙",
+   "anchor": {
+    "start_line": 16042,
+    "end_line": 16042,
+    "fingerprint": [
+     "第二个感悟",
+     "井底之蛙"
+    ],
+    "book_code": "SG1",
+    "sha1": "6f4478485dccfab00e73b48bd537cb4a405409a0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "认知与行为分开",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信第二个感悟：有时要把认知和行为分开（16042）；把什么都搞得精确太累甚至绝无可能，行为上不较真没有问题（16042）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0252-02",
+   "unit_id": "SG1-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能以有限的认知理解无限的事物；少量经验得出的结论用于大场景常不管用",
+   "quote": "以有限的认知",
+   "anchor": {
+    "start_line": 16050,
+    "end_line": 16052,
+    "fingerprint": [
+     "无限的事物",
+     "不管用"
+    ],
+    "book_code": "SG1",
+    "sha1": "19de37b3f347a7d11dcd09edd24dfa0788271e02"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "有限认知不能理解无限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信第三个感悟（16052）；整数与偶数一一对应的诡辩：偶数是整数一半的认知来自有限范围，无限范围下不成立（16044-16048）；受过一两次骗就断言世上没好人，是同型误区（16052）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0252-03",
+   "unit_id": "SG1-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "毕达哥拉斯早知无理数存在却装鸵鸟视而不见，为维持学派权威掩盖事实",
+   "quote": "装鸵鸟",
+   "anchor": {
+    "start_line": 16026,
+    "end_line": 16028,
+    "fingerprint": [
+     "黄金分割",
+     "权威性"
+    ],
+    "book_code": "SG1",
+    "sha1": "6f8310ade39fa1825773204d9f0da19c55caa76d"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "权威遮蔽事实",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载可迁移判断：黄金分割率是毕达哥拉斯提出、本身就是无理数，他早已知道却装鸵鸟，为维持带宗教性质的学派权威宁可藏着掖着（16026-16028）；相传希帕索斯透露无理数被处死、数字完美的宇宙观崩塌（16022）；学派带邪教性质、清规戒律严（16024）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0252-04",
+   "unit_id": "SG1-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "痴是双刃剑：重大发明成就多靠痴达成，但痴也能让人做出害人的蠢事",
+   "quote": "一把双刃剑",
+   "anchor": {
+    "start_line": 16030,
+    "end_line": 16032,
+    "fingerprint": [
+     "双刃剑",
+     "宋之问"
+    ],
+    "book_code": "SG1",
+    "sha1": "36cb6f4fa91c26b990547f082a82f964b7fe3f09"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "痴的双刃剑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "历史上很多大科学家都非常痴，文学家诗人亦然（16030）；宋之问夺外甥刘希夷年年岁岁花相似诗句、害死刘希夷的痴人案例（16032）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0252-05",
+   "unit_id": "SG1-U0252"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0252",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "数学史公案叙述：圆周率与根号2的发现、勾股定理证明、有理数无理数定义、希帕索斯被处死始末、毕达哥拉斯学派邪教性质（16010-16026），及整数偶数一一对应的数学演示（16044-16048）；三个认知感悟已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第242封信：三个认知感悟（认知受限于行为/认知与行为分开/有限不能理解无限）+毕达哥拉斯装鸵鸟案例+痴的双刃剑；无理数数学史叙述归X4"
+}

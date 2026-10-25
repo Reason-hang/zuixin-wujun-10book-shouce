@@ -1,0 +1,243 @@
+{
+ "unit_id": "SG1-U0257",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事前不要对成败算计得太精明，否则不会迈出第一步，奇迹无从谈起",
+   "quote": "不要对成败算计得太精明",
+   "anchor": {
+    "start_line": 16384,
+    "end_line": 16384,
+    "fingerprint": [
+     "奇迹",
+     "小概率事件"
+    ],
+    "book_code": "SG1",
+    "sha1": "f83c68bb055e519c4397b5ec1d59e0581640d9b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "做事前别过分算概率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信主旨（标题即第247封信）；Google上市前后十余个关键岔路口每次都走对概率仅千分之一、成事主要靠运气（16382）；阿里腾讯从几人小公司到巨头概率恐不到1%、马云马化腾重做也未必成（16384）；周末问答：投资等事情前仍需算概率（16426）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-01",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不同概率事件的回报未必可比；容易做的事回报通常不会比难做的高",
+   "quote": "产生的结果未必可比",
+   "anchor": {
+    "start_line": 16388,
+    "end_line": 16388,
+    "fingerprint": [
+     "岔路口",
+     "回报"
+    ],
+    "book_code": "SG1",
+    "sha1": "719b9f30dc58833c48b46f8deef279779b4a922e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "概率与回报错配",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "很多人决定是否做一件事先算概率、成功率不到10%就放弃（16386）；两件事只能挑一件时按成功率挑容易的，但忽视了回报差异（16388）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-02",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "丁肇中：事情只有毫无希望与存在希望之分，不以概率高低决定做不做",
+   "quote": "毫无希望和存在希望",
+   "anchor": {
+    "start_line": 16390,
+    "end_line": 16392,
+    "fingerprint": [
+     "丁肇中",
+     "万分之几"
+    ],
+    "book_code": "SG1",
+    "sha1": "439baf919d832ce7e22dcb3fedafd4f738b9bf85"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "希望非零即做",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=丁肇中（诺贝尔奖得主、实验物理学家）；实验物理重大发现概率很低但再小的希望也是希望、1%成功率对做实验的人已极高（16390）；发现粲夸克实验成功可能性仅万分之几（16392）；其后半生游说各国政府出资支持渺茫的基础粒子实验、受益的年轻科学家做出诺奖级成就（16402-16406）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-03",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做成的影响力大的事起初都觉得希望渺茫：论文奖、进Google、胜高盛",
+   "quote": "希望很渺茫",
+   "anchor": {
+    "start_line": 16394,
+    "end_line": 16398,
+    "fingerprint": [
+     "最佳论文奖",
+     "高盛"
+    ],
+    "book_code": "SG1",
+    "sha1": "6ab817cdf5507d18527897faf3c1a0e27a7d32dc"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "渺茫事做成案例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载可迁移判断：1999年欧洲最佳论文奖1000篇取3、做成后成确立学术地位的里程碑（16394）；Google求职1500人只录1、认真去做后小概率变成确定性事件（16396）；Google与高盛打擂台创50个月持续盈利、高盛称概率仅一亿分之一，由此获得财务自由（16398）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-04",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "罗斯福：荣誉属于真正置身于竞技场上的人；不入场遇不到奇迹",
+   "quote": "置身于竞技场上的人",
+   "anchor": {
+    "start_line": 16400,
+    "end_line": 16400,
+    "fingerprint": [
+     "尼克松",
+     "奇迹"
+    ],
+    "book_code": "SG1",
+    "sha1": "17bd2929dbbc51b41b5bf1abd468e9c6c1934b0f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "入场才遇奇迹",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=西奥多·罗斯福（美国第26任总统，经尼克松常引用）；吴军引申：一个不在竞技场上的人，是不可能遇到奇迹的（16400）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-05",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做到最好的前5%靠兴趣使然不在乎失败；利益驱动者常知难而退",
+   "quote": "都是兴趣使然",
+   "anchor": {
+    "start_line": 16408,
+    "end_line": 16408,
+    "fingerprint": [
+     "前5%",
+     "利益驱动"
+    ],
+    "book_code": "SG1",
+    "sha1": "2304512ed07477895965cd0d6e4ddb3378e90c20"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "兴趣驱动抵达顶尖",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承第189封信观点（16408）；做到前20%-前5%的人常常利益驱动、知难而退，把握稳妥机会但那些机会回报未必高（16408）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-06",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人太精明了就不聪明了；年轻人千万不要过早地太精明",
+   "quote": "人太精明了，就不聪明了",
+   "anchor": {
+    "start_line": 16410,
+    "end_line": 16410,
+    "fingerprint": [
+     "过早",
+     "年轻人"
+    ],
+    "book_code": "SG1",
+    "sha1": "a3722a1fbef98fb95f6f43c234a048fb2221d303"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-2"
+   ],
+   "concept_key": "精明非聪明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应做事前不过分算概率主旨（16410）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-07",
+   "unit_id": "SG1-U0257"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "丁肇中：真正的发现在现有知识圈之外；不检测永远不知道真相",
+   "quote": "现有的知识圈之外",
+   "anchor": {
+    "start_line": 16414,
+    "end_line": 16414,
+    "fingerprint": [
+     "发现",
+     "真相"
+    ],
+    "book_code": "SG1",
+    "sha1": "eae63098148d045e19b7a8f72bd9ecde038522e5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "发现在知识圈外",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=丁肇中；本信结束语两句引言（16414）：真正的发现是在现有的知识圈之外；什么也不做不去检测就永远不知道真相是什么",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0257-08",
+   "unit_id": "SG1-U0257"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0257",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时效数据：勇士队98%夺冠概率与30%横扫概率预测、甲骨文球馆门票抢购与第五场余票（16366-16374）、Google市值接近7000亿美元（16378），依附2017年时点"
+  },
+  {
+   "unit_id": "SG1-U0257",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实叙述：丁肇中后半生游说各国政府出资支持阿尔法磁谱仪等大科学装置（总额10亿美元以上、单个15亿美元）、财政紧张时项目被砍、中国第一个互联网节点源自高能所向丁教授报送数据的经过（16402-16406），纯事件史；其承载的立场分歧判断已并入丁肇中转述卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第247封信：别过分算概率/概率与回报错配/丁肇中希望非零即做(转述)/渺茫事做成案例/竞技场(转述)/兴趣驱动前5%/精明非聪明/发现的知识圈(转述)；时效数据X2、游说史实X4"
+}

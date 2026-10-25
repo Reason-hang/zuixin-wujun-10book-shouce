@@ -1,0 +1,241 @@
+{
+ "unit_id": "SG1-U0263",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "制药专家：研发一款处方药需20年时间加20亿美元（自关键论文起算）",
+   "quote": "20 年时间，加上20 亿美元",
+   "anchor": {
+    "start_line": 16894,
+    "end_line": 16896,
+    "fingerprint": [
+     "20-20 原则",
+     "米诺"
+    ],
+    "book_code": "SG1",
+    "sha1": "e27e906ac06f0102b4add906712dbc134bae2bc2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "新药20-20原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=米诺（斯坦福医学院院长）、巴特（UCSF生物统计教授）、克拉格（霍普金斯公共卫生学院前院长）及默尔克、基因泰克科学家，答案一致（16894）；20年从新药最关键论文发表时算起到上市（16896）；大学医学院研究→小药厂→大药厂药品化的转移链条（16898）；失败率高：通过二期临床的药仅1/7能上市，摊薄后每款20亿美元（16902）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-01",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "药品专利有效期上市后仅剩约7年，药厂须7年赚回20亿否则破产",
+   "quote": "药品的有效期只剩下7 年",
+   "anchor": {
+    "start_line": 16904,
+    "end_line": 16906,
+    "fingerprint": [
+     "七年时间",
+     "仿制"
+    ],
+    "book_code": "SG1",
+    "sha1": "83b10ad5989af26756b2cfe795cf382cfb4456ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专利期与新药回收窗",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "专利保护17年可延3年，但最重要的专利在动物实验时就已申请（16904）；专利过期各药厂可仿制、药价暴跌（16906）；7年赚回20亿每年须赚三个亿、光靠美国患者不够（16906）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-02",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "都不为药付知识产权费则无人投入研发，必然妨碍全人类健康福祉",
+   "quote": "妨碍全人类健康水平的提高",
+   "anchor": {
+    "start_line": 16908,
+    "end_line": 16908,
+    "fingerprint": [
+     "不足以补偿成本",
+     "买单"
+    ],
+    "book_code": "SG1",
+    "sha1": "5ae7f006047568c84b2d49c7e710a8df45ec4bac"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "为新药买单",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "为了全人类的福祉大家必须为新药买单（16908）；药厂必须靠现有处方药利润研制新药，否则人类医学研究没有进步（16912）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-03",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "经济学家：损害人类利益的欺诈总能在道德制高点找到无破绽的理由",
+   "quote": "道德制高点上找到",
+   "anchor": {
+    "start_line": 16890,
+    "end_line": 16890,
+    "fingerprint": [
+     "经济学家",
+     "救死扶伤"
+    ],
+    "book_code": "SG1",
+    "sha1": "9dcb60852df1d7127b35a4443a08a85d7b8194a5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "道德制高点伪装",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军友人、著名经济学家；这种理由可让99%的人心安理得且找不出破绽（16890）；印度以救死扶伤为盗版药品的理由（16890）；识别此类论述是辨别真伪的通用课题",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-04",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "买不起药应由社会慈善与政府解决分配，不能靠盗版；药厂靠利润研发",
+   "quote": "政府要解决的分配问题",
+   "anchor": {
+    "start_line": 16912,
+    "end_line": 16912,
+    "fingerprint": [
+     "慈善机构",
+     "僧多粥少"
+    ],
+    "book_code": "SG1",
+    "sha1": "47ab4cc22061a9939814c32dfc7d645bcecdba88"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "分配问题非盗版理由",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "富国是否该补贴穷国是另一问题，如亲友不把财产分给你、不能指望不相识的人这样做（16910）；大药厂每年捐药给穷人但僧多粥少（16912）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-05",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "软件成本在开发不在复制，知识产权产品不能按光盘成本定而按市场定",
+   "quote": "成本在开发上，而不是复制上",
+   "anchor": {
+    "start_line": 16914,
+    "end_line": 16914,
+    "fingerprint": [
+     "市场定价",
+     "研发的成本"
+    ],
+    "book_code": "SG1",
+    "sha1": "9850f80da11f44d6b246318a78f5721e6742f99f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "知识产权市场定价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "手机也不是成本定价而是市场定价，挣回利润才有钱投入新一轮研发（16914）；视频网站完成免费吸引用户后都逐步转为收费，看电影花钱为何用软件不能（16916）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-06",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "软件挣不到钱产业就做不大：中国10家上市软件公司不敌美国一家中型",
+   "quote": "还不如美国一个中型的软件公司",
+   "anchor": {
+    "start_line": 16920,
+    "end_line": 16920,
+    "fingerprint": [
+     "金山",
+     "软件业发展缓慢"
+    ],
+    "book_code": "SG1",
+    "sha1": "e29cb99081e075745169f69b9643e4b3345ce87b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "盗版毁软件产业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软前总裁鲍尔默语被转述：如果中国再盗版软件，会毁掉自己的软件产业（16918）；金山用友东软宝信等10家市值盈利加起来不如Adobe或Intuit（16920）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-07",
+   "unit_id": "SG1-U0263"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知识产权收费的经济学基础是等价交换劳动原则（斯密到马克思）",
+   "quote": "等价交换劳动的原则",
+   "anchor": {
+    "start_line": 16922,
+    "end_line": 16922,
+    "fingerprint": [
+     "亚当·斯密",
+     "劳动"
+    ],
+    "book_code": "SG1",
+    "sha1": "55a161f620903f5e472303e7b1a7c6ab9ff94117"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "等价交换劳动原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "创造知识产权产品的人付出了劳动，使用者必须拿自己的劳动去交换即花钱买（16922）；本信收束句（16922）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0263-08",
+   "unit_id": "SG1-U0263"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0263",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点价格与行情数据：正版Office一年120-200美元、Acrobat约两倍价、微软中国定价700元（16872-16880）、iPhone7硬件成本290美元售价650美元、好莱坞光碟15美元（16878-16882）、印度盗版药品现状（16888）、中国上市软件公司市值对比与爱奇艺优酷每月20元月费（16916-16920），均依附2017年时点"
+  },
+  {
+   "unit_id": "SG1-U0263",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言转述：是否该用别人给的盗版软件、侄子要求姑姑每天转发得到专栏两问（16868-16870），属读者提问原文转述，无吴军评述本体；吴军的回应已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第253封信知识产权：新药20-20原则(转述)/7年回收窗/为新药买单/道德制高点(转述)/分配非盗版理由/市场定价/盗版毁产业/等价交换原则；时点数据X2、读者留言X7"
+}

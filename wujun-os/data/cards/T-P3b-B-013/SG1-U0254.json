@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG1-U0254",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程改进有物理极限：CPU主频受光速瓶颈限制，提频之路十年前已尽",
+   "quote": "光速是一个绝对的瓶颈",
+   "anchor": {
+    "start_line": 16162,
+    "end_line": 16162,
+    "fingerprint": [
+     "主频",
+     "极限"
+    ],
+    "book_code": "SG1",
+    "sha1": "91528b969b9c0d8a5361a73998f722ad7b85cb29"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "工程改进的物理极限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "电子运动速度已接近光速极限、几乎无再提高可能，从10年前开始这条路就走不通（16162）；英特尔转向提高集成度多核并行（16164）；多吃核受体积与散热限制（16166）；黄仁勋以专用处理器破局——有主动性的人总想方设法寻找更好的解决方法（16168）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0254-01",
+   "unit_id": "SG1-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从CPU到GPU再到TPU，效率提升的根本原因就是专注二字",
+   "quote": "根本原因在于两个字",
+   "anchor": {
+    "start_line": 16196,
+    "end_line": 16196,
+    "fingerprint": [
+     "专注",
+     "TPU"
+    ],
+    "book_code": "SG1",
+    "sha1": "ebcd03ed2efbfcd6433a4c1fcbcd135440679bb9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "专用化提效原理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "GPU两条好处：控制电路简单化让更多晶体管用于计算、单条指令批处理向量计算（16172-16180）；TPU只为特定张量计算、Google称效率抵15-30个GPU（16192）；TPU与GPU谁更好完全看做什么事情（16194）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0254-02",
+   "unit_id": "SG1-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "分工与专注的前提是市场规模足够大：需求太小不如用通用方案",
+   "quote": "市场规模足够大",
+   "anchor": {
+    "start_line": 16200,
+    "end_line": 16200,
+    "fingerprint": [
+     "上百万片",
+     "缝衣服针"
+    ],
+    "book_code": "SG1",
+    "sha1": "0bf8a737e5375b736a57a3966993a96740bc29d3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-1"
+   ],
+   "concept_key": "分工专注以市场为前提",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "TPU样片成本上百万美元、设计上千万，市场至少上百万片才值得做，否则不如用CPU（16200）；亚当·斯密制针：分工做细后一人一天上千根、全程一人一天不足10根，好比TPU与CPU关系（16198）；只用三五十根不如几个工人慢慢磨（16200）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0254-03",
+   "unit_id": "SG1-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技能该专精还是广博，判断标准是市场是否大到需要非常专而精",
+   "quote": "市场是否大到需要非常专而精",
+   "anchor": {
+    "start_line": 16202,
+    "end_line": 16202,
+    "fingerprint": [
+     "专而精",
+     "广博"
+    ],
+    "book_code": "SG1",
+    "sha1": "06ee236104ae35351d5bec104914e73a2412f811"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "专精与广博判断标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "激光矫正视力手术常见，1000例经验的医生通常远胜只做10例的，做好这件事可以吃一辈子（16204）；一辈子见不到两次的手术不值得医院专设医生（16206）；应用场景特别多的技能值得做精做深、场合少的不如广博（16206）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0254-04",
+   "unit_id": "SG1-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最值得练到精深的两项技能：与人打交道的技能和好的思维方式",
+   "quote": "好的思维方式",
+   "anchor": {
+    "start_line": 16208,
+    "end_line": 16208,
+    "fingerprint": [
+     "和人打交道",
+     "一辈子"
+    ],
+    "book_code": "SG1",
+    "sha1": "0cc922c904f453076b3329f276e667c3cfebdc9c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D01-1"
+   ],
+   "concept_key": "两项终身精深技能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与人打交道的技能用得最多值得练习好；好的思维方式要用一辈子且各种场合都重要（16208）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0254-05",
+   "unit_id": "SG1-U0254"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0254",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "具体产品与技术细节：CPU主频与集成度发展数据（16160-16164）、SISD/SIMD指令结构与捡豆子吸尘器比方（16174-16180）、英伟达P40三千内核与特斯拉辅助驾驶、AlphaGo用176个GPU（16182-16184）、张量概念与TPU效率声明、AlphaGo耗电量对比、TPU与GPU评测之争（16186-16194），具体产品评测与技术细节无可归属支柱；专注方法论与物理极限判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第244封信：物理极限/专注提效/市场规模前提/技能专广判断标准/两项终身精深技能；TPU产品技术细节归X8"
+}

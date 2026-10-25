@@ -1,0 +1,180 @@
+{
+ "unit_id": "SG1-U0261",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司很难兼顾员工顾客投资人三方利益，如同马儿跑又不吃草不掉膘",
+   "quote": "很难兼顾三方利益",
+   "anchor": {
+    "start_line": 16736,
+    "end_line": 16736,
+    "fingerprint": [
+     "马儿跑",
+     "航空业"
+    ],
+    "book_code": "SG1",
+    "sha1": "5d2061bdf1c9b37753fa072f6c057d929d4033ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "三方利益难兼顾",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "关注员工利益的公司未必是坏公司（16736）；行业发展快蛋糕好分时容易兼顾，航空业并非如此（16736）；只要是公司就必须在员工、消费者和投资人之间作选择（16738）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0261-01",
+   "unit_id": "SG1-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无论哪方利益优先都有好公司；做好一方另两方不太差即可，勿讨好三方",
+   "quote": "另外两方面不要太差就可以了",
+   "anchor": {
+    "start_line": 16756,
+    "end_line": 16756,
+    "fingerprint": [
+     "水中捞月",
+     "正确的做法"
+    ],
+    "book_code": "SG1",
+    "sha1": "a48a3408256b6a671575e5cf64e8b971078b5815"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "好公司单点优先",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对员工顾客投资人都不好的公司难以持久（16754）；员工优先如星巴克Google腾讯基因泰克（16742-16744）、顾客优先如亚马逊阿里运通（16746）、投资人优先如IBM英特尔苹果（16752）；同时讨好三方如同水中捞月缘木求鱼（16756）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0261-02",
+   "unit_id": "SG1-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美联航多次破产中赖掉福利、工会股权渐增，故员工利益优先不奇怪",
+   "quote": "工会就要多获得一些股权",
+   "anchor": {
+    "start_line": 16734,
+    "end_line": 16734,
+    "fingerprint": [
+     "破产保护",
+     "股权"
+    ],
+    "book_code": "SG1",
+    "sha1": "34ac981c409ef1e6ed1d1001b8b6b667041405c3"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "美联航员工优先由来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载机理判断：二战后工会势力增强、资方付不出福利以股权相抵，1995年工会持股55%（16728）；9·11后行业合并为三大集团、主要航空公司几乎都经历过破产保护（16732）；邻居飞行员退休金泡汤（16734）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0261-03",
+   "unit_id": "SG1-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "舒尔茨因父亲工伤无保障立志员工优先，星巴克临时工也有医疗保险",
+   "quote": "临时工都有医疗保险",
+   "anchor": {
+    "start_line": 16740,
+    "end_line": 16740,
+    "fingerprint": [
+     "舒尔茨",
+     "员工优先"
+    ],
+    "book_code": "SG1",
+    "sha1": "4d619ae458143e623446d7bf2a360e11f31a4db7"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "星巴克员工优先由来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载可迁移判断：创始人经历塑造公司价值排序；舒尔茨父亲因脚伤无收入得不到救治（16740）；星巴克对顾客并不好（咖啡品质、驱逐特朗普支持者风波）但不妨碍它成为好公司（16742）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0261-04",
+   "unit_id": "SG1-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场聪明人保一头：对老板、对下属同事或对公司负责，勿脚踩三只船",
+   "quote": "保住一头",
+   "anchor": {
+    "start_line": 16760,
+    "end_line": 16764,
+    "fingerprint": [
+     "特长",
+     "三只船"
+    ],
+    "book_code": "SG1",
+    "sha1": "f73454d1c9c97a23a764fc7580e27f4ac75d6786"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "职场保一头",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "人不太可能对谁都好、负责对象之间矛盾，老板下属同事公司难以同时满意（16758）；看到并发挥自己的特长是职场立于不败之地的法则，脚踩三只船最后掉水里（16764）；保一头不是损害另两方利益（16760）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0261-05",
+   "unit_id": "SG1-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对公司负责者公司缺不了你；对下属同事负责者实为被公司保护",
+   "quote": "公司缺不了你",
+   "anchor": {
+    "start_line": 16762,
+    "end_line": 16762,
+    "fingerprint": [
+     "绑架",
+     "老板倒台"
+    ],
+    "book_code": "SG1",
+    "sha1": "73a2b6b86035acde858a3662827abd28f3696b24"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "三种负责的后果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "聪明老板把对公司负责的人看成自己的资源（16762）；对老板负责者老板不倒有人罩、老板倒台自己不保（16762）；对周围同事和员工负责是用下属绑架公司、矛盾时公司会保护他甚至赶走老板（16762）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0261-06",
+   "unit_id": "SG1-U0261"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0261",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "行业史实与案例过程：美联航超售拖客事件经过与和解金额估计、中文媒体三种流行观点（16710-16716）、美国航空业80年代七家公司与边际成本、9·11前登机准点与垄断零和分配（16724-16726）、退休飞行员年收入20万美元对比IBM博士8万（16728）、合并成三大集团经过（16732），行业史与事件叙述；三方利益取舍判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第251封信：三方利益难兼顾/单点优先皆好公司/美联航员工优先由来/星巴克员工优先由来/职场保一头/三种负责后果；行业史实归X4"
+}

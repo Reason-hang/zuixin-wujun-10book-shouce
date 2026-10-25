@@ -1,0 +1,237 @@
+{
+ "unit_id": "SG1-U0248",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "梵高指数：后期印象派名画价格随富豪购买力涨落，可作宏观经济晴雨表",
+   "quote": "反映日本的经济情况",
+   "anchor": {
+    "start_line": 15678,
+    "end_line": 15678,
+    "fingerprint": [
+     "梵高指数",
+     "购买力大减"
+    ],
+    "book_code": "SG1",
+    "sha1": "e877577177f15722652b0a88278442d3cd0c73e0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D09-2"
+   ],
+   "concept_key": "梵高指数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "80-90年代日本资本入场推高后期印象派价格、屡破拍卖纪录（15676）；90年代后期日本经济衰退购买力大减、画价大跌（15678）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-01",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "艺术精品价格取决于三方面：艺术性、稀缺性、梵高指数（宏观因素）",
+   "quote": "艺术性、稀缺性以及",
+   "anchor": {
+    "start_line": 15690,
+    "end_line": 15690,
+    "fingerprint": [
+     "三个方面",
+     "梵高指数"
+    ],
+    "book_code": "SG1",
+    "sha1": "7766039c79d58c6c7c8526ce50e61ad402e25e41"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "艺术品定价三因素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接第14封信文物价值三性（文物性、艺术性、稀缺性）框架（15690）；三因素分述见后续各卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-02",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绘画的艺术性在于懂得并引领时代；模仿别人风格画得再好也不值钱",
+   "quote": "引领时代",
+   "anchor": {
+    "start_line": 15706,
+    "end_line": 15706,
+    "fingerprint": [
+     "懂得时代",
+     "不值钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "a5cc7609352d51f4e4ebb420c9de14a0c47d3041"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D10-1"
+   ],
+   "concept_key": "艺术价值在引领时代",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "罗丹语被转述：蹩脚的艺术家使用别人的眼睛观察世界（15708）；米开朗基罗已达绘画顶峰后画家须彰显个性、风格与时代吻合才值钱（15702）；印象派因光学进展与便携颜料契合时代而兴起（15704）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-03",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "历史上只有一流艺术家的绘画才有升值空间；古画不等于值钱",
+   "quote": "才有升值的空间",
+   "anchor": {
+    "start_line": 15710,
+    "end_line": 15710,
+    "fingerprint": [
+     "二流的艺术家",
+     "古画"
+    ],
+    "book_code": "SG1",
+    "sha1": "76516cfeccff1282af1eb568a75257339b9ff558"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D09-2"
+   ],
+   "concept_key": "一流作品才有升值空间",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二流艺术家一辈子绘画加起来可能卖不出一幅一流绘画的价格（15710）；19世纪70年代油画不到1000美元等拍卖实例（15710）；小钱买无名画家画盼传孙升值是异想天开（15712）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-04",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "稀缺性决定天价：数量太多难卖出天价；在世一流画家供给不确定涨不上价",
+   "quote": "很难卖出天价来",
+   "anchor": {
+    "start_line": 15714,
+    "end_line": 15716,
+    "fingerprint": [
+     "稀缺性",
+     "鲁本斯"
+    ],
+    "book_code": "SG1",
+    "sha1": "599e6e962db18946996eae4a87158a9cc6be3aae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "稀缺性抬升价格",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例：收藏家买两只同样花瓶砸掉一只，另一只价格涨数倍（15716）；二流画家作品数量太多，个别人炒作短暂抬价但无法持久（15716）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-05",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "艺术品市场回报集中于名画与大家作品，一般作品涨不过通胀，与普通人无关",
+   "quote": "回报和老百姓无关",
+   "anchor": {
+    "start_line": 15726,
+    "end_line": 15726,
+    "fingerprint": [
+     "通货膨胀",
+     "老百姓无关"
+    ],
+    "book_code": "SG1",
+    "sha1": "cfab3d67250b8b33191ef443a275b0c8f9293b1e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "市场回报集中头部",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二战后艺术精品是唯一回报高于股市的投资方式，但只是表面现象（15724）；名画与毕加索夏加尔级作品占交易额大头且贡献绝大部分涨幅（15726）；俄罗斯富豪将一流画作炒高约10倍（15718）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-06",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "艺术珍品有艺术性稀缺性又有非必需性，战乱时不能吃不能喝，价值可能被夸大",
+   "quote": "可能被夸大了",
+   "anchor": {
+    "start_line": 15686,
+    "end_line": 15686,
+    "fingerprint": [
+     "非必需性",
+     "稀缺性"
+    ],
+    "book_code": "SG1",
+    "sha1": "91cd1e08ef73ad8f53fc0565988603bedf64527a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "艺术品价值两重性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "因这两个特性，能否通过收藏艺术品获利非常不确定（15688）；过滤短期波动噪音后，艺术品长期获得回报相当普遍且背后有规律（15688）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-07",
+   "unit_id": "SG1-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "除非花几千万买毕加索级名画，否则艺术品投资难有好回报，不建议普通人投",
+   "quote": "我不建议大家投资艺术品",
+   "anchor": {
+    "start_line": 15728,
+    "end_line": 15728,
+    "fingerprint": [
+     "几千万",
+     "好的回报"
+    ],
+    "book_code": "SG1",
+    "sha1": "c62fec612e8983846734121bed75b2b89858e471"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "普通人勿投艺术品",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信结论句（15728）；今日思考：你对玉石翡翠的炒作如何看（15738）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0248-08",
+   "unit_id": "SG1-U0248"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0248",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "艺术史与拍卖史叙述：浮世绘源流及其对欧洲印象派的冲击（15664-15674）、Saito购画与克林姆特/波洛克拍卖纪录（15676-15680）、古画不值钱的拍卖实例与米格伦伪造维米尔案（15710-15712），纯史实科普无可迁移判断；定价逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第238封信：梵高指数/定价三因素/艺术性在引领时代/一流才升值/稀缺性/回报集中头部/价值两重性/普通人勿投艺术品；浮世绘与拍卖史实归X4"
+}

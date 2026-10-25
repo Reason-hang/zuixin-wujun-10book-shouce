@@ -1,0 +1,220 @@
+{
+ "unit_id": "SG1-U0260",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "全食超市成功在输出完整生活理念并践行：年捐5%利润用于环保",
+   "quote": "善于向大众宣传一种生活观念",
+   "anchor": {
+    "start_line": 16664,
+    "end_line": 16664,
+    "fingerprint": [
+     "共存体",
+     "5%的利润"
+    ],
+    "book_code": "SG1",
+    "sha1": "bd1b04537ab95f880c84f623e2de93d17272676f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "卖生活理念",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "理念核心：地球食物链人类交织成良性循环的共存体（16664）；顾客对它有宗教般虔诚、售价比其他超市高3倍左右仍愿购买（16666）；学生物者未必认同其食品理念，但顾客认同完整理念加上购物环境舒适故愿出高价（16666）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-01",
+   "unit_id": "SG1-U0260"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "麦基经营理念：顾全顾客雇员供应商投资者社区生态六方，投资人靠后",
+   "quote": "顾全六个利益相关者",
+   "anchor": {
+    "start_line": 16672,
+    "end_line": 16672,
+    "fingerprint": [
+     "麦基",
+     "生态环境"
+    ],
+    "book_code": "SG1",
+    "sha1": "53447ef2fba788fabed5705ab49ce664abc090bb"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "六利益相关者理念",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=约翰·麦基（全食超市创始人，60年代激进嬉皮士、80年代转以理想主义指导事业，16668）；投资人靠后但股票长期不差，受益于顾客20年不断增加（16672）；员工薪酬高于同行、连年入选财富最佳雇主、绝大多数员工持期权（16670）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-02",
+   "unit_id": "SG1-U0260"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "弗里德曼：捐5%利润做慈善是转移股东应得利润，再投入生产更有效",
+   "quote": "股东们应得的利润",
+   "anchor": {
+    "start_line": 16674,
+    "end_line": 16674,
+    "fingerprint": [
+     "弗里德曼",
+     "慈善"
+    ],
+    "book_code": "SG1",
+    "sha1": "be6f1d628ebaec26b71fa8e679959c71d4313625"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "股东利润优先论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=弗里德曼（著名经济学家），与麦基就企业经营原则激辩（16674）；无法保证慈善机构合理有效地使用这笔钱（16674）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-03",
+   "unit_id": "SG1-U0260"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "麦基：以顾客为中心的企业，顾客满意本身就是利润的来源",
+   "quote": "顾客满意本身就是利润的来源",
+   "anchor": {
+    "start_line": 16676,
+    "end_line": 16676,
+    "fingerprint": [
+     "以顾客为中心",
+     "社区环境"
+    ],
+    "book_code": "SG1",
+    "sha1": "97da741eeac36091ec6b2c119ade374aa2d09581"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "顾客满意即利润",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=麦基；顾客满意来自优良的环境包括社区环境、优良社区环境又来自大环境（16676）；无顾客自称来店买东西为帮商家谋利，各方支持的是经营理念（16678）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-04",
+   "unit_id": "SG1-U0260"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "电商进线下两种做法：廉价连锁合作vs高端窄众切入，后者竞争小得多",
+   "quote": "高端线下连锁店切入市场",
+   "anchor": {
+    "start_line": 16688,
+    "end_line": 16688,
+    "fingerprint": [
+     "阿里巴巴",
+     "竞争要小得多"
+    ],
+    "book_code": "SG1",
+    "sha1": "3e33ac2638eafe90ba47c66973524ba150af3dd9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "高端窄众切入",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接第76封信：商业本质是让顾客多花钱而非省钱，电商省下的时间钱最终要让顾客花掉（16686）；美国尚无第二家同等规模有机食品店能与全食竞争（16688）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-05",
+   "unit_id": "SG1-U0260"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先获取高端用户树榜样再向下渗透；亚马逊发现价值来自中产以上家庭",
+   "quote": "先获取高端用户",
+   "anchor": {
+    "start_line": 16690,
+    "end_line": 16690,
+    "fingerprint": [
+     "榜样",
+     "中产以上"
+    ],
+    "book_code": "SG1",
+    "sha1": "7eb62ad8005fa73d2d597e9b1e0cd53d4fbe4978"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "高端榜样渗透",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与农村包围城市相对的另一条路（16690）；亚马逊最早针对低收入顾客、后发现提供价值的是中产以上家庭，与沃尔玛顾客群区分开、收购高端品牌提升品质（16690-16692）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-06",
+   "unit_id": "SG1-U0260"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "布局要看长远：实体结合是下一步棋，与生活结合是两步以后的棋",
+   "quote": "把目光放得长远一些",
+   "anchor": {
+    "start_line": 16694,
+    "end_line": 16696,
+    "fingerprint": [
+     "两步以后的棋",
+     "布局"
+    ],
+    "book_code": "SG1",
+    "sha1": "824803c013931bdb179e681f1d23cdba2d2da299"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "布局看长远",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "趋势判断本体（商业和生活的结合将是未来商业的特点）登记X6；承第76封信茑屋书店模式观点（16694）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0260-07",
+   "unit_id": "SG1-U0260"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0260",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "公司史与行业科普：全食超市1980年创立、430家店与艾柏森规模对比（16646-16648）、新生活运动三方面热捧与科技公司市盈率（16650-16652）、纯天然与有机标准差异、周转环节少离产地近（16658-16660）、2001年互联网泡沫后有机食品风行（16662）、麦基嬉皮士转右创业史（16668），纯公司史无可迁移判断；理念经营判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0260",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事时点数据：2017年6月16日亚马逊137亿美元收购全食、溢价近30%（16640）、三个月前英特尔150亿美元并购Mobileye（16642），依附具体时点事件"
+  },
+  {
+   "unit_id": "SG1-U0260",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "趋势预测本体：商业和生活的结合将是未来商业的特点（16694），宏观商业趋势预测；其可迁移的布局决策逻辑（看长远、下两步棋）已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第250封信：卖生活理念/六利益相关者(转述)/股东利润优先(转述)/顾客满意即利润(转述)/高端窄众切入/高端榜样渗透/布局看长远；公司史X4、时点数据X2、趋势本体X6"
+}

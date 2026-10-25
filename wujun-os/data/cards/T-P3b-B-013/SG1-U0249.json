@@ -1,0 +1,190 @@
+{
+ "unit_id": "SG1-U0249",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风投系统性失败原因一：没有人能看得准未来，获融资公司最终上市仅约1%",
+   "quote": "没有人能够看得准未来",
+   "anchor": {
+    "start_line": 15764,
+    "end_line": 15764,
+    "fingerprint": [
+     "看得准未来",
+     "1%左右"
+    ],
+    "book_code": "SG1",
+    "sha1": "8117f86c70d57630d75b70504ced697d3e2fd02b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "无人能看准未来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2000年泡沫期硅谷曾达2%-3%但仅此而已（15764）；不能上市不等于投资失败，硅谷约20%公司可被并购（15766）；硅谷48%的风投基金亏钱、中国比例更高（15766）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0249-01",
+   "unit_id": "SG1-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风投失败原因二：机构为向出资人交代，明知造假仍协助，利益绑定将错就错",
+   "quote": "帮助那些初创公司造假",
+   "anchor": {
+    "start_line": 15768,
+    "end_line": 15768,
+    "fingerprint": [
+     "作假",
+     "交代"
+    ],
+    "book_code": "SG1",
+    "sha1": "0917325a9699ca1ef25aa1562bfadc6f4e0cdd1e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "资本利益绑定纵容造假",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "典型案例塞让诺斯Theranos（15768）；安德森等投资人穿帮后不追究责任反表示信心十足（15788）；投资人早嗅出异常但利益被绑定，愿将错就错等新投资人接盘解套（15796）；资本从逐利演变成欺诈，创始人沦为道具（15796）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0249-02",
+   "unit_id": "SG1-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Theranos谎言维持12年才被戳穿：非无人识破，而是利益链共同维持骗局",
+   "quote": "谎言维持了12 年",
+   "anchor": {
+    "start_line": 15794,
+    "end_line": 15796,
+    "fingerprint": [
+     "高明的骗子",
+     "接盘解套"
+    ],
+    "book_code": "SG1",
+    "sha1": "5d056ae9b49536f10d007246ed893c4dac38d0bf"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "Theranos骗局案例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载可迁移判断：媒体大众不知情可原谅，投资人与董事会12年没看出来非笨而是利益绑定（15794-15796）；若非Google风投实地验血与《华尔街日报》调查半路杀出，将上市让普通股民接盘（15796）；Google风投以病人身份亲验发现血样非指尖一滴（15780）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0249-03",
+   "unit_id": "SG1-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风投失败原因三：任何技术浪潮都需要泡沫，借泡沫吸引人员与资源参与试错",
+   "quote": "技术浪潮都需要泡沫",
+   "anchor": {
+    "start_line": 15802,
+    "end_line": 15806,
+    "fingerprint": [
+     "泡沫",
+     "试错"
+    ],
+    "book_code": "SG1",
+    "sha1": "84cd23e6e46982ebde32a950519c6b8e6a3b6619"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "技术浪潮需要泡沫",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "新技术短期不足须大量人员一起解决、大量资源试错，遂需制造泡沫（15804-15806）；从半导体到互联网无不伴随泡沫，制造泡沫是风投常态、以后还会制造新泡沫（15806）；有泡沫就有破灭，参与者血本全无不奇怪（15808）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0249-04",
+   "unit_id": "SG1-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国家庭基本不投风投，仅高净值家庭放约2%资产；普通人重仓风投非好策略",
+   "quote": "这其实并不是一个好的策略",
+   "anchor": {
+    "start_line": 15810,
+    "end_line": 15810,
+    "fingerprint": [
+     "2%左右的投资金额",
+     "风险投资"
+    ],
+    "book_code": "SG1",
+    "sha1": "ac49b4a39bf702221746091b54bfc677b05d4989"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "普通人勿重仓风投",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国每年300亿-500亿美元入风投、四成在硅谷，相比25万亿美元股市可忽略不计（15808）；净资产1000万美元以上家庭与机构才考虑放2%左右于风投（15810）；承接投资101系列资产分配理性化（15812）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0249-05",
+   "unit_id": "SG1-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创公司即使成为独角兽，很快死掉的可能性也远超成功上市且表现良好",
+   "quote": "很快死掉的可能性要远远超过",
+   "anchor": {
+    "start_line": 15754,
+    "end_line": 15754,
+    "fingerprint": [
+     "独角兽",
+     "成功上市"
+    ],
+    "book_code": "SG1",
+    "sha1": "542c80403cd619b06f02fc747a5c236f344bb162"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "独角兽死亡概率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "截止2016年底全球独角兽约189家、美中占3/4（15752）；中国自2007年烧钱维系公司已死几拨：视频、电商、团购、移动互联网、O2O、P2P（15756）；大数据与AI公司将死的预测属时效论断登记X2",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0249-06",
+   "unit_id": "SG1-U0249"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0249",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "Theranos事件过程史实叙述（15770-15792）：退学创业神话、名人站台、董事会无技术背景、Google风投验证、《华尔街日报》报道、包依斯律师背景、监管介入，纯案例过程科普；可迁移判断（利益绑定将错就错、实地尽调）已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0249",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时效预测：很快会有大量的大数据公司和人工智能公司死掉（15758），依附2017年时点；独角兽估值数据（截止2016年底189家）同为时点数据仅作K卡背景"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第239封信：无人看准未来/协助造假将错就错/Theranos案例/技术浪潮需要泡沫/普通人勿重仓风投/独角兽死亡概率；案例过程史实归X4、大数据AI死亡预测归X2"
+}

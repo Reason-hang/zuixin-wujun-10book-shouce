@@ -1,0 +1,240 @@
+{
+ "unit_id": "SG1-U0250",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1M",
+ "batch_id": "T-P3b-B-013",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把富人的钱分给穷人解决不了问题：穷人缺的是发展的机会，不是收入",
+   "quote": "穷人没有发展的机会",
+   "anchor": {
+    "start_line": 15858,
+    "end_line": 15858,
+    "fingerprint": [
+     "分给了穷人",
+     "灰暗"
+    ],
+    "book_code": "SG1",
+    "sha1": "2565a67a9fef25a88f6154644c96e5bc55f4212a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "均贫富无效论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "打土豪式征税思想要得要不得看效果（15858）；即便平分王健林和马云的钱，教授岗位与老板数量不变，几年后当教授的还是教授、吃救济的还是吃救济（15866）；马克思：简单均贫富破坏经济使贫困普遍化（15868）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-01",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "给钱式扶贫没有效率：中国靠发展机会大面积脱贫，均贫富反陷欧洲于困境",
+   "quote": "说明你们扶贫没有效率啊",
+   "anchor": {
+    "start_line": 15872,
+    "end_line": 15874,
+    "fingerprint": [
+     "扶贫没有效率",
+     "从来没有发生过"
+    ],
+    "book_code": "SG1",
+    "sha1": "067eedf179cdfe058257db02299070b03cde304e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "扶贫无效脱贫靠机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "世行专家私下承认世界上靠扶贫脱贫的事情从未发生过（15874，转述）；中国90年代后未再拿世行钱，贫困人口从几个亿减到七千万、全世界唯一大面积脱贫（15872）；欧洲国家因均贫富陷入发展困境（15874）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-02",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "富人的钱大部分投入再生产，实质是社会财富；由其代管投资效率更高",
+   "quote": "实际上是一种社会财富",
+   "anchor": {
+    "start_line": 15870,
+    "end_line": 15870,
+    "fingerprint": [
+     "再生产",
+     "代为保管"
+    ],
+    "book_code": "SG1",
+    "sha1": "8f2bf69bf488c368ea8c564e8ef9485063b8ae00"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "富人钱是社会财富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "认清任何人的钱都是上帝存在他们那里、由他们代为保管，就更可放心交给富人保管（15870）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-03",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "维护社会公平关键在给人平等的机会，而非同样的收入；须限制超级权力",
+   "quote": "给人平等的机会",
+   "anchor": {
+    "start_line": 15876,
+    "end_line": 15876,
+    "fingerprint": [
+     "同样的收入",
+     "超级权力"
+    ],
+    "book_code": "SG1",
+    "sha1": "25f228f0f80e1fcde81a29f1d17a5f398eb2c655"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "公平在机会非收入",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信核心论点（15876）；给平等机会问题复杂，但限制超级权力是必须做的一件事（15876）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-04",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断垄断是否有害不看是否抬高物价，而看是否断了他人进入行业的可能",
+   "quote": "断了其他人进入",
+   "anchor": {
+    "start_line": 15888,
+    "end_line": 15888,
+    "fingerprint": [
+     "抬高了物价",
+     "反垄断"
+    ],
+    "book_code": "SG1",
+    "sha1": "15ab3b0e9d9549672681a4839d6a82f7095193b0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "反垄断判断标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国上百起反垄断诉讼无一例控告涨价，几乎都是控告不合理降价和倾销（15890）；不能因垄断公司不涨价就认定其行为合情合理（15890）；反垄断与进步运动历时20年（15888）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-05",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "垄断最大的危害是妨碍社会的公平性，让大多数人没有了机会",
+   "quote": "让大多数人没有了机会",
+   "anchor": {
+    "start_line": 15890,
+    "end_line": 15890,
+    "fingerprint": [
+     "垄断最大的危害",
+     "公平性"
+    ],
+    "book_code": "SG1",
+    "sha1": "3d9bf01216a75e99651b01920d0303b6120462fa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "垄断危害在断机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国大型民营企业扮演当年洛克菲勒角色的评论依附当下时点，归X2不展开（15890）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-06",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "洛克菲勒垄断炼油却将煤油降价80%：垄断未抬价仍因断人机会遭反垄断",
+   "quote": "煤油价格降低了",
+   "anchor": {
+    "start_line": 15882,
+    "end_line": 15886,
+    "fingerprint": [
+     "洛克菲勒",
+     "80%"
+    ],
+    "book_code": "SG1",
+    "sha1": "d441d6e1a363b0e9a6a444af4fc14434585c2abd"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "洛克菲勒垄断案例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例承载可迁移判断：靠原油与铁路议价能力、整合炼油厂降本，煤油降价80%（15884）；除法律允许范围内排挤对手外没做过坏事反多行善（15882）；排除他人进入行业形成超级权力、19世纪末美国社会矛盾极深（15886）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-07",
+   "unit_id": "SG1-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国经验：做到社会公平在于限制超级权力，而不是平分社会财富",
+   "quote": "限制超级权力",
+   "anchor": {
+    "start_line": 15892,
+    "end_line": 15892,
+    "fingerprint": [
+     "平分社会财富",
+     "总结一下"
+    ],
+    "book_code": "SG1",
+    "sha1": "e05d0d76d0c3920432037fee36cada720bb14c40"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "公平靠限权非平分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国近年方向同样是限制超级权力而非刻意拉平收入（15894）；在保证经济发展前提下保障社会公平，美国比今天中国糟糕得多也最终做到（15894）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0250-08",
+   "unit_id": "SG1-U0250"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0250",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事评论与具体人物事件：王健林小目标与波音767比方、清华教授被骗1700万舆论、清华北大北航科研经费对比、当下中国大型民企垄断点名（15838-15856、15890），依附2017年时点与具体对象，离开时点失效"
+  },
+  {
+   "unit_id": "SG1-U0250",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国19世纪末垄断时期社会矛盾史实叙述（资本家迫害工人、工人暗杀资本家、无政府主义恐怖活动等，15886）与反垄断进步运动过程细节（详见《文明之光》第四册，15888），纯史实；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第240封信：均贫富无效/扶贫无效脱贫靠机会/富人钱是社会财富/公平在机会非收入/反垄断标准/垄断危害断机会/洛克菲勒案例/限权非平分；时事评论归X2、美国垄断史归X4"
+}
