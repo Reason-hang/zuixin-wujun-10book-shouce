@@ -1,0 +1,73 @@
+{
+ "unit_id": "WJ2-U0222",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "航海条例的核心是让制造业留在英国本土：转口加征使竞争者成本抬升30%失去竞争力",
+   "quote": "让制造业留在英国本土",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17963,
+    "end_line": 17965,
+    "sha1": "0e612c236618bccdc4149a6c14404ad9b74ac99d",
+    "fingerprint": [
+     "航海条例",
+     "制造业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "贸易保护保制造业",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "当时制造业最先进最挣钱；英国扣押1400艘荷兰船只（含120军舰）触发第一次英荷战争（17967）",
+   "claim_id": "C-WJ2-U0222-01",
+   "unit_id": "WJ2-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "荷兰衰落不在战场在战略：商人为特权削军费、资本外借吃息、放弃工商业与军备；富裕不等于强大",
+   "quote": "富裕并不代表强大",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17997,
+    "end_line": 18001,
+    "sha1": "574b6b0681117c08f86caead258e19a263dd9dde",
+    "fingerprint": [
+     "军备",
+     "工商业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D08-1"
+   ],
+   "concept_key": "富裕不等于强大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "四次战争二胜二负军事略占上风仍一蹶不振；人均收入最高（斯密《国富论》1776）仍惨败；信末点题：表面争海上霸权实为发展战略与全球经济主导权之争（18007）；维也纳会议后再失统一良机（18003-18005）",
+   "claim_id": "C-WJ2-U0222-02",
+   "unit_id": "WJ2-U0222"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0222",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "四次英荷战争过程史实（航海条例/新阿姆斯特丹/多佛密约/美国独立战争背景/拿破仑吞并）按X4留痕，战略机理已入两卡；作者明示'不要牵强联系'（18009）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "文明史单元X4：只抽贸易保护机理与富裕不等于强大两条战略教训"
+}

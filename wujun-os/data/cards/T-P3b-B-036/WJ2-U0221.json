@@ -1,0 +1,155 @@
+{
+ "unit_id": "WJ2-U0221",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "适度负债是用未来收入换当下发展：让几件事同时做、做完用未来收益偿还",
+   "quote": "使用未来的收入偿还",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17883,
+    "end_line": 17885,
+    "sha1": "fda3bf4e6e027b9a25fe7c38b2025c1a797eb8a1",
+    "fingerprint": [
+     "负债",
+     "税收"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "负债发展机理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "贷款买房类比；中国借苏债上100项目、43方案、宝钢为例证；B国算账：回报率10%>利息5%每年净赚250亿",
+   "claim_id": "C-WJ2-U0221-01",
+   "unit_id": "WJ2-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "借新还旧在偿债能力增长赶不上债务增速时沦为庞氏骗局；债务增速须低于GDP增速",
+   "quote": "赶不上债务增长的速度",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17909,
+    "end_line": 17913,
+    "sha1": "3a65c8fd6cefab6f405e3a564581d5c1d85c0fef",
+    "fingerprint": [
+     "庞氏骗局",
+     "GDP"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D03-2"
+   ],
+   "concept_key": "借新还旧的庞氏边界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "资本回报率高于利息即可持续；为发福利而借的资本回报率为负（希腊教训，17913）",
+   "claim_id": "C-WJ2-U0221-02",
+   "unit_id": "WJ2-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国家行得通的借新还旧，企业与个人办不到：无印钞权、无资源可处置、抵押品有限",
+   "quote": "国家行得通的做法，个人办不到",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17925,
+    "end_line": 17929,
+    "sha1": "722eb9aebfae58c75cf308ce18e3c39c8def73ce",
+    "fingerprint": [
+     "破产",
+     "印钞"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "个人不可复制国家负债",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "企业资不抵债→融资成本飙升→连利息难付即清算；个人除房产外几乎无抵押品，信用卡=抵押未来赚钱能力",
+   "claim_id": "C-WJ2-U0221-03",
+   "unit_id": "WJ2-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任期短使政府倾向不负责借贷：前任不替后任考虑偿债（西方不给高龄老人房贷同理）",
+   "quote": "大着胆子去借",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17931,
+    "end_line": 17933,
+    "sha1": "0c05ab278a37c7ff6ec4f4ae77d45fdb1e5c9b9a",
+    "fingerprint": [
+     "偿债",
+     "贷款"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D09-1"
+   ],
+   "concept_key": "任期与负债冲动",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "每届政府寿命比人短；人死信用债不用偿还",
+   "claim_id": "C-WJ2-U0221-04",
+   "unit_id": "WJ2-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国家财富两把尺：税收代表创造能力、可变现资源代表家底；搬不走的基础设施不值钱",
+   "quote": "用可变现资源来衡量",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 17921,
+    "end_line": 17921,
+    "sha1": "8f0ae92db53ab8080c6da878b1755bcfd0193324",
+    "fingerprint": [
+     "税收",
+     "资源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "国家财富两把尺",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "晚清以关税抵押借债；加澳人均资源最多；央行印钱购债易失控、抵押资源免债、出售运河群岛经营权等化解工具（17919/17923）",
+   "claim_id": "C-WJ2-U0221-05",
+   "unit_id": "WJ2-U0221"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0221",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "欧盟各国债务/GDP占比、PIGS复苏vs德国乏力（17901）、中美负债总量与结构对比（17915）等时点宏观内容留痕，机理已入五张卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "国家借债发展的经济学机理与个人不可复制性，整信方法论成卡"
+}

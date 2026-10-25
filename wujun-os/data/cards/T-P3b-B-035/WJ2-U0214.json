@@ -1,0 +1,139 @@
+{
+  "unit_id": "WJ2-U0214",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0214-01",
+      "unit_id": "WJ2-U0214",
+      "speaker": "转述·第三方",
+      "claim_text": "哈耶克：通向地狱的道路是由善良的愿望铺成的（好初衷不保证好结果）",
+      "quote": "由善良的愿望铺成的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17387,
+        "end_line": 17387,
+        "sha1": "88d094b887fa9dfa7d6042b0684cd05dc0770563",
+        "fingerprint": [
+          "哈耶克",
+          "善良"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "善愿铺就地狱之路",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者哈耶克；吴军用于评快乐教育初衷好而结果坏"
+    },
+    {
+      "claim_id": "C-WJ2-U0214-02",
+      "unit_id": "WJ2-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "世界上就没有能够轻松做成的事情：快乐教育想让孩子轻松学习，产出的是功能性文盲",
+      "quote": "世界上就没有能够轻松做成的事情",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17387,
+        "end_line": 17387,
+        "sha1": "88d094b887fa9dfa7d6042b0684cd05dc0770563",
+        "fingerprint": [
+          "轻松",
+          "快乐教育"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "没有轻松做成的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "美国功能性文盲数据为例证；教育制度评述本体X5留痕"
+    },
+    {
+      "claim_id": "C-WJ2-U0214-03",
+      "unit_id": "WJ2-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "批评快乐教育不是说教育要痛苦：不要陷入简单二元对立的逻辑错误",
+      "quote": "不要陷入简单二元对立的逻辑错误",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17397,
+        "end_line": 17397,
+        "sha1": "79a7b569e9b977e9ead96435b0fe332b486e5ec9",
+        "fingerprint": [
+          "二元对立",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "避免二元对立",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三个特别提醒之首"
+    },
+    {
+      "claim_id": "C-WJ2-U0214-04",
+      "unit_id": "WJ2-U0214",
+      "speaker": "吴军本人",
+      "claim_text": "该学的时候认真学、该玩的时候尽兴玩，不要混为一谈；靠玩游戏提高成绩是低效率学习",
+      "quote": "该学的时候就得认真学",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17401,
+        "end_line": 17401,
+        "sha1": "be13d9f0b9fdda590884105dd59a70df9027404b",
+        "fingerprint": [
+          "认真学",
+          "玩游戏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学习玩耍不混淆",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "对家长的建议，学习机理普适（X5例外条款：如何学习方法论归D02-2）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0214",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "快乐教育与美国K12教育制度评述本体（功能性文盲数据、NAEP统计、马里兰快乐学校项目、给分不惩罚做法、精英教育更卷、给家长的教育建议）为教育制度内容，仅抽普适方法论4卡"
+    },
+    {
+      "unit_id": "WJ2-U0214",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "布热津斯基奶头乐理论为第三方宏观社会理论转述，属社会阶层固化叙述，无可迁移个人方法论"
+    },
+    {
+      "unit_id": "WJ2-U0214",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "特朗普2025年初评中国教育、中国四十年原创发明不多等为时点性时事评论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育制度本体X5留痕，按例外抽普适判断4卡（含哈耶克转述卡1张）"
+}

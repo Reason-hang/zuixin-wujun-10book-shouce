@@ -1,0 +1,171 @@
+{
+  "unit_id": "WJ2-U0213",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0213-01",
+      "unit_id": "WJ2-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "人的短视不应归因于时代和环境：农耕时代绝大多数人只能规划一年以内的事",
+      "quote": "不应该归因于时代和环境",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17271,
+        "end_line": 17273,
+        "sha1": "0acb9885793c25a4b6815f399fc64c1f1ecebabd",
+        "fingerprint": [
+          "短视",
+          "商业环境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "短视归因于己不归于时代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "当大多数人都赞同一个想法时更值得警惕；朱瞻基《耕夫记》农民例"
+    },
+    {
+      "claim_id": "C-WJ2-U0213-02",
+      "unit_id": "WJ2-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "检验因果不能只看A发生B也发生，要看A不发生时B是否发生，否则找的是不是原因的原因",
+      "quote": "一大堆不是原因的原因",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17289,
+        "end_line": 17293,
+        "sha1": "280d29f41c4bf8f3f343de88161b627a6e11f633",
+        "fingerprint": [
+          "原因",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "反事实因果检验",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教想问题的方法比给答案帮助更大；看似与时代有关的原因多经不起此检验"
+    },
+    {
+      "claim_id": "C-WJ2-U0213-03",
+      "unit_id": "WJ2-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "坚持长期主义的能力不是环境给的，而是个人选择的结果",
+      "quote": "而是个人选择的结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17293,
+        "end_line": 17295,
+        "sha1": "dba132265a988631a10c48b16a1c4653c0c78d39",
+        "fingerprint": [
+          "长期主义",
+          "选择"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2",
+        "D02-3"
+      ],
+      "concept_key": "长期主义是个人选择",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "追求短平快是人的通病（考完试急知分数）；当大多数人赞同的想法往往有问题"
+    },
+    {
+      "claim_id": "C-WJ2-U0213-04",
+      "unit_id": "WJ2-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "世界上绝大部分因果关系是积分关系：努力有延时，要积累并等待，分心做速成事则失所欲",
+      "quote": "因果关系都是积分关系",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17299,
+        "end_line": 17299,
+        "sha1": "3bc864b7cbfa543cd1f72a6c4cf04f5fb6533478",
+        "fingerprint": [
+          "积分",
+          "延时"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "积分的延迟效应",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军按第84封信概括命名；清华淡定学生与贾伟红点金奖16年例"
+    },
+    {
+      "claim_id": "C-WJ2-U0213-05",
+      "unit_id": "WJ2-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "规则不听理由只看结果：成败不取决于愿望良好或有困难，而取决于达到优秀的要求",
+      "quote": "规则是不听你讲理由的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17309,
+        "end_line": 17315,
+        "sha1": "3e4d4c56b37e46d518250037f7c44e64d4c1a95f",
+        "fingerprint": [
+          "规则",
+          "结果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "规则只看结果不听理由",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "茨威格'命运不听解释'引文佐证；被琐事羁绊多是托词（17317同链）"
+    },
+    {
+      "claim_id": "C-WJ2-U0213-06",
+      "unit_id": "WJ2-U0213",
+      "speaker": "吴军本人",
+      "claim_text": "做需要长期努力的事要靠热爱维持热情；发现不热爱最好及时止损，否则收益可能归零",
+      "quote": "最好及时止损",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17319,
+        "end_line": 17321,
+        "sha1": "bc9361216e89738e6ff5ca708171bb81b2c33e0f",
+        "fingerprint": [
+          "热爱",
+          "止损"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D05-2"
+      ],
+      "concept_key": "无热爱早止损",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "杨宇（《哪吒2》导演）17年四部作品例；多数人拿短期红利也可满足"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "长期主义为何难（归因/因果检验/积分效应/规则与热爱）6张E1卡"
+}

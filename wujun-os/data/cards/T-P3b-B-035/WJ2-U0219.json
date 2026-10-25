@@ -1,0 +1,58 @@
+{
+  "unit_id": "WJ2-U0219",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0219-01",
+      "unit_id": "WJ2-U0219",
+      "speaker": "吴军本人",
+      "claim_text": "世界上很多事情摊到每个人头上看似很少，凑在一起数量就大得难以置信，政府也拿不出来",
+      "quote": "摊到每个人头上，看似很少",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17773,
+        "end_line": 17775,
+        "sha1": "65b74ce3ff6a9b3120d398ad1a4b4c0ba1e99fa5",
+        "fingerprint": [
+          "GDP",
+          "军费"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "人均小数汇聚成大数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "GDP2%可解气候变化之测算、军费占税收1/13到1/6例；借债度日下增1-2%军费欧洲也难"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0219",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "美国人对欧洲情感四阶段演变、门罗主义、欧美文明互相看法为文明史与国际关系叙述，无可迁移个人方法论"
+    },
+    {
+      "unit_id": "WJ2-U0219",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "特朗普关税与北约军费、欧洲福利可持续性等时点性论断"
+    },
+    {
+      "unit_id": "WJ2-U0219",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者'九天'等留言原文为读者文本，仅吴军回应部分入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "欧美互视本体为文明史X6留痕，仅抽1条可迁移的数量级判断卡"
+}

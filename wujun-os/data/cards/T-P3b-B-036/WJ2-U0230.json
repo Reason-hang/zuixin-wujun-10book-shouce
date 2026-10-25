@@ -1,0 +1,128 @@
+{
+ "unit_id": "WJ2-U0230",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "不要光想感兴趣的事，要看世界需要什么；尊重意见但保留判断；不仅要有意愿更要有能力（可汗）",
+   "quote": "世界需要你做什么",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18577,
+    "end_line": 18581,
+    "sha1": "911ef419cea3ec94fe3c2c606f6b03fb6398fa59",
+    "fingerprint": [
+     "萨尔曼",
+     "意愿"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "可汗三建议",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=萨尔曼·可汗（小女儿JHU毕业典礼演讲，可汗学院1.5亿用户源于辅导堂兄弟的偶然）；莎士比亚'倾听但保留自己的判断'互参",
+   "claim_id": "C-WJ2-U0230-01",
+   "unit_id": "WJ2-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有意愿没能力的人远多于有能力没意愿的且常不自知；成事所需本事远比想象多，只能备足或在过程中学",
+   "quote": "远比之前想象得要多",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18581,
+    "end_line": 18581,
+    "sha1": "67c089a41f13184dcac1f9abbf9597d343079e70",
+    "fingerprint": [
+     "意愿",
+     "本事"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "能力先于意愿",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "可汗先具备能力后萌生意愿；反序者多半不了了之",
+   "claim_id": "C-WJ2-U0230-02",
+   "unit_id": "WJ2-U0230"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "人一辈子真正的重大选择只有约10次：一天3万次决定中绝大多数凭本能，别为不重要的小事纠结（麦西）",
+   "quote": "10 次左右",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18587,
+    "end_line": 18589,
+    "sha1": "763ae63a8db757ba6a037d0ed863fa6ba15d98ae",
+    "fingerprint": [
+     "麦西",
+     "决定"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-4"
+   ],
+   "concept_key": "重大选择仅十次",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=麦西（MIT毕业典礼演讲）；没和老张打招呼/手机壳贵5元不该纠结（18591）",
+   "claim_id": "C-WJ2-U0230-03",
+   "unit_id": "WJ2-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一辈子最重要的选择是决定做一个什么样的人；底层逻辑想通，具体事大差不差，省下纠结成本",
+   "quote": "决定你是一个什么样的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18593,
+    "end_line": 18593,
+    "sha1": "e1a2f21f6a8692963edd370912014c6a21e9608a",
+    "fingerprint": [
+     "底层逻辑",
+     "选择"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "成为什么样的人",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "麦西区分'成为什么样的人'=奋斗目标、'是什么样的人'=生活方式（18595-18597）；永远不要低估自己的能力（18599）",
+   "claim_id": "C-WJ2-U0230-04",
+   "unit_id": "WJ2-U0230"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0230",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "毕业典礼见闻（CS首超机械工程成最大工科、三种学位袍、博士中国学生占比）与大学变化时点观察按X5留痕，演讲方法论已入四卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "两场毕业典礼：可汗三建议+能力先于意愿+麦西决定分层+做什么样的人"
+}

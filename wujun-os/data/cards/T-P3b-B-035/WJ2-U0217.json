@@ -1,0 +1,186 @@
+{
+  "unit_id": "WJ2-U0217",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0217-01",
+      "unit_id": "WJ2-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "提问前先做功课核实事实，不要杜撰不真实的问题；系统性问题不能用身边统计学下结论",
+      "quote": "需要先做点功课把事实弄清楚",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17577,
+        "end_line": 17583,
+        "sha1": "218ec5590361b904d09153323dcf74fd2340e2a2",
+        "fingerprint": [
+          "功课",
+          "事实"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "提问先核实事实",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "'全球科研预算大幅紧缩'不符事实之核查过程为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0217-02",
+      "unit_id": "WJ2-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "维持朋友同学之间的友情很重要且无价：友情带来愉悦与身心健康，也让我们成为更完整的自己",
+      "quote": "这种友情关系是无价的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17593,
+        "end_line": 17599,
+        "sha1": "66fe76b80dee40589893666ab1b4d7c909edb40b",
+        "fingerprint": [
+          "友情",
+          "无价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "友情无价",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "同学聚会优先安排；聚会与信息论控制论无关"
+    },
+    {
+      "claim_id": "C-WJ2-U0217-03",
+      "unit_id": "WJ2-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "过度解读永远是错误的：10比特信息无论如何扩展不出20比特，编造的内容是无效信息",
+      "quote": "过度解读永远是错误的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17615,
+        "end_line": 17615,
+        "sha1": "9d891cedeb54c2a39fa5d9d4a4df7cbbfcd05411",
+        "fingerprint": [
+          "过度解读",
+          "比特"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D04-2"
+      ],
+      "concept_key": "过度解读永错",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信息论解释；心理医生谈判专家按有限内容解读之问由此答（17609）"
+    },
+    {
+      "claim_id": "C-WJ2-U0217-04",
+      "unit_id": "WJ2-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "弦外之音不等于过度解读：听出弦外之音就是进入对方正确的语言游戏",
+      "quote": "听出弦外之音是不一样的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17617,
+        "end_line": 17617,
+        "sha1": "b246e99f170934df005822237c2771cbcaf1bed0",
+        "fingerprint": [
+          "弦外之音",
+          "语言游戏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "弦外之音即语言游戏",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "'你从来不做家务'例；互引U0208语言游戏卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0217-05",
+      "unit_id": "WJ2-U0217",
+      "speaker": "吴军本人",
+      "claim_text": "词汇如纸牌，意义存在于使用场景与圈子规则；融入圈子就能听懂行话与老板的弦外之音",
+      "quote": "在不同的游戏中可以有不同的意义",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17621,
+        "end_line": 17627,
+        "sha1": "a728a768fe799e02aad61510b35092c9ad284978",
+        "fingerprint": [
+          "纸牌",
+          "行话"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D01-4"
+      ],
+      "concept_key": "词义随语言游戏而定",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "桥牌拱猪例；MIT'6号'与清华'酒井'行话例；鼓励型老板'干得不错'例"
+    },
+    {
+      "claim_id": "C-WJ2-U0217-06",
+      "unit_id": "WJ2-U0217",
+      "speaker": "转述·第三方",
+      "claim_text": "维特根斯坦：语言游戏的规则是通过多次重复而被掌握的，遵守规则本质是习惯与制度",
+      "quote": "多次重复而被我们掌握的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17629,
+        "end_line": 17635,
+        "sha1": "9b3dd0e049d40613aac032a8347b1365b41af27f",
+        "fingerprint": [
+          "重复",
+          "规则"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "语言规则习于重复",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "被转述者维特根斯坦（《哲学研究》：单独一次遵守规则是不可能的）；康德先验与休谟经验重复对照；吴军应用：多与老板沟通几次就读懂弦外之音"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0217",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者'江湖小虾米''罗翔''Todd''Jensen Huang''Wayne.Yao'来信原文为读者文本，仅吴军回应部分入卡"
+    },
+    {
+      "unit_id": "WJ2-U0217",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "美国政府科研经费与企业管理费、谷歌苹果微软亚马逊2024研发经费等时点数据为佐证性时事数据"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答：弦外之音与语言游戏方法论6卡（含维特根斯坦转述卡1张），读者来信与时事数据X留痕"
+}

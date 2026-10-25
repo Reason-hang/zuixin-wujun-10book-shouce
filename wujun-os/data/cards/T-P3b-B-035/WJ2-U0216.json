@@ -1,0 +1,199 @@
+{
+  "unit_id": "WJ2-U0216",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0216-01",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "固守一种思维一根筋会看不到其他选项，要跳出圈外换甚至相反的角度找被忽略的选项",
+      "quote": "跳出圈外，换一个角度",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17499,
+        "end_line": 17499,
+        "sha1": "4b76c086d5b1c089cefcb39c0cc6e6142dd3a048",
+        "fingerprint": [
+          "一根筋",
+          "圈外"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "跳出圈外反向思考",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总起；结尾呼应'不要一根筋，还可降低分母'（17559）"
+    },
+    {
+      "claim_id": "C-WJ2-U0216-02",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "给员工自由最大的好处是激发工作主动性；认为缩短工时对企业无益是平庸企业的想法",
+      "quote": "能激发员工工作的主动性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17505,
+        "end_line": 17507,
+        "sha1": "cf2f663dcd948ccb16455641bf0a281247ea8379",
+        "fingerprint": [
+          "主动性",
+          "四天工作制"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "给员工自由激发主动性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "台湾酒店餐饮集团四天工作制例；主厨创新把个人利益与企业利益结合（17509）"
+    },
+    {
+      "claim_id": "C-WJ2-U0216-03",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "企业效率不靠'时时响应'堆出来，而靠清晰的目标和结构设计；微观松散但人均产值可很高",
+      "quote": "靠清晰的目标和结构设计",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17523,
+        "end_line": 17525,
+        "sha1": "0c63dab73ea4ae3a2e42acfe71cf1e894a905d4a",
+        "fingerprint": [
+          "时时响应",
+          "结构"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D06-2"
+      ],
+      "concept_key": "效率靠目标与结构",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "临时起意饭局不提效率；七大市值公司微观低效但人均利润高"
+    },
+    {
+      "claim_id": "C-WJ2-U0216-04",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "提高效率的另一条路是降事本：把必须完成的事减少，让低价值的事越来越少收益自然提高",
+      "quote": "让低价值的事儿越来越少",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17543,
+        "end_line": 17545,
+        "sha1": "fde0826ae9cbe959a9b0399c228c97f488fbb8c9",
+        "fingerprint": [
+          "事本",
+          "人效"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "降事本而非提人效",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "平庸企业家提人效、优秀企业家降事本；韦尔奇把不必要会议邮件降到最低例（17549）"
+    },
+    {
+      "claim_id": "C-WJ2-U0216-05",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "不仅看分子还要看分母：两个维度都能做判断，才算具备最基本的数学常识",
+      "quote": "只知道有分子，不知道有分母",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17541,
+        "end_line": 17541,
+        "sha1": "47ce43949c918dea96e2111b302a3f25c17c8ac0",
+        "fingerprint": [
+          "分子",
+          "分母"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "看分子也要看分母",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承接'世界上有正数还有负数'；对照CK-1066分母决定结论；应用见卡4"
+    },
+    {
+      "claim_id": "C-WJ2-U0216-06",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "通过培训保障员工身体状态以少出差错：一件事出了差错就变成三件事，防Bug胜过加班补救",
+      "quote": "做到少出差错",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17553,
+        "end_line": 17555,
+        "sha1": "9791ae64ecf8cfb355336c5084cc0cbf89fba6f5",
+        "fingerprint": [
+          "培训",
+          "差错"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "少出差错优于事后补救",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "七大公司重预防vs国内补救文化；以补救Bug为KPI之弊"
+    },
+    {
+      "claim_id": "C-WJ2-U0216-07",
+      "unit_id": "WJ2-U0216",
+      "speaker": "吴军本人",
+      "claim_text": "每天8小时工作制但高效率地工作6小时，比低效率地工作12小时效果好；休息是状态前提",
+      "quote": "高效率地工作6 个小时",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17557,
+        "end_line": 17559,
+        "sha1": "03ac30685b857341419e502399ced0721318a579",
+        "fingerprint": [
+          "高效率",
+          "身体状态"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D02-4"
+      ],
+      "concept_key": "高效六小时胜过低效十二",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "匿名女企业家例；员工休息与身体状态无保障则安全生产无用"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0216",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "智联招聘《2024年度薪酬调研白皮书》双薪统计、全球市值最高七家企业等时点数据为佐证性时事数据，不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "两家企业管理启示（自由/结构/降事本/防差错/高效休息）7张E1卡，时点数据X2留痕"
+}

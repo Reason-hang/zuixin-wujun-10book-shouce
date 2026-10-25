@@ -1,0 +1,205 @@
+{
+ "unit_id": "WJ2-U0226",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何人中年的结果，是年轻时一个个选择叠加起来的总和",
+   "quote": "一个个选择叠加起来的总和",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18263,
+    "end_line": 18263,
+    "sha1": "74fea5e5976a5389fec6890f3673c82c9d60a67a",
+    "fingerprint": [
+     "选择",
+     "命运"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "命运即选择",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "AI也是选择机器：人脸识别万选一、围棋361选一，本质同为利用信息排除不可能找最优（18265-18267）",
+   "claim_id": "C-WJ2-U0226-01",
+   "unit_id": "WJ2-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选项的两错误：把不是选项的当选项（普娃申哈佛、校队学库里投三分），只盯一个方向漏掉退出等选项",
+   "quote": "把不是选项的当成了选项",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18275,
+    "end_line": 18289,
+    "sha1": "e565dd7895baef9e016efe93fec0a7896bf4faba",
+    "fingerprint": [
+     "选项",
+     "漏掉"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "选项两错误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "平时80分按100分安排考试时间=把别人的选项当自己的；婚恋可选项可能不到十人（18291）",
+   "claim_id": "C-WJ2-U0226-02",
+   "unit_id": "WJ2-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "后退也是选项：下跌加仓不如暂时退出，内卷不过暂时躺平等收拾残局（PE赚钱模式）",
+   "quote": "只知道往前走，而不知道往后退",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18295,
+    "end_line": 18299,
+    "sha1": "39cdbd7f97210ebed2e0191a8cf4795e8b77c3c3",
+    "fingerprint": [
+     "加仓",
+     "退出"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D03-2"
+   ],
+   "concept_key": "后退也是选项",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "松鼠与鹿过马路只知道前进；赌场红了眼越输越赌vs退出；股指基金可放着不动",
+   "claim_id": "C-WJ2-U0226-03",
+   "unit_id": "WJ2-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "硬决定丢失信息：不确定时保留可能性，过早硬性选择堵死回旋（通识教育与基础专业的意义）",
+   "quote": "都是要丢失信息的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18307,
+    "end_line": 18313,
+    "sha1": "321b4dcab336d9f113845d294af0b296fb88f26a",
+    "fingerprint": [
+     "硬性选择",
+     "可能性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D04-2"
+   ],
+   "concept_key": "硬决定丢信息",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不知道哪块云下雨时保留各种可能；从小只培养当画匠即过早硬选择；生物难转行vs数学易转（18311）；加权可能性最大=信息损失最小原则（18313）",
+   "claim_id": "C-WJ2-U0226-04",
+   "unit_id": "WJ2-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "延后硬性决定是为了收集信息，但到决定时必须决定：毕业须有一项专业技能",
+   "quote": "一定要做决定的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18315,
+    "end_line": 18317,
+    "sha1": "2258fa8d7e65b8255e0f92465155cca3d042ca7b",
+    "fingerprint": [
+     "专业技能",
+     "通识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "延后但必须决定",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "MIT经验：大一广交异性朋友、大二再定严肃关系（18317）",
+   "claim_id": "C-WJ2-U0226-05",
+   "unit_id": "WJ2-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多两难是假两难：按自己的价值判断选择即可；择偶要三观一致，因为各自按价值判断做选择",
+   "quote": "按照价值判断进行选择",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18323,
+    "end_line": 18325,
+    "sha1": "54ac3132b542b8384a515773a866192da067e366",
+    "fingerprint": [
+     "两难",
+     "三观"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "假两难与价值判断",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "老妈女友落水=假两难；丈夫不顾家因家庭在其价值判断中地位低，要求无用",
+   "claim_id": "C-WJ2-U0226-06",
+   "unit_id": "WJ2-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选择后不后悔：在当前位置做最优选择；股票按今日价值定去留，勿按当初成本价死扛或小赚即卖",
+   "quote": "在当前位置下做最好的选择",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18329,
+    "end_line": 18333,
+    "sha1": "9f2ebd20bb930b1cc1d17d655ea87bbf1d67ffec",
+    "fingerprint": [
+     "止损",
+     "价值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "当前位置最优原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "初恋重逢看今天是否适合；方向错越努力越南辕北辙（18333）；选择的重要性时常高过努力",
+   "claim_id": "C-WJ2-U0226-07",
+   "unit_id": "WJ2-U0226"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "命运即选择：选项两错误/硬决定丢信息/假两难/当前位置最优，整信方法论成卡"
+}

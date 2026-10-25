@@ -1,0 +1,205 @@
+{
+  "unit_id": "WJ2-U0209",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0209-01",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "刷题培养不了创造力且妨碍创造力培养：养成只会做题的习惯，反而缺乏思考",
+      "quote": "刷题肯定培养不了创造力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16955,
+        "end_line": 16963,
+        "sha1": "02005bb21a1466271c92e676ac3d6232dde31434",
+        "fingerprint": [
+          "刷题",
+          "思考"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D10-1"
+      ],
+      "concept_key": "刷题无益创造力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "三种阻碍创造力的错误做法之一；AI时代做题快无用"
+    },
+    {
+      "claim_id": "C-WJ2-U0209-02",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "做题的目的不是会做那些题或获得答案，而是通过思考过程掌握知识点，会做即打住",
+      "quote": "做题不是为了会做那些题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16957,
+        "end_line": 16959,
+        "sha1": "1a394e104a975ebaeb1de8195093fd2667b0ba5f",
+        "fingerprint": [
+          "知识点",
+          "打住"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "做题为掌握知识点",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "吴军做题原则：第一道想考什么，几道下来即止；对照CK-0088"
+    },
+    {
+      "claim_id": "C-WJ2-U0209-03",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "凡事都想找标准答案的思维方式远离创新：创新面对的问题本来没有答案，没答案可抄",
+      "quote": "有答案就不叫创新了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16965,
+        "end_line": 16967,
+        "sha1": "2b64041bb9a4cb59613065cf80553a6e9e939b03",
+        "fingerprint": [
+          "标准答案",
+          "创新"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "标准答案思维远离创新",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "仿造复制严重源于抄答案思维；吴军初三竞赛非标准解法零分为代价例（教育扣分现象X5留痕）"
+    },
+    {
+      "claim_id": "C-WJ2-U0209-04",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "抄AI答案越多离创造力越远：长期下去判断力会逐渐削弱，容易被牵着走甚至被收割",
+      "quote": "离创造力越远",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16977,
+        "end_line": 16977,
+        "sha1": "ef625b1914fee76fdded7d2fdc17364a1e52686b",
+        "fingerprint": [
+          "AI",
+          "判断力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D10-1"
+      ],
+      "concept_key": "抄AI答案削弱创造力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "AI答案与标准答案叠加之害"
+    },
+    {
+      "claim_id": "C-WJ2-U0209-05",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "创造力来自对现有事物和自我想法的否定；不能理解他人、总觉得自己正确的人不会有创造力",
+      "quote": "创造力来自于否定",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16979,
+        "end_line": 16983,
+        "sha1": "42ce716570ef8a491520c7af31514a85a8e54b04",
+        "fingerprint": [
+          "否定",
+          "坚持"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D01-1"
+      ],
+      "concept_key": "创造力来自否定",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "守着过时理论与老旧认识（如古代养生之道）即无创新"
+    },
+    {
+      "claim_id": "C-WJ2-U0209-06",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "培养创造力要保持开放心态主动尝试：创造需要新知，不尝试、不试错就没有创新",
+      "quote": "不尝试、不试错，就没有创新",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16991,
+        "end_line": 16997,
+        "sha1": "a49aa01c3600957cc2b20bd284bb1a12c6fcc694",
+        "fingerprint": [
+          "开放",
+          "试错"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "开放心态与试错",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "人会犯错而机器不会故人有创新可能（答罗振宇）；女儿拆东西作文例"
+    },
+    {
+      "claim_id": "C-WJ2-U0209-07",
+      "unit_id": "WJ2-U0209",
+      "speaker": "吴军本人",
+      "claim_text": "犯错后要用系统的方法纠错：每个错误上升到系统与哲学高度反思，同样的错误不犯第二次",
+      "quote": "同样的错误一定不能犯第二次",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17003,
+        "end_line": 17011,
+        "sha1": "5849d30d5cd999075343acefddbf94debf9eef26",
+        "fingerprint": [
+          "纠错",
+          "哲学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "系统性纠错",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "误机例'最后5分钟是上帝的'；便宜没好货例；错误道路千万条故试错讲效率"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "培养创造力的三种阻碍与两点感悟，方法论密度高，7张E1卡"
+}

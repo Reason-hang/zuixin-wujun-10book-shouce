@@ -1,0 +1,183 @@
+{
+ "unit_id": "WJ2-U0228",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'实际不实际'要动态看：AI、太阳能、纳米当年都被视为不实际；过时的东西比不实际的更可怕",
+   "quote": "要动态地看",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18419,
+    "end_line": 18421,
+    "sha1": "68b47bfcbc4961d00e51f2669f362817508b07df",
+    "fingerprint": [
+     "人工智能",
+     "过时"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "实际与否动态看",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机械工程仍是大专业但部分学科已过时；X5边界（升学语境）留痕",
+   "claim_id": "C-WJ2-U0228-01",
+   "unit_id": "WJ2-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断专业兴衰看教授结构：助理教授占比高于1/3在发展，正教授过半即萎缩",
+   "quote": "正教授的人数超过一半",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18423,
+    "end_line": 18423,
+    "sha1": "636c77c028c3634ee244000e2d8995399e5e3278",
+    "fingerprint": [
+     "正教授",
+     "萎缩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "专业兴衰衡量法",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "新兴学科正教授<1/3、副教授1/3、助理教授>1/3；确定走下坡路的比不确定的更要避免",
+   "claim_id": "C-WJ2-U0228-02",
+   "unit_id": "WJ2-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "通识教育是打一个较大的地基，后期好盖楼；人不能只学一点点有用专业的课程",
+   "quote": "打一个比较大的地基",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18425,
+    "end_line": 18425,
+    "sha1": "a1cd3969c36fbd3d94dede2b4634b9973ddc8704",
+    "fingerprint": [
+     "通识",
+     "地基"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "通识大地基",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "与U0226硬决定丢信息（保留可能性）互参",
+   "claim_id": "C-WJ2-U0228-03",
+   "unit_id": "WJ2-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "被忽视的规则优势：计算机金融等产业规则简单；越是资质执照证书多的行业越可能权威分配而非择优",
+   "quote": "规则简单",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18447,
+    "end_line": 18453,
+    "sha1": "181d4d0c23df717333c0872ff7337c8a9794b8c6",
+    "fingerprint": [
+     "潜规则",
+     "择优"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "规则简单行业优势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "医疗教育艺术体育业潜规则多；DEI实习生抢助理教授职位例（时政留痕）；个人再优秀也改变不了规则；张雪峰人脉说部分有理（18455）",
+   "claim_id": "C-WJ2-U0228-04",
+   "unit_id": "WJ2-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选专业先问两问（能供到研究生吗、转行能帮资金人脉吗）再查三数据（就业薪酬、产业政策、杰出校友分布）",
+   "quote": "先要问自己两个问题",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18457,
+    "end_line": 18459,
+    "sha1": "3dfc6ff256fe800d1194c08b16d5df0e40b8be59",
+    "fingerprint": [
+     "研究生",
+     "校友"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "选专业两问三数据",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界（升学决策框架）留痕；20个专业杰出校友只出自两个专业即明白",
+   "claim_id": "C-WJ2-U0228-05",
+   "unit_id": "WJ2-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爱好可以学但别只学不实际的；抗天花板的技能须能与职业结合（架构师/执笔/顾问）；自娱技能别抱幻想",
+   "quote": "该干什么还是干什么",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18461,
+    "end_line": 18465,
+    "sha1": "1075cbf9a5f196f68b092443aaf8461476cb9b66",
+    "fingerprint": [
+     "天花板",
+     "通识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "爱好与需求兼顾",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "会弹钢琴的外卖员不多得小费，准时的外卖员才得好评；意大利唱歌服务员例；父亲读一辈子历史书自娱亦充实；前提是先站稳脚跟",
+   "claim_id": "C-WJ2-U0228-06",
+   "unit_id": "WJ2-U0228"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0228",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "三大金饭碗专业薪资数据（CS14万/DS10万/金融工程15万起薪）、就业率口径、美国大学生毕业现象等升学就业时点内容按X5留痕，判断机理已入六卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "要不要学不实际的东西：动态看/兴衰衡量/通识地基/规则优势/两问三数据/爱好兼顾"
+}

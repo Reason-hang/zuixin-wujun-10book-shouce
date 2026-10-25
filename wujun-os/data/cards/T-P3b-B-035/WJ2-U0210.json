@@ -1,0 +1,119 @@
+{
+  "unit_id": "WJ2-U0210",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0210-01",
+      "unit_id": "WJ2-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "资产价值不在于当初建设时的投资，而取决于未来能创造多少价值和将来有多少人愿意出钱购买",
+      "quote": "不在于它当初建设时的投资是多少",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17069,
+        "end_line": 17071,
+        "sha1": "e9183b7ac04883c59beb703e6d29712a3742f327",
+        "fingerprint": [
+          "资产",
+          "现金流"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-2"
+      ],
+      "concept_key": "资产价值看未来与接盘",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "以海湖庄园为例：负现金流资产购买目的只有消费或待价而沽"
+    },
+    {
+      "claim_id": "C-WJ2-U0210-02",
+      "unit_id": "WJ2-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "有些资产价值是负的：免费的东西价值最多跌到零，负现金流的大件是债务义务而非资产",
+      "quote": "价值最多跌到零，不会是负的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17073,
+        "end_line": 17075,
+        "sha1": "a80624d78c847132589b0fd358977b2adcb6ae36",
+        "fingerprint": [
+          "债务义务",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "负价值资产即债务义务",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "懂投资的人分清有价值的资产与不必要的债务义务；旧家具清理例"
+    },
+    {
+      "claim_id": "C-WJ2-U0210-03",
+      "unit_id": "WJ2-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "GDP高的国家不等于积累的财富多：经济活动的目的更多是创造财富，而不是简单产生GDP",
+      "quote": "而不是简单产生GDP",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17079,
+        "end_line": 17079,
+        "sha1": "455271ac3c10bb89879ca0800597974eea94b04b",
+        "fingerprint": [
+          "GDP",
+          "财富"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "创造财富而非GDP",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "别人不接手则价值清零；X6例外条款下可迁移经济判断逻辑归D08"
+    },
+    {
+      "claim_id": "C-WJ2-U0210-04",
+      "unit_id": "WJ2-U0210",
+      "speaker": "吴军本人",
+      "claim_text": "用于过度享受的消费会让最有钱的人破产：超支付能力的房产是背一辈子的负担",
+      "quote": "会让最有钱的人破产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17081,
+        "end_line": 17081,
+        "sha1": "763d977b55105cb8e1527fca0f9f08f8c6b039d2",
+        "fingerprint": [
+          "享受",
+          "破产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "过度享受致破产",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "欧洲奢华城堡王公贵族破产例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0210",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "海湖庄园起源、马乔莉建庄史与特朗普压价购置改造史为人物/企业史叙述，仅方法论已抽（见4卡），史实本体不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "结尾'资产估值与投资启示'三点为吴军方法论成卡，庄园史本体X4留痕"
+}

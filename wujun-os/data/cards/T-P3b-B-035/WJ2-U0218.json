@@ -1,0 +1,239 @@
+{
+  "unit_id": "WJ2-U0218",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0218-01",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "人工智能会让人进一步分化：有创新能力和意愿者创造力爆棚，懒惰者更无创新可能沦为人肉机器",
+      "quote": "人工智能会让人进一步分化",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17655,
+        "end_line": 17657,
+        "sha1": "abdd27dc1643d29530cf3a17a6b7f785482baeb8",
+        "fingerprint": [
+          "分化",
+          "创新"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-1"
+      ],
+      "concept_key": "AI让人分化",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "工具史类比：会造工具使用者成为创新者；对照CK-0592专业差距智能时代放大"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-02",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "对AI的两类态度：把努力当常量、借机器完成过去做不到的事者创造力被放大，反之先失市场",
+      "quote": "态度决定一切",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17661,
+        "end_line": 17667,
+        "sha1": "71a6ae63b98554c06579adb36a5ef984cfc28a5d",
+        "fingerprint": [
+          "常量",
+          "变量"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D10-1"
+      ],
+      "concept_key": "努力为常量收益为变量",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两类人的常量变量相反；奶头乐式混日子者对照（互引U0214）"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-03",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "工具与计算机的发明不是降低而是提高了就业门槛：只需简单技能的初级岗位消失了",
+      "quote": "初级岗位消失了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17659,
+        "end_line": 17659,
+        "sha1": "9aff20af0251cff13b706c8b1ca4702151169732",
+        "fingerprint": [
+          "门槛",
+          "初级岗位"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "工具提高就业门槛",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "计算器能解三次方程但无人因此是数学家；打算盘会计例"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-04",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "创造力靠意愿、悟性和灵性决定：意愿来自对现实不满，悟性可后天培养，灵性先天而有",
+      "quote": "靠意愿、悟性和灵性决定",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17671,
+        "end_line": 17675,
+        "sha1": "d5d365f5a1383aa84ee677bc80e3eae5e6dae4a0",
+        "fingerprint": [
+          "悟性",
+          "灵性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-2"
+      ],
+      "concept_key": "创造力三要素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "创造力来自叛逆；机械的教育方法会毁掉天生灵性"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-05",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "灵性即稍加提示就能把所学知识与问题解法自己联系起来；最好的学生自己找未解题目",
+      "quote": "这就是灵性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17681,
+        "end_line": 17683,
+        "sha1": "35ed2449759b731ba390458c5740439db93b6000",
+        "fingerprint": [
+          "灵性",
+          "提示"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "灵性即自联通",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "清华最好与最差学生例；毕业答辩再给机会仍最差例（17685同链）"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-06",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "刷题多了有害：挤占时间且让人变得机械，机械与灵性是反义词，题目做多会形成思维定式",
+      "quote": "机械和灵性是一组反义词",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17693,
+        "end_line": 17697,
+        "sha1": "8750654b99d8bc2be8af2fe3921c655a4f95957d",
+        "fingerprint": [
+          "机械",
+          "思维定式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "刷题致机械毁灵性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "卓别林《摩登时代》生产线工人例；互引U0209卡1；'苦劳不等于功劳'之澄清"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-07",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "做题到掌握知识就可以了：再刷下去边际成本不断增加，边际效益不断下降",
+      "quote": "边际效益就不断下降",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17699,
+        "end_line": 17699,
+        "sha1": "48c251d12c351b94057dab2791448bfc5f8bbada",
+        "fingerprint": [
+          "边际成本",
+          "边际效益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D03-1"
+      ],
+      "concept_key": "刷题的边际效益递减",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "吴军点明'希望你记住这个经济学的原理'"
+    },
+    {
+      "claim_id": "C-WJ2-U0218-08",
+      "unit_id": "WJ2-U0218",
+      "speaker": "吴军本人",
+      "claim_text": "人一辈子要经过多个过滤器：把自己塑造得过于适合一层过滤器，就过不了下一个",
+      "quote": "就过不了下一个了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17703,
+        "end_line": 17703,
+        "sha1": "73871177d20ac3ea90f5d5ef361b45d6264c1391",
+        "fingerprint": [
+          "过滤器",
+          "形状"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-2"
+      ],
+      "concept_key": "多过滤器闯关",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "形状灵活有灵性才能一辈子闯关；'催肥'进名校者多回到应有位置（17701，教育部分X5留痕）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0218",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "升学与教育制度内容（最好大学非人人能上、名校5%毕不了业、刷题独木桥、催肥学生回到应有位置）为教育议题本体，仅抽学习与成长方法论"
+    },
+    {
+      "unit_id": "WJ2-U0218",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者'大道至简''大倪'留言原文为读者文本，仅吴军回应部分入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "AI与创造力（分化/态度/三要素/刷题/过滤器）8张E1卡，教育升学与读者留言X留痕"
+}

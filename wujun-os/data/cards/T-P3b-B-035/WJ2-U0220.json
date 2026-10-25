@@ -1,0 +1,133 @@
+{
+  "unit_id": "WJ2-U0220",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0220-01",
+      "unit_id": "WJ2-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "所有的权利都来自于自己的努力：哪怕别人发善心给你一些权利，不珍惜最终也守不住",
+      "quote": "都来自于自己的努力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17801,
+        "end_line": 17803,
+        "sha1": "70dcaca559cd781a113846bee6138a0266b12637",
+        "fingerprint": [
+          "权利",
+          "童工"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "权利来自自身努力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "童工消失靠劳工联合抵制而非政府或资本家（工业化1.0史例为载体）"
+    },
+    {
+      "claim_id": "C-WJ2-U0220-02",
+      "unit_id": "WJ2-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "工业化1.0到4.0每个阶段都不可以跳跃：没有流水线与信息化基础，智能化软硬件只能成摆设",
+      "quote": "每一个阶段都不可以跳跃",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17833,
+        "end_line": 17839,
+        "sha1": "69d82966052996e3765420e3edf80e9ff1138b93",
+        "fingerprint": [
+          "跳跃",
+          "智能化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D08-1"
+      ],
+      "concept_key": "工业化阶段不可跳跃",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "全买智能设备也无人能操作管理；只有小部分环节智能化对全过程提升不大（17841同链）"
+    },
+    {
+      "claim_id": "C-WJ2-U0220-03",
+      "unit_id": "WJ2-U0220",
+      "speaker": "转述·第三方",
+      "claim_text": "许小年：工业化各阶段会长期共存，企业处哪个阶段要以成本或利润为衡量，不能行政命令一刀切",
+      "quote": "以成本或者利润为衡量目标",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17835,
+        "end_line": 17835,
+        "sha1": "271c3bb2150b49ab442db5a00e88893b726dbe77",
+        "fingerprint": [
+          "许小年",
+          "成本"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "工业化阶段以成本衡量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者许小年，吴军表示赞同；升级有成本，收益不大则不升级（采矿业建筑业例17837）"
+    },
+    {
+      "claim_id": "C-WJ2-U0220-04",
+      "unit_id": "WJ2-U0220",
+      "speaker": "吴军本人",
+      "claim_text": "通过分析成本和收益，可以判断一个产业会采用什么时代的技术、哪些产业对技术革命无感",
+      "quote": "通过分析成本和收益",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17859,
+        "end_line": 17861,
+        "sha1": "1b7a81bac3ec5e17831783800dd9701b953becc1",
+        "fingerprint": [
+          "成本",
+          "收益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "成本收益判断技术采用",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "荷兰花卉业与旅游业：智能化投入巨大收益有限，故从业者不受智能革命影响"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0220",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "工业化1.0-4.0各阶段史述与受益者受害者分析、'都市人的悲歌'等智能化趋势预测为文明史与科技趋势内容"
+    },
+    {
+      "unit_id": "WJ2-U0220",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "万斯《乡下人的悲歌》、勒庞判决与欧洲极右政党等时点性时事评论"
+    },
+    {
+      "unit_id": "WJ2-U0220",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "荷兰看花行程叙述部分为游记，所含方法论（成本收益判断技术采用）已抽为卡，叙述留在排除侧"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "工业化史本体X6留痕，抽不可跳跃/成本衡量/成本收益判断/权利来自努力4卡（含许小年转述卡）"
+}

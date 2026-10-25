@@ -1,0 +1,210 @@
+{
+ "unit_id": "WJ2-U0232",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "用暑期实习低成本试错：女儿NIH养果蝇后放弃学医、斯坦福大数据医疗发论文后被老教授劝退学术",
+   "quote": "兴趣大减",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18743,
+    "end_line": 18745,
+    "sha1": "f7b6da67d6ea9164a34add16d8e572ee957484a3",
+    "fingerprint": [
+     "实习",
+     "果蝇"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "实习低成本试错",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：两个暑假改两次方向；JHU生物博士劝退（重复实验+运气+致癌风险）；老教授劝退（经费被著名实验室拿走大头、每隔几年申请一次）",
+   "claim_id": "C-WJ2-U0232-01",
+   "unit_id": "WJ2-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "进学术界比工业界难：先博士后、不挑地方先拿教职再换；不少终身序列助教授最终未能晋升",
+   "quote": "要比在工业界难",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18749,
+    "end_line": 18749,
+    "sha1": "d4a24b6157d411606dbf8eca4e4682bc78733b73",
+    "fingerprint": [
+     "教职",
+     "博士后"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "学术之路更难",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "诺亚·史密斯GRE满分毕业即CMU教职属天纵英才例外；克里斯蒂娜第一份教职在普渡",
+   "claim_id": "C-WJ2-U0232-02",
+   "unit_id": "WJ2-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分教授做的是N+1的工作：科研是金字塔，没有庞大底层就没有塔尖",
+   "quote": "N+1 的工作",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18751,
+    "end_line": 18751,
+    "sha1": "a279c0df5171abf3021ab3b4d9874adbe45c517a",
+    "fingerprint": [
+     "教授",
+     "金字塔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-1"
+   ],
+   "concept_key": "N+1与科研金字塔",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "美国50万终身教职通道教授、2/3已获终身；史密斯级在学术界已算很成功",
+   "claim_id": "C-WJ2-U0232-03",
+   "unit_id": "WJ2-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学术四要：多读文献多开会、与名教授混脸熟、十年如一日不求速、练好英语",
+   "quote": "多去参加学术会议",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18755,
+    "end_line": 18765,
+    "sha1": "d62baf101e571a041df09f00d9b5daaec1b16626",
+    "fingerprint": [
+     "文献",
+     "混个脸熟"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "学术四要",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "报告后争取提问并约谈15分钟，没兴趣做这事说明不适合学术界；追求速度是科研大忌，瓶颈后会开窍但前提是熬到；英语好不耽误去工业界",
+   "claim_id": "C-WJ2-U0232-04",
+   "unit_id": "WJ2-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学术界势能更高：任何时候退出都能进工业界；但工业界人事复杂，不擅办公室政治很快见天花板",
+   "quote": "学术界的势能要高一些",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18769,
+    "end_line": 18771,
+    "sha1": "49fce3780ebb3c159ff729f44cebbb739acb5327",
+    "fingerprint": [
+     "博士后",
+     "势能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "学术界势能",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与U0227势能互参；顶级医学院博后期望发Science/Nature，心态要平静",
+   "claim_id": "C-WJ2-U0232-05",
+   "unit_id": "WJ2-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一次解决一个问题：把学位、工作、配偶、父母养老放一起考虑只会越想越糊涂",
+   "quote": "一次解决一个",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18775,
+    "end_line": 18775,
+    "sha1": "f4adf13e579a2f4569ff39f6b8fd2761f24797dc",
+    "fingerprint": [
+     "女朋友",
+     "问题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "一次解决一个问题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "列出所有因素是好习惯，但别指望一次性解决所有问题；有女朋友后去哪工作未必由你定",
+   "claim_id": "C-WJ2-U0232-06",
+   "unit_id": "WJ2-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选了不平常的路就要付出常人不需要的代价；一旦走了就不要犹豫反复，踏实走脚下的路",
+   "quote": "不要太犹豫",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18777,
+    "end_line": 18777,
+    "sha1": "7c9c260851618510bcd19b92f82d2857004312ca",
+    "fingerprint": [
+     "代价",
+     "犹豫"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D03-1"
+   ],
+   "concept_key": "非常路勿反复",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不打算付出代价就不要选那种路；对所有人都适用",
+   "claim_id": "C-WJ2-U0232-07",
+   "unit_id": "WJ2-U0232"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0232",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'Kuang, Xu'同学来信全文（帝国理工博士的职业困惑三问）为读者发言本体，整块X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "回同学信07：学术道路不好走（实习试错/更难/N+1/四要/势能/一次一个/勿反复）"
+}

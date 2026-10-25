@@ -1,0 +1,224 @@
+{
+  "unit_id": "WJ2-U0215",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0215-01",
+      "unit_id": "WJ2-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "高回报必然意味着高风险，高风险未必带来高回报；低风险高回报的事因众人涌入而消失",
+      "quote": "高风险却未必带来高回报",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17427,
+        "end_line": 17429,
+        "sha1": "10a139a290ade56cd0ec7217ac3a5c2766fc5757",
+        "fingerprint": [
+          "风险",
+          "回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D09-2"
+      ],
+      "concept_key": "高回报必含高风险",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照CK-3561；战争热点收古董例；'不太累又旱涝保收的专业'不存在同链"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-02",
+      "unit_id": "WJ2-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "同一件事对不同人风险不同：总结别人成功经验要看清背后的条件和前提，别只看结果以为可复制",
+      "quote": "一定要看清楚背后的条件和前提",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17433,
+        "end_line": 17435,
+        "sha1": "df1d9b7d7bd0a79e749ced3b255f808f661cb665",
+        "fingerprint": [
+          "条件",
+          "前提"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "风险因人而异看前提",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "胡贝尔创业低风险与富二代承受力例；金融机构抗风险力强故个人勿仿其高风险交易"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-03",
+      "unit_id": "WJ2-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "成熟市场类似投资工具的收益和风险比大致是常数即夏普比率，不同市场不同产品比率不同",
+      "quote": "收益和风险比大致是一个常数",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17441,
+        "end_line": 17445,
+        "sha1": "f31799c739350d6c8f04e9107a0c44e199dc2b16",
+        "fingerprint": [
+          "夏普比率",
+          "常数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D04-1"
+      ],
+      "concept_key": "夏普比率",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "夏普提出比率概念；标普0.7、日德中等、道指大于1；比率大于一较稳健推荐（17449）"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-04",
+      "unit_id": "WJ2-U0215",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特：别人恐惧的时候我贪婪——市场剧烈波动时买入被恐慌压低的优质资产回报较高",
+      "quote": "别人恐惧的时候他贪婪",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17443,
+        "end_line": 17443,
+        "sha1": "e2481e15309c70789d8b0a5e5d81be6a2257574e",
+        "fingerprint": [
+          "恐惧",
+          "贪婪"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "别人恐惧我贪婪",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者巴菲特；吴军以夏普比率不变前提解释，并解释其留大量现金之因"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-05",
+      "unit_id": "WJ2-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "分散投资把鸡蛋放进不同篮子：成分股均摊风险，同等回报降低风险；挑股反而抬高风险",
+      "quote": "把鸡蛋放在不同的篮子里",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17455,
+        "end_line": 17455,
+        "sha1": "10ba349047d05c3b8b37a29392dcc1d866146e3d",
+        "fingerprint": [
+          "鸡蛋",
+          "篮子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "分散均摊风险",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "解释基金经理长期做不过大盘"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-06",
+      "unit_id": "WJ2-U0215",
+      "speaker": "转述·第三方",
+      "claim_text": "达利欧做法：先挑夏普比率高的金融产品，再适当加一点杠杆（绝非十倍杠杆）",
+      "quote": "适当地加一点杠杆",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17457,
+        "end_line": 17457,
+        "sha1": "401e0cdf9b83930d0123b99b0553715f90324f6d",
+        "fingerprint": [
+          "杠杆",
+          "夏普比率"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "高夏普加适度杠杆",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者瑞·达利欧（桥水）；吴军强调与长期资本管理公司十倍杠杆之别"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-07",
+      "unit_id": "WJ2-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "用历史数据算风险的前提是未来不发生史上未有之事：六西格玛事件发生说明漏算了系统性风险",
+      "quote": "市场总是对的，错的是理论",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17459,
+        "end_line": 17461,
+        "sha1": "c17d83c00ba33c02759b77c76e20e3129f84791d",
+        "fingerprint": [
+          "系统性风险",
+          "理论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D09-2"
+      ],
+      "concept_key": "市场对理论错",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "长期资本管理公司例；航空安全与公司管理问题例（17463同链）"
+    },
+    {
+      "claim_id": "C-WJ2-U0215-08",
+      "unit_id": "WJ2-U0215",
+      "speaker": "吴军本人",
+      "claim_text": "把控风险的度取决于三个因素：主观心理承受力、承受风险的实力、以及自己的目标",
+      "quote": "主要取决于三个因素",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17467,
+        "end_line": 17473,
+        "sha1": "747bf2553272384350b5cf0d3f9a24ac87ad539a",
+        "fingerprint": [
+          "承受",
+          "目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "风险承受三因素",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "目标保值就不冒险；年轻人无可损失故适合创业；'比疯狂购物更败家的是投资和创业'（17473）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "风险与回报平衡系统方法论，8卡含巴菲特/达利欧转述卡2张"
+}

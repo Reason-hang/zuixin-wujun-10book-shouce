@@ -1,0 +1,149 @@
+{
+  "unit_id": "WJ2-U0212",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0212-01",
+      "unit_id": "WJ2-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "最好的数据是买来的：从专业数据库付费获取信息，靠小红书等社交网络找数据先输多局",
+      "quote": "最好的数据是买来的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17213,
+        "end_line": 17219,
+        "sha1": "e8acf9571962d0d977a0d3683ae28477fd329de2",
+        "fingerprint": [
+          "数据",
+          "订阅"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "最好的数据是买来的",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "汤普森路透/彭博/statista例；谷歌工程师赢财富管理人之轶事同链"
+    },
+    {
+      "claim_id": "C-WJ2-U0212-02",
+      "unit_id": "WJ2-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "信息来源存在层级：越上层越准确全面，从最底层信息源获取信息赢不了用上层源的专业人士",
+      "quote": "从最底下一层信息源获取信息",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17221,
+        "end_line": 17223,
+        "sha1": "228c84c079f6d36fc941e38a5af9a48f0870d2ff",
+        "fingerprint": [
+          "信息源",
+          "搜索引擎"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "信息源层级",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "鄙视链：专业数据库>财经网站>搜索引擎>ChatGPT>社交网络；搜索引擎给来源可核验而ChatGPT部分无来源"
+    },
+    {
+      "claim_id": "C-WJ2-U0212-03",
+      "unit_id": "WJ2-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "最高水平的论文多用英文发表：要掌握最前沿科研进展必须读英文文献，而非只读中文",
+      "quote": "快速掌握了最前沿的科技进展",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17225,
+        "end_line": 17227,
+        "sha1": "d5120bbb8f2a38362fc067a6a431c7c83e1f6305",
+        "fingerprint": [
+          "英文文献",
+          "前沿"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "读英文文献追前沿",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "清华每周两个半天图书馆读文献；老一辈学者一字一字抠英文文献例"
+    },
+    {
+      "claim_id": "C-WJ2-U0212-04",
+      "unit_id": "WJ2-U0212",
+      "speaker": "转述·第三方",
+      "claim_text": "杨振宁：科技阅读的品位上不去，就成不了一流的学者",
+      "quote": "品位上不去，就成不了一流的学者",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17233,
+        "end_line": 17233,
+        "sha1": "ac1eb5e18d111dbe0eec0c3dfd704668feb7ba07",
+        "fingerprint": [
+          "品位",
+          "学者"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-3"
+      ],
+      "concept_key": "阅读品位决定学者高度",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "被转述者杨振宁（美国开课讲科技阅读品位）；吴军引申到信息源选择（同链卡1/2）"
+    },
+    {
+      "claim_id": "C-WJ2-U0212-05",
+      "unit_id": "WJ2-U0212",
+      "speaker": "吴军本人",
+      "claim_text": "专业与业余之别不在于是否任职，而在于做事方法专业并获得专业共同体的认可",
+      "quote": "在于你做事的方法是否专业",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17243,
+        "end_line": 17247,
+        "sha1": "2a90d8d86ba3b08ec4c457ef3e733eca5076f7a3",
+        "fingerprint": [
+          "共同体",
+          "认可"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D06-1"
+      ],
+      "concept_key": "专业在方法与共同体认可",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "业余达专业水平的条件：设备、数据、圈子交流（17247同链）；罗林森破译楔形文字例"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "业余做得像专业一样好两关键（信息来源/专业圈子）成5卡，含杨振宁转述卡1张"
+}

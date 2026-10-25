@@ -1,0 +1,230 @@
+{
+  "unit_id": "WJ2-U0208",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0208-01",
+      "unit_id": "WJ2-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "谈重要的事要面谈：表达含语言与情绪两部分编码（语气、肢体动作），纯文字交流丢掉大量信息",
+      "quote": "丢掉了很多有用信息",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16867,
+        "end_line": 16871,
+        "sha1": "25165b567201b0b0ecfbb82396c5775d1dd66bb7",
+        "fingerprint": [
+          "肢体语言",
+          "情绪",
+          "面谈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "重要事情面谈",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "现场讲课优于网课；微信语音与懒见面同弊"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-02",
+      "unit_id": "WJ2-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "有效编码的关键是双方使用同一个码本：看人用词，用对方听得懂的语言表达",
+      "quote": "讲话双方要使用同一个码本",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16877,
+        "end_line": 16881,
+        "sha1": "8d7b3d646571544af5e8d86a3717ff8c338e02ee",
+        "fingerprint": [
+          "码本",
+          "讲人话"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "沟通同码本",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "高雅以对方能理解为前提；昆曲过雅失传例"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-03",
+      "unit_id": "WJ2-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "表达要简洁且适度冗余：对自己的思想先编码删掉废话，重要的话换一种说法再讲以防丢失",
+      "quote": "重要的话讲三遍",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16883,
+        "end_line": 16891,
+        "sha1": "67a68ea8a9b2c9f41d28a416415eeea7c76f9065",
+        "fingerprint": [
+          "简洁",
+          "冗余"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "简洁与适度冗余",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "信息论编码两要点（《信息论40讲》）；10的170次方打比方便是换说法解释"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-04",
+      "unit_id": "WJ2-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "讲话不要太快：传输率超过人脑带宽人就听不懂，信息密度高的地方要放慢并留思考时间",
+      "quote": "传输率超过了人脑的带宽",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16895,
+        "end_line": 16897,
+        "sha1": "329b1b6eaaa613c738f45112f18125e647cd9fb1",
+        "fingerprint": [
+          "带宽",
+          "香农"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D04-2"
+      ],
+      "concept_key": "传输率不超带宽",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "香农第二定律应用于表达；导师库坦普安排停顿例"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-05",
+      "unit_id": "WJ2-U0208",
+      "speaker": "转述·第三方",
+      "claim_text": "维特根斯坦语言图像论：语言是通过结构构造出的、再现真实世界的图像",
+      "quote": "再现真实世界的图像",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16903,
+        "end_line": 16905,
+        "sha1": "729ccdd3fd12152700f2732acc428bfe7544fac1",
+        "fingerprint": [
+          "语言图像",
+          "维特根斯坦"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "语言图像论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者维特根斯坦；吴军引申应用见本单元卡7"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-06",
+      "unit_id": "WJ2-U0208",
+      "speaker": "转述·第三方",
+      "claim_text": "维特根斯坦语言游戏：用语言构建出一个完整的故事，交流双方构建的故事可能不同",
+      "quote": "使用语言构建出一个完整的故事",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16907,
+        "end_line": 16909,
+        "sha1": "3f4379990c2f28290c28e309ed61510a3dc94c80",
+        "fingerprint": [
+          "语言游戏",
+          "语境"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "语言游戏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者维特根斯坦；'你从来不收拾家里'夫妻例为家庭场景但仅作一般沟通机理例证（X5留痕）"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-07",
+      "unit_id": "WJ2-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "真正有效的交流是双方进入同一个语言游戏，构建出同样的语境和意图",
+      "quote": "双方进入同一个语言游戏",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16909,
+        "end_line": 16911,
+        "sha1": "6212e377fd63bf7d8fc3ad12043b67c1af5dd4df",
+        "fingerprint": [
+          "语言游戏",
+          "语境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D01-4"
+      ],
+      "concept_key": "进入同一语言游戏",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "概念源自维特根斯坦（互引卡6）；懂外语才懂其语言图像与游戏故仍要学外语"
+    },
+    {
+      "claim_id": "C-WJ2-U0208-08",
+      "unit_id": "WJ2-U0208",
+      "speaker": "吴军本人",
+      "claim_text": "沟通要防两件事：二义性（先统一核心概念）与过度解读（信息只会越传越少，多出的是杜撰）",
+      "quote": "多出来的都是接收者的杜撰",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 16917,
+        "end_line": 16925,
+        "sha1": "3582e4c5393ac2ef7fadb17f69585b6b5b44b604",
+        "fingerprint": [
+          "二义性",
+          "过度解读"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "防二义性与过度解读",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "20比特信息扩展成200比特即杜撰；小王妻子吃饭例"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "有效交流底层逻辑（信息论+哲学两层），8卡含2张维特根斯坦转述卡"
+}

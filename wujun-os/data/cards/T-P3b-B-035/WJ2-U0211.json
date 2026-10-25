@@ -1,0 +1,132 @@
+{
+  "unit_id": "WJ2-U0211",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ14",
+  "batch_id": "T-P3b-B-035",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0211-01",
+      "unit_id": "WJ2-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "房价长期走势的宏观因素有三：当地经济、地点宜居度、人口变化趋势",
+      "quote": "影响房地产价格走势的主要因素",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17111,
+        "end_line": 17121,
+        "sha1": "72704bd82ba79dd1110fb114c03efcca410db899",
+        "fingerprint": [
+          "宏观因素",
+          "人口"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-2"
+      ],
+      "concept_key": "房价走势三宏观因素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "经济长期发展则房价涨速超GDP；奥斯丁与日本例；具体行情判断记X2"
+    },
+    {
+      "claim_id": "C-WJ2-U0211-02",
+      "unit_id": "WJ2-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "城市内部房价由李嘉图地租定律决定：越靠近中心涨得越快抗跌，越往外价值稳定性越差",
+      "quote": "由李嘉图地租定律决定的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17125,
+        "end_line": 17125,
+        "sha1": "ba949b0cbc8b1872dcaec13df82c08f418611825",
+        "fingerprint": [
+          "李嘉图",
+          "抗跌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-2"
+      ],
+      "concept_key": "地租定律与房价",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "中心含商业中心好学区；房地产信仰因素见17127（对照CK-0875信仰定价）"
+    },
+    {
+      "claim_id": "C-WJ2-U0211-03",
+      "unit_id": "WJ2-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "利率只影响房价短期波动而非长期走势；长期微观因素是保有成本与房屋本身质量",
+      "quote": "而不是长期走势的微观因素",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17133,
+        "end_line": 17141,
+        "sha1": "a981544b32d8617a9d7eb41610ac29e0f43f398c",
+        "fingerprint": [
+          "利率",
+          "保有"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "房价短期与长期因素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "房产税与维修为保有成本；房屋持续损耗贬值与建造质量相关"
+    },
+    {
+      "claim_id": "C-WJ2-U0211-04",
+      "unit_id": "WJ2-U0211",
+      "speaker": "吴军本人",
+      "claim_text": "不同市场房产投资逻辑不同：国内除位置外其余都不稀缺，美国郊区别墅土地本身可增值",
+      "quote": "剩下的都不是稀缺资源",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 17145,
+        "end_line": 17147,
+        "sha1": "b7a629936aa0011908c195ec1758a3f37f9d8bc2",
+        "fingerprint": [
+          "稀缺",
+          "市场"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "房产稀缺性看市场",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "陆家嘴公寓与郊区别墅对比例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0211",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "具体行情与时点判断（加州房价长远一直走强、奥斯丁房价急剧上涨、中国一二三线城市分层判断、'我觉得中国暂时不会收房产税'）为时效论断不入主干"
+    },
+    {
+      "unit_id": "WJ2-U0211",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "法国陆权海权兴衰为文明史叙述（含'海权需分权政治制度'史论），无可迁移个人方法论"
+    },
+    {
+      "unit_id": "WJ2-U0211",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者'东南西''咚咚锵''末日罗兰'来信原文与用户留言（阿姆斯特丹艺术与房价长文）为读者文本，仅吴军回应部分入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "房价分析框架（宏观/微观/市场比较）为可迁移判断逻辑成4卡，行情判断与史述X留痕"
+}

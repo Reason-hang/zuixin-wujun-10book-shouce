@@ -1,0 +1,211 @@
+{
+ "unit_id": "WJ2-U0223",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界不会因你缺钱就廉价卖给你卡地亚钻戒：顶级机构排他，不为初学者提供廉价入口",
+   "quote": "这个世界从来不给",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18027,
+    "end_line": 18029,
+    "sha1": "c49ab3bd383fb993bcd3b97faae01d6f1c3b455c",
+    "fingerprint": [
+     "卡地亚",
+     "排他"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "排他性不给廉价入口",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者咚咚锵；顶级学术/金融机构讲师承门第；半路出家须先证明同等能力才被接纳",
+   "claim_id": "C-WJ2-U0223-01",
+   "unit_id": "WJ2-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会不需要'达到专业一半水平'的人：不存在照顾业余者的廉价专业资源，按圈内做法做即可",
+   "quote": "一半水平的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18031,
+    "end_line": 18033,
+    "sha1": "4d64ed89d1480018d6223d443b0be852a37f6f98",
+    "fingerprint": [
+     "专业人士",
+     "业余"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "半专业无用论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "汤普森路透不会做1%数据的训练集生意；没有票友俱乐部",
+   "claim_id": "C-WJ2-U0223-02",
+   "unit_id": "WJ2-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "存款保险有上限：超限现金应分散到多家银行（美国FDIC每储户25万美元）",
+   "quote": "这样能分散风险",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18045,
+    "end_line": 18045,
+    "sha1": "373da1c8a32d35c0d3c98978da74b445dae90688",
+    "fingerprint": [
+     "担保",
+     "银行"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "存款保险上限与分散",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者小灰；银行挤兑/企业债券赎回/基金赎回三情形处理不同（18043）",
+   "claim_id": "C-WJ2-U0223-03",
+   "unit_id": "WJ2-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业破产清偿按优先级：高级票据→普通债券→优先股→普通股；普通股东通常拿不到钱",
+   "quote": "按照企业资本的优先级次序",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18047,
+    "end_line": 18057,
+    "sha1": "b1cf00b890a5e389e52cc23b1fa869745d8ec566",
+    "fingerprint": [
+     "高级票据",
+     "优先股"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "清偿优先级",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "仙股不是便宜：跌到1元以下仍可能归零；欠政府税费与员工奖金在先（18053）；《硅谷来信》第330封信互参",
+   "claim_id": "C-WJ2-U0223-04",
+   "unit_id": "WJ2-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基金公司倒闭不影响你持有的底层资产：股票国债转到其他机构；以现金存放则大概率拿不回",
+   "quote": "你的投资还是安全的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18063,
+    "end_line": 18065,
+    "sha1": "8c69eafc492d30dceebb0945ffde95948d164c3c",
+    "fingerprint": [
+     "倒闭",
+     "现金"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "底层资产与通道风险",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "高盛买腾讯股票/国债例；'现金比股票安全'要看存在哪里；基金真正的危险是买的资产太糟（18067）",
+   "claim_id": "C-WJ2-U0223-05",
+   "unit_id": "WJ2-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要创造不存在的矛盾再解决它：差的基础教育与好的可以并存（0分与100分同班）",
+   "quote": "不存在的矛盾",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18077,
+    "end_line": 18079,
+    "sha1": "aa68ae8f500a974f9211901b6eea300a4e46b2c9",
+    "fingerprint": [
+     "矛盾",
+     "绝对化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "伪矛盾",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者Raymond；与U0182'发明问题再解决'同族互参；地上没有天国也没有十八层地狱；绝对化思维是根源",
+   "claim_id": "C-WJ2-U0223-06",
+   "unit_id": "WJ2-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "违背常识的想法应先自己研究解决：提问前多想一步、先过自己这一关",
+   "quote": "先过自己这一关",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18081,
+    "end_line": 18083,
+    "sha1": "51d55d21d5652579d9d6e1c954644aaa3c8cc904",
+    "fingerprint": [
+     "常识",
+     "判断力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "提问前自检",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "留学生仅占美国大学生约5%（100万/1900万）；美债3/4为美国人持有、中国持约2%（18083）；教科书里中国人名字不多（18085）；底层思维才能一通百通（18087）",
+   "claim_id": "C-WJ2-U0223-07",
+   "unit_id": "WJ2-U0223"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0223",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "文末'同学留言'块（咚咚锵4条信息源感悟长文）为读者发言本体，整块X7留痕不抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答：排他性入口+清偿优先级+伪矛盾，三问分别成卡"
+}

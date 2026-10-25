@@ -1,0 +1,122 @@
+{
+ "unit_id": "WJ2-U0224",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标要够得着（reachable）且可分解：够得着≈两个西格玛以内的事",
+   "quote": "够得着的事情才有可能发生",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18125,
+    "end_line": 18131,
+    "sha1": "48e1a2d90cafe4bada632b3051225e1cb89283ba",
+    "fingerprint": [
+     "够得着",
+     "西格玛"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-1"
+   ],
+   "concept_key": "目标够得着原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "北京排名1000 vs 10000例；660分+2σ=700上清北概率2-3%留10分安全系数；'一个亿'对工薪远超2σ（18131）；答读者攻城狮",
+   "claim_id": "C-WJ2-U0224-01",
+   "unit_id": "WJ2-U0224"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "可以设五年目标，但两年后它应变成三年目标，而不依然是五年目标（诺威格）",
+   "quote": "变成一个三年的目标",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18135,
+    "end_line": 18135,
+    "sha1": "134ce3ea19efccb047c00fd75f9ab5c33b17b13d",
+    "fingerprint": [
+     "诺威格",
+     "目标"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "五年目标两年检验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=诺威格（吴军老板）；核聚变'再过50年'永远50年、攻克癌症遥遥无期为反例（18137）；科学家吹大话→公众不信任→科研经费被裁（18139）；个人十年目标要拆成一年半年，几次不达即知不靠谱（18141）",
+   "claim_id": "C-WJ2-U0224-02",
+   "unit_id": "WJ2-U0224"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两种定目标法各有缺陷：大拆小可能空想、小到大可能局部最优整体错位；折衷脚踩两船不可取",
+   "quote": "折衷主义",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18145,
+    "end_line": 18153,
+    "sha1": "70d3b50f0bacf84f78a049885e80a09c0d3d567a",
+    "fingerprint": [
+     "折衷主义",
+     "短期"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "目标两法与折衷陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "小升初一路到30岁迷茫=局部最优整体错位；与长期计划不一致的短期机会（AI热门转行）是节外生枝：要么重规划要么拒绝诱惑（18153）",
+   "claim_id": "C-WJ2-U0224-03",
+   "unit_id": "WJ2-U0224"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "短目标滚动升格：把当下目标做到，更大目标自然浮现（做会竞赛题→得奖→第一→世界第一）",
+   "quote": "目标自然就定在了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18159,
+    "end_line": 18165,
+    "sha1": "c06257dfd90bd24d2e689854fc4742610b6033bb",
+    "fingerprint": [
+     "出国",
+     "通识课程",
+     "第一"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D03-1"
+   ],
+   "concept_key": "短目标滚动升格",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "吴军一生仅两个长期目标（出国：10年第8年成；通识课程）；不给自己定超高目标故无压力；齐白石50岁境界飞跃（18167）；怀尔斯式从小立志属幸存者偏差（18169）",
+   "claim_id": "C-WJ2-U0224-04",
+   "unit_id": "WJ2-U0224"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "目标定多高：够得着/可分解/两法取舍/短目标滚动，整信方法论成卡"
+}

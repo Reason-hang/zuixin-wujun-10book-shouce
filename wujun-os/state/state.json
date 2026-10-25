@@ -1,8 +1,8 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-25（J-097 后）",
-  "phase": "P3b 来信抽取 35/86（谷歌 21/21 收口+单书验收 PASS；WJ2 15/22）",
+  "updated": "2026-10-25（J-101 后）",
+  "phase": "P3b 来信抽取 37/86（谷歌 21/21 收口+单书验收 PASS；WJ2 17/22）",
   "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
   "spec": {
     "v2_方案": "v2（2026-10-19）",
@@ -18,20 +18,20 @@
   "progress": {
     "units_total": 1742,
     "units_content": 1697,
-    "units_done": 890,
+    "units_done": 917,
     "chars_total": 5038558,
-    "chars_done": 2563905,
-    "batches_done": 57,
+    "chars_done": 2660049,
+    "batches_done": 59,
     "batches_est": 108
   },
   "in_flight": {
-    "ticket": "T-P3x-B-035",
+    "ticket": "T-P3x-B-037",
     "unit_ids": [],
     "unsaved": "无",
-    "note": "r13 已到期（B-032/033/034 满3批），GAUD15 待派（两次被限流拒，D-34 推迟不 inline）"
+    "note": "r14 于 B-037 收编后触发"
   },
-  "last_ticket": "T-P3b-B-034（67 卡 0 FAIL，J-097）",
-  "next_ticket": "T-P3x-B-035（WJ2⑮）→ B-036~042 → WJ2 单书验收 → SG3 B-043~065 → SG1 B-001~020",
+  "last_ticket": "T-P3b-B-035+B-036 双批（78+72 卡 0 FAIL，J-100/101）",
+  "next_ticket": "T-P3x-B-037（WJ2⑰）→ B-038~042 → WJ2 单书验收 → SG3 B-043~065 → SG1 B-001~020",
   "blocked_by": [],
   "open_items": [
     "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",

@@ -1,0 +1,182 @@
+{
+ "unit_id": "WJ2-U0229",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-036",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当你觉得自己和大众站在一起时，要非常小心：你的想法很可能错了",
+   "quote": "和大众站在一起",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18491,
+    "end_line": 18491,
+    "sha1": "f6d35bcb09762b3fd906be6688cdd5adc5860b1d",
+    "fingerprint": [
+     "大众",
+     "想法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "勿与大众同思",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者Husky；文艺复兴双胞胎：期权到期日价位永远双杀多空散户（18487）；随大流教育=最低效最累（18493）",
+   "claim_id": "C-WJ2-U0229-01",
+   "unit_id": "WJ2-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伟大企业学不来：认知与能力都不够；少有人走的路吃不了苦——随大流的问题有现成答案，新路没有",
+   "quote": "因为学不来",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18497,
+    "end_line": 18501,
+    "sha1": "323a2f53d4c42ee3a6af74eb2477859590f2889a",
+    "fingerprint": [
+     "学不来",
+     "新路"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D08-1"
+   ],
+   "concept_key": "平庸者学不来卓越",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "米其林三星稀少、基因泰克水平全球仅两三家；伟大看历史与世界影响而非用户数（18499）；自知不够者不开头，能力不够者中途退",
+   "claim_id": "C-WJ2-U0229-02",
+   "unit_id": "WJ2-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'中产阶级'是结果不是原因：资产值不值得投资与你的阶层身份关系不大",
+   "quote": "是一个结果，不是原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18521,
+    "end_line": 18521,
+    "sha1": "5985046d966b544e8ccda97476afdec5be7f720a",
+    "fingerprint": [
+     "中产阶级",
+     "返贫"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "阶层是结果",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "善于投资就迈入富人、做反就中产返贫；答读者咚咚锵",
+   "claim_id": "C-WJ2-U0229-03",
+   "unit_id": "WJ2-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "房产三分类：自住重使用价值、出租看现金流与升值、度假屋最不合适（负现金流且锁死去处）",
+   "quote": "可以分为三类",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18523,
+    "end_line": 18527,
+    "sha1": "226f23483f74f8e8c682bc71684ae446eacfaf76",
+    "fingerprint": [
+     "租售比",
+     "度假屋"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "房产三分类",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "硅谷租售比3%扣税后现金流≈零；JHU附近联排30万租3万=10%租售比；谷歌早期员工买度假屋连本金都亏（18529）；学区房省下私校学费即值（18525）",
+   "claim_id": "C-WJ2-U0229-04",
+   "unit_id": "WJ2-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "买时按表面现象付钱、卖时别人只按实际价值付钱：老奔驰与雅阁二手同价，钻戒出手只剩1/3",
+   "quote": "按照实际价值付钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18533,
+    "end_line": 18537,
+    "sha1": "523e2be6954c8a1e9c4ab383ebb2c0c819f61880",
+    "fingerprint": [
+     "维护",
+     "奔驰"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "表象价与实际价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "零件估价错觉vs维护投入1.5万美元；卡地亚宝格丽蒂芙尼是例外",
+   "claim_id": "C-WJ2-U0229-05",
+   "unit_id": "WJ2-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资品=持续现金流或长期稳定升值；普通钻戒、高端汽车、度假屋是消费品；全球唯一的奢侈品才可能算投资品",
+   "quote": "才是值得投资的产品",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 18539,
+    "end_line": 18541,
+    "sha1": "7c25b9f9f61b8ad7432a7e6d9c7f1dc3a66156e9",
+    "fingerprint": [
+     "现金流",
+     "投资品"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资品与消费品分界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "卡地亚全球唯一款vs一克拉量产钻戒；极少数百达翡丽才是投资品；街头油画成名=中头彩非投资回报；老家族资产大头在股债（18543）",
+   "claim_id": "C-WJ2-U0229-06",
+   "unit_id": "WJ2-U0229"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0229",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者咚咚锵4条资产/流动性/现金流/消费陷阱留言为读者发言本体，吴军评价'已部分回答了自己的问题'，整块X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答：大众认知+投资品与消费品分界，双问分别成卡"
+}
