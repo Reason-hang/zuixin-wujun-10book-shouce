@@ -1,0 +1,130 @@
+{
+ "unit_id": "SG3-U0003",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有人文的科技对人类可能是灾难：武功要与道德修行相匹配（扫地僧）——第三季为科技补上人文",
+   "quote": "害了自己",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 685,
+    "end_line": 689,
+    "sha1": "e88debe438e407b43c3bf503e53ea90f17835295",
+    "fingerprint": [
+     "人文",
+     "科技"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-1"
+   ],
+   "concept_key": "科技需要人文",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "扫地僧故事E2成分并入notes；科技有高峰低谷、目前处平稳期（685）；发刊词定位：新时代的窗口、多元文化的代名词（681）",
+   "claim_id": "C-SG3-U0003-01",
+   "unit_id": "SG3-U0003"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "素材卡片法：遇到可聊的事就做笔记存卡片——两年积累成一季专栏；好内容需要时间积累和思考",
+   "quote": "做成卡片存起来",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 657,
+    "end_line": 659,
+    "sha1": "f0f00254cda2c3daf0bf6ba367c959fa766a8648",
+    "fingerprint": [
+     "素材",
+     "卡片"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "素材卡片积累法",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "暂停两年间收集素材记录心得（657）；半年前开始筹备（659）；与U0222工作记录四类同族互参",
+   "claim_id": "C-SG3-U0003-02",
+   "unit_id": "SG3-U0003"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "通过讨论验证经验：柏拉图《理想国》教育理念——必须通过讨论才能验证平时经验是否正确",
+   "quote": "验证平时的经验",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 677,
+    "end_line": 677,
+    "sha1": "1d5549f1a2f8a9a7d961acd3572e2a57887ce830",
+    "fingerprint": [
+     "讨论",
+     "经验"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "讨论验证经验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=柏拉图《理想国》；这是加强讨论环节（知识城邦+周六问答）的原因（675）",
+   "claim_id": "C-SG3-U0003-03",
+   "unit_id": "SG3-U0003"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理投资成功靠人性不靠技术：重点在成为心智健全的生意人、管理者、投资者",
+   "quote": "主要看人性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 701,
+    "end_line": 703,
+    "sha1": "accf27a78bc089c670a5a5dad8ff1772183d415c",
+    "fingerprint": [
+     "人性",
+     "心智"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "人性先于技术",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本季主题预告之三四五：教育自学/成长职业/商业管理金融/文化艺术/人物传（693-713）；孙悟空紧箍咒谈同行认同、罗德曼谈实现梦想（699）；阿奎纳把科学装进神学框架（713）",
+   "claim_id": "C-SG3-U0003-04",
+   "unit_id": "SG3-U0003"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0003",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "发刊词的专栏沿革、平台功能介绍与致谢为结构-运营性内容，X7留痕；可迁移判断已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3发刊词：科技需要人文/素材卡片法/讨论验证经验/人性先于技术"
+}

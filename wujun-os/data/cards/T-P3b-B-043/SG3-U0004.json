@@ -1,0 +1,157 @@
+{
+ "unit_id": "SG3-U0004",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-043",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "GDP年化下降33%实际季度降幅约8%：年化=季度趋势放大四倍——媒体报道算法陷阱",
+   "quote": "放大四倍",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 739,
+    "end_line": 739,
+    "sha1": "5423c77b1b144b0c08b0792bea0ca41b2c133470",
+    "fingerprint": [
+     "年化",
+     "算法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "年化算法陷阱",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "疫情后硅谷现状信（第001封）；苹果Q2营收同比+11%、半年利润250亿（745-747）；字母表Q2跌2%但没裁员反雇4000人（749）",
+   "claim_id": "C-SG3-U0004-01",
+   "unit_id": "SG3-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "处方药需在医院使用：疫情不敢去医院→全球药企营收普遍降10%（抗癌药不能拿回家服用）",
+   "quote": "需要在医院使用",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 767,
+    "end_line": 771,
+    "sha1": "412571a32e80e42ea6dc46317b30d236149647b7",
+    "fingerprint": [
+     "处方药",
+     "医院"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "药企疫情悖论",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "吉利德瑞德西韦大红大紫但营收反降3%（763）；基因泰克降幅约10%（765）；强生辉瑞等皆约10%（771）；X6时点数据留痕",
+   "claim_id": "C-SG3-U0004-02",
+   "unit_id": "SG3-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "李嘉图定律：中心地价高辐射周边；经济差时周边暴跌、中心因总有人想挤进去而维持——硅谷是美国的中心地区",
+   "quote": "中心地价高",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 795,
+    "end_line": 799,
+    "sha1": "3f3bd322d04be315ab8e822cc4e32d126ce1e3c5",
+    "fingerprint": [
+     "李嘉图",
+     "中心"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "李嘉图定律",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第二季201封信详述（797）；危机中大品牌增长小品牌下降（805）；只有优质资产企业个人才能在危机中保值、要在中心找位置而非周边称大王（811）；寻欢问'李嘉图定律'的读者问题同族（U0247）",
+   "claim_id": "C-SG3-U0004-03",
+   "unit_id": "SG3-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基本盘：危机到来时企业个人都缩回自己最强的那一项——高科技信息产业是硅谷的基本盘，守得住还能扩大份额",
+   "quote": "缩回到各自的基本盘",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 801,
+    "end_line": 807,
+    "sha1": "9883e19ead74e32f26ba8f26a4deebbfb5e94306",
+    "fingerprint": [
+     "基本盘",
+     "危机"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "基本盘",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "善跑200米的涉足100/400米、危机时保最强项金牌（803）；失业率升高的企业都不在基本盘中（805）；个人基本盘是立于不败之地的根本、进可攻退可守（807）；10个90分不如1个100分（809）；与佩洛顿'基本盘与跨界'（U0202）跨书同键互参；失业率11.3%为三次危机最高（783-785）",
+   "claim_id": "C-SG3-U0004-04",
+   "unit_id": "SG3-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "冰火两重天的真相：硅谷IT从业者在就业中只占小部分——高科技坚挺与服务业重创并存",
+   "quote": "冰火两重天",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 787,
+    "end_line": 791,
+    "sha1": "749c0418833b06952d50531a9636e73162fc40f7",
+    "fingerprint": [
+     "失业率",
+     "高科技"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "硅谷就业结构",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "风投交易少40%+、种子轮少57%（779）；IT相关只占就业小部分、大部分从事其他行业（789-791）",
+   "claim_id": "C-SG3-U0004-05",
+   "unit_id": "SG3-U0004"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0004",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "2020疫情期营收/失业率/风投等时点数据为例证留痕，机理已入卡；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第001封：年化陷阱/药企悖论/李嘉图定律/基本盘/就业结构"
+}
