@@ -12,7 +12,7 @@ batch_publish.py — 批次发布器（J-126 提速工具 5）
       --title "<J行开头标题，如 SG3⑥ B-049 完成收编>" \
       --themes "<主题带：xxx/yyy/zzz>" [--book SG3] [--extra "<补充句>"]
 """
-import json, glob, sys, os, subprocess
+import json, glob, sys, os, subprocess, datetime
 from collections import Counter
 
 
@@ -48,7 +48,7 @@ def main():
     dup = '、'.join(k for k, v in ck.items() if v > 1) or '无'
     zhuan = [k.replace('转述·第三方：', '') for k, v in sp.items() if k.startswith('转述')]
     # ② journal 行
-    line = (f"| {jnum} | 2026-10-25 | {title}（{glob.glob(os.path.join(batch_dir,'*'))[0].split('/')[-2]} 由子代理交付、batch_publish 一条龙发布）："
+    line = (f"| {jnum} | {datetime.date.today()} | {title}（{glob.glob(os.path.join(batch_dir,'*'))[0].split('/')[-2]} 由子代理交付、batch_publish 一条龙发布）："
             f"K{k_units}+X{x_units}，{tot} 卡 E1×{ev.get('E1',0)}/E2×{ev.get('E2',0)}/E3×{ev.get('E3',0)}"
             f"（转述·第三方 {sp.get('转述·第三方',0)}），X 处置 {xcnt} 条；verify 0 FAIL、覆盖 {len(docs)} 单元、uc 回写；批内同名键 {dup}。主题带：{themes}{'。' + extra if extra else ''} "
             f"| {batch_dir}/、logs/ |")
@@ -56,9 +56,9 @@ def main():
         f.write(line + '\n')
     print('journal 已追加', jnum)
     # ③ state 刷新
-    done = sum(1 for f in glob.glob('data/unitcards/uc_*.jsonl') for l in open(f) if json.loads(l).get('disposal') is not None)
+    done = sum(1 for l in open(uc_path) if json.loads(l).get('disposal') is not None)
     s = json.load(open(sfile))
-    s['updated'] = f'2026-10-25（{jnum} 后）'
+    s['updated'] = f'{datetime.date.today()}（{jnum} 后）'
     s['progress']['units_done'] = done
     s['last_ticket'] = f'{batch_id.replace("T-P3x-", "T-P3b-")}（{tot} 卡 0 FAIL，{jnum}）'
     json.dump(s, open(sfile, 'w'), ensure_ascii=False, indent=2)
