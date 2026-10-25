@@ -1,0 +1,46 @@
+{
+ "unit_id": "SG1-U0009",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "人类长寿公司：衰老才是致癌最主要原因，遗传仅占5%，防癌关键在抗衰老",
+   "quote": "衰老才是导致癌变的最主要原因",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 755,
+    "end_line": 755,
+    "fingerprint": [
+     "人类长寿公司",
+     "抗衰老"
+    ],
+    "sha1": "8e201c5e33f9307bcfe5643db98237415f886792"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-2"
+   ],
+   "concept_key": "数据修正致癌常识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=人类长寿公司（温特创立，其基金投资）；基于数万人医疗与基因数据，推翻过去遗传、环境、运气主因论（755）；权威性依据温特背景（757行816字超长）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0009-01",
+   "unit_id": "SG1-U0009"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0009",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "纯史实科普：人类基因组计划缘起、30亿美元预算、国际合作与中国承担1%、测序成本每18个月降一个数量级（765-775），以及温特、奥科人物与公司背景（757-763）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第006封信：人类长寿公司『衰老主因致癌、遗传仅5%』（转述）1卡；HGP史与人物背景归X4；『测序如OCR、读懂需编字典』判断779行（910字）超800无法设锚"
+}

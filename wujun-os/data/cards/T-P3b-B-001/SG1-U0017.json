@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0017",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "收藏品价值三条：文物性（历史见证）、艺术性（里程碑意义）、稀缺性",
+   "quote": "稀缺性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1071,
+    "end_line": 1075,
+    "fingerprint": [
+     "文物性",
+     "艺术性",
+     "稀缺性"
+    ],
+    "sha1": "be70af2ba8e6883e8c47e285d93d7c3c7ea0f97c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "收藏价值三原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "文物性如汉谟拉比法典、商代青铜器（1071）；艺术性兼今天眼光与历史里程碑（1073）；越古老越稀缺、名人用品独一无二（1075）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0017-01",
+   "unit_id": "SG1-U0017"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "《亚尼的死者之书》：年代久远、艺术成就极高、完整反映古埃及社会生活",
+   "quote": "完整地反映了三千两百多年前",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1089,
+    "end_line": 1089,
+    "fingerprint": [
+     "亚尼",
+     "死者之书"
+    ],
+    "sha1": "f4c4a911f536e4b67393f495a622e5c8427c458b"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "三原则应用例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：3300年前、颜色未经处理；《文明之光》有详介（1089）；三原则框架见C-SG1-U0017-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0017-02",
+   "unit_id": "SG1-U0017"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0017",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "纯赏析导览：大英博物馆六件镇馆之宝逐件介绍（亚尼死者之书、人首翼牛像、洪水石板、罗赛塔石碑、掷铁饼者、女史箴图）及附加神奈川巨浪（1083-1139），文物赏析无可归属结论句"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第014封信：收藏品价值三原则/亚尼死者之书选品例（E3），2卡；单元以文博导览为主，逐件赏析归X8"
+}

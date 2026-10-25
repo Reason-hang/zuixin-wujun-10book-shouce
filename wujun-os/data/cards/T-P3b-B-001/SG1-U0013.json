@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG1-U0013",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断技术是否成熟、产品是否有前景：看黄赌毒行业是否开始采用",
+   "quote": "是否开始采用这项技术",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 923,
+    "end_line": 923,
+    "fingerprint": [
+     "黄、赌、毒",
+     "开道"
+    ],
+    "sha1": "f9f1dd31e7db8b28e2201cf83d9322b11fdb99fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "黄赌毒开道判据",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "原理称『黄、赌、毒开道』（923）；机理：黄赌毒源于基因里天生的本能需求、来钱快又直接故最愿试水新技术，有钱有利益驱动就能办成事（925行1101字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0013-01",
+   "unit_id": "SG1-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "黄赌毒最先经互联网盈利：1/3流量涉色情、1/4非法下载，超正经事",
+   "quote": "很快通过互联网盈利",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 927,
+    "end_line": 927,
+    "fingerprint": [
+     "1/3",
+     "非法下载"
+    ],
+    "sha1": "3761f803577cd7ab427a4765cf17b884b3b72a4b"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "互联网早期盈利例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：2000年泡沫期雅虎统计（927）；黄赌毒为互联网贡献和测试技术（929）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0013-02",
+   "unit_id": "SG1-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "HTTPS 最早由色情网站采用：收费要信息安全、登录要给用户保密",
+   "quote": "最早就是色情网站在用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 929,
+    "end_line": 929,
+    "fingerprint": [
+     "HTTPS",
+     "色情网站"
+    ],
+    "sha1": "e43e29ae0d6bf4335e689ff88a5442058058ceea"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "HTTPS起源例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：电商一开始反而没用HTTPS；Gmail 2008年才第一个全邮箱HTTPS（929）；网络视频、Flash 靠色情普及（931）；Facebook 起于大学生真实交际、陌陌三年上市（933）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0013-03",
+   "unit_id": "SG1-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "黄赌毒试水都不成功，说明可能非刚需，应等一等（3D电视例）",
+   "quote": "不是刚需",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 937,
+    "end_line": 937,
+    "fingerprint": [
+     "3D 电视",
+     "刚需"
+    ],
+    "sha1": "403e2b58ddffd11c3c8c67a9358b1686eeda939f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "反向判据",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "黄赌毒能做成不等于其它领域做成，但试水成功使其它领域成功有可能性（937）；3D电影《肉蒲团》试探无下文（937）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0013-04",
+   "unit_id": "SG1-U0013"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0013",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点判断：色情网站与影视制作者已开始试水VR、其他人等试水结论再试不晚（939-941），依附2016年VR产业时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第010封信：黄赌毒开道判据/最先盈利例（E3）/HTTPS案例（E3）/反向判据非刚需，4卡；机理925行（1101字）超800无法设锚；VR试水现状归X2"
+}

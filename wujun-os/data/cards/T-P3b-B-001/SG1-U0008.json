@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG1-U0008",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "癌细胞会一错再错，曾管用的药会失灵；痊愈者体质仍属高危群体",
+   "quote": "曾经管用的药物也会变得不管用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 707,
+    "end_line": 709,
+    "fingerprint": [
+     "癌细胞",
+     "高危群体"
+    ],
+    "sha1": "8eaf803c8809e55bdfd881aa4eef671673391bf8"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "癌变再突变机理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：癌症难治愈机理之二三；机理之一同种癌症在不同患者身上基因复制错误可能不同、同药并非人人灵（705行1194字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0008-01",
+   "unit_id": "SG1-U0008"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李文森：很难有万灵药彻底治愈一种癌症，需按患者定制药并跟上癌变",
+   "quote": "很难找到一种万灵药",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 711,
+    "end_line": 711,
+    "fingerprint": [
+     "李文森",
+     "万灵药"
+    ],
+    "sha1": "2988f9188afc2e1fb6f730f857e4f21c4f43cb9c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "无万灵药须定制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李文森（Calico CEO、前基因泰克CEO，观点代表美国医学界主流701）；研制速度赶上癌细胞变化即可长期共存（711）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0008-02",
+   "unit_id": "SG1-U0008"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "为单个患者定制抗癌药耗费至少每人10亿美元，传统医学走不出困境",
+   "quote": "每人10 亿美元以上",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 713,
+    "end_line": 713,
+    "fingerprint": [
+     "耗费",
+     "10 亿美元"
+    ],
+    "sha1": "7b1891cd1e45a040de8375186792eba9906ed790"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "定制药天价成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李文森；需专门研发团队围绕每名患者且速度要快（713）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0008-03",
+   "unit_id": "SG1-U0008"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李文森：用大数据在上百万种癌变组合中为每种组合找到对应药物",
+   "quote": "找到各种真正导致癌变的组合",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 715,
+    "end_line": 715,
+    "fingerprint": [
+     "大数据",
+     "癌变的组合"
+    ],
+    "sha1": "f7ef8dd66a4aac44d39f71297d4b4dd1c3570ee7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "组合药库思路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李文森；基因错误约5000种、癌症百余种、组合几百万种，上百万在IT领域很小、医学领域近乎无穷大（715）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0008-04",
+   "unit_id": "SG1-U0008"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李文森：成药总研发成本摊到全球癌症患者，人均约5000美元",
+   "quote": "人均5000 美元",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 717,
+    "end_line": 717,
+    "fingerprint": [
+     "摊到全世界",
+     "人均5000"
+    ],
+    "sha1": "59c72a3c5160c6e09c60df894ff235b18b6064d1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-2"
+   ],
+   "concept_key": "成本摊薄逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李文森；未来按病变从药品库选药（如1203号、256号），癌症变成感冒式普通疾病（717）；成本摊薄为可迁移商业判断",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0008-05",
+   "unit_id": "SG1-U0008"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生命的质量可能比长度更重要",
+   "quote": "生命的质量可能比长度更重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 723,
+    "end_line": 723,
+    "fingerprint": [
+     "寿命",
+     "质量"
+    ],
+    "sha1": "98ac59f2070ccd381641bcbb956be95c8107e7f4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "生命质量重于长度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "即便癌症治愈平均寿命只增3.5岁，最大问题是老年痴呆等衰老问题（723）；有生之年治愈癌症的预测已登记X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0008-06",
+   "unit_id": "SG1-U0008"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0008",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "趋势预测：『我相信在我们有生之年，是可以看到人类解决医治癌症这个难题的』及寿命仅增3.5岁判断（723），时效预测登记X6候选"
+  },
+  {
+   "unit_id": "SG1-U0008",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "企业与人物背景：人类长寿公司（Human Longevity）与温特创团单独介绍、与新药厂合作走在前列（719），公司史背景"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第005封信：癌变机理（E3）/李文森万灵药·定制药成本·大数据组合药库（转述）/成本摊薄（转述）/生命质量重于长度，6卡；治愈预测归X6"
+}

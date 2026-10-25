@@ -1,0 +1,174 @@
+{
+ "unit_id": "SG1-U0015",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "蚂蚁胜大象两点相通：技术洋枪洋炮对大刀长矛、生产关系不同代",
+   "quote": "洋枪洋炮对大刀长矛",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 991,
+    "end_line": 995,
+    "fingerprint": [
+     "生产关系",
+     "洋枪洋炮"
+    ],
+    "sha1": "8a478dc8be33d5f0079d7882f109aa4e98403785"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "代差两要点",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "Google 17年成市值第二（989行881字超长未设锚：2000人胜微软8万人、800人Facebook折腾15000人Google、ARM挤出英特尔）；郭士纳大象蚂蚁之比（989）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0015-01",
+   "unit_id": "SG1-U0015"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "皮萨罗百余洋枪洋炮灭印加、克莱芙五千人征服上亿人口印度",
+   "quote": "洋枪洋炮",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 999,
+    "end_line": 999,
+    "fingerprint": [
+     "皮萨罗",
+     "克莱芙"
+    ],
+    "sha1": "47b870800406691f4016997cf419ffd51a458c4f"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "军事代差史例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：1532年皮萨罗一天打败近万军队俘国王；普拉西战役印军大炮淋湿成屠杀（999）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0015-02",
+   "unit_id": "SG1-U0015"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两公司技术不同代时，现有大公司竞争不过新的小公司",
+   "quote": "不是同时代的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1001,
+    "end_line": 1001,
+    "fingerprint": [
+     "PageRank",
+     "相关"
+    ],
+    "sha1": "9cb656677d21e0009ff333df07f08be1a01411a4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "技术代差定律",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "旧引擎十条仅两三条相关、PageRank七八条相关（1001）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0015-03",
+   "unit_id": "SG1-U0015"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Facebook是可二次开发的2.0平台，Orkut停留交友发帖：两个时代产品",
+   "quote": "两个时代的产品",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1003,
+    "end_line": 1003,
+    "fingerprint": [
+     "Facebook",
+     "Orkut"
+    ],
+    "sha1": "4071aea5114b81529a471693d9869d950d71b1a4"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "社交代差例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：Facebook相当于云计算的操作系统；ARM以低功耗RISC胜英特尔x86、苹果触屏机胜诺基亚（1005行726字）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0015-04",
+   "unit_id": "SG1-U0015"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只靠概念没有洋枪洋炮技术产品的独角兽，风过后成裸泳者",
+   "quote": "沙滩上裸泳的人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1007,
+    "end_line": 1007,
+    "fingerprint": [
+     "独角兽",
+     "裸泳"
+    ],
+    "sha1": "4d17b8147706a6059a316c5c98aed3d70eaa7204"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "概念独角兽裸泳",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投资人追捧概念时风光、风过现形（1007）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0015-05",
+   "unit_id": "SG1-U0015"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "抱怨被BAT捏死前先反思：自己的点子相比巨头是否真是代差优势",
+   "quote": "先应该反思",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1009,
+    "end_line": 1009,
+    "fingerprint": [
+     "BAT",
+     "大刀长矛"
+    ],
+    "sha1": "828bfc5459b9e4c9199d2b9b682063e4db04ffc7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "反思代差有无",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "都是大刀长矛则大象碾死蚂蚁不冤（1009）；颠覆式创新核心见下封（1011）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0015-06",
+   "unit_id": "SG1-U0015"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第012封信：代差两要点/皮萨罗克莱芙史例（E3）/技术不同代大公司必败/FB对Orkut（E3）/裸泳独角兽/反思点子，6卡"
+}

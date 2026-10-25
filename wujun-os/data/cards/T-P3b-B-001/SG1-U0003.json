@@ -1,0 +1,45 @@
+{
+ "unit_id": "SG1-U0003",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勤奋工作和享受生活并不对立",
+   "quote": "勤奋工作和享受生活是对立的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 451,
+    "end_line": 451,
+    "fingerprint": [
+     "享受生活",
+     "点点滴滴"
+    ],
+    "sha1": "cae8c73764a72b43f5b22c530a1590495eb0aebc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "工作与享受不对立",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从红酒咖啡美食到时尚奢侈品皆可分享（451）；发刊词其余为运营叙述归X1；465行（1065字）『一个人只有付出（哪怕是一点点），才会珍惜他所换来的』与467行（1026字）『收费=契约约束才能笔耕不辍』两判断因行超800字无法设锚，未成卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0003-01",
+   "unit_id": "SG1-U0003"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0003",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "发刊词载体与运营叙述：写专栏缘起、橡园随笔构想、罗辑思维平台合作、内容规划、线下咖啡互动、每日一信机制（421-459、461-463、469），属推广与运营性载体内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "发刊词：仅『勤奋工作与享受生活不对立』成卡；收费两理由（付出才珍惜465行、契约约束助坚持467行）均因单行超800字无法设锚；栏目缘起与运营叙述归X1"
+}

@@ -1,0 +1,173 @@
+{
+ "unit_id": "SG1-U0016",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "颠覆式创新两特性：有杀手锏；杀手锏易得时代技术帮助而旧产品难受益",
+   "quote": "难以受益于当时的技术进步",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1051,
+    "end_line": 1051,
+    "fingerprint": [
+     "杀手功能",
+     "颠覆者"
+    ],
+    "sha1": "7b5e80e23819fbac2dea1ab1487f862684eaacb7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "颠覆式创新两特性",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "很多人只看到第一点忽视第二点（1051）；初生的婴儿都是不美的（1053）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0016-01",
+   "unit_id": "SG1-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "孤立的技术进步得不到时代其它技术帮助，竞争时讨不到便宜",
+   "quote": "孤立的技术进步",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1051,
+    "end_line": 1051,
+    "fingerprint": [
+     "孤立的技术进步",
+     "讨不到便宜"
+    ],
+    "sha1": "7b5e80e23819fbac2dea1ab1487f862684eaacb7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "孤立进步难胜",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "蒸汽船受益于机械革命、微软受益于摩尔定律、Google受益于互联网（1051）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0016-02",
+   "unit_id": "SG1-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "蒸汽船以逆风逆流杀手功能起家，乘整个工业革命技术助力淘汰大帆船",
+   "quote": "可以逆风逆流而行",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1029,
+    "end_line": 1029,
+    "fingerprint": [
+     "蒸汽船",
+     "大帆船"
+    ],
+    "sha1": "002daed93aac325fb1ccb8b2683ee24e2a262006"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "蒸汽船例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：大帆船又大又可靠成本低、蒸汽船小而贵（1029）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0016-03",
+   "unit_id": "SG1-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "盖茨在Altair开发BASIC：微机小公司买得起，摩尔定律助微机不助大型机",
+   "quote": "摩尔定律帮了这个小伙子",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1031,
+    "end_line": 1031,
+    "fingerprint": [
+     "Altair",
+     "BASIC"
+    ],
+    "sha1": "a381ce0432ba7de33eb7aa1cf0b288c27a0802e0"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "盖茨BASIC例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：IBM大型机昂贵售价+服务费；《时代周刊》称其为未来宇宙的主宰（1031）；不到10年微软取代IBM成IT时代代表（1039）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0016-04",
+   "unit_id": "SG1-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Google PageRank借互联网连接改进搜索，连接越强越受益，旧法难受益",
+   "quote": "通过连接改进搜索的相关性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1047,
+    "end_line": 1047,
+    "fingerprint": [
+     "PageRank",
+     "Inktomi"
+    ],
+    "sha1": "427e87b03f8ffd8dc6c540735e63c0743d8479e8"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "Google连接例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：界面难看的小公司Google胜Inktomi；互联网进步助Google不助微软，故2000人开发速度超几万人微软（1047）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0016-05",
+   "unit_id": "SG1-U0016"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "即便大公司也掌握洋枪洋炮，小公司仍有机会，虽然机会不等于成功",
+   "quote": "机会并不等于成功",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1055,
+    "end_line": 1055,
+    "fingerprint": [
+     "机会并不等于成功"
+    ],
+    "sha1": "1b28e75552586d08c0d30a5c5eafcb275b94e871"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "大象会跳舞之问",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大有大的难处、小有小的好处，接下封（1055）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0016-06",
+   "unit_id": "SG1-U0016"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第013封信：颠覆式创新两特性/孤立技术进步/蒸汽船（E3）/盖茨BASIC（E3）/Google连接（E3）/小公司仍有机会，6卡"
+}

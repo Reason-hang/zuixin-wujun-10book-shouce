@@ -1,0 +1,159 @@
+{
+ "unit_id": "SG1-U0020",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "蚂蚁要用新的生产关系对大象旧的生产关系竞争，大部分大象不跳舞",
+   "quote": "新的生产关系",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1215,
+    "end_line": 1215,
+    "fingerprint": [
+     "跳舞",
+     "生产关系"
+    ],
+    "sha1": "509982f80e50dadde3435b608416568b61f209e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "新旧生产关系竞争",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "大象掌握洋枪洋炮时须具体情况具体分析（1215）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0020-01",
+   "unit_id": "SG1-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "甲午：农耕文明末期军队对工业文明初期军队，倾国之战结局早定",
+   "quote": "不同的历史阶段",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1217,
+    "end_line": 1217,
+    "fingerprint": [
+     "甲午",
+     "工业文明"
+    ],
+    "sha1": "526190fe547307d5954f80b37c14258f74a72401"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "甲午代差例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：大历史观解释、遭遇战偶有偶然而倾国之战结局确定（1217）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0020-02",
+   "unit_id": "SG1-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "互联网公司用灵活外线战略快速组队研发，胜传统企业的内线战略",
+   "quote": "毛奇外线战略",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1229,
+    "end_line": 1229,
+    "fingerprint": [
+     "毛奇外线战略",
+     "开源软件"
+    ],
+    "sha1": "7c21388867226140da3d5b0ad62f0e3c268b5757"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "外线胜内线公司版",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "互联网企业迅速组织团队、利用开源软件与便捷通信；传统企业先成立部门安置岗位才行动（1229）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0020-03",
+   "unit_id": "SG1-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司须在生产关系与理念上进步；与巨头的竞争是两个时代之争",
+   "quote": "两个时代的竞争",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1233,
+    "end_line": 1233,
+    "fingerprint": [
+     "生产关系",
+     "单点突破"
+    ],
+    "sha1": "affc902f00f1ba60c384e1cf9f4cb03f31397695"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "时代之争总结",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "小公司新易进步、大公司理念难扭转（1233）；小公司还易单点突破（1233）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0020-04",
+   "unit_id": "SG1-U0020"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "刚成立就暮气沉沉的公司神仙难救；不少二十多岁的人心态已老",
+   "quote": "心态已经变成了老人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1235,
+    "end_line": 1235,
+    "fingerprint": [
+     "暮气沉沉",
+     "老人"
+    ],
+    "sha1": "d002153b7ea7603e070e9dd8085097f13d021678"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "心态早衰",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "何止公司如此（1235）；公司管理案例细节见1223/1225/1231行（均超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0020-05",
+   "unit_id": "SG1-U0020"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0020",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "公司史与战史例证：拿破仑战术领先一个时代（1219）；摩托罗拉雇佣制与英特尔期权、吴甘沙『摩尔定律靠英特尔工程师自己倒逼』（1223行945字超长，转述·吴甘沙）；微软研究院与工程脱离、Google研产一体（1225行865字超长）；Facebook网状管理与Google层级化（1231行1081字超长）"
+  },
+  {
+   "unit_id": "SG1-U0020",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时效案例：《智能时代》与罗辑思维合作卖书速度为传统渠道两倍多（1227），依附当时渠道对比"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第017封信：新生产关系竞争/甲午代差（E3）/外线胜内线/两个时代之争/心态老人，5卡；吴甘沙转述1223行等超800无法设锚；史例归X4"
+}

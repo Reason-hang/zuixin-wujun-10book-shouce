@@ -1,0 +1,107 @@
+{
+ "unit_id": "SG1-U0010",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "萨尔兹伯格：人设计的处理器出错都难定位到晶体管，何况无人设计的DNA",
+   "quote": "几乎是不可能的事情",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 805,
+    "end_line": 805,
+    "fingerprint": [
+     "处理器",
+     "晶体管"
+    ],
+    "sha1": "d3b954d488e09df4b89892a444aa72d86db6b110"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-3",
+    "D01-1"
+   ],
+   "concept_key": "定位难于设计",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=萨尔兹伯格（约翰霍普金斯教授、计算机与生物跨界）；DNA如每代物种抄写的大书、人无法参与（803行669字）；老年痴呆基因寻找进展缓慢（799行815字超长）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0010-01",
+   "unit_id": "SG1-U0010"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "温特与李文森的目标不是永生而是长生不老：活得长且最后依然健康",
+   "quote": "在去世前一天，他还是健康的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 811,
+    "end_line": 811,
+    "fingerprint": [
+     "长生不老",
+     "120 岁"
+    ],
+    "sha1": "48c0270a115abb2c3f5de1cb3f3115b58edf9a66"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "长生不老目标设定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=温特（人类长寿公司创始人，60岁像20岁）、李文森（Calico CEO，活到120岁）；目标定在更实际层次",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0010-02",
+   "unit_id": "SG1-U0010"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人能否永生与其说是生物学问题，不如说是一个哲学问题",
+   "quote": "不如说是一个哲学问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 817,
+    "end_line": 817,
+    "fingerprint": [
+     "生物学",
+     "哲学问题"
+    ],
+    "sha1": "6457fc7dde3d8c75bbd2b2a4a79948c489f9c637"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "永生是哲学问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "技术层面之外留哲学之问（817）；基因开关机制未知、干细胞克隆器官展望见809行（952字超长）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0010-03",
+   "unit_id": "SG1-U0010"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0010",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "趋势预测：库兹韦尔『到2029年人类可能永生』（795）、基因修复与克隆器官延寿『有希望但不会太快、期望值不要太高』（797）、『利用IT技术改善医疗是今后一个大趋势』（815）"
+  },
+  {
+   "unit_id": "SG1-U0010",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时效进展：斯坦福干细胞治中风18例中一半大好转、约翰霍普金斯人工心脏临床试验（813）；CRISPR张锋突破与获奖史（807行933字超长）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第007封信：萨尔兹伯格定位难（转述）/温特李文森长生不老目标（转述）/永生是哲学问题，3卡；永生预言与技术进度评估归X6/X2，技术史归X4"
+}

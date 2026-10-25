@@ -1,0 +1,227 @@
+{
+ "unit_id": "SG1-U0006",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有绝对正确或错误的方法，只有适用与不适用",
+   "quote": "只有适用和不适用的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 599,
+    "end_line": 599,
+    "fingerprint": [
+     "适用和不适用"
+    ],
+    "sha1": "031bf46f9f3ec20df45b8ecdbda219d74917686d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "方法适用论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "我的经验对别人未必管用（599）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-01",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "可操作的方法必须简单易行且数量少，十条二十条的法宝无意义",
+   "quote": "简单易行",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 601,
+    "end_line": 601,
+    "fingerprint": [
+     "简单易行",
+     "可操作性"
+    ],
+    "sha1": "aebaf26015e8039c9a47aa24a5cd4f22de3a5ad3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "方法少而精",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "『三板斧破四困境』简洁执行方案（601）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-02",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "愿景靠阶段性目标落地：如三级工程师须懂本质、变化、工具、产品设计、解题与分解",
+   "quote": "阶段性目标",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 605,
+    "end_line": 605,
+    "fingerprint": [
+     "三级工程师",
+     "阶段性目标"
+    ],
+    "sha1": "cf565b4d5986daf6a771ee520656f93405eddb52"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "愿景-目标-道路",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "板斧一：愿景=方向，防低水平重复（603行889字超长未设锚；罗振宇『战略核心是设置阶段性目标』转述亦在该行）；世界级产品愿景拆为六项阶段性目标（605）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-03",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "实现目标要有道路即战术：一系列可操作步骤，从写单元测试做起",
+   "quote": "一系列可操作的步骤",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 607,
+    "end_line": 607,
+    "fingerprint": [
+     "道路",
+     "单元测试"
+    ],
+    "sha1": "3f78f4131a8a5d751e3779b675fa846df023e9d9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "道路可操作步骤",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "技能稍熟须做新挑战；不断挑战者短期或有经济损失（607）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-04",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "万帮儒：即便遇到不中听的话，也要试着找出其中的合理之处",
+   "quote": "找出其中的合理之处",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 609,
+    "end_line": 609,
+    "fingerprint": [
+     "万帮儒",
+     "合理之处"
+    ],
+    "sha1": "c4a8235b8d8031d60f10f34c936be342b05f07db"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "不中听话找合理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=万帮儒（吴军中学校长，毕业前所赠）；三层含义展开见C-SG1-U0006-06/07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-05",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不中听的话要三思：第二遍是否我错、第三遍是否我境界不够，勿预设己对",
+   "quote": "境界不够",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 613,
+    "end_line": 613,
+    "fingerprint": [
+     "三思",
+     "境界不够"
+    ],
+    "sha1": "f8ebdb62a9fba5d8d3a3bc686a8236097f5a31d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "三思法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "和比自己强的人来往，勿与臭棋篓子下棋（613）；避免习惯性失败（613）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-06",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常从不中听的话中找合理性，进步快、眼界气度大，避免林黛玉困境",
+   "quote": "眼界、气度都会比常人大出很多",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 617,
+    "end_line": 617,
+    "fingerprint": [
+     "合理性",
+     "林黛玉"
+    ],
+    "sha1": "84871be96612dc855c348d19e0c8d49bf176214d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "找合理性开关",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "具体做法：听到不同意见立即启动找合理性开关，直到找到为止（617）；泼妇骂街例的第三种做法（615）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-07",
+   "unit_id": "SG1-U0006"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事情总是听天命，尽人事",
+   "quote": "听天命，尽人事",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 621,
+    "end_line": 621,
+    "fingerprint": [
+     "听天命",
+     "尽人事"
+    ],
+    "sha1": "160193076adebca01b6e7f8f7d3de6f07503f562"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "尽人事听天命",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "信末收束（621）；板斧三『凡事做记录避免狗熊掰棒子、记录中再思考一遍进步更快』在619行（822字）超限未设锚",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0006-08",
+   "unit_id": "SG1-U0006"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第003封信：方法适用性/方法须简单可操作/愿景拆目标/道路即步骤/万帮儒原话（转述）/三思法/找合理性总结/尽人事听天命，8卡；板斧三做记录619行（822字）超限未设锚"
+}

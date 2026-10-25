@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0014",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有人一开始能做出通用平台，成功平台公司都从单点突破做起",
+   "quote": "从单点突破做起",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 965,
+    "end_line": 965,
+    "fingerprint": [
+     "平台公司",
+     "单点突破"
+    ],
+    "sha1": "da5ecc259ca5f8c1d7379bd98fa0653337b59972"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平台起于单点",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "Google靠搜索、腾讯靠聊天、阿里做B2B苦差事（965）；平台公司能挣最大的钱但无人能一步做成（965）；A公司教训见C-SG1-U0014-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0014-01",
+   "unit_id": "SG1-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创组明星团队直接打造大平台：计划庞大战线长，半年无果成空中楼阁",
+   "quote": "空中楼阁",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 963,
+    "end_line": 963,
+    "fingerprint": [
+     "明星团队",
+     "大平台"
+    ],
+    "sha1": "189715aeddab00cf5c6554bf36154d31fd5d621d"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "大平台教训例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：A公司（化名）15岁毕业创始人、从财富500强挖VP、尝试两三个主意半途而废（963）；对比B公司只做熟悉市场、走通后横向扩展不难、估值14个月涨4倍（967行812字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0014-02",
+   "unit_id": "SG1-U0014"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司资源有限，必须把所有人力集中在一个点打磨好，才能领先大公司",
+   "quote": "集中在一个点",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 969,
+    "end_line": 969,
+    "fingerprint": [
+     "资源有限",
+     "一万小时"
+    ],
+    "sha1": "7b2c82f65831462d760bc74c2d8b04b2c000593d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "单点聚焦打磨",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "产品打磨需一万小时以上，初创须把人力集中一点（969）；做风投为接触新想法不落伍、美国风投年均回报10%-20%、约40%基金亏钱（973行802字超限未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0014-03",
+   "unit_id": "SG1-U0014"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0014",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "个人行程叙述：一天作息、与曾鸣/Jack Smith讨论、下午配眼镜早退、周六上班（953-957、971、975），无可迁移判断的个人轶事"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第011封信：平台从单点突破/A公司大平台教训（E3）/人力集中一点，3卡；风投回报973行（802字）超800无法设锚；行程叙述归X8"
+}

@@ -1,0 +1,208 @@
+{
+ "unit_id": "SG1-U0007",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "问卷问法一变结果完全反转：同群受访者95%说不会杀、90%说该杀",
+   "quote": "完全不同的统计结果",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 651,
+    "end_line": 657,
+    "fingerprint": [
+     "95%",
+     "90%"
+    ],
+    "sha1": "da60556b4ff2ff1c1318542d3f999df9bb3c80a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "问法决定统计结果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "同一件事两种问法（651-655）；样本有限、采样缺代表性、问卷设计诱导（649行876字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-01",
+   "unit_id": "SG1-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "匿名调查中受访者仍会选『别人认为对的』，问卷测不到真实想法",
+   "quote": "真实的想法",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 659,
+    "end_line": 659,
+    "fingerprint": [
+     "匿名调查",
+     "真实的想法"
+    ],
+    "sha1": "c3d245c61261006adc0c50cacc226090f2f8c98e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "社会期许偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "notes含转述·罗振宇例：央视问卷统计收视率高估大牌主持人与高大上节目（659）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-02",
+   "unit_id": "SG1-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从海量网络数据出发的大数据分析，结论比传统问卷更准确",
+   "quote": "比传统问卷得到的结论更准确",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 663,
+    "end_line": 663,
+    "fingerprint": [
+     "大数据",
+     "更准确"
+    ],
+    "sha1": "6bd0e17b0c99ce6b605ff92934f909e4cf1984fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "大数据胜问卷",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两党候选人更看重大数据分析而非盖洛普（663，时效例证）；盖洛普与社交媒体结论相左（661）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-03",
+   "unit_id": "SG1-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用网络数据分析大众情绪，本质是把内容按情绪做自动分类",
+   "quote": "自动分类的问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 669,
+    "end_line": 669,
+    "fingerprint": [
+     "自动分类",
+     "情绪"
+    ],
+    "sha1": "bedb179a1b746f1c9138dc56b6620535ecebaf4f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "情绪分析即分类",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "应用价值：了解民意与产品评价（649行超长；667行936字商业应用未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-04",
+   "unit_id": "SG1-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有监督情绪分析三步：样本打情绪标签、提炼各类特征、新数据比对分类",
+   "quote": "抽取特征",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 671,
+    "end_line": 675,
+    "fingerprint": [
+     "标签",
+     "情绪"
+    ],
+    "sha1": "97fd4a3f56a2f830a214988e4d06720fe8c32373"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "有监督学习三步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "特征含关键词、表情符号、句式语法（673）；无监督自适应迭代法优缺点见677行（816字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-05",
+   "unit_id": "SG1-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "神经网络、贝叶斯网络、最大熵模型都可做情绪分类，总体可视为等价",
+   "quote": "最大熵模型",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 679,
+    "end_line": 679,
+    "fingerprint": [
+     "人工神经网络",
+     "最大熵模型"
+    ],
+    "sha1": "2c505bd0b7ae7ff35fb425a6486746a2a3eb1e95"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "分类算法等价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人工神经网络即Google深度学习算法基础（679）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-06",
+   "unit_id": "SG1-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人们在网上发言通常不刻意隐瞒，故大数据分析比问卷准确得多",
+   "quote": "不会刻意隐瞒自己的观点",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 681,
+    "end_line": 681,
+    "fingerprint": [
+     "刻意隐瞒",
+     "准确性"
+    ],
+    "sha1": "2942bf4f195c8295bbe036cb499b36ec3d617c92"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D04-2"
+   ],
+   "concept_key": "网络发言更真实",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大数据分析大众情绪的核心优点（681）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0007-07",
+   "unit_id": "SG1-U0007"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0007",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事例证：某艺人离婚围观情绪分析（643）、2016美国大选希拉里特朗普辩论民调与推特统计对比、奥巴马健保法案态度（663-665），依附具体时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第004封信：问法翻转结果/匿名调查失真/大数据更准/自动分类/有监督三步/算法等价/网络发言不隐瞒，7卡；时事例证归X2"
+}

@@ -1,0 +1,80 @@
+{
+ "unit_id": "SG1-U0011",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "白血球高与细菌感染并非充分必要条件，凭它开抗生素未必对症",
+   "quote": "并非互成充分必要条件",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 859,
+    "end_line": 859,
+    "fingerprint": [
+     "白血球",
+     "抗生素"
+    ],
+    "sha1": "48c8bccfe4e03b3153e017a98dd3a9b8fdc6ebb9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "代理指标局限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "关联性大但非互为充分必要；局部感染未必白血球高、白血球高未必细菌致嗓痛；不同人感染细菌不同，广谱抗生素未必管用（859）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0011-01",
+   "unit_id": "SG1-U0011"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "萨尔兹伯格：取样直接测序找全病灶病原，按每人病灶不同对症下药",
+   "quote": "对症下药",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 863,
+    "end_line": 863,
+    "fingerprint": [
+     "基因测序",
+     "病原"
+    ],
+    "sha1": "b24d9738bfaef467662b955d8ea5317bca2390f0"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-2"
+   ],
+   "concept_key": "直接检测根因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=萨尔兹伯格（基因测序专家）；测出大部分DNA是患者本人的、少量是病原，DNA检测生物准确率极高（863）；现约1000美元/次、普及后可望低于100美元（865行652字）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0011-02",
+   "unit_id": "SG1-U0011"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0011",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "人物生平：萨尔兹伯格书香门第、耶鲁英文本科转计算机、人类基因组计划、布隆伯格讲席教授与富兰克林奖（845-853，847/853行超长）"
+  },
+  {
+   "unit_id": "SG1-U0011",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "医疗处置事实：嗓子疼绝大部分时候不需抗生素、美国半数患者服用无必要（855行903字超长）；咽拭子培养两天的传统方法（861）；验血与测 sequences 流程细节"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第008封信：白血球指标相关非充分必要/萨尔兹伯格测序找病原（转述），2卡；单元以人物生平与医疗科普为主，生平归X4、医疗事实归X8"
+}

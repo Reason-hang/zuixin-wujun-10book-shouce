@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0012",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新技术产品通常要到第三代才能普及，被大众接受并长期存在",
+   "quote": "到第三代才能够普及",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 895,
+    "end_line": 895,
+    "fingerprint": [
+     "第三代",
+     "普及"
+    ],
+    "sha1": "618bc1e4eb03f9aa25acee55a8dea165bae5ebf4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "第三眼美女定律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "新技术从出现到爆款的过程称『发现第三眼美女』（887）；施乐→Mac→微软视窗例（895-899）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0012-01",
+   "unit_id": "SG1-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有光鲜外表仍能吸引人的第三眼美女，必有美德或价值，喜爱持久",
+   "quote": "某种美德或者价值",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 893,
+    "end_line": 893,
+    "fingerprint": [
+     "美德或者价值",
+     "持续很久"
+    ],
+    "sha1": "9b9bcabad412467b70b360d6f892097e35743301"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D10-1"
+   ],
+   "concept_key": "内在价值持久",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第一眼美女精英不属于大众且可能看走眼（889）、第二眼美女交往成本高蜜月期短（891）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0012-02",
+   "unit_id": "SG1-U0012"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智能手机三代：微软黑莓诺基亚试水、iPhone高端、安卓便宜实用普及",
+   "quote": "便宜实用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 901,
+    "end_line": 901,
+    "fingerprint": [
+     "iPhone",
+     "安卓"
+    ],
+    "sha1": "7c00df86ca034d4544a6a7fe53c04a3fe7c38809"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "智能手机三代例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：一代只有IT爱好者尝试、二代iPhone如第二眼美女与屌丝无关、三代安卓普及（901）；电动车EV-1→特斯拉→3系列例（903-907）；三阶段特征总结909行（939字）超限未设锚",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0012-03",
+   "unit_id": "SG1-U0012"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0012",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点判断：『VR很酷，但是为时尚早』仍处第一眼美女阶段（911）、特斯拉3系列发布一星期订出20多万辆（907），依附2016年时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第009封信：三代普及律/第三眼美女内在价值/智能手机三代案例（E3），3卡；三阶段特征总结909行（939字）超800无法设锚；VR时点判断归X2"
+}

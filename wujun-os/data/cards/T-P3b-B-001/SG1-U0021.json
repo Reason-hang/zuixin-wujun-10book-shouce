@@ -1,0 +1,176 @@
+{
+ "unit_id": "SG1-U0021",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "期望值最大化：给定收益函数，每步沿最大化方向走，迭代至收益最大点",
+   "quote": "收益最大的那个终点",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1255,
+    "end_line": 1261,
+    "fingerprint": [
+     "凸函数",
+     "收益函数"
+    ],
+    "sha1": "d7b2105b8f3112f098d8ecc8fe59de49be0157c5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "期望值最大化原理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "凸函数空间最优化，机器学习与各种预测都是最优化问题（1255）；AlphaGo 找最佳走法同理（1267）；数学上可严格证明（1253）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0021-01",
+   "unit_id": "SG1-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考核指标即收益函数：函数一定，整个社会就变成机器学习系统自动优化",
+   "quote": "机器学习的系统",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1271,
+    "end_line": 1271,
+    "fingerprint": [
+     "高考",
+     "收益函数"
+    ],
+    "sha1": "110645317370ea54776f578a3ef6e388fece1516"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D08-1"
+   ],
+   "concept_key": "考核即收益函数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "足球或百米占高考一半分数的假想例（1269行1024字超长未设锚）；收益函数确定后期望值最大化自动优化全社会（1271）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0021-02",
+   "unit_id": "SG1-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "宇宙演变与物种进化背后是期望值最大化：基本作用力即收益函数",
+   "quote": "收益函数",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1273,
+    "end_line": 1273,
+    "fingerprint": [
+     "四种基本作用力",
+     "物种进化"
+    ],
+    "sha1": "1c24a1f2fcb49da8e05acef8685dc42637336f77"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "宇宙进化同律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "质子中子经强核力成原子核、电磁力成原子、万有引力成星球；DNA不断优化适应环境（1273）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0021-03",
+   "unit_id": "SG1-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IBM专利挂绩效成历年来美国专利冠军；Google大幅降奖后人均申请锐减",
+   "quote": "人均申请专利数量锐减",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1277,
+    "end_line": 1277,
+    "fingerprint": [
+     "IBM",
+     "绩效"
+    ],
+    "sha1": "bee8ae4a4f07b0fba26377857ba6d089209a9c7f"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专利激励案例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：Google后被微软苹果专利之争弄得被动（1277）；恢复1万美元奖金后挤进前十、『公司设置什么样的收益函数，员工就会最大化它』『创始人一开始最重要的事情就是定规矩』在1279行（836字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0021-04",
+   "unit_id": "SG1-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其大会小会教育员工，不如设置一个好的收益函数",
+   "quote": "与其教育员工",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1281,
+    "end_line": 1281,
+    "fingerprint": [
+     "玩手机",
+     "收益函数"
+    ],
+    "sha1": "266a2d9d0c2bcd2cfe1a1220a85db63d4ce0bf63"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-3"
+   ],
+   "concept_key": "设函数胜过教育",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "有独立思考能力的员工会发现领导设定的收益函数并调整行为最大化利益（1281）；员工交友按内心收益函数筛选、创始人价值观即组织收益函数（1275行1026字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0021-05",
+   "unit_id": "SG1-U0021"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学原理也适用于生活：老板设好收益函数，员工最大化利益合理",
+   "quote": "科学原理不仅适用于科学本身",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1283,
+    "end_line": 1283,
+    "fingerprint": [
+     "章程",
+     "合情合理"
+    ],
+    "sha1": "dbdaa13d23ca93e754dc1efabb51a6b0b0db1ce3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D08-1"
+   ],
+   "concept_key": "原理用于生活",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "老板设收益函数、员工按章程最大化利益合情合理（1283）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0021-06",
+   "unit_id": "SG1-U0021"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第018封信：期望值最大化原理/收益函数定则社会自动优化/宇宙进化同律/IBM·Google专利案例（E3）/与其教育不如设函数/科学原理用于生活，6卡；交友收益函数1275行超800无法设锚"
+}

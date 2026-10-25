@@ -1,0 +1,181 @@
+{
+ "unit_id": "SG1-U0018",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何好的产品都应操作简单、性能可靠（AK47设计哲学）",
+   "quote": "操作简单，性能可靠",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1153,
+    "end_line": 1153,
+    "fingerprint": [
+     "AK47",
+     "产品设计"
+    ],
+    "sha1": "4bd0945f8dfddcd1481379b3c7526a09958ba315"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "好产品简单可靠",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "武器设计哲学可用于日常产品设计，《数学之美》提AK47（1153）；孙子兵法『全面且两千年前观点至今不过时』（1155行834字超长未设锚）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0018-01",
+   "unit_id": "SG1-U0018"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "兵法不具可操作性则名将成功不可复制，将门也未必有虎子",
+   "quote": "名将的成功根本不可复制",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1159,
+    "end_line": 1159,
+    "fingerprint": [
+     "可操作性",
+     "赵括"
+    ],
+    "sha1": "987858da79bf834a535c44d578cad1ca6e35a1c5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "可操作与可复制",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "仅熟读孙子兵法去打仗是又一个赵括（1157行1113字超长未设锚）；无正规军校因打仗艺术无法传授（1159）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0018-02",
+   "unit_id": "SG1-U0018"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伯特格尔记录三万次实验细节使瓷器可复制；中国名瓷陷入失传怪圈",
+   "quote": "发明－失传－再发明－再失传",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1161,
+    "end_line": 1161,
+    "fingerprint": [
+     "三万次",
+     "德雷斯顿"
+    ],
+    "sha1": "361f3e143dc194e3322180077697b1e829e0c3b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "记录使经验可复制",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "德国人『生活是具体的』方法论：给出可操作步骤（1161）；与中国瓷器一千多年怪圈对照",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0018-03",
+   "unit_id": "SG1-U0018"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "《战争论》以强可操作性补《孙子兵法》之缺：军校学习即提升素养",
+   "quote": "很强的可操作性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1163,
+    "end_line": 1163,
+    "fingerprint": [
+     "克劳塞维茨",
+     "战争论"
+    ],
+    "sha1": "38c67e2784e0f9b799cee8eec99924d3472a5a2a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "战争论补可操作",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "克劳塞维茨无像样战役却是思考型理论家（1163）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0018-04",
+   "unit_id": "SG1-U0018"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好目标须可操作可衡量：如单元测试覆盖率5%增至50%，配奖惩步骤",
+   "quote": "增加到50%",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1167,
+    "end_line": 1167,
+    "fingerprint": [
+     "单元测试",
+     "奖金"
+    ],
+    "sha1": "acb5ab8e60228d35b4086c431af6c02aae251dbd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D05-1"
+   ],
+   "concept_key": "可衡量好目标",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "『重视产品质量服务顾客』式目标人人会说、订了等于白订（1165行1084字超长未设锚，转述·科尔/Steve Kerr：好管理者设定愿景、目标和可操作步骤）；质量靠系统方法保障而非总监个人艺术（1167）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0018-05",
+   "unit_id": "SG1-U0018"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "组织规模化后须靠系统方法与可操作步骤管理，成功才可复制",
+   "quote": "150 个人打交道",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1169,
+    "end_line": 1169,
+    "fingerprint": [
+     "150",
+     "系统的方法"
+    ],
+    "sha1": "1aadde42329c53fdc049a454189bf6e8173d5ae0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "大组织系统管理",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "沟通能力被基因限制：一人只能与150人打交道（1169）；东西方思维差异：东方靠悟性、西方找人人可用的方法（1169）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0018-06",
+   "unit_id": "SG1-U0018"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0018",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "军事史例：孙武率吴军五战五胜、韩信白起卫青霍去病未受兵法训练、赵括李景隆、克劳塞维茨被俘生平（1157行1113字、1163行部分，超长未设锚）；科尔培训腾讯背景（1165行1084字超长）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第015封信：好产品简单可靠/不可操作则不可复制/记录使瓷器可复制/战争论可操作/可衡量好目标/大组织系统管理，6卡；孙子兵法评述1155/1157行、科尔案例1165行均超800无法设锚"
+}

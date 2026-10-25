@@ -1,0 +1,257 @@
+{
+ "unit_id": "SG1-U0004",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "互联网行业事情永远做不完，唯一解法是有些事不要做，而非凑合做完",
+   "quote": "一些事情不要做了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 483,
+    "end_line": 483,
+    "fingerprint": [
+     "做不完",
+     "凑合做完"
+    ],
+    "sha1": "ec3c50560a9c403508d49f210eb1b548d9586c4a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D06-2"
+   ],
+   "concept_key": "做不完就做减法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "互联网产品动态迭代、工作队列无法清空（493-497）；管理者也有做不做的选择（521）；生活同理（523）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-01",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伪工作者：每天很忙做的也是公司存在的工作，但不产生什么效果",
+   "quote": "伪工作者",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 503,
+    "end_line": 503,
+    "fingerprint": [
+     "Pseudo Worker",
+     "伪工作"
+    ],
+    "sha1": "0b3a05cc7be7c7a2fbe568687d2ca068b461fa5d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "伪工作定义",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "Google 提法、Facebook 沿用（503）；雅虎案例见C-SG1-U0004-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-02",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追求做完哪几件重要的事而非完成百分比，最重要的工作优先做",
+   "quote": "优先完成它们",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 499,
+    "end_line": 499,
+    "fingerprint": [
+     "重要的事情",
+     "优先完成它们"
+    ],
+    "sha1": "0b1193afd173066798af3aceefa09f03f991edb9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D03-1"
+   ],
+   "concept_key": "重要事优先",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "新员工普遍欠缺的技能（499）；中国工程师无人带教致忙而无果（501）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-03",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "雅虎之败一大原因是员工做了太多伪工作：改版无新功能、少新产品",
+   "quote": "做了太多的伪工作",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 505,
+    "end_line": 505,
+    "fingerprint": [
+     "雅虎",
+     "伪工作"
+    ],
+    "sha1": "f240ccb8bb032694c513a9b25bce7a8d25c039d7"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-2",
+    "D08-1"
+   ],
+   "concept_key": "伪工作拖垮公司例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：雅虎被Verizon收购、梅耶尔高压下员工认真上班却不产生效果（505）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-04",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对员工的评价不看多忙写了多少代码，而看产生了多大的效果",
+   "quote": "产生了多大的效果",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 507,
+    "end_line": 507,
+    "fingerprint": [
+     "产生了多大的效果"
+    ],
+    "sha1": "6c490a8751edc85174031acd526bacca6ec4acc7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "评价看效果",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "伪工作者即便再忙也要被淘汰（507）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-05",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理者要员工站在『做什么能让公司最大获益』角度工作，靠主动性",
+   "quote": "最大获益",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 513,
+    "end_line": 513,
+    "fingerprint": [
+     "最大获益",
+     "主动性"
+    ],
+    "sha1": "6fe6a85d60e20351891f32f3786cb34182c90864"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "站公司获益角度",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "知识型企业无法事无巨细管理（513）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-06",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "让员工明白积极工作而非消极交差，最大的受益方是自己",
+   "quote": "最大的受益方是他们自己",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 515,
+    "end_line": 515,
+    "fingerprint": [
+     "受益方"
+    ],
+    "sha1": "80816bd780f617f6b26987348adfcd087c7c7ac9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "积极工作受益自己",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "不满时消极对待会不自觉成为不动脑筋的伪工作者（515）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-07",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伪工作做得越多个人进步越慢甚至能力倒退，鬼精员工实为坑自己",
+   "quote": "个人进步就越慢",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 519,
+    "end_line": 519,
+    "fingerprint": [
+     "坑自己",
+     "倒退"
+    ],
+    "sha1": "5f07e1c358afec07b6345b534341e73bb778dc64"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-1"
+   ],
+   "concept_key": "伪工作坑自己",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "任劳任怨只挑容易活的鬼精员工考评及格但自毁（517-519）；国企大量此类人（519）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-08",
+   "unit_id": "SG1-U0004"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做不完而焦虑时先停下梳理：站公司业务与提升自己角度完成最重要的",
+   "quote": "把那些最重要的完成了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 525,
+    "end_line": 525,
+    "fingerprint": [
+     "重新梳理",
+     "最重要的完成了"
+    ],
+    "sha1": "7cc3e9b84f0cc645494bf9e2cc9c405c6dd32d2e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D03-1"
+   ],
+   "concept_key": "停下梳理法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "结论性建议段（525）；愿工作之余欣赏风景（527）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0004-09",
+   "unit_id": "SG1-U0004"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第001封信：互联网做不完唯有做减法/伪工作定义/重要事优先/雅虎案例/评价看效果/管理两要点/伪工作坑自己/梳理方法，9卡全E1"
+}

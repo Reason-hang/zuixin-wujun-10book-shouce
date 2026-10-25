@@ -1,0 +1,105 @@
+{
+ "unit_id": "SG1-U0019",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "电报与铁路使部队能分散行军、会战前集结合围，催生毛奇外线战略",
+   "quote": "会战集结",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1191,
+    "end_line": 1191,
+    "fingerprint": [
+     "电报",
+     "铁路"
+    ],
+    "sha1": "bccdd935407b906fb83ce93fbb6f08b3f9711d08"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "外线战略原理",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "铁路使行进速度达拿破仑战争时代六倍（1191）；约米尼内线战略『谋取内线优势防各个击破』为前提背景（1187行超长未设锚，转述·约米尼）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0019-01",
+   "unit_id": "SG1-U0019"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "普法战争：法军先集结后出发错失先机，普军靠铁路电报抢先集结",
+   "quote": "迅速集结了40 万军队",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1195,
+    "end_line": 1195,
+    "fingerprint": [
+     "常备军制",
+     "募兵制"
+    ],
+    "sha1": "be697405775c86a7ae9580cddef6fb1d1f2b4eb3"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "普法战争例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：法常备军可随时调动、普募兵制需动员但思想领先；宣战一周法仅25万开拔、普40万先到（1195）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0019-02",
+   "unit_id": "SG1-U0019"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "武器同处一代时，思维方式的差距使战争迅速一边倒",
+   "quote": "思维方式的差距",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1197,
+    "end_line": 1197,
+    "fingerprint": [
+     "同一个时代",
+     "一边倒"
+    ],
+    "sha1": "5d50c274b65633e123187dfbae4300b31f4429bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "思维方式代差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "普法国基本同代而结果一边倒（1197）；引出下封同代公司竞争话题",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0019-03",
+   "unit_id": "SG1-U0019"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0019",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "战史叙述：普法战争起因过程（1185）、约米尼内线战略与曼图亚/萨尔浒例（1187行1151字超长）、内线战略限制与淝水/金海陵例（1189行930字超长）、普奥战争六周战况（1193行881字超长）"
+  },
+  {
+   "unit_id": "SG1-U0019",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "互动载体：#欢迎来信# 话题『试从约米尼内线战略和毛奇的外线战略，论述阿里的优势』（1199-1201），栏目互动装置"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第016封信：毛奇外线战略/普法战争集结例（E3）/思维方式代差一边倒，3卡；约米尼内线定义与战史多行（1187/1189/1193）超800无法设锚；战史归X4、互动归X1"
+}

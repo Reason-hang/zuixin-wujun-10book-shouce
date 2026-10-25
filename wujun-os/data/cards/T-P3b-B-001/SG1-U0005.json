@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0005",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1A",
+ "batch_id": "T-P3b-B-001",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "格拉德威尔：智商、10000小时、运气、家庭皆成功必要条件，合起来也不充分",
+   "quote": "必要条件",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 557,
+    "end_line": 557,
+    "fingerprint": [
+     "格拉德威尔",
+     "必要条件"
+    ],
+    "sha1": "d034aaf19420d598444f14e6b5b7db917cd08f02"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "成功条件必要不充分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=格拉德威尔（《异类》作者），经罗辑思维第185期引入（551）；『必要不充分』概括为吴军按语；智商120标准（559）；对吴军运气观的展开见C-SG1-U0005-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0005-01",
+   "unit_id": "SG1-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功者承认运气、受挫检讨自己；不成功者得意封神、失败怪运气",
+   "quote": "检讨自己的问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 563,
+    "end_line": 563,
+    "fingerprint": [
+     "运气",
+     "检讨自己的问题"
+    ],
+    "sha1": "5a82dde258ec41b331816a2a6e2ae5092b284d76"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "运气观分野",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大凡成功的人都有运气成分且承认之（563）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0005-02",
+   "unit_id": "SG1-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做够10000小时就出类拔萃是大错特错，它仅是必要条件远不充分",
+   "quote": "必要条件而已",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 571,
+    "end_line": 571,
+    "fingerprint": [
+     "出类拔萃",
+     "必要条件"
+    ],
+    "sha1": "6655652d124dcdceb1f64e2fbbead0563587c92e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "万小时必要不充分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "10000小时对技能与产品打磨必要：聚焦+加班提前积累（569行999字超长未设锚）；四误区总起（571）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0005-03",
+   "unit_id": "SG1-U0005"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "习惯性失败：好高骛远不总结不请教，重复失败走不出怪圈",
+   "quote": "失败是成功之母",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 575,
+    "end_line": 575,
+    "fingerprint": [
+     "习惯性失败",
+     "怪圈"
+    ],
+    "sha1": "a58531145ecd883330217a2cf1822b091b0a24c4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "误区二习惯性失败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "IT公司常见：一人捣鼓找不到方法（575）；误区一低水平重复（573行819字）、误区三林黛玉困境（577行858字）、误区四狗熊掰棒子（581行1077字）均因超800字未设锚未成卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0005-04",
+   "unit_id": "SG1-U0005"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0005",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "未来预测：『在未来的智能时代，真正受益于技术进步的个人可能不超过人口的2%』（573行内），时效预测论断登记X6候选"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第002封信：成功条件必要不充分（转述格拉德威尔）/运气观/10000小时必要不充分/误区二习惯性失败，4卡；误区一三四建议行573/577/581均超800字无法设锚"
+}
