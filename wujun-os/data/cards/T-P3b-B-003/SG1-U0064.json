@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG1-U0064",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：硅谷秘诀之一是非常早地打造全球品牌，赢得全球认可",
+   "quote": "非常早地打造全球品牌",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3339,
+    "end_line": 3339,
+    "fingerprint": [
+     "斯加鲁菲",
+     "品牌"
+    ],
+    "sha1": "85f85e29f6b9b10b0b9094f7067d719b67ba6e9b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "早建全球品牌",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=皮埃罗·斯加鲁菲（《硅谷百年史》作者）；追随者多使做不成的事反而有希望做成（3339）；中国企业要注意打造自己的品牌（3339）；苹果AlphaGo与Oculus决定风向例（3337，榜单数据归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0064-01",
+   "unit_id": "SG1-U0064"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：硅谷成功因为叛逆者汇聚，科技只是改变世界的工具",
+   "quote": "想改变世界的叛逆者们",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3341,
+    "end_line": 3345,
+    "fingerprint": [
+     "叛逆",
+     "硅谷"
+    ],
+    "sha1": "294aca8abb8248042115d955b603d8bb1802b9e0"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "叛逆者造硅谷",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯加鲁菲；与吴军《硅谷之谜》所讲叛逆不同：指全美叛逆者向远离东部的湾区汇聚（3341-3343）；仙童八叛徒与英特尔例（3341）；嬉皮士与抗议者怪想法没见效但技术人天天琢磨颠覆产业（3345）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0064-02",
+   "unit_id": "SG1-U0064"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多听不同观点并思考其合理性纳入知识，见识就提高",
+   "quote": "将它变成我们知识的一部分",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3349,
+    "end_line": 3351,
+    "fingerprint": [
+     "学术自由",
+     "观点"
+    ],
+    "sha1": "cb3638a933930931a4ea304e07275faa8cfa9cf8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "异见纳识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第一次听到斯加鲁菲这样解释硅谷、但多一种观点对提高认识莫大好处（3347-3349）；学术自由各自表达促进学术进步（3349）；乔布斯马斯克布林天天琢磨改变世界是真实目的（3351）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0064-03",
+   "unit_id": "SG1-U0064"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无论一个人一个大学还是一个地区，找到最适合自己的道路才是正路",
+   "quote": "找到最适合自己的道路",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3353,
+    "end_line": 3355,
+    "fingerprint": [
+     "复制硅谷",
+     "迷失自我"
+    ],
+    "sha1": "dff2a4ba78a8d5cb9d30e14f84628d7f23a327ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D08-1"
+   ],
+   "concept_key": "适合自己的道路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国八百上千科技园复制硅谷都没成功但按自己方式发展、多数没有失败（3353，时点观察归X2）；复制硅谷如复制北京、既荒唐也没必要（3355）；与C-SG1-U0053-06'适合自己的方法'相呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0064-04",
+   "unit_id": "SG1-U0064"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0064",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "全球营业额前十公司与最值钱十品牌榜单、AlphaGo战胜李世石、VR与Oculus等时点数据（3321-3337）；承载的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第055封信：早建全球品牌E2斯加鲁菲/叛逆者造硅谷E2/异见纳识/适合自己的道路，4卡（E1×2+E2×2）；榜单时点数据归X2"
+}

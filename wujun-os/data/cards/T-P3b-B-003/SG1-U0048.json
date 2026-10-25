@@ -1,0 +1,180 @@
+{
+ "unit_id": "SG1-U0048",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "免费互联网的羊毛出在羊身上：广告费含在价格里终由用户买单",
+   "quote": "羊毛出在羊身上",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2491,
+    "end_line": 2491,
+    "fingerprint": [
+     "羊毛",
+     "用户买单"
+    ],
+    "sha1": "0e4df6608a2dea17a4cce98f38b7d7fb75151499"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "免费成本转嫁用户",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "用户不等于客户：Google把本该向用户要的钱转去向商家要（2491）；利润越高的商品能出的广告费越高、卖假药的可出到六成（2491）；没本事烧钱的公司关门、没水平投资人血本无归还交了财富所得税（2489）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0048-01",
+   "unit_id": "SG1-U0048"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大数据时代数据能力买卖双方完全不对称，交出隐私终须偿还",
+   "quote": "完全不对称",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2499,
+    "end_line": 2499,
+    "fingerprint": [
+     "大数据时代",
+     "不对称"
+    ],
+    "sha1": "b434cec5165b29004d2fd36104615acbec2f2e01"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据能力不对称",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "航司与电商按个人信息差别定价例（2493-2495）；互联网无国界去中心化使他国约定俗成影响中国商业习惯（2499）；美国最高法院已有判例认定对不同人不同价格合法（2497）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0048-02",
+   "unit_id": "SG1-U0048"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "交易双方不可能总是一方赚便宜一方吃亏，这样的生意不持久",
+   "quote": "这样的生意是不持久的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2501,
+    "end_line": 2501,
+    "fingerprint": [
+     "等价交换",
+     "不持久"
+    ],
+    "sha1": "c6e834f82f1129e8fd4b96f85cb4f5f24cfac3d3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "等价交换原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商家无限赚便宜顾客终走光，同样验证'出来混总是要还的'（2501）；不二价公平交易的商家才有希望做长久生意（2501）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0048-03",
+   "unit_id": "SG1-U0048"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "B&H四十年成最大照相器材商：一刀切按规矩办事，只做自己的生意",
+   "quote": "只做属于自己的生意",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2503,
+    "end_line": 2503,
+    "fingerprint": [
+     "B&H",
+     "规矩"
+    ],
+    "sha1": "0778cfc8243f6d5f4184aa4b75f9d5b42c45a71f"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "守规矩生意例",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：不促销不打折、热销品不加价、犹太节日与星期六歇业年少营业约80天，中高档相机销量超亚马逊10倍不止（2503-2505）；为省五美元到处比价的客户生意不做（2505）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0048-04",
+   "unit_id": "SG1-U0048"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "经济学基石假设是理性经济人；契约未说清的潜在利益归属是核心问题",
+   "quote": "潜在的利益在契约里没说清楚",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2507,
+    "end_line": 2507,
+    "fingerprint": [
+     "理性",
+     "契约"
+    ],
+    "sha1": "993a07b8bdb43ade006bc3f6d2e81fdd7cd43496"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "契约未定利益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=2016年诺贝尔经济学奖得主哈特与霍姆斯特罗姆（不完全契约研究）；'人是经济的、理性的人'是现代经济学与社会学基石、如几何学公理（2507）；互联网最大的未说清利益即个人数据归属（2509）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0048-05",
+   "unit_id": "SG1-U0048"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没说清的利益不可能一方长期独占，另一方终会要求重设规则",
+   "quote": "重新设置规则",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2509,
+    "end_line": 2509,
+    "fingerprint": [
+     "等价交换",
+     "重新设置规则"
+    ],
+    "sha1": "2c510840a7fb32818c09ff97e29fddc04c7bae6e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "利益终将再平衡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "再平衡周期可以非常长，凯恩斯：价格偏离价值的时间可长到一代人都等不及（2509）；此后很长时间可能是商家渐渐占便宜（2509）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0048-06",
+   "unit_id": "SG1-U0048"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0048",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2015年谷歌营收抵BAT与FB亚马逊eBay总和、航司亚马逊去哪儿大数据杀熟案例、2016诺奖时事背景等时点数据与事件（2485-2497）；承载的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第041封信：免费成本转嫁用户/数据能力不对称/等价交换原则/B&H守规矩例E3/契约未定利益E2/利益终将再平衡，6卡（E1×4+E2×1+E3×1）；谷歌营收与杀熟案例归X2"
+}

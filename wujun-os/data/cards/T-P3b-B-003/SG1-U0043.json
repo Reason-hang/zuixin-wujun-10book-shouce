@@ -1,0 +1,119 @@
+{
+ "unit_id": "SG1-U0043",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学强调的是怀疑而不是信仰，把科学当宗教信仰便走向科学反面",
+   "quote": "科学强调的是怀疑而不是信仰",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2275,
+    "end_line": 2275,
+    "fingerprint": [
+     "盲从",
+     "怀疑"
+    ],
+    "sha1": "f94e2d6f991f06b4ce4cffd97da82c0d86751fae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学即怀疑精神",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "宗教化四特征之一盲从（2275）；'我信仰科学'与一句'这是科学'均是把科学当宗教（2275）；认为信了科学就站正确一边的心态与教徒无异（2275）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0043-01",
+   "unit_id": "SG1-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "评估结论正确性的标准是是否与事实一致，而非说话人头衔高低",
+   "quote": "衡量它是否和事实相一致",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2279,
+    "end_line": 2279,
+    "fingerprint": [
+     "专家指出",
+     "头衔"
+    ],
+    "sha1": "8ad65b34d2ccea3cb29ded25c098cf1f9624a917"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "事实高于权威",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'专家指出'与'亚里士多德说'无本质区别（2279）；对不懂的事寄望专家给简单结论、专家结论常因自身利益带倾向（2281）；张嘴闭嘴'你不是专家'是宗教徒论证逻辑（2279）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0043-02",
+   "unit_id": "SG1-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学最看重的是过程而非结果，重结果不重过程使科学素养难同步",
+   "quote": "最看重的是过程",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2289,
+    "end_line": 2289,
+    "fingerprint": [
+     "强国富民",
+     "过程"
+    ],
+    "sha1": "c8f19711b1b127d013d8c1433fe3ea68eb118c0f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学重过程轻结果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国引科技作强国富民手段养成重结果心态（2289）；陈独秀倡科学重在批判力量与理性精神、一直未认真做（2289）；国民科学素养落后于科技水平的总判断（2271、2285）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0043-03",
+   "unit_id": "SG1-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学本身不具神秘感，神秘感是人为祭出的；大科学家也是普通的人",
+   "quote": "一点也不神秘",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2283,
+    "end_line": 2283,
+    "fingerprint": [
+     "神秘感",
+     "普通的人"
+    ],
+    "sha1": "ece2b3aa8951ebcbce80f7c1b041a538c2ded79f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学家不神秘",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "宗教第四特征故意制造神秘感、从业者自我神秘化（2283）；贾里尼克、朱棣文、萨尔兹伯格、温特都是普通人（2283）；有人借科学崇拜心态包装自己'封神'（2277）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0043-04",
+   "unit_id": "SG1-U0043"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第036封信：科学即怀疑非信仰/事实高于权威头衔/科学重过程轻结果/科学家不神秘（科学被宗教化四特征与两成因），4卡全E1"
+}

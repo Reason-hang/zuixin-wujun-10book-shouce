@@ -1,0 +1,219 @@
+{
+ "unit_id": "SG1-U0058",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "立意至关重要，如同收益函数，设置错了结果就悲催",
+   "quote": "立意至关重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2989,
+    "end_line": 2989,
+    "fingerprint": [
+     "立意",
+     "收益函数"
+    ],
+    "sha1": "7f3508d27339e8711fd1a22bc03809361aec8f97"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-2"
+   ],
+   "concept_key": "立意定收益函数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "职业天花板部分因素不可控、能做的是在可控处下功夫（2987-2989）；呼应第18封信期望值最大化原则的收益函数（2989）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-01",
+   "unit_id": "SG1-U0058"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追求速效的霸道而非长远的王道帝道，是社会上大多数人的通病",
+   "quote": "速效却危险的策略",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3003,
+    "end_line": 3003,
+    "fingerprint": [
+     "霸道",
+     "立意"
+    ],
+    "sha1": "d13e0eec488c02e007bf741e0486b092fd27b254"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D01-2"
+   ],
+   "concept_key": "霸道速效通病",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "秦孝公立意有误选霸道致暴秦速亡、宗室灭族（3001-3003，史实归X4）；商鞅三次分别以帝道王道霸道游说（2995-2997）；今天持此种想法者仍占大多数（3003）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-02",
+   "unit_id": "SG1-U0058"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "拿破仑最自豪的是法典而非战功：立意定在现代国家，追求帝道",
+   "quote": "追求的是帝道而不是霸道",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3011,
+    "end_line": 3011,
+    "fingerprint": [
+     "拿破仑",
+     "法典"
+    ],
+    "sha1": "957906a483598f17e6e3a03b177a8a3f4f3d6725"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D01-2"
+   ],
+   "concept_key": "立意帝道例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "40次战争胜利被滑铁卢一战抹去、法典永垂不朽（3011）；亲任委员会主席参加97次宪法讨论会（3007，史实归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-03",
+   "unit_id": "SG1-U0058"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不存在不需投入就有高回报的行业，否则行业太挤回报急剧下降",
+   "quote": "开始的投入都是比较大的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3013,
+    "end_line": 3013,
+    "fingerprint": [
+     "短期的方法",
+     "长期的目标"
+    ],
+    "sha1": "d00ef6c04c578832ed7df6f417b1cf96f8d319d2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-1"
+   ],
+   "concept_key": "无投入高回报不存在",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "用短期的方法达成长期的目标不可能（3013）；学什么专业能挣大钱、如何快速成功的问题给不出好答案（3013）；外贸与金融数学专业涌入即例（3015，时点归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-04",
+   "unit_id": "SG1-U0058"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "求其上者得其中：追求的层次本身在中下，不可能靠运气不断进步",
+   "quote": "求其上者得其中",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3017,
+    "end_line": 3017,
+    "fingerprint": [
+     "求其上",
+     "天花板"
+    ],
+    "sha1": "76c5bd068618695ea6bdcbf4527c1c3ea7734558"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "求上得中",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国好位置渐被占满升迁机会减少、欧美日毕业到退休平均仅两次升迁故有天花板之说（3017）；韦尔奇式从底层到顶层属少数（3017）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-05",
+   "unit_id": "SG1-U0058"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "博雅教育给的广视野是职业后劲：十年后人文教育背景者后来居上",
+   "quote": "更容易突破天花板",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3019,
+    "end_line": 3021,
+    "fingerprint": [
+     "博雅教育",
+     "后劲"
+    ],
+    "sha1": "0f59cdaa91a7316fdb9eb983a5b2206c3befa978"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "博雅教育后劲",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "工科学院起薪高、名校人文教育起步收入少（3021）；具体数字对比见《大学之路》（3021）；学了好专业不过掌握一些霸道（3021）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-06",
+   "unit_id": "SG1-U0058"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "拒绝领域外知识格局会变小；掌握专业外知识才能开阔眼界调动资源",
+   "quote": "专业之外的知识",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3023,
+    "end_line": 3025,
+    "fingerprint": [
+     "格局",
+     "合作"
+    ],
+    "sha1": "4dea7e14e485a619a006afb85f81ca0ed0fa618b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D01-2"
+   ],
+   "concept_key": "域外知识开阔格局",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "叶公好龙：行动上拒绝关注领域之外知识、认为浪费时间（3023）；只盯专业即便10000小时精进能完成两次提升就不错（3023）；今天不是关起门来搞定所有事情的时代（3025）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0058-07",
+   "unit_id": "SG1-U0058"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0058",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "商鞅三次游说秦孝公与秦速亡、拿破仑法典制定与102次讨论会等历史叙述（2995-3009）；承载的立意判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0058",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "外贸行业吃香、哥大金融数学硕士90%大陆留学生等时点案例（3015）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第051封信：立意定收益函数/霸道速效通病/立意帝道例/无投入高回报不存在/求上得中/博雅教育后劲/域外知识开阔格局，7卡全E1；商鞅拿破仑史实归X4、专业时点案例归X2"
+}

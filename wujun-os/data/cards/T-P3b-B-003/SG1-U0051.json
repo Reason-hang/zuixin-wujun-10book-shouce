@@ -1,0 +1,202 @@
+{
+ "unit_id": "SG1-U0051",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "以K线为代表的技术指标坑了亿万股民，画得再好也无助于挣钱",
+   "quote": "坑了亿万股民",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2629,
+    "end_line": 2629,
+    "fingerprint": [
+     "技术指标",
+     "K线"
+    ],
+    "sha1": "baeff8b610c3c028b16260ece70d48fb736292a2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "技术指标无用",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0236（同名概念键收敛，勿另立键）；中国股民对技术指标的好感世界各国少见，或与好赌心理和媒体误导有关（2629）；打探内部消息是另一坏习惯（2627）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-01",
+   "unit_id": "SG1-U0051"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "夏普：市场永远是对的，错的是你",
+   "quote": "市场永远是对的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2631,
+    "end_line": 2631,
+    "fingerprint": [
+     "夏普",
+     "市场永远"
+    ],
+    "sha1": "e194780b7536f6f90fbf0097c0eb915d42763e46"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "市场永远是对的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=比尔·夏普（诺贝尔经济学奖得主、夏普比率提出者），在Google上投资课时所讲（2631）；亏钱后或怪学艺不精或怪市场、唯独不疑方法（2631）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-02",
+   "unit_id": "SG1-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "连续跑赢大盘未必是水平而是狗屎运：随机交易也会产出'股神'",
+   "quote": "狗屎运",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2633,
+    "end_line": 2633,
+    "fingerprint": [
+     "随机",
+     "概率"
+    ],
+    "sha1": "aa7a64bf9ff178f05ded18b210966161ecb981c6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "运气被当水平",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "每一千名随机交易者就出一个连续10年跑赢大盘的'股神'（2633）；连续20年跑赢者中国至少有100个（2633）；上电视教画K线者等你去画时运气已不在（2633）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-03",
+   "unit_id": "SG1-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人人皆知的技术指标早已反映在股价波动中，再用它就不灵了",
+   "quote": "早已反映在股市的波动中",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2643,
+    "end_line": 2643,
+    "fingerprint": [
+     "信息论",
+     "波动"
+    ],
+    "sha1": "8f899f4033c08bfe5e620bafb797e1298da823c8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-2"
+   ],
+   "concept_key": "公开信息无超额收益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "信息论基本原理：唯知者能赢、人尽皆知则优势归零（2643）；澳网猜冠军游戏：信息的价值=省下的提问钱、可用比特量化（2639-2641）；信息论正确性由全球通信产品证实（2643）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-04",
+   "unit_id": "SG1-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真掌握独有规律的人闷声发大财，不会开班授课或上电视分析",
+   "quote": "闷声发大财",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2645,
+    "end_line": 2645,
+    "fingerprint": [
+     "彼得·林奇",
+     "闷声"
+    ],
+    "sha1": "ae59f9576bb2011394ab4f0c7b4a59cafceab931"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "独门信息不公开",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "最后一个'特别灵'的指标是彼得·林奇的PEG、他从不告人（2645）；林奇40多岁收手、再炒下去难免失败（2645）；向摩根士丹利与高盛基金经理确认：华尔街无人画K线（2635）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-05",
+   "unit_id": "SG1-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天几乎找不到新的有效指标：易找的早被找光，组合信号连谷歌都难",
+   "quote": "容易找的早被人找光了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2647,
+    "end_line": 2647,
+    "fingerprint": [
+     "机器学习",
+     "信号"
+    ],
+    "sha1": "99a8c957aa5348bdb555f31b2196bfa2d9384fbf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "新信号难寻",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "弱信号作用太小、组合起来管用是极难的机器学习问题（2647）；全世界或仅文艺复兴公司敢说找到很多有用信号且组合得好（2647-2649）；文艺复兴几乎没有金融人、全是数学家物理学家（2649）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-06",
+   "unit_id": "SG1-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "未来散户除买指数基金没有更好的交易方式，比不过大型对冲基金",
+   "quote": "买指数基金",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2649,
+    "end_line": 2649,
+    "fingerprint": [
+     "对冲基金",
+     "散户"
+    ],
+    "sha1": "02184552e35ab8ff68ddd30d35731304e33b6e1a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "散户指数化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "文艺复兴年回报37%对比巴菲特22%（2649）；对冲基金大量使用机器学习或高频交易（2649）；冲动和浮躁是股民两百多年的心理特点（2651）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0051-07",
+   "unit_id": "SG1-U0051"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第044封信：技术指标无用（双出处GG-U0236）/市场永远是对的E2/运气被当水平/公开信息无超额收益/独门信息不公开/新信号难寻/散户指数化，7卡（E1×6+E2×1）"
+}

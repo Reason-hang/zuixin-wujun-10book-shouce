@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0046",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专家权威性越高，一旦造假或死不认账，后果就越严重",
+   "quote": "后果会非常严重",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2395,
+    "end_line": 2395,
+    "fingerprint": [
+     "权威性",
+     "死不认账"
+    ],
+    "sha1": "7204c3ac8debb2ee422d6d06336f45f1f7d85fb5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "权威放大错误代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "科学家难脱俗、少数人为名利甚至生计夸大成果（2395）；临床指南仅因权威性采信其成果而无独立验证（2403）；大样本显示术前用β受体阻滞剂反使手术期死亡率提高27%（2405）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0046-01",
+   "unit_id": "SG1-U0046"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "研究论文中有意无意的错误远比想象多，采信前须独立复验",
+   "quote": "独立地把实验重新做一遍",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2415,
+    "end_line": 2415,
+    "fingerprint": [
+     "操纵数据",
+     "重新做一遍"
+    ],
+    "sha1": "547d148b9129408cbdb767669ce1724294312786"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "独立复验再采信",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "药企对自家科学家成果也要独立重做实验才敢相信（2415）；约1/5科研人员承认捏造数据、1/3隐瞒不利数据（2417）；撤稿量急剧上升：发表后重复实验才揭露造假（2419）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0046-02",
+   "unit_id": "SG1-U0046"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学术造假分三类：刻意造假、疏忽或条件所限、按预想结果设计的善意造假",
+   "quote": "善意造假",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2421,
+    "end_line": 2421,
+    "fingerprint": [
+     "三类",
+     "善意造假"
+    ],
+    "sha1": "8dbf57ac5302fe19273742b11c1f5eb982775b44"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "造假三分类",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "善意造假=过分相信脑中结论、按能产生预想结果的思路设计实验（2421）；不论哪种后果都可能非常严重（2421）；科学的过程远比结论重要（2423）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0046-03",
+   "unit_id": "SG1-U0046"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0046",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "珀德曼斯学术不端案经过、《欧洲心脏杂志》质疑文、76万/16万死亡推算、PLOS ONE调查与撤稿机制叙述（2397-2419）以事件史实为主；承载的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第039封信：权威放大错误代价/独立复验再采信/造假三分类，3卡全E1（以珀德曼斯案史实为主故少卡）；案件经过归X4"
+}

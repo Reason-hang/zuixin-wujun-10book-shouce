@@ -1,0 +1,174 @@
+{
+ "unit_id": "SG1-U0062",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会对立并不比以前更甚，对立感增强很大程度上因为互联网",
+   "quote": "互联网出现了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3211,
+    "end_line": 3211,
+    "fingerprint": [
+     "对立",
+     "互联网"
+    ],
+    "sha1": "f45242a912d92fd6313b8de7f1c472057813ec94"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "媒介放大对立感",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "回应读者姚俊阶层对立之问（3205，读者原话归X7）；一百多年前美国同样丑恶、反垄断与进步运动二十年变公平（3213，历史类比归X6）；特朗普希拉里政策异同（3215-3217，时政归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0062-01",
+   "unit_id": "SG1-U0062"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "韦尔奇：邮件不能超过10个人，开会不需要坐一屋子人",
+   "quote": "发邮件不能超过10个人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3243,
+    "end_line": 3243,
+    "fingerprint": [
+     "韦尔奇",
+     "邮件"
+    ],
+    "sha1": "dc6c027693e36b6070b739bed3b2de8a72cdd910"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "邮件十人上限",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=杰克·韦尔奇（GE传奇CEO），吴军转述其可执行规定；垃圾邮件看也不看就删（3241）；开会时大部分人在坐着玩手机（3243）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0062-02",
+   "unit_id": "SG1-U0062"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "提高效率要有可执行的办法，还要把省下来的钱分下去才有动力",
+   "quote": "把省下来的钱分给你们",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3245,
+    "end_line": 3245,
+    "fingerprint": [
+     "可执行",
+     "动力"
+    ],
+    "sha1": "27efda50818e90b1da438c28f9cf337b0854025e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-2"
+   ],
+   "concept_key": "激励驱动执行",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "事情没解决是因为没有激励机制（3241）；必须有一套可执行的方式才能把想法执行下去（3245）；回应读者蔡晓菲小政府主义之问（3235，原话归X7）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0062-03",
+   "unit_id": "SG1-U0062"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'人是会死的'这一基本认知很重要：正因为会死，今天才要做事情",
+   "quote": "人是会死的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3255,
+    "end_line": 3255,
+    "fingerprint": [
+     "会死",
+     "认知"
+    ],
+    "sha1": "a967ed360e7898f980ecea0d3e5542f3a6ec6358"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "向死而生",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "若能活一千岁今天就不做事、不急着做（3255）；在死亡到来之前把想做的该做的事做好做完（3267）；孩子重要也因为会死（3257）；呼应见识《向死而生》",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0062-04",
+   "unit_id": "SG1-U0062"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "意识到人终有一死便有舍有得：给事情排优先级，扔掉该扔的事",
+   "quote": "有舍有得",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3257,
+    "end_line": 3263,
+    "fingerprint": [
+     "优先级",
+     "离开谷歌"
+    ],
+    "sha1": "ee187bef1edd46ff1ac0dbc329ee150655c6ef3a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "有舍有得",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "打算做十年的事就必须扔掉一些别人看来建功立业的事（3261）；2014年离开谷歌因上班最占时间（3263）；孩子18岁后即独立、孩子不是你的财富（3259，亲子观归X5）；想做的事与工作一致亦好（3265）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0062-05",
+   "unit_id": "SG1-U0062"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0062",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者四问原文：姚俊阶层对立、刘羽云选校、蔡晓菲小政府主义、笔友人生规划（3205、3219、3235、3247）；吴军回应已入K卡或按子类排除"
+  },
+  {
+   "unit_id": "SG1-U0062",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "艺术管理课程选校建议：看专业与周边课程广度、语音识别三校例、耶鲁工科上不去（3225-3233）属升学选校议题；孩子18岁后不是你的财富（3259）属亲子观"
+  },
+  {
+   "unit_id": "SG1-U0062",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "特朗普希拉里中左中右与TPP、奥巴马健保废除等时政比较（3215-3217）"
+  },
+  {
+   "unit_id": "SG1-U0062",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "一百多年前美国与今日中国丑恶现象类比、反垄断与进步运动史（3213）属文明史叙述"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "周末加议：媒介放大对立感/邮件十人上限E2韦尔奇/激励驱动执行/向死而生/有舍有得，5卡（E1×4+E2×1）；读者四问归X7、选校归X5、时政归X2、历史类比归X6"
+}

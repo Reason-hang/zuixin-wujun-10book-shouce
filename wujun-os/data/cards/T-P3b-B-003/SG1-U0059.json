@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0059",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "影响力如河流水量由宽度深度长度决定：杰克逊宽浅短、莫扎特深长",
+   "quote": "长度，宽度和深度",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3055,
+    "end_line": 3057,
+    "fingerprint": [
+     "河流",
+     "影响力"
+    ],
+    "sha1": "6b8f56c00e122a981fd8222a7832d761f42c0a1c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "影响力三维度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两类音乐人：迈克尔·杰克逊宽而浅短、莫扎特不宽但源远流长（3055-3057）；时代越久远长河不断流（3057）；莫扎特养活萨尔茨堡一城（3059）；与见识《人生是一条河》同旨",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0059-01",
+   "unit_id": "SG1-U0059"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "幸福学教授：人最终的幸福感来自基因传承与给世界留下烙印",
+   "quote": "创造的快乐",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3061,
+    "end_line": 3063,
+    "fingerprint": [
+     "幸福感",
+     "基因"
+    ],
+    "sha1": "bfbb9389b648046690c5814ee2da58009a7d8588"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福两来源",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=芝加哥大学研究幸福学的教授；吴军表态认同（3063）；罗胖新添双胞胎例（3061）；高尔基'给总比拿要快乐得多'（3067，转述并入）；国家肯定每个人成就可增幸福感（3069）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0059-02",
+   "unit_id": "SG1-U0059"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看到自己的成果仍被广泛使用、给世界正面影响，幸福感非钱可换",
+   "quote": "远不是钱可以换",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3065,
+    "end_line": 3065,
+    "fingerprint": [
+     "Google",
+     "代码"
+    ],
+    "sha1": "f00fa0be4874641799de119a956c1b7b2c04c1f7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "创造幸福感",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "重返谷歌发现所写算法被用于上百个项目（3065）；富豪捐赠因在宽深长上影响未来而获得给予的幸福感（3067）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0059-03",
+   "unit_id": "SG1-U0059"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人生是条河：深和长靠修行与对世界的理解，宽要靠共建平台",
+   "quote": "和一些志同道合的人在一起",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3071,
+    "end_line": 3071,
+    "fingerprint": [
+     "平台",
+     "志同道合"
+    ],
+    "sha1": "cbe83149aef25a3da614384bb909dbb161b3868c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "人生是河宽深长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "开专栏动机即套用幸福学观点（3071）；'得到'是传播思想、共同创建的平台（3071）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0059-04",
+   "unit_id": "SG1-U0059"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0059",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "莫扎特生平（6岁表演、35岁去世、41首交响曲、身后萧条）与萨尔茨堡音乐节大师名单等叙述（3041-3053）；承载的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第052封信：影响力三维度/幸福两来源E2/创造幸福感/人生是河宽深长，4卡（E1×3+E2×1）；莫扎特生平归X4"
+}

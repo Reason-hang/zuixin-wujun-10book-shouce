@@ -1,0 +1,190 @@
+{
+ "unit_id": "SG1-U0052",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：一生不该做三件事——不做不懂的事、不做空、不用杠杆",
+   "quote": "永远不要用杠杆投资",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2675,
+    "end_line": 2675,
+    "fingerprint": [
+     "巴菲特",
+     "杠杆"
+    ],
+    "sha1": "917d96e55636244e2245741a41dcba55ec6a4c51"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "巴菲特三不做",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特（经吴军朋友A转述午餐内容）；'我不用告诉你该做什么……我告诉你一生不该做什么'（2675）；做空与杠杆机理见C-SG1-U0052-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0052-01",
+   "unit_id": "SG1-U0052"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：不做自己不懂的事情，放弃看不懂的机会无碍超高回报",
+   "quote": "做自己不懂的事情",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2677,
+    "end_line": 2677,
+    "fingerprint": [
+     "孙膑",
+     "不懂"
+    ],
+    "sha1": "f98cb7af3c724cbfd6136829c78c292755141be2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-1"
+   ],
+   "concept_key": "不做不懂的事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特（经朋友A转述）；孙膑赛马喻：见别人挣钱快就心痒尝试且不肯下功夫即做不懂的事（2677）；企业版教训见万达腾百万与标王公司（2679，归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0052-02",
+   "unit_id": "SG1-U0052"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "做空与杠杆的危险在损失无上限：一次操作失误就可能满盘皆输",
+   "quote": "一次就会倾家荡产",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2681,
+    "end_line": 2683,
+    "fingerprint": [
+     "做空",
+     "无穷大"
+    ],
+    "sha1": "6de72e4905ee47c377f7ca63f8eddaf72b8bb300"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "杠杆损失无上限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特（经朋友A转述）；股票上涨理论无尽头、一只股票损失可达无穷大即'见外婆'（2681）；挣钱损失皆正常，让一次损失满盘皆输的方法谈不上智慧（2681）；杠杆好时忘乎所以、坏时一次倾家荡产（2683）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0052-03",
+   "unit_id": "SG1-U0052"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：人一生不要两次富有，少犯错误比多几次成功更重要",
+   "quote": "少犯错误比多几次成功更重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2685,
+    "end_line": 2687,
+    "fingerprint": [
+     "两次富有",
+     "低谷"
+    ],
+    "sha1": "e154d5a76d2afaf10e96be5ba99ee64883a4abeb"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "少犯错优先",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特（经朋友B转述）；两次富有=两次峰值之间有低谷、从富到穷再东山再起（2685）；不必要的失败耗尽本可给生活家庭的时间精力、事业成功生活失败（2687）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0052-04",
+   "unit_id": "SG1-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对大部分人最好的投资是自己的工作和事业，因为你最擅长",
+   "quote": "最好的投资是自己的工作和事业",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2691,
+    "end_line": 2691,
+    "fingerprint": [
+     "工薪阶层",
+     "工作"
+    ],
+    "sha1": "72c7fa3e15ed01dd883d9fd72ef9d2b9739b4f30"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资自己事业",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "拓展巴菲特观点（2691）；工薪钱炒股年回报撑死十几万、投入本职工作与晋升或创业回报远高（2691）；与富足《最好的投资是自己的专业》同旨",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0052-05",
+   "unit_id": "SG1-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市不是考验知识和智商的地方，而是考验人性的地方",
+   "quote": "考验人性的地方",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2693,
+    "end_line": 2693,
+    "fingerprint": [
+     "人性",
+     "股市"
+    ],
+    "sha1": "31d33fa8c262b8868d21f74987b4c0ccfc345710"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D02-4"
+   ],
+   "concept_key": "股市考验人性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特的道理很多人说过但大部分人忽略（2693）；巴菲特不投科技是当下看不懂、并非永远不打算熟悉（2689）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0052-06",
+   "unit_id": "SG1-U0052"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0052",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "万达腾百万烧钱散伙与央视标王企业兴衰、《大败局》所记公司史叙述（2679）为企业案例史实；承载的判断已入K卡notes"
+  },
+  {
+   "unit_id": "SG1-U0052",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2015-2016年中国股灾背景（2683）为时点事件"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第045封信：巴菲特三不做/不做不懂的事/杠杆损失无上限/少犯错优先（四卡E2转述巴菲特）/投资自己事业/股市考验人性，6卡（E1×2+E2×4）；腾百万标王史归X4、股灾背景归X2"
+}

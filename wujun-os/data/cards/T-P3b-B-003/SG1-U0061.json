@@ -1,0 +1,181 @@
+{
+ "unit_id": "SG1-U0061",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "朗道：物理学家分五级，每级能力和贡献的差距是十倍数量级",
+   "quote": "是数量级的差别",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3145,
+    "end_line": 3149,
+    "fingerprint": [
+     "朗道",
+     "等级"
+    ],
+    "sha1": "fc70d8602052c3322f818ebe9d5d45be73ea9f34"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "朗道五级制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=朗道（苏联物理学家）；评价体系非吴军发明（3145）；朗道自列2.5级、获诺奖后升1.5级、唯一零级是爱因斯坦（3149）；双出处：本段亦见 GG-U0062（同名概念键收敛，勿另立键）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0061-01",
+   "unit_id": "SG1-U0061"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程师分五级：五级独立完成工程、四级带人、三级产品成功、一级开创产业",
+   "quote": "开创一个产业",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3151,
+    "end_line": 3155,
+    "fingerprint": [
+     "五个等级",
+     "工程师"
+    ],
+    "sha1": "baa44875e3d2e14bce2071d5827a674e89333659"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "五级工程师",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "双出处：本段亦见 GG-U0062（同名概念键收敛，勿另立键）；仿朗道方法、其他专业人士也可依次分类（3151）；五级到一级具体标准（3155）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0061-02",
+   "unit_id": "SG1-U0061"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能独立解决问题、不需他人指导完成所分配工作，才算合格五级工程师",
+   "quote": "不需要他人指导",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3157,
+    "end_line": 3157,
+    "fingerprint": [
+     "五级工程师",
+     "独立"
+    ],
+    "sha1": "fd4b86448368e886fe04237b782fd105655aa7eb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "合格五级标准",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "京东做找数据工具例：知道找谁要数据、用什么开发工具、功能取舍（3157）；中国名片工程师多不具基本技能（3159）；码农写照与有心即不难达标（3161）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0061-03",
+   "unit_id": "SG1-U0061"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "四级工程师能把大问题化解为小问题；目标不同方案不同，勿桥浮混修",
+   "quote": "把海湾大桥修成浮桥",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3163,
+    "end_line": 3167,
+    "fingerprint": [
+     "愿景",
+     "浮桥"
+    ],
+    "sha1": "dce0864b40f3ee51c5014ba5c8bc21ffaba4b049"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "目标定方案",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "愿景-目标-道路逻辑（3163）；工程师考虑好坏而非对错（3163）；IT人常把海湾大桥修成浮桥、或把浮桥按大桥慢慢修（3165）；中国IT极缺有头脑的工程师、沟通能力强者更易获机会（3167）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0061-04",
+   "unit_id": "SG1-U0061"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三级工程师须能带人做出为公司挣利润的产品，且是好产品经理",
+   "quote": "必须是非常好的产品经理",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3169,
+    "end_line": 3171,
+    "fingerprint": [
+     "产品经理",
+     "市场"
+    ],
+    "sha1": "270b1e68be62f3e39c3cb447157a01dd03dea724"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "三级产品经理",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "还涉及对市场的判断和营销能力（3169）；心胸开阔方能做到、人有多大的心就能做多大的事（3171）；做到三级收入和社会地位就不低了（3171）；二级例邓锋Netscreen与Jeff Dean（3173）、一级爱迪生福特贝尔（3175）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0061-05",
+   "unit_id": "SG1-U0061"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每提高一级，影响力和收入就增加很多，对综合能力要求也多得多",
+   "quote": "每提高一级",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3177,
+    "end_line": 3177,
+    "fingerprint": [
+     "影响力",
+     "收入"
+    ],
+    "sha1": "9b2dcf0144fd4b1dcabf96c2545855ffbbf9ab80"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "逐级跃升收益",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "双出处：本段亦见 GG-U0062（同名概念键收敛，勿另立键）；吴军自处2.5级（3179）；思考题：怎样定目标两年提升半级到一级（3191）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0061-06",
+   "unit_id": "SG1-U0061"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0061",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：程序员/财务/编辑/律师关于专业精深与地位迷茫的提问（3141）与推荐阅读清单（3181-3187）；吴军的回应已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第054封信：朗道五级制E2（双出处GG-U0062）/五级工程师（双出处GG-U0062）/合格五级标准/目标定方案/三级产品经理/逐级跃升收益（双出处GG-U0062），6卡（E1×5+E2×1）；读者来信原文归X7"
+}

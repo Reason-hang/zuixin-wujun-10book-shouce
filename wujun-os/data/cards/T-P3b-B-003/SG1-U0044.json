@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0044",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学必须要能够证伪，只能证实无法证伪的结论不是科学结论",
+   "quote": "科学必须要能够证伪",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2315,
+    "end_line": 2315,
+    "fingerprint": [
+     "证伪",
+     "房价要跌"
+    ],
+    "sha1": "4228228ad028983b8872596e4bad3b44eca3898a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "证伪是科学门槛",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朋友听专家唱衰不买房例（2315）；房价跌20%证实易、百年不跌也无法证明说错即无法证伪、专家立于不败之地（2317）；'你体会不到是因为心不诚'即让结论无法证伪（2319）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0044-01",
+   "unit_id": "SG1-U0044"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学看重方法和过程而非结论，科学的结论未必等于正确的结论",
+   "quote": "看重的是方法和过程",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2325,
+    "end_line": 2325,
+    "fingerprint": [
+     "方法和过程",
+     "未必"
+    ],
+    "sha1": "40ad2d35b361b1e2cadd5c5327491d3bfd18a31c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学重方法非结论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不走的钟一天正确报时两次、偶挣钱的'股神'不如停钟（2325）；正确结论未必科学：亚里士多德重物先落地可证伪故是科学的（2329）；知识积累靠不断推翻权威、与宗教先有教条再附会相反（2325）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0044-02",
+   "unit_id": "SG1-U0044"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一次预测成功可能只是巧合，可靠的方法要经得起可重复可验证",
+   "quote": "它或许只是巧合而已",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2335,
+    "end_line": 2335,
+    "fingerprint": [
+     "可重复性",
+     "东南亚金融危机"
+    ],
+    "sha1": "3558573ea19cefcf0f23f5588e23e6664c61688a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "可重复性判方法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "迷信专家两理由：不愿动脑子、专家曾正确过（2335）；预测东南亚金融危机成功一次远不具可重复性（2335）；科学强调实证精神与实验可重复可验证（2325）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0044-03",
+   "unit_id": "SG1-U0044"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学结论能够成立是有条件的，不存在放之四海而皆准的真理",
+   "quote": "放之四海而皆准",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2327,
+    "end_line": 2327,
+    "fingerprint": [
+     "有条件的",
+     "限制条件"
+    ],
+    "sha1": "07477ab3b2d68d7e773dff6d381d74d034132490"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学结论有条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谈房价涨跌须先列限制条件才是科学的态度（2313）；'放之四海而皆准'的提法本身就不科学（2327）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0044-04",
+   "unit_id": "SG1-U0044"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "永真式结论毫无意义却常披科学外衣，如'既要又要'式表态",
+   "quote": "披上科学的外衣",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2321,
+    "end_line": 2321,
+    "fingerprint": [
+     "要么下雨",
+     "毫无意义"
+    ],
+    "sha1": "84c1301ff5c6dd81bf48639826f87240513d937b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "永真命题无意义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'明天要么下雨，要么不下雨'永远正确无法证伪（2321）；'既要……又要……'省略对立宾语是变戏法的话（2321）；人总要死、上帝存在等命题亦不可证伪（2319）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0044-05",
+   "unit_id": "SG1-U0044"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0044",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "北上广房地产总价超美国70%、中关村房价1.6万涨至逾10万等具体行情与经济学家唱衰楼市的时点判断（2309、2333），离开该时点即失效；其中'附限制条件才是科学态度'的可迁移逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第037封信：证伪是科学门槛/科学重方法非结论/可重复性判方法/结论有条件/永真命题无意义，5卡全E1；房价具体行情归X2"
+}

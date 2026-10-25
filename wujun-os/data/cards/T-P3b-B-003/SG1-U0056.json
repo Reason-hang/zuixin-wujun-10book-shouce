@@ -1,0 +1,79 @@
+{
+ "unit_id": "SG1-U0056",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看懂艺术要进入作者的时代与生活，孤立看作品难得要领",
+   "quote": "突然感觉开窍了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2865,
+    "end_line": 2867,
+    "fingerprint": [
+     "毕加索",
+     "录音导游"
+    ],
+    "sha1": "192400cc643065992f27a5ee0355bc3759c2c8c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "知人论世法",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "悉尼毕加索大展录音导游侧重生活与社会大背景（2865-2867）；吴军看100-150幅真迹、花20余年才懂（2861-2863）；了解时代与个人经历即找到画风变化线索（2887、2899）；山寨者只学涂鸦技巧无生活理解故不成（2903）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0056-01",
+   "unit_id": "SG1-U0056"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "毕加索会卖画：先讲故事再给画建立知己感；推销技巧人人需要",
+   "quote": "先给你讲故事",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2901,
+    "end_line": 2901,
+    "fingerprint": [
+     "推销",
+     "收藏家"
+    ],
+    "sha1": "3c99ed2406e812de6f93e52bc95045e81345fef5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "推销人人需要",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "名气大三因：手绘历史、浓缩20世纪绘画发展史、推销水平高（2901）；讲故事使收藏家产生知己般的认同感、地位遂提高（2901）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0056-02",
+   "unit_id": "SG1-U0056"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0056",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "毕加索生平各时期（蓝色/瑰色/古典时期）、《格尔尼卡》与西班牙内战史实、安格尔影响等画家史叙述（2869-2899）；承载的判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0056",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "毕加索名气现象与吴军个人学画经历（2859-2863）、山寨模仿评点（2903）等纯赏析与轶事残余"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第049封信：知人论世法/推销人人需要，2卡全E1（以画家生平与赏析为主故少卡）；毕加索生平归X4、赏析残余归X8"
+}

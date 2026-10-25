@@ -1,0 +1,99 @@
+{
+ "unit_id": "SG1-U0045",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "偏执会让人看到不存在的实验结果，成为病理科学研究的典型",
+   "quote": "偏执狂",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2375,
+    "end_line": 2375,
+    "fingerprint": [
+     "病理科学",
+     "偏执狂"
+    ],
+    "sha1": "003071636c2c17fa4f92292bd1e5de94b927274d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "偏执致幻视",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "布朗洛特并非刻意造假而是真信N射线存在（2373）；N射线在法国盛行因普法战败后越是德国人赞同的越要反对、政治致科学家站队（2375）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0045-01",
+   "unit_id": "SG1-U0045"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学的结论不因讲话人的权威性就更正确，事实比权威更重要",
+   "quote": "事实比权威更重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2375,
+    "end_line": 2375,
+    "fingerprint": [
+     "威望",
+     "事实比权威"
+    ],
+    "sha1": "003071636c2c17fa4f92292bd1e5de94b927274d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "事实高于权威",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "再有威望再有成就的科学家也会犯错误（2375）；科学家群体犯错误难免、不必神化（2353）；开尔文与鲁本斯碍于面子不愿挑明反驳，面子阻碍纠错（2367）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0045-02",
+   "unit_id": "SG1-U0045"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "揭穿可疑实验不靠争辩靠对照测试：伍德换锉刀为木棍当场拆穿N射线",
+   "quote": "偷梁换柱",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2369,
+    "end_line": 2371,
+    "fingerprint": [
+     "伍德",
+     "偷梁换柱"
+    ],
+    "sha1": "e8955f8c2a7cf2ae84f09af5413d72d1ba981656"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "对照测试揭伪",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：伍德debunk不鲁莽、先融洽交谈再悄悄偷梁换柱，布朗洛特对木棍也声称视力提高（2369-2371）；N射线曾有120名科学家300多篇论文却无人能重复（2365-2367）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0045-03",
+   "unit_id": "SG1-U0045"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0045",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "费米93号元素诺奖经过、法西斯宣传背景、N射线发现与120名科学家300篇论文、伍德揭伪过程等科学史叙述（2355-2373）纯史实科普；承载的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第038封信：偏执致幻视/事实高于权威/对照测试揭伪（伍德N射线案E3），3卡（本单元以科学史为主故少卡）；费米与N射线史实归X4"
+}

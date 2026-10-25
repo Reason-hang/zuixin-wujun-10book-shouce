@@ -1,0 +1,209 @@
+{
+ "unit_id": "SG1-U0060",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "王蒙：美国进取但不计后果，中国文化消极却有知不能做的智慧",
+   "quote": "了解自己什么事情不能做",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3093,
+    "end_line": 3093,
+    "fingerprint": [
+     "王蒙",
+     "文化"
+    ],
+    "sha1": "bf0fdb9460dc62c8eb99894f3669c41e56dc980d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "知不能做的智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=王蒙（作家，在洛杉矶与旧金山报告）；I do it与I can't do it两文化对照（3093）；吴军评：反映中美思维差别、当下中美调了个个儿（3095）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-01",
+   "unit_id": "SG1-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知道什么事情不能做，比知道什么事情能做有时显得更难",
+   "quote": "这辈子不要做什么",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3097,
+    "end_line": 3097,
+    "fingerprint": [
+     "巴菲特",
+     "不能做"
+    ],
+    "sha1": "a4b67250242fb16ff6b3b13ef1453f0104c7aa14"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "不做清单更难",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特从不告诉段永平等该做什么、只再三叮嘱不要做什么（3097）；与C-SG1-U0052-01三不做互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-02",
+   "unit_id": "SG1-U0060"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "贾里尼克式导师：只告诉你什么做法不管用，什么管用要自己找",
+   "quote": "什么做法不管用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3099,
+    "end_line": 3099,
+    "fingerprint": [
+     "贾里尼克",
+     "管用"
+    ],
+    "sha1": "091d559a3badb4e5f75820d5263c243c6339f2b7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "导师排除法",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=贾里尼克（语音识别泰斗、吴军的老师）；每星期请世界一流学者报告、暑假请最好科学家工作八周创造条件（3099）；好导师不约束学生想法（3107）；盖茨'这是我该问你的问题'同旨（3109，转述并入）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-03",
+   "unit_id": "SG1-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知道什么不管用可省去大量试错，失败少成功可能性才大",
+   "quote": "省去了很多不必要的试错",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3101,
+    "end_line": 3101,
+    "fingerprint": [
+     "试错",
+     "IBM"
+    ],
+    "sha1": "aca09fb456d6401d90d39a3ab201c72308b7d1f7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-1"
+   ],
+   "concept_key": "排除法省试错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'我们在IBM已经证明它不管用'直接为学生省去弯路（3101）；总讲失败是成功之母可能永远走不出失败的怪圈（3101）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-04",
+   "unit_id": "SG1-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事如开车既要有引擎也要有刹车，了解不能做才能顺当转弯",
+   "quote": "既要有引擎，也要有刹车",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3111,
+    "end_line": 3111,
+    "fingerprint": [
+     "刹车",
+     "转弯"
+    ],
+    "sha1": "15adf5867fcd2eab622bd7938b3ccca9fb5081a5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "引擎与刹车",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "刹车的作用常被忽略、没刹车就无法转弯（3111）；年轻人自己找怎么做、有经验者告不该犯的错，配合事半功倍（3111）；奥巴马只知加速不懂刹车例（3103，时政归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-05",
+   "unit_id": "SG1-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有引擎最坏是不开动，没有刹车则如闯入瓷器店的公牛毁掉一切",
+   "quote": "闯入瓷器店的公牛",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3113,
+    "end_line": 3113,
+    "fingerprint": [
+     "误区",
+     "公牛"
+    ],
+    "sha1": "840c086238a9d832bfb1ac0116569b4156ad9980"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "无刹车毁一切",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "误区一即忽视刹车、如同奥巴马的错误（3113）；默克尔难民政策反思为时已晚（3113，时政归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-06",
+   "unit_id": "SG1-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有动力者应做引擎、有经验者应做刹车；动力来自底层约束来自上层",
+   "quote": "有动力的人应该成为引擎",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 3115,
+    "end_line": 3115,
+    "fingerprint": [
+     "引擎",
+     "自治"
+    ],
+    "sha1": "e5200e38fcd38632a63dbaae1fa4d1e5a51a7956"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "引擎刹车定位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "好社会好组织应地方自治、层层往上构建（3115）；中国几十年成就在于释放每个人求富裕的动力（3117）；荷兰英国美国地方自治传统（3117-3119）；痴迷顶层设计即搞反引擎刹车（3119，时评归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0060-07",
+   "unit_id": "SG1-U0060"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0060",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "奥巴马全民健保、特朗普修正政策、TPP、默克尔难民政策等时政评论（3103-3105、3113、3121）依附具体时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第053封信：知不能做的智慧E2王蒙/不做清单更难/导师排除法E2贾里尼克/排除法省试错/引擎与刹车/无刹车毁一切/引擎刹车定位，7卡（E1×5+E2×2）；时政评论归X2"
+}

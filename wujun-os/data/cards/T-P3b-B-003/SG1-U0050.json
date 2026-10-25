@@ -1,0 +1,190 @@
+{
+ "unit_id": "SG1-U0050",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "炒股本质起到让穷人和中产变相缴税的作用，而不是挣钱",
+   "quote": "变相缴纳个人税",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2585,
+    "end_line": 2585,
+    "fingerprint": [
+     "炒股",
+     "个人税"
+    ],
+    "sha1": "299ea84460505e46737dfb9ec1c8607ec853b6e3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "炒股变相缴税",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特年均回报约20%而90%以上中国散户看不起（2587）；散户财富增长跑不赢股市平均值即变相损失（2591）；微博测试：同样的话署名巴菲特则盛赞（2589）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0050-01",
+   "unit_id": "SG1-U0050"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智力、知识和智慧是两回事，有智力知识不等于有投资智慧",
+   "quote": "知识和智慧其实是两回事",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2593,
+    "end_line": 2593,
+    "fingerprint": [
+     "段永平",
+     "智慧"
+    ],
+    "sha1": "d0d37144efc31eb8da9ee1998822e736edb0544b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "智力知识非智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "段永平：他们缺乏投资的智慧（2593）；所劝朋友多为名校与大公司出身仍不听劝（2593-2595）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0050-02",
+   "unit_id": "SG1-U0050"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "转述投资人：人是不听劝的，散户跑输大盘恰是专职投资人的利润来源",
+   "quote": "人是不听劝的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2595,
+    "end_line": 2595,
+    "fingerprint": [
+     "不听劝",
+     "散户"
+    ],
+    "sha1": "103dca6998a474ce351eb198a7f866bdc1a62f5d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "散户亏损供利润",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军一位非常成功的投资人朋友（与巴菲特吃过饭）；95%散户表现比大盘差、70%在赔钱（2595）；不听劝的人越多专职投资人挣钱越多（2595）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0050-03",
+   "unit_id": "SG1-U0050"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "巴菲特智慧核心是常识，常识恰是人们最容易忽略的东西",
+   "quote": "最容易忽略的东西",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2601,
+    "end_line": 2601,
+    "fingerprint": [
+     "常识",
+     "股评"
+    ],
+    "sha1": "e8132a425d717d496c08c99ceae4890767163e42"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "常识是核心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "少看华尔街日报、从不信股评不画K线（2601）；'低买高卖'即常识，泡沫时专家鼓吹'高价买更高价卖'并嘲笑巴菲特过时（2603）；玛丽·巴菲特得以近距离看到其工作之外思考的方法论（2601）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0050-04",
+   "unit_id": "SG1-U0050"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逛店看货架的朴素观察，比海量数据模型更能判断经济与公司",
+   "quote": "这个简单的方法",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2605,
+    "end_line": 2605,
+    "fingerprint": [
+     "百货店",
+     "货架"
+    ],
+    "sha1": "546df648fe15a8bc09fe501225c46d6099490a82"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "朴素观察胜模型",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数苹果店与微软店顾客判断苹果市值将超微软（2607）；看优秀人才在公司间流动判断Facebook价值（2607）；巴菲特对经济形势与公司的判断都来自朴素常识（2605）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0050-05",
+   "unit_id": "SG1-U0050"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人们迷信高深理论而忽视看似简单的常识，尊重常识的少数人因而成功",
+   "quote": "恰恰是基本常识",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2609,
+    "end_line": 2609,
+    "fingerprint": [
+     "高深理论",
+     "常识"
+    ],
+    "sha1": "81795c5f126781a31e19f6a6359e8f33384ca61a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "尊重常识者成功",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对不懂的高深理论心怀敬畏、易迷信掌握者（2609）；今天有知识的人增加但有智慧的依然很少（2609）；《巴菲特之道》锦上添花非雪中送炭、对无头苍蝇是鸡同鸭讲（2599）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0050-06",
+   "unit_id": "SG1-U0050"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0050",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "正和岛荐书背景与《巴菲特之道》《巴菲特法则》两书对比书评（2583、2597-2599）属载体性荐书内容；书评中承载的判断已入K卡notes"
+  },
+  {
+   "unit_id": "SG1-U0050",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "巴菲特60年财富增几万倍、90%散户看不起20%回报等时点统计与行情叙述（2585-2591）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第043封信：炒股变相缴税/智力知识非智慧/散户亏损供利润E2/常识是核心/朴素观察胜模型/尊重常识者成功，6卡（E1×5+E2×1）；荐书背景归X1、时点统计归X2"
+}

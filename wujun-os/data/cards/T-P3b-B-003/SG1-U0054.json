@@ -1,0 +1,213 @@
+{
+ "unit_id": "SG1-U0054",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资方法分三派：价值投资、空中楼阁的技术派、听从市场的指数派",
+   "quote": "建立在空中楼阁基础上",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2765,
+    "end_line": 2767,
+    "fingerprint": [
+     "价值投资",
+     "技术派"
+    ],
+    "sha1": "d87940353ba8ad57d6934c1b617d881d307aaeb8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资三派",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "米勒连续15年表现超标配普500（2765）；中国95%以上股民和基金经理奉行技术派、鲜有长期成功（2767）；唯一例外彼得·林奇找到别人不知道的指标、40多岁收手（2767）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-01",
+   "unit_id": "SG1-U0054"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "夏普：连续跑赢的基金费用会被迅速抬高，回报必然接近大盘",
+   "quote": "回报必然接近大盘",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2769,
+    "end_line": 2769,
+    "fingerprint": [
+     "夏普",
+     "费用"
+    ],
+    "sha1": "dc6a2201c97067846d8786d9441b29f8e3ccb26b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "费用侵蚀回报",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=威廉·夏普（诺贝尔经济学奖得主）；伯克希尔过去10多年几乎随大盘走为例（2769）；马尔基尔同派：长远买指数基金最简单且高回报（2769）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-02",
+   "unit_id": "SG1-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从长远讲买指数基金是最简单且高回报的投资，摈除了投机因素",
+   "quote": "买指数基金是最简单",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2769,
+    "end_line": 2769,
+    "fingerprint": [
+     "指数基金",
+     "经济增长"
+    ],
+    "sha1": "dc6a2201c97067846d8786d9441b29f8e3ccb26b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "指数化是正道",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有经济增长这个依据（2769）；股市本身是带反馈的系统、二人观点符合系统论（2771）；凡事有例外、米勒巴菲特能见人所不见（2771）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-03",
+   "unit_id": "SG1-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资是艺术不是技术：技术人人能学，艺术要靠天赋甚至人性",
+   "quote": "艺术要靠天赋",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2773,
+    "end_line": 2773,
+    "fingerprint": [
+     "艺术",
+     "天赋"
+    ],
+    "sha1": "71ed16292722ceb35fa5de968871577e8e476024"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资是艺术非技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特骨子里是精英思维、相信个别精英智慧能超大众（2773）；学其方法做得好的并不多、段永平是例外（2773）；与C-SG1-U0053-03为同名概念键（论旨在批内两单元重现）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-04",
+   "unit_id": "SG1-U0054"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：我也不会炒股——只有价值投资才算是投资，炒股不算",
+   "quote": "我也不会炒股",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2777,
+    "end_line": 2777,
+    "fingerprint": [
+     "朱晔",
+     "价值投资"
+    ],
+    "sha1": "8f84d41e8013ea6fb4d2023794958cf76ed5083b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "炒股不算投资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特（对天神娱乐董事长朱晔）；巴菲特从不给具体的投资指南、否认自己是战术家（2775）；赵丹阳问估值模型与看好行业均未获答（2775）；朱晔借午餐新闻股价翻番高位套现（2777）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-05",
+   "unit_id": "SG1-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "巴菲特重现金流：股价涨跌无意义、利润靠不住，收回的现金才是真的",
+   "quote": "现金奶牛",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2785,
+    "end_line": 2785,
+    "fingerprint": [
+     "现金流",
+     "IBM"
+    ],
+    "sha1": "6b42e99203f6140c1fb4b5d59a40f17aeca7b568"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "现金流才是真的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "IBM英特尔成长不快但数十年现金流稳定（2783-2785）；收获现金再买现金奶牛实现公司价值复合增长（2785）；财报利润水分多、只认真金白银；读财报习惯写成《浪潮之巅》（2787）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-06",
+   "unit_id": "SG1-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股息再投资不派发的结构可递延高额所得税，加速长期复合增长",
+   "quote": "复合增长率每年多",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2791,
+    "end_line": 2791,
+    "fingerprint": [
+     "股息",
+     "所得税"
+    ],
+    "sha1": "d0aaa8c1c32ec42615b61f89d2e887e6ab6b6cc1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "税务递延复利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国股息税高：加州约37%、内布拉斯加32%（2789）；巴菲特年得约10亿美元股息全部用于再购股票（2791）；年复合多2%六十年下来不得了（2791）；呼吁加富人之税因征不到自己头上（2793）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0054-07",
+   "unit_id": "SG1-U0054"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0054",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "巴菲特捐格林威尔学院经洛克投英特尔、学校糟蹋捐款改捐盖茨基金会等史实叙述（2781）；承载的判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0054",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "IBM英特尔2011-2016股价表现与美股持续上涨背景、美国股息税率数据（2783、2789）为时点行情"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第047封信：投资三派/费用侵蚀回报E2/指数化是正道/投资是艺术非技术/炒股不算投资E2/现金流才是真的/税务递延复利，7卡（E1×5+E2×2）；捐款史实归X4、股价税率归X2"
+}

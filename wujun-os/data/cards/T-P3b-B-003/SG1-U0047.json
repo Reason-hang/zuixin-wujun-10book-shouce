@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0047",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "实验能重复是学术界的规矩，靠它避免了很多学术造假",
+   "quote": "实验能重复是学术界的规矩",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2453,
+    "end_line": 2453,
+    "fingerprint": [
+     "撤稿",
+     "实验能重复"
+    ],
+    "sha1": "9672ebfe0ebc6f46f5d6f5a69792580bd00b43ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "可重复防造假",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "波茨-康德15篇撤稿4篇部分撤稿即因无法重复（2453）；举报奖金机制：2015年举报者获5.97亿美元奖金、经济激励助推揭发（2457）；20%科研人员承认修饰过数据（2465）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0047-01",
+   "unit_id": "SG1-U0047"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要迷信科学结论，也不要迷信专家；科学家是人不是神",
+   "quote": "也不要迷信专家",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2469,
+    "end_line": 2469,
+    "fingerprint": [
+     "迷信专家",
+     "观点"
+    ],
+    "sha1": "9bd2b239f45f271b0fa3ee68c1d7452a1e4473e8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "不迷信专家",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "凡人有的弱点科学家都有（2465）；杜克案为无耻造假者敲警钟、为举报者打开大门（2467）；希望中国今后对学术造假者追究刑事责任（2467）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0047-02",
+   "unit_id": "SG1-U0047"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0047",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "波茨-康德案来龙去脉、骗取2亿美元科研经费诉讼、《虚假申报法案》三倍罚款条款、过去10年四起大案结局、杜汉案判刑等案件史实叙述（2441-2463）；承载的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第040封信：可重复防造假/不迷信专家，2卡全E1（以杜克案史实为主故少卡）；波茨-康德案经过归X4"
+}

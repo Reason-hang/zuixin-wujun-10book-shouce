@@ -1,0 +1,180 @@
+{
+ "unit_id": "SG1-U0053",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "段永平（承巴菲特）：不熟悉的、不是自己核心业务的不能做",
+   "quote": "不是自己核心业务的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2713,
+    "end_line": 2713,
+    "fingerprint": [
+     "段永平",
+     "核心业务"
+    ],
+    "sha1": "09b8b3b7f0062ad466cfaa9d397c9bd18bdf34ec"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "不熟非核心不做",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=段永平（转述巴菲特思想精髓）；中国早期炒股最成功者半数破产入局的共性是不懂什么不能做（2711）；鼓励尝试不等于没搞懂就盲目做（2713）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0053-01",
+   "unit_id": "SG1-U0053"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "段永平：若自办广告公司的逻辑成立，世上早该有可口可乐广告公司",
+   "quote": "可口可乐广告公司",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2717,
+    "end_line": 2717,
+    "fingerprint": [
+     "段永平",
+     "宝洁"
+    ],
+    "sha1": "fcde15a7bff2e57dbf7dc953008fca220b57d735"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "归谬检验逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=段永平；'我不知道为什么我们不可能办好，但我知道一定会是一个失败的结果'（2717）；吴军评：从这个特别的想问题方式能体会什么叫智慧（2717）；标王企业自办广告公司绝大部分消失（2719）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0053-02",
+   "unit_id": "SG1-U0053"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特认为投资是艺术不是技术：技术人人能学，艺术靠天赋人性",
+   "quote": "投资是个技术活",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2729,
+    "end_line": 2729,
+    "fingerprint": [
+     "艺术",
+     "技术"
+    ],
+    "sha1": "3c4ecbf3b817f94607db195eaf11214f92a53e48"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资是艺术非技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=段永平（转释巴菲特观点）；西方科学技术显著特点是可继承可叠加、投资不在其列（2729）；对子孙掌握投资艺术没信心故遗嘱交给标普（2731）；吴军本人另述见C-SG1-U0054-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0053-03",
+   "unit_id": "SG1-U0053"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对99%的个人投资者，最好的投资是大量购买标准普尔500指数",
+   "quote": "大量购买标准普尔",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2725,
+    "end_line": 2725,
+    "fingerprint": [
+     "标准普尔",
+     "指数"
+    ],
+    "sha1": "64042a0b4fe30d1494b1b746dd4fd033cdb1d416"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "散户买指数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "标普500选500只股票年均回报8%、胜过70%的基金（2725）；巴菲特遗嘱遗产绝大多数买成标普500（2725）；不把鸡蛋放一个篮子的分散思路本身正确（2725）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0053-04",
+   "unit_id": "SG1-U0053"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "懂投资艺术的人极少，巴菲特团队十年只研究少数股票求少犯错",
+   "quote": "十年只研究",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2735,
+    "end_line": 2737,
+    "fingerprint": [
+     "高盛",
+     "少数"
+    ],
+    "sha1": "18bad9f5953bcf67c5dd27a33cfe9ad900037ec3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D05-1"
+   ],
+   "concept_key": "少犯错胜多机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "散户三个月研究10只、基金经理一年上百只、巴菲特团队十年只研究少数股票（2735）；高盛股价过高一直不买、金融危机时果断投（2735）；失去很多机会但它追求少犯错误而非不错失机会（2737）；段永平据此梳理人才、产品线不拉长（2739）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0053-05",
+   "unit_id": "SG1-U0053"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "适合自己的方法才是最好的方法，浮躁时代需要冷静的思维方式",
+   "quote": "适合自己的方法才是最好的方法",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2741,
+    "end_line": 2741,
+    "fingerprint": [
+     "适合自己的方法"
+    ],
+    "sha1": "310ff2fcc02d0a69aef5fd7a0c663f9e7aa3db94"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "适合自己的方法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特思路与大胆尝试创新、培训精进、打造生态等主流认知相反，不评论孰优、只供参考（2741）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0053-06",
+   "unit_id": "SG1-U0053"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0053",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "步步高夺标王与年投几亿到几十亿广告、标王企业自办广告公司兴衰等企业史叙述（2715-2719）；承载的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第046封信：不熟非核心不做E2/归谬检验逻辑E2/投资是艺术非技术E2/散户买指数/少犯错胜多机会/适合自己的方法，6卡（E1×3+E2×3）；标王企业史归X4"
+}

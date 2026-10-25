@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG1-U0049",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1C",
+ "batch_id": "T-P3b-B-003",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "利益相关者的建议要打折听：卖瓜的说瓜甜，科学家只是职业不是神",
+   "quote": "卖瓜的没有不说瓜甜的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2549,
+    "end_line": 2549,
+    "fingerprint": [
+     "卖瓜",
+     "纳税人"
+    ],
+    "sha1": "67c521618a15d7b64e23de79326a482c86395d43"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "利益方建议打折听",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "搞高能物理必说加速器重要、搞水利必说建坝好（2549）；科学家可以建议，出钱的纳税人可以批也可以不批（2549）；项目评审上'不支持就亡党亡国'言过其实（2549）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0049-01",
+   "unit_id": "SG1-U0049"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考据：巴斯德只说过科学无国界，从未说过'科学家有祖国'的后半句",
+   "quote": "根本没有说过后半句",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2561,
+    "end_line": 2561,
+    "fingerprint": [
+     "巴斯德",
+     "前半句"
+    ],
+    "sha1": "7a1372a5724e68d14d3f872d6d7b355639646d2c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "名言拼接考据",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "考据方法示范：查原话出处并跨语言检索、仅简体中文圈能查到后半句（2561）；科技大国心态应聚天下精英为我所用（2563，人才政策归X6）；日本ATR引进国外科学家促成AI飞跃例（2565）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0049-02",
+   "unit_id": "SG1-U0049"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0049",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "中国是否花200亿美元建超级加速器之争、杨振宁丘成桐王贻芳各方具体观点、诺奖重理论不重实验的授奖讨论等时点评论（2527-2559）"
+  },
+  {
+   "unit_id": "SG1-U0049",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "聚天下精英为我所用、向全球精英发1000万张绿卡、国家引才与科研体制呼吁（2563-2567）属国家人才政策论"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第042封信：利益方建议打折听/名言拼接考据（巴斯德后半句），2卡全E1（以对撞机时事争论为主故少卡）；杨丘之争归X2、引才政策论归X6"
+}
