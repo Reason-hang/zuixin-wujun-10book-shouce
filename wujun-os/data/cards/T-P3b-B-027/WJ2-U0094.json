@@ -1,0 +1,77 @@
+{
+ "unit_id": "WJ2-U0094",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0094-01",
+   "unit_id": "WJ2-U0094",
+   "speaker": "吴军本人",
+   "claim_text": "国际货物贸易80%靠海运、成本约为铁路四分之一，近海国家和地区经济潜力更强",
+   "quote": "国际货物贸易80%是靠海运",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7642,
+    "end_line": 7644,
+    "sha1": "3b8d0c863be227e5011be1615b8e33fa3a095add",
+    "fingerprint": [
+     "海运",
+     "铁路",
+     "经济潜力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "海权与经济潜力",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "结构性判断非时点预测；印度/墨西哥制造业对比属当前事实（X2性质留痕）；参考链接见7650-7652"
+  },
+  {
+   "claim_id": "C-WJ2-U0094-02",
+   "unit_id": "WJ2-U0094",
+   "speaker": "吴军本人",
+   "claim_text": "面对“大变局”的困惑，应抓住变化中不变的因素（如海权重要性）作为决策依据",
+   "quote": "很多事情没有改变",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7646,
+    "end_line": 7646,
+    "sha1": "0fd63456653ee94ad73e60fcf0825fd3d63ad161",
+    "fingerprint": [
+     "大变局",
+     "海权"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "变化中的不变量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与C-WJ2-U0094-01同链：前者为不变量实例，本卡为认知框架"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0094",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "左宗棠李鸿章陆防海防之争、麦金德生平与四大观点、陆海权国家制度差异、铁路电报打破平衡、《陆权论》两次预言均为思想史/史实转述（说话人=转述·第三方，无吴军可迁移评述），按批次特则X4只留方法论，本部分不独立成卡"
+  },
+  {
+   "unit_id": "WJ2-U0094",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "地缘政治格局叙述（世界岛、心脏地带、克里米亚战争、德国扩张）属文明历史/国际政治叙述，无个人决策可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "读书心得信，吴军本人的海运结构性判断与“变化中不变量”决策框架成卡，史实与地缘叙述排除"
+}

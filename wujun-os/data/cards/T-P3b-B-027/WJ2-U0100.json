@@ -1,0 +1,216 @@
+{
+ "unit_id": "WJ2-U0100",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0100-01",
+   "unit_id": "WJ2-U0100",
+   "speaker": "吴军本人",
+   "claim_text": "经济体量与股市规模不一定成正比；股市价值由各公司赚钱能力决定而非GDP",
+   "quote": "不一定成正比",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8018,
+    "end_line": 8022,
+    "sha1": "a6679df29d68958b0c044d36e13b2d481f0e697c",
+    "fingerprint": [
+     "GDP",
+     "ROE"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "股市价值由赚钱能力决定",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "ROE定义见8010（编校转录性定义段）；改革开放初期中国有GDP无股市（8020）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-02",
+   "unit_id": "WJ2-U0100",
+   "speaker": "吴军本人",
+   "claim_text": "ROE的本质是钱进企业一年能转几圈；用钱赚钱要选ROE高的项目，低ROE利润易被侵蚀",
+   "quote": "钱进了企业一年能转几圈",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8030,
+    "end_line": 8032,
+    "sha1": "a66b8a07d6fc50ab0dfccdd5a03112218651b6a1",
+    "fingerprint": [
+     "ROE",
+     "效率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "资本回报率看周转",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "高ROE公司效率都高；努力却赚不到钱根源是方向错或效率低（8032）；美企ROE约20%、中国不到10%、日企一半不到5%（8024-8028，时点数据留痕）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-03",
+   "unit_id": "WJ2-U0100",
+   "speaker": "吴军本人",
+   "claim_text": "高毛利率不等于高ROE：周转快的小生意ROE可远高于压货重、周期长的高毛利生意",
+   "quote": "他的ROE 却高达70%",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8034,
+    "end_line": 8036,
+    "sha1": "d34d2d82d4f990249cf1378b03fa7df79409d699",
+    "fingerprint": [
+     "毛利率",
+     "回款快"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "高毛利不等于高ROE",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "品牌专卖店毛利40%压货百万ROE仅10%vs淘宝店毛利10%ROE70%（8034）；浙江家庭企业3周发货只接国外单因回款快（8036）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-04",
+   "unit_id": "WJ2-U0100",
+   "speaker": "吴军本人",
+   "claim_text": "实干和常识比受教育程度与行业背景更重要；家庭背景、学历、过往成功与后来赚钱没什么关系",
+   "quote": "专注于做好一件事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8040,
+    "end_line": 8044,
+    "sha1": "fa796bb46f8238cbb53db670703d357e02840c95",
+    "fingerprint": [
+     "实干",
+     "常识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-1"
+   ],
+   "concept_key": "实干与常识胜过学历背景",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "浙江企业主两特点：实干专注一件事、经验丰富善总结（8042）；华尔街名校选人却常败（8044）；现金往来、血汗积累的常识书本学不来（8068）；赚钱的坑教科书不讲、案例再多也没用（8070）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-05",
+   "unit_id": "WJ2-U0100",
+   "speaker": "史实",
+   "claim_text": "长期资本管理公司聚顶尖智商与300年经验，仍因高杠杆与小概率风险在几年内惨败",
+   "quote": "聪明人为什么会做蠢事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8046,
+    "end_line": 8050,
+    "sha1": "cf139b0b71fa8bf5afabab8d589677bde5cc8366",
+    "fingerprint": [
+     "长期资本管理公司",
+     "诺贝尔奖"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "聪明人做蠢事",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "机制：借短买长+新兴市场债券，俄罗斯赖账直接清零（8054-8056）；巴菲特拟书名《聪明人为什么会做蠢事》（8050）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-06",
+   "unit_id": "WJ2-U0100",
+   "speaker": "吴军本人",
+   "claim_text": "所有便宜商品一定有便宜的原因，金融产品亦然；买便宜货早晚会亏得一塌糊涂",
+   "quote": "一定有便宜的原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8058,
+    "end_line": 8060,
+    "sha1": "12e038516c7ffa79559e6114c35f4119a37671e5",
+    "fingerprint": [
+     "便宜货",
+     "常识"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "便宜必有便宜的原因",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "不可能只有你看到价值而别人没看到；投给信誉不好者做十年交易非常危险（8060）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-07",
+   "unit_id": "WJ2-U0100",
+   "speaker": "吴军本人",
+   "claim_text": "概率计算只是理论值，现实发生一次即推翻理论；金融本质是人性，无法建模测算",
+   "quote": "人性是无法建立模型的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8062,
+    "end_line": 8064,
+    "sha1": "5492c08d95babe65b75717fd27eab701ac6ff28b",
+    "fingerprint": [
+     "西格玛",
+     "人性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "人性无法建模测算",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "6-7个西格玛的小概率测算不能挡住现实发生一次（8062）"
+  },
+  {
+   "claim_id": "C-WJ2-U0100-08",
+   "unit_id": "WJ2-U0100",
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：百万弹膛仅一颗子弹的俄罗斯轮盘，无论付多少钱都不要扣扳机",
+   "quote": "无论付多少钱都不要干",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8066,
+    "end_line": 8066,
+    "sha1": "21ede728d102381d2d0afc5ed23588131235a1f4",
+    "fingerprint": [
+     "巴菲特",
+     "常识"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "灭顶之灾风险不可碰",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：巴菲特；吴军评述：赚钱要杜绝灭顶之灾风险哪怕概率极低，学理论的人易忽略此常识（8066）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "讲座四：资本回报率与实干常识，含LTCM史实与巴菲特转述，八卡成立"
+}

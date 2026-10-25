@@ -1,0 +1,142 @@
+{
+ "unit_id": "WJ2-U0092",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0092-01",
+   "unit_id": "WJ2-U0092",
+   "speaker": "吴军本人",
+   "claim_text": "一件事若有简单直接与绕大弯两种解释，近乎100%可肯定绕弯的那种是错的",
+   "quote": "近乎100%可以肯定",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7336,
+    "end_line": 7336,
+    "sha1": "ee71dbe3be2b289fa264931ade00655f1841bad3",
+    "fingerprint": [
+     "奥卡姆剃刀",
+     "简单直接"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "奥卡姆剃刀",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "奥卡姆剃刀原理应用；更好的解释是少量大质量碎片尘埃遮蔽阳光（7338）；对照恐龙灭绝陨石说（7340）"
+  },
+  {
+   "claim_id": "C-WJ2-U0092-02",
+   "unit_id": "WJ2-U0092",
+   "speaker": "吴军本人",
+   "claim_text": "推理应从事实出发最多推一步；前提假设越多越不靠谱，即滑坡谬误",
+   "quote": "最好不要推两步、三步",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7342,
+    "end_line": 7342,
+    "sha1": "733e693a9eaa276f7dc8c7379cd5a5a5a3326ee7",
+    "fingerprint": [
+     "滑坡谬误",
+     "前提假设"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "滑坡谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：长寿报道多止于果蝇初期实验（7354）、外星生命报道推理基于一个又一个“假如”（7360）"
+  },
+  {
+   "claim_id": "C-WJ2-U0092-03",
+   "unit_id": "WJ2-U0092",
+   "speaker": "吴军本人",
+   "claim_text": "学术刊物多如牛毛，真正影响世界科技的论文恐怕连1%都不到",
+   "quote": "连1%都不到",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7344,
+    "end_line": 7344,
+    "sha1": "3e68bd96e9bf0461e4329f6357d234750928ea5c",
+    "fingerprint": [
+     "学术刊物",
+     "百家之言"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "多数论文只是百家之言",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "辨别信息真假：地球光环论文即百家之言一类"
+  },
+  {
+   "claim_id": "C-WJ2-U0092-04",
+   "unit_id": "WJ2-U0092",
+   "speaker": "吴军本人",
+   "claim_text": "技术不会自动给任何人钱，任何时代想富裕就必须就业",
+   "quote": "想富裕就必须就业",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7364,
+    "end_line": 7366,
+    "sha1": "55b7f4b08bdb4da183f2f7c5e76eb81af5a73a30",
+    "fingerprint": [
+     "技术不会自动",
+     "滑坡谬误"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "想富裕必须就业",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "“机器人干活人在家躺平还富有”是滑坡谬误的典型（7364-7366）"
+  },
+  {
+   "claim_id": "C-WJ2-U0092-05",
+   "unit_id": "WJ2-U0092",
+   "speaker": "吴军本人",
+   "claim_text": "对未来的预测半对半错，勿按他人预测真金白银去投资，只当听不同意见",
+   "quote": "只当是听听不同的意见就好",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7368,
+    "end_line": 7370,
+    "sha1": "038852c7df35651102a2f2df432850ed4fa79cb5",
+    "fingerprint": [
+     "预测",
+     "真金白银"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "不按他人预测投资",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "人们常给自己希望的结果找看似合逻辑的推理链（7370）；行情/时点判断本身属X2，此处抽可迁移的投资态度"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第074封信滑坡谬误，含奥卡姆剃刀、推理步数、信息辨别、财富与投资五个独立判断"
+}

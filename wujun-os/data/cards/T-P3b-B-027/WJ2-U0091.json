@@ -1,0 +1,173 @@
+{
+ "unit_id": "WJ2-U0091",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0091-01",
+   "unit_id": "WJ2-U0091",
+   "speaker": "吴军本人",
+   "claim_text": "概念是理性思维的基础，概念不清则问题想不清楚、讨论不下去",
+   "quote": "概念是理性思维的基础",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7244,
+    "end_line": 7254,
+    "sha1": "1c13ff92a89955c5f99e5e3e6800202fea589092",
+    "fingerprint": [
+     "概念",
+     "理性思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "概念清晰是理性思维的基础",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "海马/河马与“生”字歧义例证；吴军自述讲得清楚第一条是概念清楚（7260行）；古代争论多因概念不清（7256行）"
+  },
+  {
+   "claim_id": "C-WJ2-U0091-02",
+   "unit_id": "WJ2-U0091",
+   "speaker": "吴军本人",
+   "claim_text": "混淆集合概念的整体属性与个体属性，是常见的逻辑错误",
+   "quote": "混淆集合属性和个体属性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7262,
+    "end_line": 7268,
+    "sha1": "cded2697247b9f80d48b52da7f76519f72067654",
+    "fingerprint": [
+     "集合概念",
+     "个体属性",
+     "房价"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "集合属性与个体属性之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三段论“人是从猿变来的”反例与房价反例；深层原因：汉语过精简留想象空间（7270）；讨论须看上下文、勿断章提问（7272）"
+  },
+  {
+   "claim_id": "C-WJ2-U0091-03",
+   "unit_id": "WJ2-U0091",
+   "speaker": "吴军本人",
+   "claim_text": "类比推理是直觉思维而非理性逻辑，不保证可比性，故易被滥用",
+   "quote": "类比推理是人类的直觉思维方式",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7274,
+    "end_line": 7278,
+    "sha1": "888ae0a5377bdad523ba23e327f28bad3a5c273b",
+    "fingerprint": [
+     "类比推理",
+     "直觉思维",
+     "可比性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "类比推理是直觉思维方式",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：“儿不嫌母丑，狗不嫌家贫”推不出对公司忠诚（7278）"
+  },
+  {
+   "claim_id": "C-WJ2-U0091-04",
+   "unit_id": "WJ2-U0091",
+   "speaker": "吴军本人",
+   "claim_text": "稻草人谬误：曲解原意、先立靶子再批评，是常见逻辑错误",
+   "quote": "曲解原来的意思，立靶子，再批评",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7280,
+    "end_line": 7282,
+    "sha1": "2d722adfcba9a9927a0c741e099a61da1846b84a",
+    "fingerprint": [
+     "稻草人谬误",
+     "立靶子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "稻草人谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：“你比周围的人都重要”被曲解为教人自私（7282）"
+  },
+  {
+   "claim_id": "C-WJ2-U0091-05",
+   "unit_id": "WJ2-U0091",
+   "speaker": "吴军本人",
+   "claim_text": "尊重个体权利的社会只批评损人利己，不批评争取自己利益",
+   "quote": "只会批评损人利己",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7284,
+    "end_line": 7284,
+    "sha1": "77aa78fe431ea05b97d72d58659a9999ce3d5ca7",
+    "fingerprint": [
+     "损人利己",
+     "看不见的手"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "自私与损人利己之别",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "引黄宗羲《原君》“人各自私，人各自利”、亚当·斯密“看不见的手”佐证（转述·第三方）；7290行重申：要求别人无私多是侵害他人权利的借口，边界之内皆权利"
+  },
+  {
+   "claim_id": "C-WJ2-U0091-06",
+   "unit_id": "WJ2-U0091",
+   "speaker": "吴军本人",
+   "claim_text": "应主动用新知更新过时认知，勿坚守看似不证自明实则落伍的旧认知",
+   "quote": "更新自己过去的认知",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7286,
+    "end_line": 7288,
+    "sha1": "b5139198b8294e2e0b9af1d65469577059d222a3",
+    "fingerprint": [
+     "过时的认知",
+     "不证自明"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "更新过时的认知",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "听话教育致职场缺主见（7288）；反问“如何证明小时候接受的教育就是对的呢”（7286）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第073封信三种逻辑错误，六个可独立成立的认知/价值观判断全部成卡"
+}

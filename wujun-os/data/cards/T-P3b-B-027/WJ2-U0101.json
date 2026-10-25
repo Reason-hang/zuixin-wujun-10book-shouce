@@ -1,0 +1,213 @@
+{
+ "unit_id": "WJ2-U0101",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0101-01",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "赚钱靠专业的服务和提供确定的价值，不是讨好顾客；靠讨好达成的生意长久不了",
+   "quote": "这其实是一个错误的认识",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8086,
+    "end_line": 8088,
+    "sha1": "182f6cac7ef2fcb3d60f64a638a436ada9627433",
+    "fingerprint": [
+     "讨好",
+     "服务品质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专业服务胜过讨好顾客",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "中关村回扣吃喝拉生意不可持续（8088）；代理电脑贵10-20%仍好卖因服务规范（8090）；联想靠可靠产品专业服务胜出（8092）"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-02",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "专业服务的标准：预期可知、必须稳定不忽好忽坏、对各种意外都有规范处理流程",
+   "quote": "预期可知，必须稳定",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8094,
+    "end_line": 8096,
+    "sha1": "638563b407abac8001a3c28c7712d0079a7f0803",
+    "fingerprint": [
+     "预期可知",
+     "处理流程"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专业服务的标准",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "麦当劳、连锁酒店、信得过的医生皆预期可知（8096）"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-03",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "获得新客户要花很大精力，却会因一次意外失去长期客户；须事先备好意外应对方案",
+   "quote": "事先准备好各种意外的应对方案",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8112,
+    "end_line": 8112,
+    "sha1": "0f00a3c5150dee0f66382e32e7d1c35dbfb0cec5",
+    "fingerprint": [
+     "新客户",
+     "长期客户"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "一次意外失去长期客户",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "美联航规范服务三方面（8100-8120）；换机型权益失效反例（8110）；系统考虑不周时须给操作人员足够权限、2000美元补偿例（8116-8118）"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-04",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "连锁品牌服务只是正常水平但专业规范，人们愿意多付钱以换取结果的安全性",
+   "quote": "以换取结果的安全性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8122,
+    "end_line": 8122,
+    "sha1": "40e1532a7f0c592c3c563f1f4f72280bade38ca3",
+    "fingerprint": [
+     "连锁",
+     "安全性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "多付钱换确定性",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "餐饮酒店邮轮连锁品牌的专业性规范性"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-05",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "商业理念只能得到一部分人认可；做不到获得所有人认可，只能针对特定目标群体提供最好服务",
+   "quote": "一个特定的目标群体",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8126,
+    "end_line": 8128,
+    "sha1": "7c0946ef0b85b4fa485d5c33413cfb762e0da358",
+    "fingerprint": [
+     "目标群体",
+     "认可"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业理念只得部分人认可",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "巴菲特牧师与教众例、几十万美元一股高门槛（8130-8132，转述·第三方）"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-06",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "两种人的生意不做：细小要求太多的不合算，要拿大额回扣的要承担法律风险",
+   "quote": "从来不做两种人的生意",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8136,
+    "end_line": 8136,
+    "sha1": "00a6347e6072f1989b7f83d82c76aa342d839dec",
+    "fingerprint": [
+     "回扣",
+     "法律风险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "两种生意不做",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "吴军多年做生意经验"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-07",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "选投资人同理：指望很快挣到钱的人不要，要投资就想好7-10年才有结果",
+   "quote": "7-10 年才有结果",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8138,
+    "end_line": 8138,
+    "sha1": "94bfc42605073c15dbc4e17021cb381af6c4d94b",
+    "fingerprint": [
+     "投资人",
+     "租金"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "不要指望快钱的投资人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "Amino风险投资对LP的要求；如买房出租者不在意三五年房价波动"
+  },
+  {
+   "claim_id": "C-WJ2-U0101-08",
+   "unit_id": "WJ2-U0101",
+   "speaker": "吴军本人",
+   "claim_text": "成功赚钱的前提是喜欢赚钱而非只喜欢钱；人只有喜欢一件事才能真正把它做好",
+   "quote": "前提是你喜欢赚钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8142,
+    "end_line": 8146,
+    "sha1": "9f5d4b4de41b6a01ec27831c9db733e68e3001b3",
+    "fingerprint": [
+     "喜欢",
+     "送钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D08-1"
+   ],
+   "concept_key": "喜欢赚钱才赚钱",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "炒股者不学金融知识不分析公司实为送钱（8144）；小老板为赚钱不辞辛苦不断学习总结（8146）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "讲座五（末篇）：专业服务、目标群体、喜欢赚钱，八卡成立；8152-8174要点汇总为全系列结构性复述不另成卡"
+}

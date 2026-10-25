@@ -1,0 +1,144 @@
+{
+  "unit_id": "WJ2-U0104",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ7R",
+  "batch_id": "T-P3b-B-027",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0104-01",
+      "unit_id": "WJ2-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "世界上最根本的道理都是相通的，做事违背自然规律，一定在某方面出了问题。",
+      "quote": "世界上最根本的道理都是相通的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8436,
+        "end_line": 8438,
+        "sha1": "3157ae471f3f5f1d1d7e329a894f2361010e2ba2",
+        "fingerprint": ["底层逻辑", "科学原理", "自然的规律"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1"],
+      "concept_key": "底层逻辑相通",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本信方法论总纲：用可不断验证的科学原理解释社会现象。复用既有键CK-1763。本信牛顿第二定律（见C-WJ2-U0104-02）即此方法的应用。"
+    },
+    {
+      "claim_id": "C-WJ2-U0104-02",
+      "unit_id": "WJ2-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "任何想在瞬间改变状态的做法，加速度与外力都近乎无穷大，系统就散架了。",
+      "quote": "任何想在瞬间改变状态的做法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8450,
+        "end_line": 8452,
+        "sha1": "94bb2b5bb4e9928c99245f01c411d4703f05fc9a",
+        "fingerprint": ["牛顿第二定律", "加速度", "散架"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-1", "D01-1"],
+      "concept_key": "瞬间改变致系统散架",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "原文加粗结论句。例证：高铁1/3秒提速至300km/h须承受1.5吨压力（8448-8450）。社会应用见C-WJ2-U0104-03/04，正面路径见C-WJ2-U0104-05。"
+    },
+    {
+      "claim_id": "C-WJ2-U0104-03",
+      "unit_id": "WJ2-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "强制拉平差距不是好做法：它要求加速度和外力无限大，现有社会承受不了。",
+      "quote": "强制拉平差距并不是一个好做法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8472,
+        "end_line": 8478,
+        "sha1": "958f620c7acf8d27714c837a2ebfcda5bdf41d96",
+        "fingerprint": ["强制拉平", "牛顿第二定律", "承受不了"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D01-1", "D04-1"],
+      "concept_key": "强制拉平不可行",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "含思想实验：甲乙财富100倍强行拉平则经济总量少一半（8474-8476）。社会政策层面判断，按结论句（用科学原理解释社会变化的理解框架）暂挂D01-1，P4可裁。例证：2024美国大选财产税主张（记X2）、德国教育平均主义（记X5），均不独立成卡。对齐WJ2既有键CK-3569（齐夫定律与拉平之死）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0104-04",
+      "unit_id": "WJ2-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "一夜暴富、弯道超车是追求直接拉平，其无穷外力足以摧毁系统的现有平衡。",
+      "quote": "一夜暴富或者弯道超车",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8478,
+        "end_line": 8478,
+        "sha1": "85bd8343fed58e9a6e17e007abc895578ec62bec",
+        "fingerprint": ["一夜暴富", "弯道超车", "直接拉平"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-1", "D04-1"],
+      "concept_key": "一夜暴富弯道超车不可取",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "个人取舍层面：不取瞬间改变状态的路径。机理见C-WJ2-U0104-02；信末总结（8498）与此呼应。对齐既有键CK-1780（弯道超车不成立，谷歌）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0104-05",
+      "unit_id": "WJ2-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "保守主义的核心逻辑：施加承受得起的外力，假以时日慢慢改变状态。",
+      "quote": "这就是保守主义的核心逻辑",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8482,
+        "end_line": 8486,
+        "sha1": "bc20f7fd64b29ce99b0f856929b056434febd43a",
+        "fingerprint": ["保守主义", "假以时日", "外力"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-1", "D03-1"],
+      "concept_key": "保守主义的底层逻辑",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "渐进式改变的做事原则：适度外力+可承受加速度+假以时日。例：高铁约1米/秒²加速（8484）、社会可承受外力比人体火车更小（8486）、教育与就业渐进改善（8488-8490）。复用WJ2既有键CK-0870，与CK-0036/CK-0871同族。"
+    },
+    {
+      "claim_id": "C-WJ2-U0104-06",
+      "unit_id": "WJ2-U0104",
+      "speaker": "吴军本人",
+      "claim_text": "在不破坏系统的前提下，结果均等并不现实，机会均等是更可行的途径。",
+      "quote": "机会均等是更可行的途径",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8492,
+        "end_line": 8496,
+        "sha1": "e2b18f22e5058f8a9e360a0822b62c16f1078884",
+        "fingerprint": ["结果平等", "机会平等", "机会均等"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["DT-待判"],
+      "concept_key": "机会平等优于结果平等",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "结果平等=瞬间同速（外力无穷大），机会均等=有限外力渐变（8492），同一论证链见C-WJ2-U0104-03。社会公平议题在支柱字典无专柱，最接近D01-1（理解框架）与D03-1（路径取舍），留P4裁决。复用既有键CK-2314。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0104",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "8466行 2024年美国大选哈里斯对富人财产征税、特朗普减税承诺属时点性政治论断，仅作强制拉平论证的例证，不入卡。"
+    },
+    {
+      "unit_id": "WJ2-U0104",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "8468-8470行 德国教育平均主义制度及其诺奖、工业史述属教育制度史内容，仅作C-WJ2-U0104-03例证，不独立成卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人正信（第083封）：以牛顿第二定律论证改变需渐进、保守主义渐进逻辑，核心论点成卡6张。"
+}

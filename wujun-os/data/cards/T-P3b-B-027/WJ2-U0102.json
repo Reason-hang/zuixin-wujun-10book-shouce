@@ -1,0 +1,226 @@
+{
+ "unit_id": "WJ2-U0102",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0102-01",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "被骗与否主要取决于圈子而非精明程度：生活在骗子中被骗概率大，圈里没骗子则很难被骗",
+   "quote": "仅仅是你遇到了骗子而已",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8190,
+    "end_line": 8190,
+    "sha1": "e6471f011cc3b481ca645bda41f421ada24ba6be",
+    "fingerprint": [
+     "骗子",
+     "圈子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "圈子决定被骗概率",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "金矿淘金vs沙滩找金；“吸渣体质”实为钻进渣男圈子（8192）；被骗后先反省活动范围与圈子；定时清理朋友圈"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-02",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "对任何人可以相信第一次，但要设置交往门槛（如接触难度），新朋友应有老朋友背书",
+   "quote": "我会设置一些交往的门槛",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8194,
+    "end_line": 8194,
+    "sha1": "f2fd97f83cebc792606988c3a7640134352b405e",
+    "fingerprint": [
+     "门槛",
+     "背书"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "交往门槛与背书",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "吴军例：不让第一次交往的人加微信，朋友介绍的除外"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-03",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "被骗之后不能给自己找理由，要采取具体措施避免重蹈覆辙",
+   "quote": "避免重蹈覆辙",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8196,
+    "end_line": 8196,
+    "sha1": "1307950debe9030a1986fe096b950b3797f85a8f",
+    "fingerprint": [
+     "耳光",
+     "措施"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "被骗后要复盘改进",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "朋友被骗后当众自抽耳光，此后不再犯同样蠢事"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-04",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "损失就是损失，不分对方有意无意；找到一个犯错原因就否定错误结果是逻辑错误",
+   "quote": "损失就是损失",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8198,
+    "end_line": 8198,
+    "sha1": "7a3293b54a875f9a15cb1d974939990871f88b18",
+    "fingerprint": [
+     "逻辑错误",
+     "扣的分"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "损失不分有意无意",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "考试把A写成B，老师不会问是否无意，扣分一样；否则大半司法诉讼都不需要了"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-05",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "普通投资者做不到平衡理性分析与市场情绪，应放弃这种想法",
+   "quote": "你其实根本做不到",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8210,
+    "end_line": 8212,
+    "sha1": "1c937e4b8e94de5e182755d86706c2e9bf577d4d",
+    "fingerprint": [
+     "量化工具",
+     "市场情绪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "放弃平衡理性与情绪",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "金融上简单的事门槛也不低，读懂财报很多专业人士都做不好（8212）"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-06",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "很多钱明摆着却不属于普通人；惦记它们会分心误了本业，应多花时间在自己熟悉的事上",
+   "quote": "那些不是普通人该赚的钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8212,
+    "end_line": 8216,
+    "sha1": "6516f2476597c444e5730c551cbeb58a5b31222f",
+    "fingerprint": [
+     "财报",
+     "门槛"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "不惦记不属于自己的钱",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "流量明星收入与你我无关（8214）；企业家几乎都操作过二级市场却不懂自由现金流与净利润之别（8216）；临时办法炒股：赚了自满亏了赌徒式加仓，输赢各半总资金仍亏（8218）"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-07",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "生产和贸易都是在创造财富；贸易让全世界的资源使用更合理",
+   "quote": "生产和贸易都是在创造财富",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8230,
+    "end_line": 8230,
+    "sha1": "cf6ae09ec45415a229b2fded5ec8955d99545cb4",
+    "fingerprint": [
+     "贸易",
+     "财富"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "贸易也创造财富",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "回应“中国是否海权国家”：只有生产创造财富的想法属陆权思维（8230）"
+  },
+  {
+   "claim_id": "C-WJ2-U0102-08",
+   "unit_id": "WJ2-U0102",
+   "speaker": "吴军本人",
+   "claim_text": "陆运成本比海运高倍数甚至数量级；海运更安全，陆路易受沿线国家政治局势影响",
+   "quote": "高得不是一点半点",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 8234,
+    "end_line": 8236,
+    "sha1": "d30450683c6ddcfec3687c6fe92783c6e8d54487",
+    "fingerprint": [
+     "集装箱",
+     "海运"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "陆运贵海运安全",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "深圳海运到洛杉矶比陆运到北京便宜；中欧班列赢在省时方便，成本已是边际成本难再降；与C-WJ2-U0094-01互证（跨单元同链）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0102",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "酱毛蟹、Deabe、邓文达三位读者提问原文（8186、8206、8224）为读者来信原文，读者发言不得E1，按X7排除；吴军回应已单独成卡"
+  },
+  {
+   "unit_id": "WJ2-U0102",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "“中国已是至少半个海权国家”“中国与他国矛盾因港口布局引起”“胡塞武装红海打劫”等判断依附2024-25时点局势（8228、8236），按X2处置；稳定经济逻辑已抽出（C-07/08）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "周末问答16：防骗（圈子/门槛/复盘/损失观）与普通投资者边界、贸易创造财富，八卡成立；读者原文与涉华时政判断按X7/X2排除"
+}

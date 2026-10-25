@@ -1,0 +1,222 @@
+{
+ "unit_id": "WJ2-U0098",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0098-01",
+   "unit_id": "WJ2-U0098",
+   "speaker": "转述·第三方",
+   "claim_text": "海恩法则：每起严重事故背后有29次轻微事故、300起未遂先兆和1000起事故隐患",
+   "quote": "每一起严重事故的背后",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7884,
+    "end_line": 7884,
+    "sha1": "a2a1a84741e349ae34f51750e7276cd73b7b8f07",
+    "fingerprint": [
+     "海恩法则",
+     "事故隐患"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "海恩法则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：海恩（安全工程）；吴军用其推断波音“早晚要摔下来”属时点预测（X2留痕不抽）"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-02",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "经营企业的人责任是把企业经营好赚到钱；过头的政治正确是商业的大敌",
+   "quote": "过头的政治正确是商业的大敌",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7898,
+    "end_line": 7898,
+    "sha1": "f04dfeb9997faf2de46cfc0cf2f4cb4f3082fb99",
+    "fingerprint": [
+     "政治正确",
+     "拉选票"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "过头政治正确是商业大敌",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "波音DEI招聘与岗位不匹配、谷歌股票表现最差、微软2000反垄断案等判断依附美国时点（X2留痕）；政治正确标准随时代不同（7902）"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-03",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "企业不是慈善机构，主要任务是合法挣钱、养活员工、保障就业，有利润后才有余力回报社会",
+   "quote": "企业不是慈善机构",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7902,
+    "end_line": 7902,
+    "sha1": "a5fe83132966dcdf69dd195681dc8b4e3c4ac74d",
+    "fingerprint": [
+     "慈善机构",
+     "回报社会"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "企业先盈利后回馈",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "“满足了今天的标准未必满足未来的”（7902）"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-04",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "投资就是投人，从大学时开始：花时间与最优秀的10%的人交往、成为朋友",
+   "quote": "投资就是投人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7910,
+    "end_line": 7916,
+    "sha1": "ef33a87fc5f36f8128d3ef2602d0e3b30132cc5b",
+    "fingerprint": [
+     "前10%的人",
+     "朋友"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D09-2"
+   ],
+   "concept_key": "投资就是投人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "中学不确定性大看不准（7910）；股市选最好10%股票收益远超大盘（7914）；伯克利好学生自成圈子撑起半个半导体行业（7916，E3例证）"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-05",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "挑选优秀者的标准是正直、智慧和精力充沛；人品是成事的必要条件",
+   "quote": "正直、智慧和精力充沛",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7918,
+    "end_line": 7918,
+    "sha1": "1b0abddb3343c4e2558617a36a3d71a74925d106",
+    "fingerprint": [
+     "人品",
+     "必要条件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "正直智慧精力充沛",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "没有人品作基础，智力和能力反而起反作用；一个人不正直，宁可希望他愚蠢而懒惰"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-06",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "对最差的10%的人要“做空”：避免在他们身上投入过度的时间与资源",
+   "quote": "投入过度的时间",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7920,
+    "end_line": 7920,
+    "sha1": "0ff80ff1d33163b267d88635e26515c4c8ca30b4",
+    "fingerprint": [
+     "做空",
+     "本金"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "做空最差的一成",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "好投资每年10%回报，坏投资让本金一次减半（借钱炒股亏30万例）"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-07",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "交友不能只看谈得来开心；自私自利、贪得无厌、投机取巧、弄虚作假者要远离",
+   "quote": "离他们远一点",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7922,
+    "end_line": 7922,
+    "sha1": "93f28c50c1aa121da0acb440c4eb26e45377cf9f",
+    "fingerprint": [
+     "自私自利",
+     "弄虚作假"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "远离四种致命毛病",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "坏毛病会把你们俩一起带到沟里；登山累但看风景积攒势能、下沟轻松但爬出来费力得多（7924）"
+  },
+  {
+   "claim_id": "C-WJ2-U0098-08",
+   "unit_id": "WJ2-U0098",
+   "speaker": "吴军本人",
+   "claim_text": "任何时候都要投资前10%的人、做空后10%；该原则也适用于工作单位、地点与创业地区",
+   "quote": "投资前百分之十的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7926,
+    "end_line": 7926,
+    "sha1": "cc1cac28d6f9d1a7e26afa1f47043f8f095f42a0",
+    "fingerprint": [
+     "上市公司",
+     "创业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D03-1"
+   ],
+   "concept_key": "投资前10%做空后10%",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "判断地区标准：是否诞生过一两家像样的上市公司；白菜价房价城市无事可做属要避免的坑（7928）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0098",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "波音DEI招聘、谷歌股价与CEO责任、微软2000反垄断、2024美国大选各方站队与倒戈等论断依附具体时点事件，离开时点即失效，按批次特则X2处置（其中稳定判断已按例外抽出：C-02/03）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "讲座二：政治正确与盈利（留稳定经营原则）、投资从大学开始（投人择友），八卡成立，美国时事部分X2排除"
+}

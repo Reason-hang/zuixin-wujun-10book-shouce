@@ -1,0 +1,124 @@
+{
+  "unit_id": "WJ2-U0105",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ7R",
+  "batch_id": "T-P3b-B-027",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0105-01",
+      "unit_id": "WJ2-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "世界上的因果关系主要有两种：无记忆的即时反应与积分关系，后者更普遍。",
+      "quote": "世界上的因果关系主要有两种",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8516,
+        "end_line": 8522,
+        "sha1": "46c7988b7a2cf5301b65ebe365226ea2d1d5c4bd",
+        "fingerprint": ["积分关系", "无记忆", "即时反应"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-1"],
+      "concept_key": "即时反应与积分关系",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "本信原理总纲。例：外力与加速度为无记忆即时反应，小时工计酬；8522行指出世界上更多因果关系是积分关系。"
+    },
+    {
+      "claim_id": "C-WJ2-U0105-02",
+      "unit_id": "WJ2-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "积分关系有记忆性：结果是长期历史积累的产物，不仅是当时原因造成的。",
+      "quote": "不仅仅是当时的原因造成的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8552,
+        "end_line": 8556,
+        "sha1": "5ba9b2c8c0faef09c8d4ce4ea5ec4fd67452cff8",
+        "fingerprint": ["记忆性", "累计效应", "积分"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-1", "D01-1"],
+      "concept_key": "积分的记忆性",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "积分关系特点一（记忆性/累计效应）。例：考试成绩受此前用功与方法影响、努力工作两年后得回报（8556）。对齐既有键CK-2731（积分看累积效应）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0105-03",
+      "unit_id": "WJ2-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "积分关系有滞后效应：从原因到结果有延迟，影响一段时间后才可察觉。",
+      "quote": "从原因到结果，会有一个延迟",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8558,
+        "end_line": 8560,
+        "sha1": "0c6698052686b6b79f52b30f27967d0a97bac73f",
+        "fingerprint": ["滞后效应", "延迟", "积分"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D04-1", "D01-1"],
+      "concept_key": "积分的滞后效应",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "原文加粗结论句，积分关系特点二。例：太阳辐射峰值12点而气温峰值约15点（8532-8544）、健康是饮食的积分函数（8560）。对齐既有键CK-0161（滞后效应）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0105-04",
+      "unit_id": "WJ2-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "努力的回报是延时累积的积分结果，越重大延时越长，长期主义须坚持一个方向。",
+      "quote": "绝大部分时候，不是即时的结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8566,
+        "end_line": 8572,
+        "sha1": "60826b9e5e1b22bfc229cb37c08bcb2135d7ea23",
+        "fingerprint": ["长期主义", "累积", "忽左忽右"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D05-2", "D04-1"],
+      "concept_key": "积分延迟与长期主义",
+      "ability_tags": ["做"],
+      "status": "已生成",
+      "notes": "D05-2素材线索直指本信（《积分的延迟效应：为什么要坚持长期主义？》）。过程中忽左忽右难有好结果（8570）；坏事的恶果也延迟显现、隐患终将爆发（8572）。飞轮效应与复利效应（8574-8578）为本段同源例证，不另立卡。对齐CK-2947/CK-2945。"
+    },
+    {
+      "claim_id": "C-WJ2-U0105-05",
+      "unit_id": "WJ2-U0105",
+      "speaker": "吴军本人",
+      "claim_text": "看到趋势已经形成就该开始准备，积分滞后使当下不坏不等于未来无恙。",
+      "quote": "就应该开始做准备了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8610,
+        "end_line": 8610,
+        "sha1": "70511bdd40b51f9190bec14619a114f9b432ad80",
+        "fingerprint": ["滞后性", "趋势", "准备"]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": ["D03-2", "D04-1"],
+      "concept_key": "趋势形成即准备",
+      "ability_tags": ["思"],
+      "status": "已生成",
+      "notes": "防患于未然的决策启示（信末总结句）：最可怕的是未来想不到的事；不理解滞后性而以为当下不坏便可岁月静好是误判。例证为人口劳动力等宏观叙述（已记X6/X2，本体不入卡）。对齐CK-0804/CK-2945。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0105",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "8582-8606行 中日韩劳动力人口变化、日本GDP与大学生就业、美国婴儿潮退休金等宏观人口经济趋势叙述，可迁移逻辑（趋势形成即准备）已入C-WJ2-U0105-05，本体排除。"
+    },
+    {
+      "unit_id": "WJ2-U0105",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "8608行 2024年特朗普竞选免除退休人员社保税承诺属时点性时事论断，不入卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人正信（第084封）：以积分的延迟效应论证长期主义与防患未然，核心论点成卡5张。"
+}

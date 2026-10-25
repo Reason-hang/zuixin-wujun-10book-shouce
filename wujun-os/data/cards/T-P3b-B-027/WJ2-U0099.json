@@ -1,0 +1,213 @@
+{
+ "unit_id": "WJ2-U0099",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ7",
+ "batch_id": "T-P3b-B-027",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0099-01",
+   "unit_id": "WJ2-U0099",
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：投资便宜的烂公司最多捡只“烟屁股”吸两口，只赚一次小便宜，不会带来长期利润",
+   "quote": "捡到了一只“烟屁股”",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7948,
+    "end_line": 7948,
+    "sha1": "cd53c434ede98ae22e538a511344fbc98a284177",
+    "fingerprint": [
+     "烟屁股",
+     "长期利润"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "烟屁股投资",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者：巴菲特；吴军续论：买入后再跌20%就会在割肉与持有间纠结"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-02",
+   "unit_id": "WJ2-U0099",
+   "speaker": "吴军本人",
+   "claim_text": "一个市场20年没有增长，宁可相信它五年内也不会增长，不要寄望突然爆发",
+   "quote": "不要对它寄予厚望",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7950,
+    "end_line": 7950,
+    "sha1": "ffec215c05a7dd1e86689a0daf4bed731e42f574",
+    "fingerprint": [
+     "赌场",
+     "增长"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "无增长市场的默认判断",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "如奢望年年不及格的孩子考满分；赌45分到60分与赌场下注无异"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-03",
+   "unit_id": "WJ2-U0099",
+   "speaker": "吴军本人",
+   "claim_text": "能否赚钱要看人性：好习惯与正确思维日积月累成就人，坏习惯长期会毁掉人",
+   "quote": "习惯可以是财富，也可以是枷锁",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7952,
+    "end_line": 7952,
+    "sha1": "cce29ac6966e1b84fed9205566b13d892a800149",
+    "fingerprint": [
+     "习惯",
+     "枷锁"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "习惯是财富也是枷锁",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "恶习十几年想摆脱几乎不可能；聪明商人走下坡多因挣快钱（7954）"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-04",
+   "unit_id": "WJ2-U0099",
+   "speaker": "吴军本人",
+   "claim_text": "不重视长期回报只挣快钱者事业走下坡；长期回报要指望钱越赚越多而非一开始赚大钱",
+   "quote": "钱越赚越多",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7954,
+    "end_line": 7958,
+    "sha1": "bfde7dcb3d1521e724df2723382d9ea126e0c722",
+    "fingerprint": [
+     "长期回报",
+     "挣快钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "挣快钱难长久",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "抵押股票获70%现金失去动力、退市市值不到抵押值10%（7956）；长期经营建品牌信誉客户群，勿做成一锤子买卖（7958）；归因坏习惯（巴菲特）vs媒体扭曲思维（吴军）"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-05",
+   "unit_id": "WJ2-U0099",
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：永远不要靠加杠杆获更高回报，加一倍杠杆股市跌50%就清零",
+   "quote": "永远不要通过加杠杆",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7964,
+    "end_line": 7964,
+    "sha1": "e7cabac55adc6123d802c7183df40620ebc465f9",
+    "fingerprint": [
+     "杠杆",
+     "清零"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "不加杠杆",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：巴菲特；伯克希尔无杠杆多次躲过厄运且有现金抄底"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-06",
+   "unit_id": "WJ2-U0099",
+   "speaker": "吴军本人",
+   "claim_text": "借钱投资仅两种情况可行：自住房贷款且不超偿付能力；生意利润率超过贷款利率",
+   "quote": "借钱投资是可行的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7966,
+    "end_line": 7972,
+    "sha1": "d59c854a6009224e95ff9c36d23e2789f1f07ba7",
+    "fingerprint": [
+     "贷款买房",
+     "杠杆"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "借钱投资的两种可行情形",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "第二套房指望升值要非常小心（7970）；亏损生意想靠贷款渡关应改用股权融资（7974）"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-07",
+   "unit_id": "WJ2-U0099",
+   "speaker": "吴军本人",
+   "claim_text": "借钱做生意两件绝对不能做：把个人资产信誉与企业捆绑；签对赌协议",
+   "quote": "有两件事绝对不能做",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7976,
+    "end_line": 7978,
+    "sha1": "8f0ca8c56bf25192ad74600049e53815f2de51f4",
+    "fingerprint": [
+     "对赌",
+     "无限责任"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "不对赌不捆绑个人资产",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "愿对赌者不真看好你只想挣快钱（7986）；Amino基金两企业例：对赌被回购破产、捆绑个人资产倾家荡产（7980-7982）；若只有签对赌才融得到资，说明企业不值钱或想法不靠谱，碰壁后该放弃（7984-7986）"
+  },
+  {
+   "claim_id": "C-WJ2-U0099-08",
+   "unit_id": "WJ2-U0099",
+   "speaker": "吴军本人",
+   "claim_text": "借钱投资关键是控风险：抵押品估值易缩水，债务比例应降到20%以下，唯一例外是自住房",
+   "quote": "把债务的比例降低在20%以下",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 7992,
+    "end_line": 7994,
+    "sha1": "500a66069e52cdfaed99955c0fd1608e617c9413",
+    "fingerprint": [
+     "抵押品",
+     "坏账"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "债务比例降到两成以下",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "几乎所有贷款决定时都以为风险可控，不久变坏账，因抵押品贬值太厉害（7994）"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "讲座三：长期回报与借钱投资（杠杆、对赌红线），含巴菲特两处转述，八卡成立"
+}
