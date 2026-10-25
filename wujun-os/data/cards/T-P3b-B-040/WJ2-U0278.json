@@ -1,0 +1,158 @@
+{
+ "unit_id": "WJ2-U0278",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "别恶意猜测动机：见人行善第一反应应是'好人'；习惯性质疑善意会妨碍真心交往",
+   "quote": "他是一个好人，而不是他很虚伪",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22313,
+    "end_line": 22313,
+    "sha1": "e73517f930308a5c53b32d1c914398d71178735b",
+    "fingerprint": [
+     "好人",
+     "虚伪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "勿恶意猜动机",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "企业挣钱多也可能对员工差——对员工好是主动选择非烧得慌（22315）；大药企自由现金流其实不高（22317）；洛克菲勒年轻时无钱即行善、布隆伯格周薪3.5美元时首捐5美元（22319-22321）",
+   "claim_id": "C-WJ2-U0278-01",
+   "unit_id": "WJ2-U0278"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "决定'是什么'先于'成为什么'：你决定是好人便以善意看世界；企业一开始就决定善待员工还是压榨，都成功但本质不同",
+   "quote": "而不是成为一个什么样的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22323,
+    "end_line": 22325,
+    "sha1": "3b2f184e781e6aea29a9dda93e89610126c4bc48",
+    "fingerprint": [
+     "决定",
+     "成为"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D08-1"
+   ],
+   "concept_key": "是什么先于成为什么（企业版）",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "麦西语（U0230同族互参）；麦西捐MIT 2400万美元占其时财产约1/5（22323）；见过好人才相信有好人，四五份工作遇尽坏老板要检讨自己（22327）；疫情中雇主借钱发生活费例（22329）",
+   "claim_id": "C-WJ2-U0278-02",
+   "unit_id": "WJ2-U0278"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "错失恐惧症（FOMO）：因自己不在场而持续焦虑，总觉得错过的就是有意义的（考题/风口）",
+   "quote": "错失恐惧症",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22337,
+    "end_line": 22339,
+    "sha1": "7d647b77d9f213af0458f4839975183efdce7ae0",
+    "fingerprint": [
+     "不在场",
+     "焦虑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "错失恐惧症",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "泡答疑办公室怕漏考题例；今天了解AI的人很多就是怕错过（22339）；沈大叔留言引出",
+   "claim_id": "C-WJ2-U0278-03",
+   "unit_id": "WJ2-U0278"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "砍掉鸡肋：任何千人企业按投入产出排序砍尾都能提效20%；'多少有点好处'的事最害人；别人在做不是你做的理由",
+   "quote": "砍掉尾巴上的那些",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22341,
+    "end_line": 22347,
+    "sha1": "6193d05692b17d70e710a7ee73570cf3a4c7909d",
+    "fingerprint": [
+     "鸡肋",
+     "咨询"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "砍尾与鸡肋",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "麦肯锡/埃森哲优化=排序砍尾；内部人下不了手因为'有些好处'的想法；一开头就失败反而好、及时止损；一窝蜂上的事非你该做（22347）",
+   "claim_id": "C-WJ2-U0278-04",
+   "unit_id": "WJ2-U0278"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "错失恐惧症三危害：分心焦虑致误判、不计成本无收益、迷失自我被牵走；社交网络放大且传染",
+   "quote": "失去自我认知",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22353,
+    "end_line": 22357,
+    "sha1": "7f25de00610d56fbeb7fc58b2ae549bc01d0bb27",
+    "fingerprint": [
+     "焦虑",
+     "迷失"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "FOMO三危害",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "邻家孩子补课即焦虑的条件反射；收益没得着成本花不少（22355）；社交网络把关注他人门槛降到大、群体恐惧传染（22359）；麦西答案：只关注有长期影响的少数决定（22361）",
+   "claim_id": "C-WJ2-U0278-05",
+   "unit_id": "WJ2-U0278"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0278",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'沈大叔'长留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "错失恐惧症：勿恶意猜动机/是什么先于成为什么/FOMO定义/砍尾鸡肋/三危害"
+}

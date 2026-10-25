@@ -1,0 +1,122 @@
+{
+ "unit_id": "WJ2-U0290",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "隐含歧视（凤凰男/普信男/地域学历）的共同本质是对基本权利的否认与侵犯——根源是权利漠视",
+   "quote": "对人的基本权利的否认",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23413,
+    "end_line": 23415,
+    "sha1": "5c5084560cc37e9cd6268cc5cfba045fdee2faee",
+    "fingerprint": [
+     "歧视",
+     "漠视"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "隐含歧视与权利漠视",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "每个人都有自信的权利、'普信'一词暗示普通者不该自信（23411）；京都式自傲无恶意 vs 冷暴力式歧视（23389-23393）；择偶排除凤凰男即歧视（23405）",
+   "claim_id": "C-WJ2-U0290-01",
+   "unit_id": "WJ2-U0290"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三权之别：权利与生俱来人人平等；权力是授予的做事许可；特权是特定条件下的少数人许可（非人人应有）",
+   "quote": "与生俱来的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23445,
+    "end_line": 23449,
+    "sha1": "579f504b0f9d17359893af3ad9c6bf8d400b2a45",
+    "fingerprint": [
+     "特权",
+     "权力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-2"
+   ],
+   "concept_key": "权利特权权力之别",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "中文'权'一字衍生三义、英文right/privilege/power不易混（23419）；7句测例（23425-23437）；董事会任命CEO与法庭处置遗产=权力；美国持枪权=宪法授予的权利",
+   "claim_id": "C-WJ2-U0290-02",
+   "unit_id": "WJ2-U0290"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "遗产继承、上大学、留学签证都是特权非权利：遗嘱可给保姆、成绩可淘汰、签证可吊销——勿把特权当权利",
+   "quote": "都属于特权，不是权利",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23449,
+    "end_line": 23453,
+    "sha1": "44cea2ba507b1da70afedfc5f08b66854333d082",
+    "fingerprint": [
+     "遗产",
+     "父母"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "特权清单",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "父母可把遗产捐掉或给照料养老的保姆（23451）；各国法律最多保证到高中的受教育权、上大学尤其名校是特权（23453）；签证入境随时可吊销、参与当地政治被吊销后悔莫及（23457-23461）；各省高考难度不同≠歧视（23463）",
+   "claim_id": "C-WJ2-U0290-03",
+   "unit_id": "WJ2-U0290"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "捍卫与生俱来的权利、勿把特权当权利：权力不能剥夺他人权利（领导不得以开除威胁）；家长不可剥夺义务教育权、但可不供大学",
+   "quote": "把特权当作了权利",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23469,
+    "end_line": 23477,
+    "sha1": "ec32b8c527ce31e6d5b43fc8fe2db039784952e4",
+    "fingerprint": [
+     "权利",
+     "特权"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "捍卫权利勿僭越",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "生命尊严追求幸福与出身地点阶层无关；车行道健身=把特权当权利（23471）；靠特权做人上人再欺压更低者=搞拧了（23473）；被贴标签可指明歧视并捍卫基本权利（23469）",
+   "claim_id": "C-WJ2-U0290-04",
+   "unit_id": "WJ2-U0290"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "权利淡漠与歧视：隐含歧视/三权之别/特权清单/捍卫勿僭越"
+}

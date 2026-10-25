@@ -1,0 +1,157 @@
+{
+ "unit_id": "WJ2-U0291",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙医在中国很有前途：全民牙齿保健是进入发达国家后的必然花费（日韩皆然），且最难被AI取代",
+   "quote": "很有前途的行业",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23519,
+    "end_line": 23525,
+    "sha1": "f6256b1cca94a00b7a9de7812b87953b208722de",
+    "fingerprint": [
+     "牙齿",
+     "牙医"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "牙医行业前景",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（职业判断）；牙不好活不长：危险细菌可影响心脏（23525）；日本60-70年代、韩国90年代后牙医业起飞（23529）；进入极难、该操心的是考进牙医专业；美国孩子高中先去诊所打杂确认兴趣（23531）",
+   "claim_id": "C-WJ2-U0291-01",
+   "unit_id": "WJ2-U0291"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类习惯高估与能量相关领域的进步、低估与信息相关领域的进步（最强火箭运力仍不及土星五号）",
+   "quote": "高估和能量有关的领域的进步",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23537,
+    "end_line": 23537,
+    "sha1": "cde0b6d8892b5a0351714a182c3f604083893cea",
+    "fingerprint": [
+     "航天",
+     "高估"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-2"
+   ],
+   "concept_key": "能量高估信息低估",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "苏联60年代时间胶囊全是航天畅想、至今未到火星（23537）；航天靠军事与卫星通信推动、登陆火星不需要很多人（23535）；与U0182 AI真问题互参；X6候选留P4",
+   "claim_id": "C-WJ2-U0291-02",
+   "unit_id": "WJ2-U0291"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "晚一年上学反而更有竞争力：班上最大最成熟者机会多、自信与领导力占优（异类效应）",
+   "quote": "真正具有竞争力的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23541,
+    "end_line": 23543,
+    "sha1": "2652a79ccfb2e1034ecbefc4943ef0423b7a0a1d",
+    "fingerprint": [
+     "晚一年",
+     "异类"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "晚入学的优势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "格拉德威尔《异类》后美国家长流行让孩子晚一年上学（23543）；吴军本科后Gap两年、读博时比同级大六七岁反而一路开挂（23545）；小女儿晚一年入学、大学三年双学位（23547）；毕业时不成熟则三五年一晃而过（23549）；X5边界留痕",
+   "claim_id": "C-WJ2-U0291-03",
+   "unit_id": "WJ2-U0291"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "孩子有想法是好事，家长要鼓励勿按自己想象限制；跟头早摔比晚摔好——小时候身段柔软恢复快",
+   "quote": "最好早点摔",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23553,
+    "end_line": 23553,
+    "sha1": "2fcb875ff74e78e95a7a1378805dd91bffeaabec",
+    "fingerprint": [
+     "跟头",
+     "可塑性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "跟头早摔论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（家教语境、机理=试错时机）；三四十岁摔跟头恢复难不少；艾雅孩子真要航天、能上的大学不超过十所——该操心的是考上（23549）",
+   "claim_id": "C-WJ2-U0291-04",
+   "unit_id": "WJ2-U0291"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "尽人事于可控之事、听天命于不可控之事：把操心的对象换一换，人会轻松很多、成就也会大很多",
+   "quote": "把操心的对象换一换",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23555,
+    "end_line": 23557,
+    "sha1": "76c514455eee879b6bc28939ded8daa44cfa1b27",
+    "fingerprint": [
+     "人事",
+     "天命"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-4"
+   ],
+   "concept_key": "操心对象切换",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "多数人的问题：该尽人事的十件只做两件、对控制不了的替天命操心（23557）；对无法控制的事操心没有用（23515）；与U0262三类不必操心事同族互参",
+   "claim_id": "C-WJ2-U0291-05",
+   "unit_id": "WJ2-U0291"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0291",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'托马斯''艾雅'两位家长来信为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "家长想多了：牙医前景/能量高估信息低估/晚入学优势/跟头早摔/操心对象切换"
+}

@@ -1,0 +1,100 @@
+{
+ "unit_id": "WJ2-U0280",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "宏观上中国什么都能代工、微观上细节决定成败：马斯克因成本与影响力不足自建、外行因准备不足铩羽",
+   "quote": "几乎没有中国做不了的东西",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22471,
+    "end_line": 22475,
+    "sha1": "b1a39458bdcccd7925562804737655b3004c3db1",
+    "fingerprint": [
+     "代工",
+     "成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "代工的宏微观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "华强北耳机按出价定质量；SpaceX要求成本仅中国航天1/3且2003年无影响力故自建（22475）；以色列朋友细节没准备好成圈子笑柄（22463-22467）；保密协议在中国与西方执行不同（22477）",
+   "claim_id": "C-WJ2-U0280-01",
+   "unit_id": "WJ2-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "交易越顺利利润越薄（充分竞争）；有门槛的合作达成者几无对手——不充分竞争市场利润高",
+   "quote": "都不再有利润可言",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22483,
+    "end_line": 22487,
+    "sha1": "7bd337833b7359b8bc3373c2392eb1a5e3e4406c",
+    "fingerprint": [
+     "充分竞争",
+     "门槛"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "顺利即无利润",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与'充分竞争零利润'（U0187）同族互参；淘宝式顺畅意味着竞争对手同样顺畅",
+   "claim_id": "C-WJ2-U0280-02",
+   "unit_id": "WJ2-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中间人创造价值：无中间环节交易常达不成；越不成熟的市场、越复杂的事，中间人价值越大（谷歌入华雇中间商例）",
+   "quote": "中间环节的存在是有意义的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22493,
+    "end_line": 22497,
+    "sha1": "298e9377b558a7d30465a61c6a497fb3ecaf28ac",
+    "fingerprint": [
+     "中间人",
+     "中间商"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "中间人的价值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "历史上商人不创造价值的认知是错的（22491）；谷歌入华先雇美国咨询公司与中国公关公司（22495）；四大在中国业务大因制度与国际不同（22499）；买菜不需要中间人、买房需要；服务业发达=对专业中间人的需求（22501）",
+   "claim_id": "C-WJ2-U0280-03",
+   "unit_id": "WJ2-U0280"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0280",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'summer.墨'同学留言（女儿找代工经历）为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "中间人的价值：代工宏微观/顺利即无利润/中间人创造价值"
+}

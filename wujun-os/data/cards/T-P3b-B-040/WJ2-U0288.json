@@ -1,0 +1,176 @@
+{
+ "unit_id": "WJ2-U0288",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学家六级：开创领域＞开创分支＞开创研究方向＞解难题＞四大杂志论文＞其他（朗道式分级）",
+   "quote": "分为六级",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23195,
+    "end_line": 23199,
+    "sha1": "2afab20c262cbf8bcd18d7e44d6d7e853606b19d",
+    "fingerprint": [
+     "六级",
+     "朗道"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-3"
+   ],
+   "concept_key": "数学家六级",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "一级牛顿/欧几里得/高斯/欧拉一掌之数；二级花拉子米/笛卡尔/伽罗瓦/希尔伯特/冯诺伊曼/图灵/哥德尔史上不足百人；三级陈省身开微分几何；四级佩雷尔曼/怀尔斯/张益唐（梅纳德在其基础上获2022菲尔兹）；受邀国际数学家大会报告≈接近四级（田刚 23233）",
+   "claim_id": "C-WJ2-U0288-01",
+   "unit_id": "WJ2-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学三大奖：菲尔兹（≤40岁最难）、沃尔夫（终身成就）、阿贝尔（资历尚浅）；柯尔奖是菲尔兹风向标",
+   "quote": "三大奖",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23223,
+    "end_line": 23227,
+    "sha1": "314a5bdc4e51ff32548254dbe8f3ace0a54d9fd9",
+    "fingerprint": [
+     "菲尔兹",
+     "柯尔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学奖项地图",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "怀尔斯超龄与菲尔兹失交得特别奖；梅纳德/舒尔茨先柯尔后菲尔兹；张益唐/许晨阳（北大系）获柯尔奖代表大陆最高水平（23231）；张若30多岁做出成绩可能获菲尔兹（23229）",
+   "claim_id": "C-WJ2-U0288-02",
+   "unit_id": "WJ2-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学术界最重要的是圈内彼此认可：能随时见到大佬=地位高；量化指标在圈内人看来意义有限",
+   "quote": "最重要的是彼此认可",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23247,
+    "end_line": 23249,
+    "sha1": "a26bdb51bcdb87a3140cf246decd02cda077ce1c",
+    "fingerprint": [
+     "认可",
+     "论文"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D01-4"
+   ],
+   "concept_key": "圈内认可",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "张益唐随时能见怀尔斯陶哲轩；发论文多但大佬不愿见=没用；research.com排名美国千余/法国第二/中国第五159名（23245）",
+   "claim_id": "C-WJ2-U0288-03",
+   "unit_id": "WJ2-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "外行的大神在圈内可能什么都不算：人气看新闻八卦、专业认可是另一回事——任何科学领域皆然",
+   "quote": "可能完全不同",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23259,
+    "end_line": 23261,
+    "sha1": "f4bc37bd109689598075b197cda42a3dfb82415d",
+    "fingerprint": [
+     "外行",
+     "认可"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "内外行视角差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "半个网红的前教授被同僚评'对近20年AI成就毫无了解'（23261）；吴军为评论中肯找多位数学家把关（23263）",
+   "claim_id": "C-WJ2-U0288-04",
+   "unit_id": "WJ2-U0288"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "王虹（34岁）2025年提交挂谷集合猜想证明、出任法国高等科学研究所终身教授——或成大陆首位菲尔兹奖得主",
+   "quote": "挂谷集合猜想",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23271,
+    "end_line": 23273,
+    "sha1": "f8b9d404e6c83df21f7faa0886104b4708a148fb",
+    "fingerprint": [
+     "菲尔兹",
+     "米尔札哈尼"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "王虹与挂谷猜想",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "2022玛丽安·米尔札哈尼新前沿奖；北大本科→巴黎综合理工→MIT博士；外部视角与内部视角差异的体现（23267）；若证明正确可能成为大陆首位菲尔兹奖得主（23273）",
+   "claim_id": "C-WJ2-U0288-05",
+   "unit_id": "WJ2-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大数学家的学习经验未必适合普通人：陶哲轩解题书女儿们用不上——还是老师给的思路更实用",
+   "quote": "根本用不上",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23189,
+    "end_line": 23191,
+    "sha1": "5a56f9b4b1ce3b0c6cb3155618209ea435298e3e",
+    "fingerprint": [
+     "陶哲轩",
+     "思路"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "天才经验不通用",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（学习方法语境）；书评普遍抱怨普通人用不上（23189）",
+   "claim_id": "C-WJ2-U0288-06",
+   "unit_id": "WJ2-U0288"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "数学家六级：分级框架/奖项地图/圈内认可/内外行差/王虹/天才经验不通用"
+}

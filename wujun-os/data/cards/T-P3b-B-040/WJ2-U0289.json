@@ -1,0 +1,101 @@
+{
+ "unit_id": "WJ2-U0289",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "补知识第一原则——缺什么补什么：医学健康常识为活得健康、金融经济常识为不亏钱（非赚钱）",
+   "quote": "缺什么就补什么",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23299,
+    "end_line": 23305,
+    "sha1": "3e148dc5f3d5932516450640264e56468a89a9de",
+    "fingerprint": [
+     "常识",
+     "亏钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D09-1"
+   ],
+   "concept_key": "缺什么补什么",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "该学的常识中小学大学常没教（23301）；知道财富/风险/债务、会算房贷利息再谈投资；股指定投=入门建立基本认知；答清明谷雨",
+   "claim_id": "C-WJ2-U0289-01",
+   "unit_id": "WJ2-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第二原则——喜欢什么学什么：勿看伪史与电视剧当历史；职场书多鸡汤厚黑，要选值得信赖的作者",
+   "quote": "喜欢什么学什么",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23307,
+    "end_line": 23315,
+    "sha1": "f1d1aa5681a344b415ef54b5c604ec3b67122bd4",
+    "fingerprint": [
+     "伪史",
+     "鸡汤"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "喜欢什么学什么",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "非职业学习应轻松；科技读《麻省理工科技评论》与科学家科普；哲学难读不适合多数人（23313）",
+   "claim_id": "C-WJ2-U0289-02",
+   "unit_id": "WJ2-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读硕士用ROI算账：综合四成回报为负；计算机数学工程97%为正、人文艺术85%为负、MBA六成为负",
+   "quote": "回报是负数",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23361,
+    "end_line": 23365,
+    "sha1": "fc432adf71641ca0249ff312343c0e64ab265d41",
+    "fingerprint": [
+     "回报",
+     "硕士"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D09-1"
+   ],
+   "concept_key": "读研投资回报",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（决策方法普适）；库珀算法=学费+3年机会成本15万 vs 35年增量收入（23327）；计算机/数学/工程40%超100万美元（23363）；美国名校把硕士当收入来源、本科博士回报更高（23371）；能找到工作就去工作（23375）",
+   "claim_id": "C-WJ2-U0289-03",
+   "unit_id": "WJ2-U0289"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0289",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'清明谷雨'同学长留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答47：缺什么补什么/喜欢什么学什么/读研投资回报"
+}

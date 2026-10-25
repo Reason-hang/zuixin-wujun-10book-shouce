@@ -1,0 +1,100 @@
+{
+ "unit_id": "WJ2-U0281",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "主权赖账反复发生、债权人多只能自认倒霉：西原借款国民政府停付、希腊债务重组减免1050亿欧元",
+   "quote": "概不负责偿还",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22527,
+    "end_line": 22529,
+    "sha1": "7fa4dbf1dded45ff967205775f6b1f0673ee7c66",
+    "fingerprint": [
+     "段祺瑞",
+     "外债"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "主权赖账史",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "北洋政府借日1.5亿日元没打算还、拿路权森林权益抵押；日本发债救济兴业银行；希腊1000万人借3000多亿欧、年利率近30%、人均'赚'债权人1万多欧（22539-22549）；一战美国借欧贷款也打水漂（22533）；俄主权债违约致LTCM破产互参（22535）",
+   "claim_id": "C-WJ2-U0281-01",
+   "unit_id": "WJ2-U0281"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没道理的事背后常有更大范围的道理：列强借款图特权、救希腊为保欧元区、救外资银行为保美国信誉",
+   "quote": "在更大范围内有它的合理性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22559,
+    "end_line": 22569,
+    "sha1": "a79b6092d392d17de4f0c9f610f75be618deabb7",
+    "fingerprint": [
+     "道理",
+     "欧元区"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D08-1"
+   ],
+   "concept_key": "更大范围的道理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "列强非活雷锋：借款为影响政治获铁路矿山特权、战争一起如意算盘落空（22563）；救希腊一为避免双输二为欧元区不解体（22565-22569）；2008救德银汇丰为保美国政府信誉（22571）；换位站高：员工觉得没道理的事站领导角度可能就懂（22575）",
+   "claim_id": "C-WJ2-U0281-02",
+   "unit_id": "WJ2-U0281"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "天道=自然规律+人性规律：贪婪使人不吸教训自欺欺人（日本一厢情愿、评级被人为调高）；懂人性弱点少踩坑",
+   "quote": "自然的规律和人性的规律",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22577,
+    "end_line": 22581,
+    "sha1": "1ab3d0e9f3ddc568034d4b938db6ecdb95549750",
+    "fingerprint": [
+     "贪婪",
+     "人性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "天道与人性规律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "高盛与评级机构人为调高希腊评级掩盖风险（22579）；光理解不够、损失就是损失；别每次跌跟头才长记性——理解弱点避免坑落到自己头上（22581）",
+   "claim_id": "C-WJ2-U0281-03",
+   "unit_id": "WJ2-U0281"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0281",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'刘江''王惠玲'读者留言提问为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "没有道理可讲的事：主权赖账史/更大范围的道理/天道与人性"
+}

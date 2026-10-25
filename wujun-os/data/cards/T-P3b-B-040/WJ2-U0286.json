@@ -1,0 +1,122 @@
+{
+ "unit_id": "WJ2-U0286",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "辩证法三要点：矛盾对立推动变化；误用在人为立对立面与简化为两面；辩证法≠诡辩术——后者明显违反逻辑",
+   "quote": "此消彼长",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23025,
+    "end_line": 23033,
+    "sha1": "18549bccae3691af77e9d624f1cc4b75c13cadd0",
+    "fingerprint": [
+     "对立面",
+     "诡辩术"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "辩证法三要点",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "事物常有多侧面与灰度、强行抽出两面过于绝对（23029）；形式逻辑不许例外、辩证法允许一个例外并强调主要方面以弥补形式逻辑条件苛刻（23033）",
+   "claim_id": "C-WJ2-U0286-01",
+   "unit_id": "WJ2-U0286"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "掌权者借'辩证法'夹带私货：偏袒偷成果者讲大局、坏事变好事、晋升掺入无关因素——受害者反为其辩护",
+   "quote": "把自己的私货包装成辩证法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23017,
+    "end_line": 23017,
+    "sha1": "e56d1cc66eef0df40070af2ebfb2e5fd72650c8e",
+    "fingerprint": [
+     "私货",
+     "辩证法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-1"
+   ],
+   "concept_key": "辩证法夹私货",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三个职场例子（23041-23049）；哈佛招生照顾族裔性别=例三变体（23059）；你把同样的话讲给领导他根本不听（23053）；滥用已成潜移默化的思维方式、受害者为它辩护",
+   "claim_id": "C-WJ2-U0286-02",
+   "unit_id": "WJ2-U0286"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "警惕四种伪辩证法：树不存在的对立面、中和个体苦难（欠薪讲大局）、把简单问题复杂化、用不确定未来掩盖今天问题",
+   "quote": "四种做法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23063,
+    "end_line": 23075,
+    "sha1": "13862cf7880902eb49ade122848c220956fc7190",
+    "fingerprint": [
+     "对立面",
+     "欠薪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "伪辩证法四做法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "'不能骄傲'式树对立面是挖坑（23069）；企业经营困难与员工无关应由老板承担、农民工忍气吞声即被骗（23075）；把问题复杂化的真实目的就是不帮你解决（23079）；996/作业负担被'将来'掩盖、与今天做法无相关性（23083-23089）",
+   "claim_id": "C-WJ2-U0286-03",
+   "unit_id": "WJ2-U0286"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伪辩证法的深层危害：说话圆滑不解决问题只压制提问者；在预设框架里为不合理找借口——独立思维与创造力被压抑",
+   "quote": "情绪表达和判断能力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23093,
+    "end_line": 23095,
+    "sha1": "7c287d7652244935d504ec64bbc0e69aa62893a2",
+    "fingerprint": [
+     "框架",
+     "压抑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-4"
+   ],
+   "concept_key": "伪辩证法压制表达",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "'你们怎么都急了'式和稀泥剥夺表达权与理解对方的能力（23095）；接受凡事无结论、权利可放弃，最终否定问题的存在（23097）",
+   "claim_id": "C-WJ2-U0286-04",
+   "unit_id": "WJ2-U0286"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "防范伪辩证法（上）：三要点/夹私货/四做法/压制表达"
+}

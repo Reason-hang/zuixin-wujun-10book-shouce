@@ -1,0 +1,157 @@
+{
+ "unit_id": "WJ2-U0279",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-040",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "局部最优陷阱：极大值只是比周围高；人与算法几乎都停在最近的局部最优，找全局最优没有普遍方法——看得远才有机会",
+   "quote": "全局最优",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22395,
+    "end_line": 22403,
+    "sha1": "1def61a72a83bb43bd02ce1ee35635eddcc80db3",
+    "fingerprint": [
+     "极大值",
+     "最大值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-1"
+   ],
+   "concept_key": "局部最优陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "可汗学院五峰图；机器学习好算法坏算法只差快慢（22401）；境界=看得远才可能看到最大值（22403，《境界》互参）",
+   "claim_id": "C-WJ2-U0279-01",
+   "unit_id": "WJ2-U0279"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "视觉误差：近处小峰显得更高，无人能免；全局最优即使找到多半是蒙的——别人的成功经验要打问号",
+   "quote": "要打个问号",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22405,
+    "end_line": 22407,
+    "sha1": "a11895ceac92b4a13cf027dcd72fa4e777095567",
+    "fingerprint": [
+     "视觉",
+     "经验"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "视觉误差与经验之限",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "100米外10层楼显得比1000米外20层高；经验=前人上很多次当的总结；马云马化腾重做一遍未必成（22407）",
+   "claim_id": "C-WJ2-U0279-02",
+   "unit_id": "WJ2-U0279"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对'更好选择'的不甘也是后悔：活在想象中；没拿到好运气有时反是好事，避免过早高期待",
+   "quote": "有时反而是件好事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22381,
+    "end_line": 22383,
+    "sha1": "71eefdad2f961f74403cf8e8bde43db4676bb9d4",
+    "fingerprint": [
+     "后悔",
+     "运气"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "不甘式后悔",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "211录取后发现985也能上即此症；每步不错但长期原地打转=局部最优之和非全局最优（22385）",
+   "claim_id": "C-WJ2-U0279-03",
+   "unit_id": "WJ2-U0279"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "华盛顿条约与珍珠港：战前无人预见航母价值（大和号造价=6艘航母），事后上帝视角不可用于当时决策",
+   "quote": "歪打正着",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22417,
+    "end_line": 22425,
+    "sha1": "e4caa3911051b23c6703bc3cb05bae46f52ec999",
+    "fingerprint": [
+     "航母",
+     "战列舰"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "无上帝视角",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "主力舰吨位5:5:3:1.75:1.75、英战列舰成摆设（22417-22419）；'美国故意躲开'阴谋论不成立（22421）；日美发展航母也是运气好；换工作没详尽信息难正确判断、正确也可能是蒙的（22429）",
+   "claim_id": "C-WJ2-U0279-04",
+   "unit_id": "WJ2-U0279"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "时间上也没有全局最优：条件常变、越往后选择越好，为错过可惜不必；决策留余地——集中资源但别堵死其他路",
+   "quote": "不必为自己错过什么机会而可惜",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22431,
+    "end_line": 22437,
+    "sha1": "3419557c4fec503083718a53aaa49f336e118480",
+    "fingerprint": [
+     "余地",
+     "堵死"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D04-2"
+   ],
+   "concept_key": "决策留余地",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "错过等离子电视促销反而庆幸（22433）；与U0226硬决定丢信息同族互参：砍断所有可能性的决定丢信息找不回（22437）",
+   "claim_id": "C-WJ2-U0279-05",
+   "unit_id": "WJ2-U0279"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0279",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'棒棒糖'同学留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "全局与局部最优：陷阱/视觉误差/不甘式后悔/无上帝视角/留余地"
+}
