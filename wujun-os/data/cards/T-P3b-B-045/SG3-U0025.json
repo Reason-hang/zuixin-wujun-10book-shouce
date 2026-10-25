@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG3-U0025",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-045",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学=把钱变成知识，技术=把知识变成钱——科学是大厦、贡献=添砖加固而非另起炉灶",
+   "quote": "把钱变成知识",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2801,
+    "end_line": 2805,
+    "sha1": "701d8e68ba3ffcfbbd8e96ac86feccf6273e9f80",
+    "fingerprint": [
+     "科学",
+     "技术"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "科学vs技术",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第019封信；总想赶快挣回投入就会走捷径、难专注未解问题（2805）；划重点重申（2857）",
+   "claim_id": "C-SG3-U0025-01",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "郭毅可：英国人对科学贡献大因为喜欢琢磨瞎扯淡的事——AI早期谁也不知能做什么、OFDM奠定5G基础时连1G都没有",
+   "quote": "瞎扯淡的事情",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2807,
+    "end_line": 2813,
+    "sha1": "220945ed4b5d7c136a8583c3b14f0e7463c09628",
+    "fingerprint": [
+     "郭毅可",
+     "扯淡"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "无用之用科学观",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：郭毅可（英国皇家学会院士）；早期研究AI者与今天做机器学习的人没关系（2809）；1960年代贝尔实验室发明OFDM（2811）；发明后知识大厦多一块砖（2813）",
+   "claim_id": "C-SG3-U0025-02",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技术是科学原理与产品之间的桥梁：牛顿的规律不能直接变机器、需瓦特把它变成现实机械",
+   "quote": "中间需要一座桥梁",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2817,
+    "end_line": 2821,
+    "sha1": "85490eefe414d1b61456c4121620c45c14a4058b",
+    "fingerprint": [
+     "瓦特",
+     "桥梁"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "技术桥梁论",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "瓦特博尔顿发明万用蒸汽机目的就是挣钱（2819）；OFDM→ADSL电话线传输率提高上百倍→5G（2821）；划重点重申（2859）",
+   "claim_id": "C-SG3-U0025-03",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学中心与技术中心未必重叠：德国技术强科学一般、英国科学高技术不如德国——人要按特长定位",
+   "quote": "未必重叠",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2823,
+    "end_line": 2823,
+    "sha1": "f76628f2c2087331208c4aacda010fc595d0c682",
+    "fingerprint": [
+     "德国",
+     "英国"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "科学中心技术中心分离",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "吴军自述：选技术离开科学共同体很难回来（2825）；做研究后奖金少很多（2827）；研究成果被别人应用、收益被拿走、稳得的是内心满足（2829）；同事回斯坦福读博收入不及谷歌1/4（2831）",
+   "claim_id": "C-SG3-U0025-04",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只发展技术不发展科学：短期10-20年可以，时间一长技术发展就没有了后劲",
+   "quote": "没有了后劲",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2833,
+    "end_line": 2833,
+    "sha1": "e93d3309bb698338395901cd46660bf65724d466",
+    "fingerprint": [
+     "科学",
+     "后劲"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "科学是技术后劲",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "香农/图灵/冯诺伊曼的理论让人少走弯路；没有理论时技术如黑暗中摸索（2833）",
+   "claim_id": "C-SG3-U0025-05",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李开复：做好科创的关键=做好新型产品经理的能力——同时身兼工程师/传统产品经理/技术销售角色",
+   "quote": "同时身兼好几种角色",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2837,
+    "end_line": 2843,
+    "sha1": "8ef2197e83cdd658f3f83a6bbd34f70d447c2baa",
+    "fingerprint": [
+     "李开复",
+     "产品经理"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "科创翻译论",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：李开复；美国把科创叫'翻译'：科学翻译成技术、技术翻译成钱（2837）；科学家一出山办企业就成功的例子并不多见（2837）；黄峥/宿华/林斌属此类、印度人多入大公司领导层（2843）；划重点重申（2861）",
+   "claim_id": "C-SG3-U0025-06",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用钱发展科学、经技术与科创挣钱成闭环——闭环至少半个世纪，不要指望一个人走完",
+   "quote": "不要指望自己一个人把它都走完",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2845,
+    "end_line": 2847,
+    "sha1": "3d0f7631763496af05df2b3e78d7d076b5a2bbd7",
+    "fingerprint": [
+     "闭环",
+     "半个世纪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "科创闭环半世纪",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "波士顿科学发达但科创效率不高、非人才首选（2845）；开创期硅谷环境适合科创（2845）",
+   "claim_id": "C-SG3-U0025-07",
+   "unit_id": "SG3-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功第一步：明确特长、给自己明确的地位、找合适环境、放弃不属于自己的东西",
+   "quote": "放弃掉不属于自己的东西",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 2851,
+    "end_line": 2851,
+    "sha1": "4d59a51492d8deae6c5e4dce1ce2b5bb2404ea75",
+    "fingerprint": [
+     "特长",
+     "环境"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "特长定位放弃",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "各行各业同样适用（2851）",
+   "claim_id": "C-SG3-U0025-08",
+   "unit_id": "SG3-U0025"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0025",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第019封信：科学vs技术/无用之用E2/技术桥梁/中心分离/科学后劲/科创翻译E2/闭环半世纪/定位"
+}

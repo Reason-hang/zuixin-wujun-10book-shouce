@@ -1,0 +1,189 @@
+{
+ "unit_id": "SG3-U0033",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-045",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "B计划不等于富余量：早出门5分钟是冗余度，交通拥堵改坐地铁才是B计划——两回事",
+   "quote": "和这周讲的B 计划是两回事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3503,
+    "end_line": 3503,
+    "sha1": "0801a1fda918f8f23c408f97b466eb100fff0444",
+    "fingerprint": [
+     "冗余",
+     "B 计划"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "B计划vs冗余",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者问04；《信息论40讲》冗余度提高容错（3503）",
+   "claim_id": "C-SG3-U0033-01",
+   "unit_id": "SG3-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "B计划的目的是争胜不是保底：股市涨有涨的应对、跌有跌的办法——对冲基金的反向策略就是B计划",
+   "quote": "不是保底",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3505,
+    "end_line": 3505,
+    "sha1": "3952f9b5493c7b812e747fd325623280c120bd2c",
+    "fingerprint": [
+     "保底",
+     "对冲"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-1"
+   ],
+   "concept_key": "B计划争胜非保底",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "'反正还有一套房'是保底想法、不等同B计划（3505）",
+   "claim_id": "C-SG3-U0033-02",
+   "unit_id": "SG3-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "C计划D计划通常不需要：制定计划有成本——多花20%成本把成功率从80%提到95%有意义、再提到98%收益不明显",
+   "quote": "通常是不需要的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3507,
+    "end_line": 3517,
+    "sha1": "4f0d2b3c28c2c19fc0fcb953511b66836b9beb33",
+    "fingerprint": [
+     "成本",
+     "成功率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "备选计划边际收益",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "大公司背对背两团队同项目、一队领先另一队转新项目（3511）；哈佛医学院实验室每课题先放两人独立同做（3513）；四团队并行成本太高不可操作（3515）；有了B计划恰为放开手脚执行A计划（3517）；破釜沉舟的决心与B计划无关（3519）；冒险与成功无必然联系、井陉之战后兵败如山倒者更多（3521）",
+   "claim_id": "C-SG3-U0033-03",
+   "unit_id": "SG3-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "四健会理念每个人都可以实践、不一定需要组织——这些朋友的父母就扮演了组织者角色",
+   "quote": "并不一定需要什么组织",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3523,
+    "end_line": 3527,
+    "sha1": "eade7803a3aedd09e22d2fb6194656f0f2f15957",
+    "fingerprint": [
+     "四健会",
+     "原生家庭"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "四健会个人实践",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "朋友约一半来自农村偏远小城市而素养很好；统计有幸存者偏差（3525）；父母没教文化课但给了健全四健（3527）；考虑下一代则教育者就是我们自己（3527）",
+   "claim_id": "C-SG3-U0033-04",
+   "unit_id": "SG3-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "波士顿科创断层：科学强但科学→技术→商品的转化出了问题——MIT CSAIL办百个公司多被硅谷收购、为他人作嫁衣裳",
+   "quote": "为其他地区的科创发展作嫁衣裳",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3543,
+    "end_line": 3549,
+    "sha1": "e92a081450e0762afa3127cf07e81bbff5a6fbf1",
+    "fingerprint": [
+     "波士顿",
+     "转化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "波士顿转化断层",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "128号公路曾与硅谷并驾齐驱、今相对衰落吃老本（3539）；最年轻财富五百强诞生1979波士顿科学/EMC、错过信息产业第二黄金期（3541，X6）；CSAIL仅iRobot等少数独立上市、以被谷歌Facebook收购为荣（3545-3547）；波士顿人不善做产品市场、只善做科研；大药厂把哈佛MIT当技术来源（3549）；《硅谷之谜》详释机制（3551）",
+   "claim_id": "C-SG3-U0033-05",
+   "unit_id": "SG3-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国政治老龄化：偶然中含必然——建制派既得利益者长期把握政治、其他人需论资排辈慢慢熬",
+   "quote": "论资排辈",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3557,
+    "end_line": 3563,
+    "sha1": "f7d9a38196ac9699062ccabeca9ded0f39fc90a8",
+    "fingerprint": [
+     "建制派",
+     "必然性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "建制派论资排辈",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "拜登三对手桑德斯79/沃伦71/布隆伯格78、四人社内对手加起来超300岁（3559，X6）；2016保希拉里因2008欠人情（3561）；共和党黑利48/蓬佩奥56/彭斯61、2024局面可能不同（3563，X6）",
+   "claim_id": "C-SG3-U0033-06",
+   "unit_id": "SG3-U0033"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0033",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "1979五百强/CSAIL公司数/候选人年龄等时点数据为例证留痕"
+  },
+  {
+   "unit_id": "SG3-U0033",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "问答栏目体例与结尾祝语为运营内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3答读者问04：B计划vs冗余/争胜非保底/CD计划边际收益/四健会个人实践/波士顿断层/建制派"
+}
