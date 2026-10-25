@@ -1,0 +1,84 @@
+{
+  "unit_id": "WJ2-U0046",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0046-01",
+      "unit_id": "WJ2-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "认识局限使大工程负面后果被低估，且随时间推移越来越严重",
+      "quote": "低估了大坝带来的负面影响",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3642,
+        "end_line": 3648,
+        "sha1": "39be40e54e93b9d42be3eee0237e47174da9dbcf",
+        "fingerprint": [
+          "大坝",
+          "盐碱化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "工程副作用长周期显现",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：阿斯旺大坝无船闸断航运、失去泛滥肥力致化肥依赖与盐碱化、三角洲侵蚀倒退、蒸发损失11%库容（行3650-3652）；与既有概念\"副作用长周期显现\"（CK-1116）同族"
+    },
+    {
+      "claim_id": "C-WJ2-UU0046-02",
+      "unit_id": "WJ2-U0046",
+      "speaker": "吴军本人",
+      "claim_text": "重大工程失败案例成为全世界的参考实验，后人据此分析得失",
+      "quote": "埃及人为全世界做了一次大实验",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3654,
+        "end_line": 3654,
+        "sha1": "7d1284e3d927dc50cf8e5f29a68aee2e3d4803f1",
+        "fingerprint": [
+          "建坝",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "失败工程即公共实验",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全世界建坝工程师提方案前均以阿斯旺大坝为参考；失败经验的公共品属性"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0046",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "努比亚-埃及黄金贸易史、纳赛尔革命与苏伊士运河国有化等大坝修建史及\"古埃及文明早熟而循环缓慢\"总结（与C-WJ2-U0033-02/03同旨，跨单元线索留此）属文明历史叙述，记X6"
+    },
+    {
+      "unit_id": "WJ2-U0046",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "阿布辛贝神庙天文设计与整山搬迁工程（误差一天）等史实科普，记X4（行3660-3672）"
+    },
+    {
+      "unit_id": "WJ2-U0046",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "努比亚泥砖房封闭隔热、窑洞式住宅、走访家族等生活见闻叙述，记X3（行3604-3618）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元抽大工程副作用与失败案例公共性两卡，余记X6/X4/X3"
+}

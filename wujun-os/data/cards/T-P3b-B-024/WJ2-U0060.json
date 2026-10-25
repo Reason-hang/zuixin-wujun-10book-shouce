@@ -1,0 +1,201 @@
+{
+  "unit_id": "WJ2-U0060",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0060-01",
+      "unit_id": "WJ2-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "职场进步主要靠做更复杂、更有挑战的工作；只维护现状难有进步",
+      "quote": "有更大挑战性的工作完成的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4678,
+        "end_line": 4678,
+        "sha1": "5382575511b43936a4113dcf0a5ca4f24d1da5a3",
+        "fingerprint": [
+          "复杂",
+          "挑战",
+          "维护"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "进步靠挑战性工作",
+      "ability_tags": [
+        "学",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "无新业务时15年经验者不比10年者强"
+    },
+    {
+      "claim_id": "C-WJ2-U0060-02",
+      "unit_id": "WJ2-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "企业仅在无年龄歧视法约束、易招便宜忠诚年轻人、老员工薪酬明显更高时才换年轻人",
+      "quote": "这三个条件要同时满足",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4682,
+        "end_line": 4690,
+        "sha1": "c760ee1106bb0529257f391ac37e5105bae165c6",
+        "fingerprint": [
+          "年龄歧视",
+          "忠诚",
+          "薪酬"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "换年轻人三条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三条件缺一即不成立：欧美法赔、快速增长经济体留老人"
+    },
+    {
+      "claim_id": "C-WJ2-U0060-03",
+      "unit_id": "WJ2-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "胜任工作约需5年，此后惯性提升3-5年即近天花板，危机多现于30-35岁",
+      "quote": "提高的幅度其实就有限了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4680,
+        "end_line": 4680,
+        "sha1": "3c9b876c53d38b3b6e5eff8f6c7eed68afd33426",
+        "fingerprint": [
+          "胜任",
+          "天花板",
+          "惯性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "职业天花板时间机制",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "解释危机为何不在27岁或45岁出现"
+    },
+    {
+      "claim_id": "C-WJ2-U0060-04",
+      "unit_id": "WJ2-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "35岁后最危险三类人：多年无进步、不懂职场规则、工作外分心太多",
+      "quote": "工作最危险的三类人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4696,
+        "end_line": 4704,
+        "sha1": "f07fe5aaeaa61fb20ad6284a16a611cfbc455692",
+        "fingerprint": [
+          "冒泡排序",
+          "老油条",
+          "摸鱼"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "35岁危险三类人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：多年程序员仍用冒泡排序；与'35岁危机归因自身'概念相邻"
+    },
+    {
+      "claim_id": "C-WJ2-U0060-05",
+      "unit_id": "WJ2-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "老板本事再大，不提升员工水平也做不成大事；培训员工是双赢",
+      "quote": "懂得不断提升员工水平",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4708,
+        "end_line": 4710,
+        "sha1": "8a89a4677a2a4b5fa39459fd7e1c50d936cccd02",
+        "fingerprint": [
+          "培训",
+          "双赢",
+          "短视"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D06-3"
+      ],
+      "concept_key": "提升员工水平才成大事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：JHU在职硕士、谷歌每年1万美元教育补贴、万亿市值企业多为不短视者"
+    },
+    {
+      "claim_id": "C-WJ2-U0060-06",
+      "unit_id": "WJ2-U0060",
+      "speaker": "吴军本人",
+      "claim_text": "年轻时靠能力和体力挣钱，年纪大了要靠经验、判断力和人脉挣钱",
+      "quote": "靠经验和判断力挣钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4712,
+        "end_line": 4718,
+        "sha1": "0df7b3335d3a05903fb3c74ef284a5de36bc4045",
+        "fingerprint": [
+          "人缘",
+          "勤快",
+          "人脉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "年长靠经验判断人脉",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "老员工三重特殊价值整体一卡"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0060",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "互联网经济增速放缓、劳动力市场饱和、高级岗位不再新增等宏观预测"
+    },
+    {
+      "unit_id": "WJ2-U0060",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "罗翔同学来信原文（35岁危机观察与归因）"
+    },
+    {
+      "unit_id": "WJ2-U0060",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文稿末尾来信方式运营提示"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "35岁危机回信：企业与个人维度的职业发展判断成卡，宏观预测与读者原文记X"
+}

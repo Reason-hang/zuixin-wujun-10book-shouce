@@ -1,0 +1,90 @@
+{
+  "unit_id": "WJ2-U0042",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0042-01",
+      "unit_id": "WJ2-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "人们总是知道第一，不知道第二，第一之外知名度骤降",
+      "quote": "人们总是知道第一，不知道第二",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3320,
+        "end_line": 3320,
+        "sha1": "1067cc9a0058aa7c440fffaa44203f2ed2808930",
+        "fingerprint": [
+          "胡夫",
+          "卡夫拉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "世界只知第一",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "游记中重申；与既有概念\"世界只知第一\"（CK-0611）跨书同概念；卡夫拉塔高几与胡夫同但知者甚少"
+    },
+    {
+      "claim_id": "C-WJ2-UU0042-02",
+      "unit_id": "WJ2-U0042",
+      "speaker": "吴军本人",
+      "claim_text": "摄影的第一要点是到达，到了现场任何人都能拍出惊艳照片",
+      "quote": "摄影的第一要点，就是到达",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3352,
+        "end_line": 3352,
+        "sha1": "5ef4bbfedb7072f935beb17d1fc8e4b720a043dd",
+        "fingerprint": [
+          "摄影",
+          "金字塔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "摄影第一要点是到达",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "游记中少见的方法论断言；呼应行动优先/亲历主题（太初有为族）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0042",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "开罗见闻、取现买卡攻略等行程叙述（行3292-3302）按批次特则游记记X3"
+    },
+    {
+      "unit_id": "WJ2-U0042",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "古埃及生死观（太阳东升西落、尼罗河为生死界、金字塔居西岸）属文明历史叙述，记X6（行3304-3314）"
+    },
+    {
+      "unit_id": "WJ2-U0042",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "金字塔陵寝考辨（被盗空解释、希罗多德、西汉类比）、墓室勾股数、狮身人面像与卡夫拉澄清等纯史实科普，记X4（行3318-3346）"
+    },
+    {
+      "unit_id": "WJ2-U0042",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "埃及通胀37%、民众不存款改持黄金等2024年时点经济观察，记X2（行3300-3302）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元按批次特则只抽2条方法论，其余分别记X3/X4/X6/X2"
+}

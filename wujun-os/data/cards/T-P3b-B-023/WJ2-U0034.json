@@ -1,0 +1,106 @@
+{
+  "unit_id": "WJ2-U0034",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0034-01",
+      "unit_id": "WJ2-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "把握历史脉络需要更大更长远的时空尺度，宏观优于微观",
+      "quote": "更宏观地看待历史和历史问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2795,
+        "end_line": 2795,
+        "sha1": "e910431fc98ef9cb741451b0cad7043d86ed233b",
+        "fingerprint": [
+          "全球史观",
+          "微观层面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D01-2"
+      ],
+      "concept_key": "大时空看历史",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大历史视角（行2737）为方法论来源；造纸印刷等具体发明属微观层面"
+    },
+    {
+      "claim_id": "C-WJ2-UU0034-02",
+      "unit_id": "WJ2-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "人文主义是构建公平和进步社会的基础，无对个人的尊重则公平无从谈起",
+      "quote": "构建公平和进步的社会的基础",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2743,
+        "end_line": 2745,
+        "sha1": "60942ce4be8b00e0ed52920f8c2d92703c722cba",
+        "fingerprint": [
+          "孔子",
+          "己所不欲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "人文主义是社会基础",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "孔子=东方人文主义鼻祖；《礼记·大同》为其社会构想的体现"
+    },
+    {
+      "claim_id": "C-WJ2-UU0034-03",
+      "unit_id": "WJ2-U0034",
+      "speaker": "吴军本人",
+      "claim_text": "孔子思想与后世帝王统治术是两码事，外儒内法之弊不能算到孔子头上",
+      "quote": "外儒内法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2755,
+        "end_line": 2757,
+        "sha1": "4315c740dfc790b9c4129a9b96edbe7c8f5bed4e",
+        "fingerprint": [
+          "孔子",
+          "法家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "本人思想与统治术之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "区分原创思想与后世曲解利用的辨析方法；主张愚民者为法家"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0034",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "科举/文官选拔制度史叙述（含利玛窦、伏尔泰评价）按批次特则教育制度史记X5；择优公平机理未抽卡"
+    },
+    {
+      "unit_id": "WJ2-U0034",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "大航海白银贸易、丝绸之路与文明交流史叙述属文明历史，记X6；重农轻商致无大商人为史论细节"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "史观方法论与孔子思想辨析成卡3张，制度史与贸易史叙述分别记X5/X6"
+}

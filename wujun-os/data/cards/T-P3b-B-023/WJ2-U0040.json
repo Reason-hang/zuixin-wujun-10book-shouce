@@ -1,0 +1,181 @@
+{
+  "unit_id": "WJ2-U0040",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0040-01",
+      "unit_id": "WJ2-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "很多所谓效应只是不完全归纳或假设性理论，据此决策会被误导",
+      "quote": "不完全归纳得出的结论",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3154,
+        "end_line": 3154,
+        "sha1": "ad4c0d8d54870c43dfbd473fb59e7906a7c1dfab",
+        "fingerprint": [
+          "效应",
+          "不完全归纳"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "不完全归纳的伪效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "验证一两次即被大众接受是通病；本信以蝴蝶效应为例证"
+    },
+    {
+      "claim_id": "C-WJ2-UU0040-02",
+      "unit_id": "WJ2-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "金融危机根源在自身高债务高坏账，外部做空只在系统脆弱处得手",
+      "quote": "就不会陷入金融危机",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3180,
+        "end_line": 3182,
+        "sha1": "e5fc01e81da0053755c689741a5ff92d6e95290e",
+        "fingerprint": [
+          "索罗斯",
+          "坏账率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "危机内因论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：三星债务为资产10多倍、广东不良贷款率50%（王硕平/刘晓午文献）；索罗斯谷歌问答自述做空港币亏损（E2线索）；反驳以蝴蝶效应解释危机"
+    },
+    {
+      "claim_id": "C-WJ2-UU0040-03",
+      "unit_id": "WJ2-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "蝴蝶效应从未被证实，科学理论须经案例证实才能成立",
+      "quote": "这个理论从来没有被证实过",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3186,
+        "end_line": 3186,
+        "sha1": "b64816f42b33cc8cd127c9451a8790bf61677b09",
+        "fingerprint": [
+          "自洽",
+          "热带风暴"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "理论须经案例证实",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "提出者洛伦兹（1960MIT，行3160-3162）；六十年代至今无人证明哪次风暴由蝴蝶引起；今日20天预报已相当准（行3188-3192）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0040-04",
+      "unit_id": "WJ2-U0040",
+      "speaker": "转述·第三方",
+      "claim_text": "收敛系统与初始状态无关不会出现蝴蝶效应，发散系统由决定性因素主导",
+      "quote": "这种系统永远不会出现蝴蝶效应",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3194,
+        "end_line": 3196,
+        "sha1": "3974a5f8af84563094f13e4855e250829dcf51c3",
+        "fingerprint": [
+          "维纳",
+          "收敛"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-3",
+        "D04-1"
+      ],
+      "concept_key": "收敛发散与蝴蝶效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：控制论创始人维纳；吴军取用：蝴蝶翅膀属枝末细节，被洋流气流太阳活动等主导因素淹没"
+    },
+    {
+      "claim_id": "C-WJ2-UU0040-05",
+      "unit_id": "WJ2-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "人生轨迹由几个重要因素决定，偶然性只影响短期不影响一生",
+      "quote": "不会影响一生的命运",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3198,
+        "end_line": 3198,
+        "sha1": "546ab75cfe1c6a28d280f46a502942fd8b0da282",
+        "fingerprint": [
+          "厄运",
+          "高考"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "偶然不影响一生",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "批评将一生厄运归因高考失利、中考没睡好；中学几年训练才是重要因素"
+    },
+    {
+      "claim_id": "C-WJ2-UU0040-06",
+      "unit_id": "WJ2-U0040",
+      "speaker": "吴军本人",
+      "claim_text": "要分清实验室自洽理论与实践中反复证实的理论，只有后者可依靠",
+      "quote": "在实践中得到反复证实的理论",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3200,
+        "end_line": 3200,
+        "sha1": "ff5aa570c6bb36640715f638e068f6902be16053",
+        "fingerprint": [
+          "似是而非",
+          "自洽"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "自洽不等于可靠",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总结；与卡01/03同一论证链"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0040",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "洛伦兹1960年长期天气预报研究史与气象卫星发展史（行3160-3192）为科学史背景，机理已并入卡03，未独立成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "蝴蝶效应辨伪的完整论证链6卡，科学史背景记X4"
+}

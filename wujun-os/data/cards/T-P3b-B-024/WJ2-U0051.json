@@ -1,0 +1,113 @@
+{
+  "unit_id": "WJ2-U0051",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0051-01",
+      "unit_id": "WJ2-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "我们看到的真实世界，很大程度上是大脑扫描合成的虚构",
+      "quote": "很大程度上是你的大脑虚构出来的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3996,
+        "end_line": 3998,
+        "sha1": "860527c74312a3c0961b6fbeaf8590ae55f9a4c2",
+        "fingerprint": [
+          "视角",
+          "扫描",
+          "合成"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "大脑合成所见世界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：闭眼找物实验、高尔夫盯球"
+    },
+    {
+      "claim_id": "C-WJ2-U0051-02",
+      "unit_id": "WJ2-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "主动运动者因预知意图而大脑提前调整不晕，被动者来不及调整会晕",
+      "quote": "因为你是主动的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4004,
+        "end_line": 4006,
+        "sha1": "affefc89140fb53d0980ac3396ed9f246ded8157",
+        "fingerprint": [
+          "主动",
+          "被动",
+          "反馈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "主动不晕被动晕",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "应用：VR设备需身体反馈机制，与可穿戴设备结合"
+    },
+    {
+      "claim_id": "C-WJ2-U0051-03",
+      "unit_id": "WJ2-U0051",
+      "speaker": "吴军本人",
+      "claim_text": "新技术产品多属'第一眼美女'，等'第三眼美女'问世生活才会大变",
+      "quote": "等到“第三眼美女”出世",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4028,
+        "end_line": 4028,
+        "sha1": "971c6ca7b4d2566b5ebd0450b0ea290b17ad9363",
+        "fingerprint": [
+          "第一眼美女",
+          "三眼美女"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "第三眼美女",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "重申硅谷来信'三眼美女'概念，跨书线索；Vision Pro为载体例证"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0051",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'虚拟世界可完全复制现实场景'、VR普及需生态环境与6G（2028-2030测试）等科技趋势预测"
+    },
+    {
+      "unit_id": "WJ2-U0051",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "Meta元宇宙项目失败、微软裁撤部门、Vision Pro或停产等时事与产品时点评论"
+    },
+    {
+      "unit_id": "WJ2-U0051",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "Vision Pro芯片、传感器、像素、刷新率等产品技术细节参数"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "感知机制与产品成熟度框架成卡，趋势预测与时事评论记X"
+}

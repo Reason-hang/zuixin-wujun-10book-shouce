@@ -1,0 +1,201 @@
+{
+  "unit_id": "WJ2-U0038",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0038-01",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "登门术：先接受小请求的人，接受随后无理大请求的可能性大增",
+      "quote": "可能性就非常大了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3032,
+        "end_line": 3034,
+        "sha1": "083e239b5dde59b171c6ebb6fa9d7c8687ee2b8c",
+        "fingerprint": [
+          "登门术",
+          "得寸进尺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "登门术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "弗里德曼与弗莱泽1966窗牌实验：先小后大接受率55%vs17%（E3线索，行3030）；成因：对类似请求保持一致态度；反向亦可利用（行3064）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0038-02",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "无论成因之争如何，不断宣传都能提高人的顺从性，已被广泛利用",
+      "quote": "宣传可以提高参与者的顺从性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3046,
+        "end_line": 3046,
+        "sha1": "ff2f3ab419c25985f7dfb613ccbb055cbf337eb9",
+        "fingerprint": [
+          "顺从性",
+          "器官捐赠"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "重复宣传提高顺从性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两派留痕：弗里德曼派归因主观性失判断，伯格派归因习惯养成之推销术（行3040-3044）；器官捐献问卷例"
+    },
+    {
+      "claim_id": "C-WJ2-UU0038-03",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "网络隐私泄露多经登门术：先给一点信息，之后逐步全给",
+      "quote": "不知不觉地成为了登门术的受害者",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3048,
+        "end_line": 3048,
+        "sha1": "740aaa4349ad117c0e751b1fffe08edea60c27c6",
+        "fingerprint": [
+          "隐私信息",
+          "社交媒体"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "隐私泄露与登门术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "网络时代登门术不需登门；邮件社交媒体小要求→大要求"
+    },
+    {
+      "claim_id": "C-WJ2-UU0038-04",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "逆向登门术：先提无理大要求再提小要求，对方更易答应",
+      "quote": "先提出一个很大的无理要求",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3052,
+        "end_line": 3054,
+        "sha1": "8e29fe77a117903ac0960c2b93a2c3f15c5227d0",
+        "fingerprint": [
+          "假两难",
+          "延迟请求"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "逆向登门术",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "假两难例（送礼物或请吃饭，本可都拒绝）、延迟请求例（改期凑时间）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0038-05",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "破除登门术最简单的办法是设明确红线，红线外的事坚决不做",
+      "quote": "设置一条明确的红线",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3056,
+        "end_line": 3058,
+        "sha1": "456cc619515efc070e5862499a958fd75b393781",
+        "fingerprint": [
+          "红线",
+          "交情"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "红线破登门术",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "吴军当场拒绝前同事孩子住家（\"交情还不到这一步\"）；把自己当机器的判断类比"
+    },
+    {
+      "claim_id": "C-WJ2-UU0038-06",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "管理他人尤其老板的预期，可防被登门术占便宜",
+      "quote": "管理好你周围人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3060,
+        "end_line": 3062,
+        "sha1": "a290a01b03bf27acc1fae377ba310d1f2f5d3ec7",
+        "fingerprint": [
+          "预期",
+          "加班"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-1"
+      ],
+      "concept_key": "管理预期防登门术",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "老板紧急加班例；被反复欺负的总是不善管理预期的少数人"
+    },
+    {
+      "claim_id": "C-WJ2-UU0038-07",
+      "unit_id": "WJ2-U0038",
+      "speaker": "吴军本人",
+      "claim_text": "经常加班说明企业管理无效，属浪费时间的疲劳战术，对业绩无帮助",
+      "quote": "经常加班只能说明他们的管理无效",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3062,
+        "end_line": 3062,
+        "sha1": "4320ff371c935ca1174b6e4a50cef2135b82f227",
+        "fingerprint": [
+          "疲劳战术",
+          "KPI"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "加班即管理无效",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "多数零效果工作应从KPI删除，不加班也能提高利润；与伪工作主题同源"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "登门术机理、变体与两条破法及加班批判共7卡"
+}

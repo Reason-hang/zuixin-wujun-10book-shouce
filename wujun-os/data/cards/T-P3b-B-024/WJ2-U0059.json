@@ -1,0 +1,142 @@
+{
+  "unit_id": "WJ2-U0059",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0059-01",
+      "unit_id": "WJ2-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "人文历史类深度游，出发前先做足功课，去了才有收获",
+      "quote": "去了之后才会有比较多的收获",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4594,
+        "end_line": 4596,
+        "sha1": "44c368dc5593153af7a8de931f59718b7fe927d8",
+        "fingerprint": [
+          "功课",
+          "历史文化",
+          "深度游"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "深度游先做功课",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：三峡之行前先了解历史文化"
+    },
+    {
+      "claim_id": "C-WJ2-U0059-02",
+      "unit_id": "WJ2-U0059",
+      "speaker": "转述·第三方",
+      "claim_text": "学问没有捷径：世上没有通往几何学的皇家大道",
+      "quote": "没有通往几何学的皇家大道",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4620,
+        "end_line": 4620,
+        "sha1": "52596845f91d443d25d5529ee7d3668874d7123d",
+        "fingerprint": [
+          "欧几里得",
+          "捷径"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学问没有皇家大道",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：欧几里得（据传答托勒密问学习捷径）；吴军借以言学习无捷径"
+    },
+    {
+      "claim_id": "C-WJ2-U0059-03",
+      "unit_id": "WJ2-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "认可服务价值的社会，服务收费按时间而非靠换件加价",
+      "quote": "服务的收费是按照时间来的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4640,
+        "end_line": 4642,
+        "sha1": "65ac92e98d07addb3c8bcbc051999bd906610cd0",
+        "fingerprint": [
+          "服务",
+          "时间",
+          "信誉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "服务按时间收费",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：保时捷/法拉利换机油工时费占大头"
+    },
+    {
+      "claim_id": "C-WJ2-U0059-04",
+      "unit_id": "WJ2-U0059",
+      "speaker": "吴军本人",
+      "claim_text": "为收费把不该换的也换反而失去信誉；收费比同行低、服务更好就对得起良心",
+      "quote": "反而失去了信誉",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4642,
+        "end_line": 4642,
+        "sha1": "7172da555168a468520921379afb50e2a1d49d20",
+        "fingerprint": [
+          "市场规律",
+          "淘汰",
+          "同业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "低价优服对得起良心",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "回应汽修店定价困境；'市场会淘汰不合理做法'"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0059",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "旅行四阶段与自由行三件事（交流禁忌/通信支付/安全防盗）清单属游记旅行类，仅抽'先做功课'方法论"
+    },
+    {
+      "unit_id": "WJ2-U0059",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "托勒密生平、托勒密王朝、亚历山大城与罗塞塔石碑等史实叙述——人物史，仅留欧几里得名言转述卡"
+    },
+    {
+      "unit_id": "WJ2-U0059",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（苹果/颜文字/凡夫俗子）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "旅行问答抽功课方法论与服务定价判断，游记与史实分别记X3/X4，读者原文记X7"
+}

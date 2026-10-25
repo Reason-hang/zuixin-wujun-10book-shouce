@@ -1,0 +1,169 @@
+{
+  "unit_id": "WJ2-U0061",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0061-01",
+      "unit_id": "WJ2-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "不要因为别人讲了什么（包括专栏推荐），就从自己领域转到他讲的领域",
+      "quote": "千万不要因为我讲到了什么",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4762,
+        "end_line": 4762,
+        "sha1": "2b4d38edd69426e6e6d71f3d57a404c62cde46de",
+        "fingerprint": [
+          "另一个领域",
+          "讲过的领域"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "勿因人言而转行",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专栏只提供信息，不能替代自身判断"
+    },
+    {
+      "claim_id": "C-WJ2-U0061-02",
+      "unit_id": "WJ2-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "职业选择从喜好、特长、行业发展三方向分析；三者一致最好，有一致亦可",
+      "quote": "从自己的喜好、自己的特长",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4764,
+        "end_line": 4766,
+        "sha1": "58a16a62e54b064a50539e836627c53ae4d182e8",
+        "fingerprint": [
+          "喜好",
+          "特长",
+          "将来行业的发展"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "择业三方向分析",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "杨先生自析思路获吴军肯定；自身因素至少一项与行业前景一致即可接受"
+    },
+    {
+      "claim_id": "C-WJ2-U0061-03",
+      "unit_id": "WJ2-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "转行决策应从熟悉领域入手、长期深耕，并为未来转型预留选择空间",
+      "quote": "以长期深耕为策略",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4750,
+        "end_line": 4750,
+        "sha1": "6a07f57c0038c79d139d66b6b24ef6dffb1f4449",
+        "fingerprint": [
+          "熟悉的领域",
+          "深耕",
+          "预留"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "熟悉领域深耕预留转型",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "呼应4798：先出成绩、掌握研究方法，再转不迟"
+    },
+    {
+      "claim_id": "C-WJ2-U0061-04",
+      "unit_id": "WJ2-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "他人只能帮你补充信息打开思路，最后的主意必须自己拿",
+      "quote": "所有的决定其实还都得自己拿",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4756,
+        "end_line": 4756,
+        "sha1": "628ec3b6cd859ee80d4fc77db7bdc2f73a9e70db",
+        "fingerprint": [
+          "一扇窗",
+          "信息",
+          "决定"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "主意自己拿",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与'分享利益，独立决定'相邻；信首信尾两次强调"
+    },
+    {
+      "claim_id": "C-WJ2-U0061-05",
+      "unit_id": "WJ2-U0061",
+      "speaker": "吴军本人",
+      "claim_text": "新工艺取代老工艺前景巨大，成败关键在于把成本降下来",
+      "quote": "它的关键在于降低成本",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4770,
+        "end_line": 4770,
+        "sha1": "ed4885c19b22bec7ab4d899b9f2cd29be5507b70",
+        "fingerprint": [
+          "新工艺",
+          "老工艺",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "新工艺成败在降成本",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：微生物制造替代传统化工工艺"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0061",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "杨先生来信原文（自析两种方向优劣）"
+    },
+    {
+      "unit_id": "WJ2-U0061",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "生物材料/纳米材料/合成生物市场规模预测、PHA替代塑料与加州新泽西禁塑令效果等时效行业数据评论"
+    },
+    {
+      "unit_id": "WJ2-U0061",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文稿末尾来信方式运营提示"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "择业回信：抽三方向择业法与独立决策等可迁移判断，行业规模预测与读者原文记X"
+}

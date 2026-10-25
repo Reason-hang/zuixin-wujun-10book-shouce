@@ -1,0 +1,214 @@
+{
+  "unit_id": "WJ2-U0041",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0041-01",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "找工作三优先：总部优先分公司、核心业务优先辅助部门、盈利部门优先烧钱部门",
+      "quote": "总部优先于分公司",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3236,
+        "end_line": 3236,
+        "sha1": "3e9eb2917994eb78ce0790f57e9300dfd6917cc3",
+        "fingerprint": [
+          "三优先",
+          "总部"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "求职三优先",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：深圳总部vs成都分公司；腾讯IT核心岗vs国泰君安IT辅助岗（行3240-3242）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0041-02",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "工作安全取决于替代成本高低，裁员期出于自我保护留一手有必要",
+      "quote": "留一手还是有必要的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3248,
+        "end_line": 3248,
+        "sha1": "e2e4affe207dcbd08ccaece80e2dce86bc03ccd8",
+        "fingerprint": [
+          "切换",
+          "绩效"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "替代成本定安全",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "绩效好未必安全（易被取代）；裁掉部门又以合同工请回例；不赞同凡事留一手为前提"
+    },
+    {
+      "claim_id": "C-WJ2-UU0041-03",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "比例裁员中最危险的是人缘最差者，领导会借机打击异己",
+      "quote": "而是人缘最差的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3250,
+        "end_line": 3250,
+        "sha1": "226e7d350435e30eac704784c078bfcc08c2875e",
+        "fingerprint": [
+          "人缘",
+          "打击异己"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "裁员先裁人缘差",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "平时做事留三分余地；第二类易裁者=工资高绩效差或入职短未熟业务（行3252）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0041-04",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "临近裁员时打听安全部门并提前联络感情，且千万别去度假",
+      "quote": "千万别去度假",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3256,
+        "end_line": 3258,
+        "sha1": "0891c56e480690f50c757c527559a7b79dfb9804",
+        "fingerprint": [
+          "牺牲品",
+          "度假"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "裁员前勿度假",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "不在场者最不得罪人故成牺牲品（某总监度假期间部门被撤例）；平时认识猎头留退路（行3260）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0041-05",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "别人的机会未必是你的机会甚至是灾难，要关注防灾而非抓机会",
+      "quote": "不是把握机会，而是防灾",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3270,
+        "end_line": 3270,
+        "sha1": "b449a930c055a18ee592cdf2781d091ef5afdec4",
+        "fingerprint": [
+          "机会",
+          "灾难"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-1"
+      ],
+      "concept_key": "他人机会或是灾难",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "针对\"如何成为AI专家\"提问；与\"人人有的机会不叫机会\"（CK-0731）同族"
+    },
+    {
+      "claim_id": "C-WJ2-UU0041-06",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "只有复杂的劳动才值钱，所有人一学就会的技能不值钱",
+      "quote": "只有复杂的劳动才值钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3272,
+        "end_line": 3272,
+        "sha1": "eb3533a5bc0106a545631ec999285810d2ccf117",
+        "fingerprint": [
+          "劳动价值论",
+          "韭菜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "复杂劳动才值钱",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "开AI班挣钱者是割韭菜而非行业成就；呼应劳动价值论课程"
+    },
+    {
+      "claim_id": "C-WJ2-UU0041-07",
+      "unit_id": "WJ2-U0041",
+      "speaker": "吴军本人",
+      "claim_text": "高门槛知识无法快速掌握，与现有储备无关的新技术大概率学不会",
+      "quote": "想要快速掌握是不可能的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3272,
+        "end_line": 3274,
+        "sha1": "2d74babc8ecedc4bd25e47714bc0b4dbc8f7974d",
+        "fingerprint": [
+          "门槛",
+          "人工智能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "高门槛技能难速成",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "金融低门槛vs医学高门槛，计算机偏后者；好方法只能稍快、不以减少学习量为前提（行3274）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0041",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "读者黄鸿鸣问带孩子吃苦，吴军答\"真吃苦vs假吃苦\"（行3214-3222）属亲子教育方法，记X5；其辨伪原则（旅游吃苦不搭）留于理由中不单独成卡"
+    },
+    {
+      "unit_id": "WJ2-U0041",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者Deabe对赌赛道、差异化、品质至上的长篇观点（行3266-3268）系读者发言，不得E1，记X7；吴军仅回应其学习问题"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "问答单元：裁员准备与学习问题中吴军7条职场/学习方法论成卡；亲子段记X5、读者观点记X7"
+}

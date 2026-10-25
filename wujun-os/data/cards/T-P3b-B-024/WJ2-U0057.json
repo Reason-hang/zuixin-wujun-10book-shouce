@@ -1,0 +1,161 @@
+{
+  "unit_id": "WJ2-U0057",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0057-01",
+      "unit_id": "WJ2-U0057",
+      "speaker": "转述·第三方",
+      "claim_text": "语言的边界就是世界的边界——不会当地语言就无法生活在当地世界",
+      "quote": "语言的边界就是我的世界的边界",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4466,
+        "end_line": 4466,
+        "sha1": "703bd6373440489c18f3ba9e231780627bcfc2b5",
+        "fingerprint": [
+          "维特根斯坦",
+          "边界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "语言边界即世界边界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦；吴军取用于移民语言学习（'无法生活在当地世界里'），取用部分亦含于本卡claim"
+    },
+    {
+      "claim_id": "C-WJ2-U0057-02",
+      "unit_id": "WJ2-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "仅靠旧信息源了解新环境会损失完整性，把自己与身边世界隔绝",
+      "quote": "把自己和身边的世界隔绝开了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4476,
+        "end_line": 4476,
+        "sha1": "25f82db6f08fd1c4bb9eb5ab0c69592ba91afbc8",
+        "fingerprint": [
+          "信息",
+          "媒体",
+          "完整性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "信息源要本地化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：身在国外却只看中文媒体"
+    },
+    {
+      "claim_id": "C-WJ2-U0057-03",
+      "unit_id": "WJ2-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "有翻译软件就不学语言是自欺欺人且怯弱，语言学习是一辈子的事",
+      "quote": "这是一种自欺欺人的想法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4474,
+        "end_line": 4474,
+        "sha1": "6a959ece4e929d6d621c9480ecb46cec37d5a024",
+        "fingerprint": [
+          "翻译软件",
+          "一辈子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "翻译软件替代不了学语言",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0057-01互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0057-04",
+      "unit_id": "WJ2-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "华尔街硅谷等精英群体不到人口5%，是精英社会而非主流社会",
+      "quote": "不一定代表主流社会",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4484,
+        "end_line": 4484,
+        "sha1": "f442032505314b14769ad59d29861ff6c8ff43a5",
+        "fingerprint": [
+          "精英社会",
+          "主流社会",
+          "5%"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "精英不等于主流",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第一代移民融入目标别定太高"
+    },
+    {
+      "claim_id": "C-WJ2-U0057-05",
+      "unit_id": "WJ2-U0057",
+      "speaker": "吴军本人",
+      "claim_text": "以当地人习惯的方式生活做事，是麻烦最少、最省力的做法",
+      "quote": "麻烦最少、最省力的做法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4502,
+        "end_line": 4502,
+        "sha1": "a2ac1b619d7ca7c5adf5e042aa56d7dc39fd0172",
+        "fingerprint": [
+          "入乡随俗",
+          "罗马"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "入乡随俗最省力",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "中西方谚语同义（入乡随俗/When in Rome）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0057",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "融入当地实务：主流社会三特点、多元文化政策、参选听证、广场舞等禁忌事项"
+    },
+    {
+      "unit_id": "WJ2-U0057",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "五岁前完全双语教育可成双母语（雅让斯基教授）属亲子教育内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "融入社会主题抽语言/信息/主流观等可迁移判断，融入实务记X8、双语教育记X5"
+}

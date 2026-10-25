@@ -1,0 +1,161 @@
+{
+  "unit_id": "WJ2-U0048",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0048-01",
+      "unit_id": "WJ2-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "财富是我们能调动资源的总和，其中最值钱的是劳动力资源",
+      "quote": "财富是我们能调动资源的总和",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3792,
+        "end_line": 3792,
+        "sha1": "4269b85375af5e03177dc5015ff037af628692a1",
+        "fingerprint": [
+          "调动资源",
+          "劳动力资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财富即调动资源的能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "重申前信观点；与《什么是财富？》同概念，跨书线索"
+    },
+    {
+      "claim_id": "C-WJ2-U0048-02",
+      "unit_id": "WJ2-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "为他人服务可换取他人为自己服务；人人都参与经济活动，社会才会富有",
+      "quote": "需要所有的人都忙碌起来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3800,
+        "end_line": 3802,
+        "sha1": "714db3d6653d2465672ca31d09e268fc5a997351",
+        "fingerprint": [
+          "忙碌",
+          "躺平",
+          "富有"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "人人参与经济社会才富",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：两种社会模型对比、躺平发生活费批判"
+    },
+    {
+      "claim_id": "C-WJ2-U0048-03",
+      "unit_id": "WJ2-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "光有基础设施没有上面的服务，它们是债务而不是资产",
+      "quote": "其实是债务，而不是资产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3816,
+        "end_line": 3816,
+        "sha1": "10d8e89d2986dc1500fb33fd1898a879fe01353e",
+        "fingerprint": [
+          "基础设施",
+          "债务"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "无服务的基础设施是负债",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：非洲铁路年年赔钱；类比囤积打折商品成负担"
+    },
+    {
+      "claim_id": "C-WJ2-U0048-04",
+      "unit_id": "WJ2-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "把财富用于支持科学与艺术创造，其价值超过任何实物资产",
+      "quote": "价值要超过世界上任何的实物资产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3818,
+        "end_line": 3822,
+        "sha1": "cf28fc28f6702a890c73621484db618b75679728",
+        "fingerprint": [
+          "美第奇",
+          "米开朗基罗",
+          "伽利略"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "资助创造胜过置产",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：修城堡贵族破产vs美第奇资助文艺复兴；运用财富从大处着眼"
+    },
+    {
+      "claim_id": "C-WJ2-U0048-05",
+      "unit_id": "WJ2-U0048",
+      "speaker": "吴军本人",
+      "claim_text": "求发展就要克服人喜欢实、害怕虚的天性",
+      "quote": "求发展，就需要克服人的很多天性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3824,
+        "end_line": 3826,
+        "sha1": "287b3ec8f7a09f9089b796edf4d71dd006c6d873",
+        "fingerprint": [
+          "天性",
+          "狮子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "克服求实怕虚天性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与3938实虚经济论述呼应"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0048",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "服务业占GDP比重与经济水平的跨国数据、'未来经济方向'判断属宏观经济趋势叙述，按时效预测批次特则记X6"
+    },
+    {
+      "unit_id": "WJ2-U0048",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "工业产能过剩、经济靠需求拉动等宏观论断（3804-3810、3824部分）属宏观经济叙述"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "服务业价值与财富本质多条可迁移判断成卡，宏观趋势部分记X6"
+}

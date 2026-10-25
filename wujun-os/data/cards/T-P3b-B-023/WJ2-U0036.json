@@ -1,0 +1,148 @@
+{
+  "unit_id": "WJ2-U0036",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0036-01",
+      "unit_id": "WJ2-U0036",
+      "speaker": "转述·第三方",
+      "claim_text": "狄德罗效应：拥有新物品后不断配置相适应物品以达到心理平衡",
+      "quote": "不断配置与其相适应的物品",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2898,
+        "end_line": 2898,
+        "sha1": "ca2cfa98c764bc304f48fc20e45dfc2776b37fa2",
+        "fingerprint": [
+          "配套效应",
+          "施罗尔"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "狄德罗效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：经济学家朱丽叶·施罗尔（1999《过度消费的美国人》）；源头为狄德罗《与旧睡袍别离后的烦恼》"
+    },
+    {
+      "claim_id": "C-WJ2-UU0036-02",
+      "unit_id": "WJ2-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "消费需有度：个人超度即财富清零，经济体超度即经济危机",
+      "quote": "消费都需要有一个度",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2906,
+        "end_line": 2906,
+        "sha1": "2805ab740a8095229b6f8043deef2f4bf2b19f60",
+        "fingerprint": [
+          "财富的清零",
+          "经济危机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "消费需有度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "狄德罗效应是人性弱点；例证：1999美国过度消费与互联网泡沫、谷歌同事弃用信用卡"
+    },
+    {
+      "claim_id": "C-WJ2-UU0036-03",
+      "unit_id": "WJ2-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "极少人能自己发现问题并及时止损，多数人不知不觉越陷越深",
+      "quote": "在不知不觉中越陷越深",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2910,
+        "end_line": 2916,
+        "sha1": "086d2ae03d026ea081d306d99c2fc96194aa068b",
+        "fingerprint": [
+          "箕子",
+          "司马迁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-2"
+      ],
+      "concept_key": "及时止损者少",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "箕子叹纣（《智囊全集》载，司马迁韩非皆用）为狄德罗效应古代版；吴军辨纣王罪过多为后人杜撰"
+    },
+    {
+      "claim_id": "C-WJ2-UU0036-04",
+      "unit_id": "WJ2-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "享受好东西是入戏，不沉溺保持本性是出戏，做主人而非物质的奴隶",
+      "quote": "才能成为主人，而不是物质的奴隶",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2926,
+        "end_line": 2926,
+        "sha1": "017acb72f9aaf1d8c655eae074cc606617021667",
+        "fingerprint": [
+          "入戏",
+          "出戏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-4"
+      ],
+      "concept_key": "入戏出戏与消费",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "化用狄德罗《演员奇谈》入戏出戏之辨（E2线索：演员须解决该矛盾方成好演员，行2922）；陈晓旭本色出演为例外"
+    },
+    {
+      "claim_id": "C-WJ2-UU0036-05",
+      "unit_id": "WJ2-U0036",
+      "speaker": "吴军本人",
+      "claim_text": "为好生活努力的欲望是动力，为奢侈疲于奔波时幸福已远去",
+      "quote": "幸福其实已经离我们越来越远了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2928,
+        "end_line": 2928,
+        "sha1": "f9d38c434b960e63943611dc8eafaffe7d038848",
+        "fingerprint": [
+          "欲望",
+          "动力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "欲望动力与幸福",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信收束句；末尾留言互动语按数据处理不抽（HC-20）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "狄德罗效应概念（转述）与吴军消费观、止损观、入戏出戏方法论共5卡"
+}

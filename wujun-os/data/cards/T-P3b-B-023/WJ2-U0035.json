@@ -1,0 +1,174 @@
+{
+  "unit_id": "WJ2-U0035",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0035-01",
+      "unit_id": "WJ2-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "对历史了解多了人就会宠辱不惊，眼前麻烦比历史大事算不上什么",
+      "quote": "人就会渐渐变得宠辱不惊",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2809,
+        "end_line": 2813,
+        "sha1": "99c0cee89d78d66ef44c37eba05328204b8455ab",
+        "fingerprint": [
+          "沈志华",
+          "看得开"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "历史视角宠辱不惊",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：沈志华屡遭不公仍坦然；张益唐颐和园之叹与高考恢复并入此论证链（行2821-2827）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0035-02",
+      "unit_id": "WJ2-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "历史偶然因素的抖动远大于个人努力可驾驭的范围",
+      "quote": "自己的那点努力，被历史一抖动",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2817,
+        "end_line": 2819,
+        "sha1": "691df41d60de0d2f7f023395dd2767cbf3e93364",
+        "fingerprint": [
+          "偶然因素",
+          "抖动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "历史偶然大于个人努力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "反驳历史必然进步的宗教式期待；吴军自述早生10年则努力作废"
+    },
+    {
+      "claim_id": "C-WJ2-UU0035-03",
+      "unit_id": "WJ2-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "历史必然性的周期可能长过人的生命，不能忽视偶然性的作用",
+      "quote": "周期可能太长，长过我们的生命",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2846,
+        "end_line": 2848,
+        "sha1": "8000cc0b46c583ce92a92db07a00455bcde52910",
+        "fingerprint": [
+          "上升通道",
+          "解套"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D03-2"
+      ],
+      "concept_key": "必然周期长过生命",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：美股1929-50年代回本、日本股市90年代入市者近年才解套；宇文家全族被诛见行2835-2844（偶然性之威力）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0035-04",
+      "unit_id": "WJ2-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "条件不一样的历史对比没有意义，不能当行为指南",
+      "quote": "苹果和橘子的对比",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2852,
+        "end_line": 2858,
+        "sha1": "015ef63700257699d7c3dbb53ddd1f507f528890",
+        "fingerprint": [
+          "日本",
+          "苹果和橘子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "不当对比无意义",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：以日本逝去的30年类比中国；1990年日本泡沫程度、人口与人均GDP条件均不同"
+    },
+    {
+      "claim_id": "C-WJ2-UU0035-05",
+      "unit_id": "WJ2-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "现实问题就事论事、活在当下，用现实的方法解决",
+      "quote": "就事论事、活在当下",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2860,
+        "end_line": 2862,
+        "sha1": "48d0b37e0ddd9e46f76783be30a0532e1971072d",
+        "fingerprint": [
+          "活在当下",
+          "投行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "就事论事活在当下",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：投行分析师因类比70年代通胀错判美国经济；与C-WJ2-U0032-06同旨互引"
+    },
+    {
+      "claim_id": "C-WJ2-UU0035-06",
+      "unit_id": "WJ2-U0035",
+      "speaker": "吴军本人",
+      "claim_text": "每个人都在一起书写历史，不要小看自己行为的长远影响",
+      "quote": "不要小看我们每一个人的行为",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2864,
+        "end_line": 2868,
+        "sha1": "066b9a4fdcf057957c0bd44907be949dbc56ee82",
+        "fingerprint": [
+          "费城",
+          "书写历史"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "人人都在书写历史",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：费城制宪者妥协 vs 法国激进变革；澳洲优步司机罢工中的搭便车行为"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "从历史中收获心态与方法的六个独立判断全部成卡"
+}

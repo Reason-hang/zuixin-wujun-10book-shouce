@@ -1,0 +1,79 @@
+{
+  "unit_id": "WJ2-U0055",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0055-01",
+      "unit_id": "WJ2-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "把人当负担就排斥、当资源就欢迎——观念不同，态度也就不同",
+      "quote": "把人口当做资源",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4328,
+        "end_line": 4328,
+        "sha1": "95a95035ddb61282af3b1d9cae588c47b93d31c4",
+        "fingerprint": [
+          "负担",
+          "形势比人强"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-1"
+      ],
+      "concept_key": "把人当资源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "从国家移民态度引申的用人观；例证：德日转变"
+    },
+    {
+      "claim_id": "C-WJ2-U0055-02",
+      "unit_id": "WJ2-U0055",
+      "speaker": "吴军本人",
+      "claim_text": "普通专业人士到人才稀缺的起步市场，可能获得在本国没有的发展路径",
+      "quote": "在当地获得新的发展空间",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4370,
+        "end_line": 4370,
+        "sha1": "29eaa85569e20a11bfb89a304ad48a10aeca24ed",
+        "fingerprint": [
+          "专业特长",
+          "发展路径"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "稀缺市场放大专才",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：普通机械工程师到起步期的马来西亚"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0055",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "美加澳德日韩与希腊等国移民政策、配额与积分制度介绍——移民实务"
+    },
+    {
+      "unit_id": "WJ2-U0055",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2024年9月希腊投资门槛提高至80万欧元、加澳收紧配额等时效政策数据"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "国家比较以移民实务为主记X8/X2，仅抽两条可迁移判断"
+}

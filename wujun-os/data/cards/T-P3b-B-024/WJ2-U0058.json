@@ -1,0 +1,143 @@
+{
+  "unit_id": "WJ2-U0058",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0058-01",
+      "unit_id": "WJ2-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "世上没有天国：很多诉求彼此根本矛盾，既要又要必然普遍不满",
+      "quote": "在这片大地上是没有天国的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4516,
+        "end_line": 4518,
+        "sha1": "1de9e13a1ed3767c764335d5409fc9f7ef714585",
+        "fingerprint": [
+          "天国",
+          "矛盾",
+          "满意"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D02-4"
+      ],
+      "concept_key": "世上没有天国",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：欧美执政者支持率难过半"
+    },
+    {
+      "claim_id": "C-WJ2-U0058-02",
+      "unit_id": "WJ2-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "既要增长红利又要低竞争平和环境，逻辑上不可能同时成立",
+      "quote": "在逻辑上是不可能同时成立的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4522,
+        "end_line": 4522,
+        "sha1": "85c8b07c5cb1c6d5b5f7ca902a36a451551475a8",
+        "fingerprint": [
+          "东食西宿",
+          "增长",
+          "竞争"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "增长与平和不可兼得",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "东食西宿之诫；例证：30年前出国者20年后想两头通吃而尴尬"
+    },
+    {
+      "claim_id": "C-WJ2-U0058-03",
+      "unit_id": "WJ2-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "后悔药要趁早吃：决定回头就早点止损，越晚损失越大",
+      "quote": "如果要止损，得早点止",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4554,
+        "end_line": 4558,
+        "sha1": "de51d0e0d3e790853ad0ca6321c2e9c0ca5150a6",
+        "fingerprint": [
+          "后悔药",
+          "止损",
+          "损失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "早决定早止损",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：大院同学50多岁回国进退两难"
+    },
+    {
+      "claim_id": "C-WJ2-U0058-04",
+      "unit_id": "WJ2-U0058",
+      "speaker": "吴军本人",
+      "claim_text": "对环境越熟悉越感安全，越陌生越感不安全",
+      "quote": "越陌生，就感到越不安全",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4548,
+        "end_line": 4548,
+        "sha1": "81259102bd9ccf4051c7dad4cd86b6d7de9f7952",
+        "fingerprint": [
+          "熟悉",
+          "安全"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D01-1"
+      ],
+      "concept_key": "安全感来自熟悉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "移民更易成罪犯目标为其延伸"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0058",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "三大后悔点（税率/寂寞/治安）的各国数据比较与适应叙述属移民实务"
+    },
+    {
+      "unit_id": "WJ2-U0058",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "60岁投靠子女移民、'保持距离相见欢'等家庭关系内容"
+    },
+    {
+      "unit_id": "WJ2-U0058",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾留言区分享邀请"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "后悔药主题抽期望管理与止损判断，移民实务与家庭内容记X"
+}

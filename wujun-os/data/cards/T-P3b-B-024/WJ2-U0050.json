@@ -1,0 +1,154 @@
+{
+  "unit_id": "WJ2-U0050",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0050-01",
+      "unit_id": "WJ2-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "现实世界得不到的满足，很多人愿在虚拟世界花钱获取",
+      "quote": "希望在虚拟世界中得到满足",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3938,
+        "end_line": 3938,
+        "sha1": "6efcde22cd30f3f6f88e49afe64e801400181f29",
+        "fingerprint": [
+          "虚拟世界",
+          "满足"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D02-4"
+      ],
+      "concept_key": "现实缺失虚拟补足",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：腾讯阿凡达头像、QQ农场高老板、二次元餐厅"
+    },
+    {
+      "claim_id": "C-WJ2-U0050-02",
+      "unit_id": "WJ2-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "虚拟世界的经历不要太当真，人最终要回到现实世界的生活",
+      "quote": "最终还是要回到现实世界",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3942,
+        "end_line": 3942,
+        "sha1": "51fa27d93149c27ec704d2fcc14e93b0df63b5cb",
+        "fingerprint": [
+          "当真",
+          "现实世界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "虚拟经历别当真",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-WJ2-U0050-03",
+      "unit_id": "WJ2-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "实与虚的边界远不如想象清晰，分清真实与虚幻世界并不容易",
+      "quote": "真实的世界和虚幻的世界",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3952,
+        "end_line": 3958,
+        "sha1": "15d7604dda82af7e1899e9d97b16905e825c5774",
+        "fingerprint": [
+          "庄周梦蝶",
+          "洞穴",
+          "幻象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "实虚边界不清晰",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：印度那罗陀幻象故事；引硅谷来信庄周梦蝶/洞穴，跨书线索"
+    },
+    {
+      "claim_id": "C-WJ2-U0050-04",
+      "unit_id": "WJ2-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "把练习想象成与顶尖选手的真实较量，虚拟场景能实实在在影响做事结果",
+      "quote": "影响了他打球的结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3964,
+        "end_line": 3966,
+        "sha1": "9b55c24a75a0fbb169efa4426c4ada47ae28926f",
+        "fingerprint": [
+          "森川",
+          "想象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "想象对手认真练习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：朋友练习时想象与科林·森川比赛，每球必争"
+    },
+    {
+      "claim_id": "C-WJ2-U0050-05",
+      "unit_id": "WJ2-U0050",
+      "speaker": "吴军本人",
+      "claim_text": "无论在哪个世界得到满足，只要自己过得幸福就好",
+      "quote": "只要自己能过得幸福就好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3968,
+        "end_line": 3968,
+        "sha1": "1a86b50237a7e7ca01ea5f67ac284d0c5acd3458",
+        "fingerprint": [
+          "满足",
+          "幸福"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "哪里满足都幸福",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0050",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'经济生活进一步虚化、向虚拟世界过渡'与'建设虚拟世界比现实世界更容易'属趋势预测"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "虚拟世界主题下的心理与认知判断成卡，趋势预测记X6"
+}

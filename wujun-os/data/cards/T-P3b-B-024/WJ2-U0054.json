@@ -1,0 +1,114 @@
+{
+  "unit_id": "WJ2-U0054",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0054-01",
+      "unit_id": "WJ2-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "移民任何时候都不晚；重大人生决定取决于个人处境，而非时间或年龄",
+      "quote": "移民任何时候都不晚",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4262,
+        "end_line": 4264,
+        "sha1": "2aa3bb09113c3ba52aa4deabbb817d6d79869b60",
+        "fingerprint": [
+          "时间问题",
+          "处境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "重大决定看处境",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "移民语境下的普遍决策原则"
+    },
+    {
+      "claim_id": "C-WJ2-U0054-02",
+      "unit_id": "WJ2-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "随大流做移民等重大决定、依据他人想法而非自己愿景，是后悔的第一大原因",
+      "quote": "而是他人的想法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4266,
+        "end_line": 4268,
+        "sha1": "2cbcb6109cf5241a7f975643a273f39cf84e39c2",
+        "fingerprint": [
+          "随大流",
+          "愿景",
+          "后悔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D02-3"
+      ],
+      "concept_key": "不随大溜",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：看同学出国心里痒痒、家长跟风国际学校"
+    },
+    {
+      "claim_id": "C-WJ2-U0054-03",
+      "unit_id": "WJ2-U0054",
+      "speaker": "吴军本人",
+      "claim_text": "所谓国外寂寞，背后是缺了人的恭维——习惯被恭维者落差最大",
+      "quote": "寂寞的背后是缺了人的恭维",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4280,
+        "end_line": 4280,
+        "sha1": "07a02b928fcc47db1a3a591a6c6f8d349537d8ab",
+        "fingerprint": [
+          "落差",
+          "恭维"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-3"
+      ],
+      "concept_key": "寂寞背后是缺恭维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高净值人士移民不适的人性解释"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0054",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "按人群分析移民适配性（有钱人/高管/专业人士/医生律师/低端劳动者）及各国收入数据——移民实务，排除准则未单列子类暂按X8，待用户确认"
+    },
+    {
+      "unit_id": "WJ2-U0054",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "移民途径（亲属/工签/非法移民1100万）等实务信息"
+    },
+    {
+      "unit_id": "WJ2-U0054",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "英语国家近年收窄专业人士移民通道的时效政策评论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "移民专题仅抽可迁移的重大决策判断，移民实务按X8/X2处置"
+}

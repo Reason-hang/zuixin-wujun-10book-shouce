@@ -1,0 +1,131 @@
+{
+  "unit_id": "WJ2-U0056",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0056-01",
+      "unit_id": "WJ2-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "重大改变往往未见其利先见其害，没有长期愿景支撑，遇困难必打退堂鼓",
+      "quote": "未见其利，先见其害",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4400,
+        "end_line": 4400,
+        "sha1": "c098a0a6952efbe168b4a849f3493ce54ea0688b",
+        "fingerprint": [
+          "愿景",
+          "打退堂鼓"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D03-1"
+      ],
+      "concept_key": "愿景支撑闯初期",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：大院出身者回国、师兄为学术理想走通"
+    },
+    {
+      "claim_id": "C-WJ2-U0056-02",
+      "unit_id": "WJ2-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "光有想法不够，要在愿景与目标之间建立可一步步实现的路径",
+      "quote": "找到你和目标之间的路径",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4402,
+        "end_line": 4410,
+        "sha1": "5c043fc0da3e7603028d073bd63c748248351a9c",
+        "fingerprint": [
+          "目标",
+          "路径",
+          "原地"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "愿景需配目标与路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：出国读书路径选择（考托GRE、以科研成果弥补英语）；没路径者二十年原地不动"
+    },
+    {
+      "claim_id": "C-WJ2-U0056-03",
+      "unit_id": "WJ2-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "真正的决心不是一时冲动，而是想清楚愿意放弃现有一切的决心",
+      "quote": "打算好放弃掉现在一切",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4414,
+        "end_line": 4422,
+        "sha1": "793b08841785cf85fc48396b8295da5c0e29c206",
+        "fingerprint": [
+          "冲动",
+          "深思熟虑",
+          "放弃"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "决心是准备好放弃",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：为出国放弃副教授评审、公派毁约堵后路、有钱人下不了决心"
+    },
+    {
+      "claim_id": "C-WJ2-U0056-04",
+      "unit_id": "WJ2-U0056",
+      "speaker": "吴军本人",
+      "claim_text": "不必等财富自由才行动：换一个地方生活工作，人有两只手就能创造价值",
+      "quote": "人有两只手，就可以创造价值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4444,
+        "end_line": 4446,
+        "sha1": "a5dee6c98aff27c4dc31d4edf0cce505477854a6",
+        "fingerprint": [
+          "财富自由",
+          "工作机会",
+          "两只手"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D09-1"
+      ],
+      "concept_key": "两只手创造价值",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "欢迎移民的地方就有工作机会"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0056",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "移民三条件框架的移民专属应用与钱数建议（一万美元明细）、语言饮食等次要条件实务；语言相对次要之判断含于实务未单列"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "移民关键条件抽取愿景/路径/决心/行动力四条可迁移方法论，移民实务记X8"
+}

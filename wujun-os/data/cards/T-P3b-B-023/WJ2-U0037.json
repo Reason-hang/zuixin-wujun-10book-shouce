@@ -1,0 +1,127 @@
+{
+  "unit_id": "WJ2-U0037",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0037-01",
+      "unit_id": "WJ2-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "没人自认主观，但人的心理感受其实很主观，且可客观量化",
+      "quote": "主观的感受，也是可以客观量化",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2942,
+        "end_line": 2942,
+        "sha1": "dd980fc5405b3d4f40e12dcb038d37ab62314c20",
+        "fingerprint": [
+          "主观",
+          "心理疗法"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "主观感受可量化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "医生可定量度量难过程度；组织强调士气亦源于此"
+    },
+    {
+      "claim_id": "C-WJ2-UU0037-02",
+      "unit_id": "WJ2-U0037",
+      "speaker": "转述·第三方",
+      "claim_text": "韦伯定律：可感最小变化量与原习惯刺激量之比是常数K",
+      "quote": "之间的比值是一个常数",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2948,
+        "end_line": 2958,
+        "sha1": "9c350824ca85db0995b14d290f658cf45e0b14c2",
+        "fingerprint": [
+          "费希纳",
+          "差别阈限"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "韦伯定律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：韦伯、费希纳（ΔI/I=K）；吴军补充：K随刺激种类与个体而异，仅适用中等强度刺激（行2962-2964、3000）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0037-03",
+      "unit_id": "WJ2-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "对小价差过度敏感、对大额消费中占比小的差价不敏感，是普遍非理性",
+      "quote": "人们会忽视这1%的差异",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2970,
+        "end_line": 2976,
+        "sha1": "be27ba1b2718247668c76e89195892caaef4f820",
+        "fingerprint": [
+          "冲动性消费",
+          "敏感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "大额消费敏感度低",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：为几十元货比三家却对三十万的车差一万无感；代理商称约半数顾客冲动购车（行2976）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0037-04",
+      "unit_id": "WJ2-U0037",
+      "speaker": "吴军本人",
+      "claim_text": "商家反向利用韦伯定律：人对占比小的价差不敏感、对相对降幅很敏感",
+      "quote": "卖的人总比买的人精",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2980,
+        "end_line": 2982,
+        "sha1": "cdfcb09981ba78a4c381916f7b2bc117fdea82c9",
+        "fingerprint": [
+          "差别阈限",
+          "捡了便宜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-1"
+      ],
+      "concept_key": "商家反向利用韦伯定律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：咖啡机300元35%折 vs 200元10%折多赚15元；免费赠品把比值推到100%（美国微波炉盘子统计，行2988）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0037",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "韦伯定律在恋爱婚姻中的运用段（行2990-2996：付出无感、恋爱越久越平淡、换对象不更幸福）属爱情婚姻议题，记X5；心理机制已由卡02覆盖"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "认知规律卡4张；恋爱婚姻应用段按排除准则X5处理"
+}

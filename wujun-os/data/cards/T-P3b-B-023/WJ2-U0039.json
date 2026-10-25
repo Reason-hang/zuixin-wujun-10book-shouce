@@ -1,0 +1,181 @@
+{
+  "unit_id": "WJ2-U0039",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0039-01",
+      "unit_id": "WJ2-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "瓦拉赫效应系杜撰：错误的前提并不能有效地推导出结论",
+      "quote": "前提并不能有效地推导出结论",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3080,
+        "end_line": 3086,
+        "sha1": "5150ea9b469730f4a8bc663064d74a6d5acda054",
+        "fingerprint": [
+          "瓦拉赫效应",
+          "文学之材"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "错误前提推不出结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "真相：老师评语与化学老师发现天赋均杜撰（行3092-3094）；德英文查无瓦拉赫效应（行3102）；杜撰动机为教育内卷焦虑之慰藉（行3106，教育议题X5边缘留痕）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0039-02",
+      "unit_id": "WJ2-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "进入刚起步、参与者少的新领域，更容易取得成就",
+      "quote": "容易取得成就",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3100,
+        "end_line": 3100,
+        "sha1": "e03bc75866cdbb04030fa80134ff64cd1a46e6be",
+        "fingerprint": [
+          "有机化学",
+          "浸淫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D10-1"
+      ],
+      "concept_key": "新领域容易出头",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瓦拉赫入有机化学新赛道+浸淫45年（长期主义线索）；一战前15个化学诺奖有机占6席"
+    },
+    {
+      "claim_id": "C-WJ2-UU0039-03",
+      "unit_id": "WJ2-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "判断信息真假的简单办法：查它所在国家有无相关报道",
+      "quote": "所在的国家有没有相关的报道",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3104,
+        "end_line": 3104,
+        "sha1": "00d3607f6f42a45158cfaec91991478f845db216",
+        "fingerprint": [
+          "真假",
+          "英国"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "所在国报道验真假",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以瓦拉赫效应为例：本国无报道而他国盛传者必伪"
+    },
+    {
+      "claim_id": "C-WJ2-UU0039-04",
+      "unit_id": "WJ2-U0039",
+      "speaker": "转述·第三方",
+      "claim_text": "对语言理解的不同，造成许多根本不存在的哲学问题",
+      "quote": "根本不存在的哲学问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3112,
+        "end_line": 3112,
+        "sha1": "5673d7e7693520cfee4f29411f0a36af598011f9",
+        "fingerprint": [
+          "维特根斯坦",
+          "天赋"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "语言歧义造伪问题",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦；吴军取用于\"天赋\"定义之争（张三李四标准不一，成功是否靠天赋系伪问题）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0039-05",
+      "unit_id": "WJ2-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "天赋之外还需被发现、好学、努力与好运，条件是与关系缺一不可",
+      "quote": "缺了一个，都不可能成功了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3116,
+        "end_line": 3116,
+        "sha1": "ff7757e7ef7a25c4b52c5dde14aebd0415714647",
+        "fingerprint": [
+          "天赋",
+          "好运气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "成功条件与关系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与已有概念\"成就三要素相乘\"（CK-0128）同族；瓦拉赫全条件满足为正例"
+    },
+    {
+      "claim_id": "C-WJ2-UU0039-06",
+      "unit_id": "WJ2-U0039",
+      "speaker": "吴军本人",
+      "claim_text": "别指望天赋代替努力，踏实工作四五十年更现实",
+      "quote": "踏踏实实地努力工作45",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3144,
+        "end_line": 3144,
+        "sha1": "9a67d21d6a161851cedb3404108ed83d9c644648",
+        "fingerprint": [
+          "天才",
+          "天赋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "天赋不能代替努力",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "天才亿中一二（谭元元、张益唐例见行3118-3142，人物史X4）；普通人不应纠结天才叙事"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0039",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "谭元元、张益唐生平传记及轶事（行3118-3142，含勾股定理童年故事、拉马努金）为纯人物史，无可独立成卡的方法论，记X4；仅留天才稀缺判断于卡06"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "辨伪方法论与天赋-努力论共6卡（含1张维特根斯坦转述卡），人物史记X4"
+}

@@ -1,0 +1,310 @@
+{
+  "unit_id": "WJ2-U0062",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0062-01",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "偶发事件引起的增长如捡到兔子，不应作为经常性收入来考虑",
+      "quote": "不应该作为经常性收入来考虑",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4848,
+        "end_line": 4848,
+        "sha1": "aee5151349175dc5999f365f7bef5d5beebf92f1",
+        "fingerprint": [
+          "偶发事件",
+          "兔子",
+          "经常性收入"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "偶发增长不算经常收入",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：疫情线上化带来的超常业绩"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-02",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "中层扩编的私利：经理想升总监，最简单的办法就是招人",
+      "quote": "最简单的办法就是招人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4848,
+        "end_line": 4848,
+        "sha1": "aee5151349175dc5999f365f7bef5d5beebf92f1",
+        "fingerprint": [
+          "私利",
+          "总监",
+          "副总裁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "招人扩权动机",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：微软朋友管1000人当上副总裁；另有防对手挖人扩人才蓄水池动机（4860）"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-03",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "赢者通吃的IT行业不需要太多人：人数翻倍效率大降、收入增长有限",
+      "quote": "人数增加一倍，结果效率大幅降低",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4858,
+        "end_line": 4858,
+        "sha1": "237d50b94727c5a1243119ac81dea709dbc6e219",
+        "fingerprint": [
+          "赢者通吃",
+          "裁掉一半"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "赢者通吃不需人多",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "同概念见C-WJ2-U0049-01（就业视角），此为企业裁员视角"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-04",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "软件服务边际成本近零、规模效应明显，收入扩大本不需相应增人",
+      "quote": "边际成本几乎是零",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4860,
+        "end_line": 4860,
+        "sha1": "a9177dcd7982fda01d10eaaf5019f8bcd0064ab9",
+        "fingerprint": [
+          "边际成本",
+          "规模效应",
+          "人才蓄水池"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D04-2"
+      ],
+      "concept_key": "边际成本观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "重申硅谷来信边际成本概念，跨书线索"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-05",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "收入高低取决于所解决问题是否具体紧迫：管子工月嫂不比程序员挣得少",
+      "quote": "解决你具体紧迫的问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4866,
+        "end_line": 4866,
+        "sha1": "ff500b4a10ce8b613471726ae47b1d75a1ebdf81",
+        "fingerprint": [
+          "管子工",
+          "月嫂",
+          "紧迫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "解决紧迫问题收入高",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "收入水平决定因素：直接性与紧迫性"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-06",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "微观人人忙碌、宏观业务转圈；生命周期不过三月的工作就是伪工作",
+      "quote": "大部分的工作其实是可有可无的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4868,
+        "end_line": 4870,
+        "sha1": "9967ec1e88b09c6506f3d07a7835620f4a5917fb",
+        "fingerprint": [
+          "上帝视角",
+          "伪工作",
+          "转圈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "伪工作特征清单",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "重申伪工作概念（见识/硅谷来信），跨书线索；例证：软件按键改圆又改方"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-07",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "聪明的员工善于找到最重要的工作并优先完成它们",
+      "quote": "并且优先完成它们",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4872,
+        "end_line": 4872,
+        "sha1": "e5ca1f817d65935310b748bdc0b6fcb42acae2dd",
+        "fingerprint": [
+          "最重要的工作",
+          "优先"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2"
+      ],
+      "concept_key": "捡最重要的事先做",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "重申'捡最重要的事先做'（态度），跨书线索"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-08",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "读书应出于对知识的渴望，而不是为回避问题去读书",
+      "quote": "而不是回避问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4880,
+        "end_line": 4880,
+        "sha1": "54a0c80691a0d1ad6e6626d714c6c2d47a030726",
+        "fingerprint": [
+          "知识的渴望",
+          "学位",
+          "回避"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "求知而非避难",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "评'拿赔偿金留学'方案"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-09",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "慢生活旅居也要选有就业机会之地；只有公务员经济的小地方终会坐吃山空",
+      "quote": "大概率只能坐吃山空",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4882,
+        "end_line": 4882,
+        "sha1": "3d753c828511773b51e4c890abd1eced774127ea",
+        "fingerprint": [
+          "慢节奏",
+          "就业机会",
+          "公务员经济"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "旅居地要有就业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "评房车旅居方案；例证：腾讯员工深圳回成都可行"
+    },
+    {
+      "claim_id": "C-WJ2-U0062-10",
+      "unit_id": "WJ2-U0062",
+      "speaker": "吴军本人",
+      "claim_text": "努力不一定有结果，但不努力肯定不行；努力是一辈子的事情",
+      "quote": "不努力肯定不行",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4884,
+        "end_line": 4884,
+        "sha1": "95f0b4acb487ed5b5f7993755a5b80072e526c6b",
+        "fingerprint": [
+          "一辈子",
+          "大白菜",
+          "光鲜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D05-2"
+      ],
+      "concept_key": "努力是一辈子的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：冬存大白菜感悟"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0062",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "Helios同学来信原文（裁员观察、躺平三种打算）"
+    },
+    {
+      "unit_id": "WJ2-U0062",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "谷歌Meta裁员人数、疫情招聘周期、'转型一多半是噱头'等时事评论"
+    },
+    {
+      "unit_id": "WJ2-U0062",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文稿末尾来信方式运营提示"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "大厂裁员回信：组织用人与个人努力判断成10卡，时事数据与读者原文记X"
+}

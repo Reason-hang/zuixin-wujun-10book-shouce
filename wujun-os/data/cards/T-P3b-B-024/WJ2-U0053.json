@@ -1,0 +1,161 @@
+{
+  "unit_id": "WJ2-U0053",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0053-01",
+      "unit_id": "WJ2-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "人普遍高估自己驾驭双刃剑的能力，大概率自己不是例外",
+      "quote": "绝大部分人都会高估自己的能力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4128,
+        "end_line": 4128,
+        "sha1": "8f431dd23153dcf4f8fe3d07543159cc4027660b",
+        "fingerprint": [
+          "双刃剑",
+          "大概率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "高估驾驭双刃剑能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "从电子产品使用引申的一般判断"
+    },
+    {
+      "claim_id": "C-WJ2-U0053-02",
+      "unit_id": "WJ2-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "只享好处而杜绝问题做不到；难度低的事办不成，就别指望难度高的事办成",
+      "quote": "就不要想第二件事能办成了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4124,
+        "end_line": 4124,
+        "sha1": "3b0186b7f534d9ba8bb423850b6a180a285a89b5",
+        "fingerprint": [
+          "好处",
+          "危害",
+          "难度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "办不成易事莫想难事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：12岁孩子读《金瓶梅》取其精华；澳洲16岁禁社媒立法为时效例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0053-03",
+      "unit_id": "WJ2-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "找原因首选最简单直接的（奥卡姆剃刀）；把简单问题复杂化的危害远大于相反",
+      "quote": "把简单问题复杂化的危害",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4138,
+        "end_line": 4138,
+        "sha1": "d25c1bb619b478ee7d686e03cf38d13c6c6fc2eb",
+        "fingerprint": [
+          "奥卡姆剃刀",
+          "最简单"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D01-1"
+      ],
+      "concept_key": "奥卡姆剃刀",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "重申奥卡姆剃刀原理（来信2另有专信），跨书线索"
+    },
+    {
+      "claim_id": "C-WJ2-U0053-04",
+      "unit_id": "WJ2-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "复杂决策找原因两步：先列出所有原因，再估算与结果的相关性排序",
+      "quote": "列出所有的原因，不论大小",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4142,
+        "end_line": 4156,
+        "sha1": "bbb3c5d97d75fbe1a7d73e284743453609570596",
+        "fingerprint": [
+          "相关性",
+          "排个序"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "原因相关性排序",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡；常见错误：不列全原因、先入为主（4168）；2024美国大选归因为时效例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0053-05",
+      "unit_id": "WJ2-U0053",
+      "speaker": "吴军本人",
+      "claim_text": "把吸眼球的偶发小事当成决定性原因做预测，会大错特错",
+      "quote": "这就是夸大了蝴蝶效应",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4166,
+        "end_line": 4168,
+        "sha1": "31708fbb44bde5eabd73c204eb6aa9dcbdc6c95c",
+        "fingerprint": [
+          "蝴蝶效应",
+          "松鼠"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "警惕夸大蝴蝶效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：'松鼠之死决定大选'类标题党"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0053",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "小天才手表/鸡娃/孩子玩电子产品问答属亲子教育；正态分布16%解释为其中数据说明"
+    },
+    {
+      "unit_id": "WJ2-U0053",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问原文（流言/af001/咚咚锵/Deabe）与用户留言（Christy/左星星），作者仅'说得好'式礼貌回复无实质评述"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "问答单元：吴军答对策的归因方法论成卡，亲子教育部分记X5、读者原文记X7"
+}

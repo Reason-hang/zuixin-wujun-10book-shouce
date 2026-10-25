@@ -1,0 +1,106 @@
+{
+  "unit_id": "WJ2-U0049",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ4",
+  "batch_id": "T-P3b-B-024",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0049-01",
+      "unit_id": "WJ2-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "IT行业赢者通吃不需要太多人；多数行业多一人多一份收入，才是消化就业的地方",
+      "quote": "赢者通吃的行业",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3902,
+        "end_line": 3902,
+        "sha1": "efd8205f22e00e276164f76aafbd79bd1895d24c",
+        "fingerprint": [
+          "赢者通吃",
+          "消化",
+          "就业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "赢者通吃不需人多",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "就业视角；同概念另见C-WJ2-U0062-03（企业裁员视角）"
+    },
+    {
+      "claim_id": "C-WJ2-U0049-02",
+      "unit_id": "WJ2-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "律师医生等需专门训练的行业有护城河但选择余地小；IT可跨行业、选择余地大",
+      "quote": "这些行业有护城河",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3902,
+        "end_line": 3902,
+        "sha1": "efd8205f22e00e276164f76aafbd79bd1895d24c",
+        "fingerprint": [
+          "护城河",
+          "跨行业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "护城河职业选择余地小",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-WJ2-U0049-03",
+      "unit_id": "WJ2-U0049",
+      "speaker": "吴军本人",
+      "claim_text": "适应能力强的人可选IT行业，适应能力弱的还不如学好一门技能",
+      "quote": "还不如学好一门技能",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3902,
+        "end_line": 3902,
+        "sha1": "efd8205f22e00e276164f76aafbd79bd1895d24c",
+        "fingerprint": [
+          "适应能力",
+          "技能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "按适应力选行业",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "个人建议，承接01/02的行业结构判断"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0049",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "马斯洛需求层次下的服务业结构、美国就业数据与'经济体只能扩大服务业需求'的宏观判断属宏观经济趋势叙述"
+    },
+    {
+      "unit_id": "WJ2-U0049",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾'留给你的功课'（查询中国各产业数据）属运营思考题"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "行业结构仅取可迁移的职业选择建议成卡，宏观数据记X6"
+}

@@ -1,0 +1,84 @@
+{
+  "unit_id": "WJ2-U0045",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ3",
+  "batch_id": "T-P3b-B-023",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0045-01",
+      "unit_id": "WJ2-U0045",
+      "speaker": "史实",
+      "claim_text": "已发现得多恰恰说明密度高，更可能有未发现的目标",
+      "quote": "地宫的密度很高",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3580,
+        "end_line": 3580,
+        "sha1": "6ca4b2493cbc97b7f57a71efc3765bd20a323c30",
+        "fingerprint": [
+          "卡特",
+          "卡纳冯"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "发现多则密度高",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "考古学家卡特1922年发现图坦卡蒙墓的逆向推理：众人以为被盗空不会再有，他从高发现率反推高密度；其\"先拍摄后搬运\"留档做法（行3582）附此"
+    },
+    {
+      "claim_id": "C-WJ2-UU0045-02",
+      "unit_id": "WJ2-U0045",
+      "speaker": "吴军本人",
+      "claim_text": "法老的诅咒是讹传夸张与文艺渲染的文化现象，而非科学现象",
+      "quote": "一种文化现象，而非科学现象",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 3586,
+        "end_line": 3592,
+        "sha1": "8a01a0fd7b9ca9cdafa397526ebb3f129a765eaa",
+        "fingerprint": [
+          "诅咒",
+          "卡纳冯"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "法老诅咒系文化现象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "墓中并无诅咒文字；卡纳冯死于蚊虫感染、里德病逝时已50多岁、卡特17年后正常死亡；\"受诅咒名单\"多被强拉"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0045",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "金字塔转神庙的变迁解释（法老神性下降求合法性、地方神随政治中心上升）属文明历史叙述，记X6（行3536-3556）"
+    },
+    {
+      "unit_id": "WJ2-U0045",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "帝王谷KV编号、石粉颜料千年不褪、王室木乃伊集中移存等文物史实科普，记X4（行3560-3584）"
+    },
+    {
+      "unit_id": "WJ2-U0045",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "炎热气候与地宫凉爽等游记行程叙述，记X3"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元仅抽卡特逆向方法论（E3）与法老诅咒辨伪（E1）两卡"
+}
