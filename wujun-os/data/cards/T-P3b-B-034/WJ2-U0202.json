@@ -1,0 +1,183 @@
+{
+ "unit_id": "WJ2-U0202",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "猪就是猪：用新概念包装饱和行业（健身器材）内核不变，风口过去终被识破",
+   "quote": "猪就是猪",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16439,
+    "end_line": 16439,
+    "sha1": "66ecdb06f522a43cd80958d0879f547373df8597",
+    "fingerprint": [
+     "健身器材",
+     "概念"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "猪就是猪",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "核心功能与既有器材无差别，附加值只吸引不理性顾客（16417）；2019年上市估值80亿时未盈利；抢风口找赛道者戒",
+   "claim_id": "C-WJ2-U0202-01",
+   "unit_id": "WJ2-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "错把偶然运气当长期趋势是认知问题：疫情居家健身红利如守株待兔，不可当作常态",
+   "quote": "当作常态",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16441,
+    "end_line": 16441,
+    "sha1": "238c6344f0cad14e61d44342c36bd6c72f667d15",
+    "fingerprint": [
+     "运气",
+     "趋势"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "偶然运气非趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "市值500亿美元→一年跌80%→2024年9月跌97.5%（160多美元→4美元）",
+   "claim_id": "C-WJ2-U0202-02",
+   "unit_id": "WJ2-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跨界成功很难：图书生意→健身器材→媒体双重跨界，基本盘不稳怎么跨界都无意义",
+   "quote": "基本盘不稳",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16443,
+    "end_line": 16443,
+    "sha1": "8fedd6abb3a6e10ff3173dd57b98627a841d81b7",
+    "fingerprint": [
+     "跨界",
+     "基本盘"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "基本盘与跨界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "弗利再创业定制地毯仍是竞争激烈低利润领域，多数人不看好",
+   "claim_id": "C-WJ2-U0202-03",
+   "unit_id": "WJ2-U0202"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "人一生不要两次富有，因为要经历从富返贫的痛苦过程（巴菲特）",
+   "quote": "不要两次富有",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16393,
+    "end_line": 16393,
+    "sha1": "c3400f95c2962f44f7ae5e8e867507df074b4fbf",
+    "fingerprint": [
+     "巴菲特",
+     "富有"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "不要两次富有",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=巴菲特（《硅谷来信》第一季转引）；弗利19亿美元→变卖5500万庄园→资不抵债为例证",
+   "claim_id": "C-WJ2-U0202-04",
+   "unit_id": "WJ2-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "内容创业必须先解决版权：佩洛顿上市前被音乐出版商协会索赔1.5亿美元",
+   "quote": "被索赔1.5亿美元",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16405,
+    "end_line": 16405,
+    "sha1": "61a198cd0c291c04e0ca116ad777d65d58e171cd",
+    "fingerprint": [
+     "版权",
+     "音乐"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "内容版权先行",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对方等快上市才告——告早了没钱赔（诉讼时机博弈）；删侵权音乐未解诉，赔偿金后升至3亿多美元",
+   "claim_id": "C-WJ2-U0202-05",
+   "unit_id": "WJ2-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高息债务锁死重生之路：低信用评级下年息1.33亿美元，自由现金流几乎不可能",
+   "quote": "支付利息",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16421,
+    "end_line": 16421,
+    "sha1": "a87c3772b13a9914a5a74d6068db57534fd1574d",
+    "fingerprint": [
+     "信用评级",
+     "贷款"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-1"
+   ],
+   "concept_key": "高息债锁死现金流",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "疫情后连续9个季度下滑；新管理层裁员降本也无法盈利；靠媒体起家也栽在媒体（《就这样…》剧情致股价单日暴跌11.3%）",
+   "claim_id": "C-WJ2-U0202-06",
+   "unit_id": "WJ2-U0202"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0202",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "佩洛顿公司兴衰史与弗利个人破产过程（IPO广告争议/疫情红利/《欲望都市》剧情/定制地毯再创业）按X4留痕，机理已并入六张卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "企业失败案例单元：三点启发+版权+高息债+巴菲特E2共六卡"
+}

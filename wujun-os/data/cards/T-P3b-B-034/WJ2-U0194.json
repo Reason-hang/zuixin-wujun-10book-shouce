@@ -1,0 +1,73 @@
+{
+ "unit_id": "WJ2-U0194",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "旅行目的地选择三标准：没去过、历史文化独特、语言与交通方便",
+   "quote": "主要有三个原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15705,
+    "end_line": 15711,
+    "sha1": "eaeb037b37fcdaa9ea3b5baca412e4a243e47d62",
+    "fingerprint": [
+     "没有去过",
+     "交通"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "旅行选点三标准",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "荷兰4天+科隆2天规划例",
+   "claim_id": "C-WJ2-U0194-01",
+   "unit_id": "WJ2-U0194"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "行程规划先远后近：先去最远目的地再往回走，最后一两天守在机场边更踏实",
+   "quote": "先远后近",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15715,
+    "end_line": 15715,
+    "sha1": "99f125c155e753f1dd8eac262fc077f12c741087",
+    "fingerprint": [
+     "先远后近",
+     "机场"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "行程先远后近",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "从'以机场为中心先近后远'改法的迭代",
+   "claim_id": "C-WJ2-U0194-02",
+   "unit_id": "WJ2-U0194"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0194",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "科隆圣城史（罗马-法兰克-选帝侯-三博士遗骨-大教堂600年）、宗教改革与世俗化、波恩贝多芬故居等游记史实本体按X3留痕；贝多芬家境富裕更正属人物史料X4留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "游记单元X3：只抽行程规划两条方法论，城市史与人物史留痕"
+}

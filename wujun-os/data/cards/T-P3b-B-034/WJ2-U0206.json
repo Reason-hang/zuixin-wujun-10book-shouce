@@ -1,0 +1,176 @@
+{
+ "unit_id": "WJ2-U0206",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守秘密不仅是美德，更是需要练习的能力；光靠道德水准高未必守得住",
+   "quote": "是一种需要培养的能力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16687,
+    "end_line": 16687,
+    "sha1": "21d838f9f86d2eb371fc6a720b1c3cdedba0a0df",
+    "fingerprint": [
+     "秘密",
+     "能力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-4"
+   ],
+   "concept_key": "保密是能力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "五类不该说的秘密，本信讲第一类（他人隐私）；管好嘴也要敢于表达该表达的（16681）",
+   "claim_id": "C-WJ2-U0206-01",
+   "unit_id": "WJ2-U0206"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "德有六美，保密是其中一项美德（贾谊）",
+   "quote": "有信、有密",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16687,
+    "end_line": 16687,
+    "sha1": "21d838f9f86d2eb371fc6a720b1c3cdedba0a0df",
+    "fingerprint": [
+     "贾谊",
+     "美德"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "贾谊六德有密",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=贾谊（西汉思想家）：有道、有仁、有义、有忠、有信、有密",
+   "claim_id": "C-WJ2-U0206-02",
+   "unit_id": "WJ2-U0206"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "守不住秘密的三因：虚荣心、把秘密当交换信息的本钱、保守秘密伤害身心（最根本）",
+   "quote": "伤身体",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16693,
+    "end_line": 16697,
+    "sha1": "ec6fca31d6c6a487ca894e11180c93c3d425c5c0",
+    "fingerprint": [
+     "虚荣心",
+     "本钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D07-1"
+   ],
+   "concept_key": "泄密三因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "告诉你一个秘密=信息中心虚荣；秘密交换的投桃报李默契（16695）",
+   "claim_id": "C-WJ2-U0206-03",
+   "unit_id": "WJ2-U0206"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "研究证实替人保密加重心理负担、导致走神；说出秘密后生理指标恢复健康",
+   "quote": "加重自己的心理负担",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16711,
+    "end_line": 16711,
+    "sha1": "f491ef77e53d6bc4b7f8bceaf6c4c41d5e0bf7d2",
+    "fingerprint": [
+     "心理负担",
+     "走神"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "保密的心理代价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "斯莱皮安/格林纳威研究；国王鬼耳朵童话印证（16699-16709）；心理医生自己也要看心理医生（16713）；忏悔与倾诉机制",
+   "claim_id": "C-WJ2-U0206-04",
+   "unit_id": "WJ2-U0206"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "少知道不该知道的秘密：知道越多越易成漩涡中心，知道越少越安全",
+   "quote": "知道的越少，越安全",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16719,
+    "end_line": 16719,
+    "sha1": "1c871c69d0ef7796a20b13fc77d93352c86a8b26",
+    "fingerprint": [
+     "秘密",
+     "漩涡"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "少知秘密原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "已知的秘密以平常心对待；公开场合重闻同样内容后负担显著下降（16721）",
+   "claim_id": "C-WJ2-U0206-05",
+   "unit_id": "WJ2-U0206"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保密减压四法：写下后销毁或藏好、向宠物述说、平常心对待、时效性秘密到期解密",
+   "quote": "要么销毁",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16727,
+    "end_line": 16739,
+    "sha1": "53d6f0b912624234a49927846d05ca7006bf92f8",
+    "fingerprint": [
+     "日记",
+     "宠物"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-1"
+   ],
+   "concept_key": "保密减压四法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "斯莱皮安等建议；向宠物述说比日记更有效且安全；国家约50年解密档案类比（16739）；泄密者被所有人视为不可信（16741）",
+   "claim_id": "C-WJ2-U0206-06",
+   "unit_id": "WJ2-U0206"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "保守秘密的机理与方法（泄密三因/心理代价/少知原则/减压四法），整信成卡"
+}

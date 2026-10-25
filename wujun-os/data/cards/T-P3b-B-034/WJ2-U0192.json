@@ -1,0 +1,156 @@
+{
+ "unit_id": "WJ2-U0192",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ13",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0192-01",
+   "unit_id": "WJ2-U0192",
+   "speaker": "吴军本人",
+   "claim_text": "对避不开的人（导师、老板），无论多讨厌都要与之打交道、处好关系，并发现其过人之处",
+   "quote": "还要发现他身上的过人之处",
+   "anchor": {
+    "start_line": 15589,
+    "end_line": 15595,
+    "sha1": "fc46e865490c78d1693b8c72f6afb9bf8aeba886",
+    "fingerprint": [
+     "绕不过去的人",
+     "过人之处"
+    ],
+    "book_code": "WJ2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "避不开的人要发现其过人之处",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "泽连斯基绕不开特朗普为开篇例证（时局部分记X2）；导师/老板为职场载体故主挂D06-3"
+  },
+  {
+   "claim_id": "C-WJ2-U0192-02",
+   "unit_id": "WJ2-U0192",
+   "speaker": "吴军本人",
+   "claim_text": "与领导接触一段时间仍发现不了其过人之处，可能说明你还不具备当领导的格局",
+   "quote": "还不具备当领导的格局",
+   "anchor": {
+    "start_line": 15595,
+    "end_line": 15595,
+    "sha1": "5d4f210fb463ff5f18c212e661eabca41bbf75f7",
+    "fingerprint": [
+     "过人之处",
+     "格局"
+    ],
+    "book_code": "WJ2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D06-3"
+   ],
+   "concept_key": "看不见领导长处即格局不足",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "从识人短板反推自身格局，认知层判断"
+  },
+  {
+   "claim_id": "C-WJ2-U0192-03",
+   "unit_id": "WJ2-U0192",
+   "speaker": "吴军本人",
+   "claim_text": "对挡路者动气之前先想他为何不让过：可能只是对情境判断不同，冲动是魔鬼，该听还得听",
+   "quote": "冲动是魔鬼",
+   "anchor": {
+    "start_line": 15601,
+    "end_line": 15601,
+    "sha1": "6bb06a40eb3d585331491bb6b958bc8d335a742c",
+    "fingerprint": [
+     "想想他为什么不让我们过去",
+     "冲动是魔鬼"
+    ],
+    "book_code": "WJ2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "挡路者先辨敌意还是判断差异",
+   "ability_tags": [
+    "思",
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "区分\"真敌人（离开或鱼死网破）\"与\"判断不同者（可依其建议）\"两分支"
+  },
+  {
+   "claim_id": "C-WJ2-U0192-04",
+   "unit_id": "WJ2-U0192",
+   "speaker": "吴军本人",
+   "claim_text": "没有成本说出来的好话和精神鸦片差不多，做事的人要警惕只停留在口头的鼓励",
+   "quote": "和精神鸦片差不多",
+   "anchor": {
+    "start_line": 15611,
+    "end_line": 15611,
+    "sha1": "71fe4e8e6bd35e54e1db5e2177c183ccd8fd36d3",
+    "fingerprint": [
+     "精神鸦片",
+     "没有成本"
+    ],
+    "book_code": "WJ2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "无成本好话是精神鸦片",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "鲁迅《立论》满月故事为例证并入本卡；公司里叫好者分享成果/牺牲失败者例并入"
+  },
+  {
+   "claim_id": "C-WJ2-U0192-05",
+   "unit_id": "WJ2-U0192",
+   "speaker": "转述·第三方",
+   "claim_text": "奥威尔：二十岁之后没有人关心你为人好不好，人们只关心你能否带来利益",
+   "quote": "就没有人关心你为人好不好",
+   "anchor": {
+    "start_line": 15611,
+    "end_line": 15611,
+    "sha1": "71fe4e8e6bd35e54e1db5e2177c183ccd8fd36d3",
+    "fingerprint": [
+     "奥威尔",
+     "利益"
+    ],
+    "book_code": "WJ2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "无人关心你为人好坏",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=乔治·奥威尔；吴军评述\"话虽刻薄但道出多数人心理\"，与C-WJ2-U0192-04同链"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0192",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "特朗普-泽连斯基白宫争吵、美乌矿产协议、欧洲军备与援助数据等为时点时局叙述，仅作\"避不开的人\"例证，本体不入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "两套人际关系方法论（应对避不开的人、防范只给口头鼓励的人）成卡，时局例证记X2"
+}

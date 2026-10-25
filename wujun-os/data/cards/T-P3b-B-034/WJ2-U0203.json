@@ -1,0 +1,148 @@
+{
+ "unit_id": "WJ2-U0203",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从错误的前提出发，可以得到任何看似符合逻辑的结论，但毫无意义",
+   "quote": "从错误的前提出发",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16455,
+    "end_line": 16455,
+    "sha1": "a3f46ad6bb8a570ca791604ece914308f4331915",
+    "fingerprint": [
+     "前提",
+     "逻辑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "错误前提无效结论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "月亮是方的思维实验（16457）；两种犯错：前提片面错误、明知故犯回避从自身找原因（16461）",
+   "claim_id": "C-WJ2-U0203-01",
+   "unit_id": "WJ2-U0203"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "找错原因和前提，后续结论南辕北辙，长期影响决策质量",
+   "quote": "南辕北辙",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16469,
+    "end_line": 16469,
+    "sha1": "d27b9122eb69f6cfb3a4b43ed126c060f38ec2d6",
+    "fingerprint": [
+     "前提",
+     "决策"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "归因错误毁决策",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "美元霸权归因案例；理解中国地域差异应类比欧盟内部国家（16465）",
+   "claim_id": "C-WJ2-U0203-02",
+   "unit_id": "WJ2-U0203"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "货币霸权与科技领先无关：欧元诞生后美国占比反升、英镑时代德国诺奖第一、西班牙握金银无科学",
+   "quote": "重要性也在迅速下降",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16481,
+    "end_line": 16487,
+    "sha1": "a2b8a49f8abb2d74358b53b0e12ce8b1449c57e5",
+    "fingerprint": [
+     "欧元",
+     "英镑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "货币霸权非科技之因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "外储美元占比55%且趋降（IMF数据）；《国家为什么会失败》（2024诺奖）互参（16489）",
+   "claim_id": "C-WJ2-U0203-03",
+   "unit_id": "WJ2-U0203"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基础研究如化石燃料：发光快但地下积累需很久；一个课题头10篇论文远比后面1000篇重要",
+   "quote": "远比后面的1000 篇重要",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16501,
+    "end_line": 16501,
+    "sha1": "0ae8498d68dfbc2e770f3714e444445200732ce0",
+    "fingerprint": [
+     "基础研究",
+     "根系"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D02-2"
+   ],
+   "concept_key": "基础研究如化石燃料",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "郭毅可评中国AI基础研究短板、DeepMind一年一篇Nature封面、谷歌2024三人次诺奖、大模型皆基于Transformer（16497-16499）；植物根系比喻",
+   "claim_id": "C-WJ2-U0203-04",
+   "unit_id": "WJ2-U0203"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "准确了解信息不仅是一种能力，更是生活态度；做不到会事事举步维艰",
+   "quote": "更是一种生活态度",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16513,
+    "end_line": 16513,
+    "sha1": "402e2f5fbc15a0dfeba4aa0b0af7c682f16d0982",
+    "fingerprint": [
+     "信息",
+     "能力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信息素养是生活态度",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "个人发展要直面从自身找原因（16505）；社会公平与工作强度代际改善的事实核查（16507-16511）",
+   "claim_id": "C-WJ2-U0203-05",
+   "unit_id": "WJ2-U0203"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "逻辑学真理：错误前提与归因，整信方法论成卡"
+}

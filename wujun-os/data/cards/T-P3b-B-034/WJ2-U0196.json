@@ -1,0 +1,99 @@
+{
+ "unit_id": "WJ2-U0196",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "海洋自由航行是人类与生俱来的自然权利；自然法连上帝也不能改变（格劳秀斯）",
+   "quote": "人类与生俱来的权利",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15897,
+    "end_line": 15899,
+    "sha1": "fffa30dd10735bd72965007a05abc72791fb06e3",
+    "fingerprint": [
+     "格劳秀斯",
+     "自然法"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "格劳秀斯海洋自由论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=格劳秀斯《海洋自由论》；荷兰由此成为海上争端仲裁地、国际法庭设海牙的由来",
+   "claim_id": "C-WJ2-U0196-01",
+   "unit_id": "WJ2-U0196"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "规则边界随活动半径演化：领海从岸炮射程三海里扩到二战后十二海里",
+   "quote": "岸炮射程",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15901,
+    "end_line": 15901,
+    "sha1": "588ab9197fd45726bea8b6410f9db75ef67f64b1",
+    "fingerprint": [
+     "领海",
+     "三海里"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "规则随活动半径演化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "炮舰外交双输共识促成海洋法（15903）并入notes",
+   "claim_id": "C-WJ2-U0196-02",
+   "unit_id": "WJ2-U0196"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国际化都市是陌生人社会：本地生活安静，移民多元带来餐饮业发达",
+   "quote": "陌生人社会",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15923,
+    "end_line": 15923,
+    "sha1": "635fc8be3410a3784a894ebec42b631c4311044a",
+    "fingerprint": [
+     "国际化",
+     "餐饮"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "陌生人社会与移民餐饮",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "土耳其烤肉/法餐正宗因厨师即移民；'要法律不要战争'石碑观察并入notes",
+   "claim_id": "C-WJ2-U0196-03",
+   "unit_id": "WJ2-U0196"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0196",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "海牙政治中心由来、国际法庭/国际刑事法庭制度史、莫瑞泰斯美术馆与维米尔赏析、哈勒姆莱顿城市史等游记本体按X3留痕（艺术赏析部分兼X8）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "游记单元X3：抽海洋自由论E2+规则演化+陌生人社会三张，城市制度史与艺术赏析留痕"
+}

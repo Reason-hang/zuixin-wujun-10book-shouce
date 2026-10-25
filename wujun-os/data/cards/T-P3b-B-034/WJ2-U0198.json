@@ -1,0 +1,127 @@
+{
+ "unit_id": "WJ2-U0198",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把一件事做好，很多钱不能省、细节不能忽略：徐悲鸿颜料昏暗vs梵高始终用最好颜料",
+   "quote": "很多钱是不能省的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16073,
+    "end_line": 16077,
+    "sha1": "c56bb62ba9cf7f3f7190d064dcf63d276c132dd3",
+    "fingerprint": [
+     "颜料",
+     "细节"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "做好事钱不能省",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "梵高家境富裕、三位伯叔为艺术品交易商，'穷人梵高'是文学想象；徐悲鸿刘海粟早年买最便宜颜料",
+   "claim_id": "C-WJ2-U0198-01",
+   "unit_id": "WJ2-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "房价长期上涨的前提是当地经济不断扩张；否则如阿姆斯特丹三百年零回报还要倒贴维护成本",
+   "quote": "这种看法实际上不准确",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16101,
+    "end_line": 16103,
+    "sha1": "afe6976f92eecae80c7c58d6ff86ed8f96fc2633",
+    "fingerprint": [
+     "房价",
+     "维护成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "房价上涨的前提是经济扩张",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "伦勃朗房1630年代≈1100万美元vs今日绅士运河中位1000万欧元同价；房产税+维护一直倒贴",
+   "claim_id": "C-WJ2-U0198-02",
+   "unit_id": "WJ2-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "房产投资回报取决于进出时机而非持有时长：绅士运河350年近乎零回报，冷战后40年涨250%",
+   "quote": "在于什么时候进",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16113,
+    "end_line": 16113,
+    "sha1": "9bfb0d26ca17a54339ad45dbd7773412dea3ba28",
+    "fingerprint": [
+     "绅士运河",
+     "指数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "进出时机重于持有时长",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "埃克霍尔茨《长期房价指数1628-1973》；涨跌伴随克伦威尔封锁、威廉登基等大事件；1728年vs今几乎没涨",
+   "claim_id": "C-WJ2-U0198-03",
+   "unit_id": "WJ2-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多艺术家穷不是因为挣得少，而是花得太多、理财不善（伦勃朗破产例）",
+   "quote": "花得太多，不合理",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16097,
+    "end_line": 16099,
+    "sha1": "d19b3dc962992fc3613d52c8b29e5cd9d2240d92",
+    "fingerprint": [
+     "破产",
+     "理财"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "艺术家式财务陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "单幅画收1600金币仍破产：首付1/3+按揭2/3、乱投资、逃避债主十几年；印证当时荷兰金融已有按揭",
+   "claim_id": "C-WJ2-U0198-04",
+   "unit_id": "WJ2-U0198"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0198",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "阿姆斯特丹三大景点（国立博物馆/皇宫/运河）、荷兰藏富于民城市化45%等游记史实本体按X3留痕；梵高博物馆延伸并入颜料卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "游记单元：抽房价投资与做事方法论四卡，景点游记留痕"
+}

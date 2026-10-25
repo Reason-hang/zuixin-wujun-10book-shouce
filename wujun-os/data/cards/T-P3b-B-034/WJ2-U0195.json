@@ -1,0 +1,72 @@
+{
+ "unit_id": "WJ2-U0195",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "材料选择随工况：木质机械对低速风车强度足够又好维护，不必用又重又贵的金属",
+   "quote": "强度足够了，而且好维护",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15845,
+    "end_line": 15845,
+    "sha1": "6f3d642b4f0f24f695dc4a3dad88f962ded55f07",
+    "fingerprint": [
+     "风车",
+     "木质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "材料选择随工况",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "金德代克风车观察；风车顶可360度转向迎风（15847）并入notes",
+   "claim_id": "C-WJ2-U0195-01",
+   "unit_id": "WJ2-U0195"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高价真品催生仿制品市场：买不起中国瓷器的欧洲中产造就了代尔夫特陶器",
+   "quote": "产生了一个仿制品的市场",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15861,
+    "end_line": 15861,
+    "sha1": "6d1092760a19dbd1ba06318f9efab30f40b412e7",
+    "fingerprint": [
+     "仿制品",
+     "陶器"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "高价真品催生仿制市场",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "麦森瓷器发明前欧洲不会烧瓷；外销瓷/克拉克瓷背景",
+   "claim_id": "C-WJ2-U0195-02",
+   "unit_id": "WJ2-U0195"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0195",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "乌得勒支/金德代克/代尔夫特城市史与七省同盟、威廉一世等游记史实本体按X3留痕；运河浮萍景致等赏览细节不再单列"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "游记单元X3：只抽材料选择与仿制市场两条方法论"
+}

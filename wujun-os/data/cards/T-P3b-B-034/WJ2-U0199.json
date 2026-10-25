@@ -1,0 +1,272 @@
+{
+ "unit_id": "WJ2-U0199",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多数开餐馆者凭身边统计学和一厢情愿决策，而非经济学理论",
+   "quote": "身边统计学",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16145,
+    "end_line": 16145,
+    "sha1": "13641196b8ffe6b23367674122654b053526f1b4",
+    "fingerprint": [
+     "亚当·斯密",
+     "一厢情愿"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "无理论决策",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答读者不周山；与U0184身边统计学同族互参",
+   "claim_id": "C-WJ2-U0199-01",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无数缺乏理论支持的盲目进入者造就了充分竞争，反而支撑起经济学理论",
+   "quote": "支撑起了经济学的大厦",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16147,
+    "end_line": 16147,
+    "sha1": "6d0d4e7e7077fb0dd1a36f78c07a42c143c28c6e",
+    "fingerprint": [
+     "充分竞争",
+     "亚当·斯密"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "盲目者造就充分竞争",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "先有无数人开餐馆才有斯密理论出台；这也是市场需要的效果",
+   "claim_id": "C-WJ2-U0199-02",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风投潜规则：永远夸大宣传新技术与成功案例、对失败闭口不谈，才有投资对象与出资人",
+   "quote": "夸大宣传",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16149,
+    "end_line": 16149,
+    "sha1": "a080fc6f5f6d2b4767ae83f9a4ae587fed1c5715",
+    "fingerprint": [
+     "潜规则",
+     "风险投资"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "风投夸大宣传潜规则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军提示ChatGPT风险被骂、三年后预测正确例；谷歌AI副总裁'碾压OpenAI'对话（2024-04）为时点例证（X6候选留P4）",
+   "claim_id": "C-WJ2-U0199-03",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济学'理性人'=算得清账且自利；与笛卡尔'理性'（科学思考）完全是两回事",
+   "quote": "完全是两回事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16157,
+    "end_line": 16157,
+    "sha1": "6c985ead1501c2f0a1e757d1d151f8024e1a114a",
+    "fingerprint": [
+     "理性人",
+     "笛卡尔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "两种理性之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "理性人的'理性'是贪婪的客气说法；餐馆倒闭退出也是理性判断（16159）",
+   "claim_id": "C-WJ2-U0199-04",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业不录用频繁跳槽者的三个真实原因：不踏实眼高手低、能力不行常被淘汰、团队合作差易得罪人",
+   "quote": "三个我们发现的主要问题",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16173,
+    "end_line": 16181,
+    "sha1": "9892fd7bcb6b6dfb568f76fed79cb435c72be3da",
+    "fingerprint": [
+     "跳槽",
+     "录用"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "频繁跳槽三嫌",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "20年前中美企业已有不成文规定；答读者Levy",
+   "claim_id": "C-WJ2-U0199-05",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业强调忠诚的三原因：真实原因不便明说、人多粥少的买方市场、老板的家长作风",
+   "quote": "封建时代的家长作风",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16183,
+    "end_line": 16189,
+    "sha1": "a37e9c95daf6142445d0d88a85cd36bf79f0b76e",
+    "fingerprint": [
+     "忠诚",
+     "家长作风"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D07-2"
+   ],
+   "concept_key": "忠诚话术三因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "钱给够不谈忠诚也不跳槽；十年前雇主提这要求没人理（16187）",
+   "claim_id": "C-WJ2-U0199-06",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成年人的世界是选择不是教育：用条条框框限制人是限制不住的",
+   "quote": "是选择，不是教育",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16193,
+    "end_line": 16193,
+    "sha1": "36682b5d07f1568ec9012c4dd891c978a7990617",
+    "fingerprint": [
+     "选择",
+     "限制"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "选择而非教育",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "个人侧同理：不要动不动跳槽，五年换五个工作没人要（16195）",
+   "claim_id": "C-WJ2-U0199-07",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "若总遇作对的人或恶老板且多次发生，就要从自身找原因：逆行错觉或吸渣体质",
+   "quote": "就要从自身找原因了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16197,
+    "end_line": 16197,
+    "sha1": "05a6f76362a515ca9de66909ca0d970f301d4c49",
+    "fingerprint": [
+     "逆行",
+     "吸渣"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-3"
+   ],
+   "concept_key": "连续厄运自省",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "自己开到马路对面看谁都是逆行",
+   "claim_id": "C-WJ2-U0199-08",
+   "unit_id": "WJ2-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学校的产品是学生：学生成名则校有名、平均水平高则排名靠前、发财则回馈捐赠",
+   "quote": "学校的产品就是学生",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16225,
+    "end_line": 16225,
+    "sha1": "558bd7cb7f32ba1933b34a79b5e02c786f733c56",
+    "fingerprint": [
+     "学生",
+     "捐不少钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "学校的产品是学生",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "名校声誉百年打造、薪火相传；情怀与爱才是前两位动机（16209-16213）",
+   "claim_id": "C-WJ2-U0199-09",
+   "unit_id": "WJ2-U0199"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0199",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "博士奖学金三来源（科研经费/助教金/慈善直助）、JHU学费45-63万美元等教育制度细节按X5留痕"
+  },
+  {
+   "unit_id": "WJ2-U0199",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "ChatGPT风险提示三年验证、2024-04谷歌AI副总裁对话等时效性内容留痕，机理已并入风投潜规则卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答：理性人辨析+忠诚与跳槽+学校商业模式，三问分别成卡"
+}

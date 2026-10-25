@@ -1,0 +1,126 @@
+{
+ "unit_id": "WJ2-U0201",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "'没有一次大饥荒发生在有民主政府和言论自由的国家'（阿马蒂亚·森）",
+   "quote": "没有一次大饥荒",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16305,
+    "end_line": 16305,
+    "sha1": "b17ad72f0269b31c72082991d2f6a5c89fc49369",
+    "fingerprint": [
+     "阿马蒂亚",
+     "饥荒"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "森饥荒民主论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=阿马蒂亚·森（1982年观点，诺贝尔经济学奖）；吴军反例见下一卡（R1双卡互引）",
+   "claim_id": "C-WJ2-U0201-01",
+   "unit_id": "WJ2-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爱尔兰大饥荒是森理论的反例：民主选举与自由报刊俱全，仍饿死近四分之一人口",
+   "quote": "很容易找到一个反例",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16307,
+    "end_line": 16311,
+    "sha1": "03fa7095e3eb32e12ee0557c34d8547268631990",
+    "fingerprint": [
+     "反例",
+     "大饥荒"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "森理论的爱尔兰反例",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "1845-1852；人口818万（1841）→423万（1926）；与U0178'事实优先于理论'同族互参——权威理论也要接受事实检验",
+   "claim_id": "C-WJ2-U0201-02",
+   "unit_id": "WJ2-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把鸡蛋放在一个篮子里非常危险：爱尔兰依赖单一作物马铃薯，晚疫病一来即全国饥荒",
+   "quote": "放在一个篮子里",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16341,
+    "end_line": 16343,
+    "sha1": "aa0163080f323b69023efc7a14342e03b4915281",
+    "fingerprint": [
+     "马铃薯",
+     "晚疫病"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "鸡蛋与篮子",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "供应商/技术栈/收入来源单一依赖同理；比利时管控港口禁止粮食出口自救成功对照（16353）",
+   "claim_id": "C-WJ2-U0201-03",
+   "unit_id": "WJ2-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "历史结果绝非单靠制度决定：同样制度、应对不同则结果大相径庭；偶然事件可长期改变格局",
+   "quote": "应对方式不同，结果就大相径庭",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16373,
+    "end_line": 16375,
+    "sha1": "1fae58b92f5b4e0dd6de1ca9f757a5390e120c64",
+    "fingerprint": [
+     "制度",
+     "偶然性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "制度不决定一切",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "英国政府三大应对失当：不废粮食关税、辉格党自由放任终止救济、法律偏地主（16347-16351）；1801-1845年114个委员会无济于事（16337）",
+   "claim_id": "C-WJ2-U0201-04",
+   "unit_id": "WJ2-U0201"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0201",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "爱尔兰大饥荒史实（合并法案/移民潮死亡率20%/排华法案中的爱尔兰因素/美爱英政治格局变迁）按X4留痕，机理已并入四张卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "历史专题单元X4：只抽森理论反例、鸡蛋篮子、制度与应对三条方法论+一张E2转述"
+}

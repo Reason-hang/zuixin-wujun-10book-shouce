@@ -1,0 +1,100 @@
+{
+ "unit_id": "WJ2-U0200",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "东印度公司治理设计：终身董事保长远目标、17常务董事保效率、地区代表制衡最大城市",
+   "quote": "十七绅士",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16249,
+    "end_line": 16249,
+    "sha1": "60cb01bdf7bfe2f9eb6a4b606238286c2fb4b702",
+    "fingerprint": [
+     "董事会",
+     "终身制"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "东印度公司治理设计",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "14公司合并避免同质化内卷（16247）；政府五项特许权折价2.5万盾入股650万盾总盘（16251）；17世纪君主制世界中商业管理极先进",
+   "claim_id": "C-WJ2-U0200-01",
+   "unit_id": "WJ2-U0200"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先发者输给英国的关键是不输出文化与制度：英语成为通用语、英联邦承袭制度，荷兰殖民地无荷兰痕迹",
+   "quote": "文化和制度的输出",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16277,
+    "end_line": 16279,
+    "sha1": "354b7fe6565576a027d1e74fe0bc6c69301a0335",
+    "fingerprint": [
+     "英语",
+     "荷兰语"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D08-1"
+   ],
+   "concept_key": "制度与文化输出决定影响力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "另两因：人口太少（1700年英500万vs荷200万）、光荣革命后英国制度追平优势（16271-16273）；荷兰若与比利时统一将有2800万人口",
+   "claim_id": "C-WJ2-U0200-02",
+   "unit_id": "WJ2-U0200"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大部分时候不是波澜壮阔的大时代；在缓慢平稳发展的小时代里过好生活才是常态",
+   "quote": "才是常态",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16287,
+    "end_line": 16287,
+    "sha1": "16187dc031dd29efd96674cdd4d78275bfc0450b",
+    "fingerprint": [
+     "大时代",
+     "小时代"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "小时代常态论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "今日荷兰安于富足舒适；商人讲信用的传统仍在",
+   "claim_id": "C-WJ2-U0200-03",
+   "unit_id": "WJ2-U0200"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0200",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "荷兰崛起与衰落史（郑成功收台湾/英荷战争/法国占领/东印度公司1799关门）、股息40%人性伏笔等文明史本体按X4留痕；'人口下降致衰落多于人口上涨致贫困'并入制度输出卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "文明史单元X4：只抽治理设计/制度输出/小时代常态三条可迁移判断"
+}

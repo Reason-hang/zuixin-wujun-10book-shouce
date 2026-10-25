@@ -1,0 +1,99 @@
+{
+ "unit_id": "WJ2-U0204",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-034",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天发现天才的机制与渠道比较完善，真正的天才很难被漏掉",
+   "quote": "真正的天才是很难被漏掉的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16597,
+    "end_line": 16597,
+    "sha1": "7173f2d06072273d055a7fd4e06ad4cffc64d2a3",
+    "fingerprint": [
+     "天才",
+     "机制"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "天才难被埋没",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清华史元春特殊考察、菲利普斯埃克塞特奖学金录偏远天才、拉马努金/吴宝珠例（16543-16557）；JHU校友普通高中入围英特尔奖例（16579-16583）；普通人没有特殊照顾规则（16599）",
+   "claim_id": "C-WJ2-U0204-01",
+   "unit_id": "WJ2-U0204"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "华罗庚初中毕业被清华教授破格发掘：真才实学会吸引惜才者接力帮助",
+   "quote": "打破常规",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16561,
+    "end_line": 16569,
+    "sha1": "0e75d1cbb73532ac21e49cf3eb0d5dbd02f16ddd",
+    "fingerprint": [
+     "华罗庚",
+     "天才"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "华罗庚破格发掘案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "熊庆来/吴有训接清华旁听当助教、维纳推荐MIT发表；'我们是人才地才，华罗庚是天才'评语（16565）",
+   "claim_id": "C-WJ2-U0204-02",
+   "unit_id": "WJ2-U0204"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "谷歌破格录用偏科编程奇才：一人抵一个小团队——用人看真才而非全项达标",
+   "quote": "破格录用",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 16589,
+    "end_line": 16593,
+    "sha1": "6865df5a7936343a955cc2730c554b7f03d872ba",
+    "fingerprint": [
+     "谷歌",
+     "奇才"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "破格录用编程奇才案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "HR筛清北交复但每份简历都看、朱会灿审核、资深工程师复试；2024硅谷编程奇才高中生直接获谷歌全职（16595）",
+   "claim_id": "C-WJ2-U0204-03",
+   "unit_id": "WJ2-U0204"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0204",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "学区房与教育公平忧虑、名校特殊招生制度细节等教育话题本体按X5留痕，人才识别机理已入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "天才识别与破格录用机制：两条E3案例+一条主论断"
+}
