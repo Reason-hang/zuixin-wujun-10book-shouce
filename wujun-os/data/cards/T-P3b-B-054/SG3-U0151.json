@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG3-U0151",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "沃克：容易买到且便宜的东西通常不重要，重要的是买不到或要花很大价钱买的技术",
+   "quote": "要花很大价钱买",
+   "anchor": {
+    "start_line": 16025,
+    "end_line": 16025,
+    "fingerprint": [
+     "买不到",
+     "国家安全"
+    ],
+    "book_code": "SG3",
+    "sha1": "e6d6dc4acec11f6f262882edb9b76399edc23f92"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "稀缺性判断技术重要性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=史蒂文·沃克（时任DARPA主任，2019年述职报告解读）；合成生物学、基因编辑涉及国家安全（16025）；判断原则=国防未来需要什么新技术材料技能（16021-16023）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0151-01",
+   "unit_id": "SG3-U0151"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "沃克：\"下一个AI\"是高风险高回报项目，经费可能打水漂，但一旦做成效益巨大",
+   "quote": "高风险、高回报",
+   "anchor": {
+    "start_line": 16095,
+    "end_line": 16095,
+    "fingerprint": [
+     "打水漂",
+     "效益是巨大的"
+    ],
+    "book_code": "SG3",
+    "sha1": "09586b6555538fb01854641f8c9f4ddfaf815f06"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "高风险高回报投入",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=史蒂文·沃克；AI Next计划两年20亿美元、已支持44项目（16095）；DARPA只管定方向分钱，具体研究由大学和私营机构完成（16093）；第三波AI等趋势预测归X6",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0151-02",
+   "unit_id": "SG3-U0151"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0151",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "科技趋势预测与科研方向报告本体：DARPA研究两特点（16015-16017）、四种能力方向（16029-16037）、三大任务与网络攻击、5马赫飞行器、增强型归因系统（16047-16069）、未来重点发展数学化学材料量子（16075-16077）、摩尔定律到极限与电路专业化（16079-16081）、AI两阶段与第三波AI推理（16089-16091），均为趋势预测/方向判断，含X2时效候选由P4终裁；可迁移的稀缺性判断与高风险高回报逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第125封信（DARPA报告解读，趋势预测为主故仅2卡）：稀缺性判断技术重要性、高风险高回报投入逻辑；四能力三任务与AI三波等趋势预测归X6"
+}

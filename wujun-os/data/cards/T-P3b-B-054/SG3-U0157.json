@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG3-U0157",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一个人有文化至少三个要求：内心涵养自觉、怀疑权威敬佩天才、细腻情感能欣赏艺术哲学",
+   "quote": "怀疑权威但是敬佩天才",
+   "anchor": {
+    "start_line": 16623,
+    "end_line": 16631,
+    "fingerprint": [
+     "怀疑权威",
+     "文化素养"
+    ],
+    "book_code": "SG3",
+    "sha1": "2a31ef5524840ded85a446c7271558eda413fa05"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "文化三要求",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "综合自伏尔泰、伊迪丝·霍尔等对古希腊文明的研究（16631）；怀疑权威代表理性素养、敬佩天才代表见贤思齐（16631）；有文化和学历不完全相关（16633）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0157-01",
+   "unit_id": "SG3-U0157"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "利普顿：人的命运更多地是由无意间的思维、行为和意识决定的",
+   "quote": "无意间的思维",
+   "anchor": {
+    "start_line": 16635,
+    "end_line": 16635,
+    "fingerprint": [
+     "利普顿",
+     "潜意识"
+    ],
+    "book_code": "SG3",
+    "sha1": "2f4f4d88a427f2a88ffc62be9beaf59315019932"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "命运由潜意识思维决定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Bruce H. Lipton（生物学家、《信念的力量》作者）；吴军引申：文化素养深藏潜意识范畴、无时无刻不影响思维和行为（16635）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0157-02",
+   "unit_id": "SG3-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学是现代理性文化的核心，提供一整套思维方式，可用来建立验证迭代世界模型和人生算法",
+   "quote": "现代理性文化的核心",
+   "anchor": {
+    "start_line": 16645,
+    "end_line": 16645,
+    "fingerprint": [
+     "人生算法",
+     "理性文化"
+    ],
+    "book_code": "SG3",
+    "sha1": "387e0fbbd12a96de656fff045f7f316725a411d5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "数学理性文化核心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "未来数学将成为文化素养内容（16637，划重点1）；抽象化概念建模逻辑分析推理计算（16645）；对陌生人合作更需理性思维（16643）；过程在潜意识中完成（16647）；有数学思维不易被悖论偏差所困（16649）；划重点2同旨（16707）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0157-03",
+   "unit_id": "SG3-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学把原始实际问题经过层层抽象，在仍符合客观事物真实的更深层次上考察寻找规律",
+   "quote": "层层抽象",
+   "anchor": {
+    "start_line": 16655,
+    "end_line": 16657,
+    "fingerprint": [
+     "层层抽象",
+     "更深层次"
+    ],
+    "book_code": "SG3",
+    "sha1": "969c201957baee2873314b3cd1a8045aabba0c11"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "数学层层抽象",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "未来需更深思考与更高概括能力、信手拈来靠平时素养积累（16657）；识文断字与吟诗类比（16653）；划重点3同旨（16709）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0157-04",
+   "unit_id": "SG3-U0157"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "美国国家研究委员会报告：数学素养是信息社会中领导能力的关键因素",
+   "quote": "领导能力的关键因素",
+   "anchor": {
+    "start_line": 16667,
+    "end_line": 16673,
+    "fingerprint": [
+     "数学素养",
+     "双赢"
+    ],
+    "book_code": "SG3",
+    "sha1": "00bc93cf7f8d6a3ae9da51ab2c19cc2b0ea93374"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1",
+    "D07-2"
+   ],
+   "concept_key": "数学素养领导力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=美国国家研究委员会《人人关心数学教育的未来》报告；不重视数学素养危害社会政治稳定、危险仅次于经济崩溃（16669）；陌生人社会基于利益的合作、追求双赢需能分析清楚彼此利益（16669-16673）；对不确定事件要给精确表述与可能性判断（16665）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0157-05",
+   "unit_id": "SG3-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学修养和数学思维不仅对科学工程重要，对经营管理和决策也是不可或缺的",
+   "quote": "经营管理和决策",
+   "anchor": {
+    "start_line": 16681,
+    "end_line": 16683,
+    "fingerprint": [
+     "不可或缺",
+     "趋利避害"
+    ],
+    "book_code": "SG3",
+    "sha1": "e4a03c002117b54d401ceb61a43d75505d38e157"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-2"
+   ],
+   "concept_key": "数学用于经营管理决策",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "面临越来越不确定的社会如何决策趋利避害（16683）；冯·诺依曼数学模型预测战争胜负、核弹两问题（16685-16687，史实例证）；KPI/OKR背后是数学文化（16691）；美国顶尖数学领先数据（16691）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0157-06",
+   "unit_id": "SG3-U0157"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0157",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实科普：古希腊数学与文明（毕达哥拉斯把数学从经验升到哲学高度、伏尔泰论希腊青出于蓝、数学是思想体操，16659-16661）、冯·诺依曼/乌拉姆/维纳/香农/图灵等二战数学贡献（16685-16689）、美国数学领先与菲尔兹奖大学数据（16691）；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第130封信：文化三要求、利普顿潜意识（E2）、数学理性文化核心、数学层层抽象、数学素养领导力（报告E2）、数学用于决策；古希腊与数学家史实归X4"
+}

@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG3-U0150",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国家要科技长期发达，须让科学工作者觉得研究是名利双收的事，光靠情怀做研究不可能",
+   "quote": "名利双收",
+   "anchor": {
+    "start_line": 15891,
+    "end_line": 15893,
+    "fingerprint": [
+     "名利双收",
+     "情怀"
+    ],
+    "book_code": "SG3",
+    "sha1": "fc003822b16dfde1128771827d2b558df24db9dd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "研究者名利双收",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "科学家也喜欢钱、破除醉心科研不问世事的刻板印象（15891）；制度关键是《贝赫-多尔法案》（15893）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0150-01",
+   "unit_id": "SG3-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "《贝赫-多尔法案》让教授和研究人员能拿职务发明为自己谋利，出发点实为国家利益",
+   "quote": "职务发明",
+   "anchor": {
+    "start_line": 15895,
+    "end_line": 15897,
+    "fingerprint": [
+     "职务发明",
+     "国家的利益"
+    ],
+    "book_code": "SG3",
+    "sha1": "4b27032a1a6bcc47c069cccc31a250cee03230ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "职务发明谋利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "表面促进个人获利、实则为国家利益（15895-15897）；划重点1同旨（15985）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0150-02",
+   "unit_id": "SG3-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "法案带来三个结果：造就知本家、博士更愿留校任教、变相扶持初创企业和小企业",
+   "quote": "知本家",
+   "anchor": {
+    "start_line": 15939,
+    "end_line": 15943,
+    "fingerprint": [
+     "知本家",
+     "初创企业"
+    ],
+    "book_code": "SG3",
+    "sha1": "b30a94da2b76606844100ca137a57cff3a75c1bb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "知本家三结果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "教授办公司风气由此形成（15939）；法案两特点=专利所有权下放+独享经济利益（15929-15933）；承包商须及时披露成果、政府保留介入口（15935）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0150-03",
+   "unit_id": "SG3-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "政府资助科研成果的权益顺序：发明人第一，研究机构第二，政府第三",
+   "quote": "发明人第一",
+   "anchor": {
+    "start_line": 15973,
+    "end_line": 15977,
+    "fingerprint": [
+     "发明者",
+     "政府第三"
+    ],
+    "book_code": "SG3",
+    "sha1": "cf286b40defc6e9d7432ee84e0ea89d5fdb7e7a0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "权益归属三顺序",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "斯坦福诉罗氏判例确立第一受益者是发明人（15967-15969）；法案提供制度保障与强大动力，是美国技术长久领先功不可没的因素（15979）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0150-04",
+   "unit_id": "SG3-U0150"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0150",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "制度史与司法史叙述：70年代经济危机背景与750亿经费、28000项专利仅5%授权（15901-15903）、汉密尔顿/杰斐逊/调和三派理论（15905-15911）、《联邦采购条例》及其执行不严的所有者与掌握者矛盾（15913-15921）、NIH等有条件释放产权（15923）、70所大学请愿与两参议员跨党派提案经过（15925）、CellPro申诉案与斯坦福诉罗氏案审理经过（15947-15965），纯制度史实科普；可迁移制度原则已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第124封信：研究者名利双收、贝赫-多尔法案结果与出发点、三结果、权益顺序发明人第一；法案诞生史与两官司经过归X4"
+}

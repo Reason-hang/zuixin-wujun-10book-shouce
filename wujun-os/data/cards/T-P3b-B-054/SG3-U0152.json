@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG3-U0152",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "衡量一个地区科创水平四指标：适龄工作人口数量、大学教育人口比例、人均专利数、宜居程度",
+   "quote": "最重要的有这样四个",
+   "anchor": {
+    "start_line": 16149,
+    "end_line": 16151,
+    "fingerprint": [
+     "适龄工作人口",
+     "指标"
+    ],
+    "book_code": "SG3",
+    "sha1": "dcf40d5a746ceebf3ee6e4ea0e3d498d18eba3d3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "地区科创四指标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=乔纳森·格鲁伯与西蒙·约翰逊（《美国创新简史》作者）；强调劳动力数量而非绝对人口、养老胜地难成科创中心、老龄化不利科创（16155-16159）；理工科比例，万尼瓦尔主张发展所有学科（16161-16163）；人均专利只适合同国比较（16165）；宜居=房价犯罪率交通（16167）；满足四条不一定成、不满足一定成不了（16169）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0152-01",
+   "unit_id": "SG3-U0152"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "只有创新产业在当地政治商业金融各方面中重要性最凸显，那个地方才可能成为科技重镇",
+   "quote": "创新产业的重要性最为凸显",
+   "anchor": {
+    "start_line": 16171,
+    "end_line": 16175,
+    "fingerprint": [
+     "金融中心",
+     "创新产业"
+    ],
+    "book_code": "SG3",
+    "sha1": "902b7377926365bda767e0cb1cb84051f0cc7991"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创新产业凸显度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=《美国创新简史》作者；不看重金融中心政治中心、与创新关系不大且可能相竞争（16171）；按此标准南京、武汉特别有前途（16175）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0152-02",
+   "unit_id": "SG3-U0152"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "任何科技重镇必须拥有一个具有发展前景的新产业，否则一代人之后科技水平明显落后",
+   "quote": "具有发展前景的新产业",
+   "anchor": {
+    "start_line": 16181,
+    "end_line": 16187,
+    "fingerprint": [
+     "新产业",
+     "风水轮流转"
+    ],
+    "book_code": "SG3",
+    "sha1": "7643fc08ef0b7647712085c31ade2cdfe666872d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "新产业必要条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=《美国创新简史》作者（第二启发）；美国中部错过IT与生物制药而落伍、西雅图靠微软、波士顿靠生物制药（16183）；芬兰移动通信、日本3G美国4G例（16185-16187）；科技重镇要动态看待、风水轮流转（16187）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0152-03",
+   "unit_id": "SG3-U0152"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "凡是逐渐成为科技重镇的地区，当地政府对科技公司都提供了低税收的扶持政策",
+   "quote": "低税收的扶持政策",
+   "anchor": {
+    "start_line": 16191,
+    "end_line": 16191,
+    "fingerprint": [
+     "低税收",
+     "科技重镇"
+    ],
+    "book_code": "SG3",
+    "sha1": "5742e91346476b0bdabcfbed5b8d795eb7dd2c38"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "低税收扶持",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=《美国创新简史》作者（第三启发）；吴军的选址应用见C-SG3-U0152-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0152-04",
+   "unit_id": "SG3-U0152"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业选址不仅看吸引优惠条件，还要看已有公司的发展环境；沿海一线城市沟通成本低更易创业",
+   "quote": "沟通协调的成本会低很多",
+   "anchor": {
+    "start_line": 16191,
+    "end_line": 16193,
+    "fingerprint": [
+     "优惠条件",
+     "沿海一线城市"
+    ],
+    "book_code": "SG3",
+    "sha1": "0e07a094c2d6be43297780f2337ddf8b783cf7d4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创业选址看环境",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "不很主张去内地城市创业，麻烦可能超过优惠帮助（16193）；办公成本高但总体更容易（16193）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0152-05",
+   "unit_id": "SG3-U0152"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书除获得新知，很重要是看别人是否有其他看问题的角度、自己的观点是否有疏漏",
+   "quote": "看问题的角度",
+   "anchor": {
+    "start_line": 16197,
+    "end_line": 16205,
+    "fingerprint": [
+     "疏漏",
+     "原始数据"
+    ],
+    "book_code": "SG3",
+    "sha1": "1f7009b482956c43191b5ca1f97eb4d0862e886b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "读书看不同角度",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "他人思考方式或提供的原始数据也可能有用（16201-16203）；历史书观点彼此冲突时更感兴趣作者如何用事实分析（16205）；正因看法不同才推荐此书（16207）；若与己完全一致收获反而不大（16197）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0152-06",
+   "unit_id": "SG3-U0152"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0152",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "书目背景与读法叙述：书难读原因与英文原书名线索（16129-16131）、施密特推荐与其科技国策顾问背景（16133）、书中与万尼瓦尔贡献一致性（16135）、作者政府主导主张与降税/降科研经费/不降福利三诉求相互矛盾的批评（16137-16141）、企业担负基础研究现状（16141），无独立可迁移判断；四指标等方法已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第126封信：地区科创四指标、创新产业凸显、新产业必要、低税收扶持（作者E2）+创业选址、读书看不同角度（吴军E1）；书目背景归X4"
+}

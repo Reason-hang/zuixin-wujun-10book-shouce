@@ -1,0 +1,208 @@
+{
+ "unit_id": "SG3-U0161",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "霸道总裁式创始人能把企业做大但忽视员工向心力；一旦离开企业可能面临解体风险",
+   "quote": "救火队长",
+   "anchor": {
+    "start_line": 17031,
+    "end_line": 17033,
+    "fingerprint": [
+     "霸道总裁",
+     "离心力"
+    ],
+    "book_code": "SG3",
+    "sha1": "9729aebdbf23cf3342e6f62fc98f81c61f35784f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "霸道总裁离心力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "管理严格但员工未必把企业当自己的事业（17031）；王安电脑例（17033）；对应阿卡德帝国靠萨尔贡武力维持、传几代而解体（17027-17029，史实）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-01",
+   "unit_id": "SG3-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理要记住公式：控制力+向心力＞破坏力+离心力；控制力与向心力难兼得，高压会适得其反",
+   "quote": "适得其反",
+   "anchor": {
+    "start_line": 17035,
+    "end_line": 17035,
+    "fingerprint": [
+     "高压政策",
+     "适得其反"
+    ],
+    "book_code": "SG3",
+    "sha1": "2b6db959fe7c0d0b9b6fe29f9d1bc4e9cc4b3c72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "管理四力公式",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "框架原理见C-SG3-U0160-02；不要一味蛮干只想增加控制力（17035）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-02",
+   "unit_id": "SG3-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司能发展到多大取决于控制力和向心力：向心力决定多少人愿意来，控制力决定有效管理",
+   "quote": "有效的管理",
+   "anchor": {
+    "start_line": 17057,
+    "end_line": 17057,
+    "fingerprint": [
+     "向心力",
+     "有效的管理"
+    ],
+    "book_code": "SG3",
+    "sha1": "a1b4943c6c2d6b693b029f3441eb51b12d390697"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "公司规模两力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "企业一大离心力增强、中层自立一派带团队跳槽（17057）；用OKR/KPI、全员360度考核等工具增控制力而非直接发号施令（17057）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-03",
+   "unit_id": "SG3-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司需通过福利等绑定利益增强向心力，但提高福利需先把企业利润做上去",
+   "quote": "绑定的利益",
+   "anchor": {
+    "start_line": 17059,
+    "end_line": 17059,
+    "fingerprint": [
+     "绑定的利益",
+     "坐吃山空"
+    ],
+    "book_code": "SG3",
+    "sha1": "7d11b9673b14a4b0f6f6938a04129c13142f1fbb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "福利绑定向心力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "大公司福利好是为增强向心力（17059）；公司大了控制力提高幅度有限时靠福利吸引（17059）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-04",
+   "unit_id": "SG3-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "控制力和向心力数学上与半径的平方成反比，公司不可能无限制扩张",
+   "quote": "平方成反比",
+   "anchor": {
+    "start_line": 17061,
+    "end_line": 17061,
+    "fingerprint": [
+     "无限制扩张",
+     "平方成反比"
+    ],
+    "book_code": "SG3",
+    "sha1": "36fd094a633e5eae3a33434ad710bd3ac51917ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-1"
+   ],
+   "concept_key": "规模平方反比极限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "拆分独立公司运作可保持内部两力，但拆分出来的公司间又有离心力甚至互相拆台（17061）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-05",
+   "unit_id": "SG3-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好框架通用性好，把各种变量代入框架就能把问题分析清楚，还能迁移到别的领域",
+   "quote": "通用性比较好",
+   "anchor": {
+    "start_line": 17065,
+    "end_line": 17069,
+    "fingerprint": [
+     "通用性",
+     "变量代入"
+    ],
+    "book_code": "SG3",
+    "sha1": "f9700142c974fc8e32a3de3da43f70ed9bfab471"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "框架通用迁移",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "可用来分析明清灭亡、公司并购与主动拆分剥离（17069）；与C-SG3-U0160-04找框架事半功倍互引",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-06",
+   "unit_id": "SG3-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科班学习让人快速掌握领域内常用分析工具，有框架可迁移，否则每个问题从头做事倍功半",
+   "quote": "事倍功半",
+   "anchor": {
+    "start_line": 17071,
+    "end_line": 17075,
+    "fingerprint": [
+     "科班学习",
+     "事倍功半"
+    ],
+    "book_code": "SG3",
+    "sha1": "7b46b7b16f1c3fe0eebde947bfc435344e824e51"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "科班学习框架",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "相似类型的大量问题可套用框架解决（17071）；无框架分析唐朝兴衰费劲且结论难迁移（17073）；概括归纳通用框架的能力使学历史有助解决现实问题（17075）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0161-07",
+   "unit_id": "SG3-U0161"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0161",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实叙述：苏美尔未统一的原因与萨尔贡二十余年征战建阿卡德帝国、武力维持与百年余解体（17015-17029）、罗马控制力与向心力措施、后期四帝共治、卡拉卡拉公民权与税收、军阀化与蛮族入侵（17039-17047）、西晋世族与宗室兵权（17049）、黄仁宇论淝水之战与北周关陇集团统一（17051-17053），纯史实；企业管理判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第133封信：霸道总裁离心力、管理四力公式、公司规模两力、福利绑定向心力、平方反比极限、框架通用迁移、科班学习；帝国史实归X4"
+}

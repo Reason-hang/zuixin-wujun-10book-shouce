@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG3-U0155",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "资中筠：世界格局不是那么容易改变的，把时间段放长，国际关系波动多为噪音",
+   "quote": "无非是噪音",
+   "anchor": {
+    "start_line": 16421,
+    "end_line": 16425,
+    "fingerprint": [
+     "噪音",
+     "格局不是那么容易改变"
+    ],
+    "book_code": "SG3",
+    "sha1": "d46d8c48c01e536a35ec11a443c131aeff9adcd2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "格局不易改变",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=资中筠（翻译家、美国研究专家，社科院美国所前所长）；威斯特伐利亚和约与雅尔塔格局两例、具体情境的确定性远比设想强大（16427-16429）；反对派上台后同样进入建设逻辑（16433）；吴军三点感悟见C-SG3-U0155-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0155-01",
+   "unit_id": "SG3-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读资中筠的三点感悟：世界格局不易改变、世界自有修复问题的机制、警惕科学带来灾难",
+   "quote": "世界自有修复问题的机制",
+   "anchor": {
+    "start_line": 16469,
+    "end_line": 16475,
+    "fingerprint": [
+     "格外警惕",
+     "三点感悟"
+    ],
+    "book_code": "SG3",
+    "sha1": "d33a6f70437a2b85351943d2a20ad90b47e511dc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "格局修复与科学风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "概括自资中筠观点（R1概括句卡），资先生观点见C-SG3-U0155-01；三种模式均在自我纠错自我发展（16451）；尤因“人类在还没有掌握自己之前，就先掌控了自然”（16465，资中筠引）；科学滥用两危险：军备竞赛与环境破坏（16465）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0155-02",
+   "unit_id": "SG3-U0155"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "资中筠：很多争论其实不是讨论只是抬杠，抬杠没有真正前提必然不会有结果",
+   "quote": "只是抬杠",
+   "anchor": {
+    "start_line": 16483,
+    "end_line": 16485,
+    "fingerprint": [
+     "抬杠",
+     "不思考的人"
+    ],
+    "book_code": "SG3",
+    "sha1": "e066f47c70e1b6ee9dff9ee88d11e7a9eeacaeeb"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "抬杠非讨论",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=资中筠；不要和不思考的人讨论问题更不要争论、走的不是一条路（16485）；被扣“瞧不起人”帽子不必在意（16485）；吴军此后很少与人争辩（16503）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0155-03",
+   "unit_id": "SG3-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有意义的讨论前提是双方都认真思考、话题聚焦就事论事；思维差异来自阅读思考与见识",
+   "quote": "就事论事",
+   "anchor": {
+    "start_line": 16487,
+    "end_line": 16491,
+    "fingerprint": [
+     "交流的前提是思考",
+     "聚焦"
+    ],
+    "book_code": "SG3",
+    "sha1": "ab48705d8778924d95b1e593edf5b7565c6eefd5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "讨论前提思考聚焦",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "思维差异三来源：阅读与学习、思考习惯、见识，均需时间精力财务成本（16487）；见识来自经历、有意义的经历都是投资（16489）；夹枪带棒离题万里者回避远离一笑置之（16491）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0155-04",
+   "unit_id": "SG3-U0155"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0155",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "宏观时点论断：三种解决问题模式（美国式工会谈判立法遏制资本、欧洲式福利、中国式优先发展）及其现状有效性（16439-16451）、经济虚拟化与金融衍生品风险、资本市场催生的新型不平等（16457-16461）、21世纪新问题需更深刻变革（16463）、对中国工业化契约关系与文明程度两大趋势预测（16467），均依附当下宏观格局，含X2候选由P4终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第128封信：格局不易改变（资中筠E2）+吴军三点感悟、抬杠非讨论、讨论前提思考聚焦；三种模式与经济虚拟化宏观论断归X6"
+}

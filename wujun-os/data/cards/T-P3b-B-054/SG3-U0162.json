@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG3-U0162",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩德森等论文：并非恶劣气候迫使蒙古人迁徙，恰恰是好的气候条件促成蒙古帝国成功",
+   "quote": "好的气候条件",
+   "anchor": {
+    "start_line": 17137,
+    "end_line": 17141,
+    "fingerprint": [
+     "恶劣的气候",
+     "蒙古帝国"
+    ],
+    "book_code": "SG3",
+    "sha1": "1ac1ff926191df6007f54596f719d665c964c4d7"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "好气候促蒙古扩张",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=尼尔·佩德森（哥伦比亚大学/哈佛）等，《多雨、干旱、蒙古帝国和现代蒙古》刊于美国《国家科学院学报》（17141）；与主流小冰期迫使南下说相反（17119-17123）；1211-1225年气候好、粮草足战马剧增（17155-17161）；宾特根：罗马崛起时欧洲风调雨顺（17163）；赫斯尔：气候重要但非唯一因素、为成吉思汗创造理想条件（17167）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0162-01",
+   "unit_id": "SG3-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "历史是复杂的，促成历史事件的因素非常多且交织，很难轻易判断哪个因素是决定性的",
+   "quote": "决定性的",
+   "anchor": {
+    "start_line": 17173,
+    "end_line": 17175,
+    "fingerprint": [
+     "历史是复杂的",
+     "交织"
+    ],
+    "book_code": "SG3",
+    "sha1": "4e9f71f871aaeb84001fc4027e10566d8549ecd3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "历史复杂性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不能把过去历史事件的经验直接套用到另一个上、历史不会简单地重复（17175）；经验只可作切入点与参考（17175）；划重点3同旨（17195）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0162-02",
+   "unit_id": "SG3-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人文社会学科的研究中，很难总结出放之四海而皆准的理论",
+   "quote": "放之四海而皆准",
+   "anchor": {
+    "start_line": 17177,
+    "end_line": 17177,
+    "fingerprint": [
+     "人文社会学科",
+     "理性主义"
+    ],
+    "book_code": "SG3",
+    "sha1": "6f963aaad07b3b29d67b35706cda49b58593d9cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "人文社科无普适理论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应此前理性主义的介绍（17177）；因此不赞同用气候解释硅谷的成功（17177）；施密特气候归因说为其例（17103，转述）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0162-03",
+   "unit_id": "SG3-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能简单化看待社会现实；只从一个维度看会得到看似矛盾的结论，充分考量后有合理解释",
+   "quote": "看似矛盾",
+   "anchor": {
+    "start_line": 17179,
+    "end_line": 17181,
+    "fingerprint": [
+     "复杂的因素",
+     "看似矛盾"
+    ],
+    "book_code": "SG3",
+    "sha1": "51b96d6e256473d4fcaf1e5a94e8ffe4bc708850"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "矛盾背后合理解释",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "寒门出孝子与富家有教养并不矛盾、由众多因素影响（17181）；第二个提醒：允许不同观点存在、保持学术争鸣才能不断接近真理（17183）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0162-04",
+   "unit_id": "SG3-U0162"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0162",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实与方法科普：施密特硅谷气候说与西雅图对比（17103-17105）、南欧北欧互相矛盾的解释（17109）、西罗马灭亡与民族大迁徙、小冰期主流观点（17115-17123）、蒙古崛起之谜（17133-17135）、树木年轮原理与取样方法（17145-17153），纯史实科普；历史认识方法判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第134封信：蒙古气候论文（E3案例卡）、历史复杂性、人文社科无普适理论、矛盾背后合理解释；年轮方法与入侵史归X4"
+}

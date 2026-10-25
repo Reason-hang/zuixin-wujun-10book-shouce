@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG3-U0158",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人按货币符号拥有的财富是虚的，在社会总财富中的比例份额才是真的",
+   "quote": "比例份额才是真的",
+   "anchor": {
+    "start_line": 16761,
+    "end_line": 16761,
+    "fingerprint": [
+     "货币符号",
+     "100%"
+    ],
+    "book_code": "SG3",
+    "sha1": "3483cbac2c4750fa01305850fb12b338fdac51ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "比例份额财富观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "通胀后富人份额减少、低收入者份额几乎翻倍（16759）；“没有人是赢家”的说法不对（16761）；比例份额任何时间点加起来都是100%（16761）；划重点2同旨（16809）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0158-01",
+   "unit_id": "SG3-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谁更能抗通胀看财富投入社会再生产的比例；中产积蓄易被稀释，低收入者影响不大",
+   "quote": "稀释殆尽",
+   "anchor": {
+    "start_line": 16763,
+    "end_line": 16765,
+    "fingerprint": [
+     "社会再生产",
+     "稀释殆尽"
+    ],
+    "book_code": "SG3",
+    "sha1": "9b78718a18e0810109cde2e5b6b04a59aeef6db1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "抗通胀看再生产投入",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "通胀让货币贬值但资产价格也增长（16763）；大通胀中倒霉的是中产阶层和没有工作的人（16775）；土耳其按通胀调工资、民国按米价发工资、阿根廷例（16767-16773）；佩卓《不平等的引擎》论央行通胀政策损中产（16777）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0158-02",
+   "unit_id": "SG3-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "通胀时抢购物资和囤黄金没用；受影响更小的是股票房产等非现金资产，不包括债券",
+   "quote": "不包括债券",
+   "anchor": {
+    "start_line": 16783,
+    "end_line": 16791,
+    "fingerprint": [
+     "非现金资产",
+     "黄金"
+    ],
+    "book_code": "SG3",
+    "sha1": "43762c21c64745df452306ac0b99d756bb0d09a9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "非现金资产抗通胀",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "生活必需品支出占比不增则无碍（16783）；明朝末年金贱米贵例（16787）；低收入者抗通胀最好方式是自己的工作、锁定低房贷中产一定程度受益（16791）；大通胀衰退期不要轻易辞职先保住工作（16795）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0158-03",
+   "unit_id": "SG3-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对抗通胀最核心的方法是提高专业知识和技能；知识和能力是通胀无法掠夺的无形财富",
+   "quote": "永远不会贬值",
+   "anchor": {
+    "start_line": 16799,
+    "end_line": 16801,
+    "fingerprint": [
+     "专业知识和技能",
+     "无形的财富"
+    ],
+    "book_code": "SG3",
+    "sha1": "6468224fe34e193ed1fd483219bcd90c01f21684"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "知识能力抗通胀",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "富不过三代：后代资产增值速度赶不上通胀（16799）；对富人也适用、须保证家族财富增速跑赢通胀（16799）；划重点3同旨（16811）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0158-04",
+   "unit_id": "SG3-U0158"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0158",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "宏观经济机制论述：未来钱不如今天值钱的预判（16721）、通胀四大好处（刺激消费、变相再分配、负利率还债、符合预期，16727-16743）、M2与存款收入假设演算（16733-16757）、各国负利率举债与CPI未计房价被低估（16739）、欧元区南北通胀分歧（16793），宏观时点内容含X2候选由P4终裁；土耳其/民国/阿根廷通胀见闻随之不入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第131封信：比例份额财富观、抗通胀看再生产投入、非现金资产抗通胀、知识能力抗通胀；通胀宏观机制与各国见闻归X6"
+}

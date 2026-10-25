@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG3-U0160",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大历史角度看兴衰：地理气候、经济、制度、交通技术等客观因素比统治者素质更重要",
+   "quote": "更加重要的决定因素",
+   "anchor": {
+    "start_line": 16923,
+    "end_line": 16925,
+    "fingerprint": [
+     "大历史",
+     "统治者个人素质"
+    ],
+    "book_code": "SG3",
+    "sha1": "b4dca85abe3695dcd45354be4b01f2f58fd691ec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "客观因素决定兴衰",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "旧史书归因于统治者才智品德、司马光《资治通鉴》教育皇帝路径（16919）；今天历史书很少评论君主品德（16925）；统治者个人因素不可忽视但影响远没有过去认为的那么大（16925）；划重点1同旨（16989）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0160-01",
+   "unit_id": "SG3-U0160"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "政权兴衰分析框架：控制力+向心力＞破坏力+离心力，四种作用力两两一组动态变化",
+   "quote": "破坏力+离心力",
+   "anchor": {
+    "start_line": 16929,
+    "end_line": 16931,
+    "fingerprint": [
+     "控制力和向心力",
+     "离心力"
+    ],
+    "book_code": "SG3",
+    "sha1": "c16eb1835534f4105ffe133e2d6f0c59d0e83b52"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D08-1"
+   ],
+   "concept_key": "四力兴衰框架",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "控制力=自上而下权威、向心力=自下而上认可（16945）；技术发展弥补地理条件不足、大运河与东西部运河公路例（16941-16943）；四力动态变化、卡拉卡拉滥发公民权初衷增向心力结果增离心（16953）；企业管理应用见C-SG3-U0161-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0160-02",
+   "unit_id": "SG3-U0160"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创企业靠共同利益的天然向心力和类似宗教的公司文化维持；扩大后必须提升控制力",
+   "quote": "天然的向心力",
+   "anchor": {
+    "start_line": 16973,
+    "end_line": 16975,
+    "fingerprint": [
+     "公司文化",
+     "控制力"
+    ],
+    "book_code": "SG3",
+    "sha1": "c5cf81eceb6f917485b42dea101c234c026567c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "初创企业向心力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "初创缺专职管理人员、控制力有限（16973）；扩大后需专职管理层与管理工具（16975）；人一多难免出现离心力（16975）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0160-03",
+   "unit_id": "SG3-U0160"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "解决问题的一个重要出发点是找好框架，找到合适的框架理解处理问题事半功倍",
+   "quote": "事半功倍",
+   "anchor": {
+    "start_line": 16979,
+    "end_line": 16983,
+    "fingerprint": [
+     "找好框架",
+     "事半功倍"
+    ],
+    "book_code": "SG3",
+    "sha1": "390a267616308d0b385f781a7f675f241c4c505d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "找框架事半功倍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "历史框架也可用于理解和处理现实问题（16979）；框架通用性与迁移见C-SG3-U0161-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0160-04",
+   "unit_id": "SG3-U0160"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0160",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实例证叙述：李维论罗马共和制向心力、伯罗奔尼撒战争控制力缺陷（16947）、宋亡于金元、新巴比伦亡于波斯、阿拉伯文明被蒙古摧毁、奥斯曼终结拜占庭（16949）、唐藩镇黄巢与近现代帝国解体（16951）、卡拉卡拉滥发公民权（16953）、国家出现过程与苏美尔/古埃及/希腊城邦（16959-16967），纯史实；框架判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第132封信：客观因素决定兴衰、四力兴衰框架、初创企业向心力、找框架事半功倍；史实例证归X4"
+}

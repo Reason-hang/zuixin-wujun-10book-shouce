@@ -1,0 +1,153 @@
+{
+ "unit_id": "SG3-U0149",
+ "book_code": "SG3",
+ "extractor": "EXT-SG10",
+ "batch_id": "T-P3b-B-054",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "万尼瓦尔：政府应做重要而无法短期盈利的事，不久就能盈利的项目交给企业市场完成",
+   "quote": "无法在短期盈利",
+   "anchor": {
+    "start_line": 15857,
+    "end_line": 15859,
+    "fingerprint": [
+     "万尼瓦尔",
+     "私营企业"
+    ],
+    "book_code": "SG3",
+    "sha1": "a618ac8b86aa743241f204ffb2ac2988f9c6950e"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "政府企业科研分工",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=万尼瓦尔·布什（美国科研体制总设计师）；政府不要和大学以及私营机构相竞争（15857-15859）；吴军的概括句见C-SG3-U0149-02；支持方式与两大好处见C-SG3-U0149-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0149-01",
+   "unit_id": "SG3-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "上帝的归上帝，凯撒的归凯撒：政府要做的归政府，企业可以做的归企业",
+   "quote": "凯撒的归凯撒",
+   "anchor": {
+    "start_line": 15859,
+    "end_line": 15859,
+    "fingerprint": [
+     "上帝的归上帝",
+     "企业可以做的"
+    ],
+    "book_code": "SG3",
+    "sha1": "dbbc271610d83da6a83214e75b6e4d005f36c730"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "上帝凯撒分工概括",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对万尼瓦尔·布什原则的一句话概括（R1概括句卡）；被转述原话见C-SG3-U0149-01；划重点3同旨（15877）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0149-02",
+   "unit_id": "SG3-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国政府对高科技企业以减免所得税和行业补贴支持，不直接出资，避免与企业大学竞争",
+   "quote": "减免所得税",
+   "anchor": {
+    "start_line": 15861,
+    "end_line": 15865,
+    "fingerprint": [
+     "减免所得税",
+     "竞争"
+    ],
+    "book_code": "SG3",
+    "sha1": "985886c13944dd50fedd138633ca4fd3431793f1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "税收补贴不直接出资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两大好处：避免政府与企业大学直接竞争、避免有钱大公司抢大学教授饭碗（15863）；让有兴趣的人不被收入限制研究前瞻课题（15865）；NIH支持项目156人次获诺奖（15867）；今天中国大学企业在研究上重叠不是好事情（15863，时事评论入X6）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0149-03",
+   "unit_id": "SG3-U0149"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李开复：那时大部分AI研究都失败了，但让全美计算机领域开始重视AI，远见三四十年后证实",
+   "quote": "研究都是失败的",
+   "anchor": {
+    "start_line": 15841,
+    "end_line": 15841,
+    "fingerprint": [
+     "开复",
+     "远见"
+    ],
+    "book_code": "SG3",
+    "sha1": "7558a2c9448503423a45b9367324f77eb612a98a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "失败研究与远见",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李开复（与吴军同评80年代AI科学家群体）；拉吉·瑞迪任DARPA信息领域经费负责人（15839）；VR早期也是DARPA支持（15841）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0149-04",
+   "unit_id": "SG3-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基础科学研究的意义就在于为今后的应用扫清技术上的障碍",
+   "quote": "扫清技术上的障碍",
+   "anchor": {
+    "start_line": 15843,
+    "end_line": 15843,
+    "fingerprint": [
+     "基础科学研究",
+     "应用"
+    ],
+    "book_code": "SG3",
+    "sha1": "08822043f1c02976ec6d1b0f3e7394033b3a2f39"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "基础研究扫清应用障碍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "无人机作战机器人与AI、飞行员训练与VR为例（15843）；DARPA绝大部分研究和军事并不直接相关（15837）；划重点2同旨（15875）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0149-05",
+   "unit_id": "SG3-U0149"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0149",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "国家科研体制叙述：万尼瓦尔三方向与两类基金管理机构（15799-15821）、NIH沿革与大学经费数据（15807-15815）、能源部科学办公室与国家实验室经费（15815）、NSF经费难拿与吴军读博经历及IBM同行评语（15821-15827）、ARPA/DARPA沿革与星球大战计划阴谋论驳斥（15829-15833）、外籍博士生拆分与贝尔实验室实习见闻（15845-15851）、中国大学企业研究重叠评论（15863），均为科研体制/时点内容；可迁移分工逻辑已入K卡，含X2候选由P4终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第123封信：政企科研分工（万尼瓦尔原话E2+吴军概括E1）、税收补贴不直接出资、李开复论AI远见、基础研究扫障；机构沿革与经费数据归X6"
+}
