@@ -1,0 +1,174 @@
+{
+  "unit_id": "WJ2-U0011",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0011-01",
+      "unit_id": "WJ2-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "拥有大量可自由支配的自由现金流，是通向财富自由的关键，企业与个人皆然",
+      "quote": "通向财富自由的关键",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 937,
+        "end_line": 939,
+        "sha1": "179f1f0313dcaaeb3663c2f8cd5695f40200d8f2",
+        "fingerprint": [
+          "自由现金流",
+          "财富自由"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "自由现金流是关键",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本信立意句；D09-1 material_clues 明列本篇；与卡06（个人层面）互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0011-02",
+      "unit_id": "WJ2-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "自由现金流＝扣除经营成本、投资支出与必要开支后可自由支配的现金",
+      "quote": "剩下来能够自由支配的现金",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 959,
+        "end_line": 959,
+        "sha1": "a2dcc30d2ec933e980e81b42b33c29d07639a456",
+        "fingerprint": [
+          "自由现金流",
+          "必要开支"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "自由现金流定义",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "概念拆解（自由/现金/流）为讲授顺序：现金=不产生负债的支付，现金流=现金的增量且可为负"
+    },
+    {
+      "claim_id": "C-WJ2-U0011-03",
+      "unit_id": "WJ2-U0011",
+      "speaker": "转述·第三方",
+      "claim_text": "企业真正有价值的是现金，让现金流最大化才是价值投资",
+      "quote": "真正有价值的是现金",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 945,
+        "end_line": 945,
+        "sha1": "204e7ef56f2159d9c67ecc95dce0ce7b0ab9edd0",
+        "fingerprint": [
+          "巴菲特",
+          "现金奶牛"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "现金流最大化才是价值投资",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特（亲口公布的答案）；市盈率低≠有价值的辨析并入本卡；苹果/可口可乐为现金奶牛例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0011-04",
+      "unit_id": "WJ2-U0011",
+      "speaker": "史实",
+      "claim_text": "押金与充值计入的现金流不是自由现金流，以损害未来营收为代价不可持续",
+      "quote": "以损害未来的营收为代价",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 969,
+        "end_line": 977,
+        "sha1": "0862199a38f16f21905dd0bf4bc4b7104299f55c",
+        "fingerprint": [
+          "共享单车",
+          "押金"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-2"
+      ],
+      "concept_key": "押金现金流是伪现金流",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例（2015共享单车大战、摩拜/ofo）+可迁移机理（预收款类庞氏）；房地产卖楼花与银行贷款同机理（987-989并入）；吴军结论：全行业该指标为负"
+    },
+    {
+      "claim_id": "C-WJ2-U0011-05",
+      "unit_id": "WJ2-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "做价值投资前要能看懂财报，算出公司真实的自由现金流",
+      "quote": "分析出每家公司的自由现金流",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 995,
+        "end_line": 995,
+        "sha1": "3e4bdba4e33a769ab0169fac9d80ab17e9acc255",
+        "fingerprint": [
+          "财报",
+          "散户"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "看懂财报算自由现金流",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "wind研报词频与A股/美股财报对比为时点观察例证并入；转述原著判断，不构成投资建议"
+    },
+    {
+      "claim_id": "C-WJ2-U0011-06",
+      "unit_id": "WJ2-U0011",
+      "speaker": "吴军本人",
+      "claim_text": "个人实现真正的财富自由，需要很强的获得自由现金流的能力",
+      "quote": "获得自由现金流的能力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1001,
+        "end_line": 1007,
+        "sha1": "90fa07540efe46398a53dc0785103da4d7bb7a82",
+        "fingerprint": [
+          "自由现金流",
+          "财富自由"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "个人财富自由靠自由现金流",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：创始人身家估值是海市蜃楼（1003）、江浙粤家庭企业与农夫山泉隐形富豪（1005）；1007行：自由现金流也是生活自由与稳定的重要保障"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "自由现金流概念、定义、判据与案例机理均为本人核心判断，成卡6张（含1转述+1史实案例）"
+}

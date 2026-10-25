@@ -1,0 +1,190 @@
+{
+  "unit_id": "WJ2-U0010",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0010-01",
+      "unit_id": "WJ2-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "财富的本质是一个人所能调动的全世界资源的数量",
+      "quote": "调动全世界资源的数量",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 839,
+        "end_line": 841,
+        "sha1": "18755293b82698bde591df199fdbc16d4166b2c0",
+        "fingerprint": [
+          "财富",
+          "调动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财富即调动资源的能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本信立意句；餐馆投资回报率例并入；跨书线索：D09-1 material_clues 明列本篇《什么是财富？》"
+    },
+    {
+      "claim_id": "C-WJ2-U0010-02",
+      "unit_id": "WJ2-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "共识决定财富估值，大众一致预期使资产变值钱",
+      "quote": "当大家达成共识后",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 883,
+        "end_line": 885,
+        "sha1": "21afa55a77de9b281dacbac2593e861aec7072ff",
+        "fingerprint": [
+          "共识",
+          "英伟达"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "共识定价",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：英伟达与英特尔/高通/AMD市值差、名家字画与名表名包（时点数据X2不入卡）"
+    },
+    {
+      "claim_id": "C-WJ2-U0010-03",
+      "unit_id": "WJ2-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "信仰是财富估值的决定因素，能解释金融理论解释不了的价格",
+      "quote": "用信仰却能解释",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 887,
+        "end_line": 893,
+        "sha1": "571f32d2d0fc29bc66833e099e492b2cc69b9d2c",
+        "fingerprint": [
+          "信仰",
+          "比特币"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "信仰定价",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：东亚房地产信仰（农耕传统解释）、比特币数字黄金论；比特币市值预测为时点判断X2"
+    },
+    {
+      "claim_id": "C-WJ2-U0010-04",
+      "unit_id": "WJ2-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "好的投资既要利用大众的不理性增值，也要看到其风险",
+      "quote": "也要看到它的风险",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 897,
+        "end_line": 897,
+        "sha1": "796124b59152e4a388911e8e2421e74faa8ac003",
+        "fingerprint": [
+          "不理性",
+          "资产配置"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "利用不理性并防其风险",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承接共识/信仰两因素；手册转述原著判断，不构成投资建议（D09章首声明条款）"
+    },
+    {
+      "claim_id": "C-WJ2-U0010-05",
+      "unit_id": "WJ2-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "从资产富有变为部分现金富有，才谈得上财富自由",
+      "quote": "无法奢谈财富自由的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 913,
+        "end_line": 913,
+        "sha1": "bbdef6521c3b283decd139308aacbfc081bc0914",
+        "fingerprint": [
+          "现金富有",
+          "资产富有"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "现金富有才算财富自由",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "小李房贷例并入；新钱老钱机理（903-917）为本卡展开：新钱受益共识信仰故虚，老钱在实资产；商学院把新钱变老钱的建议并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0010-06",
+      "unit_id": "WJ2-U0010",
+      "speaker": "吴军本人",
+      "claim_text": "获得财富自由三步：利用共识升值、新钱变老钱保值、提高调动资源能力",
+      "quote": "利用大众的信仰和共识",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 921,
+        "end_line": 925,
+        "sha1": "f2e7a73e6c32d5355d365e6434568428d3d181ab",
+        "fingerprint": [
+          "新钱",
+          "老钱",
+          "调动资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D09-2"
+      ],
+      "concept_key": "财富自由三步",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3）；步骤1与卡02/03互引，步骤2与卡05互引，步骤3与卡01互引"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0010",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "英伟达/英特尔市值对比、比特币将超白银黄金市值、战区硬通货见闻等时点数据与行情判断不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0010",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末邀请来信留言讲财富规划属运营互动"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "财富定义、共识信仰定价、现金富有判据、三步法均本人核心判断，成卡6张"
+}

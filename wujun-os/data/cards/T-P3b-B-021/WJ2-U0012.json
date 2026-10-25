@@ -1,0 +1,255 @@
+{
+  "unit_id": "WJ2-U0012",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0012-01",
+      "unit_id": "WJ2-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "事业蒸蒸日上时，不要在意旁的诱惑，不要想着跨界和改变",
+      "quote": "旁的诱惑千万不要太在意",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1027,
+        "end_line": 1027,
+        "sha1": "9203943c9b583c14e6dacffa5c7a596eb704275b",
+        "fingerprint": [
+          "蒸蒸日上",
+          "跨界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "上行期不跨界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对读者'静'降薪换工作的回应；吴军自注：自己转行成功但情况不同，旧经验不适合今天的绝大部分人（经验适用条件，D01-1线索记notes）"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-02",
+      "unit_id": "WJ2-U0012",
+      "speaker": "转述·第三方",
+      "claim_text": "手持的股票表现还很好时，不要考虑卖掉去寻找新的机会",
+      "quote": "千万不要考虑卖掉",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1027,
+        "end_line": 1027,
+        "sha1": "9203943c9b583c14e6dacffa5c7a596eb704275b",
+        "fingerprint": [
+          "巴菲特",
+          "股票"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "持股良好不换仓",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=巴菲特；吴军用作事业不跨界的类比；与卡01互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-03",
+      "unit_id": "WJ2-U0012",
+      "speaker": "转述·第三方",
+      "claim_text": "主营业务发展快时应把利润继续投入，慢下来再考虑分散",
+      "quote": "把利润继续往里投入",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1029,
+        "end_line": 1029,
+        "sha1": "ed1533c04f1d1ee8d0248f4ac0b9eebe1d17dac1",
+        "fingerprint": [
+          "施密特",
+          "主营业务"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "主业快时利润再投入",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=谷歌前CEO施密特（内部讲话，指人员与资源投入）；与卡01互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-04",
+      "unit_id": "WJ2-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "在企业干得不错时，要在工作中学习，而不是用业余时间学习",
+      "quote": "要在工作中学习",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1029,
+        "end_line": 1029,
+        "sha1": "ed1533c04f1d1ee8d0248f4ac0b9eebe1d17dac1",
+        "fingerprint": [
+          "业余时间",
+          "学习"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "在工作中学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：谷歌高级副总裁听CMU泰斗报告失望之轶事——今天最高水平在大公司，把现有问题不断解决就是技术进步（1031-1033，D02-2同簇）"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-05",
+      "unit_id": "WJ2-U0012",
+      "speaker": "转述·第三方",
+      "claim_text": "行业下行期三不：不换工作、不投资买房、不借贷",
+      "quote": "不换工作",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1037,
+        "end_line": 1037,
+        "sha1": "fe61d4271184898f10d1f3486af50d33b103c7e3",
+        "fingerprint": [
+          "三不",
+          "下行期",
+          "新员工"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-2"
+      ],
+      "concept_key": "下行期三不",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=吴军的媒体界朋友（未具名），吴军背书并解释机理：新员工被裁首当其冲、根基浅难证明自己；上行期离职读书的自身经历为反例说明时代不同"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-06",
+      "unit_id": "WJ2-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "学新技术要过了门槛才有用，了解皮毛没有意义",
+      "quote": "过了一个门槛才有用",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1039,
+        "end_line": 1039,
+        "sha1": "423cc33bab52b5cde55750059e855a1eccb82884",
+        "fingerprint": [
+          "门槛",
+          "皮毛"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学习过门槛才有效",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "读者'笑自来'留言为引子（原文X7不入卡），吴军认可并提炼；与卡04同簇互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-07",
+      "unit_id": "WJ2-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "面对新技术要放弃必然受益的想法，算账须考虑是否得不偿失",
+      "quote": "还要考虑是否得不偿失",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1041,
+        "end_line": 1041,
+        "sha1": "0d2f482f9d0d447634f06a498703de47249394b9",
+        "fingerprint": [
+          "受益者",
+          "得不偿失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "算账考虑得不偿失",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "负数可比大小的重申，与C-WJ2-U0003-05互引（跨单元同链，P4合并候选）；'损失小且晚发生好于损失大且早发生'并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0012-08",
+      "unit_id": "WJ2-U0012",
+      "speaker": "吴军本人",
+      "claim_text": "解决同行不愿解决的关键障碍（如支付与交易壁垒），是公司脱颖而出之道",
+      "quote": "不愿意解决的交易壁垒问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1057,
+        "end_line": 1059,
+        "sha1": "58303fc129c56d60cd3947f612145d09f227740d",
+        "fingerprint": [
+          "马云",
+          "交易壁垒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "解决他人不解决的障碍",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "人物史本体X4不入卡，仅抽可迁移方法论；马云持续学习技术、并购雅虎提升技术的叙述为机理；里根生平类比并入X4；跨书线索：谷歌方法论/见识相关论述"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0012",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者静、雷神、陈伟鹏的来信原文为引文，吴军回应已抽卡01/08及X6条目，读者发言不得E1"
+    },
+    {
+      "unit_id": "WJ2-U0012",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "里根生平（工程学位/演员工会/州长）、马云创业史叙述本体为人物史，方法论已抽卡08"
+    },
+    {
+      "unit_id": "WJ2-U0012",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "黄峥张一鸣已超马云、中国还会出很多马云等时点判断不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0012",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "转述朱云来：全球计算机耗电仅占发电量3%、人均4000度等科技时点数据与流行说法纠偏不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "问答单元双说话人已区分：吴军回应成卡8张（含2条E2转述），读者原文与史实X7/X4/X2/X6排除"
+}

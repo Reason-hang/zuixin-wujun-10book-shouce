@@ -1,0 +1,133 @@
+{
+  "unit_id": "WJ2-U0005",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0005-01",
+      "unit_id": "WJ2-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "当所有信息都支持同一结论时，说明视角受限、见识太浅，而非结论毋庸置疑",
+      "quote": "视角受到了局限",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 516,
+        "end_line": 516,
+        "sha1": "9507928cf97015e08068c80a1269d157c57ba72e",
+        "fingerprint": [
+          "视角",
+          "见识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "信息同质化警号",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军由20年环保立场反思提炼；机理：知识体系不平衡、只看一面之词；跨书线索：富足《不要把幻象当作现实》同族"
+    },
+    {
+      "claim_id": "C-WJ2-U0005-02",
+      "unit_id": "WJ2-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "对过于肯定的结论要警惕：科学上的正确不等于对结果的预判可靠",
+      "quote": "影片过于肯定的结论",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 520,
+        "end_line": 522,
+        "sha1": "a9c1d9fb90374716416537593de44cebd55be087",
+        "fingerprint": [
+          "戈尔",
+          "推测"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "过于肯定反而可疑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "案例：《难以忽视的真相》结论过满引吴军复核各方研究；证据强度与结论确定度须匹配"
+    },
+    {
+      "claim_id": "C-WJ2-U0005-03",
+      "unit_id": "WJ2-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "不能先假设待证成因再推出一堆结论，有效反驳须直面不争的事实",
+      "quote": "先假设太阳活动变化了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 556,
+        "end_line": 556,
+        "sha1": "065bb61819b468254dbb72b1633e76a9bd964cc8",
+        "fingerprint": [
+          "太阳活动",
+          "不争的事实"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "假设先行无效",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军对反方论证的双点评：预设前提循环论证+回避不争事实；气温变化速率（百万年vs百年）为佐证并入本卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0005-04",
+      "unit_id": "WJ2-U0005",
+      "speaker": "吴军本人",
+      "claim_text": "要让所有人朝同一方向努力，必须让这件事与利益挂上钩",
+      "quote": "让这件事和钱挂上钩",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 572,
+        "end_line": 572,
+        "sha1": "d07e4182e97d98725ed0f9c5f85d40d104553b4a",
+        "fingerprint": [
+          "碳税",
+          "减排"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-1"
+      ],
+      "concept_key": "利益挂钩统一行动",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：飞机票25美元碳税、欧盟碳关税设想（政策本体X6不入卡）；组织激励设计视角，候选D08-1"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0005",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "气候变化归因论证、碳捕捉/可再生能源/储能投入、碳税政策等宏观科技政策与时点数据不入卡，仅抽可迁移分析逻辑"
+    },
+    {
+      "unit_id": "WJ2-U0005",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "欧盟碳关税将至、储能每年近万亿美元商机等具体行业与时点判断不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "本信以环保议题为载体讲分析方法，抽4条可迁移认知/协同方法论，宏观政策本体X6/X2排除"
+}

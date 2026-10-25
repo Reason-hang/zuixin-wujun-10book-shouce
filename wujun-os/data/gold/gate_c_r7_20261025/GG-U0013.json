@@ -1,0 +1,186 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD9",
+  "batch_id": "GATE-C-R7",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把事情做好需认清基线与极限，并找到连接两者的第三条线",
+      "quote": "找不到第三条线永远只能纸上谈兵",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1109,
+        "end_line": 1110,
+        "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb",
+        "fingerprint": [
+          "三条线",
+          "蛮干",
+          "纸上谈兵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "把事情做好的三条边",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第008封信总纲；Z形图见1070-1072行；三条边=基线、极限、连接路径，原理归D04-3、应用见C-GG-U0013-06。"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "一切工作应建立在时代基线之上，起点低于基线的蛮干注定徒劳",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1074,
+        "sha1": "5444a8b713b987873582721fca8abbf222da1e72",
+        "fingerprint": [
+          "基线",
+          "民间发明家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "基线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "民间发明家造小飞机例证（1075-1077行）、散户投资同理、教育目的即提高基线、不主张大学生退学创业（1086-1087行）均并入本卡。"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "理论极限无法突破，是否了解极限的存在是专业与业余的分野",
+      "quote": "是否了解极限的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1091,
+        "sha1": "16b1a58feeba9644b8f60d7aa2890cca2ec32032",
+        "fingerprint": [
+          "极限",
+          "卡诺定理",
+          "绝对零度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "理论极限无法突破",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "光速、绝对零度、能量守恒（1088行）；卡诺定理限死蒸汽机效率上限例证（1090行）；图灵机等三边界预告（1092行）并入。"
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "莱特兄弟先系统学习凯利空气动力学理论，再经上千次风洞试验求证",
+      "quote": "进行了上千次的风洞试验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1079,
+        "end_line": 1083,
+        "sha1": "1040ff1fa15227670a396094accef5f170793bd3",
+        "fingerprint": [
+          "莱特兄弟",
+          "凯利",
+          "风洞"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-3",
+        "D10-1"
+      ],
+      "concept_key": "莱特兄弟的方法",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（站上理论基线+充分试验，区别于蛮干者摔死），承载C-GG-U0013-02基线原理的独有例证。"
+    },
+    {
+      "claim_id": "C-GG-U0013-05",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "光有基线与极限不够，还需找到连接两者的绳索或阶梯",
+      "quote": "扶着向上攀登的绳索",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1097,
+        "sha1": "700f00db0cc30f2cf502e4c413863b612337068f",
+        "fingerprint": [
+          "绳索",
+          "鸟巢"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "连接路径",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "鸟巢总工李久林一整套施工与研发方案例证（1094-1096行）；科学家说能不能做、工程师管怎么做（1095行）并入；下粗上细之喻见1097行。"
+    },
+    {
+      "claim_id": "C-GG-U0013-06",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "认清自身基础与短板后，只做通往目标通道内的事，其余一律回绝",
+      "quote": "所有的事情都不要做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1101,
+        "end_line": 1104,
+        "sha1": "eb49cee4417314f3a6eb853f2847d988defff97d",
+        "fingerprint": [
+          "L 君",
+          "通道",
+          "极限"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "只做通道上的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "L君融资案例为三条边之应用（老先生点破上下两线，1101-1103行；融资后把天花板变基础，1107-1108行）；规则③应用场景挂D05-1。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0013",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "1112-1113行「今日思考」为栏目互动运营文字，按特则记X1不抽卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第008封信三条边方法论主体成卡6张（E1×5、E3×1）；今日思考栏目X1处置"
+}

@@ -1,0 +1,191 @@
+{
+ "unit_id": "GG-U0363",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0363-01",
+   "unit_id": "GG-U0363",
+   "speaker": "吴军本人",
+   "claim_text": "系统学习：通过知识点整理出脉络、掌握体系，才能解决需要思考的问题",
+   "quote": "掌握知识的体系",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23973,
+    "end_line": 23976,
+    "sha1": "37dc20b659062ce17808147770f347e78a19a416",
+    "fingerprint": [
+     "知识点",
+     "体系",
+     "脉络"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "体系胜过知识点",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "系统性学习能力可通过训练培养；与U0351读者信中'系统能力vs单点能力'呼应"
+  },
+  {
+   "claim_id": "C-GG-U0363-02",
+   "unit_id": "GG-U0363",
+   "speaker": "吴军本人",
+   "claim_text": "能量与信息是理解几千年科技发展的两条主线、有效的学习抓手",
+   "quote": "非常好的抓手",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23986,
+    "end_line": 23991,
+    "sha1": "84ea7ca0b778f9b119fb02f14f1a99cb8f2a814e",
+    "fingerprint": [
+     "能量",
+     "信息",
+     "线索"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D04-2"
+   ],
+   "concept_key": "能量与信息两抓手",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "信息革命前一多半发明与能量有关；四大发明三个属信息；两次工业革命围绕新能量展开"
+  },
+  {
+   "claim_id": "C-GG-U0363-03",
+   "unit_id": "GG-U0363",
+   "speaker": "吴军本人",
+   "claim_text": "站在未来人的角度考虑问题：若未来是电动车的世界，今天就该行动解决其问题",
+   "quote": "站在未来人的角度",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23984,
+    "end_line": 23985,
+    "sha1": "8d02b786dfd64aca69b44b3e65f4268149214b3b",
+    "fingerprint": [
+     "电动车",
+     "未来"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D10-1"
+   ],
+   "concept_key": "站在未来人角度",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "读者不愿买电动车的担心=站在今天角度；马斯克诸项目可用能量线索串起且思路清晰"
+  },
+  {
+   "claim_id": "C-GG-U0363-04",
+   "unit_id": "GG-U0363",
+   "speaker": "吴军本人",
+   "claim_text": "我们缺的不是历史事实，而是理解历史的抓手（如费正清的经济角度+大时空方法）",
+   "quote": "理解历史的抓手",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23992,
+    "end_line": 23996,
+    "sha1": "12f64b7b8a0b8601ad209b8e6885bc07fd732d23",
+    "fingerprint": [
+     "费正清",
+     "抓手"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "研究方法即抓手",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "费正清从经济角度研究中国史并放入大时空考量成泰斗；黄仁宇《万历十五年》/剑桥中国史皆其方法应用"
+  },
+  {
+   "claim_id": "C-GG-U0363-05",
+   "unit_id": "GG-U0363",
+   "speaker": "吴军本人",
+   "claim_text": "有效学习要建立学科的知识图谱：用关联图串联内容，分清先决条件与演绎结果",
+   "quote": "知识图谱",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23997,
+    "end_line": 23998,
+    "sha1": "680009fce6f4e62e606a7f6eac76a6eecc22356d",
+    "fingerprint": [
+     "知识图谱",
+     "关联图",
+     "几何学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "建立知识图谱",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "学好几何关键=建立概念定义定理间图谱；Google收购Knowledge Graph后从网页查找转向知识查找"
+  },
+  {
+   "claim_id": "C-GG-U0363-06",
+   "unit_id": "GG-U0363",
+   "speaker": "吴军本人",
+   "claim_text": "科技史上重大贡献者所学皆不够用，成就在学什么、何时学、怎么用；学以致用靠成功样板",
+   "quote": "学以致用做得特别好",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 24003,
+    "end_line": 24006,
+    "sha1": "b9a164acf1b2fafe8602ad36ea84eb2e0d0a89c9",
+    "fingerprint": [
+     "学以致用",
+     "瓦特"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学以致用靠样板",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "瓦特未受系统大学教育但学以致用特好；否则至多是好工匠或教书先生"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0363",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "为说明抓手而铺陈的人类科技史例证群（金字塔/四大发明/诺奖成就/马斯克项目细节）属文明科技史叙述，作论据不作卡"
+  },
+  {
+   "unit_id": "GG-U0363",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "明年课程预告、投票剧透与'新年回来听莎士比亚'属栏目运营内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "系统学习方法专信：知识体系/两抓手/知识图谱/学以致用成卡"
+}

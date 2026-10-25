@@ -1,0 +1,72 @@
+{
+  "unit_id": "WJ2-U0007",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0007-01",
+      "unit_id": "WJ2-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "世界上没有绝对公平，绝对公平本身就是灾难",
+      "quote": "绝对公平本身就是一种灾难",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 732,
+        "end_line": 732,
+        "sha1": "5976eb542549598c26c9a017de3030151e914072",
+        "fingerprint": [
+          "绝对公平",
+          "灾难"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "没有绝对公平",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教育公平讨论的落点，但结论句为普适价值判断故成卡；教育制度论述本体X5不入卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0007-02",
+      "unit_id": "WJ2-U0007",
+      "speaker": "吴军本人",
+      "claim_text": "齐夫定律普遍适用：少数头部个体占总量大部分，拉平一切则万物皆死",
+      "quote": "齐夫定律普遍适用",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 734,
+        "end_line": 734,
+        "sha1": "d2134e792a4e5bc3b4b51e1d7063a707776073d3",
+        "fingerprint": [
+          "齐夫定律",
+          "拉平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "齐夫定律与拉平之死",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：星球质量/企业利润分布、学校同好则教育无进步；日本教师轮岗牺牲整体质量（716行）同机理；跨书线索：见识/富足幂律与82法则同族"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0007",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "高考制度、分省分数线、南北榜案与科举史实、特长加分、抽签入学等教育制度史与政策论述，按批次特则X5不入卡（含宋代明清进士数据、日本轮岗等史实细节）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育制度本体X5排除，仅抽2条超出教育语境的普适判断（绝对公平、齐夫定律）"
+}

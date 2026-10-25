@@ -1,0 +1,241 @@
+{
+ "unit_id": "GG-U0360",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0360-01",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "生活的世界限制了我们的认识，小世界的人很难认清大世界",
+   "quote": "世界限制了我们的认识",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23800,
+    "end_line": 23802,
+    "sha1": "f4a111806a56cc62acd8beadc9e332506b55f156",
+    "fingerprint": [
+     "井蛙",
+     "夏虫"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "世界限制认识",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "庄子'井蛙/夏虫/曲士'语为论据（转述成分）；葛立恒数、相对论难想象为例"
+  },
+  {
+   "claim_id": "C-GG-U0360-02",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "让认识超越感官的最好办法是借助工具：方法论工具和以计算机为核心的具体工具",
+   "quote": "让自己的认识超越感官",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23803,
+    "end_line": 23806,
+    "sha1": "1f01b1e306e04447dc60ef33bfae9a090ceedc3d",
+    "fingerprint": [
+     "超越感官",
+     "工具"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-2"
+   ],
+   "concept_key": "认识超越感官靠工具",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=爱因斯坦借洛伦兹变换想出相对论；科技革命范式=现有产业+新技术=新产业"
+  },
+  {
+   "claim_id": "C-GG-U0360-03",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "应对快变世界两法：变得比它还快，或把握不变的影响深远因素以不变应万变",
+   "quote": "以不变应万变",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23809,
+    "end_line": 23814,
+    "sha1": "3d3d2e178e4f6778e743b134492e400725b2a06d",
+    "fingerprint": [
+     "变色龙",
+     "不变"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "应变两法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=专属团队开发新药快过癌细胞变化、时代需要变色龙而不是恐龙；IBM以服务为不变的根"
+  },
+  {
+   "claim_id": "C-GG-U0360-04",
+   "unit_id": "GG-U0360",
+   "speaker": "转述·第三方",
+   "claim_text": "指南针优于地图：变化快的年代难有时效地图，用指南针找准方向比按图索骥有意义",
+   "quote": "指南针优于地图",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23815,
+    "end_line": 23817,
+    "sha1": "2da85fbe1d5f1d031f7d8eb659b4f28d924df769",
+    "fingerprint": [
+     "指南针",
+     "地图"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-2"
+   ],
+   "concept_key": "指南针优于地图",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=MIT媒体实验室主任伊藤穰一；吴军取用：掌握原理能推导新公式者立于不败"
+  },
+  {
+   "claim_id": "C-GG-U0360-05",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "自然的边界跃不过去，试图超越属于妄念；注意力集中在边界内才能最大限度做好",
+   "quote": "都属于妄念",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23821,
+    "end_line": 23822,
+    "sha1": "5a9b2184e60c841274eeef9e4c8383ce5bb521e8",
+    "fingerprint": [
+     "边界",
+     "妄念"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "边界内做到最好",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "计算机被图灵可计算性、冯·诺依曼结构、半导体物理极限三条线限死；AI/计算机非万能"
+  },
+  {
+   "claim_id": "C-GG-U0360-06",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "好方法与坏方法有量级之差、工程上天壤之别；解决大问题必须找有量级改进的方法",
+   "quote": "有量级的改进",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23824,
+    "end_line": 23826,
+    "sha1": "039a43984e412a12720583e6e3ffedc20435d150",
+    "fingerprint": [
+     "量级",
+     "算法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-2"
+   ],
+   "concept_key": "量级改进",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "经典算法共同点=效率提高一个量级；顶级专业人士贡献收入远超平庸者的原因"
+  },
+  {
+   "claim_id": "C-GG-U0360-07",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "粗调为快速找方向，精调为准确定答案，解决巨大问题要平衡粗调和精调",
+   "quote": "平衡好粗调和精调的关系",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23827,
+    "end_line": 23829,
+    "sha1": "1718d802c07c2ded3bbe04bcd901050366985123",
+    "fingerprint": [
+     "粗调",
+     "精调"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "粗调与精调",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第25封信玻璃球实验；机器学习算法改进即平衡粗精调"
+  },
+  {
+   "claim_id": "C-GG-U0360-08",
+   "unit_id": "GG-U0360",
+   "speaker": "吴军本人",
+   "claim_text": "复杂系统整体不等于部分之和；渐进优化时先解决关键路径上影响大的瓶颈",
+   "quote": "不等于整体的功能",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23831,
+    "end_line": 23834,
+    "sha1": "fe8b1d8f5c5b119f37a1b0500abe3c916e673ce5",
+    "fingerprint": [
+     "系统论",
+     "阿姆达尔",
+     "瓶颈"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "整体优化先解瓶颈",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "系统论与计算机同期出现；苹果手机整体性能突出例；阿姆达尔定律=先改关键路径瓶颈（第198封信）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0360",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "对'智能时代方法论'课程内容的年度总复习框架叙述本身（23797-23799）及对明年课程的预告属栏目运营与结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "年度总结信，边界/量级/粗精调/系统整体等思维方法论成卡"
+}

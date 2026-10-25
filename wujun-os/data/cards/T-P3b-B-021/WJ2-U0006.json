@@ -1,0 +1,101 @@
+{
+  "unit_id": "WJ2-U0006",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0006-01",
+      "unit_id": "WJ2-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "身处技术领域但不掌握技术，得到的可能是诅咒而非祝福",
+      "quote": "受到的可能是诅咒而非祝福",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 648,
+        "end_line": 656,
+        "sha1": "f2903d5a0c3aa12c0b333275e77be036d51764ea",
+        "fingerprint": [
+          "诅咒",
+          "掌握技术"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-1"
+      ],
+      "concept_key": "技术在手才受益",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "与'个体能做的就是掌握技术'（656行）合并一卡；'人为拉平差异终致灾难'为社会政策判断，X6不入卡；跨书线索：富足/见识技术红利论述"
+    },
+    {
+      "claim_id": "C-WJ2-U0006-02",
+      "unit_id": "WJ2-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "技术平稳期人人都有机会，突变期大部分人是被牺牲的分母",
+      "quote": "被当作分母牺牲掉",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 650,
+        "end_line": 650,
+        "sha1": "da751d5ab80d790960ba2416d81e10a72a5c8ca6",
+        "fingerprint": [
+          "平稳",
+          "分母"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "技术突变期的分母",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "时代趋势判断带决策含义，X6候选P4终裁；对个人选择时机与行业的启示"
+    },
+    {
+      "claim_id": "C-WJ2-U0006-03",
+      "unit_id": "WJ2-U0006",
+      "speaker": "吴军本人",
+      "claim_text": "最早被技术淘汰的是放弃自己特长去抢风口的人",
+      "quote": "放弃掉自己原来特长去抢风口",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 654,
+        "end_line": 654,
+        "sha1": "3d3ff4fef4fb2deeb8d8f5cbadbbb4abf8266b37",
+        "fingerprint": [
+          "抢风口",
+          "淘汰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "弃特长抢风口先被淘汰",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：3000年前农民弃田庄赴神庙打杂之类比；'真正学技术者不足千分之一'的观察并入本卡"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0006",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "识字僧侣特权、三次技术革命财富史、科技精英影响政治经济（买推特、二选一、供应链与补贴）等文明史与时点叙述不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "技术与社会不平等叙述为主，抽3条可迁移的个体应对与时机判断，宏观史述X6排除"
+}

@@ -1,0 +1,242 @@
+{
+  "unit_id": "WJ2-U0003",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0003-01",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "稳定发展时代，追求“做得多”不再重要，追求“质量好”成为关键",
+      "quote": "追求“质量好”成为关键",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 372,
+        "end_line": 376,
+        "sha1": "a5be3c4c08fe8e52837c871a11b41812079ebc04",
+        "fingerprint": [
+          "质量取代数量",
+          "稳步发展"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "用质量取代数量",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "质量vs数量为取舍判断，候选D03-1；时代背景（稳定发展期）注记；跨书线索：与富足线性成长论述相关"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-02",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "AI时代质量好的标准不再是超越他人，而是超越机器",
+      "quote": "不再是超越他人，而是超越机器",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 376,
+        "end_line": 376,
+        "sha1": "c3179e49de8ed530bbc9e39b878ffcf2c36cdcc1",
+        "fingerprint": [
+          "人工智能",
+          "超越机器"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "超越机器的质量标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "时效判断，X6候选P4终裁；技术解决90%问题、剩10%是艺术与人类价值为例证并入本卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-03",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "深度伪造泛滥的时代，掌握准确信息、会判断信息真实性是必备能力",
+      "quote": "判断信息的真实性至关重要",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 380,
+        "end_line": 386,
+        "sha1": "ebbef7921f2f2d4f3aa7b626af22bcb596b705b1",
+        "fingerprint": [
+          "深度伪造",
+          "信息源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "辨别信息真假",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信息源错则决策大概率错的逻辑并入本卡；芒格评顶级投行五年预测全错为例证（不独立成卡）；跨书线索：态度《做理性的怀疑者》、富足《辨别信息真假的有效手段》"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-04",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "决定能否做投资的关键不在金融知识或投行经验，而在心态",
+      "quote": "不在于金融知识或投行经验",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 390,
+        "end_line": 394,
+        "sha1": "b2951b3c7094bda1a62e6669f341beee76809f2b",
+        "fingerprint": [
+          "心态",
+          "投行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D02-4"
+      ],
+      "concept_key": "投资成败在心态",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "投行7-8年淘汰一半人的例证并入本卡；顺风忘乎所以、逆境当赌徒为心态失效机理"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-05",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "世界有正数也有负数，为避免大损失付出小代价是必要的",
+      "quote": "付出一些小的代价是必要的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 394,
+        "end_line": 394,
+        "sha1": "4474e8a7abd3878fc6d73cade5b8576a0cb18196",
+        "fingerprint": [
+          "负数",
+          "大的损失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "负数也有大小",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "跨书线索：富足《01.做事永远不要忽视负数》同源论述，重刊复核"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-06",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "一次只做一件事，但拿出做十件事的时间精力去完成",
+      "quote": "一次只做一件事",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 396,
+        "end_line": 396,
+        "sha1": "994383add75499dc3040f450b6b908879c75c22a",
+        "fingerprint": [
+          "一次只做一件事",
+          "做十件事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "一次只做一件事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "背景：稳定发展期一次大错难有翻盘机会；与专注/最后1%论述相邻"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-07",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "凡事要慢慢来，想在极短时间内强行改变都会适得其反",
+      "quote": "凡事要慢慢来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 402,
+        "end_line": 402,
+        "sha1": "6ae4c4232c04c77c9655ef48f17316fc68fcb00a",
+        "fingerprint": [
+          "保守主义",
+          "适得其反"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "保守主义的底层逻辑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军本人判断（非转述）；以中学物理无穷大外力类比论证；候选D05-2长期主义，P4裁"
+    },
+    {
+      "claim_id": "C-WJ2-U0003-08",
+      "unit_id": "WJ2-U0003",
+      "speaker": "吴军本人",
+      "claim_text": "经验教训对解决当下问题帮助不大，但解决方法的底层逻辑相通",
+      "quote": "解决方法的底层逻辑却是相通的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 368,
+        "end_line": 368,
+        "sha1": "b99c6205f42fe7abe78f4c981f46e18e2e73cdf5",
+        "fingerprint": [
+          "底层逻辑",
+          "经验"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "底层逻辑相通",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本单元（发刊词）立意句；与全专栏“重建底层逻辑”主题呼应"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0003",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "发刊词中人口老龄化、气候变化、全球经济格局等宏观趋势叙述，时效性宏观判断不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0003",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "末段宣布互动形式、邀请读者来信属运营性载体内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "发刊词含多条可独立成立的吴军本人判断，成卡8张"
+}

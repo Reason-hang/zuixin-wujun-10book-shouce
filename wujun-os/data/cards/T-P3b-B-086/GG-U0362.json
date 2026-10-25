@@ -1,0 +1,239 @@
+{
+ "unit_id": "GG-U0362",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0362-01",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "研究发明背后的共性逻辑，能获得可重复的成功；具体发明会变，成功方法流传",
+   "quote": "可重复性的成功",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23898,
+    "end_line": 23900,
+    "sha1": "8a64c3ea9e5e4a26896a6a874a36d96ac606b43e",
+    "fingerprint": [
+     "发明",
+     "可重复"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-2"
+   ],
+   "concept_key": "可重复的成功",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "概念与富足《14.可重复的成功》同源（跨书线索，concept_keys已有CK-0008）"
+  },
+  {
+   "claim_id": "C-GG-U0362-02",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "发明是系统工程，所需条件缺一项就成不了；好技术本身不等于能挣钱的产品",
+   "quote": "有一项不具备，就发明不出来",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23903,
+    "end_line": 23906,
+    "sha1": "3ac9e6bc39b2573ca61116fe144d01a4c4685ea7",
+    "fingerprint": [
+     "木桶效应",
+     "机缘巧合"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "发明是系统工程",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=双触屏技术80年代已有但缺3G与好屏找不到用场；中国发明瓷器靠机缘巧合难重复"
+  },
+  {
+   "claim_id": "C-GG-U0362-03",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "清楚各项技术成熟与否、把成熟技术拼在一起做成新产品，这种成功可以复制",
+   "quote": "把那些成熟的技术拼在一起",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23907,
+    "end_line": 23908,
+    "sha1": "a54125111e6adf4a905e641ebe25ec9c9979b818",
+    "fingerprint": [
+     "乔布斯",
+     "成熟的技术"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "拼成熟技术可复制",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "乔布斯发明iPhone的主动性对比中国工匠靠运气；拆解产品寻找技术思路可重复使用"
+  },
+  {
+   "claim_id": "C-GG-U0362-04",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "从欧洲人再发明瓷器可学三点：记录、系统的方法、在前人基础上可叠加地进步",
+   "quote": "记录的重要性",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23910,
+    "end_line": 23913,
+    "sha1": "ecba5b969f4ccc04584f436daea29bb898eb2494",
+    "fingerprint": [
+     "记录",
+     "系统的方法",
+     "可叠加"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D10-1"
+   ],
+   "concept_key": "记录系统与可叠加",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "详细记录使欧洲能复制历史任何瓷器并持续改进，中国技艺多失传；系统方法出问题易定位"
+  },
+  {
+   "claim_id": "C-GG-U0362-05",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "发明是从0到N的全过程，从0到1从来不缺，难的是走完全部N步",
+   "quote": "从0到N的一个全过程",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23916,
+    "end_line": 23917,
+    "sha1": "64e86abdb12fd6d3d1f6205838fe93eb9efb4108",
+    "fingerprint": [
+     "青霉素",
+     "从0到1"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "从0到N全过程",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "以青霉素为例；与富足《29.什么是真正的从0到1》互证（跨书线索）"
+  },
+  {
+   "claim_id": "C-GG-U0362-06",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "一通百通、举一反三的前提，是对事情有本质的了解",
+   "quote": "对一些事情有本质的了解",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23918,
+    "end_line": 23919,
+    "sha1": "225f969a7a77a30c2de1f821431c104c8f135167",
+    "fingerprint": [
+     "本质",
+     "举一反三"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D10-1"
+   ],
+   "concept_key": "举一反三靠本质了解",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=搞清青霉素原理与分子结构→改分子得新抗生素；瓷器配方同理；与U0353-01剥离表象找本质互引"
+  },
+  {
+   "claim_id": "C-GG-U0362-07",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "理解发明间的先决与必然关系，才能判断技术趋势：哪些会发生、哪些不可能",
+   "quote": "判断当下的技术趋势",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23921,
+    "end_line": 23922,
+    "sha1": "902a20a57e0887e2707ef69e41c260e8ab8fce2c",
+    "fingerprint": [
+     "先决条件",
+     "技术趋势"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "以发明关系判趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "乔布斯适时研发iPhone正因透彻理解技术间关系；趋势判断成分X6候选，此处抽判断方法"
+  },
+  {
+   "claim_id": "C-GG-U0362-08",
+   "unit_id": "GG-U0362",
+   "speaker": "吴军本人",
+   "claim_text": "科技史上留名者的共同点：当别人看到的是问题时，他们看到的是机会",
+   "quote": "他们看到的是机会",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23928,
+    "end_line": 23928,
+    "sha1": "a0eedc792f307bd12d66aa54fcc98190628c49dd",
+    "fingerprint": [
+     "机会",
+     "问题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D01-2"
+   ],
+   "concept_key": "问题中看到机会",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "收束判断；怎样从问题中看到机会要学前人"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0362",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "文末'课程直达'往期目录（23936-23969）与明年新课投票/留言邀请（23930）属运营载体内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "发明逻辑总结信，可重复成功/拼成熟技术/从0到N等方法论成卡"
+}

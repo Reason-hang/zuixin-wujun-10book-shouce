@@ -1,0 +1,202 @@
+{
+ "unit_id": "GG-U0359",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0359-01",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "失去朋友三因：经历变迁、交友不慎、相处不当；能做的是避免与假朋友深交并学会相处",
+   "quote": "设法避免与第二类人深交",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23754,
+    "end_line": 23756,
+    "sha1": "c724320b4188d4482e9e124108e4ae74429f0d8c",
+    "fingerprint": [
+     "假朋友",
+     "深交"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "失去朋友三因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "前提判断：得到新朋友的快乐弥补不了失去老朋友的痛苦（23753）并入本链"
+  },
+  {
+   "claim_id": "C-GG-U0359-02",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "朋友关系可分合作型、依靠型、暧昧型，期望值设置错误是失去朋友的第一个原因",
+   "quote": "设置错了期望值",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23757,
+    "end_line": 23757,
+    "sha1": "04013616b125f12777a9ab1b58d2af4f2fde5ce4",
+    "fingerprint": [
+     "合作型",
+     "依靠型",
+     "暧昧型"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "朋友三型与期望值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "类型学判断；对暧昧型仅提及将来讲，不展开"
+  },
+  {
+   "claim_id": "C-GG-U0359-03",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "付出、合作和妥协是维系合作型朋友的基础，需放弃私心、牺牲局部利益谋求共同利益",
+   "quote": "付出、合作和妥协",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23758,
+    "end_line": 23759,
+    "sha1": "920d8957a6da72f82a94bfb3cc28a350001101ac",
+    "fingerprint": [
+     "合作",
+     "妥协",
+     "私心"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-2"
+   ],
+   "concept_key": "合作型朋友的基础",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证=共同创始人闹翻极普遍，调解矛盾成投资人工作重要部分（23760-23763）"
+  },
+  {
+   "claim_id": "C-GG-U0359-04",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "一起做事前要把利益分配讲清楚、丑话说在前面；谈利益不可耻，以伤感情为由坑合伙人才可耻",
+   "quote": "谈利益不是一件可耻的事情",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23765,
+    "end_line": 23769,
+    "sha1": "1cad87b9e95bc954eefccf56b25a3be11c91a61a",
+    "fingerprint": [
+     "丑话说在前面",
+     "利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "丑话说在前面",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "避免合作型朋友破裂法一；情怀创业不谈股权埋隐患、共患难易共富贵难是本性"
+  },
+  {
+   "claim_id": "C-GG-U0359-05",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "合作型朋友关系有维度而非全方位，不要跨维度地帮忙或请求帮忙",
+   "quote": "不要跨维度地帮忙",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23770,
+    "end_line": 23775,
+    "sha1": "4d77dc2feb2fc67b26586ba6de7168feb1b75c9f",
+    "fingerprint": [
+     "维度",
+     "帮忙"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "不跨维度帮忙",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "避免破裂法二；队友不宜合伙做生意；吴军不替朋友打理钱财；大额借钱/轻诺做不到皆跨维度；莎士比亚'丢钱又丢朋友'（跨书线索：《硅谷来信》）"
+  },
+  {
+   "claim_id": "C-GG-U0359-06",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "所谓特别纯粹、毫不功利的友谊，本身就是一种功利",
+   "quote": "本身就是一种功利",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23776,
+    "end_line": 23776,
+    "sha1": "6ad9189a9689af30b5abd62fceba22fc9b099841",
+    "fingerprint": [
+     "纯粹",
+     "功利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "纯粹即功利",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对'我们友谊特别纯粹'说法的反驳；引出依靠型关系"
+  },
+  {
+   "claim_id": "C-GG-U0359-07",
+   "unit_id": "GG-U0359",
+   "speaker": "吴军本人",
+   "claim_text": "依赖型朋友关系需要平等，地位不平等终致疏远，即便一方愿意付出也难持久",
+   "quote": "都需要平等地对待对方",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23780,
+    "end_line": 23787,
+    "sha1": "c084b3e661ec3acccd1c1a7fe16481d4eadda76e",
+    "fingerprint": [
+     "平等",
+     "闺蜜"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "依赖型关系需平等",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=《早安，巴比伦》兄弟失平等生悲剧、加拿大闺蜜疏远；下嫁难、私立学校穿校服皆为平等"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "朋友关系方法论专信，成卡7张，全部D07-2主归属"
+}

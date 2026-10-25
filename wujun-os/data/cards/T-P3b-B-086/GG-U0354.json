@@ -1,0 +1,157 @@
+{
+ "unit_id": "GG-U0354",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0354-01",
+   "unit_id": "GG-U0354",
+   "speaker": "转述·第三方",
+   "claim_text": "世界上存在非零和博弈，其中双方想获得最大利益就需要合作",
+   "quote": "想获得最大的利益，就需要合作",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23450,
+    "end_line": 23454,
+    "sha1": "4f5bd5e00c55e981ef68d8d3586bc85d02062667",
+    "fingerprint": [
+     "非零和",
+     "纳什",
+     "囚徒"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "非零和博弈需合作",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=纳什（囚徒困境说明非零和博弈）；冯·诺依曼零和博弈论为背景；吴军评价见02卡"
+  },
+  {
+   "claim_id": "C-GG-U0354-02",
+   "unit_id": "GG-U0354",
+   "speaker": "吴军本人",
+   "claim_text": "认识到非零和博弈的存在、在合作基础上寻找双赢，是迄今人类文明最高成果的体现",
+   "quote": "寻找双赢的答案",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23464,
+    "end_line": 23467,
+    "sha1": "b5ab691bcec2319a17af9daf5b6659281da7190d",
+    "fingerprint": [
+     "合作",
+     "双赢",
+     "文明"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D04-1"
+   ],
+   "concept_key": "合作双赢是文明成果",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军对纳什理论（01卡）的取用与升华；美苏核竞赛不合作双输为例证"
+  },
+  {
+   "claim_id": "C-GG-U0354-03",
+   "unit_id": "GG-U0354",
+   "speaker": "吴军本人",
+   "claim_text": "信息交流顺畅是找到双赢解法的前提，我们所在的世界可以沟通，问题都能放在明面上解决",
+   "quote": "信息的交流是顺畅的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23460,
+    "end_line": 23464,
+    "sha1": "4a40b5de519a237a20ef02986515d3d655bf3396",
+    "fingerprint": [
+     "沟通",
+     "双赢",
+     "明面上"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D07-2"
+   ],
+   "concept_key": "沟通顺畅是双赢前提",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "与霍金'宇宙无法沟通故先发制人'（23440-23442）对照：可沟通的世界不需丛林法则"
+  },
+  {
+   "claim_id": "C-GG-U0354-04",
+   "unit_id": "GG-U0354",
+   "speaker": "转述·第三方",
+   "claim_text": "世界上爆发战争的原因是秘密外交，彼此诉求无法用有效渠道传递",
+   "quote": "秘密外交",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23461,
+    "end_line": 23461,
+    "sha1": "621e2fc2950b2f32fc23b87a86d2c8c2274f976e",
+    "fingerprint": [
+     "威尔逊",
+     "战争"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "秘密外交致战争",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=威尔逊（世界和平见解）；支撑03卡：人类进步体现在通信进步与善用沟通"
+  },
+  {
+   "claim_id": "C-GG-U0354-05",
+   "unit_id": "GG-U0354",
+   "speaker": "吴军本人",
+   "claim_text": "没有底线的一方先获最大利益，但会诱使所有人切换到不合作模式，最终双输",
+   "quote": "陷入了双输的状态",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23463,
+    "end_line": 23466,
+    "sha1": "07dbc54ec9614055d0fd43ec70a38138579fcfd4",
+    "fingerprint": [
+     "底线",
+     "双输",
+     "丛林法则"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "无底线博弈致双输",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "批商人借'宇宙丛林法则'行无底线竞争=开历史倒车；23466追求美好生活者有义务制止倒退并入本卡"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0354",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "前苏联卢布定价GDP与普京评论属时点时政论断（23457-23459）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "非零和博弈方法论与合作沟通判断成卡，时政评论X2"
+}

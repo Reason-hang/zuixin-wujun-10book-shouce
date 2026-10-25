@@ -1,0 +1,41 @@
+{
+  "unit_id": "WJ2-U0008",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0008-01",
+      "unit_id": "WJ2-U0008",
+      "speaker": "吴军本人",
+      "claim_text": "应对复杂变化六策略：活在当下、重质量、串行完成、刨根问底、壁垒找机会、底层逻辑不变",
+      "quote": "应对复杂变化的6条策略",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 751,
+        "end_line": 763,
+        "sha1": "bc22dbd99c2336edffdad1134f412a75dbfa1dc7",
+        "fingerprint": [
+          "活在当下",
+          "串行",
+          "壁垒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D01-1"
+      ],
+      "concept_key": "应对复杂变化六策略",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡（R3），锚未超800字不拆续卡；条目互引：重质量/超越机器↔C-WJ2-U0003-01/02，一次做一件事↔C-WJ2-U0003-06，掌握准确信息↔C-WJ2-U0003-03；'十个B比不上一个A'为本单元新表述；'前提假设变了应对策略就得变'为条目1机理"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "短单元但为6条策略实质方法论清单，非纯过渡，整体一卡"
+}

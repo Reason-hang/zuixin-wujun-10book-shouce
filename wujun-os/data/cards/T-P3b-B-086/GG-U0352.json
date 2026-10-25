@@ -1,0 +1,156 @@
+{
+ "unit_id": "GG-U0352",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0352-01",
+   "unit_id": "GG-U0352",
+   "speaker": "吴军本人",
+   "claim_text": "做事情总应遵循资源多有资源多的做法、少有少的做法",
+   "quote": "资源多有资源多的做法",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23351,
+    "end_line": 23351,
+    "sha1": "96ccb6318af6f6ecafa423ae39cc74273a2d94b9",
+    "fingerprint": [
+     "名片",
+     "资源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "资源多少决定做法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "背景=一张名片写尽文明的思想实验；方法论判据独立于载体"
+  },
+  {
+   "claim_id": "C-GG-U0352-02",
+   "unit_id": "GG-U0352",
+   "speaker": "吴军本人",
+   "claim_text": "定义概念是人类特有的本领，再智能的计算机也无法定义概念",
+   "quote": "人类特有的一个本领",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23355,
+    "end_line": 23356,
+    "sha1": "6d38b5dec30e957b8cca71dd3203ad276ccb54d7",
+    "fingerprint": [
+     "定义",
+     "概念"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "定义概念是人类特权",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=AlphaGo可聚类判内外延但不能定义概念（计算的局限）"
+  },
+  {
+   "claim_id": "C-GG-U0352-03",
+   "unit_id": "GG-U0352",
+   "speaker": "吴军本人",
+   "claim_text": "人类的进步在很大程度上是通过确定性关系不断推出新的结论",
+   "quote": "通过确定性关系",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23357,
+    "end_line": 23358,
+    "sha1": "e2877a74512cc0be9927b0e3ed1c43a8026b3b28",
+    "fingerprint": [
+     "确定性",
+     "推理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "确定性推理推进步",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "1+1=2第二含义：因果逻辑与确定性；与02卡同链（三个公式之一）"
+  },
+  {
+   "claim_id": "C-GG-U0352-04",
+   "unit_id": "GG-U0352",
+   "speaker": "吴军本人",
+   "claim_text": "人类的直观观察不可靠，常识会被科学推翻",
+   "quote": "观察不是那么可靠",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23370,
+    "end_line": 23374,
+    "sha1": "b5cca9a596414a200653c51de0866cddd2b3bf11",
+    "fingerprint": [
+     "常识错了",
+     "哥白尼"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "直观与常识不可靠",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三次经验=哥白尼日心说、伽利略落体、相对论光速恒定；低速世界无法直观理解高速世界"
+  },
+  {
+   "claim_id": "C-GG-U0352-05",
+   "unit_id": "GG-U0352",
+   "speaker": "吴军本人",
+   "claim_text": "世界天生具有不确定性，凡事可确定的方法论被证明不成立",
+   "quote": "天生具有不确定性",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23377,
+    "end_line": 23378,
+    "sha1": "2d95167e2dc39ac56ee0aac91d90529674499ed8",
+    "fingerprint": [
+     "骰子",
+     "熵"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "世界天生不确定",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "爱因斯坦'上帝不掷骰子'与波尔之争；引出第三公式熵=不确定性的度量"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0352",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "以三公式概括人类文明的叙述与相对论/质能公式/信息熵的科普主体属文明历史与科学史，按X6处置，仅抽认知方法论"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "文明史思想实验主体X6，其中认知与思维方式判断成卡"
+}

@@ -1,0 +1,126 @@
+{
+ "unit_id": "GG-U0349",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0349-01",
+   "unit_id": "GG-U0349",
+   "speaker": "转述·第三方",
+   "claim_text": "一个人临死前还留有大量财产，是一件可耻的事情",
+   "quote": "临死前还留有大量的财产",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23156,
+    "end_line": 23156,
+    "sha1": "47e6ce1880f172be13b0d17e94d5cc50b5c11033",
+    "fingerprint": [
+     "卡耐基",
+     "可耻"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "临死留巨产是耻辱",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=卡耐基；吴军引其说明美国慈善捐赠传统"
+  },
+  {
+   "claim_id": "C-GG-U0349-02",
+   "unit_id": "GG-U0349",
+   "speaker": "转述·第三方",
+   "claim_text": "钱是为了让你做自己想做的事情，而不是不做事情",
+   "quote": "钱是为了让你做自己想做的事情",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23158,
+    "end_line": 23158,
+    "sha1": "e90455e7304566fdf4abd5fd3fe65d9b85e4d585",
+    "fingerprint": [
+     "巴菲特"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "钱是做事的手段",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=巴菲特；吴军引其说明财富不留给子女的理由"
+  },
+  {
+   "claim_id": "C-GG-U0349-03",
+   "unit_id": "GG-U0349",
+   "speaker": "吴军本人",
+   "claim_text": "过多的钱财不是孩子的福祉而是诅咒，应重在培养能力而非留钱",
+   "quote": "不再是孩子们的福祉，而是诅咒",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23158,
+    "end_line": 23160,
+    "sha1": "d007e21eb29e7fc49ee8e0d387385d79eff59a5d",
+    "fingerprint": [
+     "诅咒",
+     "培养孩子的能力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "巨财是诅咒",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证=盖蒂家族成员自杀/吸毒/绑架；家族财富条目（D09-1含家族财富）；亲子教育侧面另记X5候选"
+  },
+  {
+   "claim_id": "C-GG-U0349-04",
+   "unit_id": "GG-U0349",
+   "speaker": "吴军本人",
+   "claim_text": "名校精英圈子的认可，以积极参与校友活动、为母校提供帮助为前提",
+   "quote": "积极参与校友活动，为母校提供",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23173,
+    "end_line": 23177,
+    "sha1": "e4f86881c8d2a953b7b309fddddd4c8c03995030",
+    "fingerprint": [
+     "精英圈子",
+     "校友活动"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "圈子以参与贡献为前提",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "例证=普林斯顿捐赠率超60%对比亚裔不足10%；进名校≠融入圈子"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0349",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "美国慈善捐赠传统与名校经费、校友文化制度叙述属教育制度史，按批次特则X5处置，仅抽财富观与圈子机制"
+  },
+  {
+   "unit_id": "GG-U0349",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "思考题（政府统一使用还是慈善自行安排）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "捐赠文化主体X5，财富观转述两句与圈子机制判断成卡"
+}

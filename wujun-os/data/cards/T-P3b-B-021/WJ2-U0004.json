@@ -1,0 +1,78 @@
+{
+  "unit_id": "WJ2-U0004",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0004-01",
+      "unit_id": "WJ2-U0004",
+      "speaker": "转述·第三方",
+      "claim_text": "谁控制了历史，谁就控制了未来；谁控制了当下，谁就控制了历史",
+      "quote": "谁控制了历史",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 420,
+        "end_line": 420,
+        "sha1": "1afef1aa8e98c785c1ff406e4332c861e1219ad6",
+        "fingerprint": [
+          "奥威尔",
+          "历史"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "控制当下即控制历史",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=乔治·奥威尔；吴军取用：当下是了解一切的起点（此为本专栏按当下→过去→未来次序讲起的理由）；转述卡不进原著核心判断"
+    },
+    {
+      "claim_id": "C-WJ2-U0004-02",
+      "unit_id": "WJ2-U0004",
+      "speaker": "吴军本人",
+      "claim_text": "面对无可避免的大趋势，要以它必然发生为前提来考虑做事与决策",
+      "quote": "必然发生，甚至已经发生了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 480,
+        "end_line": 480,
+        "sha1": "7306a04324ac2d863aa15f3b292369989e999c24",
+        "fingerprint": [
+          "老龄化",
+          "前提"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "以趋势必然发生为前提",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "示例并入本卡：向房企讲盖养老院、向教培讲老年大学（行业时点判断本体X2不入卡）；趋势观察→相关维度→提前准备的三问为方法展开"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0004",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "劳动力下降拐点、各国老龄化数据、养老负担、消费不振等宏观趋势与时点数据叙述，无卡"
+    },
+    {
+      "unit_id": "WJ2-U0004",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末三道思考题与邀请来信属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "含1条可迁移决策方法论与1条转述格言成卡，宏观趋势本体按X6排除"
+}

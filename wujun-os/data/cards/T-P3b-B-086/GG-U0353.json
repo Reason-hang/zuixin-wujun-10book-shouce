@@ -1,0 +1,124 @@
+{
+ "unit_id": "GG-U0353",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0353-01",
+   "unit_id": "GG-U0353",
+   "speaker": "吴军本人",
+   "claim_text": "生活中也需要学会剥离表象，寻找本质",
+   "quote": "剥离表象，寻找本质",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23428,
+    "end_line": 23430,
+    "sha1": "48f5b57c784e57187cfd658a993ad2b6b1b65583",
+    "fingerprint": [
+     "表象",
+     "本质"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "剥离表象找本质",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "论据=科学家寻找表象后本质；例证=花钱是表象感情是本质（男生不花钱一定没感情，23430，爱情议题X5候选仅作例证）"
+  },
+  {
+   "claim_id": "C-GG-U0353-02",
+   "unit_id": "GG-U0353",
+   "speaker": "吴军本人",
+   "claim_text": "任何理论成立都需要有实验验证，否则只能算是假说",
+   "quote": "否则只能算是假说",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23415,
+    "end_line": 23418,
+    "sha1": "5d1fef4c7631212976c905d437690c2ac5f7020d",
+    "fingerprint": [
+     "实验验证",
+     "假说"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理论须实验验证",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=希格斯场理论经希格斯玻色子发现验证；欧洲拒稿后又花几十亿美元证实"
+  },
+  {
+   "claim_id": "C-GG-U0353-03",
+   "unit_id": "GG-U0353",
+   "speaker": "史实",
+   "claim_text": "打不开的系统可用探针的反弹与穿透间接推断其内部结构",
+   "quote": "想到了一个间接的方法",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23401,
+    "end_line": 23407,
+    "sha1": "a669535a39241297295807459b27e7e88d51b98c",
+    "fingerprint": [
+     "卢瑟福",
+     "α射线"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "间接探测法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "卢瑟福α散射推原子核模型（机关枪打草垛类比）；同一老办法后被复用于轰击夸克（23411），显式可迁移"
+  },
+  {
+   "claim_id": "C-GG-U0353-04",
+   "unit_id": "GG-U0353",
+   "speaker": "吴军本人",
+   "claim_text": "宇宙终将死寂，趁满天繁星时活好当下",
+   "quote": "活好当下",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23425,
+    "end_line": 23427,
+    "sha1": "3c53747b42fcc73495d7d8c5e858b373e2ad7070",
+    "fingerprint": [
+     "繁星",
+     "当下"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "活好当下",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "前置判断：从掌握规律速度看人类伟大而个体渺小（23424）并入本卡论证链"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0353",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "'世界是能量的'与原子论-夸克-希格斯玻色子的物理学史叙述属文明历史/科学史，按X6处置，仅抽认知方法论与人生观判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "科学史主体X6，表象本质/实验验证/间接探测/活好当下成卡"
+}

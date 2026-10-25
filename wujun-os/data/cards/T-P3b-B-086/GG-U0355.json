@@ -1,0 +1,156 @@
+{
+ "unit_id": "GG-U0355",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0355-01",
+   "unit_id": "GG-U0355",
+   "speaker": "转述·第三方",
+   "claim_text": "旅行者困境：互不信任的双方各自理性算计，报价不断下降至双输的均衡点",
+   "quote": "一直下降到最低的2美元",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23485,
+    "end_line": 23487,
+    "sha1": "bc246cd010bcb0619a97ea581f4b513933edeb6b",
+    "fingerprint": [
+     "勾心斗角",
+     "纳什均衡"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "旅行者困境",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=经济学家考希克·巴苏（1994）；囚徒困境的延伸，规则见23479-23483"
+  },
+  {
+   "claim_id": "C-GG-U0355-02",
+   "unit_id": "GG-U0355",
+   "speaker": "吴军本人",
+   "claim_text": "现实生活中人不是完全理性的，严重偏离纳什均衡者反而获得比理性行为高得多的收益",
+   "quote": "人不是完全理性的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23488,
+    "end_line": 23492,
+    "sha1": "4fa49f395fbf7ae7880ea81522c0b71069ae69cc",
+    "fingerprint": [
+     "纳什均衡",
+     "理性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-2"
+   ],
+   "concept_key": "偏离均衡反获益",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "实验三现象归纳；股市追高价行为为同型例证（23493）"
+  },
+  {
+   "claim_id": "C-GG-U0355-03",
+   "unit_id": "GG-U0355",
+   "speaker": "吴军本人",
+   "claim_text": "人人想抢在别人前面提前排队，结果所有人输，只有卖方赢",
+   "quote": "所有人都输，只有苹果公司赢",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23495,
+    "end_line": 23496,
+    "sha1": "d75e025a678158bddb73d3875f94cf3034f0627c",
+    "fingerprint": [
+     "排队",
+     "抢"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D03-2"
+   ],
+   "concept_key": "抢早排队集体输",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "iPhone排队年年前移至排队数日；俄罗斯黄牛滑稽事（23499-23501）为时闻例证并入"
+  },
+  {
+   "claim_id": "C-GG-U0355-04",
+   "unit_id": "GG-U0355",
+   "speaker": "吴军本人",
+   "claim_text": "走出双输死循环的两法：彼此建立信任，或直接脱离没有收益的比拼",
+   "quote": "直接脱离这种没有收益的比拼",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23507,
+    "end_line": 23515,
+    "sha1": "e4e0d00cdb42a908a6ef09e4d44ed834b4aa43f1",
+    "fingerprint": [
+     "信任",
+     "比拼"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D07-2"
+   ],
+   "concept_key": "脱离无收益比拼",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "信任法例证=威尔逊反秘密外交/一战猜忌链（23509-23511）；脱离法例证=晚买一个月手机反而质量更稳"
+  },
+  {
+   "claim_id": "C-GG-U0355-05",
+   "unit_id": "GG-U0355",
+   "speaker": "吴军本人",
+   "claim_text": "起跑线的优势逐年减半终所剩无几，关键是赢在终点线；不要为两块钱丢100块",
+   "quote": "不要为了两块钱，丢了100块钱",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23516,
+    "end_line": 23519,
+    "sha1": "c438f83d0509a2661bf3c6caff1daf4abe491de6",
+    "fingerprint": [
+     "两块钱",
+     "终点线"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "赢在终点线不抢起跑线",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "早教抢起跑线应用场景属X5候选，此处抽其长期收益衰减与西瓜芝麻判断"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0355",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "中国家长早教、抢起跑线的亲子教育议题部分按X5处置，仅抽旅行者困境机制与脱离比拼决策方法论"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "旅行者困境原理与应用（排队/起跑线）方法论成卡，早教议题X5"
+}

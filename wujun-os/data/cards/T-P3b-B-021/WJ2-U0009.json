@@ -1,0 +1,171 @@
+{
+  "unit_id": "WJ2-U0009",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0009-01",
+      "unit_id": "WJ2-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "教育竞争的本质是职业竞争：看透职业不平等，教育与职业选择才更理性",
+      "quote": "职业之间的不公平",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 777,
+        "end_line": 785,
+        "sha1": "d166a041d7af367c8141daebfca1921e1c311a6c",
+        "fingerprint": [
+          "职业",
+          "内卷"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "教育内卷本质是职业竞争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教育制度比较本体X5不入卡；例证并入：中美名校内卷差异、社区学院低门槛"
+    },
+    {
+      "claim_id": "C-WJ2-U0009-02",
+      "unit_id": "WJ2-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "一定程度的不公平才会产生机会，有机会社会才能发展",
+      "quote": "不公平，才会产生机会",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 803,
+        "end_line": 803,
+        "sha1": "cf1edf716849f7d4b55ea766a7639417664ee62a",
+        "fingerprint": [
+          "绝对公平",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "不公平产生机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0007-01（绝对公平即灾难）同一论证链互引，本卡取机会生成机理；绝对公平不必要/不可能/不应有三分论证在锚内"
+    },
+    {
+      "claim_id": "C-WJ2-U0009-03",
+      "unit_id": "WJ2-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "真正尊重一种职业，就要让从业者凭工作获得体面生活",
+      "quote": "获得体面的生活",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 797,
+        "end_line": 797,
+        "sha1": "b5e1f78daeffe5f373a31006d7459d34946fd5dd",
+        "fingerprint": [
+          "职业",
+          "体面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "职业尊重与体面生活",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：中日在日博主晒廉价服务被批、外卖Uber贵之辩；'希望别人尊重自己职业又把职业分三六九等'为盲区点出"
+    },
+    {
+      "claim_id": "C-WJ2-U0009-04",
+      "unit_id": "WJ2-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "机会本质是相对的，人人都有的机会就不叫机会",
+      "quote": "就不叫做机会了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 807,
+        "end_line": 809,
+        "sha1": "3df7099fab8bae874311ab83adef92502c2880cc",
+        "fingerprint": [
+          "机会",
+          "马云"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "人人有的机会不叫机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "反驳读者'人人可成马云马斯克'的前后不一致逻辑错误；读者留言原文X7不入卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0009-05",
+      "unit_id": "WJ2-U0009",
+      "speaker": "吴军本人",
+      "claim_text": "过于乐观、高估自己、低估危机后果是人性弱点，克服它危机即不成问题",
+      "quote": "严重低估危机的后果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 819,
+        "end_line": 819,
+        "sha1": "8b388135a2df9f9002052da2a7b90014a6abdd0f",
+        "fingerprint": [
+          "过于乐观",
+          "危机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "低估危机的人性弱点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "语境为技术革命挑战，结论为普适风险判断；与C-WJ2-U0006-02（分母）互引"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0009",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "名校竞争、升学选择、《卓越》指引等教育制度与选择论述不入卡（本质分析已抽卡01）"
+    },
+    {
+      "unit_id": "WJ2-U0009",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "社会发展滞后经济数十年、职业不平等社会史、中美欧日社会氛围比较等宏观叙述不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0009",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者在《逻辑思维训练》留言的人人成马云观点为引文，吴军反驳另成卡04"
+    },
+    {
+      "unit_id": "WJ2-U0009",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末模块总结中'期待来信'等互动引导与下一信预告不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育/社会公平讨论本体X5/X6排除，抽5条可迁移判断（职业本质、机会、尊重、逻辑、风险）"
+}

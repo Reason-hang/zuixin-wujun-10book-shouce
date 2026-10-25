@@ -1,0 +1,130 @@
+{
+ "unit_id": "GG-U0347",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0347-01",
+   "unit_id": "GG-U0347",
+   "speaker": "吴军本人",
+   "claim_text": "职场上处在备胎位置的人不妨端正态度，相信天生我材必有用",
+   "quote": "处在备胎位置的人不妨端正态度",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23085,
+    "end_line": 23087,
+    "sha1": "a289ad4100c5e3d2d811bc4df2355c3e06628929",
+    "fingerprint": [
+     "备胎",
+     "端正态度",
+     "天生我材必有用"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-4"
+   ],
+   "concept_key": "职场备胎心态",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "职场位置判断：备胎是对方最安全做法、世界本身特征；中国乒乓球跳水队世界级替补例证并入"
+  },
+  {
+   "claim_id": "C-GG-U0347-02",
+   "unit_id": "GG-U0347",
+   "speaker": "转述·第三方",
+   "claim_text": "曾经帮助过你的人，比被你帮助过的人更愿意再帮助你",
+   "quote": "一个曾经帮助过你的人",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23087,
+    "end_line": 23087,
+    "sha1": "a7979f4e13fe8657b68b17d4a49fd4ca579e0b9d",
+    "fingerprint": [
+     "富兰克林",
+     "帮助过你的人",
+     "交友原则"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "曾助你者更愿再助",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "被转述者=富兰克林；吴军用其说明交友原则，《见识》已引用（跨书线索：交友原则）"
+  },
+  {
+   "claim_id": "C-GG-U0347-03",
+   "unit_id": "GG-U0347",
+   "speaker": "吴军本人",
+   "claim_text": "生活在现实中的人，不要失去属于自己的世界",
+   "quote": "不要失去属于自己的世界",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23088,
+    "end_line": 23089,
+    "sha1": "05d5ea7a9477bba4399b6a229225a5a916e6eafd",
+    "fingerprint": [
+     "属于自己的世界",
+     "尼克"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "守住属于自己的世界",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证=《盖茨比》叙述人尼克看透名利场回归中西部老家；与盖茨比对照"
+  },
+  {
+   "claim_id": "C-GG-U0347-04",
+   "unit_id": "GG-U0347",
+   "speaker": "吴军本人",
+   "claim_text": "通过崇高和对美的维护，能让自己从痛苦中得到解脱",
+   "quote": "通过崇高和对美的维护",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23089,
+    "end_line": 23090,
+    "sha1": "83fe26935cbce5484867618533931036430bf578",
+    "fingerprint": [
+     "崇高",
+     "解脱",
+     "白夜"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "以崇高与美自我解脱",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证=《白夜》主人公与电影《卡萨布兰卡》男主角；同型判断可用（跨书线索）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0347",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《白夜》《了不起的盖茨比》情节与文学赏析及阶层社会评论为主体，按艺术赏析X8处置，仅抽结尾可迁移方法论"
+  },
+  {
+   "unit_id": "GG-U0347",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "感情中避免成为备胎/感情独占性判断属爱情亲密关系议题"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "文学赏析主体X8，结尾备胎心态/交友/自我世界/崇高解脱方法论成卡"
+}

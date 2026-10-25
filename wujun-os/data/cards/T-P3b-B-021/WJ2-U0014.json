@@ -1,0 +1,187 @@
+{
+  "unit_id": "WJ2-U0014",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0014-01",
+      "unit_id": "WJ2-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "企业自由现金流两要素：主营高利润率与无需持续投资；对应选好行业、增强竞争力",
+      "quote": "选择一个好的行业",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1159,
+        "end_line": 1159,
+        "sha1": "04c339d811d0b759afd08a88010af9c765aaf6d8",
+        "fingerprint": [
+          "利润率",
+          "竞争力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "自由现金流两要素",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "上信（U0013）企业篇的总结句，个人篇由此展开；与C-WJ2-U0013-02互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0014-02",
+      "unit_id": "WJ2-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "个人自由现金流三误区：纸面资产当财富、忽视追加投资侵蚀、把偶然运气当必然",
+      "quote": "把纸面上的资产当作财富",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1207,
+        "end_line": 1207,
+        "sha1": "f0f68ceb99a3a02b8adc8eb9930bbed11ea626ef",
+        "fingerprint": [
+          "追加投资",
+          "运气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "个人自由现金流三误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三类主人公（期权员工/高管/老板）案例各自机理见卡03/04及notes；老板不识利润与自由现金流之差（1193-1195）并入本卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0014-03",
+      "unit_id": "WJ2-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "初创公司期权撑起的是纸面财富，账面财富不等于真实财富",
+      "quote": "账面上的财富和真实财富的差别",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1187,
+        "end_line": 1189,
+        "sha1": "b22a10097468f448b260bb72f68ae6cb96e59938",
+        "fingerprint": [
+          "期权",
+          "初创"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "账面财富不等于真实财富",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "初创公司2-3%上市率、私募回报调查为时点数据X2；'画大饼'非量化承诺归零机理（1189）并入；与C-WJ2-U0010-05（资产富有vs现金富有）互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0014-04",
+      "unit_id": "WJ2-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "高薪者的体面开支是维持挣钱能力的追加投资，如同利润被投入再生产",
+      "quote": "又被投入到再生产中",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1191,
+        "end_line": 1191,
+        "sha1": "b6f5ef7185ae9f36e3c175061931c11530da3dd6",
+        "fingerprint": [
+          "年薪",
+          "再生产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "体面开支是追加投资",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "年薪百万扣除税费应酬所剩无几的算账并入；奢侈消费一停便失去挣钱机会的机理（1177）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0014-05",
+      "unit_id": "WJ2-U0014",
+      "speaker": "转述·第三方",
+      "claim_text": "人会被自己思想的绳索束缚，成为自己经验的囚徒",
+      "quote": "自己思想的绳索束缚",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1199,
+        "end_line": 1199,
+        "sha1": "7433a646c74e5354b1fb21806fea77a0b52b8680",
+        "fingerprint": [
+          "培根",
+          "经验"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "经验的囚徒",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=培根；守株待兔为吴军通俗化例证：捡到兔子是随机事件不可当稳定现金流；工资是自由现金流亦属有限经验结论、覆巢无完卵（1201）并入本卡notes"
+    },
+    {
+      "claim_id": "C-WJ2-U0014-06",
+      "unit_id": "WJ2-U0014",
+      "speaker": "吴军本人",
+      "claim_text": "以周期必然发生为决策先决条件：成功者活过危机并利用他人退出获利",
+      "quote": "屡试不爽的经验",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1203,
+        "end_line": 1205,
+        "sha1": "a93e2835f7f7fb55fa071d8cf77d31dadc61ab1f",
+        "fingerprint": [
+          "衰退",
+          "危机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D09-1"
+      ],
+      "concept_key": "以周期为先决条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "七年丰灾/8-10年衰退为周期证据；1205并入：产业黄金期终剩几个龙头、投行7-8年淘汰一半、存活两个周期近财富自由；与C-WJ2-U0004-02（以趋势必然发生为前提）同链互引，P4合并候选"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0014",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "过去十年美国私募投中回报、朋友身价上百亿拿不出周转金等时点观察与个案数据不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0014",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末课后问题与来信邀请属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "个人自由现金流三误区及经验囚徒、周期先决条件均为本人核心判断，成卡6张（含1转述）"
+}

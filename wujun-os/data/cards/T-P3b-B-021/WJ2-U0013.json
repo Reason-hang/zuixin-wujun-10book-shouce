@@ -1,0 +1,221 @@
+{
+  "unit_id": "WJ2-U0013",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0013-01",
+      "unit_id": "WJ2-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "靠贷款、会员费、礼品卡、拖欠货款获得的现金流以损害未来利益为代价，不算自由现金流",
+      "quote": "以损害未来利益为代价",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1085,
+        "end_line": 1085,
+        "sha1": "c76911b73fd93bb450983d254705125d0d822e41",
+        "fingerprint": [
+          "会费",
+          "现金流"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "伪现金流识别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "机理：会员费/购物券礼品卡（收现再返折扣，1089-1097）、商票挪用下游现金（1101-1103）；与C-WJ2-U0011-04（押金伪现金流）同链互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0013-02",
+      "unit_id": "WJ2-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "企业最健康的自由现金流来源是主营业务的净利润",
+      "quote": "主营业务的净利润",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1113,
+        "end_line": 1113,
+        "sha1": "ccd5780015a1600117f8219df26db8d197b30926",
+        "fingerprint": [
+          "净利润",
+          "主营业务"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "主营净利润产生自由现金流",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "利息等非主营营收利润不算；共享单车无利润故无自由现金流（回指U0011卡04）"
+    },
+    {
+      "claim_id": "C-WJ2-U0013-03",
+      "unit_id": "WJ2-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "从净利润到自由现金流须跨两条河：应收账款与追加投资",
+      "quote": "一条叫应收账款",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1117,
+        "end_line": 1117,
+        "sha1": "30339bed9f373a66654345176341035189d5c7ef",
+        "fingerprint": [
+          "应收账款",
+          "追加投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "净利润到现金流两条河",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本信框架句；两条河机理分别见卡04与卡06"
+    },
+    {
+      "claim_id": "C-WJ2-U0013-04",
+      "unit_id": "WJ2-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "应收账款只有兑现才能变成现金流，赖账与拖期使现金流远小于净利润",
+      "quote": "这个过程叫做兑现",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1119,
+        "end_line": 1123,
+        "sha1": "1ac5e3aa548e5cbcd34a14b841be45ac30e41587",
+        "fingerprint": [
+          "兑现",
+          "应收账款"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "兑现决定现金流",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "算例并入：净利润20%经坏账2%+利息5%后仅剩13%；催债职业为兑现难的社会现象"
+    },
+    {
+      "claim_id": "C-WJ2-U0013-05",
+      "unit_id": "WJ2-U0013",
+      "speaker": "史实",
+      "claim_text": "为做靓短期业绩向无付款能力者销售，会积累坏账应收（朗讯教训）",
+      "quote": "追求短期的利润",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1125,
+        "end_line": 1125,
+        "sha1": "687d1929d9fe924788a39acb210d4e74517e2f08",
+        "fingerprint": [
+          "朗讯",
+          "应收账款"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "朗讯应收账款教训",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理；出处《浪潮之巅》（跨书线索：P4查重浪潮之巅/谷歌方法论）；互联网泡沫破裂钱无着落"
+    },
+    {
+      "claim_id": "C-WJ2-U0013-06",
+      "unit_id": "WJ2-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "半导体与医药的利润必须连本带利投入下期研发，可能永远走不出黑暗通道",
+      "quote": "永远都走不出黑暗通道",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1127,
+        "end_line": 1129,
+        "sha1": "175b07c4539113d031221aba6774fc1a172ae869",
+        "fingerprint": [
+          "研发",
+          "黑暗通道"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "追加投资的黑暗通道",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "机理：专利期/摩尔定律两年降价一半、生产线成本4年翻番；三星台积电低市盈率为时点例证（X2）"
+    },
+    {
+      "claim_id": "C-WJ2-U0013-07",
+      "unit_id": "WJ2-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "苹果谷歌微软靠长期不变的核心业务产生巨大自由现金流，在维护基本盘前提下创新",
+      "quote": "维护好自己基本盘的前提下",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1139,
+        "end_line": 1143,
+        "sha1": "d072893d4fdbcc6729257f038c8e53076aad79fd",
+        "fingerprint": [
+          "基本盘",
+          "创新"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "基本盘前提下的创新",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证并入：苹果改动不大免追加投资、18年累积改进反而更大（1141）；跨书线索：谷歌方法论同族论述，重刊复核"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0013",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "礼品卡市场3900亿/2030年9000亿预测、谷歌700亿苹果1100亿回购、三星台积电市盈率10倍等时点数据不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0013",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "美国广义货币/GDP偏低、拖欠货款压制通胀与资金周转成本的宏观经济分析不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0013",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末课后思考题与下信预告属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "企业获得自由现金流的方法论判断密集，成卡7张（含1史实案例卡），时点数据与宏观分析X2/X6排除"
+}

@@ -1,0 +1,245 @@
+{
+  "unit_id": "GG-U0119",
+  "book_code": "GG",
+  "extractor": "GAUD9",
+  "batch_id": "GATE-C-R7",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0119-01",
+      "unit_id": "GG-U0119",
+      "speaker": "转述·第三方",
+      "claim_text": "好产品要像牙刷，让用户每天用上几分钟，养成使用习惯",
+      "quote": "让用户每天都必须用上几分钟",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7991,
+        "end_line": 7993,
+        "sha1": "790f8d2f93a78faf668410f34d9ae5335b94f8c3",
+        "fingerprint": [
+          "牙刷",
+          "佩奇"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "牙刷原则",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇（7992行）；宝洁、可口可乐一直在这么做（7995-7997行）并入例证。"
+    },
+    {
+      "claim_id": "C-GG-U0119-02",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "每天要用的产品可靠性是命门，时灵时不灵的牙刷没人要",
+      "quote": "时灵时不灵的牙刷是不会有人要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 7999,
+        "end_line": 8001,
+        "sha1": "10257434b55fe9fd57d9ea25f5b337e2499df443",
+        "fingerprint": [
+          "可靠性",
+          "替代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "牙刷要可靠稳定",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "牙刷两根本问题之一（7999-8000行），Google搜索在华不稳为时点性例证；另一问题易被替代引出C-GG-U0119-03。"
+    },
+    {
+      "claim_id": "C-GG-U0119-03",
+      "unit_id": "GG-U0119",
+      "speaker": "转述·第三方",
+      "claim_text": "产品须每过一段时间带来惊喜，提醒用户其存在，防止被淡忘",
+      "quote": "提醒大家它的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8003,
+        "end_line": 8007,
+        "sha1": "f804c9674ba17a2fc3d9020f38e0ca94365a85bd",
+        "fingerprint": [
+          "爆款",
+          "佩奇",
+          "广告"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "爆款效应",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇（8003行\"因此佩奇讲\"）；可口可乐宝洁每年上百亿广告与商场促销例证（8005-8006行）；消费电子以一年为周期（8006-8007行）。"
+    },
+    {
+      "claim_id": "C-GG-U0119-04",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "每周用三句话向老板汇报，每半年到一年拿出一个让他惊喜的成果",
+      "quote": "把你的工作总结成三句话",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8009,
+        "end_line": 8009,
+        "sha1": "4e2f14071363f4bec8be38da234d6be541fbb008",
+        "fingerprint": [
+          "三句话",
+          "惊喜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D06-2"
+      ],
+      "concept_key": "牙刷与爆款的职场运用",
+      "ability_tags": [
+        "沟",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军本人建议（8009行\"我常常建议\"）；即牙刷+爆款原则的职场化，与C-GG-U0119-01/03互引。"
+    },
+    {
+      "claim_id": "C-GG-U0119-05",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "凡事有开始就有终结，有生就有死，生物如此，组织也如此",
+      "quote": "有生就有死",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8012,
+        "end_line": 8013,
+        "sha1": "e30cc2083605deb0c9a253de2c4bb73b07d77368",
+        "fingerprint": [
+          "有生就有死",
+          "硅谷"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D08-1"
+      ],
+      "concept_key": "组织的生死",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军自述\"在各种场合都表示过\"（8012行）；硅谷公司不拯救衰老公司、寻找下一次机会为其应用（8013行）；与C-GG-U0119-07互引。"
+    },
+    {
+      "claim_id": "C-GG-U0119-06",
+      "unit_id": "GG-U0119",
+      "speaker": "转述·第三方",
+      "claim_text": "企业可如海蜇，靠不断新生独立业务部门延续基因，逃脱衰亡宿命",
+      "quote": "逃脱大公司的宿命",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8014,
+        "end_line": 8018,
+        "sha1": "55000cdad4f3d6729262496c354e7255b84153df",
+        "fingerprint": [
+          "海蜇",
+          "宿命",
+          "X实验室"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "海蜇隐喻与公司新生",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=拉里·佩奇（内部会议讲述，8014-8017行经吴军转述）；不死海蜇生物学说法与Google风投、X实验室例证并入（8015/8018行）。"
+    },
+    {
+      "claim_id": "C-GG-U0119-07",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "先认同公司终会死是常态，再考虑传承基因与文化，而非维持不死公司",
+      "quote": "维持一个不死的公司",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8032,
+        "end_line": 8034,
+        "sha1": "75af375c8c046aa2f692b9a21953936f30738a32",
+        "fingerprint": [
+          "薪尽火传",
+          "基因"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "薪尽火传",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军对佩奇的评述（8033行）；公司真正能传承的只是基因（8032行）；本节小结\"薪尽火传\"见8034行；与C-GG-U0119-05/06互引。"
+    },
+    {
+      "claim_id": "C-GG-U0119-08",
+      "unit_id": "GG-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "创始人应亲自抓新业务、把成熟业务交他人，否则新业务受老基因拖累",
+      "quote": "公司基因决定论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 8024,
+        "end_line": 8026,
+        "sha1": "b7708dfcfe9a95cc108f565af3a33a1e07119f31",
+        "fingerprint": [
+          "基因决定论",
+          "新业务"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "公司基因决定论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "皮柴接手成熟业务、佩奇自抓新业务的安排（8020-8023行）为载体；IBM个人电脑部门、微软在线部门为例证（8025行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0119",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "8028-8029行Google反垄断诉讼预判与2008年聘司法部前官员为时点性公司事件（写作期2016-2018），按特则记X2"
+    },
+    {
+      "unit_id": "GG-U0119",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "8030-8031行Alphabet市值最大公司与拆分情景属时效预测，按特则记X2/X6，取X2"
+    },
+    {
+      "unit_id": "GG-U0119",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "7990行生日导语与8035行思考题留言互动为栏目运营文字，记X1"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "佩奇智慧整理单元成卡8张（E1×5、E2×3）；反垄断与市值预测X2×2、栏目文字X1×1处置"
+}

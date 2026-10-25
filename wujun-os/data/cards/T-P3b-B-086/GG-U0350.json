@@ -1,0 +1,208 @@
+{
+ "unit_id": "GG-U0350",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0350-01",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "烦恼不会随年纪增长而减少，只能随着心态变好而减少",
+   "quote": "只能随着心态变好而减少",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23204,
+    "end_line": 23206,
+    "sha1": "e6613eb6a62dfbab6c0636190aa02c449b41d5f6",
+    "fingerprint": [
+     "烦恼",
+     "心态"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "烦恼随心境不随年龄",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "各年龄层烦恼例证与学霸朋友40岁为孩子烦恼例证并入"
+  },
+  {
+   "claim_id": "C-GG-U0350-02",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "烦恼一多半来自自己：公正看待自己、多考虑别人的利益和感受，烦恼就会更少",
+   "quote": "烦恼一多半来自于自己",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23211,
+    "end_line": 23212,
+    "sha1": "34739b8d7aafcfb84954dafc148b6d650d81617d",
+    "fingerprint": [
+     "心态好",
+     "别人的利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-1"
+   ],
+   "concept_key": "烦恼多半来自自己",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "辛弃疾词为例证；与01卡同论证链"
+  },
+  {
+   "claim_id": "C-GG-U0350-03",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "总觉得被剥削就徒增无数烦恼；觉得工作对得起那份薪水，烦恼就少很多",
+   "quote": "要对得起那份薪水",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23214,
+    "end_line": 23217,
+    "sha1": "1f93a394cd15ed476fc0c5679461377ef2aaf154",
+    "fingerprint": [
+     "剥削",
+     "烦恼"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "被剥削感徒增烦恼",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "同型认知重构：考试为掌握技能则烦恼少（23217）；资本家/工会经济账为背景论据"
+  },
+  {
+   "claim_id": "C-GG-U0350-04",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "二代做得好的都是年轻时离开父母影响自力更生，而非在祖辈企业里混副职",
+   "quote": "都是在年轻的时候自力更生的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23224,
+    "end_line": 23228,
+    "sha1": "87fde51bff7b01a266908c1f6c13312fcab7e58c",
+    "fingerprint": [
+     "自力更生",
+     "富不过三代"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "二代离开羽翼自力更生",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "三决定因素：不喜欢祖业限制发展/羽翼下优缺点难显/富不过三代；学二代军二代对比"
+  },
+  {
+   "claim_id": "C-GG-U0350-05",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "企业家与其将企业传给孩子，不如将当好企业家的道理传给孩子",
+   "quote": "将如何当好企业家的道理传给孩子",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23230,
+    "end_line": 23230,
+    "sha1": "9931a0b927d6f09630fbf30ab57b078a4e10b82d",
+    "fingerprint": [
+     "王永庆",
+     "王雪红"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-1"
+   ],
+   "concept_key": "传道理不传企业",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证=王永庆未给王雪红一分钱，后者白手起家创办HTC；与U0349-03巨财是诅咒互引"
+  },
+  {
+   "claim_id": "C-GG-U0350-06",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "职业人士与普通人的区别在于任何时候都要尽职，不能受个人好恶影响",
+   "quote": "在任何时候都要尽职",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23242,
+    "end_line": 23244,
+    "sha1": "53145ad460caea9a4a639f8bc84fa49bdf6a85a2",
+    "fingerprint": [
+     "职业人士",
+     "尽职"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "职业人士任何时候尽职",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "例证=医生情绪失控难执业、律师不因不喜欢委托人而怠辩；跨书线索：《硅谷来信》《态度》专谈专业人士"
+  },
+  {
+   "claim_id": "C-GG-U0350-07",
+   "unit_id": "GG-U0350",
+   "speaker": "吴军本人",
+   "claim_text": "情绪控制三法：停下分析起情绪的想法、先放松不急于反应、长期学保持乐观",
+   "quote": "让坏情绪停下来",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23246,
+    "end_line": 23253,
+    "sha1": "1aecce09911ed8325c2664a1096a722b61b7ca22",
+    "fingerprint": [
+     "负面情绪",
+     "放松",
+     "乐观"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "情绪控制三步法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "清单式方法论整体一卡：①停思溯源23248 ②放松缓应23250 ③乐观长远23253"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0350",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "恩博恋爱维护问答与王小五叛逆/让孩子选人生道路问答属爱情与亲子议题"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答单元，吴军答烦恼心态/二代接班/职业规范/情绪控制方法论成卡，读者发言不作E1"
+}

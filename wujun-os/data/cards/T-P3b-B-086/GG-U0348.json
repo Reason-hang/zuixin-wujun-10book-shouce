@@ -1,0 +1,123 @@
+{
+ "unit_id": "GG-U0348",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0348-01",
+   "unit_id": "GG-U0348",
+   "speaker": "吴军本人",
+   "claim_text": "逆袭的人最根本的是不迷失自我，维护自己的尊严和体面，成败都对得起自己",
+   "quote": "维护自己的尊严和体面",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23129,
+    "end_line": 23130,
+    "sha1": "f33b3a5573b6293424c92a4e2f205129ebe37f21",
+    "fingerprint": [
+     "不迷失自我",
+     "尊严和体面"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "逆袭不迷失自我",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "论据=于连保持尊严对比盖茨比/杜洛瓦迷失；与U0347-03守住自己的世界互引"
+  },
+  {
+   "claim_id": "C-GG-U0348-02",
+   "unit_id": "GG-U0348",
+   "speaker": "吴军本人",
+   "claim_text": "对社会会像抽签一样重新洗牌的平等幻想，早一天破灭早一天好",
+   "quote": "早一天破灭早一天好",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23128,
+    "end_line": 23128,
+    "sha1": "70800742fb4637d96fc507f1dd52b040c2f9e925",
+    "fingerprint": [
+     "平等",
+     "重新洗牌"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "平等幻想早破灭",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "同链前提：loser式逆袭很难发生、阶层差异难在短时间弥补（23112），与本卡同论证链"
+  },
+  {
+   "claim_id": "C-GG-U0348-03",
+   "unit_id": "GG-U0348",
+   "speaker": "吴军本人",
+   "claim_text": "对待世界的态度应是先承认现实的合理性，再求在大环境中做得更好",
+   "quote": "先承认现实的合理性",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23134,
+    "end_line": 23134,
+    "sha1": "649569d373d135ee04cbdf40923711d44186d785",
+    "fingerprint": [
+     "现实的合理性",
+     "做得更好"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-1"
+   ],
+   "concept_key": "先认现实再求更好",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "收束句；与U0348-02同属世界观校准链"
+  },
+  {
+   "claim_id": "C-GG-U0348-04",
+   "unit_id": "GG-U0348",
+   "speaker": "吴军本人",
+   "claim_text": "颜值和才学、金钱、家庭背景一样也是一种资源，应正视它",
+   "quote": "也是一种资源",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 23131,
+    "end_line": 23133,
+    "sha1": "83c1cb6ccf47472dfe3e76b9f0035e372da68d88",
+    "fingerprint": [
+     "颜值",
+     "资源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "颜值也是资源",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证=哈佛/法学院医学院面试看颜值；23133双刃剑判断（心思全花在颜值上反而毁了自己）并入本卡"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0348",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《漂亮朋友》《红与黑》情节叙述与文学赏析主体按艺术赏析处置，仅抽逆袭/态度方法论"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "小说赏析主体X8，结尾逆袭心态与直面现实方法论成卡"
+}

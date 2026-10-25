@@ -1,0 +1,216 @@
+{
+  "unit_id": "WJ2-U0015",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ1",
+  "batch_id": "T-P3b-B-021",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0015-01",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "个人财富自由四要点：现金流随时间增长、利润率高、有核心竞争力、少受经济周期影响",
+      "quote": "随着时间的增加越来越值钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1281,
+        "end_line": 1285,
+        "sha1": "436868cf65d697c86d3c4fc6ba57f67813f8a612",
+        "fingerprint": [
+          "核心竞争力",
+          "追加投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财富自由四要点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡；四点原表述见1243/1251/1259/1269；吴军父亲专利转让费案例四点全合（1275-1277）为例证并入；'追加投资会吃光收入利润'为最易忽略项（1285）"
+    },
+    {
+      "claim_id": "C-WJ2-U0015-02",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "投资等领域越老越吃香：生存过危机者管的钱越来越多，与35岁危机相反",
+      "quote": "越老越吃香",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1245,
+        "end_line": 1245,
+        "sha1": "a8ec2b73383678e8a12b20c12ebb42b97078f42b",
+        "fingerprint": [
+          "35 岁",
+          "吃香"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D09-1"
+      ],
+      "concept_key": "越老越吃香的行业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "家庭医生/牙医/律师/会计师同理（1247-1249，病人不换医生=稳定现金流例证并入）；跨书线索：D06-1 material_clues列来信2《35岁危机》同族"
+    },
+    {
+      "claim_id": "C-WJ2-U0015-03",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "投资上交易越频繁收益越差，好的投资几年几十年不做大改变",
+      "quote": "交易越频繁，收益越差",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1253,
+        "end_line": 1253,
+        "sha1": "3b8e523ed6b5e75cffa72435a0f08c3a8ae487b7",
+        "fingerprint": [
+          "劳模",
+          "投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "少交易的复利",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好的基金经理不是劳模；投行建立信誉后无追加投资担忧；跨书线索：富足《不要试图战胜市场》同族；转述原著判断不构成投资建议"
+    },
+    {
+      "claim_id": "C-WJ2-U0015-04",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "通勤过长等高成本侵蚀休息与学习，挣钱成本高则难财富自由",
+      "quote": "挣钱的成本要比富人高很多",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1257,
+        "end_line": 1257,
+        "sha1": "624e9d36cfefc019ffd22b914e2dbedd33496a23",
+        "fingerprint": [
+          "通勤",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "挣钱成本视角",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "穷人为何穷的调查发现；追加投资类比到个人财富积累"
+    },
+    {
+      "claim_id": "C-WJ2-U0015-05",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "投资成败看人性：技术不难，克服贪婪等人性弱点多数人一辈子做不到",
+      "quote": "投资成败其实是看人性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1261,
+        "end_line": 1265,
+        "sha1": "f73344ad0b3cd0f0266f9b1d546286de8280d70d",
+        "fingerprint": [
+          "贪婪",
+          "人性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D02-4"
+      ],
+      "concept_key": "投资成败看人性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "基金经理两三年好回报即加风险而死；'外在锁链易除，心中自加的枷锁难除'（1265）并入；与C-WJ2-U0003-04（投资在心态）互引，P4合并候选"
+    },
+    {
+      "claim_id": "C-WJ2-U0015-06",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "周期性淘汰的岗位：经济恢复后旧工作不再回来，须重新学习或离开",
+      "quote": "永远不会再回来了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1271,
+        "end_line": 1273,
+        "sha1": "9eb97484fe2cd669b8e7521d15e3f238f7d579fd",
+        "fingerprint": [
+          "科技行业",
+          "周期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-2"
+      ],
+      "concept_key": "岗位不可逆淘汰",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "科技产品十年迭代为例证；与C-WJ2-U0006-02（技术突变期的分母）互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0015-07",
+      "unit_id": "WJ2-U0015",
+      "speaker": "吴军本人",
+      "claim_text": "财富自由＝自由现金流远大于花销，不为钱发愁且财富最好不断增加",
+      "quote": "自由现金流远远大于花销",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1283,
+        "end_line": 1283,
+        "sha1": "b40b8257e166ae5afa56ceabdb540a475ba95ae7",
+        "fingerprint": [
+          "财富自由",
+          "花销"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财富自由定义",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "五封信小结的界定句；纸面财富/难变现固定资产/高收入/有利润皆不够（1283后半）并入；与C-WJ2-U0011-01互引"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0015",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "投行管理费0.5%-2%、10亿美元资产管理例、计算机辅助交易缩减招聘等时点数据不入卡"
+    },
+    {
+      "unit_id": "WJ2-U0015",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末'决定再写两封信'预告与来信反馈致谢属运营内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "个人财富自由四要点框架及各要点机理均本人核心判断，成卡7张"
+}

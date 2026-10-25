@@ -1,0 +1,101 @@
+{
+ "unit_id": "GG-U0364",
+ "book_code": "GG",
+ "extractor": "EXT-GG18",
+ "batch_id": "T-P3b-B-086",
+ "cards": [
+  {
+   "claim_id": "C-GG-U0364-01",
+   "unit_id": "GG-U0364",
+   "speaker": "吴军本人",
+   "claim_text": "判定能力增长：看你在公司内相对重要性排名的变化，不掉队才赶得上摩尔定律节奏",
+   "quote": "重要性依然排在前500名",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 24046,
+    "end_line": 24048,
+    "sha1": "d7ad55c4f7ba65130198c522a3d4d5c5f55f13c8",
+    "fingerprint": [
+     "重要性",
+     "排在"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "公司内重要性排名自测",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "成长快/成熟/下坡企业三种情形分别判读；承接U0361-02能力增长快过年纪增长"
+  },
+  {
+   "claim_id": "C-GG-U0364-02",
+   "unit_id": "GG-U0364",
+   "speaker": "吴军本人",
+   "claim_text": "连接比拥有更重要：小米的价值在把握住对用户的连接，而非做一次性生意",
+   "quote": "连接比拥有更重要",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 24055,
+    "end_line": 24055,
+    "sha1": "cfaee2e27b1a804bb6c83fc9994d550f2877a01e",
+    "fingerprint": [
+     "连接",
+     "小米",
+     "格力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "连接比拥有更重要",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "小米从消费电子厂商转型互联网/IoT公司，与格力本质不同；答读者对U0361-03的质疑"
+  },
+  {
+   "claim_id": "C-GG-U0364-03",
+   "unit_id": "GG-U0364",
+   "speaker": "吴军本人",
+   "claim_text": "朋友的多少与财富基本无关；对朋友最重要的是你能提供什么价值",
+   "quote": "你能提供什么价值",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 24061,
+    "end_line": 24062,
+    "sha1": "5deec996750cd168742265d4ee40672fcc58f23c",
+    "fingerprint": [
+     "朋友",
+     "价值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "交友看你能提供价值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证=方苞以布衣身份成为康熙朋友、三朝智囊；与U0359朋友之道系列互引"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0364",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "婚前协议与离婚分家产、家族信托/王朝信托整段（24017-24039）属婚姻家庭与财产制度议题，按X5处置（其'丑话说在前面'方法论已由U0359-04承载）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答单元：婚姻议题X5，能力自测/连接比拥有/交友价值成卡"
+}
