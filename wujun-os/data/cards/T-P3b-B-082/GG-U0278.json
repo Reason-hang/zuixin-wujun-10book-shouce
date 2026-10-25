@@ -1,0 +1,227 @@
+{
+ "unit_id": "GG-U0278",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0278-01",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "计算机通常不出错，一出错就成批出错酿成大错，与人的个案性差错截然不同",
+   "quote": "出错就是成批出错",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18576,
+    "end_line": 18581,
+    "sha1": "00799f7f12540ab7e7723919d62d360ef09316da",
+    "fingerprint": [
+     "成批出错",
+     "黑色星期一",
+     "止损"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "机器出错成批性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：1987黑色星期一及2001/2008/2010股灾中程序化抛售互触发，并入本卡notes。"
+  },
+  {
+   "claim_id": "C-GG--U0278-02",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "人工智能的巨大失败与巨大成功同源于网络效应，缺陷也会被迅速复制到全世界",
+   "quote": "来自于网络效应",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18583,
+    "end_line": 18590,
+    "sha1": "f3dd921d337879bacbb0c2079c07104e3b66d322",
+    "fingerprint": [
+     "网络效应",
+     "缺陷也会迅速地被复制"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "AI成败同源于网络效应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机理：数据共享+全球算法趋同，研究无国界致缺陷同步复制。"
+  },
+  {
+   "claim_id": "C-GG--U0278-03",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "很多情况在第一次出现之前没人能想到；未经历之事即使可能性很大也不会被预见",
+   "quote": "没有人能够想到",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18593,
+    "end_line": 18596,
+    "sha1": "4a442e462027e1cb9a65eb489b213b1946e26267",
+    "fingerprint": [
+     "黑天鹅",
+     "导弹防御系统"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "未经历则不可预见",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：70年代美反导系统把月亮当来袭导弹，并入本卡。"
+  },
+  {
+   "claim_id": "C-GG--U0278-04",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "人的独立思维使其小错不断却难酿大错，灾难性大错多因人被洗脑变成机器",
+   "quote": "变成了机器",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18598,
+    "end_line": 18603,
+    "sha1": "461eeb33df496169c4ad7e4c2715bea9ba45adcc",
+    "fingerprint": [
+     "洗脑",
+     "一盘散沙"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "思维独立防大错",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与C-GG-U0278-05并列为人类避免雪崩式灾难的两原因之一。"
+  },
+  {
+   "claim_id": "C-GG--U0278-05",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "人遇未知麻烦会调用其它价值审视局面，不像机器那样陷入死循环",
+   "quote": "陷入死循环",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18602,
+    "end_line": 18603,
+    "sha1": "1329189c6f8d880cb2c53c66a21faedc03078216",
+    "fingerprint": [
+     "无人驾驶汽车",
+     "其它价值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "人机处理未知之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：Google无人车避让小沙袋撞大巴；人可直接判断压过。与-04互引。"
+  },
+  {
+   "claim_id": "C-GG--U0278-06",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "智能时代人要保持多样性而非遵从单一思想方法，并在不伤害自己前提下不断试错",
+   "quote": "保持多样性",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18612,
+    "end_line": 18615,
+    "sha1": "82b3ece4a3c64efa42bcc1018d4b9d8cea3b1bc0",
+    "fingerprint": [
+     "多样性",
+     "死循环"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "智能时代保持多样性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本信总收束句；机器与人的分工归D04-2，辅D01-1。"
+  },
+  {
+   "claim_id": "C-GG--U0278-07",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "暴跌分批买入法只适用于总会涨回来的股指基金，切勿用于会跌到零的单只股票",
+   "quote": "单只股票经常会跌到零",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18605,
+    "end_line": 18611,
+    "sha1": "4890430f400d40628470901ee1fd0731cb6e2f54",
+    "fingerprint": [
+     "股指基金",
+     "遵守纪律"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "暴跌分批买股指不买个股",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "案例：2008年投资人跌几个百分点买一批股指基金（E3性质并入）；近族CK-0060定投指数基金，跨书线索；前提是手上有现金、纪律兑现。"
+  },
+  {
+   "claim_id": "C-GG--U0278-08",
+   "unit_id": "GG-U0278",
+   "speaker": "吴军本人",
+   "claim_text": "死记硬背不是好方法，经过思考理解形成自己的思想，才能解决前人未解的问题",
+   "quote": "死记硬背不是好方法",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18613,
+    "end_line": 18615,
+    "sha1": "5a381bfb13bb4a6a38fffeb9e7b73d02146e2534",
+    "fingerprint": [
+     "死记硬背",
+     "能动性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "理解形成自己的思想",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "学习方法口径（规则⑪）非教育制度；全盘接受上一代经验=带着bug走不出的死循环。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第169封信正文：AI错误机理与人之不可替代性，成卡8张（人机之别/认知/投资法/学习法）。"
+}

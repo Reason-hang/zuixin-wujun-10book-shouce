@@ -1,0 +1,108 @@
+{
+  "unit_id": "GG-U0325",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0325-01",
+      "unit_id": "GG-U0325",
+      "speaker": "吴军本人",
+      "claim_text": "阿姆达尔法则：整体加速取决于改进部分所占的比例，占比小的部分提得再高整体收益也有限，应集中改进占比大的瓶颈。",
+      "quote": "计算机行业作决定的铁律",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21744,
+        "end_line": 21752,
+        "sha1": "b1663ae038ef0f85b9a44e16fa85d022cfe480b1",
+        "fingerprint": [
+          "阿姆达尔",
+          "铁律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D03-1"
+      ],
+      "concept_key": "阿姆达尔法则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "内存提速100倍整体仅+25%（21749）；选内存5倍还是CPU50%算例在21750-21753；'净捡容易处改进'为反例（21769并入）"
+    },
+    {
+      "claim_id": "C-GG-U0325-02",
+      "unit_id": "GG-U0325",
+      "speaker": "吴军本人",
+      "claim_text": "一项改进完成后，相应部分占用的资源比重与重要性就下降，必须转向新的瓶颈，问题要这样滚动地解决。",
+      "quote": "寻找新的重要问题去解决",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21770,
+        "end_line": 21776,
+        "sha1": "9e6056493d29589369720a15bde9d68a123f0653",
+        "fingerprint": [
+          "瓶颈",
+          "滚动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "解决后转向新瓶颈",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "处理器改进后占比从60%降到50%；呼应第149封攻城守城；教授'法则放脑子最容易想到处'为转述并入"
+    },
+    {
+      "claim_id": "C-GG-U0325-03",
+      "unit_id": "GG-U0325",
+      "speaker": "吴军本人",
+      "claim_text": "个人取舍同用阿姆达尔法则：只产生1%效果的事提高百倍影响也有限，占一半效果的事改进5%就有可见提升。",
+      "quote": "把结果提高一百倍，影响力也有限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21774,
+        "end_line": 21775,
+        "sha1": "77589608c53b2a7a0882df925673b4841087c7af",
+        "fingerprint": [
+          "效果",
+          "原则"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-2"
+      ],
+      "concept_key": "按占比决定做什么",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "p=50%,S=1.05→整体+2.4%算例；各国碳减排占比（中美43%）为宏观例证并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0325",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "阿姆达尔生平（系统360、FUD策略、'地狱常客'标签）与霍普金斯助教轶事为人物史叙述"
+    },
+    {
+      "unit_id": "GG-U0325",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾思考题属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第198封信主体为阿姆达尔法则方法论，成3卡；人物史与思考题记X"
+}

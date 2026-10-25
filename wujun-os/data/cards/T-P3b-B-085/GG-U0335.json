@@ -1,0 +1,192 @@
+{
+  "unit_id": "GG-U0335",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0335-01",
+      "unit_id": "GG-U0335",
+      "speaker": "吴军本人",
+      "claim_text": "Evernote立足不稳在于产品必要性不大：有Google Docs替代、Office习惯粘性——时机没把握好",
+      "quote": "时机没有把握好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22280,
+        "end_line": 22282,
+        "sha1": "8d70467724e22a517729904d713059a86cde99f0",
+        "fingerprint": [
+          "替代",
+          "时机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "必要性定生死",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "并非没有技术人才（22279）；Office贵10倍但大家已习惯（22281）；若出现在Google Docs之前处境会好很多（22282）。"
+    },
+    {
+      "claim_id": "C-GG-U0335-02",
+      "unit_id": "GG-U0335",
+      "speaker": "吴军本人",
+      "claim_text": "2亿用户的公司倒闭也非天塌：会有其它公司收购、几年后产品线合并——IBM收Informix逐渐把用户转到DB2",
+      "quote": "有其它公司来收购",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22283,
+        "end_line": 22287,
+        "sha1": "30cd6e4adc1e064a02cf81bb7d5efa0e1e614747",
+        "fingerprint": [
+          "收购",
+          "Informix"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "用户资产有接盘",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0335-03",
+      "unit_id": "GG-U0335",
+      "speaker": "吴军本人",
+      "claim_text": "眼高手低的人在企业在生存不了太久；某些无所事事的人，老板让他们存在的唯一目的就是用来末位淘汰的",
+      "quote": "用来末位淘汰的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22293,
+        "end_line": 22294,
+        "sha1": "5f721e8d213a31fbc5a03dcb8b98aa3fbb26a6ed",
+        "fingerprint": [
+          "眼高手低",
+          "末位淘汰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "末位淘汰的备胎",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "怀才不遇是他们的遮羞布（22293）。"
+    },
+    {
+      "claim_id": "C-GG-U0335-04",
+      "unit_id": "GG-U0335",
+      "speaker": "转述·第三方",
+      "claim_text": "曾鸣：战略官也是要做实事的，否则不如废掉这个岗位",
+      "quote": "他这个战略官也是要做实事的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22295,
+        "end_line": 22295,
+        "sha1": "4927baca19b1634e6f79a16a3e291eaa09e6d4cf",
+        "fingerprint": [
+          "曾鸣",
+          "战略官"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-2",
+        "D08-1"
+      ],
+      "concept_key": "战略官要做实事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=阿里巴巴首席战略官曾鸣（22295）。"
+    },
+    {
+      "claim_id": "C-GG-U0335-05",
+      "unit_id": "GG-U0335",
+      "speaker": "吴军本人",
+      "claim_text": "只看重员工短期成绩的领导管理水平太低——跟着没大出息，趁着年轻赶快找能够培养你的领导",
+      "quote": "趁着年轻赶快找能够培养你的领导",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22301,
+        "end_line": 22302,
+        "sha1": "1d37bada361fc954a6fa7cdc76fe8cad1296c09b",
+        "fingerprint": [
+          "短期",
+          "培养"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "找培养你的领导",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "基本的绩效需要有、不要虚头巴脑谈战略贡献（22301）。"
+    },
+    {
+      "claim_id": "C-GG-U0335-06",
+      "unit_id": "GG-U0335",
+      "speaker": "吴军本人",
+      "claim_text": "判断企业文化的方法：与员工私下非正式交流、看客户反馈——挑选单位前应从侧面多方面了解",
+      "quote": "从侧面多方面了解",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22309,
+        "end_line": 22309,
+        "sha1": "f0a1e6eccd5039001d1c67daa731575fc5b508a4",
+        "fingerprint": [
+          "私下",
+          "客户"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-1"
+      ],
+      "concept_key": "侧面了解文化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "面试办公室里不容易了解（22309）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0335",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "22310-22323行结婚与同居差别问答为家庭婚恋内容"
+    },
+    {
+      "unit_id": "GG-U0335",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22325-22332行年度回信征集与赠书活动为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问51：印象笔记与文化判断（双说话人6卡）。"
+}

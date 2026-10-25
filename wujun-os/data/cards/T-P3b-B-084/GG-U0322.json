@@ -1,0 +1,134 @@
+{
+  "unit_id": "GG-U0322",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0322-01",
+      "unit_id": "GG-U0322",
+      "speaker": "吴军本人",
+      "claim_text": "能试验、能测量的世界非常有限，在有限小世界里被证实的规律未必适用于大世界，这正是数学严格证明的价值。",
+      "quote": "在这个有限的世界里被证实",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21585,
+        "end_line": 21588,
+        "sha1": "28c998c4321e2660f15bc6bda702546dc776579d",
+        "fingerprint": [
+          "证实",
+          "大世界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "小世界规律未必适用大世界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "超立方体染色低维可行、到葛立恒数维必然失效；IT数字远大于宇宙普朗克尺寸为例（21557-21560并入）"
+    },
+    {
+      "claim_id": "C-GG-U0322-02",
+      "unit_id": "GG-U0322",
+      "speaker": "吴军本人",
+      "claim_text": "数学的力量在于提供远超身体力行的想象空间，人在那近乎无限的空间里有超越现在的潜力。",
+      "quote": "身体力行的想象空间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21588,
+        "end_line": 21588,
+        "sha1": "9bbe27ef2548c50ea6911e790ea21406aa8bdb27",
+        "fingerprint": [
+          "想象空间",
+          "潜力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学提供超越身体力行的空间",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "总结'大数字的意义'第一条"
+    },
+    {
+      "claim_id": "C-GG-U0322-03",
+      "unit_id": "GG-U0322",
+      "speaker": "吴军本人",
+      "claim_text": "越是发现世界之大越体会自己的渺小；真科学家说贡献微不足道不是谦虚，是了解越多越知自己所做只是很小的子集。",
+      "quote": "越是能体会自己的渺小",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21589,
+        "end_line": 21590,
+        "sha1": "77cb67fd6188820f3f70b51d375136a3f0da2979",
+        "fingerprint": [
+          "渺小",
+          "子集"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D01-1"
+      ],
+      "concept_key": "眼界与敬畏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1445眼界与敬畏同源（谷歌本专栏前文）"
+    },
+    {
+      "claim_id": "C-GG-U0322-04",
+      "unit_id": "GG-U0322",
+      "speaker": "吴军本人",
+      "claim_text": "计算机与人工智能是延伸人想象力和智力的工具，而非限制人的敌人；没有计算机很难想清葛立恒数这样的事。",
+      "quote": "延伸了人们想象力的工具",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21592,
+        "end_line": 21592,
+        "sha1": "65ebc60a309878d8af10336ffac55bbb9de32f67",
+        "fingerprint": [
+          "四色",
+          "延伸"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "计算机延伸人脑智力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四色地图问题机器证明是对人脑智力的延伸；与CK-1223/1224智能技术利大于弊（GG）互参"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0322",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "葛立恒数、超立方体染色问题、高德纳箭头的定义与演算属纯数学知识科普，无可迁移判断"
+    },
+    {
+      "unit_id": "GG-U0322",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾思考题属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第197封信以大数字讲数学世界与认知局限，抽4卡；数学知识科普与思考题记X"
+}

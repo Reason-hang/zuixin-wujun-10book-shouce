@@ -1,0 +1,134 @@
+{
+ "unit_id": "GG-U0295",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0295-01",
+   "unit_id": "GG-U0295",
+   "speaker": "吴军本人",
+   "claim_text": "东西方文化都认为人同时具有日神（理性秩序）与酒神（生命力狂喜）两面，仅有日神不够",
+   "quote": "仅有日神的一面是不够的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19778,
+    "end_line": 19784,
+    "sha1": "0af496cab974281a134e455bc1d93c3887c39802",
+    "fingerprint": [
+     "日神",
+     "酒神"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "日神与酒神的两面性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本信总结1；日本耻感文化酒桌谈生意、庄周梦蝶、王羲之醉写兰亭为例证；尼采来源见-03；仅靠太阳神精神难以改变阶层地位。"
+  },
+  {
+   "claim_id": "C-GG--U0295-02",
+   "unit_id": "GG-U0295",
+   "speaker": "吴军本人",
+   "claim_text": "酒神的一面与创造力相关，这解释了为何许多艺术家和创造者在常人看来像疯子",
+   "quote": "和创造力相关",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19782,
+    "end_line": 19782,
+    "sha1": "3d9d68fcd029b8c2a60676612d916977ee5fbecb",
+    "fingerprint": [
+     "酒神",
+     "疯子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D10-1"
+   ],
+   "concept_key": "酒神与创造力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "本信总结2；梵高/毕加索/《春之祭》/邓肯/垮掉的一代/乔布斯颠覆IT等酒神文化清单并入。"
+  },
+  {
+   "claim_id": "C-GG--U0295-03",
+   "unit_id": "GG-U0295",
+   "speaker": "转述·第三方",
+   "claim_text": "尼采：太阳神精神是形式美、节制与对称、分析与分辨；纯理性文化19世纪末走入死胡同",
+   "quote": "形式美，有节制和对称",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19745,
+    "end_line": 19748,
+    "sha1": "7d8328559ff42d4c0c8a5a58d89aa170a2d48b6f",
+    "fingerprint": [
+     "尼采",
+     "叔本华"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "日神精神的形式美",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：尼采（《悲剧的诞生》，书名见19744）；叔本华悲剧人生观与超人哲学背景并入；酒神迷狂“破坏人生日常界线和规则”引文（19752）同源；当地学者“悲剧=严肃剧”诠释并入。"
+  },
+  {
+   "claim_id": "C-GG--U0295-04",
+   "unit_id": "GG-U0295",
+   "speaker": "转述·第三方",
+   "claim_text": "弗洛伊德：本我（本能）、自我（自知与调节）、超我（价值道德约束）构成完整人格",
+   "quote": "本我、自我和超我",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19772,
+    "end_line": 19776,
+    "sha1": "1ff5eccef45a48bc8e3a6486844091d26d2f1f99",
+    "fingerprint": [
+     "弗洛伊德",
+     "超我"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "本我自我超我",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：弗洛伊德；调节失衡则压抑、生病、犯罪；本信总结3为吴军对弗洛伊德的取用，与-01/-02互引。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0295",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "轴心时代群星与20世纪初艺术史清单等文明史/艺术史叙述"
+  },
+  {
+   "unit_id": "GG-U0295",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾互动提问（分享你的日神与酒神一面）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第180封信：尼采/弗洛伊德哲学转述与吴军取用，成卡4张（E2两张已注被转述者）；史述与互动记X6/X1。"
+}

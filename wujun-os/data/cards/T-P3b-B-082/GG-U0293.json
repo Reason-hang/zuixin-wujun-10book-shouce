@@ -1,0 +1,132 @@
+{
+ "unit_id": "GG-U0293",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0293-01",
+   "unit_id": "GG-U0293",
+   "speaker": "吴军本人",
+   "claim_text": "生存需要交换；为公平交易与长期利益保障，需制定游戏规则并恪守信用",
+   "quote": "要生存，就要有交换",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19656,
+    "end_line": 19660,
+    "sha1": "858fa4fa55a9adfd1887ce4b65043f72115e1fc2",
+    "fingerprint": [
+     "交换",
+     "游戏规则"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "交换催生规则信用",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "克里特只产橄榄山羊，无交换连生存都难；规则经希腊→罗马→威尼斯→荷兰英国传承。"
+  },
+  {
+   "claim_id": "C-GG--U0293-02",
+   "unit_id": "GG-U0293",
+   "speaker": "吴军本人",
+   "claim_text": "在以商业立国的社会，商业信誉比政治更重要，交战双方也不冻结对方资金",
+   "quote": "商业信誉比政治更重要",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19662,
+    "end_line": 19665,
+    "sha1": "3b4205bd33b26789ed028a6e2223c74b69d2234d",
+    "fingerprint": [
+     "冻结",
+     "荷兰"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业信誉高于政治",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "既有概念键CK-0756（格局），跨书线索；荷兰独立战争期间银行未冻结西班牙存款；《威尼斯商人》夏洛克台词同旨。"
+  },
+  {
+   "claim_id": "C-GG--U0293-03",
+   "unit_id": "GG-U0293",
+   "speaker": "吴军本人",
+   "claim_text": "农耕式自给自足、大而全不求人的商业逻辑做不大；信任与交换才是商业文明",
+   "quote": "大而全，不求人的商业逻辑",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19650,
+    "end_line": 19654,
+    "sha1": "a948ec28d16b3d11752591f4e41a0499f29991d3",
+    "fingerprint": [
+     "贾府",
+     "自给自足"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "贾府式大而全做不大",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-1720贾府是组织的缩影（格局）；马云“一切依靠自己最后要崩掉”（转述并入）；控制上下游的联体巨头无一行业占有率超10%、市值总和不及腾讯；商业社会不担心关键技术攥在别人手里（19662并入）。"
+  },
+  {
+   "claim_id": "C-GG--U0293-04",
+   "unit_id": "GG-U0293",
+   "speaker": "吴军本人",
+   "claim_text": "中华是农耕文明、希腊是海洋商业文明；不走出农耕文明局限，就无法理解西方做事原则",
+   "quote": "不走出农耕文明的局限性",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19665,
+    "end_line": 19665,
+    "sha1": "a8280e83b1381d6a36d08c67b474956f4bfeb3bd",
+    "fingerprint": [
+     "农耕文明"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "文明特征是理解行为的钥匙",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "既有概念键CK-0776（格局），跨书线索；解读西方文明从希腊、解读希腊从大海开始。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0293",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "希腊文明三期划分、包容性与人文色彩、黑格尔艺术宗教等文明史叙述"
+  },
+  {
+   "unit_id": "GG-U0293",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "中美贸易规则相互指责的评论为2018年时点时事"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第178封信：文明史叙述为主，抽出商业文明四条可迁移判断（X6/X2记排除部分）。"
+}

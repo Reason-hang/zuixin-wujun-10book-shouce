@@ -1,0 +1,52 @@
+{
+  "unit_id": "GG-U0317",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0317-01",
+      "unit_id": "GG-U0317",
+      "speaker": "吴军本人",
+      "claim_text": "世界不完美才有事可做：任何时候把问题倒过来看就是机会，困难越多越是从业者的机会。",
+      "quote": "把问题倒过来看就是机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21223,
+        "end_line": 21225,
+        "sha1": "a304b2480f55b5c23164f4babf6f78f0377a013e",
+        "fingerprint": [
+          "问题即机遇",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "问题倒过来看就是机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "演讲总结段唯一可迁移方法论；'有问题就是机会'呼应21217行"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0317",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "超级智能时代（AI+IoT+区块链=超级智能）、5G必要性、跟踪经济、区块链三特征/三权分开/溯源/数据获利/智能合约等均为2018年科技趋势与应用前景判断，依附时点"
+    },
+    {
+      "unit_id": "GG-U0317",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "比特币抢单到以太坊分配再到第三代降低延时的区块链协议演进属技术史科普叙述，无可迁移判断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "大会报告主体为区块链/超级智能趋势判断记X，仅抽'问题即机遇'一条可迁移方法论"
+}

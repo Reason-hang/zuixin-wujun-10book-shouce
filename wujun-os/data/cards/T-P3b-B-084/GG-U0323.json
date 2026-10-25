@@ -1,0 +1,46 @@
+{
+  "unit_id": "GG-U0323",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0323-01",
+      "unit_id": "GG-U0323",
+      "speaker": "吴军本人",
+      "claim_text": "越是初级的从业者越容易成'器材党'，反映目的不明确；有经验者知道自己要什么、懂得取舍，根据现有器材去构图。",
+      "quote": "知道自己想要什么，懂得取舍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21646,
+        "end_line": 21647,
+        "sha1": "89c8bf4e196e6d52355135fd69d97b0a1ab48dd6",
+        "fingerprint": [
+          "器材党",
+          "取舍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-2"
+      ],
+      "concept_key": "目的明确懂取舍不做器材党",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "摄影载体但结论可迁移：工具堆砌源于目标不清；建议用定焦练固定视角为摄影建议，留在X8侧"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0323",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "镜头分类/接口/原厂副厂/定焦变焦/解像力/光圈等为摄影器材技术细节与选购知识，属具体技术科普"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "镜头知识来信补充整体记X8，仅抽'器材党与取舍'一条可迁移判断"
+}

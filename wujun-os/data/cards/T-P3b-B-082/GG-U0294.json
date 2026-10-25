@@ -1,0 +1,70 @@
+{
+ "unit_id": "GG-U0294",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0294-01",
+   "unit_id": "GG-U0294",
+   "speaker": "吴军本人",
+   "claim_text": "神是人类的一大发明：不造神，人类靠基因给的沟通能力难以团结千万人",
+   "quote": "神是人类的一大发明",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19694,
+    "end_line": 19695,
+    "sha1": "8744c2344d115b42f5333e3d00051d5dbb9cb46d",
+    "fingerprint": [
+     "神创论",
+     "团结"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "造神以团结众人",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "神话先有男人后生女人，说明神话产生于父系社会（推断并入）。"
+  },
+  {
+   "claim_id": "C-GG--U0294-02",
+   "unit_id": "GG-U0294",
+   "speaker": "吴军本人",
+   "claim_text": "神话多是后人所编并反映当时社会；研究一个时代的文学作品，可得知那个时代的现实生活",
+   "quote": "不如说是后人编的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19725,
+    "end_line": 19726,
+    "sha1": "80d7f17ce111f1dceb68dfe7b0c6ced40d5d4eef",
+    "fingerprint": [
+     "《金瓶梅》",
+     "《红楼梦》"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "文学作品是时代史料",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "雅典娜审判12陪审员=西方陪审团制度起源之例证；黑格尔“联系神话和现实的是历史”（转述并入）；读经典的目的之一。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0294",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "创世/造人/大洪水三同源、三代天神谱系与特洛伊战争等史前史与神话科普叙述"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第179封信：神话史科普为主（X6），抽出造神团结与文学作品证史2条可迁移判断。"
+}

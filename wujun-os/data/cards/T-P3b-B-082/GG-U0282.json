@@ -1,0 +1,209 @@
+{
+ "unit_id": "GG-U0282",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0282-01",
+   "unit_id": "GG-U0282",
+   "speaker": "吴军本人",
+   "claim_text": "世界上很多问题都是抽象图中从源到漏的路径问题，如互联网通信与社交找人",
+   "quote": "从源找到漏的途径问题",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18836,
+    "end_line": 18847,
+    "sha1": "fb5261d596ff20bc63309ac418c36403bb113505",
+    "fingerprint": [
+     "图论",
+     "关键节点",
+     "关键路径"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "源漏路径抽象",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "迷宫岔口→节点、道路→弧；等价问题思想见本单元-07。"
+  },
+  {
+   "claim_id": "C-GG--U0282-02",
+   "unit_id": "GG-U0282",
+   "speaker": "吴军本人",
+   "claim_text": "网络连接越密集被截断的可能性越小；多数节点可绕行，绕不过的只是关键节点与关键路径",
+   "quote": "截断通信的可能性越小",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18846,
+    "end_line": 18854,
+    "sha1": "a4dd90a51b987537d7fb2877abfae6cccd6ef574",
+    "fingerprint": [
+     "关键节点",
+     "防火墙"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "连接密度决定抗截断性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "解释互联网局部宕机仍可通信、伊朗动荡中推特仍传出信息；单位防火墙=横切一刀。"
+  },
+  {
+   "claim_id": "C-GG--U0282-03",
+   "unit_id": "GG-U0282",
+   "speaker": "史实",
+   "claim_text": "MIT实验：随机两人照片经社交媒体24-48小时即找到；社交连接密集使陌生人几步可搭线",
+   "quote": "大约48小时就找到了",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18859,
+    "end_line": 18862,
+    "sha1": "e53aa11c3ad3ee8ab58e02a49121858ee712095d",
+    "fingerprint": [
+     "媒体实验室",
+     "连通性"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "社交网络的连通性找人",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "E3专名案例+可迁移机理（连通性）；不想被找到就躲到网络覆盖差的地方。"
+  },
+  {
+   "claim_id": "C-GG--U0282-04",
+   "unit_id": "GG-U0282",
+   "speaker": "吴军本人",
+   "claim_text": "不能从具体事例抽象出理论，学习只是线性积累，以有限生命对无限问题，注定失败",
+   "quote": "以有涯随无涯，殆矣",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18864,
+    "end_line": 18865,
+    "sha1": "adf5154dba217afe6152d540f4c9df1977c98dee",
+    "fingerprint": [
+     "线性的积累",
+     "本质和共性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "抽象出理论避免线性积累",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "引庄子语；科班训练目的=从具体找到本质共性，解一题通一批。"
+  },
+  {
+   "claim_id": "C-GG--U0282-05",
+   "unit_id": "GG-U0282",
+   "speaker": "吴军本人",
+   "claim_text": "数学训练的本事，是用严格数学语言抽象描述实际问题并给出一般性解法",
+   "quote": "掌握数学的语言",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18866,
+    "end_line": 18869,
+    "sha1": "eb1d572a8b53b219fce7eb8aa85a17ba85bd06db",
+    "fingerprint": [
+     "二元一次方程",
+     "一般性的解法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "数学语言抽象与一般解法",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "例：年龄问题抽象为二元一次方程组则一通百通。"
+  },
+  {
+   "claim_id": "C-GG--U0282-06",
+   "unit_id": "GG-U0282",
+   "speaker": "吴军本人",
+   "claim_text": "学不好多因缺乏深度思考、知识不贯通；把知识联系起来才能应用自如",
+   "quote": "缺乏深度思考",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18874,
+    "end_line": 18875,
+    "sha1": "7adf36ed4b400a993ddbe1f33b56fe82a040be90",
+    "fingerprint": [
+     "融会贯通",
+     "随心所欲"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "融会贯通地学",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "既有概念键CK-1637（数学通识），跨书线索；左手算法改两步=图的深度优先算法，等价问题实例。"
+  },
+  {
+   "claim_id": "C-GG--U0282-07",
+   "unit_id": "GG-U0282",
+   "speaker": "吴军本人",
+   "claim_text": "学习的捷径是科班系统地学：从具体问题抽象普遍方法，找知识联系与等价问题",
+   "quote": "抽象出普遍适用的方法",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18877,
+    "end_line": 18877,
+    "sha1": "bf63a08b5f28abfc54bf451316bf5ed132e341c3",
+    "fingerprint": [
+     "科班",
+     "等价问题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "科班系统学习捷径",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "本信总结句；与-04（抽象避免线性积累）、-06（融会贯通）互引。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0282",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题（再找一个等价问题）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第171封信正文：图论抽象/等价问题/学习理论，成卡7张。"
+}

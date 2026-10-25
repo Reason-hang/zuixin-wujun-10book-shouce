@@ -1,0 +1,242 @@
+{
+  "unit_id": "GG-U0336",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0336-01",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "微软700多博士研究员与开发脱节；Google研发不分家：无研究后盾、遇问题自己研究——工程师既要会写程序又必须会研究",
+      "quote": "研究和开发不分家",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22345,
+        "end_line": 22348,
+        "sha1": "c55a9901d40cc2bf2381950917cb0ef5dc27cf5a",
+        "fingerprint": [
+          "研究员",
+          "开发"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "研发不分家",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "重刊《浪潮之巅》第18章（22342/22395，跨书线索）；2004年3万人的微软创新比不过不到两千人的Google（22344）；Google成了全球单位办公面积博士最集中的地方（22348）。"
+    },
+    {
+      "claim_id": "C-GG-U0336-02",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "Google看成绩单的两点理由：一直学得好说明有责任心（把主要事情做好）；成绩好的学生总体更聪明",
+      "quote": "有责任心",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22350,
+        "end_line": 22352,
+        "sha1": "86908062b56d85d69cae5ec5d3caf3cb9587b0af",
+        "fingerprint": [
+          "成绩单",
+          "责任心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "成绩单看责任心",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "不少候选人因平均分不够被刷（22349）；微软HR称更看重潜力，但潜力看不见摸不着（22351-22352）。"
+    },
+    {
+      "claim_id": "C-GG-U0336-03",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "理想员工的标准：交代一件事不用操心就完成；更理想是不用交代、每季度自动完成很多有益的工作",
+      "quote": "不用操心，他就给你完成了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22354,
+        "end_line": 22355,
+        "sha1": "ffce382e6d426dbc8b187e9fec5f4f7bd69f31e6",
+        "fingerprint": [
+          "交代",
+          "自觉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "理想员工两档",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0336-04",
+      "unit_id": "GG-U0336",
+      "speaker": "转述·第三方",
+      "claim_text": "莫托瓦尼：硕士能把你领到别人到过的地方，博士可以把你带到以前无人去过的地方——好博士有创造力且有最高自觉性",
+      "quote": "带到以前无人去过的地方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22357,
+        "end_line": 22358,
+        "sha1": "5b5a047d80d48ab5a71c031e19a10a49e86c487e",
+        "fingerprint": [
+          "博士",
+          "自觉"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-1"
+      ],
+      "concept_key": "博士带你去新地",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=斯坦福教授莫托瓦尼（22357）。"
+    },
+    {
+      "claim_id": "C-GG-U0336-05",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "杀鸡一定要用牛刀：本科生能完成的事找硕士生做一定比同类公司好——瑞士制造思想：成本贵一倍售价可贵十倍百倍",
+      "quote": "杀鸡一定要用牛刀",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22370,
+        "end_line": 22377,
+        "sha1": "7a0e19f68e7eb99a20a8176bcb1925d25073ba0a",
+        "fingerprint": [
+          "瑞士制造",
+          "牛刀"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "杀鸡用牛刀",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瑞士钻头贵一倍效率高十倍寿命长十倍（22372-22373）；百达翡丽是精工表的三四百倍（22376）；做同样的东西做得好不好价值天壤之别（22377）。"
+    },
+    {
+      "claim_id": "C-GG-U0336-06",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "Google工程严格每一细节：代码多一个空格或超80字符不许提交、变量名不好过不了评审——点点滴滴培养质量意识",
+      "quote": "培养大家的质量意识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22378,
+        "end_line": 22380,
+        "sha1": "693900b89192df7c0939f339335c2f638e601c29",
+        "fingerprint": [
+          "空格",
+          "评审"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "细节养质量意识",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "算法省1%也要实现：省1%服务器一年几十万美元（22380）；这样开发的软件才像百达翡丽那样值钱（22379）。"
+    },
+    {
+      "claim_id": "C-GG-U0336-07",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "前台接待员用斯坦福毕业生：工资超一般前台一倍，却把外事接待、采购、发货安排得井井有条——完成四五个人的工作",
+      "quote": "完成了四五个人的工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22382,
+        "end_line": 22383,
+        "sha1": "f71528b95090b278d0861bcf86524633868ba78a",
+        "fingerprint": [
+          "前台",
+          "斯坦福"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D06-1"
+      ],
+      "concept_key": "超格用人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "外事接待包括接待克林顿（22382）。"
+    },
+    {
+      "claim_id": "C-GG-U0336-08",
+      "unit_id": "GG-U0336",
+      "speaker": "吴军本人",
+      "claim_text": "产品经理也用计算机博士而不用名牌MBA：工科博士容易和工程师沟通，且相信工程出身的产品经理有同样创造力",
+      "quote": "和工程师沟通",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22385,
+        "end_line": 22388,
+        "sha1": "e9fcdc6ce583625297a25f613c57114c44b6f84c",
+        "fingerprint": [
+          "产品经理",
+          "博士"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "博士做产品经理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "哈佛MBA面试产品经理不成、职位被计算机博士抢走（22385-22386）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0336",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22393-22395行思考题与《浪潮之巅》购书导流为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：Google的秘密军团（重刊浪潮之巅，8卡）。"
+}

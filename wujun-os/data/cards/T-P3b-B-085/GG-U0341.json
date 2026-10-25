@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0341",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0341-01",
+      "unit_id": "GG-U0341",
+      "speaker": "吴军本人",
+      "claim_text": "先下结论后找证据是错误的论证方式：没足够证据先下结论再找（编造）证据——如同法官不能先认定某人是罪犯再找证据",
+      "quote": "先认定某个人就是罪犯",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22686,
+        "end_line": 22692,
+        "sha1": "26239868650f663913c271af60504a570920a4a4",
+        "fingerprint": [
+          "结论",
+          "证据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "先结论后证据之谬",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "易中天例：学生先认定'刷存在感'再编三条证据（22687-22691）。"
+    },
+    {
+      "claim_id": "C-GG-U0341-02",
+      "unit_id": "GG-U0341",
+      "speaker": "吴军本人",
+      "claim_text": "赌球原理：赔率随押注动态调整，赌场不论结果都稳赚约3%（返还期望值小于1）——聪明赌局算无遗策、不把命运交给被买通的球员",
+      "quote": "数学期望值小于一",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22695,
+        "end_line": 22708,
+        "sha1": "3e3f0b3a8c14028be4b563587e6e7f3dda20fb30",
+        "fingerprint": [
+          "赔率",
+          "赌场"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "庄家稳赚机制",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "阿根廷法国赔率实例（22699-22705）；投行结构化产品同理、精算师稳赚不赔（22712）。"
+    },
+    {
+      "claim_id": "C-GG-U0341-03",
+      "unit_id": "GG-U0341",
+      "speaker": "吴军本人",
+      "claim_text": "心理阴暗的人看到的世界都是阴暗的（苏东坡佛印：心里想什么看到的就是什么）——阴暗者关上与世界的门，难成事",
+      "quote": "你心里想什么，看到的就是什么",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22715,
+        "end_line": 22718,
+        "sha1": "880e02b2c99c3e6f38a274e12fd36927e297e658",
+        "fingerprint": [
+          "阴暗",
+          "苏东坡"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-1"
+      ],
+      "concept_key": "心相即所见",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "环顾心理阴暗的人有几个做成事情（22718）。"
+    },
+    {
+      "claim_id": "C-GG-U0341-04",
+      "unit_id": "GG-U0341",
+      "speaker": "吴军本人",
+      "claim_text": "冷门并非假球：若结果完全由实力决定就不用比了——一味归结于作弊永远看不懂球；职场上遇麻烦就觉得被迫害的人永远看不懂职场",
+      "quote": "永远看不懂职场",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22719,
+        "end_line": 22720,
+        "sha1": "0f2afd139ca39d6337dbe7da42084cf954185cf0",
+        "fingerprint": [
+          "冷门",
+          "迫害"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D06-1"
+      ],
+      "concept_key": "归因作弊则失明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0341-05",
+      "unit_id": "GG-U0341",
+      "speaker": "吴军本人",
+      "claim_text": "不要被自己不假思索的情怀和思维逻辑感动：未经严格审视的情怀会让错误不断放大、离目标越来越远",
+      "quote": "被自己的情怀感动",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22721,
+        "end_line": 22728,
+        "sha1": "e9684c7bf1c283f05bc106af84e14795812091fa",
+        "fingerprint": [
+          "情怀",
+          "放大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "勿自我感动",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "'不管是否说服别人反正自己信了'（22727）；两位老友'靠游戏挣钱可耻我们有使命感'数年后自己离开（22724-22727）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0341",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22730-22731行思考题（不被自己的情怀感动）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第209封信：错误逻辑的起点、赌球原理与自我感动（5卡）。"
+}

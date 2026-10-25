@@ -1,0 +1,207 @@
+{
+  "unit_id": "GG-U0338",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0338-01",
+      "unit_id": "GG-U0338",
+      "speaker": "转述·第三方",
+      "claim_text": "J曲线：改变现状初期可能反向（下降段是替旧结构还债），坚持正确方向过坎后越走越好——一本万利",
+      "quote": "一本万利的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22511,
+        "end_line": 22519,
+        "sha1": "dfaa63a0fb1091a60ef08f144d608cf9f3f27f4a",
+        "fingerprint": [
+          "J曲线",
+          "方向"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-2",
+        "D05-1"
+      ],
+      "concept_key": "J曲线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=政治学家布雷默《J曲线》（22508/22517）；发展好的国家都走过了J曲线、无一例外，停滞的国家左右摇摆遇困难就缩回去（22519-22520）。"
+    },
+    {
+      "claim_id": "C-GG-U0338-02",
+      "unit_id": "GG-U0338",
+      "speaker": "吴军本人",
+      "claim_text": "普京把20年拆成了20个1年：每件事都在解决当下最紧迫的问题，长时间看是在兜圈子、白白浪费机遇",
+      "quote": "把20年拆成了20个1年",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22529,
+        "end_line": 22530,
+        "sha1": "9db3bb488e8688eb866aebbbc4c0b5e08098a56e",
+        "fingerprint": [
+          "普京",
+          "领导人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "二十年拆成二十个一年",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中国印度几届领导人沿搞活经济道路走、坎坷后就是J曲线右段（22530）；政策好坏要较长时间才能体现、不能当救火队长（22527）。"
+    },
+    {
+      "claim_id": "C-GG-U0338-03",
+      "unit_id": "GG-U0338",
+      "speaker": "吴军本人",
+      "claim_text": "做事要有耐心：相信新方法是好的就坚持一段时间再下结论，不要根据实时反应草率给出结论",
+      "quote": "坚持一段时间再下结论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22532,
+        "end_line": 22536,
+        "sha1": "891e11c0b3becf40d57533e6294aca0d280c60a4",
+        "fingerprint": [
+          "耐心",
+          "结论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "耐心等滞后效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "改网球动作后先变差、几个月后大幅提高（22533-22534）；日本足球只学巴西认死理，中国俱乐部不给教练时间、换教练比走马灯快（22537-22539）。"
+    },
+    {
+      "claim_id": "C-GG-U0338-04",
+      "unit_id": "GG-U0338",
+      "speaker": "吴军本人",
+      "claim_text": "凡事不吃亏的霸凌学生最后基本没有好结局；单位里和所有人争利益的人职级高不了；老占小便宜的人挣不到大钱",
+      "quote": "挣不到大钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22543,
+        "end_line": 22544,
+        "sha1": "ecb0c05d6013202b53fd91381916a2dcb1727b07",
+        "fingerprint": [
+          "霸凌",
+          "占便宜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "占便宜者无大得",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "不存在一方永远吃亏另一方永远占便宜的关系（22544）；默克尔十多年主张做法一致、救助希腊后欧盟走向右段（22542）。"
+    },
+    {
+      "claim_id": "C-GG-U0338-05",
+      "unit_id": "GG-U0338",
+      "speaker": "吴军本人",
+      "claim_text": "抢半价菜的大爷大妈把新鲜菜店挤垮：看似什么亏都没吃，却永远也不会有所得",
+      "quote": "永远也不会有所得",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22545,
+        "end_line": 22550,
+        "sha1": "ddf971ed3b8f6e679c84c29ee667ee4d7f097628",
+        "fingerprint": [
+          "半价",
+          "菜店"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "抢便宜毁供给",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "关门前半小时半价被钻空子、为抢菜打起来、菜店关门大家回到差菜（22546-22549）；中国吸引外资看似吃亏实则双赢并成就腾飞（22552）。"
+    },
+    {
+      "claim_id": "C-GG-U0338-06",
+      "unit_id": "GG-U0338",
+      "speaker": "吴军本人",
+      "claim_text": "谋求和能力不相称的利益：只有及格水平却梦想门门得A、得不到就闹事——最终总要露馅",
+      "quote": "谋求和能力不相称的利益",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22553,
+        "end_line": 22553,
+        "sha1": "aa6d84d553b82c051e0e65024e3241f592704a5b",
+        "fingerprint": [
+          "普京",
+          "露馅"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D06-1"
+      ],
+      "concept_key": "利益须配能力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "小布什评价普京骄傲自大（22553）。"
+    },
+    {
+      "claim_id": "C-GG-U0338-07",
+      "unit_id": "GG-U0338",
+      "speaker": "吴军本人",
+      "claim_text": "人还是要有所敬畏：不是老天爷管谁，而是骄傲自大的人容易犯错误，有些错误的后果无法挽回",
+      "quote": "有所敬畏",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22554,
+        "end_line": 22558,
+        "sha1": "e7578441977ea0fcb4b26fa773cb8c098985f6cb",
+        "fingerprint": [
+          "敬畏",
+          "无法挽回"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "有所敬畏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0186-06运气与敬畏。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第206封信：J曲线和滞后效应（7卡）。"
+}

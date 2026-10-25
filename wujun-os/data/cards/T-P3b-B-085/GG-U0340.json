@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0340",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0340-01",
+      "unit_id": "GG-U0340",
+      "speaker": "转述·第三方",
+      "claim_text": "巴菲特：做某件事哪怕有一点点可能毁掉你，就是非常糟糕的主意——俄罗斯轮盘赌给多少钱都不干",
+      "quote": "非常糟糕的主意",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22610,
+        "end_line": 22612,
+        "sha1": "40353950055699304759c0546aa4fb2ebb997ab9",
+        "fingerprint": [
+          "轮盘赌",
+          "毁掉"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D03-1",
+        "D09-1"
+      ],
+      "concept_key": "不玩轮盘赌",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=巴菲特（22610-22611）。"
+    },
+    {
+      "claim_id": "C-GG-U0340-02",
+      "unit_id": "GG-U0340",
+      "speaker": "吴军本人",
+      "claim_text": "特斯拉第一款车选电动超跑很聪明：不需要解决量产问题，买家对价格不敏感、利润更高",
+      "quote": "买家对价格不敏感",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22621,
+        "end_line": 22621,
+        "sha1": "3009bfde8ce1a58c298576e6a3975ca7e962d8aa",
+        "fingerprint": [
+          "量产",
+          "利润"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "超跑切入策略",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好莱坞明星+布林佩奇成首批车主（22620）。"
+    },
+    {
+      "claim_id": "C-GG-U0340-03",
+      "unit_id": "GG-U0340",
+      "speaker": "吴军本人",
+      "claim_text": "前人的成功经验后人简单采用就成了陷阱：中国电动车公司都把子弹上膛对自己开枪，指望特斯拉式的好运气",
+      "quote": "简单采用，就成了陷阱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22657,
+        "end_line": 22659,
+        "sha1": "720bd6d567d0551ccf239a105cc614718ac841af",
+        "fingerprint": [
+          "子弹",
+          "运气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D03-1"
+      ],
+      "concept_key": "经验简单采用是陷阱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "没人思考中国版特斯拉是否有马斯克的能力和运气（22659）。"
+    },
+    {
+      "claim_id": "C-GG-U0340-04",
+      "unit_id": "GG-U0340",
+      "speaker": "吴军本人",
+      "claim_text": "马斯克三结论：从不浪费钱、用有限的钱办很多事；胆子特别大但运气特别好；尽人事听天命",
+      "quote": "尽人事，听天命",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22652,
+        "end_line": 22656,
+        "sha1": "31fec7975c59b50acff7e75f3dd96887886ec05b",
+        "fingerprint": [
+          "浪费",
+          "运气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D02-1"
+      ],
+      "concept_key": "马斯克三结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "44亿美元研发出四款车+储电+充电桩（22653）；是否躲过夺命子弹仍难说（22655）。"
+    },
+    {
+      "claim_id": "C-GG-U0340-05",
+      "unit_id": "GG-U0340",
+      "speaker": "吴军本人",
+      "claim_text": "中国互联网人喜欢讲快速迭代，而造车这件事有时需要慢——特斯拉16年一代代慢慢造；轮盘赌下一声枪响倒下的应是中国的模仿者",
+      "quote": "造车这件事有时需要慢",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22662,
+        "end_line": 22663,
+        "sha1": "8c0365f6828b3c8faeb1c226d8ce3d6b4a3be88b",
+        "fingerprint": [
+          "快速迭代",
+          "时间"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "造车需要慢",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "最关键的是采用自己擅长的风格（22663）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0340",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "22614-22651行特斯拉四轮押宝与融资产能时点、22661行中国电动车融资额为时效内容"
+    },
+    {
+      "unit_id": "GG-U0340",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22665-22666行思考题（电动车购买意愿）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第208封信：马斯克的轮盘赌（5卡）。"
+}

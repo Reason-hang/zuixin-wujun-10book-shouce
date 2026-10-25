@@ -1,0 +1,161 @@
+{
+  "unit_id": "GG-U0319",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0319-01",
+      "unit_id": "GG-U0319",
+      "speaker": "转述·第三方",
+      "claim_text": "今天的AI是设计者赋予的智能，绝对水平只取决于设计者水平与硬件数据量；小团队无法与大公司拼绝对水平。",
+      "quote": "谁设计了人工智能的程序",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21353,
+        "end_line": 21361,
+        "sha1": "776ffefc14263d905bc1d52d1e4dbd43264b8ddc",
+        "fingerprint": [
+          "设计者",
+          "机器智能"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "AI是设计者的智能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：库旦普教授（吴军总结转述）；'人工智能应是机器智能'为吴军旧说并入；AlphaGo只有手机资源则打折为例"
+    },
+    {
+      "claim_id": "C-GG-U0319-02",
+      "unit_id": "GG-U0319",
+      "speaker": "转述·第三方",
+      "claim_text": "小公司的出路是利用大学与大公司的研究成果解决实际问题——搞开发不搞研究；学术界做大公司不值得做的前瞻课题。",
+      "quote": "搞开发不要搞研究",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21362,
+        "end_line": 21363,
+        "sha1": "136dc83d4bfafb4b47e8ef868a844d9df6d130da",
+        "fingerprint": [
+          "小公司",
+          "研究"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D06-1"
+      ],
+      "concept_key": "小公司搞开发不搞研究",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：库旦普；霍普金斯把研究定位在大公司有兴趣却不值得做的深入前瞻项目（Google战略合作）并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0319-03",
+      "unit_id": "GG-U0319",
+      "speaker": "转述·第三方",
+      "claim_text": "今天的AI是昨天世界的再现：靠数据与模型，只认连续渐变，遇非连续变化就失灵；人却能凭经验和常识处理没见过的情况。",
+      "quote": "再现昨天的世界",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21370,
+        "end_line": 21378,
+        "sha1": "64b0069130ccc638071667978cb68af5b7ee050b",
+        "fingerprint": [
+          "连续",
+          "失灵"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2",
+        "D01-1"
+      ],
+      "concept_key": "AI再现昨天世界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：库旦普；无人车遇沙袋、金融危机交易程序出错、陪审团断案为例；AI输出稳定但缺乏多样性难进化并入"
+    },
+    {
+      "claim_id": "C-GG-U0319-04",
+      "unit_id": "GG-U0319",
+      "speaker": "转述·第三方",
+      "claim_text": "今天的人工智能只有交互、没有合作：交互可由程序和学习实现，合作却不是事先程序能设计好的，甚至不是简单机器学习能办到的。",
+      "quote": "还只有交互",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21380,
+        "end_line": 21391,
+        "sha1": "8dcfb0c8657bfd885d0694b16ac6cec50ebf928a",
+        "fingerprint": [
+          "交互",
+          "合作"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "AI有交互无合作",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：库旦普；Google无人车好于特斯拉但事故源于对周围司机行为误判；人开车pull over是默契合作"
+    },
+    {
+      "claim_id": "C-GG-U0319-05",
+      "unit_id": "GG-U0319",
+      "speaker": "转述·第三方",
+      "claim_text": "AI本质是设计者意志的体现，越强大越放大个人意志；用户无法与程序合作，设计者借AI'执法'时对方无能为力。",
+      "quote": "将个人意志放得越大",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21393,
+        "end_line": 21398,
+        "sha1": "1375643e399baf83807fb4323c3f261100ddb918",
+        "fingerprint": [
+          "个人意志",
+          "执法"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "AI放大个人意志",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：库旦普；Facebook中期选举删帖为2018时事例证（X2线索），原理判断独立于事件"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0319",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'未来AI须解决合作、隐私安全、非连续性三问题'与'机器学习普及使数据所有者占全方位优势'为科技趋势预测"
+    },
+    {
+      "unit_id": "GG-U0319",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾思考题属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第194封信为库旦普AI观转述，五要点中四个成E2转述卡，预测与思考题记X"
+}

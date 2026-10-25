@@ -1,0 +1,200 @@
+{
+ "unit_id": "GG-U0286",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0286-01",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "语文不是简单的说文解字和断章断句，本质是阅读理解与写作能力的培养训练",
+   "quote": "阅读理解能力、写作能力",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19114,
+    "end_line": 19115,
+    "sha1": "74293dde3fd10fb97a6156b57bc988f2a50d666a",
+    "fingerprint": [
+     "语文",
+     "断章断句"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "语文即读写能力",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "中英文对读写能力培养无本质差别；回指第41封信。"
+  },
+  {
+   "claim_id": "C-GG--U0286-02",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "四十岁仍是只会完成分配任务的五级工程师被淘汰，源于学习能力差、缺乏发展潜力",
+   "quote": "学习能力太差",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19130,
+    "end_line": 19131,
+    "sha1": "654d37cb56ac07fab1be0f8198c8fa566e7ec58e",
+    "fingerprint": [
+     "第五级的工程师",
+     "发展潜力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "大龄工程师升四级",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中国缺四级工程师，高级工程师薪酬可比总监高；郄小虎案例（广告收入+10%获创始人奖、整合DoubleClick、两位数公司排队挖）并入notes为证。"
+  },
+  {
+   "claim_id": "C-GG--U0286-03",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "四十岁智力未衰，竞争力下降多因知识老化与心态上不愿再踏实做具体工作",
+   "quote": "智力远没有衰退",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19137,
+    "end_line": 19141,
+    "sha1": "b4d29670e6b0752ea13f8f1d7bb402a0dc938e4f",
+    "fingerprint": [
+     "心态",
+     "死磕"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "大龄竞争力在心态",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "美德工程师40岁仍如20岁那样工作；部分年长者慢节奏工作致主管出于招聘安全整体不招年长者。"
+  },
+  {
+   "claim_id": "C-GG--U0286-04",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "换工作总结不超过三件最拿得出手的成就，列多了必是凑数，反把平庸暴露出来",
+   "quote": "三件最拿得出手的工作",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19147,
+    "end_line": 19148,
+    "sha1": "05fdce59763a581d423310023359ff31e67dee71",
+    "fingerprint": [
+     "凑数",
+     "包装"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "三件成就原则",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "企业不愿培养新人、希望即插即用，给有经验者留机会；郄小虎拿得出手的成果也只有两样。"
+  },
+  {
+   "claim_id": "C-GG--U0286-05",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "工程工具已老化或所做工作没前途，要趁早换新的，别等手上没有武器时再发愁",
+   "quote": "趁早换新的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19153,
+    "end_line": 19153,
+    "sha1": "3e0769c83c226872a438982fc3adf1fe55a11abd",
+    "fingerprint": [
+     "工程工具",
+     "武器"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "工具老化趁早换",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "对年长工程师三点建议之三；建议一“本事随年龄增长则不担心”并入-02。"
+  },
+  {
+   "claim_id": "C-GG--U0286-06",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "苹果靠硬件收钱以避软件易盗版的损失，但无人依附其生存，产品失宠即无补救；绑定全行业者更稳健",
+   "quote": "把整个IT行业都绑在了自己身上",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19172,
+    "end_line": 19174,
+    "sha1": "f4e0fd53c4c62abdfba2f26202cff405f52641a6",
+    "fingerprint": [
+     "盗版",
+     "稳健"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "绑定行业的稳健性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "微软/英特尔让利换生态绑定；时点观察2018：机理可迁移，个案数据（各国盗版率、收入占比）属时效。"
+  },
+  {
+   "claim_id": "C-GG--U0286-07",
+   "unit_id": "GG-U0286",
+   "speaker": "吴军本人",
+   "claim_text": "学道理要掌握活的精髓而非死教条，举一反三并把所学放到更大环境中理解，才有抽象认识",
+   "quote": "活的精髓",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19181,
+    "end_line": 19184,
+    "sha1": "cf3c073071ed413a6e96b9ab95a205662ef94486",
+    "fingerprint": [
+     "上心",
+     "举一反三"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "活的精髓与举一反三",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "互引C-GG-U0282-04/-07；挑书中小毛病沾沾自喜、不理会核心意思者难从具体上升到抽象。"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问43：大龄工程师出路为主，成卡7张；打字练习与零碎时间写作等次要建议（C级）未成卡；读者提问原文不抽。"
+}

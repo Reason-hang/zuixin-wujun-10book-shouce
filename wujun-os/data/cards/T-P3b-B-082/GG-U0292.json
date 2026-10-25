@@ -1,0 +1,154 @@
+{
+ "unit_id": "GG-U0292",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0292-01",
+   "unit_id": "GG-U0292",
+   "speaker": "吴军本人",
+   "claim_text": "不强调有标准答案，思维就不受限制，想象力就得到释放",
+   "quote": "想象力就得到了释放",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19542,
+    "end_line": 19545,
+    "sha1": "41dec67d83dae4252e9c7265b7d84fc66cd42cbe",
+    "fingerprint": [
+     "标准答案",
+     "思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "无标准答案释放思维",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "由思考题两种相反看法引出；分析合乎逻辑的答案都是好答案。"
+  },
+  {
+   "claim_id": "C-GG--U0292-02",
+   "unit_id": "GG-U0292",
+   "speaker": "吴军本人",
+   "claim_text": "比抢大场更重要的是急所：先解决不做就会致命的步骤，再谈对全局有利的事",
+   "quote": "比抢大场更重要的是急所",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19583,
+    "end_line": 19584,
+    "sha1": "8469afab49a60ca91664624b6cb647d1a0ef723b",
+    "fingerprint": [
+     "大场",
+     "急所"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "急所优先于大场",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "读者无涯问兼职vs考研：先评估打工与目标的相关性、读研后再实习更好（建议1/2并入本卡）。"
+  },
+  {
+   "claim_id": "C-GG--U0292-03",
+   "unit_id": "GG-U0292",
+   "speaker": "吴军本人",
+   "claim_text": "保证软件质量靠三条：严格编程规范、严格的同事评审、比写代码更长的自测",
+   "quote": "多打一个空格都通过不了",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19593,
+    "end_line": 19597,
+    "sha1": "72b1b982f5d0d00dc821389e7b29ec49debe21fe",
+    "fingerprint": [
+     "规范",
+     "评审",
+     "测试"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "规范评审测试三关",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "开复评Google编程规范世界最好（转述并入）；Google无专职测试人员、测试皆自完成。"
+  },
+  {
+   "claim_id": "C-GG--U0292-04",
+   "unit_id": "GG-U0292",
+   "speaker": "吴军本人",
+   "claim_text": "判断极限还是障碍：看理想状态最佳、超周围平均两倍方差、历史平均表现；走出舒适区极限可提高",
+   "quote": "判断极限和障碍",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19604,
+    "end_line": 19611,
+    "sha1": "69031eb15651a61efbe4d31932d430d90015b6c4",
+    "fingerprint": [
+     "方差",
+     "舒适区"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "极限与障碍的辨别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-1272极限与上界之别、CK-1273极限意识，跨书线索；三法为例：开卷不限时考分/85±5则95为限/月早起10→15天。"
+  },
+  {
+   "claim_id": "C-GG--U0292-05",
+   "unit_id": "GG-U0292",
+   "speaker": "吴军本人",
+   "claim_text": "保护隐私三原则：不轻易给个人信息、不贪免费占小便宜、不随便用双向通信",
+   "quote": "不要轻易给出自己的个人信息",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19618,
+    "end_line": 19625,
+    "sha1": "469bb4f5fe9ec7780ccd4b5a7df56cfb60f329ea",
+    "fingerprint": [
+     "个人信息",
+     "摄像头"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "DT-待判"
+   ],
+   "concept_key": "隐私保护三不",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "最接近D08-2（免费的隐性代价/免费产品的代价）与D07-1（防欺诈），无完全适配柱，留P4裁；摄像头等双向通信常开之险。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0292",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "哈佛14维度录取细节与中国大学应否采用倒推录取的讨论属教育制度与时点判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问44：思考题讨论+四问，成卡5张；哈佛录取制度讨论记X5；读者提问原文不抽。"
+}

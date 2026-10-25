@@ -1,0 +1,183 @@
+{
+ "unit_id": "GG-U0281",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0281-01",
+   "unit_id": "GG-U0281",
+   "speaker": "吴军本人",
+   "claim_text": "解决遍历问题的关键一是找全别落下，二是效率高不做无用功",
+   "quote": "一是需要找全，别落下什么",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18771,
+    "end_line": 18774,
+    "sha1": "fb6f5a0771d27aa33b02c74d642e1521c9ccdb16",
+    "fingerprint": [
+     "遍历",
+     "无用功"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "遍历问题两关键",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "Google下载全网网页机器人即遍历问题（第141封信回指）。"
+  },
+  {
+   "claim_id": "C-GG--U0281-02",
+   "unit_id": "GG-U0281",
+   "speaker": "吴军本人",
+   "claim_text": "问题规模大几倍复杂度就高出几个数量级，不能用处理小问题的方式处理相似的大问题",
+   "quote": "复杂程度则高出几个数量级",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18779,
+    "end_line": 18780,
+    "sha1": "b3848f12d4d1fce966982c7a18d8c16bdbaf969c",
+    "fingerprint": [
+     "迷宫",
+     "喷气发动机"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "问题规模的量级跃迁",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：航空/汽车发动机复杂度差数量级（北航老教授观点转述并入）。"
+  },
+  {
+   "claim_id": "C-GG--U0281-03",
+   "unit_id": "GG-U0281",
+   "speaker": "吴军本人",
+   "claim_text": "遇岔口走尚未走过的最左边分支、做标记并回溯，必能遍历任何迷宫（左手算法）",
+   "quote": "尚未进入的最左边的岔路",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18786,
+    "end_line": 18796,
+    "sha1": "69993fb811c35c07e36ff5396f1929ec0c63972a",
+    "fingerprint": [
+     "绳子",
+     "回溯",
+     "死胡同"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "左手算法遍历",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "源自古埃及法老传说（希罗多德《历史》），吴军确认普适；绳子可代以豆子；走出=通、回到原点=不通；唯一性论证见-04。"
+  },
+  {
+   "claim_id": "C-GG--U0281-04",
+   "unit_id": "GG-U0281",
+   "speaker": "吴军本人",
+   "claim_text": "笨办法是唯一确保走出任何迷宫的方法，能走通的路径常藏在看似不可能的分支里",
+   "quote": "唯一能够确保走出任何迷宫",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18797,
+    "end_line": 18803,
+    "sha1": "62ecaa97d7b26f1c0546f14691d615bcf1d2f6bf",
+    "fingerprint": [
+     "笨办法",
+     "看似不可能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-2"
+   ],
+   "concept_key": "笨办法的唯一可靠性",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "聪明人忽略看似不可能的分支反而失败；省略岔路者冤枉路更多（18801/18803并入）。"
+  },
+  {
+   "claim_id": "C-GG--U0281-05",
+   "unit_id": "GG-U0281",
+   "speaker": "吴军本人",
+   "claim_text": "看似能省的工作其实省不掉，抄近路或盲目试错只会重复返工；不怕按部就班慢，就怕兜圈子",
+   "quote": "不怕按部就班做得慢",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18811,
+    "end_line": 18816,
+    "sha1": "a4baf6bbb82ed385c257f1f5a28b838464d6fd0c",
+    "fingerprint": [
+     "按部就班",
+     "返工",
+     "死循环"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "不怕按部就班就怕返工",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-0361不怕慢就怕停更怕反复（富足）、CK-0027刨根问底与按部就班，跨书线索；投机取巧的计算机永远做不完。"
+  },
+  {
+   "claim_id": "C-GG--U0281-06",
+   "unit_id": "GG-U0281",
+   "speaker": "吴军本人",
+   "claim_text": "人生轨迹就是迷宫：允许犯一次错，但要记录在哪犯错，同样情况不犯第二次",
+   "quote": "凡事我们应该允许犯一次错误",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18818,
+    "end_line": 18818,
+    "sha1": "7641824384f97608cb72ef6f7b8fa3ec61f7c211",
+    "fingerprint": [
+     "迷宫",
+     "本子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "记录错误不二犯",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "绳子/本子=复盘载体；近族CK-0614凡事做记录、CK-1754过程记录复盘，跨书线索。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0281",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题（记办公楼路线）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第170封信正文：遍历/迷宫与左手算法方法论，成卡6张。"
+}

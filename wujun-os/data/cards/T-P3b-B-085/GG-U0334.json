@@ -1,0 +1,214 @@
+{
+  "unit_id": "GG-U0334",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0334-01",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "凯鹏华盈47年换几代掌门人、融资200亿返回8000亿平均40倍——系统方法的胜利，不靠个人天分和运气",
+      "quote": "系统方法的胜利",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22238,
+        "end_line": 22239,
+        "sha1": "ef0b6733ad99622833a71da6b96269e82977ee15",
+        "fingerprint": [
+          "凯鹏华盈",
+          "系统"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "系统方法胜个人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与孙正义靠个人能力单打独斗对比（22238）。"
+    },
+    {
+      "claim_id": "C-GG-U0334-02",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "不要指望挖一两个大牛实现弯道超车：营造鼓励创新、宽容失败、尊重人才的环境——好环境下普通人变成大牛",
+      "quote": "弯道超车",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22241,
+        "end_line": 22244,
+        "sha1": "f386bd9a283e2368b07dfd891cdc3bbb68aa4b83",
+        "fingerprint": [
+          "环境",
+          "大牛"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "环境造大牛",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "李开复最满意成就=培养人，微软研究院/Google中国成IT黄埔军校（22242-22243）；好制度好环境比明君清官重要得多（22244）。"
+    },
+    {
+      "claim_id": "C-GG-U0334-03",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "一次破坏规矩的行为，就会毁掉许许多多人长期努力的结果",
+      "quote": "一次破坏规矩的行为",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22245,
+        "end_line": 22245,
+        "sha1": "db2adc26ae5fd2bc36c706adc177c0505bdbeb6d",
+        "fingerprint": [
+          "规矩",
+          "毁掉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "一次破规毁全局",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0334-04",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "当我们欢呼得到不要钱却有价值的东西时，常常也就毁掉了一个产业的前途——电子书盗版致收不回成本，最终受害的是我们自己",
+      "quote": "毁掉了一个产业的前途",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22246,
+        "end_line": 22248,
+        "sha1": "f1110e11e71fe5348cb55d98e772ba81bb1cc361",
+        "fingerprint": [
+          "盗版",
+          "电子版"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D05-1"
+      ],
+      "concept_key": "免费毁产业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教科书作家发现90%以上电子版是盗版、出版社停掉电子版（22247）；得到能存在靠读者营造好环境（22248）。"
+    },
+    {
+      "claim_id": "C-GG-U0334-05",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "欧美人爱多管闲事是维持共赢环境：不希望外来者无意间毁掉多年营造的环境",
+      "quote": "维持一个好环境",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22249,
+        "end_line": 22249,
+        "sha1": "a29c2dd179a8b4a2acac96dbc25c9188db26a40c",
+        "fingerprint": [
+          "共赢",
+          "环境"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "多管闲事护环境",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0334-06",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "好市多无条件退货被滥用：退货成本加到定价上、涨得比通胀快——占便宜退货由全体顾客买单，恶化则合理退货都会变难",
+      "quote": "由全体顾客买单",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22250,
+        "end_line": 22258,
+        "sha1": "531c6a5da9ebcae681644ec3e09fcb3b20368612",
+        "fingerprint": [
+          "退货",
+          "买单"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "滥用福利全员买单",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吃掉3/4橄榄油退货、十多年前用坏电器退货（22252/22254）；华裔女士晒退货遭圈子谴责（22255-22256）。"
+    },
+    {
+      "claim_id": "C-GG-U0334-07",
+      "unit_id": "GG-U0334",
+      "speaker": "吴军本人",
+      "claim_text": "与其梦想明君清官和侠客，不如自己动手把周围的环境变好——大家都谈贡献而非争成就、把优秀者聚到身边，事业像套娃层层扩大",
+      "quote": "不如自己动手把周围的环境变好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22260,
+        "end_line": 22261,
+        "sha1": "40a299a8274837fb7cec6358f0c10bc91cca4573",
+        "fingerprint": [
+          "明君",
+          "保守主义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D07-1"
+      ],
+      "concept_key": "动手改环境",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "清朝奴才官员的时代是父辈祖辈选择、自己造成的（22259）；保守主义做事方式互引渐进优于跳变。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0334",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22263-22264行思考题（盗版比例何时降）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第205封信：明君名臣、大宪章、版权与好市多退货（7卡）。"
+}

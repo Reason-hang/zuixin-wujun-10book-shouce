@@ -1,0 +1,115 @@
+{
+  "unit_id": "GG-U0328",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0328-01",
+      "unit_id": "GG-U0328",
+      "speaker": "吴军本人",
+      "claim_text": "信息越透明、流动性越好，李嘉图定律导致的势差越大：互联网不会带来收入趋同，反而放大一流与末流的差距。",
+      "quote": "带来李嘉图定律的放大效果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21930,
+        "end_line": 21936,
+        "sha1": "1b4ff3e615b35ff5de5b773c31a1c00e7dd2bc66",
+        "fingerprint": [
+          "势差",
+          "放大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D01-2"
+      ],
+      "concept_key": "透明放大势差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1780透明放大势差同源（谷歌本专栏）；新含义'对可比较的优势定价'（21920）并入；一流工程师天价/末流免费、第二名拿不到第一估值、硅谷隔一条高速房价差三倍为例"
+    },
+    {
+      "claim_id": "C-GG-U0328-02",
+      "unit_id": "GG-U0328",
+      "speaker": "吴军本人",
+      "claim_text": "摩尔定律、李嘉图定律这类规则拗不过，凡人只能按定律行事：买房选好地段、办公司不去三线、雇人不贪便宜凑数。",
+      "quote": "千万不要贪便宜找一个烂地段去买",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21938,
+        "end_line": 21942,
+        "sha1": "a8727b44cbb0fc57b38a3a30a99cf8c48e5292e4",
+        "fingerprint": [
+          "定律",
+          "行动指南"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D08-1"
+      ],
+      "concept_key": "按定律写进行动指南",
+      "ability_tags": [
+        "思",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "'世界上真正的老大是上帝'；限价的结果是排队拿号；清单式三不并入一卡"
+    },
+    {
+      "claim_id": "C-GG-U0328-03",
+      "unit_id": "GG-U0328",
+      "speaker": "吴军本人",
+      "claim_text": "在李嘉图定律下，不能比周围人明显高出一截，劳动就免费不值钱：十个九十分抵不上一个一百分。",
+      "quote": "比周围人明显高出一截",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21940,
+        "end_line": 21940,
+        "sha1": "307349bdc36e6c677f9b9823e9c8fe19fd07a810",
+        "fingerprint": [
+          "免费",
+          "100分"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D08-2"
+      ],
+      "concept_key": "十个九十分不如一个一百分",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "荒滩盐碱地无人付租之喻；上帝在用定律给大自然修剪枝叶"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0328",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "李嘉图生平、租金定律的经济学源流（斯密/穆勒/马歇尔延伸）为经济思想史叙述，可迁移判断已另抽"
+    },
+    {
+      "unit_id": "GG-U0328",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'将来好学校好医院好地段房子越来越紧缺'为趋势预测"
+    },
+    {
+      "unit_id": "GG-U0328",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾思考题属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第201封信李嘉图定律方法论成3卡，经济学史/趋势预测/思考题记X"
+}

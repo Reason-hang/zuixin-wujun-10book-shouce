@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0343",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0343-01",
+      "unit_id": "GG-U0343",
+      "speaker": "吴军本人",
+      "claim_text": "创意的知识产权有效期西方通常只有15年（著作权70年）；情节创意的界定世界无专门规定——最强的约束反而是创作者的脸面",
+      "quote": "最强的约束反而是创作者的脸面",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22804,
+        "end_line": 22806,
+        "sha1": "230a462352d1c4c0f9d637d27d227316fac127ca",
+        "fingerprint": [
+          "著作权",
+          "创意"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "创意靠脸面约束",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "黑泽明《用心棒》诉莱翁内获15%票房（22800读者述）。"
+    },
+    {
+      "claim_id": "C-GG-U0343-02",
+      "unit_id": "GG-U0343",
+      "speaker": "吴军本人",
+      "claim_text": "中国知识产权是补偿性赔偿、西方是惩罚性赔偿：巨额处罚杜绝再犯——在美国卖假货赔得倾家荡产，得不偿失故假货不多",
+      "quote": "惩罚性赔偿",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22807,
+        "end_line": 22810,
+        "sha1": "cde68a36fe65403785f1b6ca14df0ad6c8d2fe53",
+        "fingerprint": [
+          "补偿性",
+          "惩罚"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "惩罚性赔偿",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专利官司赔近10亿美元vs转让费不到10万（22809）；麦当劳咖啡判罚逻辑（22810）。"
+    },
+    {
+      "claim_id": "C-GG-U0343-03",
+      "unit_id": "GG-U0343",
+      "speaker": "吴军本人",
+      "claim_text": "盗版观念的改变要一代人30年：多数人十几岁后想法就无法改变——还能改变的属于10%能成为精英的人",
+      "quote": "想法就无法改变了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22816,
+        "end_line": 22818,
+        "sha1": "0a78de4d3cf9389ac65d292e2976e1a281d49b35",
+        "fingerprint": [
+          "一代人",
+          "观念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "观念改于少年时",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "正版贵不是理由：换手机比美国人频繁得多是观念问题（22817-22818）；90后尊重知识产权好得多（22820）。"
+    },
+    {
+      "claim_id": "C-GG-U0343-04",
+      "unit_id": "GG-U0343",
+      "speaker": "吴军本人",
+      "claim_text": "确定长期目标四因素：能力特长短处（扬长易补短难）、拒绝小诱惑、照顾兴趣、有衡量是否在正轨的标准",
+      "quote": "衡量自己是否在正轨上行走的标准",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22827,
+        "end_line": 22838,
+        "sha1": "083b6da594ab791a74fbeaa40c0d3e4bad30d291",
+        "fingerprint": [
+          "特长",
+          "兴趣"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "长期目标四因素",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "衡量例：市场占有率受干扰，改用用户满意度与使用频率（22838-22839）。"
+    },
+    {
+      "claim_id": "C-GG-U0343-05",
+      "unit_id": "GG-U0343",
+      "speaker": "吴军本人",
+      "claim_text": "判断该坚持还是改变是一种经验，很多人死在黎明之前；两法：请有经验的人把关（在该领域成功过）、设定衡量正轨的标准",
+      "quote": "很多人死在黎明之前",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22847,
+        "end_line": 22848,
+        "sha1": "1c8596fca0d1574a5b70309a4aa5017467b5a785",
+        "fingerprint": [
+          "经验",
+          "把关"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "坚持或改变的判据",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "半年更新简历面试若花太多时间准备反而耽误工作（22847）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0343",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "22850-22862行孩子零花钱与劳动激励问答为家庭亲子内容"
+    },
+    {
+      "unit_id": "GG-U0343",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22863-22869行年度回信征集与赠书活动为运营文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问52：J曲线下的决策（双说话人5卡）。"
+}

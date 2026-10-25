@@ -1,0 +1,190 @@
+{
+  "unit_id": "GG-U0320",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0320-01",
+      "unit_id": "GG-U0320",
+      "speaker": "吴军本人",
+      "claim_text": "人类认识的进步靠概念延拓：原有认识解决不了新问题就拓展概念定义，从局部认识上升到完整认识；生活中合乎逻辑的延拓也重要。",
+      "quote": "人类就进行概念的拓展",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21460,
+        "end_line": 21463,
+        "sha1": "b7f719666d082b84159e9362205f991abe4340ae",
+        "fingerprint": [
+          "延拓",
+          "概念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "延拓是认知升级",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0967延拓是认知升级同源（数学通识）；数系从正整数到零/负数/分数/无理数/复数的扩张为载体；希帕索斯公案并入"
+    },
+    {
+      "claim_id": "C-GG-U0320-02",
+      "unit_id": "GG-U0320",
+      "speaker": "吴军本人",
+      "claim_text": "常识是不断更新的：零对今天是常识，却是人类从有数字起花几千年才搞明白的概念。",
+      "quote": "常识是不断更新的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21432,
+        "end_line": 21436,
+        "sha1": "bdb338bafe001a3dd6461eb8cf5ed0370bbc23d9",
+        "fingerprint": [
+          "常识",
+          "零"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "常识需要更新",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0948常识需要更新同源（富足）；呼应本专栏前文常识系列"
+    },
+    {
+      "claim_id": "C-GG-U0320-03",
+      "unit_id": "GG-U0320",
+      "speaker": "吴军本人",
+      "claim_text": "很多人觉得数学难学，是因为每次概念延拓时抽象概念没搞清楚，欠账越积越多，以后就再也学不进去了。",
+      "quote": "抽象的概念没有搞清楚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21444,
+        "end_line": 21445,
+        "sha1": "f3368fd5664c846421820227a15e18927e61e0c2",
+        "fingerprint": [
+          "延拓",
+          "抽象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-1"
+      ],
+      "concept_key": "概念延拓欠账致难学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "负数定义域'偷偷更换'为例；学习方法层面"
+    },
+    {
+      "claim_id": "C-GG-U0320-04",
+      "unit_id": "GG-U0320",
+      "speaker": "吴军本人",
+      "claim_text": "数学已是完全从定义和公理出发、逻辑推演出的知识体系，无法和现实世界一一对应，不能用对真实世界的理解判定数学对错。",
+      "quote": "从定义和公理出发",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21454,
+        "end_line": 21455,
+        "sha1": "9c47c1ca62d53e7d55d0d96b5fda3c1dbcb403f0",
+        "fingerprint": [
+          "公理",
+          "对错"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学不能与现实划等号",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1147数学不能与现实划等号同源（数学通识）；虚数i的发明为引子"
+    },
+    {
+      "claim_id": "C-GG-U0320-05",
+      "unit_id": "GG-U0320",
+      "speaker": "吴军本人",
+      "claim_text": "好的数学工具可建立在现实不存在的基础上（如复数）却解决现实问题；有效地做事，掌握好工具非常重要。",
+      "quote": "建立在不存在基础上的工具",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21454,
+        "end_line": 21458,
+        "sha1": "f0b5f08e5856e6ee64cfd14f54cebbcd0d07c878",
+        "fingerprint": [
+          "复数",
+          "工具"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D05-1"
+      ],
+      "concept_key": "不存在基础上的强工具",
+      "ability_tags": [
+        "思",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0360不存在基础上的强工具同源；三相交流电与电磁波用复数更易解；同一问题有无好工具结局不同"
+    },
+    {
+      "claim_id": "C-GG-U0320-06",
+      "unit_id": "GG-U0320",
+      "speaker": "吴军本人",
+      "claim_text": "学习间接经验很重要：凡事靠自己琢磨，即使零这样的常识概念也要想上千年。",
+      "quote": "学习间接经验很重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21465,
+        "end_line": 21465,
+        "sha1": "b5a51a23ba8792a2cfff0cd9c2c9a460aaa7820f",
+        "fingerprint": [
+          "间接经验",
+          "零"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学习间接经验",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "总结第2条；与CK-0648前人经验优于亲身试错相邻，但强调间接经验，单列"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0320",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "阿蒂亚爵士宣布证明黎曼猜想的乌龙事件与40分钟报告细节为数学家轶事叙述；黎曼猜想与大素数加密的关联为背景介绍"
+    },
+    {
+      "unit_id": "GG-U0320",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾两道思考题属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第195封信以数系延拓讲认知升级，吴军本人方法论成6卡；数学史轶事与思考题记X"
+}

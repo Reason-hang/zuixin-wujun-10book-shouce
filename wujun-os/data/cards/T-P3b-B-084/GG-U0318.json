@@ -1,0 +1,331 @@
+{
+  "unit_id": "GG-U0318",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0318-01",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "工程师分五级：五级做到基本要求算合格，四级能带人做事，三级能负责产品线，二级能做出他人做不出的东西。",
+      "quote": "能负责一个产品线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21238,
+        "end_line": 21243,
+        "sha1": "c804e98c7fe14436e07900be219e0dbe72d72f60",
+        "fingerprint": [
+          "五级",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "五级工程师与职业发展",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "直播重述本专栏与《见识》五级工程师框架；跨书线索：见识第五章/来信1第054封"
+    },
+    {
+      "claim_id": "C-GG-U0318-02",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "合格工程师的产出要满足三属性：本身可用能持续工作、可继承、封装好让别人在其上继续做；对任何职业人士都是基本素质。",
+      "quote": "这三项都是最基本的素质",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21244,
+        "end_line": 21247,
+        "sha1": "aac0a3505335fae50ac4ce07aeff5298b8059d06",
+        "fingerprint": [
+          "可继承",
+          "封装"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D06-2"
+      ],
+      "concept_key": "合格产出三属性",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "文明进程靠继承，工作从零开始效率太低；开源生态为例"
+    },
+    {
+      "claim_id": "C-GG-U0318-03",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "职业化的人要把自己做的整件事从头做好并自己测试收尾；测试与否是判断一个人是否职业化的重要原则。",
+      "quote": "自己做的事情要自己收尾",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21249,
+        "end_line": 21252,
+        "sha1": "38dded67cce93e98a9dad773d68be6ebe81ef2de",
+        "fingerprint": [
+          "测试",
+          "职业化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "自己收尾与测试",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "高德纳写代码错误个位数为例外；美国会计师严格自查流程例证"
+    },
+    {
+      "claim_id": "C-GG-U0318-04",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "带团队必须先建立规范：一个人做事不需规范，带十个人就要有共同讨论的基础，否则人越多越乱。",
+      "quote": "这十个人就没有共同讨论的基础",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21259,
+        "end_line": 21264,
+        "sha1": "a948d81190719ae2a98d9ef7910ade557693e52b",
+        "fingerprint": [
+          "规范",
+          "韩信将兵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D04-3"
+      ],
+      "concept_key": "带团队先立规范",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "韩信将兵多多益善反例；规范性80%的人做不到，做到就赢80%的人"
+    },
+    {
+      "claim_id": "C-GG-U0318-05",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "管理用递归：树榜样立规矩、只管好直接下属，一级学一级即可管千人；领导力核心是授权，事必躬亲最糟。",
+      "quote": "在领导力上叫做授权",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21271,
+        "end_line": 21279,
+        "sha1": "d6738619d1516447df756f2adcf4c1da250701ed",
+        "fingerprint": [
+          "递归",
+          "授权",
+          "事必躬亲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "递归式管理授权",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "诸葛亮事必躬亲反例；技术尖子不教下属难晋升、教会十人得十人力并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0318-06",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "创始人的基因常决定企业的基因：组织每级都模仿上级；投资先看人，人不合适事再合适也难成功。",
+      "quote": "创始人的基因常常决定了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21283,
+        "end_line": 21284,
+        "sha1": "63b121ef945f8bb5cb74bf96ceac91528025e9d0",
+        "fingerprint": [
+          "创始人的基因",
+          "投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "公司基因与创始人基因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0579公司基因与创始人基因同源；老板盯KPI则全员盯KPI"
+    },
+    {
+      "claim_id": "C-GG-U0318-07",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "大问题复杂度远超小问题；有本事把大问题拆成相对独立的小问题、请胜任的人各做一段，岗位与人匹配，事情才成。",
+      "quote": "拆解成十个相对并不关联的小问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21287,
+        "end_line": 21293,
+        "sha1": "e708ac94b76ffcbac24ae9fac410655a65f57757",
+        "fingerprint": [
+          "分治",
+          "各个击破"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-2"
+      ],
+      "concept_key": "分治拆解大问题",
+      "ability_tags": [
+        "做",
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "百万行代码拆十个十万行；杀鸡用牛刀=错配；出国旅行拆解为例"
+    },
+    {
+      "claim_id": "C-GG-U0318-08",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "计算机靠海量数据获得网络效应的智能，人的思维是个体效应；人若不只考虑自己、能兼顾大网络，也会得到很好的效果。",
+      "quote": "也会得到很好的效果",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21297,
+        "end_line": 21300,
+        "sha1": "e1a708076384a85a5b07fbfc9963d3976b7c1c2c",
+        "fingerprint": [
+          "网络效应",
+          "个体效应"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D01-2"
+      ],
+      "concept_key": "网络效应与个体效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对立统一一节：大小/快慢/多维单维的对立统一"
+    },
+    {
+      "claim_id": "C-GG-U0318-09",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "计算机做事先大后小、自顶向下；人也应换思维从上往下从大往小思考，先定大局势再关注细节，抠太细反而失大局。",
+      "quote": "从上往下，从大往小来思考",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21314,
+        "end_line": 21320,
+        "sha1": "601f4b58b416c9a1f22525a8b6ac274ef99c75ae",
+        "fingerprint": [
+          "先大后小",
+          "大局"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D04-2"
+      ],
+      "concept_key": "先大后小自顶向下",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "21303-21310赢了战斗输掉战役/专业写作先构思情节等铺垫在锚外notes；1345块给1400块例"
+    },
+    {
+      "claim_id": "C-GG-U0318-10",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "计算机的世界是离散不精确的，是可接受误差范围内的工程方案；资源有限时先保证数量级正确，再补精度。",
+      "quote": "一个完全离散的世界",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21311,
+        "end_line": 21314,
+        "sha1": "dfba9e4141366b65fd3e9f002a54f0528d107273",
+        "fingerprint": [
+          "离散",
+          "误差",
+          "数量级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "误差范围内的工程解",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "8位只能表0-255，先保数量级再加位数；最大素数先定大致范围再合并资源"
+    },
+    {
+      "claim_id": "C-GG-U0318-11",
+      "unit_id": "GG-U0318",
+      "speaker": "吴军本人",
+      "claim_text": "计算机世界常没有对错好坏，只有给定成本下什么最好；边界确定，能做的事就确定，从业者要有成本与性能意识。",
+      "quote": "要有成本和性能的意识",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21336,
+        "end_line": 21339,
+        "sha1": "72dd78bd3ffad3e5677ccc92b171d09cfa0ac866",
+        "fingerprint": [
+          "成本",
+          "边界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D03-1"
+      ],
+      "concept_key": "成本约束下的最好",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "理想状态vs实际状态（21331）；内存vsCPU、对象提十个要求例证；Office足够好即被接受"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0318",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "癌症攻克后人均寿命仅增3.5岁为医学统计事实（莱文森转述），无可迁移判断，仅作成本话题引入"
+    },
+    {
+      "unit_id": "GG-U0318",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2018年贸易战背景下中国自造CPU/操作系统的时事分析依附当时事件与市场状态"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "直播回顾大单元，计算机思维方法论密集，抽11卡；医学统计与贸易战时事记X"
+}

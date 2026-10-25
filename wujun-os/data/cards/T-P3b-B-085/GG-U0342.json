@@ -1,0 +1,101 @@
+{
+  "unit_id": "GG-U0342",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0342-01",
+      "unit_id": "GG-U0342",
+      "speaker": "吴军本人",
+      "claim_text": "人有时候不在于现在有多穷，而在于有没有希望富裕起来；各国用经济和贸易总量说话——军力不能保护贸易就是浪费钱",
+      "quote": "不在于现在有多穷",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22787,
+        "end_line": 22788,
+        "sha1": "2a0ad1e49350ddb14299b0a1bea4a7fcc5802ba0",
+        "fingerprint": [
+          "希望",
+          "贸易"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D08-1"
+      ],
+      "concept_key": "希望重于现状",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "投资选印度不选俄罗斯（22788）。"
+    },
+    {
+      "claim_id": "C-GG-U0342-02",
+      "unit_id": "GG-U0342",
+      "speaker": "吴军本人",
+      "claim_text": "只有在商业竞争环境下，制造工业品才会精益求精、商品才会人性化——这就是市场经济和自由贸易重要的原因",
+      "quote": "才会精益求精",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22759,
+        "end_line": 22760,
+        "sha1": "e77a465dc603808d44bce7eb45b599b4c3a2913f",
+        "fingerprint": [
+          "商业竞争",
+          "自由贸易"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "竞争出精品",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "俄罗斯无贸易传统故产品傻大笨粗（22756-22759）。"
+    },
+    {
+      "claim_id": "C-GG-U0342-03",
+      "unit_id": "GG-U0342",
+      "speaker": "吴军本人",
+      "claim_text": "很多人到印度做生意失败是因为把它想成了中国（实际是3亿人的市场）——一开始期望值不要太高，也就不会失望",
+      "quote": "把它想成了中国",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22772,
+        "end_line": 22774,
+        "sha1": "7d5469e42c2d907d1e2b4674bafb32eb096c2181",
+        "fingerprint": [
+          "印度",
+          "期望"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "勿把印度当中国",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "种姓制度底层消费弱、看成3亿人国家即可（22772）；较高种姓有进取心（22773）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0342",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "22740-22786行俄印国别、地缘、军事史与人口经济比较为宏观内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第210封信：俄罗斯和印度谁更有发言权（3卡）。"
+}

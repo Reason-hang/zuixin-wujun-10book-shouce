@@ -1,0 +1,153 @@
+{
+ "unit_id": "GG-U0284",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0284-01",
+   "unit_id": "GG-U0284",
+   "speaker": "吴军本人",
+   "claim_text": "无法省略的工作不要投机取巧省掉；工作中最可怕的不是进度慢，而是返工",
+   "quote": "最可怕的不是进度慢，而是返工",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18972,
+    "end_line": 18973,
+    "sha1": "fc99fd385f5120cad528188d904c82557bfc47ab",
+    "fingerprint": [
+     "投机取巧",
+     "返工"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "不怕按部就班就怕返工",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "与C-GG-U0281-05同概念键跨单元互引；结尾“省不掉必须做就认命去做”并入本卡。"
+  },
+  {
+   "claim_id": "C-GG--U0284-02",
+   "unit_id": "GG-U0284",
+   "speaker": "吴军本人",
+   "claim_text": "做工程要在给定工具和条件的限制下解决问题，如米格25工程师那样",
+   "quote": "在能够有的条件下解决问题",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19014,
+    "end_line": 19014,
+    "sha1": "5b2120dc4efb4242ff5fee1d54b6b4eedd89c0df",
+    "fingerprint": [
+     "米格",
+     "工程"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "给定条件下解决问题",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "Google面试考点1；近族CK-1528米格-25的启示（见识），跨书线索。"
+  },
+  {
+   "claim_id": "C-GG--U0284-03",
+   "unit_id": "GG-U0284",
+   "speaker": "吴军本人",
+   "claim_text": "计算机建立在布尔代数上，好的计算机科学家能把所有数学计算转化为是和非的判断",
+   "quote": "对于是和非的判断",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19016,
+    "end_line": 19016,
+    "sha1": "997551c1fe0fe7140f660d0a43f357abdb2b4c69",
+    "fingerprint": [
+     "布尔代数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "计算化为是非判断",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "Google面试考点2；考点3为数学归纳法（第N行与第N+1行方法相似），并入notes。"
+  },
+  {
+   "claim_id": "C-GG--U0284-04",
+   "unit_id": "GG-U0284",
+   "speaker": "吴军本人",
+   "claim_text": "看似笨的办法按量级概念可能已是最佳；省掉不该省的步骤或成本，必返工或不可用",
+   "quote": "已经在量级上是最佳的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19019,
+    "end_line": 19020,
+    "sha1": "8e934eb75d8e80e9ebbab3377be50541ea96f327",
+    "fingerprint": [
+     "量级",
+     "投机取巧"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-2"
+   ],
+   "concept_key": "笨办法量级最佳",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "笨办法不遗漏该做的工作故并不慢；互引-01与C-GG-U0281-04/-05。"
+  },
+  {
+   "claim_id": "C-GG--U0284-05",
+   "unit_id": "GG-U0284",
+   "speaker": "吴军本人",
+   "claim_text": "对边界的判断无处不在，边界判断不清，事情就全搞乱了",
+   "quote": "边界判断不清",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19022,
+    "end_line": 19022,
+    "sha1": "9b4bc8c7639786af780099606a93175bc4f49e8b",
+    "fingerprint": [
+     "边界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "边界判断不清全盘乱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "推棋题关键=判断右边界与上边界；边界原理归D04-3。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0284",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第173封信正文：Google推棋面试题与做事方法论，成卡5张。"
+}

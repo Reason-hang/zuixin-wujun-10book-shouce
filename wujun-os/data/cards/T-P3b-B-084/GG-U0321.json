@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0321",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0321-01",
+      "unit_id": "GG-U0321",
+      "speaker": "吴军本人",
+      "claim_text": "欧拉的荒唐结论源于用收敛级数的方法计算不收敛级数；有限世界的方法不能简单应用于无限世界。",
+      "quote": "应用到无限的世界中",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21509,
+        "end_line": 21510,
+        "sha1": "322b68ad65822c8ded81ba9811dcdf6e868a972c",
+        "fingerprint": [
+          "有限",
+          "无限",
+          "欧拉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "有限方法不用于无限世界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "正整数之和=-1/12、正整数平方和=0两例；《硅谷之谜》旧说重申"
+    },
+    {
+      "claim_id": "C-GG-U0321-02",
+      "unit_id": "GG-U0321",
+      "speaker": "吴军本人",
+      "claim_text": "一旦设定了前提，不论经什么逻辑推出什么结果，在数学上都行得通——这是数学与自然科学的本质差别。",
+      "quote": "在数学上都是行得通的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21512,
+        "end_line": 21513,
+        "sha1": "3bfca4b7694cc9392e83eee0d497ce46ab080517",
+        "fingerprint": [
+          "前提",
+          "自然科学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "前提加逻辑皆合理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0649前提加逻辑皆合理同源（数学通识）"
+    },
+    {
+      "claim_id": "C-GG-U0321-03",
+      "unit_id": "GG-U0321",
+      "speaker": "吴军本人",
+      "claim_text": "在人类所知范围内未被证伪，与在数学上被证明是两回事；数学与实验科学、工程的区别关键在思维方式。",
+      "quote": "和数学上被证明是两回事",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21524,
+        "end_line": 21528,
+        "sha1": "371656b32b83163bb024c8395f25c327b6f14ce9",
+        "fingerprint": [
+          "证伪",
+          "证明"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "证实与证明之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1681证实与证明之别同源；工程确实在用未证实的猜想（加密都能破解只是时间问题）、杨-米尔斯理论为例"
+    },
+    {
+      "claim_id": "C-GG-U0321-04",
+      "unit_id": "GG-U0321",
+      "speaker": "吴军本人",
+      "claim_text": "钻牛角尖多因把适合自己领域的思维方式用错了场景；不同领域需要不同思维方式，严谨要看对象，看人说话很重要。",
+      "quote": "把适合他们工作和生活的思维方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21528,
+        "end_line": 21534,
+        "sha1": "30583e3acade1006b917d26a6bbee4d6d0106ef2",
+        "fingerprint": [
+          "钻牛角尖",
+          "场景"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-1"
+      ],
+      "concept_key": "思维方式用错场景即钻牛角尖",
+      "ability_tags": [
+        "思",
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "会计算账精确到分vs请人买机票给整数为例；与CK-0034看人说话同源"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0321",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "黎曼生平、调和级数/Zeta函数/平凡解与非平凡解等数学史与数学知识科普为叙述主体，可迁移判断已另抽4卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第196封信数学科普载体上抽4条吴军本人方法论，数学史叙述记X4"
+}

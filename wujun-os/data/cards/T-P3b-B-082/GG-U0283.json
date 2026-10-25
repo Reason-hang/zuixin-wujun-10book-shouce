@@ -1,0 +1,240 @@
+{
+ "unit_id": "GG-U0283",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0283-01",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "职业化就是用职业的语言表述问题；将问题抽象化并职业化表述，才能举一反三、与人协作",
+   "quote": "用职业的语言表述问题",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18896,
+    "end_line": 18901,
+    "sha1": "df3286c2d1bf62b246f098063ce8ca242a51e3c3",
+    "fingerprint": [
+     "职业化",
+     "抽象化问题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D07-1"
+   ],
+   "concept_key": "职业化表述问题",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "数学/商业/法律/医学各有职业表述；把已知条件与目标搞清，便于在共识上协作（总结句18949回指）。"
+  },
+  {
+   "claim_id": "C-GG--U0283-02",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "学数学的主要目的是抽象化问题而非加减乘除；能抽象化并解决问题的人因计算机如虎添翼",
+   "quote": "抽象化问题的能力",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18901,
+    "end_line": 18902,
+    "sha1": "1d74921c01de55c0a29aa9fd021c908211fbb416",
+    "fingerprint": [
+     "加减乘除",
+     "如虎添翼"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-2"
+   ],
+   "concept_key": "数学目的在抽象化",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "会算简单算术者被计算机取代，抽象能力仍属人类。"
+  },
+  {
+   "claim_id": "C-GG--U0283-03",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "递归即过程自我调用，须有三个条件：有出口则完成、到头则返回、回到起点无出口则失败",
+   "quote": "这个原则就是递归",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18915,
+    "end_line": 18925,
+    "sha1": "a1a716e8959b8d2931d0b4cb9ef30f6f4c3b2ff0",
+    "fingerprint": [
+     "递归",
+     "老和尚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "递归三条件",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "以“从前有个山”故事对照；“顺时针探路”过程自我调用即递归结构。"
+  },
+  {
+   "claim_id": "C-GG--U0283-04",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "遇到难题先找到正确的解决方法，效率问题第二步再优化（如用堆栈替代递归）",
+   "quote": "先想办法找到正确的解决方法",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18926,
+    "end_line": 18928,
+    "sha1": "5be52c9530a2706144e1d361101957e455a604f3",
+    "fingerprint": [
+     "递归",
+     "堆栈"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "先正确后效率",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "递归更多是思维方式，实现时可用本子/堆栈规避低效率。"
+  },
+  {
+   "claim_id": "C-GG--U0283-05",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "科学专注原理，工程须考虑大量实际问题，包括测试和容错",
+   "quote": "科学主要专注于原理",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18953,
+    "end_line": 18953,
+    "sha1": "52f34c660e216a566aa45f4f689a38a760f6255f",
+    "fingerprint": [
+     "工程",
+     "容错"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "工程须测试与容错",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-0062工程师与科学家之别；本信总结句3。"
+  },
+  {
+   "claim_id": "C-GG--U0283-06",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "绝对无错的程序几乎见不到，商用程序须含测试调试代码；多花30%时间写调试代码很值",
+   "quote": "多花30%的时间写调试代码",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18934,
+    "end_line": 18936,
+    "sha1": "5b50dcdcf6e0fe90b8e49405f45f7abd12673592",
+    "fingerprint": [
+     "调试",
+     "DFT"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "调试代码的必要性",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "调试时间是写程序的三四倍；半导体DFT（为测试而设计）同理；坐标等看似冗余的信息利于查错。"
+  },
+  {
+   "claim_id": "C-GG--U0283-07",
+   "unit_id": "GG-U0283",
+   "speaker": "史实",
+   "claim_text": "展讯早期芯片合格率上不去且查不出问题，源于缺DFT测试电路；补上后出厂好坏即知",
+   "quote": "合格率就是上不去",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18938,
+    "end_line": 18941,
+    "sha1": "fd6c22038f85b7275ba2484bfbb805858c4ddfe8",
+    "fingerprint": [
+     "李力游",
+     "DFT"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "展讯补DFT救合格率",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "E3专名案例+可迁移机理（为测试而设计）；李力游自博通任CEO后补上DFT一环。"
+  },
+  {
+   "claim_id": "C-GG--U0283-08",
+   "unit_id": "GG-U0283",
+   "speaker": "吴军本人",
+   "claim_text": "解最短路径问题先清晰定义长短标准，其算法与图的遍历算法相通",
+   "quote": "清晰地定义问题",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18942,
+    "end_line": 18946,
+    "sha1": "aff9b07c0d8d155828073f3af24a3a5af42de930",
+    "fingerprint": [
+     "最短路径",
+     "相通性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "先定义长短再解最短路径",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "互联网中路径长短=经过服务器数而非光纤长度；遍历中记录到当前点最短路径即可。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0283",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题与次日Google面试题预告为运营互动内容"
+  },
+  {
+   "unit_id": "GG-U0283",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "中美半导体差距论（做事急/懒得设计测试电路）为2018年时点行业判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第172封信正文：递归/科学与工程/测试容错/最短路径，成卡8张；思考题与中美差距论记X1/X2。"
+}

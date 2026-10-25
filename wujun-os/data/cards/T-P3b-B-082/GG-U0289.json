@@ -1,0 +1,134 @@
+{
+ "unit_id": "GG-U0289",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0289-01",
+   "unit_id": "GG-U0289",
+   "speaker": "吴军本人",
+   "claim_text": "找工作要选注重培养人的单位，尤其一开始，不要把目光都盯在那点工资上",
+   "quote": "注重培养人的单位",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19355,
+    "end_line": 19358,
+    "sha1": "30e30a23eb458b62f432c17be152f77d28175e8d",
+    "fingerprint": [
+     "黄埔军校",
+     "培养"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "找注重培养人的单位",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-1497第一份工作以成长为目标（见识），跨书线索；早期微软亚研/谷歌中国=黄埔军校例证。"
+  },
+  {
+   "claim_id": "C-GG--U0289-02",
+   "unit_id": "GG-U0289",
+   "speaker": "吴军本人",
+   "claim_text": "花多少心思培养年轻人，几年后差别巨大；培养人不能只靠大师，需要认真负责的团队",
+   "quote": "差别巨大的结果",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19355,
+    "end_line": 19360,
+    "sha1": "dfaabd366773bc4571bd8ba94d8ada77c4295ef8",
+    "fingerprint": [
+     "培养",
+     "团队"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "培养人靠梯队",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "本信总结句1（19394）用“梯队”表述；MIT教授与助教共同设计作业、助教每周20小时辅导为例证。"
+  },
+  {
+   "claim_id": "C-GG--U0289-03",
+   "unit_id": "GG-U0289",
+   "speaker": "吴军本人",
+   "claim_text": "学工程不等于将来要做工程，目的是掌握可迁移的工程思维",
+   "quote": "而是掌握工程思维",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19395,
+    "end_line": 19395,
+    "sha1": "03dbac5293a7097954eb76544831c66379aadccd",
+    "fingerprint": [
+     "工程思维"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D02-2"
+   ],
+   "concept_key": "学工程为掌握工程思维",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "本信总结句2；MIT学生后来学医法金比例极高，学校以养成工程思维为教育目的。"
+  },
+  {
+   "claim_id": "C-GG--U0289-04",
+   "unit_id": "GG-U0289",
+   "speaker": "吴军本人",
+   "claim_text": "今天想做成大事，合作与跨学科交叉融合必不可少",
+   "quote": "合作与交叉融合很重要",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19391,
+    "end_line": 19396,
+    "sha1": "c66fb3ba5e55836ff14d7e2b124c4b381018cdf8",
+    "fingerprint": [
+     "交叉融合",
+     "跨学科"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D10-1"
+   ],
+   "concept_key": "合作与交叉融合",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "本信总结句3；清华邱勇请建交叉融合实验室借鉴MIT；重大科研突破多出自跨学科合作。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0289",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "MIT招生（70%看成绩/先修课）、教学安排、给分与GPA制度等属教育制度内容"
+  },
+  {
+   "unit_id": "GG-U0289",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题（工程思维的体会）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第176封信：教育制度叙述为主（X5），抽培养单位/梯队/工程思维/交叉融合4张可迁移卡。"
+}

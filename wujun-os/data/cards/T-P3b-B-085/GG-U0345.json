@@ -1,0 +1,107 @@
+{
+  "unit_id": "GG-U0345",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0345-01",
+      "unit_id": "GG-U0345",
+      "speaker": "转述·第三方",
+      "claim_text": "成熟的人的标志是愿意为某种事业卑贱地活着，而非为事业勇敢去死",
+      "quote": "愿意为某种事业卑贱地活着",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22986,
+        "end_line": 22986,
+        "sha1": "2812676bdd0306f4bb8517016117aced3a372cf4",
+        "fingerprint": [
+          "成熟",
+          "活着"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "卑贱地活着",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=塞林格《麦田里的守望者》安多里尼先生（22986）。"
+    },
+    {
+      "claim_id": "C-GG-U0345-02",
+      "unit_id": "GG-U0345",
+      "speaker": "吴军本人",
+      "claim_text": "我们都曾像霍尔顿：把自己当小大人骂骂咧咧凡事无所谓，但真正遇到事就秒怂了、没有担当——长大后学会讲道理，回头看会心一笑",
+      "quote": "真正遇到事，就秒怂了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22992,
+        "end_line": 22994,
+        "sha1": "660170521d0e830230585627ef77bf56837cca65",
+        "fingerprint": [
+          "霍尔顿",
+          "担当"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "青春的怂与成长",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "名作超越时空、人性相似（22998）。"
+    },
+    {
+      "claim_id": "C-GG-U0345-03",
+      "unit_id": "GG-U0345",
+      "speaker": "转述·第三方",
+      "claim_text": "嬉皮士记者自述：当年比谁的牛仔裤脏，70年代都穿西装回归社会——少数依然穿肮脏牛仔裤的今天还在伯克利街头要饭",
+      "quote": "回归了社会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22995,
+        "end_line": 22996,
+        "sha1": "e551d97d601bc0566671aee4878e15cea7f3af26",
+        "fingerprint": [
+          "嬉皮士",
+          "牛仔裤"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "嬉皮士的归宿",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=参加过嬉皮士运动的记者（22995）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0345",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "22962-22990行《麦田里的守望者》情节复述与影响史为艺术赏析内容"
+    },
+    {
+      "unit_id": "GG-U0345",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "23000-23001行思考题（时代是否不同）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第211封信：麦田里的守望者（赏析X8，可迁移3卡）。"
+}

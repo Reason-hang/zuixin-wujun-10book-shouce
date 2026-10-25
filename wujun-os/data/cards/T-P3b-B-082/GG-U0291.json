@@ -1,0 +1,71 @@
+{
+ "unit_id": "GG-U0291",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0291-01",
+   "unit_id": "GG-U0291",
+   "speaker": "吴军本人",
+   "claim_text": "过去的好时光可能只存在于想象中，一个世纪前上层生活未必好过今天中产",
+   "quote": "只存在于人们的想象中",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19503,
+    "end_line": 19504,
+    "sha1": "9da0b8d673a104ca99fec1f7fd45e721f868e151",
+    "fingerprint": [
+     "好时光"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "过去的好时光是想象",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-1750过去更公平是臆想、CK-1751过去远不如现在（格局），跨书线索；皇家新月1号别墅细节（无抽水马桶/半月不洗头）为证。"
+  },
+  {
+   "claim_id": "C-GG--U0291-02",
+   "unit_id": "GG-U0291",
+   "speaker": "吴军本人",
+   "claim_text": "光读万卷书得不到切身感受，身临其境才能感受历史的浩瀚",
+   "quote": "才能感受到历史的浩瀚",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19525,
+    "end_line": 19525,
+    "sha1": "d10db04de9c6f5c0e785dc6063fe09a65cf527fb",
+    "fingerprint": [
+     "万卷书",
+     "身临其境"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "身临其境的价值",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-0449亲历才学会（富足），跨书线索；巨石阵4500年之感的触发语境为游记。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0291",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "巴斯/索尔兹伯里/巨石阵行程景观叙述为主体，仅抽2条游记中偶发的可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "游记单元：X3为主，抽出怀旧之辨与身临其境2条可迁移判断。"
+}

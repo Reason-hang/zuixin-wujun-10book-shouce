@@ -1,0 +1,157 @@
+{
+  "unit_id": "GG-U0327",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0327-01",
+      "unit_id": "GG-U0327",
+      "speaker": "吴军本人",
+      "claim_text": "不要轻易惹怒一头大象：不挑战巨头的基本盘，大象动作慢，但它真踩你一脚你受不了。",
+      "quote": "千万不要轻易惹怒一头大象",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21852,
+        "end_line": 21856,
+        "sha1": "bd0b211664892de2c3aa5c8daeee0768d7938aaf",
+        "fingerprint": [
+          "大象",
+          "基本盘"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "不要轻易惹怒大象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "盖茨靠IBM PC合同起家而不碰大型机与IT服务基本盘；IBM未把占1%营业额的PC当战略"
+    },
+    {
+      "claim_id": "C-GG-U0327-02",
+      "unit_id": "GG-U0327",
+      "speaker": "吴军本人",
+      "claim_text": "盖茨的胜利是看清未来、站对方向的成功：PC乘摩尔定律性能价格倍增，站对时代方向比做得更好更重要。",
+      "quote": "看清了未来之路，站对了方向",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21857,
+        "end_line": 21858,
+        "sha1": "e2f4c8bf18b108c52e48e07f3f507cdcac6fc4b7",
+        "fingerprint": [
+          "摩尔定律",
+          "方向"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-2"
+      ],
+      "concept_key": "站对时代方向",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "阿姆达尔站反方向（大型机走下坡）；DOS五美元/PC机制为史实背景"
+    },
+    {
+      "claim_id": "C-GG-U0327-03",
+      "unit_id": "GG-U0327",
+      "speaker": "吴军本人",
+      "claim_text": "只在一个点上与巨头竞争，其余交给整个产业同盟去争，从而创造出巨头没有位置的新产业。",
+      "quote": "把竞争交给了整个IT产业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21859,
+        "end_line": 21861,
+        "sha1": "f59eed9437541654125280ed8525777401bd2de7",
+        "fingerprint": [
+          "操作系统",
+          "新产业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "一点竞争与产业同盟",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Wintel+戴尔/惠普/联想等分工 vs IBM全产业链旧规则；OS/2与FUD对盖茨失灵为史实"
+    },
+    {
+      "claim_id": "C-GG-U0327-04",
+      "unit_id": "GG-U0327",
+      "speaker": "吴军本人",
+      "claim_text": "挑战大公司要打非对称、不需要设防的战争：不造产品只握核心专利，对方无从反攻；很多时候'无'比'有'更安全。",
+      "quote": "非对称、不需要设防的战争",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21866,
+        "end_line": 21874,
+        "sha1": "b5b0dcafc0eb9da42a80dd330eb89c886a85e03f",
+        "fingerprint": [
+          "专利",
+          "非对称"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "非对称不设防之战",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高通3G前只收专利费不造产品；'无比有更安全'的辩证法与长城游牧之喻在21876-21878锚外并入"
+    },
+    {
+      "claim_id": "C-GG-U0327-05",
+      "unit_id": "GG-U0327",
+      "speaker": "吴军本人",
+      "claim_text": "不在性能和价格上与现有产品硬拼，而是通过设计与工程把它变成别的产品，重新定义产业。",
+      "quote": "然后重新定义产业",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21885,
+        "end_line": 21891,
+        "sha1": "b489294e2e6b6d3377003e23b0d02794a4fb9126",
+        "fingerprint": [
+          "重新定义",
+          "跑车"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "重新定义产业",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "保时捷让跑车可日常驾驶且亲民（流水线降本1/3）；尼康佳能球面镜组合替代手工非球面镜；申学'不拼成绩拼特色'为应用例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0327",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "盖茨买DOS转售、IBM OS/2竞争史、维特比与高通生平、保时捷父子家族史均为人物/企业史叙述，方法论已另抽"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第200封信以三位成功者案例抽5条可迁移竞争方法论，人物企业史记X4"
+}

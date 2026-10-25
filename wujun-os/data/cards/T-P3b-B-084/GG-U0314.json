@@ -1,0 +1,121 @@
+{
+  "unit_id": "GG-U0314",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0314-01",
+      "unit_id": "GG-U0314",
+      "speaker": "吴军本人",
+      "claim_text": "三门问题中一开始选错概率是2/3，主持人开门等于知情人给出信息，换门把1/3胜率换成2/3，应该更换选择。",
+      "quote": "游戏者显然应该更换选择",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20969,
+        "end_line": 20977,
+        "sha1": "bddfc8ace59dd0259db945ea9d4b00b7de3ad72f",
+        "fingerprint": [
+          "知情人",
+          "更换选择"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "三门问题换门",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概率原理卡；主持人=知情人，其信息要好好利用；引出后文听建议方法论"
+    },
+    {
+      "claim_id": "C-GG-U0314-02",
+      "unit_id": "GG-U0314",
+      "speaker": "吴军本人",
+      "claim_text": "平时选择分三种：有明确答案的、经验能缩小搜索范围的、全看自己的；只有第二种需要听有经验者的建议以排除不可能。",
+      "quote": "帮助我们排除各种不可能的情况",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20978,
+        "end_line": 20984,
+        "sha1": "cd337128a583305c839c275565621d73d59125c2",
+        "fingerprint": [
+          "三种",
+          "搜索的范围"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "听建议的选择三分法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "结论句回答'哪类选择需要听谁的建议'；贾里尼克'20年前IBM试过'例证并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0314-03",
+      "unit_id": "GG-U0314",
+      "speaker": "吴军本人",
+      "claim_text": "区别建议好坏三步：先排除经验不足或只有失败教训的人；再核对经验的前提条件；极不确定时找不同角度有经验者交叉验证。",
+      "quote": "经验不足，或者只有失败教训的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20989,
+        "end_line": 20999,
+        "sha1": "525b98271d196490b5d29ea36413e1799e833aeb",
+        "fingerprint": [
+          "前提条件",
+          "交叉验证"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "区别建议好坏三步法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡；共享房屋vs充电宝为例；'两个'不是关键，有经验+不同角度才是"
+    },
+    {
+      "claim_id": "C-GG-U0314-04",
+      "unit_id": "GG-U0314",
+      "speaker": "吴军本人",
+      "claim_text": "做事切忌死脑筋：获得有用信息后要重新审视决定，该坚持坚持、该改变改变，都要再想一想。",
+      "quote": "要重新审视我们的决定",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20996,
+        "end_line": 21001,
+        "sha1": "c2c3a547bb69e127585245f0fc85c65404964809",
+        "fingerprint": [
+          "死脑筋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "新信息后重新审视决定",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三门问题的可迁移结论：概率更新则决策要重审"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第193封信主体为听建议方法论与三门问题概率原理，吴军本人判断成卡"
+}

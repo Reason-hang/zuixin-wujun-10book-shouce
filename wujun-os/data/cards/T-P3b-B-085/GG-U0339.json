@@ -1,0 +1,207 @@
+{
+  "unit_id": "GG-U0339",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0339-01",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "滞后效应：趋势要改变原先的状态通常不能立竿见影——冬至后温度仍降（入不敷出到新平衡）；J曲线是滞后效应在政治经济中的表现",
+      "quote": "滞后效应",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22569,
+        "end_line": 22572,
+        "sha1": "fb94e0f8224d7c7fd7bb364aec2e8014d57e1407",
+        "fingerprint": [
+          "冬至",
+          "立竿见影"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "滞后效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0339-02",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "慢三拍：做事不成常不是想法不对而是忽视滞后效应、没看到效果就匆忙改策略——决定方向时慢一点，一旦决定更改前更要慢",
+      "quote": "慢三拍",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22573,
+        "end_line": 22576,
+        "sha1": "a6267d005ebd774b708e38587d82e6db89ec4dda",
+        "fingerprint": [
+          "滞后",
+          "坚持"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "慢三拍",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "经验不是复制上次成功，而是知道看不到前途时该坚持还是退回（22575）。"
+    },
+    {
+      "claim_id": "C-GG-U0339-03",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "年轻人坚持一个方向足够长时间都会有效果——无论出国还是国内，就怕东一榔头西一棒子变来变去",
+      "quote": "坚持一个方向足够长的时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22576,
+        "end_line": 22577,
+        "sha1": "12f164ada06cb0d2b1de7ae259d59f79b7361166",
+        "fingerprint": [
+          "方向",
+          "东一榔头"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "一方向够久",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0339-04",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "滞后效应决定一辈子能做的事有限：一个决定三年后才能看到结果——股市劳模频繁换股不得好报，巴菲特几年研究一只、持有几十年",
+      "quote": "一辈子就不要研究太多种股票了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22578,
+        "end_line": 22580,
+        "sha1": "1af6485125f088c5d513a2ccd1b739a83266921b",
+        "fingerprint": [
+          "滞后",
+          "巴菲特"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-1"
+      ],
+      "concept_key": "少决策长持有",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专业投资团队几个月研究一只、决定后几年不改变（22579）。"
+    },
+    {
+      "claim_id": "C-GG-U0339-05",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "凡是大的改动需要一点点来：改动初期可能有相反效果，太大则短期反作用无法承受、等不到J曲线向上那天",
+      "quote": "需要一点点来",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22581,
+        "end_line": 22584,
+        "sha1": "5243a1306b203fcacb0b213653a636734389dddf",
+        "fingerprint": [
+          "改动",
+          "动作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "大改渐进来",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高尔夫名将达斯汀·约翰逊四个月只改一个小动作、期间成绩低谷（22583）；一次改所有毛病可能断送职业生涯（22584）；保守主义渐进改良的原因即在此（22586）。"
+    },
+    {
+      "claim_id": "C-GG-U0339-06",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "减肥成功的系统渐进法：先降体重再椭圆机、肌肉能支撑后才加强运动——多数人减肥失败因不系统不渐进、指望一步到位",
+      "quote": "不系统，不渐进",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22589,
+        "end_line": 22592,
+        "sha1": "4340a271f86406fcd8b235d21786903585e97ae3",
+        "fingerprint": [
+          "减肥",
+          "椭圆机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-1"
+      ],
+      "concept_key": "系统渐进减重",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "同事一年减60斤的实操路径（22590-22591）；运动过猛反而伤身（22589）。"
+    },
+    {
+      "claim_id": "C-GG-U0339-07",
+      "unit_id": "GG-U0339",
+      "speaker": "吴军本人",
+      "claim_text": "广告的即时效应与滞后效应要合理分配：转换广告立竿见影但累积差；品牌广告滞后但形成忠诚——J形曲线、长线投资",
+      "quote": "对整个品牌的长线投资",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22594,
+        "end_line": 22599,
+        "sha1": "a6cddcf6953eae0db647ab42f29a0369ca8a9d48",
+        "fingerprint": [
+          "品牌",
+          "即时"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "品牌的长线投资",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "奥格威：品牌是属性名称包装历史声誉广告方式的无形总和、每则广告都是长线投资（22599，转述留痕）；认知到购买欲要几周几月（22596）；可口可乐宝洁雅诗兰黛皆懂配比（22598）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第207封信：冬至夏至与滞后效应（7卡）。"
+}

@@ -1,0 +1,44 @@
+{
+  "unit_id": "GG-U0315",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0315-01",
+      "unit_id": "GG-U0315",
+      "speaker": "吴军本人",
+      "claim_text": "对世界的认识从可触摸、可经历的历史与文化中得到加深，亲身经历是认识世界的途径。",
+      "quote": "从这种可触摸的经历中得到了加深",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21038,
+        "end_line": 21050,
+        "sha1": "8840d382cabf40c1b8d77bb78bd3e39639329cf9",
+        "fingerprint": [
+          "可触摸"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "经历加深对世界的认识",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "游记中唯一的可迁移判断；叙述本体按X3处置"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0315",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "英伦之旅坎特伯雷与多佛以行程、见闻、宗教史叙述为主体，仅抽结尾'经历加深认识'一条方法论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元按批次特则X3只抽方法论，抽1张经历与认识卡"
+}

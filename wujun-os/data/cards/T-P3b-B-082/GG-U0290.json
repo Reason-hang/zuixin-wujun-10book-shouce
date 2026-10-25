@@ -1,0 +1,189 @@
+{
+ "unit_id": "GG-U0290",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0290-01",
+   "unit_id": "GG-U0290",
+   "speaker": "吴军本人",
+   "claim_text": "要做就做有水平、动静大、让人记住的事；有创意有技术还要愿意付诸行动",
+   "quote": "有水平的、动静大的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19420,
+    "end_line": 19424,
+    "sha1": "31cad0041bf173f54cd0ee4481ee4d411898bb66",
+    "fingerprint": [
+     "创意",
+     "付诸行动"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "要做就做出水平",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "加州理工改MIT横幅之争胜在有创意有技术且行动；北大清华校门举牌式踢场子为反例。"
+  },
+  {
+   "claim_id": "C-GG--U0290-02",
+   "unit_id": "GG-U0290",
+   "speaker": "吴军本人",
+   "claim_text": "做事情起步阶段要有灵魂人物，由其吸引资源与顶尖人才加盟",
+   "quote": "一个灵魂人物",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19437,
+    "end_line": 19440,
+    "sha1": "3d124bd9ea70c0d932df0cfdaa4743f9ca8207f8",
+    "fingerprint": [
+     "黑尔",
+     "密立根"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "起步靠灵魂人物",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "黑尔吸引赞助与密立根等顶尖学者，斯鲁普技校→世界一流；本信经验4“灵魂人物很重要”同旨。"
+  },
+  {
+   "claim_id": "C-GG--U0290-03",
+   "unit_id": "GG-U0290",
+   "speaker": "吴军本人",
+   "claim_text": "目的性很重要：只追求属于自己的，不眼红自己难以做到的",
+   "quote": "只追求属于我们的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19467,
+    "end_line": 19467,
+    "sha1": "e9a88b1e43bdde6ddc564ab4553bbe5a0eb4c2e8",
+    "fingerprint": [
+     "目的性",
+     "眼红"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-2"
+   ],
+   "concept_key": "只追求属于自己的",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "加州理工经验1；研究只突出重点、不做则已要做就做有影响力的事（19458）同旨。"
+  },
+  {
+   "claim_id": "C-GG--U0290-04",
+   "unit_id": "GG-U0290",
+   "speaker": "吴军本人",
+   "claim_text": "一个100分比10个90分强得多：要么不做，要做就做极致有影响力的事",
+   "quote": "比10个90分强得多",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19458,
+    "end_line": 19469,
+    "sha1": "df085f0ef54725eaa277ffca00708f38efdd35cd",
+    "fingerprint": [
+     "100分",
+     "影响力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "一个100分胜过10个90分",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "加州理工经验2；近族CK-0523低水平多做不如集中做好（见识）、CK-1839集中一点实现等级跃迁（富足）；“要么0要么1”布尔值之说并入。"
+  },
+  {
+   "claim_id": "C-GG--U0290-05",
+   "unit_id": "GG-U0290",
+   "speaker": "吴军本人",
+   "claim_text": "管理方法须与机构规模匹配：小机构做法照搬到大机构会出问题，早期经验十年后已过时",
+   "quote": "只适合很小的机构",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19471,
+    "end_line": 19471,
+    "sha1": "81e684dcc3019e167ae8bfef24cca1e7b0650d5e",
+    "fingerprint": [
+     "早期员工",
+     "管理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "方法须匹配组织规模",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "加州理工经验3；Google文化类书写自几百人时期，今日近10万人的Google管理早已不同。"
+  },
+  {
+   "claim_id": "C-GG--U0290-06",
+   "unit_id": "GG-U0290",
+   "speaker": "吴军本人",
+   "claim_text": "在工作中找到适合自己的地方、在生活中找到适合自己的人，比什么都重要",
+   "quote": "比什么都重要",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19474,
+    "end_line": 19475,
+    "sha1": "ac6a8435df069f81abd1e56d0d16f015992465ab",
+    "fingerprint": [
+     "适合自己的地方"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "适合的位置与人",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "选校建议（诺奖选加州理工/工程思维选MIT）并入本卡为例证。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0290",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "加州理工招生培养制度（只关注前5%/不反对偏科/淘汰率）与校史叙述属教育制度史"
+  },
+  {
+   "unit_id": "GG-U0290",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "赵忠尧正电子、JPL航天项目等纯科学史实叙述，无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第177封信：校史与制度叙述为主（X4/X5），抽6张可迁移方法论卡。"
+}

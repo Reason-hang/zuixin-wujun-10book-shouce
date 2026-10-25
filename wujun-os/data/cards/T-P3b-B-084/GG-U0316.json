@@ -1,0 +1,265 @@
+{
+  "unit_id": "GG-U0316",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0316-01",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "马虎的第一原因是技不如人：粗心错误背后都有概念技能不牢的原因，对策是把基本概念、技能、规范理解透。",
+      "quote": "把基本的概念、技能、规范理解透",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21073,
+        "end_line": 21079,
+        "sha1": "e11a93229e792922f7b65a5118701c27876c2947",
+        "fingerprint": [
+          "技不如人",
+          "基本功"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D02-2"
+      ],
+      "concept_key": "马虎源于基本功不牢",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "答读者问48第一问；'没想到'不是借口、人人天生有疏漏的前提并入本卡；负数概念例证"
+    },
+    {
+      "claim_id": "C-GG-U0316-02",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "人必定有犯错误的概率，规范正因此存在；不守规矩图快会留下隐患，且习惯一旦养成就难改。",
+      "quote": "人必定有一定的犯错误的概率",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21080,
+        "end_line": 21085,
+        "sha1": "33fba58ddfcb0ebc1d6fca80848e04d2bd5cf575",
+        "fingerprint": [
+          "规矩",
+          "弯道超车"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "犯错误概率与守规矩",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "马虎第二因；父母实验室'门窗户电气'例证；批评以快速迭代为借口不守规矩"
+    },
+    {
+      "claim_id": "C-GG-U0316-03",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "按固定思维检查发现不了漏洞，要换一种方式交叉验证，从另一个角度看问题才能看到全貌。",
+      "quote": "从另一个角度看问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21086,
+        "end_line": 21088,
+        "sha1": "0eae322900f3b103bec1c902479b8199c901a02b",
+        "fingerprint": [
+          "交叉验证",
+          "全貌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "换角度交叉验证查漏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "马虎第三因；代数题代解回验例证；与U0314-03交叉验证听建议互参"
+    },
+    {
+      "claim_id": "C-GG-U0316-04",
+      "unit_id": "GG-U0316",
+      "speaker": "史实",
+      "claim_text": "李开复上CBS演示语音识别时带两台独立系统，把10%宕机率降到1%：独立冗余能相乘地降低出错概率。",
+      "quote": "两台独立的系统同时出错",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21090,
+        "end_line": 21093,
+        "sha1": "773e2b7fbc33c3190b4f499353a86bca12546446",
+        "fingerprint": [
+          "李开复",
+          "宕机"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "独立冗余降错误率",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理成E3；支撑02/03两卡的可靠性思路"
+    },
+    {
+      "claim_id": "C-GG-U0316-05",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "用帮人做事讨好赢得好感其实是自卑，自卑的人无论怎么讨好都无法赢得尊重，要敢于拒绝占便宜的人。",
+      "quote": "讨好对方都无法赢得对方尊重",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21100,
+        "end_line": 21105,
+        "sha1": "8e36012e8270d3b8f72e6ee71e660420e069b0b3",
+        "fingerprint": [
+          "自卑",
+          "渣男"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "自卑讨好换不来尊重",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "答Dorset问；'渣男/心机女利用不自信'类比职场同事"
+    },
+    {
+      "claim_id": "C-GG-U0316-06",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "工作是个人与单位间的契约，接受了任务就要在上班时间把答应的事做好，不能因人情私事荒废。",
+      "quote": "自己和单位之间的一个契约合同",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21103,
+        "end_line": 21105,
+        "sha1": "86b9e99a76004adb64d32670ff5d3e35fb713569",
+        "fingerprint": [
+          "契约",
+          "责任感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-3"
+      ],
+      "concept_key": "工作即契约责任",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与05同答Dorset问；接站/夜店两例为不守契约反例"
+    },
+    {
+      "claim_id": "C-GG-U0316-07",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "书是写给特定读者群的，不要指望每个人都读懂；把读者群定位清楚，有几个公式也不可怕。",
+      "quote": "很多书是给特定读者群阅读的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21111,
+        "end_line": 21112,
+        "sha1": "a7e3836d9364052855bd7917381d2bd045cfe3e6",
+        "fingerprint": [
+          "读者群",
+          "公式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "写给特定读者群",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "答马克李问；霍金编辑'每多一条公式少10%读者'为转述并入，不单列"
+    },
+    {
+      "claim_id": "C-GG-U0316-08",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "技术大势已定时，大部分人应成为一流的利用技术的人，而不是四流五流的从业者。",
+      "quote": "成为一流的利用互联网的人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21118,
+        "end_line": 21120,
+        "sha1": "51fd8b5de1caebf290565034b05bebbed3438a3b",
+        "fingerprint": [
+          "从业者",
+          "大趋势"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "做一流的技术利用者",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答Dan问；'感觉是大趋势却不肯定=对趋势认同犹豫'为时点判断并入notes；Python/Java建议为时效内容"
+    },
+    {
+      "claim_id": "C-GG-U0316-09",
+      "unit_id": "GG-U0316",
+      "speaker": "吴军本人",
+      "claim_text": "等需要合作时才去找合作者就晚了；平时就要关注周围的人、与志同道合者建立友谊，主动性从入职第一天开始。",
+      "quote": "才去寻找好的合作者，就已经晚了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21127,
+        "end_line": 21128,
+        "sha1": "8accc986129a38b851bc087c431b9d0b271d0455",
+        "fingerprint": [
+          "合作者",
+          "主动性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "合作者要平时积累",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "答天马行空问；库旦普'与每个同事吃一次午饭'为转述例证并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0316",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问部分（一只小二虎/Dorset/马克李/Dan/天马行空的发言）为读者来信原文，不入卡，只抽吴军回应"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问48五组问答，吴军回应均含可独立成立判断，成9卡；读者发言按X7处置"
+}

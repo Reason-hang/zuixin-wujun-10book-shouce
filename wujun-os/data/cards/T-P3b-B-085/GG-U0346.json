@@ -1,0 +1,136 @@
+{
+  "unit_id": "GG-U0346",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0346-01",
+      "unit_id": "GG-U0346",
+      "speaker": "吴军本人",
+      "claim_text": "与半大孩子沟通要细心：书写比讲话慢、说出口前有时间思考——不能有了看法随嘴就说",
+      "quote": "有时间思考",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 23010,
+        "end_line": 23010,
+        "sha1": "37bde5b91c217e050b142921cef458f1c35b6404",
+        "fingerprint": [
+          "书写",
+          "沟通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "书写慢故深思",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "《态度》给孩子写邮件的原因（23010）。"
+    },
+    {
+      "claim_id": "C-GG-U0346-02",
+      "unit_id": "GG-U0346",
+      "speaker": "吴军本人",
+      "claim_text": "几乎所有20岁年轻人都必须面临'成为维特'的问题——代入感是小说魅力；悲剧常比喜剧更具震撼力",
+      "quote": "成为一个维特",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 23029,
+        "end_line": 23032,
+        "sha1": "5091c0e4a83b055ae544a9bf8dad925c57e9d8c9",
+        "fingerprint": [
+          "维特",
+          "悲剧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "人人皆维特",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "政治目的的解读牵强、偏离歌德本意（23029）。"
+    },
+    {
+      "claim_id": "C-GG-U0346-03",
+      "unit_id": "GG-U0346",
+      "speaker": "吴军本人",
+      "claim_text": "维特与绿蒂的悲剧只是命运的捉弄，并非做错事也非时代问题——永远没有完美的时代；即使结婚、婚后幸福也是大问号",
+      "quote": "命运的捉弄",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 23032,
+        "end_line": 23034,
+        "sha1": "60f74f96bdbec4ad9ef7d61845dc51ea50128b0a",
+        "fingerprint": [
+          "完美",
+          "柏辽兹"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "命运捉弄非时代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "柏辽兹与史密荪梦幻爱情成婚姻悲剧（23034）。"
+    },
+    {
+      "claim_id": "C-GG-U0346-04",
+      "unit_id": "GG-U0346",
+      "speaker": "吴军本人",
+      "claim_text": "走出维特式烦恼的唯一办法就是时间：父母除非孩子主动求助，否则不要主动给建议、只会适得其反",
+      "quote": "唯一办法，就是时间",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 23037,
+        "end_line": 23039,
+        "sha1": "7f4dac24843d0ebd0c7812164108248af0fa3bcb",
+        "fingerprint": [
+          "代沟",
+          "建议"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-1"
+      ],
+      "concept_key": "时间解维特烦恼",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "让孩子自己摸索道路（23039）；人走出维特烦恼的过程就是成长（23041）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0346",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "23012-23028行《少年维特之烦恼》情节与歌德生平为艺术赏析内容"
+    },
+    {
+      "unit_id": "GG-U0346",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "23043-23044行思考题（走出烦恼/弥补代沟）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第212封信：我们都曾是少年维特（赏析X8，可迁移4卡）。"
+}

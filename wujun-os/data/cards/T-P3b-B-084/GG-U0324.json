@@ -1,0 +1,188 @@
+{
+  "unit_id": "GG-U0324",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0324-01",
+      "unit_id": "GG-U0324",
+      "speaker": "吴军本人",
+      "claim_text": "大多数失败者不知道自己为什么失败，失败教训未必能指导成功；学本事要找好教练，而不是输过很多比赛的人。",
+      "quote": "失败者不知道自己为什么失败",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21689,
+        "end_line": 21693,
+        "sha1": "de97e3377aaae37af60e775435be76d31aacb814",
+        "fingerprint": [
+          "教训",
+          "概率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "失败者教训的局限",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "1+1≠3知道了也没用；对专业人士抵触的想法很危险"
+    },
+    {
+      "claim_id": "C-GG-U0324-02",
+      "unit_id": "GG-U0324",
+      "speaker": "吴军本人",
+      "claim_text": "世界上没有保证成功的因果关系，只有概率大小；成功者经验未必再次应验但概率更大，大部分问题问真正懂行的人就有答案。",
+      "quote": "只有概率的大和小",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21692,
+        "end_line": 21693,
+        "sha1": "9a74b756442ef1bba408299563cf3939cb602c05",
+        "fingerprint": [
+          "概率",
+          "答案"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-2"
+      ],
+      "concept_key": "无保证因果只有概率",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1306正确方法使成功成大概率互参；答陈C/笨小孩幸存者偏误之问"
+    },
+    {
+      "claim_id": "C-GG-U0324-03",
+      "unit_id": "GG-U0324",
+      "speaker": "吴军本人",
+      "claim_text": "现实不因担忧而消失：担忧无意义、做鸵鸟更不应该；知道问题后要积极行动，即使不能解决全部也能让事情不那么坏。",
+      "quote": "做鸵鸟更是不应该",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21700,
+        "end_line": 21702,
+        "sha1": "0f5b1f696a3edfe22cf691f4ee726993dc7c406a",
+        "fingerprint": [
+          "鸵鸟",
+          "隐私"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D05-1"
+      ],
+      "concept_key": "担忧无意义要行动",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答吖问（大公司AI放大意志）；'为免费欢呼种下因'并入；问题即机遇与C-GG-U0317-01互引"
+    },
+    {
+      "claim_id": "C-GG-U0324-04",
+      "unit_id": "GG-U0324",
+      "speaker": "吴军本人",
+      "claim_text": "大数据的威力很大程度来自多维度：单一维度只是传统统计、总有例外，跨领域多维数据才能真正解决问题。",
+      "quote": "来自于它的多维度特点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21710,
+        "end_line": 21715,
+        "sha1": "6cde899c67edcae476818b8b40e21ece97b5b55a",
+        "fingerprint": [
+          "多维度",
+          "反欺诈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "大数据威力在多维度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "蚂蚁金服多维数据把欺诈比例降低一个数量级；'AI不能突破设计者智能'与C-GG-U0319-01互引"
+    },
+    {
+      "claim_id": "C-GG-U0324-05",
+      "unit_id": "GG-U0324",
+      "speaker": "吴军本人",
+      "claim_text": "人造数学概念像化学反应催化剂：把复杂现实问题变简单，问题解决后就不再起作用。",
+      "quote": "想象为化学反应的催化剂",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21723,
+        "end_line": 21727,
+        "sha1": "eaeb4de4bd576d3de0acbf95ae1d130759a08f41",
+        "fingerprint": [
+          "催化剂",
+          "复变函数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "数学概念如催化剂",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "i的平方根用复平面极坐标一解即出；电路原理/信号处理的基础是复变函数"
+    },
+    {
+      "claim_id": "C-GG-U0324-06",
+      "unit_id": "GG-U0324",
+      "speaker": "吴军本人",
+      "claim_text": "任何纯粹数学，最终都是应用数学。",
+      "quote": "任何纯粹数学，最终都是应用数学",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21729,
+        "end_line": 21730,
+        "sha1": "e28b812ccde763c8a7991f8cd9618707a1cb6198",
+        "fingerprint": [
+          "纯粹数学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "纯粹数学终是应用数学",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "欧拉与黎曼工作对今日加密意义重大为例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0324",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "张弓搭箭/陈C/笨小孩/吖/山水及未署名读者的提问原文为读者来信，不入卡"
+    },
+    {
+      "unit_id": "GG-U0324",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "AI英语教育市场规模、'国家数据优势'之争、数据税与大公司AI治理等判断依附2018年数据产业时点"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问49五组回应含独立判断成6卡；读者原文与时点性数据产业判断记X"
+}

@@ -1,0 +1,108 @@
+{
+  "unit_id": "GG-U0326",
+  "book_code": "GG",
+  "extractor": "EXT-GG17",
+  "batch_id": "T-P3b-B-084",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0326-01",
+      "unit_id": "GG-U0326",
+      "speaker": "吴军本人",
+      "claim_text": "避免阿姆达尔式失败：不要在别人设计好的战场打仗，不要过分相信自己的技术优势，要适应时代变化、不墨守成规。",
+      "quote": "不要在别人设计好的战场去打仗",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21825,
+        "end_line": 21827,
+        "sha1": "16772c2973d1c802cdd43c84ffc20836e86e9def",
+        "fingerprint": [
+          "战场",
+          "墨守成规"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "阿姆达尔失败三因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式总结：三因=IBM规则市场/低估垄断/输给时代；'阿姆达尔陷阱'概念见下封信21842；'失败教训不能保证成功'与C-GG-U0324-01互引"
+    },
+    {
+      "claim_id": "C-GG-U0326-02",
+      "unit_id": "GG-U0326",
+      "speaker": "吴军本人",
+      "claim_text": "垄断的危害不在提价让客户受损，而在通过降价封死他人进入的可能，使技术停滞、全社会进步放缓。",
+      "quote": "通过降价让其他人没有进入",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21821,
+        "end_line": 21823,
+        "sha1": "e35e51296782c79b8effad0d5e351dc7c6607d5f",
+        "fingerprint": [
+          "垄断",
+          "停滞"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D04-2"
+      ],
+      "concept_key": "垄断封死进入与技术停滞",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "特斯拉把能耗降60%后大家才意识到汽车业十年改进微乎其微；FUD为IBM对付阿姆达尔的商业手段（生平叙述X4侧）"
+    },
+    {
+      "claim_id": "C-GG-U0326-03",
+      "unit_id": "GG-U0326",
+      "speaker": "吴军本人",
+      "claim_text": "投资恪守的原则：不过分相信创始人的技术壁垒（维持不了太久），更相信数据带来的壁垒——时间越长优势越大。",
+      "quote": "更相信数据带来的壁垒",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 21828,
+        "end_line": 21828,
+        "sha1": "01c4b333455202041dffd51603183d0d728495d4",
+        "fingerprint": [
+          "技术壁垒",
+          "数据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-1"
+      ],
+      "concept_key": "技术壁垒不如数据壁垒",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "风险投资视角；2018年时点表述但判断逻辑可迁移"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0326",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "阿姆达尔生平、创办阿姆达尔公司与三部曲公司、IBM的FUD策略与'百万美元杯子'故事为企业史与人物史叙述，方法论已另抽"
+    },
+    {
+      "unit_id": "GG-U0326",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "结尾思考题属运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第199封信企业史载体上抽失败三因/垄断危害/数据壁垒3卡，生平叙述记X4"
+}

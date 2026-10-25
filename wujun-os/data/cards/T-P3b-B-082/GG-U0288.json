@@ -1,0 +1,78 @@
+{
+ "unit_id": "GG-U0288",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0288-01",
+   "unit_id": "GG-U0288",
+   "speaker": "吴军本人",
+   "claim_text": "领导者要有自己的想法和执行力；有创意还要自己能亲手把它实现",
+   "quote": "要有自己的想法",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19319,
+    "end_line": 19320,
+    "sha1": "260211dfb08c30a170ae9f3720ef4d885454d588",
+    "fingerprint": [
+     "恶作剧",
+     "执行力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "领导力两要素",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "既有概念键CK-1865（态度·领导力两要素），跨书线索；MIT恶作剧文化=创意+亲手实现的训练场。"
+  },
+  {
+   "claim_id": "C-GG--U0288-02",
+   "unit_id": "GG-U0288",
+   "speaker": "吴军本人",
+   "claim_text": "凡事做到极致就会出现奇迹；把一件事做到极致，就不用替人打工",
+   "quote": "做到了极致之后，就会出现奇迹",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19322,
+    "end_line": 19325,
+    "sha1": "2559b0b9270594d9ca28ccba247e0ad58590c777",
+    "fingerprint": [
+     "极致",
+     "奇迹"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "做到极致出现奇迹",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "书呆子做到极致即不必打工；哈佛亦强调把事情做到极致（19325互证）；与C-GG-U0287-02互引。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0288",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "MIT校园文化（恶作剧案例/Nerd/数字编号/怪楼）与招生吸引力叙述属教育制度与校园史"
+  },
+  {
+   "unit_id": "GG-U0288",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题（做到极致的好处）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第175封信：MIT文化叙述为主（X5），抽领导力两要素与做到极致2张可迁移卡。"
+}

@@ -1,0 +1,159 @@
+{
+ "unit_id": "GG-U0280",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0280-01",
+   "unit_id": "GG-U0280",
+   "speaker": "吴军本人",
+   "claim_text": "通过劳动改变自身经济地位的原动力是东亚成功之本，靠福利不劳而获则竞争力日衰",
+   "quote": "释放了生产力",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18694,
+    "end_line": 18704,
+    "sha1": "fc0bc6c33d38dc2ff7219bcca59ce3a06a78030f",
+    "fingerprint": [
+     "原动力",
+     "解放了生产力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "劳动改变命运的原动力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "既有概念键CK-0659（格局），跨书线索；改革开放=解放生产力的个案；未来20年宏观预测部分记X6。"
+  },
+  {
+   "claim_id": "C-GG--U0280-02",
+   "unit_id": "GG-U0280",
+   "speaker": "吴军本人",
+   "claim_text": "对一部分人没用的东西在别人那里可能是宝贝，善用这种机会能低成本获得巨大利益",
+   "quote": "在其他人那里可能就是宝贝",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18713,
+    "end_line": 18723,
+    "sha1": "7d5d887e990b200b3e891dc848d6183e023b1044",
+    "fingerprint": [
+     "核废料",
+     "众争勿往"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "无用之物的换位价值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：第三代堆使核废料变燃料、华工晒鱿鱼致富，并入notes；呼应众争勿往（CK-0505/CK-0506）。"
+  },
+  {
+   "claim_id": "C-GG--U0280-03",
+   "unit_id": "GG-U0280",
+   "speaker": "吴军本人",
+   "claim_text": "换了几份工作还没得到升迁，通常存在自己不清楚的弱点，应先请朋友帮助自查",
+   "quote": "某些自己不清楚的弱点",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18733,
+    "end_line": 18738,
+    "sha1": "557e1c647743a91c1dbd02d0e141758cd241429b",
+    "fingerprint": [
+     "自查",
+     "弱点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "未升迁先自查弱点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "读者@瑶问职业突破之回应1；MBA/MPAcc择校属个人化建议不入卡。"
+  },
+  {
+   "claim_id": "C-GG--U0280-04",
+   "unit_id": "GG-U0280",
+   "speaker": "吴军本人",
+   "claim_text": "光靠学校教的东西不足以成为一流专业人士，跟过一流的人能把职业水平和机会提升一大截",
+   "quote": "提升一大截",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18737,
+    "end_line": 18738,
+    "sha1": "67dd9ff85aead4b4456a2c25067afc201d885186",
+    "fingerprint": [
+     "学校教的东西",
+     "一流的会计师"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "跟过一流专业人士",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "读者@瑶问回应3：换工作时一定找到这样的带教人。"
+  },
+  {
+   "claim_id": "C-GG--U0280-05",
+   "unit_id": "GG-U0280",
+   "speaker": "吴军本人",
+   "claim_text": "年轻人试错成本低，多历练多尝试、在工作中思考自己的位置，比在学校苦思冥想更好",
+   "quote": "失败的成本比较低",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 18747,
+    "end_line": 18748,
+    "sha1": "523612de94c055ac072a0e44fe4cec6bd8e4eee8",
+    "fingerprint": [
+     "实习",
+     "试错"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "多历练多尝试",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "读者@杨帆问回应：找各行业人了解+实习验证梦想专业；近族CK-0777早点摔跟头。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0280",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "对中国未来20年持续繁荣的宏观预测及中外国民性经济比较，属宏观时点论断"
+  },
+  {
+   "unit_id": "GG-U0280",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "苹果A12新品发布会与手机/专业相机对比为2018年时点产品评论"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问42：吴军回应含原动力、换位机会、自查带教、多历练5卡；宏观预测与新品评论记X6/X2；读者提问原文不抽。"
+}

@@ -1,0 +1,79 @@
+{
+ "unit_id": "GG-U0287",
+ "book_code": "GG",
+ "extractor": "EXT-GG16",
+ "batch_id": "T-P3b-B-082",
+ "cards": [
+  {
+   "claim_id": "C-GG--U0287-01",
+   "unit_id": "GG-U0287",
+   "speaker": "吴军本人",
+   "claim_text": "谁被众人拿来比较，谁才是真标杆；号称胜过标杆者恰恰反证了标杆的地位",
+   "quote": "那个被“比下去的”才是好的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19200,
+    "end_line": 19204,
+    "sha1": "751ebbe0b806bf271175a7c48ac3b9bf86d3da01",
+    "fingerprint": [
+     "标杆",
+     "保时捷"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "被比较者才是标杆",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例：911 Turbo是超跑标杆；小公司自称强于微软/Google/苹果；大学之争哈佛第一（并入notes）。"
+  },
+  {
+   "claim_id": "C-GG--U0287-02",
+   "unit_id": "GG-U0287",
+   "speaker": "吴军本人",
+   "claim_text": "判断一个人潜力的方法是看他在一个领域做到极致（全国或州级胜出），同时书读得不算差",
+   "quote": "在一个领域做到极致",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 19229,
+    "end_line": 19230,
+    "sha1": "264ce3afc5467c7a0c4846011da2c48a331d82c2",
+    "fingerprint": [
+     "极致",
+     "毅力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "一个领域做到极致",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "近族CK-0558做到极致（态度）；仅学霸将来成功概率太低，哈佛仅7%新生为纯学霸。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0287",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "哈佛录取制度（平权/倒推法/捐助席位）、课程与圈子价值、文凭之辨等为教育制度内容"
+  },
+  {
+   "unit_id": "GG-U0287",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "结尾思考题（中国大学采用倒推录取的利弊）为运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第174封信：教育制度叙述为主（X5），仅抽标杆原理与极致潜力判据2张可迁移卡。"
+}
