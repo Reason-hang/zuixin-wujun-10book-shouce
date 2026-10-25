@@ -1,0 +1,180 @@
+{
+ "unit_id": "SG3-U0127",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "唐尼：视察者悖论——通过统计得到的结果和实际情况不相符（视察者偏差）",
+   "quote": "视察者悖论",
+   "anchor": {
+    "start_line": 13489,
+    "end_line": 13491,
+    "fingerprint": [
+     "视察者悖论",
+     "统计得到的结果"
+    ],
+    "book_code": "SG3",
+    "sha1": "e893ef8f7876cf97676f9094bcb39c778ae954bf"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "视察者悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=艾伦·唐尼（奥林工程学院计算机教授，13463）；机理概括见C-SG3-U0127-02；普渡大学35对80-90调查例（13497）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0127-01",
+   "unit_id": "SG3-U0127"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "视察者偏差机理：大课被抽中概率更高，统计结果必然高于实际水平",
+   "quote": "高于实际水平",
+   "anchor": {
+    "start_line": 13493,
+    "end_line": 13493,
+    "fingerprint": [
+     "概率",
+     "高于实际水平"
+    ],
+    "book_code": "SG3",
+    "sha1": "79a01983c74f0b51823c3354cd8dc68b8b812b44"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "视察者偏差机理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG3-U0127-01互引：定义见01、机理见本卡；清华选课定量例：抽样均值82对实际50（13479-13487）；记者探监多见长刑犯得出法律严苛结论例（13509-13515）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0127-02",
+   "unit_id": "SG3-U0127"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "犯统计错误不是数学知识不够而是思维出错：凭直觉做判断或统计",
+   "quote": "凭直觉做判断",
+   "anchor": {
+    "start_line": 13519,
+    "end_line": 13519,
+    "fingerprint": [
+     "思维上出了错",
+     "直觉"
+    ],
+    "book_code": "SG3",
+    "sha1": "00cee7729ce181468e2ef2c18b6562db7b87b9f9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "直觉统计出错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "学数学关键知道该怎么用（13519）；划重点2（13571）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0127-03",
+   "unit_id": "SG3-U0127"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "菲尔德：80%的人觉得不如朋友受欢迎——人缘好者更可能成为大家的朋友",
+   "quote": "不如自己的朋友受欢迎",
+   "anchor": {
+    "start_line": 13529,
+    "end_line": 13537,
+    "fingerprint": [
+     "菲尔德",
+     "Facebook"
+    ],
+    "book_code": "SG3",
+    "sha1": "bb4e27e8ce0ad359a00e637a152806ee578b9d2b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "朋友关系悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯科特·菲尔德（社会学家，1991，13529）；Facebook人均44好友而好友的好友均104、76%概率不如朋友受欢迎（13537）；应用与开解见C-SG3-U0127-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0127-04",
+   "unit_id": "SG3-U0127"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "觉得不如朋友受欢迎是对比造成的偏差，不等于社交能力低于平均水平",
+   "quote": "陷入了视察者偏差",
+   "anchor": {
+    "start_line": 13539,
+    "end_line": 13543,
+    "fingerprint": [
+     "社交能力低于平均水平",
+     "视察者偏差"
+    ],
+    "book_code": "SG3",
+    "sha1": "4dbb9be0777bf69632e108cbf3aea50e313317b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "对比偏差自寻烦恼",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG3-U0127-04互引：原话见04、吴军开解见本卡；升职慢与收入低烦恼同理：可见者多为更成功者、早离开者被忽略、与平均值比受极端值影响（13547-13553）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0127-05",
+   "unit_id": "SG3-U0127"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想不开时用算一算把自己抽离出系统性偏差，算不清就请理性强者帮忙",
+   "quote": "把自己抽离出来",
+   "anchor": {
+    "start_line": 13557,
+    "end_line": 13559,
+    "fingerprint": [
+     "抽离出来",
+     "思维方式"
+    ],
+    "book_code": "SG3",
+    "sha1": "064daa17cc7ab6d4f459452ef1152a942ea10593"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "算一算抽离偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数学是思维方式，让人更客观看待自己与社会（13559）；划重点3（13573）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0127-06",
+   "unit_id": "SG3-U0127"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0127",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "儿童教育应用：开导觉得自己不受欢迎的孩子、家长不要总拿孩子与朋友对比讲你怎么就不如小明（13545），亲子教育议题"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第105封信：抽六条数学思维判断（视察者悖论定义E2/机理/直觉统计/朋友关系悖论E2/对比偏差烦恼/算一算抽离），儿童教育对比建议归X5"
+}

@@ -1,0 +1,159 @@
+{
+ "unit_id": "SG3-U0122",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "西蒙：资源用量大成本上升会促使人们发明替代材料，稀缺靠价格与技术化解",
+   "quote": "人们就会发明出替代的材料",
+   "anchor": {
+    "start_line": 12961,
+    "end_line": 12969,
+    "fingerprint": [
+     "替代的材料",
+     "回收"
+    ],
+    "book_code": "SG3",
+    "sha1": "782a65f6ccb316a802fef1e47e4e553d01ff9034"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "价格触发替代发明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=朱利安·西蒙（《终极资源》第三观点，12957-12961）；吴军佐证：iPhone原材料未增技术含量增、白银可回收（12965）、特斯拉镍95%回收（12967）、崔屹纳米回收论成本（12969）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0122-01",
+   "unit_id": "SG3-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "解决资源环境问题关键在利用经济发展机会获得技术储备，否则更加束手无策",
+   "quote": "利用经济发展的机会",
+   "anchor": {
+    "start_line": 12971,
+    "end_line": 12975,
+    "fingerprint": [
+     "经济发展",
+     "束手无策"
+    ],
+    "book_code": "SG3",
+    "sha1": "4075dab794ba38f42fe81c1c377e7246b101ddae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "经济发展换技术储备",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "宏观资源议题按X6例外映射商业柱；终极资源=创造力的西蒙原话见C-SG3-U0122-03；划重点3（12989）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0122-02",
+   "unit_id": "SG3-U0122"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "西蒙：自然资源并非无限，终极资源是人类的创造力，兑现离不开经济发展",
+   "quote": "其实是人类的创造力",
+   "anchor": {
+    "start_line": 12977,
+    "end_line": 12979,
+    "fingerprint": [
+     "终极资源",
+     "创造力"
+    ],
+    "book_code": "SG3",
+    "sha1": "6f1c8dde3ffe3712adf8f3a2da984bd8b0fa2f57"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "终极资源是创造力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=朱利安·西蒙（《终极资源》小结12979）；与C-SG3-U0122-02互引：原话见本卡、吴军取用见02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0122-03",
+   "unit_id": "SG3-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "押注实物对抗货币滥发的极端投资观不可靠：工业原料需求会随技术与回收下降",
+   "quote": "事实情况却并非他想的那样",
+   "anchor": {
+    "start_line": 12963,
+    "end_line": 12965,
+    "fingerprint": [
+     "白银",
+     "回收"
+    ],
+    "book_code": "SG3",
+    "sha1": "e6b8d610953778063b438154586e2d133874c86e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "押注实物的误区",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谷歌同事卖股买白银案例（12963）；iPhone价格百倍涨而原材料未增（12965）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0122-04",
+   "unit_id": "SG3-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "悲观预测屡屡落空者反而持续受欢迎：埃利希输赌局理论却一直在获胜",
+   "quote": "不仅没有减少",
+   "anchor": {
+    "start_line": 12925,
+    "end_line": 12925,
+    "fingerprint": [
+     "埃利希",
+     "越来越多"
+    ],
+    "book_code": "SG3",
+    "sha1": "692ad6e111acfa6785bc93f5da1d790e621ddfa0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "悲观预言家更受欢迎",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "埃利希地球日演讲获热烈掌声（12923）；吴军自认想不懂（12931）；划重点2（12987）；与格局《为什么悲观主义会盛行》主题呼应",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0122-05",
+   "unit_id": "SG3-U0122"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0122",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "1980西蒙埃利希赌局规则、五种金属选择理由与1990年576.07美元结果（12895-12919）、埃利希《人口炸弹》《富裕的终结》预言史与西蒙拒绝二次赌局（12921-12935），人物与事件史实"
+  },
+  {
+   "unit_id": "SG3-U0122",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "西蒙《终极资源》观点一二：人类发展与资源减少无明显对应、存在最佳污染水平（12945-12955），人口资源宏观论断；资源问题影响政府企业个人三层面（12941）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第101封信：抽五条判断（价格触发替代发明E2/经济发展换技术储备/终极资源是创造力E2/押注实物误区/悲观预言家更受欢迎），赌局经过与预言史归X4、西蒙人口资源宏观论断归X6"
+}

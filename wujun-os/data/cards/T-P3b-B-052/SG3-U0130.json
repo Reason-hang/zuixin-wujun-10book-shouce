@@ -1,0 +1,155 @@
+{
+ "unit_id": "SG3-U0130",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "财务自由的核心是安全感和人的自由，二者拥有后钱多钱少影响就不大了",
+   "quote": "安全感和人的自由",
+   "anchor": {
+    "start_line": 13885,
+    "end_line": 13885,
+    "fingerprint": [
+     "财务自由的核心",
+     "自由"
+    ],
+    "book_code": "SG3",
+    "sha1": "6f9d1fd70240ff290f6f165c9c665769d09a4bdc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "财务自由核心两要素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点1（13923）；人们想象的财务自由好处与既得者实际改变差别很大（13881-13885）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0130-01",
+   "unit_id": "SG3-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有钱才有安全感是误解：现代人安全感更多靠社会力量，如法律与社会保障",
+   "quote": "这是对安全感的误解",
+   "anchor": {
+    "start_line": 13889,
+    "end_line": 13891,
+    "fingerprint": [
+     "安全感的误解",
+     "善用社会的力量"
+    ],
+    "book_code": "SG3",
+    "sha1": "0b1a9ec86efe88129747819ff75adce6d2c30016"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "安全感靠社会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "违法经营求钱反失安全（13889）；劳资纠纷用法律手段解决（13891）；划重点2（13925）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0130-02",
+   "unit_id": "SG3-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其靠挣更多钱获得自由，不如找到喜欢做的事并比同行做得好一些",
+   "quote": "找到自己喜欢做的事情",
+   "anchor": {
+    "start_line": 13905,
+    "end_line": 13909,
+    "fingerprint": [
+     "喜欢做的事情",
+     "物质欲望"
+    ],
+    "book_code": "SG3",
+    "sha1": "ec94b0435909950bc74d922fdf65472e20f220df"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "自由靠喜欢的事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "前提是稍约束物质欲望、少攀比（13909）；清华任教经历：挣钱不多却拥有个人自由，关键在乐意做每天的工作且细分领域做得好（13897-13899）；划重点3（13927）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0130-03",
+   "unit_id": "SG3-U0130"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "冯仑：再多的钱都不够花，世界上所有东西都有成本，只有欲望没有成本",
+   "quote": "只有欲望没有成本",
+   "anchor": {
+    "start_line": 13913,
+    "end_line": 13913,
+    "fingerprint": [
+     "冯仑",
+     "欲望没有成本"
+    ],
+    "book_code": "SG3",
+    "sha1": "5e78866aa422fe429423403d3e3e8ac2f06886f1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "欲望没有成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=冯仑（2019对话，13913）；有一个亿到几十亿仍不够花例（13913）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0130-04",
+   "unit_id": "SG3-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "财务自由只是通向自由的手段，若有其他办法达目的就不要只为挣钱失去自由",
+   "quote": "通向自由这个目的的手段",
+   "anchor": {
+    "start_line": 13915,
+    "end_line": 13917,
+    "fingerprint": [
+     "手段",
+     "失去了自由"
+    ],
+    "book_code": "SG3",
+    "sha1": "3b6078cd679e6b77d0c391660849611e55626e9c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "财务自由是手段",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG3-U0130-01互引：核心见01、手段目的之辨见本卡；真正财务自由者的六点改变即使没那么多钱也有机会做到（13917）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0130-05",
+   "unit_id": "SG3-U0130"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0130",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "财务自由概念流行史与互联网热潮两留学生案例（13827-13833）、窘境四场景、美国工薪阶层愿望清单与既得者六点改变等调查材料罗列（13841-13881），背景转述无独立结论句，要点已并入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第107封信：抽五条财富观判断（财务自由核心两要素/安全感靠社会/自由靠喜欢的事/欲望没有成本E2/财务自由是手段），愿望清单与六点改变调查材料归X8"
+}

@@ -1,0 +1,241 @@
+{
+ "unit_id": "SG3-U0129",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对进出场时点类专家见解一概当作噪音：时间拉长舆论正负相抵消",
+   "quote": "一概当作噪音",
+   "anchor": {
+    "start_line": 13743,
+    "end_line": 13745,
+    "fingerprint": [
+     "短线投资",
+     "噪音"
+    ],
+    "book_code": "SG3",
+    "sha1": "c83a17bdf4b44dd00ba7da5cf3cd1836557068a6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "专家言论当噪音",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军不做短线投资、极少做个股（13743）；巴菲特不看《华尔街日报》做投资（13745）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-01",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资能做的最有效之事是投资有发展前途的经济体并做死牛派",
+   "quote": "然后做死牛派",
+   "anchor": {
+    "start_line": 13747,
+    "end_line": 13747,
+    "fingerprint": [
+     "经济体",
+     "工作"
+    ],
+    "book_code": "SG3",
+    "sha1": "e9ac029edb45bafd71dab61c54b3b7f9293fcfcb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资经济体做死牛派",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "也可投资其房地产；最重要的投资是为这个经济体工作（13747）；在中国工作生活即无意中投资了稳健经济体（13747）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-02",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "净资产扣除房产后不足100万，精心资产配置与简单七三开差异仅千把块",
+   "quote": "千把块钱",
+   "anchor": {
+    "start_line": 13749,
+    "end_line": 13749,
+    "fingerprint": [
+     "资产配置",
+     "千把块钱"
+    ],
+    "book_code": "SG3",
+    "sha1": "1e52932fd06546f566e4539e2f9ca96bef39f30a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "资产配置门槛",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "为千把块花太多时间精力不值得；股市涨跌不用太在意（13749）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-03",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "靠工资生活者不必在意存款能否跑赢通胀，要在意获得收入增长远超通胀的好工作",
+   "quote": "好工作可以保证",
+   "anchor": {
+    "start_line": 13755,
+    "end_line": 13759,
+    "fingerprint": [
+     "工资生活",
+     "通货膨胀"
+    ],
+    "book_code": "SG3",
+    "sha1": "8d99c9af7834e107f9b0feb20945df2c4ba59890"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "工资者靠好工作抗通胀",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "货币普遍贬值5%对生活无影响，因占有社会资源比例未变（13751）；阿根廷贬值近一个数量级人均GDP仍约1万美元（13751）；德国人均GDP相对美国94%降至71%生活无碍（13753）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-04",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只有不可预期的事情发生才叫风险，已知范围内的涨跌算不得风险",
+   "quote": "才叫风险",
+   "anchor": {
+    "start_line": 13765,
+    "end_line": 13765,
+    "fingerprint": [
+     "不可预期",
+     "股市"
+    ],
+    "book_code": "SG3",
+    "sha1": "cb03bc73eab02c44439b3a918b3aae7092ff78bd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "风险是不可预期",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不能承受股市30%波动就不要投资（13761）；特斯拉疯涨十几倍基础上再跌一半不稀奇，有认知则不手忙脚乱（13765）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-05",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市反映对未来的预期：好消息出尽常调整下跌，坏消息出尽反可能上涨",
+   "quote": "对未来经济的预期",
+   "anchor": {
+    "start_line": 13767,
+    "end_line": 13771,
+    "fingerprint": [
+     "预期",
+     "调整下跌"
+    ],
+    "book_code": "SG3",
+    "sha1": "e426138b05cfe0d24ebe183dc0d15d2e39f10c3c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "股市定价未来预期",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "股市表现是对未来经济的预期，不是对今天盈利的反应（13767）；与T-P3b-B-051批股票回购的未来预期判断同源呼应",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-06",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谈经济趋势是帮人寻找发展机会远离问题行业，最好的投资是投资自己的能力",
+   "quote": "投资你自己的能力",
+   "anchor": {
+    "start_line": 13773,
+    "end_line": 13773,
+    "fingerprint": [
+     "最好的投资",
+     "自己的能力"
+    ],
+    "book_code": "SG3",
+    "sha1": "85fef7f2b85192ec154942611456fabec86aa399"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "最好投资是自己能力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不鼓励找机会捞一笔（13773）；与富足《最好的投资是自己的专业》同源",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-07",
+   "unit_id": "SG3-U0129"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "各国体制与政府职责不同、运作经济方式不同，一国做法未必能照搬到他国",
+   "quote": "运作经济的方式也不同",
+   "anchor": {
+    "start_line": 13797,
+    "end_line": 13801,
+    "fingerprint": [
+     "体制不同",
+     "照搬"
+    ],
+    "book_code": "SG3",
+    "sha1": "aab84373c0fb2fbee659d77661e4fc4a17c649dc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "各国做法难照搬",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国政府社会经济作用小、靠货币手段、无国企、国会授权周期长（13783-13791）；两党发钱与给企业之争（13793）；美国纾困投资方式细节为时点体制说明（归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0129-08",
+   "unit_id": "SG3-U0129"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0129",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者提问原文：货币贬值下资产配置三问（13727-13737）、山水疫情纾困投向之问（13777）、朱颖6G与手机形态之问（13805），吴军回应已抽K卡"
+  },
+  {
+   "unit_id": "SG3-U0129",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "标普500三月九日涨6%距历史高点2%的点评（13763）、6G欧洲角色与谷歌眼镜式终端畅想（13809-13811）、美国政府纾困投资细节与莫德纳注资争议（13787-13789），依附时点行情与政策"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问19：抽八条投资判断（专家言论当噪音/投资经济体做死牛派/资产配置门槛/工资者靠好工作抗通胀/风险是不可预期/股市定价未来预期/最好投资是自己能力/各国做法难照搬），读者提问归X7、6G与美股点位时点论述归X2"
+}

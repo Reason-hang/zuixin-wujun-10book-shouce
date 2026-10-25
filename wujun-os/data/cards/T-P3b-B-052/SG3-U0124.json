@@ -1,0 +1,105 @@
+{
+ "unit_id": "SG3-U0124",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用预测数据只看趋势不看细节，且要想到经济学家估计可能偏乐观",
+   "quote": "重点放在趋势而不是细节上",
+   "anchor": {
+    "start_line": 13081,
+    "end_line": 13081,
+    "fingerprint": [
+     "趋势而不是细节",
+     "偏乐观"
+    ],
+    "book_code": "SG3",
+    "sha1": "f37ac57f2bc5dafaab910bb5e4a5cde9143cb9f1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "预测看趋势留折扣",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "历史数据基本准确、未来预测来自专家预估有偏差但趋势相当可信（13081）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0124-01",
+   "unit_id": "SG3-U0124"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会发展与保障水平决定经济弹性：纽约靠高水平社会运转扛住疫情冲击",
+   "quote": "决定了经济的弹性",
+   "anchor": {
+    "start_line": 13105,
+    "end_line": 13105,
+    "fingerprint": [
+     "社会保障",
+     "弹性"
+    ],
+    "book_code": "SG3",
+    "sha1": "37f8baa5b0e8b2e682539d7ca678144ddd1fe20d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "社会保障定经济弹性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "平时注意不到、遇危机显示出来（13105）；欧美抗疫与保经济平衡有效的判断为时点论述（13103）；划重点2（13183）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0124-02",
+   "unit_id": "SG3-U0124"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一国GDP由政府企业个人支出与贸易盈余构成，全球看贸易盈余净值恒为零",
+   "quote": "这一项的净值永远是0",
+   "anchor": {
+    "start_line": 13147,
+    "end_line": 13147,
+    "fingerprint": [
+     "政府支出",
+     "净值永远是0"
+    ],
+    "book_code": "SG3",
+    "sha1": "28a36700ecefaeb3110ccce33d58206800daaea2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "贸易盈余净值恒为零",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "个人消费难预测恢复缓慢、企业支出居间（13147）；疫情期靠政府支出拉动为时点判断（13155-13161，归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0124-03",
+   "unit_id": "SG3-U0124"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0124",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020疫情拉低全球GDP近4%与各经济体损失数据（13095-13101）、美欧2.6万亿美元与1.8万亿欧元纾困及1400美元支票（13107）、疫苗94-95%有效率与增长预期上调0.3-0.9%、540万就业换算（13117-13123）、深V恢复与2022下半年疫情结束预测、股市V型反弹（13129-13143），均依附疫情时点"
+  },
+  {
+   "unit_id": "SG3-U0124",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "世界银行与国际货币基金组织对今后几年世界经济展望与各经济体增长预测图表（13115-13131），宏观经济展望"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第102封信：抽三条稳定判断（预测看趋势留折扣/社会保障定经济弹性/贸易盈余净值恒为零），疫情数据纾困与疫苗等时点论述归X2、增长与市场展望归X6"
+}

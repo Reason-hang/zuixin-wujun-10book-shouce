@@ -1,0 +1,132 @@
+{
+ "unit_id": "SG3-U0120",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业能否实现第三阶段碳中和与商业模式有关：平台型比自营型容易",
+   "quote": "就比京东更容易",
+   "anchor": {
+    "start_line": 12709,
+    "end_line": 12711,
+    "fingerprint": [
+     "商业模式",
+     "淘宝"
+    ],
+    "book_code": "SG3",
+    "sha1": "27d6ba78a78d60b2a284fe6295add3479fad346c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "碳中和难度随商业模式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "平台只须保证交易过程碳中和、自营须保证商品制造碳中和（12711）；不同企业难度相差巨大：律所易、钢铁厂难（12673）；第三阶段要求工具材料服务也在碳中和条件下生产（12687-12689）；若全球企业都达第二阶段则第三阶段自动实现（12695）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0120-01",
+   "unit_id": "SG3-U0120"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "碳中和是动态过程：业务形态变化会改变合规难度，过去实现不等于今天实现",
+   "quote": "一个动态的过程",
+   "anchor": {
+    "start_line": 12675,
+    "end_line": 12681,
+    "fingerprint": [
+     "动态的过程",
+     "沃尔玛"
+    ],
+    "book_code": "SG3",
+    "sha1": "e387fd830b87c68bde2685e7c65729177f740ff4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "合规动态性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软光盘转云服务难度变大（12679）；沃尔玛实体店转线上线下物流难度变高（12681）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0120-02",
+   "unit_id": "SG3-U0120"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "调整业务时碳排放将成新考量：同样目的不同方式碳排放不同，方案随之改变",
+   "quote": "不同方式产生的碳排放是不同的",
+   "anchor": {
+    "start_line": 12727,
+    "end_line": 12733,
+    "fingerprint": [
+     "碳排放",
+     "边缘计算"
+    ],
+    "book_code": "SG3",
+    "sha1": "1580a1b0fcbf05e96d86b9d424220159444b724c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "碳约束改变业务设计",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "IoT由直连云改区域服务器（边缘计算12729）；云端重软件架构或变化（12731）；碳指标用完无法营业或高价买配额将改变做事思路（12733）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0120-03",
+   "unit_id": "SG3-U0120"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用工合规成本上升会把企业推向外包：直接雇佣还是外包取决于制度成本",
+   "quote": "倾向于将简单的工作外包出去",
+   "anchor": {
+    "start_line": 12713,
+    "end_line": 12713,
+    "fingerprint": [
+     "员工福利",
+     "外包"
+    ],
+    "book_code": "SG3",
+    "sha1": "115a324fa8300056a67f1482f77a5c51b714a1b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "合规成本改变用工形态",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "碳中和严格化将促使企业调整商业模式（12713）；类比：员工福利要求提高致简单工作外包化（12713）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0120-04",
+   "unit_id": "SG3-U0120"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0120",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "碳中和三阶段（scope）框架讲解与企业案例：IT公司园区太阳能、种树抵消、谷歌亚马逊微软云中心、服装厂、律所、微软光盘转云、沃尔玛、特斯拉制造排放（12653-12705），行业通行框架科普与背景说明"
+  },
+  {
+   "unit_id": "SG3-U0120",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "五点未来变化预测：碳配额交易成生意、企业改商业模式、先进能源十万亿产值机会（崔屹估计）、家庭储能改变社会基本结构、支付碳税与生活成本上升（12721-12747），及2030年方能准确估计减排成效（12753）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第099封信：抽四条商业判断（第三阶段难度随商业模式/合规动态性/碳约束改变业务设计/合规成本改变用工形态），三阶段scope框架科普归X4、五点未来变化预测归X6"
+}

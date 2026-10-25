@@ -1,0 +1,133 @@
+{
+ "unit_id": "SG3-U0126",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人口结构趋势难逆转，能做的是了解趋势后调整商业与产业方向去适应",
+   "quote": "对商业和产业发展做出调整",
+   "anchor": {
+    "start_line": 13349,
+    "end_line": 13353,
+    "fingerprint": [
+     "非常困难",
+     "社会形态"
+    ],
+    "book_code": "SG3",
+    "sha1": "5f5527177e9b769adf8b2058a9e7558bf0002488"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "顺应人口趋势调整",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "劳动力与人口结构变化是判定未来方向最重要的因素（13353）；接受现实后重新定位寻找新机会（13355）；退休年龄延后可放缓抚养比变化（13347）；划重点2（13447）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0126-01",
+   "unit_id": "SG3-U0126"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看国家短期发展可凭经济数据，判断长期发展潜力必须考虑政治环境",
+   "quote": "是要考虑它们的政治环境的",
+   "anchor": {
+    "start_line": 13381,
+    "end_line": 13381,
+    "fingerprint": [
+     "政治环境",
+     "长期的发展潜力"
+    ],
+    "book_code": "SG3",
+    "sha1": "e8a596a5465c832a8b7b51e8a1c65c728db3438b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "政治环境定长期潜力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "做长期投资的人更喜欢听政治学学者的建议（13381）；欧洲从无到有生意尽管做、扩大生意欧洲非好选择（13371）；划重点3（13449）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0126-02",
+   "unit_id": "SG3-U0126"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济学家预测常有系统性偏差：低估中国稳定性、高估欧盟与部分新兴市场",
+   "quote": "三个系统性的偏差",
+   "anchor": {
+    "start_line": 13361,
+    "end_line": 13367,
+    "fingerprint": [
+     "系统性的偏差",
+     "欧盟"
+    ],
+    "book_code": "SG3",
+    "sha1": "dff1d47875cf7bb57f4ff8074ec59b10bf4b7594"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "预测系统性偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二十年观察主要研究机构预测所得（13361）；机构看好欧盟而吴军判断其占比续降（13369）；与C-SG3-U0124-01乐观偏差判断互证",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0126-03",
+   "unit_id": "SG3-U0126"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "老龄化拖累经济：劳动者负担加重、老年消费欲望低致内需不振",
+   "quote": "导致内需不振",
+   "anchor": {
+    "start_line": 13345,
+    "end_line": 13345,
+    "fingerprint": [
+     "老龄化",
+     "内需不振"
+    ],
+    "book_code": "SG3",
+    "sha1": "1aa653673c25db681b536d25812cc2a320dc1777"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "老龄化拖累内需",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "日本近30年发展缓慢与老龄化重要关联（13345）；抚养比数据：中国2.4最高、日本2050年1:1（13341-13343）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0126-04",
+   "unit_id": "SG3-U0126"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0126",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "经济体梯队排序与中国远超美国（13383-13391）、看好印越墨三特点与独联体非洲拉美失望（13377-13379）、欧洲两长三短分析（13373）、多样化经济与供应链重组调查日本美国墨西哥前三（13399-13405）、碳减排新基建（13407-13413）、六项未来技术（13415-13433），趋势预测与产业展望"
+  },
+  {
+   "unit_id": "SG3-U0126",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "英国脱欧与保守党大胜的时评（13375）、中国未来十年退休年龄调整假设（13347），依附时点政情"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第104封信：抽四条判断（顺应人口趋势调整/政治环境定长期潜力/预测系统性偏差/老龄化拖累内需），经济体排序与产业趋势预测归X6、脱欧时评归X2"
+}

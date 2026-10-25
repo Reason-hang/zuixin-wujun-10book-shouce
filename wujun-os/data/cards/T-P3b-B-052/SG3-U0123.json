@@ -1,0 +1,234 @@
+{
+ "unit_id": "SG3-U0123",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书一般一本一本地读较好，凡事有始有终，最怕养成有始无终的习惯",
+   "quote": "有始有终",
+   "anchor": {
+    "start_line": 13015,
+    "end_line": 13015,
+    "fingerprint": [
+     "一本一本地读",
+     "有始无终"
+    ],
+    "book_code": "SG3",
+    "sha1": "4e1d2c5c0775fb5bd06efdc4a548f7c784ed5c2d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读书有始有终",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "读书快效率高者几本平行读无妨（13015）；读不下去或不值得读扔到一边也算有结果（13015）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-01",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "完更小课集中一到两个月学完并留思考总结；日更有时效性课程每天同步跟",
+   "quote": "用一周到两个月的时间集中听完",
+   "anchor": {
+    "start_line": 13019,
+    "end_line": 13021,
+    "fingerprint": [
+     "集中听完",
+     "时效性"
+    ],
+    "book_code": "SG3",
+    "sha1": "60e011f7d37f9cebedb23cf225843bb79903e511"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "课程集中学完",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "每天听一小时到一个半小时加思考总结十分钟（13019）；日更课半年后再听失去一半价值（13021）；一天听五六门每门10-15分钟没时间深入思考（13017）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-02",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "定计划人人会高估自己，要留足富余量：完成任务比完不成任务好，否则计划失去严肃性",
+   "quote": "完成任务比完不成任务好",
+   "anchor": {
+    "start_line": 13031,
+    "end_line": 13035,
+    "fingerprint": [
+     "高估自己的能力",
+     "富余量"
+    ],
+    "book_code": "SG3",
+    "sha1": "d51dbc31c109cae60d5716b2929e727e382bc45f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "计划留富余量",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军大学计划从未100%完成、做完一半就不错（13031）；诺威格把工作量翻番预估绝大多数时候是对的（13033）；习惯性不完成则自责走不出失败阴影（13035）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-03",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有计划就做计划内的事，不为小利临时偏离：省一万看车或毁买房贷款进度",
+   "quote": "就要做计划内的事情",
+   "anchor": {
+    "start_line": 13037,
+    "end_line": 13039,
+    "fingerprint": [
+     "计划内的事情",
+     "促销"
+    ],
+    "book_code": "SG3",
+    "sha1": "7c6183eb96e7d8d05bbc2d4d48795b10f111dba6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "按计划行事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "养成不把计划当回事的习惯更危险（13039）；促销机会以后还会有或有很多坑（13039）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-04",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "退役警察办案原则：途中遇新案即便举手之劳也不管，按计划办原案",
+   "quote": "即便是举手之劳",
+   "anchor": {
+    "start_line": 13041,
+    "end_line": 13041,
+    "fingerprint": [
+     "退役的警察",
+     "原来的案子"
+    ],
+    "book_code": "SG3",
+    "sha1": "37c840ad930cc628c2da179b5aa2bcc6435687c1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "警察办案原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军摄影友（退役警察）；理由：原计划深思熟虑且已调动很多资源，临时改变再启动损失极大（13041）；与C-SG3-U0123-04互引",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-05",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "学长：能做到的不是早睡早起而是早起早睡，因为人只能控制起床时间",
+   "quote": "早起早睡",
+   "anchor": {
+    "start_line": 13043,
+    "end_line": 13045,
+    "fingerprint": [
+     "早起早睡",
+     "早起了"
+    ],
+    "book_code": "SG3",
+    "sha1": "3f2a8fda708f0accce1926d456d2ce2f005680ba"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "早起早睡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=清华企业家协会资深企业家学长；晚睡一小时自然晚起一小时，人只有早起了晚上才困、才可能早睡（13045）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-06",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思考储能类设想必须用物理学基本常识（能量转化与储能密度）做判断，不能天马行空",
+   "quote": "一定要运用物理学的基本常识",
+   "anchor": {
+    "start_line": 13049,
+    "end_line": 13055,
+    "fingerprint": [
+     "物理学的基本常识",
+     "能量的转化"
+    ],
+    "book_code": "SG3",
+    "sha1": "68961478b2f8238bf139cffa254104b81957d4ca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "物理常识判设想",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "势能当量低：360万焦耳需370公斤重物自1000米落下（13057）；哈利法塔每天举三次的荒唐对比（13059）；特斯拉电池6.3公斤每度对石油90克每度差两个量级（13061-13063）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-07",
+   "unit_id": "SG3-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绕一大圈而不直接解决问题的方案违背奥卡姆剃刀如无必要勿增实体，不是好方法",
+   "quote": "如无必要，勿增实体",
+   "anchor": {
+    "start_line": 13065,
+    "end_line": 13065,
+    "fingerprint": [
+     "奥卡姆剃刀原理",
+     "勿增实体"
+    ],
+    "book_code": "SG3",
+    "sha1": "8b2c5995cee28d74b6473c01cecac01ae44d8ce6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "奥卡姆剃刀储能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "科学通识教育用途：用最简单的科学原理做判断（13065）；势能储电属制造问题而非解决问题（13061）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0123-08",
+   "unit_id": "SG3-U0123"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0123",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者提问原文：Andy武国一读书方式与课程安排之问（13003-13005）、邓等等计划拖延与睡懒觉之问（13023-13025），吴军回应已抽K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问18：抽八条方法判断（读书有始有终/课程集中学/计划留富余/按计划行事/警察办案原则E2/早起早睡E2/物理常识判设想/奥卡姆剃刀），读者提问原文归X7"
+}

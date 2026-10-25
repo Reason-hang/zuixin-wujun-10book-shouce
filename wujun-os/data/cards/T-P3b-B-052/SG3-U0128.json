@@ -1,0 +1,201 @@
+{
+ "unit_id": "SG3-U0128",
+ "book_code": "SG3",
+ "extractor": "EXT-SG8",
+ "batch_id": "T-P3b-B-052",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "辛普森悖论：分组内女性录取率均高于男生，合计后男生反而更高",
+   "quote": "辛普森悖论",
+   "anchor": {
+    "start_line": 13597,
+    "end_line": 13601,
+    "fingerprint": [
+     "录取率",
+     "辛普森悖论"
+    ],
+    "book_code": "SG3",
+    "sha1": "8bb4033a4054eaa9ea3e59923310f00418350919"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "辛普森悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=E.H.辛普森（英国统计学者，13601）；文理专业15%对34%、商科80%对91%（13597-13599）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-01",
+   "unit_id": "SG3-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "合计反转源于结构差异：多数女生申请低录取率专业，加权后男生整体反超",
+   "quote": "加权计算之后",
+   "anchor": {
+    "start_line": 13609,
+    "end_line": 13611,
+    "fingerprint": [
+     "录取率低的文理专业",
+     "加权计算"
+    ],
+    "book_code": "SG3",
+    "sha1": "2e8e49e231391a9fdb51e14ea91cd9898538327e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "辛普森结构成因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG3-U0128-01互引；判断录取公平应看专业录取而非整体（13613-13615）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-02",
+   "unit_id": "SG3-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "作比较要具体不要笼统：看似矛盾的结论多半是忽略细节或有人在细节做手脚",
+   "quote": "要用橘子和橘子去对比",
+   "anchor": {
+    "start_line": 13619,
+    "end_line": 13629,
+    "fingerprint": [
+     "橘子和橘子",
+     "细节中"
+    ],
+    "book_code": "SG3",
+    "sha1": "804d9ae78743c4ec4d83a005a0f951191a5acb3e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "比较要具体",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "直觉并非都管用，大数据年代用统计数据误导人的事增多（13623-13627）；魔鬼都藏在细节中（13629）；划重点1/2（13709-13711）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-03",
+   "unit_id": "SG3-U0128"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "伯克森悖论：可见样本造成错觉，如住院者让人以为一种大病排斥另一种",
+   "quote": "不太可能会得另一种",
+   "anchor": {
+    "start_line": 13655,
+    "end_line": 13663,
+    "fingerprint": [
+     "癌症",
+     "悖论"
+    ],
+    "book_code": "SG3",
+    "sha1": "58ced1818d073ee94a0b3609cb7887100f0648fa"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "伯克森悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=约瑟夫·伯克森（美国统计学者，13635；原文13697作柏克森）；成因：轻症未住院的样本缺席+科室分布（13667-13669）；与辛普森悖论原理相通（13635）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-04",
+   "unit_id": "SG3-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业不辛苦更易成功的错觉源于不可见的失败者：不辛苦而失败者通常看不到",
+   "quote": "我们通常是看不到的",
+   "anchor": {
+    "start_line": 13685,
+    "end_line": 13687,
+    "fingerprint": [
+     "创业不辛苦",
+     "看不到"
+    ],
+    "book_code": "SG3",
+    "sha1": "c07d46a6d41788408580959f2594c1bee0279d38"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "不可见的失败者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "硅谷上市2-3%、含并购约18%成功率（13675）；四组拆分1/4/1/4万人（13675-13683）；学霸错觉同理：用功者32%对不用功者8%成学霸概率（13691-13695）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-05",
+   "unit_id": "SG3-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "直观感觉建立在能注意到的现象上，了解真实情况须把被忽视的现象考虑进来",
+   "quote": "被我们忽视的现象",
+   "anchor": {
+    "start_line": 13697,
+    "end_line": 13697,
+    "fingerprint": [
+     "直观感觉",
+     "忽视"
+    ],
+    "book_code": "SG3",
+    "sha1": "219b46a13c9f7a1d2ef4816f01c4372c3c3059d2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "直觉限于可见现象",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点3（13713）；留思考题：用伯克森悖论说明寒门出孝子豪门出逆子的逻辑错误（13705）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-06",
+   "unit_id": "SG3-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用数学思维审财经报道会发现很多问题，涉及钱的报道坚持看原始数据",
+   "quote": "坚持要看原始数据",
+   "anchor": {
+    "start_line": 13631,
+    "end_line": 13631,
+    "fingerprint": [
+     "财经报道",
+     "原始数据"
+    ],
+    "book_code": "SG3",
+    "sha1": "6230f32a9ee4054c1a0b39bdc55b55d78ada524b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "财经报道看原始数据",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与《数学通识50讲》数学是思维方式的观点呼应（13703）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0128-07",
+   "unit_id": "SG3-U0128"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第106封信：抽七条统计思维判断（辛普森悖论E2/结构成因/比较要具体/伯克森悖论E2/不可见失败者/直觉限于可见/财经报道看原始数据），全单元K无X"
+}
