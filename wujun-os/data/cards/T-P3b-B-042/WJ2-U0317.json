@@ -1,0 +1,151 @@
+{
+ "unit_id": "WJ2-U0317",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牛顿第二定律与积分效应：距离是速度的积分、速度是加速度的积分——进步快=持续施加外力+轻装前进少做事",
+   "quote": "速度是加速度的积分",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25859,
+    "end_line": 25865,
+    "sha1": "8082544a9adef808a7f57301bf4e47c2910277ba",
+    "fingerprint": [
+     "积分",
+     "距离"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D02-1"
+   ],
+   "concept_key": "牛顿第二定律与积分效应",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "甩几条街讲的是距离=差距的度量（25863）；飞轮效应=速度为加速度的积分（25867）；外力F决定加速度、停止施力瞬间归零（25869）；外力有限想加速就得减轻质量、少做事（25871）；年轻人第一份工作保证进步速度快（25865）",
+   "claim_id": "C-WJ2-U0317-01",
+   "unit_id": "WJ2-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义渐变符合积分效应：瞬间拉平差距需无穷大外力、任何系统都会被冲垮——反对剧变不是反对改变",
+   "quote": "经受不起这样的巨大外力冲击",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25873,
+    "end_line": 25877,
+    "sha1": "41708cabc3037c80dfd492ac828ba815826372b4",
+    "fingerprint": [
+     "渐变",
+     "剧变"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D04-1"
+   ],
+   "concept_key": "渐变与剧变",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "保守主义被'保守'二字误导、实为尊重传统兼顾后代的渐变（25875）；与伯克两信（U0245/046）同族互参",
+   "claim_id": "C-WJ2-U0317-02",
+   "unit_id": "WJ2-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "香农第二定律：传输率超信道容量结果为零而非部分传输——能力不足时难事的结果是零，要么提能力要么降难度",
+   "quote": "出错率是100%",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25883,
+    "end_line": 25889,
+    "sha1": "d1c32e8955288d80d39f8a09e863237183d7ca01",
+    "fingerprint": [
+     "带宽",
+     "传输率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D03-1"
+   ],
+   "concept_key": "香农第二定律的人生版",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "带宽100传输率101传出信息为零；清北线700考600申请多少次都不中（25885）；同时学多件事违背香农定律、快速学效果可能为零（25889）",
+   "claim_id": "C-WJ2-U0317-03",
+   "unit_id": "WJ2-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奥卡姆剃刀：如无必要勿增实体——最简单的解释通常正确；解决方案用最简单直接的（非洲选最易修的车与土路）",
+   "quote": "如无必要，勿增实体",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25893,
+    "end_line": 25901,
+    "sha1": "9ee75cf027aceccac5a6fbeafdced5580d3eed9c",
+    "fingerprint": [
+     "奥卡姆",
+     "简单"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "奥卡姆剃刀",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "源于牛顿《原理》两句话（25895）；越复杂可能离真理越远（25897）；两个原则：最简解释+最少假设（25899）；与U0274陆巡/土路互参",
+   "claim_id": "C-WJ2-U0317-04",
+   "unit_id": "WJ2-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学方法三要点（抽象化一通百通、剥离问题逐一解决、结论有限有条件）+事实总是对的+警惕身边统计学",
+   "quote": "一通百通",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25907,
+    "end_line": 25913,
+    "sha1": "6249dc67d12428f8c6fe1c2c7f29684c0573b1b2",
+    "fingerprint": [
+     "抽象化",
+     "事实"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "科学方法三要点",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "韦伯观测挑战旧理论=结论有限性（25907）；'眼见的事实也可能是假的'本身矛盾——事实与观察是两个概念（25909）；提问前先把事实搞清楚（25911）；身边统计学的以偏概全与有色过滤（25913）；与U0263/U0312同族互参",
+   "claim_id": "C-WJ2-U0317-05",
+   "unit_id": "WJ2-U0317"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "底层逻辑总结·科学篇：牛顿积分/渐变/香农/奥卡姆/科学方法"
+}

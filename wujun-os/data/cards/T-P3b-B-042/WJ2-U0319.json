@@ -1,0 +1,158 @@
+{
+ "unit_id": "WJ2-U0319",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国大学招生的弹性机制：按历史接受率多发约80%录取书、五月初确认后从等待队列补足——招不满/超招都有预案",
+   "quote": "多发80%的录取通知书",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 26019,
+    "end_line": 26025,
+    "sha1": "3f863b01eed0551b54f8941f8b2f6df699646931",
+    "fingerprint": [
+     "录取",
+     "弹性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-2"
+   ],
+   "concept_key": "招生弹性机制",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "哈佛MIT接受率约70%、排名6-10名校只剩一半（26019）；等待队列学生须答应必去才发录取（26021）；JHU某年超招租旁边酒店当宿舍（26023）；次年减招平衡；不太能用中国情况理解美国情况（26025）；X5边界留痕；答豆豆",
+   "claim_id": "C-WJ2-U0319-01",
+   "unit_id": "WJ2-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "摸鱼还能长期混下去的人大概率有背景：'一辈子摸鱼被裁还层层反映、总公司派人来查'——查背景去（国内外都一样）",
+   "quote": "大概率上面有人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 26033,
+    "end_line": 26039,
+    "sha1": "f2fe5095135e29af284e29107a3213df32ab4600",
+    "fingerprint": [
+     "摸鱼",
+     "背景"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D01-4"
+   ],
+   "concept_key": "混事者背景律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "现实是10人只有1人干活、经理想裁2个无从下手（26033）；国企裁员末位者反告部门压制（26035）；领导为稳位置多招人当裁员缓冲（26041）；盲目内卷没有意义——再卷被裁的可能还是你（26039）；答王笑贤",
+   "claim_id": "C-WJ2-U0319-02",
+   "unit_id": "WJ2-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "普通人避免不必要的竞争：马斯克做Tesla/SpaceX不是看到的机会、而是避免IT行业内卷的退而求其次（能源主线）",
+   "quote": "避免在IT 行业内卷",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 26049,
+    "end_line": 26055,
+    "sha1": "be3e170d183cc341550f4f98941c614dd15a59fd",
+    "fingerprint": [
+     "内卷",
+     "能源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "避免不必要竞争",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不是有钱才做成、是做成才有钱（26053）；20多年前就看好IT、今天的AI投资非跟风（26055）；答study4ever；与U0298内卷族互参",
+   "claim_id": "C-WJ2-U0319-03",
+   "unit_id": "WJ2-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "限制申请数量靠机制不靠善意：升学辅导老师把关推荐信+契约社会违规代价长远——名校按高中配额避免赢者通吃",
+   "quote": "推荐信",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 26069,
+    "end_line": 26075,
+    "sha1": "f905ee4e67877b3e92b5bffebb7c41a38c236318",
+    "fingerprint": [
+     "推荐信",
+     "契约"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "配额与契约的稳定性",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "契约社会违规代价严重长远（26071，'契约'二字在此行——已并入notes）；A高中招满今年就不再招、哪怕剩的比B高中最好的强（26073）；朋友孩子被同年级略强者挤掉认倒霉、另一位果断转学避开（26075）；升学顾问安排报志愿相互照顾（26077）；名校不用择优是怕几所高中包揽、1/3学生跟不上（26079）；答鬼面郎君；X5边界留痕",
+   "claim_id": "C-WJ2-U0319-04",
+   "unit_id": "WJ2-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对未知少做假设（奥卡姆剃刀生活版）：用本地经验补充一知半解会扭曲事实；看似不合理的事或真不合理或有不便说的深因",
+   "quote": "少做任何主观的假设",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 26083,
+    "end_line": 26085,
+    "sha1": "785d70839adba935ea23d8a6889edfa1586ff7cd",
+    "fingerprint": [
+     "假设",
+     "一知半解"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "少做假设原则",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "凡事都合理反而是最大的不合理（26085）；与奥卡姆剃刀（U0317）、先核实事实（U0265）同族互参",
+   "claim_id": "C-WJ2-U0319-05",
+   "unit_id": "WJ2-U0319"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0319",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'豆豆''王笑贤''study4ever''鬼面郎君'四位读者留言与结尾歌词版权页按X7/结构内容留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答52（收官）：招生弹性/混事者背景律/避免不必要竞争/配额契约/少做假设"
+}

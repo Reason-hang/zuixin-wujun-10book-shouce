@@ -1,0 +1,95 @@
+{
+ "unit_id": "WJ2-U0316",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "倒着看世界：大部分人的常规判断通常是错的，倒过来看才看清真相（马云语、老校长'想想其合理性'）",
+   "quote": "倒着看世界",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25779,
+    "end_line": 25787,
+    "sha1": "69c903a144f30ac301d71842ec1e0fdf6f76a2cd",
+    "fingerprint": [
+     "倒立",
+     "真相"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-2"
+   ],
+   "concept_key": "倒着看世界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "阿里要求全员学倒立（25783）；'对不喜欢的言辞想想其合理性'的老校长句影响终身（25787）；马云语E2成分并入；答王登峰",
+   "claim_id": "C-WJ2-U0316-01",
+   "unit_id": "WJ2-U0316"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面子不排第一：有时为了长远健康发展面子就得伤——'你的面子和我的命哪个值钱'；不给不要面子的人面子",
+   "quote": "你的面子和我的命哪个值钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25803,
+    "end_line": 25809,
+    "sha1": "2df3c776ec4a13ce33c8d7e1ce6b23946f057c9b",
+    "fingerprint": [
+     "面子",
+     "伤"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-2"
+   ],
+   "concept_key": "面子不排第一",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "劝酒文化：喝伤一次很损身体、从不往死里喝（25805）；阿里触动既有利益格局、顾及所有人面子早就不用干了（25807）；走火入魔者三拳两脚打出淤血反而好（25809）；明知听不进还反复劝反而有害（25811）",
+   "claim_id": "C-WJ2-U0316-02",
+   "unit_id": "WJ2-U0316"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不被过时价值观绑架：农耕文明的规范不能当今天的行为准则——重农抑商两千年，庚子之变后清廷倒转视角发现商业价值",
+   "quote": "倒着看世界",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25821,
+    "end_line": 25827,
+    "sha1": "3a70484735c365c5f349b7042b341501357f5bcf",
+    "fingerprint": [
+     "农耕",
+     "儒家"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "过时价值观审视",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "儒家被法家化改造带工具色彩、等级秩序重礼轻法需重审（25825）；单一视角导向片面判断（25815）；重农抑商两千年的共识连王阳明曾国藩也不质疑（25829-25831）；1903商部、1904《公司律》、最后十年经济大繁荣（25833）；慈禧的转变不是更英明而是不得不换视角（25835）；X4史实部分留痕",
+   "claim_id": "C-WJ2-U0316-03",
+   "unit_id": "WJ2-U0316"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "倒着看世界：定义/面子不排第一/过时价值观审视"
+}

@@ -1,0 +1,64 @@
+{
+  "project": "WJ-OS 吴军十书·认知与行动操作系统",
+  "pack_version": "1.0",
+  "updated": "2026-10-25（J-109 后）",
+  "phase": "P3b 来信抽取 43/86（谷歌+WJ2 两书收口+单书验收全 PASS；SG3 23批待开 → SG1 20批）",
+  "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
+  "spec": {
+    "v2_方案": "v2（2026-10-19）",
+    "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
+    "pillars": "v1.1（机读 pillars.yaml 10/25 与 §13.1 核验一致；exclusions.yaml X1–X8；boundary_rules.md 规则①–⑫）",
+    "rules": "v1.0 已冻结（spec/rules_v0.9.md，2026-10-24；CHG-021）"
+  },
+  "frozen": {
+    "status": "src_frozen 已冻结 10/10（make restore-check 基线比对全过）；书籍原文不入公开 git 仓库（D-21），zip 由用户保管",
+    "books": 10,
+    "baseline": "spec/baseline_facts.json 已含 10 本哈希与探测基线"
+  },
+  "progress": {
+    "units_total": 1742,
+    "units_content": 1697,
+    "units_done": 1003,
+    "chars_total": 5038558,
+    "chars_done": 2948901,
+    "batches_done": 65,
+    "batches_est": 108
+  },
+  "in_flight": {
+    "ticket": "T-P3x-B-043",
+    "unit_ids": [],
+    "unsaved": "无",
+    "note": "SG3 开工；r15/r16 两任死于限流待补（D-34）"
+  },
+  "last_ticket": "B-042 收官+WJ2 单书验收 PASS（J-108/109）",
+  "next_ticket": "T-P3x-B-043（SG3①）→ B-044~065 → SG3 单书验收 → SG1 B-001~020 → SG1 单书验收；r15/r16 攒槽位补齐",
+  "blocked_by": [],
+  "open_items": [
+    "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",
+    "科学定律通俗表述 E1/E2 两口径并存，P4 统一",
+    "GG-U0013 严口径连续偏弱（attr 稳定过线），P4 观察清单",
+    "U0175 读者留言吴军仅一句 endorse 未抽，P4 复议",
+    "婚恋家庭 X5 处置口径（B-033/034 已按 X5+方法论例外执行），待用户终裁"
+  ],
+  "risks_top": [
+    "平台并发限流全天活跃：子代理常被杀，单流串行+断点续跑是唯一可靠模式",
+    "GATE-C 槽位不可得时推迟并留痕（D-34），严禁主智能体 inline 盲抽（D-31）",
+    "SG1 与谷歌 107 段重复：双出处登记勿双计",
+    "P4 语义聚合断崖：3,569+ 概念键归一依赖人工裁决"
+  ],
+  "estimates": {
+    "batches": "70–90",
+    "rounds_optimistic": "43–75（含 EP-0 3–5，v2.1 口径）",
+    "rounds_conservative": "100–140（每轮约 2–3 万字）",
+    "EP-0": "本轮已实际消耗约 2–3 轮",
+    "note": "轮次区间待 P1 试点实测"
+  },
+  "quota_incidents": [
+    {
+      "date": "2026-10-20",
+      "where": "生成恢复包与交接文档的轮次",
+      "effect": "该轮被中断；改为批次 1→2→3 交付，每批快照",
+      "count_toward_Z1": "1/2"
+    }
+  ]
+}

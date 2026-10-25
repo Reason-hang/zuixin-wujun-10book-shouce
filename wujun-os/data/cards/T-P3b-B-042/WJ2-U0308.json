@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0308",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不随时在线：只要下定决心改变习惯，周围的人会慢慢适应——经常不在线，人家也就不指望你在线",
+   "quote": "周围的人是会慢慢适应",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25051,
+    "end_line": 25055,
+    "sha1": "03478d63d1068f32005d87da07747f49a02db8bf",
+    "fingerprint": [
+     "在线",
+     "适应"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-4"
+   ],
+   "concept_key": "不随时在线",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "王登峰工余不接电话、久了大家接受（25051）；导师留家里电话但'8点后别打、除非生死'（25057）；同事间晚上联系但不要求回复（25059）；答咚咚锵/王登峰",
+   "claim_id": "C-WJ2-U0308-01",
+   "unit_id": "WJ2-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "紧急情况下匆忙处理不如不处理：回滚到稳定版本明天再修——越着急赶出来的东西质量越没保障",
+   "quote": "回滚",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25061,
+    "end_line": 25061,
+    "sha1": "06909c204b1a66553c33578bbdb204f67c0db853",
+    "fingerprint": [
+     "回滚",
+     "质量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-2"
+   ],
+   "concept_key": "匆忙不如不处理",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "'匆匆忙忙处理一件事，还不如不处理'在25059；晚上10点被叫醒想的是赶快处理完睡觉、早上9点有一半可能认真做（25063-25065）；中箭伤员比喻：时间足则麻醉手术考虑留疤、时间紧则锯断箭杆包扎（25067）",
+   "claim_id": "C-WJ2-U0308-02",
+   "unit_id": "WJ2-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人不是机器：被迫的带情绪的工作质量大打折扣——'随时在线'做的东西漏洞百出、补丁摞补丁",
+   "quote": "质量可能会大打折扣",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25071,
+    "end_line": 25073,
+    "sha1": "bf2daf6edd06b9d6e148b0da3e91e663151aa54e",
+    "fingerprint": [
+     "情绪",
+     "补丁"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D08-1"
+   ],
+   "concept_key": "带情绪工作律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "机器多运行10%只发热、产品质量不变（25071）；中型IT企业全员忙但效率低——为补一个漏洞打一堆补丁（25073）；给有时间的员工加任务是提高分子的不明智想法（25069与基因泰克减小分母互参）；一起减少低质量工作、工作其实不会耽误（25075）",
+   "claim_id": "C-WJ2-U0308-03",
+   "unit_id": "WJ2-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "越是重要的事越不能匆忙：舍夫勒不急于打球、把失误限制在局部避免雪崩——小麦天赋更高但太随性常预赛被淘汰",
+   "quote": "不急于打球",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25115,
+    "end_line": 25115,
+    "sha1": "d2740014587a70deb62b535313fd8737d23bfd59",
+    "fingerprint": [
+     "失误",
+     "雪崩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "隔绝失误不雪崩",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "莫利纳里2019大师赛最后半场着急补损连加四杆输给伍兹（25109-25111）；舍夫勒连续148周世界第一、本次也有最大失误但限制在局部平稳收官（25115）；李昊桐第四名创华裔40多年最好成绩（25117）；即时反应适合交差、做特别好须留足时间（25121）",
+   "claim_id": "C-WJ2-U0308-04",
+   "unit_id": "WJ2-U0308"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0308",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "英国公开赛叙事（小麦主场/风大沙坑深/观众围堵）按X3留痕，节奏与专注机理已例外成卡；'咚咚锵''王登峰'留言X7并入本条"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "越是重要越不能匆忙：不随时在线/匆忙不如不处理/带情绪工作律/隔绝失误"
+}

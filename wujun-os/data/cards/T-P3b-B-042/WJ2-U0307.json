@@ -1,0 +1,158 @@
+{
+ "unit_id": "WJ2-U0307",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "排名违反基本事实先查口径：'CS就业垫底'与'哈佛排30多名'同构——统计口径错则结论荒唐",
+   "quote": "违反了基本事实",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24961,
+    "end_line": 24967,
+    "sha1": "725862c73a4269f03a8d75fdeb6a6d8d6d474114",
+    "fingerprint": [
+     "排名",
+     "口径"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D06-1"
+   ],
+   "concept_key": "先查统计口径",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "奥巴马式'对学生有意义'排名只搞一次——前排全是野鸡大学（24963）；与皮尤移民口径混淆（U0301）同族互参；答学习之路",
+   "claim_id": "C-WJ2-U0307-01",
+   "unit_id": "WJ2-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "硅谷就业数据：养老与计算机增长最快、零售餐饮受冲击最大；软件开发者人数第一",
+   "quote": "增长最快的是医疗",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24977,
+    "end_line": 24985,
+    "sha1": "fbabf31f2ab075b7193bda46e29a16395e3958db",
+    "fingerprint": [
+     "医疗",
+     "计算机"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-1"
+   ],
+   "concept_key": "硅谷就业图",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "人口/地缘政治/气候变化三宏观因素（24979）；这是变化非绝对数、计算机新工作未饱和（24981）；前25热门职业：软件开发第一工程师第二（24989）；IT占近1/4（24991）；非IT分三类：专业人士需资质/大容量低门槛/教师文职一个萝卜一个坑（24993）；数据科学信息系统≠计算机科学（24995）；X6时点数据留痕",
+   "claim_id": "C-WJ2-U0307-02",
+   "unit_id": "WJ2-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MIT通杀超级五强：十年前哈佛完胜、现在首选MIT——最聪明的年轻人集体转向好找工作的专业",
+   "quote": "MIT 通杀其余四大名校",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25001,
+    "end_line": 25001,
+    "sha1": "6c912a8225c03734ff753464c169cc17084fd80c",
+    "fingerprint": [
+     "MIT",
+     "哈佛"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "五强择校风向",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "MIT计算机电子工程占学生一半以上（25001）；一个人判断错可能、普遍判断错不太可能（25003）；每个人按自己判断做决定、接受结果就好（25005）；X5边界留痕（择校、机理=集体判断信号）",
+   "claim_id": "C-WJ2-U0307-03",
+   "unit_id": "WJ2-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "让座是道德不是法律：道德约束自己、法律约束彼此——可自己让座但不能要求别人让",
+   "quote": "道德是社会的天花板",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25015,
+    "end_line": 25019,
+    "sha1": "d2c2d62dd209d2f2eb53fa0227fa3e8a4a61524a",
+    "fingerprint": [
+     "道德",
+     "让座"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "道德与法律的边界",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "专座是老幼病残孕的特权、他坐遇之须让（25017）；日本老人不接受让座重尊严、欧美普通座不让（25021）；X5边界留痕（公交语境、机理=道德法律边界普适）；答胡剑锋",
+   "claim_id": "C-WJ2-U0307-04",
+   "unit_id": "WJ2-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "反常识安排：美国空乘无义务帮放行李——因官司判赔；无能力照顾自己者理论上不适合坐飞机",
+   "quote": "没有义务帮乘客把箱子",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25027,
+    "end_line": 25031,
+    "sha1": "cd610cfde51b67a9a670af92cb156c0e2e6fa77c",
+    "fingerprint": [
+     "义务",
+     "行李"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D03-1"
+   ],
+   "concept_key": "义务由判例塑造",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "空乘拎箱受伤官司打赢后此义务取消（25027）；细则建议：自己放不上去就带轻点的箱子或托运（25031）；轮椅服务有且优先登机（25033）",
+   "claim_id": "C-WJ2-U0307-05",
+   "unit_id": "WJ2-U0307"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0307",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'学习之路''胡剑锋'两位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答50：先查统计口径/硅谷就业图/五强择校/道德法律边界/义务由判例塑造"
+}

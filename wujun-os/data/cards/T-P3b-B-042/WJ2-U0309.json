@@ -1,0 +1,95 @@
+{
+ "unit_id": "WJ2-U0309",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "孝顺难三因：代际情感矛盾（原生家庭创伤）、社会保障未完善（道德替代机制）、中年多重责任（三明治一代）",
+   "quote": "三个重要原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25163,
+    "end_line": 25173,
+    "sha1": "fa993d75b2bdd20f30cd3499fb60887e60436dd2",
+    "fingerprint": [
+     "创伤",
+     "代际"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "孝顺难三因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（孝道本体、机理=道德替代机制普适）；第三因三明治夹心在25183-25191：还完房贷资源多投子女（现代观念）vs传统以父母为中心；机制未覆盖时靠道德文化维持责任——企业想加班又舍不得奖金就批评不加班者（25179）；'孝顺不是选择是安排'（25181）；瑞珏之死（25187）",
+   "claim_id": "C-WJ2-U0309-01",
+   "unit_id": "WJ2-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "古人尽孝两原因：古代保障更差孝道是秩序（角色扮演而非爱）、孝道是公开道德评判甚至关乎生死（嵇康为吕安辩解而死）",
+   "quote": "涉及社会对个体的公开道德评判",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25205,
+    "end_line": 25213,
+    "sha1": "654b0f015f8080aa90f0db4ef81368310150b2c9",
+    "fingerprint": [
+     "秩序",
+     "评判"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D07-2"
+   ],
+   "concept_key": "古代孝道的本质",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "《孝经》讲行为规范要像子女、不是你是否爱父母（25201）；丁忧守孝三年很矛盾、父母也配合演出（25209）；吕巽诬陷弟弟不孝致嵇康吕安同死（25213）；现代爱讲对等性（25203）",
+   "claim_id": "C-WJ2-U0309-02",
+   "unit_id": "WJ2-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "走出代际轮回：养老产业落实后社会对孝顺的依赖减轻、代际基于爱建立新关系——下一代不必因忙被认为不孝",
+   "quote": "代际轮回",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25215,
+    "end_line": 25225,
+    "sha1": "26899a5e84a6b196aa14613bc8c6d555b12d4b02",
+    "fingerprint": [
+     "养老",
+     "爱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D08-1"
+   ],
+   "concept_key": "代际关系现代化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中年一代是过渡的一代：接受有裂痕的原生家庭+构建有爱能说真话的新结构（25219）；在照顾他人和关爱自己之间找平衡（25227）；X5边界留痕",
+   "claim_id": "C-WJ2-U0309-03",
+   "unit_id": "WJ2-U0309"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "三明治一代与孝道两难：三因/古代本质/代际现代化（X5边界例外）"
+}

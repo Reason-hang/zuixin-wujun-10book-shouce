@@ -1,0 +1,101 @@
+{
+ "unit_id": "WJ2-U0314",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "规划不是目标也不是战略，是做事的方法和工具：要点=计算资源分配+发现矛盾排除不可能",
+   "quote": "做事的方法和工具",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25593,
+    "end_line": 25597,
+    "sha1": "5f891974333afdc7e4edf9bc8cbc6fbe0d74f7f4",
+    "fingerprint": [
+     "规划",
+     "工具"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "规划是工具",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不论什么目标实现时最好有规划；答咚咚锵'钱留不住'——具体做法就是做规划（25591）",
+   "claim_id": "C-WJ2-U0314-01",
+   "unit_id": "WJ2-U0314"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "小赵买房案：婚前郊区贷款房+重装修，婚后供1.5套房、次贷危机割肉、工作十年没攒下退休金——高收入仅收支平衡",
+   "quote": "供养1.5 套房子",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25611,
+    "end_line": 25617,
+    "sha1": "f1f5e9dc3093792c87e44875694cc83e5fb7c8b3",
+    "fingerprint": [
+     "房贷",
+     "退休金"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "小赵无规划买房案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理；前情在25603-25611：20%首付+6%利率+装修花光积蓄（25609）、地段差男友不住租不甘心（25613）；后情在25617-25621：次贷危机割肉没挣到钱、只买国债2012又后悔、学区差送私立又花光；硅谷不少见、主因缺财务规划（25623）",
+   "claim_id": "C-WJ2-U0314-02",
+   "unit_id": "WJ2-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "财务规划三原则：①想清楚要过什么生活并取舍②投资与花费各设比例超限不花③按预期寿命算退休金够不够",
+   "quote": "三个最重要的原则",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25627,
+    "end_line": 25641,
+    "sha1": "6f794fa3facaaff5120082d3d943225fc71c3127",
+    "fingerprint": [
+     "取舍",
+     "退休金"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D03-1"
+   ],
+   "concept_key": "财务规划三原则",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "单身旅行朋友留够养老金其余全花旅行、住便宜房幸福感很高（25633）；年薪百万捡过期食品不如投时间于他事（25635）；美国中产10%退休金25%房贷雷打不动（25639）；第三原则在25645-25651：按100-120岁规划、退休金增长赶不上物价、积蓄全给子女交首付有风险；规划后发现很多事不做钱就留住了（25653）",
+   "claim_id": "C-WJ2-U0314-03",
+   "unit_id": "WJ2-U0314"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0314",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'咚咚锵'来信长文为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "财务规划：规划是工具/小赵买房案/三原则"
+}

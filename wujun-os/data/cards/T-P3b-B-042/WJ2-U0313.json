@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0313",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "认知优化可无限进行但总量有极限：优化到差不多就好——每次优化有成本，边际效益小于成本时优化反而有害",
+   "quote": "总的优化程度是无限大",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25505,
+    "end_line": 25509,
+    "sha1": "310ce2367d6bdc3e44eed7bcdfc45b58698a0be7",
+    "fingerprint": [
+     "极限",
+     "边际"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D03-1"
+   ],
+   "concept_key": "优化极限律",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "阿喀琉斯悖论：1分成无限份总和10/9有限（25505）；外界条件不变则优化空间有限、想再优化须跳出原圈子（25509）；答Shaper杨",
+   "claim_id": "C-WJ2-U0313-01",
+   "unit_id": "WJ2-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学基础理论的正确策略：先接受智者对这个时代底层逻辑的思考、再学基础理论效率更高——从理论到时代逻辑有大跨越",
+   "quote": "底层逻辑",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25517,
+    "end_line": 25525,
+    "sha1": "0cedc84d73b346a68ede2609e9523f33564641df",
+    "fingerprint": [
+     "基础理论",
+     "思想家"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "先逻辑后理论",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "机械时代底层逻辑=牛顿力学确定性、信息时代=量子力学信息论不确定性（25521）；光学牛顿量子还不够（25523）；答刘江",
+   "claim_id": "C-WJ2-U0313-02",
+   "unit_id": "WJ2-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断精力体力极限从身体反应感知；提升两法=健康生活+年轻时锻炼发育型运动——奥运级高强度反而伤病折寿",
+   "quote": "接近极限",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25535,
+    "end_line": 25541,
+    "sha1": "3af0371c1d22bb05b87b5e711510adcd9b0114b7",
+    "fingerprint": [
+     "精力",
+     "锻炼"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D05-1"
+   ],
+   "concept_key": "精力极限与锻炼",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "感觉累基本就接近极限（25535）；奥运运动员几乎都有伤病、寿命不比普通人长（25541）；答莫听",
+   "claim_id": "C-WJ2-U0313-03",
+   "unit_id": "WJ2-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "家族传承的答案是家风不是财富：曾国藩家族人才辈出、钱镠家族千年三钱钱钟书——西方专业机构管钱、后代体面但不躺平",
+   "quote": "家风是可以传承",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25561,
+    "end_line": 25565,
+    "sha1": "a000794cbdb95b42cc48e3800e29646ddc41365c",
+    "fingerprint": [
+     "家风",
+     "钱镠"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D09-1"
+   ],
+   "concept_key": "家风传承",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "美第奇因无男性传人消失、朱元璋后代传人太多泯然众人（25559）；香港大家族子孙可支配的钱不多、首饰从婆婆处借用（25561）；达尔文韦奇伍德联姻后代十多位院士（25563）；基因回归平庸是自然规律、与时代技术无关（25567）；X5边界留痕",
+   "claim_id": "C-WJ2-U0313-04",
+   "unit_id": "WJ2-U0313"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0313",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'Shaper杨''刘江''莫听''Deabe''art'五位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答51：优化极限/先逻辑后理论/精力极限/家风传承"
+}

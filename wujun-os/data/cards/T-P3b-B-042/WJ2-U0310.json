@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0310",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "个人不要把系统性缺陷背到自己身上：被孝道压垮、被'积极心态'规训，本质是系统性问题被转化为个人心理问题",
+   "quote": "背在自己身上",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25239,
+    "end_line": 25239,
+    "sha1": "694964200f54dca36502f08c3cc3d66c8e851a7d",
+    "fingerprint": [
+     "系统性",
+     "个人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "勿背系统缺陷",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "积极心态从美德变义务再变规训（25247）；所有的不如意被说成内心问题——受困者也用它评判他人（25293）",
+   "claim_id": "C-WJ2-U0310-01",
+   "unit_id": "WJ2-U0310"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "神化积极心态三危害：真问题被忽视（枪击前兆被归为心态）、无形压迫（结构性挑战不会因心态好消失）、系统性风险转嫁个人",
+   "quote": "真正的问题就会被忽视",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25275,
+    "end_line": 25285,
+    "sha1": "63a72f7ea6fb8fcc7fb8d529020d96ab15a2e5e8",
+    "fingerprint": [
+     "忽视",
+     "结构性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D07-2"
+   ],
+   "concept_key": "积极心态枷锁",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "公司纰漏用'坏事当好事办'掩盖（25277）；学生心理问题被归为心态不积极、埋下极端行为风险（25279-25281）；心态再好C9也不多招、大厂也不多招（25289）；第三危害风险转嫁在25295-25301：学历过高难匹配是系统性风险非心态问题",
+   "claim_id": "C-WJ2-U0310-02",
+   "unit_id": "WJ2-U0310"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "积极心态流行的三原因：正向心理学畅销书、管理者借它控制秩序（加班=奋斗）、机构借它掩盖问题推卸责任",
+   "quote": "三个主要原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25253,
+    "end_line": 25265,
+    "sha1": "c5f14858015bc9a7b4874c081dd4790c47781457",
+    "fingerprint": [
+     "正向心理学",
+     "控制"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D07-2"
+   ],
+   "concept_key": "积极心态三源",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "塞利格曼畅销书进入企业文化和K-12（25255）；正向心理学对中国人意义不大——大家已经卖力工作（25257/25313）；裁员调岗时领导讲平常心当历练（25269）",
+   "claim_id": "C-WJ2-U0310-03",
+   "unit_id": "WJ2-U0310"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应对三建议：分清客观问题与自己造成（解决具体问题而非调心态）、守住自我价值、别把系统性压力全背到自己身上",
+   "quote": "分清楚哪些问题是客观存在",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25307,
+    "end_line": 25321,
+    "sha1": "28d4d24a66f95afc67dc08a2714827f25e8f02e2",
+    "fingerprint": [
+     "客观",
+     "自我价值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D05-1"
+   ],
+   "concept_key": "应对系统性压力三建议",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "正向心理学产生于二战后福利社会精神空虚的西方背景（25309-25311）；利润不高要解决销售而非加班、内卷要解决内卷（25315）；为求知而学易达目标、非上C9不可易迷失（25319）；心态再好也背不起系统性问题（25321）",
+   "claim_id": "C-WJ2-U0310-04",
+   "unit_id": "WJ2-U0310"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "勿背系统缺陷：定义/积极心态枷锁/三源/三建议"
+}

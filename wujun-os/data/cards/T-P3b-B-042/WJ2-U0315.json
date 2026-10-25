@@ -1,0 +1,151 @@
+{
+ "unit_id": "WJ2-U0315",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "结婚也需要规划：按生育目标倒推时间线——35岁生育→33结婚→30有对象→27、28认真谈",
+   "quote": "需要有一个规划",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25695,
+    "end_line": 25701,
+    "sha1": "5f620343d3ecad98f4a38d0a15f4570b16fa365d",
+    "fingerprint": [
+     "生孩子",
+     "规划"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "婚恋倒推规划",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（婚恋语境、机理=倒推规划法普适）；倒推链条在25699；博士条件好但可挑选的人非常少、读研时就得把找对象当重要事（25701）；大学恋爱单纯成婚比例高（25703）；很多最终没结婚的人是没规划好选择变少（25709-25713）",
+   "claim_id": "C-WJ2-U0315-01",
+   "unit_id": "WJ2-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学妹转结婚模式案例：清楚知道何时结婚生育、没时间慢慢谈——不合适的直接不考虑、遇合适直接行动",
+   "quote": "转到结婚模式",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25715,
+    "end_line": 25721,
+    "sha1": "8dc3954c72588d1092f7afe877b02b93e032ec8b",
+    "fingerprint": [
+     "相亲",
+     "行动"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "结婚模式切换案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；上相亲节目、追求者到办公室求婚、判断合适相处即结婚一年后有子（25715）；财务准备与双方家庭条件也要考虑（25719）；光有爱情没规划很难走进婚姻（25721）",
+   "claim_id": "C-WJ2-U0315-02",
+   "unit_id": "WJ2-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生育规划：两丁克家庭皆因没规划过年龄（先攒学区房负担太重/忙事业常出差）——大学毕业起结婚生子只有十几年",
+   "quote": "过了生育年纪",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25727,
+    "end_line": 25733,
+    "sha1": "3bb772c6fdadfc5ff50b7bb80b71219f3103998a",
+    "fingerprint": [
+     "丁克",
+     "规划"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "生育窗口规划",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；医学上35岁前生较好、30岁前最好（25733）；'总觉得日子还长'是最大错觉（25731）",
+   "claim_id": "C-WJ2-U0315-03",
+   "unit_id": "WJ2-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "育儿规划=左右对账：左边列时间财力、右边列想做的事——对一对就发现矛盾、删掉做不到的事再细化",
+   "quote": "列出来",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25739,
+    "end_line": 25749,
+    "sha1": "615add0c93f0a355e9fb80132d775423a3d3c526",
+    "fingerprint": [
+     "规划",
+     "矛盾"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "规划对账法",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "美术家+音乐+体育不可能兼得：每件1万小时、财力或花一半收入（25743）；'左边和右边对一对就能发现矛盾'在25743；规划完心里有主意、不盲目冲动不事事问人（25747）；没有物质保障很多事半途而废（25749）；X5边界留痕（育儿语境、机理=资源对账普适）",
+   "claim_id": "C-WJ2-U0315-04",
+   "unit_id": "WJ2-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考前规划：按掌握程度分配时间、先复习后考科目、保重点弃次重点——80分水平按80-85分规划勿攻难题",
+   "quote": "捡了芝麻，丢了西瓜",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25753,
+    "end_line": 25761,
+    "sha1": "e072e9fc2d1634f753268757e6187e4f0c75e549",
+    "fingerprint": [
+     "复习",
+     "重点"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D05-1"
+   ],
+   "concept_key": "考前规划法",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "一学期没懂的几天搞懂几乎不可能（25757）；没复习到的次重点考不会也就认了（25761）；掌握规划工具同样的水平资源能得好很多的结果（25763）；X5边界留痕",
+   "claim_id": "C-WJ2-U0315-05",
+   "unit_id": "WJ2-U0315"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "婚育规划：倒推规划/模式切换案/生育窗口/对账法/考前规划（X5边界例外）"
+}

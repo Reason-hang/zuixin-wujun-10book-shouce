@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0311",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "白日猫头鹰效应：视野窄、判断不清距离、只看当前周围一点点——算法推荐和身边统计学就是白日猫头鹰",
+   "quote": "视野很窄",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25349,
+    "end_line": 25357,
+    "sha1": "cfca6ec5118448d509fff6d1f1505db8261cb5ea",
+    "fingerprint": [
+     "视野",
+     "猫头鹰"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "白日猫头鹰效应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "足球新手只看身边一两人打不开局面；球星黄金期偏大因视野与距离判断需积累（25353-25355）；看新闻要主动寻找、不能只看推送（25357）；记名词即记住内容方便自警（25359）",
+   "claim_id": "C-WJ2-U0311-01",
+   "unit_id": "WJ2-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "暗夜猫头鹰效应：你以为没人看时有一双眼睛在记录真实——下班后做什么决定职业发展快慢",
+   "quote": "有一双猫头鹰的眼睛",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25363,
+    "end_line": 25371,
+    "sha1": "58e6e285d3eaf43fd0d1f2f721566cb230287901",
+    "fingerprint": [
+     "暗夜",
+     "真实"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "暗夜猫头鹰效应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "领导在装努力、领导走就摸鱼（25369）；命运不看聚光灯下的表现、安静记录没人关注时的样子（25371）；学霸同学生活里玩背后拼命到父母求老师劝（25373）；潜意识在最不设防时显露=真实的你（25375）",
+   "claim_id": "C-WJ2-U0311-02",
+   "unit_id": "WJ2-U0311"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "宋孝宗案例：胖孩子踢猫一件小事毁掉机遇——人在最放松时流露本性，也是最容易受伤害的时候",
+   "quote": "飞起一脚把猫踢走了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25381,
+    "end_line": 25385,
+    "sha1": "e686fb2ebcb2dbb7f062fda3c315d8989b08ec84",
+    "fingerprint": [
+     "宋孝宗",
+     "猫"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "踢猫失位案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：1600候选人只剩一胖一瘦、高宗因踢猫改留瘦子赵昚（25383）；名将身经百战死于营帐宵小=典型暗夜猫头鹰（25385）",
+   "claim_id": "C-WJ2-U0311-03",
+   "unit_id": "WJ2-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "暗夜猫头鹰三注意：不敷衍自己（生活习惯不敷衍）、好运气从地里长出来、人生真考验没有铃声监考",
+   "quote": "不敷衍自己",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25391,
+    "end_line": 25399,
+    "sha1": "93500711adb0ce158650aa4242b32818c5277276",
+    "fingerprint": [
+     "敷衍",
+     "生活习惯"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D05-1"
+   ],
+   "concept_key": "暗夜猫头鹰三注意",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "最影响寿命的除基因就是生活习惯、晚睡半小时没人责备但在敷衍自己（25395）；约会迟到忘小事久了被认定难托付（25397）；'好运从地里长出来'与'真考验无铃声'在25399-25407：决定命运的是默默观察的人（25401）、用人单位不看GPA看真能做事（25405）",
+   "claim_id": "C-WJ2-U0311-04",
+   "unit_id": "WJ2-U0311"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "两个猫头鹰效应：白日视野窄/暗夜记录真实/踢猫案/三注意"
+}

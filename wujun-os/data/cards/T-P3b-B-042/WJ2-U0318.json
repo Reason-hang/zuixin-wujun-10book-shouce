@@ -1,0 +1,121 @@
+{
+ "unit_id": "WJ2-U0318",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "钱不是大风刮来的：财富靠劳动创造；个人财富=调动资源的总和——机器人与AI只让拥有者更有钱",
+   "quote": "劳动创造一切价值",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25931,
+    "end_line": 25939,
+    "sha1": "97f9da503f8ee29aa1ff7c1a59386d46bd0adcdc",
+    "fingerprint": [
+     "劳动",
+     "财富"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D08-1"
+   ],
+   "concept_key": "劳动价值论总结",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "钻石星球坠地球财富不增只让钻石没人要（25931）；斯密三结论在25939：国民劳动是财富源泉/价值取决于劳动量/复杂劳动值钱；个人财富=调动资源的总和（25941）；机器人生产≠人人有调动资源能力（25943）；AI让工作不值钱——韦奇伍德瓷器例（25945）；奶头乐剥夺劳动权利（25947）；与U0178/U0237同族互参",
+   "claim_id": "C-WJ2-U0318-01",
+   "unit_id": "WJ2-U0318"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "赚钱与挣钱是两回事：赚钱靠钱生钱、挣钱靠劳动换——学校教挣钱不教赚钱；财商=对财富本质的认知+驾驭财富的能力",
+   "quote": "赚钱和挣钱是两回事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25953,
+    "end_line": 25957,
+    "sha1": "a4cafabff954fe673c619cfa27c7bbf637186a19",
+    "fingerprint": [
+     "赚钱",
+     "挣钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "赚钱与挣钱",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "贝字旁与提手旁（25953）；缺乏财商的表现：纸面资产当财富、不懂沉没成本、只想挣钱忽略赔钱可能（25957）",
+   "claim_id": "C-WJ2-U0318-02",
+   "unit_id": "WJ2-U0318"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "提高财商第一步=理解并相信市场有效性：开始考虑选股就输了一半；轻松又高收入的专业不存在；独占机会不存在",
+   "quote": "市场的有效性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25959,
+    "end_line": 25963,
+    "sha1": "c3a1803a4db5b6db5ba308f6bbf985c4c486badb",
+    "fingerprint": [
+     "选股",
+     "有效性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "市场有效性三例",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "门槛低收入高的专业大家蜂拥而至拉低回报（25961）；被长期验证的原理要理解信任并坚持应用、而非频繁改策略（25963）；海湖庄园/范德比尔特豪宅=资产变债务例（25967）；2亿产业工人产能全世界用不完、赚钱只能靠服务业（25971-25973）；与U0187/U0275同族互参",
+   "claim_id": "C-WJ2-U0318-03",
+   "unit_id": "WJ2-U0318"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业是最好的慈善推论：企业第一任务是合法赚钱养员工回馈投资人，再谈慈善——慈善是双刃剑可能摧毁原有产业",
+   "quote": "企业的第一任务是合法地赚钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 25977,
+    "end_line": 25981,
+    "sha1": "118c173d54616181e96139917057ee5fb86e95ed",
+    "fingerprint": [
+     "慈善",
+     "合法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "企业第一任务",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "没做好自己的事就跨界拓展=误解责任（25979）；谷歌苹果把核心业务做好年创三四千亿产值+回购千亿股票（25981）；标准定高点不仅及格线、个人也参考此理念；成年人的世界做选择不做教育（25983）；与U0178商业是最好的慈善同键互参",
+   "claim_id": "C-WJ2-U0318-04",
+   "unit_id": "WJ2-U0318"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "底层逻辑总结·经济学篇：劳动价值论/赚钱挣钱/市场有效性/企业第一任务"
+}

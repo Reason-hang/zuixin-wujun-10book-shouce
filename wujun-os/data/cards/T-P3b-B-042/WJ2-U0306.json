@@ -1,0 +1,94 @@
+{
+ "unit_id": "WJ2-U0306",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-042",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "规矩比法律更具体：法律是最低要求，很多事没有法律参考就要定规矩——如'兔子不吃窝边草'（违反者一方离职）",
+   "quote": "兔子不能吃窝边草",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24887,
+    "end_line": 24891,
+    "sha1": "00db189b36a8b57fcbfaca00540198a38e27a73f",
+    "fingerprint": [
+     "规矩",
+     "法律"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "规矩的意义",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "学妹为和苹果老板恋爱跳槽谷歌——个人与公司都付代价，但无此规矩则权力占便宜、组织吃大亏（24891）；谷歌腾讯均有此规",
+   "claim_id": "C-WJ2-U0306-01",
+   "unit_id": "WJ2-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "德国人从心里爱守规矩vs新加坡人被罚款逼着守；死按规矩办致效率极低——火车准点率不足60%远逊法国瑞士",
+   "quote": "死按规矩办事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24925,
+    "end_line": 24933,
+    "sha1": "d4bfdaf215826a5e5739aff29fb2f0858450ca83",
+    "fingerprint": [
+     "死按规矩",
+     "准点率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "守规矩的另一面",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "爱守规矩vs被罚守的对比在24893；法兰克福三关各耗半小时（还车掉漆逐级上报24905-24907/安检桌面装饰开箱24909-24925/退税核验实物24927）；长途70%短途50%、法国87%瑞士95%（24931）；德国人自认太死板、小事折腾到晚点（24933）",
+   "claim_id": "C-WJ2-U0306-02",
+   "unit_id": "WJ2-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "规矩不能与时俱进则越守问题越大：德国按燃油车流程造电动车失去竞争力——创新强的地区要么不太守规矩要么规矩常更新",
+   "quote": "与时俱进",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24937,
+    "end_line": 24943,
+    "sha1": "01a9b79c645d079590870cb804d50d7a08c5824d",
+    "fingerprint": [
+     "过时",
+     "创新"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "过时规矩之害",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "德国高速上中低端多是外国车、高端靠百年老本（24941）；租车公司已给比亚迪（24941）；再过10年传统制造业地位或被中国取代（24943）；X3游记语境按机理例外成卡",
+   "claim_id": "C-WJ2-U0306-03",
+   "unit_id": "WJ2-U0306"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "德国人守规矩的另一面：规矩的意义/守规矩的另一面/过时规矩之害"
+}
