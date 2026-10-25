@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG3-U0062",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "解决矛盾最好的方法或是各自放弃对对方利益的诉求，维持现状再一同发展",
+   "quote": "各自放弃对对方利益的诉求",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6337,
+    "end_line": 6337,
+    "fingerprint": [
+     "维持现状",
+     "一同发展"
+    ],
+    "sha1": "cd7fa870c842d08baf4059480f58345a923cef0d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "维持现状机制",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "由巴勒斯坦处境想到奥斯曼三世维持现状敕令（6337）；敕令机制见C-SG3-U0059-02；巴以当下依附时点的局势判断已登记X2",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0062-01",
+   "unit_id": "SG3-U0062"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "书本只能看到世界在作者眼中的侧面，读万卷书行万里路才能深刻又真切全面",
+   "quote": "读万卷书，行万里路",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6375,
+    "end_line": 6377,
+    "fingerprint": [
+     "侧面",
+     "亲身体验"
+    ],
+    "sha1": "df82f3b591cf4eaba2fe627b7014618c44c1de5b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "行万里路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "只靠媒体和书籍会觉得中东看不到任何希望、亲身体验后觉得世仇民族依然有和解的可能性（6375）；划重点3（6387）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0062-02",
+   "unit_id": "SG3-U0062"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0062",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附当下时局的论断：8万劳工许可证与3.5万非法打工、2018年底冲突后管制收紧、28岁以上已婚有子女的安全条件、90%为农民与三分之二在贫困线下、约旦人均GDP约4000美元与人均寿命74岁、2020年起阿拉伯国家陆续与以色列建交等（6307-6357），离开时点即失效；'用生活绑定筛掉激进者'的筛人机制留档待P4定夺"
+  },
+  {
+   "unit_id": "SG3-U0062",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "边境高墙涂鸦与难民营见闻、星球大战取景地荒山、佩特拉峡谷与卡兹尼神殿游览叙述（6303-6307、6345、6361-6371），游记叙述无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第050封信（游记时事信，抽2卡）：维持现状解矛盾/行万里路；巴以时局与约旦国情时点论断归X2、难民营与佩特拉游览归X3"
+}

@@ -1,0 +1,161 @@
+{
+ "unit_id": "SG3-U0051",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "日常做事所得的经验与经验主义讲的不是同一维度：前者是实践，后者是方法论",
+   "quote": "不是同一个维度的事情",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5209,
+    "end_line": 5211,
+    "fingerprint": [
+     "经验主义",
+     "方法论"
+    ],
+    "sha1": "7947bc1bea646fb1c3de61f088a8b500d21204ba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "经验与经验主义之分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "鱼香肉丝放盐的经验例（5209）；经验、经验主义、归纳、归纳法、数学归纳法五个概念有相关性但不是一回事，不能从字面认为一个包含另一个（5203-5207）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0051-01",
+   "unit_id": "SG3-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经验主义不看重从经验得到一般规律；理性主义认为可通过归纳得到一般规律",
+   "quote": "可以通过归纳法得到一般性的规律",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5213,
+    "end_line": 5213,
+    "fingerprint": [
+     "经验主义",
+     "理性主义"
+    ],
+    "sha1": "b5b5b76746acf9baba76c90edf4bb262f1838544"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理性主义与经验主义之分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "理性主义按比例算盐量vs经验主义悟门道出锅前尝味调味例（5215-5223）；两种方法论都不排斥在实践中总结经验（5213、5225）；NLP例：总结三四万条语法规则仍有例外且自相矛盾，直接记录语言现象反而更有效（5227-5229）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0051-02",
+   "unit_id": "SG3-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "归纳法是理性主义方法论，归纳理论总有漏洞即不完全归纳，只能大概率正确",
+   "quote": "大概率正确",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5231,
+    "end_line": 5237,
+    "fingerprint": [
+     "不完全归纳",
+     "大概率正确",
+     "数学归纳法"
+    ],
+    "sha1": "af344d1f40e3ed6f690f756ab60eee9af72e8974"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "不完全归纳",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数学归纳法从无限个重复情况总结规律、结论没有例外，是唯一完备领域（5237）；由洗炼同学火鸡提问引出（5197）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0051-03",
+   "unit_id": "SG3-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在得到听书和自己读书不能完全等价替换，但听书可作为读书的第一步",
+   "quote": "听书可以作为读书的第一步",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5251,
+    "end_line": 5253,
+    "fingerprint": [
+     "等价替换",
+     "第一步"
+    ],
+    "sha1": "4efeeaaec87a860170ab58f1209aaaa9214fe39e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "听书作为泛读第一步",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "听书三好处：省时间、有老师引导易准确把握、帮过滤选书（5255-5261）；经典著作不同人有不同解读，听哪家解读都要记住这点（5261-5265）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0051-04",
+   "unit_id": "SG3-U0051"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第二遍读书要了解内容细节与作者全面想法，不能只靠20分钟听书达到",
+   "quote": "了解作者全面的想法",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5267,
+    "end_line": 5271,
+    "fingerprint": [
+     "第二遍",
+     "泛读"
+    ],
+    "sha1": "c83b70ba7bcae66474b8bb7b0c852b5628e13486"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读书三遍法",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "第一遍泛读可由听书解决（5267）；第三遍学作者写作技巧并摘录观点数据备将来使用（5271）；出自《阅读与写作》课程的知识体系方法",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0051-05",
+   "unit_id": "SG3-U0051"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0051",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言原文：洗炼关于归纳法与经验主义的提问（5197）、TTT关于听书能否替代读书及大宪章、明治宪法的提问（5239-5245）"
+  },
+  {
+   "unit_id": "SG3-U0051",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "《大宪章》是否宪法之辨、与美国宪法的结构对比、《明治宪法》仿德国宪法渊源（5273-5285），政治史实与常识科普无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问07：经验与经验主义之分/理性主义与经验主义之分/不完全归纳/听书作泛读第一步/读书三遍法；读者留言归X7、大宪章与明治宪法科普归X4"
+}

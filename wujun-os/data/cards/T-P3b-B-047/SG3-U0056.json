@@ -1,0 +1,200 @@
+{
+ "unit_id": "SG3-U0056",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "越是优势一方越要管束好情绪慎用力量，矛盾稍有升级损失大的是优势方",
+   "quote": "管束好自己的情绪",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5717,
+    "end_line": 5721,
+    "fingerprint": [
+     "伸个小指头",
+     "升级"
+    ],
+    "sha1": "5d04989ad0997d6ad6236950e0fa88988fbf1150"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "优势方慎用力量",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "力量完全不对等的冲突常见（5717）；量化：优势方利益1个亿、1%损失即百万量级，碰瓷方至多损失100却可能获成百上千倍收益（5723）；每次碰瓷一无所得则生意做不下去（5725）；哈佛正眼瞧这类文章就已输（5707）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-01",
+   "unit_id": "SG3-U0056"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "一位女演员：一个人有多大的名气，就要准备承担多大的污名",
+   "quote": "承担多大的污名",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5727,
+    "end_line": 5727,
+    "fingerprint": [
+     "女演员",
+     "污名"
+    ],
+    "sha1": "6dcf15cdcedcde7e3f6a4ba3f1e3e5e481925b66"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "名誉所得税",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=一位女演员（未具名），吴军觉得颇有道理（5727）；莫名其妙诽谤的损失只当交了名誉的所得税（5727）；税跟着收入涨、习惯每挣两块只当挣一块就不会去偷税（5729）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-02",
+   "unit_id": "SG3-U0056"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "被碰瓷如被狗咬：第一件事是止血打疫苗止损，而不是趴地上咬死狗",
+   "quote": "第一件事就是止血",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5711,
+    "end_line": 5711,
+    "fingerprint": [
+     "狗咬",
+     "疫苗"
+    ],
+    "sha1": "45355dcdb14c0c3fad4be4b5bfd98f1bc918cc3c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "碰瓷先止损",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "建议朋友不参与论战、只写文章介绍自己了解的他、千万别回复对方任何问题（5709）；此后一律不理会，十年后产业大十倍而碰瓷者销声匿迹（5713）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-03",
+   "unit_id": "SG3-U0056"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "维护利益和维护正义并不矛盾，正当的一方维护自己的利益就是维护正义",
+   "quote": "维护利益和维护正义并不矛盾",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5769,
+    "end_line": 5769,
+    "fingerprint": [
+     "正义",
+     "不好意思"
+    ],
+    "sha1": "1bfd79201016058c636b5a47288cce27fd4e12ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "利益正义一致",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不必觉得涉及利益就不好意思（5769）；柏拉图《理想国》正义讨论的吴军取用，原话见C-SG3-U0056-05；华邮以强凌弱既违背正义也违背自己利益（5765）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-04",
+   "unit_id": "SG3-U0056"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "塞拉西马柯：正义的本质是最强者的利益，正义是对统治者命令的服从",
+   "quote": "正义的本质是最强者的利益",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5743,
+    "end_line": 5745,
+    "fingerprint": [
+     "塞拉西马柯",
+     "强者"
+    ],
+    "sha1": "97fe54cd7c353c5a5dceddfcf5afc161e5a2e316"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "正义即强者利益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=塞拉西马柯（柏拉图《理想国》第一卷）；苏格拉底反驳：统治者可能颁布不利于自己利益的命令（5743）；塞拉西马柯再辩：理性统治者不会颁不利于己的命令、正当统治者利益与大众利益不矛盾（5745）；吴军取用见C-SG3-U0056-04、C-SG3-U0056-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-05",
+   "unit_id": "SG3-U0056"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "强势一方维护正义的方式是不让利益受损，睚眦必报的做法不符合正义",
+   "quote": "睚眦必报",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5751,
+    "end_line": 5751,
+    "fingerprint": [
+     "强势的一方",
+     "正义"
+    ],
+    "sha1": "93eb158198c55a080e03972532e556af64d14dec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "强者不睚眦必报",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "大学投诉批评文章反而让自己名誉扫地（5703-5705）；不能像暴君一样把人打死封杀了事（5751）；隋炀帝背离关陇集团利益故非真正最强者、李渊父子才代表正义（5747）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-06",
+   "unit_id": "SG3-U0056"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "弱势一方要维护正当权利则需勇于抗争，用法律伸张正义",
+   "quote": "则需要勇于抗争",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5755,
+    "end_line": 5761,
+    "fingerprint": [
+     "桑德曼",
+     "抗争"
+    ],
+    "sha1": "24cd0a4462dd9a43eb1408ef3a4954d55a9dd5d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "弱势方勇于抗争",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "桑德曼被断章取义拍摄遭全网攻击，起诉各大媒体每家索赔1-2.5亿美元（5757-5761）；华盛顿邮报18岁生日当天和解支付大笔钱（5763）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0056-07",
+   "unit_id": "SG3-U0056"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第045封信：优势方慎用力量/名誉所得税（女演员）/碰瓷先止损/利益正义一致/正义即强者利益（塞拉西马柯）/强者不睚眦必报/弱势方勇于抗争；无X处置"
+}

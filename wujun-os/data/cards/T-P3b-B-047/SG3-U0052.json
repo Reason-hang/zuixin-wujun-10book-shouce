@@ -1,0 +1,234 @@
+{
+ "unit_id": "SG3-U0052",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风险投资主要该考虑的不是当前估值，而是几年后能否带来很高的回报",
+   "quote": "不是当前的估值",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5309,
+    "end_line": 5311,
+    "fingerprint": [
+     "估值",
+     "回报"
+    ],
+    "sha1": "7e2c7bfd7afa442497d8b3c3704d2c1d395bde9d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "风投看远期回报",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "估值100万三年关门vs估值1亿变3亿，前者再便宜也不该投（5311）；Grail估值20亿收入几乎为零仍敢投（5309）；风投抹平农家子弟与富二代资本差别、前100富豪大多白手起家（5319-5321）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-01",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资主要是投人，投资的技巧其实就是看人的技巧",
+   "quote": "投资主要是投人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5313,
+    "end_line": 5313,
+    "fingerprint": [
+     "投人",
+     "胡贝尔"
+    ],
+    "sha1": "a3592d4124276a9c3d35562849e89a1b4cfcd283"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资即投人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投Grail主要因对创始人胡贝尔有信心（5313）；共同创始人德雷森一小时讲清所做之事与方法，当场决定投（5347）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-02",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对创业团队要按对小公司的要求考察：规模再小也需五脏俱全，创始人多能多劳",
+   "quote": "规模再小也需要五脏俱全",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5325,
+    "end_line": 5333,
+    "fingerprint": [
+     "五脏俱全",
+     "多面手"
+    ],
+    "sha1": "9188b38bb9defe8680d1bec9cf412a4c8d9ef65e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "初创五脏俱全",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "创业公司缺钱、花钱要仔细（5325）；弟弟CTO创业估值几十亿仍只坐经济舱（5327）；省钱最有效是少雇人、事必躬亲（5329）；谷歌早期自己攒机器拉网线（5329）；不具备多能多劳条件离关门就不远（5333-5335）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-03",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业一定会累，不累是不可能成功的；老板先把时间压榨到极致才招人",
+   "quote": "不累是不可能成功的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5339,
+    "end_line": 5341,
+    "fingerprint": [
+     "压榨",
+     "太早"
+    ],
+    "sha1": "69b3568bcc1b10187247ce161063bd4f3000173c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创业必累",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "晚上9点想回家的公司办不好、投资人回报为负（5339）；谷歌几百人时很少夜里12点前回家（5341）；招来的人复制做事方式形成公司文化（5341）；PPT融资请大咖站台只存在于青春偶像剧（5343）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-04",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何成功创业都需打开市场搞到钱养活员工，而不是让员工养活老板",
+   "quote": "而不是让员工养活老板",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5345,
+    "end_line": 5347,
+    "fingerprint": [
+     "打开市场",
+     "没有例外"
+    ],
+    "sha1": "cb502d8c3b26f4d7e947d84b34cdac2bc66e2c5a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "养活团队是资格",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "搞不清楚这一点创业一定失败没有例外（5345）；Grail德雷森能不断搞到钱（5347）；施密特抵押房子买期权、马斯克自掏几百万垫付（5349）；能够养活大家是创业的资格也是最让投资人放心的能力（5351）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-05",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "实体时代创业成功者多销售出身，互联网时代多工程师出身——都是能养活团队的人",
+   "quote": "一个人包打天下",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5355,
+    "end_line": 5359,
+    "fingerprint": [
+     "销售出身",
+     "工程师"
+    ],
+    "sha1": "1d1f9ed0c12d13abf8fcf3718cf33b75ff0a18d3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创业者出身变迁",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "90%的销售养不活自己、不到1%的人一人顶半个公司（5357）；董明珠靠销售业绩救活格力（5355）；核心工程师不在公司就散了（5359）；雅虎杨致远菲洛什么都自己做（5361-5363）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-06",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要么自己掏钱要么有本事挣钱养活团队，没本事挣来第一笔钱就别开公司",
+   "quote": "有本事挣钱养活团队",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5365,
+    "end_line": 5367,
+    "fingerprint": [
+     "掏钱",
+     "甩手掌柜"
+    ],
+    "sha1": "139aed946d06f10f1e642b37509ad3237f033620"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "挣来第一笔钱",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "先养活团队才有机会培养团队、依靠团队赚钱回头养活自己（5365）；融到钱就扩队伍做甩手掌柜不失败没有天理（5367）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-07",
+   "unit_id": "SG3-U0052"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "衡量是否适合创业三点：能压榨自己到极致顶上空缺、能养活团队、做人诚信",
+   "quote": "做人是否诚信",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5371,
+    "end_line": 5371,
+    "fingerprint": [
+     "压榨",
+     "诚信"
+    ],
+    "sha1": "b4a0cdd211951fd3db8180c1f6b0edfedec4b788"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创业三资格",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "做不到这三点创业基本很难成功（5371）；划重点3（5381）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0052-08",
+   "unit_id": "SG3-U0052"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0052",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "Grail公司2020年9月被Illumina以80亿美元收购、投资三年涨300%、投前估值20亿美元等投资时点数据（5305-5307），离开时点即失效"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第041封信：风投看远期回报/投资即投人/初创五脏俱全/创业必累/养活团队是资格/创业者出身变迁/挣来第一笔钱/创业三资格；Grail收购时点数据归X2"
+}

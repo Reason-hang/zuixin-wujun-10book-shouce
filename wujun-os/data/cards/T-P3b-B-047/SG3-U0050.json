@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG3-U0050",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最失败的人生不是有情人不能成眷属，而是根本就没有真的爱过或被爱过",
+   "quote": "根本就没有真的爱过",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5153,
+    "end_line": 5153,
+    "fingerprint": [
+     "最失败的人生",
+     "眷属"
+    ],
+    "sha1": "c91f41647ec20cedfece35a59aede3cfa8301963"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "真爱过才算不失败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由杜牧重见张好好的感慨引出（5141-5145）；人们愿信张好好赠诗、编出祭拜情节，是寄托对爱情的渴望（5153）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0050-01",
+   "unit_id": "SG3-U0050"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "诗人记录自己、他人、情感与社会，通过其作品我们对自我与世界有更深刻认识",
+   "quote": "对自我、对世界有更深刻的认识",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5175,
+    "end_line": 5175,
+    "fingerprint": [
+     "文艺",
+     "共鸣"
+    ],
+    "sha1": "f439664f89baacd9cae4eacf48b1183ecc760caf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "文艺助认识自我世界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "文艺=能拨动心里最脆弱的那根弦、与作者产生共鸣（5175）；柱归属存疑：文艺功能论最接近D01-1认识世界，待P4复核；划重点3（5185）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0050-02",
+   "unit_id": "SG3-U0050"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0050",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "杜牧生平、唐代科举授官制度、杜牧与张好好及湖州少女的情史考证与长诗引录（5111-5169），人物史实叙述无可迁移判断"
+  },
+  {
+   "unit_id": "SG3-U0050",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "晋韵书法风格讲解与《张好好诗》《赠别》等诗作文学赏析（5091-5107、5121-5145），纯赏析无结论句可归属"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第040封信（纯史实叙事信，抽2卡）：最失败的人生是没真爱过/诗人记录助认识自我与世界；杜牧生平情史归X4、晋韵与诗作赏析归X8"
+}

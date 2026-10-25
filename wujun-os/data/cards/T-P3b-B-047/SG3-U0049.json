@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG3-U0049",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "香农：信息的含义根本不重要，信息不过是对一些不确定性的度量",
+   "quote": "对一些不确定性的度量",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5035,
+    "end_line": 5037,
+    "fingerprint": [
+     "香农",
+     "不确定性的度量"
+    ],
+    "sha1": "2395d7b4225a4d1844b43cd8817bf57303cf714d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "信息即不确定性度量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=香农（信息论创始人）；冲击堪比45年前相对论（5033）；冯·诺伊曼先解释信息或是离散数字信号（5033）；香农实验与信息熵下限见C-SG3-U0049-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0049-01",
+   "unit_id": "SG3-U0049"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "香农：语言中有信息冗余，前面的信息在一定程度上包含后面的信息",
+   "quote": "信息的冗余",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5041,
+    "end_line": 5041,
+    "fingerprint": [
+     "冗余",
+     "熵"
+    ],
+    "sha1": "0a94c355006b9b7725b7a557d8965f23e7afeb85"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "信息冗余与熵下限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=香农；越往后问所需问题越少（5041）；所问问题总数下限为语言内在的信息熵（5041）；维纳与香农对熵理解侧重不同但本质一致（5043）；均匀概率时熵最大、消除不确定性所需信息最多（5055）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0049-02",
+   "unit_id": "SG3-U0049"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不确定性是世界固有特性，不要试图否定它；消除不确定性需要大量信息",
+   "quote": "所固有的特性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5067,
+    "end_line": 5067,
+    "fingerprint": [
+     "不确定性",
+     "大量的信息"
+    ],
+    "sha1": "78d3eb7c28c891b7e06654198b2e27bf6d791d9a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "不确定性世界观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "围绕不确定性建立对世界新看法、社会由此迈入信息时代（5067）；划重点2（5079）；米德与弗尔斯特至今不接受无含义的信息（5063-5065）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0049-03",
+   "unit_id": "SG3-U0049"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "衡量经济发展与科技进步的指标已从物质和能量总量变成信息",
+   "quote": "指标已经变成了信息",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5069,
+    "end_line": 5069,
+    "fingerprint": [
+     "物质和能量",
+     "指标"
+    ],
+    "sha1": "5d1b58c6c05edab7368a8ec0030fe0834b5fe17a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-2"
+   ],
+   "concept_key": "衡量指标变信息",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二战前指标为物质和能量总量（5069）；从索尔维会议到比克曼会议的变迁上已显现（5069）；划重点3（5081）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0049-04",
+   "unit_id": "SG3-U0049"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "开会最重要的是聪明的头脑、全新的内容、真正影响未来的洞见",
+   "quote": "真正影响未来的洞见",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5071,
+    "end_line": 5071,
+    "fingerprint": [
+     "聪明的头脑",
+     "散会"
+    ],
+    "sha1": "2d964868e04b40d68cdd1c84fd1912acdb1f1751"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D05-1"
+   ],
+   "concept_key": "会议价值三要素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "今日会议三误区：名称起得大、请名人站台、大多数会本不必要开（5007-5013）；没有这些硬撑的会一散会影响即消失（5071）；比克曼会议规格极小却影响历史（5015-5023）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0049-05",
+   "unit_id": "SG3-U0049"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0049",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "比克曼/索尔维会议史实叙述：比克曼酒店沿革、麦卡洛克向梅西基金会筹款经过、参会学者名单、香农报告现场过程与听众提问、米德与弗尔斯特之争（5019-5065），纯科学史科普无可迁移判断；相关机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第039封信：香农信息即不确定性度量/冗余与熵/不确定性世界观/衡量指标变信息/会议价值三要素；比克曼会议史实叙述归X4"
+}

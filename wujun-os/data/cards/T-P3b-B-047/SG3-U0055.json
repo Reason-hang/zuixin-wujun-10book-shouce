@@ -1,0 +1,79 @@
+{
+ "unit_id": "SG3-U0055",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事要留有余地、留有退路，不要到最后时刻发现没有补救再后悔",
+   "quote": "留有余地",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5673,
+    "end_line": 5673,
+    "fingerprint": [
+     "退路",
+     "后悔"
+    ],
+    "sha1": "01dea9645b7db71823882fb3bcfc2fbe869d4269"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "凡事留有余地",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "金斯伯格2013年起拒绝民主党劝退、2020年去世后巴雷特接任，保守派对自由派形成6:3（5657-5663）；自由派今天在最高法院的尴尬处境金斯伯格有责任（5665）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0055-01",
+   "unit_id": "SG3-U0055"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要为了一时省事随意修改规则，不能为了一时的自由给将来套上枷锁",
+   "quote": "随意修改规则",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5675,
+    "end_line": 5675,
+    "fingerprint": [
+     "修改规则",
+     "枷锁"
+    ],
+    "sha1": "c07f91fe882415f586c32414da41b08b3754829d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D07-2"
+   ],
+   "concept_key": "勿轻改规则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "民主党2013年为过内阁任命改投票规则、2017年共和党以其人之道还治其身改大法官提名规则（5649-5651）；规则修改反使民主党在共和党占多数时更难制约对手（5667）；尼克松、里根、小布什遇提名受阻靠协商妥协换提名人而非改规则（5667）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0055-02",
+   "unit_id": "SG3-U0055"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0055",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国大法官制度史实：马歇尔任命经过、午夜法官与1801年司法条例、马伯里诉麦迪逊案判决细节、大法官任命统计与终身制（5593-5647），制度史科普无可迁移判断"
+  },
+  {
+   "unit_id": "SG3-U0055",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020年大选前金斯伯格去世、特朗普立刻提名巴雷特接任形成保守派6:3等依附时点的政局论断（5589、5663）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第044封信（史实为主信，抽2卡）：凡事留有余地/勿轻改规则；大法官制度与马伯里案史实归X4、巴雷特接任时事归X2"
+}

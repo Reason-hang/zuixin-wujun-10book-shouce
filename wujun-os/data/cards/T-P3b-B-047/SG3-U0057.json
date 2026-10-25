@@ -1,0 +1,134 @@
+{
+ "unit_id": "SG3-U0057",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没做好本职却关心无关事务不是主人公精神而是吃瓜群众心理，做好本职就是贡献",
+   "quote": "吃瓜群众心理的流露",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5831,
+    "end_line": 5831,
+    "fingerprint": [
+     "主人公",
+     "本职工作"
+    ],
+    "sha1": "c44652c9ea3c2d39218aac7f97ae29656ed1c838"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D06-3"
+   ],
+   "concept_key": "主人公心态各司其职",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "任正非批新员工万言书：有精神病建议送医院、没病建议辞退（5829，转述融入）；泛泛谈主人心态没有意义、过分关心不相关业务更有害（5827）；延俊华《千里奔华为》以新员工视角谈问题获提升（5839）；北京出租车司机关心国家大事vs上海司机把车收拾干净（5837）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0057-01",
+   "unit_id": "SG3-U0057"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把自己当主人两点：利益与企业利益矛盾时知道如何平衡，把工作当历练而非应付",
+   "quote": "知道该如何平衡",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5841,
+    "end_line": 5849,
+    "fingerprint": [
+     "历练",
+     "平衡"
+    ],
+    "sha1": "41ece8b131d234ee4394c8dd875af6d808aa4ab7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "主人心态两要点",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "张佳毅各司其职把工作做到行业最优的态度就是企业主人心态（5827、5833-5835）；不靠谱的建议除浪费领导时间没有任何好处（5833-5835）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0057-02",
+   "unit_id": "SG3-U0057"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "责权利相一致：下面的人有了权和利就必须尽责，没有权和利就会推诿责任",
+   "quote": "责权利都是相一致的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5853,
+    "end_line": 5853,
+    "fingerprint": [
+     "责权利",
+     "推诿"
+    ],
+    "sha1": "70c34804c5f3e93f318852686865a05a8778193d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "责权利一致",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "老板像崇祯：自己不担责却要底下人尽责（5853）；怕事心态是老板培养出来的、给权和利不用做工作大家也会尽责（5855）；上有尧舜之君下有尧舜之民（5855）；企业没给优秀员工激励就无法要求主动性（5851）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0057-03",
+   "unit_id": "SG3-U0057"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业时代大部分创业者不追求百年老店，而是追求不断站在浪潮之巅",
+   "quote": "站在浪潮之巅",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5861,
+    "end_line": 5861,
+    "fingerprint": [
+     "百年老店",
+     "农耕文明"
+    ],
+    "sha1": "1036366b1ba1518befc2c4450951c52d15f16c79"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "浪潮之巅非老店",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一定要自己把企业办下去是农耕文明思维方式，对自己对社会未必最好（5861）；回答谭娟问胡贝尔为何卖掉Grail（5857）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0057-04",
+   "unit_id": "SG3-U0057"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0057",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言原文：王信松地理学家集中涌现之问（5793）、张佳毅打工者心态之问（5819）、Aemi阿米员工担责之问（5821）、谭娟胡贝尔卖公司之问（5857）"
+  },
+  {
+   "unit_id": "SG3-U0057",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "地理学史问答：自然地理与人文地理之分、洪堡与现代地理学奠基、英国地层学均变说贡献、德国崛起期以英国为参照系全世界考古建博物馆（5797-5817），学科史科普无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问08：主人公心态=各司其职/主人心态两要点/责权利一致/浪潮之巅非老店；读者留言归X7、地理学史归X4"
+}

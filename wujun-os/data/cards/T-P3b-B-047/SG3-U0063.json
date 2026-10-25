@@ -1,0 +1,186 @@
+{
+ "unit_id": "SG3-U0063",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不放过坏人也不冤枉好人只存在于电视剧，现实中坏人可能被放过好人被冤枉",
+   "quote": "好人也有可能会被冤枉",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6411,
+    "end_line": 6411,
+    "fingerprint": [
+     "电视剧",
+     "现实"
+    ],
+    "sha1": "7501e5e3c76823baf9509441249d774856f1d91e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "现实非电视剧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "电商纠纷三基本事实之首（6409-6417）；'正义可能晚来但不会不来'同样只存在于电视剧（6411）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0063-01",
+   "unit_id": "SG3-U0063"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "买卖博弈实为多方博弈，第三方介入交易会改变买卖双方的策略和结果",
+   "quote": "改变买卖双方博弈的策略和结果",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6415,
+    "end_line": 6415,
+    "fingerprint": [
+     "多方的博弈",
+     "第三方"
+    ],
+    "sha1": "de0d46ea3615e28f4ea6a6289b6874cfb61b5432"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "多方博弈",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "零售中卖方强势制定规则、舆论倾向保护买方且趋势继续（6413）；亚马逊买保险对冲、一个顾客的恶意行为推高整体价格转嫁所有消费者（6431-6433）；开架零售须算开架好处是否大过被偷损失、成本比被偷高不如不装摄像头（6421-6427）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0063-02",
+   "unit_id": "SG3-U0063"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商家不与恶意顾客互怼：算得过来就按要求做，长期占便宜者加入黑名单",
+   "quote": "按照顾客的要求做",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6435,
+    "end_line": 6441,
+    "fingerprint": [
+     "互怼",
+     "黑名单"
+    ],
+    "sha1": "ca19fc3c2fae11a8129d6a70646a523d22fb49fc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "不与顾客纠缠",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "不理论的原因：成本之外媒体会一致炮轰商家（6437）；好市多给退80%的橄榄油但取消会员'服务不起你'（6439）；贪小便宜者离开低价超市要多花钱也就收敛（6441）；商家花很多时间和一个顾客纠缠总不合算（6441）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0063-03",
+   "unit_id": "SG3-U0063"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国家越发达对消费者的保护越多；个案解决纠纷的成本会越来越高",
+   "quote": "国家越发达，对消费者的保护越多",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6445,
+    "end_line": 6447,
+    "fingerprint": [
+     "趋势",
+     "保护消费者"
+    ],
+    "sha1": "428ecc35e3583e03203ac6c322572e3898714798"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "消费者保护趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "日本近二十年为提振内需由护商家转向护消费者（6445）；美国假货集体诉讼一次基本生意到头（6443）；'中国以后也会这样发展'的趋势预判（6447）——预测本体时效性待P4终裁（X6候选）；一年损失1000多元就算了、比美国同行不算什么（6447）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0063-04",
+   "unit_id": "SG3-U0063"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应对无理客户：数据库甄别碰瓷者、差别定价、退货设门槛，最重要的是提升利润率",
+   "quote": "利润率明显高于同行",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6449,
+    "end_line": 6457,
+    "fingerprint": [
+     "碰瓷",
+     "手续费"
+    ],
+    "sha1": "c3d74e653c8002e6a7900b00cbe93ce52d734a10"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "应对恶意顾客四法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "好市多做法：对恶意顾客不提供服务（6451）；亚马逊对不同消费者不同定价、律师会计师报价略异、爽快或预付客户拿2%-5%折扣（6453）；适当收开箱费类手续费提高退货门槛（6455）；顾客搞死商家或自己被拉黑的代价比小便宜大（6457）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0063-05",
+   "unit_id": "SG3-U0063"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看似与顾客博弈实为利益共同体，一同和同行业其他竞争者博弈",
+   "quote": "利益共同体",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6459,
+    "end_line": 6459,
+    "fingerprint": [
+     "利益共同体",
+     "竞争者"
+    ],
+    "sha1": "364c593221a90d729f6430dbc6ed074203518637"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商客利益共同体",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "可无条件退货的甲胜过不爽快的乙，顾客慢慢倾向去甲处（6459）；想清楚就不为日常小事烦恼、集中精力把生意做大（6461）；提醒消费者不要动辄退货差评（6463）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0063-06",
+   "unit_id": "SG3-U0063"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0063",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "减负、体育计分、小升初摇号等教育政策之问与'考察只是手段不是目的、以不变应万变'的回应及吴军小学经历（6467-6479），教育制度与亲子教育议题按X5排除"
+  },
+  {
+   "unit_id": "SG3-U0063",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言原文：Motalla电商无理客户之问（6401-6403）、Damon教育政策之问（6467）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问09：现实非电视剧/多方博弈/不与顾客纠缠/消费者保护趋势/应对恶意顾客四法/商客利益共同体；教育问答归X5、读者留言归X7"
+}

@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG3-U0061",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "导游耶胡达：国家非常小容不得任何一次失败，做事情必须做得万无一失",
+   "quote": "容不得任何一次失败",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6251,
+    "end_line": 6251,
+    "fingerprint": [
+     "耶胡达",
+     "万无一失"
+    ],
+    "sha1": "a72e113258b85c0c4a1f3008faf773922e85cd50"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "容不得失败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=以色列导游耶胡达，讲马萨达保卫战时非常动情（6251）；否则不得不在自由和死亡之间选择、故在国家安全上非常执着（6251）；以色列青年入伍爬马萨达宣誓'马萨达永不再陷落'（6253）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0061-01",
+   "unit_id": "SG3-U0061"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "未谋胜先虑败：凡事先防范好各种意料之外的状况，才能立于不败之地",
+   "quote": "未谋胜先虑败",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6259,
+    "end_line": 6259,
+    "fingerprint": [
+     "必死的精神",
+     "立于不败之地"
+    ],
+    "sha1": "b57a87cf10aed624eea291fa1c9529cc9c2c1195"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "未谋胜先虑败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "以色列被强邻围绕必须抱定必死精神才能生存、随时防范一切可能的危险保持强大国力（6259）；与导游耶胡达'容不得失败'一致（6251）；呼应此前信中的未谋胜先虑败思维；划重点2（6283）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0061-02",
+   "unit_id": "SG3-U0061"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0061",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "死海地理数据与漂浮体验、拯救死海水位的运河与管道计划叙述（6209-6221），游记见闻无可迁移判断"
+  },
+  {
+   "unit_id": "SG3-U0061",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "马萨达要塞修建与雨水收集工程、马萨达保卫战经过、约瑟夫《犹太战记》记载考证、锡安运动与第一次中东战争史（6225-6271），史实叙事无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第049封信（史实为主信，抽2卡）：容不得失败（导游耶胡达E2）/未谋胜先虑败；死海游览归X3、马萨达史实与建国史归X4"
+}

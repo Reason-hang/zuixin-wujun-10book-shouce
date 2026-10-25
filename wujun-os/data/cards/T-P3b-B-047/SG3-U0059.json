@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG3-U0059",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成为朋友要靠发自内心的相互认同与尊重，但在此之前先需各方约束自己的行为",
+   "quote": "发自内心的相互认同",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6051,
+    "end_line": 6055,
+    "fingerprint": [
+     "约束自己的行为",
+     "尊重"
+    ],
+    "sha1": "335f4bcb21e771381b1d7418df0cda23f6b21bab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "先约束后认同",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "耶路撒冷各族群严守敕令不越界是今天能成为朋友的基础（6055）；敕令前为领地打得不亦乐乎、敕令后遵守发现对生活并没有什么影响（6057）；2019年尚无阿拉伯国家与以色列建交、2020年夏起陆续建交（6057）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0059-01",
+   "unit_id": "SG3-U0059"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "维持现状敕令：管理权归谁地方就属谁、不许再争，以此维持多教派和平共处",
+   "quote": "维持现状",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6035,
+    "end_line": 6043,
+    "fingerprint": [
+     "奥斯曼三世",
+     "status quo"
+    ],
+    "sha1": "db9c2c8229df375417b30f982834165df08e5019"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "维持现状机制",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "1757年奥斯曼三世敕令（6035）；被后来与耶路撒冷相关的国际条约和联合国决议沿用（6043）；几百年仅屈指可数小摩擦如2002年椅子冲突伤11人（6045）；地盘划分既定无法改变、公共区域维修扯皮60年（6047）；吴军将此机制迁移到巴以矛盾见C-SG3-U0062-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0059-02",
+   "unit_id": "SG3-U0059"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0059",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "耶路撒冷三千年史实叙述：圣殿兴毁、巴比伦之囚、哈德良重建、圣墓教堂与教派共管、哭墙由来、圣殿山与亚伯拉罕献祭传说（5967-6033），宗教史与城市史科普无可迁移判断"
+  },
+  {
+   "unit_id": "SG3-U0059",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "旧城四区游览路线、圣殿山参观时段与找当地导游建议（6059-6071），观光叙述无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第047封信（史实为主信，抽2卡）：先约束后认同/维持现状止争；耶路撒冷三千年史实归X4、游览叙述归X3"
+}

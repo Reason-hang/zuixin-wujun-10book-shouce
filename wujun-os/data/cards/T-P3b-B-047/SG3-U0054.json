@@ -1,0 +1,119 @@
+{
+ "unit_id": "SG3-U0054",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "吴军的家庭医生：没有垃圾食品，只有垃圾吃法",
+   "quote": "没有垃圾食品，只有垃圾吃法",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5531,
+    "end_line": 5531,
+    "fingerprint": [
+     "家庭医生",
+     "垃圾吃法"
+    ],
+    "sha1": "b565eddc961c2347758be4f1abeb578282ed2e26"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "垃圾吃法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军的家庭医生；吴军评价这个话说得很有道理（5531）；概括见C-SG3-U0054-02；医生自己虾只吃两颗、红烧肉只吃一块（5531）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0054-01",
+   "unit_id": "SG3-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断垃圾与否看对人有没有用而非固有成分：只有垃圾习惯，没有垃圾食品",
+   "quote": "只有垃圾习惯，没有垃圾食品",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5555,
+    "end_line": 5565,
+    "fingerprint": [
+     "垃圾食品",
+     "生活习惯"
+    ],
+    "sha1": "61dd422f03eac1438e08138521e21db93aea5d9c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "垃圾取决于用法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "物品同理：小公寓放朋友送的大沙发成负担、大玻璃纪念杯无处堆放（5555-5559）；花钱买了一堆无用的垃圾再便宜将来都是负担（5561）；小龙虾例：第一斤营养第二斤解馋第三斤垃圾第四斤毒药（5521-5527、5561）；Junk本义为无用而占资源之物、与中文垃圾不同（5509-5513）；医生原话见C-SG3-U0054-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0054-02",
+   "unit_id": "SG3-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三大营养成分本身都是好东西，导致疾病的是营养过剩与不平衡而非营养本身",
+   "quote": "而不是营养本身",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5541,
+    "end_line": 5541,
+    "fingerprint": [
+     "营养过剩",
+     "不平衡"
+    ],
+    "sha1": "e3f031a09418920a9ac970db36d285ba731f22fc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "过剩而非营养之罪",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "糖、脂肪、蛋白质三大营养成分有共识是好东西（5541）；内分泌科医生朋友从不说的糖坏话、一切都看你怎么吃（5541，转述融入）；越野赛前吃巨无霸、途中方便面补淀粉电解质、赛后高糖饮料补水的例（5533-5539）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0054-03",
+   "unit_id": "SG3-U0054"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "纯天然不等于健康：无防腐措施会多吃变质发霉食品，那才真正对身体有害",
+   "quote": "变质、发霉的食品",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 5547,
+    "end_line": 5547,
+    "fingerprint": [
+     "防腐剂",
+     "纯天然"
+    ],
+    "sha1": "7d63f4b4f812ffb1102c0460878f45bbbb81a8a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "纯天然迷思",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "盐腌肉防腐已用几千年、防腐剂曾是健康饮食功臣（5547）；宋美龄爱吃高防腐剂酱菜却活到106岁，靠整体饮食习惯好（5549-5551）；不新鲜水果霉菌长得深才是垃圾食品（5551）；只吃蔬菜致缺钙、豆制品多吃致结石痛风例（5545）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0054-04",
+   "unit_id": "SG3-U0054"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第043封信：垃圾取决于用法（医生原话+吴军概括互引）/过剩而非营养之罪/纯天然迷思；无X处置"
+}

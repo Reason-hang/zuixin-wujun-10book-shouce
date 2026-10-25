@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG3-U0060",
+ "book_code": "SG3",
+ "extractor": "EXT-SG3",
+ "batch_id": "T-P3b-B-047",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "耶稣道德思想四条：待人如己不论断人、不仇恨要博爱、要谦虚、不贪婪",
+   "quote": "己所不欲勿施于人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6133,
+    "end_line": 6143,
+    "fingerprint": [
+     "博爱",
+     "谦虚"
+    ],
+    "sha1": "f053aef5120e89df596d270ed2b95373017be2fc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "耶稣道德四条",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军归纳，出自《马太福音》《路加福音》（6133-6141）；第一条是对犹太先知思想的总结（6135）；即使不考虑宗教背景这些话也都很有道理（6143）；原话举例见C-SG3-U0060-02；传教语言浅近生动、比喻多，易为大众接受、与说话高深的犹太教长老对比（6143）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0060-01",
+   "unit_id": "SG3-U0060"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "耶稣：不可仇恨，要爱邻舍如同自己，甚至要爱自己的仇敌",
+   "quote": "要爱自己的仇敌",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6137,
+    "end_line": 6137,
+    "fingerprint": [
+     "不可仇恨",
+     "爱邻舍"
+    ],
+    "sha1": "cf29783da3504c2e49debbe287206b639f65e282"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "爱仇敌",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=耶稣（《马太福音》第五章）；四条归纳见C-SG3-U0060-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0060-02",
+   "unit_id": "SG3-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "耶稣之死成为人类历史文化最重要象征之一，理解它就能理解人为何为信仰而死",
+   "quote": "为信仰而死",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6167,
+    "end_line": 6177,
+    "fingerprint": [
+     "成了",
+     "救赎"
+    ],
+    "sha1": "c21a0c5108bc9896332aa1e1f5fefd3e4ca6e38e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "为信仰而死",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "死前说'成了'（《约翰福音》第十九章，6167-6169）；世俗说法：用死唤醒世人完成救赎（6167）；为信仰而死者临死一刹那或也有同样想法（6175-6177）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0060-03",
+   "unit_id": "SG3-U0060"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "抛开宗教色彩，耶稣讲的很多是做人基本道理，更多人做到世界会更好",
+   "quote": "做人的基本道理",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 6179,
+    "end_line": 6179,
+    "fingerprint": [
+     "宗教的色彩",
+     "基本的原则"
+    ],
+    "sha1": "3ec0ed23ae78f198d913b6af6672f80d9e429e97"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "做人基本原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "即使不信宗教，更多人做到这些基本原则世界可能比现在好很多（6179）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0060-04",
+   "unit_id": "SG3-U0060"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0060",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "耶稣诞生、伯利恒之星超新星考证、圣诞教堂沿革、三博士来朝绘画、十二门徒生平、受难与复活经过叙述（6099-6165），宗教史叙事无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第048封信：耶稣道德四条/爱仇敌（原话E2）/为信仰而死/做人基本原则；诞生与受难史实叙述归X4"
+}
