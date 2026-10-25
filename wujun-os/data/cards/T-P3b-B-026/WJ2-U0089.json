@@ -1,0 +1,177 @@
+{
+  "unit_id": "WJ2-U0089",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0089-01",
+      "unit_id": "WJ2-U0089",
+      "speaker": "转述·第三方",
+      "claim_text": "民调预测大选本质缺陷：选前选民分布不可得、敏感情境下人不吐真言",
+      "quote": "有两个无法弥补的本质缺陷",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7118,
+        "end_line": 7122,
+        "sha1": "597108e9a441be5d7006c36733084e236e23c40f",
+        "fingerprint": [
+          "民调",
+          "摇摆州"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "民调的本质缺陷",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=吴军友人·匿名对冲基金经理（20年年化20%）；吴军基本赞同；2016-2024三次民调失败为证"
+    },
+    {
+      "claim_id": "C-WJ2-U0089-02",
+      "unit_id": "WJ2-U0089",
+      "speaker": "转述·第三方",
+      "claim_text": "凡需判断力的事不要依赖大众判断；与大众判断一致时尤须警惕",
+      "quote": "最好不要依赖大众的判断",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7126,
+        "end_line": 7126,
+        "sha1": "0efd545e03e0278e3e7a578c37b1991510f55ced",
+        "fingerprint": [
+          "大众",
+          "沾沾自喜"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "勿依赖大众判断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=同上基金经理；大众判断绝大部分时候是错的"
+    },
+    {
+      "claim_id": "C-WJ2-U0089-03",
+      "unit_id": "WJ2-U0089",
+      "speaker": "转述·第三方",
+      "claim_text": "不要跟着感觉走：只信从事实公理经逻辑理性推导的结论，感觉不可靠",
+      "quote": "只有数据和理性靠得住",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7144,
+        "end_line": 7148,
+        "sha1": "26492edf674126aeda40418efa6bba5806373296",
+        "fingerprint": [
+          "感觉",
+          "标普"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1",
+        "D09-2"
+      ],
+      "concept_key": "数据理性胜于感觉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=同上基金经理；其由主观更改机器建议屡错到专注量化的历程为证"
+    },
+    {
+      "claim_id": "C-WJ2-U0089-04",
+      "unit_id": "WJ2-U0089",
+      "speaker": "吴军本人",
+      "claim_text": "很多人投资生活做无用功，因依赖大众判断与主观感觉、忽视理性数据",
+      "quote": "忽视了理性和数据的价值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7150,
+        "end_line": 7150,
+        "sha1": "f96ba5dbd9b352ab4f405226a0a1ddd594034369",
+        "fingerprint": [
+          "无用功"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "无用功的根源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军对友人两观点的总结句，与卡02/03互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0089-05",
+      "unit_id": "WJ2-U0089",
+      "speaker": "转述·第三方",
+      "claim_text": "复盘证明多数时候机器建议比人的感觉准，应放弃人为预测与主观更改",
+      "quote": "机器给出的建议比他的感觉要准确",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7134,
+        "end_line": 7136,
+        "sha1": "54a34aa0e8607335c6d361857c34a846a49eb198",
+        "fingerprint": [
+          "复盘",
+          "股灾"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2",
+        "D04-2"
+      ],
+      "concept_key": "机器建议胜过感觉",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=同上基金经理；2001年股灾把数年所得还回为教训"
+    },
+    {
+      "claim_id": "C-WJ2-U0089-06",
+      "unit_id": "WJ2-U0089",
+      "speaker": "转述·第三方",
+      "claim_text": "长期高回报需提高回报风险比：高回报必伴高风险，达利欧式低风险股谨慎加杠杆",
+      "quote": "高回报必然伴随着高风险",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7142,
+        "end_line": 7142,
+        "sha1": "114e6dfbc8a61f9547298a5364038d8126ee3ea0",
+        "fingerprint": [
+          "达利欧",
+          "杠杆"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "回报风险比与杠杆",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=友人转述桥水瑞·达利欧秘诀；指数内去高风险股、对低风险股适当加杠杆；加杠杆是投资大忌"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0089",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "文艺复兴式做空融资做多的具体操作（吴军明示系美国市场背景、不适用于个人照做），通用回报风险比已入卡06"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "无用功之问：核心为转述对冲基金经理观点（E2），吴军总结句单列E1"
+}

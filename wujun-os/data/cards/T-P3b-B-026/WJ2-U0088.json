@@ -1,0 +1,224 @@
+{
+  "unit_id": "WJ2-U0088",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0088-01",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "珍惜少数真有交集的亲友，其利益先于陌生人，并以定期联系的行动表达",
+      "quote": "和真正行动还是两回事",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7012,
+        "end_line": 7020,
+        "sha1": "ab9f60047a14d90a647bc9753b2667f4332166ff",
+        "fingerprint": [
+          "亲友",
+          "陌生人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D02-1"
+      ],
+      "concept_key": "亲友优先并行动",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "吴军每两周约一位朋友午餐之实践；佩雷尔『人际关系质量决定生活质量』（转述）"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-02",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "一开始劝得动才给建议，否则随他去：他们的决定基于情感而非理性",
+      "quote": "就干脆随他们去",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7036,
+        "end_line": 7042,
+        "sha1": "4a0f8e29d955f86e8c0b4c95109312405e4410d7",
+        "fingerprint": [
+          "微软",
+          "常青藤"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-4"
+      ],
+      "concept_key": "劝不动就随他去",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "初创机构执意自建计算平台与家长执念名校皆劝不动；不强求他人也不强求自己"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-03",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "初创机构不宜自建计算平台：设备两年贬值七八成，用云服务性价比更高",
+      "quote": "贬值七八成",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7028,
+        "end_line": 7034,
+        "sha1": "46a2dcf1d7631025c43be157f77fd9ba40c616c1",
+        "fingerprint": [
+          "摩尔定律",
+          "GPU"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "不自建算力平台",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "控制权与数据安全两条理由不成立；GPU每代不兼容更加速贬值"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-04",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "一味追求与能力不匹配的目标，可能把已经得到的机会浪费掉",
+      "quote": "与自己能力不匹配的目标",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7042,
+        "end_line": 7042,
+        "sha1": "ee3ca80e7d74d6589b490d5dab2ef0220f7d91eb",
+        "fingerprint": [
+          "常青藤"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "目标与能力匹配",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "原语境为升学咨询（X5边缘），结论句为通用取舍判断故抽"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-05",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "全方位学习：方向不限本专业，对象含年轻人，遇到的每个人都是一面镜子",
+      "quote": "不一定是你的本专业",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7044,
+        "end_line": 7050,
+        "sha1": "dc7de559f9f8cf36464a6b754057255d72b62aeb",
+        "fingerprint": [
+          "生命科学",
+          "一面镜子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "全方位学习",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "生命有限错误无限、不能事事亲试；女儿同实验室同学教吴军新AI技术"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-06",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "成年人过多使用手机同样有害无益，绝大部分刷手机只是消遣",
+      "quote": "使用过多，也是有害无益的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7052,
+        "end_line": 7054,
+        "sha1": "8134699fe31d87a043b7f35b32f6d7daa40f5c25",
+        "fingerprint": [
+          "八卦",
+          "时间利用调查"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "少刷手机",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "《第三次全国时间利用调查公报》：中国人除睡觉外最耗时之事为玩手机"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-07",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "提高自我认知：知道自己对谁有用，把有限精力用于服务真正需要你的人",
+      "quote": "知道自己是谁，找好自己的定位",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7056,
+        "end_line": 7064,
+        "sha1": "708d0acb0159718618ddbcd41aa64586ec9ae2aa",
+        "fingerprint": [
+          "定位",
+          "错觉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D07-2"
+      ],
+      "concept_key": "明确自我价值定位",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "父母对成年子女价值之错觉为例（亲子语境仅作例证）；对某机构无价值的服务对另一家可能价值很大"
+    },
+    {
+      "claim_id": "C-WJ2-U0088-08",
+      "unit_id": "WJ2-U0088",
+      "speaker": "吴军本人",
+      "claim_text": "少有人尝试的新事最好亲力亲为、边做边学；能预知结果的熟事可交他人",
+      "quote": "最好亲力亲为",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 7082,
+        "end_line": 7090,
+        "sha1": "8119f2c4553cfd30bd733a0f820122ebae3fc6f5",
+        "fingerprint": [
+          "浮士德",
+          "亲力亲为"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D05-1"
+      ],
+      "concept_key": "新事亲为熟事授权",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "歌德《浮士德》『太初有为』（转述）；法务财务等服务即为省出时间做更重要的事"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "2024人生感悟八条：每条抽可迁移判断成卡（不熬夜/运动/旅行三条个人生活叙述未成卡）"
+}

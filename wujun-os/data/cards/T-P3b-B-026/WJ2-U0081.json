@@ -1,0 +1,152 @@
+{
+  "unit_id": "WJ2-U0081",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0081-01",
+      "unit_id": "WJ2-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "好撒玛利亚人法以豁免善意救助者的责任、免于恶意诉讼来鼓励见义勇为",
+      "quote": "免于受到恶意诉讼",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6390,
+        "end_line": 6390,
+        "sha1": "e2364561ca849bc3234c5f39318270a90896e8f5",
+        "fingerprint": [
+          "好撒玛利亚人法",
+          "见义勇为"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "豁免善意促善行",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "1959加州起源、纽约公寓案例、多国立法含中国民法典184条；『词源出《圣经》好撒玛利亚人故事』"
+    },
+    {
+      "claim_id": "C-WJ2-U0081-02",
+      "unit_id": "WJ2-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "一项好的法律能大大增加人类的福祉",
+      "quote": "能大大增加人类的福祉",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6402,
+        "end_line": 6402,
+        "sha1": "f039c248bc09a2892472645e006d25fec1b32bd8",
+        "fingerprint": [
+          "一项好的法律",
+          "3.1 万"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "好法律增福祉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国每年航班紧急救助逾3.1万人次为证"
+    },
+    {
+      "claim_id": "C-WJ2-U0081-03",
+      "unit_id": "WJ2-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "法律不是越多越好：医者是否必救靠道德准则约束即可，无需专门立法",
+      "quote": "法律不是越多越好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6406,
+        "end_line": 6408,
+        "sha1": "9ad251e898cce867403647d3f0a1ca6115db71c2",
+        "fingerprint": [
+          "道德准则",
+          "见死不救"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "法律非越多越好",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "仅三州要求医生必须施救；绝大部分医生遵守职业道德，专门立法必要性不大"
+    },
+    {
+      "claim_id": "C-WJ2-U0081-04",
+      "unit_id": "WJ2-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "该保留的道德合乎自然、不妨碍甚至帮助他人；该抛弃的道德只利于某些人",
+      "quote": "不妨碍甚至帮助他人的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6414,
+        "end_line": 6418,
+        "sha1": "edec4b0470904b1d92154e22fb2420e728fb7a6b",
+        "fingerprint": [
+          "尼采",
+          "三从四德"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "道德的取舍标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "尼采重估一切价值与奥勒留《沉思录》美德观为两端背景（转述）；旧道德便于当时管理却妨碍平等公正"
+    },
+    {
+      "claim_id": "C-WJ2-U0081-05",
+      "unit_id": "WJ2-U0081",
+      "speaker": "吴军本人",
+      "claim_text": "不能因现实未达规范就否定规范，也不能因画的圆有缺陷就改画椭圆",
+      "quote": "以后就画椭圆",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6420,
+        "end_line": 6422,
+        "sha1": "71e4a0590ba50fb7acfbf8b3923068310633e3bb",
+        "fingerprint": [
+          "圆的概念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "不能因实例缺陷弃概念",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "『海淀鸡娃不适合论』之误即对立概念与实例；先有圆的概念再发明工具画更完美的圆；与 C-WJ2-U0080-02 互引"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0081",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "好撒玛利亚人法各州立法沿革、机上急救统计、《圣经》词源等史实叙述本体，方法论已入卡01"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "好撒玛利亚人法与道德哲学：制度机理与道德判准成卡"
+}

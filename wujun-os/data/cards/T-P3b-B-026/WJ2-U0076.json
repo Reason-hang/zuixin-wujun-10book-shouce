@@ -1,0 +1,229 @@
+{
+  "unit_id": "WJ2-U0076",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0076-01",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "人生与人类认知发展同步，可分为从神话到非理性递进的七个层次",
+      "quote": "总结出的人生的七个层次",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5972,
+        "end_line": 5976,
+        "sha1": "3624d432be38b9986ee7723845c75438343c32d2",
+        "fingerprint": [
+          "七个层次",
+          "傅佩荣"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "人生的七个层次",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "受台大傅佩荣教授《哲学与人生》公开课启发，吴军对比人类认知发展过程所作总结框架"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-02",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "神话层次的逻辑是能做到就做并视为理所应当，人的成长要走出迷信强权",
+      "quote": "走出这种迷信强权的想法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5984,
+        "end_line": 5988,
+        "sha1": "24c4a949af95dd16a033a95a03e79981d494a1ef",
+        "fingerprint": [
+          "强权即真理",
+          "理所应当"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "走出迷信强权",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "帕里斯与阿喀琉斯、19世纪德国强权即真理思想为例证；很多人到老走不出此层次"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-03",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "认识到自己的强项弱点并承认不足、懂得凡事不过度，已高于多数人的层次",
+      "quote": "凡事不过度",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5990,
+        "end_line": 5994,
+        "sha1": "6ec1a10ab9dee06a7fb976ed13335ba1dfee45b0",
+        "fingerprint": [
+          "认识你自己",
+          "德尔斐"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D01-1"
+      ],
+      "concept_key": "认识自己与凡事不过度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "德尔斐三句神谕（认识你自己/凡事不过度/妄立誓则祸近）为古希腊格言，此处取吴军评述；原话为第三方格言不另立卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-04",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "善用理性者可成高级专业人士，但理性对周围不合理现象无能为力",
+      "quote": "周围很多不合理的现象",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5996,
+        "end_line": 6006,
+        "sha1": "14e395e4f7c9ee8fa865d8a08a918229d48b3847",
+        "fingerprint": [
+          "专业人士",
+          "理性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3",
+        "D01-1"
+      ],
+      "concept_key": "理性的能与不能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第三层次；理性受挫后人生转入第四层宗教，与卡05（亚里士多德定义）互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-05",
+      "unit_id": "WJ2-U0076",
+      "speaker": "转述·第三方",
+      "claim_text": "人是有理性的动物：通过逻辑推理人能够了解世界、获得知识",
+      "quote": "人是有理性的动物",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6000,
+        "end_line": 6002,
+        "sha1": "685f2aab80bd859f52c8c075be51e4b8ba5a8157",
+        "fingerprint": [
+          "亚里士多德",
+          "logos"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "人是有理性的动物",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=亚里士多德（人的定义）；吴军评述见 C-WJ2-U0076-04"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-06",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "生活改善不能靠宗教或岁月静好，唯有以人为本、用理性发现规律",
+      "quote": "把人放在第一位",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6024,
+        "end_line": 6030,
+        "sha1": "89edeac40db6d17f7ae06af57c98c3bff5d56d1d",
+        "fingerprint": [
+          "求知欲",
+          "螺旋式上升"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D01-3"
+      ],
+      "concept_key": "以人为本与理性发现规律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第五六层次（文艺复兴-启蒙）；贝多芬《第九交响曲》与冯仑、梁建章之升华为例"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-07",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "能意识到自己哪些行为由潜意识决定，才算真正了解自己",
+      "quote": "真正了解自己",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6032,
+        "end_line": 6038,
+        "sha1": "63c7c0375adc17636cd1a870a430e2550de0e373",
+        "fingerprint": [
+          "非理性",
+          "潜意识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "潜意识与真正了解自己",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第七层次；20世纪哲学回到人本身、心理学发现潜意识"
+    },
+    {
+      "claim_id": "C-WJ2-U0076-08",
+      "unit_id": "WJ2-U0076",
+      "speaker": "吴军本人",
+      "claim_text": "个体与人类文明同为渐进式成熟超越；了解前人思想轨迹能进步更快境界更高",
+      "quote": "达到的境界更高",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6038,
+        "end_line": 6038,
+        "sha1": "f452a13093b9b1ffad0d96da14b4fa0e52975fd9",
+        "fingerprint": [
+          "超越自我"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "渐进超越与前人轨迹",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总结句；与卡01框架互引"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人总结的人生七层次框架，逐层成卡"
+}

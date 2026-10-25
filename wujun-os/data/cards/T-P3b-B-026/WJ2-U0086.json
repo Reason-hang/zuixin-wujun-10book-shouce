@@ -1,0 +1,76 @@
+{
+  "unit_id": "WJ2-U0086",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0086-01",
+      "unit_id": "WJ2-U0086",
+      "speaker": "吴军本人",
+      "claim_text": "企业选机器还是雇人取决于成本与沉没成本，AI替代人工卡在成本不经济",
+      "quote": "哪个便宜选哪个",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6920,
+        "end_line": 6926,
+        "sha1": "adc3e86ed4584ac7ae1e9f44f89ca5d33f7ccd87",
+        "fingerprint": [
+          "沉没成本",
+          "MIT"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "机器与人的成本权衡",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "MIT研究：亚马逊无人店约一半工作仍需人、面包店替代6%工时不抵成本、替代逾40%人工后才可能盈利；超特定程度成本陡升"
+    },
+    {
+      "claim_id": "C-WJ2-U0086-02",
+      "unit_id": "WJ2-U0086",
+      "speaker": "转述·第三方",
+      "claim_text": "AI有很强能力也有很强局限，应视为某些领域有用的工具而非完全依赖",
+      "quote": "很强的局限性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6956,
+        "end_line": 6958,
+        "sha1": "b0889f94d4644fedd9d54906240eb2c5383c9cc6",
+        "fingerprint": [
+          "苏莱曼",
+          "奥特曼"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "AI是工具非万能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=穆斯塔法·苏莱曼（DeepMind联合创始人）、山姆·奥特曼（2024达沃斯）；跨书线索：谷歌《为什么计算机不是万能的》同主题"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0086",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "AI取代人类工作的时间表与行业替代率预测（MIT替代率、IMF/高盛岗位数、无人驾驶先落地摆渡公交）为科技趋势预测本体"
+    },
+    {
+      "unit_id": "WJ2-U0086",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "技术革命失业恐惧与就业总量不减反增的宏观史论（1950年代电子化自动化以来）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "AI取代工作信：抽成本权衡与AI工具观两判断，趋势预测本体记X6"
+}

@@ -1,0 +1,165 @@
+{
+  "unit_id": "WJ2-U0078",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0078-01",
+      "unit_id": "WJ2-U0078",
+      "speaker": "吴军本人",
+      "claim_text": "60年代后每代人都有固定特征，代沟不再随年龄增长弥合而永久存在",
+      "quote": "永远弥合不了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6146,
+        "end_line": 6146,
+        "sha1": "c1524149b90d7ba2903caa63f4585460f263ec87",
+        "fingerprint": [
+          "代沟",
+          "特征"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-2"
+      ],
+      "concept_key": "代沟永久化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与曼海姆发现的代际随年龄趋同规律相反（转述背景，6132）"
+    },
+    {
+      "claim_id": "C-WJ2-U0078-02",
+      "unit_id": "WJ2-U0078",
+      "speaker": "吴军本人",
+      "claim_text": "脑功能发育不同步：智力16-20岁达峰而理解力20-25岁，复杂道理难与高中生讲通",
+      "quote": "根本理解不了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6156,
+        "end_line": 6158,
+        "sha1": "c0b894f150af3cfe8b3899ca532d32380072b1b7",
+        "fingerprint": [
+          "理解力",
+          "顶峰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "智力与理解力发育差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "卢梭与皮亚杰关于青少年自我意识爆棚而见识不足的观点为背景（转述）"
+    },
+    {
+      "claim_id": "C-WJ2-U0078-03",
+      "unit_id": "WJ2-U0078",
+      "speaker": "吴军本人",
+      "claim_text": "人会选择性遗忘不幸经历，对自己得意之处却唠叨一辈子",
+      "quote": "会唠叨一辈子",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6166,
+        "end_line": 6168,
+        "sha1": "274a95716bf843e11f19b9ccf72a0c7b0eb3faa7",
+        "fingerprint": [
+          "选择性",
+          "青春"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D01-1"
+      ],
+      "concept_key": "选择性遗忘与怀旧",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "老年人怀念糟糕年代因那是他们的青春；跨书线索：格局《我们为什么怀旧》同主题"
+    },
+    {
+      "claim_id": "C-WJ2-U0078-04",
+      "unit_id": "WJ2-U0078",
+      "speaker": "吴军本人",
+      "claim_text": "既哄老人高兴又改变其想法的中间道路不存在；既要又要且不违背逻辑的事做不到",
+      "quote": "既要，又要",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6172,
+        "end_line": 6174,
+        "sha1": "59564d8f86418720927926f7e8a841be7c16e789",
+        "fingerprint": [
+          "主动管理",
+          "放任自流"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "既要又要做不到",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "原语境为处理与老一代的代沟：只有主动管理与放任自流两途"
+    },
+    {
+      "claim_id": "C-WJ2-U0078-05",
+      "unit_id": "WJ2-U0078",
+      "speaker": "吴军本人",
+      "claim_text": "给年轻人用的产品最好先问年轻人的看法；他们的想法不会因年龄变得与你一样",
+      "quote": "最好找几个年轻人问问",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6176,
+        "end_line": 6178,
+        "sha1": "e4f214fe7423d7bf44e50b9aeb81a7d37b30b8bb",
+        "fingerprint": [
+          "年轻人",
+          "产品"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "年轻人产品问年轻人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "吴军投资中的规律；对多元化学题等社会现象亦然"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0078",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "青春期子女代沟应对（承认叛逆、做朋友、约定底线等待成熟）属亲子教育方法"
+    },
+    {
+      "unit_id": "WJ2-U0078",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "老年人代沟的主动管理与放任处理属家庭关系应对"
+    },
+    {
+      "unit_id": "WJ2-U0078",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2024美国大选年轻选民支持特朗普的时事分析（含贺锦丽中文名来历轶事）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "代沟信：亲子与老年代沟应对归X5，抽通用认知与决策判断"
+}

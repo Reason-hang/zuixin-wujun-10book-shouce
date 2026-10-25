@@ -1,0 +1,223 @@
+{
+  "unit_id": "WJ2-U0079",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0079-01",
+      "unit_id": "WJ2-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "没有任何证据表明人生而良善，人不做坏事主要靠道德宗教法律的制约",
+      "quote": "没有任何证据表明人生而良善",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6244,
+        "end_line": 6246,
+        "sha1": "163b56dc1435d28e1ab4288f58fe886c66e7fbbf",
+        "fingerprint": [
+          "道德、宗教和法律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "人非生而良善",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "孟荀之争、哈奇森休谟、卢梭引塞涅卡与荀子性恶原文为哲学史背景（转述）；与卡07总结互引"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-02",
+      "unit_id": "WJ2-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "道德是社会天花板只约束君子，法律是底线；可要求自己守德但不能要求别人",
+      "quote": "道德是社会的天花板",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6250,
+        "end_line": 6250,
+        "sha1": "05ef367909bf4f4acada43367ffa5dabb746be9f",
+        "fingerprint": [
+          "天花板",
+          "底线"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4",
+        "D07-2"
+      ],
+      "concept_key": "道德天花板与法律底线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与卡03（不假定他人守德）同段推进"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-03",
+      "unit_id": "WJ2-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "与不熟悉的人交往前不要假定对方会遵守道德规范，人常有两个面孔",
+      "quote": "先不要假定对方会遵守道德规范了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6252,
+        "end_line": 6252,
+        "sha1": "bde6710770597603c943c9243ea639ef2399acfd",
+        "fingerprint": [
+          "两个面孔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "不假定他人守德",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "嘴上仁义礼智信者常做不到，如天天说诗与远方者既不写诗也不去远方"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-04",
+      "unit_id": "WJ2-U0079",
+      "speaker": "转述·第三方",
+      "claim_text": "从人性贪婪自私出发，只要利用好人性便能造福社会（经济学之起源）",
+      "quote": "只要利用好人性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6256,
+        "end_line": 6256,
+        "sha1": "349d92f22ee20e3b06dd153594ea726f932b7518",
+        "fingerprint": [
+          "亚当·斯密",
+          "经济学"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-4"
+      ],
+      "concept_key": "利用好人性造福社会",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者=亚当·斯密（哈奇森的学生，受休谟性恶论启发创立经济学）；吴军叙述并认同"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-05",
+      "unit_id": "WJ2-U0079",
+      "speaker": "史实",
+      "claim_text": "坠落城公社信人性善良、无规则约束，因规则破坏者到来而彻底崩塌",
+      "quote": "以爱为基础构建社会的尝试",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6234,
+        "end_line": 6240,
+        "sha1": "f9c66ebb97e20690f2e08eef72115f58ca61feb1",
+        "fingerprint": [
+          "坠落城",
+          "彼得"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "坠落城的教训",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "1965年美国第一个嬉皮士公社；彼得·雷必特不贡献不干活且不可批评（批评违反爱的原则）致崩塌；承载『基于人性本善假设的乌托邦必败』机理"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-06",
+      "unit_id": "WJ2-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "对社会乐观的依据不是天真相信人性本善，而是相信法律和秩序",
+      "quote": "相信法律和秩序",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6268,
+        "end_line": 6268,
+        "sha1": "d3765b6e948e3f27038695394145f55cfd91fd2d",
+        "fingerprint": [
+          "乐观主义",
+          "人性本善"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D01-4"
+      ],
+      "concept_key": "乐观依据是法律秩序",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "全信结尾加粗句"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-07",
+      "unit_id": "WJ2-U0079",
+      "speaker": "吴军本人",
+      "claim_text": "社会秩序与进步不靠天性，而靠道德法律制度的设计平衡人性善恶",
+      "quote": "道德、法律和制度的设计",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6270,
+        "end_line": 6270,
+        "sha1": "f1661744aa63c5168458a479353bfde4b4879a8b",
+        "fingerprint": [
+          "善与恶"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "制度设计平衡人性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总结句，与卡01互引；恶法与不文明道德会被淘汰、利最大利益者被保留"
+    },
+    {
+      "claim_id": "C-WJ2-U0079-08",
+      "unit_id": "WJ2-U0079",
+      "speaker": "转述·第三方",
+      "claim_text": "美国宪法长寿因根据不变的人性确定：制衡、平等、宪法至上皆针对人性恶",
+      "quote": "美国的宪法是根据人性确定的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6258,
+        "end_line": 6262,
+        "sha1": "6322891683da213b7e33fe125b5c1a47aaa74dbe",
+        "fingerprint": [
+          "制衡",
+          "宪法至上"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "宪法基于人性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=美国一位法学教授（佚名，吴军转述）；三原则防滥权、防强欺弱、限私欲；教授观点仅供参考"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "人性善恶之辨：吴军人性论判断与斯密/法学教授转述、坠落城史实成卡"
+}

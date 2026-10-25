@@ -1,0 +1,113 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD10",
+  "batch_id": "GATE-C-R9",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "一切工作应建立在已有知识基线之上而非其下，低基线蛮干没有价值。",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1077,
+        "sha1": "72626f65f57745235c90c946c1e61d737e201a45"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "做事始于基线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "三条边之一（基线）；例证：民间发明家造飞机（并入本卡）；依规则③与D04-3互设辅助。"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把工作做好的前提是提高基线；接受教育与持续培训学习即为提高基线。",
+      "quote": "首先就要提高基线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1084,
+        "end_line": 1087,
+        "sha1": "1990674009a2a068d66fccdab5a4f7de7f47ae5b"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "教育提高基线",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：散户投资如自地下室三层起步、不主张大学生退学创业（并入本卡）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "专业人士与业余爱好者的差别，在于是否了解理论极限的存在。",
+      "quote": "是否了解极限的存在",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1092,
+        "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "了解极限的存在",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三条边之一（极限）；例证：卡诺定理限死蒸汽机效率上限、图灵机/摩尔定律极限（并入本卡）。"
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "光有基线和极限不够，还要找到连接两者的攀登绳索（阶梯）才能把事做成。",
+      "quote": "找到或者编织攀登绳索",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1098,
+        "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28"
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "连接基线与极限的绳索",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "三条边之一（连接路径）；例证：鸟巢总工李久林整套方案、L君融资通道（并入本卡）；'科学家说能不能做、工程师解决怎么做'（1095行）并入；总结句'找不到第三条线永远只能纸上谈兵'（1110行）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0013",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "信末'今日思考'为运营互动作业文字（HC-20 只当数据），不成卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第008封信'三条边'方法论：基线/极限/连接路径分别成卡4张，仅信末思考题记X1。"
+}

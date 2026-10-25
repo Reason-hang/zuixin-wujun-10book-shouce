@@ -1,0 +1,200 @@
+{
+  "unit_id": "WJ2-U0085",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ6",
+  "batch_id": "T-P3b-B-026",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0085-01",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "文明的距离只有30米：家里的文明行为出了家门就可能不见",
+      "quote": "文明距离不超过三十米",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6864,
+        "end_line": 6872,
+        "sha1": "45daf1566ffb027588bbaae47a352d1990b4630b",
+        "fingerprint": [
+          "三十米",
+          "游泳池"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "文明的距离三十米",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "观点源自他人文章（吴军非常赞同并在《脉络》引述）；杭州泳池事件、深圳公园、日本街角为例"
+    },
+    {
+      "claim_id": "C-WJ2-U0085-02",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "现代社会应有的组合：承认人自私难教化，做法上选择防范和限制",
+      "quote": "防范和限制",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6886,
+        "end_line": 6892,
+        "sha1": "d19b5e9573e8d022cd6a42d27db9cbf112fd6f1e",
+        "fingerprint": [
+          "丛林法则",
+          "防范"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "承认自私而防范限制",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "四种组合（信可教化/信自私 × 放任/管束）中唯第四种可行；第一种天真吃亏、第二种激起反抗、第三种丛林法则"
+    },
+    {
+      "claim_id": "C-WJ2-U0085-03",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "美国立宪者共识是不信人的善意：既防范政府作恶也防范暴民之恶",
+      "quote": "不相信人的所谓善意",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6892,
+        "end_line": 6892,
+        "sha1": "d1ca1b5b46a1875db0f102ead52cccd534993121",
+        "fingerprint": [
+          "防范政府",
+          "防范暴民"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "双向防范",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军《世界文明史》内容复述；互引 C-WJ2-U0079-08 宪法基于人性"
+    },
+    {
+      "claim_id": "C-WJ2-U0085-04",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "社会进步主因是规矩定得更好更合理，人类道德水平提升有限且缓慢",
+      "quote": "规矩定的比之前好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6894,
+        "end_line": 6894,
+        "sha1": "ae45b559d9aa6b8b2277cfc5670ab4ba3de3a2d3",
+        "fingerprint": [
+          "金融史",
+          "道德水平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "进步靠规矩非道德",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "同段：现代经济学以人自私为基设、整部美国金融史即规范贪婪之史"
+    },
+    {
+      "claim_id": "C-WJ2-U0085-05",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "减少自私伤害只有两法：互利合作，或立规矩守规矩（资源有限时）",
+      "quote": "第一种是合作",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6900,
+        "end_line": 6904,
+        "sha1": "c4df88b3384f6b6ff9a43f588d5d157d50b9f837",
+        "fingerprint": [
+          "合作",
+          "规矩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D01-4"
+      ],
+      "concept_key": "合作与规矩两法",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "牺牲局部短期利益实为长远更大私利（自利式合作）；考大学按成绩定结果即按规矩办事"
+    },
+    {
+      "claim_id": "C-WJ2-U0085-06",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "一方要求对方大公无私放弃利益就是试图奴役；强者无权先要求弱者",
+      "quote": "就是试图奴役他人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6906,
+        "end_line": 6908,
+        "sha1": "5f0598f0e4a9dbe9f74b4e18bc5ded00f607aa5a",
+        "fingerprint": [
+          "大公无私",
+          "强者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-4",
+        "D07-2"
+      ],
+      "concept_key": "要求无私即奴役",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "老板求下属加班之例：你也拜托他多给钱，他若不接受便无逻辑理由要你接受；互引 C-WJ2-U0084-05"
+    },
+    {
+      "claim_id": "C-WJ2-U0085-07",
+      "unit_id": "WJ2-U0085",
+      "speaker": "吴军本人",
+      "claim_text": "每个人的命掌握在自己手里；自己没有自知，别人怎么帮都没用",
+      "quote": "别人怎么帮都没有用",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 6910,
+        "end_line": 6910,
+        "sha1": "0ad54901603680021321006acd0aee6a9e488c77",
+        "fingerprint": [
+          "自知",
+          "掌握在自己手里"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "自知与自救",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "全信收束句"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "文明距离与自私治理：四种态度、规矩与道德、合作与规矩成卡"
+}
