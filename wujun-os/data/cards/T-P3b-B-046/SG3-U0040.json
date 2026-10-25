@@ -1,0 +1,157 @@
+{
+ "unit_id": "SG3-U0040",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-046",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标难度量化：亿万富翁约2000人＜登珠峰4000+＜奥运冠军每届约1000；诺奖最少不到1000",
+   "quote": "远远超过了亿万富翁的人数",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4147,
+    "end_line": 4151,
+    "sha1": "4652acb55405621c4c06d45f1f0abe0bb8131bef",
+    "fingerprint": [
+     "珠峰",
+     "诺贝尔"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "目标难度量化",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第031封信；朋友普遍低估成为亿万富翁的难度（4147、4153）；考虑从业基数、商人成亿万富翁几率或小于学者得诺奖（4151）；X6人数数据",
+   "claim_id": "C-SG3-U0040-01",
+   "unit_id": "SG3-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标难度判据：单一标准可量化易达成；全方位多因素、无统一衡量标准的目标极难",
+   "quote": "单一标准的目标是容易达成的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4157,
+    "end_line": 4157,
+    "sha1": "09a77df662032fb255304354ba73421dcd347c23",
+    "fingerprint": [
+     "量化",
+     "目标"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "目标难度判据",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "奥运冠军最易量化、有成熟训练法可稳定提升（4159-4161）；登珠峰已成常规动作、向导探路系绳（4163-4175）；诺奖无套路可模仿、影响几十年后才知（4167-4169）；划重点重申（4223）",
+   "claim_id": "C-SG3-U0040-02",
+   "unit_id": "SG3-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业无统一标准：'产品做得好'本身难量化、用户多是结果不是原因——亿万富翁很少走别人的路",
+   "quote": "用户多是一个结果，而不是原因",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4177,
+    "end_line": 4183,
+    "sha1": "fc4b37b267eda1f267565c6cbb6e955f012c7c87",
+    "fingerprint": [
+     "创业",
+     "量化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "创业不可套用",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "头部品牌手机硬件指标差不多、价格两倍用户更买账（4179）；砸钱广告有的市占率能保持、有的昙花一现（4181）；认识的亿万富翁走的路都不大相同（4183）",
+   "claim_id": "C-SG3-U0040-03",
+   "unit_id": "SG3-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多维投射误区：把多维度事情投射到一两个维度、把不该量化的事用指标量化",
+   "quote": "把多维度的事情简单地投射到",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4187,
+    "end_line": 4189,
+    "sha1": "2ec4d31051d25fe9d8aac2db1cb0c9c815942394",
+    "fingerprint": [
+     "维度",
+     "量化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-2"
+   ],
+   "concept_key": "多维投射误区",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "量化本身非坏事：标准赛道计时、高考分数降维——考虑选拔成本是当前最好方法（4191-4193）；'成绩都是A'把好学生变成数据（4197）；论文数专利数多但了不起的成就占多少（4199）；习惯单一标准会懒得培养综合能力（4201-4205）；划重点重申（4225）",
+   "claim_id": "C-SG3-U0040-04",
+   "unit_id": "SG3-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不可量化的弱点：看得见的弱项不得不承认；情商低/自大/固执等因无指标就被否认",
+   "quote": "无法用数据衡量的弱点",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4207,
+    "end_line": 4209,
+    "sha1": "a1df925588b73b9c6dd255a7d69ae060bc1dcc1c",
+    "fingerprint": [
+     "弱点",
+     "量化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "不可量化弱点",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "百米13秒明知跑不进10秒（4209）；不量化不测试故不成为升学求职硬指标、很少人承认（4209）；划重点重申（4227）",
+   "claim_id": "C-SG3-U0040-05",
+   "unit_id": "SG3-U0040"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0040",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "四事人数统计等时点数据为例证留痕；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第031封信：目标难度量化/难度判据/创业不可套用/多维投射/不可量化弱点"
+}

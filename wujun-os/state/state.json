@@ -1,8 +1,8 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-25（J-114 后）",
-  "phase": "P3b 45/86（谷歌+WJ2 收口验收全 PASS；SG3 2/23：B-043/B-045 已收编）；GATE-C r15 全绿、r16 在途（GAUD18）",
+  "updated": "2026-10-25（J-115 后）",
+  "phase": "P3b 46/86（谷歌+WJ2 收口验收全 PASS；SG3 3/23：B-043/045/046 已收编）；r16 到期待重派（GAUD18 秒杀）、B-044 待主 inline 兜底",
   "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
   "spec": {
     "v2_方案": "v2（2026-10-19）",
@@ -18,22 +18,22 @@
   "progress": {
     "units_total": 1742,
     "units_content": 1697,
-    "units_done": 1061,
+    "units_done": 1076,
     "chars_total": 5038558,
     "chars_done": 3033287,
-    "batches_done": 67,
+    "batches_done": 68,
     "batches_est": 108
   },
   "in_flight": {
-    "ticket": "T-P3x-B-044（EXT-SG2 代理在途）",
+    "ticket": "T-P3x-B-044（EXT-SG2 阵亡无残片）+ GATE-C r16（GAUD18 秒杀）",
     "unit_ids": [
       "SG3-U0013~U0022"
     ],
     "unsaved": "无",
-    "note": "GATE-C r16 GAUD18 在途；B-044 代理阵亡则主 inline 兜底（D-32）"
+    "note": "D-32 兜底 B-044；r16 攒槽位重派（D-34）"
   },
-  "last_ticket": "T-P3b-B-045（71 卡 0 FAIL，J-114）",
-  "next_ticket": "收 B-044 + GATE-C r16 验收 → T-P3x-B-046 SG3③ → … → SG3 23 批 → SG1 20 批",
+  "last_ticket": "T-P3b-B-046（85 卡 0 FAIL，J-115）",
+  "next_ticket": "B-044 主 inline 兜底 → GATE-C r16 重派 → B-047 → …",
   "blocked_by": [],
   "open_items": [
     "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",

@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG3-U0034",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-046",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "韭菜画像：年轻、社会经验少、受教育程度高、了解投资皮毛却毫无投资经验——目标短期涨10-20倍",
+   "quote": "了解投资的皮毛",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3607,
+    "end_line": 3611,
+    "sha1": "1fbee31c80c172e364243eaf93e4b9ba18ed0a8b",
+    "fingerprint": [
+     "散户",
+     "经验"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "韭菜画像",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "第026封信；谷歌博士同事炒冷门股赔光两年积蓄（3583）；四特点：有操作经验/读财经新闻/知券商利益冲突/自信胜过基金经理（3619-3627）；划重点重申（3669）",
+   "claim_id": "C-SG3-U0034-01",
+   "unit_id": "SG3-U0034"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "仙股价差收割：割韭菜的不是华尔街而是免费券商——魔鬼藏在仙股的买卖价差spread",
+   "quote": "魔鬼就藏在仙股中",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3635,
+    "end_line": 3643,
+    "sha1": "892513d705540610f7303741349c23f4a2056f06",
+    "fingerprint": [
+     "罗宾汉",
+     "spread"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "仙股价差收割",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "一分钱差价被券商赚走（3641）；仙股价差易超交易额1%（3643）；柯达持仓者从不到1万增至13万（3617，X6）；罗宾汉2020Q1新增300万账户、红杉投4.8亿（3645，X6）；买的没有卖的精、韭菜永远割不完（3647）",
+   "claim_id": "C-SG3-U0034-02",
+   "unit_id": "SG3-U0034"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机构化趋势：个人投资者持股比例1951年93%→2009年35%——八到十年一次股灾使投资者总体理性",
+   "quote": "个人投资者持股的比例",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3649,
+    "end_line": 3649,
+    "sha1": "c75036a5c4a8b9a692a61d130e10ae5b315cfd75",
+    "fingerprint": [
+     "股灾",
+     "理性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "机构化趋势",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "X6时点数据留痕",
+   "claim_id": "C-SG3-U0034-03",
+   "unit_id": "SG3-U0034"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "半吊子经验很可怕：刚会开车的人最爱闯红灯、老司机稳妥——散户恰是一知半解",
+   "quote": "半吊子的经验很可怕",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3655,
+    "end_line": 3655,
+    "sha1": "af6a5a7116d8392f05cee457e7af5c1aac0634e7",
+    "fingerprint": [
+     "经验",
+     "司机"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "半吊子经验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "验证经验要交流讨论、遇批评抱团攻之则只听同一种声音、越讨论越差（3657）；与U0008讨论验证经验同族；划重点重申（3671）",
+   "claim_id": "C-SG3-U0034-04",
+   "unit_id": "SG3-U0034"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有智力、无智慧比愚蠢更可怕：受教育不差却没想过为什么华尔街基金经理都跑不赢大盘",
+   "quote": "有智力、无智慧",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3659,
+    "end_line": 3659,
+    "sha1": "91ef72f4712ac886673da917871b0396bfbece7d",
+    "fingerprint": [
+     "智力",
+     "智慧"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "有智力无智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "划重点重申（3671）",
+   "claim_id": "C-SG3-U0034-05",
+   "unit_id": "SG3-U0034"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "频繁操作的劳模表现通常好不了：动态管理基金长期跑不赢大盘，散户操作动态得不像话",
+   "quote": "频繁操作的劳模",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 3661,
+    "end_line": 3661,
+    "sha1": "e8aa2ec2b407c1b9a73499afa2bedae4a6a106ea",
+    "fingerprint": [
+     "大盘",
+     "动态"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "频繁操作劣绩",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "划重点重申（3671）",
+   "claim_id": "C-SG3-U0034-06",
+   "unit_id": "SG3-U0034"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0034",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "柯达20倍/赫兹900%反弹/罗宾汉用户数/持股比例等时点数据为例证留痕，机理已入卡；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第026封信：韭菜画像/仙股价差/机构化/半吊子经验/有智力无智慧/频繁操作"
+}

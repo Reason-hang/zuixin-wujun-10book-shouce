@@ -1,0 +1,191 @@
+{
+ "unit_id": "SG3-U0043",
+ "book_code": "SG3",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-046",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无限游戏：生活中的博弈常近乎无限——纳什均衡落在双输，双赢需无条件信任对方",
+   "quote": "不是一次性的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4443,
+    "end_line": 4451,
+    "sha1": "e99e9f5fc2a6465d8c69931bc519cc000c5ea5a5",
+    "fingerprint": [
+     "零和",
+     "纳什"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "无限游戏",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第034封信；非零和博弈双赢是目标、双输最稳固易达（4441-4445）；无限游戏玩法与有限游戏差别很大（4451）",
+   "claim_id": "C-SG3-U0043-01",
+   "unit_id": "SG3-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "作弊期望值：一次作弊期望4.5合算；多次游戏全部成功概率0.95^k递减——k=30时期望转负",
+   "quote": "博弈只进行一次",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4457,
+    "end_line": 4465,
+    "sha1": "10aa4f37a8f26fc304ac00ac15cd6b7776281bb3",
+    "fingerprint": [
+     "期望",
+     "概率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "作弊期望值",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "k=10期望20、k=20降到7.5、k=30约负14、k=100负98（4473-4481）；防作弊两法=提高发现概率+加大惩罚、成本不低（4459）；尝到甜头根本停不住、唯一不输的方法是一开始别玩（4485）",
+   "claim_id": "C-SG3-U0043-02",
+   "unit_id": "SG3-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "重罚改变博弈：英美股市健康因罚得倾家荡产——游戏规则不一样、玩家玩法自然不一样",
+   "quote": "玩家选择的玩法自然会不一样",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4493,
+    "end_line": 4497,
+    "sha1": "5e7a082fb6c923ef0320089fb3d4729a9401b8f4",
+    "fingerprint": [
+     "处罚",
+     "造假"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "重罚改变博弈",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "美国假货少：向所有顾客赔偿、一次倾家荡产（4495）；体育作弊严重因侥幸收益大处罚有限（4499）；阿姆斯特朗收入超1亿、资产仍5000万（4501，X6）；2012伦敦举重前三皆禁药第四名得冠（4503，X6）；划重点重申（4541）",
+   "claim_id": "C-SG3-U0043-03",
+   "unit_id": "SG3-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "作弊均衡：处罚不严→作弊收益高→不作弊者吃亏加入→全员作弊；但这学校走出来的人全是输家",
+   "quote": "大家都作弊，达到了一个均衡点",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4507,
+    "end_line": 4511,
+    "sha1": "48c5040f101bff9f3c7aec5d8d9cd03ea90f5881",
+    "fingerprint": [
+     "均衡",
+     "处罚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "作弊均衡",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "作弊可伪造分数、无法改变行为的后果（4513-4517）",
+   "claim_id": "C-SG3-U0043-04",
+   "unit_id": "SG3-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "系统自毁律：能长期运转的系统内部博弈规则必有相对合理性——科举千年相对公平与科场重罚有关",
+   "quote": "否则系统本身会走向自毁",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4519,
+    "end_line": 4521,
+    "sha1": "9f6770bdb94b3305f2a5e91b3329599cc6807dbc",
+    "fingerprint": [
+     "科举",
+     "高考"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "系统自毁律",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "高考运转40多年仍较公平合理（4521）",
+   "claim_id": "C-SG3-U0043-05",
+   "unit_id": "SG3-U0043"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "远见=多次游戏不用一次策略、无限游戏不用有限规则——无限游戏各方最大利益是游戏能玩下去",
+   "quote": "不要用一次游戏的策略去应对它",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 4525,
+    "end_line": 4535,
+    "sha1": "734658149ae6b0ecc2504f7311736e9fdc5d5564",
+    "fingerprint": [
+     "远见",
+     "策略"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "远见与游戏次数",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "把多次游戏当成几次独立一次性游戏=用错策略（4525-4529）；NBA末位先选新秀+工资帽防马太效应、让游戏能无限进行（4531-4533）；划重点重申（4543-4547）",
+   "claim_id": "C-SG3-U0043-06",
+   "unit_id": "SG3-U0043"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0043",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "阿姆斯特朗/伦敦奥运禁药等时点数据为例证留痕"
+  },
+  {
+   "unit_id": "SG3-U0043",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "科举/高考史料为例证留痕；划重点节为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "SG3第034封信：无限游戏/作弊期望值/重罚改变博弈/作弊均衡/系统自毁律/远见"
+}
