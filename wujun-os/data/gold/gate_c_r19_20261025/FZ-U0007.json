@@ -1,0 +1,234 @@
+{
+ "unit_id": "FZ-U0007",
+ "book_code": "FZ",
+ "extractor": "GAUD21",
+ "batch_id": "GATE-C-R19",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无论个人还是企业，成就与利益最大化都要靠做减法而非加法，很多事要靠减法才能完成",
+   "quote": "都需要做减法，而不是做加法",
+   "anchor": {
+    "start_line": 179,
+    "end_line": 187,
+    "fingerprint": [
+     "做减法",
+     "乔布斯"
+    ],
+    "book_code": "FZ",
+    "sha1": "a51346500338015992bf04b8b09b14ac220c29d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "做减法比做加法重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "总括句（187）；人类喜加厌减的特点（181）；乔布斯1996年砍14条产品线剩4条救苹果例（183，迈克尔·穆勒回忆）；全球市值前五公司产品线极短对比（185）；下位判断：投入阈值见C-FZ-U0007-02、等级跃迁见C-FZ-U0007-04、舍弃标准见C-FZ-U0007-08",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-01",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投入须超过收益阈值才有效果，不足则效果为零；同时做太多事每件都不过阈值，则全都做不成",
+   "quote": "超过一定的阈值后才能取得效果",
+   "anchor": {
+    "start_line": 193,
+    "end_line": 195,
+    "fingerprint": [
+     "阈值",
+     "特长班"
+    ],
+    "book_code": "FZ",
+    "sha1": "672bb9426649d4ccdd9e58e388cc8a4eb156f278"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "投入阈值效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "阈值例：锻炼超10分钟、读书5~10分钟才进入深度思考（193）；中小学生上多个特长班精力分散效果为零例（195）；承接做减法总判断C-FZ-U0007-01",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-02",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专业等级差一级，贡献和影响力就差一个数量级；朗道等级在几乎所有专业领域都成立",
+   "quote": "贡献和影响力就差一个数量级",
+   "anchor": {
+    "start_line": 203,
+    "end_line": 205,
+    "fingerprint": [
+     "朗道",
+     "高德纳"
+    ],
+    "book_code": "FZ",
+    "sha1": "86992359820dfe74a827bc6d82f030eed08cc32e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D04-1"
+   ],
+   "concept_key": "朗道等级",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朗道五级：玻尔、海森堡等第一级，助理教授第五级（203）；IT领域高德纳第一级、莱万多夫斯基与杰夫·迪安接近第一级、顶级与码农贡献差千万倍收入差百倍（205）；手袋品质差百分之几价格差几倍例（201）；等级跃迁判断见C-FZ-U0007-04；模糊点：量级规律（D04-1）与职业量级（D06-1）两可，按结论句取职业归属为主",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-03",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两份工作最多收入翻倍，一份高水平工作收入可增数倍；与其低水平复制不如集中到一点实现等级跃迁",
+   "quote": "把力量集中到一点",
+   "anchor": {
+    "start_line": 207,
+    "end_line": 209,
+    "fingerprint": [
+     "斜杠青年",
+     "等级的跃迁"
+    ],
+    "book_code": "FZ",
+    "sha1": "fb81700a72759e13fe3d77468012b8c4b3c51841"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D06-1"
+   ],
+   "concept_key": "集中一点实现等级跃迁",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "几份简单工作顶不上一份有难度的工作、底层民众打几份工例（207）；斜杠青年低水平跨界贡献有限、名片加名词不如加资深著名（209）；母判断=做减法C-FZ-U0007-01；量级依据=朗道等级C-FZ-U0007-03",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-04",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创企业摊子铺得大几乎无一例外快速失败；聚焦把一个看似小的问题解决到极致成功率高得多",
+   "quote": "把一个看似小的问题解决到极致",
+   "anchor": {
+    "start_line": 215,
+    "end_line": 215,
+    "fingerprint": [
+     "初创企业",
+     "失败收场"
+    ],
+    "book_code": "FZ",
+    "sha1": "cdc11a7aff60c20179d88826040471a9fe5c9c6e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "初创聚焦到极致",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "乔布斯砍产品线集中资源做盈利产品（213）；风投要求任务清单减到无法再减、心思放在代差产品上接近成功（217）；Zoom、DoorDash长期只做好一件事，Zoom靠做减法宁少功能也要核心功能做好而胜微软Teams（219-221）",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-05",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业向自己不擅长领域扩张是由盛而衰的开始；一个领域绝对第一胜过十个领域的前三名",
+   "quote": "由盛而衰的开始",
+   "anchor": {
+    "start_line": 223,
+    "end_line": 223,
+    "fingerprint": [
+     "市场占有率",
+     "金牌"
+    ],
+    "book_code": "FZ",
+    "sha1": "9f64ecf8b725240c1cceac9e1d18909afb964097"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "扩张不擅长领域致衰",
+   "ability_tags": [],
+   "notes": "一家绝对第一胜过十个领域第二第三、奥运金牌记忆例（223）；市场利润分配规律见C-FZ-U0007-07",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-06",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "70-20-10定律：很多市场第一名拿走70%利润、第二名20%、其余不到10%",
+   "quote": "拿走整个市场70%的利润",
+   "anchor": {
+    "start_line": 225,
+    "end_line": 225,
+    "fingerprint": [
+     "70-20-10",
+     "吴子宁"
+    ],
+    "book_code": "FZ",
+    "sha1": "4bb43c24226de4346c8120e63d87dcc4f15618a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "70-20-10定律",
+   "ability_tags": [],
+   "notes": "《浪潮之巅》提出（225）；制药等行业药厂规模相近但每类特定药品仍循此律（225）；半导体细分市场第一盈利第二打平其余亏损、大公司拳头产品只有一两个——吴子宁（美满电子前首席技术官）行业观察，转述·第三方（225）；扩张致衰见C-FZ-U0007-06",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-07",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做减法最难在心理；智者慎重开始每件事，与目标无关的事情都应通过做减法删掉",
+   "quote": "和目标没有关系的事情",
+   "anchor": {
+    "start_line": 227,
+    "end_line": 231,
+    "fingerprint": [
+     "断舍离",
+     "慎重地开始"
+    ],
+    "book_code": "FZ",
+    "sha1": "d3a6c8ec9ba07e9f9afc45eeff22d0bae9babc4e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "以目标定舍弃",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "最有智慧的人慎重开始、次之的人理智做减法、百年老店经历过减法之痛（227）；山下英子《断舍离》原则——想过什么样的生活就保留相应的东西（转述·第三方，231，仅作舍弃标准例证未单列转述卡）；一个人不可能所有方位都是目标（231）",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-08",
+   "unit_id": "FZ-U0007"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "FZ-U0007",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "案例叙述本体为商业/生活史实背景：乔布斯1996砍产品线与五大市值公司对比（183、185）、锻炼读书阈值例与特长班（193、195）、蔻驰爱马仕价差（201）、朗道名单人物与高德纳莱万多夫斯基收入细节（203、205）、底层民众打几份工报道（207）、Zoom DoorDash与Teams对比细节（219-221）、吴子宁半导体经历（225）——其承载的可迁移判断均已入K卡，故不整体抽为史实卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第03节'做减法比做加法重要'：做减法总判断及投入阈值、朗道等级与等级跃迁、初创聚焦、扩张致衰、70-20-10定律、以目标定舍弃等支撑判断入K卡；案例史实归X4"
+}
