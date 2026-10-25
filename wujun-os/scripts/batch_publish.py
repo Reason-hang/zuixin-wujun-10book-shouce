@@ -29,6 +29,8 @@ def main():
     if len(a) < 5 or '--title' not in a:
         sys.exit(__doc__)
     batch_id, batch_dir, uc_path, jnum = a[0], a[1], a[2], a[3]
+    jfile = a[a.index('--journal-file') + 1] if '--journal-file' in a else 'state/journal.md'
+    sfile = a[a.index('--state-file') + 1] if '--state-file' in a else 'state/state.json'
     ti = a.index('--title'); title = a[ti + 1]
     themes = a[a.index('--themes') + 1] if '--themes' in a else '（主题带略）'
     extra = a[a.index('--extra') + 1] if '--extra' in a else ''
@@ -50,20 +52,21 @@ def main():
             f"K{k_units}+X{x_units}，{tot} 卡 E1×{ev.get('E1',0)}/E2×{ev.get('E2',0)}/E3×{ev.get('E3',0)}"
             f"（转述·第三方 {sp.get('转述·第三方',0)}），X 处置 {xcnt} 条；verify 0 FAIL、覆盖 {len(docs)} 单元、uc 回写；批内同名键 {dup}。主题带：{themes}{'。' + extra if extra else ''} "
             f"| {batch_dir}/、logs/ |")
-    with open('state/journal.md', 'a') as f:
+    with open(jfile, 'a') as f:
         f.write(line + '\n')
     print('journal 已追加', jnum)
     # ③ state 刷新
     done = sum(1 for f in glob.glob('data/unitcards/uc_*.jsonl') for l in open(f) if json.loads(l).get('disposal') is not None)
-    s = json.load(open('state/state.json'))
+    s = json.load(open(sfile))
     s['updated'] = f'2026-10-25（{jnum} 后）'
     s['progress']['units_done'] = done
     s['last_ticket'] = f'{batch_id.replace("T-P3x-", "T-P3b-")}（{tot} 卡 0 FAIL，{jnum}）'
-    json.dump(s, open('state/state.json', 'w'), ensure_ascii=False, indent=2)
+    json.dump(s, open(sfile, 'w'), ensure_ascii=False, indent=2)
     print('state 已刷新，units', done)
     # ④ pack + commit + push
     sh('make pack 2>&1 | tail -1')
     sh(f'git add -A && git commit -m "feat: {title}——{tot}卡 0 FAIL、覆盖 {len(docs)} 单元（{jnum}）"')
+    sh('git pull --rebase origin main 2>&1 | tail -1')
     sh('git push 2>&1 | tail -1')
     print(f'PUBLISH OK {jnum}: {batch_id} {tot} 卡已推送')
 
