@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG3-U0175",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：技术是常被忽略的变量，战略和战术都要在技术发展的基础之上制定展开",
+   "quote": "技术发展的基础之上",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18473,
+    "end_line": 18475,
+    "fingerprint": [
+     "变量",
+     "特拉法加海战"
+    ],
+    "sha1": "c7d09910eb352034df02a331f957c61e87244d11"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "技术约束战术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "军事活动三变量：战略、战术、技术（18471-18473）；本信以英国海军特拉法加海战为例谈技术对战术选择的影响（18475）；划重点1（18575）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0175-01",
+   "unit_id": "SG3-U0175"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：好的战术或方法是与现有技术相匹配的，一味加长射程反而放大缺点",
+   "quote": "和现有技术相匹配",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18565,
+    "end_line": 18565,
+    "fingerprint": [
+     "命中率",
+     "平射战术"
+    ],
+    "sha1": "0505eb67f78800ed7bdc7b869c0fe9f98b595608"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "方法匹配技术",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "帆船时代命中率是胜利关键、越远程命中率越低（18565）；英军另辟蹊径以平射配短程舰炮取得更大优势（18565）；细节改进例：豪猪刺鹅毛管预装火药缩短点火时间（18537）；划重点3（18579）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0175-02",
+   "unit_id": "SG3-U0175"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：计算得失要有博弈论思想——距离不是越近越远越好，要算清成败概率",
+   "quote": "博弈论的思想",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18567,
+    "end_line": 18567,
+    "fingerprint": [
+     "概率",
+     "发射火炮的距离"
+    ],
+    "sha1": "194040a2208cd9b7bd1f6a7699a55cc5cedcd1fd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "博弈计算得失",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "平射战术需靠近敌舰、接近过程中可能挨打，得失须仔细计算（18525）；对方命中率射速不高则己方虽有损失但胜率更大、无法快速接近则危险（18525）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0175-03",
+   "unit_id": "SG3-U0175"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：比临场表现更重要的是背后的准备——真正带来胜利的是技术与训练积累",
+   "quote": "背后的准备",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18569,
+    "end_line": 18569,
+    "fingerprint": [
+     "技术改良",
+     "英勇"
+    ],
+    "sha1": "82bdf0aab0a5b53764ab6ef8e8286bdd27710b0a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "备胜于临场",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "众人津津乐道纳尔逊当日英勇，实际带来胜利的是技术改良、武器升级、充足训练与匹配战术（18569）；与预则立断退路卡（C-SG3-U0172-05）同理",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0175-04",
+   "unit_id": "SG3-U0175"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军例证：英海军以缴获分成一半归舰队自用解决训练经费，人钱弹药各半",
+   "quote": "以战养战",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18533,
+    "end_line": 18533,
+    "fingerprint": [
+     "一半可以归舰队",
+     "训练经费"
+    ],
+    "sha1": "416c5fe30e6d6057a109087d825f0bf8e871b538"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "分成激励养训练",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "专名案例+可迁移机理（E3例证卡）：训练需成本、火药炮弹不便宜，英海军预算虽高也承受不了无节制实弹训练，故以制度激励舰长解决经费（18533）；装进个人口袋与购弹训练约1:1（18533）；成效：英舰射速每五分钟2-3发、快对方一倍多（18531）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0175-05",
+   "unit_id": "SG3-U0175"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0175",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "海战战术沿革与战役过程史实（18489-18511：登舰搏斗与撞角战术千年沿用、帆船倾斜致炮弹落点随机、靠多装炮提高命中、五分钟一炮；18515-18527：平射战术命中与轻重炮计算、加朗炮；18543-18559：27对33艘、低风速近一小时接近、旗语令、伤亡1比8、纳尔逊中弹身亡），纯军事技术史叙述无可迁移判断；方法启示已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第145封信：技术约束战术/方法匹配技术/博弈计算得失/备胜于临场四判断与英海军缴获分成E3例证成卡；海战技术与战役过程史实归X4"
+}

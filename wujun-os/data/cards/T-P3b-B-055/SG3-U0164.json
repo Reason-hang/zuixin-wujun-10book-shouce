@@ -1,0 +1,267 @@
+{
+ "unit_id": "SG3-U0164",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "奥勒留：万物有生必有死，死亡是自然的运转且有利于自然，怕它即稚气未脱",
+   "quote": "有利于自然的事情",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17333,
+    "end_line": 17337,
+    "fingerprint": [
+     "有生必有死",
+     "自然的运转"
+    ],
+    "sha1": "ff2398babd77cfca408fb474274455b43abfc36b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "死亡是自然运转",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=奥勒留（《沉思录》）；死亡是物体分解物质消散、回归大自然（17335）；走向另一生命不必担心、走向无知无觉也不再有痛苦（17337）；浮名也有烟消云散一天不必在意（17343）；划重点1（17399）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-01",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：企业和人的死亡都是对世界的最后一次贡献，释放资源为后来者腾位",
+   "quote": "最后一次贡献",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17339,
+    "end_line": 17343,
+    "fingerprint": [
+     "最后一次贡献",
+     "腾出一个位置"
+    ],
+    "sha1": "861c3394800bbee25cc93676d9d09928f769d961"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "死亡是最后贡献",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出自吴军《硅谷之谜》观点的沿用（17339）；凯文·凯利原话被转述：如果作为个体的人不死、人类就死了，不死细胞唯有癌细胞（17341，转述·凯文·凯利）；秦始皇思想实验：不死则后来者无机会、只有战争（17343）；纽约泡沫期看讣告找房例（17341）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-02",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "奥勒留：最长最短的生命没什么不一样，人真正拥有的只有现在，珍惜当下",
+   "quote": "真正拥有的只有现在",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17345,
+    "end_line": 17347,
+    "fingerprint": [
+     "珍惜当下",
+     "时间的长短"
+    ],
+    "sha1": "e5e29b75332291e02dd96782c22c9d34261c6205"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "珍惜当下",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=奥勒留；时间的长短对人意义不大、学识地位权势帮不了忙（17345）；希波克拉底、占星家、亚历山大庞培凯撒皆终有一死（17347）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-03",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯多葛哲学：以出世的态度做入世的事情——看淡财富情感，同时埋头苦干履行义务",
+   "quote": "以出世的态度，做入世的事情",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17355,
+    "end_line": 17357,
+    "fingerprint": [
+     "出世",
+     "入世"
+    ],
+    "sha1": "834d1b098611a133e8963253b55099045e95b3c7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-3"
+   ],
+   "concept_key": "以出世态度入世",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯多葛学派；注重灵魂生活、视财富地位痛苦快乐为虚幻即出世（17355）；信心中神明故埋头苦干、履行社会义务、为大众谋幸福即入世（17357）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-04",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "奥勒留：不仅要思考善还要付诸行动——行动是你存在的目的，要成为高尚的人",
+   "quote": "行动就是你存在的目的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17365,
+    "end_line": 17365,
+    "fingerprint": [
+     "付诸行动",
+     "成为这样的人"
+    ],
+    "sha1": "c9efa792f18bb76126f9019ee62730336d8f6ca3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D05-1"
+   ],
+   "concept_key": "行动即存在目的",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=奥勒留；德性不要求报酬、不希望别人知道，行为高贵且动机纯正（17365）；不谈论高尚者应有什么品质、而是成为这样的人（17365）；划重点2（17401）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-05",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：入世是生活的目的，可以冷静达观地投入；归隐无须山林，归隐于内心",
+   "quote": "归隐于自己的内心",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17373,
+    "end_line": 17373,
+    "fingerprint": [
+     "入世是我们生活的目的",
+     "平和的心态"
+    ],
+    "sha1": "ce6677aa46677f3ee37764e5d91a76fb854bad6c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-4"
+   ],
+   "concept_key": "入世是生活目的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "达观投入的方式：不争不躲、待人以仁爱宽容、待己以理性节制（17373）；同构史例：谢安隐居出山、挫败桓温、淝水之战后主动隐退（17369-17371，亦以出世态度入世）；心中神明为伴（17373）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-06",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯多葛：事分力量范围之内与之外；接纳不可控者为出世，尽力为善为入世",
+   "quote": "力量范围之内",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17377,
+    "end_line": 17377,
+    "fingerprint": [
+     "力量范围",
+     "为善"
+    ],
+    "sha1": "3bbf852bd2891c3bce312645e0d12ddd238a7179"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "力量范围二分法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯多葛学派；疾病、死亡、失意、痛苦、社会丑恶属力量范围之外，承认其合理性、按自然法则接纳（17377）；同时努力工作尽己所能为善（17377）；与希腊古典探求世界本原不同，罗马时期哲学转向探求人心、解决个人德性与解脱（17375）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-07",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "芝诺与西塞罗：自然法是支配自然与社会的普遍法则，真正的法律与自然吻合恒久",
+   "quote": "与自然相吻合",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17383,
+    "end_line": 17387,
+    "fingerprint": [
+     "自然法",
+     "斯多葛"
+    ],
+    "sha1": "7f21ab990d17a26b2134227b0c9f9f70d958fb97"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "自然法源于斯多葛",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=芝诺（斯多葛学派创始人，非芝诺悖论之芝诺，晚两个世纪）、西塞罗（17385-17387）；罗马法的基础自然法原则源于斯多葛哲学（17383）；部分法律原则精神一以贯之、许多国家法律体系受罗马法与自然法影响（17387，吴军评述）；划重点3（17403）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-08",
+   "unit_id": "SG3-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军概括斯多葛：自然带来本性，本性带来理性，理性带来法律，法律带来秩序",
+   "quote": "理性带来法律",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17391,
+    "end_line": 17393,
+    "fingerprint": [
+     "自然带来本性",
+     "法律带来秩序"
+    ],
+    "sha1": "6a7f1241f969b4d59c9aa43bc99bab75141dc3ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "自然到秩序链条",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信小结句（17393）；老子道法自然与斯多葛主张相似（17381）；概括对象见C-SG3-U0164-04/07/08",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0164-09",
+   "unit_id": "SG3-U0164"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0164",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "奥勒留在位19年政绩史实背景（17361：五贤帝末期外战内乱、夜以继日维系帝国、死于边疆军营），纯罗马史叙述无可迁移判断；其践行出世入世部分已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第136封信：死亡自然运转/最后贡献/珍惜当下/出世入世/行动即存在目的/力量范围二分/自然法与秩序链条诸判断成卡；奥勒留政绩史实归X4"
+}

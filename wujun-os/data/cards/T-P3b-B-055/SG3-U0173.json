@@ -1,0 +1,129 @@
+{
+ "unit_id": "SG3-U0173",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：马拉松与坎尼战术八成相似，汉尼拔用骑兵堵死退路的两成不同成点睛之笔",
+   "quote": "点睛之笔",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18325,
+    "end_line": 18333,
+    "fingerprint": [
+     "堵死了",
+     "退路"
+    ],
+    "sha1": "ed3915631f5df84ae8790e2cb8aa1e2a6e4457e0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D10-1"
+   ],
+   "concept_key": "点睛之笔",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "马拉松战术后方口子收不上、进攻不力方可撤出止损，汉尼拔补上开口围死罗马8万人（18303、18321）；同构例：白起五千骑兵分割赵军（18329）、古德里安封死盟军退路（18331）；中规中矩与经典战术的差别就在点睛之笔，但先要做到基本部分（18333）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0173-01",
+   "unit_id": "SG3-U0173"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：创新就是N+1——先有N再做出前人没做到的一点；不从零开始，N代表捷径",
+   "quote": "创新不要从零开始",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18339,
+    "end_line": 18343,
+    "fingerprint": [
+     "N+1",
+     "捷径"
+    ],
+    "sha1": "46e4ed0408bd11fb9372683ddb0215986522f5e2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "创新即N+1",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "前人的N件事不断被复制是有道理的、代表捷径（18341）；有捷径不走非要强调不同，不是创新而是和自己过不去（18343）；汉尼拔若无马拉松战术前半部分、只派骑兵深入敌后即羊入虎口（18343）；划重点3（18361）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0173-02",
+   "unit_id": "SG3-U0173"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：点睛之笔的前提是正面扛得住；绝招管用的前提是自身的能力要跟上",
+   "quote": "自身的能力要跟上",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18345,
+    "end_line": 18345,
+    "fingerprint": [
+     "点睛之笔",
+     "扛得住"
+    ],
+    "sha1": "af796c746c799f0f7085a804c9f3668f0e8be69f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "绝招前提是实力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "汉尼拔正面扛不住则骑兵深入敌后无用；白起正面抗不住四十万赵军则五千骑兵无用（18345）；被传奇细节感染总想找一用就灵的绝招是现代媒体造成的误区（18345）；与以正合以奇胜卡（C-SG3-U0172-03）同链",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0173-03",
+   "unit_id": "SG3-U0173"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：战术只有原则没有定式；别人验证千百次的方法，用时仍须按实际变通",
+   "quote": "只有原则，没有定式",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18347,
+    "end_line": 18347,
+    "fingerprint": [
+     "变通",
+     "做事"
+    ],
+    "sha1": "659ffca32733f73e939df1b37d27f7d96b4a3b8f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-1"
+   ],
+   "concept_key": "原则无定式",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "坎尼战术几千年不断被用且常有效，但使用者都非机械拷贝汉尼拔、按实际变通（18347）；做事同理：能遵循的只有原则、很少有一成不变的固定方法（18347）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0173-04",
+   "unit_id": "SG3-U0173"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0173",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "马拉松战役与坎尼会战过程史实（18269-18323：大流士征希腊、米太亚民主战投票、雅典两翼加强军阵与沙漏包围、薛岳天炉战法、汉尼拔锯齿阵与高低兵搭配、骑兵战与围歼伤亡），纯军事史叙述无可迁移判断；战术感悟已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第143封信：点睛之笔/创新即N+1/绝招前提是实力/原则无定式四判断成卡；马拉松与坎尼战役过程史实归X4"
+}

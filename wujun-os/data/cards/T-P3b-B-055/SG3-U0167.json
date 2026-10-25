@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG3-U0167",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底：人有身体与灵魂两部分，灵魂可思考而肉体常干扰灵魂思考",
+   "quote": "灵魂的部分可以思考",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17659,
+    "end_line": 17659,
+    "fingerprint": [
+     "身体和灵魂",
+     "干扰灵魂思考"
+    ],
+    "sha1": "963dab8831058ed229e2026624cb08a4f888f228"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "肉体干扰灵魂",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=苏格拉底（经柏拉图《斐多篇》记载，17643-17645）；肉体七情六欲饥饿劳累妨碍思考，故死亡反而是灵魂摆脱肉体约束的解脱（17659）；庄子亦不惧死但想法不同——人死回归大自然（17661）；划重点1（17735）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-01",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底：要获得纯粹的知识就必须摆脱肉体束缚，用灵魂透视事物本身",
+   "quote": "摆脱肉体的束缚",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17667,
+    "end_line": 17671,
+    "fingerprint": [
+     "纯粹的知识",
+     "透视事物本身"
+    ],
+    "sha1": "7bbc06ae6212875ef04e881dc0c31f71b943db7b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "纯粹知识需摆脱肉体",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=苏格拉底；有肉体干扰就得不到真正的知识（17669-17671）；吴军取用见C-SG3-U0167-03；划重点2（17737）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-02",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：太多物质欲望干扰灵魂思考、让人丧失灵魂的敏锐，走学术之路要纯粹",
+   "quote": "丧失灵魂的敏锐",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17673,
+    "end_line": 17675,
+    "fingerprint": [
+     "物质欲望",
+     "世俗生活"
+    ],
+    "sha1": "a8bbb79967aa2a6e3dbd6c32c9eba43de00fb3a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-3"
+   ],
+   "concept_key": "物欲干扰求知",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "科学研究需要纯粹的头脑、宗教般的虔诚（17673）；俞敏洪问吴军为何不办公司做大基金（17673）；物质欲望上瘾无止境（17673）；吴军科学最有成就的两段时间都是对世俗生活几乎不过问的时候（17675）；原话机理见C-SG3-U0167-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-03",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底：明白灵魂不朽的人活着就不做坏事，做坏事死后灵魂受相应惩罚",
+   "quote": "灵魂也会受到相应的惩罚",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17679,
+    "end_line": 17681,
+    "fingerprint": [
+     "灵魂是不朽的",
+     "做坏事"
+    ],
+    "sha1": "1560d22fa190e9a532c1705c20c63f4cc0ce7299"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "灵魂不朽与行善",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=苏格拉底；反驳好人坏人死了都一样的享乐主义（17681）；该观念深刻影响后来基督教哲学，伊斯兰教佛教教义亦有类似内容（17683）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-04",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：约束人的不止法律，还有信仰、道德与传统，它们同样让人去恶从善",
+   "quote": "去恶从善",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17683,
+    "end_line": 17693,
+    "fingerprint": [
+     "公序良俗",
+     "破案率"
+    ],
+    "sha1": "c9f829a1318e732661f854cce5400338bcda7e88"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "信仰与道德约束",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "古代判断法律公正的标准多来自信仰（17683）；今天仍有近一半人有宗教信仰、客观上要求去恶从善；不信者也有正义追求与道德传统约束（17689）；名人丑闻未违法却身败名裂，因违背公序良俗（17691）；美国谋杀破案率仅约60%、定罪后重罚者又只一半，但多数人仍不作恶（17693）；机理源头见C-SG3-U0167-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-05",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底：要关怀灵魂的全部时间，通过学习追求智慧让灵魂达神圣理性境界",
+   "quote": "神圣的、永恒的、理性的境界",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17697,
+    "end_line": 17707,
+    "fingerprint": [
+     "灵魂",
+     "境界"
+    ],
+    "sha1": "bdc74bb3e1c89171fa2e23b02cc567b629bbaa1a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "学习为灵魂境界",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=苏格拉底（《斐多篇》原话17697、17705）；不让肉体行为玷污灵魂、保持灵魂纯洁（17701）；到达那里便摆脱谬误愚昧恐惧激情和邪恶（17705-17707）；吴军评述：未必接受灵魂去永恒乐园之说，但追求精神高洁与智慧者确会获良好信誉、不为愚昧恐惧困扰（17707）；划重点3（17739）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-06",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：学习最高的目标是让灵魂纯洁摆脱愚昧邪恶，衣食无忧后有两条路可选",
+   "quote": "让自己的灵魂纯洁",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17709,
+    "end_line": 17711,
+    "fingerprint": [
+     "学习最高的目标",
+     "两条路"
+    ],
+    "sha1": "bd7fe81f13af33e6c4f2660cf8b9b0f65fa71ed6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-3"
+   ],
+   "concept_key": "学习最高目标",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "学习目的可为谋生或兴趣（17709）；两条路：继续满足无限物质欲望，或把时间花在学习上达苏格拉底所说境界（17711）；取用源见C-SG3-U0167-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-07",
+   "unit_id": "SG3-U0167"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：民主若不受制约就无异于多数人的暴政，柏拉图因此反感雅典简单民主",
+   "quote": "多数人的暴政",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17717,
+    "end_line": 17723,
+    "fingerprint": [
+     "不受制约",
+     "柏拉图"
+    ],
+    "sha1": "6ab9ef98ca4b2de8ef5001bed083a4271b8c18e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "多数人的暴政",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=柏拉图：没有好的制度和制约，多数人会形成对少数人的暴政（17719，转述·柏拉图）；雅典以多数人名义判处苏格拉底死刑（17719）；柏拉图理想国由精英统治（17721）；苏格拉底死后希腊哲学从关注宇宙转入伦理道德正义（17717）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0167-08",
+   "unit_id": "SG3-U0167"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0167",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "古希腊死亡观与《斐多篇》背景史实（17643-17645：苏格拉底不著书、柏拉图记录、斐多其人；17653：《奥德赛》阿喀琉斯宁愿做农奴不做冥府之王、德谟克利特不信灵魂；17655：古希腊人物质简朴重精神；17661：苏格拉底四种灵魂不朽论证细节从略），纯哲学史背景科普无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第138封信：苏格拉底肉体灵魂/纯粹知识/灵魂不朽/学习为灵魂诸转述与吴药物欲干扰求知/信仰约束/学习最高目标/多数人暴政评述成卡；古希腊背景史实归X4"
+}

@@ -1,0 +1,200 @@
+{
+ "unit_id": "SG3-U0166",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "塞克斯图斯：人喜欢接受与假设相符的东西、摈弃相冲突的观点，哪怕后者同样可信",
+   "quote": "摈弃与他们看法相冲突",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17535,
+    "end_line": 17537,
+    "fingerprint": [
+     "假设相符合",
+     "相冲突"
+    ],
+    "sha1": "027fc076595026df1a109bf7f87363198ccef0a4"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "确认偏误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=塞克斯图斯·恩披里科（古希腊怀疑主义代表，17523）；吴军三件烦心事同构：媒体断章取义只听进与己相同部分（17539）、读书只验证己见读不出作者本意（17541）、读题忽略不兼容条件甚至自行加条件（17543）；起因见17525-17529",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-01",
+   "unit_id": "SG3-U0166"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "塞克斯图斯：人建立理论假设后固执坚持其真理性，遇反例则加假设或弃反例护理论",
+   "quote": "固执地坚持这种假设",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17545,
+    "end_line": 17547,
+    "fingerprint": [
+     "理论假设",
+     "反例"
+    ],
+    "sha1": "be3757c993d48b73f05b1b2db8a65bf3ebe80a67"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "假设固守谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=塞克斯图斯；还会认定假设能解释一切现象（17545）；张三K线例：降息就反过来看、再亏当偶然，始终不肯放弃模型（17549-17551）；《威尼斯商人》同性恋解读例：先立假设再用情节维护（17553-17557）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-02",
+   "unit_id": "SG3-U0166"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "塞克斯图斯：解释本可多种，人们习惯只用一种原因并当成唯一的解释",
+   "quote": "只用一种原因来",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17561,
+    "end_line": 17565,
+    "fingerprint": [
+     "合乎逻辑的解释",
+     "唯一的解释"
+    ],
+    "sha1": "2be8f92628ea1a6a8e7fdd32c3ac2baa826d7ff6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "单因解释谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=塞克斯图斯；明朝灭亡气候说例：气候变冷既致农民起义又致游牧南下，但蒙古南下时气候温暖湿润，单因说自相矛盾（17567-17569）；气候变化大概率非决定性根本原因（17569）；与莱布尼茨充分性推理相通——只有找到全部必要条件才算找到真正原因（17571-17573）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-03",
+   "unit_id": "SG3-U0166"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "塞克斯图斯：人们总喜欢用无序的原因去解释原本有序发生的事情",
+   "quote": "无序的原因",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17577,
+    "end_line": 17579,
+    "fingerprint": [
+     "有序发生",
+     "无序的原因"
+    ],
+    "sha1": "8dd9ed58ae98e4ea1168a14ed0a7a4fd4dd34e33"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "无序原因解释有序事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=塞克斯图斯；盖茨退学例：其成功是家庭、私立学校、遇见工程师、母亲引荐IBM的环环相扣有序故事，只取退学或拿IBM单子一环归因显然有问题（17581-17587）；吴军数学化提炼见C-SG3-U0166-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-04",
+   "unit_id": "SG3-U0166"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：有序事件链不能拆散归因——X、Y可能是Z的必要条件，但不是充分条件",
+   "quote": "必要条件",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17589,
+    "end_line": 17589,
+    "fingerprint": [
+     "有序发生",
+     "充分条件"
+    ],
+    "sha1": "e525e708ad95a3d269649058e4426f945f7c6a0e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "有序链必要非充分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对塞克斯图斯第三缺陷的数学符号提炼（17589）：XYZ有序发生就不能只说有X或有Y则Z发生；概括见C-SG3-U0166-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-05",
+   "unit_id": "SG3-U0166"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：无端怀疑一切本身也是教条主义；现象一旦意识形态化人就靠站队不靠理性",
+   "quote": "另一种教条主义",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17601,
+    "end_line": 17609,
+    "fingerprint": [
+     "自我意识形态化",
+     "站队"
+    ],
+    "sha1": "9a81a639b1eaa62949804c84312ac879bec7ba06"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "怀疑非教条",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "自我意识形态化=把普通现象上升到意识形态教条（17601）；例：艺人错误上升至世风日下、企业注册海外上升至爱国（17603）；意识形态化后不再用知识理性判断真伪善恶而是站队攻击、颠倒是非（17605）；只拿科学当唯一标准同样是被反对的教条（17607）；怀疑主义强调用理性与逻辑找出自相矛盾的结论（17609）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-06",
+   "unit_id": "SG3-U0166"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：怀疑主义是逻辑工具——再流行或再自己的假设都要经逻辑检验，怀疑是能力",
+   "quote": "经过逻辑的检验",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 17613,
+    "end_line": 17617,
+    "fingerprint": [
+     "逻辑的工具",
+     "一种能力"
+    ],
+    "sha1": "e4df37fa97d92c365d78b921c87d19b1d9d5e174"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "怀疑是能力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信小结（17613-17617）；用它审视流俗而有逻辑漏洞的观点，能见人所不见、发现别人发现不了的机会（17615）；怀疑不是胡乱猜疑，是心态更是能力（17617）；点题第137封信标题",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0166-07",
+   "unit_id": "SG3-U0166"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第137封信：塞克斯图斯三大认知缺陷与怀疑主义真义诸判断成卡（E2原话+E1吴军提炼），本单元无可排除残段"
+}

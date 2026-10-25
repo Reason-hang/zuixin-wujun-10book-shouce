@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG3-U0172",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：较长历史跨度中战争的作用没有想象的大，现在也不是炫耀武力的年代",
+   "quote": "炫耀武力的年代",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18173,
+    "end_line": 18173,
+    "fingerprint": [
+     "历史跨度",
+     "战术和战略"
+    ],
+    "sha1": "ae2244584a1bbeab9b02251fc35a61c13bd99538"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "战争作用有限论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军不喜欢谈战争的自陈（18173）；借著名战役谈什么是好的战术和战略、对做事有启发（18173）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0172-01",
+   "unit_id": "SG3-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：有效战术最关键在于对方资源耗尽时你还有资源可用，即形成碾压式优势",
+   "quote": "碾压式的优势",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18229,
+    "end_line": 18229,
+    "fingerprint": [
+     "资源已经耗尽",
+     "有效的战术"
+    ],
+    "sha1": "5c2daa52899dc53f58bc74564ddde92d88cc1d43"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-1"
+   ],
+   "concept_key": "资源冗余碾压",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "拿破仑在联军投入全部兵力无兵可用时还握有贝尔纳多特完整军团（18219、18231）；此战术适用于今天任何的竞争（18231）；划重点3（18249）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0172-02",
+   "unit_id": "SG3-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：以正合以奇胜——少量兵力挡住对方主力是前提，预备力量突然参战收奇效",
+   "quote": "以奇胜",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18231,
+    "end_line": 18231,
+    "fingerprint": [
+     "以正合",
+     "格列朗师"
+    ],
+    "sha1": "37a6bf287b8c4c60634b658c2735f158ead3db30"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "以正合以奇胜",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "语出孙子兵法（18231）；苏尔特拉纳以少敌多挡住联军即以正合，达武与贝尔纳多特军团突然参战即以奇胜（18231）；若格列朗师南线未挡住联军进攻则奇胜无法实现——正面是奇兵的前提（18231）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0172-03",
+   "unit_id": "SG3-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：想让对方按你的意愿行动就要诱之以利，待其欲罢不能时战术即成功",
+   "quote": "诱之以利",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18233,
+    "end_line": 18233,
+    "fingerprint": [
+     "示弱",
+     "欲罢不能"
+    ],
+    "sha1": "fc2d5a92db5691e92e470819bdb164fff18683de"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D07-2"
+   ],
+   "concept_key": "诱之以利",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "拿破仑战前示弱、佯装撤退、弃普拉钦高地引诱联军南移（18197-18201、18233）；今天很少你死我活争斗，但想让对方按自己意愿合作同样要诱之以利（18233）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0172-04",
+   "unit_id": "SG3-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：凡事预则立——战前考察对方退路并预做准备，能把击溃战变成歼灭战",
+   "quote": "凡事预则立",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18235,
+    "end_line": 18235,
+    "fingerprint": [
+     "撤退道路",
+     "冰层厚度"
+    ],
+    "sha1": "7b87a84d1846426c0186bb064767c6634505667e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "预则立断退路",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "法军大量歼敌在战役最后对方撤退阶段（18235）；拿破仑战前测冰层厚度、备好大炮切断扎钱湖退路（18223、18235）；与特拉法加背后准备卡（C-SG3-U0175-04）同理",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0172-05",
+   "unit_id": "SG3-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：人的因素很重要——可靠的将领加上统帅给予的充分信任是执行的基础",
+   "quote": "充分的信任",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18237,
+    "end_line": 18237,
+    "fingerprint": [
+     "可靠的将领"
+    ],
+    "sha1": "da39442b178dc0de58030a367fd7ceae07ef1ee9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D05-1"
+   ],
+   "concept_key": "可靠之人与信任",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "苏尔特拉纳达武贝尔纳多特皆可靠（18237）；法军将星如云且能更好贯彻主帅战略意图、滑铁卢掉链子的格鲁希无法同日而语（18183-18187）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0172-06",
+   "unit_id": "SG3-U0172"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0172",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "奥斯特利茨战役过程史实（18179-18227：三皇会战得名、双方兵力与将领比较、示弱弃普拉钦高地、南线争夺、夺高地分敌、扎钱湖炮击冰面、奥求和第三次反法同盟瓦解），纯军事史叙述无可迁移判断；战术启示已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第142封信：战争作用有限/资源冗余碾压/以正合以奇胜/诱之以利/预则立断退路/可靠之人与信任六判断成卡；战役过程史实归X4"
+}

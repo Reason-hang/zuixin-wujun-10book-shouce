@@ -1,0 +1,101 @@
+{
+ "unit_id": "SG3-U0176",
+ "book_code": "SG3",
+ "extractor": "EXT-SG11",
+ "batch_id": "T-P3b-B-055",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：要有本事用增加百分之几十的成本换来多几倍的利润，清酒酿造正合此道",
+   "quote": "获得多几倍的利润",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18663,
+    "end_line": 18663,
+    "fingerprint": [
+     "精米步合",
+     "成本"
+    ],
+    "sha1": "c953fca9eba7c42042f19536b4f49264c45c60d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "增本数倍利",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "一割八分例：磨掉外侧82%只用不到1/5酿酒、成本高极费功夫、价格增数倍（18663）；精米步合数值越低等级越高（18637，科普部分归X8）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0176-01",
+   "unit_id": "SG3-U0176"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军例证：樱井博志拒绝低价促销、以极高品质让濒危的獭祭成为品质标志",
+   "quote": "反其道而行之",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18669,
+    "end_line": 18671,
+    "fingerprint": [
+     "樱井博志",
+     "低价促销"
+    ],
+    "sha1": "4d4e665b900745b4bf24cf9b318404b5a007c3fd"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "品质反低价竞争",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "专名案例+可迁移机理（E3例证卡）：千禧年清酒业不景气、多数酒厂压低成本低价促销维持份额（18669-18671）；樱井博志34岁接管、用现代生产技术质量管理与营销救活企业（18669）；入门级也用45精米步合而非行业50标准（18671）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0176-02",
+   "unit_id": "SG3-U0176"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军：统一标准加量化品质加新营销让清酒快速进入欧美，传统行业亦可循此路",
+   "quote": "统一的产品标准",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 18673,
+    "end_line": 18677,
+    "fingerprint": [
+     "量化",
+     "传统行业"
+    ],
+    "sha1": "b0d8b914fd4d1f720995897d7816cffcd4b26b9b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "标准化升级出海",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "用西方人易理解的量化方式评估、让顾客了解产品细节（18673）；苏格兰威士忌韩国烧酒出海类似、中国白酒受限于标准与类别不清晰推广不顺（18675）；技术升级规范管理新营销适用于其他行业尤其传统行业（18677）；划重点1、3（18683、18687）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0176-03",
+   "unit_id": "SG3-U0176"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0176",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "清酒产品知识科普与消费体验（18603-18661：八种特定名称酒与一般清酒、无监察含义、纯米酒与本酿造、三档磨制程度、精米步合与酸度SMV量化标准、佐餐搭配、獭祭三款品鉴与价格评价、品牌知名度高买起来安全的入门建议），产品知识与消费体验类内容无可迁移判断；商业方法已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第146封信：增本数倍利/樱井品质反低价E3例证/标准化升级出海三判断成卡；清酒产品科普与品鉴归X8"
+}
