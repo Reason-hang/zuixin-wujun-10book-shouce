@@ -1,0 +1,105 @@
+{
+ "unit_id": "SG1-U0126",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "变化快的时代人生智慧是对各种变化的反应，而不是预测",
+   "quote": "而不是预测",
+   "anchor": {
+    "start_line": 7513,
+    "end_line": 7513,
+    "fingerprint": [
+     "变化快",
+     "预测"
+    ],
+    "book_code": "SG1",
+    "sha1": "56f692780730e09d98ce591e360d9392fd333450"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "反应比预测重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与U0090/U0095'反应比预测重要'（股市语境）同概念，此处迁移至人生与关系；结婚即对共同未来做预测而预测基础几年内会消失（7515-7517）；任何对未来的预测都不准确、偶然准确是蒙的（7513）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0126-01",
+   "unit_id": "SG1-U0126"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "本着遇到问题解决问题的态度处理矛盾，回避隔阂加深逞强无法收场",
+   "quote": "遇到问题、解决问题",
+   "anchor": {
+    "start_line": 7523,
+    "end_line": 7525,
+    "fingerprint": [
+     "兵来将挡",
+     "两败俱伤"
+    ],
+    "book_code": "SG1",
+    "sha1": "78f24ad1d6f15684d662ca32582bc7b0e7311224"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "兵来将挡解决问题",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "除非极个别不能调和的矛盾大部分问题都能找到答案（7523）；不仅婚姻如此生活工作中也是如此（7523）；鸵鸟式回避使隔阂越来越深（7525）；找同盟军打群架或找观众助阵常两败俱伤（7525）；婚姻场景归X5、通用方法论保留",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0126-02",
+   "unit_id": "SG1-U0126"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "吴建民：打架容易讲道理让别人信服是艺术，维持婚姻同样是艺术",
+   "quote": "维持它则是艺术",
+   "anchor": {
+    "start_line": 7527,
+    "end_line": 7527,
+    "fingerprint": [
+     "吴建民",
+     "讲道理"
+    ],
+    "book_code": "SG1",
+    "sha1": "fd9c9356c6f8d8b5b1dcea7cef9e1d1460902d40"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "维持关系是艺术",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=吴建民（中国外交部前发言人，论国与国关系）；毁掉婚姻容易维持它是艺术（7527）；婚姻中讲道理未必管用需更高技巧（7527）；爱与智慧和妥协维持婚姻（7531）归X5 notes",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0126-03",
+   "unit_id": "SG1-U0126"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0126",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "婚恋议题：情人锁风俗与离婚率、婚礼誓言一半说谎、婚姻预测基础消失（经济地位外表化学物质变化）、离婚前后幸福指数相近、比找到Mr./Miss更重要的是解决问题的心态、爱与智慧和妥协维持婚姻（7483-7533），爱情与婚姻议题按排除准则排除；通用方法论（反应优于预测/解决问题态度/讲道理是艺术）已例外成卡"
+  },
+  {
+   "unit_id": "SG1-U0126",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "当届时事：中国艺人婚变120亿人次围观、罗胖脱不花大数据情绪分析结论为愉快（7507-7509），依附当届新闻事件"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第116封信：方法论例外成卡3张（反应比预测重要D03-2/遇到问题解决问题的态度D07-2/讲道理是艺术E2吴建民）；婚恋议题本体归X5、艺人婚变围观归X2"
+}

@@ -1,0 +1,215 @@
+{
+ "unit_id": "SG1-U0109",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "市场永远是对的，预测与市场不一致时错的是预测而不是市场",
+   "quote": "市场永远是正确的",
+   "anchor": {
+    "start_line": 6199,
+    "end_line": 6199,
+    "fingerprint": [
+     "削足适履",
+     "模型"
+    ],
+    "book_code": "SG1",
+    "sha1": "1cdfd775170500b50ef6e010e88d0e2b7d269b0a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "市场永远是对的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与U0051'市场永远是对的'（股市语境）同概念；预测模型不准反怪市场=削足适履（6199）；精英民调失灵例（6197）；既成事实有其道理见C-SG1-U0109-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-01",
+   "unit_id": "SG1-U0109"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "既成的事实一定有它的道理，不能理解时要从自身找原因",
+   "quote": "一定有它的道理",
+   "anchor": {
+    "start_line": 6243,
+    "end_line": 6243,
+    "fingerprint": [
+     "从自身找原因",
+     "市场"
+    ],
+    "book_code": "SG1",
+    "sha1": "e808bac77e4057aee509973fd2d36c2116753269"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "既成事实有其道理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "黑格尔'凡是现实的都是合理的'转述见C-SG1-U0109-06；脱欧合理性在于符合大多数人利益而非低学历主导（6225）；交易股票若预测与市场不一致错的是预测（6243）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-02",
+   "unit_id": "SG1-U0109"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "误导精英判断力的恰是自己的立场和为支持立场而筛选的数据",
+   "quote": "戴着有色眼镜找出来的数据",
+   "anchor": {
+    "start_line": 6203,
+    "end_line": 6203,
+    "fingerprint": [
+     "立场",
+     "判断力"
+    ],
+    "book_code": "SG1",
+    "sha1": "5534f62be4ed34b204e2fcf624c52bf929596a72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "立场筛选数据",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "脱欧与特朗普当选是对精英及主流媒体判断力的讽刺（6203）；有识之士开始反思自己并不了解社会（6203）；奥巴马站台与民主党惨败的数据矛盾例（6205-6207）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-03",
+   "unit_id": "SG1-U0109"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "失业率下降可能只是失望者退出求职，就业率创30年新低才接近真相",
+   "quote": "也就不算失业了",
+   "anchor": {
+    "start_line": 6209,
+    "end_line": 6213,
+    "fingerprint": [
+     "失业率",
+     "就业率"
+    ],
+    "book_code": "SG1",
+    "sha1": "fbdbdaf3cdc11a2d767ccc926a1e2f366a9a3562"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "失业率指标盲区",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "失业率公式分母只计'还在找工作的人数'（6211）；奥巴马八年就业率平均为30年最低（6213）；民调支持率不必当真（6223）；指标会骗人需看口径",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-04",
+   "unit_id": "SG1-U0109"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济繁荣数据与体感背离：新增财富绝大部分被2%的人拿走，中值家庭收入下降",
+   "quote": "被2%的人拿走了",
+   "anchor": {
+    "start_line": 6219,
+    "end_line": 6223,
+    "fingerprint": [
+     "2%的人",
+     "中值水平"
+    ],
+    "book_code": "SG1",
+    "sha1": "80f74df629e3cbf9bac38d0c30cb7b7979dd5d44"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "平均数掩盖中位数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "前一百名富翁年增财富2000亿美元理论上可让全世界脱贫（6219）归X6叙述；发给穷人也无用的详细分析见《智能时代》（6221）；民调不靠谱（6223）；宏观分配本体归X6、可迁移逻辑=看数据要看分布",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-05",
+   "unit_id": "SG1-U0109"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "黑格尔：凡是现实的都是合理的",
+   "quote": "凡是现实的都是合理的",
+   "anchor": {
+    "start_line": 6225,
+    "end_line": 6225,
+    "fingerprint": [
+     "黑格尔",
+     "合理性"
+    ],
+    "book_code": "SG1",
+    "sha1": "74b9eeea6fb9260a59cf1e8024ac017504e42a49"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "现实即合理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=黑格尔；吴军取用：合理性不在于低收入低学历主导投票，而在于更符合大多数人利益（6225）；吴军概括见C-SG1-U0109-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-06",
+   "unit_id": "SG1-U0109"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "英国脱欧算账例：比较损失与潜在利益，放弃欧盟投身全球更合算",
+   "quote": "潜在的利益更大",
+   "anchor": {
+    "start_line": 6227,
+    "end_line": 6229,
+    "fingerprint": [
+     "脱欧",
+     "关税"
+    ],
+    "book_code": "SG1",
+    "sha1": "1cc7d6fd34ad75aa2928cada9ac41bc5d68322bb"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "脱欧算账例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中美人口GDP贸易额远大于欧盟且增速更高（6229）；英美相互投资彼此最大、中英战略伙伴互补性强（6231）；'失算的恐怕是自以为是的精英'与英股上涨验证（6233）；算总账方法论可迁移至重大取舍，时点事件本体归X2",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0109-07",
+   "unit_id": "SG1-U0109"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0109",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "当届时点评断：2016脱欧/特朗普当选/意大利公投事件评论与左派不认输动作（6189-6195）、财经媒体脱欧华尔街预测打脸（6201）、奥巴马政绩数据与民主党惨选评论（6205-6207）、特朗普美国优先政策与公司税率影响分析（6237-6239）、两位生物界人士绝交消息（6241），离开时点即失效"
+  },
+  {
+   "unit_id": "SG1-U0109",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "宏观财富分配叙述：前一百名富翁每年增加财富2000亿美元、理论上可让全世界脱贫的宏观测算（6219），宏观收入分配不作支柱；可迁移逻辑（平均数掩盖中位数）已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第100封信：市场永远是对的/既成事实有其道理/立场筛选数据/失业率指标盲区/平均数掩盖中位数/黑格尔现实即合理E2/脱欧算账例E3，7卡；当届选举时点评断归X2、宏观财富分配叙述归X6"
+}

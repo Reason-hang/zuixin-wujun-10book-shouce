@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG1-U0117",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "报喜不报忧只会让聪明人心存疑虑，先说坏消息再说好消息效果更好",
+   "quote": "先把坏消息告诉大家",
+   "anchor": {
+    "start_line": 6765,
+    "end_line": 6765,
+    "fingerprint": [
+     "报喜不报忧",
+     "心存疑虑"
+    ],
+    "book_code": "SG1",
+    "sha1": "9f7b94ccf39529c1855dc74d86658074e087b930"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "先坏消息后好消息",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "汇报失败公司数一定不要省略（6765）；坏消息不是很坏说出来反而起好作用（6765）；丰元年会讲话5张PPT每张2分钟（6753）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-01",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "话说多了反而没有重点，用一句话把特点表达到位就非常好",
+   "quote": "话说多了反而没有重点",
+   "anchor": {
+    "start_line": 6767,
+    "end_line": 6767,
+    "fingerprint": [
+     "一句话",
+     "对技术很敏感"
+    ],
+    "book_code": "SG1",
+    "sha1": "63b5f9a65b720f2a65e06b7b72fb534ccbc61689"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "一句话表达到位",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "'我们是谁'用一句话概括=对技术很敏感的人（6767）；第一张PPT双重目的：给现有投资人交代并吸引新投资人（6757）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-02",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "资金并非稀有资源，钱分聪明的钱和傻钱，创业者都希望拿聪明的钱",
+   "quote": "聪明的钱和傻钱",
+   "anchor": {
+    "start_line": 6771,
+    "end_line": 6771,
+    "fingerprint": [
+     "稀有资源",
+     "资金"
+    ],
+    "book_code": "SG1",
+    "sha1": "afb156f2d222fd6ab9611d4b58beeea276392c69"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "聪明的钱与傻钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "VC还提供与硅谷企业和投资机构的连接、进入中国市场的解决方案（6773）；技术与管理帮助、顾问报酬由基金支付（6775）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-03",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断项目看实现想法后世界会有什么明显的正面变化，Me Too与伪需求通不过",
+   "quote": "明显的、正面的变化",
+   "anchor": {
+    "start_line": 6787,
+    "end_line": 6789,
+    "fingerprint": [
+     "Me Too",
+     "伪需求"
+    ],
+    "book_code": "SG1",
+    "sha1": "6990ae6b90681485a583e8daf5c50fc3a64806b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D09-2"
+   ],
+   "concept_key": "对世界的正面变化判据",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不用考虑钱甚至不急着挣钱（6787）；真能改变世界哪怕不多也是好的、必然有人使用挣钱不是问题（6789）；不投炒概念见C-SG1-U0117-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-04",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "几乎不投炒作概念的公司，把公司做大的人不盲从热炒不挤过热市场",
+   "quote": "炒作概念",
+   "anchor": {
+    "start_line": 6791,
+    "end_line": 6791,
+    "fingerprint": [
+     "短期",
+     "回报"
+    ],
+    "book_code": "SG1",
+    "sha1": "bfe82e7be367713353a8664063976868d7383522"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "不投炒概念公司",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "哪怕短期回报不错也不投（6791）；视频团购O2O与大部分自媒体不符合要求（6791）；风投目的是帮助没有财务能力的人实现改变世界的理想（6791）；Me Too判据见C-SG1-U0117-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-05",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "预测常常靠不住，投资人能做的只是对事实做出正确的反应",
+   "quote": "对事实做出正确的反应",
+   "anchor": {
+    "start_line": 6795,
+    "end_line": 6795,
+    "fingerprint": [
+     "趋势",
+     "预测"
+    ],
+    "book_code": "SG1",
+    "sha1": "96ce56ac581ca392a20c60a01c2e40b2a2022d80"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "反应比预测重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与U0090/U0095'反应比预测重要'同概念；大会小会预测趋势的人几年后验证常不准（6795）；不赌趋势无事先设定方向（6797）；趋势自下而上见C-SG1-U0117-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-06",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "趋势不是专家先知先觉的结果，而是很多人同时看到类似问题自下而上总结的",
+   "quote": "自下而上总结出来的",
+   "anchor": {
+    "start_line": 6801,
+    "end_line": 6801,
+    "fingerprint": [
+     "先知先觉",
+     "趋势"
+    ],
+    "book_code": "SG1",
+    "sha1": "c08a55c75d40a3ca8a8725358bfab94abe4a33ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "趋势自下而上",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "创业者根据经验和特长长期思考提出想法：技术成熟有商机/遇到痛点有解法/看到产品不足（6799）；引擎刹车：动力来自底层创业者制动来自掌握资金资源者，第53封已成卡（6803）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-07",
+   "unit_id": "SG1-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "报告要简短重点突出，听众专心五分钟记住一两点，目的就达到了",
+   "quote": "把报告做得简短点",
+   "anchor": {
+    "start_line": 6805,
+    "end_line": 6805,
+    "fingerprint": [
+     "玩手机",
+     "总结报告"
+    ],
+    "book_code": "SG1",
+    "sha1": "59411cc0dc353957ad8524c16f4cbbb8896ff6a2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "演讲求短求重点",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "担心漏内容把总结报告做得又臭又长、下面玩手机睡觉（6805）；后四张PPT都支持第一张传递统一信息（6807）；十分钟即可表达清楚（6805）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0117-08",
+   "unit_id": "SG1-U0117"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0117",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "年会场景与嘉宾叙述：年会时间地点安排、Hotmail创始人史密斯酒庄、人类长寿公司温特教授主题分享（6749-6753）；第81封信投人三点（一流的人做成一流事/变色龙/诚信）与第53封信引擎刹车为已抽单元的自引重复内容（6781-6783、6803），notes互引不重复成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第108封信：演讲与投资方法（先坏消息后好消息/一句话表达到位/聪明的钱与傻钱/对世界正面变化判据/不投炒概念/反应比预测重要/趋势自下而上/演讲求短求重点），8卡全E1；年会场景叙述与旧信重复内容归X8"
+}

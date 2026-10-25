@@ -1,0 +1,209 @@
+{
+ "unit_id": "SG1-U0114",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "事实比口才更重要，靠狡辩让人无话可说并没有真正说服人",
+   "quote": "事实比口才更重要",
+   "anchor": {
+    "start_line": 6551,
+    "end_line": 6551,
+    "fingerprint": [
+     "狡辩",
+     "心里还是不服气"
+    ],
+    "book_code": "SG1",
+    "sha1": "cf5968fad58980caa28e0433ba04a3a6ecbe5da4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "事实比口才重要",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "第一个结论（6551）；说服老板时提供某些信息即可能被说服（6551）；伽利略拿出新天文现象确立日心说（6583）；陆奇例见C-SG1-U0114-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-01",
+   "unit_id": "SG1-U0114"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讲问题从侧面切入而非正面解决，说服人可用四两拨千斤的侧翼战法",
+   "quote": "从侧面切入",
+   "anchor": {
+    "start_line": 6549,
+    "end_line": 6549,
+    "fingerprint": [
+     "曼施坦因",
+     "四两拨千斤"
+    ],
+    "book_code": "SG1",
+    "sha1": "79aad3f1f9e845e3cfcd689eb6c7e6a0cb5935f9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "侧面切入说服",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "唐太宗明成祖曼施坦因侧面切入战术例（6549）；写信路数自述（6547）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-02",
+   "unit_id": "SG1-U0114"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "零到五十分靠常识，五十九十靠科学，九十分到一百分靠艺术，次序不能颠倒",
+   "quote": "这个次序不能颠倒",
+   "anchor": {
+    "start_line": 6557,
+    "end_line": 6557,
+    "fingerprint": [
+     "常识",
+     "艺术"
+    ],
+    "book_code": "SG1",
+    "sha1": "a860e9aa221fef34b871f02306df95ddd1d939cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "九十分之上靠艺术",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "与U0110'九十分之上靠艺术'（6307，直觉经验-技艺-艺术版）同概念异述互引；托勒密数学模型极准为例（6557-6561）；因此常识很重要（6557）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-03",
+   "unit_id": "SG1-U0114"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新角度初期被忽视是情理之中，老板看法已固化不能指望立刻被接受",
+   "quote": "情理之中的事情",
+   "anchor": {
+    "start_line": 6579,
+    "end_line": 6581,
+    "fingerprint": [
+     "自圆其说",
+     "固化"
+    ],
+    "book_code": "SG1",
+    "sha1": "00e6e8b5dcf47ec78586d1429d2e6c6f355e29b1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "新角度被忽视是常理",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "日心说初期不如地心说精确故无人关注（6573、6579）；新角度可能只在个别方面更好（6579）；信息发出后毫无声息的可怕寂静类比（6569）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-04",
+   "unit_id": "SG1-U0114"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最糟糕的说服是学布鲁诺：先攻击老板信仰再指责私生活最后讲自己角度",
+   "quote": "先攻击老板的信仰",
+   "anchor": {
+    "start_line": 6581,
+    "end_line": 6581,
+    "fingerprint": [
+     "布鲁诺",
+     "招人嫉恨"
+    ],
+    "book_code": "SG1",
+    "sha1": "7558472d8441c23a4b2739a404ab10a1d13ff03c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "莫学布鲁诺式说服",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "即便角度对感情上也难以接受（6581）；能言善辩把大家说得哑口无言反招人嫉恨（6581）；布鲁诺因泛神论被火刑的史实真相归X4（6575-6577）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-05",
+   "unit_id": "SG1-U0114"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "陆奇说服杨致远：预先模拟实验证明新广告系统收益更高，获雅虎工程一把手",
+   "quote": "模拟实验",
+   "anchor": {
+    "start_line": 6589,
+    "end_line": 6591,
+    "fingerprint": [
+     "陆奇",
+     "杨致远"
+    ],
+    "book_code": "SG1",
+    "sha1": "bcf66a47220b1c10b9effb7f40207494b74585fd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-1"
+   ],
+   "concept_key": "陆奇模拟实验说服例",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=陆奇（时任雅虎、后微软二号实权人物）；想到杨致远会问的所有问题并让人做模拟实验（6591）；老系统=地心说类比（6589）；后微软高薪挖走计划未实施（6591）；其职场经验值得学习（6591）；结论见C-SG1-U0114-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-06",
+   "unit_id": "SG1-U0114"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界需要的不是自认为掌握真理的批评者，而是拿出证据的建设者",
+   "quote": "拿出证据的建设者",
+   "anchor": {
+    "start_line": 6593,
+    "end_line": 6593,
+    "fingerprint": [
+     "布鲁诺",
+     "伽利略"
+    ],
+    "book_code": "SG1",
+    "sha1": "d83a1304328c88ce46b6c20e8c55702d7dd89ab2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-3"
+   ],
+   "concept_key": "建设者胜过批评者",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "以及像陆奇那样具有职场智慧的人（6593）；说服老板靠不可辩驳的事实、任何人都难以无视事实（6587）；事实比口才见C-SG1-U0114-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0114-07",
+   "unit_id": "SG1-U0114"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0114",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "日心说公案史实：托勒密地心说数学上完全正确与百年误差不超一天、被意识形态妖魔化的翻案、哥白尼日心说提出后近百年遇冷、布鲁诺因泛神论与宣扬教会丑闻被火刑真相、伽利略望远镜木星卫星与金星满盈、开普勒椭圆修正与牛顿解释（6555-6585），科学史科普；说服方法论已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第105封信：说服方法（事实比口才重要/侧面切入/九十分阶梯/新角度被忽视是常理/莫学布鲁诺）+陆奇模拟实验例E2+建设者胜过批评者，7卡；日心说公案史实归X4"
+}

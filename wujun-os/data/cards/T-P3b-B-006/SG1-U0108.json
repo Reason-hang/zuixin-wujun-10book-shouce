@@ -1,0 +1,236 @@
+{
+ "unit_id": "SG1-U0108",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "克列蒙梭：二十岁不信社会主义是没有良心，三十岁还信是没有头脑",
+   "quote": "那就是没有良心",
+   "anchor": {
+    "start_line": 6135,
+    "end_line": 6135,
+    "fingerprint": [
+     "克列蒙梭",
+     "没有头脑"
+    ],
+    "book_code": "SG1",
+    "sha1": "83fad70bc28de7be6bc791bf7de620d49afafea5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "良心与头脑之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=法国一战时期总理克列蒙梭；此处'社会主义'指欧洲平均主义民主社会主义、与中国无关（6135）；吴军取用见C-SG1-U0108-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-01",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人年轻时的想法会变化，年轻时该有点理想，有社会经验后应现实些",
+   "quote": "应该现实些",
+   "anchor": {
+    "start_line": 6135,
+    "end_line": 6135,
+    "fingerprint": [
+     "年轻的时候",
+     "社会经验"
+    ],
+    "book_code": "SG1",
+    "sha1": "83fad70bc28de7be6bc791bf7de620d49afafea5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "年轻理想后现实",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "同段克列蒙梭原话见C-SG1-U0108-01；吴军自己读启蒙书热血到读富兰克林尼克松后转向保守派（6137）；奥威尔类似转向例（6137）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-02",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义者自己的事情自己解决，关注周边小事远多于世界大事",
+   "quote": "自己的事情自己解决",
+   "anchor": {
+    "start_line": 6141,
+    "end_line": 6141,
+    "fingerprint": [
+     "政府",
+     "世界大事"
+    ],
+    "book_code": "SG1",
+    "sha1": "4f8875517dcd7b2c798784b05a166dec6c953326"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "自己的事自己解决",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "社区水坑自己填、花费大与邻居分摊例（6141）；社区防盗建群互相通报与警局专门通道例（6143）；'不需要华盛顿的哪个专家告诉我们该过什么生活'（6147）；与U0106'保守主义渐进改良'呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-03",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义强调机会均等而非结果均等，营造公平机会激励全社会创造财富",
+   "quote": "营造公平的机会",
+   "anchor": {
+    "start_line": 6149,
+    "end_line": 6155,
+    "fingerprint": [
+     "机会均等",
+     "均分财富"
+    ],
+    "book_code": "SG1",
+    "sha1": "df1806b12f52e5cd04c84c63288b4cb681dedb16"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "机会均等非结果均等",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商学院平均成绩实验例证见C-SG1-U0108-05；穷人希望平均财富但长远无助（6149）；与U0107'创造财富而非再分配'（6097）同概念呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-04",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商学院成绩均分实验：优秀者不再努力后均分三次从B+跌到C，均分致普遍贫困化",
+   "quote": "普遍的贫困化",
+   "anchor": {
+    "start_line": 6151,
+    "end_line": 6153,
+    "fingerprint": [
+     "平均成绩",
+     "B＋"
+    ],
+    "book_code": "SG1",
+    "sha1": "67c6d630708d0d67114d16c2f4f8888470c6d9e9"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-4",
+    "D03-1"
+   ],
+   "concept_key": "平均分配致贫困化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "教授点题'平均分配社会财富的结果就是这样'（6153）；短期得好处吃完便普遍贫困化（6153）；源流为美国商学院课堂流传故事；母卡见C-SG1-U0108-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-05",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义强调个人自由与价值体现，小河有水才能大河满，反对牺牲个人利益",
+   "quote": "小河有水",
+   "anchor": {
+    "start_line": 6157,
+    "end_line": 6157,
+    "fingerprint": [
+     "个人利益",
+     "大河满"
+    ],
+    "book_code": "SG1",
+    "sha1": "281224b7f0bec18546431878ca88749f02a69793"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "小河有水大河满",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "继承并超越两百年前英国保守主义（6157）；榜样富兰克林起于贫困成社会栋梁（6157）；加州日结工实干例见C-SG1-U0108-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-06",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "加州日结工靠自己劳动谋生争取做小老板，保守主义精髓是疏于理想勇于实干",
+   "quote": "勇于实践和行动",
+   "anchor": {
+    "start_line": 6159,
+    "end_line": 6161,
+    "fingerprint": [
+     "保守主义的精髓",
+     "小老板"
+    ],
+    "book_code": "SG1",
+    "sha1": "c0866adb25d1acbe5d248e9661345f9007891ad0"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "保守主义精髓在实干",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'没有保守主义，就没有后来的硅谷'（6161）；非法移民穷困但不欺诈不打砸抢（6159）；东部穷人向政府伸手对比（6163）归X2；与C-SG1-U0108-06个人奋斗价值观互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-07",
+   "unit_id": "SG1-U0108"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义者喜欢渐变不喜欢革命，没有绝对对错只有好坏，靠改良修修补补求更好结果",
+   "quote": "没有什么绝对的对和错",
+   "anchor": {
+    "start_line": 6165,
+    "end_line": 6167,
+    "fingerprint": [
+     "渐变",
+     "改良"
+    ],
+    "book_code": "SG1",
+    "sha1": "673e5e8b9a4bea68b4d5f31672ca7c511d666a92"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "渐变不革命",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "英美除南北战争无革命、1900年矛盾靠谈判妥协解决、影响最深远的法案改变轻微才持续长久（6165）；坚决捍卫权益与对抗拿破仑希特勒叙述（6169）归X2；与U0106'保守主义渐进演化/渐进改良'同概念",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0108-08",
+   "unit_id": "SG1-U0108"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0108",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点事件叙述：种族骚乱烧商店与保守主义反问'有本事烧就该有本事建'（6163）、非洲裔与警察对峙中亚裔大量购枪持枪游行（6169），依附当届时局"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第099封信：保守主义四要点（自己的事自己解决/机会均等创造财富/小河有水个人奋斗/渐变不革命）+克列蒙梭名言E2+成绩均分实验E3+加州日结工例E3，8卡；骚乱与持枪游行时点叙述归X2"
+}

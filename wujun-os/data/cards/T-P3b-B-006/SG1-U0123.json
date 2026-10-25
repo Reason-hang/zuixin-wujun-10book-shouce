@@ -1,0 +1,267 @@
+{
+ "unit_id": "SG1-U0123",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书目的六字诀怡情养性长智，只为长智仅享受读书乐趣的三分之一",
+   "quote": "怡情、养性、长智",
+   "anchor": {
+    "start_line": 7241,
+    "end_line": 7241,
+    "fingerprint": [
+     "六字诀",
+     "三分之一"
+    ],
+    "book_code": "SG1",
+    "sha1": "b2071876a5cdeaac2f74e1406a606d672272e5f0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "怡情养性长智",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "养性下封信再讲（7241）；怡情例见C-SG1-U0123-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-01",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "曾国藩：修缮一个地方给贩夫走卒带来欢乐，不啻为一件善事",
+   "quote": "不啻为一件善事",
+   "anchor": {
+    "start_line": 7245,
+    "end_line": 7245,
+    "fingerprint": [
+     "曾国藩",
+     "秦淮河"
+    ],
+    "book_code": "SG1",
+    "sha1": "8019548da514639e26f5412aa9186a2d935d1236"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "修缮地方带来欢乐",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=曾国藩（幕僚赵烈文日记记载）；收复南京百废待兴之际下令恢复秦淮河灯船兴建酒肆茶馆（7245）；世人多贩夫走卒、成就事业者极少数（7245）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-02",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "享受方式没有高雅低俗之分，斯坦福教授看NBA同样乐在其中",
+   "quote": "没有哪一种就是高雅",
+   "anchor": {
+    "start_line": 7247,
+    "end_line": 7247,
+    "fingerprint": [
+     "NBA",
+     "高雅"
+    ],
+    "book_code": "SG1",
+    "sha1": "29ee8d949b52b839d26e9418100915591124aa6a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "享受无雅俗之分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "曾国藩不瞧不起享受感官娱乐的人（7247）；看篮球如重复肥皂剧但天天动脑者乐在其中（7249）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-03",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书是我的娱乐：学问不见得多，习惯养成了喜欢读而已",
+   "quote": "这是我的娱乐",
+   "anchor": {
+    "start_line": 7253,
+    "end_line": 7253,
+    "fingerprint": [
+     "断断续续",
+     "借书"
+    ],
+    "book_code": "SG1",
+    "sha1": "ac026d886cfea09b8de03deadf128c7a3b2f0ff0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "读书即娱乐",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中学蹭书看、坐在大学图书馆地上看一下午（7253）；先翻一翻找感兴趣章节阅读的习惯保持至今（7253）；怡情是自我享受不为取悦谁（7259）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-04",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没时间阅读只是托词，语文考的是阅读能力，有此能力不用准备也能高考",
+   "quote": "只是托词而已",
+   "anchor": {
+    "start_line": 7257,
+    "end_line": 7257,
+    "fingerprint": [
+     "阅读能力",
+     "高考"
+    ],
+    "book_code": "SG1",
+    "sha1": "7440860d7103970d8232105db1de0ce61c89075e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "没时间阅读是托词",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "30年前升学率更低教师平均水平不如今天、很多孩子花太多时间炒剩饭（7255）；数学不算难不需那么多练习（7257）；高考制度议题归X5、阅读方法论按⑪例外保留",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-05",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "影响他人靠思想输出：自己头脑空空，是不可能影响其他人的",
+   "quote": "是不可能影响其他人的",
+   "anchor": {
+    "start_line": 7267,
+    "end_line": 7267,
+    "fingerprint": [
+     "父母",
+     "成熟"
+    ],
+    "book_code": "SG1",
+    "sha1": "0a5828aa7811af815f957efa3ad777f9dc96e5c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "影响他人先充实自己",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "买回书父母跟着读、谈话有共同话题、思想影响他们的思想（7263）；父母知卢梭伏尔泰庄子曾国藩、重新认识李鸿章都通过我（7263-7267）；读《领袖们》父子同震撼例（7265）；第29封信呼应（7267）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-06",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "通过读书怡情不是天生的，是慢慢养成的习惯，如吃辣后天习得",
+   "quote": "是慢慢养成的习惯",
+   "anchor": {
+    "start_line": 7271,
+    "end_line": 7271,
+    "fingerprint": [
+     "哥伦布",
+     "四川人"
+    ],
+    "book_code": "SG1",
+    "sha1": "daa0991071fe598a5c73d92bab1d38ff3dc5af5f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "怡情靠后天养成",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "先天喜爱来自基因如喜甜食好美色（7269）；辣椒哥伦布后发现新大陆才传入、吃辣习惯完全是后来才有的（7271）；第一次吃辣未必舒服吃多上瘾（7271）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-07",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "培养阅读习惯让孩子读喜欢的，读书本身不能太功利",
+   "quote": "读书本身不能太功利",
+   "anchor": {
+    "start_line": 7273,
+    "end_line": 7273,
+    "fingerprint": [
+     "阅读习惯",
+     "喜欢阅读"
+    ],
+    "book_code": "SG1",
+    "sha1": "e7e628df7236d02af206c3ff0edb90ec28d0cb3d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读书不能太功利",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "老师答案：是否长知识记住了不重要、重要的是喜欢阅读（7273）；亲子教育场景归X5、阅读方法论按⑪例外保留",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-08",
+   "unit_id": "SG1-U0123"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有趣对人一生幸福很重要甚至比专业知识更重要，很多人不招人喜欢因无趣",
+   "quote": "甚至比专业知识更重要",
+   "anchor": {
+    "start_line": 7283,
+    "end_line": 7283,
+    "fingerprint": [
+     "幸福",
+     "无趣"
+    ],
+    "book_code": "SG1",
+    "sha1": "c27ca5a111f3870e85b68e318dd424f8280cd64d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "有趣比专业更重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "怡情或许没用但让人变得有趣（7281、7283）；十年寒窗业务能力不差却不招人喜欢的原因之一（7283）；把自己变成有趣的人非常重要（7285）；辛弃疾词赏析归X8",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0123-09",
+   "unit_id": "SG1-U0123"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0123",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "辛弃疾书评与词赏析：从中学起喜欢辛词、北宋词以消遣为主到南宋推上巅峰、以生命写词与两李、大时代背景读词、词句赏析（7275-7281），纯文学赏析无结论句可归属"
+  },
+  {
+   "unit_id": "SG1-U0123",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "教育与家庭场景：高考题难度分析语境（7255-7257）、与老师聊培养孩子阅读习惯的亲子场景（7273），教育议题按排除准则排除；其中阅读方法论（没时间阅读是托词/读书不能太功利）已按⑪例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第113封信：怡情养性长智六字诀+曾国藩修缮善事E2+享受无雅俗+读书即娱乐+没时间阅读是托词+影响他人先充实自己+怡情靠后天养成+读书不能太功利+有趣比专业更重要，9卡；辛词赏析归X8、教育场景归X5（方法论例外成卡）"
+}

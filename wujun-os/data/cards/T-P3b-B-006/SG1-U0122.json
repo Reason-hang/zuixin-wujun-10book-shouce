@@ -1,0 +1,241 @@
+{
+ "unit_id": "SG1-U0122",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书仅是学习的一方面，人的学习是全面的",
+   "quote": "人的学习是全面的",
+   "anchor": {
+    "start_line": 7181,
+    "end_line": 7181,
+    "fingerprint": [
+     "书单",
+     "学习"
+    ],
+    "book_code": "SG1",
+    "sha1": "89f2797022d0dbf63cdf9554b34750424c13d1bd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学习是全面的",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "走出学校后自我学习体会开篇（7181）；读书手段清单见C-SG1-U0122-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-01",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书之外可直接上课：慕课、到大学听课、花钱请专业人士一对一教",
+   "quote": "一对一地上课",
+   "anchor": {
+    "start_line": 7183,
+    "end_line": 7185,
+    "fingerprint": [
+     "慕课",
+     "金融学"
+    ],
+    "book_code": "SG1",
+    "sha1": "9c957dc7deb07de0568f3d5657466ac110adb729"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读书之外学习法",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "Coursera上听课程（7183）；国内一些大学允许旁听（7185）；金融学花大钱从高盛摩根士丹利财务专家处学（7185）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-02",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读杂志比读书三点好处：内容新观点全面、相对客观需数据、构成网状知识体系",
+   "quote": "构成完整的知识体系",
+   "anchor": {
+    "start_line": 7201,
+    "end_line": 7203,
+    "fingerprint": [
+     "观点比较全面",
+     "参考文献"
+    ],
+    "book_code": "SG1",
+    "sha1": "23b5b00765c11df76754624f65651b1cbbf535a7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读杂志胜读书三点",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "书籍必须表达完整独特观点故相对主观（7201）；缺大背景知识读独特观点书容易走偏，《人类简史》《自私的基因》例（7203）；杂志文章加参考文献是网状的（7203）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-03",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正的大师能用简短浅显的文字把最深刻的道理写清楚",
+   "quote": "不是忽悠人，就是自己水平差",
+   "anchor": {
+    "start_line": 7195,
+    "end_line": 7195,
+    "fingerprint": [
+     "两到四页",
+     "啰里啰嗦"
+    ],
+    "book_code": "SG1",
+    "sha1": "5fc0e3619cb99f6f2a7aed7400f970e445935d7c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-2"
+   ],
+   "concept_key": "大师写得简短浅显",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "诺贝尔奖级论文通常两到四页且写得明白不难读（7195）；啰里啰嗦讲一大堆别人看不懂的不是忽悠就是水平差（7195）；判断可迁移至写作与沟通",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-04",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "为搞清楚问题到期刊找答案顺带读全文，带着问题的阅读效率高",
+   "quote": "为了搞清楚一些问题",
+   "anchor": {
+    "start_line": 7199,
+    "end_line": 7199,
+    "fingerprint": [
+     "找答案",
+     "宏观经济"
+    ],
+    "book_code": "SG1",
+    "sha1": "514bf736afc1193af01c58705be0101442b10df3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "带着问题找读",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "没时间通读这些杂志（7199）；宏观经济与货币政策理解很大程度来自这些阅读（7199）；兼任上海交大商学院教授需不断更新知识（7199）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-05",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "明治维新成功在愿意接受产出科技力量的制度，中体西用只为稳固政体故失败",
+   "quote": "中体西用",
+   "anchor": {
+    "start_line": 7213,
+    "end_line": 7213,
+    "fingerprint": [
+     "黑船事件",
+     "明治维新"
+    ],
+    "book_code": "SG1",
+    "sha1": "3f4dbf21ad4e2774c79e8155f13e4727472851f8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "制度接受论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军《文明之光》第四册观点自引（7211-7213）；原子弹冲击不亚于黑船事件（7213）；善于学习的民族接受先进生产力背后的制度（7213）；文明历史本体归X6、可迁移逻辑（改系统而非只取其产出）按例外保留；成本视角见C-SG1-U0122-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-06",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "伊懋可：晚清已达农耕文明最高效率，换体制成本太大，成本决定制度变迁",
+   "quote": "换一个体制成本太大",
+   "anchor": {
+    "start_line": 7215,
+    "end_line": 7217,
+    "fingerprint": [
+     "伊懋可",
+     "经济已经到了崩溃的边缘"
+    ],
+    "book_code": "SG1",
+    "sha1": "33f877d53eb4c7ae4f512e196f3d4086fefca554"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "制度变迁成本论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=伊懋可（英国中国问题专家，《哈佛中国史》观点）；晚清改良失败与传统文化无关（7215）；20世纪后期维持旧体制成本太高故采用商品经济、未采西方政治制度也能现代化（7217）；与C-SG1-U0122-06制度视角互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-07",
+   "unit_id": "SG1-U0122"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书标记观点顺带读相关作者其他书，时间长了视角就开阔了",
+   "quote": "我的视角就可以比较开阔了",
+   "anchor": {
+    "start_line": 7221,
+    "end_line": 7221,
+    "fingerprint": [
+     "标记",
+     "开阔"
+    ],
+    "book_code": "SG1",
+    "sha1": "37f5b7d9710119cf077f0f59683732e4422a1d53"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "顺藤读书开阔视角",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "把《哈佛中国史》观点标记做说明、顺带读伊懋可其他书（7221）；长时段跨度考虑是该套书特色（7219）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0122-08",
+   "unit_id": "SG1-U0122"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0122",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点评断：金融危机后美国报纸深刻评论消失被肤浅新闻取代、2016大选取站失去中立性、未来影响力进一步萎缩（7187），依附时点"
+  },
+  {
+   "unit_id": "SG1-U0122",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "书单与书评细节：杂志报纸名单（巴伦/大西洋月刊/自然/科学等）与挑读方式（7189-7197）、《哈佛中国史》译名讨论与剑桥中国史不推荐非专业者、费正清方法引用（7205-7209）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第112封信：学习方法（学习是全面的/读书之外学习法/读杂志胜读书三点/大师简短浅显/带着问题找读/顺藤读书）+明治维新制度接受论+伊懋可制度变迁成本论E2，8卡；报纸站队时评归X2、书单书评细节归X8"
+}

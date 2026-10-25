@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0124",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "OKR即目标加关键结果：公开可见、季度打分，未定者网页空白自己不好意思",
+   "quote": "OKR",
+   "anchor": {
+    "start_line": 7311,
+    "end_line": 7313,
+    "fingerprint": [
+     "Objectives",
+     "Key Results"
+    ],
+    "book_code": "SG1",
+    "sha1": "b0b6b3e102602d273435c88ffe097e32abb165b1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D05-2"
+   ],
+   "concept_key": "OKR目标管理法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "每人每季度定目标与关键结果（7311）；OKR约半页纸放网页上大家可见（7313）；完成得1分部分完成0到1之间（7313）；吴军2017年11项目标清单为实例（7319-7371）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0124-01",
+   "unit_id": "SG1-U0124"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "得分总是1说明目标定得太低，目标要有挑战性，通常完成度0.7-0.8",
+   "quote": "目标定得太低",
+   "anchor": {
+    "start_line": 7315,
+    "end_line": 7315,
+    "fingerprint": [
+     "挑战性",
+     "0.7－0.8"
+    ],
+    "book_code": "SG1",
+    "sha1": "41727e811016a914ef354b02e08ef2774b6015c8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "目标要有挑战性",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "Google强调目标有挑战性（7315）；大部分完成度0.7-0.8（7315）；季度想法与完成任务可能有差异（7315、7317）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0124-02",
+   "unit_id": "SG1-U0124"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过时无意义的目标不能删除，只能说明为什么没有做",
+   "quote": "说明为什么没有做",
+   "anchor": {
+    "start_line": 7317,
+    "end_line": 7317,
+    "fingerprint": [
+     "增加当初没有制定的目标",
+     "删除"
+    ],
+    "book_code": "SG1",
+    "sha1": "166782ee66827e84a51a1fac6057fdb36e65ae5b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "过时目标不删除",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "总结季度工作可增加当初没制定的目标（7317）；吴军按Google习惯介绍2017目标（7317）；估计年底一小半目标会调整、完成70%即满意（7373）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0124-03",
+   "unit_id": "SG1-U0124"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "消耗跟踪曲线：实际消耗线在计划线上方即落后要加紧，下方即领先",
+   "quote": "消耗跟踪曲线",
+   "anchor": {
+    "start_line": 7381,
+    "end_line": 7385,
+    "fingerprint": [
+     "总任务量",
+     "计划直线"
+    ],
+    "book_code": "SG1",
+    "sha1": "eb11bf101d0d92855fe495148be36e7547a4ea5a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "消耗跟踪曲线",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "定义：总任务量100%、100天做完平均每天1%画计划直线（7375、7381）；原理是比较工作进度与预想差别（7387）；对赶最后一分钟的人定期画曲线是提醒（7387）；督促下属管项目进度很有效、习惯成自然（7389）；自觉性高者不需要（7387）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0124-04",
+   "unit_id": "SG1-U0124"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0124",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "吴军2017年11项目标与关键结果清单本身（数学之美英文韩文版、硅谷来信成书、商学院60小时教学、丰元三期融资、旅行摄影、家庭、财务、学习计划、两本书初稿、跑步1000公里，7319-7371）为个人计划实例，OKR方法已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第114封信：OKR目标管理法（D06-2）/目标要有挑战性（D06-2）/过时目标不删除（D05-2）/消耗跟踪曲线（D05-2），4卡全E1；2017年个人目标清单实例归X8"
+}

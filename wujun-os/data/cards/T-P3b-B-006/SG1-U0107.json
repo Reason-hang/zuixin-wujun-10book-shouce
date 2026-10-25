@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG1-U0107",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "里根：靠顶层设计建造完美社会不可能，给每个人自由才能激发潜能",
+   "quote": "激发每一个人的潜能",
+   "anchor": {
+    "start_line": 6087,
+    "end_line": 6089,
+    "fingerprint": [
+     "顶层设计",
+     "自由的意愿"
+    ],
+    "book_code": "SG1",
+    "sha1": "b1f3d7c76686633107d98c240d4b926df315000b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "顶层设计不可行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=里根（1964年《抉择的时刻》演说）；反问'华盛顿的专家比你更知道你想做什么'（6087）；自由经营的农庄产量占大部分例（6089）；吴军自由自救概括见C-SG1-U0107-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0107-01",
+   "unit_id": "SG1-U0107"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义者务实、懂得妥协，和实际利益相比可以把理想放到一旁",
+   "quote": "懂得妥协",
+   "anchor": {
+    "start_line": 6095,
+    "end_line": 6095,
+    "fingerprint": [
+     "务实",
+     "理想放到一旁"
+    ],
+    "book_code": "SG1",
+    "sha1": "27bdc28bea25d43658e34edce50be66c1d715b07"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "保守派务实重妥协",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "里根对华撇开意识形态例（6095）；引用毛泽东'喜欢和右派打交道'（6095）；奥巴马对比等当届时政评价归X2",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0107-02",
+   "unit_id": "SG1-U0107"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义强调机会平等而非结果平等，不相信财富再分配能解决社会问题，要鼓励创造财富",
+   "quote": "机会的平等",
+   "anchor": {
+    "start_line": 6097,
+    "end_line": 6097,
+    "fingerprint": [
+     "再分配",
+     "存量"
+    ],
+    "book_code": "SG1",
+    "sha1": "753d3794657cfba6c7bcc10b7246a9921243d3c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "创造财富而非再分配",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "存量与增量关系（6097）；与U0106'保守主义渐进演化'（6041-6043）同源呼应；U0108'机会均等非结果均等'（6149-6155）为同概念展开；劫富济贫道德高地分析（6101）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0107-03",
+   "unit_id": "SG1-U0107"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "2008年每家发600美元支票后在线赌博色情流量剧增，直接发钱救不了穷",
+   "quote": "流量剧增",
+   "anchor": {
+    "start_line": 6099,
+    "end_line": 6099,
+    "fingerprint": [
+     "600 美元",
+     "赌博"
+    ],
+    "book_code": "SG1",
+    "sha1": "8c8fd63ab10bf0066d9cfd6cd8fcff8c1d137bd4"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-4"
+   ],
+   "concept_key": "救济款难解贫困例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军时任Google可见全网行为数据（6099）；广西贫困县发救济款后醉倒人群例互证、救济款只是暂时麻痹（6101）；母卡见C-SG1-U0107-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0107-04",
+   "unit_id": "SG1-U0107"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "里根算术题：450亿美元扶贫款平摊每户应得4800美元，实际到手不足600",
+   "quote": "每个家庭每年可以得到4800",
+   "anchor": {
+    "start_line": 6083,
+    "end_line": 6085,
+    "fingerprint": [
+     "450 亿美元",
+     "救济款"
+    ],
+    "book_code": "SG1",
+    "sha1": "4bd8f3ee3d9c290949130d51eb5132eabe518bb6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "扶贫款中间损耗",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=里根；'中间环节拿的钱多了一点'（6085）；罗辑思维193期德国类似问题引用、今天很多国家重复同一错误（6085）；母卡见C-SG1-U0107-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0107-05",
+   "unit_id": "SG1-U0107"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中国脱贫的根本是自己救自己，前提是给自救与外出打工的自由",
+   "quote": "从根本上解决问题的是他们自己",
+   "anchor": {
+    "start_line": 6103,
+    "end_line": 6105,
+    "fingerprint": [
+     "脱贫",
+     "自由"
+    ],
+    "book_code": "SG1",
+    "sha1": "92d20c0346ade7003779b94c88804523060aa008"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "自由自救脱贫",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "脱贫两模式：当地优势就业或年轻人外出打工（6103）；解放生产力就是经济上给人以自由（6105）；与双创的关联（6107）归X2语境",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0107-06",
+   "unit_id": "SG1-U0107"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0107",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "里根生平与政绩史实：1941年演员工会主席起从政、思想右转与1960转党、1964《抉择的时刻》一举成名、两次初选败北与1980胜选、减税控通胀七年增长与赢得冷战、对华军售与中美蜜月、不留遗产与牧场挂历（6075-6093、6113-6117），纯人物史科普；可迁移判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0107",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点评断：特朗普现象与政治学教授评论（6073）、奥巴马在中国周边搞事等当届政治人物对比（6095）、'克强经济学'是里根主义中国版（6109）、双创政策语境（6107-6109），离开2017时点即失效"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第098封信：里根转述（顶层设计不可行E2/扶贫算术题E2）+吴军保守主义判断（务实妥协/机会平等创造财富/自由自救脱贫）+2008发钱案例E3；里根生平史实归X4、时点评断归X2"
+}

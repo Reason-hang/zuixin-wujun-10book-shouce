@@ -1,0 +1,155 @@
+{
+ "unit_id": "SG1-U0116",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有人喜欢被卖东西：让大家主动接受你的想法，而不是强制推销",
+   "quote": "没有人喜欢被卖东西",
+   "anchor": {
+    "start_line": 6691,
+    "end_line": 6691,
+    "fingerprint": [
+     "妥协",
+     "买东西"
+    ],
+    "book_code": "SG1",
+    "sha1": "e74e8d0dd2860d75dcc45b7cba0097a7b3e9caf5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "买东西不被卖东西",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "罗斯福两点答案：妥协+所有人都喜欢买东西（6691）；各国主动签署《联合国家共同宣言》例（6707）；总结句见6731；国联签字国有被卖东西的感觉（6701）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0116-01",
+   "unit_id": "SG1-U0116"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "排除关键利益方的组织必然失效，国联把大国排除在外终至名存实亡",
+   "quote": "名存实亡",
+   "anchor": {
+    "start_line": 6693,
+    "end_line": 6693,
+    "fingerprint": [
+     "苏联和德国",
+     "心不甘"
+    ],
+    "book_code": "SG1",
+    "sha1": "9aced681c260d35f0c75e4d42da3dc416c14a4fa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "排除关键方组织失效",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "首倡者美国自己都没加入、日意牵扯自身利益即退出（6693）；只剩英法意见一致的少数国家调解不了纠纷（6693）；罗斯福不排斥苏联对比见C-SG1-U0116-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0116-02",
+   "unit_id": "SG1-U0116"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "妥协不是坏事：罗斯福一辈子都在妥协，妥协是为了把事情办成",
+   "quote": "妥协是为了把事情办成",
+   "anchor": {
+    "start_line": 6695,
+    "end_line": 6695,
+    "fingerprint": [
+     "孤立主义",
+     "租借法案"
+    ],
+    "book_code": "SG1",
+    "sha1": "91555599ccb0a77f8ca27cbca2510c81b1895ffc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "妥协为把事办成",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国内反对参战声音强所以需要妥协（6695）；反驳'人该坚决站出来维持正义'的流行看法（6695）；雅尔塔妥协案例见C-SG1-U0116-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0116-03",
+   "unit_id": "SG1-U0116"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "雅尔塔妥协例：给苏联三个席位并在否决权上让步，换其融入新秩序",
+   "quote": "一共给予苏联三个席位",
+   "anchor": {
+    "start_line": 6715,
+    "end_line": 6715,
+    "fingerprint": [
+     "加盟共和国",
+     "乌克兰"
+    ],
+    "book_code": "SG1",
+    "sha1": "ffbbd4d4790e195400ea7c21ae2c6743fe6cac16"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "雅尔塔妥协例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "让步三因：非意识形态至上务实灵活、西方阵营力量占优不担心、换取苏联对日出兵（6723-6725）；以反击逻辑回应斯大林50州提案再各退一步（6715）；否决权无条件妥协与斯大林满意（6721）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0116-04",
+   "unit_id": "SG1-U0116"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在对方最痛苦的时间点给希望，等于为自己的想法创造出一个市场",
+   "quote": "创造出一个市场",
+   "anchor": {
+    "start_line": 6703,
+    "end_line": 6703,
+    "fingerprint": [
+     "最痛苦的时间点",
+     "大西洋宪章"
+    ],
+    "book_code": "SG1",
+    "sha1": "47f09bf6c593f7ec9f6cf54310a95b4844a3dff7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "痛点时造市场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国联失败源于好了伤疤忘了痛、没人想防下次战争（6701）；丘吉尔回伦敦后9国代表即支持、一月内签字（6703）；珍珠港后40分钟通过对日宣战（6705）；把握时机让大家主动接受（6731）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0116-05",
+   "unit_id": "SG1-U0116"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0116",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "国联与联合国成立史实：威尔逊十四条与国联宗旨、罗斯福孤立主义与租借法案、大西洋宪章内容与签署经过、联合国家共同宣言42国签署、苏联加盟共和国提案与安理会否决权谈判细节、旧金山50国800多名外交人员制宪谈判（6687-6729），外交史科普；罗斯福方法论已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第107封信：买东西不被卖东西/排除关键方组织失效/妥协为把事办成/雅尔塔妥协例E3/痛点时造市场，5卡；国联联合国成立史实归X4"
+}

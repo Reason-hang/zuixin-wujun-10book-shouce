@@ -1,0 +1,106 @@
+{
+ "unit_id": "SG1-U0111",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "马歇尔判例确立两原则：防止政府动用国家资源迫害公民、防止上司迫害下属",
+   "quote": "上司迫害一个下属",
+   "anchor": {
+    "start_line": 6369,
+    "end_line": 6375,
+    "fingerprint": [
+     "判例",
+     "民利"
+    ],
+    "book_code": "SG1",
+    "sha1": "bec98119dab0fad0dd15e2fff958557974dac94b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "司法防迫害两原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "资源不对等：个人无法与国家机关抗衡所以必须禁止（6375）；特朗普非总统可要求调查、成为总统反而失去可能性，因伯尔案判例在先（6375）；民利民力民意解释见C-SG1-U0111-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0111-01",
+   "unit_id": "SG1-U0111"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "民利即维持正义同时不让人民利益受损，伸张正义反使受害者受损非好判决",
+   "quote": "不能让人民的利益受损失",
+   "anchor": {
+    "start_line": 6377,
+    "end_line": 6377,
+    "fingerprint": [
+     "民力",
+     "民意"
+    ],
+    "book_code": "SG1",
+    "sha1": "19a45f69c5f87a5a806880ab4e69d77cb6573f75"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "民利平衡正义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "民力=司法权来自民与法律而非政府（6377）；马歇尔内心认伯尔有罪仍放人出于民利、流露出不屑仍称罪犯（6379）；放伯尔避免开行政迫害先河与悲情英雄、多一事不如少一事（6381）；特朗普缝合分裂同理（6385）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0111-02",
+   "unit_id": "SG1-U0111"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生活中不必以证明自己正确为原则，应多考虑如何对自己有利",
+   "quote": "多考虑如何对自己有利",
+   "anchor": {
+    "start_line": 6387,
+    "end_line": 6387,
+    "fingerprint": [
+     "人活一口气",
+     "两败俱伤"
+    ],
+    "book_code": "SG1",
+    "sha1": "db81dc3f24c827890fe43ce10e6b342d8bc7f594"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D07-2"
+   ],
+   "concept_key": "不必证明自己正确",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "为证明自己正确让对方低头不惜两败俱伤甚至毁掉一生（6387）；真正的法治社会做不到绝对公正，在民力民意民利间找平衡（6387）；司法两原则见C-SG1-U0111-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0111-03",
+   "unit_id": "SG1-U0111"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0111",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "伯尔案史实：伯尔生平与13岁入大学、1800年总统选举漏洞与联邦党搅局、副总统任内竞逐纽约州长、决斗杀死汉密尔顿、路易斯安那分裂阴谋与威金森告密、马歇尔与杰斐逊党争背景及审判释放、伯尔流落欧洲改名潜回终老（6353-6383），纯历史公案科普；司法原则判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0111",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "当届时点评断：特朗普与希拉里互抹黑、希拉里私人邮箱违法与删邮件妨碍司法分析、小学生迷茫动摇信用基础、政治家不做无用功论（6343-6349），依附2016大选后时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第102封信：马歇尔判例两原则/民利平衡正义/不必证明自己正确3卡全E1；伯尔案史实归X4、特朗普希拉里时点评断归X2"
+}

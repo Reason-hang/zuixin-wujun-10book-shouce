@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0120",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1F",
+ "batch_id": "T-P3b-B-006",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上很多时候没有绝对安全的事情，人生态度是少涉险但不得不冒险时也去做",
+   "quote": "少涉险",
+   "anchor": {
+    "start_line": 7047,
+    "end_line": 7047,
+    "fingerprint": [
+     "绝对安全",
+     "冒险"
+    ],
+    "book_code": "SG1",
+    "sha1": "1f46eec49975922ec4e544117c9e8370b48193a8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "无绝对安全少涉险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "直升机安全未知、远不如民航但常是唯一交通工具和观光手段（7047）；坐船晕者提前一小时吃晕船药、享受而非受罪（7049）；大堡礁萎缩想看要趁早（7059）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0120-01",
+   "unit_id": "SG1-U0120"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "忙碌不应是生活的目标而是获得闲暇的手段，旅游不重要闲暇享受才是目的",
+   "quote": "获得闲暇享受才是目的",
+   "anchor": {
+    "start_line": 7089,
+    "end_line": 7089,
+    "fingerprint": [
+     "手段",
+     "忙碌"
+    ],
+    "book_code": "SG1",
+    "sha1": "7feb84b65edbc4c602f084aaa6243f4a62dbdb01"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "忙碌是手段闲暇是目的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "度假不愿把时间安排满、喝茶写东西读书思考平时无法静心思考的问题（7087）；常常忙碌得忘记为什么忙碌（7089）；与格局'懂得休息'呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0120-02",
+   "unit_id": "SG1-U0120"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0120",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "大堡礁之旅游记：凯恩斯交通与租车（7031-7037）、珊瑚礁形成与鸟瞰景观（7039-7041）、潜水浮潜半潜艇三种体验方式（7053-7057）、热气球原理与清晨飞行（7067-7071）、Dundee's海鲜餐厅推荐（7081），行程与项目攻略叙述；无绝对安全与忙碌闲暇两判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第110封信：无绝对安全少涉险（D03-2）、忙碌是手段闲暇是目的（D02-4）2卡全E1，游记为主的信按工单抽2卡；大堡礁行程与项目攻略叙述归X3"
+}
