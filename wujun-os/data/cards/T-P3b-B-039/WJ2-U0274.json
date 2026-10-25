@@ -1,0 +1,102 @@
+{
+ "unit_id": "WJ2-U0274",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期使用产品的选择逻辑：核心功能做到极致+性价比与耐久性+可维护性——陆巡通吃非洲巡猎市场",
+   "quote": "明确的定位",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21977,
+    "end_line": 21991,
+    "sha1": "7bd372d473eec9f2f372ef53615abcfea7ed68dc",
+    "fingerprint": [
+     "陆巡",
+     "改装"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "陆巡产品逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "巡猎三需求：各种路面跑/行李与观景/安全不抛锚（21979-21985）；三排改四排、天窗撑高便于站看（21989-21991）；舒适性让位功能：拆内饰、气泵减震改弹簧（21993）；'核心功能做到极致'总结句在22029；石子如机关枪扫射、厚钢板无弹坑（22013）；联合国救援时代陆巡胜出通吃（22015）",
+   "claim_id": "C-WJ2-U0274-01",
+   "unit_id": "WJ2-U0274"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保有成本思维：不能只看一次性购买价，还要看维护的价格与难度——豪华车轮胎只能换不能补不适合非洲",
+   "quote": "保有的成本",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22021,
+    "end_line": 22029,
+    "sha1": "95cdc5bfd1e04821b06d8578cc36f38b7422a7fa",
+    "fingerprint": [
+     "轮胎",
+     "修好"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "保有成本",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "刹车片被石子卡住半小时修好、爆胎小镇铺半小时修好（22023-22025）；两后备胎是国家公园要求；高级车出问题没一两天搞不定（22027）",
+   "claim_id": "C-WJ2-U0274-02",
+   "unit_id": "WJ2-U0274"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基础设施要与发展水平匹配：坦桑尼亚不修柏油路因为维护成本太高——土路石子路反而好养",
+   "quote": "维护柏油路的成本",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22035,
+    "end_line": 22041,
+    "sha1": "21924e778df8100b8192b294405bd3e90867164d",
+    "fingerprint": [
+     "柏油路",
+     "维护"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-3"
+   ],
+   "concept_key": "基建与国力匹配",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "城里柏油路二三十米一个大坑、车速不如石子路（22037）；坦赞铁路维护成本高于效益被废弃；国内二三线轻轨被拆同理（22041）；建造成本+将来维护使用成本都要算（22043）",
+   "claim_id": "C-WJ2-U0274-03",
+   "unit_id": "WJ2-U0274"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0274",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "坦桑尼亚路况驾驶体验、两次修车经历等游记叙事按X3留痕，三条产品/经济学机理已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "非洲经济学1：陆巡产品逻辑/保有成本/基建与国力匹配（X3+机理例外）"
+}

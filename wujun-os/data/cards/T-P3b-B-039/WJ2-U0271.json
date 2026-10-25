@@ -1,0 +1,128 @@
+{
+ "unit_id": "WJ2-U0271",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人口下降是最大前提：退休前不会扭转——幼儿园业将更难，转养老产业最顺畅",
+   "quote": "下降趋势还会继续",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21693,
+    "end_line": 21695,
+    "sha1": "1ce44de94ca6f0854b48a0d4dc89be1f3bed07b1",
+    "fingerprint": [
+     "人口",
+     "养老"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "人口趋势定转行",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（职业转型、机理=人口结构）；做决定先定最大前提；物流与其背景无关转太难（21695）；答等风来",
+   "claim_id": "C-WJ2-U0271-01",
+   "unit_id": "WJ2-U0271"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读英文原版书：中英对照没问题、勿贪多；cool这类词中文无对应译法；专业书看译者资质（最好在国外生活过）",
+   "quote": "中英文对照着看，当然没问题",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21703,
+    "end_line": 21707,
+    "sha1": "d620616ec0c1e51934faa58b65d29d4844b23a1e",
+    "fingerprint": [
+     "对照",
+     "译者"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读原版书方法",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "读多有感觉；社会学科术书先了解作者倾向与理论框架（21709）；中文与印欧语距离大、最好老师带或朋友共读（21711）；德语英语词汇相近便于迁移、英国人一个月看不懂中文路牌；答张蓓蓓May",
+   "claim_id": "C-WJ2-U0271-02",
+   "unit_id": "WJ2-U0271"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "觉得领导平庸的三种可能：你没看出他本事（水平不够/他已成老油子）、部门不重要只需站岗、他真没本事但有后台",
+   "quote": "有三种可能",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21725,
+    "end_line": 21733,
+    "sha1": "314585b37ff006f1c9c6f734bf79337f32b9fa08",
+    "fingerprint": [
+     "平庸",
+     "三种可能"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "领导平庸三种可能",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "关张看不出诸葛亮、刘备看不出庞统（21727）；不重要部门谁站岗都差不多、折中王五式任命（21729）；守成者担关键任务是灾难：管运维主管负责开发把部门作死（21731）；普遍如此的公司赶快离开（21733/21739）；知名媒体精英岗位被亲戚占据、五六年破产被国资收购（21737）；答咚咚锵",
+   "claim_id": "C-WJ2-U0271-03",
+   "unit_id": "WJ2-U0271"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "双语能力须五岁前两语并教（雅让斯基）；家长不会英语就别定完全双语目标——幼儿不宜背太重学习负担",
+   "quote": "从小要两种语言一起教",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21751,
+    "end_line": 21757,
+    "sha1": "8a5ca1ced73754463093cecd836163e7b0df8b5c",
+    "fingerprint": [
+     "双语",
+     "五岁"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "双语五岁前窗口",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=雅让斯基（吴军老师、能说六七种语言读十三四种）；海归外企家庭可考虑完全双语（21555→21755）；只想学英语未必上私立幼儿园、课外班即可（21747）；X5边界留痕；答短腿爱德华",
+   "claim_id": "C-WJ2-U0271-04",
+   "unit_id": "WJ2-U0271"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0271",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'等风来''张蓓蓓May''咚咚锵''短腿爱德华'四位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答44：人口趋势定转行/读原版书/领导平庸三种可能/双语窗口"
+}

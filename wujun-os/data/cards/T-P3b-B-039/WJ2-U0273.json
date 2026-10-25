@@ -1,0 +1,101 @@
+{
+ "unit_id": "WJ2-U0273",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "非洲五霸按狩猎价值排而非体型：稀缺决定地位——角马150万只随处可见、猎豹仅210-300只最难见",
+   "quote": "非洲五霸",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21901,
+    "end_line": 21903,
+    "sha1": "ade34d06a6ad0266352f93456b40dade084a57e5",
+    "fingerprint": [
+     "五霸",
+     "狩猎"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "稀缺定地位（非洲五霸）",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "长颈鹿河马数量多排不进；狮子2500-3000只待7天日均见1.4次、豹0.4次、猎豹0.15次（21931）；X3游记语境按认知例外成卡",
+   "claim_id": "C-WJ2-U0273-01",
+   "unit_id": "WJ2-U0273"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "草原生存经济学：狮子群猎成功率仅30%、猎豹50%但会被鬣狗抢——捕食不易；大象无天敌却一天16小时进食",
+   "quote": "捕食的成功率",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21945,
+    "end_line": 21949,
+    "sha1": "d5ae3af4d5e16a3026e9009a7b1f6ce880fc4c7e",
+    "fingerprint": [
+     "成功率",
+     "捕食"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D04-1"
+   ],
+   "concept_key": "草原捕食经济学",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "角马黄羚羊都能跑80公里/小时；猎豹三四次失败可能饿死；象是树木的播种者也是毁树者、植被动态平衡（21957）；投胎要投狮子的感慨（21943）；X3游记语境按机理例外成卡",
+   "claim_id": "C-WJ2-U0273-02",
+   "unit_id": "WJ2-U0273"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "角马过河为食物而非冒险：150万角马20万斑马吃草能力惊人、草光即迁——迁徙是生存刚需，1/6死于迁徙",
+   "quote": "为什么角马和斑马还要过河",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21911,
+    "end_line": 21915,
+    "sha1": "14e8309e1c14f99875ebcd16919db44d84123abd",
+    "fingerprint": [
+     "角马",
+     "迁徙"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D03-1"
+   ],
+   "concept_key": "迁徙是刚需",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "马拉河鳄鱼守候、1/6角马在迁徙中被吃掉（21911）；导游看草高低即知动物大部队到没到（21917）；几十万只蜿蜒几十公里的大迁徙奇观（21919）；X3游记语境按机理例外成卡",
+   "claim_id": "C-WJ2-U0273-03",
+   "unit_id": "WJ2-U0273"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0273",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "塔兰吉雷/恩戈罗恩戈罗/塞伦盖蒂三公园游猎叙事、动物见闻与摄影细节按X3留痕，三条认知机理已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "坦桑尼亚国家公园：五霸稀缺/捕食经济学/迁徙刚需（X3游记+机理例外）"
+}

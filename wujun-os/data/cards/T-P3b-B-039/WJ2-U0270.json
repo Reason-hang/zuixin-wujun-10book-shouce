@@ -1,0 +1,186 @@
+{
+ "unit_id": "WJ2-U0270",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "体制内中年勿轻易辞职去科技公司：成功先例极少且须自带资源；从核心骨干变给人打杂、裁员首当其冲",
+   "quote": "大概率不是好的选择",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21647,
+    "end_line": 21653,
+    "sha1": "6516cca341d1e9ad26d9bd36a13f5372cc0d4ff9",
+    "fingerprint": [
+     "辞职",
+     "打杂"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "中年转行科技公司戒",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "腾讯/阿里成功者两特点：自带政府关系资源、HR经验可用（21649）；发奖金排后面、裁员首当其冲（21653）；答史广东；首选中央遴选",
+   "claim_id": "C-WJ2-U0270-01",
+   "unit_id": "WJ2-U0270"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科技企业以工程师为中心：技术专家自兼产品经理，不把主导权交给外行——产品经理主导的年代已过去十多年",
+   "quote": "以工程师为中心的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21655,
+    "end_line": 21657,
+    "sha1": "b450364a7d7e72b82d767f13655fdc534b3771ab",
+    "fingerprint": [
+     "工程师",
+     "产品经理"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D10-1"
+   ],
+   "concept_key": "工程师中心制",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "施密特的谷歌管理书讲让工程师有产品思维而非另招产品经理（21657）；谷歌微软的产品经理更像资源协调者",
+   "claim_id": "C-WJ2-U0270-02",
+   "unit_id": "WJ2-U0270"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分AI企业过不了两年就关门：中国平台级AI公司剩三家足够；应用公司竞争惨烈（四小龙至今未盈利）",
+   "quote": "过不了两年都会关门",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21659,
+    "end_line": 21659,
+    "sha1": "9c3f08e0de1fb460d164aefeba3482e28ac368e9",
+    "fingerprint": [
+     "关门",
+     "四小龙"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "AI公司淘汰律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "四小龙营业额下降、上市者市值跌六成（21659）；非核心工程师岗位进了幸存者收入也有限；X6时点判断留P4",
+   "claim_id": "C-WJ2-U0270-03",
+   "unit_id": "WJ2-U0270"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "送水策略：不直接扎进热门赛道、做基础服务（公众号分享心得）——有人读就有影响力，没人读及时止损",
+   "quote": "他去给人送送水",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21663,
+    "end_line": 21663,
+    "sha1": "01200cfeeef413723eb88a0d3ff7c32869b43509",
+    "fingerprint": [
+     "送水",
+     "止损"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D10-1"
+   ],
+   "concept_key": "挖金送水策略",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "别人挖金子他送水顺带卖工具；此思路对很多人适用；最现实的是垂直领域AI公司请做兼职顾问（21675）",
+   "claim_id": "C-WJ2-U0270-04",
+   "unit_id": "WJ2-U0270"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "免费AI法律服务是损人不利己：让律师大面积失业的事做不成；人们要的核心是'交付'而非免费（网约车20元保证送达）",
+   "quote": "损人不利己的想法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21665,
+    "end_line": 21671,
+    "sha1": "c2bb8cf691ba24cddd6ccc6211dcfca997af4e0a",
+    "fingerprint": [
+     "免费",
+     "交付"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "交付重于免费",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中等收入后靠服务业拉GDP、法务是重要部分（21667）；谷歌自动问答不答法律建议因为担不起责任（21671）；离婚官司省钱看网上建议鸡飞蛋打；好平台也只是律师与客户的第一次接触窗口（21673）",
+   "claim_id": "C-WJ2-U0270-05",
+   "unit_id": "WJ2-U0270"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI时代机会并非属于每个人：刚毕业一无所有者可去AI企业赌，生活工作不错的中年人放弃一切不划算",
+   "quote": "不意味着每一个人都有机会",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21677,
+    "end_line": 21677,
+    "sha1": "ef65665e81f8ae43a05b3ba6780074356ae81766",
+    "fingerprint": [
+     "毕业生",
+     "中年人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "AI机会因人而异",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "毕业生没什么可损失的、非常赞成去垂直应用；中年人得失衡量不划算（21677）",
+   "claim_id": "C-WJ2-U0270-06",
+   "unit_id": "WJ2-U0270"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0270",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'史广东'来信长文为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "AI时代机会：转行戒/工程师中心/AI淘汰律/送水策略/交付重于免费/机会因人"
+}

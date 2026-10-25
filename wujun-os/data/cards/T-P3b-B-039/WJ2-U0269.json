@@ -1,0 +1,101 @@
+{
+ "unit_id": "WJ2-U0269",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "失业两类：结构性调整（行业连根拔、与好坏无关）与效率性调整（组织压冗员）——都要时刻防范",
+   "quote": "结构性调整和效率性调整",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21571,
+    "end_line": 21571,
+    "sha1": "a9897a522b87898fe9cc019a28f7ce4c5df9ab8b",
+    "fingerprint": [
+     "结构性",
+     "效率性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "两类失业风险",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与U0277问答45同键（该卡为卡1'时刻防范'总纲、本卡为信本体的展开定义）——P4归并；粮食局消失司机例（21577）；贝尔实验室图灵奖得主也被边缘化：灾难来临与做得好坏关系不大（21583）；美国国防部文职100万与士兵1:1（21591）",
+   "claim_id": "C-WJ2-U0269-01",
+   "unit_id": "WJ2-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "换角度想：假如一半人的工作变得可有可无，谁在其中——而非逐岗判断安全与否",
+   "quote": "谁会是这一半人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21569,
+    "end_line": 21569,
+    "sha1": "41b2cd88d6dafe2ae83542f99a032eeb53e68f13",
+    "fingerprint": [
+     "一半人",
+     "角度"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D06-1"
+   ],
+   "concept_key": "一半人思维实验",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "岗位稳定性因人而异：产业缩90%也有人不受影响（21567）",
+   "claim_id": "C-WJ2-U0269-02",
+   "unit_id": "WJ2-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技能可迁移是结构性失业的解药：制香产业萎缩、管店经验让他当了一辈子店长",
+   "quote": "所掌握的技能都没有用",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21581,
+    "end_line": 21581,
+    "sha1": "1da6ed35bf486f332cc0d85c8db335acfced0fb9",
+    "fingerprint": [
+     "香",
+     "店长"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "技能可迁移",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "大伯伯例：产业没了、管理经验有用；粮食局部分职员转其他部门、很多人做不到（21581）",
+   "claim_id": "C-WJ2-U0269-03",
+   "unit_id": "WJ2-U0269"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0269",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'咚咚锵''KS'两位读者留言为读者发言本体，X7留痕；本单元读到21600行止、三种风险岗位论述在下一单元窗口内（U0270），如与本卡主题重叠由该卡吸收"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "裁掉一半人会是我吗：两类失业/一半人思维实验/技能可迁移"
+}

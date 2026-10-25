@@ -1,0 +1,73 @@
+{
+ "unit_id": "WJ2-U0272",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对南撒哈拉三个误解：不炎热（越往南越凉、旱季不到30度）、受教育不低（识字率90%+）、旅游区安全有保障",
+   "quote": "常见误解",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21789,
+    "end_line": 21805,
+    "sha1": "1ed7b2cf2ca3aaf381358a87a7fc14cefb5d885a",
+    "fingerprint": [
+     "误解",
+     "识字率"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "南撒哈拉三误解",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "坦桑肯尼亚小学普及、缺的是高薪技术工作；远程雇佣做数据标注与编程、帮非英语学者改论文（21805）；X3游记语境按认知纠偏例外成卡",
+   "claim_id": "C-WJ2-U0272-01",
+   "unit_id": "WJ2-U0272"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事预则立：难抵达目的地提前一年准备——防虫防病提前数月打预防针、按托运行李会丢的最坏情况准备",
+   "quote": "凡事预则立，不预则废",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21813,
+    "end_line": 21823,
+    "sha1": "1546eba98e5fa2d06b1a3cf0fc46ebd8e98e0f9a",
+    "fingerprint": [
+     "准备",
+     "预防针"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-2"
+   ],
+   "concept_key": "凡事预则立",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "热门酒店仅十几间房（21815）；5人中唯一没生病的：不随便喝生水（21817）；防晒防蚊系口衣服；随身7.5公斤限制、相机占重只能少带衣物（21825）；X3游记语境按方法论例外成卡",
+   "claim_id": "C-WJ2-U0272-02",
+   "unit_id": "WJ2-U0272"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0272",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "南撒哈拉地理概况、坦桑尼亚第一印象、达累斯萨拉姆见闻、中餐馆与中国游客体感等游记叙事本体按X3留痕，两条认知/准备机理已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "南撒哈拉之旅（上）：三误解/凡事预则立（X3游记+方法论例外）"
+}

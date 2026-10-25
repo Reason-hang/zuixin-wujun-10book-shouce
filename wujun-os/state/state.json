@@ -1,8 +1,8 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-25（J-105 后）",
-  "phase": "P3b 来信抽取 40/86（谷歌 21/21+单书验收 PASS；WJ2 20/22，B-039 待主inline补做）",
+  "updated": "2026-10-25（J-106 后）",
+  "phase": "P3b 来信抽取 41/86（谷歌 21/21+单书验收 PASS；WJ2 21/22，仅剩 B-041~042 两批）",
   "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
   "spec": {
     "v2_方案": "v2（2026-10-19）",
@@ -18,22 +18,20 @@
   "progress": {
     "units_total": 1742,
     "units_content": 1697,
-    "units_done": 961,
+    "units_done": 975,
     "chars_total": 5038558,
-    "chars_done": 2803158,
-    "batches_done": 62,
+    "chars_done": 2852185,
+    "batches_done": 63,
     "batches_est": 108
   },
   "in_flight": {
-    "ticket": "T-P3x-B-039",
-    "unit_ids": [
-      "U0263~U0276"
-    ],
+    "ticket": "GATE-C r15",
+    "unit_ids": [],
     "unsaved": "无",
-    "note": "主inline补做；r15 于 B-039 收编后触发"
+    "note": "B-038/039/040 满3批，GAUD17 待派（禁主inline盲抽）"
   },
-  "last_ticket": "T-P3b-B-040（69 卡 0 FAIL，J-105）",
-  "next_ticket": "T-P3x-B-039 补做（EXT-WJ16阵亡无残片）→ r15 → B-041~042 → WJ2 单书验收 → SG3 → SG1",
+  "last_ticket": "T-P3b-B-039（52 卡 0 FAIL，J-106）",
+  "next_ticket": "GATE-C r15（GAUD17 立即）→ T-P3x-B-041、B-042 → WJ2 单书验收 → SG3 B-043~065 → SG1 B-001~020",
   "blocked_by": [],
   "open_items": [
     "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",

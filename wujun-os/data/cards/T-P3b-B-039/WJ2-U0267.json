@@ -1,0 +1,102 @@
+{
+ "unit_id": "WJ2-U0267",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生育三理由（去传宗接代与养儿防老后）：爱的对象、人生的伴、从子女身上看到自己的影子",
+   "quote": "通常有这样三个原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21447,
+    "end_line": 21453,
+    "sha1": "0b50fae9e1f1e88d6c19f875b55f03431d54e061",
+    "fingerprint": [
+     "三个原因",
+     "养儿防老"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "生育三理由",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（婚恋生育本体、机理=生命意义）；生物遗产是终极幸福来源之一（21439）；弥留之际看到后代的生命延续感（21441）；养儿防老不划算：付出即时兑付、收益是无法预知的期权（21445）；工业化完成则生育率必降；孩子让你看到自己的过往（21457）",
+   "claim_id": "C-WJ2-U0267-01",
+   "unit_id": "WJ2-U0267"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "20世纪人摆脱基因控制、年轻时生育本能弱、老了才懂传承——老人催生是他们老了想法变了",
+   "quote": "被基因绑架的结果",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21441,
+    "end_line": 21443,
+    "sha1": "2902b72778a00b1405b7713d02f2c0dce04b5577",
+    "fingerprint": [
+     "本能",
+     "基因"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "生育本能与时机错位",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；生命延长一倍、40岁后还有很长人生（21443）；影视中父母子女临终和解即此本能（21441）",
+   "claim_id": "C-WJ2-U0267-02",
+   "unit_id": "WJ2-U0267"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能退货不是不生的理由：结婚选谁同样不可退；想通孩子就是普娃，纠结自然消散",
+   "quote": "没有后悔药卖",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21465,
+    "end_line": 21467,
+    "sha1": "eba42fbfa5cf70957d01fea9b526b76bfdd93517",
+    "fingerprint": [
+     "退货",
+     "普娃"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "生育不可退与普娃心",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；养娃兴趣是有孩子后才能体会的（21461）；一辈挣的比花的多、多余的钱留政府/慈善/养孩子（21463）；别非上最好私立、当公主王子养（21463）",
+   "claim_id": "C-WJ2-U0267-03",
+   "unit_id": "WJ2-U0267"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0267",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "维星哲来信全文与回同学信体例为婚恋家庭本体，X5留痕；三条可迁移机理已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "为什么要生孩子：三理由/本能时机错位/不可退与普娃心（X5边界例外）"
+}

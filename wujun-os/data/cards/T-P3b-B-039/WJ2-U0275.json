@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0275",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "导游无线电共享动物信息=市场有效性的鲜活案例：等你赶到时好位置已被占——如股价已到合理价，没有只等你一人的好事",
+   "quote": "一窝蜂扑过去围观",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22065,
+    "end_line": 22075,
+    "sha1": "497635ae64710763628c3c9db0b8eb8715f83cce",
+    "fingerprint": [
+     "对讲机",
+     "导游"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "巡猎与市场有效性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两套对讲机：25公里+上百公里（22067）；一批车已围一批在赶——如财报后买卖（22069）；猎豹会走动、来晚的人机会就丢了（22073）＝等你知道时价格已合理（22075）；围观的半小时关无线电可能错过新机会=机会成本（22077）；各车旅客运气都差不多（22057）；'市场有效性'点题句在22101",
+   "claim_id": "C-WJ2-U0275-01",
+   "unit_id": "WJ2-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "非零和博弈中选择双赢：导游共享信息因独守秘密所得太有限——为避免在更高层次博弈中输而合作",
+   "quote": "双赢的策略",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22093,
+    "end_line": 22099,
+    "sha1": "84949f900cb0bc7fec8fea077db47a2775b6edfb",
+    "fingerprint": [
+     "博弈",
+     "双赢"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "导游博弈与双赢",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "非零和博弈有双输/双赢/一输一赢三种策略、纳什均衡常在双输位（22095）；利益驱使共享：50个导游分工扫描效率大增（22099）；最会看动物的导游是最善交流信息者（22081）",
+   "claim_id": "C-WJ2-U0275-02",
+   "unit_id": "WJ2-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "独自寻找不是好策略：3天独自扫草原几乎一无所获；分工扫描几百平方公里才有效——冷门=被吃光的草场没有机会",
+   "quote": "不要到草被吃光的地方去找",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22103,
+    "end_line": 22107,
+    "sha1": "387581f4f341555859740efc795896c6dff5c543",
+    "fingerprint": [
+     "冷门",
+     "合作"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-1"
+   ],
+   "concept_key": "冷门无机会",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "狮子30-50平方公里一群、一辆车扫50平方公里一天不够且狮群会转移（22091）；公司里各自为战独揽功劳、整个公司在更高竞争落败（22107）；新手最好向前辈请教跟随大部队（22123）；有经验者可碰运气但勿把好运气当常态（22125）",
+   "claim_id": "C-WJ2-U0275-03",
+   "unit_id": "WJ2-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "违背基本逻辑的事永远别碰：基本不存在只有你一人发现的好事；电视上的完美镜头是幸存者偏差",
+   "quote": "只有你看到了的机会",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22127,
+    "end_line": 22129,
+    "sha1": "2690c54e9a248c0c60f8baf3bc0190fc1069613a",
+    "fingerprint": [
+     "基本逻辑",
+     "幸存者"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "独占机会幻觉",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中彩两次：独享狮群正面4米、荒原猎豹10米但十几分钟后消失（22109-22121）；把运气当常态就偏离长期获利方向（22115）；电视节目组长期驻守的完美画面=超级成功者的故事（22129）",
+   "claim_id": "C-WJ2-U0275-04",
+   "unit_id": "WJ2-U0275"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0275",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "巡猎过程叙事与两次中彩经历按X3留痕，四条经济学/博弈机理已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "非洲经济学2：市场有效性/博弈双赢/冷门无机会/独占机会幻觉（X3+机理例外）"
+}

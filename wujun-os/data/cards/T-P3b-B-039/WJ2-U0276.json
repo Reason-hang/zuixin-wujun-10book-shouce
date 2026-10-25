@@ -1,0 +1,99 @@
+{
+ "unit_id": "WJ2-U0276",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "南撒哈拉贫困主因是没有自己的工业：资源丰富（刚果河水量大尼罗河一个数量级）却处于前工业时代",
+   "quote": "没有自己的工业",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22159,
+    "end_line": 22159,
+    "sha1": "53e85af290fccf7597f30528fc2e957ca0416a50",
+    "fingerprint": [
+     "工业",
+     "前工业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "南撒哈拉缺工业",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "不同于北非（条件差）、中亚（战乱地理）、拉美（没收外资）；非资源诅咒（瑙鲁对照 22155-22157）；苹果手机陆巡在用但发展阶段前工业（22159）；工业革命是人类史上最伟大事件（22143）",
+   "claim_id": "C-WJ2-U0276-01",
+   "unit_id": "WJ2-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "农业难支撑脱贫：坦桑尼亚65%GDP与人口在农业、人均仅千余美元——脱贫须减农业人口（分母），但会带来大量失业",
+   "quote": "大量减少农业人口",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22171,
+    "end_line": 22173,
+    "sha1": "f17bc09ce91504e710995b82ea2a7db0fb9abd72",
+    "fingerprint": [
+     "农业",
+     "脱贫"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "农业脱贫天花板",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "荒地开垦近中国耕地一半但保留地不能动、劳动力也不够（22165-22167）；80%农产品出口已属外向型；小块土地不适合机械化（22171）；GDP翻倍也难全国脱贫（22173）",
+   "claim_id": "C-WJ2-U0276-02",
+   "unit_id": "WJ2-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "旅游业托举不了全民富裕：酒店数量有限才贵、盖多了总收入未必增——塞舌尔模式（10万人）无法复制到6500万人口国家",
+   "quote": "对于全面的富裕帮助不大",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 22181,
+    "end_line": 22183,
+    "sha1": "b7f0dd3dfe6c57fd8c4e4c654061ef2d447ffba6",
+    "fingerprint": [
+     "旅游",
+     "酒店"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "旅游业天花板",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "导游新手月800-1000美元、老手3000-4000已脱贫（22179）；同等酒店价格是巴黎两倍；道路也无法承更多车辆（22181）；塞舌尔人均超2万美元但仅10万人（22183）",
+   "claim_id": "C-WJ2-U0276-03",
+   "unit_id": "WJ2-U0276"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0276",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "坦桑尼亚农业与旅游见闻细节按X3留痕，三条经济结构机理已例外成卡（信尾'如何工业化'论述留待后续窗口单元）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "非洲经济学3：缺工业/农业天花板/旅游天花板（X3+机理例外）"
+}

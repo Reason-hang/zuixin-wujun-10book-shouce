@@ -1,0 +1,128 @@
+{
+ "unit_id": "WJ2-U0265",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先把事实搞清楚再问为什么：'生化环材是天坑'只反映专业设置与市场需求不匹配，'AI让生物被认可'是想象",
+   "quote": "先要把事实搞清楚",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21253,
+    "end_line": 21257,
+    "sha1": "3df20f76064583f7f18480f9150eb972a0534eea",
+    "fingerprint": [
+     "事实",
+     "想象"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "先核实事实再提问",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "'物理学家认为1+1=4'式伪矛盾（21253）；AI预测算命化：一派说初级失业一派说资深失业=说了等于没说（21257）；AlphaFold成熟后博士后一人干十人活、只会少招（21257）；答涅槃重生",
+   "claim_id": "C-WJ2-U0265-01",
+   "unit_id": "WJ2-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生物专业就业真相（美国2025）：主流去向年薪4.5-6.3万美元、仅为改行当医生（12-22万）的四分之一",
+   "quote": "调研一下过去十年来",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21259,
+    "end_line": 21285,
+    "sha1": "d50ba383a18a64363075f483dc086c2e1c386c3e",
+    "fingerprint": [
+     "去向",
+     "年薪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "生物专业就业真相",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "前六去向：健康科普/公园巡视员/研究助理/农食技术员/高中教师/科普作家（21263-21273）；末三位是改行（执业护士/牙医/医生）；张雪峰：能当生物学家的不到毕业生1%（21291）；X5边界留痕",
+   "claim_id": "C-WJ2-U0265-02",
+   "unit_id": "WJ2-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "话不投机：换话题或沉默，勿与无知者争辩——他们擅长把你拉到他们的水平再打败你（万言万当不如一默）",
+   "quote": "万言万当，不如一默",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21303,
+    "end_line": 21311,
+    "sha1": "5f1141d6a5317eeb2639a8344c160e09701109ed",
+    "fingerprint": [
+     "沉默",
+     "争辩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-4"
+   ],
+   "concept_key": "话不投机则默",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "黄庭坚诗、张廷玉座右铭（E2成分并入notes）；家庭聚会闷头吃饭、能引导则引导不能则沉默（21309）；饭局事先声明下回不参加、去了勿露不悦（21311）；答咚咚锵",
+   "claim_id": "C-WJ2-U0265-03",
+   "unit_id": "WJ2-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正做好一件事之前不要考虑跨界破圈：苹果不跨界不是因为不聪明而是知道不做不擅长的事",
+   "quote": "先不要考虑什么跨界",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21319,
+    "end_line": 21325,
+    "sha1": "a2a5fa5b8cb047bdf92833ae08d85f8e6376175d",
+    "fingerprint": [
+     "跨界",
+     "产品线"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "先做好再跨界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中国公司产品线长到CEO数不过来vs美国七大产品线个位数（21319）；红牛一个产品年营业额上百亿、国内卖水也能成首富（21323）；绝大部分人的问题是事情没做好还对自己要求太低；答Deabe；与U0202佩洛顿'基本盘与跨界'同族互参",
+   "claim_id": "C-WJ2-U0265-04",
+   "unit_id": "WJ2-U0265"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0265",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'涅槃重生''咚咚锵''Deabe'三位读者长留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答43：先核实事实/生物就业真相/话不投机则默/先做好再跨界"
+}

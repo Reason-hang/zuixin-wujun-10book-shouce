@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0264",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-039",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "施普伦三角：时间+信息+能量=常数——物质条件与信息越足做事越快；有钱人用能量和信息换时间",
+   "quote": "时间+信息+能量",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21197,
+    "end_line": 21203,
+    "sha1": "87112c0aa4d89c64637a66019da01a0c88c890c2",
+    "fingerprint": [
+     "三角形",
+     "常数"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "施普伦三角（能量信息时间）",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "等边三角形内点到三边距离之和相等（21197）；风险投资=让创始人能量维度取值大；核心技术=信息维度取值大（21203）；与U0231施普伦三角同键互参（P4归并）",
+   "claim_id": "C-WJ2-U0264-01",
+   "unit_id": "WJ2-U0264"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "穷人思维舍不得花钱买信息、用时间反复试错填补；富人思维花钱买最可靠的信息省时间",
+   "quote": "用时间来填补",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21207,
+    "end_line": 21209,
+    "sha1": "b3ed1a7bb30c2224ca26aceaed8d681462919478",
+    "fingerprint": [
+     "试错",
+     "信息"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D05-1"
+   ],
+   "concept_key": "穷富思维与信息",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "缺技术花钱买vs逆向工程关门摸索；时间是最宝贵的资源、花本钱咨询或买调研更易成功（21209）；觉得买非实物信息不划算是穷人思维核心",
+   "claim_id": "C-WJ2-U0264-02",
+   "unit_id": "WJ2-U0264"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高价值信息从不流向穷人思维的人：要么花钱买、要么花时间精力处理——越重大决定越用低质免费信息是通病",
+   "quote": "高价值信息从不流向穷人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21217,
+    "end_line": 21217,
+    "sha1": "a2777d69c676ad48a3cbad731f3c2c49ed9ff49a",
+    "fingerprint": [
+     "高价值",
+     "成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-1"
+   ],
+   "concept_key": "高价值信息门槛",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中学进斯坦福比例高的真相=家长是校友金主教授、该数据须过滤（21215）；高考志愿咨询服务价值在会处理信息（21217）；为投资花钱买数据（第173封信互参）；口称要高价值信息、行动上回避（21219）",
+   "claim_id": "C-WJ2-U0264-03",
+   "unit_id": "WJ2-U0264"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人是被信息塑造的：高价值信息培育高品质思维、垃圾信息毒害思维且悄无声息；很少人在意自己的信息环境",
+   "quote": "是被所接受的信息塑造的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21223,
+    "end_line": 21233,
+    "sha1": "01e1ed0b6c290c986bc6407c7aff2a1840369c71",
+    "fingerprint": [
+     "塑造",
+     "信息茧房"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "人被信息塑造",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "阿马蒂亚·森：考察判断力主要看信息来源多样性、单一扭曲信息是愚昧且自信的最大原因（21227）；选房在意邻居选校在意同学、却不在意信息环境（21231）；无能力过滤则互联网只会让人更分心（21233）",
+   "claim_id": "C-WJ2-U0264-04",
+   "unit_id": "WJ2-U0264"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "穷人为何得不到准确信息：施普伦三角/穷富思维/信息门槛/人被信息塑造"
+}
