@@ -1,0 +1,102 @@
+{
+ "unit_id": "SG3-U0100",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只算眼前利益、遇挫即妥协甚至过河拆桥：无长远目标就看不到长远利益",
+   "quote": "过于看重眼前的利益",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10471,
+    "end_line": 10471,
+    "fingerprint": [
+     "外包",
+     "过河拆桥"
+    ],
+    "sha1": "031549848661709cef8fc90e3a579bb8426880e8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-2"
+   ],
+   "concept_key": "商人政权短视",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "利润高则趋之若鹜、无利润不得不做的就外包（10471）；商人政府喜欢算账、雇佣军缺少荣誉感，作战不利就想求和（10455）；划重点3（10489）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0100-01",
+   "unit_id": "SG3-U0100"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "管仲论亡国：计得地与宝而不计失，只算所得不算所失者亡",
+   "quote": "计得地与宝",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10473,
+    "end_line": 10473,
+    "fingerprint": [
+     "管仲",
+     "损失"
+    ],
+    "sha1": "ecf200a8858e2445be0391150a7d109e8f3fa0d7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2",
+    "D03-1"
+   ],
+   "concept_key": "管仲计得不计失",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=管仲（《管子》载齐桓公问对'古之亡国其何失'）；原文断句取一种、注见10479；迦太基尤忽视长远利益的损失（10473）；下信续引'计见亲不计见弃'见C-SG3-U0101-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0100-02",
+   "unit_id": "SG3-U0100"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "更能承受失利的韧性方最终取胜，遇挫退缩妥协者输掉整场战争",
+   "quote": "遇到挫折就退缩妥协",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10475,
+    "end_line": 10475,
+    "fingerprint": [
+     "韧性",
+     "大获全胜"
+    ],
+    "sha1": "6df0c04bc89f574ea3a20247dbd42f9ff482d09a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D03-2"
+   ],
+   "concept_key": "韧性定胜负",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "迦太基与罗马军事上互有胜负，但迦太基遇挫就想结束战争（10475）；罗马几次抓住关键机会夺得土地与赔款（10487）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0100-03",
+   "unit_id": "SG3-U0100"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0100",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "纯史实叙述：腓尼基人沿革与字母传承（10409-10417）、迦太基城规模与航海殖民（10419-10429）、第一次布匿战争海战经过与埃克诺穆斯海角29万人数据存疑（10441-10453）、克桑提普斯与哈米尔卡及雇佣军兵变（10457-10465）；商业文明短视与韧性的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第082封信第一次布匿战争纯史实为主，抽3卡：商人政权短视/管仲计得不计失E2/韧性定胜负；战争史X4"
+}

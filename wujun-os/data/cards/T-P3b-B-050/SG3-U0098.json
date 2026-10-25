@@ -1,0 +1,132 @@
+{
+ "unit_id": "SG3-U0098",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "政治版图蓝和红不是绝对不变的，只是逆转变化的过程可能非常长",
+   "quote": "不是绝对不变的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10237,
+    "end_line": 10237,
+    "fingerprint": [
+     "墨西哥移民",
+     "蓝州"
+    ],
+    "sha1": "3fb58c6fd3d319497cedebdb29b6d191ff30695f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "版图逆转耗时长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "加州从克林顿时代起因移民变为民主党大本营（10237，含47%时点数据）；约翰逊看到时代变化摘下林肯种下的果子（10229）；划重点1（10285）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0098-01",
+   "unit_id": "SG3-U0098"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "拉拢一批人就等于排斥另一批人：理念集结会偏离未被容纳者的诉求",
+   "quote": "等于排斥另一批人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10241,
+    "end_line": 10243,
+    "fingerprint": [
+     "政治正确",
+     "中产阶级"
+    ],
+    "sha1": "105e9ee3b11807466cb5d6d1131ee3a0548fbd27"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "拉拢即排斥",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "民主党以意识形态宣传汇集成分复杂的支持者（10241）；重个人自由的中产、专业人士、小商人转向主张小政府的共和党（10243）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0098-02",
+   "unit_id": "SG3-U0098"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两党之争背后是建制派与极端派之争：一方维护既得利益一方得底层支持",
+   "quote": "维护既得的利益",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10273,
+    "end_line": 10273,
+    "fingerprint": [
+     "建制派",
+     "极端派"
+    ],
+    "sha1": "beb197ea1424ef30ea9ee450a1cf1987cae72bca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "建制派与极端派",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "桑德斯与特朗普关注人群有重合但解决方式完全不同（10273）；划重点2（10287）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0098-03",
+   "unit_id": "SG3-U0098"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中产多数的纺锤形社会温和派强势，阶层金字塔化后极端政治力量崛起",
+   "quote": "从纺锤形变成了金字塔形",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10245,
+    "end_line": 10247,
+    "fingerprint": [
+     "纺锤形",
+     "金字塔形"
+    ],
+    "sha1": "4f4f7789357dc060196a3a2f99b16a7047c5f621"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "阶层结构与政治极化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全球化使受益集中于上层少数、贫富差距拉大（10247）；若阶层分布不变像桑德斯特朗普这样的极端力量还会出现（10279，划重点3）；2020大选时点评论已登记X2",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0098-04",
+   "unit_id": "SG3-U0098"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0098",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国两党兴衰史叙述：1912年共和党分裂与威尔逊立法、1929大萧条与小罗斯福（10205-10219）、约翰逊与金协议及南方变红（10223-10233）、加州从红转蓝（10235-10237）、2008金融危机与奥巴马希拉里桑德斯特朗普拜登（10253-10269）；阶层结构机制已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0098",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附时点的选举评论：2020年大选为建制派以微弱优势战胜民粹派、特朗普大众选票数超过以往多届胜利者、加州墨西哥移民占47%、民主党当下意识形态主张清单（10241、10237、10275-10279），离开时点即失效；阶层结构的可迁移机制已入C-SG3-U0098-04"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第081封信红蓝逆转以史实为主，抽4卡：版图逆转长周期/拉拢即排斥/建制派与极端派/阶层结构机制；两党史实X4、2020时点评论X2"
+}

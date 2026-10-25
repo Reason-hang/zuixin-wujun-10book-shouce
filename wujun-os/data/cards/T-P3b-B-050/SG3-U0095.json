@@ -1,0 +1,237 @@
+{
+ "unit_id": "SG3-U0095",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据复制成本近零因此不稀缺，价值由供需决定，难以保持高昂价格",
+   "quote": "很难保持高昂的价格",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9889,
+    "end_line": 9897,
+    "fingerprint": [
+     "零成本",
+     "需求和供给"
+    ],
+    "sha1": "3f39c86ffbb84686574419d0795912e96998c80e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据复制近零难高价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "可无限复制之物如空气水难成流通商品（9893）；阿里巴巴可同时把同样数据提供给各平台相互竞争（9895）；盗版软件心态：复制一份原拥有者无损失（9897）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-01",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据值钱在于稀缺独一无二：随处可见纵有使用价值也难获天价",
+   "quote": "独一无二的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9899,
+    "end_line": 9899,
+    "fingerprint": [
+     "独一无二",
+     "天价"
+    ],
+    "sha1": "a96e86b244ae608d33af185b54b1054e609136b5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据稀缺才有天价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应上一封信六种癌症患者基因数据案例（9899）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-02",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "集中存放的数据远不如想象安全，泄漏影响巨大且无法追责会破坏市场",
+   "quote": "远不如人们想象得那么安全",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9905,
+    "end_line": 9907,
+    "fingerprint": [
+     "丢失数据",
+     "无法追责"
+    ],
+    "sha1": "83cf735c9ce46c7fcc9fb00451618d1c386090cb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "集中数据安全困境",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2008年云计算刚出现时曾过分乐观（9905，时点判断）；数据集中后一次黑客行为收益成本比变高，分散存放则窃取上千万人的数据成本极高（9907）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-03",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平台能随意出售用户数据：产权不清之外，更因出售不会使自己受损失",
+   "quote": "并不会对自己造成损失",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9909,
+    "end_line": 9915,
+    "fingerprint": [
+     "监守自盗",
+     "剑桥分析"
+    ],
+    "sha1": "c0bf4ae3fb47955645759d224e3fd56d97eee8f5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "出售数据无损故滥卖",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "监守自盗：将数据大量出售给第三方的正是大平台本身（9909）；Facebook剑桥分析8700万用户数据、被FTC罚50亿美元（9911-9913，时事细节）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-04",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区块链把数据使用授权交还所有者：平台无权转授权，第三方由用户决定",
+   "quote": "交还给数据的所有者",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9927,
+    "end_line": 9929,
+    "fingerprint": [
+     "区块链",
+     "授权"
+    ],
+    "sha1": "82795e468d44fc99785cecd83497e78366354e2a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-2"
+   ],
+   "concept_key": "区块链授权交还",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "未来场景：合作方须经用户授权并提供收益，否则可拒绝（9931）；数据要获得实体资产属性不可随意复制（9917-9921）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-05",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "施密特：比特币能在数字世界中创造出不可复制的内容，这具有巨大价值",
+   "quote": "不可复制的内容",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9933,
+    "end_line": 9933,
+    "fingerprint": [
+     "施密特",
+     "比特币"
+    ],
+    "sha1": "d338c0bce53b75ec3e04e1026e59ae69f34ed40d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-2"
+   ],
+   "concept_key": "施密特不可复制内容",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=施密特（谷歌前CEO），2014年语；吴军据此称区块链是已知解决数据被随意复制问题的最好且可能是唯一工具（9933，现状判断）；验证与拥有分离见C-SG3-U0095-07",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-06",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区块链将验证信息与拥有信息分开：使用者无需拥有数据，授权后可验证",
+   "quote": "不需要拥有信息",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9935,
+    "end_line": 9935,
+    "fingerprint": [
+     "验证信息",
+     "授权"
+    ],
+    "sha1": "294d243f1ba461e5be47b7b85efbcd6d485d10ae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-2"
+   ],
+   "concept_key": "验证与拥有分离",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "新冠死亡病例统计两问授权示例：使用者只获授权验证两问题、其余情况需新授权（9937-9943）；应用于医疗记录见C-SG3-U0096-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-07",
+   "unit_id": "SG3-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "GDPR确立数据所有权归提供者、平台只是管理者，须像银行一样可追踪",
+   "quote": "所有权属于数据的提供者",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9949,
+    "end_line": 9955,
+    "fingerprint": [
+     "GDPR",
+     "管理者"
+    ],
+    "sha1": "52f02d865644dc092982ee77384c76d2c83ddc7d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "GDPR所有权归提供者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "像管理银行那样管理大数据平台：须说清数据流向并自研追踪工具，否则无法在欧洲营业（9951-9955）；平台今天说不清数据流向是一笔糊涂账（9953）；CCPA为美国版GDPR（9957）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0095-08",
+   "unit_id": "SG3-U0095"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0095",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附时点的现状论断：2008年云计算刚出现时对安全性的预期与今天结果对照（9905）、区块链为已知解决数据随意复制的最好且可能是唯一工具（9933）、GDPR与CCPA实施进展及谷歌微软内部开发数据追踪工具（9947-9957），离开时点即失效；可迁移机制已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第078封信数据资产2：复制近零/稀缺天价/安全困境/监守自盗/区块链授权与验证分离/GDPR等8卡含施密特E2；时点现状论断X2"
+}

@@ -1,0 +1,99 @@
+{
+ "unit_id": "SG3-U0097",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大组织必有分歧：任何政策即使对整体有利也会伤害一批人，受损者抱团维权",
+   "quote": "伤害到一大批人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10129,
+    "end_line": 10131,
+    "fingerprint": [
+     "分歧",
+     "政治权益"
+    ],
+    "sha1": "c4a079d698dfe8229cbc9d4337093bde0ecb976c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "组织分歧必然",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由美国政党诞生史导出的组织规律（10129）；划重点1（10181）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0097-01",
+   "unit_id": "SG3-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "分歧永恒存在，政治与组织的智慧在于调和分歧、让不同主张者共谋公益",
+   "quote": "调和分歧",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10169,
+    "end_line": 10175,
+    "fingerprint": [
+     "智慧",
+     "权益"
+    ],
+    "sha1": "a4d9f0b5699b31100d7cb531cc6d027a89a16969"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "调和分歧的智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不同利益与主张者总会争取权益、党派政治没有结束的一天（10169-10173）；划重点3（10185）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0097-02",
+   "unit_id": "SG3-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有政党就难以把意见一致的人团结起来做成大事，尽管党争破坏民主",
+   "quote": "团结起来做成大事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10097,
+    "end_line": 10097,
+    "fingerprint": [
+     "党争",
+     "政党"
+    ],
+    "sha1": "32174016f938265690332f0d607b9145f91afc8a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "政党团结同见者",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "华盛顿反感政党认为党争破坏民主，但政党政治从建国开始形成（10097）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0097-03",
+   "unit_id": "SG3-U0097"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0097",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国政党史纯史实叙述：联邦党成立与汉密尔顿新国债高关税酒税之争（10099-10125）、杰斐逊麦迪逊共和民主党与1800选举弗吉尼亚王朝（10133-10147）、1824腐败交易杰克逊扩大选举权辉格党解体与1854共和党诞生（10153-10165）；组织学的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第080封信美国政党史纯史实为主，仅抽组织学判断3卡：组织分歧必然/调和分歧的智慧/政党团结同见者；政党史叙述X4"
+}

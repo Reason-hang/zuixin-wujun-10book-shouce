@@ -1,0 +1,158 @@
+{
+ "unit_id": "SG3-U0101",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要达成表面双赢却损害长期利益的合作，防止只算所得不算所失",
+   "quote": "损害长期利益的合作",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10581,
+    "end_line": 10581,
+    "fingerprint": [
+     "双赢",
+     "管仲"
+    ],
+    "sha1": "e13efd56981f20f3c01967fe34ef4289e04c9b76"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D07-2"
+   ],
+   "concept_key": "拒绝损长期的双赢",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "即管仲'计得地与宝，而不计失'的心理（10581）；迦太基用钱换来的条约没有带来所谓双赢（10551）；给创业者的三点之一",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0101-01",
+   "unit_id": "SG3-U0101"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业必须让员工有认同感：给股权或让员工感到是主人，而非奴隶雇佣军",
+   "quote": "让员工有认同感",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10583,
+    "end_line": 10583,
+    "fingerprint": [
+     "股权",
+     "雇佣军"
+    ],
+    "sha1": "90e3efb9c848e994455cbbda0d4488aea09f5971"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-3"
+   ],
+   "concept_key": "员工认同感",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "否则陷入'百姓计见亲，而不计见弃'（10583）；雇佣军与奴隶对国家无认同、靠钱雇来的军队失败一次就一蹶不振（10571）；罗马广授公民权使聚合力强（10557、10575）；给创业者的三点之二",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0101-02",
+   "unit_id": "SG3-U0101"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创企业每一仗都关乎生死，必须有集中的权力：听意见但决策独断",
+   "quote": "决策需要独断",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10585,
+    "end_line": 10585,
+    "fingerprint": [
+     "生与死",
+     "集中的权力"
+    ],
+    "sha1": "3393eb82b5baada47496cf3efa9793362a2e6750"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "决策需独断",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "商人联盟讲究平等反对权力集中，对汉尼拔的防范不亚于对罗马（10561）；罗马战时予执政官独裁官极大权力形成合力（10563）；给创业者的三点之三",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0101-03",
+   "unit_id": "SG3-U0101"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "缺乏国人支持，赢得再多战役也赢不了战争：输一次就彻底失败无翻盘",
+   "quote": "无法赢得整场战争",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10559,
+    "end_line": 10567,
+    "fingerprint": [
+     "缺乏国人支持",
+     "翻盘"
+    ],
+    "sha1": "e57c5168da2829fa2939f1b31d9b7f6bdf8f3989"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "战役胜非战争胜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第二次布匿战争仿佛汉尼拔一家人对整个罗马开战、迦太基政权像看客（10559）；李维'共和制度的胜利'说被吴军认为牵强、两国政体相似（10557）；划重点2（10597）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0101-04",
+   "unit_id": "SG3-U0101"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "管仲论亡国又因：只满足臣民拥护的虚荣，不计臣民会否背弃",
+   "quote": "百姓计见亲，而不计见弃",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10573,
+    "end_line": 10573,
+    "fingerprint": [
+     "管仲",
+     "背弃"
+    ],
+    "sha1": "21180362ab881d5e5e7f48d23efb48f186cda961"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "管仲计见亲不计见弃",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=管仲（《管子》齐桓公问对，断句取一种、注见10589）；迦太基只出钱让雇佣军卖命、未计危机时士气（10573）；上引'计得不计失'见C-SG3-U0100-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0101-05",
+   "unit_id": "SG3-U0101"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0101",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "纯史实叙述：哈米尔卡建新迦太基城与财富三分（10507-10513）、汉尼拔翻越阿尔卑斯连胜三场（10519）、费边拖延战术与坎尼会战惨败（10521-10531）、坚壁清野持久战与大西庇阿北非决战（10535-10543）、汉尼拔流亡自尽与第三次布匿战争灭国（10545-10553）；组织与创业的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第083封信汉尼拔纯史实为主，抽5卡：拒绝损长期双赢/员工认同感/决策独断/战役胜非战争胜/管仲计见亲不计见弃E2；战史X4"
+}

@@ -1,0 +1,202 @@
+{
+ "unit_id": "SG3-U0092",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "时间管理首先做减法：舍弃与目标无关的事，看完成多少件事而非忙了多久",
+   "quote": "首先是要做减法",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9595,
+    "end_line": 9603,
+    "fingerprint": [
+     "做减法",
+     "时间管理"
+    ],
+    "sha1": "6a2048d6c33520e4b1790fa24405f69dbb1790a9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "时间管理先做减法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "断舍离原则见C-SG3-U0092-02；不可能给一天增加一分钟但可改变使用每一分钟的方式（9673）；靠微小习惯改变做到（9671）；划重点1（9679）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-01",
+   "unit_id": "SG3-U0092"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "山下英子：想过什么样的生活就保留相应的东西，放弃与该生活无关之物",
+   "quote": "想过什么样的生活",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9599,
+    "end_line": 9599,
+    "fingerprint": [
+     "山下英子",
+     "断舍离"
+    ],
+    "sha1": "51073f274c5824b327d97c3e79c43cc99558502b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "断舍离生活原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=山下英子（《断舍离》作者）；吴军迁移到做事：与目标无关的事通过做减法删掉，放弃无关之事才获得宽松时间（9601）；概括卡见C-SG3-U0092-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-02",
+   "unit_id": "SG3-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "时间管理中止损的关键：及时停止掉那些在规定时间无法完成的事情",
+   "quote": "及时停止掉那些",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9681,
+    "end_line": 9681,
+    "fingerprint": [
+     "止损的关键",
+     "规定时间"
+    ],
+    "sha1": "190e8775fa85531d6b4503528319d1ff2d518dab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "时间止损关键",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "情境案例：银行排队超时即止损改办下一件（9627）；最糟糕的是'再有三分钟马上就完了'一拖再拖，止损也有权衡要放在恰当的事上（9643）；机制卡见C-SG3-U0092-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-03",
+   "unit_id": "SG3-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不依赖最后的五分钟：某环节脱轨及时止损，就不会满盘皆输反而反败为胜",
+   "quote": "最后的五分钟不是自己的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9631,
+    "end_line": 9631,
+    "fingerprint": [
+     "最后的五分钟",
+     "满盘皆输"
+    ],
+    "sha1": "bb6e3e78b0891246b6e8a7e8aeccbbc1dd49dccc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "最后五分钟原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "部门面谈案例：取消中间一个会谈直接进入下一个，后面赶时间会牺牲质量（9633-9635）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-04",
+   "unit_id": "SG3-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常备B计划：原定事项条件不成熟就转做预案之事，B计划成为习惯时间就省下",
+   "quote": "赶快按照B 计划去做另一件事情",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9649,
+    "end_line": 9653,
+    "fingerprint": [
+     "B 计划",
+     "无所事事浪费时间"
+    ],
+    "sha1": "784ef1202793adc078e5a7fe0508787f6033deb3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "B计划预案",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "早到银行一刻钟、等候超预期就打开电脑做工作（9649）；早出门5分钟可能省15分钟用于读书写作（9651）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-05",
+   "unit_id": "SG3-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "手机让时间更碎片化而非更易利用，进入状态需预热，好时间管理要减少碎片时间",
+   "quote": "时间才变得更加碎片化了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9657,
+    "end_line": 9663,
+    "fingerprint": [
+     "碎片化",
+     "预热"
+    ],
+    "sha1": "f022e862022a83ceb7b1586752d18f513662a2d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "减少碎片时间",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "预热因任务而异：工程管理10分钟、阅读2分钟、科学思考半小时，每小时看五六次手机就要反复预热（9663）；做此事想彼事同样把时间碎片化（9665）；划重点3（9683）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-06",
+   "unit_id": "SG3-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "时间是因果链上事件的次序：前面一件事改变，后面整个进程就都会被改变",
+   "quote": "后面整个进程就都会被改变",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9637,
+    "end_line": 9639,
+    "fingerprint": [
+     "绝对的时间观",
+     "相对时间观"
+    ],
+    "sha1": "d6c61c8850070db846f6ab904fcf2b6e6f325871"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "时间相对观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "伽利略牛顿绝对时间观与莱布尼茨哥德尔爱因斯坦相对时间观（9637）；'前面耽误的后面能补回'是多数人观念（9637）；此相对观支撑止损论证（9639）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0092-07",
+   "unit_id": "SG3-U0092"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第076封信时间管理四法全为可迁移方法论：做减法/止损/最后五分钟/B计划/减少碎片时间/时间相对观等7卡，含山下英子断舍离E2，无X处置"
+}

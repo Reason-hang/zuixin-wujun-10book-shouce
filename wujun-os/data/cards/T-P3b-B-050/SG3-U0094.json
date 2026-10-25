@@ -1,0 +1,173 @@
+{
+ "unit_id": "SG3-U0094",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多数人眼中数据还不是像钱那样的真正的财富，资产价值没有想象中高",
+   "quote": "还不是像钱那样的真正的财富",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9803,
+    "end_line": 9805,
+    "fingerprint": [
+     "95%",
+     "真正的财富"
+    ],
+    "sha1": "ee2e129fd52891abfebaecd92256287251016edf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据非真正财富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对100多名创业者与EMBA学员调查，95%的人选择拿200万真金白银而非数据（9803-9805）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0094-01",
+   "unit_id": "SG3-U0094"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "特殊数据可以很值钱：罕见病例的基因数据卖出两百多万英镑",
+   "quote": "特殊的数据是可以很值钱的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9821,
+    "end_line": 9823,
+    "fingerprint": [
+     "两百多万英镑",
+     "值钱"
+    ],
+    "sha1": "0f242b0adc4b09871878787ecdc4212fe0f33436"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "特殊数据值钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "郭毅可院士亲历：六种癌症患者做基因测序后数据被罗氏公司买走、家属获两百多万英镑（9813-9821）；独一无二故值钱见C-SG3-U0095-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0094-02",
+   "unit_id": "SG3-U0094"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生物信息'完全不会泄露'不现实；邮箱、关系链被有心利用也能损失巨大",
+   "quote": "完全不会泄露",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9825,
+    "end_line": 9827,
+    "fingerprint": [
+     "泄露",
+     "有心地利用"
+    ],
+    "sha1": "a2f51e4b103beb7dc2934cd0b421997e21482ccf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "生物信息会泄露",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "医疗采集与执行环节有不少人能接触信息，可能非法泄露（9825）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0094-03",
+   "unit_id": "SG3-U0094"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据难成资产两大主因：法权上所有权不清晰，技术上难防低成本复制",
+   "quote": "难以防止低成本的数据复制",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9833,
+    "end_line": 9837,
+    "fingerprint": [
+     "所有权",
+     "数据复制"
+    ],
+    "sha1": "de659541bbf73bd0fe20cde52343f46412d66b20"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据资产两大障碍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两个原因分两封信展开，本信谈所有权（9837）；技术之因见C-SG3-U0095-01；划重点2（9871）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0094-04",
+   "unit_id": "SG3-U0094"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用户并不真正拥有数据：搜索记录等拿不到看不懂，平台才是实际拥有者",
+   "quote": "才是这些数据的真正拥有者",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9839,
+    "end_line": 9845,
+    "fingerprint": [
+     "所有权归用户",
+     "搜索记录"
+    ],
+    "sha1": "b1bb633c13eb4f909445f4b25f1b6cef6f8b5113"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "平台实为数据拥有者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谷歌亚马逊表态所有权归用户，但搜索记录、足迹、浏览记录用户拿不到也看不懂、无支配权（9839-9843）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0094-05",
+   "unit_id": "SG3-U0094"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "资产应有所有者管理者使用者的清晰关系；产权处理不好数据难成资产",
+   "quote": "很难成为真正的资产",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9853,
+    "end_line": 9859,
+    "fingerprint": [
+     "所有者",
+     "产权问题"
+    ],
+    "sha1": "4e9a4e3bb3b041d3392b951024fc27ee318fa81e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据产权三方关系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "银行存款与公寓托管类比所有者-管理者-使用者关系（9849-9853）；今天平台是最大获益者，用户反遭价格歧视或泄露受损（9855）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0094-06",
+   "unit_id": "SG3-U0094"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第077封信数据资产1：数据非真财富/特殊数据值钱/泄露现实/两大障碍/平台实为拥有者/产权三方关系6卡，无X处置"
+}

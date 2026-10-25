@@ -1,0 +1,263 @@
+{
+ "unit_id": "SG3-U0096",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对数据严格监管不会影响大数据应用，反而让数据利用机制更完善",
+   "quote": "数据的利用机制也会更加完善",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9985,
+    "end_line": 9985,
+    "fingerprint": [
+     "监管",
+     "银行"
+    ],
+    "sha1": "56e198574a6fd4a0fd56fa51677a197b6434f34a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "监管完善利用机制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "如给银行确立监管不影响正常业务反使其更规范（9985）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-01",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平台代管数据就应享所有权站不住脚：银行保管钱并不因此分得所有权",
+   "quote": "并不因此就享有一部分钱的所有权",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9991,
+    "end_line": 9993,
+    "fingerprint": [
+     "站不住脚",
+     "隐私数据"
+    ],
+    "sha1": "4d73a8821dc3f71dd2636b94595b37553a1f93c0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "平台代管不享所有权",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第二个逻辑'限制使用影响质量'：提高产品质量未必需要那么多数据、尤其没必要了解隐私数据（9993）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-02",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'提高产品质量'不应成为公司无底线收集使用贩卖用户数据的借口",
+   "quote": "无底线收集",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9997,
+    "end_line": 9999,
+    "fingerprint": [
+     "裸奔",
+     "借口"
+    ],
+    "sha1": "7d2754a735f9a155bc151e1ff4e32c4f488b91f2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "产品质量非借口",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "很多网站收集的数据大部分与提供的服务无关（9995）；真需要详细数据应让用户知晓并达成互惠协议（9999）；今天很多人在互联网上裸奔（9997）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-03",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能指望大数据公司自我约束，唯一可行的是借公权力制约公司权力",
+   "quote": "借助公权力来制约",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10001,
+    "end_line": 10003,
+    "fingerprint": [
+     "一厢情愿",
+     "公权力"
+    ],
+    "sha1": "a616bf33adad6ef63d759c2914ad243fba3d81f2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "公权力制约",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商业行为很少以利他为目的（10001）；资本逐利引证见C-SG3-U0096-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-04",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "登宁：资本为100%的利润就敢践踏一切人间法律（马克思《资本论》转引）",
+   "quote": "敢践踏一切人间法律",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10003,
+    "end_line": 10003,
+    "fingerprint": [
+     "资本论",
+     "利润"
+    ],
+    "sha1": "d3a8eaf820bcf9da9fcb15c9c809a9823421090c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "资本逐利定律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=托·约·登宁（英国工人活动家，《工联和罢工》），马克思《资本论》转引；20%的利润就活跃、50%就铤而走险；吴军的概括卡见C-SG3-U0096-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-05",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区块链查看与验证分离可把医疗记录还给个人，患者授权医生统计研究",
+   "quote": "把个人的医疗记录还给个人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10013,
+    "end_line": 10019,
+    "fingerprint": [
+     "区块链",
+     "信息流通不畅"
+    ],
+    "sha1": "b5ad22436c11ecddb74d64556bb9ae1249c05001"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D04-2"
+   ],
+   "concept_key": "医疗数据还给个人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "医疗信息加密、仅患者与受权医生可看，研究方以提问方式获答案（10013）；过去医疗记录属医院、患者难拿到且他院无法利用（10011）；米勒教授：疑难杂症5年前已有有效疗法而其他医生不知、信息流通不畅所致（10017-10019）；验证机制见C-SG3-U0095-07",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-06",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "王永雄：医生愿每次付10-15美元查病例，患者年可获1-2万美元授权费",
+   "quote": "10～15 美元",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10015,
+    "end_line": 10015,
+    "fingerprint": [
+     "王永雄",
+     "信息授权"
+    ],
+    "sha1": "86c05834c731c6e78e0ef8c770487d5a2cbbf2f6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "王永雄数据授权费",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=王永雄（斯坦福大学统计系和医学院教授）；授权费可帮助患者支付医药费与部分医疗保险（10015）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-07",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据资产化模式：平台以免费服务换使用权，第三方使用数据向用户付费",
+   "quote": "要向用户付费",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10023,
+    "end_line": 10025,
+    "fingerprint": [
+     "使用权",
+     "免费提供存储"
+    ],
+    "sha1": "a6408f010758524c7eef2c189b7aff07ba3c944e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据使用付费模式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "所有权与使用权严格分开后平台未经授权无法解读数据（10023）；腾讯银行类比与拼多多京东付费示例（10027-10033）；数据价值由价格体现、活动越多越值钱而非越被价格歧视（10035）；价值获市场认可并使用户受益才成资产（10037-10039）；小公司获取数据：明码标价谁愿用谁付钱反而更公平，如银行按信用放贷（10043-10051）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-08",
+   "unit_id": "SG3-U0096"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "软件免费化使产业丧失版权保障难发展；数据资产化同样需要机制监管",
+   "quote": "丧失了重要的保障",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10053,
+    "end_line": 10057,
+    "fingerprint": [
+     "Adobe",
+     "版权保护"
+    ],
+    "sha1": "b426ddc039170c38e27591e313a8d1196b8a5192"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "版权保障产业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "东软金山用友三家市值合计不及Adobe一半、SaaS转型不顺，与'软件不值钱'观念有关（10055，时点数据）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0096-09",
+   "unit_id": "SG3-U0096"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0096",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附时点的国别比较：数据资产价值美国最高、英国次之、中国数据量最多而价值不大（10061），美股规模超房市且增速更快（10065），离开时点即失效；国别数据与东软金山用友市值对比（10055）并入K卡notes留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第079封信数据资产3：监管完善机制/平台逻辑驳斥/产品质量非借口/公权力制约/医疗数据还个人/付费模式/版权保障等9卡含登宁王永雄E2；国别比较X2"
+}

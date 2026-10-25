@@ -1,0 +1,79 @@
+{
+ "unit_id": "SG3-U0104",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "开放创新同时传承自身传统：威尔第借此复兴意大利歌剧，值得学习",
+   "quote": "开放创新的同时保持对传统的传承",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10929,
+    "end_line": 10931,
+    "fingerprint": [
+     "美声唱法",
+     "传统"
+    ],
+    "sha1": "233801baf1b8294644085acf7b1c0066e86dc741"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "开放创新与传承",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "两点原因：开放吸收外国音乐精华得德奥恢弘气势；结合意大利美声把咏叹调写得精美绝伦朗朗上口、符合本国传统（10931）；划重点2（10947）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0104-01",
+   "unit_id": "SG3-U0104"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "求学去国际化程度最高处：接触大量高质量外来作品，冲击带来突破",
+   "quote": "国际化程度最高",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10899,
+    "end_line": 10901,
+    "fingerprint": [
+     "拿波里",
+     "米兰"
+    ],
+    "sha1": "de461d42ef64f877a8448080aff06458631a0dd5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-1"
+   ],
+   "concept_key": "国际化求学冲击",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "不去歌剧圣地拿波里挖素材而赴受外国文化影响最大的米兰（10899）；在音乐传统浓厚但游离欧洲主流的国度接触大量高质量德奥音乐、受到的冲击多大（10901）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0104-02",
+   "unit_id": "SG3-U0104"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0104",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "歌剧史与音乐家史实叙述：歌剧起源与德奥意大利两派（10869-10887）、瓦格纳总体艺术与威尔第生平及《纳布科》《阿依达》诞生经过（10891-10925）、附录《阿依达》剧情简介（10939-10941）；创新与学习判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0104",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "纯赏析内容：瓦格纳与威尔第作品听感比较、拉丁派足球与德国足球类比、多明戈与《罗恩格林》听感（10933-10935），无结论句可归属"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第086封信威尔第纯艺术史为主，抽2卡：开放创新与传承/国际化求学冲击；歌剧史与生平X4、听感赏析X8"
+}

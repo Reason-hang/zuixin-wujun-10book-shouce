@@ -1,0 +1,135 @@
+{
+ "unit_id": "SG3-U0093",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "0.098%与0.3%不是同一概率：前者P(B|A)以硬币均匀为前提，后者P(A|B)以十次正面为前提",
+   "quote": "并不是在说同一个概率",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9707,
+    "end_line": 9725,
+    "fingerprint": [
+     "混淆",
+     "条件概率"
+    ],
+    "sha1": "76263fab82e1150d0f0f599ac77806b847758bc6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "条件概率方向",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "读者小芳混淆古典概率与统计学结果两个命题（9699-9701）；条件与结果互换即得另一概率（9717-9723）；统计学标准差细节见读者原题（9735，X7）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0093-01",
+   "unit_id": "SG3-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "产生疑问先检查理解是否到位；用数学的语言描述概念，差异就一目了然",
+   "quote": "差异就一目了然了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9729,
+    "end_line": 9731,
+    "fingerprint": [
+     "混淆起来",
+     "数学的语言"
+    ],
+    "sha1": "2f99cb0bbf10cb3e0e21f56013357431a08e4109"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "数学语言描述概念",
+   "ability_tags": [
+    "思",
+    "学"
+   ],
+   "notes": "文字表述上看起来差不多的概念常被混淆（9729）；把式子写出来差异一目了然（9731）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0093-02",
+   "unit_id": "SG3-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "账面珍宝再多暂时也兑现不了，当下现金流才重要，不能寅吃卯粮",
+   "quote": "不能寅吃卯粮",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9763,
+    "end_line": 9763,
+    "fingerprint": [
+     "入不敷出",
+     "寅吃卯粮"
+    ],
+    "sha1": "1e5f46efdd70f0aaab80372c35f09534541088a2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "现金流不可寅吃卯粮",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "建议二是看好自己的钱袋并帮老人看好钱袋子（9759）；老人请客可满足但要节制（9761）；对受骗老人顺着来等家庭判断归X5",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0093-03",
+   "unit_id": "SG3-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "搜索引擎找答案替代不了自己思维练习，经常深入思考的能力无可替代",
+   "quote": "自己思考的能力才是无可替代",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 9779,
+    "end_line": 9789,
+    "fingerprint": [
+     "搜索",
+     "深入思考"
+    ],
+    "sha1": "c2f958fa2d8d7bc73a911a853d6aec1678b24449"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "思考无可替代",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "跑步类比：开车捎一段=搜索答案，自己跑步=思维练习（9777-9779）；能思考高难度问题者不到人口1%却获高回报（9783）；谷歌强纳森敢怼上司、独力找到安全漏洞的案例（9785-9787）；深入思考习惯需从小培养（9789）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0093-04",
+   "unit_id": "SG3-U0093"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0093",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：小芳十次硬币概率原题与统计学求解细节（9701、9733-9737）、蒋雪梅父亲收藏假青花瓷来信（9741）、单宏伟12球题与儿子依赖网络提问（9769），吴军回应已单独抽取"
+  },
+  {
+   "unit_id": "SG3-U0093",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "家庭与亲子议题判断：对身边受骗老人不损害其利益前提下顺着来（9747）、让老人快乐度晚年'生活在梦中不妨让他相信那个梦'并做好心理疏导（9751-9753）、无原则孝顺超越边界（9761）；都德《柏林之围》为文学例证（9755）；现金流判断已按方法论例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问13：条件概率方向/数学语言描述概念/现金流不寅吃卯粮/搜索替代不了思考4卡；读者来信原文X7、对待受骗老人X5"
+}

@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG3-U0102",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "直接民主制本身有缺陷，这是美国不采一人一票直选的最重要原因",
+   "quote": "直接民主制本身是有缺陷的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10621,
+    "end_line": 10627,
+    "fingerprint": [
+     "联邦制",
+     "一人一票"
+    ],
+    "sha1": "aeec347200b66d0fae929b67cf193de2785f46fd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-2"
+   ],
+   "concept_key": "直接民主有缺陷",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "联邦制下州为邦国、选举以州为单位（10623）；一人一票会忽视小州利益（10625）；国父们了解雅典历史而设计防范（10629-10631）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0102-01",
+   "unit_id": "SG3-U0102"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "雅典败于软肋被抓与政治自毁：与其说败给斯巴达不如说是被自己打败",
+   "quote": "被自己打败",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10697,
+    "end_line": 10707,
+    "fingerprint": [
+     "软肋",
+     "拱手送人"
+    ],
+    "sha1": "a8095fc4d7873b55a8cd4812f5482c119e70512e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "雅典被自己打败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两原因：商业文明先天不足缺乏粮食必需品稳定供给（10697-10701）；政治把快到手的胜利拱手送人（10703-10707）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0102-02",
+   "unit_id": "SG3-U0102"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业文明的明显短板：过度依赖贸易连粮食都要进口，战时极其不利",
+   "quote": "对贸易的过度依赖",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10667,
+    "end_line": 10671,
+    "fingerprint": [
+     "必需品",
+     "进口"
+    ],
+    "sha1": "a934eb89557cf7a54d384465ac1f8b5974194af9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业文明供给软肋",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "斯巴达占领运粮必经之地色雷斯截断补给使雅典陷入被动（10663）；划重点2（10731）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0102-03",
+   "unit_id": "SG3-U0102"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "民粹的民主似乎每次选择都选最糟糕方向，如战时处死有经验将领",
+   "quote": "选择最糟糕的方向",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10709,
+    "end_line": 10711,
+    "fingerprint": [
+     "乌合之众",
+     "毫无理性"
+    ],
+    "sha1": "73403edc83e91b18637a5330e9baf267fa4dd963"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "民粹选最糟方向",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "战争期间审判八将、六人被处死，雅典自己消灭最有经验的军事家（10689、10709）；勒庞《乌合之众》以法国大革命为背景、其观察判断放到雅典同样成立（10711）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0102-04",
+   "unit_id": "SG3-U0102"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对看似不合理的安排别急着否定，先了解背后道理，在观察中长智慧见识",
+   "quote": "不要急着否定这件事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10723,
+    "end_line": 10723,
+    "fingerprint": [
+     "背后的道理",
+     "智慧和见识"
+    ],
+    "sha1": "79b0c9c596a760c4cabb271dd38d330ad02f3708"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "先懂后判断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接美国国父选择间接民主的缘由（10719-10721）；不只是获得简单肯定或否定的结论（10723）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0102-05",
+   "unit_id": "SG3-U0102"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "麦迪逊：纯粹民主上演动荡争斗无法保障人身财产安全；亚当斯：民主从不长久",
+   "quote": "无法保证人身安全和财产权利",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10715,
+    "end_line": 10717,
+    "fingerprint": [
+     "卢梭",
+     "麦迪逊"
+    ],
+    "sha1": "dff92626428ab93571c948b55be4c4cddaf91e19"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "国父拒直接民主",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卢梭（'民粹的民主将导致多数人的暴政'）与麦迪逊、亚当斯（原话）；政见针锋相对的两人看法一致（10715）；国父据此对直接民主保持警惕（10719-10721）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0102-06",
+   "unit_id": "SG3-U0102"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0102",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "纯史实叙述：伯罗奔尼撒战争源起与双方同盟（10635-10641）、伯利克里战略与克里昂民粹决策错过和局（10647-10665）、阿尔西比亚德斯远征西西里与两次流放（10675-10685）、八将追责审判经过（10689-10691）；雅典败因与民主缺陷的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第084封信雅典民主：直接民主缺陷/被自己打败/商业文明软肋/民粹选最糟/先懂后判/国父引述E2共6卡；战史X4"
+}

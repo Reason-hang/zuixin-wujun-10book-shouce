@@ -1,0 +1,157 @@
+{
+ "unit_id": "SG3-U0103",
+ "book_code": "SG3",
+ "extractor": "EXT-SG6",
+ "batch_id": "T-P3b-B-050",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "占土地不算建成帝国：让臣民从心里认可并有效管理，帝国才算建成",
+   "quote": "从心里认可这个国家",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10747,
+    "end_line": 10751,
+    "fingerprint": [
+     "从心里认可",
+     "有效的管理"
+    ],
+    "sha1": "c7ff332f4ec025bbc8dd22f4a16741c20bf370cd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-1"
+   ],
+   "concept_key": "帝国建成在人心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "罗马城不是一天建起来，帝国建立同样需长期积累（10747）；不止指派官员分封诸侯（10749）；划重点1（10845）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0103-01",
+   "unit_id": "SG3-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理庞大疆域要因地制宜：按文明程度与文化一致性分区分类治理",
+   "quote": "根据不同地域采用不同的方法",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10783,
+    "end_line": 10785,
+    "fingerprint": [
+     "因地制宜",
+     "同心圆"
+    ],
+    "sha1": "bc7b19866b4c54c21575e45ee54da6d4fd2ce41f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-1"
+   ],
+   "concept_key": "因地制宜治理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "疆域分三部分构成同心圆：希腊化区宽宏自治、西部拉丁化驻军建设、巴尔干黑海区任其自然（10785-10807）；划重点2（10847）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0103-02",
+   "unit_id": "SG3-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "疆域能维持多大除受地理边界限制还受限于交通：交通越发达管得越远",
+   "quote": "能够有效管理的距离越远",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10813,
+    "end_line": 10813,
+    "fingerprint": [
+     "交通",
+     "地理边界"
+    ],
+    "sha1": "56615afbf418b847911c2858079f92112e9d3c84"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-2"
+   ],
+   "concept_key": "交通限定管理半径",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "长久稳定统治还需交通这一物理条件（10813）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0103-03",
+   "unit_id": "SG3-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "合理治理结构加发达交通网络带来有效管辖与商业繁荣，全球化仍适用",
+   "quote": "促进商业的繁荣发展",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10837,
+    "end_line": 10839,
+    "fingerprint": [
+     "治理结构",
+     "全球化"
+    ],
+    "sha1": "4a9dfc0a6950afbb7aabf367acc31464809f43ba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "治理交通促商业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "罗马公路网与邮政支撑地中海贸易繁盛（10815-10827，史实）；划重点3（10849）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0103-04",
+   "unit_id": "SG3-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "疆域扩大后难以用过去民主方式有效管理，需把权力一定程度集中",
+   "quote": "需要把权力在一定程度上集中起来",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 10781,
+    "end_line": 10781,
+    "fingerprint": [
+     "屋大维",
+     "元老院"
+    ],
+    "sha1": "200af592163f50f098b12bea6371981a48d26a2a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "扩疆需集中权力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "屋大维削元老院三手段为史实（10771-10777，X4）；呼应C-SG3-U0101-03初创企业决策独断",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0103-05",
+   "unit_id": "SG3-U0103"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0103",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "罗马帝国治理史实叙述：屋大维削弱元老院三手段与双权力中心沿革（10765-10779）、同心圆三区统治细节与驻军建设（10787-10809）、8万公里公路网与邮政系统及商业繁荣（10815-10829）、罗马梦与中世纪千年衰退（10829-10835）；治理的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第085封信罗马辉煌：帝国建成在人心/因地制宜/交通限定管理半径/治理交通促商业/扩疆集中权力5卡；治理史实X4"
+}
