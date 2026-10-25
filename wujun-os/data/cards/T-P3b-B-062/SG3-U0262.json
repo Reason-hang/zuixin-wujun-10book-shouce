@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG3-U0262",
+ "book_code": "SG3",
+ "extractor": "EXT-SG18",
+ "batch_id": "T-P3b-B-062",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "维特根斯坦：我的语言的极限意味着我的世界的极限",
+   "quote": "语言的极限意味着我的世界的极限",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27495,
+    "end_line": 27495,
+    "fingerprint": [
+     "语言的极限",
+     "相互理解的媒介"
+    ],
+    "sha1": "8bea316624ed11d0fd925ad032ee79594b8a2fdf"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "语言极限即世界极限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=维特根斯坦；语言是相互理解的媒介，无法被语言表达的想法无法被理解（27495）；对于不可言说的我们必须保持沉默同出《逻辑哲学论》（27495）；吴军取用见C-SG3-U0262-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0262-01",
+   "unit_id": "SG3-U0262"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "维特根斯坦语言图像论：语言是再现真实世界的图像，再现依靠逻辑",
+   "quote": "再现真实世界的图像",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27473,
+    "end_line": 27473,
+    "fingerprint": [
+     "语言图像论",
+     "逻辑"
+    ],
+    "sha1": "0d0120c22c3b3fd6edd5ccc69356fff935ee9ac6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "语言图像论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=维特根斯坦；语言与世界共享逻辑（27473）；灵感来自律师用模型还原车祸的新闻（27467，史实归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0262-02",
+   "unit_id": "SG3-U0262"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "维特根斯坦：命题分永真句、矛盾句与无意义命题；数学定理本质是永真句",
+   "quote": "从本质上讲都属于永真句",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27483,
+    "end_line": 27487,
+    "fingerprint": [
+     "永真句",
+     "矛盾句",
+     "没有意义"
+    ],
+    "sha1": "71fb93edb30c6f04124db47670f7418b30e5fea7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "命题三分类与永真句",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=维特根斯坦；命题=可判真伪的陈述句（27475）；单身汉永真句例（27483）；卡巴地矛盾句例（27485）；死亡是什么即无意义命题例（27489）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0262-03",
+   "unit_id": "SG3-U0262"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "维特根斯坦：理性认知也有极限，科学之外还有价值与宗教问题",
+   "quote": "科学研究不可能解决所有问题",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27499,
+    "end_line": 27501,
+    "fingerprint": [
+     "理性的认知",
+     "价值问题"
+    ],
+    "sha1": "ed9de77dac1757cc412f04bded059efdbe414e0c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "理性认知的极限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=维特根斯坦；技术已实现却无法应用于社会多因涉及科学之外的价值问题（27501）；吴军应用句见C-SG3-U0262-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0262-04",
+   "unit_id": "SG3-U0262"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学技术能做到某件事，不等于人们就可以去做那件事",
+   "quote": "不等于人们就可以去做那件事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27499,
+    "end_line": 27501,
+    "fingerprint": [
+     "科学技术",
+     "价值问题"
+    ],
+    "sha1": "ed9de77dac1757cc412f04bded059efdbe414e0c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "科技能做到不等于可做",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接维特根斯坦理性有极限之说（27499）；原话见C-SG3-U0262-04；划重点（27511-27515）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0262-05",
+   "unit_id": "SG3-U0262"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思维、表达与交往能力都受限于语文水平，所以要学好语文",
+   "quote": "都受限于我们的语文水平",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27497,
+    "end_line": 27497,
+    "fingerprint": [
+     "学好语文",
+     "表达能力"
+    ],
+    "sha1": "bd69e32177dc88f5c66c597f60870742f404cb48"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "语文水平限定思维表达",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应语言极限说（27497前段）；与他人交往能力也受限于语文水平（27497）；与第223封语言能力是智力一部分相关（28189）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0262-06",
+   "unit_id": "SG3-U0262"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0262",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "维特根斯坦生平与成书史：欧洲最富家族与勃拉姆斯马勒常客、师从玻尔兹曼未果、柏林曼彻斯特学航空工程、弗雷格罗素引荐、一战主动参军获勋、《逻辑哲学论》战时完成与出版经过、法庭模型还原车祸的启发轶事（27443-27461、27467），纯人物史实科普；其思想已按转述抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第217封：维特根斯坦语言极限/语言图像论/命题三分类/理性认知极限成卡，吴军语文水平限定思维表达与科技能做到不等于可做为本人卡；生平史实归X4"
+}

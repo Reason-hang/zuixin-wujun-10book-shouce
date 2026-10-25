@@ -1,0 +1,261 @@
+{
+ "unit_id": "SG3-U0266",
+ "book_code": "SG3",
+ "extractor": "EXT-SG18",
+ "batch_id": "T-P3b-B-062",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "言论是否有理看前提、逻辑与结论检验，而不是看哪方嗓门大",
+   "quote": "而不是看哪一方的嗓门大",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27867,
+    "end_line": 27869,
+    "fingerprint": [
+     "前提假设",
+     "经得起检验"
+    ],
+    "sha1": "b80d724f2992e3372170f3f3d29e37773dc3e654"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "诉诸大众谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "网络争论比谁支持者多现象（27865）；法律案件靠舆论造势改变结果之危险（27869）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-01",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常言道、众所周知是假托大众，利用诉诸大众心理引导他人",
+   "quote": "假托大众的想法",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27871,
+    "end_line": 27875,
+    "fingerprint": [
+     "常言道",
+     "众所周知"
+    ],
+    "sha1": "72ba37f705edb20a831468451969115b3bc65243"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "假托大众",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "好铁不打钉好男不当兵是个别观点甚至偏见、且属不当比喻（27873）；精华水广告众所周知例（27875）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-02",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从产品受欢迎到该选择隔着好几环；流行与排名不等于适合自己需求",
+   "quote": "中间还隔着好几环",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27879,
+    "end_line": 27883,
+    "fingerprint": [
+     "销量最高",
+     "排名"
+    ],
+    "sha1": "d6feb7f6d665e07277fc8843cb7dd43175f27afe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "流行不等于适合",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "买销量最高汽车、直播网红产品例（27879）；销量高或因宣传广价格低、与实际需求不一定匹配（27881）；大学排名是综合评价、不反映各维度特点（27883，择校议题归X5）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-03",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "名人名言能否作论证证据，要看是否符合语境与上下文逻辑",
+   "quote": "要分场合",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27893,
+    "end_line": 27893,
+    "fingerprint": [
+     "精辟",
+     "语境"
+    ],
+    "sha1": "42523fda7bed87d00600be415a1aded8663b8eb9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "名言须合语境",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "名言优点在精辟、有感染力、易被接受（27893）；巴麦尊原话例见C-SG3-U0266-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-04",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴麦尊原话要求议员恪尽职守为国谋公利，断章取义成唯利是图借口",
+   "quote": "为国家谋求这些利益",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27891,
+    "end_line": 27891,
+    "fingerprint": [
+     "巴麦尊",
+     "断章取义"
+    ],
+    "sha1": "1fe20c0f39458d0939090a0f2fe405dd9c7d7f2e"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "巴麦尊名言原语境",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴麦尊（英国首相巴麦尊爵士）；常被引用成没有永恒的朋友只有永恒的利益，原话为议会讲话要求为国家谋求公利（27891）；语境判断见C-SG3-U0266-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-05",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专家意见非正确结论的充分条件；未知科学领域权威不比常人更正确",
+   "quote": "并不是得出正确结论的充分条件",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27895,
+    "end_line": 27897,
+    "fingerprint": [
+     "证据和实验",
+     "未知的科学领域"
+    ],
+    "sha1": "2f0cc59489eecc8b5546e9c2d7ad9628693eb23f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "权威的适用边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "科学知识要通过证据和实验获得而非通过权威（27895）；权威因过去正确而权威，已证实知识中更准确（27897）；权威犯错史例：潘特24对染色体沿用近30年、李森科错误遗传理论致苏联落后（27903）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-06",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尔·萨根：不因结论来自权威就相信，权威须如常人证明论点",
+   "quote": "不因为结论来自权威就相信它",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27899,
+    "end_line": 27901,
+    "fingerprint": [
+     "卡尔·萨根",
+     "证明自己的论点"
+    ],
+    "sha1": "a1ea0bf8ccf18671d986a52e99e545e7ba301bb4"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "不因权威而信",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尔·萨根（物理学家）；太多来自权威的结论后来被证明是错误的（27901）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-07",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "克服诉诸权威：尊重事实、及时更新常识、依逻辑推理判断不盲从",
+   "quote": "尊重事实",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27929,
+    "end_line": 27929,
+    "fingerprint": [
+     "群盲",
+     "不要盲从"
+    ],
+    "sha1": "73e32ba45c28bbec1ee3f516986572c5c0413f3c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "克服诉诸权威",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谬误根源在演化与社会发展中形成的心理认知偏见、比其他谬误难消除（27907-27911）；米尔格拉姆实验穿白大褂服从50%降至20%（27915）；阿希从众效应59%认可错误答案（27923）；许多人同陷则成群盲（27929）；划重点3（27943）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-08",
+   "unit_id": "SG3-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "坏血丑闻站台者皆医学外行：名人造势利用诉诸不当权威谬误",
+   "quote": "医学领域之外的名人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27927,
+    "end_line": 27927,
+    "fingerprint": [
+     "霍尔姆斯",
+     "诉诸不当权威"
+    ],
+    "sha1": "1a7c4b8cbced944ef1e2e3db30567f1b458f39d3"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "诉诸不当权威坏血案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "霍尔姆斯获基辛格、奥巴马、克林顿背书，估值90亿美元、被称女版乔布斯，后证伪（27927）；诉诸不当权威=所倚对象可能与问题领域无关（27925）；报道她的也是福布斯财富等非医学媒体",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0266-09",
+   "unit_id": "SG3-U0266"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0266",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "报考大学只看排名例句（27883）涉升学选择议题，作为诉诸大众谬误例证已并入K卡notes，不单独成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第221封：诉诸大众与诉诸权威谬误、名言须合语境、权威适用边界成卡，巴麦尊与卡尔·萨根转述卡并存，坏血丑闻案例独立成卡E3；择校排名例句归X5"
+}

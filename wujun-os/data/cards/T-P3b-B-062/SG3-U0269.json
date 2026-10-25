@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG3-U0269",
+ "book_code": "SG3",
+ "extractor": "EXT-SG18",
+ "batch_id": "T-P3b-B-062",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "脱离语言思维就会中断；思考时都会用到语言，多数时候用母语",
+   "quote": "脱离了语言，我们的思维就会中断",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28217,
+    "end_line": 28221,
+    "fingerprint": [
+     "母语来思考",
+     "思维就会中断"
+    ],
+    "sha1": "3b24a455defcb763150989fcf34ea8d26353d221"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "思维受限于语言",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三场景想象实验：表白场景、几何证明、安排会议（28203-28215）；吴军用英语思考计算机问题、思考生活复杂问题自动切回中文（28223）；曾鸣首本书文字像英文翻译（28225）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0269-01",
+   "unit_id": "SG3-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谷歌中文面试官无法用中文思考计算机问题：思维受限于语言",
+   "quote": "人的思维是受限于语言的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28199,
+    "end_line": 28199,
+    "fingerprint": [
+     "面试官",
+     "计算机科学"
+    ],
+    "sha1": "1cebd0b5854f8998806ca5f40aa3aad65132a206"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "领域语言与深入思考",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "面试官在上海长大、留美换专业学计算机、从未用中文思考计算机科学问题（28197）；术语中译都知道仍难用中文深入交流（28197）；与C-SG3-U0269-01同机理",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0269-02",
+   "unit_id": "SG3-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智商八维度中五项与语言直接相关；文史地好不是死记硬背而是聪明",
+   "quote": "五项和语言能力直接相关",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28243,
+    "end_line": 28249,
+    "fingerprint": [
+     "八个维度",
+     "背单词快"
+    ],
+    "sha1": "f9672bfc824b4519c2ac23d505d0a579116544a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "智力五维系于语言",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三个权威量表韦克斯勒斯坦福-贝内特（28233-28241）；背单词快过目不忘既测记忆力也测词汇量（28249）；阅读能力差影响自学、表达也未必好（28249）；听障人士手语唇语亦语言能力（28229）；智人胜尼安德特人或因语言促成更大群体（28231，转述一种演化观点）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0269-03",
+   "unit_id": "SG3-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智力发展六因素：父母智商与基因天定，家庭养育营养教育可为",
+   "quote": "前两个因素是老天爷决定的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28253,
+    "end_line": 28259,
+    "fingerprint": [
+     "NIH",
+     "六个"
+    ],
+    "sha1": "e2159418f6c6c93bc1846c908e80ac2f3837ecad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "智力六因素两定四为",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "NIH六因素：父母智商、基因、家庭构成、父母养育习惯方法、营养、教育（28253-28257）；父母智商非决定性、最终看自己基因构成（28261）；划重点3（28299）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0269-04",
+   "unit_id": "SG3-U0269"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0269",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "养育类型与家庭构成建议：健全友爱家庭助智力发展、专制权威宽松忽视四类型分法、权威型最利于智力发展、熊孩子成因、16岁后养育风格基本没影响、16-26岁仍可赶上（28265-28285），亲子教育方法"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第223封：思维受限于语言、谷歌面试官案例、智力五维系于语言、智力六因素成卡；养育类型与家庭构成建议归X5"
+}

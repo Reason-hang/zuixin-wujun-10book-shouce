@@ -1,0 +1,166 @@
+{
+ "unit_id": "SG3-U0261",
+ "book_code": "SG3",
+ "extractor": "EXT-SG18",
+ "batch_id": "T-P3b-B-062",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做真正学术研究读博是第一步：需扎实功底与广泛人脉，宜拜名导师",
+   "quote": "读博士要优先选导师",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27353,
+    "end_line": 27361,
+    "fingerprint": [
+     "名导师",
+     "人脉"
+    ],
+    "sha1": "4236c85a9287f61da7d1a1b2269510a3c4f396ca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "学术研究前提功底人脉",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "读者为大二学生问学术路径（27345）；读博士优先选导师、读硕士优先选学校（27353）；名教授看问题更深更远，光有术难以创新，做研究要对人类知识体系有贡献（27361）；大机构写报告非严格研究、须有人带（27363）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0261-01",
+   "unit_id": "SG3-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中小学通识课程是基本功，掌握不好人生只能达到应有高度的一半",
+   "quote": "最基本的通识课程",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27393,
+    "end_line": 27393,
+    "fingerprint": [
+     "通识课程",
+     "高度的一半"
+    ],
+    "sha1": "5f11783d365ef142c377c59d4b6ac585dce0d6b5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-2"
+   ],
+   "concept_key": "通识课程决定高度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "回应高中内容无用论（27387问）；四五门功课学好收入翻倍之喻（27393）；美国著名私立中小学从不放松课程教授（27391）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0261-02",
+   "unit_id": "SG3-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业平均寿命仅18年，吃老本靠不住；无本事怀璧其罪反受其害",
+   "quote": "吃老本是靠不住的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27395,
+    "end_line": 27397,
+    "fingerprint": [
+     "标普500",
+     "怀璧其罪"
+    ],
+    "sha1": "5fd1734570ac8dd3e8a92e0509e66c8650018e60"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "吃老本靠不住",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "标普500成份股平均寿命从1958年61年降至18年（27395，数据有时效性）；匹夫无罪怀璧其罪（27397）；富二代学二代官二代绝大部分非常努力（27399）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0261-03",
+   "unit_id": "SG3-U0261"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "丁肇中导师：理论不及杨振宁，往实验物理方向更有前途",
+   "quote": "往实验物理方向发展更有前途",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27409,
+    "end_line": 27409,
+    "fingerprint": [
+     "丁肇中",
+     "J 粒子"
+    ],
+    "sha1": "6be2d5ac83da729456382f4017de59ce696aef65"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "理论不及人转实验方向",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=丁肇中的博士导师（原书未具名）；丁肇中后发现J粒子获诺贝尔奖（27409）；概括见C-SG3-U0261-05",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0261-04",
+   "unit_id": "SG3-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝顶聪明者也要扬长避短；资质平平别做太消耗智力的事情",
+   "quote": "扬长避短",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27407,
+    "end_line": 27409,
+    "fingerprint": [
+     "资质平平",
+     "120"
+    ],
+    "sha1": "93d6c0fb2f2b730ff5fd60ffd669a333f32b5bec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "扬长避短择业方向",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "智商120以上可做研究有望诺奖、清北约120以上（《异类》统计转述，27407）；资质平平别做纯粹数学等耗智力研究（27407）；吴军博士毕业选应用领域（27409）；原话见C-SG3-U0261-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0261-05",
+   "unit_id": "SG3-U0261"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0261",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育问答：家长补同理心与心理学常识、孩子是需尊重的独立个体勿当私有财产、按孩子天性教育、学钢琴先自己有判断力勿跟风（27371-27383），亲子教育方法"
+  },
+  {
+   "unit_id": "SG3-U0261",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "升学语境：大二读者考研读博规划提问（27345），教育与升学选择议题；学术道路可迁移判断已按职业发展抽卡"
+  },
+  {
+   "unit_id": "SG3-U0261",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "相关阅读链接与《异类》电子书推广（27415-27423），载体与推广内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问40：学术研究前提与人脉、通识课程决定高度、吃老本靠不住、丁肇中扬长避短成卡；亲子教育与升学议题归X5，相关阅读推广归X1"
+}

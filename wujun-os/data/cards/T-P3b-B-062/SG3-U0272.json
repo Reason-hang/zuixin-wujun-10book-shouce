@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG3-U0272",
+ "book_code": "SG3",
+ "extractor": "EXT-SG18",
+ "batch_id": "T-P3b-B-062",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "赫尔巴特：知识分必要性目的（立足社会）与可能性目的（梦想）两类",
+   "quote": "可能性的目的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28579,
+    "end_line": 28583,
+    "fingerprint": [
+     "必要性",
+     "人生梦想"
+    ],
+    "sha1": "548915437da0fb1b6ea1dbdd60d2414cee6d9bb8"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "必要性与可能性知识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=赫尔巴特（科学教育学奠基人、《普通教育学》为西方教育科学开山之作，28525）；中小学通识教育属必要性类（28583）；吴军应用见C-SG3-U0272-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0272-01",
+   "unit_id": "SG3-U0272"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先确保谋生再追梦，混淆必要性与可能性，人生道路会越走越窄",
+   "quote": "让自己的人生道路越走越窄",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28585,
+    "end_line": 28589,
+    "fingerprint": [
+     "谋生",
+     "立业成人"
+    ],
+    "sha1": "58243dd1eaaf6b3b7a2ea60fe7f71b2076c14d9b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "先谋生后追梦",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "艺术家例：先学编程谋生（必要性）再追梦艺术（可能性）（28585）；高学历对立业成人无用则只生自负、无好处（28589）；转述见C-SG3-U0272-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0272-02",
+   "unit_id": "SG3-U0272"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "赫尔巴特：教育可经训育从守规则到反思六维度决定性地塑造性格",
+   "quote": "性格最终会决定命运",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 28593,
+    "end_line": 28595,
+    "fingerprint": [
+     "训育",
+     "六个维度"
+    ],
+    "sha1": "d60d11c2aa824f937239e973453d65d0a85374af"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "训育六维塑性格",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=赫尔巴特；性格决定命运为吴军引述共识句（28593）；六维度=守规则习惯、判断力、适应环境、克服冲动涵养、道德水准、反思能力（28595）；六方面做好则性格更成熟（28597）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0272-03",
+   "unit_id": "SG3-U0272"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0272",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "赫尔巴特育儿主体内容：教育者须懂心理学并观察发现孩子特长勿跟风、孩子需要管束两提醒（管束注意方式方法、做错事须接受处罚以免小错成大错并对被伤害孩子公平）、惩戒规则必要性、库帕蒂诺学区报警处理纸条威胁案例、德育第一（28533-28577），亲子教育方法"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第226封赫尔巴特育儿为主（X5），降档抽3卡：必要性与可能性知识（转述+本人R1对）与训育六维塑性格（转述）"
+}

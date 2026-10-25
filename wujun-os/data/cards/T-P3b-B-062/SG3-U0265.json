@@ -1,0 +1,254 @@
+{
+ "unit_id": "SG3-U0265",
+ "book_code": "SG3",
+ "extractor": "EXT-SG18",
+ "batch_id": "T-P3b-B-062",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "简单二元思维只有非黑即白、忽视灰度，把不需要对立的事情对立起来",
+   "quote": "非黑即白的逻辑",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27755,
+    "end_line": 27759,
+    "fingerprint": [
+     "灰度",
+     "对立起来"
+    ],
+    "sha1": "69b138bd144176fff20560b8035fcc029555b72a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "假两难谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不做大做强不等于做小做弱，可小而精小而强（27751，见C-SG3-U0265-09）；不支持这件事不等于不支持一切、好友也未必需支持此事，很多人这样失去朋友（27759）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-01",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "评价人不能简单肯定或否定；人未盖棺论定都可能改变，形象是多面的",
+   "quote": "要么简单肯定，要么简单否定",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27761,
+    "end_line": 27767,
+    "fingerprint": [
+     "盖棺论定",
+     "多面"
+    ],
+    "sha1": "e277a83edf6b5cb1d00e7e7e4958256a6dd4593a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "评价的多面性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不同时间可能得出不同结论（27765）；张三好人李四坏人之争即被二元思维驱使（27767）；重要人物退出历史舞台很久影响才显现（27767）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-02",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "诉诸暴力谬误把不相干的X与Y扯在一起威胁；Y并非X的必然结果",
+   "quote": "扯到一起",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27773,
+    "end_line": 27779,
+    "fingerprint": [
+     "诉诸暴力",
+     "强制让Y 发生"
+    ],
+    "sha1": "b2969431a0088d5c484d822b169eab7b48327d62"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "诉诸暴力谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "家长训孩子要饭、老板威胁下属例（27773）；影视剧不雅照威胁例：答应反被拿捏越陷越深（27783）；关键在X与Y有无必然联系，老师说不考试就不及格是事实非谬误（27795-27797）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-03",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "遇把柄胁迫应果断止损；代价既已付出，唯一出路是担责不再犯",
+   "quote": "及时止损",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27785,
+    "end_line": 27793,
+    "fingerprint": [
+     "把柄",
+     "无法挽回"
+    ],
+    "sha1": "dc4996bc2dc6f8c3c360fe3f783aff7bbd9c2891"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "把柄止损与担责",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "怕把柄暴露而妥协即走进对方假逻辑（27787）；错事败露代价已付无法挽回（27789-27791）；恋爱中诉诸怜悯与暴力并发例、戳穿逻辑后永不再来往（27815）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-04",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "诉诸怜悯谬误在讲感情处建立不存在的因果；该讲道理时讲感情是谬误",
+   "quote": "并不存在的因果关系",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27803,
+    "end_line": 27805,
+    "fingerprint": [
+     "诉诸怜悯",
+     "学业成绩"
+    ],
+    "sha1": "817bb52383e11631ce8eabdd7d18846f01c7e0f7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "诉诸怜悯谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "学生求及格、下属上级亲子甲乙方债主等场景同构（27807）；考试舞弊者以出身贫寒辩解例（27809）；诉诸怜悯是诉诸情感的表现（27813）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-05",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "这个世界不欠任何人任何东西，想拥有什么就要达到相应的条件",
+   "quote": "这个世界不欠任何人任何东西",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27811,
+    "end_line": 27811,
+    "fingerprint": [
+     "公平的考试竞争",
+     "好日子"
+    ],
+    "sha1": "cc0444cb65d23b70a16915d6be3139852e8e2a15"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "世界不欠任何人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "能上好学校条件是公平竞争中达到录取标准；好日子看对社会贡献是否足够多（27811）；划重点3（27847）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-06",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一遇事就讲特例开脱，通用原则形同虚设；此类错误背后常有私心",
+   "quote": "形同虚设",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27821,
+    "end_line": 27827,
+    "fingerprint": [
+     "特例",
+     "私心"
+    ],
+    "sha1": "8fece8e3bd4388c6e967bea03196cb9f65839c75"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "片面辩护谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "老板批评公司的人除外例（27821）；地域歧视又说你除外之自相矛盾（27825）；不便戳穿也要明白其背后缘故（27827）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-07",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逻辑错误有时是有意为之的陷阱；学逻辑也为保证头脑清晰不落陷阱",
+   "quote": "有意为之",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27829,
+    "end_line": 27833,
+    "fingerprint": [
+     "陷阱",
+     "头脑清晰"
+    ],
+    "sha1": "36e0818a794a2577f306052b0939ce755e121e5b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "逻辑错误可能有意",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "学逻辑两用：与人讨论辨析道理+自保（27829）；与做错数学题不同（27831）；明白这一点就不容易被绕进去（27833）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-08",
+   "unit_id": "SG3-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "信息时代企业目标不是做大做强做百年老店，而是赶上技术进步大潮",
+   "quote": "不断赶上下一次技术进步的大潮",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 27747,
+    "end_line": 27753,
+    "fingerprint": [
+     "做大做强",
+     "小而精"
+    ],
+    "sha1": "41f105aceb8713c429de26d9463071500d75a78d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "信息时代企业目标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出自吴军《硅谷之谜》（27747）；六家公司员工少人均产值高、产品线短例（27751）；标普500寿命18年vs日本僵尸企业为存在而存在（27753，数据有时效性）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0265-09",
+   "unit_id": "SG3-U0265"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第220封：假两难/诉诸暴力/诉诸怜悯/片面辩护四谬误及把柄止损、世界不欠任何人成卡；信息时代企业目标判断归D08-1"
+}
