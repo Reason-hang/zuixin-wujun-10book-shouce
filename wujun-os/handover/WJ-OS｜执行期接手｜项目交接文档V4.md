@@ -246,7 +246,7 @@ EP-0 ✅ → P0 ✅ → P1 ✅ → P2 ✅
   - `data/batches/batch_plan.json`：108 批权威清单（唯一单元归属真相源；批号按书分组见 D-35）
   - `data/gold/`：gold_v1 + gate_c_r5~r11_20261025/（r9 首轮留痕+r9b 复验）
   - `data/rules/concept_keys.csv`：3,569 键（WJ2 验收前需再刷新）
-  - `state/`：journal 至 J-092；board=P3b 32/86（谷歌 21/21+单书 PASS、WJ2 12/22）；decisions 至 D-40；changes 至 CHG-025
+  - `state/`：journal 至 J-092；board 更正：V4 写就时实停在 22/86（J-078 后未随批更新，"32/86"为快照笔误——2026-10-25 对抗式审查发现并修复，此后 board 已随批更新至 35/86，见 ledger/WJ-OS｜P3b执行期对抗式审查｜审查报告.md）；decisions 至 D-40；changes 至 CHG-025
   - `ledger/`：P3a 收口报告、P3 中期对抗式审查、批次工单清单、批次1-9回顾
   - `logs/`：cards_verify_B-021~031、gate_c_r5~r11、book_GG.md（PASS）等
   - `dist/wujun-os-pack_20261025.zip`（每批重打，最新 SHA 见 MANIFEST）
