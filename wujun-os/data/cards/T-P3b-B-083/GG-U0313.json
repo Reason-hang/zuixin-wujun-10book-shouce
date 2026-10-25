@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0313",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0313-01",
+      "unit_id": "GG-U0313",
+      "speaker": "吴军本人",
+      "claim_text": "打合乎逻辑的比方：马儿跑不吃草不掉膘=能量守恒（记了三十年）；茶壶茶碗之喻毫无逻辑关系不让人信服、留下把柄",
+      "quote": "瞎打比方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20892,
+        "end_line": 20898,
+        "sha1": "06c2720aad8c1fac88d2aafa53a174a0ac2b21c6",
+        "fingerprint": [
+          "比方",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "逻辑比方",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大学物理老师的能量守恒比喻（20895-20896）；辜鸿铭茶壶茶碗（20897-20898）。"
+    },
+    {
+      "claim_id": "C-GG-U0313-02",
+      "unit_id": "GG-U0313",
+      "speaker": "吴军本人",
+      "claim_text": "概念延伸要合理：华盛顿就职时1美元股市变上千万vs黄金几百美元是合理延伸；每天挣1%=股神、按比例放大抓捕数是不合理延伸",
+      "quote": "将概念合理地延伸了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20899,
+        "end_line": 20903,
+        "sha1": "9107dacf78359543b9359e44a07d513d4e873b72",
+        "fingerprint": [
+          "延伸",
+          "合理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D03-1"
+      ],
+      "concept_key": "合理延伸",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "某天1%是偶然事件不具必然性（20901）；特定区域的数据不能推广到全局（20902-20903）。"
+    },
+    {
+      "claim_id": "C-GG-U0313-03",
+      "unit_id": "GG-U0313",
+      "speaker": "吴军本人",
+      "claim_text": "强迫对方忽略细节：人短时间理解不了也记不住细节，好专业人士不提供细节——把注意力放在要点上",
+      "quote": "强迫听众忽略细节",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20905,
+        "end_line": 20913,
+        "sha1": "425fdcb4ea3c4f5d8ca2e2ab5bebec68ebef44c1",
+        "fingerprint": [
+          "细节",
+          "要点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "强迫忽略细节",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "毕加索抽象即让你忘记细节只关注结构、推崇国画过滤细节凸现灵魂（20909-20910）；展开不必要细节会拖堂收不了场（20912-20913）。"
+    },
+    {
+      "claim_id": "C-GG-U0313-04",
+      "unit_id": "GG-U0313",
+      "speaker": "吴军本人",
+      "claim_text": "交流时故意忽略一些误差：1K=1024、4K=4096线——为好懂允许误差；整数后的零只代表数量级，模糊数字反而更好",
+      "quote": "故意对一些明显的误差视而不见",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20917,
+        "end_line": 20925,
+        "sha1": "494db5fa7fe73a94148a207b57824111af4ad2c4",
+        "fingerprint": [
+          "误差",
+          "数量级"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D04-1"
+      ],
+      "concept_key": "允许误差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "4K误差2.4%（20918）；英语5000年=±500年、确数要加小数点（20921-20922）；金字塔4600年前比区间更有古老感（20925）。"
+    },
+    {
+      "claim_id": "C-GG-U0313-05",
+      "unit_id": "GG-U0313",
+      "speaker": "吴军本人",
+      "claim_text": "讲不清时试图讲更专业的基本知识是走错了路：证监会朋友圆场——内燃机车=随地大小便、电动车=去上厕所",
+      "quote": "这其实是走错了路",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20928,
+        "end_line": 20932,
+        "sha1": "20e947a9acdf017530cb4a3f046c1746a65cfd40",
+        "fingerprint": [
+          "走错了路",
+          "圆场"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "别用专业救场",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "比亚迪老总给记者算燃煤排放账、会场乱糟糟（20929-20930）；用大家能理解的语言讲专业内容（20932）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0313",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "20939-20942行思考题与三门问题附录为运营互动与预习材料"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第192封信：把专业问题讲清楚（下）5卡。"
+}

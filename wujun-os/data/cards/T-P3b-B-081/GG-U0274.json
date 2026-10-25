@@ -1,0 +1,183 @@
+{
+  "unit_id": "GG-U0274",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0274-01",
+      "unit_id": "GG-U0274",
+      "speaker": "吴军本人",
+      "claim_text": "要学一系列方法与应变策略的行动指南，而非一试就灵的绝招",
+      "quote": "相对完整的方法和应对原则",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18287,
+        "end_line": 18291,
+        "sha1": "45734ad82ce57a95cdbe7ce3141c7ab4313f7c7a",
+        "fingerprint": [
+          "绝招",
+          "指南"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D05-1"
+      ],
+      "concept_key": "指南胜于绝招",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "答读者@博览群书；下棋支招类比；大学教育=人生指南（教育语境部分记X5）；互引既有概念键\"指南针优于地图\"(GJ)"
+    },
+    {
+      "claim_id": "C-GG-U0274-02",
+      "unit_id": "GG-U0274",
+      "speaker": "吴军本人",
+      "claim_text": "事后觉得是直觉的事，在被想出来之前并不容易想象",
+      "quote": "今天我们觉得是直觉的事情",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18302,
+        "end_line": 18303,
+        "sha1": "d5932b91b21eaa2c8abe03a408762cd30289a7c2",
+        "fingerprint": [
+          "直觉",
+          "想象"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "直觉的事先不易想象",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@吴孟晟，由印刷术为何晚出引出；印刷史考据部分记X4；互引既有概念键\"直觉不可靠\"(SX)语义不同"
+    },
+    {
+      "claim_id": "C-GG-U0274-03",
+      "unit_id": "GG-U0274",
+      "speaker": "吴军本人",
+      "claim_text": "硅谷要完式论断无法证伪，不走的钟一天也能蒙对两次",
+      "quote": "不走的钟一天还能蒙对两次",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18325,
+        "end_line": 18327,
+        "sha1": "c4a20c195c33b80b6d8eb4bb2453cd8be9634f5b",
+        "fingerprint": [
+          "证伪",
+          "钟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "停钟一天对两次",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@Rengong；60年代以来历次\"硅谷要完\"史实为论据并入本卡；互引既有概念键\"零概率谬误\"不同义"
+    },
+    {
+      "claim_id": "C-GG-U0274-04",
+      "unit_id": "GG-U0274",
+      "speaker": "吴军本人",
+      "claim_text": "贡献超过平均水平的人，收入增长一定超过成本上涨",
+      "quote": "收入增长一定是超过成本的上涨的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18336,
+        "end_line": 18336,
+        "sha1": "de31dba90f64d307f927cae5bd4cef3c86aa1ce3",
+        "fingerprint": [
+          "贡献",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D06-1"
+      ],
+      "concept_key": "贡献定收入增长",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军明示适用于中国北上广深；互引既有概念键\"回报取决于社会贡献\"(JS)"
+    },
+    {
+      "claim_id": "C-GG-U0274-05",
+      "unit_id": "GG-U0274",
+      "speaker": "吴军本人",
+      "claim_text": "买房子要看地点，好地点房产长期涨幅远超平均水平",
+      "quote": "买房子要看地点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18339,
+        "end_line": 18340,
+        "sha1": "5090fa5480814ffb3818e121b8aebbd0db39f1c4",
+        "fingerprint": [
+          "地点",
+          "房子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D09-1"
+      ],
+      "concept_key": "买房看地点",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "论据：Palo Alto房价60年涨600倍 vs 全美40倍；互引既有概念键\"买房先看使用价值\"(JS)"
+    },
+    {
+      "claim_id": "C-GG-U0274-06",
+      "unit_id": "GG-U0274",
+      "speaker": "吴军本人",
+      "claim_text": "硅谷无情淘汰缺乏竞争力的公司和个人，把资源重分给高贡献者",
+      "quote": "淘汰没有竞争能力的公司和个人",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18337,
+        "end_line": 18337,
+        "sha1": "ae635d905affa57cfd330a2fa3d7781d25a9d78f",
+        "fingerprint": [
+          "淘汰",
+          "资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "硅谷淘汰重配资源",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "《硅谷之谜》线索：重刊文章照常抽卡并留跨书线索；互引既有概念键\"没有不死的公司\""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0274",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者@博览群书/@吴孟晟/@吃鱼/@风木/@Rengong五段提问原文仅作引子，不抽卡"
+    },
+    {
+      "unit_id": "GG-U0274",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "雕版印刷术发明史与印章考据为技术史科普，无可迁移判断（其直觉判断已入C-GG-U0274-02）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "五组问答中吴军回应成卡6张，读者原文与印刷史排除"
+}

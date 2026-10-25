@@ -1,0 +1,77 @@
+{
+  "unit_id": "GG-U0263",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0263-01",
+      "unit_id": "GG-U0263",
+      "speaker": "吴军本人",
+      "claim_text": "排名只能从几个可量化维度衡量，很难评估对象的特色",
+      "quote": "很难评估各个大学的特色",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17545,
+        "end_line": 17547,
+        "sha1": "0baec8db4d6b11aa8482e197ff57684ca31532da",
+        "fingerprint": [
+          "排名",
+          "特色"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "排名难评估特色",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "教育语境但判断可迁移至一切榜单；大学排名只量化入学成绩/毕业率等指标。教育制度主体见本单元X5"
+    },
+    {
+      "claim_id": "C-GG-U0263-02",
+      "unit_id": "GG-U0263",
+      "speaker": "吴军本人",
+      "claim_text": "靠名校光环在社会上混，攒下的老本迟早被吃光",
+      "quote": "过一段时间就会被吃光",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17549,
+        "end_line": 17551,
+        "sha1": "16531ae969d41eb1644f5a33311e9cbfc9095669",
+        "fingerprint": [
+          "老本",
+          "名气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-1"
+      ],
+      "concept_key": "光环老本会被吃光",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "原句：好大学让毕业生无需提校名即可证明自己（教育语境并入本卡）；互引既有概念键\"人脉依赖组织光环\"(JS)"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0263",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "美国大学五分类/藤校沿革/USNews排名列举/好大学四条件/择校看排名等教育制度内容整体排除，仅抽两条可迁移判断"
+    },
+    {
+      "unit_id": "GG-U0263",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "思考题（大学是年轻人的家）为运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "教育制度主体X5，仅抽排名局限与光环老本两条可迁移判断"
+}

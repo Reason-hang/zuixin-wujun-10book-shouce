@@ -1,0 +1,207 @@
+{
+  "unit_id": "GG-U0276",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0276-01",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "焦虑两因：欲望实现不了与凡事想把控；两解：放弃妄念与提高成功率",
+      "quote": "焦虑的两个根本原因",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18431,
+        "end_line": 18433,
+        "sha1": "44b7894e93d739e79bb991b2011a5300f13e59f5",
+        "fingerprint": [
+          "焦虑",
+          "妄念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "焦虑两因两解",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "第欧根尼无欲则刚典故并入；\"不要让孩子继承焦虑\"的亲子落点记X5；互引既有概念键\"焦虑与打基础\"(GJ)语义不同"
+    },
+    {
+      "claim_id": "C-GG-U0276-02",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "承认天命与不可控是不迷信，凡事人定胜天才是迷信",
+      "quote": "承认天命，承认自己不能控制一切",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18436,
+        "end_line": 18439,
+        "sha1": "dd4256045459687ac5c4199097528e3aca806135",
+        "fingerprint": [
+          "天命",
+          "人定胜天"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D03-2"
+      ],
+      "concept_key": "天命即不可控维度",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "复用既有概念键\"天命即不可控维度\"(GJ)，跨书复现；互引\"尽人事听天命\""
+    },
+    {
+      "claim_id": "C-GG-U0276-03",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "世上没有保证成功的因果关系，只有成功率高低之分",
+      "quote": "只是成功率高低不同而已",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18441,
+        "end_line": 18442,
+        "sha1": "f357716ead4ae572cbbe0919248bb9622907c0fa",
+        "fingerprint": [
+          "因果关系",
+          "成功率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D01-1"
+      ],
+      "concept_key": "无绝对因果只有成功率",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：学位越高收入越高是统计规律非必然；互引既有概念键\"相关不等于因果\"\"成败条件概率\""
+    },
+    {
+      "claim_id": "C-GG-U0276-04",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "提高成功率要从成功中学习，失败者的建议如同噪音",
+      "quote": "尽可能地从成功中学习",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18444,
+        "end_line": 18448,
+        "sha1": "43657ca3514e3f4530a242a60607f452414648a5",
+        "fingerprint": [
+          "成功",
+          "噪音"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D03-2"
+      ],
+      "concept_key": "成功才是成功之母",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键\"成功才是成功之母\"(FZ|GJ|JS)，跨书复现；机器学习标注数据类比：高质量标注=成功经验，噪音=失败经验"
+    },
+    {
+      "claim_id": "C-GG-U0276-05",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "与上次错误不同的答案未必正确，别迷信吃一堑必长一智",
+      "quote": "不要迷信吃一堑就一定能长一智",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18450,
+        "end_line": 18452,
+        "sha1": "33a0bc7371756a99ec6353ad0dae9c2abca3f48a",
+        "fingerprint": [
+          "吃一堑",
+          "答案"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "吃一堑未必长一智",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2+2算错成5者的建议类比；互引既有概念键\"经验与犯错\"(FZ)"
+    },
+    {
+      "claim_id": "C-GG-U0276-06",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "明确读书作用的人把学校当登山阶梯，否则当成痛苦长跑",
+      "quote": "当成登山的阶梯",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18481,
+        "end_line": 18482,
+        "sha1": "500c632897532f34f5a0107f99083832f1a368fb",
+        "fingerprint": [
+          "阶梯",
+          "长跑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-3"
+      ],
+      "concept_key": "学校是登山阶梯",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "为什么学层面；互引既有概念键\"为有用之人而读书\"\"读书的非功利价值\""
+    },
+    {
+      "claim_id": "C-GG-U0276-07",
+      "unit_id": "GG-U0276",
+      "speaker": "吴军本人",
+      "claim_text": "文凭是新起点而非终点，把毕业当终点的人难有未来",
+      "quote": "并不是终点，又是一个新的起点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18490,
+        "end_line": 18491,
+        "sha1": "727ae1b727835922b12977d69b51ad41e341b5ca",
+        "fingerprint": [
+          "终点",
+          "起点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D06-1"
+      ],
+      "concept_key": "文凭是起点非终点",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "企业家再读MBA混头衔反例并入；\"任何是终点的事情，就不可能有未来\"；互引既有概念键\"职业天花板来自认识的局限性\""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0276",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "不要让孩子继承焦虑的亲子落点/代际隔断与T型人才/高考状元vs进士科举史实/杰斐逊史实等教育家庭内容排除，可迁移判断已抽7卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "走出死循环（上）成卡7张，亲子与科举部分X5"
+}

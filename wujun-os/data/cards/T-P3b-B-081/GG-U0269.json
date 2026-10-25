@@ -1,0 +1,52 @@
+{
+  "unit_id": "GG-U0269",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0269-01",
+      "unit_id": "GG-U0269",
+      "speaker": "吴军本人",
+      "claim_text": "教育的目的在于学会如何思考，而非只接受具体知识",
+      "quote": "学会如何思考",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17973,
+        "end_line": 17975,
+        "sha1": "e5643797ee68f7e28e345f29daebdc4726e033e5",
+        "fingerprint": [
+          "思考",
+          "知识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "学会思考重于接受知识",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "由哥大核心课程组引出，判断本身超出教育制度可迁移；互引既有概念键\"通识教育之义\""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0269",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "哥大规模/纽约校园/核心课程清单/学位与导师制等教育制度内容排除，仅抽学会思考一条"
+    },
+    {
+      "unit_id": "GG-U0269",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "思考题（对比三校差异）为运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "哥大介绍主体X5，抽学会思考一条可迁移判断"
+}

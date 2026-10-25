@@ -1,0 +1,52 @@
+{
+  "unit_id": "GG-U0272",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0272-01",
+      "unit_id": "GG-U0272",
+      "speaker": "史实",
+      "claim_text": "达特茅斯的成功在于把本科教学这一件事做到极致",
+      "quote": "把本科教学这一件事做到极致",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18194,
+        "end_line": 18195,
+        "sha1": "9ca9870a77dcbe3dcc185bfbcfbd79178630faf2",
+        "fingerprint": [
+          "达特茅斯",
+          "极致"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D05-1",
+        "D08-1"
+      ],
+      "concept_key": "做到极致",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（专注一事做到极致）独立成卡；吴军评述\"教好学生放在最重要位置\"；复用既有概念键\"做到极致\"(TD)；互引C-GG-U0270-03、既有键\"集中一点打磨产品\""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0272",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "达特茅斯学院案始末与私立机构法律地位等法律史内容排除，仅留其意义说明不入卡"
+    },
+    {
+      "unit_id": "GG-U0272",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "达特茅斯三特点（本科教学/培养精英/单一稳定）与达特茅斯计划等教育内容排除"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "校史与教育主体排除，抽达特茅斯极致案例一张E3"
+}

@@ -1,0 +1,66 @@
+{
+  "unit_id": "GG-U0309",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0309-01",
+      "unit_id": "GG-U0309",
+      "speaker": "吴军本人",
+      "claim_text": "成像分辨率与CMOS面积成正比、已接近半导体物理极限与镜头光学极限——不要指望分辨率再提高一个数量级",
+      "quote": "半导体的物理极限",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20648,
+        "end_line": 20653,
+        "sha1": "f8a2a8d67e93acbfaf8bda4b036cb4e262a54402",
+        "fingerprint": [
+          "CMOS",
+          "极限"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "分辨率物理极限",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "两束光挨太近互相干扰分不开（20653）；全幅有效像素约4500万（20654）；手机有效像素仅一两百万、标称高一个数量级（20657）。"
+    },
+    {
+      "claim_id": "C-GG-U0309-02",
+      "unit_id": "GG-U0309",
+      "speaker": "吴军本人",
+      "claim_text": "勿为标称指标花不必要的钱：实际分辨率达不到标称——注意被忽略的指标（最大曝光度、色彩动态范围）",
+      "quote": "花不必要的钱",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20690,
+        "end_line": 20696,
+        "sha1": "ac56d96758c0e848905ecbbccde5597baf78078c",
+        "fingerprint": [
+          "指标",
+          "动态范围"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D10-1"
+      ],
+      "concept_key": "指标幻觉",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "挑相机四原则：预算选大牌主流、体积重量、品牌积累、主要性能（20690-20696）；无反将取代单反（20673/20692）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "来信补充：相机与手机的区别（2卡）。"
+}

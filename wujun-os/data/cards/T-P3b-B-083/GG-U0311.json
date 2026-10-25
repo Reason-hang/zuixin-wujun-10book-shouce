@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0311",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0311-01",
+      "unit_id": "GG-U0311",
+      "speaker": "吴军本人",
+      "claim_text": "不要相信有完美的顶层设计：初衷再好到执行才发现问题，不断改良非常必要；适应性远比预测重要",
+      "quote": "不要相信有完美的顶层设计",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20809,
+        "end_line": 20809,
+        "sha1": "a27f25ff262f8b904f463a3e1a55ef510ef72ed6",
+        "fingerprint": [
+          "顶层设计",
+          "适应"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "无完美顶层设计",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "克林顿精明也想不到各国都钻NAFTA空子（20808）。"
+    },
+    {
+      "claim_id": "C-GG-U0311-02",
+      "unit_id": "GG-U0311",
+      "speaker": "吴军本人",
+      "claim_text": "一个人可能短期占所有人的便宜、长期占个别人的便宜，但没有人能永远占所有人便宜——这种想法属妄念",
+      "quote": "没有人能永远占所有人便宜",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20811,
+        "end_line": 20812,
+        "sha1": "1d70f5220efacbe6fdb5d2ac26b752fa98c1968c",
+        "fingerprint": [
+          "便宜",
+          "妄念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "占便宜的妄念",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "凡事怕吃亏要自己做的想法让自己失去各种机会、做得辛苦结果很惨（20812）。"
+    },
+    {
+      "claim_id": "C-GG-U0311-03",
+      "unit_id": "GG-U0311",
+      "speaker": "吴军本人",
+      "claim_text": "聪明生意人挣合理的钱：第一个月10单、一年后每月50-60单——进步可叠加；狠赚一笔的每月都得找新客户",
+      "quote": "进步是可叠加的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20813,
+        "end_line": 20814,
+        "sha1": "627af3edfda2db3eb1258f79bccb6fcb6e217cd8",
+        "fingerprint": [
+          "合理的钱",
+          "叠加"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-1"
+      ],
+      "concept_key": "挣合理的钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "中关村见外地人不了解行情狠赚一笔者一年后没什么增加（20813）。"
+    },
+    {
+      "claim_id": "C-GG-U0311-04",
+      "unit_id": "GG-U0311",
+      "speaker": "转述·第三方",
+      "claim_text": "冯梦龙《智囊》多给两吊钱：东西值更多就多给，免卖主明白后反悔上门讨要——预付合理溢价免去日后纠纷",
+      "quote": "省得他反悔",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20814,
+        "end_line": 20816,
+        "sha1": "a4b5513737d95f6bc094f3c52fc21a39d5dd73ac",
+        "fingerprint": [
+          "冯梦龙",
+          "反悔"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "多给两吊钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=冯梦龙《智囊全集》故事（20814）；卖主后来果然只找给5吊钱的人麻烦（20816）。"
+    },
+    {
+      "claim_id": "C-GG-U0311-05",
+      "unit_id": "GG-U0311",
+      "speaker": "吴军本人",
+      "claim_text": "争取权利不等于每件事利益最大化：应追求长远利益总和的最大化——长远利益一定建立在合作基础上",
+      "quote": "长远利益总和的最大化",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20819,
+        "end_line": 20819,
+        "sha1": "43ca688c2cf57ac65bc956322466d614b2212689",
+        "fingerprint": [
+          "合作",
+          "长远"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-1"
+      ],
+      "concept_key": "长远利益总和",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "国与国处理问题的方式是理性人处理问题方式的放大版（20782）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0311",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "20782-20808行美墨加贸易协定始末与条款解读为时政内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第190封信：美墨加贸易协定的启示（5卡）。"
+}

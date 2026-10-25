@@ -1,0 +1,130 @@
+{
+  "unit_id": "GG-U0330",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0330-01",
+      "unit_id": "GG-U0330",
+      "speaker": "吴军本人",
+      "claim_text": "阿姆达尔法则本质是做事优先级排序的原则，与把事做到极致不矛盾：瓶颈解决后降为次要矛盾，循环改进最终实现极致",
+      "quote": "做事优先级排序的原则",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22014,
+        "end_line": 22017,
+        "sha1": "85f581faf1b76a4087dea7aa33471ce30b4f0920",
+        "fingerprint": [
+          "阿姆达尔",
+          "瓶颈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-1"
+      ],
+      "concept_key": "优先级即法则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "内存读取占50%降到20%后，下次该改其他地方（22016）。"
+    },
+    {
+      "claim_id": "C-GG-U0330-02",
+      "unit_id": "GG-U0330",
+      "speaker": "吴军本人",
+      "claim_text": "量化度量、测试和数据非常重要：没有数据的量化度量前可凭经验判断但不准确；没有数据支持最好不要随便下结论",
+      "quote": "最好不要随便下结论",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22023,
+        "end_line": 22026,
+        "sha1": "dd12bfecac96b62919d321e5bcc11559a28de631",
+        "fingerprint": [
+          "量化",
+          "数据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "数据先于结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "计算机性能靠标准测试用例得出，现实问题常需自己设计统计（22024-22025）。"
+    },
+    {
+      "claim_id": "C-GG-U0330-03",
+      "unit_id": "GG-U0330",
+      "speaker": "吴军本人",
+      "claim_text": "下围棋要抢大场、比大场更重要的是急所：当前缺那10%也不会有麻烦，就宁可做对将来贡献大的事",
+      "quote": "比大场重要的是急所",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22032,
+        "end_line": 22035,
+        "sha1": "005e55d425bd7fd422c6faf25f72d4f5ca540679",
+        "fingerprint": [
+          "大场",
+          "急所"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D05-1"
+      ],
+      "concept_key": "急所先于大场",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "回答前先确认问题是把话说清楚的重要性（22032-22033）。"
+    },
+    {
+      "claim_id": "C-GG-U0330-04",
+      "unit_id": "GG-U0330",
+      "speaker": "吴军本人",
+      "claim_text": "FUD利用的是人性弱点而非信息不对称：信息再流通人性不变、恐慌依旧（股市暴跌恐慌抛售例）——FUD的影响不会消失",
+      "quote": "人性的弱点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22055,
+        "end_line": 22060,
+        "sha1": "cf1c8378199a215433d46c276683fa46986dba5e",
+        "fingerprint": [
+          "FUD",
+          "恐慌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "FUD靠人性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "过山车例：告诉他不可怕还是害怕（22059）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0330",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "22037-22053行两性相处、婚姻与育儿问答为家庭婚恋内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问50：阿姆达尔法则与极致（双说话人4卡+婚恋X5）。"
+}

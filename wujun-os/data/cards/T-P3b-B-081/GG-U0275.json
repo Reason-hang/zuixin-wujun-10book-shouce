@@ -1,0 +1,156 @@
+{
+  "unit_id": "GG-U0275",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0275-01",
+      "unit_id": "GG-U0275",
+      "speaker": "吴军本人",
+      "claim_text": "递归把大问题化为同构小步骤，但必须给出结束条件否则成死循环",
+      "quote": "递归永远要给出一个结束条件",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18350,
+        "end_line": 18353,
+        "sha1": "e3a77bf106d1890c4ad3c5b7ae20da84e6ecb2c7",
+        "fingerprint": [
+          "递归",
+          "结束"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D01-1"
+      ],
+      "concept_key": "递归需结束条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "阶乘N!=N×(N-1)!与0!=1例证；\"从前有座山\"无结束条件是死循环非递归"
+    },
+    {
+      "claim_id": "C-GG-U0275-02",
+      "unit_id": "GG-U0275",
+      "speaker": "吴军本人",
+      "claim_text": "没有结束条件的重复，做法结果与上次完全一样，必然失败",
+      "quote": "做这样的死循环，必然失败",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18354,
+        "end_line": 18358,
+        "sha1": "3224c6ed1360750fc8ca292882d788633b8ec310",
+        "fingerprint": [
+          "结束条件",
+          "死循环"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D05-1"
+      ],
+      "concept_key": "无结束条件的死循环",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "庄子\"生也有涯\"有限生命不经思考试错并入本卡；恋爱婚姻例证（X5语境）仅作说明；互引C-GG-U0275-01"
+    },
+    {
+      "claim_id": "C-GG-U0275-03",
+      "unit_id": "GG-U0275",
+      "speaker": "吴军本人",
+      "claim_text": "因生活起色就中止自我教育，社会阶层提升会停止继而下滑",
+      "quote": "中止对自己的教育",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18397,
+        "end_line": 18398,
+        "sha1": "fc152568405c5da3e213ce0f63c1abe24ee1e01b",
+        "fingerprint": [
+          "教育",
+          "阶层"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "中止自我教育致下滑",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "MIT学者18国贫困研究（\"贫穷的思维陷阱\"）之第一方面；互引既有概念键\"贫穷怪圈\"(GG)\"终身学习保持时效性\""
+    },
+    {
+      "claim_id": "C-GG-U0275-04",
+      "unit_id": "GG-U0275",
+      "speaker": "吴军本人",
+      "claim_text": "主动与被动学习的区别，在于能否通过学习真正改变生活状态",
+      "quote": "不在于花了多少时间学习",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18413,
+        "end_line": 18419,
+        "sha1": "80aa020d291c89c8d908528d4a40d4b2fd41071c",
+        "fingerprint": [
+          "终身学习",
+          "改变"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D02-1"
+      ],
+      "concept_key": "学习改变生活状态",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "总结句\"达到上一辈高度时是继续走还是寄望下一代\"；互引既有概念键\"为生活而学习\"(JS)"
+    },
+    {
+      "claim_id": "C-GG-U0275-05",
+      "unit_id": "GG-U0275",
+      "speaker": "吴军本人",
+      "claim_text": "陷入贫困思维的人只看得见物质，搞不清什么是幸福",
+      "quote": "它不仅仅是黄金钻石",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18410,
+        "end_line": 18419,
+        "sha1": "f6fb36e06d083b4c21d5fc13c8b12fd8703ccb4e",
+        "fingerprint": [
+          "幸福",
+          "黄金钻石"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4",
+        "D02-3"
+      ],
+      "concept_key": "幸福不只是物质",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "印度农村拼贴画实验（宫殿/汽车/黄金钻石）与中国老人贪小利、富豪逃小费并列为例证"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0275",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "恋爱婚姻再给一次机会/替子还赌债/愿望转嫁/养儿防老/孝顺死循环等家庭亲子例证按X5排除，其机理已并入C-GG-U0275-02"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "递归与生活死循环主题成卡5张（家庭例证X5）"
+}

@@ -1,0 +1,242 @@
+{
+  "unit_id": "GG-U0331",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0331-01",
+      "unit_id": "GG-U0331",
+      "speaker": "转述·第三方",
+      "claim_text": "知识社会中每个知识工作者本身就是自觉的自我管理者：不能也不需自上而下的人事管理，要改成任务导向的契约式管理",
+      "quote": "任务导向的契约式管理方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22073,
+        "end_line": 22073,
+        "sha1": "807a4f21950302c6ca155a5fd060462819118664",
+        "fingerprint": [
+          "知识工作者",
+          "契约"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-1",
+        "D06-2"
+      ],
+      "concept_key": "知识者自管理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=德鲁克《卓有成效的管理者》（22071/22073）。"
+    },
+    {
+      "claim_id": "C-GG-U0331-02",
+      "unit_id": "GG-U0331",
+      "speaker": "吴军本人",
+      "claim_text": "工作的主动性是获得晋升的法宝：想想如果我是老板会怎样做这件事——知识型员工应参与和自己相关的基层决策",
+      "quote": "获得晋升的法宝",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22074,
+        "end_line": 22074,
+        "sha1": "465874901ff64a0b11ca5db751d15e90d03b33b1",
+        "fingerprint": [
+          "主动性",
+          "老板"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "主动性与晋升",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "这是知识型员工与出卖体力员工的差别（22074）。"
+    },
+    {
+      "claim_id": "C-GG-U0331-03",
+      "unit_id": "GG-U0331",
+      "speaker": "转述·第三方",
+      "claim_text": "德鲁克定律：把词汇中的'成就'换成'贡献'，你将在商业和职业生涯中取得最好的成绩",
+      "quote": "取得最好的成绩",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22075,
+        "end_line": 22076,
+        "sha1": "14a478a0cc362fd177222418fa268cccb342b15f",
+        "fingerprint": [
+          "成就",
+          "贡献"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1",
+        "D08-1"
+      ],
+      "concept_key": "成就换贡献",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=德鲁克（22075-22076）。"
+    },
+    {
+      "claim_id": "C-GG-U0331-04",
+      "unit_id": "GG-U0331",
+      "speaker": "吴军本人",
+      "claim_text": "以成就为硬标准三大问题：目标趋短期易量化（大学数论文经费）；机构大难出成就→抢功劳净琢磨人；成就共享则利益冲突不择手段",
+      "quote": "净琢磨人的现象",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22082,
+        "end_line": 22085,
+        "sha1": "97fe6f4f3d01e69dfb2b2bba06120ae97613e4c5",
+        "fingerprint": [
+          "短期",
+          "功劳"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D08-1"
+      ],
+      "concept_key": "成就导向三弊",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "大企业混久了的人特别油（22084）。"
+    },
+    {
+      "claim_id": "C-GG-U0331-05",
+      "unit_id": "GG-U0331",
+      "speaker": "吴军本人",
+      "claim_text": "比创造新顾客更重要的是留住老顾客：留存率每提高5个百分点利润提高25~95个百分点；新用户贡献只有老用户的1/5",
+      "quote": "比创造新顾客更重要的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22088,
+        "end_line": 22093,
+        "sha1": "4fda3634aefed02093688c67138757552f41ea53",
+        "fingerprint": [
+          "留存率",
+          "顾客"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "留存重于获客",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "贝恩公司瑞克赫尔德研究（22089，转述留痕）；雅虎与MSN的KPI只看绝对数量不看留存、遂被淘汰（22092-22093）。"
+    },
+    {
+      "claim_id": "C-GG-U0331-06",
+      "unit_id": "GG-U0331",
+      "speaker": "吴军本人",
+      "claim_text": "只强调成就不愿做贡献的员工易遇职业天花板；好企业看长期贡献——Google设公民奖奖励非直接成就的贡献",
+      "quote": "职业发展的天花板",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22094,
+        "end_line": 22098,
+        "sha1": "a6e00fdb805f6e6b0605778a9efd502e33e9f1c1",
+        "fingerprint": [
+          "贡献",
+          "公民奖"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D06-2"
+      ],
+      "concept_key": "贡献破天花板",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好企业看长期对周围人、企业、客户的贡献（22096）；帮他人项目解技术问题、服务器稳定运行90天都是大贡献（22098-22100）。"
+    },
+    {
+      "claim_id": "C-GG-U0331-07",
+      "unit_id": "GG-U0331",
+      "speaker": "吴军本人",
+      "claim_text": "第一份工作要找好单位：标准是文化是否更看重每个人的贡献而非吹嘘的成就——如同打球遇到好教练，学错动作将来没法改",
+      "quote": "如同打球遇到一个好教练",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22101,
+        "end_line": 22102,
+        "sha1": "e434a0e8ec3e439b2580f7ac019c5491ba30df0c",
+        "fingerprint": [
+          "第一份工作",
+          "文化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "首份工作看文化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0331-08",
+      "unit_id": "GG-U0331",
+      "speaker": "史实",
+      "claim_text": "德鲁克父亲让他穿正装去小咖啡馆见弗洛伊德——在父亲心目中知识远比财富和地位更重要",
+      "quote": "知识要远比财富和地位更重要",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22104,
+        "end_line": 22106,
+        "sha1": "50fa1b4f3fe1547704009764826722e793c41756",
+        "fingerprint": [
+          "弗洛伊德",
+          "正装"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "知识高于财富地位",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "speaker=史实；见教皇只需穿好一点、见弗洛伊德却穿正装（22105）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0331",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22108行回信邀请（德鲁克经历的启发）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第202封信：德鲁克定律（8卡）。"
+}

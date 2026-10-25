@@ -1,0 +1,178 @@
+{
+  "unit_id": "GG-U0308",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0308-01",
+      "unit_id": "GG-U0308",
+      "speaker": "吴军本人",
+      "claim_text": "合作中理性人都判断得出对方需求却怕吃亏装不知道：不提报酬打哑谜耽误事——帮忙没报酬或付酬没帮忙就反目成仇",
+      "quote": "打哑谜中给耽误了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20573,
+        "end_line": 20578,
+        "sha1": "63eb053c621f12a9fd9fc4addff09ce919f93cc0",
+        "fingerprint": [
+          "报酬",
+          "帮忙"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "莫打哑谜",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谈判同理：砍价到满意价还想要面子，没经验销售再降五百反而谈崩（20580-20584）；说了真话对方也无法验证（20585）。"
+    },
+    {
+      "claim_id": "C-GG-U0308-02",
+      "unit_id": "GG-U0308",
+      "speaker": "吴军本人",
+      "claim_text": "酒精的妙用：微醺状态非理性潜意识暴露、真实想法不再隐藏——共有信息上升为大众信息、达成共识",
+      "quote": "共有信息会上升为大众信息",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20587,
+        "end_line": 20593,
+        "sha1": "0275eacb0af0607fa8db8f9b8be97e916234f1dc",
+        "fingerprint": [
+          "酒精",
+          "微醺"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1"
+      ],
+      "concept_key": "微醺破界",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "日韩交易在酒桌达成、耻于直接谈利益（20589-20590）；尼采酒神迷狂说（20592，转述留痕）。"
+    },
+    {
+      "claim_id": "C-GG-U0308-03",
+      "unit_id": "GG-U0308",
+      "speaker": "吴军本人",
+      "claim_text": "西方两步走：先在酒桌鸡尾酒会达成信任，回办公室谈利益不再遮掩——清醒状态下认可的事情才算数",
+      "quote": "清醒状态下认可的事情才算数",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20595,
+        "end_line": 20596,
+        "sha1": "69ec41299eb5a708c7a03c92e2736ae69e009ab4",
+        "fingerprint": [
+          "信任",
+          "清醒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D08-1"
+      ],
+      "concept_key": "先信任后谈判",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "融入美国的标志=能与同事到酒吧看球（20598）；酒吧酒价5倍买的是打开心窗（20600）；酒桌上关系近不等于认可提议（20603）。"
+    },
+    {
+      "claim_id": "C-GG-U0308-04",
+      "unit_id": "GG-U0308",
+      "speaker": "吴军本人",
+      "claim_text": "中间人存在的理由：并购双方价格区间重叠仍无法取信、不敢先说想法致谈判一年黄掉——投行介入使双方把想法告诉第三方",
+      "quote": "无法判断对方真实的想法",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20605,
+        "end_line": 20609,
+        "sha1": "fcc63e8967884fac77c3f92203634e380f6cea44",
+        "fingerprint": [
+          "中间人",
+          "并购"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D07-1"
+      ],
+      "concept_key": "中间人价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清华学长卖公司经验：更早一次并购因互不取信而黄（20609）；做单位里帮人达成合作的中间人、无论技术如何发展都有机会（20630）。"
+    },
+    {
+      "claim_id": "C-GG-U0308-05",
+      "unit_id": "GG-U0308",
+      "speaker": "吴军本人",
+      "claim_text": "服务便宜不重要，关键是看它有没有价值：有价值自然有人付费、价值不大免费也无人要——核心是提供价值而非价格战",
+      "quote": "关键是看它有没有价值",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20613,
+        "end_line": 20615,
+        "sha1": "439f8f25fabc39e6f88a51ef3777db7f7557634c",
+        "fingerprint": [
+          "价值",
+          "免费"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "价值先于价格",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互联网免费补贴获客的想法没理解服务本质（20615）。"
+    },
+    {
+      "claim_id": "C-GG-U0308-06",
+      "unit_id": "GG-U0308",
+      "speaker": "吴军本人",
+      "claim_text": "凡事有困难才有机会：温度差才能做功、水位差才能发电——大家无法把共有信息变大众信息，才让中间人有机会",
+      "quote": "凡事有困难，才有机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20618,
+        "end_line": 20621,
+        "sha1": "f9b02e8e08889e33238dda94f3800bdaf3ce278d",
+        "fingerprint": [
+          "机会",
+          "做功"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "困难即机会",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "人性弱点导致的困难不变、利用它可长期挣大钱（20621）；Google降资源十倍例：完成后1/3的人半年获提升（20622-20627）；困难给一些人机会也淘汰大部分人（20629）。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第189封信：酒文化和中间人（6卡）。"
+}

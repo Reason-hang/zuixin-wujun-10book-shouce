@@ -1,0 +1,238 @@
+{
+  "unit_id": "GG-U0013",
+  "book_code": "GG",
+  "extractor": "GAUD7",
+  "batch_id": "GATE-C-R6",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0013-01",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把事情做好有三条边：基线、理论极限、连接路径；工程解决问题有固定章法",
+      "quote": "把事情做好的三条边",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1066,
+        "end_line": 1071,
+        "sha1": "77ba7476528f4acdf9d7caf48c2b2a7d74178d46",
+        "fingerprint": [
+          "三条边",
+          "方法论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "把事情做好的三条边",
+      "ability_tags": [
+        "思",
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "总纲卡：出自吴军在Google给新入职工程师的培训（行1069）；总括见行1109–1110——找不到前两条线是蛮干傻干，找不到第三条线永远纸上谈兵"
+    },
+    {
+      "claim_id": "C-GG-U0013-02",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "所有工作都应建立在基线之上而非从基线下面做起；民间发明家失败因基线太低",
+      "quote": "都应该建立在这条线的基础上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1073,
+        "end_line": 1077,
+        "sha1": "72626f65f57745235c90c946c1e61d737e201a45",
+        "fingerprint": [
+          "基线",
+          "民间发明家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "基线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "基线因人而异（行1073）；民间发明家造小飞机蛮干、水平在地下室三层（行1075–1077）为例证"
+    },
+    {
+      "claim_id": "C-GG-U0013-03",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "把工作做好首先要提高基线；接受教育与不断培训学习的目的就是提高基线",
+      "quote": "教育的目的，就是提高自己的基线",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1084,
+        "end_line": 1087,
+        "sha1": "1990674009a2a068d66fccdab5a4f7de7f47ae5b",
+        "fingerprint": [
+          "提高基线",
+          "退学创业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D02-1"
+      ],
+      "concept_key": "教育提高基线",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "不主张大学生退学创业因基线太低（行1087）；散户投资同民间发明家从地下室三层做起（行1086，例证）"
+    },
+    {
+      "claim_id": "C-GG-U0013-04",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "理论极限无法突破；专业人士与业余爱好者的差别在于是否了解极限存在",
+      "quote": "理论给出的极限，是无法突破的",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1088,
+        "end_line": 1092,
+        "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0",
+        "fingerprint": [
+          "极限",
+          "卡诺定理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "理论极限无法突破",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "光速/绝对零度/能量守恒（行1088）、卡诺定理限死蒸汽机效率上限（行1090）、图灵机/摩尔定律/冯·诺依曼结构极限（行1092）为例证"
+    },
+    {
+      "claim_id": "C-GG-U0013-05",
+      "unit_id": "GG-U0013",
+      "speaker": "史实",
+      "claim_text": "莱特兄弟先系统学习凯利空气动力学理论，经200多种翼形与上千次风洞试验才试飞成功",
+      "quote": "进行了上千次的风洞试验",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1080,
+        "end_line": 1083,
+        "sha1": "aa45f5892ebe5c9a911495c14eab9bf44c5629f2",
+        "fingerprint": [
+          "莱特兄弟",
+          "凯利"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "莱特兄弟的方法",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（站上理论基线+做足试验再上天）独立成卡；区别于同期造飞机就上天的蛮干者（行1082–1083）；励志读物称莱特兄弟为民间发明家是误导（行1079–1080）"
+    },
+    {
+      "claim_id": "C-GG-U0013-06",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "科学家常常告诉大家这件事可以做，工程师则要明白怎么做",
+      "quote": "但是工程师要明白怎么做",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1095,
+        "end_line": 1095,
+        "sha1": "5f0345a1cc81d1e60150d646ec201cb6dcb44a45",
+        "fingerprint": [
+          "科学家",
+          "工程师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "工程师与科学家之别",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "职业分工之别的原理层判断；工程师找绳索的总论见 C-GG-U0013-07"
+    },
+    {
+      "claim_id": "C-GG-U0013-07",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "光有基线与极限不够，还需连接两者的阶梯；工程师的工作就是找到或编织攀登绳索",
+      "quote": "找到或者编织攀登绳索的工作",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1093,
+        "end_line": 1098,
+        "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28",
+        "fingerprint": [
+          "绳索",
+          "鸟巢"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "连接路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "鸟巢总工程师李久林一整套整体方案为例（行1096，转述例证）；越接近高目标道路越细（行1097）；此思维方式普遍适用（行1098）"
+    },
+    {
+      "claim_id": "C-GG-U0013-08",
+      "unit_id": "GG-U0013",
+      "speaker": "吴军本人",
+      "claim_text": "沿唯一通道行动、通道之外一律不做，可把过去的天花板变成后来的新基础",
+      "quote": "把过去的天花板变成了后来的基础",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 1107,
+        "end_line": 1108,
+        "sha1": "469ff854060e4a05d4d9bf673eba6972b8291623",
+        "fingerprint": [
+          "天花板",
+          "基础"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "把天花板变成基础",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "L君（化名）融资案例：老先生点明其基础与极限、上下两线清楚后圈定通道、通道外一律回绝（行1099–1107），融资后把天花板变成新基础"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0013",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末「今日思考」（行1112–1113，定2018年目标作业）为课程运营互动文字，按运营文字X1处置不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第008封信《把事情做好的三条边》为工程方法论核心信，基线/极限/连接路径多卡成抽"
+}

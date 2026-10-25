@@ -1,0 +1,158 @@
+{
+  "unit_id": "GG-U0312",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0312-01",
+      "unit_id": "GG-U0312",
+      "speaker": "吴军本人",
+      "claim_text": "信息产生作用除信息源有信息外还必须信道通畅，否则鸡同鸭讲、效果等于零——通路通畅的前提是收发两端匹配",
+      "quote": "鸡同鸭讲",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20840,
+        "end_line": 20841,
+        "sha1": "9f4edf6105defcd87fba5256651bca6f4d0b4514",
+        "fingerprint": [
+          "信道",
+          "匹配"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D07-1"
+      ],
+      "concept_key": "信道匹配",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "讲话人声音再高、说的时间再长也没用（20840）。"
+    },
+    {
+      "claim_id": "C-GG-U0312-02",
+      "unit_id": "GG-U0312",
+      "speaker": "吴军本人",
+      "claim_text": "专业人士讲不清不是欠缺表达能力而是欠缺知识：缺把专业概念对等到生活概念、术语和单位的知识",
+      "quote": "欠缺的不是表达能力",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20850,
+        "end_line": 20851,
+        "sha1": "6609f327fd347c4e9741a66924af059b5dc57a89",
+        "fingerprint": [
+          "对等",
+          "知识"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "翻译力是知识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "千牛、48%税率、二级谋杀三个听不懂例（20842-20848）。"
+    },
+    {
+      "claim_id": "C-GG-U0312-03",
+      "unit_id": "GG-U0312",
+      "speaker": "吴军本人",
+      "claim_text": "提高口才的第一个捷径：采用大家都能明白的单位说明问题——500个壮汉拔河之力=发动机推力、山姆大叔拿走一半=48%税率",
+      "quote": "大家都能明白的单位",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20853,
+        "end_line": 20858,
+        "sha1": "2bd5ecf634e6598d691f512cb3e46654c07454e8",
+        "fingerprint": [
+          "单位",
+          "壮汉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D05-1"
+      ],
+      "concept_key": "生活化单位",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "美国专业人士从小受写作讲演辩论训练故有此能力（20853）；摩根基金经理税率讲法（20857）。"
+    },
+    {
+      "claim_id": "C-GG-U0312-04",
+      "unit_id": "GG-U0312",
+      "speaker": "吴军本人",
+      "claim_text": "合格的专业人士不仅要有领域知识，还要懂得把领域知识翻译成所有人听得懂的语言——这样专业学习才算完成",
+      "quote": "这样专业学习才算完成",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20860,
+        "end_line": 20862,
+        "sha1": "bde95da92b18663c443685da1c3613459ae28440",
+        "fingerprint": [
+          "翻译",
+          "语言"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D02-2"
+      ],
+      "concept_key": "知识要会翻译",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "二级谋杀要补充两句非蓄谋/蓄谋的解释（20861）。"
+    },
+    {
+      "claim_id": "C-GG-U0312-05",
+      "unit_id": "GG-U0312",
+      "speaker": "吴军本人",
+      "claim_text": "简单规则：72规则（年回报百分数×翻番年份≈72）虽数学上有误差，但容易把问题说清楚——讲指数函数精确却讲不清道理",
+      "quote": "72规则",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20867,
+        "end_line": 20870,
+        "sha1": "bedc1cd8533d127b6fafab27b253370742719be4",
+        "fingerprint": [
+          "72规则",
+          "翻番"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D04-1"
+      ],
+      "concept_key": "72规则",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "4%规则/25倍规则同理（20871）；卖保险过分考虑个人细节反而讲不明白（20874）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0312",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "20880行思考题（如何讲清高铁优势）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第191封信：把专业问题讲清楚（上）5卡。"
+}

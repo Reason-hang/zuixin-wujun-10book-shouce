@@ -1,0 +1,71 @@
+{
+  "unit_id": "GG-U0266",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0266-01",
+      "unit_id": "GG-U0266",
+      "speaker": "吴军本人",
+      "claim_text": "贵族精神的要点是责任感与担当义务，无此难成精英领袖",
+      "quote": "永远成不了真正的贵族",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17742,
+        "end_line": 17743,
+        "sha1": "2ae64efb825b10070d3443ce6f8313713ecb5ced",
+        "fingerprint": [
+          "责任感",
+          "贵族"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-3"
+      ],
+      "concept_key": "贵族精神与担当",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "由耶鲁纪念大厅引出；互引既有概念键\"贵族精神三根本\"(JS)，跨书线索"
+    },
+    {
+      "claim_id": "C-GG-U0266-02",
+      "unit_id": "GG-U0266",
+      "speaker": "吴军本人",
+      "claim_text": "表达反对也不能用极端的方式去反对极端",
+      "quote": "不能用一种极端的方式反对极端",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17765,
+        "end_line": 17765,
+        "sha1": "36d1235e38d2e34fc817f319a735b58adff6c541",
+        "fingerprint": [
+          "极端",
+          "反对"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "勿以极端反极端",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "耶鲁反战传统评述：不愿参军交回征兵令即可，不主张烧征兵令"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0266",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "耶鲁精神/逃兵役招生/花时间玩/严进宽出/素质教育与\"最糟糕的教育\"论断等教育理念内容排除，仅抽两条可迁移判断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "耶鲁教育主体X5，抽贵族担当与勿以极端反极端两条"
+}

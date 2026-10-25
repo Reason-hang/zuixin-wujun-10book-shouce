@@ -1,0 +1,164 @@
+{
+  "unit_id": "GG-U0333",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-085",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0333-01",
+      "unit_id": "GG-U0333",
+      "speaker": "吴军本人",
+      "claim_text": "《美国新闻》的技巧：明明想要A却说想要B——后者更冠冕堂皇，得到B后A也就顺便得到了",
+      "quote": "明明想要A，却说想要B",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22174,
+        "end_line": 22177,
+        "sha1": "996e1cb680ff7567252dce1d4d87b5d96df8f055",
+        "fingerprint": [
+          "排名",
+          "指标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D03-1"
+      ],
+      "concept_key": "要A说B",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "排名指标改为对低收入学生友好、实际让亚裔白人有苦说不出（22174-22176）。"
+    },
+    {
+      "claim_id": "C-GG-U0333-02",
+      "unit_id": "GG-U0333",
+      "speaker": "吴军本人",
+      "claim_text": "保守主义的渐变做事方式：不一次性大调整、渐进不引起大反弹而目的渐达——网约车瞬间停晚间服务致黑车盛行，跳远式不如渐进",
+      "quote": "保守主义的渐变的做事方式",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22191,
+        "end_line": 22194,
+        "sha1": "b1d6aa0973fb0cccd39fdd4dc04a143841586e11",
+        "fingerprint": [
+          "渐进",
+          "反弹"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D03-1"
+      ],
+      "concept_key": "渐进优于跳变",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引保守主义渐进改良（B-079复用键）。"
+    },
+    {
+      "claim_id": "C-GG-U0333-03",
+      "unit_id": "GG-U0333",
+      "speaker": "吴军本人",
+      "claim_text": "不要轻易改变一个生态：人的活动改变生态后即使停止也无法还原、会在新基础上构成另一种生态——网约车已改变出行生态",
+      "quote": "不要轻易改变一个生态",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22195,
+        "end_line": 22197,
+        "sha1": "8c48c6c9fb624216287fc5c4f0d2d8805fcc138c",
+        "fingerprint": [
+          "生态",
+          "还原"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "勿轻改生态",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "网约车消失后出行方式回不到原生态、新生态建立前必混乱（22196）。"
+    },
+    {
+      "claim_id": "C-GG-U0333-04",
+      "unit_id": "GG-U0333",
+      "speaker": "吴军本人",
+      "claim_text": "垄断的形成消费者也有责任：企业购芯片80%给英特尔也稍带AMD防绝对垄断，个人消费没有这种远见——政府应反垄断扶持第二名",
+      "quote": "维持一个第二名的重要性",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22199,
+        "end_line": 22201,
+        "sha1": "897d09188fd5f258d8688725b8e4a7537bab0152",
+        "fingerprint": [
+          "垄断",
+          "第二名"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "维持第二名",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "垄断让技术和服务得不到改进（22199）；中国垂直领域一家独大（22201）。"
+    },
+    {
+      "claim_id": "C-GG-U0333-05",
+      "unit_id": "GG-U0333",
+      "speaker": "转述·第三方",
+      "claim_text": "郭台铭：阿里山神木的种子3000年前已埋下——网约车市场是几年前种子土壤水分设定的结果；希望5年后更好今天就埋好种子",
+      "quote": "今天就埋下一颗好种子",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 22202,
+        "end_line": 22203,
+        "sha1": "6f989a8b1d4c35e97b4d59bfc080d8adb093fc6f",
+        "fingerprint": [
+          "种子",
+          "郭台铭"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-1",
+        "D05-1"
+      ],
+      "concept_key": "今天埋好种子",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=郭台铭（22202）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0333",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "22165-22190行2018-2019美国大学排名指标与名次变化分析为时政时效内容"
+    },
+    {
+      "unit_id": "GG-U0333",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "22205-22206行思考题（生态改变后为何不能复原）为运营互动文字"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第204封信：大学排名与网约车整改（5卡）。"
+}

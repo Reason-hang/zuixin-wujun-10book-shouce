@@ -1,0 +1,142 @@
+{
+  "unit_id": "GG-U0261",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0261-01",
+      "unit_id": "GG-U0261",
+      "speaker": "吴军本人",
+      "claim_text": "并购决策不应看原价格与成本，最要注重对象能带来多大价值",
+      "quote": "并购对象能给自己带来多大的价值",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17368,
+        "end_line": 17374,
+        "sha1": "cda773faeabb50a8027c49046ffaddb7c2fbd914",
+        "fingerprint": [
+          "并购",
+          "价值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "并购重价值轻价格",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "主判断；例证：甲骨文/GE靠并购增长，微软不擅消化吸收（并入本卡）。互引C-01与02（价格≠价值）"
+    },
+    {
+      "claim_id": "C-GG-U0261-02",
+      "unit_id": "GG-U0261",
+      "speaker": "吴军本人",
+      "claim_text": "买入价不等于价值，股票跌到两成说明当初很可能买贵了",
+      "quote": "说明很可能是你当初买贵了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17362,
+        "end_line": 17367,
+        "sha1": "5986d76fb8daac9fea931e6b81372ab20072ca02",
+        "fingerprint": [
+          "止损",
+          "买贵"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "价格不等于价值",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "投资误区：把成本当价值不舍止损；爱马仕凯莉包例证（对个别人值10万）并入本卡。互引既有概念键\"合理价格买好公司\"(JS)"
+    },
+    {
+      "claim_id": "C-GG-U0261-03",
+      "unit_id": "GG-U0261",
+      "speaker": "吴军本人",
+      "claim_text": "并购成功的根本原因在被收购公司与自身基因相匹配",
+      "quote": "和Facebook自身匹配",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17400,
+        "end_line": 17408,
+        "sha1": "9c7b89436b95e148cb29230ffdf77a8943ff0f21",
+        "fingerprint": [
+          "基因",
+          "收购"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "并购基因匹配",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：Instagram补富媒体短板、WhatsApp助移动转型（收购案数据并入本卡notes不另成卡）；微软/Google收购则无此效果。互引既有概念键\"公司基因决定论\"(GG)"
+    },
+    {
+      "claim_id": "C-GG-U0261-04",
+      "unit_id": "GG-U0261",
+      "speaker": "吴军本人",
+      "claim_text": "做人要大气，不要因过分算计小的得失而失去机会",
+      "quote": "过分算计小的得失而失去机会",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17409,
+        "end_line": 17413,
+        "sha1": "e533e970913f10435bc88d93e252d6e698a54d5c",
+        "fingerprint": [
+          "大气",
+          "得失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D03-1"
+      ],
+      "concept_key": "大气",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "并购案例的个人借鉴之一；复用既有概念键\"大气\"(GJ)，跨书复现。互引\"捡西瓜不捡芝麻\""
+    },
+    {
+      "claim_id": "C-GG-U0261-05",
+      "unit_id": "GG-U0261",
+      "speaker": "吴军本人",
+      "claim_text": "结交人要与自身特点匹配，三观不合终难久处",
+      "quote": "结交人，需要和自身的特点匹配",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17409,
+        "end_line": 17413,
+        "sha1": "e533e970913f10435bc88d93e252d6e698a54d5c",
+        "fingerprint": [
+          "结交",
+          "三观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D01-2"
+      ],
+      "concept_key": "结交匹配自身特点",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "并购案例的个人借鉴之二；例证：科技富翁与好莱坞明星婚变（婚姻例证属X5语境仅作说明）。互引C-GG-U0261-03基因匹配"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军本人论并购价值与基因匹配并给出两条个人借鉴，5卡成抽"
+}

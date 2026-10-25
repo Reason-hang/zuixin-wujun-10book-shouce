@@ -1,0 +1,242 @@
+{
+  "unit_id": "GG-U0310",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0310-01",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "人宣布离职就不要指望他了：稍有职场经验者皆知——遇到只能自认倒霉，下次提前防范",
+      "quote": "就不要指望他了",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20716,
+        "end_line": 20716,
+        "sha1": "57f9443841872b7b85b5ae20301465f634f3280d",
+        "fingerprint": [
+          "离职",
+          "防范"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D07-1"
+      ],
+      "concept_key": "离职不指望",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "主动离职者最好善始善终：留好口碑也是对自己负责；被裁的将心比心别指望留守（20730）。"
+    },
+    {
+      "claim_id": "C-GG-U0310-02",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "不能指望任何一个人的善意，而要靠制度解决问题：设计文档、测试、代码规范省不得——防人走接不上",
+      "quote": "而要靠制度解决问题",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20719,
+        "end_line": 20720,
+        "sha1": "40aa16bae8b183b8f2dd857f659dd94efaad4a48",
+        "fingerprint": [
+          "文档",
+          "测试"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "靠制度不靠善意",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "没通过测试的代码不能提交（20720）；不测试自己的代码连小学生都不如（20722）。"
+    },
+    {
+      "claim_id": "C-GG-U0310-03",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "合作分工不是分得越细越好：把大而紧耦合的任务变成多个可独立完成的松耦合任务——每人独立完成模块互不影响、出错易定位",
+      "quote": "松耦合的任务",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20721,
+        "end_line": 20722,
+        "sha1": "de28abb2feeaab476eb15b28def5acf4e4aecbcf",
+        "fingerprint": [
+          "耦合",
+          "模块"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "松耦合分工",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0310-04",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "敏捷开发的精髓是解耦合而非偷工减料贪速度：每人独立模块减少沟通成本、效果反而变快",
+      "quote": "精髓是解耦合",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20724,
+        "end_line": 20726,
+        "sha1": "bcaebe813e8c3e87d439f18db32496755fbba6b1",
+        "fingerprint": [
+          "敏捷开发",
+          "解耦合"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "敏捷即解耦合",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "美国顶级公司不因一人离开进度受阻（20726）；一味降成本后接不上、成本更高（20725）。"
+    },
+    {
+      "claim_id": "C-GG-U0310-05",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "好的管理者要千方百计维持进行中项目的人员稳定；招人更看重敬业精神而非仅业务能力，可降低离职损失",
+      "quote": "维持正在进行中的项目人员的稳定",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20727,
+        "end_line": 20729,
+        "sha1": "b7402d997d7cd18b4b457fedcc5411cc8894466d",
+        "fingerprint": [
+          "稳定",
+          "敬业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D06-1"
+      ],
+      "concept_key": "稳人与择人",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "走掉一个干活的人总有短期损失、这也是成本（20727）。"
+    },
+    {
+      "claim_id": "C-GG-U0310-06",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "领导问你是否去建新办公室：先问清责任资源、直谈担忧、问明能否保回流好岗——离开总部是单行道，只有成功没有退路",
+      "quote": "一条单方向的道路",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20754,
+        "end_line": 20755,
+        "sha1": "5f738390bcc0fa8e0e8d923f6ed63dec14fe8f34",
+        "fingerprint": [
+          "总部",
+          "退路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-1"
+      ],
+      "concept_key": "离总部是单行道",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "即使完成任务回到美国也要从头寻找自己的位置（20755）。"
+    },
+    {
+      "claim_id": "C-GG-U0310-07",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "不愿吃学习的苦三因：学了是否见效没把握、学习的苦不是一两天能吃完没耐心、学习不如工作紧迫常被扔一边",
+      "quote": "不愿意吃学习的苦",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20764,
+        "end_line": 20767,
+        "sha1": "57878ea2a93626bc361f28b0267d2ab13eac58a6",
+        "fingerprint": [
+          "学习",
+          "耐心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D02-2"
+      ],
+      "concept_key": "学习之苦三因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0310-08",
+      "unit_id": "GG-U0310",
+      "speaker": "吴军本人",
+      "claim_text": "团队里大部分工作是少数超级明星完成的，不能指望人人都是超级明星；对混日子者底线是不影响别人——影响士气就要抉择去留",
+      "quote": "不能指望每一个人都是超级明星",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20768,
+        "end_line": 20772,
+        "sha1": "142389ae3e17dd7561a8fcb2eea87286f5647d91",
+        "fingerprint": [
+          "超级明星",
+          "士气"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D06-1"
+      ],
+      "concept_key": "超级明星与底线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "绩效不达标进PIP；达标就给更多任务看是否接受；可替代且不闯祸就随他去（20768-20770）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0310",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "20732-20746行亲子沟通与大学生成长建议为家庭与升学教育内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "答读者问47：离职影响与团队管理（双说话人8卡）。"
+}

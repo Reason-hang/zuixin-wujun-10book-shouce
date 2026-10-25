@@ -1,0 +1,107 @@
+{
+  "unit_id": "GG-U0270",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0270-01",
+      "unit_id": "GG-U0270",
+      "speaker": "吴军本人",
+      "claim_text": "管理智慧：接受年轻人的建议，但过激行为必须担责受罚",
+      "quote": "该处罚还要处罚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18038,
+        "end_line": 18038,
+        "sha1": "a651b3fa19b32fddc8437f2f5e0e2ef86fd99cef",
+        "fingerprint": [
+          "年轻人",
+          "处罚"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-2"
+      ],
+      "concept_key": "宽容建议与行为担责",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "由1968年哥大学生运动处理提炼（史实叙述记X4）；互引既有概念键\"担责方能决断\"(GJ)"
+    },
+    {
+      "claim_id": "C-GG-U0270-02",
+      "unit_id": "GG-U0270",
+      "speaker": "吴军本人",
+      "claim_text": "很多事没有优缺点，只有特点，没有哪种方式一定好",
+      "quote": "没有优缺点，只有特点",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18067,
+        "end_line": 18067,
+        "sha1": "c75f5f263675b9d753bc5bbe9834af9885013879",
+        "fingerprint": [
+          "优缺点",
+          "特点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "没有优缺点只有特点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "普林斯顿自由选课 vs 哥大统一通识课程对照；U0271末段\"办学理念难评好坏只是特色\"同旨，互引本卡"
+    },
+    {
+      "claim_id": "C-GG-U0270-03",
+      "unit_id": "GG-U0270",
+      "speaker": "吴军本人",
+      "claim_text": "不论采用什么方式，凡事把它做到极致就比别人好",
+      "quote": "凡事把它做到极致，就比别人好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18067,
+        "end_line": 18069,
+        "sha1": "998ce804236ab6f43d04af35512bf9bd310d3db7",
+        "fingerprint": [
+          "极致",
+          "特点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D10-1"
+      ],
+      "concept_key": "做到极致",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键\"做到极致\"(TD)，跨书复现；与C-GG-U0270-02同一论证链两卡并存"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0270",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "1968年哥大学生运动始末与内贾德演讲事件为史实叙述，仅留处理智慧成卡（C-GG-U0270-01）"
+    },
+    {
+      "unit_id": "GG-U0270",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "哥大培养未来领袖/狮子铜像/三校对比等教育理念内容排除"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "史实与教育主体排除，抽管理智慧/特点/极致三条可迁移判断"
+}

@@ -1,0 +1,213 @@
+{
+  "unit_id": "GG-U0277",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0277-01",
+      "unit_id": "GG-U0277",
+      "speaker": "吴军本人",
+      "claim_text": "学手艺不妨慢慢来假以时日，指望速成不如买彩票",
+      "quote": "不妨慢慢来，假以时日",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18528,
+        "end_line": 18528,
+        "sha1": "0bb12e9df649a7ba4fa14f9a11f526c7e70caafe",
+        "fingerprint": [
+          "慢慢来",
+          "彩票"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D03-2"
+      ],
+      "concept_key": "假以时日慢慢学",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "编程捷径提问例证；互引既有概念键\"耐心是成功第一要素\"，与\"不怕慢就怕停\"不同义（彼论怕反复）"
+    },
+    {
+      "claim_id": "C-GG-U0277-02",
+      "unit_id": "GG-U0277",
+      "speaker": "吴军本人",
+      "claim_text": "把教育当人生必需品而非彩票，一点点学下去，时间越长回报越高",
+      "quote": "教育就不再是买彩票，而是投资",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18529,
+        "end_line": 18530,
+        "sha1": "3ed3749278c52c4d83a2a3172c15027e69290609",
+        "fingerprint": [
+          "必需品",
+          "投资"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "教育是投资非彩票",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "\"学习不是中彩票\"一条总结；按兴趣一点点学；吴军总结句\"教育是一种投资，需要很长时间才能看到效果\"并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0277-03",
+      "unit_id": "GG-U0277",
+      "speaker": "吴军本人",
+      "claim_text": "看一个人把闲钱和闲暇时间花在哪里，就知道他有多大出息",
+      "quote": "特别是闲钱和闲暇时间花在哪里",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18532,
+        "end_line": 18533,
+        "sha1": "4534b82d2981049c7efa0a774c6ea59fce0c771a",
+        "fingerprint": [
+          "闲钱",
+          "闲暇"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-4"
+      ],
+      "concept_key": "闲钱闲暇见出息",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与既有概念键\"闲钱闲暇必花掉\"(JS)互引（彼论必花、本论花在哪见出息）"
+    },
+    {
+      "claim_id": "C-GG-U0277-04",
+      "unit_id": "GG-U0277",
+      "speaker": "吴军本人",
+      "claim_text": "越穷的人越把钱花在阻碍自己上升的地方",
+      "quote": "把钱用在阻碍他们上升的地方",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18534,
+        "end_line": 18537,
+        "sha1": "8afbf647d5a07f96a2cf7e2e0ad91d32590dd104",
+        "fingerprint": [
+          "穷人",
+          "上升"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-3"
+      ],
+      "concept_key": "穷人花钱阻碍上升",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "奥威尔英国穷人描写与买糖烟酒、裸贷买iPhone例证并入；互引既有概念键\"贫穷怪圈\"(GG)"
+    },
+    {
+      "claim_id": "C-GG-U0277-05",
+      "unit_id": "GG-U0277",
+      "speaker": "吴军本人",
+      "claim_text": "花钱花时间前自问：一个月后的我是否比今天更好",
+      "quote": "一个月后的我，是否比今天更好",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18544,
+        "end_line": 18547,
+        "sha1": "d82b80a394eb96b34521497fd65751362a48380d",
+        "fingerprint": [
+          "资源",
+          "增值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D05-1"
+      ],
+      "concept_key": "一个月后是否更好",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "钱与时间是资源，可增值也可浪费；与C-GG-U0277-06同一论证链两卡并存"
+    },
+    {
+      "claim_id": "C-GG-U0277-06",
+      "unit_id": "GG-U0277",
+      "speaker": "转述·第三方",
+      "claim_text": "五年目标一年后应变成四年目标，否则目标或做法有错",
+      "quote": "一年后它应该变成四年的目标",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18546,
+        "end_line": 18547,
+        "sha1": "37c559ce3c9702877df1173fb44a89008ba06745",
+        "fingerprint": [
+          "目标",
+          "诺威格"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D05-2",
+        "D06-2"
+      ],
+      "concept_key": "五年目标变四年",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：诺威格（Peter Norvig，吴军过去的老板）；减肥戒烟\"永远还差两年\"为反面例证；互引既有概念键\"OKR目标管理\""
+    },
+    {
+      "claim_id": "C-GG-U0277-07",
+      "unit_id": "GG-U0277",
+      "speaker": "吴军本人",
+      "claim_text": "高风险未必有高回报，但低风险一定没有高回报",
+      "quote": "低风险一定没有高回报",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18555,
+        "end_line": 18555,
+        "sha1": "a147bf68fdf06d4e74358653ee06f0e6da470f04",
+        "fingerprint": [
+          "风险",
+          "回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D09-2"
+      ],
+      "concept_key": "低风险高回报是天方夜谭",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键\"低风险高回报是天方夜谭\"(JS)，跨书复现；由考公务员与改革开放初企业家对照引出"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0277",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "黄任补习班观察/金学成育儿案例/吸烟传染研究等亲子教育内容排除（榜样机理未独立成迁移卡）"
+    },
+    {
+      "unit_id": "GG-U0277",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "考公务员与灰色收入等论断依附2018中国时点，排除（风险原理已入C-GG-U0277-07）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "走出死循环（下）成卡7张，亲子与时点内容排除"
+}

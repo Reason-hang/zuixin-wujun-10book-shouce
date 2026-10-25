@@ -1,0 +1,52 @@
+{
+  "unit_id": "GG-U0265",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0265-01",
+      "unit_id": "GG-U0265",
+      "speaker": "吴军本人",
+      "claim_text": "糟糕的模仿只学到形式而忽略本质，学一流要学其本质",
+      "quote": "学到了形式上的东西",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17707,
+        "end_line": 17710,
+        "sha1": "a9a384ab332c22b94d83e3549070a8bf9650e8ba",
+        "fingerprint": [
+          "形式",
+          "本质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "模仿学形式丢本质",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好大学各有特点而非照抄；例证：中国大学书院制学到形式；同单元\"一流大学都有一两个造就它的教育家\"属教育史并入X5"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0265",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "普林斯顿校园/住宿学院制细节、威尔逊校史与募捐、室友互补安排等教育制度与校史内容排除，仅抽形式与本质一条"
+    },
+    {
+      "unit_id": "GG-U0265",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "思考题（形式和本质）为运营互动内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "学院制与校史主体X5，抽形式与本质一条可迁移判断"
+}

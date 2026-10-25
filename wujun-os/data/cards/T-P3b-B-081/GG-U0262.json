@@ -1,0 +1,253 @@
+{
+  "unit_id": "GG-U0262",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0262-01",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "人可以宽容犯错者，但命运不会宽容任何人",
+      "quote": "命运不会宽容",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17430,
+        "end_line": 17431,
+        "sha1": "791828c3b549e39008c6abbd64bc7354355a86bf",
+        "fingerprint": [
+          "宽容",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "命运不会宽容",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "答读者@葡萄柚；熊孩子成因句并入本卡"
+    },
+    {
+      "claim_id": "C-GG-U0262-02",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "人不能把自己的命运寄托在别人的善意和宽容上",
+      "quote": "寄托在别人的善意和宽容上",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17435,
+        "end_line": 17440,
+        "sha1": "a0fe584ed06e9aa82051b6b3250126925480d71f",
+        "fingerprint": [
+          "命运",
+          "善意"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "命运不寄托他人宽容",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：面试求机会；发小高考差一分实差170分（差距缩短一半命运在自己手上）"
+    },
+    {
+      "claim_id": "C-GG-U0262-03",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "机会常常有很多次，把后续失败归咎于错失第一次是宿命论",
+      "quote": "事实上机会常常有很多次",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17441,
+        "end_line": 17450,
+        "sha1": "ad1b392ff2b8ff494607656469ea5846faf258aa",
+        "fingerprint": [
+          "宿命论",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "机会不止一次",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "对照例证：沙弗利守财避税 vs 朋友认命再创业上市"
+    },
+    {
+      "claim_id": "C-GG-U0262-04",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "发现自己被安排做无用功时应警惕，那是危险信号",
+      "quote": "被安排做无用功",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17452,
+        "end_line": 17456,
+        "sha1": "524c63fe90bb1d04d8f4c25c9706cab12ac1704f",
+        "fingerprint": [
+          "无用功",
+          "警惕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D05-1"
+      ],
+      "concept_key": "被安排做无用功",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "大公司养闲人机理（做事带来问题比解决的多）；互引既有概念键\"伪工作者\"\"防止伪工作两点\""
+    },
+    {
+      "claim_id": "C-GG-U0262-05",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "产品的设计者要站在使用者角度思考，不能想当然",
+      "quote": "站在使用者角度来思考",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17463,
+        "end_line": 17466,
+        "sha1": "2fc739da51c46c7141579b9820bcfc061905bb77",
+        "fingerprint": [
+          "设计者",
+          "使用者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "用户体验优先",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答读者@易容刀客；例证：通用Nova车在拉美命名失败；复用既有概念键\"用户体验优先\"(GG)"
+    },
+    {
+      "claim_id": "C-GG-U0262-06",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "不要凭想象堆功能，把所有不必要的功能都删掉",
+      "quote": "把所有不必要的功能都删掉",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17468,
+        "end_line": 17469,
+        "sha1": "5f248305406c2c31362d4549bc3b895a17752987",
+        "fingerprint": [
+          "功能",
+          "多余"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "删掉不必要功能",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "为显示技术而加的功能都多余；例证：Dfinity CEO谈判断炒概念（往区块链凑=为技术而技术）"
+    },
+    {
+      "claim_id": "C-GG-U0262-07",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "判断不清产品想法好坏时，做实验用数据说话",
+      "quote": "不妨做实验，用数据说话",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17470,
+        "end_line": 17470,
+        "sha1": "d797ca4852ea8e48ac2dfcf37b27dc0ebb73437f",
+        "fingerprint": [
+          "实验",
+          "数据"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D05-1"
+      ],
+      "concept_key": "小流量实验验证",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "互联网时代可用1%潜在用户做实验；互引既有概念键\"可测试性设计\"(SX)"
+    },
+    {
+      "claim_id": "C-GG-U0262-08",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "创始人与职业CEO关系有四种模式，处理不好出大问题",
+      "quote": "创始人自己能成为很好的CEO",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17477,
+        "end_line": 17486,
+        "sha1": "b64871f451b9ef644a27e9d7a0572930d1bc68ac",
+        "fingerprint": [
+          "创始人",
+          "CEO"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "创始人与CEO四种关系",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式一卡：①创始人自成好CEO（盖茨/马云）②被职业经理人取代（思科）③在帮助下成长（佩奇/扎克伯格）④形象CEO+能干COO（腾讯/百度反例）"
+    },
+    {
+      "claim_id": "C-GG-U0262-09",
+      "unit_id": "GG-U0262",
+      "speaker": "吴军本人",
+      "claim_text": "给不给用户选择权因行业与消费者而异，凡事不绝对",
+      "quote": "凡事不绝对",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17493,
+        "end_line": 17498,
+        "sha1": "517e7223b83ee0713d585eceb4f5c4c7d0c0eff4",
+        "fingerprint": [
+          "选择",
+          "模式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "选择权因行业而异",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "答读者@穗穗；汽车业两种模式对照；特斯拉给选择但不让用户干预管理；互引既有概念键\"没有选择的好处\"(FZ|JS)"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0262",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者@葡萄柚/@易容刀客/@雨中漫步/@穗穗四段提问原文仅作引子，无吴军评述部分不抽卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "四组问答中吴军本人回应均成卡（9张），读者提问原文X7排除"
+}

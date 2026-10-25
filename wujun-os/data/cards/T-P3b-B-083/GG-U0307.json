@@ -1,0 +1,240 @@
+{
+  "unit_id": "GG-U0307",
+  "book_code": "GG",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-083",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0307-01",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "讲究原则让大家都知道你的做事方式：得不到所有东西，但几乎是唯一能保证长跑跑赢周围人的做法",
+      "quote": "唯一能够保证在长跑中跑赢",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20509,
+        "end_line": 20510,
+        "sha1": "c7200a3a653db6bdfa8a1b4a9cee3e54abedde2b",
+        "fingerprint": [
+          "原则",
+          "变通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "原则胜过变通",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "自作聪明的变通没有太大用途、大部分时候更有害处（20509）。"
+    },
+    {
+      "claim_id": "C-GG-U0307-02",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "长跑相对论：跑赢周围的人就是胜利者，绝对成绩再高也是失败者——高考6门100分（他人99以下）照样上北大清华",
+      "quote": "你就是胜利者",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20513,
+        "end_line": 20516,
+        "sha1": "0d056a79c0d6b596aeb6343b919c11502a85d7b4",
+        "fingerprint": [
+          "长跑",
+          "绝对"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "相对胜负观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "财富年增10%而平均增20%，五年后就觉得非常穷（20515）；股市表现比周围人好一定跑赢大盘（20516）。"
+    },
+    {
+      "claim_id": "C-GG-U0307-03",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "不做空不做杠杆：做空收益有限而损失近乎无穷大、长远逆市场而动；杠杆把局部损失放大成全部出局",
+      "quote": "损失近乎无穷大",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20517,
+        "end_line": 20520,
+        "sha1": "65f96cfe3b89a93ed3131352c471be9e66d8e69f",
+        "fingerprint": [
+          "做空",
+          "杠杆"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "不做空不加杠杆",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "不把股市当赌场：闲家永远被庄家打（20522）。"
+    },
+    {
+      "claim_id": "C-GG-U0307-04",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "庄家无需作弊：只要调整出牌概率就能保证期望大于零，玩得足够长总能把你玩死——猜技术指标是徒劳",
+      "quote": "无需作弊，总能把你玩死",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20527,
+        "end_line": 20533,
+        "sha1": "f2b5063f5e7d72709caa55c024f3ca720391ee39",
+        "fingerprint": [
+          "庄家",
+          "概率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D04-1"
+      ],
+      "concept_key": "概率收割",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "出大出小概率调在0.29-0.38间即可（20527）；庄家只需遵循概率不需要模式（20533）；庄家爱玩小盘股、苹果亚马逊Google已无法操控（20535-20537）。"
+    },
+    {
+      "claim_id": "C-GG-U0307-05",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "想打赢基金就和上帝站在一起：直接购买股指基金——天天炒作个股试图打败基金的人最终被割韭菜",
+      "quote": "和上帝站在一起",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20539,
+        "end_line": 20540,
+        "sha1": "b66d1320021d910e86c2fe108388316fafb966bb",
+        "fingerprint": [
+          "股指基金",
+          "韭菜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "与上帝站在一起",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "投资比绝大部分人好，时间一长自然而然是赢家（20540）。"
+    },
+    {
+      "claim_id": "C-GG-U0307-06",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "永远做多的数学：市场多数时间上涨但你不知道何时涨，最好策略永远买多——错过25个最高涨幅日复合增长少一半",
+      "quote": "最好的策略是永远买多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20542,
+        "end_line": 20545,
+        "sha1": "e2048a5f4f449085e26ebff73cb881c7f7f242d8",
+        "fingerprint": [
+          "买多",
+          "复合增长"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "永远做多",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "美国45年年均复合6.7%，错过25个最佳日剩3.4%、总回报19倍vs3.7倍（20543-20545）；看待中国发展、中美贸易等大事上做死多头也是最笨但最好的方法（20546）。"
+    },
+    {
+      "claim_id": "C-GG-U0307-07",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "不要揣测上意：领导的想法总在变（里根特朗普丘吉尔布隆伯格都换过党派），猜错了损失才大",
+      "quote": "如果揣摩上意猜错了，那损失才大",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20549,
+        "end_line": 20552,
+        "sha1": "70956cd56850ef1e13238bcc489d825b96a4d3ff",
+        "fingerprint": [
+          "上意",
+          "党派"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D07-1"
+      ],
+      "concept_key": "不揣测上意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-GG-U0307-08",
+      "unit_id": "GG-U0307",
+      "speaker": "吴军本人",
+      "claim_text": "对领导诚敬信三字足够：诚=把共有知识变大众知识，敬=情商尊重不拍马屁，信=不打折扣完成答应的事",
+      "quote": "做到这几条比揣摩上意有用得多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 20554,
+        "end_line": 20557,
+        "sha1": "c7d6b2786ee95a7e3fb24284261dd68df28a1e53",
+        "fingerprint": [
+          "情商",
+          "器重"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-2",
+        "D06-1"
+      ],
+      "concept_key": "诚敬信",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "互引C-GG-U0306-05主动摊牌。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0307",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "20559-20563行思考题与博弈论数学附录为运营互动与推导细节"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第188封信：永远做多与不揣测上意（8卡）。"
+}

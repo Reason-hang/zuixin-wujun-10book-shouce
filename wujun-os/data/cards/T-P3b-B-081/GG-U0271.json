@@ -1,0 +1,43 @@
+{
+  "unit_id": "GG-U0271",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0271-01",
+      "unit_id": "GG-U0271",
+      "speaker": "吴军本人",
+      "claim_text": "没有绝对的高尚，凭自己学识改变命运本身就值得称道",
+      "quote": "世界上没有什么绝对的高尚",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 18130,
+        "end_line": 18131,
+        "sha1": "f933e7419868f7afca234ae4b0afe8ef4d2d8bf5",
+        "fingerprint": [
+          "高尚",
+          "命运"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "凭学识改变命运值得称道",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "由宾大务实精神引出：务实创造出世界名校；末段\"一流大学各有特色不拷贝\"同旨于C-GG-U0270-02，互引"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0271",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "富兰克林办学史/沃顿商学院特色/专才教育等大学介绍内容排除，仅抽价值判断一条"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "宾大介绍主体X5，抽凭学识改变命运一条"
+}

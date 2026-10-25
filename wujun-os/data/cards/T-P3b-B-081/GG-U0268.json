@@ -1,0 +1,207 @@
+{
+  "unit_id": "GG-U0268",
+  "book_code": "GG",
+  "extractor": "EXT-GG15",
+  "batch_id": "T-P3b-B-081",
+  "cards": [
+    {
+      "claim_id": "C-GG-U0268-01",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "IT行业市场不仅按产品划分，还要按地域划分",
+      "quote": "还要按照地域划分",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17853,
+        "end_line": 17854,
+        "sha1": "3838732183221d49fde6f8fbc71fbea4b87345a2",
+        "fingerprint": [
+          "市场",
+          "地域"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "市场按地域划分",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "答读者@沱茶：腾讯胜在中国、Facebook胜在世界；后文腾讯产品细节路线境界难达最高属公司个案描述未成卡"
+    },
+    {
+      "claim_id": "C-GG-U0268-02",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "只固守本土两成市场的企业，很难与做全球生意的公司竞争",
+      "quote": "很难和做全球生意的公司相竞争",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17863,
+        "end_line": 17866,
+        "sha1": "c3e343a0e716915c5bf7e0a41f5b9e327a6ee103",
+        "fingerprint": [
+          "全球",
+          "市场"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "固守本土难敌全球",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "论据：中国人口占全球不到20%；Facebook/Google/苹果海外收入占比；互引既有概念键\"专注极致卖全球\"(GJ)"
+    },
+    {
+      "claim_id": "C-GG-U0268-03",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "并购中最关键的是未来母公司的发展前景，而非完全是报价",
+      "quote": "看待未来母公司自身的发展前景",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17884,
+        "end_line": 17886,
+        "sha1": "bbe260b0de850733f5caeaaf693ee813bfb0a0b3",
+        "fingerprint": [
+          "母公司",
+          "报价"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "并购看母公司前景",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "答读者@艾舍长；换股并购中员工投资人把身家交给母公司；反例：低价但母公司近期上市回报更好；互引既有概念键\"互补性与未来价值\"(GJ)"
+    },
+    {
+      "claim_id": "C-GG-U0268-04",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "出售公司不仅看报价多少，还要看报价来自谁",
+      "quote": "还要看报价来自谁",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17877,
+        "end_line": 17881,
+        "sha1": "8f1892d6a44d91f0be65e070cf6deaad0102b698",
+        "fingerprint": [
+          "报价",
+          "资金链"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "报价来自谁",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "案例：拒庞氏骗局嫌疑收购方，数月后其资金链断裂；互引C-GG-U0268-03"
+    },
+    {
+      "claim_id": "C-GG-U0268-05",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "与国内同行差距会越拖越大，若最终要回国不如现在动身",
+      "quote": "如果最终要回国，还不如现在动身",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17893,
+        "end_line": 17893,
+        "sha1": "8bed01d7a00b4cd82fb7b1d3e7648973d19a9107",
+        "fingerprint": [
+          "回国",
+          "差距"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D03-1"
+      ],
+      "concept_key": "要走就趁早动身",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答读者@rayray913；三条过渡路径（跨国企业/中国办公室/中企北美分公司）并入本卡；留学光环贬值时点论断另记X2"
+    },
+    {
+      "claim_id": "C-GG-U0268-06",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "看透本质三经验：与强者同行观察、遇事慢三拍、凡事从反面再想一次",
+      "quote": "凡事一定要从反面再重新思考一次",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17909,
+        "end_line": 17915,
+        "sha1": "3c3d3e459b13a6c46ac1cf96f57dea4c002fc723",
+        "fingerprint": [
+          "慢三拍",
+          "反面"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "看透本质三经验",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "答读者@单宏伟；清单式一卡；互引既有概念键\"慢三拍决策\"\"向智者学习\"(GJ)"
+    },
+    {
+      "claim_id": "C-GG-U0268-07",
+      "unit_id": "GG-U0268",
+      "speaker": "吴军本人",
+      "claim_text": "择业时行业比公司重要得多，公司可换而行业难换",
+      "quote": "行业比公司重要得多",
+      "anchor": {
+        "book_code": "GG",
+        "start_line": 17924,
+        "end_line": 17928,
+        "sha1": "824466321b398bdd39f6afdaeaea23fa290ac141",
+        "fingerprint": [
+          "行业",
+          "公司"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "行业重于公司",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "答读者@林木；前置辨析\"行业和职业是两个维度\"并入本卡；例证：建筑土木景气 vs 数理化生物改行；互引既有概念键\"工作与职业之辨\""
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "GG-U0268",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者@沱茶/@艾舍长/@rayray913/@单宏伟/@林木五段提问原文仅作引子，不抽卡"
+    },
+    {
+      "unit_id": "GG-U0268",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "留学光环早就没有用了等论断依附2018时点，排除（其可迁移内核已入C-GG-U0268-05）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "五组问答中吴军回应成卡7张，读者原文与时效论断排除"
+}
