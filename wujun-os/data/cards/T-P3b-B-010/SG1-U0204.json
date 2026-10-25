@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG1-U0204",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一件事是好事大家做了自然体会实实在在的好处；用远大理想高尚情操包装的价值观劝人努力没有用",
+   "quote": "再讲道理也没有用",
+   "anchor": {
+    "start_line": 12559,
+    "end_line": 12559,
+    "fingerprint": [
+     "价值观",
+     "好处"
+    ],
+    "book_code": "SG1",
+    "sha1": "15510c19767255e107351063c27cd6eca88082db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "实际受益胜过说教",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "2011年劝腾讯基层员工为自己提升进阶、2015年回访工资四年翻番以上并在北京住上很好的房子（12561-12563）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0204-01",
+   "unit_id": "SG1-U0204"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "死读书换不来黄金屋颜如玉，宋真宗把必要条件和充分条件搞反了；巧读书长见识修身养性才有帮助",
+   "quote": "必要条件和充分条件搞反了",
+   "anchor": {
+    "start_line": 12565,
+    "end_line": 12567,
+    "fingerprint": [
+     "黄金屋",
+     "天花板"
+    ],
+    "book_code": "SG1",
+    "sha1": "b30ffe8082eaa13bca266fa8c3f8aa09d7c0fe58"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-1"
+   ],
+   "concept_key": "读书是必要非充分",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "不读书经济水平难提高、遇天花板，找好伴侣也困难（12567）；找伴侣标准与技巧议题归X5",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0204-02",
+   "unit_id": "SG1-U0204"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "C君：和社会相比人性的变化非常小，江山易改本性难移，百年政权更迭而人性优弱点几乎照旧继承",
+   "quote": "人性的变化其实是非常小的",
+   "anchor": {
+    "start_line": 12595,
+    "end_line": 12595,
+    "fingerprint": [
+     "江山易改",
+     "文化习俗"
+    ],
+    "book_code": "SG1",
+    "sha1": "d0972b0542f29950d97bc751c8991c0f6d77f483"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-1"
+   ],
+   "concept_key": "人性变化非常小",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军同学C君（化名）；中国一百年政权更迭而文化习俗改变甚微（12595）；其论薛宝钗比林黛玉累、强人能人最需关爱鼓励（12597）；吴军引申经典反映人性本质见C-SG1-U0204-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0204-03",
+   "unit_id": "SG1-U0204"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经过长时间考验的经典，其思想反映人性最本质的东西；今天中国人性与机构内关系和《红楼梦》所写没有差别",
+   "quote": "人性最本质的东西",
+   "anchor": {
+    "start_line": 12603,
+    "end_line": 12603,
+    "fingerprint": [
+     "经典著作",
+     "人性"
+    ],
+    "book_code": "SG1",
+    "sha1": "4e46e7f44e26ccb0dbc5437c6df64cff12f97e20"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-1"
+   ],
+   "concept_key": "经典承载恒久人性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "260年间隔不使其过时、此前230年间每个时代都有读者（12603-12605）；通过它了解社会历史不是最重要的（12613）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0204-04",
+   "unit_id": "SG1-U0204"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在中国生活需了解中国文化，《红楼梦》是百科全书；读经典是了解一国文化最容易的入手方式",
+   "quote": "最容易的入手的一种方式",
+   "anchor": {
+    "start_line": 12609,
+    "end_line": 12609,
+    "fingerprint": [
+     "百科全书",
+     "文化"
+    ],
+    "book_code": "SG1",
+    "sha1": "0d5fafb6d7cd56b08f4cda6add6bc1628b61b606"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读经典入手文化",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "白给一个亿未必能生活好、里面是有讲究的（12607）；《红楼梦》描述精致美好的生活与上流闲情雅趣（12607）；不仅红楼梦，梁实秋张爱玲鲁迅狄更斯雨果莎士比亚等经典都该读（12615）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0204-05",
+   "unit_id": "SG1-U0204"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0204",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "追女神与择偶议题：A君B小姐C君求爱故事、女神定义、女生并非贪图外表学历钱财出身、读红楼梦读懂女生心思（12571-12599、12611）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第194封信读经典与找伴侣：抽受益说教/必要非充分/人性不变（转述）/经典人性/读经典入手5卡；择偶故事X5"
+}

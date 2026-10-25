@@ -1,0 +1,109 @@
+{
+ "unit_id": "SG1-U0199",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书辛苦但辛苦地学与被逼着痛苦地学是两回事；逼出来的成功也成不了一流人才",
+   "quote": "并不等于要让他很痛苦",
+   "anchor": {
+    "start_line": 12249,
+    "end_line": 12255,
+    "fingerprint": [
+     "辛苦",
+     "痛苦",
+     "Entertainer"
+    ],
+    "book_code": "SG1",
+    "sha1": "1301407b38358b343a5238b68830ccd9afc36b7e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "辛苦不等于痛苦",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0130（同名概念键收敛，勿另立键）；12253“逼着孩子痛苦地学习即使看似成功最终也成不了一流人才”一段亦见 GG-U0130；12255 评论家评著名演奏家“弹奏的乐器毫无美感、不过是一个Entertainer而不是Artist”一段亦见 GG-U0130（因从小痛苦学琴恨乐器）；12251 吴军自己学得辛苦但不痛苦、感到痛苦就不学",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0199-01",
+   "unit_id": "SG1-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "几乎每个行业最成功的前5%都因喜欢从兴趣出发；从利益出发只能做到前20%到前5%之间",
+   "quote": "都是因为喜欢",
+   "anchor": {
+    "start_line": 12257,
+    "end_line": 12257,
+    "fingerprint": [
+     "前5%",
+     "兴趣"
+    ],
+    "book_code": "SG1",
+    "sha1": "618195d71079e4750db4e585be69c818582ed2be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-3"
+   ],
+   "concept_key": "兴趣决定前5%",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承上：不是真正喜欢乐器无法表现音乐的美感（12255）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0199-02",
+   "unit_id": "SG1-U0199"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "快乐教育要避免的是让孩子学得痛苦，而不是不让孩子辛苦；讨论这个问题时很多人偷换了概念",
+   "quote": "辛苦和痛苦是两回事",
+   "anchor": {
+    "start_line": 12259,
+    "end_line": 12259,
+    "fingerprint": [
+     "快乐教育",
+     "偷换概念"
+    ],
+    "book_code": "SG1",
+    "sha1": "93bd88804386d8a6308908cf56f257b9ab80abb6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "辛苦不等于痛苦",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国上层社会父母在孩子身上花时间一点不少、孩子辛苦但不痛苦（12259）；与C-SG1-U0199-01同键收敛",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0199-03",
+   "unit_id": "SG1-U0199"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0199",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育议题：作为父母第一重要是陪孩子、父亲给女儿安全感让孩子大气、最重要的是成为好孩子、逼孩子成才适得其反、教育的目的是激发好奇心引导自觉学习（12261-12269）"
+  },
+  {
+   "unit_id": "SG1-U0199",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时人时事例证：“快乐教育是阴谋”思潮、特朗普子女教育、盖茨父母择校搬家、500强CEO家庭书房自习、克林顿女婿对冲基金破产（12241-12247）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第189封信辛苦与痛苦：与GG-U0130同名概念键收敛抽3卡（辛苦痛苦/兴趣前5%/快乐教育辨析）；亲子议题X5、时事例证X2"
+}

@@ -1,0 +1,84 @@
+{
+ "unit_id": "SG1-U0201",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上并非所有事都有对错的答案，尤其人文类只有合理与否之分，关键看过程是否符合逻辑、有无证据",
+   "quote": "是否符合逻辑",
+   "anchor": {
+    "start_line": 12365,
+    "end_line": 12365,
+    "fingerprint": [
+     "标准答案",
+     "证据"
+    ],
+    "book_code": "SG1",
+    "sha1": "8eb7b514ccde5508064edd0300df55232548bcf1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "并非凡事有标准答案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国内教育让学生接受“有标准答案”概念（12365）；承12363 出国读书为了解世界与培养思维方式（留学议题归X5）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0201-01",
+   "unit_id": "SG1-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现实中一定要寻找绝对的对错做不好事；机械按领导说的做会失去创造性；学到思考方法比学到技能更重要",
+   "quote": "学到思考问题的方法",
+   "anchor": {
+    "start_line": 12367,
+    "end_line": 12367,
+    "fingerprint": [
+     "创造性",
+     "技能"
+    ],
+    "book_code": "SG1",
+    "sha1": "5e7781f61969ada61758cd796f388eeb28080098"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "思考方法重于技能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "绝对对错思维与机械服从并列（12367）；承C-SG1-U0201-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0201-02",
+   "unit_id": "SG1-U0201"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0201",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "阶层突破与留学规划议题：贫困进中产两条件、中产进精英难在人数少与思维方式、起跑线是父母的见识、父母陪伴、出国三阶段与陪读、国际学校与公立高考路数不同（12341-12391）"
+  },
+  {
+   "unit_id": "SG1-U0201",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "在耶鲁读商科、哈佛修心理学课的主编关于美国大学Reading量十倍于国内、Essay与Term Paper逼独立思考的引语原文（12359-12361）"
+  },
+  {
+   "unit_id": "SG1-U0201",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "每个常青藤名校每年从中国内地录取不超过10人、国际学校学生被名校本科录取基本一个没有等时点录取数据（12383-12385）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第191封信突破阶层与出国：抽非标准答案与思考方法重于技能2卡；留学升学X5、主编引语X7、录取时点数据X2"
+}

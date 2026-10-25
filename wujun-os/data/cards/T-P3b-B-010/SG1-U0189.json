@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG1-U0189",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "OKR体系里通常完成70%－80%就算达到预期",
+   "quote": "通常完成70%－80%",
+   "anchor": {
+    "start_line": 11645,
+    "end_line": 11645,
+    "fingerprint": [
+     "OKR",
+     "达到预期"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9005e4055e9dd1282992887b6498a20640444ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "OKR七至八成即达标",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "对2017年12个目标的总体完成水平评价为“达到预期，部分超出预期”（11645）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0189-01",
+   "unit_id": "SG1-U0189"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "OKR要定期自评：对部分目标做调整并新增目标，保持目标体系有效",
+   "quote": "对部分目标做了调整",
+   "anchor": {
+    "start_line": 11645,
+    "end_line": 11645,
+    "fingerprint": [
+     "总体完成水平",
+     "新增加"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9005e4055e9dd1282992887b6498a20640444ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "OKR季度复盘调整",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "Q1结束时自我鉴定并据此做三个提效调整（11645-11647）；目标含完成度打分与延期调整（11603-11641）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0189-02",
+   "unit_id": "SG1-U0189"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "提高效率做减法：回绝非合作伙伴的讲座采访、统一写作内容、辞掉一份兼职",
+   "quote": "回绝所有的讲座和采访",
+   "anchor": {
+    "start_line": 11647,
+    "end_line": 11653,
+    "fingerprint": [
+     "讲座",
+     "兼职"
+    ],
+    "book_code": "SG1",
+    "sha1": "17b325c0c832f7e9e6b62a593923f2994d8b6d7d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "提效先做减法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三个调整针对事务过载（11647-11653）；统一《硅谷来信》与写书内容以聚焦（11651）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0189-03",
+   "unit_id": "SG1-U0189"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场提效三建议：每周一天不用手机、减少10%工作量提高质量、周一书面总结计划发老板",
+   "quote": "减少10%的工作量",
+   "anchor": {
+    "start_line": 11655,
+    "end_line": 11661,
+    "fingerprint": [
+     "手机",
+     "工作量"
+    ],
+    "book_code": "SG1",
+    "sha1": "2b2533209ad6ac27cbaf2dce52ad45e43a8f52d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "职场提效三建议",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "手机留前台下班取回、争取每天两到三小时不看微信（11657）；找到看似必须其实可以不做的工作（11659）；管理者周一需给下属两句话书面回复（11661）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0189-04",
+   "unit_id": "SG1-U0189"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0189",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "字谜“无边落木萧萧下（打一字）”答案“日”与拆解过程属文字游戏（11667）；个人OKR目标明细与自评数字为目标管理的示范性事务记录（11601-11643）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第179封信OKR自评：抽达标线/复盘调整/做减法/职场提效4卡；字谜与个人目标明细X8"
+}

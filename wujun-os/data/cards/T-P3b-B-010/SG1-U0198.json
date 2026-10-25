@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG1-U0198",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上没有绝对的事，找反例很容易，凡事要仔细推敲具体的可能性，别把不完全真实的事说成事实",
+   "quote": "仔细推敲具体的可能性",
+   "anchor": {
+    "start_line": 12183,
+    "end_line": 12183,
+    "fingerprint": [
+     "偷换了概念",
+     "反例"
+    ],
+    "book_code": "SG1",
+    "sha1": "099abebe54ba3fcbe4d90170e9052f9a7743694f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "反例易找推敲可能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清北买不起学区房段子偷换概念（12181-12183）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0198-01",
+   "unit_id": "SG1-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生活是具体的：清北毕业生虽暂时买不起学区房，但买得起的可能性比其他人大得多",
+   "quote": "生活是具体的",
+   "anchor": {
+    "start_line": 12185,
+    "end_line": 12185,
+    "fingerprint": [
+     "德国人",
+     "可能性"
+    ],
+    "book_code": "SG1",
+    "sha1": "ff7e309a2d8b537abfe4fe4167621bb3553c9a6e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "生活是具体的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出自第84封信德国人的智慧（12185）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0198-02",
+   "unit_id": "SG1-U0198"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0198",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "学区房与教育资源议题：绝对平等不存在只有相对公平、抽签考试分学区三途径、好学校末名不如一般学校前名与自信心、买学区房还是私立、清北毕业生应有更多社会责任、父母是最好的老师（12187-12213）"
+  },
+  {
+   "unit_id": "SG1-U0198",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "就近上学政策下学区影响房价越来越大、北京四中附近最贵格局预测；帕罗阿图300万美元与东帕罗阿图60-80万美元房价时点数据（12193-12197）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第188封信学区房教育议题为主：仅抽反例推敲与生活是具体的2卡；教育议题X5、房价预测与时点数据X2"
+}

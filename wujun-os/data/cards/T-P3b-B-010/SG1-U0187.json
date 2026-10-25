@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG1-U0187",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "欣赏古典音乐要从音乐的来龙去脉入手，了解创作背景帮助我们听懂音乐",
+   "quote": "从音乐的来龙去脉入手",
+   "anchor": {
+    "start_line": 11533,
+    "end_line": 11533,
+    "fingerprint": [
+     "来龙去脉",
+     "听懂音乐"
+    ],
+    "book_code": "SG1",
+    "sha1": "b098eebcab68d9fa068634dfc4c98140e3b8d528"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "从音乐来龙去脉入手欣赏",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "中国人欣赏西洋古典音乐的先天不足是从小不在那种音乐环境中长大（11533）；本信以柏辽兹《幻想交响曲》创作背景为例示范如何听懂音乐（11491-11525）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0187-01",
+   "unit_id": "SG1-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对身边行为乖张的人要多一份宽容，伟大的艺术家和发明家可能就在这些人中间",
+   "quote": "多一份宽容",
+   "anchor": {
+    "start_line": 11535,
+    "end_line": 11535,
+    "fingerprint": [
+     "乖张",
+     "宽容"
+    ],
+    "book_code": "SG1",
+    "sha1": "24c6b27b5c99c61d2d010443cedc0a30a96f46ea"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "对乖张者多一份宽容",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "世界上很多人做事情的方式和我们完全不一样（11535）；呼应柏辽兹式以生命谱曲的痴狂艺术家论（11531）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0187-02",
+   "unit_id": "SG1-U0187"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0187",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "柏辽兹生平传记叙述：学医转音乐、史密森求爱、罗马大奖、三次备装备复仇未遂、《李尔王》创作、海涅记录定音鼓场景与婚变（11499-11525），纯人物史科普无可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0187",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "爱情与婚姻议题判断：恋爱中被激素控制而非头脑控制、爱情和婚姻是两回事（11527-11529）、年轻人痴狂一两回并非坏事、婚姻不能靠痴狂维系（11531），属婚恋议题"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第177封信柏辽兹传记为主：仅抽音乐欣赏法与待人宽容2卡；生平史实X4、婚恋议题X5"
+}

@@ -1,0 +1,112 @@
+{
+ "unit_id": "SG1-U0188",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生活是一面镜子，怎么对待它它也怎么对待你；换个角度看一年四季各有美好",
+   "quote": "生活是一面镜子",
+   "anchor": {
+    "start_line": 11555,
+    "end_line": 11557,
+    "fingerprint": [
+     "镜子",
+     "四季"
+    ],
+    "book_code": "SG1",
+    "sha1": "d2e63a778baf6b395b4d65d0a6ea4bccd7d48d95"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "生活是面镜子",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "北京春夏秋冬各有难处与美好两面（11555-11557）；本信主题是怎样成为有趣的人（11553）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0188-01",
+   "unit_id": "SG1-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不论生前多风光终有一死，人的一生需要快乐，不为靠不住的荣华富贵名声所绊，过好现在的每一天",
+   "quote": "过好现在的每一天",
+   "anchor": {
+    "start_line": 11573,
+    "end_line": 11573,
+    "fingerprint": [
+     "荣华富贵",
+     "快乐"
+    ],
+    "book_code": "SG1",
+    "sha1": "5d100c7078fb9f6d5f4867b76c6722ace949f61b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "过好现在的每一天",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对杜甫《曲江》尾联“细推物理须行乐，何用浮荣绊此身”的解读（11563、11573）；江上小堂巢翡翠、苑边高冢卧麒麟的兴亡之叹（11571）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0188-02",
+   "unit_id": "SG1-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工作只是生活一个方面，阅读不仅为提高工作能力，还能怡情养性让自己成为有趣的人",
+   "quote": "阅读还能怡情养性",
+   "anchor": {
+    "start_line": 11587,
+    "end_line": 11587,
+    "fingerprint": [
+     "工作",
+     "有趣的人"
+    ],
+    "book_code": "SG1",
+    "sha1": "42f1b5cf2720a24809261b5eacfd31b8f9dce419"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-2"
+   ],
+   "concept_key": "阅读怡情养性",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "中学课本选《三吏》《三别》深刻但对提高文学修养帮助不大（11575）；把《曲江》替代《石壕吏》可提高审美属课程建议归X5（11577）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0188-03",
+   "unit_id": "SG1-U0188"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0188",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "杜甫生平与《曲江》创作背景史实：诗书世家出身、写于安史之乱后乾元元年、曲江池汉武帝修建唐玄宗整修的沿革（11561-11565）"
+  },
+  {
+   "unit_id": "SG1-U0188",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "语文课程选篇建议：课本应引入《曲江》替代《石壕吏》以提高中学生审美水平与对美的向往（11577），属教育制度议题"
+  },
+  {
+   "unit_id": "SG1-U0188",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《曲江》逐句赏析与陆时雍《唐诗镜》评语、杜甫“诗书世家小资而非愤青”的比较鉴赏、《登高》赏析与“无边落木萧萧下”字谜游戏（11563-11585）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第178封信诗歌赏析为主：抽生活态度与阅读观3卡；史实X4、课程建议X5、赏析X8"
+}

@@ -1,0 +1,79 @@
+{
+ "unit_id": "SG1-U0195",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "甭管科技多发达，800年前人们对美好生活的渴望与今天没有差别，基本物质与感情需求不会省去",
+   "quote": "和今天没有什么差别",
+   "anchor": {
+    "start_line": 12015,
+    "end_line": 12015,
+    "fingerprint": [
+     "渴望",
+     "感情需求"
+    ],
+    "book_code": "SG1",
+    "sha1": "45b5b829fa1a9abd2f30ed481386cc0910b5af51"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-3"
+   ],
+   "concept_key": "渴望古今无差别",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由《斯卡保罗集市》歌词引申（11973-12013）；不因有了电子产品和互联网就省去基本需求（12015）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0195-01",
+   "unit_id": "SG1-U0195"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "即便物质生活再多、去过地方再多，得不到想要的感情内心依然匮乏，生活的平衡最重要",
+   "quote": "生活的平衡最重要",
+   "anchor": {
+    "start_line": 12015,
+    "end_line": 12015,
+    "fingerprint": [
+     "平衡",
+     "感情"
+    ],
+    "book_code": "SG1",
+    "sha1": "45b5b829fa1a9abd2f30ed481386cc0910b5af51"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "生活的平衡最重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与歌中失恋少年境遇相映（12007-12015）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0195-02",
+   "unit_id": "SG1-U0195"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0195",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "斯卡保罗集市45天风俗沿革至18世纪末及民歌源流史实：歌词追溯十三世纪、苏格兰曲调、凯尔特风格、中世纪骑士与游吟诗人（11963-11999）"
+  },
+  {
+   "unit_id": "SG1-U0195",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "歌词与曲调赏析：四种香草花语、三段不可能任务、古英语Remember me to somebody释义、诗经体翻译、人鬼爱情电影设想（11971-12013）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第185封信民歌赏析为主：仅抽生活渴望与平衡2卡；源流史实X4、赏析X8"
+}

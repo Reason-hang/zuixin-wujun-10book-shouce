@@ -1,0 +1,188 @@
+{
+ "unit_id": "SG1-U0190",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在任何一个系统中单纯改变一个变量通常得不到想要的结果",
+   "quote": "单纯改变一个变量",
+   "anchor": {
+    "start_line": 11693,
+    "end_line": 11693,
+    "fingerprint": [
+     "变量",
+     "最低工资"
+    ],
+    "book_code": "SG1",
+    "sha1": "640749d2d27fc6b4d219dd668c3dc35b52461f50"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D01-1"
+   ],
+   "concept_key": "单变量改动难达意图",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "提高最低工资反使穷人失去工作、技能过时例（11693）；2015年共享经济炒作从一开始逻辑就错（11695）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0190-01",
+   "unit_id": "SG1-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要有逻辑和最基本的经济学常识，为的是避免犯那些明显的错误",
+   "quote": "避免犯那些明显的错误",
+   "anchor": {
+    "start_line": 11695,
+    "end_line": 11695,
+    "fingerprint": [
+     "逻辑",
+     "经济学常识"
+    ],
+    "book_code": "SG1",
+    "sha1": "d19eabfcec26d164a07174242605db88c049a7d4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "常识避免明显错误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承上：共享经济失败源于一开始逻辑就错（11695）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0190-02",
+   "unit_id": "SG1-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "共享经济的本质不是利用闲置资源，而是让更多资源加入经济活动、提高效率带来方便，让大家多花钱",
+   "quote": "让更多的资源加入到经济活动中",
+   "anchor": {
+    "start_line": 11711,
+    "end_line": 11711,
+    "fingerprint": [
+     "多花钱",
+     "萎缩"
+    ],
+    "book_code": "SG1",
+    "sha1": "04be91fed2166a98c898d7fe401ad4445af3969b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "共享经济本质在扩市场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "闲置资源共享只是表现不是本质（11697）；优步滴滴司机多为专职、旧金山汽车不降反增（11699）；摩拜成功靠投入新资源让原本不骑车的人骑车（11725）；电钻割草机共享失败因取用不便（11701-11703）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0190-03",
+   "unit_id": "SG1-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业的本质是让人多花钱而不是省钱；共享若让大家不买东西，经济萎缩生意做不起来",
+   "quote": "让人多花钱，而不是省钱",
+   "anchor": {
+    "start_line": 11711,
+    "end_line": 11711,
+    "fingerprint": [
+     "商业的本质",
+     "萎缩"
+    ],
+    "book_code": "SG1",
+    "sha1": "04be91fed2166a98c898d7fe401ad4445af3969b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业本质让人多花钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应第76封信同题论断（11711）；工业革命后供大于求、经济靠消费拉动（11711）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0190-04",
+   "unit_id": "SG1-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "衡量共享经济公司的原则是必须将市场做大而不是做小，照此衡量绝大部分不合格",
+   "quote": "必须将市场做大",
+   "anchor": {
+    "start_line": 11723,
+    "end_line": 11723,
+    "fingerprint": [
+     "市场做大",
+     "合格"
+    ],
+    "book_code": "SG1",
+    "sha1": "05ed1f0c0a2812c8f830b5fa21c840ff0546fe2d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "共享须把市场做大",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "滴滴使被管理网约车从约200万辆增至800万辆、市场扩容（11713）；上门洗脚理发无端加中间环节、市场未变大（11717）；上门美甲成交首单即无二单故不可投（11719）；名医稀缺在资源不在渠道、共享平台无意义（11721）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0190-05",
+   "unit_id": "SG1-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多技术最终成功需要三波浪潮：第一波败于理解错误，第二波是商业失败而非模式失败",
+   "quote": "三波浪潮",
+   "anchor": {
+    "start_line": 11733,
+    "end_line": 11733,
+    "fingerprint": [
+     "第一波",
+     "模式上的失败"
+    ],
+    "book_code": "SG1",
+    "sha1": "a1ba55c2cd24605132f686c2720d68dea808a4d8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "技术商用三波浪潮",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应第9封信VR“第三眼美女”（11733）；共享经济第一波败于闲置资源理解错误、第二波从业者已在增加资源而非节省资源（11733）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0190-06",
+   "unit_id": "SG1-U0190"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0190",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2015年共享经济泡沫时点现状：10万家共享概念公司、获融资超千家、大部分已死、全世界无一家以共享经济为核心上市的公司（11683-11685）"
+  },
+  {
+   "unit_id": "SG1-U0190",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "对共享经济未来的乐观预测与IoT场景设想：机器智能与IoT促成新共享、机场凭信用卡即取租赁设备、扔钥匙走人、人本身是IoT一部分、靠机器智能调配资源（11725-11731）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第180封信共享经济：抽本质/商业本质/系统变量/常识/市场做大/三波浪潮6卡；泡沫时点数据X2、趋势预测X6"
+}

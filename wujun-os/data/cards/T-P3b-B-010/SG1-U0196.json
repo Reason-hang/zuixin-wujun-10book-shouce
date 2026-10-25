@@ -1,0 +1,132 @@
+{
+ "unit_id": "SG1-U0196",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚当斯：我必须学习政治和战争，孩子才能学数学哲学，孙子才有机会学绘画诗歌音乐等",
+   "quote": "我必须学习政治和战争",
+   "anchor": {
+    "start_line": 12079,
+    "end_line": 12079,
+    "fingerprint": [
+     "亚当斯",
+     "孙子"
+    ],
+    "book_code": "SG1",
+    "sha1": "e1d49ad2aeebabeeb3026ddae37cba6f0c4d554d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "代际需求层次递进",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=约翰·亚当斯（美国开国元勋）；吴军的层次概括见C-SG1-U0196-02（R1两卡并存互引）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0196-01",
+   "unit_id": "SG1-U0196"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "前几代人考虑生存与安全，接着靠科学工程搞社会建设，之后人类才追求艺术等更高精神层面的东西",
+   "quote": "更高精神层面的东西",
+   "anchor": {
+    "start_line": 12081,
+    "end_line": 12081,
+    "fingerprint": [
+     "生存和安全",
+     "科学和工程"
+    ],
+    "book_code": "SG1",
+    "sha1": "7bcecdf050b82835ea17aabab2109c0b2ab31f54"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "生存建设精神三层次",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对亚当斯名言的概括（12081；原话见C-SG1-U0196-01）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0196-02",
+   "unit_id": "SG1-U0196"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "波义耳哈雷式工作与纳兰性德式贡献谁大很难说，要看人类发展的阶段；当下中国不缺前者少见后者",
+   "quote": "要看处在人类发展的什么阶段",
+   "anchor": {
+    "start_line": 12077,
+    "end_line": 12077,
+    "fingerprint": [
+     "波义耳",
+     "纳兰性德"
+    ],
+    "book_code": "SG1",
+    "sha1": "a6db2fe4c55c06ef5596ab737525b25c1efa69ac"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "贡献评价看发展阶段",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "富贵子弟因生计不愁潜心创作研究例：波义耳哈雷自建实验室天文台、与牛顿等一道开创西方科学时代（12075）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0196-03",
+   "unit_id": "SG1-U0196"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一代人鲤鱼跳龙门能实现不错，更现实的做法是经过几代人努力，让孩子做自己喜欢的事情",
+   "quote": "经过几代人的努力",
+   "anchor": {
+    "start_line": 12083,
+    "end_line": 12083,
+    "fingerprint": [
+     "鲤鱼跳龙门",
+     "喜欢的事情"
+    ],
+    "book_code": "SG1",
+    "sha1": "f1e70c42be82b01389ae4152549b5c6086ae2fe0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "代际努力更现实",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "涉代际人生规划，按人生观归属；非教育制度或升学论述",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0196-04",
+   "unit_id": "SG1-U0196"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0196",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "纳兰性德与晏几道身世及词史地位史实：明珠家世与曹家渊源、惠妃、侍读进士、王国维梁启超评价（12041-12053、12061-12063）"
+  },
+  {
+   "unit_id": "SG1-U0196",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "词作赏析与比较：《长相思》《临江仙》品读、以梦写情、晏几道评价不高的竞争密度解释与“宁为鸡首不为牛后”之叹（12055-12073）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第186封信词人赏析为主：抽亚当斯名言/需求层次/贡献评价/代际努力4卡；身世史实X4、赏析X8"
+}

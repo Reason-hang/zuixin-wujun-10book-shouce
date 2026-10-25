@@ -1,0 +1,215 @@
+{
+ "unit_id": "SG1-U0202",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看似不合理的现象背后必有原因，骂现象解气但无益，应搞清背后原因并看如何从中获利",
+   "quote": "搞清楚这个不合理现象背后的原因",
+   "anchor": {
+    "start_line": 12429,
+    "end_line": 12429,
+    "fingerprint": [
+     "不合理",
+     "获利"
+    ],
+    "book_code": "SG1",
+    "sha1": "ded3f76e1d2c9d018cd838cf035df981fafcb001"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "析因找获利点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "所有人都觉得小鲜肉片酬过高（12423-12427）；欧阳常林“电视台变成给明星打工的”（12427）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-01",
+   "unit_id": "SG1-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工薪阶层下班想娱乐开心，思想内容再好的节目背离人的本性就很难赢得大量观众",
+   "quote": "背离了人的这个本性",
+   "anchor": {
+    "start_line": 12435,
+    "end_line": 12435,
+    "fingerprint": [
+     "本性",
+     "观众"
+    ],
+    "book_code": "SG1",
+    "sha1": "00c94dd6d1b1a89df53df5a667d9096b768782d9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "娱乐顺从人性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "观众追明星抬高了身价（12431）；观众投资电视台都认同其价值后超高收入闭环完成、老艺术家无法形成闭环（12443）；小鲜肉盛行恰因市场规律与观众需要所谓低质量作品（12453）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-02",
+   "unit_id": "SG1-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资人花大价钱请一线明星是为稳妥：不触犯底线至少能播、成本能收回；众人一致推高片酬",
+   "quote": "为了稳妥起见",
+   "anchor": {
+    "start_line": 12437,
+    "end_line": 12437,
+    "fingerprint": [
+     "政治正确",
+     "片酬"
+    ],
+    "book_code": "SG1",
+    "sha1": "a4a426b9e3670ef32db73491d018aa23212c3a8f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D08-1"
+   ],
+   "concept_key": "为确定性付溢价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "请吃不准的演员成本低但更可能彻底失败（12437）；所有投资人都这么想、当红明星片酬被炒上是必然（12437）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-03",
+   "unit_id": "SG1-U0202"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "欧阳常林：人性需要顺从不能压抑，对观众喜好只能疏导不能压制，与其限制明星不如培养更多明星",
+   "quote": "只能疏导不能压制",
+   "anchor": {
+    "start_line": 12455,
+    "end_line": 12455,
+    "fingerprint": [
+     "顺从",
+     "培养出更多的明星"
+    ],
+    "book_code": "SG1",
+    "sha1": "add4304ffa2c7bb8681c698924907a08478192f1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "疏导胜于压制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=欧阳常林（湖南台前台长）；其培养《还珠格格》超级女声谢娜汪涵等创造收视奇迹（12457）；吴军的商业分析见C-SG1-U0202-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-04",
+   "unit_id": "SG1-U0202"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "欧阳常林：明星会很快过气，好的媒体要不断造星，而不是简单地围着明星转",
+   "quote": "不断造星",
+   "anchor": {
+    "start_line": 12459,
+    "end_line": 12459,
+    "fingerprint": [
+     "过气",
+     "围着明星转"
+    ],
+    "book_code": "SG1",
+    "sha1": "24b2a9593b60d3c1354a8a7eb9b1938fbd0dd207"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "造星胜于围星",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=欧阳常林；对比抄袭节目形式的电视台负责人是数量级差距（12459）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-05",
+   "unit_id": "SG1-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人生影响力是长度、宽度和深度三者的乘积：杰克逊宽而浅短，莫扎特贝多芬窄而深且绵绵不绝",
+   "quote": "长度、宽度和深度三者的乘积",
+   "anchor": {
+    "start_line": 12461,
+    "end_line": 12461,
+    "fingerprint": [
+     "人生是一条河",
+     "莫扎特"
+    ],
+    "book_code": "SG1",
+    "sha1": "e8257da332a50885845dc89a7572bc0f3d8167e9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "人生是一条河",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出自第52封信（12461）；靠颜值明星与追求艺术境界者是橘子苹果、各走各路无可比性（12463-12465）；不少戏骨当年也是小鲜肉、眼红只能怪生不逢时（12465）；对生活充满感激做好自己的事（12467）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-06",
+   "unit_id": "SG1-U0202"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一次正确的投资挣大钱不难，难在长期稳定地挣钱，要做到这一点就要守纪律",
+   "quote": "长期稳定地挣钱",
+   "anchor": {
+    "start_line": 12445,
+    "end_line": 12447,
+    "fingerprint": [
+     "守纪律",
+     "风险意识"
+    ],
+    "book_code": "SG1",
+    "sha1": "91cfaf26c630a918b4a9e766be5fdb742fb54a13"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "长期挣钱靠守纪律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "退出投资该剧者思路正确、看似错失赚钱机会（12445）；沉重题材无补贴挣不回钱是市场规律、投资高艺术水平作品靠情怀相当于做慈善（12447）；思考题“必然的失败要比偶然的成功来得好”（12469）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0202-07",
+   "unit_id": "SG1-U0202"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0202",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点时事与行业数据：热播剧投资毁约、近40位戏骨总片酬4800万、当红演员片酬与限薪动议、省以上电视台仅约20%盈利、县市台靠莆田系、节目90%无价值（12415-12441）"
+  },
+  {
+   "unit_id": "SG1-U0202",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "王蒙反感“小鲜肉”“颜值”二词的引文及吴军对其的反驳（12451-12453）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第192封信小鲜肉现象：抽析因/娱乐本性/确定性溢价/疏导造星（转述2卡）/人生一条河/守纪律7卡；时事数据X2、王蒙引文X7"
+}

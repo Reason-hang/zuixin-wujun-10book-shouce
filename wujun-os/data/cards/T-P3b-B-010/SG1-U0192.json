@@ -1,0 +1,106 @@
+{
+ "unit_id": "SG1-U0192",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "仅凭过去购买行为预测未来需求会失准，结合实时活动数据即可避免误判",
+   "quote": "预测未来的购买需求",
+   "anchor": {
+    "start_line": 11819,
+    "end_line": 11819,
+    "fingerprint": [
+     "购买行为",
+     "不准确"
+    ],
+    "book_code": "SG1",
+    "sha1": "75dc633018c5f398383efdffcf20078035e0568c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "预测需求需实时数据",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "亚马逊Echo按购买习惯提醒补货高尔夫球例（11817）；未来可得知去球场次数与丢球数、球可直接送到常去球场为前瞻设想归X6（11819）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0192-01",
+   "unit_id": "SG1-U0192"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "特斯拉记录出厂汽车全部运行状态，故障维修凭历史数据远程定位，保养成本非常低",
+   "quote": "保养成本非常低",
+   "anchor": {
+    "start_line": 11833,
+    "end_line": 11833,
+    "fingerprint": [
+     "特斯拉",
+     "运行状态"
+    ],
+    "book_code": "SG1",
+    "sha1": "378217a58842fc2784d36719bac69d9e5303467b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "全程数据降维护成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与金风案例同理，跟踪经济带来的好处（11833；参见C-SG1-U0191-03）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0192-02",
+   "unit_id": "SG1-U0192"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "可穿戴设备的“业余”长期跟踪比一次专业检测更有意义；健康威胁很大程度上源于对自己状态不自知",
+   "quote": "比一次专业的检测更有意义",
+   "anchor": {
+    "start_line": 11835,
+    "end_line": 11835,
+    "fingerprint": [
+     "可穿戴式设备",
+     "不自知"
+    ],
+    "book_code": "SG1",
+    "sha1": "874fdc09dd6d55a27303d52afcc0d418245c96db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-2"
+   ],
+   "concept_key": "长期跟踪胜单次检测",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "过去了解自身状态非常困难（11835）；去医院前医生已较准确了解病情为前瞻设想归X6（11835）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0192-03",
+   "unit_id": "SG1-U0192"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0192",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "第三代互联网与万物互联框架及前瞻场景：第一代计算机联网、第二代本质是人间联网、第三代核心是人，智能汽车与商场自动结算、出门前汽车知道去向、2030年IoT经济增量70000亿美元估计（11801-11837）"
+  },
+  {
+   "unit_id": "SG1-U0192",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "健康与疾病预测科普：健康很大程度取决于基因、美国45%的人死于三种基因相关慢性病、人类长寿公司终身健康跟踪服务、Grail验血测癌定位与药物敏感性（11821-11831）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第182封信跟踪经济下预测为主：抽需求预测/维护成本/长期跟踪3卡；趋势X6、健康科普X8"
+}

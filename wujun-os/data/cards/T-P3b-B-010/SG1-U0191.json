@@ -1,0 +1,105 @@
+{
+ "unit_id": "SG1-U0191",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跟踪每笔交易细节过去做不到且得不偿失，IoT普及后用机器智能完成是轻而易举的",
+   "quote": "跟踪每一个交易的细节",
+   "anchor": {
+    "start_line": 11761,
+    "end_line": 11761,
+    "fingerprint": [
+     "IoT",
+     "轻而易举"
+    ],
+    "book_code": "SG1",
+    "sha1": "e61483e3aaa42ebc72dc80308384061452d10096"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "跟踪使监管变轻而易举",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "酒吧23%的酒被偷喝、酒架改装1-2万美元加25美分传感器即全程记录例（11757-11759）；未来商业精确到每人每笔每中间过程为前瞻论断归X6（11755）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0191-01",
+   "unit_id": "SG1-U0191"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区块链加传感器让消费者跟踪每瓶药的全部流通环节，假药问题才可能从根本上解决",
+   "quote": "从根本上解决",
+   "anchor": {
+    "start_line": 11767,
+    "end_line": 11767,
+    "fingerprint": [
+     "区块链",
+     "假药"
+    ],
+    "book_code": "SG1",
+    "sha1": "b5e8347a3dd01d65ac57c245b7122c61c35ffdde"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "全程可追溯根治造假",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "领域直连（供应链追溯）；城市药店高比例无效药、渠道多链条长无人能彻查（11763）；二维码逐箱扫描不可行（11765）；三技术：IoT监控过程、机器智能承担计算、区块链记录（11769）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0191-02",
+   "unit_id": "SG1-U0191"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跟踪数据让厂家从一次性卖产品转向持续运营服务：金风由风机制造转为发电设备运营和服务",
+   "quote": "持续不断地挣钱",
+   "anchor": {
+    "start_line": 11779,
+    "end_line": 11781,
+    "fingerprint": [
+     "金风",
+     "运营和服务"
+    ],
+    "book_code": "SG1",
+    "sha1": "04d6e209c86ae9d10c2db0a66184c1c318c7a0f4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "跟踪驱动制造转服务",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "金风案例出自《智能时代》（11779）；过去对运行情况一无所知只能由当地工程商维护（11779）；跟踪经济对消费者和厂家都有利（11777-11781）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0191-03",
+   "unit_id": "SG1-U0191"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0191",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "跟踪经济趋势预测：未来商业精确到每个人每笔交易每个中间过程、新一代IT基础架构在建、哪家食品店用劣质原材料一清二楚、万物互联核心是人（11755-11783）"
+  },
+  {
+   "unit_id": "SG1-U0191",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "区块链技术原理科普：特殊账本、产生区块与交易成链、可随意组合打散、比特币只是不大的用途（11771-11773）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第181封信跟踪经济上：抽监管/追溯/制造转服务3卡；趋势预测X6、技术原理科普X8"
+}

@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0193",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1J",
+ "batch_id": "T-P3b-B-010",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "颠覆性创新并不多且不可期望，新技术并不颠覆原有产业而是让它改头换面",
+   "quote": "而是让它改头换面",
+   "anchor": {
+    "start_line": 11859,
+    "end_line": 11859,
+    "fingerprint": [
+     "颠覆性创新",
+     "互联网＋"
+    ],
+    "book_code": "SG1",
+    "sha1": "8232189befa5b97fba6d79517ffd5e8b05306420"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "新技术升级而非颠覆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "“互联网＋”只有加法一半、以为什么都能往上套无异于闭门造车（11859）；百年电话改变产业而无“电话＋”概念（11861）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0193-01",
+   "unit_id": "SG1-U0193"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技术革命范式：原有产业＋蒸汽机/电/计算机＝新产业；深刻认识现有产业规律，原有产业是入手点",
+   "quote": "原有产业是入手点",
+   "anchor": {
+    "start_line": 11867,
+    "end_line": 11877,
+    "fingerprint": [
+     "蒸汽机",
+     "新产业"
+    ],
+    "book_code": "SG1",
+    "sha1": "b88f78b58816a951922df2d94c026bb8b5dcbc77"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "原有产业加新技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "韦奇伍德把蒸汽机引入瓷器业、产业从供不应求到供大于求（11865）；电解铜改变冶铜业（11869）；银行业广告业零售业以更高效形式存在（11875）；鄙视原有产业者转一圈回到原点、新技术已落伍（11879）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0193-02",
+   "unit_id": "SG1-U0193"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司创业不该和大公司比拼AI基础技术，而应与现有产业合作、用新技术完成产业升级",
+   "quote": "去和现有产业合作",
+   "anchor": {
+    "start_line": 11881,
+    "end_line": 11881,
+    "fingerprint": [
+     "小公司",
+     "基础技术"
+    ],
+    "book_code": "SG1",
+    "sha1": "643fee8819221655ed9937d75a18e129491b33b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "小公司合作升级产业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "称技术比Google好近乎为零、投资人不会信（11885）；AI发展很大程度上靠数据和计算机数量、李飞飞也去Google工作（11885）；合作是今后创业的方式（11887）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0193-03",
+   "unit_id": "SG1-U0193"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智能时代三类公司受益：技术领先的大公司、有大量数据的传统公司、深入原有产业用新技术解决其问题的公司",
+   "quote": "这是一种苦活、脏活",
+   "anchor": {
+    "start_line": 11883,
+    "end_line": 11883,
+    "fingerprint": [
+     "三种",
+     "低利润"
+    ],
+    "book_code": "SG1",
+    "sha1": "1aa7d78d776a3307b853220c61a6d6b19f8e775e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "智能时代三类受益公司",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第三类是苦活脏活低利润，正因大公司不愿做才给小公司机会（11883）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0193-04",
+   "unit_id": "SG1-U0193"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0193",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "颠覆性创新与“互联网＋”概念热度及融资现状的时点论断：没产生像样成果、今天拿概念去融资恐怕没人投（11857）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第183封信合作经济：抽升级范式/原有产业入手/小公司合作/三类受益公司4卡；概念热度时点论断X2"
+}
