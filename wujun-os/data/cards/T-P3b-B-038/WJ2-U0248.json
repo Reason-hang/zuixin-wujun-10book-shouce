@@ -1,0 +1,175 @@
+{
+ "unit_id": "WJ2-U0248",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "媒体常刻意选择部分证据给出惊人结论：'大部分名人不会理财'不成立，其理财水平与常人相当",
+   "quote": "刻意选择部分的证据",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 19995,
+    "end_line": 19995,
+    "sha1": "0ff03c805db2ca8649751eba7d15406ddf1dfd1f",
+    "fingerprint": [
+     "媒体",
+     "证据"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "媒体选择性证据",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "毕加索/达利/夏加尔都很会理财；米开朗基罗遗产5万弗洛林≈350亿人民币、超保护人现金财富（19999）；凯恩斯总体过得不错（20001）；媒体爱名人例：震撼+好举（20013）",
+   "claim_id": "C-WJ2-U0248-01",
+   "unit_id": "WJ2-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "会否理财与名人身份无关：四种组合（A/B、A/非B、非A/B、非A/非B）都存在，推不出因果",
+   "quote": "没有关系",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20005,
+    "end_line": 20009,
+    "sha1": "087902753842556fc62cf0702fa5909673f5db98",
+    "fingerprint": [
+     "理财",
+     "明星"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "相关非因果四格",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "学了逻辑课思考时又用旧思维=白学（20011）；答王登峰问",
+   "claim_id": "C-WJ2-U0248-02",
+   "unit_id": "WJ2-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "钱来得容易就不会珍惜：名人胡乱投资大手大脚，现金流断而习惯不变即陷窘境",
+   "quote": "凡事来得容易，就不会太珍惜",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20023,
+    "end_line": 20023,
+    "sha1": "0bbeae0e68e0f7d2ac7ea6023d6b663e5b058935",
+    "fingerprint": [
+     "投资",
+     "习惯"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "易得钱不珍惜",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "流量明星赢者通吃挣钱比前辈多一个数量级；伦勃朗、特斯拉住华尔道夫交不起房租也不搬家——习惯改不了（20025）",
+   "claim_id": "C-WJ2-U0248-03",
+   "unit_id": "WJ2-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "本行业的事换个角色也可能不擅长：明星当老板（影视/球队/出版）常不如当从业者赚钱",
+   "quote": "换一个角色，也就可能不擅长了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20033,
+    "end_line": 20033,
+    "sha1": "a264d38d8afa357f38fe0c17e4aa2fdce191aa8f",
+    "fingerprint": [
+     "擅长",
+     "角色"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "换角色即外行",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "票房扣成本几乎无利润、主演挣得更多；乔丹投资球队一地鸡毛；马克·吐温投出版血本无归还错失贝尔电话（20029-20031）；熟行业也有'孩子越看越可爱'的偏爱（20029）",
+   "claim_id": "C-WJ2-U0248-04",
+   "unit_id": "WJ2-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有钱就会被盯上：有判断力可选到好的专业人士，没有判断力则易被忽悠而亏损",
+   "quote": "被别人盯上",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20035,
+    "end_line": 20035,
+    "sha1": "bd46d23daacf4b9d146ac2780140484407706f3c",
+    "fingerprint": [
+     "判断力",
+     "忽悠"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "有钱被盯上",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "谷歌上市时楼外天天守着财富经理/税务师/信托律师；谷歌员工精明谁也忽悠不了谁，NBA明星找错人亏损重",
+   "claim_id": "C-WJ2-U0248-05",
+   "unit_id": "WJ2-U0248"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "靠运气挣的钱会因实力不够还回去；更要小心：靠实力挣的钱可能因无知还回去",
+   "quote": "因为无知还回去",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20037,
+    "end_line": 20037,
+    "sha1": "24f6cc2b8917607626a5b06fd50489ad04979593",
+    "fingerprint": [
+     "运气",
+     "实力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "实力钱因无知还回",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "收束句；对本轮提问者的最终回答",
+   "claim_id": "C-WJ2-U0248-06",
+   "unit_id": "WJ2-U0248"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "名人理财迷思：媒体选择性证据+四格无关+易得钱不珍惜+换角色即外行+被盯上+无知还钱"
+}

@@ -1,0 +1,182 @@
+{
+ "unit_id": "WJ2-U0259",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断真懂的标准是能讲清楚：让孩子讲给你听，追问两句即露馅；口试与面试追问同理",
+   "quote": "看看能不能讲清楚",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20817,
+    "end_line": 20821,
+    "sha1": "6521ec84c709a2396711ec8dd85b50c1e54d7757",
+    "fingerprint": [
+     "口试",
+     "讲清楚"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "讲清楚才算懂",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "斯坦福/JHU博士资格口试；大公司面试顺着思路追问即辨真懂假懂；《计算之魂》答到哪步懂多少；同学互讲到一半翻书=没懂（20825）",
+   "claim_id": "C-WJ2-U0259-01",
+   "unit_id": "WJ2-U0259"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有既省事、结果又好的事：想判断孩子真懂就得花时间花钱，别指望一用就灵的简单答案",
+   "quote": "世界不是围绕你或者你家孩子转的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20827,
+    "end_line": 20827,
+    "sha1": "529b0004e7a9684548c06716f017c7b999b2b7cf",
+    "fingerprint": [
+     "省事",
+     "偷懒"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "无省事又好的事",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "答Todd/小太阳在泸州；请负责任的家教替你做'听讲'这件事",
+   "claim_id": "C-WJ2-U0259-02",
+   "unit_id": "WJ2-U0259"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "首要问题不是怎么做而是该不该做：普通人（乃至华尔街大部分专业人士）做不到准确估值",
+   "quote": "不是怎么做，而是该不该做",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20841,
+    "end_line": 20843,
+    "sha1": "60d4c83d2f1b98064be0e49599a50fe860583f88",
+    "fingerprint": [
+     "估值",
+     "该不该"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "该不该先于怎么做",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "并购案例中不同人估值差一个数量级（20841）；吴军18年专业投资的条件普通人没有（20839）；答Shaper杨",
+   "claim_id": "C-WJ2-U0259-03",
+   "unit_id": "WJ2-U0259"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "普通人纠结选股已输一大半、再判断买卖时点输95%；不是公司前5%就别信自己的专业投资能力",
+   "quote": "就已经输掉一大半了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20845,
+    "end_line": 20849,
+    "sha1": "098db4e793381737139f9806c9da5a3eae60c950",
+    "fingerprint": [
+     "选股",
+     "运气"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "选股即输",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "觉得自己能挑到别人没看见的便宜货是被收割第一步（20845）；段永平财商+独到眼光+上亿美元交易，普通人随大盘走（20847）；挑哪只股票不属于人生重大决定（20849，互参U0230十次选择）",
+   "claim_id": "C-WJ2-U0259-04",
+   "unit_id": "WJ2-U0259"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "打工还是创业要站哲学层看：生命是短暂的存在，存在本身就是意义，把生活过好",
+   "quote": "存在本身，就是你生命的意义",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20863,
+    "end_line": 20863,
+    "sha1": "75b78c3edbc6fa84daecf3fce1bf46bd4798e505",
+    "fingerprint": [
+     "存在主义",
+     "死亡"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "向死而生",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "周国平《向死而生》寓言转述：走向死亡的队伍因交谈而有了说笑——这就是人生；别信'XX年永生'的鬼话；答攻城狮'普通人尽头是打工'之问",
+   "claim_id": "C-WJ2-U0259-05",
+   "unit_id": "WJ2-U0259"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工作两目的：劳动获资源与生活充实；能力与工作须匹配，与过好生活一致的事再苦也做、无关则放弃",
+   "quote": "能力和工作匹配",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20865,
+    "end_line": 20873,
+    "sha1": "66e6d859de1a39950af2b1a1281fd234e4f66df9",
+    "fingerprint": [
+     "充实",
+     "放弃"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "工作两目的与匹配",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "能力与要求不匹配要么辛苦要么大材小用；创业辛苦超想象、成功者说早知不干（20869）；对自己宽容一点好一点",
+   "claim_id": "C-WJ2-U0259-06",
+   "unit_id": "WJ2-U0259"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0259",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "Todd（家校协同长引文含李希贵校长建议）、小太阳在泸州、Shaper杨（段永平引文）、攻城狮四位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答42：讲清楚才算懂/该不该先于怎么做/选股即输/向死而生/工作两目的"
+}

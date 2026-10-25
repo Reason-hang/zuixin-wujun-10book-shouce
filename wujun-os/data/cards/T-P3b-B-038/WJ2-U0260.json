@@ -1,0 +1,121 @@
+{
+ "unit_id": "WJ2-U0260",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'人人生而平等'是误译：《独立宣言》原文是'被平等地创造出来'，造物主赋予的仅生命、自由、追求幸福三权",
+   "quote": "从来没有说过人人生而平等",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20909,
+    "end_line": 20913,
+    "sha1": "bdd14a90113c9af257566f9989c62714257ab5e4",
+    "fingerprint": [
+     "created equal",
+     "蓄养奴隶"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "生而平等是误译",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "国父多蓄奴且限财产选举权；选举权财产限制到杰克逊、黑人到格兰特、妇女到1920年（20911）；《世界人权宣言》通篇无'生而平等'，只有'生而自由，在尊严和权利上一律平等'（20943-20945）；高等教育按成绩开放（20953）",
+   "claim_id": "C-WJ2-U0260-01",
+   "unit_id": "WJ2-U0260"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "self-evident 应译'不证自明'（公理）而非'不言而喻'：《独立宣言》结构仿《几何原本》先设公理",
+   "quote": "不证自明",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20905,
+    "end_line": 20907,
+    "sha1": "1930a8dac47c9683eab0503771c0a283193a309d",
+    "fingerprint": [
+     "公理",
+     "独立宣言"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "不证自明的公理",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "只有最初的公理不证自明；早期翻译家不懂逻辑学与理性主义哲学、不知杰斐逊的科学家一面",
+   "claim_id": "C-WJ2-U0260-02",
+   "unit_id": "WJ2-U0260"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "齐夫定律才是世界真实分布而非平均分布：少数占大头是常态，强行拉平如限定乔丹弹跳20厘米",
+   "quote": "平均分布不是",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20931,
+    "end_line": 20931,
+    "sha1": "41d9a0dc05ad3e88eb4bd998d807c0944a6b656d",
+    "fingerprint": [
+     "齐夫定律",
+     "乔丹"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "齐夫定律与平等",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "3%城市面积住一大半人口；'生在罗马'网络语（20921）；无偿占有富人财富与占有穷人劳动同样不合理；教育照顾后进可以、限制学得快的适得其反",
+   "claim_id": "C-WJ2-U0260-03",
+   "unit_id": "WJ2-U0260"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理解一句话要看原文、看上下文；好听的说法若不符合事实，只是借名人背书安慰自己",
+   "quote": "要看原文，看上下文",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20967,
+    "end_line": 20967,
+    "sha1": "42e12f542ccd3da91033d10bc84b1efeaa1cd09e",
+    "fingerprint": [
+     "原文",
+     "背书"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "看原文上下文",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "与U0251信息核出处、U0182语境前提同族互参",
+   "claim_id": "C-WJ2-U0260-04",
+   "unit_id": "WJ2-U0260"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "'生而平等'误译考：原文公理/齐夫定律真分布/看原文上下文"
+}

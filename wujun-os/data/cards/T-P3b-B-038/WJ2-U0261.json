@@ -1,0 +1,93 @@
+{
+ "unit_id": "WJ2-U0261",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "手欠是不该动的乱动：能不动手就不动手，动手前慢三秒；对不熟悉的东西动手常闯祸",
+   "quote": "能不动手就不动手",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20999,
+    "end_line": 20999,
+    "sha1": "5e5bf47329d68fb40e1581fcaef6bf49c71aa22e",
+    "fingerprint": [
+     "手欠",
+     "动手"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D07-1"
+   ],
+   "concept_key": "手欠",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "三例：老人锁门/关电脑/蛮力搞坏院门修锁千元、剩菜盖不透明盖子发霉伤肺、借房朋友用坏大马士革刀与法国锅（20991-20997）；原因多样表现相同，从原因杜绝难、慢三秒可行",
+   "claim_id": "C-WJ2-U0261-01",
+   "unit_id": "WJ2-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "嘴欠三表现：不看时机对象、讲不合时宜的话、带情绪说话；根源是把自己当作世界的中心",
+   "quote": "把自己当作世界的中心",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21003,
+    "end_line": 21013,
+    "sha1": "313207d6588c0e245f9cd9e2c260f44f4ba23905",
+    "fingerprint": [
+     "嘴欠",
+     "口舌罪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "嘴欠三表现",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "贺若弼因口舌罪被诛（21007）；信息被接受一半靠内容一半靠方式（21011）；在掌握前途者面前嘴欠代价最大；嘴像刀子伤人也反噬",
+   "claim_id": "C-WJ2-U0261-02",
+   "unit_id": "WJ2-U0261"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "脑欠三表现：代人受过自怨自艾、盯着消极面、过度解读他人想法；用别人的错误惩罚自己最愚蠢",
+   "quote": "用别人的错误来惩罚自己",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 21023,
+    "end_line": 21037,
+    "sha1": "fd13a6fc5500b32f8e71cdc0c355f5c9456b18f0",
+    "fingerprint": [
+     "脑欠",
+     "消极面"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "脑欠三表现",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "谷歌幼儿园监控例（胡思乱想）；花肥朋友例：糟心事最好不过脑（21033）；'妻子与新同事吃饭'过度解读例（21037）",
+   "claim_id": "C-WJ2-U0261-03",
+   "unit_id": "WJ2-U0261"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "人有三欠：手欠（慢三秒）/嘴欠（三表现）/脑欠（三表现）"
+}

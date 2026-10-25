@@ -1,0 +1,129 @@
+{
+ "unit_id": "WJ2-U0252",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成年人的世界要小：办不到的事与自己无交集，删掉后世界简单、事情做得更好",
+   "quote": "知道很多事情办不到",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20289,
+    "end_line": 20295,
+    "sha1": "ba9bacf02ef38a7f03650edb9cf66819740cdc36",
+    "fingerprint": [
+     "办不到",
+     "交集"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "成年人世界要小",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "老人坐飞机被两句话教育：航空公司不是我家开的、花钱买的只是安全送达的合同（20293-20295）；'顾客是上帝'是鬼话（20297）；考试划范围类比+把'万一呢'从词典删掉（20299）；70岁也可能只是17岁心智",
+   "claim_id": "C-WJ2-U0252-01",
+   "unit_id": "WJ2-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自由是双向的：你有做事的自由，别人也有接受与不接受的自由",
+   "quote": "接受和不接受的自由",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20303,
+    "end_line": 20309,
+    "sha1": "18733e5185d2e53c9c9a41ddbb22729c94500999",
+    "fingerprint": [
+     "自由",
+     "接受"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "自由是双向的",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "纹身姑娘相亲例（自己的打扮自由vs别人的接受自由）；一厢情愿对人好别指望对等回报——对方有他的自由",
+   "claim_id": "C-WJ2-U0252-02",
+   "unit_id": "WJ2-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成年人的世界都是算计的，只是维度不同：欧美算小账、中式婚姻算硬件账，双方家庭保持理性",
+   "quote": "算计的维度不同",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20313,
+    "end_line": 20315,
+    "sha1": "fbb596791069f98f0e5869cd83755abc45b99e4d",
+    "fingerprint": [
+     "算计",
+     "理性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D08-1"
+   ],
+   "concept_key": "人人都在算",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "恋爱脑的是两人、理性的是双方家庭；丈母娘只提硬件不提情感要求；婚前试住=从感性变理性的过程（20317）",
+   "claim_id": "C-WJ2-U0252-03",
+   "unit_id": "WJ2-U0252"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成年人接受不那么坏的结果而非最好：雅虎与谷歌和解——打到底能打死对方但自己也会被拖垮",
+   "quote": "一个不那么坏的结果",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20321,
+    "end_line": 20325,
+    "sha1": "743d3cc65a21b4f3aeb04a0f8535c2ceb10cd25d",
+    "fingerprint": [
+     "和解",
+     "官司"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D03-2"
+   ],
+   "concept_key": "不求最好只求不坏",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "谷歌赔雅虎价值数亿美元股票（今天看比雅虎本身值钱）；战争双方和解同理；青年要完美社会，成年人要中间结果",
+   "claim_id": "C-WJ2-U0252-04",
+   "unit_id": "WJ2-U0252"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0252",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'Deabe'同学长留言（婚姻四问的感性理性讨论）为读者发言本体，X7留痕；文末延伸学习为结构内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "什么叫做成年人：世界要小/自由双向/人人都在算/不求最好只求不坏"
+}

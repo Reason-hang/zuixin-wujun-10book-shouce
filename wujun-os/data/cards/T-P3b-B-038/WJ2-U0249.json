@@ -1,0 +1,106 @@
+{
+ "unit_id": "WJ2-U0249",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "在老婆面前说妈妈好话、在妈妈面前说老婆好话；一方批评另一方时永不帮腔、起哄、服软（人事主管）",
+   "quote": "说妈妈的好话",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20067,
+    "end_line": 20069,
+    "sha1": "0e4b677166f5578be595dc0e4948660249fbeecd",
+    "fingerprint": [
+     "帮腔",
+     "服软"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "两边说好话不帮腔",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=小常单位人事主管（几十年调停经验）；理由：妈妈怎么得罪都不会跑，配偶得罪多了会跑（20069）；X5语境按方法论例外成卡（两方斡旋普适）；小常结局：母亲把儿媳当女儿、由儿媳送终（20071）",
+   "claim_id": "C-WJ2-U0249-01",
+   "unit_id": "WJ2-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "态度挑明就不变：自己的态度摇摆，周围人就看到影响你的可能；公司规矩从无例外才没人说情",
+   "quote": "态度不挑明，什么技巧都没用",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20089,
+    "end_line": 20091,
+    "sha1": "54c6df487084c6de7062c882e39393dda7e8354f",
+    "fingerprint": [
+     "态度",
+     "规矩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "态度挑明原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "道理想通做法技巧高低影响不大；有弹性的位置=人人来说情（老李贪污老刘说情）；公司例为吴军自给的普适化",
+   "claim_id": "C-WJ2-U0249-02",
+   "unit_id": "WJ2-U0249"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "所谓两难大多已做出选择；成年人的世界是选择不是教育：教育不好父母，也教育不好配偶",
+   "quote": "选择，不是教育",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20107,
+    "end_line": 20109,
+    "sha1": "a8ab06196b28cdab6e420dda7b02e40e268e4e20",
+    "fingerprint": [
+     "两难",
+     "教育"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "选择而非教育（亲属版）",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与U0199'选择而非教育'同族互参（同名键留P4归并）；第198/200封信互引",
+   "claim_id": "C-WJ2-U0249-03",
+   "unit_id": "WJ2-U0249"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0249",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲属顺序（配偶子女父母）与美国继承法、保大人保小孩、伴侣=镜中你与双方认可等婚姻家庭本体讨论按X5留痕"
+  },
+  {
+   "unit_id": "WJ2-U0249",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'奇·哈斯''李冲'两位读者留言引文为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "夹心层：沟通两句话/态度挑明/选择非教育三张普适卡，家庭本体X5留痕"
+}

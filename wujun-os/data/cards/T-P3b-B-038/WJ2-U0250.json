@@ -1,0 +1,73 @@
+{
+ "unit_id": "WJ2-U0250",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不存在投入很少、回报却很高的教育：美国医生高薪背后是14年学制与每步筛选的风险",
+   "quote": "回报却很高的教育",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20181,
+    "end_line": 20181,
+    "sha1": "e59ee4b671be1df230645ade61c52cdddc7f08ee",
+    "fingerprint": [
+     "筛选",
+     "风险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "教育投入回报律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "4+4+住院医2-3年+专科培训3年≈高中起14年，三十出头才有第一份工作年薪50万；有机化学得B即淘汰（20171）；邻居board高分仍第一年没找到医院（20167）",
+   "claim_id": "C-WJ2-U0250-01",
+   "unit_id": "WJ2-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "信号被扎堆稀释：但凡一群人扎堆做什么，它就不再稀缺而贬值（奥数队也进不了哈佛）",
+   "quote": "什么就变得不值钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20155,
+    "end_line": 20155,
+    "sha1": "f1bdde54b4d0f4fcc005afce787fbc40f3ddfe95",
+    "fingerprint": [
+     "亚裔",
+     "不值钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "扎堆即贬值",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "名校为限亚裔搞非学业考察→包装竞赛→学业规划生意崛起=锦上添花；与'充分竞争零利润'（U0187）同族互参",
+   "claim_id": "C-WJ2-U0250-02",
+   "unit_id": "WJ2-U0250"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0250",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "教培行业价值与前景（学生数减半/双减背景）、三类上好大学人群、美国医学院学制/MD-JD学位/继承细节等教育制度本体按X5留痕，两条普适判断已例外成卡；文末彭绍连留言X7并入本条理由"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "教育两话题：只抽投入回报律与扎堆贬值两条普适判断，教培/学制本体X5"
+}

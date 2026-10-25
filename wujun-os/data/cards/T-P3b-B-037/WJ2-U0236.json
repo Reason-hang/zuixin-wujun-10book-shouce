@@ -1,0 +1,159 @@
+{
+  "unit_id": "WJ2-U0236",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ15R",
+  "batch_id": "T-P3b-B-037",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0236-01",
+      "unit_id": "WJ2-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "再权威再占统治地位的科学理论都可能被推翻；科学不是正确的结论，而是有效得到正确结论的方法",
+      "quote": "科学从来就不意味着正确的结论",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 19095,
+        "end_line": 19095,
+        "sha1": "860639666b753af8db956df486af8a97191ca826",
+        "fingerprint": [
+          "科学",
+          "正确结论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "科学是方法非结论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "总结第一点；标题'事实总是对的'呼应本卡与下卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0236-02",
+      "unit_id": "WJ2-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "当理论和事实不相符的时候，事实总是对的，需要修改的是理论",
+      "quote": "事实总是对的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 19069,
+        "end_line": 19069,
+        "sha1": "60531de9f701fffc4c0c353ae46321ae0a93bf3b",
+        "fingerprint": [
+          "理论和事实",
+          "修改"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "事实优先于理论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "总结第二点(19097)重申；标准宇宙模型被观测颠覆为承载例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0236-03",
+      "unit_id": "WJ2-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "真正的学者是不断颠覆现有结论而非死守教条的人；科学外领域结论可信度更低，不要神话专家学者",
+      "quote": "不要去神话专家学者",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 19099,
+        "end_line": 19099,
+        "sha1": "4cf59dec84b8874d4e88c294a651cd738d9e3fee",
+        "fingerprint": [
+          "教条",
+          "颠覆"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "不神话专家学者",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "总结第三点"
+    },
+    {
+      "claim_id": "C-WJ2-U0236-04",
+      "unit_id": "WJ2-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "理论做不到量化、无观察实验数据支持，只能算科幻或假说，不能算真正的理论",
+      "quote": "最多算是假说",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 19045,
+        "end_line": 19045,
+        "sha1": "8e70c7491d93154ce172b807de5f4ab1d10aad12",
+        "fingerprint": [
+          "量化",
+          "观察实验"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "理论须数据支持",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "判别理论与假说的标准"
+    },
+    {
+      "claim_id": "C-WJ2-U0236-05",
+      "unit_id": "WJ2-U0236",
+      "speaker": "吴军本人",
+      "claim_text": "重大科学结论需要5个西格玛（99.9999%）的置信度，3个西格玛（99.7%）还不够高",
+      "quote": "需要5 个西格玛的置信度",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 19081,
+        "end_line": 19081,
+        "sha1": "aefa320e872c7092c0e476f603d39af1c7b832af",
+        "fingerprint": [
+          "西格玛",
+          "置信度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "五西格玛置信度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以里斯团队暗能量结论置信度4.2西格玛为例证并入本卡"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0236",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "宇宙学史叙述主体（19029-19089：大爆炸与标准宇宙模型、韦伯望远镜三项观测挑战、暗能量变化、黑洞宇宙学）为纯科学史科普，方法论句已例外成卡；里斯、沙米尔观点为转述成分随叙述排除"
+    },
+    {
+      "unit_id": "WJ2-U0236",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "19103-19119用户留言（黃泊淳Only）为读者发言，作者回复'你得到了'为寒暄，无独立判断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "科学史叙述本体按X4排除，但总结三点及理论判据、置信度标准等可迁移方法论判断独立成卡"
+}

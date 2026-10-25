@@ -1,0 +1,173 @@
+{
+ "unit_id": "WJ2-U0254",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "虚荣、骄傲、荣誉、自豪是四个不同概念：不是度的差别，而是要搞清区别、坚持一些摒弃另一些",
+   "quote": "四个不同的概念",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20449,
+    "end_line": 20449,
+    "sha1": "4b43e5e3d4d7f5e4d0b8170032ae67d8dcf65bf3",
+    "fingerprint": [
+     "概念",
+     "度的差别"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "四概念非度之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中文词汇量低靠语境辨义易混概念（20443）；叔本华：愚蠢生三芽=野心/虚荣/骄傲，对应褒义雄心/荣誉/自豪（20445）",
+   "claim_id": "C-WJ2-U0254-01",
+   "unit_id": "WJ2-U0254"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "骄傲是坚信自己至高价值的自我欣赏；虚荣是渴望别人相信自己有价值（叔本华）",
+   "quote": "至高无上的价值",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20453,
+    "end_line": 20453,
+    "sha1": "eb30805585ae5a0843a996820a615e8d2668ea4e",
+    "fingerprint": [
+     "叔本华",
+     "虚荣"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "骄傲与虚荣之别",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=叔本华；网红拼团租豪车求点赞=虚荣典型（20457）；虚荣夸夸其谈、骄傲沉默寡言不屑取悦（20463）",
+   "claim_id": "C-WJ2-U0254-02",
+   "unit_id": "WJ2-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "虚荣与骄傲者共同点是玻璃心：被揭穿或被否定即崩溃，且容易成为被攻击对象",
+   "quote": "都是玻璃心",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20463,
+    "end_line": 20469,
+    "sha1": "bca22fb01fa0db13bfcdc7456cfa8d9a25419c49",
+    "fingerprint": [
+     "玻璃心",
+     "脆弱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "虚荣骄傲皆玻璃心",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "揭穿假名牌豪车即蔫、否定哈佛学历即蒸发（20465-20467）；虚荣更脆弱：先放下自尊讨好一些人再到另一些人处求满足；《孟子》齐人一妻一妾乞墦例（20469）",
+   "claim_id": "C-WJ2-U0254-03",
+   "unit_id": "WJ2-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "荣誉基于真实的能力与成就且有时效性：躺在荣誉簿上是把过时荣誉挂嘴边",
+   "quote": "荣誉的时效性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20475,
+    "end_line": 20479,
+    "sha1": "d5da5f3ac4d209efe480cfb94dc9f51c969bad17",
+    "fingerprint": [
+     "荣誉",
+     "时效性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "荣誉的时效性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "进哈佛是对高中成就的肯定、进谷歌是对大学成就的肯定；荣誉有奖章、虚荣没有（20477）；保持沉默比聒噪更获好感",
+   "claim_id": "C-WJ2-U0254-04",
+   "unit_id": "WJ2-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最廉价的骄傲是群体的骄傲：把校友/大厂挂嘴边，说明没有自己的可骄傲资本",
+   "quote": "群体的骄傲",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20481,
+    "end_line": 20483,
+    "sha1": "aa7c65a3efa0805f444d3e8db59c2e9ff56361da",
+    "fingerprint": [
+     "自豪",
+     "群体"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "群体骄傲最廉价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "但凡对社会文明有贡献都值得自豪（工地农民工vs躺父辈财富的寄生虫）；叔本华时代德国人不自豪地位反高、二战时莫名自豪反被轻视（20485）；网络护圈层者一无所有且自卑（20487）",
+   "claim_id": "C-WJ2-U0254-05",
+   "unit_id": "WJ2-U0254"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "虚荣妨碍自豪、骄傲妨碍荣誉；虚荣骄傲野心三兄弟让人丧失理智、越变越蠢",
+   "quote": "是自豪感天生的敌人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20495,
+    "end_line": 20497,
+    "sha1": "ab13c62547e0d3198f0dbfdfbe3537911f1b322d",
+    "fingerprint": [
+     "虚荣",
+     "骄傲"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "虚荣妨自豪骄傲妨荣誉",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "四概念关系图（20491-20493）；叔本华三兄弟答案",
+   "claim_id": "C-WJ2-U0254-06",
+   "unit_id": "WJ2-U0254"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "虚荣骄傲荣誉自豪四概念辨析（含叔本华E2两张），整信成卡"
+}

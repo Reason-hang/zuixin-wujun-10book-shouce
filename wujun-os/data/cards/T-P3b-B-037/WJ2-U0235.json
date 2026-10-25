@@ -1,0 +1,134 @@
+{
+  "unit_id": "WJ2-U0235",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ15R",
+  "batch_id": "T-P3b-B-037",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0235-01",
+      "unit_id": "WJ2-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "朋友之间没有共同语言自然慢慢淡漠，不必有负担，这与是否出身好学校无关",
+      "quote": "没有共同语言",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 18969,
+        "end_line": 18969,
+        "sha1": "fdb4a070a000edfa3f4f8e76bb23a80ecc5c2200",
+        "fingerprint": [
+          "共同语言",
+          "淡漠"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "无共同语言自然淡漠",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "原信加粗句；生活环境改变导致交往减少的机理见同单元下卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0235-02",
+      "unit_id": "WJ2-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "要不要和过去的朋友来往是私人决定无对错；感到无趣不必背包袱，找志同道合的新朋友",
+      "quote": "完全私人的决定",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 18973,
+        "end_line": 18973,
+        "sha1": "e356df699198ad9ad6d78b1943050e5c01c308e3",
+        "fingerprint": [
+          "私人的决定",
+          "志同道合"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "来往与否私人决定",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "结论句在段中'不过'之后"
+    },
+    {
+      "claim_id": "C-WJ2-U0235-03",
+      "unit_id": "WJ2-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "傲慢与盲目自豪感普遍存在于各国人群，与国家大小无关，多以鄙视链形式表现",
+      "quote": "世界上大部分国家的人都有",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 19011,
+        "end_line": 19011,
+        "sha1": "87cf198c2d8257ec4f2866d72ac8087bb85fb7dc",
+        "fingerprint": [
+          "傲慢",
+          "自豪感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "傲慢普遍存在",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "19013列举各地鄙视链为例证并入本卡；对傲慢不必太在意见19017段"
+    },
+    {
+      "claim_id": "C-WJ2-U0235-04",
+      "unit_id": "WJ2-U0235",
+      "speaker": "吴军本人",
+      "claim_text": "检验某地是否存在歧视：看有经济能力迁往任何地区的人是否仍留在该地（用脚投票）",
+      "quote": "很简单的判断方法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 18997,
+        "end_line": 18997,
+        "sha1": "b6f7a05728a2a08c61f0c59c06d0ff9d718c0982",
+        "fingerprint": [
+          "华裔",
+          "歧视"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "用脚投票检验歧视",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "移居硅谷问答中的方法论例外卡（结论句为通用判断方法）；其余移居个案建议按X8留痕，供P4复核"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0235",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "香芋派、JerseyZhu、Deabe三位读者提问原文（18963-18965、18977-18979、19003-19009）为读者发言，其中Deabe段含读者自己的美欧关系论断，均按X7排除"
+    },
+    {
+      "unit_id": "WJ2-U0235",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "移居硅谷个案建议（18981-18999除18997方法论句外）：硅谷收入房价税负、教育内卷、移民慎行等依附具体地域与时点，按移民X8留痕；18997已按结论句测试例外成卡"
+    },
+    {
+      "unit_id": "WJ2-U0235",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "19017出国旅游礼仪清单（道谢、不争抢、轻声、不盯小孩等）为具体场景建议，无可迁移支柱判断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答双说话人：吴军回应中交友观、傲慢普遍性、歧视检验方法等独立判断成卡；读者原文与移居个案建议留痕排除"
+}

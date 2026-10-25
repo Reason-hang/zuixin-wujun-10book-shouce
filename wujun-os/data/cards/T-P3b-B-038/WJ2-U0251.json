@@ -1,0 +1,147 @@
+{
+ "unit_id": "WJ2-U0251",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "生活10%由发生在你身上的事组成，90%由你的反应决定（斯温多尔，常被误称费斯汀格法则）",
+   "quote": "由你对所发生事情的反应所决定",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20201,
+    "end_line": 20205,
+    "sha1": "9dee1b04ffa31ab6794073fb4d6beb5f2b0a0bf1",
+    "fingerprint": [
+     "斯温多尔",
+     "费斯汀格"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "生活的90%是反应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=查尔斯·斯温多尔（美国福音派牧师）；2023年89岁出书、全球分享超6500万次；与第31封信'不存在的瓦拉赫效应'同族（中文世界张冠李戴效应多）",
+   "claim_id": "C-WJ2-U0251-01",
+   "unit_id": "WJ2-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不是经历的事而是你选择的态度决定命运：事情躲不开，应对方式导致不同结果",
+   "quote": "我们所选择的态度",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20213,
+    "end_line": 20213,
+    "sha1": "4c6b4c64c81a6e44b87d841034169ceef4048b34",
+    "fingerprint": [
+     "态度",
+     "命运"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "态度决定命运",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "完美世界假设不切实际；主动快乐化解不和谐；宽容自己：努力了达不到就达不到（20217-20221）；香肠被海鸥吃的厄运链例（20223）",
+   "claim_id": "C-WJ2-U0251-02",
+   "unit_id": "WJ2-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对坏事的三类不当反应：怨天尤人、太在意别人看法、试图控制控制不了的事",
+   "quote": "不当反应分为三类",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20227,
+    "end_line": 20231,
+    "sha1": "c160a363eb6718cc035721f122ca4487960b07bd",
+    "fingerprint": [
+     "不当反应",
+     "抱怨"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "坏事三类不当反应",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "全世界不会专门针对你；情绪像弹簧越对抗反弹越凶（20235）；类2：只看效果不看结果（房地产老板自签海外意向、企业资金链断裂 20241-20243）、把别人不经意行为往坏处想（20247）、别人在意的只是你能给他什么实质帮助（20249）；类3：无常是常态、见招拆招（20253）",
+   "claim_id": "C-WJ2-U0251-03",
+   "unit_id": "WJ2-U0251"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "认知失调理论（真费斯汀格法则）：信念与行为冲突产生不适，人靠改变其一恢复一致（费斯汀格）",
+   "quote": "认知失调理论",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20257,
+    "end_line": 20257,
+    "sha1": "6b0c2ce7a6ab3a0b6f0e193e91d5f31090c9f956",
+    "fingerprint": [
+     "费斯汀格",
+     "信念"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "认知失调",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=费斯汀格（1957）；吸烟者戒烟=变行为、郭德纲'不看那个节目'与朋友搜'吃肥肉好处'=变信念（20261）；推论：近朱者赤近墨者黑、出淤泥而不染不现实（20265）",
+   "claim_id": "C-WJ2-U0251-04",
+   "unit_id": "WJ2-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对自己要求高一点：不仅要了解信息，还要了解出处——张冠李戴的'法则'很多",
+   "quote": "还要了解它们的出处",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20267,
+    "end_line": 20267,
+    "sha1": "b6e5f1f7355011cd79572a5faafe7ac5e5c371f2",
+    "fingerprint": [
+     "信息",
+     "出处"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信息核出处",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "与U0203信息素养是生活态度同族互参",
+   "claim_id": "C-WJ2-U0251-05",
+   "unit_id": "WJ2-U0251"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "斯温多尔名言与真费斯汀格法则：态度90%+三类不当反应+认知失调+核出处"
+}

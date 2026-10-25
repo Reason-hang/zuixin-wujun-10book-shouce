@@ -1,0 +1,176 @@
+{
+ "unit_id": "WJ2-U0253",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书收获因人而异之一：概念是信息编码，理解取决于知识背景，背景不足即读不懂",
+   "quote": "对一些信息精简的编码",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20367,
+    "end_line": 20371,
+    "sha1": "f52ceaed026415dc41725422fdc2b8facd5dfb32",
+    "fingerprint": [
+     "编码",
+     "概念"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D04-2"
+   ],
+   "concept_key": "阅读差之编码因",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "农妇读'市场''有效性'例；读深奥书先掌握预设知识（20373）；答读者罗翔",
+   "claim_id": "C-WJ2-U0253-01",
+   "unit_id": "WJ2-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书收获因人而异之二：读者信道带宽不同，接受信息的速率不可能超过带宽",
+   "quote": "不可能超过带宽",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20377,
+    "end_line": 20377,
+    "sha1": "075476e091d4354acffc8a4ff00327a4519b3a54",
+    "fingerprint": [
+     "带宽",
+     "信道"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "阅读差之带宽因",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "差电话线只能听清一部分；《信息论40讲》互参",
+   "claim_id": "C-WJ2-U0253-02",
+   "unit_id": "WJ2-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书收获因人而异之三：人选择性接受信息——同书各取一面，深读还需信息加工",
+   "quote": "有选择地接受其中的信息",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20381,
+    "end_line": 20383,
+    "sha1": "0a1fa4c64dd2bd60fd013b3146239635c0b9cdb2",
+    "fingerprint": [
+     "红楼梦",
+     "侧面"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "阅读差之选择因",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "红楼读爱情vs读社会；金瓶梅艳情vs明代社会，研究明代经济者对数字做加工",
+   "claim_id": "C-WJ2-U0253-03",
+   "unit_id": "WJ2-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智力优势人群的偏见：以为人人能做到的事很多人做不到；普娃不应轻率对标成功人士",
+   "quote": "智力优势的人所具有的一种偏见",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20397,
+    "end_line": 20399,
+    "sha1": "72cd18b07124169161c5c8f7ac902dcca9696dd6",
+    "fingerprint": [
+     "普娃",
+     "偏见"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-4"
+   ],
+   "concept_key": "智力优势者的偏见",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军自我修正之一（答岛民）：高中47人26清北；《大学之路》第二版为普娃增内容；学霸不能体会学渣的苦",
+   "claim_id": "C-WJ2-U0253-04",
+   "unit_id": "WJ2-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从强调成功转向过好生活：接受平庸是智慧；有智慧=把手上现有的牌打好，而非拔得头筹",
+   "quote": "接受平庸则是一种智慧",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20401,
+    "end_line": 20403,
+    "sha1": "5e70923e513d9d44cff52fdbe39fc32acd49bd80",
+    "fingerprint": [
+     "平庸",
+     "智慧"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "接受平庸的智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "吴军自我修正之二：《浪潮之巅》90%是成功故事但伟大公司复制不了；智慧前提是了解世界真相（20405）；做投资后对人性洞察更深（20407）",
+   "claim_id": "C-WJ2-U0253-05",
+   "unit_id": "WJ2-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "假说与科幻的区别：假说要符合逻辑与既有科学理论，科幻可以天马行空",
+   "quote": "假说和科幻的区别",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20419,
+    "end_line": 20419,
+    "sha1": "8120d460efb638eff9c5eac47779902d5d3e948a",
+    "fingerprint": [
+     "假说",
+     "科幻"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "假说与科幻之别",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "黑洞理论是假说非科幻；韦伯望远镜数据按项目申请、部分在合格科学群体共享（20423-20425）并入notes；答忘山Roark/刘江",
+   "claim_id": "C-WJ2-U0253-06",
+   "unit_id": "WJ2-U0253"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答41：读书收获三因+吴军两大自我修正+假说与科幻"
+}

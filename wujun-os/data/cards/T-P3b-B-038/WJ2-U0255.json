@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0255",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-038",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'家丑不可外扬'是过时的古代做法：内部解决不了的矛盾，现代解法是求助专业人士与法律",
+   "quote": "唯一的解决办法就是求助他人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20529,
+    "end_line": 20529,
+    "sha1": "c0e0fc2acd5cbbe082e52676cb0b5432400f357e",
+    "fingerprint": [
+     "家丑",
+     "求助"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D07-1"
+   ],
+   "concept_key": "家丑要外扬",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "董珊珊家暴致死例（20531）；美1/3女性遭家暴、中国30%家庭、京沪研究物理暴力27.91%（20519-20525）；只凭身边统计学会低估严重性（20527）；与闺蜜宣泄无益且可能帮倒忙（20537）",
+   "claim_id": "C-WJ2-U0255-01",
+   "unit_id": "WJ2-U0255"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "熵增定律：封闭系统混乱只增，须引入外界负熵才恢复秩序——你的家和公司都没有你重要",
+   "quote": "从外界引入负熵",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20541,
+    "end_line": 20541,
+    "sha1": "4df8a5b9a3d1daa146d020638b7df8e0da38cfbe",
+    "fingerprint": [
+     "熵",
+     "负熵"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D05-1"
+   ],
+   "concept_key": "封闭系统须引负熵",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "公司里解决不了的事也要学会诉诸外力（20539）",
+   "claim_id": "C-WJ2-U0255-02",
+   "unit_id": "WJ2-U0255"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "暴露缺陷一分为二：会哭的孩子有奶吃，该争取的利益毫不犹豫争取——装作坚强的人最伤害自己",
+   "quote": "装作坚强的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20549,
+    "end_line": 20553,
+    "sha1": "dbebc00b4dc6bb7b9a76c30c887da9b337bbb81d",
+    "fingerprint": [
+     "哭惨",
+     "里子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-1"
+   ],
+   "concept_key": "装坚强最伤自己",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "硅谷名校招生三类：捐半个亿/奥数金牌/哭惨者占1/3（20549）；近视调座位、生病请假两例：里子比面子重要（20551）",
+   "claim_id": "C-WJ2-U0255-03",
+   "unit_id": "WJ2-U0255"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "糟心事与失败阴影别憋在心里：求助他人事半功倍，硬扛只会陷入死胡同",
+   "quote": "学会求助，就能事半功倍",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 20567,
+    "end_line": 20567,
+    "sha1": "2a1f03277d7ee9dc08637d1f993858060b3e95f8",
+    "fingerprint": [
+     "求助",
+     "硬扛"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D07-1"
+   ],
+   "concept_key": "学会求助",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "吐槽大会：名人也吐槽糟心事；高盛面试题铅笔掉搅拌机——高喊让人救；薛宝钗'好风凭借力'；古人硬扛、今人求助",
+   "claim_id": "C-WJ2-U0255-04",
+   "unit_id": "WJ2-U0255"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "古人与今人做法三不同：家丑外扬/引负熵/装坚强/学会求助，整信成卡"
+}
