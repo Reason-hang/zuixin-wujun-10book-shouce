@@ -1,0 +1,150 @@
+{
+ "unit_id": "SG3-U0221",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "头脑风暴前三准备：参与者先了解讨论内容、备好素材事件案例、备好纸笔白板等道具",
+   "quote": "对讨论内容有所了解",
+   "anchor": {
+    "start_line": 23313,
+    "end_line": 23321,
+    "fingerprint": [
+     "第一个准备工作",
+     "素材",
+     "道具"
+    ],
+    "book_code": "SG3",
+    "sha1": "927fd695dd36e2e52c0caceee4eabbef330caf68"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D05-1"
+   ],
+   "concept_key": "头脑风暴三准备",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=X先生（苹果离职资深设计师，化名）；作文类比要读懂题目（23315）；苹果派与橘子比喻（23317）；个人构思也要纸笔留痕供复盘（23323-23327）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0221-01",
+   "unit_id": "SG3-U0221"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "头脑风暴五原则：没有傻主意、不批评别人的想法、在别人思路上搭建、数量基础上求质量、不评判",
+   "quote": "没有傻主意",
+   "anchor": {
+    "start_line": 23431,
+    "end_line": 23431,
+    "fingerprint": [
+     "思路的基础上搭建",
+     "不要评判"
+    ],
+    "book_code": "SG3",
+    "sha1": "b59bb358cc021520f473a636f1d30dc5a7a3339c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D05-1"
+   ],
+   "concept_key": "头脑风暴五原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=X先生；圆形改方形例：傻主意或承载美感信息（23339-23341）；风暴会不是辩论会讨论会论坛（23347-23351）；每轮设更高底线见C-SG3-U0221-04；评判好坏是职级更高者后续的事（23381）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0221-02",
+   "unit_id": "SG3-U0221"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "头脑风暴五细节：主持人不必是老板、人数限人人能发言、记录意见间关联、轻松场所、会后反馈",
+   "quote": "记录不同意见之间的关联",
+   "anchor": {
+    "start_line": 23433,
+    "end_line": 23433,
+    "fingerprint": [
+     "主持人",
+     "人数规模"
+    ],
+    "book_code": "SG3",
+    "sha1": "4a297bf29a0e33a83d9e0e937569932c665fa4fc"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D05-1"
+   ],
+   "concept_key": "头脑风暴五细节",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=X先生；老板主持使人拘束、日本大学系主任轮值例（23389-23391）；1小时会每人3分钟至多10人（23395-23399）；每个人也要做自己的记录（23405）；不评判限于过程中、回去可评判（23413-23415）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0221-03",
+   "unit_id": "SG3-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每轮讨论设更高底线，思考在其上更进一步而非反复回到原点；目的得到大家都觉得好的想法",
+   "quote": "更高的底线",
+   "anchor": {
+    "start_line": 23365,
+    "end_line": 23371,
+    "fingerprint": [
+     "回到原点",
+     "不可行的想法"
+    ],
+    "book_code": "SG3",
+    "sha1": "84c68e1e1fb25971325abf25f2fc599fca380d4e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "迭代底线递进",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军本人理解（我的理解是，23365）；属数量基础上求质量原则的展开（23361-23363）；五原则清单见C-SG3-U0221-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0221-04",
+   "unit_id": "SG3-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程方法能达到的高度有限（95分），最后5分靠产品设计的艺术；设计有章可循，头脑风暴是流程第一步",
+   "quote": "有章可循",
+   "anchor": {
+    "start_line": 23419,
+    "end_line": 23423,
+    "fingerprint": [
+     "产品设计",
+     "头脑风暴"
+    ],
+    "book_code": "SG3",
+    "sha1": "5a8fee5853577342ff1c3978f2c1fe1dc1a8d304"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "产品设计最后五分",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "谷歌靠数据弥补设计不足、谷歌微软工程师基因（23421）；苹果产品经理基因与重视有效流程（23423）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0221-05",
+   "unit_id": "SG3-U0221"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第183封信苹果式头脑风暴：三准备、五原则、五细节（转述X先生）与吴军底线递进、产品设计最后五分之悟成卡"
+}

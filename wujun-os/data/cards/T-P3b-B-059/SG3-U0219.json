@@ -1,0 +1,136 @@
+{
+ "unit_id": "SG3-U0219",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "学长：女儿对教育的看法是要有一个更好更公平的世界，而非改变自己命运",
+   "quote": "更好更公平的世界",
+   "anchor": {
+    "start_line": 23169,
+    "end_line": 23169,
+    "fingerprint": [
+     "更好更公平的世界",
+     "境界"
+    ],
+    "book_code": "SG3",
+    "sha1": "012867d62be833032ed7797b0a161410929151c0"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-3"
+   ],
+   "concept_key": "教育为更好世界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=清华学长（在美企业家），转述其耶鲁录取女儿的教育观（23169）；吴军评自觉自己的境界还不如这个孩子（23169）；为精英定义卡C-SG3-U0219-02张本",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0219-01",
+   "unit_id": "SG3-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "精英三要素：以营造更好的世界为目标、承担社会责任、做别人不愿做不敢做的事",
+   "quote": "以营造一个更好的世界为目标",
+   "anchor": {
+    "start_line": 23171,
+    "end_line": 23175,
+    "fingerprint": [
+     "精英",
+     "社会责任",
+     "虽千万人"
+    ],
+    "book_code": "SG3",
+    "sha1": "59d50b94b2fafc2b5764f3e9d930a80f7388d03f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-3"
+   ],
+   "concept_key": "精英三要素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "钱谦益、阮大铖学问大而非精英的反例（23175）；教育目的观原话见C-SG3-U0219-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0219-02",
+   "unit_id": "SG3-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多所谓找不到其实是没努力找，如同说学不好课程其实是自己没认真学",
+   "quote": "没有努力找",
+   "anchor": {
+    "start_line": 23115,
+    "end_line": 23115,
+    "fingerprint": [
+     "学不好课程",
+     "天上掉馅饼"
+    ],
+    "book_code": "SG3",
+    "sha1": "02e69ef9a7c5c8f191a53c97f6645967a121a41b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-4"
+   ],
+   "concept_key": "找不到与没努力找之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "婚恋语境（X5）中的方法论例外，吴军明确推广到学习归因（23115）；等着天上掉馅饼类比（23115）；应对孤独之答见X5处置",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0219-03",
+   "unit_id": "SG3-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "年轻人最大的好处是有本钱试错；要经接触磨合才知是否适合，但总要有个开始",
+   "quote": "有本钱试错",
+   "anchor": {
+    "start_line": 23145,
+    "end_line": 23145,
+    "fingerprint": [
+     "磨合",
+     "总要有个开始"
+    ],
+    "book_code": "SG3",
+    "sha1": "baac6f60a86f614bc6601cf8c7dfaf73eb550d3d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "年轻本钱是试错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "婚恋语境（X5）中的可迁移判断；年轻二字比房子车子值钱（23147）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0219-04",
+   "unit_id": "SG3-U0219"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0219",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "婚恋议题判断：应对孤独在于开始努力找（23119）、偶遇三好处美感惊喜珍惜（23127-23137）、婚前查清原生家庭多疑控制欲、婚后除出轨与无法共同进步外协商妥协（23151-23157）、没房没车不必自卑与无趣者难相处（23147-23149）——亲密关系议题，方法论例外已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0219",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者提问原文：白露塞纳三问与Mr.mystery精英之问（23097-23105、23161-23163）——读者来信原文，吴军回应已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问33：教育目的观与精英三要素、找不到与没努力找之辨、年轻试错本钱成卡；婚恋议题归X5，读者提问归X7"
+}

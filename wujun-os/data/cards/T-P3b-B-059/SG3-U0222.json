@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG3-U0222",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "普莱斯模型：N人中贡献排名前根号N的人贡献一半成果、获得一半收益（幂律分布）",
+   "quote": "贡献一半的成果",
+   "anchor": {
+    "start_line": 23465,
+    "end_line": 23467,
+    "fingerprint": [
+     "普莱斯模型",
+     "幂律分布"
+    ],
+    "book_code": "SG3",
+    "sha1": "cd1b8d7800cc021eed83e4cf6eb9a9d84821e5ea"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "普莱斯模型",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=普莱斯（Derek Price，物理学家）；齐普夫定律词频与排名成反比、二八定律为其特例（23461-23463，见X4）；天体质量分布例（23467）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-01",
+   "unit_id": "SG3-U0222"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "彼得森：不要和别人做过多的比较，有些比较毫无意义（马斯克室友自惭例）",
+   "quote": "毫无意义",
+   "anchor": {
+    "start_line": 23471,
+    "end_line": 23475,
+    "fingerprint": [
+     "别人家的孩子",
+     "马斯克"
+    ],
+    "book_code": "SG3",
+    "sha1": "948b116aade43dcb6e577d213756840768dc150d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-1"
+   ],
+   "concept_key": "无谓比较陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=乔丹·彼得森（多伦多大学教授）；宾大校友室友即马斯克例（23473-23475）；对比不当致失败感、作弊、自弃（23479）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-02",
+   "unit_id": "SG3-U0222"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "彼得森三建议：设可达成目标分解到时间段与昨天的自己比；别进过大过烈环境；先整理好房间再批评世界",
+   "quote": "设定能够实现的目标",
+   "anchor": {
+    "start_line": 23535,
+    "end_line": 23535,
+    "fingerprint": [
+     "分解为一个个时间段",
+     "整理好自己的房间"
+    ],
+    "book_code": "SG3",
+    "sha1": "705644c385a3f212e6a3b8fb92c31b3741fbe7bd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1",
+    "D03-1"
+   ],
+   "concept_key": "彼得森三建议",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=乔丹·彼得森（划重点1）；35岁财富自由对一年进步10-20%例（23491）；对比目的在找自身不足（23493）；吴军鸡脖子发挥见C-SG3-U0222-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-03",
+   "unit_id": "SG3-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最好选择是做鸡脖子：不是头但离头很近，努力后能当鸡头，再逐级向羊、牛进阶",
+   "quote": "做鸡脖子",
+   "anchor": {
+    "start_line": 23503,
+    "end_line": 23505,
+    "fingerprint": [
+     "鸡头",
+     "猴子称大王"
+    ],
+    "book_code": "SG3",
+    "sha1": "8ab237858394b8096d7c7c14a3a6cca4bac68387"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "鸡脖子定位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军对彼得森观点的概括发挥（划重点2见23537）；彼得森三建议原述见C-SG3-U0222-03；进大机构先比小部门、谷歌期权比错对象例（23507-23511，见X4）；吴军自述总在鸡脖子位（23513）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-04",
+   "unit_id": "SG3-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "批评世界或抱怨世界是把目标定得太高；人总能改变身边环境，做力所能及有意义的事",
+   "quote": "改变自己身边的环境",
+   "anchor": {
+    "start_line": 23519,
+    "end_line": 23521,
+    "fingerprint": [
+     "力所能及",
+     "容易但意义不大"
+    ],
+    "book_code": "SG3",
+    "sha1": "afc36d2109f6ddb4d5f2ec4676859bc4da7861d6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "批评世界先整房间",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一屋不扫何以扫天下类比（23517）；彼得森第三建议见C-SG3-U0222-03；总挑容易事做则昨今无区别（23521）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-05",
+   "unit_id": "SG3-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们只是幸运地处在根号N范围里；对不如自己的人多一些宽容，居前也不必优越感",
+   "quote": "多一些宽容",
+   "anchor": {
+    "start_line": 23527,
+    "end_line": 23527,
+    "fingerprint": [
+     "根号N",
+     "优越感"
+    ],
+    "book_code": "SG3",
+    "sha1": "4bedafd623c27f76459a253f3402a35af10841f8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-2"
+   ],
+   "concept_key": "根号N宽容",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军思考一；400个孩子后380名不必自卑、前20名不必优越更不应吹毛求疵（23527）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-06",
+   "unit_id": "SG3-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "避免给自己太多挫败感，否则陷入失败怪圈；偶尔挫折是历练，太多挫折使人沉沦",
+   "quote": "失败的怪圈",
+   "anchor": {
+    "start_line": 23529,
+    "end_line": 23529,
+    "fingerprint": [
+     "沉沦",
+     "信念"
+    ],
+    "book_code": "SG3",
+    "sha1": "a2b3e1a29c4784cf3ccb25422aac5f27a2c73999"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "挫败感怪圈",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军思考二；接受挫折挑战前先找到属于自己的信念和精神寄托（23529）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0222-07",
+   "unit_id": "SG3-U0222"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0222",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "统计定律科普与史实案例：帕累托法则提出背景、齐普夫定律汉语的字例、天体质量分布（23459-23467）、谷歌上市前500人期权备案与比错对象（23509-23511）——背景叙述；普莱斯模型本体已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第184封信鸡首牛后：普莱斯模型、彼得森三建议与无谓比较（转述彼得森）加鸡脖子定位、先整房间、宽容与挫败感（吴军）成卡；统计科普与案例归X4"
+}

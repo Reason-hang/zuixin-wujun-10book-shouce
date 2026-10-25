@@ -1,0 +1,169 @@
+{
+ "unit_id": "SG3-U0220",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "阿西莫夫：漏掉一个想象不到的技术突破，对未来的预测就会彻底偏离（电梯效应）",
+   "quote": "电梯效应",
+   "anchor": {
+    "start_line": 23213,
+    "end_line": 23213,
+    "fingerprint": [
+     "想象不到的技术突破",
+     "预测"
+    ],
+    "book_code": "SG3",
+    "sha1": "fc1fd84c994e720460f067c0d81190861e299fbb"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "电梯效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=阿西莫夫（科幻作家）；19世纪纽约人想象摩天楼生活的推演（23199-23207）见X4；预测几乎总是会出错（23193）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0220-01",
+   "unit_id": "SG3-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们根本无法预测未来，因为不知道未来的电梯是什么，想象限于今天的技术",
+   "quote": "根本无法预测",
+   "anchor": {
+    "start_line": 23247,
+    "end_line": 23249,
+    "fingerprint": [
+     "电梯",
+     "所拥有的技术"
+    ],
+    "book_code": "SG3",
+    "sha1": "9eb323cb8add836a100e19956e758405d1d79783"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "想象限于现有技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军总结句（划重点2见23287）；电梯效应机理见C-SG3-U0220-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0220-02",
+   "unit_id": "SG3-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "放弃做预测的想法，适应未来的变化；真正的趋势会持续很长时间，来得及进入",
+   "quote": "放弃掉做预测的想法",
+   "anchor": {
+    "start_line": 23267,
+    "end_line": 23269,
+    "fingerprint": [
+     "适应未来的变化",
+     "足够的时间进入"
+    ],
+    "book_code": "SG3",
+    "sha1": "fefc421259a44f2e8f4d1cd44d86823570bdb9ef"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D01-1"
+   ],
+   "concept_key": "放弃预测适应变化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "电梯发明史40余年演进为例（23271-23273，见X4）；福岛事故后仍有10年调整期（23273，见X2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0220-03",
+   "unit_id": "SG3-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能因某些领域当下发展快，就以为它能永远按这个速度发展下去（60年代高估航天）",
+   "quote": "永远按照这个速度发展",
+   "anchor": {
+    "start_line": 23251,
+    "end_line": 23251,
+    "fingerprint": [
+     "星际旅行",
+     "航天技术"
+    ],
+    "book_code": "SG3",
+    "sha1": "18386df6780a7d013feb7a7f9e802a2209f84661"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "增速外推谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人类兴趣也会变：IT发展使机器人替代宇航员（23253）；NASA小行星无人着陆例（23255，见X6）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0220-04",
+   "unit_id": "SG3-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能量和信息的利用能力是衡量文明发展水平的两把尺子；信息重要性二战后超过能量",
+   "quote": "衡量文明发展水平的两把尺子",
+   "anchor": {
+    "start_line": 23223,
+    "end_line": 23227,
+    "fingerprint": [
+     "信息的技术发展",
+     "二战之后"
+    ],
+    "book_code": "SG3",
+    "sha1": "92e604b308575c0622c2e1b8ec3b349597a6c6c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-2"
+   ],
+   "concept_key": "能量信息两把尺子",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《全球科技通史》重申（23223）；信息超越能量初期少人注意（23227）；城市化被通信技术逆转、纽约摩天楼外观变化不大（23233-23239，见X6）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0220-05",
+   "unit_id": "SG3-U0220"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0220",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "电梯效应故事叙述：19世纪纽约人对摩天楼生活的逻辑推演（23199-23207）、电梯发明年表（奥蒂斯1853/1857、西门子1880、米尔斯1887，23271-23273）——纯史实背景，机理论断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0220",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事论断：福岛核事故致西方国家终止核电核心战略、德国预计2022年底关闭核电站、东芝濒临破产与太阳能机会（23261-23263）——依附具体事件与时点"
+  },
+  {
+   "unit_id": "SG3-U0220",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "科技趋势叙述：苏联时间胶囊（23221）、星球大战监控与物联网（23229-23231）、NASA32亿公里外小行星无人着陆（23255）、美国城市化逆转与科技重镇郊区分布（23235-23241）——趋势与事件叙述，可迁移机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第182封信：电梯效应、想象限于现有技术、放弃预测适应变化、增速外推谬误、能量信息两把尺子成卡；案例史实归X4、时事归X2、趋势叙述归X6"
+}

@@ -1,0 +1,134 @@
+{
+ "unit_id": "SG3-U0230",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追溯足够远今天中国人祖上多是名门望族；靠认祖宗获得优越感是阿Q式",
+   "quote": "名门望族",
+   "anchor": {
+    "start_line": 24311,
+    "end_line": 24321,
+    "fingerprint": [
+     "人口的剧减",
+     "阿Q"
+    ],
+    "book_code": "SG3",
+    "sha1": "5811a708d3c4c364a54d2deea4e2e0f69ac1b5a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "祖上皆望族",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "战乱人口剧减与大家族繁衍机理（24313）；明朝朱姓宗室与崔张陆顾朱士族例（24315，见X4）；王谢堂前燕（24317）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0230-01",
+   "unit_id": "SG3-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "内心强大不需要攀祖宗；要从外物上找自信时，其实已经是不自信了",
+   "quote": "已经是不自信了",
+   "anchor": {
+    "start_line": 24341,
+    "end_line": 24345,
+    "fingerprint": [
+     "内心强大",
+     "慕容复"
+    ],
+    "book_code": "SG3",
+    "sha1": "004925a06a4a45cc299c29071a5f1f3e2ecacf83"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "外物自信即不自信",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "慕容复被白日梦压垮例（24343，见X4）；心思放在虚无缥缈处达不到原本水平（24343）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0230-02",
+   "unit_id": "SG3-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过去的经历与荣誉过去了就不用老想着；新的永远比旧的更好（初三烧奖状例）",
+   "quote": "新的永远比旧的更好",
+   "anchor": {
+    "start_line": 24347,
+    "end_line": 24351,
+    "fingerprint": [
+     "奖状",
+     "贝利"
+    ],
+    "book_code": "SG3",
+    "sha1": "73a2be76c9f97ca00b36c381640e500fae998420"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-1"
+   ],
+   "concept_key": "荣誉不恋过往",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "贝利下一个进球最漂亮为转述（24351）；祖宗出身与旧荣誉都不必挂在嘴边（24347）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0230-03",
+   "unit_id": "SG3-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对于历史名词还是需要回到历史之中才能搞清楚，不能按字面直觉望文生义",
+   "quote": "回到历史之中",
+   "anchor": {
+    "start_line": 24301,
+    "end_line": 24301,
+    "fingerprint": [
+     "正黄旗",
+     "八旗之首"
+    ],
+    "book_code": "SG3",
+    "sha1": "1e45eee5f12ab1558e61a0f3484c4839f92505ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "历史名词回历史",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "正黄旗地位最高属字面误解（24301）；正字老北京读整义为整色、大妈读音露馅（24307）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0230-04",
+   "unit_id": "SG3-U0230"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0230",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事事件：正黄旗大妈公交谩骂被行政拘留新闻（24291）、自称古代贵族后裔招摇撞骗现象（24293）——依附具体时事"
+  },
+  {
+   "unit_id": "SG3-U0230",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "八旗制度史（镶黄旗为八旗之首、皇太极改旗重组、抬旗与慈禧、包衣与曹雪芹家、通天纹手相与额头竖纹、正字读音，24297-24307）、三国至五代攀亲史（刘备中山靖王、孙坚、曹操曹参与夏侯、刘渊、李存勖刘知远李昪，24325-24333）、朱元璋不攀朱熹与康熙祭明孝陵（24335-24337）、明朝宗室与士族后裔考（24315）、慕容复小说例（24343）——纯史实叙述，判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第191封信攀亲戚文化：史实为主降档抽4卡——祖上皆望族与阿Q式优越感、外物自信即不自信、荣誉不恋过往、历史名词回到历史；八旗与攀亲史归X4、时事归X2"
+}

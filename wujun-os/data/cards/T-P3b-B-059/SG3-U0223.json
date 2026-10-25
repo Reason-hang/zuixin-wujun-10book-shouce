@@ -1,0 +1,189 @@
+{
+ "unit_id": "SG3-U0223",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人与人的关系链条有不同权重、分三六九等，不能按血缘亲疏或见面次数认识时间衡量",
+   "quote": "分了三六九等",
+   "anchor": {
+    "start_line": 23573,
+    "end_line": 23575,
+    "fingerprint": [
+     "权重",
+     "血缘亲疏"
+    ],
+    "book_code": "SG3",
+    "sha1": "5398bb811ee9876feb33f3d3c2ea69e189c57ccd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "关系链权重",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "应经常更新自己各种关系链条的权重（23575）；梅耶尔AI通讯录项目为引子（23553-23565，见X2/X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0223-01",
+   "unit_id": "SG3-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI能帮你达成利益最大化却与你的想法相去甚远；算法可能比你自己更了解怎样对你更好",
+   "quote": "更了解怎么样对你更好",
+   "anchor": {
+    "start_line": 23579,
+    "end_line": 23583,
+    "fingerprint": [
+     "利益最大化",
+     "点赞"
+    ],
+    "book_code": "SG3",
+    "sha1": "079f6f99084b9ef8e1b9726421b5a0bf11039e65"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "算法更懂你",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "剑桥吴又又Facebook点赞研究为证（23581，见X4）；人在很多事上并不了解谁是真正对自己好、不了解自己真正的利益（23583）；斗米恩担米仇见C-SG3-U0223-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0223-02",
+   "unit_id": "SG3-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "斗米恩担米仇：人对常施的大恩怠慢敏感、对偶施的小恩感激，好汉武松亦然",
+   "quote": "斗米恩，担米仇",
+   "anchor": {
+    "start_line": 23595,
+    "end_line": 23597,
+    "fingerprint": [
+     "大恩",
+     "小恩小惠"
+    ],
+    "book_code": "SG3",
+    "sha1": "bc24842b37540b1f5bead54a16bbc9da917ef308"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "斗米恩担米仇",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "武松柴进宋江情节（23587-23593）、离婚抚养反例（23599-23603）、青春期跳槽养老情人私活例串（23605）承载本判断，叙述见X4；对策见C-SG3-U0223-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0223-03",
+   "unit_id": "SG3-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人际判断不妨模拟AI逻辑：就事论事理性思考、客观评估身边关系链条，勿陷斗米恩担米仇",
+   "quote": "就事论事，理性思考",
+   "anchor": {
+    "start_line": 23611,
+    "end_line": 23615,
+    "fingerprint": [
+     "人工智能的逻辑",
+     "斗米恩"
+    ],
+    "book_code": "SG3",
+    "sha1": "b65be8e2b2b80524036a3cc3874cff968185d876"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "AI逻辑理关系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "AI不易被个人感情和偏见影响（23609）；与C-SG3-U0223-02同源互证",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0223-04",
+   "unit_id": "SG3-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "定期整理人际关系：无交集旧友放档案库，损友该删除删除该拉黑拉黑，不为旧交伤近处",
+   "quote": "该删除就得删除",
+   "anchor": {
+    "start_line": 23619,
+    "end_line": 23623,
+    "fingerprint": [
+     "档案库",
+     "得不偿失",
+     "拉黑"
+    ],
+    "book_code": "SG3",
+    "sha1": "de0eb489e283cbe7d3dfbfdaa5ef202c8dc1d0cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "定期整理关系",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "平时能维系的关系数量有限（23619）；像年底总结与大扫除一样定期整理、不把精力消耗在不值得的关系（23623）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0223-05",
+   "unit_id": "SG3-U0223"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做风险投资的目的不是单纯为了赚钱，而是支持一些人做一些有意义的事情",
+   "quote": "支持一些人做一些有意义的事情",
+   "anchor": {
+    "start_line": 23567,
+    "end_line": 23567,
+    "fingerprint": [
+     "风险投资",
+     "有意义"
+    ],
+    "book_code": "SG3",
+    "sha1": "ff319355e4774b9deef78d3c89bf35d45ee4eab1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资为支持意义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投资梅耶尔创业项目（2020年，23553）为具体标的与时点，见X2；自判该市场不会很大（23567）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0223-06",
+   "unit_id": "SG3-U0223"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0223",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "对梅耶尔AI通讯录创业项目的具体投资判断（2020年基金投资、判断市场不大未必赚钱，23553-23567）——具体标的与时点投资，原则已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0223",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "水浒武松宋江柴进结交情节复述（23587-23593）、同事离婚抚养案例（23599-23605）、剑桥Facebook点赞研究细节（23581）、梅耶尔经历与项目功能叙述（23553-23565）——案例叙述，判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第185封信整理人际关系：关系链权重、算法更懂你、斗米恩担米仇、AI逻辑理关系、定期整理、投资为支持意义成卡；具体投资归X2、案例叙述归X4"
+}

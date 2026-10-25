@@ -1,0 +1,230 @@
+{
+ "unit_id": "SG3-U0225",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济下行期换工作先保底而非谋求发展，等经济开始上行再考虑换工作",
+   "quote": "保底，不是谋求发展",
+   "anchor": {
+    "start_line": 23755,
+    "end_line": 23755,
+    "fingerprint": [
+     "疫情",
+     "经济开始上行"
+    ],
+    "book_code": "SG3",
+    "sha1": "ac83f2c7237d844a4e2b8a9c805bf0ea93059a96"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D06-1"
+   ],
+   "concept_key": "下行先保底",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "疫情时点背景见X2；被变相降级直接原因是去年提辞职受报复（23755）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-01",
+   "unit_id": "SG3-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "五年里能力与工作难度若无变化、做的与五年前差不多，待遇大概率也差不多",
+   "quote": "大概率工资待遇就会差不多",
+   "anchor": {
+    "start_line": 23759,
+    "end_line": 23763,
+    "fingerprint": [
+     "总结",
+     "能力的提升"
+    ],
+    "book_code": "SG3",
+    "sha1": "11b539eaf1a439b58d90276eb26faad37abdee52"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D06-1"
+   ],
+   "concept_key": "无进步则难晋升",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "每年总结找自己能力提升与新贡献（23761）；简历亮眼贡献见C-SG3-U0225-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-02",
+   "unit_id": "SG3-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "简历不应只有某年月日到某年月日担任什么职务的记录，应能列出几个亮眼的贡献",
+   "quote": "亮眼的贡献",
+   "anchor": {
+    "start_line": 23765,
+    "end_line": 23767,
+    "fingerprint": [
+     "简历",
+     "职务"
+    ],
+    "book_code": "SG3",
+    "sha1": "dbb429ca12886f58f93464a38b83596964df2c70"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D06-2"
+   ],
+   "concept_key": "简历亮眼贡献",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "回顾进步与原地踏步处再与老板沟通（23767）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-03",
+   "unit_id": "SG3-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不敢和老板说话是职场大忌；领导没有义务照顾每个人，领导既是管理者也是资源",
+   "quote": "职场大忌",
+   "anchor": {
+    "start_line": 23769,
+    "end_line": 23773,
+    "fingerprint": [
+     "从不和老板沟通",
+     "资源"
+    ],
+    "book_code": "SG3",
+    "sha1": "56a73fc4f4b4864d15c6668683fc2303196e44b8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "不敢沟通职场大忌",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "领导的义务是为公司争取利益并使全组利益最大化（23771）；老板反馈帮助员工更好了解自己（23773）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-04",
+   "unit_id": "SG3-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "放养型老板在等你找他要任务；主动约老板时间谈工作、请求任务辅导是每个人必须做的",
+   "quote": "主动约老板的时间",
+   "anchor": {
+    "start_line": 23775,
+    "end_line": 23775,
+    "fingerprint": [
+     "放养型",
+     "裁员"
+    ],
+    "book_code": "SG3",
+    "sha1": "99aa9fd5091c8d14b495a98af5f7cef90aefc88a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "主动约老板",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "一天不找清闲一天、半年不找发奖金最少、一年不找裁员先想到（23775）；怕老板毛病须克服见C-SG3-U0225-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-05",
+   "unit_id": "SG3-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "怕老板的毛病必须克服，否则不如辞职自己干；成年后就要为自己的行为负责",
+   "quote": "为自己行为负责",
+   "anchor": {
+    "start_line": 23777,
+    "end_line": 23777,
+    "fingerprint": [
+     "怕老板",
+     "斯宾塞"
+    ],
+    "book_code": "SG3",
+    "sha1": "502f4c8fcf2d9fce7a932db993a2aafe9552bfad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D02-1"
+   ],
+   "concept_key": "克服怕老板",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "斯宾塞：自己把社会上这些事情应付好是每个人必须学的（23777，转述线索）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-06",
+   "unit_id": "SG3-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "暴脾气者在大机构受制度与上级约束危害有限；自己当一把手不受约束时脾气会大十倍",
+   "quote": "脾气可能会大十倍",
+   "anchor": {
+    "start_line": 23779,
+    "end_line": 23779,
+    "fingerprint": [
+     "制度",
+     "第一把手"
+    ],
+    "book_code": "SG3",
+    "sha1": "babb39261f417f5420eb1cae7d70c189fe0203ba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-1"
+   ],
+   "concept_key": "暴脾气一把手放大",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "答是否去前同事开的公司之问（23779）；共事精神压力大者最好不去",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0225-07",
+   "unit_id": "SG3-U0225"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0225",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "偏科与课程取舍议题（卫大侠问、吴军答，23783-23793）：中美高中课程对比、理工科可弃物化不可弃英语、文科数学少投入、斯宾塞五级排序——升学与教育制度议题"
+  },
+  {
+   "unit_id": "SG3-U0225",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "离婚与为孩子妥协议题（凡语问、吴军答，23797-23813）：渣男离不离婚都渣、允许离婚是社会进步、责任感考察在婚前、美国共同抚养与抚养费制度、不必仅为孩子妥协、天天吵架家庭未必有利——婚姻家庭议题"
+  },
+  {
+   "unit_id": "SG3-U0225",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言原文：未来已来与凡语留言原文附于文稿末（23823-23829）——读者来信原文，吴军回应已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0225",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "宏观增速与十年规划论断（23757）：今后十年不要按本世纪前二十年速度规划人生、高速增长不可能永远持续、美国薪酬增速或赶不上通胀——依附当下宏观时点，规划逻辑已入K卡（下行先保底）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问34：下行先保底、五年判据、简历亮眼贡献、主动沟通、约老板、克服怕老板、暴脾气放大成卡；偏科与离婚议题归X5、读者原文归X7、宏观增速论断归X2"
+}

@@ -1,0 +1,237 @@
+{
+ "unit_id": "SG3-U0226",
+ "book_code": "SG3",
+ "extractor": "EXT-SG15",
+ "batch_id": "T-P3b-B-059",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "哲学和思想的工具通常能帮人走出心灵困境；吴军自述最低潮时得益尼采思想",
+   "quote": "哲学和思想的工具",
+   "anchor": {
+    "start_line": 23841,
+    "end_line": 23841,
+    "fingerprint": [
+     "最低潮",
+     "困境"
+    ],
+    "book_code": "SG3",
+    "sha1": "0f2027b75aa33b2fbc15537fad7dfb40b8acb66d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "哲学作心灵困境工具",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军亲历（23841）；尼采影响存在主义、勋伯格、邓肯（23843，见X4）；哲学作工具而非教条之总括见C-SG3-U0229-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-01",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "叔本华：世界分表象与意志两部分且根本上是意志的；理念可由感知获得，故重艺术审美",
+   "quote": "表象和意志",
+   "anchor": {
+    "start_line": 23857,
+    "end_line": 23861,
+    "fingerprint": [
+     "唯意志论",
+     "柏拉图"
+    ],
+    "book_code": "SG3",
+    "sha1": "3407640885024df7c01b423edf2ee1f7e4b18759"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "叔本华意志世界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=叔本华（《作为意志和表象的世界》）；对比柏拉图理念须纯理性触及（23861）；对尼采影响两点见C-SG3-U0226-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-02",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "叔本华对尼采影响两点：关注意志对人的作用；思考非理性艺术在感知世界中的作用",
+   "quote": "意志对人的作用",
+   "anchor": {
+    "start_line": 23863,
+    "end_line": 23863,
+    "fingerprint": [
+     "叔本华",
+     "非理性"
+    ],
+    "book_code": "SG3",
+    "sha1": "bd9e31d83e997fa935aeaa6f0af06a598a6d9e5d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "叔本华影响两点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "背景：康德黑格尔古典哲学重理性、19世纪末理性主义遇困后思想家转向非理性（23867，见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-03",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "尼采：政治和军事上的胜利不仅不能带领更先进的文化，反而可能制约文化的发展",
+   "quote": "制约文化的发展",
+   "anchor": {
+    "start_line": 23875,
+    "end_line": 23883,
+    "fingerprint": [
+     "普法战争",
+     "军国主义"
+    ],
+    "book_code": "SG3",
+    "sha1": "502e98acb95eba54c6450536af599086c7116932"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "胜利制约文化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=尼采（普法战争三结果之后果三，23877）；文化上依然是法兰西更先进、《德国历史中的文化诱惑》（23885）；纳粹绑军国主义宣传恰是尼采所反对（23881）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-04",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "尼采：酒神精神指人精神上非理性一面，日神精神代表理性；悲剧是人生的底色",
+   "quote": "悲剧是人生的底色",
+   "anchor": {
+    "start_line": 23889,
+    "end_line": 23893,
+    "fingerprint": [
+     "酒神精神",
+     "日神精神"
+    ],
+    "book_code": "SG3",
+    "sha1": "906d2a28b0d1f6bf8f5d7af4979d95666f2b299d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "酒神日神精神",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=尼采（《悲剧的诞生》1872）；悲剧艺术目的原话：让人感知到神圣的东西化解苦难获得欢乐，惟有艺术能做到（23893）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-05",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "尼采：真正的强者在世人庸俗盲从时掌握自己自由的意志，以精神升华自救（超人哲学）",
+   "quote": "超人哲学",
+   "anchor": {
+    "start_line": 23905,
+    "end_line": 23909,
+    "fingerprint": [
+     "上帝死了",
+     "强者"
+    ],
+    "book_code": "SG3",
+    "sha1": "c52b996a41881cc003c602fdb8c3c9efd55b4a13"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-3"
+   ],
+   "concept_key": "超人哲学",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=尼采；人应向内从自身存在中找答案、人天生有德性被虚伪思想掩盖（23905-23909）；上帝死了专论见C-SG3-U0227-01；萨特保留积极因素强调自由与内在价值（23911）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-06",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军取用：不喜欢超人一词，但其内心强大不盲从敢冒险不怕失败的特质是人应拥有的",
+   "quote": "内心强大",
+   "anchor": {
+    "start_line": 23919,
+    "end_line": 23919,
+    "fingerprint": [
+     "超越自我",
+     "精神特质"
+    ],
+    "book_code": "SG3",
+    "sha1": "42d72512a23f32bb2dd409d514d91b907aadf359"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-3"
+   ],
+   "concept_key": "超人特质取用",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "背景：工业化后人们成为工具失去意义、物质主义拜金、娱乐至死（23915）；鸡汤应运而生即柯勒律治到处都是水却没有一滴可以喝（23917）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-07",
+   "unit_id": "SG3-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人遭遇困境通常两个选择：躺平放弃或站起来抗争；只有站起来才能彰显人内在的价值",
+   "quote": "站起来",
+   "anchor": {
+    "start_line": 23921,
+    "end_line": 23921,
+    "fingerprint": [
+     "躺平",
+     "内在的价值"
+    ],
+    "book_code": "SG3",
+    "sha1": "9481d29c5d4853f5a3b057abdd06b289237dfa3e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "困境站起来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军自述精神困境时读尼采受鼓舞（23921）；这也正是尼采最基本的主张（23921）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0226-08",
+   "unit_id": "SG3-U0226"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0226",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "尼采生平与思想史科普：出生命名与路德宗家庭、音乐造诣、波恩大学、1867参军与瓦格纳交往、普法战争医护兵与无国籍、《悲剧的诞生》出版背景、对存在主义勋伯格邓肯影响、纳粹断章取义辨析、19世纪末理性主义困境背景（23843-23871、23875-23887、23895、23867、23899-23901）——生平与思想史叙述，论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第187封信尼采1：哲学工具、叔本华意志论及其影响、胜利制约文化、酒神日神、超人哲学（转述）加超人特质取用、困境站起来（吴军）成卡；生平思想史归X4"
+}
