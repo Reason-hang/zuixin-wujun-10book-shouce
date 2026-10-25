@@ -1,0 +1,168 @@
+{
+  "unit_id": "WJ2-U0162",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0162-01",
+      "unit_id": "WJ2-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "总结概念、给分类起形象名称、从个体上升到概念，是人类区别于机器的一大特征。",
+      "quote": "是人类区别于机器的一大特征",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13139,
+        "end_line": 13139,
+        "sha1": "885eb7b7e728df12241fa6eff44740a857c64bad",
+        "fingerprint": [
+          "概念",
+          "分类",
+          "机器"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "概念化是人的特征",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "AI可分类但不能命名上升为概念"
+    },
+    {
+      "claim_id": "C-WJ2-U0162-02",
+      "unit_id": "WJ2-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "文化突飞猛进尤其是转型的时代，都是大量新概念诞生和涌入的时代。",
+      "quote": "大量新概念诞生和涌入的时代",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13141,
+        "end_line": 13141,
+        "sha1": "74cfc03e2c63a6aa94beabcd8eb2c8cfcf449bb4",
+        "fingerprint": [
+          "概念",
+          "文化",
+          "转型"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "新概念涌入催生文化跃迁",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "轴心时代/佛教入华/近代日语借词三例；文明史侧面近X6"
+    },
+    {
+      "claim_id": "C-WJ2-U0162-03",
+      "unit_id": "WJ2-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "很多好概念会被玩坏、失去本意，让人糊涂甚至受骗；对想法不能光看名称，要看实质。",
+      "quote": "不能光看它的名称",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13211,
+        "end_line": 13211,
+        "sha1": "d73668113ab8e76195e40506e5740ffc7de0ad3e",
+        "fingerprint": [
+          "玩坏",
+          "名称",
+          "实质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "概念会玩坏",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "小姐/DEI/ESG为例；名称与实质之辨"
+    },
+    {
+      "claim_id": "C-WJ2-U0162-04",
+      "unit_id": "WJ2-U0162",
+      "speaker": "转述·第三方",
+      "claim_text": "哈耶克：通向地狱之路是用善良的愿望铺成的；好的意愿未必得到好的结果。",
+      "quote": "是用善良的愿望铺成的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13213,
+        "end_line": 13213,
+        "sha1": "9226158a525c0c3299c7967b69f7bbd543de7629",
+        "fingerprint": [
+          "哈耶克",
+          "愿望",
+          "地狱"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "善愿未必善果",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：哈耶克；吴军以“好想法被玩坏”印证"
+    },
+    {
+      "claim_id": "C-WJ2-U0162-05",
+      "unit_id": "WJ2-U0162",
+      "speaker": "吴军本人",
+      "claim_text": "无论哪个极端都很危险：一端在思想上狂奔，会造就另一端的强烈反弹。",
+      "quote": "不论是哪个极端，都是很危险的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13209,
+        "end_line": 13209,
+        "sha1": "9166138919a9d3120bf0791bac3f2f13fe1e6b90",
+        "fingerprint": [
+          "奥巴马",
+          "特朗普",
+          "反弹"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "极端皆危险",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "“奥巴马造就特朗普”之评；物极必反"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0162",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "当今美国进步主义/自由主义/觉醒文化内涵之评、政治光谱与2008-2024历次选举分析属时点政治评论，仅留“极端皆危险”的一般判断（卡5）"
+    },
+    {
+      "unit_id": "WJ2-U0162",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "美国进步主义时代（1890-1920反垄断、妇女选举权、泰勒科学管理）与古典自由主义思想史实属背景科普，不抽"
+    },
+    {
+      "unit_id": "WJ2-U0162",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末“延伸学习”两条课程链接属导航载体"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第132封信讲概念被玩坏与名称实质之辨，核心可迁移判断成卡；美国时政与思想史叙述记X2/X4"
+}

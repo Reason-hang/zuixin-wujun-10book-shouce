@@ -1,0 +1,190 @@
+{
+  "unit_id": "WJ2-U0158",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0158-01",
+      "unit_id": "WJ2-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "自身工作的安全性取决于商业创造财富的能力，最安全的地方是能不断创造财富的地方。",
+      "quote": "能不断创造财富的地方",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12869,
+        "end_line": 12869,
+        "sha1": "edd3677bd2eafc4e99ac0cbf789fcd8c0cdc62e8",
+        "fingerprint": [
+          "安全性",
+          "创造财富",
+          "坐吃山空"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D09-1"
+      ],
+      "concept_key": "安全来自创造财富",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "以美国私企福利优于国企为佐证；不存在有无限资源的机构"
+    },
+    {
+      "claim_id": "C-WJ2-U0158-02",
+      "unit_id": "WJ2-U0158",
+      "speaker": "转述·第三方",
+      "claim_text": "薛兆丰：商业是最好的慈善，其他都不是。",
+      "quote": "商业是最好的慈善",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12875,
+        "end_line": 12875,
+        "sha1": "b62ae7f8dfd0cc4570bcfe17744301194994387a",
+        "fingerprint": [
+          "薛兆丰",
+          "慈善",
+          "经济学"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "商业是最好的慈善",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：薛兆丰（得到经济学课主旨）；吴军称理解此点即得其一半"
+    },
+    {
+      "claim_id": "C-WJ2-U0158-03",
+      "unit_id": "WJ2-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "能由私营企业完成的事就不要交给非盈利组织或政府去做，因为效率相差太多（政府最低）。",
+      "quote": "因为效率相差太多",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12877,
+        "end_line": 12879,
+        "sha1": "6a5b382b321b9876e820e9cefb786680eee7d6da",
+        "fingerprint": [
+          "私营企业",
+          "非盈利",
+          "利润"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "私营效率高于公益与政府",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "企业利润约20-25%、非盈利手续费25-35%、政府更低的三级对比"
+    },
+    {
+      "claim_id": "C-WJ2-U0158-04",
+      "unit_id": "WJ2-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "凡事能自己解决就自己解决、能花钱解决就花钱解决，只有必须政府出面的（外交国防、金融秩序、基础研究）才交政府。",
+      "quote": "但凡能自己解决，就自己解决",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12897,
+        "end_line": 12897,
+        "sha1": "e20244e9e39a3615f30317ce0a34b9dc853f6925",
+        "fingerprint": [
+          "政府",
+          "国防",
+          "基础研究"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "能自决不自扰政府",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信落点；政府角色白名单列举"
+    },
+    {
+      "claim_id": "C-WJ2-U0158-05",
+      "unit_id": "WJ2-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "很多事不是政府想解决就能解决的（如鼓励生育）；别惯性地认为什么都该政府做、政府的钱无限。",
+      "quote": "政府其实也是无能为力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12895,
+        "end_line": 12895,
+        "sha1": "026a2bc93b2bbf1dc135d95c34be714d8d2b3b2f",
+        "fingerprint": [
+          "韩国",
+          "生育",
+          "无能为力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-1"
+      ],
+      "concept_key": "政府并非全能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "针对读者“事事找政府”的认知惯性；韩国生育例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0158-06",
+      "unit_id": "WJ2-U0158",
+      "speaker": "吴军本人",
+      "claim_text": "成长环境决定基本认知与视角，不主动更换不同视角看问题就会有巨大盲点。",
+      "quote": "更换不同的视角看问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12847,
+        "end_line": 12847,
+        "sha1": "a579148a759bad149ed5973505798696454f2bd1",
+        "fingerprint": [
+          "环境",
+          "认知",
+          "盲点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "更换视角破盲点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "专栏立场声明：用不熟悉的视角看世界；信末呼应多国视角"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0158",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "加州山火损失、特朗普救灾、马斯克查账FEMA、NIH管理费、乌克兰援助等2025时事例证属时点事件，其“政府效率低”论断由卡3承载"
+    },
+    {
+      "unit_id": "WJ2-U0158",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者“奇·哈斯”“行者无疆”“Xier”留言原文不抽，吴军回应已单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第128封信论政府福利有成本、私营效率高于公益与政府及视角盲点，多条可迁移判断成卡；时事案例与读者留言记X2/X7"
+}

@@ -1,0 +1,102 @@
+{
+  "unit_id": "WJ2-U0159",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0159-01",
+      "unit_id": "WJ2-U0159",
+      "speaker": "吴军本人",
+      "claim_text": "带偏见的内容传播得特别快且被坚信，阴谋论书籍与偏见环境是“美联储私营说”流行的主要原因。",
+      "quote": "传播得特别快",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12917,
+        "end_line": 12921,
+        "sha1": "64633b819f7a4fe3d4fcbb00d7d1f5245b374994",
+        "fingerprint": [
+          "阴谋论",
+          "私营公司",
+          "偏见"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "偏见加速谣言传播",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "误解三成因之首二；第三成因（早期央行确有私营阶段）由卡2解释"
+    },
+    {
+      "claim_id": "C-WJ2-U0159-02",
+      "unit_id": "WJ2-U0159",
+      "speaker": "吴军本人",
+      "claim_text": "早期央行兼具政府部门与私营企业双重性质：既归属政府，又以企业方式管理保效率。",
+      "quote": "有较高的运行效率",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12943,
+        "end_line": 12943,
+        "sha1": "c42f9032a0f3798a0ca9d82e8e21e3047ecf94d4",
+        "fingerprint": [
+          "央行",
+          "私营企业",
+          "双重性质"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "机构双重性质设计",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "瑞典/英格兰/法兰西银行三例支撑；政府职能与商业合作的样本"
+    },
+    {
+      "claim_id": "C-WJ2-U0159-03",
+      "unit_id": "WJ2-U0159",
+      "speaker": "吴军本人",
+      "claim_text": "央行职能二战后转向宏观调控、不再直接参与经济活动，组织上也就不再需要私营企业式的效率。",
+      "quote": "不再需要私营企业的那种效率",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12965,
+        "end_line": 12965,
+        "sha1": "0fc9f77b2aef8ff57b140e7f6d3ed8726358ebb7",
+        "fingerprint": [
+          "央行",
+          "利率",
+          "货币工具"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "组织形式随职能而变",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "机构设计跟随职能变迁的一般逻辑"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0159",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "美联储属性澄清与央行机构史（瑞典国会银行、英格兰银行、法兰西银行、美联储四事实、摩根讹传）属货币机构史科普，仅留可迁移设计与效率逻辑（卡2/3）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第129封信借美联储误解讲偏见传播与机构双重性质设计，少量可迁移判断成卡；机构史叙述记X4"
+}

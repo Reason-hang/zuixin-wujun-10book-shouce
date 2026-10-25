@@ -1,0 +1,207 @@
+{
+  "unit_id": "WJ2-U0148",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0148-01",
+      "unit_id": "WJ2-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "互联网媒体话术大多符合“唤起恐惧—激发焦虑—渴望安慰—获得解决”的恐惧营销闭环。",
+      "quote": "唤起恐惧—激发焦虑—渴望安慰",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12045,
+        "end_line": 12047,
+        "sha1": "6e070beabbd821a84bbcdda307cf44ce167f9597",
+        "fingerprint": [
+          "戈培尔",
+          "标题党",
+          "焦虑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "恐惧营销洗脑闭环",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "林斯特龙恐惧营销模型的吴军取用；机制例证（纳粹宣传）并入本卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0148-02",
+      "unit_id": "WJ2-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "谎言靠狂轰滥炸式重复灌输奏效：人每天看每天听，听多了就会从嗤之以鼻变为相信。",
+      "quote": "听多了，可能就会相信了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12053,
+        "end_line": 12055,
+        "sha1": "4a7b425bef76d36b1dd44ec3fb5c975689aa4fb6",
+        "fingerprint": [
+          "狂轰滥炸",
+          "纳粹党",
+          "灌输"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "重复灌输的洗脑效应",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "戈培尔第一招；炒股/鸡娃推送为例证并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0148-03",
+      "unit_id": "WJ2-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "要当心的不是机器，而是背后的算法和控制算法的人，否则会自觉钻进信息茧房。",
+      "quote": "当心的不是机器",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12069,
+        "end_line": 12069,
+        "sha1": "1094d7b736d68854d6e90f643547038a1f484a2a",
+        "fingerprint": [
+          "算法",
+          "信息茧房",
+          "戈培尔"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "当心算法而非机器",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "戈培尔第二招（屏蔽信源）的当代对应"
+    },
+    {
+      "claim_id": "C-WJ2-U0148-04",
+      "unit_id": "WJ2-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "重复的信息没有价值；觉得“信息重复次数越多越真”是需要特别警惕的误区。",
+      "quote": "重复的信息都没有价值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12081,
+        "end_line": 12081,
+        "sha1": "e1ad16f820865f23cbb0be5172721169e6bc1deb",
+        "fingerprint": [
+          "信息论",
+          "误区",
+          "警惕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "重复信息无价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "引自其《信息论40讲》结论的复述，破狂轰滥炸"
+    },
+    {
+      "claim_id": "C-WJ2-U0148-05",
+      "unit_id": "WJ2-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "应主动搜索而非被推荐，并固定几个信得过的信息源，以破除信息茧房。",
+      "quote": "主动从不同的信息源获取信息",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12083,
+        "end_line": 12083,
+        "sha1": "59379b2e0e114b1c523afac968495496b5b8b6bb",
+        "fingerprint": [
+          "信息茧房",
+          "主动获取",
+          "信息源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "主动获取破信息茧房",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两关键词：主动获取、固定可信信源"
+    },
+    {
+      "claim_id": "C-WJ2-U0148-06",
+      "unit_id": "WJ2-U0148",
+      "speaker": "吴军本人",
+      "claim_text": "要不断剔除朋友圈中对你施暴的人；身边没有施暴者，给自己喂垃圾的人就少了。",
+      "quote": "剔除那些对你施暴的人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12085,
+        "end_line": 12085,
+        "sha1": "335b72ca968f11928edeefe0a82964ed0317b4b5",
+        "fingerprint": [
+          "施暴",
+          "朋友圈",
+          "喂垃圾"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "剔除施暴者",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "承接下一封信清理朋友圈主题"
+    },
+    {
+      "claim_id": "C-WJ2-U0148-07",
+      "unit_id": "WJ2-U0148",
+      "speaker": "转述·第三方",
+      "claim_text": "短视频个性推荐太强大，用户喜欢什么就全看到什么，平台可长期影响用户心智。",
+      "quote": "个性推荐实在太强大了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12067,
+        "end_line": 12067,
+        "sha1": "c24d6426c3e4e46c2a3091ec983e560796065c73",
+        "fingerprint": [
+          "孙忠怀",
+          "猪食",
+          "个性推荐"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "个性推荐信息茧房",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：孙忠怀（原腾讯传媒部门主管）；吴军认同并引申"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第120封信系统讲识别与防范假消息洗脑的机制与方法，多条核心可迁移判断成卡"
+}

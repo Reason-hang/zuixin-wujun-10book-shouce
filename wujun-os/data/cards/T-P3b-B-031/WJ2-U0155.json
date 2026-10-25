@@ -1,0 +1,205 @@
+{
+  "unit_id": "WJ2-U0155",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0155-01",
+      "unit_id": "WJ2-U0155",
+      "speaker": "吴军本人",
+      "claim_text": "双人博弈中强者生存率更高；三方博弈中最弱者生存可能性反而最大，且大得多。",
+      "quote": "最弱的查理生存下来的可能性最大",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12643,
+        "end_line": 12643,
+        "sha1": "d6c350683dac7b95e6cf77773a5c1e4882ea87fb",
+        "fingerprint": [
+          "双人博弈",
+          "三人博弈",
+          "查理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "三方博弈弱者优势",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概率计算过程（决斗模型）见12547-12645推导，公式以正文为准"
+    },
+    {
+      "claim_id": "C-WJ2-U0155-02",
+      "unit_id": "WJ2-U0155",
+      "speaker": "吴军本人",
+      "claim_text": "三方博弈中人人都先攻击最强者，最弱者因不构成威胁反而获得最大生存机会。",
+      "quote": "都不觉得他是很大的威胁",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12609,
+        "end_line": 12609,
+        "sha1": "7913710715d94ab989c0431ff5f46c57f9d9f801",
+        "fingerprint": [
+          "查理",
+          "威胁",
+          "生存"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "无威胁者的生存红利",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "策略推导：强者先打次强，弱者渔利"
+    },
+    {
+      "claim_id": "C-WJ2-U0155-03",
+      "unit_id": "WJ2-U0155",
+      "speaker": "吴军本人",
+      "claim_text": "三方博弈解释人类进化：最暴力的个体最先被淘汰，暴虐民族也随之消失。",
+      "quote": "最暴力的个体会最先被淘汰掉",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12649,
+        "end_line": 12653,
+        "sha1": "1ba6c4dc5d50ec4fda884446f6b751a86c847a68",
+        "fingerprint": [
+          "淘汰",
+          "伦巴第人",
+          "鲜卑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "最暴力者先淘汰",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "承接上封信；伦巴第人/汪达尔人/匈人/五胡为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0155-04",
+      "unit_id": "WJ2-U0155",
+      "speaker": "吴军本人",
+      "claim_text": "上述结果以人人聪明理性为前提；乌合之众对强敌不自知而内斗、或强者深藏，则另当别论。",
+      "quote": "人类可能是乌合之众",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12657,
+        "end_line": 12657,
+        "sha1": "6c659263084b44efb01a5db0f3557da2ca41b671",
+        "fingerprint": [
+          "乌合之众",
+          "内斗",
+          "强者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "博弈结论的理性前提",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "博弈模型适用条件；战国六国被秦各个击破为反例"
+    },
+    {
+      "claim_id": "C-WJ2-U0155-05",
+      "unit_id": "WJ2-U0155",
+      "speaker": "史实",
+      "claim_text": "英国近代行光荣孤立，联合第二、第三制约第一，先后击败拿破仑帝国与德意志帝国。",
+      "quote": "制约第一的国家",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12661,
+        "end_line": 12661,
+        "sha1": "5d83c5cfd9a7b1b36c9da9f7117506da165855a3",
+        "fingerprint": [
+          "英国",
+          "光荣孤立",
+          "拿破仑"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D04-1",
+        "D03-1"
+      ],
+      "concept_key": "联弱制强的均势策略",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "多方博弈机理的历史案例；司马懿示弱、朱元璋缓称王同类并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0155-06",
+      "unit_id": "WJ2-U0155",
+      "speaker": "吴军本人",
+      "claim_text": "弱者要在竞争中谋生存就必须联合起来，不做乌合之众；劳工权利即弱者联合的成果。",
+      "quote": "不要成为乌合之众",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12671,
+        "end_line": 12671,
+        "sha1": "6d07e814790b9fd2bda5de7b7438e8e214c74538",
+        "fingerprint": [
+          "联合",
+          "乌合之众",
+          "劳工"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "弱者联合谋生存",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "启示一；发达国家劳工立法为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0155-07",
+      "unit_id": "WJ2-U0155",
+      "speaker": "吴军本人",
+      "claim_text": "强者要“知其雄，守其雌”，不逞强好胜、不成为众矢之的。",
+      "quote": "知其雄，守其雌",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12673,
+        "end_line": 12673,
+        "sha1": "e951d5b271b4a63686d8707b1d3f5c6d09b64a3f",
+        "fingerprint": [
+          "众矢之的",
+          "逞强好胜",
+          "强者"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "知雄守雌",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "启示二；语出《道德经》，曾国藩常言；近D03-1"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第126封信用三方博弈论解释最野蛮者最先被淘汰并给出弱者联合、强者守雌两条启示，核心判断成卡"
+}

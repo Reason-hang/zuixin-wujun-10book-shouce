@@ -1,0 +1,215 @@
+{
+  "unit_id": "WJ2-U0161",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0161-01",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "赚钱前必须先搞清钱在哪里、赚的是谁的钱；搞不清楚大概率赚不到钱甚至赔钱。",
+      "quote": "必须先清楚钱在哪里",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13075,
+        "end_line": 13075,
+        "sha1": "07590fbb61aadf08a6fda580ac8e23d0f9a15e62",
+        "fingerprint": [
+          "赚钱",
+          "钱在哪里",
+          "例子"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "先搞清钱在哪里",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总纲；信末三条总结之第一条"
+    },
+    {
+      "claim_id": "C-WJ2-U0161-02",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "和好企业做生意比和政府更容易：挣钱多、货款能收回、账期更短；政府未必更有钱、信誉更好。",
+      "quote": "比和政府做要容易一些",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13069,
+        "end_line": 13071,
+        "sha1": "8fbc2747b4791979331d18fa203f50ec0ee3c68e",
+        "fingerprint": [
+          "政府",
+          "信誉",
+          "账期"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "与好企业合作更可靠",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "美国主权评级AA+低于微软强生AAA为佐证；选对合作方是关键"
+    },
+    {
+      "claim_id": "C-WJ2-U0161-03",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "人工智能行业总量有限且大头被巨头赚走；真有本事最好加入巨头，而不是与它们竞争。",
+      "quote": "最好的办法就是加入它们",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13095,
+        "end_line": 13097,
+        "sha1": "f47763a0f686deb11c4a4ac5517b71e22d5995af",
+        "fingerprint": [
+          "人工智能",
+          "微软",
+          "达摩院"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-1"
+      ],
+      "concept_key": "加入巨头胜过竞争",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "IT产值5万亿、2/3在电信；达摩院骨干薪酬对照创业"
+    },
+    {
+      "claim_id": "C-WJ2-U0161-04",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "才智平平又无背景者，较舒服的活法是到总盘子大、从业者才智不高的行业寻找机会。",
+      "quote": "比较舒服的活法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13105,
+        "end_line": 13105,
+        "sha1": "67e757a101d50f5f7217ad8d4e467b545cbce209",
+        "fingerprint": [
+          "IT",
+          "内卷",
+          "才智"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D09-1"
+      ],
+      "concept_key": "选大盘低竞争行业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "物流占全球GDP1/8、大健康1/10；IT高才智高内卷对照"
+    },
+    {
+      "claim_id": "C-WJ2-U0161-05",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "零不是最小的数还有负数：最惨的是进入投入100只收回50的负债行业（如彩票）去挣钱。",
+      "quote": "零不是最小的数",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13109,
+        "end_line": 13111,
+        "sha1": "4aab15e4c87d4ab73a7523c7b0dbd7c8e26cc57d",
+        "fingerprint": [
+          "负数",
+          "彩票",
+          "返奖率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "警惕负债行业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "跨书线索：富足《01.做事永远不要忽视负数》；彩票返奖率50-65%"
+    },
+    {
+      "claim_id": "C-WJ2-U0161-06",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "钱有时比人更公正：人会沽名钓誉，钱最终都会流向回报最高的地方。",
+      "quote": "钱有时比人更公正",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13125,
+        "end_line": 13125,
+        "sha1": "7d1c3bfcf9a465b1ec6f2852bbc1e191742f4e16",
+        "fingerprint": [
+          "钱",
+          "回报",
+          "公正"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D08-2"
+      ],
+      "concept_key": "钱流向回报最高处",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末格言式收束"
+    },
+    {
+      "claim_id": "C-WJ2-U0161-07",
+      "unit_id": "WJ2-U0161",
+      "speaker": "吴军本人",
+      "claim_text": "聚宝盆就放在眼前，多数人却为赢一碗面闭眼过桥——绝大部分人不知道钱在哪里。",
+      "quote": "偏要去赢那一碗面",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13089,
+        "end_line": 13093,
+        "sha1": "34e3f521b1c57bde007fdbf832753f2e9d2bcb16",
+        "fingerprint": [
+          "聚宝盆",
+          "一碗面",
+          "一针见血"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "聚宝盆与一碗面",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "迎财神笑话的寓意提炼"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0161",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "2024彩票销售统计、ChatGPT/DeepSeek课程投机、贝莱德/先锋ESG撤资等时点数据仅作例证，机理由卡3/5承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第131封信讲钱在哪里、从谁身上赚、警惕负债行业，多条可迁移的赚钱认知成卡"
+}

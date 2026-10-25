@@ -1,0 +1,208 @@
+{
+  "unit_id": "WJ2-U0154",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0154-01",
+      "unit_id": "WJ2-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "没有得到教化和约束的人其实挺野蛮的；人类历史基本上是从野蛮到不那么野蛮的历史。",
+      "quote": "没有得到教化和约束的人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12463,
+        "end_line": 12465,
+        "sha1": "0c3331e83b3a218c7ccff56188b0d076bfea9e98",
+        "fingerprint": [
+          "教化",
+          "野蛮",
+          "驯化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "人无教化则野蛮",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "呼应其第64封信“人非生来良善”结论"
+    },
+    {
+      "claim_id": "C-WJ2-U0154-02",
+      "unit_id": "WJ2-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "了解史前无文字的历史靠考古或原始部落；要了解远祖的想法性格须用第三法：研究人类近亲。",
+      "quote": "研究人类的近亲",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12491,
+        "end_line": 12493,
+        "sha1": "25ee46b10d316cce19b04ab24c7f48b5a82c9069",
+        "fingerprint": [
+          "考古",
+          "原始部落",
+          "近亲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "近亲参照法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "间接证据不足时改换参照系的认知方法"
+    },
+    {
+      "claim_id": "C-WJ2-U0154-03",
+      "unit_id": "WJ2-U0154",
+      "speaker": "史实",
+      "claim_text": "倭黑猩猩群体中雌性团结合作、群起惩戒称霸的雄性，以群体力量维持和平相处的模式。",
+      "quote": "运用团结的力量",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12503,
+        "end_line": 12503,
+        "sha1": "216a5bd14ec56515827f61717584f5f9b4ee88e2",
+        "fingerprint": [
+          "倭黑猩猩",
+          "雌性",
+          "和平"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "群体合作反制暴力",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "德瓦尔观察；母系社会对照父系黑猩猩的残暴"
+    },
+    {
+      "claim_id": "C-WJ2-U0154-04",
+      "unit_id": "WJ2-U0154",
+      "speaker": "转述·第三方",
+      "claim_text": "人类进化就是驯化暴力的过程：社会用群体力量与法律惩罚（含死刑）驯化淘汰最残忍的人。",
+      "quote": "驯化淘汰掉最残忍的人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12509,
+        "end_line": 12509,
+        "sha1": "1de5a9014cac7acc6ee296014d5a8d3eb6d6dfa1",
+        "fingerprint": [
+          "法律",
+          "死刑",
+          "淘汰"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "社会驯化个体暴力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：兰厄姆、德瓦尔（两学者结论基本相同）；承接卡3机理"
+    },
+    {
+      "claim_id": "C-WJ2-U0154-05",
+      "unit_id": "WJ2-U0154",
+      "speaker": "转述·第三方",
+      "claim_text": "兰厄姆：暴力分主动性与反应性两类；人类进化减反应性攻击、增主动性攻击，故温柔与暴力可共存。",
+      "quote": "主动性攻击和反应性攻击",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12515,
+        "end_line": 12515,
+        "sha1": "c7b2757f3d4b27809429c933ec1eec5f0bf6abf2",
+        "fingerprint": [
+          "兰厄姆",
+          "暴力",
+          "分类"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "暴力二分框架",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "解释希特勒矛盾行为；吴军落点：遇此类人不必奇怪、注意防范"
+    },
+    {
+      "claim_id": "C-WJ2-U0154-06",
+      "unit_id": "WJ2-U0154",
+      "speaker": "吴军本人",
+      "claim_text": "个人任何时候都要有一套防范霸凌的方法，像倭黑猩猩雌性那样以合作惩戒施暴者。",
+      "quote": "防范霸凌的方法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12523,
+        "end_line": 12523,
+        "sha1": "ebc776ae064c4bca72a80f0c175b6153d7077612",
+        "fingerprint": [
+          "霸凌",
+          "合作",
+          "惩戒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "合作惩戒施暴",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "职场场景近D06-3；群体需建立防群体间攻击的系统"
+    },
+    {
+      "claim_id": "C-WJ2-U0154-07",
+      "unit_id": "WJ2-U0154",
+      "speaker": "转述·第三方",
+      "claim_text": "德瓦尔：同理心等道德情感可能天生、可经基因驯化获得；人类仅追求合作不够，需自我驯化。",
+      "quote": "道德情感也可能是天生的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12525,
+        "end_line": 12525,
+        "sha1": "42ee3b4a4917614d9b9a169bcedb00796aadf6ef",
+        "fingerprint": [
+          "德瓦尔",
+          "同理心",
+          "自我驯化"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "道德情感天生论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：德瓦尔设想+兰厄姆/德瓦尔共识；人类演化论侧面近X6"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0154",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "早期人类食人/《翦商》、狗狼驯化对比、希特勒待犬轶事、两学者生平与猩猩行为细节等纯史实叙述，可迁移机理已由卡3/4/5承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第125封信借两本灵长类研究著作讲野蛮基因如何被驯化及个人如何防范霸凌，核心判断成卡；史实背景记X4"
+}

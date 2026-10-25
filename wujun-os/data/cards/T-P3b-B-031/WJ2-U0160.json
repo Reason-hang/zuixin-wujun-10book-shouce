@@ -1,0 +1,249 @@
+{
+  "unit_id": "WJ2-U0160",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0160-01",
+      "unit_id": "WJ2-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "企业的第一任务是合法地赚钱，赚得越多越好，其他任务都要给它让路。",
+      "quote": "赚钱才是企业的第一任务",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12983,
+        "end_line": 12983,
+        "sha1": "52803c7f18219be0839e1e9180d426aee590fcf5",
+        "fingerprint": [
+          "企业",
+          "合法",
+          "责任"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "合法赚钱是企业第一任务",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "把社会责任置于赚钱之前是本末倒置"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-02",
+      "unit_id": "WJ2-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "合法商业在看不见的手引导下使社会财富剧增、资源合理配置；亏损企业则在浪费资源、扰乱市场。",
+      "quote": "让整个社会财富剧增",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12987,
+        "end_line": 12989,
+        "sha1": "75644e75962adca7db4cb067d8348bfbf072ece3",
+        "fingerprint": [
+          "看不见的手",
+          "亏损",
+          "资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "盈利即配置资源",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "亏损企业反例：100元成本产出80元拖垮行业"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-03",
+      "unit_id": "WJ2-U0160",
+      "speaker": "转述·第三方",
+      "claim_text": "松下幸之助：企业不能盈利就是犯罪，宝贵的资源本可用于更有意义的事情。",
+      "quote": "如果不能盈利，就是犯罪",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12991,
+        "end_line": 12991,
+        "sha1": "a95983d8732679ec0fb7eb1af800e8c05b8ff62b",
+        "fingerprint": [
+          "松下幸之助",
+          "盈利",
+          "犯罪"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "不盈利即犯罪",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：松下幸之助；吴军注为“看不见的手”另一种诠释"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-04",
+      "unit_id": "WJ2-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "无视市场规律的免费援助会摧毁当地产业：援助粮被贪污贱卖压垮非洲农业，形成饥荒与援助的恶性循环。",
+      "quote": "摧毁了当地的农业",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13005,
+        "end_line": 13007,
+        "sha1": "10a7f89ba35f38d1e27490bf014bb4d9779a4e5d",
+        "fingerprint": [
+          "援助",
+          "非洲",
+          "农业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "免费援助摧毁本地产业",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "钱/南研究：援助增10%动乱增1.14%；蚊帐挤垮纺织厂同机理"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-05",
+      "unit_id": "WJ2-U0160",
+      "speaker": "转述·第三方",
+      "claim_text": "释永信：你把产品做好就是在做善事、提高境界；干好自己的事世界就更好。",
+      "quote": "你把产品做好，就是在做善事",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13023,
+        "end_line": 13023,
+        "sha1": "44a99071383aa167cee78c2e24741deb8fa69ecf",
+        "fingerprint": [
+          "释永信",
+          "库克",
+          "境界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "做好产品即善事",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：释永信（答库克问）；吴军引申“每个人干好自己的事”"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-06",
+      "unit_id": "WJ2-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "企业追求社会责任若忽视市场规律，就是用自身资源制造不可持续的体系，反而破坏市场。",
+      "quote": "去制造一个不可持续的体系",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13021,
+        "end_line": 13021,
+        "sha1": "1b001f93f6389b8246df71e28fb4822c6b08b9f7",
+        "fingerprint": [
+          "市场规律",
+          "企业",
+          "资源"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "责任不可违市场规律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "承接近代慈善案例回到企业"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-07",
+      "unit_id": "WJ2-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "ESG已成生意与炒作：兼顾环境社会治理与获利几乎不可能，多数企业只把它当文案写作大赛。",
+      "quote": "其实是一门生意",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13035,
+        "end_line": 13039,
+        "sha1": "b76a108bd7116d8d8f3a3854d4eeabc2c4158df9",
+        "fingerprint": [
+          "ESG",
+          "贝莱德",
+          "经济学人"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "ESG是生意与炒作",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "《经济学人》结论；马斯克称骗局、机构撤资为时点例证（近X2）"
+    },
+    {
+      "claim_id": "C-WJ2-U0160-08",
+      "unit_id": "WJ2-U0160",
+      "speaker": "吴军本人",
+      "claim_text": "与其低效地远赴贫困地区做扶贫秀，不如把产品做好、少裁几个人，给社会减少负担。",
+      "quote": "不如把产品做好一点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 13041,
+        "end_line": 13041,
+        "sha1": "a9005c83c5b4d90944c6b02a87698fa32cbf92d6",
+        "fingerprint": [
+          "扶贫",
+          "产品",
+          "少裁"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "做好本职胜过责任秀",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "2010年在腾讯任职时的观察与一贯看法"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0160",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "加州大火归责石油公司法案、特朗普关闭国际开发署、ESG基金规模与贝莱德/先锋/贝佐斯撤资等时点性事件数据，仅作论据，论断由卡7承载"
+    },
+    {
+      "unit_id": "WJ2-U0160",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "“行者无疆”读者留言（企业社会责任话题）仅为本信触发线索，不抽"
+    },
+    {
+      "unit_id": "WJ2-U0160",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末“延伸学习”课程链接属导航载体"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第130封信论企业第一任务是合法赚钱、忽视市场规律的社会责任反致破坏，多条核心商业判断成卡"
+}

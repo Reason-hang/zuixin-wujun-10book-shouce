@@ -1,0 +1,130 @@
+{
+  "unit_id": "WJ2-U0151",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0151-01",
+      "unit_id": "WJ2-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "宠物市场虽大，但除品牌宠物粮和兽医外很少有人从中挣到大钱，从业者多出于喜爱。",
+      "quote": "很少有人从中挣到大钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12287,
+        "end_line": 12287,
+        "sha1": "e942380cdd5a805c42898a47c63941b60dc25106",
+        "fingerprint": [
+          "宠物市场",
+          "挣到大钱",
+          "喜欢宠物"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "大市场不等于好生意",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "美国四大细分市场结构（育种/粮品/看病/看护）并入本卡作例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0151-02",
+      "unit_id": "WJ2-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "宠物生意难规模化：育种需血统得奖、年育50-80只才够中位收入，照看数量也有限，故除品牌粮外不值得创业。",
+      "quote": "其他生意恐怕不值得创业",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12289,
+        "end_line": 12291,
+        "sha1": "f5c3a562c5f95e90435c669e599ea27b141de1ed",
+        "fingerprint": [
+          "血统",
+          "训练",
+          "中位数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "供给难规模化则难成大生意",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "回答读者创业咨询；判断逻辑可迁移至其他服务业"
+    },
+    {
+      "claim_id": "C-WJ2-U0151-03",
+      "unit_id": "WJ2-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "养宠物能满足陪伴需求：狗不会气人，可明显减少单身人士的孤独感，这是年轻人爱养宠的原因之一。",
+      "quote": "孤独感就会减少很多",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12299,
+        "end_line": 12299,
+        "sha1": "715def7f7c639fe43f4f45e2b4ea79507c54a0a1",
+        "fingerprint": [
+          "快乐",
+          "孤独感",
+          "单身"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "宠物缓解孤独",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "对读者所提现象的解释"
+    },
+    {
+      "claim_id": "C-WJ2-U0151-04",
+      "unit_id": "WJ2-U0151",
+      "speaker": "吴军本人",
+      "claim_text": "颜值高是一种资源：不仅人看颜值，狗也看颜值，漂亮的狗会获得更多关注与礼物。",
+      "quote": "颜值高也是一种资源",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12311,
+        "end_line": 12311,
+        "sha1": "1cac68b6bd0c88ecc0a575dacb07b985b844d864",
+        "fingerprint": [
+          "颜值",
+          "资源",
+          "萨摩耶"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "颜值即资源",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "呼应其此前来信观点，此处以狗为证"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0151",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者“蝌蚪與水”来信原文（养宠调研与创业设想）按规则不抽，吴军回应部分已单独成卡"
+    },
+    {
+      "unit_id": "WJ2-U0151",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "养狗个人轶事与公德常识（训狗防咬、随身狗屎袋、避开陌生狗、聪明狗不好养等）无可迁移支柱判断，不抽"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答：吴军对宠物行业创业的判断与生活体悟成卡；读者原文与轶事常识分别记X7/X8"
+}

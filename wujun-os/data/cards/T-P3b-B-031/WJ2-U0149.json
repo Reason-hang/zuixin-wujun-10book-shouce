@@ -1,0 +1,231 @@
+{
+  "unit_id": "WJ2-U0149",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0149-01",
+      "unit_id": "WJ2-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "朋友圈质量的平均值往往就是一个人的大致水平，因此有必要提高朋友圈质量。",
+      "quote": "朋友圈质量的平均值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12099,
+        "end_line": 12101,
+        "sha1": "153684458350394e987fee7569df0605a35e1184",
+        "fingerprint": [
+          "朋友圈",
+          "平均值",
+          "损友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "朋友圈均值即个人水平",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清理朋友圈系列总起"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-02",
+      "unit_id": "WJ2-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "现在人们加的朋友太多而非太少；增加良师益友提升未必明显，少与损友来往却容易办到。",
+      "quote": "少和一些损友来往",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12101,
+        "end_line": 12101,
+        "sha1": "3aac1f22c1f53f8c17c9229651211577905c3793",
+        "fingerprint": [
+          "损友",
+          "良师益友"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "减损友优于增益友",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "做减法在交友上的应用"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-03",
+      "unit_id": "WJ2-U0149",
+      "speaker": "转述·第三方",
+      "claim_text": "九项医学评判标准中占五项即为自恋型人格障碍，可据此识别身边的自恋者。",
+      "quote": "在下面这九项当中占了五项",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12113,
+        "end_line": 12115,
+        "sha1": "911d8e3da735b785bbcda96e253d6eda638d2166",
+        "fingerprint": [
+          "阿拉比",
+          "九个评判标准",
+          "自恋型人格障碍"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "自恋者九条识别标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：沙希达·阿拉比《不被支配》；九条清单见锚点，清单整体一卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-04",
+      "unit_id": "WJ2-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "自恋者的共同特点是抢走你的荣誉、安全感、朋友甚至恋人，未必需要，只觉抢来的好。",
+      "quote": "抢走你的荣誉、安全感",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12141,
+        "end_line": 12141,
+        "sha1": "2cab17294b88a632d08263123b28c95ec4a94063",
+        "fingerprint": [
+          "共同的特点",
+          "嫉妒",
+          "占有欲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "自恋者掠夺本性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军对多种表现的概括"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-05",
+      "unit_id": "WJ2-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "自恋者接近你常出于目的而非友谊，会恭维你后抄袭窃取，把成果占为己有。",
+      "quote": "不是出于友谊，而是有他们的目的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12143,
+        "end_line": 12143,
+        "sha1": "15f7f493a51051ea3869d7ac2e1ec26ef42f70a1",
+        "fingerprint": [
+          "欺负",
+          "排挤",
+          "窃为己有"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "警惕目的性接近",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "工作场景例证并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-06",
+      "unit_id": "WJ2-U0149",
+      "speaker": "吴军本人",
+      "claim_text": "自恋型人格障碍几乎无法治愈；应对首选是主动离开自恋者，当断则断。",
+      "quote": "主动离开那些自恋者",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12157,
+        "end_line": 12163,
+        "sha1": "6eed7e4933475fa4f42fcd6f8e55315735ed92b2",
+        "fingerprint": [
+          "心理疾病",
+          "主动离开",
+          "当断则断"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "远离自恋者当断则断",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "病因判断依据阿拉比；“走比惹好”为吴军概括"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-07",
+      "unit_id": "WJ2-U0149",
+      "speaker": "转述·第三方",
+      "claim_text": "暂时摆脱不了自恋者（如老板、父母）时，要识其套路、以其人之道还治其身，反击坚决。",
+      "quote": "反击一定要坚决",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12165,
+        "end_line": 12165,
+        "sha1": "e4dbbf0fe351fae5ab35a994a02e8a4f06d281d6",
+        "fingerprint": [
+          "阿拉比",
+          "周旋",
+          "以其人之道"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "与自恋者周旋",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：阿拉比；吴军补充“走不了只好惹了”"
+    },
+    {
+      "claim_id": "C-WJ2-U0149-08",
+      "unit_id": "WJ2-U0149",
+      "speaker": "转述·第三方",
+      "claim_text": "阿德勒：人类所有的烦恼，都来自于人际关系。",
+      "quote": "都来自于人际关系",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12167,
+        "end_line": 12167,
+        "sha1": "98894b8b22267e6d288c28a587884b4ed93d969e",
+        "fingerprint": [
+          "阿德勒",
+          "烦恼",
+          "人际关系"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "烦恼源于人际关系",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：阿德勒，信末引语"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0149",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "自恋型父母与恋人/配偶段落属家庭与亲密关系议题（X5），其通用应对方法已由本单元卡6/7覆盖，余者不抽"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第121封信核心讲识别并远离自恋者以清理朋友圈，多条可迁移判断成卡；家庭亲密关系段落记X5"
+}

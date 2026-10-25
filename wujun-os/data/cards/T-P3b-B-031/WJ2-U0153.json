@@ -1,0 +1,238 @@
+{
+  "unit_id": "WJ2-U0153",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0153-01",
+      "unit_id": "WJ2-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "人工智能不会产生自主意识：图灵机受程序控制、芯片只是电子机械运动、程序的数学公式是确定的。",
+      "quote": "这件事不可能",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12393,
+        "end_line": 12399,
+        "sha1": "56a17ac9138f3ac09d8b43073fc174b813ad1e76",
+        "fingerprint": [
+          "图灵机",
+          "半导体",
+          "神经网络"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "AI无自主意识三理由",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "宏观/微观/中观三层论证；计算的局限"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-02",
+      "unit_id": "WJ2-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "若A决定了B必不出现，而现实使用的正是A，就不必再反复追问B会不会发生。",
+      "quote": "不用没完没了地问",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12401,
+        "end_line": 12401,
+        "sha1": "8a109b6532016d3fe78024e47112ca0f0ba07d1b",
+        "fingerprint": [
+          "决定了",
+          "不会发生",
+          "道理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "前提排除则结论自明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "通用的讨论问题元规则"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-03",
+      "unit_id": "WJ2-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "计算机没有自主意识不等于不会失控，也不等于不能控制人类（如冷冰冰的信托条款）。",
+      "quote": "不意味着它不会失控",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12403,
+        "end_line": 12405,
+        "sha1": "3a5a0ccfef5d498f7c6269b609bc24395f54143b",
+        "fingerprint": [
+          "失控",
+          "家族信托",
+          "控制"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "无意识仍可失控控人",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "汽车失控/电路短路/信托条款三例并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-04",
+      "unit_id": "WJ2-U0153",
+      "speaker": "转述·第三方",
+      "claim_text": "薛定谔：人体功能机械化、遵循自然物理定律；人能自由控制身体与意识，须承担选择责任。",
+      "quote": "完全遵循自然物理定律",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12421,
+        "end_line": 12421,
+        "sha1": "fe53fda070643f85b734488c996b2053bcf59bb3",
+        "fingerprint": [
+          "薛定谔",
+          "共价键",
+          "责任"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "生命是机械的还原论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：薛定谔《生命是什么》两核心观点；还原论高峰"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-05",
+      "unit_id": "WJ2-U0153",
+      "speaker": "转述·第三方",
+      "claim_text": "武志红：主观与客观之间有一道鸿沟，无法用客观改变主观，只能通过主观改变主观。",
+      "quote": "只能通过主观改变主观",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12439,
+        "end_line": 12439,
+        "sha1": "f1e8d222f450cc6a9a41bd4a3f172ed798a25857",
+        "fingerprint": [
+          "武志红",
+          "鸿沟",
+          "主观"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "主观改变主观",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：心理学家武志红；吴军认同并引申为人的存在价值"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-06",
+      "unit_id": "WJ2-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "我们的世界不是绝对客观的，主观性是人存在的价值与意义，要珍视主观感受、保护灵魂。",
+      "quote": "保护好自己的灵魂",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12447,
+        "end_line": 12449,
+        "sha1": "04ed3123afd692d9647f6b2bd205d95468368b01",
+        "fingerprint": [
+          "主观性",
+          "灵魂",
+          "机器"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "主观性即存在价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末三点总结之一二合并；认识论侧面近D01-1"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-07",
+      "unit_id": "WJ2-U0153",
+      "speaker": "吴军本人",
+      "claim_text": "简单还原论解释不了生命现象：每个人都是复杂系统，不可能用简单物理化学运动来解释。",
+      "quote": "用简单的物理化学运动来解释",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12451,
+        "end_line": 12451,
+        "sha1": "2fd7d991bf027c70fad6963ed300d0809b379726",
+        "fingerprint": [
+          "还原论",
+          "复杂的系统",
+          "物理"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "还原论解释不了生命",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "信末三点总结之三；系统论对照"
+    },
+    {
+      "claim_id": "C-WJ2-U0153-08",
+      "unit_id": "WJ2-U0153",
+      "speaker": "转述·第三方",
+      "claim_text": "维特根斯坦：我们争论的常不是事实本身而是对事实的定义，故谈机器意识为时尚早。",
+      "quote": "我们对事实的定义",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12443,
+        "end_line": 12443,
+        "sha1": "abf96e38aeebdb9e6b84d54eaba32972d2d5f2fa",
+        "fingerprint": [
+          "维特根斯坦",
+          "定义",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-4"
+      ],
+      "concept_key": "争论的是定义而非事实",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦；向日葵有无理性取决于定义"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0153",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "意识认知演进与还原论/系统论科学史叙述（灵魂21克实验、薛定谔影响、DNA发现史）属思想史科普，可迁移结论已由卡7承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第124封信论AI无自主意识与主观性价值，多条可迁移核心判断成卡；科学史背景记X4"
+}

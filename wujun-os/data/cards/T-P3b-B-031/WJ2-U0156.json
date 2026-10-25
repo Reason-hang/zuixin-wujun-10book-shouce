@@ -1,0 +1,214 @@
+{
+  "unit_id": "WJ2-U0156",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ11",
+  "batch_id": "T-P3b-B-031",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0156-01",
+      "unit_id": "WJ2-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "机器人形态应由用途决定而非拟人：扫地用爬行装置、开车与车一体、手术只需两根小手指。",
+      "quote": "看用它来干什么",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12711,
+        "end_line": 12711,
+        "sha1": "b624ed88cc3dbae816b4e2ec2bb5578f95fe17be",
+        "fingerprint": [
+          "扫地",
+          "手术",
+          "达芬奇"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "形态服从用途",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "郭毅可“眼不如苍蝇”评述与达芬奇手术机器人为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0156-02",
+      "unit_id": "WJ2-U0156",
+      "speaker": "转述·第三方",
+      "claim_text": "胡郁：人形机器人是伪命题，中国相关企业自己都说十年内不可能有应用场景。",
+      "quote": "人形机器人就是伪命题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12715,
+        "end_line": 12715,
+        "sha1": "f771f52f1608ffe5ea58260eadc8e611af69b480",
+        "fingerprint": [
+          "胡郁",
+          "伪命题",
+          "应用场景"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "人形机器人伪命题",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：科大讯飞CTO胡郁（2025 CES对谈）；吴军认同"
+    },
+    {
+      "claim_id": "C-WJ2-U0156-03",
+      "unit_id": "WJ2-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "科技创新的目的是解决问题，而不是一定要造出一个人形的东西。",
+      "quote": "目的是解决问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12717,
+        "end_line": 12717,
+        "sha1": "257833d4d9e012fd77e7b8e046dcd1646615418b",
+        "fingerprint": [
+          "科技创新",
+          "解决问题",
+          "咖啡"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "创新为解决问题",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "人形手臂五分钟做不出一杯咖啡的例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0156-04",
+      "unit_id": "WJ2-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "地球不需要人类拯救；减碳环保只是在拯救我们自己。",
+      "quote": "只是为了拯救我们自己而已",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12723,
+        "end_line": 12723,
+        "sha1": "26c9b27cb72aabd1c02a94a5b3b24a067f1c8f47",
+        "fingerprint": [
+          "地球",
+          "碳排放",
+          "拯救"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "拯救地球即拯救自己",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "地球46亿年经5次大灭绝愈盛；尺度校正近D01-2"
+    },
+    {
+      "claim_id": "C-WJ2-U0156-05",
+      "unit_id": "WJ2-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "长生不老对人类没什么好处：个体不死如癌细胞不死，会拖垮整体（僵尸企业同理）。",
+      "quote": "长生不老对人类来讲，没什么好处",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12737,
+        "end_line": 12737,
+        "sha1": "8e4013e98ccf6e76250933464c5ad9829e3bedc9",
+        "fingerprint": [
+          "长生不老",
+          "尹烨",
+          "凯文·凯利"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "长生不老无好处",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "呼应其第99封信；尹烨/凯文·凯利赞同，ICU十年与日本僵尸企业为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0156-06",
+      "unit_id": "WJ2-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "人形机器人、拯救地球、追求永生三种执念同出一源：人太把自己当回事、太自恋。",
+      "quote": "太把自己当回事了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12743,
+        "end_line": 12743,
+        "sha1": "2cd6bf659e7b0676560985f3c866c2bf39efc13c",
+        "fingerprint": [
+          "执念",
+          "自恋",
+          "拯救地球"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "自我中心执念",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总括；郭毅可称人形机器人执念“一针见血”"
+    },
+    {
+      "claim_id": "C-WJ2-U0156-07",
+      "unit_id": "WJ2-U0156",
+      "speaker": "吴军本人",
+      "claim_text": "活得累的重要原因是想不开；别太把自己看得太重，放下无谓压力反而活得轻松。",
+      "quote": "一个重要原因就是想不开",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 12745,
+        "end_line": 12747,
+        "sha1": "603d8d866b3c780532a957399d4b2d4935f8e775",
+        "fingerprint": [
+          "活得累",
+          "想不开",
+          "轻松"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-4"
+      ],
+      "concept_key": "想不开才活得累",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "落点：学会放下；学校医院攀比之累为例证"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0156",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "谷歌收购波士顿动力等企业史细节仅作论据，判断已由卡1/2承载"
+    },
+    {
+      "unit_id": "WJ2-U0156",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "地球气候史、老鼠/恐龙与哺乳动物进化等自然史叙述属科普背景，其“别太自恋”结论由卡4/6承载"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第127封信论人形机器人、拯救地球、求永生三执念皆源于太把自己当回事，多条核心判断成卡"
+}
