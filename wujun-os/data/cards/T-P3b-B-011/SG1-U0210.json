@@ -1,0 +1,84 @@
+{
+ "unit_id": "SG1-U0210",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在美国一旦形成判例，类似的事情就不得不遵循判例所制定的准则",
+   "quote": "遵循判例所制定的准则",
+   "anchor": {
+    "start_line": 13019,
+    "end_line": 13019,
+    "fingerprint": [
+     "判例",
+     "诉讼案的裁决"
+    ],
+    "book_code": "SG1",
+    "sha1": "04cbc921c234a2e655ce5d9d0ed6f0aac9d2c81b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "判例锁定准则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "空乘大叔大妈局面的直接原因是两桩诉讼案裁决，工会把持与女权运动只是背景原因（13019）；英美法系判例即法律的展开见C-SG1-U0210-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0210-01",
+   "unit_id": "SG1-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国诸多怪现象刨根源常伴随判例；英美法系判例即法律，看判例可了解美国社会",
+   "quote": "判例即为法律",
+   "anchor": {
+    "start_line": 13041,
+    "end_line": 13041,
+    "fingerprint": [
+     "英美法系",
+     "判例即为法律"
+    ],
+    "book_code": "SG1",
+    "sha1": "f902206b4911ffda33680433677f72bc951d370b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "判例即法律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与人的自然行为不一致的现象常伴随一个案子的判例（13041）；长期形成的习惯会受到尊重（13041）；与C-SG1-U0210-01互为概括与应用",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0210-02",
+   "unit_id": "SG1-U0210"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0210",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "美联航暴力逐客时事背景与当下美国空乘现状归因（工会把持、女权运动、北大光华学员议论）（13013-13019），依附2017年时点的事件与现状论断，判例方法论已抽入K卡"
+  },
+  {
+   "unit_id": "SG1-U0210",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国司法史实叙述：善意的职业资格条件概念与例证、迪亚兹诉泛美案（1971）起诉与上诉经过、伯尔尼博士法庭证词、威尔逊诉西南航空公司案、女权作家罗德呼吁、得州女生入橄榄球队案（13021-13039），法律史与判例史科普，可迁移判断已抽入K卡"
+  },
+  {
+   "unit_id": "SG1-U0210",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "《20世纪美国法律史》书目推荐与版本信息（13023），载体性推荐内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第200封信美国空乘司法史科普，抽2卡判例方法论：判例锁定准则/判例即法律；时事背景归X2、判例史实归X4、书目推荐归X1"
+}

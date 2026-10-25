@@ -1,0 +1,272 @@
+{
+ "unit_id": "SG1-U0212",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "离职创业者的两大误区之一：人脉极大程度依赖原有单位，失去光环便不值钱",
+   "quote": "依赖于原有的单位",
+   "anchor": {
+    "start_line": 13145,
+    "end_line": 13145,
+    "fingerprint": [
+     "人脉",
+     "光环"
+    ],
+    "book_code": "SG1",
+    "sha1": "5642059cf2ad0871925da8bda71a546d479300f9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "人脉依附平台光环",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例：家具店销售经理跳槽后老客户不再光顾（13129-13131）；高盛基金经理出来单干几乎无人复制原有表现（13139）；误区之二隐含资源见C-SG1-U0212-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-01",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平台提供隐含资源：表现不佳时投资人因品牌仍留资，离职者就没有第二次机会",
+   "quote": "隐含的资源",
+   "anchor": {
+    "start_line": 13147,
+    "end_line": 13149,
+    "fingerprint": [
+     "隐含资源",
+     "第二次机会"
+    ],
+    "book_code": "SG1",
+    "sha1": "ae65a3152f20b2d9af56ff429bd85c4d23e8fa04"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平台隐含资源",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "钱放高盛，亏时投资人想高盛尚且如此别家更信不过，经理得以翻身（13147）；自己单干难获宽容（13149）；在高盛或凯鹏华盈成功的人无意中利用大量隐含资源而不自知（13149）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-02",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奖金不多不少由市场决定，市场非常有效（如谷歌给杰夫·迪恩超高股票）",
+   "quote": "市场是非常有效的",
+   "anchor": {
+    "start_line": 13151,
+    "end_line": 13151,
+    "fingerprint": [
+     "由市场决定",
+     "杰夫·迪恩"
+    ],
+    "book_code": "SG1",
+    "sha1": "7c71fe0ca9d38a3aa59b1d07259c18837127a593"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "分成由市场定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "若高盛每个人出去创业都能成功，高盛会自动提高分成比例（13151）；觉得分成低的人忽略了市场定价因素（13151）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-03",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "离职创业成功率远比想象低，不如在原单位做更多准备、等待时机",
+   "quote": "等待时机",
+   "anchor": {
+    "start_line": 13161,
+    "end_line": 13161,
+    "fingerprint": [
+     "成功率远比自己想象的要低",
+     "准备"
+    ],
+    "book_code": "SG1",
+    "sha1": "f73a7e01792073073f89ae3c7943b8fdfd38d143"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "离职创业慎行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "作者2016年劝回不少想离开单位创业的人包括媒体人（13161）；媒体人成功率比IT行业离职者低很多（13153）；机会以后还会有（13161）；做何种准备见C-SG1-U0212-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-04",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功媒体人不做自媒体而打造新平台；个人知识积累只够打响第一炮便吃光老本",
+   "quote": "吃光老本",
+   "anchor": {
+    "start_line": 13165,
+    "end_line": 13167,
+    "fingerprint": [
+     "打造了一个新的平台",
+     "看家本领"
+    ],
+    "book_code": "SG1",
+    "sha1": "67c0bd6a4d512fba8e8a593a574eaf05614469c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平台优于自媒体",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "罗胖、马东、虎嗅等为例（13165）；很多自媒体越做越差，尽管全世界媒体平均水平越来越高（13167）；平台两本领见C-SG1-U0212-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-05",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做平台两个看家本领：培养一批新人放大专业特长、将别人而非自己塑造成明星",
+   "quote": "塑造成明星",
+   "anchor": {
+    "start_line": 13169,
+    "end_line": 13171,
+    "fingerprint": [
+     "培养一批新人",
+     "塑造成明星"
+    ],
+    "book_code": "SG1",
+    "sha1": "8f5a226e21d4e6e24a83fc90a7cf49a4476ec512"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平台两本领",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "带新人在媒体进步时代特别稀缺（13169）；为明日之星提供机会，形成与传统大媒体不重复的施展空间（13171）；个人明星建议先在原机构学会两本领（13171）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-06",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科技企业资深人士凭手艺吃饭成功率高；两领域成功创业者共性是凭手艺不靠光环",
+   "quote": "凭手艺吃饭",
+   "anchor": {
+    "start_line": 13173,
+    "end_line": 13173,
+    "fingerprint": [
+     "手艺吃饭",
+     "光环吃饭"
+    ],
+    "book_code": "SG1",
+    "sha1": "21f7c99f79c6c8f2cf4ba8b55bb2dcddbd2ded69"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "凭手艺不靠光环",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "其名气常属于自己而非公司，别人看重的是那点手艺，是悲哀也是幸运（13173）；这是悲哀也是幸运（13173）；缪贤善意归因见C-SG1-U0212-08",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-07",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要分清对方善意是冲着你来的，还是冲着你背后的单位来的（缪贤误区）",
+   "quote": "冲着背后的单位来的",
+   "anchor": {
+    "start_line": 13179,
+    "end_line": 13183,
+    "fingerprint": [
+     "燕王对你好",
+     "冲着背后的单位"
+    ],
+    "book_code": "SG1",
+    "sha1": "6d72e8e1dbf3580eeda990b343c01a9540540800"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "善意冲单位非冲你",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "缪贤故事：燕王结交因你是赵国宠臣，落魄相投会被绑回（13179）；大公司光环方便建人脉，但须分辨善意对象（13183）；典故史实见X4处置",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-08",
+   "unit_id": "SG1-U0212"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好大学毕业生无需把母校名字挂嘴边，总提醒别人名校经历是教育的失败",
+   "quote": "教育的失败",
+   "anchor": {
+    "start_line": 13185,
+    "end_line": 13185,
+    "fingerprint": [
+     "母校的名字",
+     "教育的失败"
+    ],
+    "book_code": "SG1",
+    "sha1": "ebfbfe74e15046b560385ea4d7fc6ac62b097c68"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "本事胜于校名",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出自《大学之路》的判断（13185）；明星企业与明星关系大抵如此，英雄不问出身（13187）；与C-SG1-U0212-07凭手艺吃饭互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0212-09",
+   "unit_id": "SG1-U0212"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0212",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2010年以来媒体人离职创业现象与个案叙述：央视等名人出来创业、某知名媒体人采访IBM沃森团队只准隔门遥望、采访Google被婉拒（13153-13159），依附具体时点的现象与个案，可迁移判断已抽入K卡"
+  },
+  {
+   "unit_id": "SG1-U0212",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "《史记·廉颇蔺相如列传》缪贤投燕故事的情节复述：缪贤为燕王所善、犯事欲投燕、蔺相如劝阻献策、认错获赦（13175-13179），史实典故叙述，教训已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第202封信：明星离职创业失败归因9判断：人脉依附光环/平台隐含资源/分成由市场定/离职创业慎行/平台优于自媒体/平台两本领/凭手艺不靠光环/善意冲单位非冲你/本事胜于校名；媒体人个案归X2、缪贤典故归X4"
+}

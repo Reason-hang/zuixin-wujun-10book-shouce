@@ -1,0 +1,207 @@
+{
+ "unit_id": "SG1-U0242",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考前要认命：水平80分能发挥出80分就很不错，超常发挥不可期；贪欲产生不切实际的希望，反而该得到的得不到",
+   "quote": "千万不要对此抱希望",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15226,
+    "end_line": 15226,
+    "fingerprint": [
+     "80 分",
+     "120 斤"
+    ],
+    "sha1": "c2be5a7969199dd33806c3e3dd3796c1e504bf08"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "考试认命发挥本色",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "80分水平非想发挥到85分如同挑100斤担子非要挑120斤，除压垮身体无半点好处（15226）；高中三年没学会的一周也学不会，最后一周不是复习功课的时间（15220）；大部分人原来什么水平最后还是什么水平（15230）；教育类按规则⑪方法论例外成卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-01",
+   "unit_id": "SG1-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保住西瓜：送分题必须100%保住；95%以上的人考不好不是难题没做好，而是不该错的题做错了——贪图一两分反丢十分",
+   "quote": "不该错的题做错了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15248,
+    "end_line": 15248,
+    "fingerprint": [
+     "难题",
+     "认命"
+    ],
+    "sha1": "2cc0d02781519913ce16f507842a617a674d823d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "保住送分题西瓜",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "承认认命后就不该对得不到的东西浪费时间（15248）；生活和工作中很多人同样该得到的得不到（15250）；粗心归因与对策见C-SG1-U0242-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-02",
+   "unit_id": "SG1-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把丢分归因粗心是极不负责任的想法：背后是没掌握好、做题习惯不好、先入之见；对策是多花时间一次做对加写下规范练成习惯",
+   "quote": "粗心的背后有很深层次的原因",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15234,
+    "end_line": 15246,
+    "fingerprint": [
+     "粗心",
+     "习惯"
+    ],
+    "sha1": "b854d33531a47abf00d3cd37f6e39b81924b976d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "粗心归因与对策",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三原因：基本内容没掌握好、省略步骤想当然、第一遍做错检查难发现（15236-15240）；对策：必得分题看清题目一次做对、写一张名片大小的规范单有意训练直到习惯成自然（15244-15246）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-03",
+   "unit_id": "SG1-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考试不要恋战：卡壳的题目要坚决跳过去；吴军高考数学恋战教训——战略失误导致发挥失常，此后不再恋战",
+   "quote": "要坚决跳过去",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15252,
+    "end_line": 15260,
+    "fingerprint": [
+     "卡壳",
+     "跳过去"
+    ],
+    "sha1": "4d83711b3ed10054e0847f08e4f508b0f752708f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "遇卡壳坚决跳过",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "经历→判断：高考数学花大量时间攻一道卡壳题，没时间完成后面容易题致失常（15258-15260）；与状元朋友总分差距恰等于数学差距（15256）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-04",
+   "unit_id": "SG1-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一个正确的目标设定很重要，好的战略则是围绕这个合理的目标制定的——这又归结回认命",
+   "quote": "围绕这个合理的目标制定",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15262,
+    "end_line": 15262,
+    "fingerprint": [
+     "目标设定",
+     "战略"
+    ],
+    "sha1": "143183178cd1f532100a5f53724e92cf4667dcdb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "正确目标定战略",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0168（同名概念键收敛，勿另立键）；由高考策略推广到目标与战略的通用关系，呼应认命C-SG1-U0242-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-05",
+   "unit_id": "SG1-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "文科答卷完全根据要点给分，要点丢掉回答得再长也没用；只想起两条要点就答两条，展开发挥不会多得半分",
+   "quote": "完全根据要点给分",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15264,
+    "end_line": 15268,
+    "fingerprint": [
+     "要点",
+     "阅卷"
+    ],
+    "sha1": "d4bb311fd7b4fc94a1813892098fd79a05f1c73e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "文科答题抓要点",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "高考阅卷从不给\"没有功劳也有苦劳\"的辛苦分（15264）；北京四中文科老师确认今天阅卷依然如此（15266）；石国鹏辅导课推荐归X8",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-06",
+   "unit_id": "SG1-U0242"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考前最后几天该怎么过还怎么过：过度放松会让兴奋程度下降，看书是为维持习惯的生活方式而非长知识；家长勿刻意改变环境",
+   "quote": "维持一种自己习惯的生活方式",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15270,
+    "end_line": 15274,
+    "fingerprint": [
+     "兴奋",
+     "放松"
+    ],
+    "sha1": "b31434fe1bb6bb4870b89a768a8c446cfb0f701a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "考前保持热度",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "去西湖度假两天回来恐怕发挥不好（15270）；小区为高考停电梯除增加压力无半点好处，刻意改变熟悉生活环境只有坏处（15272）；所有人都有同样的压力，该怎样就怎样（15274）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0242-07",
+   "unit_id": "SG1-U0242"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0242",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "个人与家庭考试轶事细节：吴军自述高考超录取线、弟弟北京市第二名与斯坦福资格考试第一、女儿SAT满分2400、与状元朋友的比较、石国鹏老师视频推荐、小区停电梯新闻（15212-15216、15258、15268、15272），无可迁移判断的叙事残余；论点已入7张K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第232封信考试方法论按规则⑪例外成卡7张：认命/保住西瓜/粗心归因对策/不恋战/正确目标定战略（登记GG-U0168双出处）/文科抓要点/保持热度；个人考试轶事归X8"
+}

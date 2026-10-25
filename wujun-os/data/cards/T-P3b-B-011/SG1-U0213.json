@@ -1,0 +1,236 @@
+{
+ "unit_id": "SG1-U0213",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司资源有限须从突破点做起，集中人力打磨一个产品，勿急着做平台",
+   "quote": "从一个突破点开始",
+   "anchor": {
+    "start_line": 13217,
+    "end_line": 13219,
+    "fingerprint": [
+     "突破点",
+     "做平台"
+    ],
+    "book_code": "SG1",
+    "sha1": "dbcc1ea904ea4987c8d1c0340a10b7a4633f5207"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "小公司单点突破",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "10000小时经验对产品同样适用，苹果手机外形四角弧度做了大量尝试（13217）；做平台工作量特别大，小公司难短时间既技术领先又人人满意（13219）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-01",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据与商业规模变现前不等于钱，变成钱需要智能技术作催化剂",
+   "quote": "一种催化剂",
+   "anchor": {
+    "start_line": 13223,
+    "end_line": 13223,
+    "fingerprint": [
+     "并不等于钱",
+     "催化剂"
+    ],
+    "book_code": "SG1",
+    "sha1": "f4a7854f252a424832e1f29ed962d43f1c3f26d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "数据变现需催化剂",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第二类公司（运营商、石油、政府、银行等）有数据与规模但商业模式老旧（13223）；四大行守着数据干着急（13225）；不借催化剂难赶上智能革命（13227）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-02",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "掌握新技术的创业公司在智能时代分羹之道：干大公司不愿做的脏活、苦活",
+   "quote": "脏活、苦活",
+   "anchor": {
+    "start_line": 13231,
+    "end_line": 13231,
+    "fingerprint": [
+     "脏活",
+     "第三类公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "60c243cafa0439df1942c1d9cc6394be195854a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创业从脏活苦活切入",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "核心技术开源易得，效果差异在数据量，解决数据问题从脏活累活开始（13243）；与C-SG1-U0213-07总结句呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-03",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "二类信不过一类、一类不屑脏活，利益结构决定大机构最终扶持小公司",
+   "quote": "扶持第三类公司",
+   "anchor": {
+    "start_line": 13233,
+    "end_line": 13233,
+    "fingerprint": [
+     "利益冲突",
+     "信不过"
+    ],
+    "book_code": "SG1",
+    "sha1": "97fb9181e663c76a069e24331b3c8e62de63dcd6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "三类公司生态位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "四大行信不过阿里、中国移动信不过腾讯、花旗信不过谷歌亚马逊（13233）；大公司做脏活成本不合算（13233）；美国大银行直接用Splunk而非自建团队（13229）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-04",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "传统大公司信任小公司后，形成原有产业＋新技术＝新产业的格局，双方双赢",
+   "quote": "新产业的格局",
+   "anchor": {
+    "start_line": 13235,
+    "end_line": 13235,
+    "fingerprint": [
+     "信任",
+     "双赢"
+    ],
+    "book_code": "SG1",
+    "sha1": "ee03bb741b28c3957a7661739505000999c8571c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "旧产业加新技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "合作前期小公司须做脏活累活收入少，这个过程省不了（13235）；三类公司可直接用一类公司平台，故一类通常不与其作对（13235）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-05",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "华院数据以MBA/数学家/工程师组队解题，做成即剥离成合资公司并引入风投",
+   "quote": "成立合资公司",
+   "anchor": {
+    "start_line": 13237,
+    "end_line": 13239,
+    "fingerprint": [
+     "华院数据",
+     "风险投资"
+    ],
+    "book_code": "SG1",
+    "sha1": "7e25b65e1ef91ca0e00bd182bcc7c16e8a1a6a49"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "华院孵化模式",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三类人分工：深入行业懂业务逻辑/按业务建数学模型/实现模型（13239）；孵化出十多个挣钱的大数据公司，不建自有平台而用阿里云故与阿里无矛盾（13241）；专名案例承载孵化机理故独立成卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-06",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业者别想一开始就办成谷歌或阿里巴巴，必须先从脏活累活开始",
+   "quote": "从脏活累活开始",
+   "anchor": {
+    "start_line": 13245,
+    "end_line": 13245,
+    "fingerprint": [
+     "脏活累活",
+     "Google"
+    ],
+    "book_code": "SG1",
+    "sha1": "8f1076cdabc56414f21ad2c9a3b40476da4ea885"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "先干脏活累活",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全信观点概括（13245）；平稳时代大公司无脏活可做则小公司机会不多，变革时代现有行业升级才有大量机会（13245-13247）；呼应第011封创业勿先做平台",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-07",
+   "unit_id": "SG1-U0213"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "担起别人不愿干又有意义的脏活累活；容易且利益大的事早被大公司做掉",
+   "quote": "脏活累活",
+   "anchor": {
+    "start_line": 13249,
+    "end_line": 13249,
+    "fingerprint": [
+     "脏活累活",
+     "综合能力"
+    ],
+    "book_code": "SG1",
+    "sha1": "5b60c81f1e8bd3ca0b36584b3f6982d76544998d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-1"
+   ],
+   "concept_key": "担脏活成事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "成功之难在需要人的综合能力，变革年代机会总比平时多（13249）；团队有技术、有市场能力、认准方向愿做脏活就有不小成功机会（13247）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0213-08",
+   "unit_id": "SG1-U0213"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0213",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "智能时代格局趋势论断：智能革命将社会重新洗牌、比拼数据量与计算能力、一招鲜吃遍天不再、李飞飞因数据去谷歌、三类受益公司版图列举、四大行荒废六七年落伍预判（13211-13215、13225-13229），科技趋势预测本体，可迁移的创业方法与生态位判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第203封信：智能时代创业苦差事提炼8判断：单点突破/数据变现需催化剂/脏活苦活切入/三类生态位/旧产业+新技术/华院孵化模式E3/先干脏活累活/担脏活成事；智能趋势论断归X6"
+}

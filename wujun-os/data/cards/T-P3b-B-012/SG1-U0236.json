@@ -1,0 +1,269 @@
+{
+ "unit_id": "SG1-U0236",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "Tom Ding：机器智能使社会生产力极大提升，相当于生产力；区块链处理经济活动中人与人的关系与利益分配，相当于生产关系",
+   "quote": "相当于生产关系",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14763,
+    "end_line": 14763,
+    "fingerprint": [
+     "机器智能",
+     "区块链"
+    ],
+    "sha1": "eb9da863f55393a62959e90c008e76296c69a0f9"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "机器智能生产力区块链生产关系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Tom Ding（区块链专家）；吴军：这个比喻对我很有启发（14761）；区块链应用也可参看第181封信跟踪经济（14761）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-01",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区块链本质是一个账本：交易全生命周期记录成链，放在互联网上，理论上谁都无法拿走、篡改或销毁",
+   "quote": "谁都无法拿走、篡改",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14759,
+    "end_line": 14759,
+    "fingerprint": [
+     "账本",
+     "互联网"
+    ],
+    "sha1": "944f3a4bcb04c42060c5e357ac6ab194ae172500"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "区块链本质分布式账本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商品、行为、交易开始时产生区块，整个流动生命周期被详细记录形成链（14759）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-02",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平台本质是供需匹配加信用支付两种价值；做好技术服务、市场推广、信用制度三件事，即可分走15%－25%交易额",
+   "quote": "分走了15%－25%的交易额",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14765,
+    "end_line": 14771,
+    "fingerprint": [
+     "滴滴",
+     "信用制度"
+    ],
+    "sha1": "54a1750f83a237956f9fe9be66fdfbfa30a90a39"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平台两价值三件事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "滴滴提供乘客司机匹配与可信支付系统（14765）；优步收交易额25%、eBay收15%至封顶价且1998年即盈利（14767-14769，时点数据）；区块链理论上可取代该中间环节但同样须解决三件事（14771）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-03",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "Tom Ding：区块链取代平台后，服务器归整个互联网所有，人与人是简单供需匹配，再也没有人收取高额的中间费用了",
+   "quote": "再也没有人收取高额的中间费用了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14773,
+    "end_line": 14777,
+    "fingerprint": [
+     "区块链",
+     "中间费用"
+    ],
+    "sha1": "95707951145a369d1356d04b4185049ebeabdf7f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "区块链重构平台中间环节",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Tom Ding；服务平台是整个互联网、信用来自协议本身、推广靠口碑与免除中间费的自然迁移（14773）；网约车公司掌握司机命脉的情况不会再现（14775）；区块链开发者与服务器提供方分成连交易额1%都不需要（14777）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-04",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "区块链新生产关系四好处：交易成本降低利益最大化、协议比集中控制更安全、服务不因单点瘫痪、避免失去隐私",
+   "quote": "失去隐私",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14779,
+    "end_line": 14779,
+    "fingerprint": [
+     "交易成本",
+     "安全性"
+    ],
+    "sha1": "a0dccde8065c87de7eac66e22705f453c3bb3f40"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-2"
+   ],
+   "concept_key": "区块链四大好处",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Tom Ding（据其观点展开的论证段）；供需双方利益最大化、数据与交易不因单一公司数据中心垮掉而瘫痪（14779）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-05",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大数据医疗难开展的重要原因是隐私担心：隐藏姓名和身份证号并不解决问题，多维数据很容易挖掘出这个人是谁",
+   "quote": "很容易挖掘出这个人是谁",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14781,
+    "end_line": 14781,
+    "fingerprint": [
+     "隐私",
+     "大数据"
+    ],
+    "sha1": "53071d4d9f5d7e74c5d5745a18d2eeaf35ad6cba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "多维数据致隐私失效",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "病例交给大数据公司即暴露每个人健康状况（14781）；解决方案见C-SG1-U0236-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-06",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "Tom Ding：第三代区块链可不获得数据而询问实体属性，统计公司使用数据而非获得数据，数据所有权交还用户自己",
+   "quote": "使用数据即可",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14783,
+    "end_line": 14789,
+    "fingerprint": [
+     "区块链",
+     "所有权"
+    ],
+    "sha1": "31628447b6427ebfbecde9d444e27adfab61ea60"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-2"
+   ],
+   "concept_key": "数据所有权交还用户",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Tom Ding；数学家与密码专家加入带来密码学突破，通过协议询问实体属性而无法知道是谁回答（14787）；过去必须得到数据实体才能判断属性（14785）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-07",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司在数据上无法和大公司竞争，不止体量小更是大家不放心交数据；区块链让数据拥有者真正实现对数据的所有",
+   "quote": "真正实现对数据的所有",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14791,
+    "end_line": 14791,
+    "fingerprint": [
+     "小公司",
+     "数据"
+    ],
+    "sha1": "bf80d35ad39d655a16115ef6c04e3a544791452c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "数据公平与安全竞争",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数据放哪家公司都不放心只是没有更好办法（14791）；按协议使用数据可做到互联网上的公平（14791）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-08",
+   "unit_id": "SG1-U0236"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多优秀的人看问题确实比我们深刻：对区块链的理解，我们过去就没有上升到生产关系的高度",
+   "quote": "上升到生产关系的高度",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14793,
+    "end_line": 14793,
+    "fingerprint": [
+     "优秀的人",
+     "生产关系"
+    ],
+    "sha1": "f6037b4b5cde96e1872e8901266dd684903f1d1a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "优秀者看问题更深刻",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与Tom Ding交流后的体会；未来可交易数据获利属预告（14793）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0236-09",
+   "unit_id": "SG1-U0236"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0236",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "Tom Ding传奇经历：家中教育14岁哥伦比亚大学毕业、未到法定工作年龄先创业两年、19岁前读MBA、最早看区块链的创业者与密码专家团队（14753-14757），纯人物背景叙事无可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0236",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附2017年时点的行业论断：滴滴补贴厉害收费难算清、优步成熟市场25%费率、eBay自1998年盈利、区块链创业史仅4年（14757、14767-14769），离开该时点即失效；机制性论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第226封信：区块链=生产关系(E2)/分布式账本/平台两价值三件事/重构中间环节(E2)/四大好处(E2)/多维数据隐私失效/数据所有权交还(E2)/数据公平/优秀者看问题深刻成卡；Tom Ding背景归X4、时点数据归X2"
+}

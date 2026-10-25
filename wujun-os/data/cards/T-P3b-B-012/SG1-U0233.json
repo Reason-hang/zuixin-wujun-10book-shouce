@@ -1,0 +1,208 @@
+{
+ "unit_id": "SG1-U0233",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利保护具体的东西、流程和人造物，不保护抽象概念、想法点子及自然界已有的东西",
+   "quote": "保护具体的东西、流程和人造物",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14595,
+    "end_line": 14595,
+    "fingerprint": [
+     "专利",
+     "人造物"
+    ],
+    "sha1": "feece95c32de6935dd02bd21a7ee49c20858b95d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "专利三保护三不保护",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信总结句；三条准则展开见C-SG1-U0233-02/03/04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-01",
+   "unit_id": "SG1-U0233"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利准则一：保护具体的不保护抽象的——外观专利须给出明确外观，六角形太抽象，特定具体的六角形手表外形才行",
+   "quote": "保护具体的不保护抽象的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14573,
+    "end_line": 14573,
+    "fingerprint": [
+     "外观设计",
+     "六角形"
+    ],
+    "sha1": "3ae2566983b65c93798d4090c410d2b7cb28b3db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "专利护具体不护抽象",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国分发明、实用新型和外观设计，美国主要发明与外观设计两种（14573）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-02",
+   "unit_id": "SG1-U0233"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利从不保护想法只保护过程：新算法不能申请专利，实现算法的特殊过程可以；别人不照抄你的过程就没侵权",
+   "quote": "从来不保护想法，只保护过程",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14575,
+    "end_line": 14577,
+    "fingerprint": [
+     "触屏",
+     "手写输入汉字"
+    ],
+    "sha1": "f14903ca1d6a1b282546fa83e24c9379851662a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "专利护过程不护想法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "触屏手写汉字点子不受保护、实现方法受保护（14575）；创业者勿抱怨大公司做了同类App即侵权（14577）；这是绝大多数人的误解所在",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-03",
+   "unit_id": "SG1-U0233"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利准则三：保护人造的东西不保护天然的东西——天然物哪怕由你第一个发现也不能独占",
+   "quote": "不保护天然的东西",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14587,
+    "end_line": 14587,
+    "fingerprint": [
+     "水杨酸",
+     "天然"
+    ],
+    "sha1": "5c41f88343ef8babf01d6f5ee734ef7bd84ce78b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "专利护人造不护天然",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "柳树皮煮水退烧是天然物不能独占，制成乙酰水杨酸（阿司匹林有效成分）是人造物可受保护（14587）；青霉素天然青霉不保护、人造青霉素钠钾可保护（14589）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-04",
+   "unit_id": "SG1-U0233"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "高通把CDMA所有简单的实现道路都用系列专利堵死，中国绕道研发TD-SCDMA绕到3G时代过去仍未普及",
+   "quote": "把所有简单的实现道路都堵死了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14581,
+    "end_line": 14585,
+    "fingerprint": [
+     "高通",
+     "CDMA"
+    ],
+    "sha1": "9720b9fa352e9c7b36f6b5ab97f0ac16e4e6f1d3"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "高通专利围栏",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "CDMA方法本身专利早已过期谁都可以用，实现过程的专利才是高通的发明（14581-14583）；机理：真想用专利保护自己就要把可能的过程都想到都保护起来（14585）；IBM与高通是对专利理解最深刻的公司（14579）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-05",
+   "unit_id": "SG1-U0233"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新处方药靠专利期内卖高价尽快挣回巨额开发费，专利期一过仿制药合法出售，药品就再也挣不到大钱",
+   "quote": "尽快把巨额的开发费用挣回来",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14593,
+    "end_line": 14593,
+    "fingerprint": [
+     "专利期",
+     "仿制"
+    ],
+    "sha1": "8e37afeb60dcd714380c179839586c81fc890f4e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "药品专利期定价机制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "青霉素因默克尔老板与弗洛里两边都放弃专利诉求才全球快速普及（14591-14593），此史实归X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-06",
+   "unit_id": "SG1-U0233"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国内很多公司专利写得不清不楚，该保护的没保护、不该声明权利的胡乱声明，遇纠纷时专利起不到保护作用",
+   "quote": "起不到保护的作用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14579,
+    "end_line": 14579,
+    "fingerprint": [
+     "专利纠纷",
+     "保护"
+    ],
+    "sha1": "325eed66f34ed7670d74b52e50ae793bf9857409"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "专利撰写质量决定效力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "高通发明一项技术后把实现过程非常完整地保护起来，一个专利不够要一系列专利（14579）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0233-07",
+   "unit_id": "SG1-U0233"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0233",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "专利制度史：古希腊锡巴里斯烹调菜谱独享权、14世纪英国国王特许权、15世纪威尼斯专利制度、瓦特蒸汽机专利深远影响（14561-14567）；青霉素发现与放弃专利的二战史话、弗莱明弗洛里人物细节（14589-14593），纯史实科普无可迁移判断；机制性论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第223封信：专利三保护三不保护总结/护具体不护抽象/护过程不护想法/护人造不护天然/高通围栏(E3)/药品专利定价/撰写质量成卡；专利史与青霉素史归X4"
+}

@@ -1,0 +1,262 @@
+{
+ "unit_id": "SG1-U0211",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人做好招人/刹车/定文化三件事，找到称职负责人并信任，公司步入正轨",
+   "quote": "公司就步入正轨了",
+   "anchor": {
+    "start_line": 13109,
+    "end_line": 13109,
+    "fingerprint": [
+     "三件事情",
+     "事必躬亲"
+    ],
+    "book_code": "SG1",
+    "sha1": "89ca7c7a065c5e4e645190cf7200eef01a06f289"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创始人三件事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "具体事让下面的人做不要干预太多（13109）；像诸葛亮事必躬亲会累死自己把公司做死（13109）；三件事分别展开见C-SG1-U0211-04/08/09；非创始人可用这些标准衡量老板是否称职（13111）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-01",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专家创始人常陷入自己的专长，把领域优势变成劣势",
+   "quote": "把优势变成劣势",
+   "anchor": {
+    "start_line": 13065,
+    "end_line": 13065,
+    "fingerprint": [
+     "陷入到自己的专长",
+     "优势变成劣势"
+    ],
+    "book_code": "SG1",
+    "sha1": "25ef0b09374712f18ee1f0c47df3f4676c796026"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专长陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例：一锤在手满眼是钉，懂统计的工程师什么都当大数据问题（13067）；产品经理出身创始人每天花数小时试用产品提建议（13069）；与C-SG1-U0211-03投资人案例同段",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-02",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "天使投资人需要自己跳下去当临时CEO时，说明这笔投资已失败一大半",
+   "quote": "失败了一大半",
+   "anchor": {
+    "start_line": 13069,
+    "end_line": 13069,
+    "fingerprint": [
+     "临时的CEO",
+     "失败了一大半"
+    ],
+    "book_code": "SG1",
+    "sha1": "b16716fdaf40d1e524dafe46dbe4350abf1cb5ba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "亲自上手即投资失败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "风险投资视角：发现所投公司不达预期就自己当CEO是失败信号（13069）；与本信创始人专长陷阱互证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-03",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人要做的是找到合适的人把重要的事交给他们做，而不是事必躬亲",
+   "quote": "事必躬亲",
+   "anchor": {
+    "start_line": 13075,
+    "end_line": 13075,
+    "fingerprint": [
+     "找到合适的人",
+     "事必躬亲"
+    ],
+    "book_code": "SG1",
+    "sha1": "63c420bf42381a8802237a81438bb4801f5f608b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "找人对事不躬亲",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "凡抱怨下面人做得不行凡事得自己做的，是管理方法有问题（13075）；下属不满意归因与司徒雷登之喻见C-SG1-U0211-05；不做太多细节管理Micro Management（13077）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-04",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "司徒雷登评蒋介石：毛无私人飞机只能等将领送捷报，蒋却要飞到每个战场",
+   "quote": "飞到每一个战场",
+   "anchor": {
+    "start_line": 13079,
+    "end_line": 13079,
+    "fingerprint": [
+     "司徒雷登",
+     "蒋介石"
+    ],
+    "book_code": "SG1",
+    "sha1": "a6887b9733cf85dfc727fde26c75ce8b3d0b7229"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "统帅不亲临每个战场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=司徒雷登（对蒋介石语，13079）；吴军引申：看下属做事不满意要么人没找好要么培养方式有问题，合适的人假以时日能做得比你好（13079，本卡C-SG1-U0211-04的延伸判断）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-05",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "招人太重要：谷歌四百人时高管仍面试每位录取者，占去四分之一时间",
+   "quote": "四分之一的时间",
+   "anchor": {
+    "start_line": 13081,
+    "end_line": 13081,
+    "fingerprint": [
+     "面试每一位",
+     "招人实在太重要"
+    ],
+    "book_code": "SG1",
+    "sha1": "4ae2606cea43bdb891e5ddfbb569eec0885a28e9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "招人占高管四分之一时间",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "2002年谷歌四百人规模时含创始人在内的高管仍面试HR已决定录取者（13081）；招不好则请神容易送神难，早来员工占要位难安排甚至对抗新主管（13083）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-06",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司招人要强主动性；录用者须高出现有平均，走下坡常从乱招人开始",
+   "quote": "高出现有员工的平均水平",
+   "anchor": {
+    "start_line": 13085,
+    "end_line": 13087,
+    "fingerprint": [
+     "主动性",
+     "平均水平"
+    ],
+    "book_code": "SG1",
+    "sha1": "fe9dbaf1d266495eeeee1ba16c01d52f5b1572de"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "招人两原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "小公司不能等老板安排任务才做，否则无法与大公司竞争；大公司层级严可容忍个别不主动者（13085）；公司越大平均素质越低的风险机制（13087）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-07",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理有序的公司动力来自底层刹车来自高层，引擎刹车搞反就糟了",
+   "quote": "刹车应该来自于高层",
+   "anchor": {
+    "start_line": 13091,
+    "end_line": 13091,
+    "fingerprint": [
+     "动力应该来自于底层",
+     "活力"
+    ],
+    "book_code": "SG1",
+    "sha1": "79e54b08be420f7b7576a762c5ef643565dbe281"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "动力底层刹车高层",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "引第53封信引擎和刹车（13091）；创始人想法太多致业务发散失控，或员工言听计从则死气沉沉（13093）；谷歌百人时高管每周一天审项目只定该不该做即刹车（13095）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-08",
+   "unit_id": "SG1-U0211"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功大公司都只有一种基因，既要又要的骑墙思维不如坚定站一个阵营",
+   "quote": "都只有一种基因",
+   "anchor": {
+    "start_line": 13105,
+    "end_line": 13105,
+    "fingerprint": [
+     "一种基因",
+     "骑墙"
+    ],
+    "book_code": "SG1",
+    "sha1": "5eeac4f04b5f8d7c970e14a93ff8e6cd4293a593"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "大公司一种基因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "工程师文化谷歌/产品导向苹果FB腾讯/销售导向亚马逊阿里（13099-13103）；价值观须在成立初期确立，五年后确立的没见过（13107）；阿里购物季公布业绩而他司不公布的对照（13103）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0211-09",
+   "unit_id": "SG1-U0211"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0211",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "谷歌早期管理史实叙述：2002年四百人规模高管全员面试、百人规模每周一天项目汇报会等谷歌内部做法的经过描述（13081、13095），公司史背景材料，相关管理判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第201封信：创始人三件事（招人/刹车/定文化）提炼9判断：三件事总纲/专长陷阱/亲自上手即投资失败/找人对事不躬亲/司徒雷登喻E2/招人占四分之一时间/招人两原则/动力底层刹车高层/一种基因；谷歌内部做法史实归X4"
+}

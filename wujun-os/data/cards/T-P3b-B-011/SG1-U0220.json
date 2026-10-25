@@ -1,0 +1,260 @@
+{
+ "unit_id": "SG1-U0220",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试为获取简历之外的信息；面试者再牛也要摆出显被动的姿态以示尊重",
+   "quote": "显得被动",
+   "anchor": {
+    "start_line": 13687,
+    "end_line": 13687,
+    "fingerprint": [
+     "面试官是主动的",
+     "尊重"
+    ],
+    "book_code": "SG1",
+    "sha1": "d76e1dad4ee3ceb01e2ce95ef432f9476d744869"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试姿态显被动",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "面试成本比书面考试和简历高得多，为找最合适人选（13687）；只是姿态，不是真的被动应试（13687）；作者在谷歌腾讯面试过上千人（13681）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-01",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试不是考试而是人与人交流和信息沟通，面试官也有压力不必太紧张",
+   "quote": "面试不是考试",
+   "anchor": {
+    "start_line": 13689,
+    "end_line": 13689,
+    "fingerprint": [
+     "交流和信息沟通",
+     "压力"
+    ],
+    "book_code": "SG1",
+    "sha1": "f4e0dc51de3edb1322e9e8c93fde5f5f7d6781e0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试即交流",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "面试官招错人或长期招不到人损失都大，同样希望在短时间获得最有效信息（13689）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-02",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试官找能共事的人：要有共识、能在同一知识层面交流，而非任务机器",
+   "quote": "一个知识层面交流",
+   "anchor": {
+    "start_line": 13691,
+    "end_line": 13691,
+    "fingerprint": [
+     "共识",
+     "机器"
+    ],
+    "book_code": "SG1",
+    "sha1": "d7155ac30bfbd2801b6c423b31e722241509c2b0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-2"
+   ],
+   "concept_key": "共识与同层交流",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "找能一起工作的同事、下属甚至上级（13691）；面试官常通过问问题达到考察目的（13691）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-03",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试最糟的不是答不出而是听不懂乱答；答不出很正常，听不懂才致命",
+   "quote": "听不懂问题胡乱回答",
+   "anchor": {
+    "start_line": 13693,
+    "end_line": 13693,
+    "fingerprint": [
+     "百分之百",
+     "面试失败"
+    ],
+    "book_code": "SG1",
+    "sha1": "de6a2b2b78021187bc7af001aaab89141999944f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-1"
+   ],
+   "concept_key": "听懂问题再答",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "好面试官设计问题有深度，常不指望百分之百答出，考察的是解决问题时的表现（13693）；常识性问题必须简洁准确回答（13693）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-04",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试须确认问题含义与提问意图：用自己的话复述问题请对方确认理解",
+   "quote": "用自己的语言复述一下问题",
+   "anchor": {
+    "start_line": 13695,
+    "end_line": 13697,
+    "fingerprint": [
+     "为什么要问这个问题",
+     "复述"
+    ],
+    "book_code": "SG1",
+    "sha1": "0e702a21bcb1c2b0d3c449fe24686d0ddcdd480c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "复述确认问题",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "即使没答上来，面试官也知道你们可在同一水平交流（13695）；好讲演者答问也先复述一遍问题（13697）；约四分之一面试者因紧张或理解差没听懂就急忙回答（13697）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-05",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "听懂后要琢磨为何问我此题以免掉陷阱；答案没有绝对对错，只有好坏之分",
+   "quote": "有好坏之分",
+   "anchor": {
+    "start_line": 13701,
+    "end_line": 13701,
+    "fingerprint": [
+     "掉入陷阱",
+     "题库"
+    ],
+    "book_code": "SG1",
+    "sha1": "bae080901bfc9598f20589a137013bd4699868de"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D03-1"
+   ],
+   "concept_key": "琢磨提问意图",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "同一个问题不同人问期望答案不同，不是刷题库背答案能通过的（13701）；同一问题不同场合答案可能不一样（13701）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-06",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "叙述题时话里有话：看似简单的问题因前提不同难度可增两个数量级",
+   "quote": "话里有话",
+   "anchor": {
+    "start_line": 13707,
+    "end_line": 13707,
+    "fingerprint": [
+     "排序",
+     "数量级"
+    ],
+    "book_code": "SG1",
+    "sha1": "7df89570a3e707fb1bf09fc8ec0e8d768b7cba6a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "识别话里有话",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "题面：一大堆非常非常多杂乱无章的数字如何排序（13703）；数据量在腾讯谷歌远非一般公司可比，直接排序根本不可行（13707）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-07",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想不出也别硬答：承认笨办法并请求时间想更好的办法，恰是面试官想听的",
+   "quote": "算是一个笨办法",
+   "anchor": {
+    "start_line": 13709,
+    "end_line": 13711,
+    "fingerprint": [
+     "70%的面试者",
+     "超级明星"
+    ],
+    "book_code": "SG1",
+    "sha1": "8bbe5dfed1f06b1ed17d56803a17a5cada9c49f5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-1"
+   ],
+   "concept_key": "坦诚笨办法求提示",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "70%的人一开始想不出有效解法（13709）；这样答至少说明听懂题目、知道笨办法、愿思考更好办法（13709）；一半情况在提示下解决，虽不如超级明星但不至于被判死刑（13711）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-08",
+   "unit_id": "SG1-U0220"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "问题没搞清就匆忙找不靠谱方案非常危险；懂问题再讨论出好方案的是可用之才",
+   "quote": "可用之才",
+   "anchor": {
+    "start_line": 13713,
+    "end_line": 13713,
+    "fingerprint": [
+     "不靠谱的解决方案",
+     "危险"
+    ],
+    "book_code": "SG1",
+    "sha1": "c4b838e4cdc374f154aa731c6b51219d8f31126b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "先懂问题再找方案",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "面试的重要目的就是找到可以一同工作的人（13713）；不仅关乎这件事本身，还可能涉及更大范围的工作（13713）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0220-09",
+   "unit_id": "SG1-U0220"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第210封信：面试技巧上篇提炼9判断：显被动姿态/面试即交流/共识同层交流/听懂问题再答/复述确认问题/琢磨提问意图/识别话里有话/坦诚笨办法求提示/先懂问题再找方案；无X处置"
+}

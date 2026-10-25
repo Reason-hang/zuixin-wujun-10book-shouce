@@ -1,0 +1,238 @@
+{
+ "unit_id": "SG1-U0234",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用专利防御要修一道又高又长的长城：长且严密不容别人钻空子，还要建得高才能居高临下压制对方",
+   "quote": "非常长，非常严密",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14643,
+    "end_line": 14645,
+    "fingerprint": [
+     "长城",
+     "居高临下"
+    ],
+    "sha1": "1bbb43c87fd78246691370408ce7955e0339f914"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "专利长城防御",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google体面公司不主动找麻烦但用大量专利修长城防御商业领地（14643）；高通把各种可能便捷实现方法都保护起来即把长城囤得长而严实（14645）；呼应C-SG1-U0232-02专利是防守工具",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-01",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无用专利在批准后到过期前仍可作法律依据打官司；判定无效之前侵犯它照样败诉，舆论上还是输家",
+   "quote": "依然会被判败诉",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14633,
+    "end_line": 14635,
+    "fingerprint": [
+     "专利纠纷",
+     "无效"
+    ],
+    "sha1": "50ef00f56771b13d1c67939d1ecdcad7ea34b02c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "无效判定与侵权分离",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "证明对方专利无意义与专利纠纷官司是两件不同的事情，不能合二为一（14633）；小公司告大公司只要官司打起来媒体造势则小公司永远是赢家（14619）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-02",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "Google遭小公司以公共领域知识专利相告，以对方产品侵权清单加全球专利威慑反制，对方知难而退撤诉",
+   "quote": "知难而退",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14637,
+    "end_line": 14641,
+    "fingerprint": [
+     "专利",
+     "撤诉"
+    ],
+    "sha1": "ebe6c11b391ba402b492af7047715d8561490437"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "Google专利反制案例",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军协助李开复处理（14617）；对方把公共领域知识（已公开知识、常识直接推论）申请为专利钻专利局漏洞（14621-14623）；对方专利其实还侵犯吴军和同事在美国的专利（14625）；随后Google走法律程序让该专利无效以绝后患（14641）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-03",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利纠纷双方互有把柄时法官无法裁决，国际通行办法是比谁的专利清单长，谁的单子拉得长谁占优势",
+   "quote": "比谁的专利清单长",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14647,
+    "end_line": 14651,
+    "fingerprint": [
+     "专利清单",
+     "法官"
+    ],
+    "sha1": "a94677b86e4fa387cfeaeb24eaa486d50e26c098"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "专利战比清单长度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "通行的对删算法示例：10项对30项各删一半后15减5判赔（14649-14651）；这也是案例中对方见Google动真格就退缩的原因（14651）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-04",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "IBM把专利诉讼作为盈利收入经营：年专利量常抵第2-4名总和，靠打官司收专利费每年获利10多亿美元",
+   "quote": "把专利诉讼作为一项盈利的收入",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14653,
+    "end_line": 14653,
+    "fingerprint": [
+     "IBM",
+     "专利费"
+    ],
+    "sha1": "5ef4f59c167467dc945efc03a3dcb362c4f4b640"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "IBM专利盈利模式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "年美国专利数永远世界第一且是绝对冠军（14653）；微软每部安卓手机收约5美元专利费、挣的专利费全填进亏损的手机业务（14655）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-05",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利制度是促进还是阻碍技术进步一直存在争议：微软手机技术很差，却能靠购买专利给全球手机厂商出难题",
+   "quote": "阻碍技术进步",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14655,
+    "end_line": 14657,
+    "fingerprint": [
+     "专利制度",
+     "争议"
+    ],
+    "sha1": "27a4d17cd657599b7093692273a3dbae87b4cf8e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "专利制度促进阻碍之争",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软买的专利未带来科技进步反成出难题工具（14529、14657）；引出下一卡制度改革",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-06",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单一专利已难起保护作用，长城只有大公司修得起；小公司创新稍成功即被大厂专利网缠住，创新难以为继",
+   "quote": "创新就进行不下去了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14659,
+    "end_line": 14661,
+    "fingerprint": [
+     "大公司",
+     "耳机"
+    ],
+    "sha1": "bccc91b9ec298dbc0adf69db2d30bffef578c6ea"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "专利网抬高创新门槛",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "仅摩托罗拉耳机专利就有两千多项（14659）；美国专利局因此不断改革审批制度，让专利适用范围越来越具体（14661）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-07",
+   "unit_id": "SG1-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "处理专利纠纷即使理由正当，也要遵循正确的做事情方式和步骤才能解决问题——或许处理其它事情也是如此",
+   "quote": "正确的做事情方式",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14663,
+    "end_line": 14663,
+    "fingerprint": [
+     "理由正当",
+     "步骤"
+    ],
+    "sha1": "42ca45fd21a750d701e1bc99306ea8c29f6f072a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "理由正当还须步骤正确",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全信总结第二条，由专利战推广到一般做事；总结第一条（修长城）见C-SG1-U0234-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0234-08",
+   "unit_id": "SG1-U0234"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0234",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "公共领域知识的概念界定（已公开知识、未签保密协议的展示、常识直接推论）与专利局误批现象、国际知识产权组织成员国优先日期章程及举例（14621-14631），制度科普无可迁移判断；其支撑的案例与论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第224封信：专利长城防御/无效与侵权分离/Google反制案例(E3)/比清单长/IBM专利盈利(E3)/制度争议/创新门槛/理由正当还须步骤正确成卡；优先日期与公共领域知识科普归X4"
+}

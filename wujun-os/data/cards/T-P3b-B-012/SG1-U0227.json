@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG1-U0227",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多时候我们做不好事情，是因为太匆忙、太着急，题目还没看清就匆匆开始做",
+   "quote": "太匆忙，太着急",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14193,
+    "end_line": 14193,
+    "fingerprint": [
+     "做不好事情",
+     "匆忙"
+    ],
+    "sha1": "c64df337a3bd0dc3ad38996f78a7f95dfc99c330"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "太匆忙致做不好事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信总结句；与C-SG1-U0227-04（回到原点）同论证链；SAT满分案例见C-SG1-U0227-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0227-01",
+   "unit_id": "SG1-U0227"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做题读完先等五秒再作答，留出重新思考题目的时间，可避免会做却做错的不必要错误",
+   "quote": "等五秒钟",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14191,
+    "end_line": 14191,
+    "fingerprint": [
+     "五秒钟",
+     "模拟考试"
+    ],
+    "sha1": "c1580d6744ddfd3f33dd8717f7367dee0680caa8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "等五秒再作答法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "给大女儿的SAT备考方法：模拟考不再有错、正式考拿满分（14191）；错误源于没把题目理解透彻而非不会（14189）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0227-02",
+   "unit_id": "SG1-U0227"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事慢三拍：别人要我做决定时说明天再回答，隔天再答的决定与匆忙作答时常不同",
+   "quote": "凡事要慢三拍",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14211,
+    "end_line": 14211,
+    "fingerprint": [
+     "慢三拍",
+     "明天再回答"
+    ],
+    "sha1": "29c2e19649a00f106f8b2093a38fb5a8e9b700ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-4"
+   ],
+   "concept_key": "凡事慢三拍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "做事前抬头看天空、沉静听心声（14211）；纪伯伦原话转述见C-SG1-U0227-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0227-03",
+   "unit_id": "SG1-U0227"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多事目的没想清楚就被世俗力量驱赶着随人潮匆匆去做，越走越快，停下一看又回到原点",
+   "quote": "又回到了原点",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14207,
+    "end_line": 14209,
+    "fingerprint": [
+     "人潮",
+     "原点"
+    ],
+    "sha1": "23d6a47798b227488d3a1cc9766bfe346f688a67"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D05-1"
+   ],
+   "concept_key": "目的先行免回原点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "如同考SAT题目没看清就开做（14209）；物欲与权力让人进一步急速行走（14209）；慢下来是否会更好——至少对我来讲是这样（14207）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0227-04",
+   "unit_id": "SG1-U0227"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "纪伯伦：我们已经走得太远，以至于忘记了为什么出发",
+   "quote": "忘记了为什么出发",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14211,
+    "end_line": 14211,
+    "fingerprint": [
+     "走得太远",
+     "出发"
+    ],
+    "sha1": "29c2e19649a00f106f8b2093a38fb5a8e9b700ed"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "走太远忘出发",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=纪伯伦（黎巴嫩诗人）；吴军以之自警勿随人潮匆匆行进，吴军本人概括见C-SG1-U0227-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0227-05",
+   "unit_id": "SG1-U0227"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "有人讲：文明进程是以无休止劳碌为代价换来物质日渐丰富的社会，除此之外是否是富翁很难说",
+   "quote": "无休止劳碌的代价",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14205,
+    "end_line": 14205,
+    "fingerprint": [
+     "文明进程",
+     "富翁"
+    ],
+    "sha1": "6130905ec8dbbcdfa239a266d06436891d9407d2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "文明劳碌代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=原文所称\"有人讲\"；人类是唯一不停工作的动物（14205）；《人类简史》游牧—农业—工业忙碌史归X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0227-06",
+   "unit_id": "SG1-U0227"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0227",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "《人类简史》游牧时代悠闲与农业、工业社会忙碌变迁、《东京梦华录》北宋汴梁节日生活、圣·方济各生平及《圣经》引文（14199-14217），纯史实与典籍科普无可迁移判断；可迁移论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第217封信：匆忙致败/等五秒法/慢三拍/目的先行成卡；《人类简史》与北宋生活等史实归X4"
+}

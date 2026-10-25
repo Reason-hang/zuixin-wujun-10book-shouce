@@ -1,0 +1,258 @@
+{
+ "unit_id": "SG1-U0221",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试官五分钟后就有决定，之后只是确认；五分钟内没引起兴趣已失败一半",
+   "quote": "就已经失败一半了",
+   "anchor": {
+    "start_line": 13739,
+    "end_line": 13739,
+    "fingerprint": [
+     "五分钟",
+     "确认"
+    ],
+    "book_code": "SG1",
+    "sha1": "05c6637b0374c94bbabd6f3fa6030413b2438ba4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "五分钟定印象",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "接下来通过试题或对话确认对面试者的判断（13739）；开场攻略见C-SG1-U0221-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-01",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面试在面试前就已开始：事先了解面试官，既可预判问题也可不经意夸其两句",
+   "quote": "面试其实在面试前就已经开始了",
+   "anchor": {
+    "start_line": 13741,
+    "end_line": 13741,
+    "fingerprint": [
+     "恭维",
+     "HR"
+    ],
+    "book_code": "SG1",
+    "sha1": "66ab102fdbb9a0ac05494d896148067aba2324b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "面试前做功课",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "HR 通常会通知面试者由谁来面试（13741）；绝大部分人都喜欢被恭维（13741）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-02",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谦虚自信而落落大方，过度自信或过度讨好都没好结果；开头十句话须准备",
+   "quote": "谦虚、自信而落落大方",
+   "anchor": {
+    "start_line": 13743,
+    "end_line": 13743,
+    "fingerprint": [
+     "过度讨好",
+     "十句话"
+    ],
+    "book_code": "SG1",
+    "sha1": "f150cdb91cbb89d057eb1cd4abe2ecbcc7194760"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-1"
+   ],
+   "concept_key": "谦虚自信大方",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "开头十句话讲什么怎么讲很重要，要认真准备（13743）；寒暄应对见C-SG1-U0221-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-03",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "寒暄非废话，用来拉近距离显真诚；面试是沟通，沟通本身比答案更重要",
+   "quote": "沟通本身比答案更重要",
+   "anchor": {
+    "start_line": 13745,
+    "end_line": 13749,
+    "fingerprint": [
+     "敷衍了事",
+     "拉进和面试官的距离"
+    ],
+    "book_code": "SG1",
+    "sha1": "d239c30b1a16c7f0c9273003584a0f1020fac247"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "寒暄即沟通",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "好面试者借感觉怎么样/堵车吗等寒暄显示真诚与对公司兴趣（13745-13747）；示例回答：留足时间早到5分钟、深夜到达但能到贵公司很兴奋（13747）；敷衍回答毫无信息量（13749）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-04",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自我介绍讲一两点最吸引人之处并传递简历外信息，让面试官多维度了解你",
+   "quote": "传递简历中没有的信息",
+   "anchor": {
+    "start_line": 13751,
+    "end_line": 13753,
+    "fingerprint": [
+     "背诵简历",
+     "两个维度"
+    ],
+    "book_code": "SG1",
+    "sha1": "0daa257bb47915e9f7b5e348a490a66c1d9f3962"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "自介讲简历外信息",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "啰嗦面面俱到浪费留下好印象的机会，背简历纯属浪费时间（13751）；面试官可从至少两个维度了解面试者（13753）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-05",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自我介绍忌吹牛与讲对方听不懂的话；可夸自己但要不动声色，表达须通俗",
+   "quote": "不动声色",
+   "anchor": {
+    "start_line": 13755,
+    "end_line": 13757,
+    "fingerprint": [
+     "反感吹牛",
+     "通俗"
+    ],
+    "book_code": "SG1",
+    "sha1": "cebb19aad995cbac3ba0388597b16268768cd10a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-1"
+   ],
+   "concept_key": "自介忌吹牛与黑话",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "面试官尤其反感显得比他还牛的人（13755）；讲窄领域技术细节则面试官无法判断水平且留坏印象，要用通俗的话讲自己的工作（13757）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-06",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谷歌改进题考察对公司的了解而非征求意见；先肯定再铺垫，勿一上来挑不足",
+   "quote": "有多么了解",
+   "anchor": {
+    "start_line": 13761,
+    "end_line": 13767,
+    "fingerprint": [
+     "副总裁",
+     "先肯定对方"
+    ],
+    "book_code": "SG1",
+    "sha1": "85c62e5a3bc9d80991925e10faf761fbe4628ec2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-1"
+   ],
+   "concept_key": "改进题的陷阱",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "除面试管理新项目的副总裁外并非征求意见（13761）；你的好想法谷歌可能已考虑过、未采用或另有原因（13761）；先肯定对方总是加分的（13763）；一上来指不足则显肤浅，即使好方法面试官也疑其不管用（13767）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-07",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用人单位关心你未来几年能做什么而非过去成绩，要委婉传递未来的价值",
+   "quote": "未来的价值",
+   "anchor": {
+    "start_line": 13769,
+    "end_line": 13773,
+    "fingerprint": [
+     "最有用的人",
+     "快速学习"
+    ],
+    "book_code": "SG1",
+    "sha1": "ed9c832118be819be948e1b5dbe464ffa93e9837"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "展示未来的价值",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "勿抱答完所有问题请给我一份工作的心态，招人单位在合格者中挑对未来发展最有用的人（13769）；被动应对面试者难被录用（13771）；不能直说我对你们有价值，要委婉表达自信；技能不足但让人相信能快速学习者也会被录用（13773）；总结：在人家主场勿喧宾夺主，通过沟通让对方了解你的价值（13775）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-08",
+   "unit_id": "SG1-U0221"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谈薪三策：应届生重好单位，有经验者谈职级不谈薪酬，用市场价谈判",
+   "quote": "谈判职级",
+   "anchor": {
+    "start_line": 13781,
+    "end_line": 13783,
+    "fingerprint": [
+     "浮动范围有限",
+     "市场的价格"
+    ],
+    "book_code": "SG1",
+    "sha1": "4744a4993bc99ffbbf7c2c2e34e496b89fe0ed42"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D09-1"
+   ],
+   "concept_key": "谈薪三策",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "应届生大公司薪酬彼此差不多，为多一点钱去不满意单位不值得，第一份工作好单位最重要（13779）；同职级浮动有限（五级9-12万六级11-15万），工资会向职级平均数对标，职级高一级起点与终点都高（13781）；用市场行情价而非公司锚定价要价，被决定录用时由被动转主动，条件合理一般不会被拒（13783）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0221-09",
+   "unit_id": "SG1-U0221"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第211封信：面试技巧下篇提炼9判断：五分钟定印象/面试前做功课/谦虚自信大方/寒暄即沟通/自介讲简历外信息/自介忌吹牛与黑话/改进题的陷阱/展示未来的价值/谈薪三策；无X处置"
+}

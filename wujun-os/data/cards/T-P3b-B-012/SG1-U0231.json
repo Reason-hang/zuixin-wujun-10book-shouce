@@ -1,0 +1,133 @@
+{
+ "unit_id": "SG1-U0231",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "陪审员几乎都不懂法律，法律从业者反而不易被挑上；让普通人裁判重大官司，是社会希望以常识定罪",
+   "quote": "以常识定罪",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14447,
+    "end_line": 14447,
+    "fingerprint": [
+     "陪审员",
+     "常识定罪"
+    ],
+    "sha1": "e2d984973c8a8576dc366a496e2064f65995579e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "以常识定罪",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "法律从业者有强烈自我看法，双方律师都觉得无法影响他（14447）；不偏不倚的人最后容易被双方律师认可（14443）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0231-01",
+   "unit_id": "SG1-U0231"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常识可填补法律空白：钻法律空子的造假无法按现有法律定罪时由常识认定有罪，判例成为往后依据",
+   "quote": "这就是常识认定",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14449,
+    "end_line": 14449,
+    "fingerprint": [
+     "常识认定",
+     "判例"
+    ],
+    "sha1": "31f989aab70b9ac677bf4806f25d98ab8e100db7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "常识填补法律空白",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "银行造假账例子：孩子考试作弊会被开除，银行做假同样有罪（14449）；案例为吴军说明性举例非专名实案",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0231-02",
+   "unit_id": "SG1-U0231"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "英美法定罪不需要先有法律，钻法律空子者难逃常识裁判，这是英美股市200多年回报最稳定的根本原因",
+   "quote": "回报最稳定的根本原因",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14451,
+    "end_line": 14451,
+    "fingerprint": [
+     "大陆法系",
+     "英美法律"
+    ],
+    "sha1": "ceaff811a130c586744057123601b521d7062084"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "判例制度与市场稳定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大陆法系没有法律无法定罪，因此很多人钻法律空子尤其是金融界（14451）；历史因果归纳非时效预测",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0231-03",
+   "unit_id": "SG1-U0231"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "懂得陪审团以常识裁判的制度，就会更深懂得我为什么总是说：常识是最重要的",
+   "quote": "常识是最重要的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14467,
+    "end_line": 14467,
+    "fingerprint": [
+     "陪审团制度",
+     "常识"
+    ],
+    "sha1": "70f20c5902ec770d5ceaeb3349371c72465ffe3a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "常识最重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信总结句（14467）；推荐阅读第140封信《常识、科技和艺术》（14471）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0231-04",
+   "unit_id": "SG1-U0231"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0231",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国陪审团制度科普：权利义务与特权的界定、候选人挑选与豁免规定、大小陪审团分工、量刑与抗辩交易、制度起源与成本（14439-14457），纯制度史实无可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0231",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "吴军四次被抽为陪审员候选人的个人经历叙事（14437、14459-14465），无可迁移判断的个人轶事；其结论已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第221封信：以常识定罪/常识填补法律空白/判例制度与市场稳定/常识最重要成卡；陪审团制度科普归X4、个人陪审经历归X8"
+}

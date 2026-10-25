@@ -1,0 +1,270 @@
+{
+ "unit_id": "SG1-U0235",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机器智能发展到一定阶段后在很多地方超越人类不可逆转，必须承认现实；找理由自我安慰的心态本身有问题",
+   "quote": "不可逆转",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14693,
+    "end_line": 14693,
+    "fingerprint": [
+     "机器智能",
+     "现实"
+    ],
+    "sha1": "32d3475fd87c68e151800eb94df6458d13cdfd4f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "承认机器超越不可逆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "汽车刚发明时人和马与汽车比赛的自我安慰同样毫无意义（14695）；过几年看计算机下棋就会如看汽车飞奔般理所当然（14695）；可迁移判断逻辑按X6例外保留",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-01",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "尊严不需要靠贬低机器来找：高铁耗能高你仍坐它；机器超越后人跑得不如车却仍受尊敬，人的价值在自身目的",
+   "quote": "尊严不需要这样去找",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14699,
+    "end_line": 14705,
+    "fingerprint": [
+     "高铁",
+     "尊严"
+    ],
+    "sha1": "e45667a8dcfabf95a3c06b7af5c3c2071971953d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-1"
+   ],
+   "concept_key": "尊严不在胜过机器",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "奥运会目的是激励大家锻炼身体而非测物体绝对速度（14701）；有火车汽车后人类有闲暇跑步的人反而变多（14703）；深蓝胜卡斯帕罗夫后国际象棋更热门（14703）；AlphaGo让中国人重新关注围棋（14705）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-02",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尔森：计算机非常重要，我所有的分析都是计算机帮助作出的，我在家总是在计算机上练习",
+   "quote": "计算机帮助作出",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14709,
+    "end_line": 14709,
+    "fingerprint": [
+     "计算机",
+     "练习"
+    ],
+    "sha1": "e88f0b365f1165d796a481b0804229c1c1f974ba"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "冠军用计算机陪练",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=芒努斯·卡尔森（当今国际象棋世界冠军、人类棋手史上最高等级分创造者）（14707）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-03",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI做陪练可让棋手水平大幅提升：每步棋的胜率变化即时反馈，让人迅速学习和进步，人类已从AlphaGo学到新招",
+   "quote": "迅速地学习和进步",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14711,
+    "end_line": 14715,
+    "fingerprint": [
+     "陪练",
+     "胜率"
+    ],
+    "sha1": "e35b96c7e2bcce0408aeac64245c62f6aa86d827"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "AI陪练加速学习",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "古力：过去一步棋好坏要整盘结束后复盘才能判断，若有胜率反馈就能快速进步（14713）；开局点三三下法已被人类学习（14715）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-04",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "计算机在解决不确定性的问题上比人类强很多：AlphaGo大局太强，盘面确定后的收官阶段人类差距反而小",
+   "quote": "解决不确定性的问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14717,
+    "end_line": 14719,
+    "fingerprint": [
+     "不确定性",
+     "大局"
+    ],
+    "sha1": "899525ddc833f7b420249622361f416e97a6e7be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "计算机强于处理不确定性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "古力与Master下三盘的感受：第一盘存侥幸、二三盘完全绝望（14717）；古力希望下棋时AlphaGo支招作参考（14719）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-05",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要用发展和寻找机会的眼光看待科技进步：技术飞跃打破原有平衡，明智的选择是接受现实、在新常态下找到自己的位置",
+   "quote": "在新的常态下找到自己的位置",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14721,
+    "end_line": 14721,
+    "fingerprint": [
+     "技术飞跃",
+     "平衡"
+    ],
+    "sha1": "add19401a66751e64602289831a8e35c4e3cf5ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "技术飞跃中重新定位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三大看法之三；路透与小马快递的正反案例见C-SG1-U0235-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-06",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "路透把电报当机会层层布局终成路透社，小马快递无视之被淘汰——危机与机会一字之差，结果天壤之别",
+   "quote": "改由电报传送讯息",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14727,
+    "end_line": 14731,
+    "fingerprint": [
+     "路透",
+     "电报"
+    ],
+    "sha1": "03a336929e14ddf928f622ec071b5840a991adc4"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1",
+    "D08-1"
+   ],
+   "concept_key": "危机与机会一字之差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "路透信鸽公司见电报影响一年内改电报（14727）；1851与伦敦证交所签约换行情、1858供泰晤士报、1865公司化迁伦敦（14729）；小马快递被电报逼到关门（14725）；结论句出自吴军（14731）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-07",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AlphaGo的优化函数是保证胜率而非赢得漂亮：确定能获胜后收官只保证获胜概率，赢半目与赢20目没有差别",
+   "quote": "保证胜率",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14689,
+    "end_line": 14689,
+    "fingerprint": [
+     "优化函数",
+     "胜率"
+    ],
+    "sha1": "0d5057598d7d2aae79378c357b443942ff994f99"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "优化函数决定行为风格",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "柯洁整盘棋都没有什么赢棋机会，中盘AlphaGo就确立胜局（14689）；聂卫平：若对面是古力早就认输了（14689）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-08",
+   "unit_id": "SG1-U0235"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AlphaGo反映的是今天机器达到的智能水平而非只会下棋；今后可利用计算机做更多的事情",
+   "quote": "机器所达到的智能水平",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14733,
+    "end_line": 14733,
+    "fingerprint": [
+     "AlphaGo",
+     "智能水平"
+    ],
+    "sha1": "e4187e418735026c262249b2f1b732e5661bc198"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "AlphaGo是智能水平标尺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "\"今后可利用计算机做更多事情\"含前瞻预测成分，登记X2候选由P4终裁；三大看法的收束句",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0235-09",
+   "unit_id": "SG1-U0235"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0235",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附2017年5月柯洁对阵AlphaGo赛事时点的论断：人类再胜计算机可能性小得没有意义、5月23日第一盘赛果与5月26日双AlphaGo支招对局预告、AlphaGo耗能300倍记者问答（14685-14697、14719），离开该时点即失效；其中的可迁移论点已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0235",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "1835年莫尔斯发明电报、1844年巴尔的摩-华盛顿城际电报线、小马快递 Pony Express 业务兴衰沿革（14723-14725），纯技术史与商业史实；其承载的判断已入C-SG1-U0235-07"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第225封信：承认机器超越不可逆/尊严不在胜过机器/冠军AI陪练(E2卡尔森)/AI陪练加速学习/不确定性优势/技术飞跃重新定位/危机机会一字之差(E3路透)/优化函数决定风格/智能水平标尺成卡；赛事时事归X2、电报史归X4"
+}

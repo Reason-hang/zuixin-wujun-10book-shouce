@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0224",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看科技突破重在了解其背后的逻辑与发明者为何要做，而非预测准不准",
+   "quote": "了解那些技术背后的逻辑",
+   "anchor": {
+    "start_line": 13967,
+    "end_line": 13967,
+    "fingerprint": [
+     "科技含量高",
+     "社会进步"
+    ],
+    "book_code": "SG1",
+    "sha1": "440fd733a617e226db34ffeab1b89ecc7a6d0035"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "看技术背后的逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "MIT科技评论评选因素：科技含量高且对社会进步影响大，水平高但影响力小不在其列（13967）；了解技术不为预测未来有多准（13967）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0224-01",
+   "unit_id": "SG1-U0224"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创新最重要的是提出问题，其次才是解决问题；成就可失败，问题须重要",
+   "quote": "最重要的是提出问题",
+   "anchor": {
+    "start_line": 13969,
+    "end_line": 13969,
+    "fingerprint": [
+     "提出问题",
+     "失败的"
+    ],
+    "book_code": "SG1",
+    "sha1": "d1f1fade26be955de9a72a4774287f1f497c438f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "创新先提出问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "科技成就从解决问题角度讲有一半后来被证明失败，但它们所关注的问题都很重要（13969）；基因编辑与纳米材料研究即因其问题重要而入选（13969）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0224-02",
+   "unit_id": "SG1-U0224"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "预测失准三因：认识局限高估低估、行业变迁使意义消失、意外突破改写格局",
+   "quote": "意想不到的一项技术突破",
+   "anchor": {
+    "start_line": 13971,
+    "end_line": 13971,
+    "fingerprint": [
+     "认识的局限性",
+     "不再需要"
+    ],
+    "book_code": "SG1",
+    "sha1": "32748c0a0db13130ea52b7945fa3a6c6f1951d14"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "预测失准三因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "VR判断曾过于乐观、10年前对智能手机预测又过于悲观（13971）；高密度磁存储因行业快速变迁不再需要（13971）；大数据与人工智能根本性改变医疗行业（13971）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0224-03",
+   "unit_id": "SG1-U0224"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学科技评论学的是思路以提认知；自己作判断留待5-10年回头看判断力",
+   "quote": "提高我的认知",
+   "anchor": {
+    "start_line": 14027,
+    "end_line": 14031,
+    "fingerprint": [
+     "什么时候变成现实",
+     "判断力"
+    ],
+    "book_code": "SG1",
+    "sha1": "43ea54e7243859be086f0e1210390c15c896017c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "学思路提认知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "关注的不是技术何时变成现实，而是学习考虑问题的思路（14027）；看好六项的依据是技术相对成熟且影响力巨大（14029）；对十项技术做判断，5-10年后回头看自己的判断力，过程中认知得到提高（14031）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0224-04",
+   "unit_id": "SG1-U0224"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0224",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2017年十大科技突破逐项点评与时点预判：黑科技词义演变、360摄影退而求其次不看好、IoT安全绕不过去、刷脸支付是趋势、基因疗法再难也坚持但路还长、太阳能光伏新瓶装旧酒经济不合算、量子计算机炒作概念、强化学习一两年内普及、看好六项技术、5-10年后可验证（13963-14031），依附2017时点的技术预断本体，可迁移判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第214封信科技突破点评信，抽4卡方法论：看技术背后的逻辑/创新先提出问题/预测失准三因/学思路提认知；十项技术逐项时点预判归X2"
+}

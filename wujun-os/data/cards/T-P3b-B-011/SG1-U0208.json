@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG1-U0208",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "郭嘉：袁绍礼贤下士却不懂用人机变，不知孰重孰轻、好谋不善决，难共济天下",
+   "quote": "好谋却不善决断",
+   "anchor": {
+    "start_line": 12885,
+    "end_line": 12885,
+    "fingerprint": [
+     "袁公",
+     "礼贤下士"
+    ],
+    "book_code": "SG1",
+    "sha1": "125aeb279bc0dc8a78fa5dc9c8dabbe14afe1114"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "择主看决断与用人",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=郭嘉（曹操谋臣），转述自《三国志·郭嘉传》语境（12883）；郭嘉因此离开袁绍投曹操，曹操称使孤成大业者必此人（12889）；可迁移：追随领导看其用人机变与决断力",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-01",
+   "unit_id": "SG1-U0208"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "靠蒙能对一次不可能总对，总是预测对才说明有水平",
+   "quote": "总是预测对",
+   "anchor": {
+    "start_line": 12899,
+    "end_line": 12899,
+    "fingerprint": [
+     "靠蒙",
+     "有水平"
+    ],
+    "book_code": "SG1",
+    "sha1": "4fd4fa8568d5637430db86ee85ef2929be4ace4d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "持续正确验水平",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由郭嘉预判屡中引出：根据《三国志》等史料郭嘉对人的判断似乎没有错过（12899）；区分运气与本事的方法论",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-02",
+   "unit_id": "SG1-U0208"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "领袖不但要动脑，还要能动手；曹操的勇气与实干为拥兵观望者所无",
+   "quote": "不但要动脑，还要能动手",
+   "anchor": {
+    "start_line": 12925,
+    "end_line": 12925,
+    "fingerprint": [
+     "领袖不但要动脑",
+     "实干精神"
+    ],
+    "book_code": "SG1",
+    "sha1": "20252354eec288f4a5aa99437f260eb64743a579"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "领袖要脑手并用",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例：反董卓盟军置酒高会不图进取，曹操带几千人马进攻虽败犹见实干（12925）；与MIT校训脑和手呼应见C-SG1-U0208-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-03",
+   "unit_id": "SG1-U0208"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聪明人分三类：谋臣善运筹、能吏有执行力、领袖有领导力，谋臣能吏须寻主公",
+   "quote": "皮之不存，毛将焉附",
+   "anchor": {
+    "start_line": 12927,
+    "end_line": 12927,
+    "fingerprint": [
+     "三类聪明人",
+     "领导力"
+    ],
+    "book_code": "SG1",
+    "sha1": "c3b97e96644b34701bcc83de9dd641778cd11a1f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-1"
+   ],
+   "concept_key": "三类聪明人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谋臣=郭嘉张良，能吏=萧何荀彧陈群，领袖=刘邦曹操（12927）；谋臣能吏是毛、领袖是皮，故须辅佐主公（12927）；概括见C-SG1-U0208-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-04",
+   "unit_id": "SG1-U0208"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "曹操有郭嘉不具备的特长：勇于任事、善于执行，这是郭嘉甘居谋臣的原因",
+   "quote": "勇于任事",
+   "anchor": {
+    "start_line": 12919,
+    "end_line": 12919,
+    "fingerprint": [
+     "勇于任事",
+     "善于执行"
+    ],
+    "book_code": "SG1",
+    "sha1": "b348ca9ec63dd48b91663a38a70ad42ed062a884"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-1"
+   ],
+   "concept_key": "勇于任事善执行",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "作者到Google工作后意识到这一差别（12919）；解释郭嘉为何不自立门户而依附曹操；刺董卓故事符合曹操实干性格（12923-12925）；现代应用见C-SG1-U0208-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-05",
+   "unit_id": "SG1-U0208"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正挑大梁的是敢于任事的领袖，成功创始人靠领袖素质而非出谋划策",
+   "quote": "敢于任事",
+   "anchor": {
+    "start_line": 12929,
+    "end_line": 12929,
+    "fingerprint": [
+     "挑起大梁",
+     "领袖素质"
+    ],
+    "book_code": "SG1",
+    "sha1": "9b3dfc94be9a7767529e32df222d2875f81dba2c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "敢任事者挑大梁",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "今天有能力的聪明人很多，但做出重大贡献的不是善于出谋划策的人（12929）；呼应单元开头谈创业和做事情的目的（12871）；原话见C-SG1-U0208-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-06",
+   "unit_id": "SG1-U0208"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "掌握技能可成谋士能臣，学会领导他人、调动资源、用人才能独当一面",
+   "quote": "独当一面",
+   "anchor": {
+    "start_line": 12931,
+    "end_line": 12931,
+    "fingerprint": [
+     "麻省理工学院",
+     "脑和手"
+    ],
+    "book_code": "SG1",
+    "sha1": "afd3dc33783f6fc05dce9862ac3abe4eb4f06e6f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "脑手并用成领袖",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "接受教育时掌握技能已非常好，有望成郭嘉式谋士萧何式能臣（12931）；MIT校训脑和手概括领袖所需素质（12931）；与C-SG1-U0208-03互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0208-07",
+   "unit_id": "SG1-U0208"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0208",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "三国史实与文本叙述：曹操赤壁败后叹郭奉孝、《傅子》哀哉奉孝记载、郭嘉投袁绍投曹操经过、程昱郭嘉处置刘备之争、东征刘备破局、预判孙策死于刺客、远征乌桓平辽东、十胜十败论内容逐条、罗贯中笔下诸葛亮与郭嘉虚实比较、刺董卓故事情节（12875-12917、12921-12923），人物史与战争史科普，可迁移判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第198封信：郭嘉案例提炼判断：择主看决断用人（郭嘉评袁绍E2）/持续预测验水平/领袖脑手并用/三类聪明人/勇于任事（依附之因与现代应用）/学领导用人独当一面；三国史实叙述归X4"
+}

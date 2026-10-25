@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG1-U0228",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多时候我们逃不出命运的安排，随着年龄增长我从坦然接受与把握当下两方面接受了这种安排",
+   "quote": "逃不出命运的安排",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14259,
+    "end_line": 14259,
+    "fingerprint": [
+     "命运",
+     "遗憾"
+    ],
+    "sha1": "421c9ed85e1a1126d7033dece4346e3f91b7471b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "接受命运安排",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由阿格丽姬病倒与帕瓦罗蒂去世的遗憾引发（14257-14259）；两方面展开见C-SG1-U0228-02、C-SG1-U0228-03；感叹自家父过世始（14259）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0228-01",
+   "unit_id": "SG1-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人生总有不如意，必须坦然接受这些结果；能坦然接受时心态就会平和，而不是焦虑",
+   "quote": "心态就会变得平和",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14261,
+    "end_line": 14261,
+    "fingerprint": [
+     "坦然接受",
+     "平和"
+    ],
+    "sha1": "644f92b4153da21296eb9b985cdc5005eb845fc8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "坦然接受不如意",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "例：非常相爱的人因某种原因无法走到一起（14261）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0228-02",
+   "unit_id": "SG1-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "明天根本指望不上，很多时候没有下一次，唯一能把握的只有今天，把今天的事情赶快完成",
+   "quote": "唯一能把握的只有今天",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14263,
+    "end_line": 14265,
+    "fingerprint": [
+     "把握当下",
+     "明天"
+    ],
+    "sha1": "2f3587904fbf6dbc1a3ce04afddb115c5504652a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "把握当下勿待明日",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "清华读书时玩乐欠账、指望周末补课的经历→判断（14265）；\"等我有了钱有了时间就……\"的明天总不到来（14267）；时机错过无法补偿见C-SG1-U0228-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0228-03",
+   "unit_id": "SG1-U0228"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "美国俗语：年轻时想玩有时间没钱，工作后有钱没时间，等又有钱又有时间时已经玩不动了",
+   "quote": "已经玩不动了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14269,
+    "end_line": 14269,
+    "fingerprint": [
+     "时间",
+     "玩不动"
+    ],
+    "sha1": "b5a2deaab465f987cb295fbbf3da60afdbdc85f7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "时间金钱错位悖论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=美国人常说的话；\"玩\"未必是旅游，可有更广泛含义（14269）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0228-04",
+   "unit_id": "SG1-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "时机一旦错过就可能永远错过无法补偿；为少留遗憾要过从容优雅的生活，专门为美好体验花时间花钱",
+   "quote": "从容而优雅的生活",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14269,
+    "end_line": 14271,
+    "fingerprint": [
+     "时间不等人",
+     "音乐会"
+    ],
+    "sha1": "627b7ac727ab77844f9409bb4f116d5170b3d296"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-1"
+   ],
+   "concept_key": "从容优雅生活",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "放下手上工作花很多钱跑到很远听音乐会、看画、拍照（14271）；呼应把握当下C-SG1-U0228-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0228-05",
+   "unit_id": "SG1-U0228"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "事情做不完难静心，这是心态也是选择问题：要选择放弃掉一些事情，才能停下来看风景",
+   "quote": "选择放弃掉一些事情",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14273,
+    "end_line": 14273,
+    "fingerprint": [
+     "心态",
+     "放弃"
+    ],
+    "sha1": "b0a9323f7de9c72deb241f2ad390aeca3469c130"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-4"
+   ],
+   "concept_key": "静心须做放弃取舍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "回应\"事情总做不完\"的常见难题；建议朋友繁忙之余停下脚步看风景（14267）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0228-06",
+   "unit_id": "SG1-U0228"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0228",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "钢琴家阿格丽姬生平（婚姻、患癌、复出演出病倒经过）与歌唱家帕瓦罗蒂告别演出夭折叙事（14239-14257），纯人物传记与个人经历叙事无可迁移判断；\"钢琴家水平差距在对音乐的理解\"属音乐赏析残余，可迁移论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第218封信：接受命运/坦然接受不如意/把握当下/时间金钱错位/从容生活/放弃取舍成卡；阿格丽姬与帕瓦罗蒂生平叙事归X4"
+}

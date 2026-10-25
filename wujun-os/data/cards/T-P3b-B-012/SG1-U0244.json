@@ -1,0 +1,79 @@
+{
+ "unit_id": "SG1-U0244",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有些时候命运的力量是如此强大，即便像琵雅芙这样成功的人，也没能摆脱幼时苦难给她带来的悲惨命运",
+   "quote": "命运的力量",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15424,
+    "end_line": 15424,
+    "fingerprint": [
+     "命运",
+     "琵雅芙"
+    ],
+    "sha1": "ca0c4cb624f2a1eb7c9606bb27d85fb103b5bb8a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-1"
+   ],
+   "concept_key": "幼时苦难伴随一生",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由琵雅芙从妓院环境沾染坏习惯、一生情感坎坷、毒瘾酒瘾47岁早逝的生平引发的命运感慨（15400-15418）；指向早年环境与习惯对人生的深远影响",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0244-01",
+   "unit_id": "SG1-U0244"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "琵雅芙遗言：你要为这一生做的所有事付出代价",
+   "quote": "付出代价",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15420,
+    "end_line": 15420,
+    "fingerprint": [
+     "遗言",
+     "代价"
+    ],
+    "sha1": "f820d3c51d9c1454c3beb9ba0e9608d1082707b2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "一生所为终付代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=伊迪丝·琵雅芙（法国香颂天后）；去世前感叹竟成遗言（15420）；与吴军命运感慨C-SG1-U0244-01互证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0244-02",
+   "unit_id": "SG1-U0244"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0244",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "琵雅芙生平传记全叙事：贫困出身与妓院成长、街头卖艺成名、雷佩包装与被谋杀牵连、二战为德军演唱争议、《玫瑰人生》风靡世界、拳击冠军情人空难、车祸毒瘾酒瘾47岁癌症去世、10万人葬礼与2007传记电影（15398-15422），纯人物传记无可迁移判断；其承载的命运论点已入2张K卡"
+  },
+  {
+   "unit_id": "SG1-U0244",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "歌曲赏析与传播细节：La Vie en Rose原意\"透过粉色玻璃看到的人生\"的译析、席琳迪翁麦当娜Lady Gaga波切利及刘欢、陈百强翻唱名录、歌词中文大意（15426-15432），纯文艺赏析内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第234封信传记信只抽2卡：幼时苦难伴随一生（E1命运观）/琵雅芙遗言一生所为终付代价（E2）；人物生平归X4、歌曲赏析归X8"
+}

@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG1-U0214",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何历史都是延续的而不是割裂的，连中世纪也与前后文明不相割裂",
+   "quote": "而不是割裂的",
+   "anchor": {
+    "start_line": 13279,
+    "end_line": 13279,
+    "fingerprint": [
+     "延续",
+     "中世纪"
+    ],
+    "book_code": "SG1",
+    "sha1": "b22a50333baac29339901c4ce98b6b7193d094be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "历史延续不割裂",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "6000年文明史中割裂最甚的中世纪，研究表明与文艺复兴也不割裂，哈斯金认为黑暗中世纪不可能一步跳到辉煌文艺复兴，进步力量早已聚集（13279-13281）；用于驳互联网下半场论见C-SG1-U0214-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-01",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "互联网产业没有上半场下半场之分，产业格局不随概念炒作而改变",
+   "quote": "哪儿有什么上半场下半场之分",
+   "anchor": {
+    "start_line": 13273,
+    "end_line": 13277,
+    "fingerprint": [
+     "上半场",
+     "概念的炒作"
+    ],
+    "book_code": "SG1",
+    "sha1": "9d7206dc355200b3b995f8f5d198fefe00c07642"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "无下半场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "提出下半场者多因连续踏空云计算大数据移动互联网，希望借概念将他人优势清零（13275-13277）；驳免费转收费与copy from China两说见X2；历史连续性依据见C-SG1-U0214-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-02",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "相关技术强相关紧耦合形成闭环，前一环节薄弱拖累下一环节，难跳跃须补课",
+   "quote": "紧耦合",
+   "anchor": {
+    "start_line": 13283,
+    "end_line": 13283,
+    "fingerprint": [
+     "强相关",
+     "补课"
+    ],
+    "book_code": "SG1",
+    "sha1": "778b63525e4eb0f1d7e87526fb5989c20f42c94c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D04-3"
+   ],
+   "concept_key": "技术耦合须补课",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "互联网→云计算大数据，移动通信+互联网→移动互联网，移动终端与云计算相辅相成，大数据云计算→机器智能突破（13283）；系统关联视角可迁移至产业分析",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-03",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "竞争不是比赛无清零：领先或落后状态带入下一阶段，落伍者唯有补课无捷径",
+   "quote": "认认真真补课",
+   "anchor": {
+    "start_line": 13285,
+    "end_line": 13285,
+    "fingerprint": [
+     "网球比赛",
+     "捷径"
+    ],
+    "book_code": "SG1",
+    "sha1": "c8fdec60360278b549a3a5f68177bd6447916dae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "竞争无清零",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "下半场说法让落伍公司看到希望，但要把前面状态带到下一阶段（13285）；落伍归因见C-SG1-U0214-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-04",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "屡次错失机会的公司多半是管理战略出问题而非运气，落伍概率大于赶上",
+   "quote": "买涨不买跌",
+   "anchor": {
+    "start_line": 13287,
+    "end_line": 13287,
+    "fingerprint": [
+     "管理和战略出了大问题",
+     "买涨不买跌"
+    ],
+    "book_code": "SG1",
+    "sha1": "616bfb548358f71b801b3e0b989046e7221e3070"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-2"
+   ],
+   "concept_key": "落伍归因管理战略",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "找不到管理战略问题则进一步落伍可能性远大于迎头赶上（13287）；股市格言买涨不买跌：长期上涨公司经营通常好得多（13287）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-05",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "持续发展的产业任何时候进来都不晚，但后起之秀不能靠炒概念超越",
+   "quote": "任何时候进来都不晚",
+   "anchor": {
+    "start_line": 13295,
+    "end_line": 13295,
+    "fingerprint": [
+     "后起之秀",
+     "炒概念"
+    ],
+    "book_code": "SG1",
+    "sha1": "05f5646d49f79657b92c9826290d3694bcf8eb12"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "进入产业不晚",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "炒作下半场者多因错过过去20年互联网发展而希望别人相信其还有希望（13295）；逆向机会见C-SG1-U0214-08",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-06",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不是互联网＋而应是原有产业＋互联网：互联网是工具，须解决原有产业问题",
+   "quote": "原有产业＋互联网",
+   "anchor": {
+    "start_line": 13297,
+    "end_line": 13297,
+    "fingerprint": [
+     "互联网＋",
+     "提升效率"
+    ],
+    "book_code": "SG1",
+    "sha1": "6eef6a1634be45b46e0b375e4ebe955939e4b9a2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "原有产业加互联网",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谷歌对应电视广告与操作系统、亚马逊对应沃尔玛IBM、FB对应社交需求，美中学生过去每天通两小时电话（13299）；BAT性质类似，成功公司只是用互联网改造原有产业（13301）；与C-SG1-U0213-05旧产业+新技术呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-07",
+   "unit_id": "SG1-U0214"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "众人炒作概念时，正是你用新思维改变一个现有产业的机会（逆向机会原理）",
+   "quote": "使用新思维改变一个现有产业",
+   "anchor": {
+    "start_line": 13303,
+    "end_line": 13303,
+    "fingerprint": [
+     "表面文章",
+     "晋升的机会"
+    ],
+    "book_code": "SG1",
+    "sha1": "d0e5645d898960f1d5f40313a82f80783cbe9453"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "逆向机会原理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "引此前投资与精进之论：大家投资不理性时机会就来了，大家做表面文章时晋升机会就到了（13303）；社会上新概念太多，对实际问题关注反而不够（13295）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0214-08",
+   "unit_id": "SG1-U0214"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0214",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附2017年时点的公司与现象评断：某互联网公司连续踏空云计算大数据人工智能的具体经营评论（13275-13277）、下半场两特征驳论中的时点评断（商业模式未变列举、copy from China 尚未见到、蚂蚁金服小额贷款与美国富国银行信用卡贷款利率对比）（13289-13293），时效论断本体，可迁移判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第204封信：驳互联网下半场提炼8判断：历史延续不割裂/无下半场/技术耦合须补课/竞争无清零/落伍归因管理战略/进入产业不晚/原有产业+互联网/逆向机会原理；时点评断归X2"
+}

@@ -1,0 +1,263 @@
+{
+ "unit_id": "SG1-U0229",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当互联网让我们很容易获取知识时，我们对于成为一名阅读者的需要反而超过以往任何时候",
+   "quote": "反而超过以往任何时候",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14309,
+    "end_line": 14309,
+    "fingerprint": [
+     "阅读者",
+     "互联网"
+    ],
+    "sha1": "9bf21cff0a82d8cce9b5b23209ea9368e395cf4c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "互联网时代更需阅读者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "聊阅读的目的不仅为交朋友，更为改变生活方式（14309）；老奶奶读《哈利·波特》找共同话题的轶事归X8",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-01",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "日程满、钱不够花、熟人真心话少，背后是生怕错过什么的恐惧；所谓快节奏其实是没有节奏",
+   "quote": "没有节奏",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14313,
+    "end_line": 14315,
+    "fingerprint": [
+     "恐惧",
+     "快节奏"
+    ],
+    "sha1": "5d85441300d1eafc1fc39c865f4568f95b5606e6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "错失恐惧与无节奏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "刷小视频什么都没记住、无任何影响（14313）；为审视人生的闲暇讨论作铺垫",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-02",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底：未经审视的人生不值得度过，而审视人生需要有闲暇",
+   "quote": "未经审视的人生",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14317,
+    "end_line": 14317,
+    "fingerprint": [
+     "苏格拉底",
+     "审视"
+    ],
+    "sha1": "69543254274272090534417beeb261ef71cf1b50"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "审视人生需闲暇",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=苏格拉底；吴军由此展开：获取资讯的渠道不带来闲暇反夺走思考时间，见C-SG1-U0229-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-03",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "阅读是当下让我们审视人生的不多的方法之一；好书帮我们重新认识自己、看清世界，成为更好的人",
+   "quote": "审视人生的不多的方法",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14319,
+    "end_line": 14321,
+    "fingerprint": [
+     "纸质书",
+     "审视人生"
+    ],
+    "sha1": "49329316e61bad4de9cbb471dda3439812d7a088"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "阅读审视人生",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "读纸质书须整段时间放下手头事才能读进去（14319）；对比富兰克林自传审视自己不足（14321）；阅读在不经意间提醒内心明白却淡忘的道理（14321）；苏格拉底引言见C-SG1-U0229-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-04",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读书可以和素未谋面的作者交流：随学识增长读懂全书之日，即与作者认识达成一致之时",
+   "quote": "我可以和他交流了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14325,
+    "end_line": 14327,
+    "fingerprint": [
+     "伽莫夫",
+     "交流"
+    ],
+    "sha1": "49382c2e3ac513831896e75e5eb5a6181a479962"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读书即与作者交流",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "小学毕业读伽莫夫《从1到无穷大》到全部读懂的经历→判断（14325-14327）；幼时读《地球》科普书引发对世界的好奇想象（14323）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-05",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "为明确目的找书未必达预想效果，励志书是绝对正确又绝对无用的大道理；好书常在不经意间发现",
+   "quote": "绝对正确，但又绝对无用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14329,
+    "end_line": 14331,
+    "fingerprint": [
+     "励志",
+     "不经意"
+    ],
+    "sha1": "6d49ad02c2fa3200a70cda5af2379a274b93ed71"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "选书勿功利勿迷励志",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "好书往往不经意间发现，如偶买《曾文正公家书》发现充满哲理智慧（14331）；读坏书也有收获：文革畅销书让人看清荒唐年代（14333）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-06",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "阅读让我们在科技时代获得喘息、重启深入思考，也是抵抗狭隘、思想控制和舆论支配的方式",
+   "quote": "抵抗狭隘",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14335,
+    "end_line": 14335,
+    "fingerprint": [
+     "狭隘",
+     "舆论支配"
+    ],
+    "sha1": "1ae334f29c963b9d5750bfeb83831d82d3e0ca89"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "阅读抵抗思想支配",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "纳菲西《在德黑兰读〈洛丽塔〉》：传世作品借肯定生命对抗生命无常、是对背叛恐惧与不义的反抗（14337），归X4处理；阅读本身是一种生活方式（14339）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-07",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "圣埃德蒙：终身学习，向死而生——像要活到永远那样学习，像明天将死那样生活",
+   "quote": "终身学习，向死而生",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14339,
+    "end_line": 14339,
+    "fingerprint": [
+     "牛津大学",
+     "向死而生"
+    ],
+    "sha1": "789d8d825c68f7af67f647b8bbb0cf3a907c4b3a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-3"
+   ],
+   "concept_key": "终身学习向死而生",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=圣埃德蒙（13世纪坎特伯雷大主教），出自《大学之路》第二版所载牛津大学历史（14339）；信末点题句",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-08",
+   "unit_id": "SG1-U0229"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "富兰克林借书化敌为友：借书表明有共同语言，有共同语言才搭得上话，谈合作谈利益才有基础",
+   "quote": "他去向对方借书",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14305,
+    "end_line": 14307,
+    "fingerprint": [
+     "富兰克林",
+     "共同语言"
+    ],
+    "sha1": "0544e64534c3882d3b99300220187490abeeb3b6"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "借书与共同语言",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "出自《富兰克林自传》（14305）；机理句为吴军分析（14307）；钱钟书《围城》借书有利男女交往（借还至少接触两次）观点同段互证（14303）；老奶奶借《哈利·波特》与孙子找话题轶事同机理（14299-14301）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0229-09",
+   "unit_id": "SG1-U0229"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0229",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "老奶奶读《哈利·波特》与孙子找聊天话题的轶事（14295-14301）：无专名案例、叙事性较强，机理（阅读创造共同语言）已入C-SG1-U0229-09 notes；无独立可迁移结论句"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第219封信：阅读的意义——阅读者需要/审视人生/与作者交流/选书观/抵抗思想支配及三转述一案例成卡；老奶奶轶事归X8"
+}

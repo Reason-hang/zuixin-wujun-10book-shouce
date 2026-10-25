@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0230",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "高迪建圣家族教堂一反常规先建外立面，防止后人改动设计、缩小教堂规模，保住一生愿景",
+   "quote": "先从外立面开始建设",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14391,
+    "end_line": 14391,
+    "fingerprint": [
+     "外立面",
+     "缩小教堂的规模"
+    ],
+    "sha1": "c37fc9450a21a463b9979da7714f29c62af99f1a"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D10-1"
+   ],
+   "concept_key": "先固化骨架防缩水",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "高迪知道建不完：西方教堂建上百年常有、完工时与最初设计差别很大（14389）；引语\"这样后人就不会缩小教堂的规模了\"；可迁移：跨代协作的宏大工程须先固化愿景性骨架",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0230-01",
+   "unit_id": "SG1-U0230"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "高迪：直线属于人类，而曲线属于上帝——建筑大师肆意挥舞曲线，把巴塞罗那变成童话世界",
+   "quote": "曲线属于上帝",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14403,
+    "end_line": 14403,
+    "fingerprint": [
+     "高迪",
+     "曲线"
+    ],
+    "sha1": "d72e0ae7a14cac1695904a93563bd39e3b576595"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "曲线美学创作理念",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=高迪（建筑大师）；巴特约之家、米拉之家均以弧线代替直线（14403-14411）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0230-02",
+   "unit_id": "SG1-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "独特造型和实用性常常是矛盾的；每当遇到这种矛盾时，高迪总是保留创造性",
+   "quote": "保留创造性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14405,
+    "end_line": 14405,
+    "fingerprint": [
+     "实用性",
+     "矛盾"
+    ],
+    "sha1": "29e0027c7396face46d704a973796a7495fd1429"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "造型与实用取创造性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴特约之家骷髅头阳台、龙脊屋顶被问是否实用（14405）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0230-03",
+   "unit_id": "SG1-U0230"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正的好创意不是简单地以奇怪取胜，而要富有创意和深度，并融合不拘一格的美感",
+   "quote": "以奇怪取胜",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14411,
+    "end_line": 14411,
+    "fingerprint": [
+     "创意",
+     "美感"
+    ],
+    "sha1": "31181c43691412cc637f789ed78dd13da65e7313"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "创意非猎奇须有深度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "米拉之家楼顶如外星世界（14411）；难怪人们讲没有高迪巴塞罗那就少了一半特色（14411）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0230-04",
+   "unit_id": "SG1-U0230"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0230",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "巴塞罗那城市文化见闻（加泰罗尼亚语、斗牛禁令）、圣家族教堂135年建造史与内景描写、巴特约之家与米拉之家造型描写、哥伦布踪迹（14375-14417），游记行程与景观叙述为主；可迁移论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第220封信游记信抽4卡：先固化骨架防缩水(E3)/曲线理念(E2)/造型与实用取创造性/创意非猎奇；游记景观叙述归X3"
+}

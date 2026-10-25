@@ -1,0 +1,261 @@
+{
+ "unit_id": "SG1-U0222",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "懒政者危害有四：掉链子危害组织、毒化士气、小事拖到难修复、占位误集体",
+   "quote": "士气有很坏的影响",
+   "anchor": {
+    "start_line": 13821,
+    "end_line": 13829,
+    "fingerprint": [
+     "掉链子",
+     "占着位置不作为"
+    ],
+    "book_code": "SG1",
+    "sha1": "0ab3e086ecedd506b1736ad149d3c1a746d5dd48"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "懒政者的危害",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "孙连城式特征五条：在其位不谋其政、交账不达标、敷衍任务、业务不达标、不求发展得过且过（13811-13819）；毒化士气者多为老员工中层干部，向年轻人传递不健康文化（13825）；能糊弄一天是一天（13827）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-01",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "按能力与积极性两维度把人分四类，不同的人要用不同的管理方法",
+   "quote": "不同的管理方法",
+   "anchor": {
+    "start_line": 13831,
+    "end_line": 13841,
+    "fingerprint": [
+     "能力和积极性",
+     "第四类"
+    ],
+    "book_code": "SG1",
+    "sha1": "46a6e09d7cf403b468b627e3a9bf998936cdf91e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "能力积极性四分法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "第一类能力低积极性低、第二类能力低积极性高、第三类能力高积极性低、第四类双高（13833-13839）；管理手段见C-SG1-U0222-05/06/07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-02",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新人须善引导否则失积极性；老员工无新挑战会从双高逐步蜕变为懒政者",
+   "quote": "产生厌倦感",
+   "anchor": {
+    "start_line": 13843,
+    "end_line": 13847,
+    "fingerprint": [
+     "诚惶诚恐",
+     "新的挑战"
+    ],
+    "book_code": "SG1",
+    "sha1": "864eec9b27c9948553eeccc9ec1dc553f7ac5cc8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "员工蜕变链",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "新人想做事情又诚惶诚恐，善引导则成双高，不善培养很快没了积极性（13843）；岗位久了无新挑战产生厌倦感，先蜕变为能力高积极性低，再随技术更新蜕变为第一类（13845-13847）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-03",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "躺在功劳簿上不服管：过去的功劳掩盖不了不作为，人人如此事业就不发展",
+   "quote": "躺在功劳簿上",
+   "anchor": {
+    "start_line": 13849,
+    "end_line": 13849,
+    "fingerprint": [
+     "摆老资格",
+     "不作为"
+    ],
+    "book_code": "SG1",
+    "sha1": "dc56c8fc5ce0f21b95925a41297d49befa8b1ddd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "功劳簿陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "孙连城们有功劳故不服管，摆老资格埋怨单位不重视（13849）；光明区GDP全市第一是过去功劳掩盖不了不作为（13849）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-04",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对有能力没态度者业务辅导无用：调离原岗激发潜能，调岗仍不改善则不留",
+   "quote": "调离他们原来的岗位",
+   "anchor": {
+    "start_line": 13851,
+    "end_line": 13851,
+    "fingerprint": [
+     "态度",
+     "诚惶诚恐"
+    ],
+    "book_code": "SG1",
+    "sha1": "4f4e91eeedd5914b72c887364ddae32648a07830"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "调岗激活",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "给一次机会但辅导无用，关键在态度，态度端正业务能自己提高（13851）；到新地方会重新诚惶诚恐激发潜能，应承诺做出业绩受提拔；调岗后仍懒惰则不应再留（13851）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-05",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "维持双高状态靠不断压担子；该提拔就提拔，能力不足及时培养防心灰意冷",
+   "quote": "不断给他们压担子",
+   "anchor": {
+    "start_line": 13853,
+    "end_line": 13853,
+    "fingerprint": [
+     "提拔",
+     "心灰意冷"
+    ],
+    "book_code": "SG1",
+    "sha1": "d283097ec658028d1c86c141e3311e660ee8fb59"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "压担子维双高",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "让他们承担更重要的任务（13853）；几次失败后心灰意冷会变成积极性不高的人（13853）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-06",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对末位员工听之任之或直接劝退都有副作用，较好办法是限期集中实施PIP",
+   "quote": "表现提升计划",
+   "anchor": {
+    "start_line": 13855,
+    "end_line": 13857,
+    "fingerprint": [
+     "末位人群",
+     "副作用"
+    ],
+    "book_code": "SG1",
+    "sha1": "36967c2e33e4bf54c1a0566a2a2e89cbc087291d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "PIP限期改进",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "听之任之则悲观情绪像毒素蔓延，直接劝退则对员工过于刻薄（13855）；PIP一般一个季度到半年定期改进绩效（13857）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-07",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "PIP四措施：严格考勤、周计划周末点评、1对1专业辅导、多给展示机会",
+   "quote": "严格考勤",
+   "anchor": {
+    "start_line": 13859,
+    "end_line": 13867,
+    "fingerprint": [
+     "周计划",
+     "成就感"
+    ],
+    "book_code": "SG1",
+    "sha1": "c0a4a021b5e9d05a09c5e09b3e6695a30d14b15c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "PIP四措施",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "绩效不好者常占弹性上下班便宜晚来早走中间溜号（13861）；周一交周计划经理周末面谈点评（13863）；辅导可由HR或委托绩效好的资深员工（13865）；谷歌学来腾讯施行效果很好，很多人跃入高绩效，多数人只是不知如何做事并非本心想懒政，仍不改进再劝退算仁至义尽（13869）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-08",
+   "unit_id": "SG1-U0222"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好单位要奖惩并行：没有惩罚机制，身边最终都是孙连城式的懒政者",
+   "quote": "没有惩罚机制",
+   "anchor": {
+    "start_line": 13871,
+    "end_line": 13871,
+    "fingerprint": [
+     "奖惩",
+     "懒政"
+    ],
+    "book_code": "SG1",
+    "sha1": "96fe63ec2fc01ac36f4acd83b514948be9bf4a0e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "奖惩并行",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全信总结句（13871）；与C-SG1-U0211-08动力底层刹车高层互为管理配套",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0222-09",
+   "unit_id": "SG1-U0222"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0222",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《人民的名义》剧情与台词引述：孙连城懒政角色设定、为其叫屈的小说原文反驳、顶撞达康书记的自辩台词（13803-13805、13849），文艺作品情节叙述仅作引入，管理判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第212封信：孙连城与PIP提炼9判断：懒政者的危害/能力积极性四分法/员工蜕变链/功劳簿陷阱/调岗激活/压担子维双高/PIP限期改进/PIP四措施/奖惩并行；人民的名义剧情引述归X8"
+}

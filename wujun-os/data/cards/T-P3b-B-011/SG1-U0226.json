@@ -1,0 +1,162 @@
+{
+ "unit_id": "SG1-U0226",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "胡贝尔被开除消沉半年后妻子点醒：硅谷很大机会很多，总有更好的出路",
+   "quote": "或许有更好的出路",
+   "anchor": {
+    "start_line": 14133,
+    "end_line": 14133,
+    "fingerprint": [
+     "被开除了",
+     "振作精神"
+    ],
+    "book_code": "SG1",
+    "sha1": "56e1eaa61a27a9ba13f0845b74052be546722e95"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "更好的出路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=杰夫·胡贝尔（前谷歌高级副总裁，伊利诺伊大学毕业演讲，14127）；在eBay与市场负责人争执被开除（14133）；妻子点醒后振作精神到谷歌才有后来辉煌（14133）；信题主旨有没有更好的办法的由来",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0226-01",
+   "unit_id": "SG1-U0226"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "悲剧不能避免是因为我们没有更好的办法；有了更好的办法悲剧或可避免",
+   "quote": "我们没有更好的办法",
+   "anchor": {
+    "start_line": 14135,
+    "end_line": 14135,
+    "fingerprint": [
+     "怨天尤人",
+     "早期就能诊断"
+    ],
+    "book_code": "SG1",
+    "sha1": "9f414388f07df450e6afc5a86363463b0deee444"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "没有更好的办法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=胡贝尔；妻子患癌症去世、确诊时治疗已来不及（14135）；不怨天尤人而是反思缺更好的办法，若能早期诊断悲剧或可避免（14135）；这解释了他去Calico并创立Grail的动机（14137-14139）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0226-02",
+   "unit_id": "SG1-U0226"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "遇不尽人意之事不要抱怨：主动去想是否有更好的方法，然后行动起来",
+   "quote": "主动去想是否有更好的方法",
+   "anchor": {
+    "start_line": 14139,
+    "end_line": 14139,
+    "fingerprint": [
+     "不要抱怨",
+     "行动起来"
+    ],
+    "book_code": "SG1",
+    "sha1": "2287c43ecb0b60573bb2c6d0d09bdda944e447ed"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "不抱怨找更好方法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=胡贝尔对毕业生的忠告（14139）；例：抱怨美国不民主要跑去加拿大，不如想是否有比逃避更好的方法、能否做点什么解决问题（14139）；他本人只争朝夕地行动（14139）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0226-03",
+   "unit_id": "SG1-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "十几万孕妇数据中20个异常点被较真追查，竟确诊癌症并催生早期检测方向",
+   "quote": "果然都确诊是癌症",
+   "anchor": {
+    "start_line": 14145,
+    "end_line": 14149,
+    "fingerprint": [
+     "20 个人",
+     "首席医疗官"
+    ],
+    "book_code": "SG1",
+    "sha1": "f879655f1733e3b1fd36439058a9c61b56d566d9"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "数据异常要追查",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Illumina有十几万孕妇数据、20人某项数据有点怪因人少无特别处没人在意（14145）；新任首席医疗官追问并安排进一步检查确诊癌症（14147-14149）；随后成立基因检测发现早期癌症部门，与胡贝尔想法不谋而合诞生Grail（14149）；专名案例承载数据异常追查机理故独立成卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0226-04",
+   "unit_id": "SG1-U0226"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资就是投人：公司成败很大程度取决于人做事有多么积极主动",
+   "quote": "投资就是投人",
+   "anchor": {
+    "start_line": 14161,
+    "end_line": 14163,
+    "fingerprint": [
+     "积极主动",
+     "受苦受罪"
+    ],
+    "book_code": "SG1",
+    "sha1": "16bae5ed7edc3f14c094995c35e993cc85c882b8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "投资就是投人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "盖茨、贝佐斯、高盛看中Grail的更多是胡贝尔不断寻找更好方法的积极态度（14161）；谷歌高管放弃好公司来Grail受苦受罪（14163）；作者因奥科博士17年朋友10多年老同事的相知而先后投资其创业公司（14119）；Grail能否成功尚不能判断，但给行业带来希望并树立创业榜样（14163）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0226-05",
+   "unit_id": "SG1-U0226"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0226",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "Grail公司与癌症早筛技术现状叙述：圣杯Holy Grail名称典故、抽血基因检测原理与四项结论、成本目标降至500美元以下、成本与核磁对比、著名医院药厂合作、两轮融资与谷歌Illumina投资关系、奥科博士加入（14121-14123、14141-14143、14151-14159），前沿科技趋势与融资现状叙述本体，可迁移判断已抽入K卡"
+  },
+  {
+   "unit_id": "SG1-U0226",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "胡贝尔履历背景：谷歌高级副总裁主管最挣钱广告业务、梅耶尔在谷歌时的老板、地位仅次于尤斯塔斯、2013年转任Calico、两年前离职创办Grail（14125），人物履历科普"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第216封信：有没有更好的办法提炼5判断：更好的出路E2/没有更好的办法E2/不抱怨找更好方法E2/数据异常要追查E3/投资就是投人；Grail技术与融资现状归X6、胡贝尔履历归X4"
+}

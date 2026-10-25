@@ -1,0 +1,161 @@
+{
+ "unit_id": "SG1-U0239",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "衡量经济增长先选对参照系：与主要工业化国家现状增速和亚洲腾飞后惯性增速比，而非拘泥自身历史高增速",
+   "quote": "参照系",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15000,
+    "end_line": 15004,
+    "fingerprint": [
+     "参照系",
+     "增长"
+    ],
+    "sha1": "7c1aa602b41004fe61afb9859f829f0d3a579a3b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "衡量增长先选参照系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国内以过去30年年均8%为参照不切实际地试图维持高增长（15000）；美欧日增速仅1%-3%，中国6%-7%已非常好（15004）；可迁移：评估任何增长态势先定比较基准",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0239-01",
+   "unit_id": "SG1-U0239"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "实体经济在GDP中占比下降是技术发展和经济增长的必然结果，其绝对值仍上升——正如无人担心农业比重下降",
+   "quote": "必然结果",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15014,
+    "end_line": 15016,
+    "fingerprint": [
+     "实体经济",
+     "比重"
+    ],
+    "sha1": "d48c9eba9f6a6232d2643967e9060d87c47255c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "实体占比下降是规律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "工业革命后以越来越低成本生产越来越多工业品，它们不可能像原来那样值钱，这是实体经济萎缩的根本原因（15016）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0239-02",
+   "unit_id": "SG1-U0239"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "服务业不只是餐饮旅游家政，金融教育医疗体育娱乐都是；收入增加后人们必须通过这些产业把钱都花出去",
+   "quote": "把钱都花出去",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15020,
+    "end_line": 15020,
+    "fingerprint": [
+     "服务业",
+     "收入"
+    ],
+    "sha1": "8ddde29d9c17ac9cb41aa70595f6de072dfb8126"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "服务业是消费升级出口",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "经济发达收入增加后人们通过服务业花钱而非购买更多看得见的商品（15020）；中国刚完成工业革命对服务业前景没把握属情结（15018）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0239-03",
+   "unit_id": "SG1-U0239"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "所谓实体经济萎缩反而说明技术在进步、经济结构向好：产品全世界已用不完，靠实体经济拉动GDP无法持久",
+   "quote": "无法持久",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15022,
+    "end_line": 15022,
+    "fingerprint": [
+     "萎缩",
+     "技术"
+    ],
+    "sha1": "b7f2cbc767a2d577b52cbafc1084c33a094af761"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "实体萎缩反证结构向好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "总不能生产两倍出来用一半扔一半（15022）；承接C-SG1-U0239-02的产业规律",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0239-04",
+   "unit_id": "SG1-U0239"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "预测对了结果不等于预测对了后果：许教授预言通胀兑现但后果不严重——后果取决于系统的弹性与适应能力",
+   "quote": "预测错了后果",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15026,
+    "end_line": 15028,
+    "fingerprint": [
+     "通货膨胀",
+     "弹性"
+    ],
+    "sha1": "ed733f2d50166508a794672bd19e62c45f66151b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "预测对结果错后果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国人对内靠收入增长抵消通胀、对外靠外汇管制和贸易顺差维持币值（15026）；十多年前担心通胀的海内外学者无不预测错了后果（15028）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0239-05",
+   "unit_id": "SG1-U0239"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0239",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "宏观经济预测与政策评论本体：中国不会掉入中等收入陷阱的核心论断、20年后人均GDP超2万美元成最大经济体的推演、许小年观点复述与四条建议、产业政策成败例举、财政赤字印钞与国债机制、L型尾巴3-5年结束的预测（14974-14998、15006-15010、15030-15042），宏观趋势预测不作支柱；其中可迁移判断逻辑已入5张K卡"
+  },
+  {
+   "unit_id": "SG1-U0239",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附2017年时点的行情与标的论断：中国人均GDP约8000美元、深圳房价还会涨涨得越高跌得越狠、当下货币发行量近乎疯狂等（14982-14984、15030-15032），离开时点即失效"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第229封信宏观信按X6例外抽5张可迁移卡：参照系/实体占比规律/服务业消费升级/实体萎缩反证结构向好/预测对结果错后果；宏观预测本体归X6、时点数据归X2"
+}

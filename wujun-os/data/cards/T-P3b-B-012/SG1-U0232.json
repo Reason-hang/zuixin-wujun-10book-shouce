@@ -1,0 +1,191 @@
+{
+ "unit_id": "SG1-U0232",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "曼施坦因：只要进攻足够快，就不需要防御侧翼和后方——进攻是最好的防守，此即闪电战的理论根据",
+   "quote": "进攻是最好的防守",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14495,
+    "end_line": 14495,
+    "fingerprint": [
+     "闪电战",
+     "进攻"
+    ],
+    "sha1": "bb474f7efaf2e93da99946e2fb0c3c1d14b0fef5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "进攻是最好的防守",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=曼施坦因（二战德军元帅）；曼施坦因计划由古德里安和隆美尔实施一举打垮法国（14495）；本信以军事战略类比商业竞争",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0232-01",
+   "unit_id": "SG1-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利真正的作用不是进攻的工具，而是防守的工具——专利数量与创新力关系并不大",
+   "quote": "不是进攻的工具，而是防守的工具",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14519,
+    "end_line": 14519,
+    "fingerprint": [
+     "专利",
+     "防守"
+    ],
+    "sha1": "ec682cde7e515d01c316be15c94f7214091fa2ee"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "专利是防守工具",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "硅谷最富创新的公司反而没多少专利，过了创新期专利剧增（14507）；苹果亚马逊Facebook从未上专利榜前十（14513）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0232-02",
+   "unit_id": "SG1-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司靠创造力快速发展时懒得也顾不上申请专利；业务停滞时才需要用专利保护它的侧翼和后翼",
+   "quote": "保护它的侧翼和后翼",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14521,
+    "end_line": 14523,
+    "fingerprint": [
+     "创造力",
+     "停滞"
+    ],
+    "sha1": "631757408e928446476a7ef7408aaf120a3f6e3c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "创新期无暇专利停滞期筑墙",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从英特尔到思科、微软、谷歌、苹果成长最快时都是如此（14521）；IBM长踞专利榜首收巨额专利费、微软辉煌期专利排名低（14525）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0232-03",
+   "unit_id": "SG1-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "身处大公司应多关心申请专利作防御堡垒；处在挑战者地位则不该囤专利，而要像闪电战那样出奇制胜",
+   "quote": "出奇制胜",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14533,
+    "end_line": 14533,
+    "fingerprint": [
+     "大公司",
+     "挑战者"
+    ],
+    "sha1": "278135f941efd7210891a3422dcd47d07f003a04"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "攻守之势择策略",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "呼应曼施坦因进攻思想C-SG1-U0232-01；中国企业家该进攻时取防守心态致新领域不顺的例子（14535）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0232-04",
+   "unit_id": "SG1-U0232"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对小公司，进攻是最好的防守，创造力和执行力才最重要；对个人，不纠结过去得失，开拓新事业才是正道",
+   "quote": "创造力和执行力",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14537,
+    "end_line": 14537,
+    "fingerprint": [
+     "小公司",
+     "执行力"
+    ],
+    "sha1": "fc82f9f67fda272e49906227b19d6002b5f9d7c6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "小公司进攻个人开拓",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全信总结句；曼施坦因以少对多只能靠进攻快速出奇制胜的机理（14505）；中国企业家反例：认为靠专利核心技术能抢先进而两新领域不顺（14535）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0232-05",
+   "unit_id": "SG1-U0232"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "微软发展停滞期购买大量移动通信专利，靠打官司向安卓厂商每部收7-8美元，未带来科技进步反阻碍科技发展",
+   "quote": "阻扰其他公司的发展",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14527,
+    "end_line": 14529,
+    "fingerprint": [
+     "微软",
+     "专利"
+    ],
+    "sha1": "03dc5d4259232c6bc48f6eb547e069cf83de3fe7"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "微软专利官司反例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从北电网络购买专利（14527）；每年至少10亿美元专利费而手机部门一直赔钱（14529）；硅谷人视微软为专利流氓（14531）；印证专利是防守工具C-SG1-U0232-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0232-06",
+   "unit_id": "SG1-U0232"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0232",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "曼施坦因生平与战例：军事世家出身、曼施坦因计划、苏德战场哈尔科夫以7万歼苏军52个师、战后审判与北约顾问（14491-14505），纯军事人物传记；胜负取决于正义与经济实力之评述服务于史实叙述"
+  },
+  {
+   "unit_id": "SG1-U0232",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美国专利局2011-2015专利榜数据、IBM每年6000-8000项、特斯拉仅400项、中兴Facebook排名等数据细节（14507-14517、14525），统计材料无可迁移判断；其支撑的论点已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第222封信：进攻是最好的防守(E2)/专利是防守工具/创新期与停滞期策略/攻守择策/小公司进攻个人开拓/微软专利反例(E3)成卡；曼施坦因生平与专利数据归X4"
+}

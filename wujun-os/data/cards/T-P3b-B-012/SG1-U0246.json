@@ -1,0 +1,214 @@
+{
+ "unit_id": "SG1-U0246",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "郑和下西洋是亏本买卖而欧洲大航海是赚钱买卖：无人分享利润、为皇帝打工领俸禄，冒险便无原始动力",
+   "quote": "为皇帝打工",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15548,
+    "end_line": 15550,
+    "fingerprint": [
+     "利润",
+     "俸禄"
+    ],
+    "sha1": "8603d9082b893496396ec0217c5b48ec8fec3f18"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "利益共享驱动冒险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "欧洲惯例：航海家缴五分之一税收后收益全部分给船长船员随船商人水手人人有份（15548）；郑和士兵从卫所抽调、出海与土地耕作利益冲突（15550）；结论句\"从经济的角度讲郑和下西洋是亏本买卖，欧洲的大航海是赚钱买卖\"（15528）；官方垄断+摊派俸禄等亏本机制归X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-01",
+   "unit_id": "SG1-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何一个好生意最终都是要盈利的，投资和慈善严格分开：投资一定要有回报否则无以为继，不投不能盈利或长期不能盈利的企业",
+   "quote": "无以为继",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15560,
+    "end_line": 15560,
+    "fingerprint": [
+     "盈利",
+     "回报"
+    ],
+    "sha1": "edaeb1ab5c8e84b32fbe17c2b1ff955b05951458"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "好生意必须盈利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投资原则一的总纲；情怀有时也讲、拿钱做慈善满足情怀，但与投资严格分开（15560）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-02",
+   "unit_id": "SG1-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡是要靠政府补贴才能维持的行业不投资（如太阳能）：不让投资具有太高的政策风险，只挣该挣的、收益确定的钱",
+   "quote": "政策风险",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15562,
+    "end_line": 15564,
+    "fingerprint": [
+     "补贴",
+     "太阳能"
+    ],
+    "sha1": "7ca52c319aff5b7ca07934725106102d7d292900"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "不投靠补贴的行业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "光伏几十年过去无补贴仍亏损（15562，2017时点判断归X2）；别人拿补贴挣钱但那不是我的菜（15564）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-03",
+   "unit_id": "SG1-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "赢家通吃行业的投资逻辑：美国半导体第一名获利、第二名不赔不赚、其余全亏，除非有本事找出第一名否则投资必亏",
+   "quote": "投资一定亏损",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15566,
+    "end_line": 15566,
+    "fingerprint": [
+     "半导体",
+     "第一名"
+    ],
+    "sha1": "dcb5b0c3db4c1837a72f1a89432fecebc2f33001"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "赢家通吃行业慎投",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "如同70年代投资美国汽车业亏损、投资日本的挣大钱（15566，时点例）；2017年中国半导体有利可图属时点判断",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-04",
+   "unit_id": "SG1-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资原则二：挣钱效率低的不投资——郑和官方生意即便能挣钱，效率也远不如欧洲的航海甚至不如中国民间生意",
+   "quote": "效率也远不如",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15568,
+    "end_line": 15568,
+    "fingerprint": [
+     "效率",
+     "投资"
+    ],
+    "sha1": "f2573d8d651ec8817ac917b0a829c542a92f5aaa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "效率低不投",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "要做海上贸易钱该投给谁一清二楚（15568）；郑和官商垄断无效率无灵活性的细节归X4（15542-15546）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-05",
+   "unit_id": "SG1-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资原则三：参与者不能几方共赢的不投，这种事情不能持久——给一部分人好处却损害更多人利益的项目不能投",
+   "quote": "不能持久",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15570,
+    "end_line": 15570,
+    "fingerprint": [
+     "共赢",
+     "持久"
+    ],
+    "sha1": "8b771762bf70822c0f9b7ef7a6cad09d6f0d7d40"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D07-2"
+   ],
+   "concept_key": "非共赢不持久",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "郑和用强制方式让官员买单商品非共赢故无法持久（15570）；呼应只占便宜不持久的交易观C-SG1-U0241-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-06",
+   "unit_id": "SG1-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事是用生命在投资，投资三原则变通为做事三原则：没有好处的不做，效率不高的不做，损人利己的不做",
+   "quote": "没有好处的事情不做",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 15572,
+    "end_line": 15572,
+    "fingerprint": [
+     "生命",
+     "原则"
+    ],
+    "sha1": "778dbf2ec21a20ee691d5ee854084af9e2550ec3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "做事三原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "由投资三原则变通到做事（15572）；呼应投资原则C-SG1-U0246-02/05/06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0246-07",
+   "unit_id": "SG1-U0246"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0246",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "郑和下西洋与明代海禁史实：船队规模与哥伦布对比、锡兰俘虏国王立傀儡藩属、旧港宣慰司除陈祖义立施进卿、海禁造成官商垄断、胡椒苏木运回涨价20倍后市场饱和、货物摊派抵俸禄、永乐死后停止、走私兴起地方半公开抵制海禁（15520-15558），纯历史叙事；其承载的投资与利益机理已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0246",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "依附2017年时点的行情与行业论断：光伏无补贴依然亏损且今后较长时间无法盈利、2017年中国半导体投资有利可图（15562-15566），离开时点即失效"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第236封信投资原则：利益共享驱动冒险(E3郑和)/好生意必须盈利/不投靠补贴行业/赢家通吃慎投/效率低不投/非共赢不持久/做事三原则成卡；郑和史实归X4、时点行情归X2"
+}

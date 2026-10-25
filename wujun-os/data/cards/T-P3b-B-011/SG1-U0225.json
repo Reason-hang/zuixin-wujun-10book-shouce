@@ -1,0 +1,161 @@
+{
+ "unit_id": "SG1-U0225",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追求诉求全满足致什么都实现不了；先求比较好的解，比做不成强",
+   "quote": "最好是更好的敌人",
+   "anchor": {
+    "start_line": 14063,
+    "end_line": 14065,
+    "fingerprint": [
+     "折中的协议",
+     "一步到位"
+    ],
+    "book_code": "SG1",
+    "sha1": "ec793c8a32e09a2e80075dd6bc5ecfc309bb2528"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "先求更好勿求最好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两党方案不少相同处，共和党方案是民主党方案的子集，折中协议总比没有好（14063）；保守主义格言 The Best Is the Enemy of the Better（14055）；时事背景见X2",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0225-01",
+   "unit_id": "SG1-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无所作为常因一根筋追求最好；方法论上从顶层设计完美变为多次迭代完美",
+   "quote": "多次迭代实现完美",
+   "anchor": {
+    "start_line": 14067,
+    "end_line": 14067,
+    "fingerprint": [
+     "无所作为",
+     "部分的改进"
+    ],
+    "book_code": "SG1",
+    "sha1": "92997354ee99e7c87ad16f2d27a9cfbd7364283e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "迭代实现完美",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "追求卓越实现最后的10%，不意味着不可接受部分的改进（14067）；写书例：目标定零错别字则一本书也出不了，硬伤要完全杜绝、影响意思表达的错误尽量避免两个硬性原则，首印不多靠读者更正三印后无错（14091）；世界本身不完美，认识到这点就不会为最后一点点工作永远做不完（14093）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0225-02",
+   "unit_id": "SG1-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "搅局者勿求一步造完美：放弃最好代之以多个更好，方能立足并颠覆行业",
+   "quote": "外来的搅局者",
+   "anchor": {
+    "start_line": 14079,
+    "end_line": 14079,
+    "fingerprint": [
+     "十几年也造不出来",
+     "颠覆"
+    ],
+    "book_code": "SG1",
+    "sha1": "00e382a015663b56943cb9c636c0fd4ff391dc12"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "多个更好颠覆行业",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "保时捷911是工业时代一次做成完美的典范（14071-14073）；特斯拉做工粗糙小毛病不断，但5年对比改进明显、进步速度远超传统豪华车（14075-14077）；企业史背景见X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0225-03",
+   "unit_id": "SG1-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "永远没有完美的时候：按时交付更好版本，每次比先前更好且持续进步",
+   "quote": "永远没有完美的时候",
+   "anchor": {
+    "start_line": 14089,
+    "end_line": 14089,
+    "fingerprint": [
+     "不能等",
+     "无限拖长"
+    ],
+    "book_code": "SG1",
+    "sha1": "1c4e907f548ea811b85e0d9e01a349889f3e538c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "按时交付更好版",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "谷歌基础服务每周更新，个别项目未如期交付也不等（14089）；工业时代休斯IBM代码冻结求完美稳妥但效率堪忧（14083）；互联网时代产品召回成本不高（14085）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0225-04",
+   "unit_id": "SG1-U0225"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标是追求卓越，行动步骤是固定时间成本下尽可能做好；不怕慢就怕停",
+   "quote": "不怕慢，就怕停",
+   "anchor": {
+    "start_line": 14093,
+    "end_line": 14095,
+    "fingerprint": [
+     "固定时间，固定成本",
+     "不作为"
+    ],
+    "book_code": "SG1",
+    "sha1": "01a7a76dc45f1f7a26cb7b27a6fc1d2e0b2a8ab0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "更好迭代不怕慢",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "更好的改进获两成收益，两次改进获四成，而自认完美的最好改进不过三成，2+2>3，做事情不怕慢就怕停（14093）；总结：保证下一次比现在更好就能接近目标，看似追求完美时其实是在不作为（14095）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0225-05",
+   "unit_id": "SG1-U0225"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0225",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016-2017年美国禁枪时事背景：芝加哥3550起枪击案死762人、两党禁枪法案内容与表决皆未通过的经过（14059-14063），依附具体时点的政治时事，折中决策判断已抽入K卡"
+  },
+  {
+   "unit_id": "SG1-U0225",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "汽车工业史叙述：保时捷博士创办公司与小保时捷设计911的经过、郎咸平IT企业造不出汽车之论、特斯拉做工粗糙死机细节（14069-14077），企业史与产品史背景，迭代方法论判断已抽入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第215封信：最好是更好的敌人提炼5判断：先求更好勿求最好/迭代实现完美/多个更好颠覆行业/按时交付更好版/更好迭代不怕慢；禁枪时事归X2、汽车工业史归X4"
+}

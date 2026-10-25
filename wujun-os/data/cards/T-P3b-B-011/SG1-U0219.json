@@ -1,0 +1,260 @@
+{
+ "unit_id": "SG1-U0219",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职业员工只盯着自己手头的色块，要往后退两步看整个图画、从全局优化",
+   "quote": "往后退两步",
+   "anchor": {
+    "start_line": 13629,
+    "end_line": 13629,
+    "fingerprint": [
+     "色块",
+     "全局优化"
+    ],
+    "book_code": "SG1",
+    "sha1": "ba785cef4dbf83cff9a067cf159ec8101bec23e3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D06-2"
+   ],
+   "concept_key": "退后看全局",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "比喻源自达利《林肯》画：贴近看是色块，往后站才看清林肯侧影，贴太近只见色块（13571-13573）；自己觉得颜色涂得好，退后一步才知道未从全局优化考虑（13629）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-01",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从业者要懂产品变现等基本情况，连产品基本数字都不了解永无机会当老板",
+   "quote": "永远没有机会成为老板",
+   "anchor": {
+    "start_line": 13587,
+    "end_line": 13589,
+    "fingerprint": [
+     "销售上的知识",
+     "许良杰"
+    ],
+    "book_code": "SG1",
+    "sha1": "182ac63b4a7733f7dc3138d8c6e684e7f3c64b02"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D06-1"
+   ],
+   "concept_key": "懂产品全貌",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "工程师答不出视频观看一次挣多少钱；许良杰马上能回答（13587）；专利律师案例：不知批准周期、没统计过自己案子，对自己工作总体情况要有所了解（13603-13627）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-02",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不了解产品经营状况的从业者结局只有调岗、失业或公司死，迹象早有只是浑然不觉",
+   "quote": "浑然不觉",
+   "anchor": {
+    "start_line": 13591,
+    "end_line": 13593,
+    "fingerprint": [
+     "被砍掉",
+     "失业"
+    ],
+    "book_code": "SG1",
+    "sha1": "9708b33814762f603306d5b0fa1c05746ea05147"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-2"
+   ],
+   "concept_key": "经营迹象早有",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三种可能性：产品被砍被调岗、被砍失业、公司亏损大家失业（13591）；被调离或裁掉时哀叹者，实际迹象早就有了（13593）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-03",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最有效的沟通是第一时间直接给出答案再补充解释，勿给一堆复杂信息",
+   "quote": "在第一时间直接给出答案",
+   "anchor": {
+    "start_line": 13595,
+    "end_line": 13597,
+    "fingerprint": [
+     "浪费时间的",
+     "废话"
+    ],
+    "book_code": "SG1",
+    "sha1": "b44de18f30aa91764d7a46510955e3a87e33d5c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "先给答案再解释",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "对知道内情的提问者罗列影响因素是毫无意义浪费时间（13595）；给不出整体回答至少给每种具体情况下的答案，而非等追问才挤出答案（13597）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-04",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "善于沟通要理解对方提问的目的而非字面解释，答大致范围即可不必纠结细节",
+   "quote": "理解对方提问的目的",
+   "anchor": {
+    "start_line": 13599,
+    "end_line": 13601,
+    "fingerprint": [
+     "大致范围",
+     "字面"
+    ],
+    "book_code": "SG1",
+    "sha1": "a5f5b368dd1633933a297d6baa79ad913458475c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "答问先懂意图",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "最坏0.5%-1%最好不超2%，差距不大直接答0.5%-2%即可（13599）；龚宇给较准范围即可快速估算收入（13601）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-05",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "汇报忌先讲一大堆背景：开头直说要解决什么问题、怎么做，讲不清是脑子不清或怕说小",
+   "quote": "要解决什么问题",
+   "anchor": {
+    "start_line": 13633,
+    "end_line": 13637,
+    "fingerprint": [
+     "不清不楚",
+     "夸大其词"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9a2a467fc7cad8fdaac5762339f88fd23fd0304"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-3"
+   ],
+   "concept_key": "汇报直奔主题",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "12个项目路演前9个花5-6分钟讲背景，听者搞不清其要做的事情与优势（13633-13635）；为让对方重视而夸大其词会适得其反（13637）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-06",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "重要性被吹大会遭评价反噬：10吹成100被发现只剩1，大家自有判断",
+   "quote": "大家对它的评价可能只剩1",
+   "anchor": {
+    "start_line": 13637,
+    "end_line": 13639,
+    "fingerprint": [
+     "夸大其词",
+     "适得其反"
+    ],
+    "book_code": "SG1",
+    "sha1": "eef2f0a7d3266848712693ce853b87cefb2c1099"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D08-1"
+   ],
+   "concept_key": "吹大遭反噬",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "不少公司高层喜欢把1说成10、10说成100，听者不吱声不等于不清楚实际情况（13639）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-07",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理者不懂细节难辨汇报真假且效率上不去；做到第5级需了解第3级工作",
+   "quote": "不了解细节",
+   "anchor": {
+    "start_line": 13641,
+    "end_line": 13645,
+    "fingerprint": [
+     "扩张队伍",
+     "效率就上不去"
+    ],
+    "book_code": "SG1",
+    "sha1": "0393b0a5530b26c557c0e94115978e017d9ec981"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "管理者要懂细节",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "第一句能答第二句就要找手下，怎么知道手下人说的是真的（13641）；案例：总监为提升扩张队伍把小事往大做，其事95%有开源软件（13643）；有效管理者第5级了解第3级工作、第6级了解第4级（13645）；森林俯瞰比喻：只从飞机上看只有一片绿，走下来才发现细节（13651-13655）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-08",
+   "unit_id": "SG1-U0219"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基层员工要抬起头（看全局），管理者要弯下腰（懂细节）",
+   "quote": "基层的员工要抬起头",
+   "anchor": {
+    "start_line": 13657,
+    "end_line": 13657,
+    "fingerprint": [
+     "抬起头",
+     "弯下腰"
+    ],
+    "book_code": "SG1",
+    "sha1": "8617cce9749004795d6905ca39d3072fe121ebc1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D06-3"
+   ],
+   "concept_key": "员工抬头管理弯腰",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全信一句话总结（13657）；与C-SG1-U0219-01退后看全局、C-SG1-U0219-08管理者要懂细节互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0219-09",
+   "unit_id": "SG1-U0219"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第209封信：职业员工与管理者两件事提炼9判断：退后看全局/懂产品全貌/经营迹象早有/先给答案再解释/答问先懂意图/汇报直奔主题/吹大遭反噬/管理者要懂细节/员工抬头管理弯腰；达利画与路演个案作比喻入notes，无X处置"
+}

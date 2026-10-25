@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0237",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1L",
+ "batch_id": "T-P3b-B-012",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要理解英语的美妙就要读雪莱的诗，如同理解中文的美妙要读李白杜甫——一流诗歌是一国语言之美的代表",
+   "quote": "要理解英语的美妙",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14817,
+    "end_line": 14817,
+    "fingerprint": [
+     "雪莱",
+     "李白杜甫"
+    ],
+    "sha1": "7a26ef66a62be3d48fbb36a53998987193892b65"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读一流诗歌学语言之美",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "雪莱只活30岁却位列莎士比亚之后诗坛三杰（另两位拜伦济慈）（14817）；对语言学习的迁移：经典原文是语言之美的载体",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0237-01",
+   "unit_id": "SG1-U0237"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "静下心来读诗的英文原文才能体会其美感；读到原文时能感觉英语的文字其实也和中文一样美妙",
+   "quote": "英语的文字其实也和中文一样美妙",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 14839,
+    "end_line": 14839,
+    "fingerprint": [
+     "原文",
+     "美妙"
+    ],
+    "sha1": "7ab1500809db3c3e365be4b15d7a758400f94ef4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "读原文体会语言美感",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "《致——》查良铮译笔美妙但仍建议读英文原文（14821-14827）；译文之外原文附于信末（14841-14852）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0237-02",
+   "unit_id": "SG1-U0237"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0237",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "纯文学赏析：雪莱与叶芝生平地位、《西风颂》名句、《解放了的普罗米修斯》思想、小诗《致——》与《当你老了》的译文和英文原文、叶芝重读雪莱的评语（14817-14837、14841-14852），无结论句可归属支柱；语言学习类可迁移论点已入2张K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第227封信纯文学赏析信只抽2卡：读一流诗歌学语言之美/读原文体会语言美感（均D02-2学习方法）；诗文与诗人生平赏析归X8"
+}

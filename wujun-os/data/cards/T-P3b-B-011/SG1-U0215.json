@@ -1,0 +1,243 @@
+{
+ "unit_id": "SG1-U0215",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1K",
+ "batch_id": "T-P3b-B-011",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "香农第二定理：速率不超带宽总能无错传出，达到或超带宽错误率必为100%",
+   "quote": "错误率一定是100%",
+   "anchor": {
+    "start_line": 13331,
+    "end_line": 13331,
+    "fingerprint": [
+     "香农",
+     "带宽"
+    ],
+    "book_code": "SG1",
+    "sha1": "5048f772d1c324cd75cef31f70ff0d3746841ab4"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "香农第二定理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=香农；用熵量化信息并给出两频率间传输速率上限即带宽（13331）；亲历例证：拨号上网56K窄带宽陷入传输-出错-重传怪圈、DSL可浏览视频卡、光纤看高清，有多少带宽多快传数据（13333-13335）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-01",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有多少人脉做多大生意：人脉即带宽，同质量产品下人脉常决定生意成败",
+   "quote": "这个人脉其实就是带宽",
+   "anchor": {
+    "start_line": 13339,
+    "end_line": 13339,
+    "fingerprint": [
+     "人脉",
+     "带宽"
+    ],
+    "book_code": "SG1",
+    "sha1": "fea98c1b061f939e7ddaca84b596a3597e28b5b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "人脉即带宽",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "几个伙伴与几十个同水平伙伴的生意对比（13339）；本信核心类比：信息论带宽对应商业人脉；总结见C-SG1-U0215-08",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-02",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每一次工业革命都伴随通信革命，为商人拓宽做生意的带宽提供条件",
+   "quote": "伴随着通信的革命",
+   "anchor": {
+    "start_line": 13341,
+    "end_line": 13341,
+    "fingerprint": [
+     "工业革命",
+     "带宽"
+    ],
+    "book_code": "SG1",
+    "sha1": "e952e43743b300dde1d2ea380eacc98868609efb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "工业革命伴通信革命",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "农耕文明案例：湖州制笔工匠靠口口相传生意至多做到上海，中间商因带宽限制传播成本高而赚走大部分利润（13341）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-03",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "传播带宽大增加产品同质化，使品牌推广可能且必要，催生垄断与全球品牌",
+   "quote": "全球品牌的诞生",
+   "anchor": {
+    "start_line": 13343,
+    "end_line": 13343,
+    "fingerprint": [
+     "广告业",
+     "同质性"
+    ],
+    "book_code": "SG1",
+    "sha1": "a9748ff3933a06cb33e8e69090e213587b2c6997"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "带宽与全球品牌",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "工业时代商业媒体和广告业出现，产品信息低成本快速传播，产品推广速度大增（13343）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-04",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "带宽成本决定销售半径：电视带宽贵只容大公司卖全球，本地媒体养本地生意",
+   "quote": "卖到全世界",
+   "anchor": {
+    "start_line": 13345,
+    "end_line": 13345,
+    "fingerprint": [
+     "带宽成本",
+     "收音机"
+    ],
+    "book_code": "SG1",
+    "sha1": "c9ede20fad98c4690a02b8d740258d758605a01a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "带宽成本定半径",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "电话无线电电视后带宽进一步增加（13345）；电视时代上海广东产品可向湖州推广，小地方商品传播变大城市快得多但依然难做生意（13345）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-05",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "互联网提供廉价全球带宽，淘宝本质是拓宽商业带宽，掌握带宽故值钱",
+   "quote": "拓宽了商业的带宽",
+   "anchor": {
+    "start_line": 13347,
+    "end_line": 13347,
+    "fingerprint": [
+     "电子商务",
+     "淘宝"
+    ],
+    "book_code": "SG1",
+    "sha1": "0d85f0d2f8ffa94c1ef33867a6f4e27180f16075"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "淘宝即拓宽带宽",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "供给侧偏远小企业产品卖全国全球，需求侧小村人可挑全国商品（13347）；领域直连：电商案例",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-06",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "互联网思维本质是控制带宽和利用带宽；平台不拥有资产却因带宽而强大",
+   "quote": "控制带宽和利用带宽",
+   "anchor": {
+    "start_line": 13349,
+    "end_line": 13349,
+    "fingerprint": [
+     "滴滴打车",
+     "爱彼迎"
+    ],
+    "book_code": "SG1",
+    "sha1": "4db3a375f068fa911558148a985a2542cec0fe26"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "互联网思维即带宽",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "滴滴Uber不拥有一辆车生意超任何出租车公司，Airbnb不拥有酒店业务超最大酒店集团，原因即拥有商业带宽（13349）；有多大的人脉做多大的生意，商业上人脉和带宽划等号（13349）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-07",
+   "unit_id": "SG1-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做任何事都要努力拓展带宽，因为带宽永远是通信量的瓶颈",
+   "quote": "带宽永远是通信量的瓶颈",
+   "anchor": {
+    "start_line": 13351,
+    "end_line": 13351,
+    "fingerprint": [
+     "拓展带宽",
+     "瓶颈"
+    ],
+    "book_code": "SG1",
+    "sha1": "a799cd9022a7521685acdc45690cbaed625d54c0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "带宽是瓶颈",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "全信总结句，由香农理论推出（13351）；与C-SG1-U0215-02人脉即带宽互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0215-08",
+   "unit_id": "SG1-U0215"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0215",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "早期通信史叙述：20世纪40年代前收音机频道增多互相干扰、无线电专家调频失败无人知其原因（13327-13329），通信史背景故事，引出香农第二定理已抽K卡"
+  },
+  {
+   "unit_id": "SG1-U0215",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "无线通信趋势论断：无线电波频率范围决定总带宽、无线上网速度不能无限增长、以为3G4G5G6G能像光纤一样快不切实际（13337），通讯技术趋势预测本体，物理极限原理已并入香农第二定理卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第205封信：香农第二定理商业应用提炼8判断：香农第二定理E2/人脉即带宽/工业革命伴通信革命/带宽与全球品牌/带宽成本定半径/淘宝即拓宽带宽/互联网思维即带宽/带宽是瓶颈；通信史归X4、无线趋势归X6"
+}
