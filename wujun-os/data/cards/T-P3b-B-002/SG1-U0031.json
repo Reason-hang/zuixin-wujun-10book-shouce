@@ -1,0 +1,139 @@
+{
+ "unit_id": "SG1-U0031",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝对自由很快导致社会分层不平等，强调绝对平等人就没有了自由",
+   "quote": "它们是矛盾的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1719,
+    "end_line": 1719,
+    "fingerprint": [
+     "自由和平等",
+     "社会分层"
+    ],
+    "sha1": "f69248011bc18c1606b58f861777971355d3ce09"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "自由平等相矛盾",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国一直在自由和平等之间徘徊（1719）；犹太民族二战吃不平等的亏故宁可要平等、传统白人阶层更看重自由（1719）；特朗普主打传统价值观与此理念截然不同（1721）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0031-01",
+   "unit_id": "SG1-U0031"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大多数专业人士挣一份糊口钱，不能指望他们是完全中立的",
+   "quote": "不能指望他们是完全中立的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1723,
+    "end_line": 1723,
+    "fingerprint": [
+     "糊口钱",
+     "大空头"
+    ],
+    "sha1": "48142525ddb71af0c399aa4f1b071d4cbdf8d43d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信息源非中立",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "教授记者经济学家皆然（1723）；《大空头》财经作者拒绝揭露华尔街不当行为因要保饭碗（1723）；信息甄别应用见C-SG1-U0031-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0031-02",
+   "unit_id": "SG1-U0031"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对媒体历来接受其信息但保留观点；写《浪潮之巅》只用证监会财报数据",
+   "quote": "保留我的观点",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1727,
+    "end_line": 1727,
+    "fingerprint": [
+     "浪潮之巅",
+     "证监会"
+    ],
+    "sha1": "51ad64f605b93fcf105b295e825d6d7bf861be3d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "接受信息保留判断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不用被媒体解读过一遍的数据、怕被媒体误导（1727）；互联网兴起将缓解大媒体控制舆论（1727）；莎士比亚忠告原话见C-SG1-U0031-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0031-03",
+   "unit_id": "SG1-U0031"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莎士比亚《哈姆雷特》忠告：倾听别人的意见，但是保留你的判断",
+   "quote": "倾听别人的意见",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1729,
+    "end_line": 1729,
+    "fingerprint": [
+     "哈姆雷特",
+     "保留你的判断"
+    ],
+    "sha1": "a1ecd99758272605dd03006d4136f0382b2bc896"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "倾听保留判断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=莎士比亚（《哈姆雷特》）；吴军建议大家采用、与本人概括互引见C-SG1-U0031-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0031-04",
+   "unit_id": "SG1-U0031"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0031",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016大选时事评论：媒体倾向民主党是不争事实、报纸站队概率小于一万亿分之一、媒体人左派与犹太人控制大媒体、希拉里特朗普各代表其利益集团与克林顿以来企业税负变化（1711-1725），依附当届时点"
+  },
+  {
+   "unit_id": "SG1-U0031",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "万维钢提问原文：媒体偏向民主党之问与个人如何对待媒体信息（1705-1707），第三方提问原文不入主干，吴军回应已单独成卡"
+  },
+  {
+   "unit_id": "SG1-U0031",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "专栏运营与互推：向万维钢王烁转问题、邀请去《精英日课》《王烁大学问》专栏（1731-1737），推广载体"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "周末加议二：自由平等相矛盾/信息源非中立/接受信息保留判断/莎士比亚忠告；大选媒体时评归X2、万维钢提问归X7、专栏互推归X1"
+}

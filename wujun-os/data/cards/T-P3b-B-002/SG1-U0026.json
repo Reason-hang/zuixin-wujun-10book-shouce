@@ -1,0 +1,157 @@
+{
+ "unit_id": "SG1-U0026",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两百年美股年均回报约8%且按十年段看风险低于国债；中国资金却集中国债不动产",
+   "quote": "年均回报高达8%",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1507,
+    "end_line": 1507,
+    "fingerprint": [
+     "股市",
+     "国债"
+    ],
+    "sha1": "e7d90ba6f35de791e57536e955e67ec4a494968d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "股市长期回报最佳",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "华盛顿就职时投一美元今日回3000多万（1507）；国债回报约2%、不动产年均不超5%、未上市公司风险过大不宜投主资金（1507）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0026-01",
+   "unit_id": "SG1-U0026"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技术进步下固定资产与资金在创富中的作用不断下降，人和技术的因素越来越重要",
+   "quote": "越来越重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1509,
+    "end_line": 1509,
+    "fingerprint": [
+     "固定资产",
+     "人和技术"
+    ],
+    "sha1": "b96fe4789417f3246102b05d450dad08d9b537c0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-2"
+   ],
+   "concept_key": "创富要素变迁",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由此在公平投资环境中股市回报一定最好、美国市场相对公平（1509）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0026-02",
+   "unit_id": "SG1-U0026"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对失败零容忍的体制让国资避开股市、只投账面看不出亏损的次优资产，损失巨大",
+   "quote": "对失败几乎是零容忍",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1511,
+    "end_line": 1513,
+    "fingerprint": [
+     "国有资产流失",
+     "零容忍"
+    ],
+    "sha1": "5deb7f866dae66db11c241232f128430d77b7937"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "零容忍错配资产",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投资亏损者名誉扫地、背国有资产流失嫌疑（1511）；债券不动产未上市公司共同点：账面看不出亏损、审计过关，但三十年回报差距巨大（1513）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0026-03",
+   "unit_id": "SG1-U0026"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大到国家中到企业小到个人，不能宽容失败就必然失去好机会，因努力必伴失败",
+   "quote": "没有一种努力是不伴随失败的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1525,
+    "end_line": 1525,
+    "fingerprint": [
+     "宽容失败",
+     "发展机会"
+    ],
+    "sha1": "76f21a67fdb55e5325fe1015b82c76ef2a66d90d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D02-4"
+   ],
+   "concept_key": "宽容失败才有机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美私营资本自担风险敢投中国实业回报更高、飞机租赁8%对国债2%利差为例（1523）；本卡为全信结论句",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0026-04",
+   "unit_id": "SG1-U0026"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "双创时代企业需宽容员工失败、个人需承受更大失败，才能真正得到发展",
+   "quote": "宽容员工的失败",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1527,
+    "end_line": 1527,
+    "fingerprint": [
+     "双创",
+     "承受更大的失败"
+    ],
+    "sha1": "b909d5c887ff5153b532d98b1f14175e19e3ac4f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D08-1"
+   ],
+   "concept_key": "企业与个人宽容失败",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "愿我们都不畏惧失败（1529）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0026-05",
+   "unit_id": "SG1-U0026"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0026",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "中美相互负债与投资数据史实叙述：23万亿国债构成、中持1.2万亿占5%、麦肯锡2012年双边投资对比1.7万亿对3.9万亿、合资品牌与飞机租赁数据（1515-1523），纯数据科普无可独立迁移判断，机理已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第022封信：股市长期回报最佳/创富要素变迁/零容忍错配资产/宽容失败才有机会/企业个人宽容失败；中美负债数据叙述归X4"
+}

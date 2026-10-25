@@ -1,0 +1,51 @@
+{
+ "unit_id": "SG1-U0028",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "即便一票决定不了结果也要投票发声，让外界知道族裔存在，否则政策制定时被牺牲",
+   "quote": "表达自己的声音",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1601,
+    "end_line": 1601,
+    "fingerprint": [
+     "表达自己的声音",
+     "牺牲掉"
+    ],
+    "sha1": "eea378541457b47908ab1c56822dff04848de9e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "投票发声免被牺牲",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "弱势方投票两原因：还要选议员州长与公投（1599）；亚裔因关起门过日子不投票吃了很多亏、近十年投票率上升（1601）；我一直主张海外中国人至少要投票（1543）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0028-01",
+   "unit_id": "SG1-U0028"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0028",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "两党史与选举制度科普：联邦党与共和民主党起源、民主党更名与辉格党共和党沿革、票仓州与摇摆州机制、红蓝州（1583-1597）；党争实质是利益集团划分利益边界的分析（1603）并入本处置，主题在第025封信展开"
+  },
+  {
+   "unit_id": "SG1-U0028",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016大选时事：特朗普与希拉里电视辩论开打（1579），依附当届时点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第024封信：投票发声免被牺牲成卡；两党史与摇摆州制度归X4、电视辩论时事归X2"
+}

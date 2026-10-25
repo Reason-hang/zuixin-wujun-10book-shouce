@@ -1,0 +1,269 @@
+{
+ "unit_id": "SG1-U0025",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现实世界大部分问题没有彻底解决的答案；复杂问题要一步步解决，进步总比没有好",
+   "quote": "渐进的方法论",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1429,
+    "end_line": 1429,
+    "fingerprint": [
+     "彻底解决",
+     "一步步慢慢解决"
+    ],
+    "sha1": "7cba59677f7739ccc179ba14deb8e0cc63c48052"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "渐进方法论",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "回应读者『技术离彻底解决问题还有距离』（1423）；从简单问题入手快速验证、走不通迅速转型、走通迅速扩展到疑难病（1437）；奥巴马医改一次性解决问题遭全社会反对为例（1437）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-01",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AT&T客服Bot初版只解决10%问题仍先用；今机器完成约半数客服、成本降半",
+   "quote": "总比没有强",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1431,
+    "end_line": 1433,
+    "fingerprint": [
+     "AT&T",
+     "10%的问题"
+    ],
+    "sha1": "79a2fd59f7796959450e8360751db93593507d96"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "AT&T渐进客服",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：人工客服每次成本5美元以上、年累计超10亿美元（1431）；等20年技术成熟一次性解决不如先解决一部分（1431）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-02",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学习方式是学『道』再从实践中自悟『术』；看书重在理解作者想传达的意思",
+   "quote": "从实践中去领悟",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1445,
+    "end_line": 1445,
+    "fingerprint": [
+     "看书",
+     "反思"
+    ],
+    "sha1": "0d1b2dfdccf66cef2a3c35f6143c18a1ad913746"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学道悟术",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "书中细节未必都对、可自己研究补上；看智者学大智慧而非具体做法；常思考反思找适合自己的方法，术层面别人替代不了你（1445）；MIT选课看老师教得好、跟教授学思考问题的方法、写黑板跟思路所得是解题方法（1455）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-03",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "媒体或因顾忌不说实话或流于肤浅；三观非他人能树立毁掉，吃惊只因真相力量",
+   "quote": "真相的力量",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1463,
+    "end_line": 1467,
+    "fingerprint": [
+     "三观",
+     "大实话"
+    ],
+    "sha1": "f3301a7f9abe72ec01fcc27b27ec82987c8cd967"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "三观由真相校准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "媒体因顾忌不说实话、文章肤浅无独特见解（1463）；例：《硅谷之谜》称公司创新力与专利数量无关、微软以专利妨碍创新，与主流媒体不同但给出数据（1463）；拿生僻概念配熟悉例子如黄赌毒比喻（1465）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-04",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大公司要在长时间保持猎豹狮子的体格而非长成大象；大象能跳舞只是特例",
+   "quote": "保持猎豹哪怕是狮子的体格",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1475,
+    "end_line": 1475,
+    "fingerprint": [
+     "大象",
+     "特例"
+    ],
+    "sha1": "1ee87bf1e1f4a14ee796164bc374308b5d7f0045"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "公司体格猎豹论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "蚂蚁战胜大象后长成猎豹狮子而无人想成大象（1475）；五大公司体格点评：谷歌亚马逊Facebook近猎豹、苹果似狮子、微软有大象味（1475）；亚马逊利润超预期股价反跌、投资人最怕公司长成大象（1477）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-05",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "企业有生有死是规律也是宿命；基业长青百年老店在当今罕见，不必刻意追求",
+   "quote": "有生就有死",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1479,
+    "end_line": 1479,
+    "fingerprint": [
+     "基业长青",
+     "宿命"
+    ],
+    "sha1": "f570d5ae0a3a26603d2c29e1253d506ae05b6021"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "企业有死是规律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "正因有死大家才有动力拼命做事（1479）；财富500强平均年龄仅38岁、寿命比人短（1479）；蚂蚁长成大象的回答：让它慢慢死掉（1479）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-06",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "信息时代是流水的营盘铁打的兵；不必追求基业长青，要不断站在浪潮之巅",
+   "quote": "流水的营盘铁打的兵",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1481,
+    "end_line": 1481,
+    "fingerprint": [
+     "浪潮之巅",
+     "基业长青"
+    ],
+    "sha1": "7dc951f19daa726c6a960152822cc89de3859fd4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-1"
+   ],
+   "concept_key": "流水营盘铁打兵",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "公司死了人还在，回应蚂蚁大象归宿问题（1481）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-07",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "贝托谢姆从太阳公司转投Google又创Arista，三十多年始终站在浪潮之巅",
+   "quote": "始终站在浪潮之巅",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1483,
+    "end_line": 1487,
+    "fingerprint": [
+     "贝托谢姆",
+     "太阳公司"
+    ],
+    "sha1": "28b635651526cbf14eb98c67a0f337a703dce5e8"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "贝托谢姆案例",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：1998年首投Google十万美元获超十亿美元回报（1483）；花岗岩被思科收购、鼓动思科员工创Arista市值60亿（1485）；若死守太阳公司，坚守同事皆被淘汰（1487）；马斯克经历类似（1489）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-08",
+   "unit_id": "SG1-U0025"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聪明人不等大象死掉就寻找下一个浪潮；大公司死亡是对社会最后一次贡献",
+   "quote": "最后一次贡献",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1491,
+    "end_line": 1491,
+    "fingerprint": [
+     "下一个浪潮",
+     "癌细胞"
+    ],
+    "sha1": "be078ee2942f8c36fd339833bab03424ec5f16bf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "寻浪与最后贡献",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "过气大公司不死掉社会就会死掉，如体内癌细胞不死身体死（1491）；威廉姆斯当博客如日中天时离开Google创办Twitter为例（1489）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0025-09",
+   "unit_id": "SG1-U0025"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0025",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：问题一至问题四提问（1423、1437末、1447末、1457末）与山水提问（1467），无评述的读者原文不入主干，吴军回应已单独成卡"
+  },
+  {
+   "unit_id": "SG1-U0025",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "专栏载体与运营叙述：上线20天征集与问题合并说明（1421）、专栏以生活经验为基础与论道定位、众口难调（1453）、给山水送礼物的运营互动与罗辑思维发布安排（1471-1473）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "周末加议一：渐进方法论/AT&T案例/学道悟术/三观由真相校准/公司体格与企业生死/浪潮之巅与贝托谢姆案例；读者问题归X7、专栏运营归X1"
+}

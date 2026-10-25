@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG1-U0042",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "靠热情与志愿者无偿服务的活动难持续；免费的事情搞不长，长久高质量要花钱",
+   "quote": "免费的事情常常搞不长",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2231,
+    "end_line": 2231,
+    "fingerprint": [
+     "志愿者",
+     "花钱"
+    ],
+    "sha1": "b3b45f285deae752df712d07c5103a5eeb96c8cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "免费搞不长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "高创会从一开始本着盈利目的、雇专职人员全职故能持久，同类活动多死掉（2229-2231）；想得到长久的、高质量的服务就需要花钱（2231）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0042-01",
+   "unit_id": "SG1-U0042"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一流的人进入另一领域常仍是一流；差距不在智力努力而在做事思想方法",
+   "quote": "学到什么方法论最重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2233,
+    "end_line": 2233,
+    "fingerprint": [
+     "二流的人",
+     "思想方法"
+    ],
+    "sha1": "f729a259f8f0991a44f13cc09b66305e9c3a9fb9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "一流靠思想方法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "张首晟物理学家兼投资人例（2233）；按毕业专业强行划分领域的做法过时（2233）；学什么课不重要与MIT观点呼应（1939）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0042-02",
+   "unit_id": "SG1-U0042"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李开复：沿旧方向十几年进步缓慢多半是走错了路；走老路是惯性思维误区",
+   "quote": "惯性思维的误区",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2239,
+    "end_line": 2239,
+    "fingerprint": [
+     "李开复",
+     "走错了路"
+    ],
+    "sha1": "a7fdde5c65f4b185b84ee1f76dc33d36ab8e739b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "惯性思维误区",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李开复；教授们在老方向发表很多文章被引很多次、走老路最安全最能出论文（2239）；其博士工作或为一生科研顶点、此后不再叛逆（2239）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0042-03",
+   "unit_id": "SG1-U0042"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "贾里尼克把人工智能当通信问题解决：数学模型+计算能力+数据即可",
+   "quote": "当作通信问题来解决",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2241,
+    "end_line": 2241,
+    "fingerprint": [
+     "贾里尼克",
+     "通信专家"
+    ],
+    "sha1": "7abe1fcbada9b5e5a00a6587dc68be4e5846756c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-2"
+   ],
+   "concept_key": "跨域重构问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=贾里尼克（吴军导师）；他不是计算机科学家而是通信专家，故把AI当通信问题（2241）；大数据解决智能问题成共识（2243）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0042-04",
+   "unit_id": "SG1-U0042"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不是能力强方法对付出努力就一定能成功，前进路上最后需要运气眷顾",
+   "quote": "需要运气的眷顾",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2245,
+    "end_line": 2245,
+    "fingerprint": [
+     "幸运",
+     "努力"
+    ],
+    "sha1": "14b06ea6f01b2f8e1171785f4d74ef0408fb4c7b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "成功需运气眷顾",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "贾里尼克李开复当年标新立异失败可能性比成功大（2245）；贝克尔夫妇试错走通、发明权之争如抽签全凭运气（2247）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0042-05",
+   "unit_id": "SG1-U0042"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "默默无闻时试错：出错损失小、成功则一举成名，这笔账聪明人算得清",
+   "quote": "这个账聪明人总是能算清楚的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2249,
+    "end_line": 2249,
+    "fingerprint": [
+     "博士生",
+     "一举成名"
+    ],
+    "sha1": "ab4b54806c4486a0caa9b04939acd691038f74fc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "低名望试错账",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "李开复已知师兄师姐在IBM的方法、沿导师老路十有八九不成功（2249）；站着巨人肩上前进一步（2249）；与C-SG1-U0042-05运气论互补",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0042-06",
+   "unit_id": "SG1-U0042"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0042",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "活动记述与运营：万物联网大会与硅谷高创会规模、注册人数、媒体采访、同声翻译（2227-2229）；AI负面影响台上不讲、召集喝咖啡当面聊且不录音不许传播（2253），活动载体与私域运营内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第035封信：免费搞不长/一流靠思想方法/惯性思维误区（转述）/跨域重构问题（转述）/成功需运气眷顾/低名望试错账成卡；活动记述与闭门内容归X1"
+}

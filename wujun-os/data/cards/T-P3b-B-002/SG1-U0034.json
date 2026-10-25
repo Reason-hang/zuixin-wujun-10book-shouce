@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG1-U0034",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "不能因喜欢白天就厌恶黑夜；不因自己对一事的喜爱就不宽容别人做相反的事",
+   "quote": "就不宽容别人做相反的事情",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1851,
+    "end_line": 1851,
+    "fingerprint": [
+     "白天就有黑夜",
+     "厌恶黑夜"
+    ],
+    "sha1": "50be224aa6a05ddec016f56a4ed8618f2ada759a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "不因己好不宽容",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军大女儿（高中毕业致家长信）；吴军自陈读后真的感觉受教育（1851）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0034-01",
+   "unit_id": "SG1-U0034"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聪明人做任何事情都要留三分余地，不能自己把自己逼到死角",
+   "quote": "留三分余地",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1853,
+    "end_line": 1853,
+    "fingerprint": [
+     "聪明人",
+     "逼到死角"
+    ],
+    "sha1": "8f4d7785ad2320567a3066c00568ff49e45b252c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "做事留三分余地",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由张靓颖母亲把该关起门讨论的事放到公众平台、让谁都下不了台引出（1853）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0034-02",
+   "unit_id": "SG1-U0034"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0034",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育与家庭关系论述：父母托关系聊孩子发展、过度关心坑孩子、老人见识未必比年轻人多、用上一辈思想教育当下人迎接20年后未来最可怕、跌跟头早比晚好、儿孙自有儿孙福、不限制女儿选课交友、母亲岳母是客人无发言权、子女主动向父母传递新理念（1841-1849），亲子与家庭议题排除"
+  },
+  {
+   "unit_id": "SG1-U0034",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事人物评论：张靓颖母亲公开反对女儿婚姻事件评述（1837-1841），依附当届娱乐新闻"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第029封信：女儿不宽容之辨（转述）与做事留三分余地成卡；亲子教育论述归X5、张靓颖事件时评归X2"
+}

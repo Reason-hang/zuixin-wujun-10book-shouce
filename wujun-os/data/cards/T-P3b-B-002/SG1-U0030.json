@@ -1,0 +1,162 @@
+{
+ "unit_id": "SG1-U0030",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "王道士卖壁画筹钱修庙宇毁掉莫高窟大半；好心办坏事者披道德外衣难被追责",
+   "quote": "披着道德的外衣",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1657,
+    "end_line": 1657,
+    "fingerprint": [
+     "王道士",
+     "莫高窟"
+    ],
+    "sha1": "bc07b0af6de449f5e439939beb4306c534c457dc"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "王道士好心办坏事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：千百万王道士站起来且以『我也是好心』开脱（1657）；动机与结果之辨的机理见C-SG1-U0030-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0030-01",
+   "unit_id": "SG1-U0030"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "松下幸之助：任何好的商业都必须能挣钱，否则就是对人类的犯罪",
+   "quote": "否则就是对人类的犯罪",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1659,
+    "end_line": 1659,
+    "fingerprint": [
+     "松下幸之助",
+     "有限的资源"
+    ],
+    "sha1": "9b1b867ca8d9e7fbdb3304e7a23f25611480e099"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "好商业必须挣钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=松下幸之助（日本经营之神）；理由是有限的资源可以用于其它地方（1659）；吴军取用概括见C-SG1-U0030-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0030-02",
+   "unit_id": "SG1-U0030"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做任何事都要产出（物质与精神）大于投入，否则贡献为负；好动机不能开脱负作用",
+   "quote": "否则我们对世界的贡献是负的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1659,
+    "end_line": 1659,
+    "fingerprint": [
+     "投入",
+     "动机"
+    ],
+    "sha1": "9b1b867ca8d9e7fbdb3304e7a23f25611480e099"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "产出须大于投入",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "概括见本卡，松下原话见C-SG1-U0030-02；动机的好坏是很难判定的（1659）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0030-03",
+   "unit_id": "SG1-U0030"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自种西红柿每斤成本约3美元并不合算；文明始于分工交换，各按特长做事",
+   "quote": "有了社会分工和交换",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1675,
+    "end_line": 1675,
+    "fingerprint": [
+     "三美元",
+     "社会分工"
+    ],
+    "sha1": "ba0da688638fc3d5b66a9041a005e76661105d98"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "分工交换优于自给",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "种菜账按小时工工资计且不含土地成本（1675）；后院种菜偶尔玩玩千万当真不得（1675）；美国投大学科研经费产出投入比8-10、斯坦福夫人节衣缩食办学例（1683）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0030-04",
+   "unit_id": "SG1-U0030"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对漂亮言语崇高理想的忽悠要有防范；收益小于投入的事不做，忽悠者要远离",
+   "quote": "得不偿失",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1691,
+    "end_line": 1691,
+    "fingerprint": [
+     "收益小于它的投入",
+     "大道至简"
+    ],
+    "sha1": "32671853d7a5f7f088679b862a2baaf041ae3c2e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "以收益投入标准防忽悠",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "松下标准的生活应用（1691）；拥有大道至简的智慧就不至于离真理太远（1691）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0030-05",
+   "unit_id": "SG1-U0030"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0030",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事评论：米歇尔白宫菜园250万美元捐赠新闻及种菜表演、博便宜眼泪、公款度假评论（1663-1681）、底层民众无判断力看表演（1655）、政客作秀骗廉价眼泪与伪君子替代真小人时评（1687-1689），依附2016时点与具体人物"
+  },
+  {
+   "unit_id": "SG1-U0030",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实叙述：建国国父限制底层投票权、汉密尔顿麦迪逊杰弗逊立场、19世纪30年代白人男性普选权（1685）、《What Washington Gets Wrong》引述背景（1687）、斯坦福夫人办学史（1683），纯史实背景，机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第026封信：王道士案例/松下好商业必须挣钱/产出大于投入/分工交换/防忽悠标准；菜园与时政评论归X2、国父史归X4"
+}

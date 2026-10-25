@@ -1,0 +1,130 @@
+{
+ "unit_id": "SG1-U0022",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "利用程序抢月饼是欺骗，以技术手段占有他人机会与克扣军饷无异；阿里处置恰当",
+   "quote": "和克扣军饷无异",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1305,
+    "end_line": 1307,
+    "fingerprint": [
+     "克扣军饷",
+     "约定俗成"
+    ],
+    "sha1": "2a6fb3f47bd6237618a380ebb875fb35a4bfb8cb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "占机会如克扣军饷",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "变相福利被特权独占即克扣军饷（1305）；公司对外抽奖不许员工参加、对内不许运营者参加，约定俗成内部人不能占便宜（1307）；腾讯对以权谋私发现一个处理一个、HR把关（1311）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0022-01",
+   "unit_id": "SG1-U0022"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "辩称『事先没说清楚』只是职业素养欠缺；基本素养如冲水洗手不需天天讲",
+   "quote": "职业素养有待提高",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1309,
+    "end_line": 1309,
+    "fingerprint": [
+     "职业素养",
+     "上厕所要冲水"
+    ],
+    "sha1": "fa65bcbeb5c54738c2149b8cd12cb82d1ac6bd54"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "基本素养无需明说",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "大公司入职培训教基本职业素养（1309）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0022-02",
+   "unit_id": "SG1-U0022"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勿以恶小而为之，不论大小恶就是恶；贪小钱者皆丢饭碗得不偿失",
+   "quote": "不论大小，恶就是恶",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1313,
+    "end_line": 1313,
+    "fingerprint": [
+     "勿以恶小而为之",
+     "可怜之人必有可恨之处"
+    ],
+    "sha1": "c40d5de9fe77d7e6b5f261e634f39e00b83afdcd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-2"
+   ],
+   "concept_key": "恶不论大小",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "刘备诫刘禅语为引；Google员工倒卖Gmail账号被开除、损失股票今日值百万美元，Facebook华裔员工带人吃免费午餐被开除（1313）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0022-03",
+   "unit_id": "SG1-U0022"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不损公司的耍小聪明也不要做：让人胸无大志鼠目寸光，占便宜者结局都差不多",
+   "quote": "胸无大志，鼠目寸光",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1315,
+    "end_line": 1315,
+    "fingerprint": [
+     "小便宜",
+     "结局都差不多"
+    ],
+    "sha1": "5eaf7810d159da9735aac75291e3e946d482723a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-3"
+   ],
+   "concept_key": "小聪明毁格局",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google产品总监奥运刷票倒票误工作被赶走（1315）；工作做不完还写程序抢月饼说明缺乏智慧（1315，呼应伪工作者）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0022-04",
+   "unit_id": "SG1-U0022"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0022",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "机器智能趋势论断：未来制造智能机器者借机器控制他人、善用机器智能的公司必胜出而拒绝者必被淘汰系大势所趋（1303），依附智能时代趋势预测；可迁移逻辑留P4终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第019封信：占机会如克扣军饷/基本素养无需明说/恶不论大小/小聪明毁格局；机器智能趋势论断归X6"
+}

@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG1-U0040",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中学六年奠定了我此后为社会做有益事情的基础；学校是生活的大家庭",
+   "quote": "打下的基础",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2129,
+    "end_line": 2129,
+    "fingerprint": [
+     "刘姥姥",
+     "大家庭"
+    ],
+    "sha1": "aacabcdea2f23ae16bf022a67cd6c16c8e478fa8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "中学六年奠基",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "1978年从四川山沟进清华附中如刘姥姥进大观园（2129）；老师更像朋友而非严厉家长（2129）；从身体到心智成熟并在社会立足（2129）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0040-01",
+   "unit_id": "SG1-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "校友家长老师构成紧密社区；办好学校也是校友和家长的责任，贡献不止物质",
+   "quote": "也是校友和家长的责任",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2131,
+    "end_line": 2133,
+    "fingerprint": [
+     "一代藤校",
+     "归属感"
+    ],
+    "sha1": "2b8af35f63917245e3985217f3f5997b01f4c499"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "校友共建母校",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "一代藤校代代藤校：校友后代同属学校大家庭（2131）；车牌贴校友家长牌少见贴公司牌，归属感之证（2131）；贡献包括用特长影响力花时间为母校做事（2133）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0040-02",
+   "unit_id": "SG1-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好的教育是离开学校后无需把校名挂嘴边；毕业瞬间即人生顶点则是失败",
+   "quote": "学校名字挂在嘴边",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2141,
+    "end_line": 2141,
+    "fingerprint": [
+     "美德和能力",
+     "人生顶点"
+    ],
+    "sha1": "d419796e50f97c95edb826fd129fc0858fbdaba2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "不靠校名靠能力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《大学之路》一再强调的观点（2141）；我从不以所毕业学校衡量人（2141）；精英阶层靠共同认同的团体一起把学校建设好（2141）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0040-03",
+   "unit_id": "SG1-U0040"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好社区好社会需要每个人参与建设而非只靠政府；自己周围搞好了社会才有希望",
+   "quote": "自己把自己周围搞好了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2141,
+    "end_line": 2141,
+    "fingerprint": [
+     "地方自治",
+     "参与建设"
+    ],
+    "sha1": "d419796e50f97c95edb826fd129fc0858fbdaba2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "人人参与建设",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "英美地方自治的核心价值（2141）；校友共建是更大范围的同构（2133-2141）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0040-04",
+   "unit_id": "SG1-U0040"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0040",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "基金倡议与活动载体：海外交流基金发起缘起省略、抛砖引玉与平台设想、再次感谢（2135-2139），面向校友家长的动员与运营性内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第034封信：中学六年奠基/校友共建母校/不靠校名靠能力/人人参与建设成卡；基金倡议缘起归X1"
+}

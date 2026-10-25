@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG1-U0036",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国历史课练四技能：问题研究、资料理解分析、论文写作、台上表述",
+   "quote": "资料的理解和分析",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1925,
+    "end_line": 1925,
+    "fingerprint": [
+     "死记硬背",
+     "四个技能"
+    ],
+    "sha1": "0037c5a7357c74806e52ef0f38a6c35702d85715"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "历史课四技能",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "中国历史课老师照书讲、学生死记硬背记知识点背结论（1925）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0036-01",
+   "unit_id": "SG1-U0036"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好答案是从事实出发符合逻辑的结论，未必同书上主流；坏答案抄来无证据",
+   "quote": "从事实出发、符合逻辑的结论",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1927,
+    "end_line": 1927,
+    "fingerprint": [
+     "标准答案",
+     "证据"
+    ],
+    "sha1": "dd2cf9554019495f4cad663090a9b00468529a2f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "好答案无标准答案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "历史题常没有标准答案、只有好与不好、符合与不符合逻辑（1927）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0036-02",
+   "unit_id": "SG1-U0036"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国好学生非常能写能说，因各科都要求研究与写作；历史教学似自然科学",
+   "quote": "非常能写，非常能说",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1929,
+    "end_line": 1929,
+    "fingerprint": [
+     "古罗马衰亡",
+     "自然科学"
+    ],
+    "sha1": "878547b175e733fe93a7893a45859afedd4c02b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "各科都练写作",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "女儿自选课题查资料、从税收入手写十几页论文分析古罗马衰亡并讲述一刻钟（1929）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0036-03",
+   "unit_id": "SG1-U0036"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "吴建民：软比硬难，打人三岁小孩也会；讲道理谈判软实力难，先要人喜欢你",
+   "quote": "首先别人要喜欢你",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1935,
+    "end_line": 1935,
+    "fingerprint": [
+     "吴建民",
+     "软实力"
+    ],
+    "sha1": "a4fa2ded0d840a091f9b2febc4b6df74a5d27dcb"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "软实力以理服人",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=吴建民（外交家，生前谈话）；美国作文读本中泰戈挨打不还手令查尔斯痛哭认输的故事传递同一价值观（1933）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0036-04",
+   "unit_id": "SG1-U0036"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好的教育是通过每门课潜移默化传递价值观，并练分析、独立思考与表达",
+   "quote": "独立思考",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1937,
+    "end_line": 1937,
+    "fingerprint": [
+     "能力和素质",
+     "价值"
+    ],
+    "sha1": "4b9f5712efe0700fd41bf4ef5e007fa3b661e80d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "教育传递价值观",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "非简单开人文课搞课外活动（1937）；以理服人的本领需要从小学起（1935）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0036-05",
+   "unit_id": "SG1-U0036"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MIT观点：学什么不重要关键是跟谁学；知识会过时，分析解决问题的本领受用终生",
+   "quote": "关键是跟谁学",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1939,
+    "end_line": 1939,
+    "fingerprint": [
+     "受用终生",
+     "MIT"
+    ],
+    "sha1": "058f485951223e46b111f9cf625c5fdbe99a4a01"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "跟谁学重于学什么",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "自己大学与高中内容大多忘却，但解决问题水平有提升（1939）；与周末加议一MIT选课共识呼应（1455）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0036-06",
+   "unit_id": "SG1-U0036"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0036",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "中学教育制度叙述：美国私立中学家长会三种形式与跑教室制、选课制无固定教室、中美前100高中对比、大女儿高中修完大学微积分线代概率神经科学及MIT免修七门、社会地位越高家庭在孩子身上花时间越多（1909-1921），教育制度与升学议题"
+  },
+  {
+   "unit_id": "SG1-U0036",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读导航：第159/160/189/135封信链接列表（1943-1951），结构性载体"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第031封信：历史课四技能/好答案无标准答案/各科都练写作/软实力以理服人（转述）/教育传递价值观/跟谁学重于学什么；中学制度叙述归X5、推荐阅读归X1"
+}

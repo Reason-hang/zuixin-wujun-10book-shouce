@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG1-U0035",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "作诗与做人之辨：黛玉作诗有灵性，宝钗做人有美德；会做人即职场情商高",
+   "quote": "黛玉是作诗，宝钗是做人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1877,
+    "end_line": 1881,
+    "fingerprint": [
+     "情商高",
+     "灵性"
+    ],
+    "sha1": "f0f4a0b76a68b1481fefaccf1ed34bfb05b302f1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-3"
+   ],
+   "concept_key": "作诗与做人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "作诗性格只要意境浪漫唯美理想、不失率真、对世俗美德不屑一顾（1877）；懂得黛玉的只有宝玉一人（1881）；湘云宝钗对话细节（1879）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0035-01",
+   "unit_id": "SG1-U0035"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现实需要会做人否则不见容于世，但社会不能缺少以生命作诗的人",
+   "quote": "以生命作诗的人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1883,
+    "end_line": 1883,
+    "fingerprint": [
+     "不见容于世",
+     "庸俗的社会"
+    ],
+    "sha1": "1569f49d4697aa246e03c5235c2380d16e6fd901"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "以生命作诗",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "否则一个社会是庸俗的社会（1883）；屈原李白李商隐、贝多芬托尔斯泰梵高海明威、雪莱拜伦济慈皆以命作诗（1883）；林黛玉化作雨神沁润少男少女心（1883）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0035-02",
+   "unit_id": "SG1-U0035"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会太讲功利与做人纵有金山银山也乏味；精英只会做人社会就没有灵性",
+   "quote": "社会就没有了灵性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1885,
+    "end_line": 1885,
+    "fingerprint": [
+     "金山银山",
+     "无趣"
+    ],
+    "sha1": "364b68e4b7b7d5108afb1891482743648506be6c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3"
+   ],
+   "concept_key": "只会做人失灵性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "企业家群只会生日与利好发红包例（1885）；答中国最有名大学校长：我们的毕业生太无趣了（1885）；俞敏洪叹北大清华培养太多精致利己主义者（1887）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0035-03",
+   "unit_id": "SG1-U0035"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：硅谷的成功主要靠林黛玉式的理想主义叛逆行为",
+   "quote": "理想主义叛逆行为",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1887,
+    "end_line": 1887,
+    "fingerprint": [
+     "斯加鲁菲",
+     "硅谷"
+    ],
+    "sha1": "5e302b9c607ed097851a78f1228606346bcc28e9"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "理想主义驱动创新",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=皮埃罗·斯加鲁菲（《硅谷百年史》作者）；与黛玉悲剧结局不同硅谷创业者多成功（1887）；两次大战间真左派以生命写诗为对照（1887）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0035-04",
+   "unit_id": "SG1-U0035"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人有机器无法取代的两天赋：艺术的创造力想象力、梦想与浪漫的情怀",
+   "quote": "梦想和浪漫的情怀",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1889,
+    "end_line": 1889,
+    "fingerprint": [
+     "艺术的创造力",
+     "梦想能力"
+    ],
+    "sha1": "7850c678b85400129d65be9996a1f331a53ed765"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-4"
+   ],
+   "concept_key": "机器不可取代的天赋",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "生活与此相关则不必担心机器智能取代（1889）；现代智人凭唯一梦想能力在与其他人种竞争中胜出（1889）；键盘侠与真左派之辨（1887）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0035-05",
+   "unit_id": "SG1-U0035"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0035",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《红楼梦》文学赏析：读红经历与高考背景、黛钗初读印象与世俗评价、黛玉之死晴雯之死简爱海伦之死、作诗性格概念的引出、第二十回湘云黛玉对话赏析（1869-1879），纯赏析无独立结论句可归属，作诗做人概念已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第030封信：作诗与做人/以生命作诗/只会做人失灵性/理想主义驱动创新（转述）/机器不可取代天赋；红楼梦赏析归X8"
+}

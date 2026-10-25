@@ -1,0 +1,207 @@
+{
+ "unit_id": "SG1-U0024",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "王妈妈每送一女打工多一份收入仍紧巴巴；郭台铭靠雇数百万人挣440亿",
+   "quote": "注定穷苦的命",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1371,
+    "end_line": 1375,
+    "fingerprint": [
+     "王妈妈",
+     "郭台铭"
+    ],
+    "sha1": "eea67706efc40093a5948ac265fa5a09727dfc1f"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-2"
+   ],
+   "concept_key": "王妈妈与郭台铭",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：线性叠加收入对雇员杠杆的量级之差（1373）；三女儿读书成为技能人才才有良好开端（1375）；芝麻西瓜总机理见C-SG1-U0024-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-01",
+   "unit_id": "SG1-U0024"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "西瓜重量是芝麻两万多倍，捡芝麻再勤劳也捡不出西瓜；多数人其实不懂此理",
+   "quote": "也捡不出西瓜的重量",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1377,
+    "end_line": 1377,
+    "fingerprint": [
+     "两万多倍",
+     "芝麻和西瓜"
+    ],
+    "sha1": "014db7c4bacf42a8258747ff4ef86b434ba5320c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "芝麻西瓜之比",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "捡芝麻清单：免费东西打破头、省车钱多走路、抢红包看微信、上班干私活、双十一熬夜、比价跑五家店（1379-1389）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-02",
+   "unit_id": "SG1-U0024"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "捡芝麻使习惯与心态变低、难再提升；心思放在芝麻上就永远失去捡西瓜可能",
+   "quote": "永远失去了捡西瓜的可能性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1393,
+    "end_line": 1393,
+    "fingerprint": [
+     "非常低的追求",
+     "人情"
+    ],
+    "sha1": "739aa9279d43b5a09669903569aabe4d2ab2eff9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-4"
+   ],
+   "concept_key": "捡芝麻失西瓜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "问题不止时间利用低效（1393）；经济宽裕者请人代购省10-20%仍是芝麻且欠人情（1393）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-03",
+   "unit_id": "SG1-U0024"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场捡芝麻即伪工作：习惯做简单重复、价值低不费脑的活，难做创造性工作",
+   "quote": "简单重复且价值又低",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1395,
+    "end_line": 1395,
+    "fingerprint": [
+     "伪工作者",
+     "创造性"
+    ],
+    "sha1": "85710ad6d00e6046b5816c34012768cc137a1abc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D03-1"
+   ],
+   "concept_key": "伪工作即捡芝麻",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "首封伪工作者的芝麻版机理（1395）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-04",
+   "unit_id": "SG1-U0024"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "雅虎服务多得数不清却无世界第一，小芝麻总和不如Google一款产品收入",
+   "quote": "把自己的专长发挥好",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1397,
+    "end_line": 1397,
+    "fingerprint": [
+     "雅虎",
+     "市场份额"
+    ],
+    "sha1": "230ca15b7703c784625e0ba78159ca710241fc4f"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "雅虎捡芝麻",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：公司见人挣钱就涉足新行业、分芝麻大份额得不偿失，不如把专长发挥好（1397）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-05",
+   "unit_id": "SG1-U0024"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "乔布斯回苹果在多数项目上画叉，把个位数产品逐个做成西瓜，救活苹果",
+   "quote": "把它们每一个变成西瓜",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1399,
+    "end_line": 1399,
+    "fingerprint": [
+     "乔布斯",
+     "画叉子"
+    ],
+    "sha1": "6acfe2b702e0e7907117154ee042c6dcd45b979e"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1",
+    "D10-1"
+   ],
+   "concept_key": "乔布斯砍芝麻",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：捡西瓜不为蝇头小利动心、目光放长远（1399）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-06",
+   "unit_id": "SG1-U0024"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把心思聚焦一点练就捡西瓜的能力；能力晋级一阶，贡献职责影响力升一数量级",
+   "quote": "增加一个数量级",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1401,
+    "end_line": 1401,
+    "fingerprint": [
+     "耐得住寂寞",
+     "捡西瓜的能力"
+    ],
+    "sha1": "3b1860b4e3d773b9a253dd1783b07c6aed467829"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "能力晋级即数量级",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "捡西瓜靠能力不靠运气、要耐得住寂寞（1401）；满眼芝麻忙碌者练不出捡西瓜能力（1401）；多数人仍捡芝麻，西瓜留给有智慧的人（1403-1405）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0024-07",
+   "unit_id": "SG1-U0024"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第021封信：芝麻西瓜之比/捡芝麻失西瓜/伪工作即捡芝麻/雅虎与乔布斯案例/能力晋级数量级，全单元方法论成卡无X处置"
+}

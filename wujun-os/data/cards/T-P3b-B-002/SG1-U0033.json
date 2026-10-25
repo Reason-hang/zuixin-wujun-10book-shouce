@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG1-U0033",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "果粉追捧的是品牌而非性能以赢得尊严；真正有钱的人反不需要这些东西装饰",
+   "quote": "赢得一些尊严",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1803,
+    "end_line": 1805,
+    "fingerprint": [
+     "品牌",
+     "奢侈品"
+    ],
+    "sha1": "35b077986b783bdc3fd799332a7712a7ddc39154"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "真富不靠装饰",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "设身处地为靠苹果手机赢得尊严的人考虑即不难理解（1803）；欧美人富裕几个世纪反不需要装饰、硅谷商业巨子穿着与常人无异（1805）；炫耀是富裕三十年的情理之中（1803）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0033-01",
+   "unit_id": "SG1-U0033"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "戴安娜·托马斯：东亚人住得挤没有豪宅可炫耀，靠汽车奢侈品赢得体面",
+   "quote": "为了赢得体面",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1803,
+    "end_line": 1803,
+    "fingerprint": [
+     "戴安娜",
+     "豪宅"
+    ],
+    "sha1": "fbb02c16c9a5b9516f4196cdb4140345ad2bb4c5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "奢侈品补体面",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=戴安娜·托马斯（《奢侈品是如何失去光泽》作者）；吴军评其观点是否正确先不论、至少有些道理（1803）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0033-02",
+   "unit_id": "SG1-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "比房产先比地段：住哪个城市哪个区大致标定经济状况与社会地位",
+   "quote": "所在地比房子本身",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1809,
+    "end_line": 1809,
+    "fingerprint": [
+     "Old Palo Alto",
+     "宜家"
+    ],
+    "sha1": "cb5a05355f94cc15d78d4b41d5d422cc358f9874"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "地段标定地位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "乔布斯旧宅因Old Palo Alto区好而贵、空地都值钱（1809）；家具钱不应少于房价10%、土豪买豪宅配宜家便宜货依然low（1809）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0033-03",
+   "unit_id": "SG1-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正有钱有身份的人比的是捐赠；还需靠爱马仕兰博基尼炫富是对财富信心不足",
+   "quote": "比的是捐赠",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1811,
+    "end_line": 1811,
+    "fingerprint": [
+     "境界高下立判",
+     "炫富"
+    ],
+    "sha1": "2d51fcc073e328b4f23b9a3adac8dd9eff2dd4a0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "富人比捐赠",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一年捐赠超过土豪一辈子所挣则境界与财富不言自明（1811）；真富豪是大学大捐赠者、名字刻在大楼上博物馆墙上（1817）；布林上亿美元整饬街道、克里格捐5500万而布隆伯格捐6000万攀比累计七亿、马龙一个多亿（1819）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0033-04",
+   "unit_id": "SG1-U0033"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "洛克菲勒卡内基等结论：钱为让孩子做喜欢的事，而非炫富和无所事事",
+   "quote": "而不是炫富和无所事事的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1815,
+    "end_line": 1815,
+    "fingerprint": [
+     "十一奉献",
+     "废人"
+    ],
+    "sha1": "1cf514e0198434da2f1b5415cbeb3b009f2cd4d9"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "钱为孩子做事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=洛克菲勒、卡内基等第一代富豪；洛克菲勒发家前捐收入约5%、摩门教十一奉献传统（1815）；二代成社会废人的教训促成大捐赠与慈善基金会建立（1815）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0033-05",
+   "unit_id": "SG1-U0033"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国是少数不仇富的国家，这和富人们的捐助有很大关系",
+   "quote": "少数不仇富的国家",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1821,
+    "end_line": 1821,
+    "fingerprint": [
+     "不仇富",
+     "捐助"
+    ],
+    "sha1": "566ea839a816f7027b2ef98b10f7831bc4d0a6ba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "捐助换不仇富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "硅谷别小瞧穿着朴素的人，或许是超级富豪（1823）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0033-06",
+   "unit_id": "SG1-U0033"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0033",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事行情：iPhone7亮黑版各国脱销、中国黑市近两万元为美定价三倍、雇人排队每小时50美元、苹果股价上涨（1799-1801），依附具体时点行情"
+  },
+  {
+   "unit_id": "SG1-U0033",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "慈善文化史实与数据：2015年美国家庭平均捐赠3000美元约占税前收入5%、亚裔捐赠最低（1813）、基督教十一奉献与进步运动慈善基金会史（1815）、大学博物馆捐赠者生态（1817）、布隆伯格克里格马龙捐赠攀比数据（1819），史实数据背景，机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第028封信：真富不靠装饰/奢侈品补体面（转述）/地段标定地位/富人比捐赠/钱为孩子做事（转述）/捐助换不仇富；iPhone7行情归X2、慈善史数据归X4"
+}

@@ -1,0 +1,78 @@
+{
+ "unit_id": "SG1-U0038",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人要有自由的思想，同时将来能有对社会的担当",
+   "quote": "自由的思想",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2039,
+    "end_line": 2039,
+    "fingerprint": [
+     "担当"
+    ],
+    "sha1": "1cfa413eee80c292edbd503e1c31cbe80a0881ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-3"
+   ],
+   "concept_key": "自由思想与社会担当",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "带二女儿访耶鲁的更重要的目的（2039）；全信点题句；耶鲁纪念大厅对担当的诠释见C-SG1-U0038-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0038-01",
+   "unit_id": "SG1-U0038"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何在战争中死难的学生都值得纪念；耶鲁崇尚年轻人的责任感与献身精神",
+   "quote": "社会的责任感和献身精神",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2055,
+    "end_line": 2055,
+    "fingerprint": [
+     "纪念",
+     "担当"
+    ],
+    "sha1": "9caf44bf1a65c9b078ae4cb3f4d9528a45c20d2b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "担当值得纪念",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "内战中为南方作战的55位毕业生与越战阵亡者同刻纪念大厅（2053-2055）；毕业生为故乡战斗是大学所鼓励的担当（2055）；不理解名校精神则录取难也学不到精髓（2057）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0038-02",
+   "unit_id": "SG1-U0038"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0038",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "大学教育制度与理念：学院制本科教育培养社会的人、耶鲁学习负担轻但不参加社会活动未得精髓、用老观念教育年轻人去解决下一代问题最可怕、学校不同意也要给学生自由并保护（2037-2045），教育制度与理念论述"
+  },
+  {
+   "unit_id": "SG1-U0038",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实叙述：耶鲁越战反战史、学术特权抵制政府禁令、沙隆·科芬温和反战主张、小布什《抉择时刻》、纪念大厅与林璎越战纪念碑、内战与朝战越战阵亡者背景（2041-2053），纯史实背景；反对之事有正误做法、温和表达优于过激的机理已并入担当K卡语境"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第032封信：自由思想与社会担当/担当值得纪念成卡；耶鲁教育制度理念归X5、反战与纪念大厅史归X4"
+}

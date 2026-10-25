@@ -1,0 +1,45 @@
+{
+ "unit_id": "SG1-U0037",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公开表态与投票行为背离致民调失真：平时无人说支持，投票时都投给他",
+   "quote": "整个民意调查把所有人都忽悠了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 2001,
+    "end_line": 2001,
+    "fingerprint": [
+     "民意调查",
+     "弗吉尼亚"
+    ],
+    "sha1": "ded1cf8d173f7eb271cd7b67b03489081ce05d13"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "公开表态非真实偏好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "弗吉尼亚同学实例：公司无人说支持特朗普、投票时都投他（2001）；希拉里团队依民调备庆典临唱票取消（2001）；怕扣歧视帽子而表面不说破（1999）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0037-01",
+   "unit_id": "SG1-U0037"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0037",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016大选时评与预测：大选戏剧性过程、特朗普奇葩与民调落后、股市八连跌与邮件门、政治正确由来演变与录取名额数据、奥巴马厕所令、华裔租飞机广告、对华政策三条预测与是否送希拉里进监狱（1967-2019），全部依附2016时点与时点预测；公开表态失真的信息甄别判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "加议三：公开表态非真实偏好成卡；大选时评与对华政策预测整单元归X2"
+}

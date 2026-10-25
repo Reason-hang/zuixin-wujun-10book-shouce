@@ -1,0 +1,211 @@
+{
+ "unit_id": "SG1-U0023",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1B",
+ "batch_id": "T-P3b-B-002",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "格拉德威尔：世上智商最高的人一生碰壁，主因思维方式不对，智力不等于智慧",
+   "quote": "智力不等于智慧",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1337,
+    "end_line": 1337,
+    "fingerprint": [
+     "格拉德威尔",
+     "思维方式"
+    ],
+    "sha1": "24c19787761bed91698ecce3b38c598837f01c58"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "智力不等于智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=格拉德威尔（《异类》）；其出身决定命运的观点被吴军明确不赞同（1337），吴军赞同部分见C-SG1-U0023-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-01",
+   "unit_id": "SG1-U0023"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思维方式对个人命运的影响远超智力、学历与家庭；思维方式决定命运",
+   "quote": "思维方式决定命运",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1335,
+    "end_line": 1337,
+    "fingerprint": [
+     "学历和家庭",
+     "思维方式"
+    ],
+    "sha1": "73541a311435ad1df1de0ba133bb0e8d016383d5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-1"
+   ],
+   "concept_key": "思维方式决定命运",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "未踏上新技术革命大潮而落伍是落伍另一主因（1335）；概括见本卡，格拉德威尔原话见C-SG1-U0023-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-02",
+   "unit_id": "SG1-U0023"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想被提升就要有老板的思维与眼光，从上级部门乃至公司利益出发，帮老板成功",
+   "quote": "帮助你的老板成功",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1343,
+    "end_line": 1343,
+    "fingerprint": [
+     "思维方式和眼光",
+     "更重要的职责"
+    ],
+    "sha1": "694085b83337a9ed9dc121827dcec03fc68044db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D01-2"
+   ],
+   "concept_key": "帮老板成功",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "干部培训两件事：功劳给下属员工、帮老板成功（1343）；只站自己利益者公司不敢交重要职责（1343）；阿里月饼事件舆论两阵营为试金石（1339）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-03",
+   "unit_id": "SG1-U0023"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "老板能成为老板背后必有原因，非能力运气情商可尽释；长期底层者应检讨思维方式",
+   "quote": "检讨一下自己的思维方式",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1341,
+    "end_line": 1341,
+    "fingerprint": [
+     "没有绝对的对和错",
+     "必有他的原因"
+    ],
+    "sha1": "549fa06725c5e63f6b8325ee190d42da7e94ffb1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "底层者检讨思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "世上没有绝对对错与公平（1341）；抱怨不公者少思考如何改变命运、美国富豪多一代致富（1345）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-04",
+   "unit_id": "SG1-U0023"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同样的困难，消极者归因环境而关门，积极者造支付宝解支付、诚信、物流之缺",
+   "quote": "一种积极的思维方式",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1347,
+    "end_line": 1347,
+    "fingerprint": [
+     "消极态度",
+     "支付宝"
+    ],
+    "sha1": "cd24b302f1c11da5e4b6756f56a690e69792b12e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-4"
+   ],
+   "concept_key": "积极思维造条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "8848等一批电商同期关门（1345）；马云站在商家即其老板的角度思考，帮商家成功即帮阿里成功（1347）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-05",
+   "unit_id": "SG1-U0023"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "拿『李四曾经也这样』狡辩是失败者思维且等于默认指控；应就事论事、虚心反思",
+   "quote": "失败者的思维",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1349,
+    "end_line": 1349,
+    "fingerprint": [
+     "就事论事",
+     "虚心接受"
+    ],
+    "sha1": "b730a5477529ca06b276be28cf5f0d7abc60732a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "就事论事戒狡辩",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "狡辩非常情绪化、做事情不掺杂太多感情因素（1349）；虚心接受并反思者到处受人欢迎（1349）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-06",
+   "unit_id": "SG1-U0023"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "98%的人另一错误是捡芝麻不捡西瓜：两万多个芝麻才抵得上一个西瓜",
+   "quote": "两万多个芝麻",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 1351,
+    "end_line": 1351,
+    "fingerprint": [
+     "捡芝麻",
+     "西瓜"
+    ],
+    "sha1": "12a5a4c22af861d979b5b8804992d2e49c40d50a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "捡芝麻不捡西瓜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本卡为下封预告，完整机理见C-SG1-U0024系列（郭台铭与王妈妈故事）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0023-07",
+   "unit_id": "SG1-U0023"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0023",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "宏观社会结构论断：社会由纺锤形变金字塔、底层易动荡、各国加福利难改形状、2%受益者说法出自罗辑思维对《智能时代》的宣传（1333-1335），宏观经济与社会结构判断不入主干"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第020封信：思维方式决定命运/帮老板成功/底层检讨思维/积极造条件/就事论事/捡芝麻预告；社会结构宏观论断归X6"
+}
