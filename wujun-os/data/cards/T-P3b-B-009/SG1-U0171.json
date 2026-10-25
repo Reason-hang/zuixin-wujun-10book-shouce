@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0171",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聪明只是成大事的必要条件，并不是充分条件；智力与成就并非完全正相关",
+   "quote": "必要条件，并不是充分条件",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10567,
+    "end_line": 10567,
+    "fingerprint": [
+     "必要条件",
+     "充分条件"
+    ],
+    "sha1": "b059924b68f7294a262d0020ed14d60f663c5114"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "聪明必要非充分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从我接触的这些人看不出智力和成就完全正相关（10575）；冯·诺依曼心算半小时抵计算机一晚例（10557）；四位诺奖得主印象：夏普大智慧非天才型、里斯朱棣文头脑极敏锐、科比尔卡逻辑清晰（10569-10573）；超级聪明同事四年无成绩例（10559-10561）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0171-01",
+   "unit_id": "SG1-U0171"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人的天赋是全方位的，不是单一的；使用一种量化指标给人贴上标签是不对的",
+   "quote": "人的天赋是全方位的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10589,
+    "end_line": 10589,
+    "fingerprint": [
+     "天赋是全方位的",
+     "贴上标签"
+    ],
+    "sha1": "2a48a0276575ef1ca902f38cb4e04b11809f8801"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "天赋全方位难量化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "IQ、EQ等一大堆指标恰因天赋全方位而发明（10589）；格拉德威尔智商120必须、超过无优势（10575）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0171-02",
+   "unit_id": "SG1-U0171"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "张首晟：清华与斯坦福大学在研究上的差距主要在于提出问题",
+   "quote": "主要差距在于提出问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10593,
+    "end_line": 10593,
+    "fingerprint": [
+     "张首晟",
+     "斯坦福的科学家"
+    ],
+    "sha1": "48d32b9b3c5adffbf99d20c1478c81caeaa0a746"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "差距在提出问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=张首晟（物理学家）；斯坦福善于找到当下最重要的问题，清华把握研究方向差，一旦找到问题清华教授解决问题的水平并不差（10593）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0171-03",
+   "unit_id": "SG1-U0171"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爱因斯坦与常人最大不同有三：善于提出问题、善于做白日梦（不受约束地想情景再总结规律）、有恒心花一辈子解决根本问题",
+   "quote": "善于做白日梦",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10593,
+    "end_line": 10597,
+    "fingerprint": [
+     "善于提出问题",
+     "白日梦",
+     "非常有恒心"
+    ],
+    "sha1": "11b4f0ddafbca0e3f282891230573be1cf3df7c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "天才三特质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "概括见C-SG1-U0171-03（张首晟谈提出问题）；统一场论假设60年后获基本证实（10597）；白日梦对科学的贡献后文再谈（10595）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0171-04",
+   "unit_id": "SG1-U0171"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其寻找与天才在生理上的差距，不如多学习他们做事情的方法，这些是我们可以控制的",
+   "quote": "不如多学习他们做事情的方法",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10599,
+    "end_line": 10599,
+    "fingerprint": [
+     "生理上的差距",
+     "做事情的方法"
+    ],
+    "sha1": "605b23da4634f129cc37a51b103e8c51846acc4b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "学方法可控",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "凡天才必有过人之处（10599）；全文总结句；爱因斯坦大脑研究与天才生理差异话题关联见X4处置",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0171-05",
+   "unit_id": "SG1-U0171"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0171",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "爱因斯坦大脑研究史实（10581-10587）：哈维偷脑做240个切片、FBI暗中保护、胶质细胞/脑洞/胼胝体诸研究均无定论，纯科学史科普；天才方法论判断已入K卡5张"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第161封信我们和天才差多远：聪明必要非充分/天赋全方位/张首晟谈提出问题(E2)/天才三特质/学方法可控5卡；爱因斯坦大脑研究史归X4"
+}

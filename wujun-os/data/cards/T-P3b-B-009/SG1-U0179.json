@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG1-U0179",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "正是因为缺乏对一些看似浅显道理的深究，东方文明一直无法产生结构严谨而具逻辑性的自然科学",
+   "quote": "缺乏对一些看似浅显道理的深究",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11065,
+    "end_line": 11065,
+    "fingerprint": [
+     "看似浅显道理的深究",
+     "自然科学"
+    ],
+    "sha1": "bf6defac38b399d8969d2fceb6061e9fdd463165"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "深究浅显道理生科学",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "长方形面积等于长乘以宽很少有人问为什么（11065）；证明过程会引导出数学上极限的概念（11067）；古希腊人刨根问底寻求知识本源才产生纯粹科学（11067）；与U0176东方经验科学判断同源互证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0179-01",
+   "unit_id": "SG1-U0179"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "笛卡尔：我思故我在——我们有思维的活动，让我们能够证明我们的存在；并提出实证主义：大胆假设，小心求证",
+   "quote": "我思故我在",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11069,
+    "end_line": 11071,
+    "fingerprint": [
+     "笛卡尔",
+     "思维的活动",
+     "大胆假设"
+    ],
+    "sha1": "bfab5f03324c56905278bc576a461d1a872f484d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "我思故我在",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=笛卡尔；吴军辨析：把'思'简单理解为思考使人理性而睿智是片面的，深层含义是思维活动证明存在，逆否命题说明生命终结则意识不可能存在（11069）；用实证主义解庄子梦蝶之问：梦不可验证，吴军梦中糖轶事承载（11071-11073）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0179-02",
+   "unit_id": "SG1-U0179"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "贝克莱：存在就是被感知——你能感知糖的存在，可以摸到它、尝到甜味",
+   "quote": "存在就是被感知",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11075,
+    "end_line": 11075,
+    "fingerprint": [
+     "贝克莱",
+     "被感知"
+    ],
+    "sha1": "0315c056e449a1a75bf9aae4b38f79031a5ad875"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "存在即被感知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=贝克莱（英国大主教）；吴军评述：唯物主义'先有你还是先有你父亲'的反驳强词夺理偷梁换柱，'被感知'并不必然需要由谁来感知（11079）；伯克利市为纪念他命名（11079）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0179-03",
+   "unit_id": "SG1-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "坚信能够感知宇宙中的各种存在，我们才会不断突破对宇宙的认识",
+   "quote": "坚信能够感知宇宙中的各种存在",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11081,
+    "end_line": 11081,
+    "fingerprint": [
+     "希格斯",
+     "暗能量"
+    ],
+    "sha1": "6f58f2bc77127f0e583554753f0523cbcde31b91"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "相信可感知推动突破",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "希格斯场看不见摸不着甚至不可直接测量（11081）；对暗能量虽然一无所知但相信将来能感知，这样的信心或该感谢贝克莱（11081）；与C-SG1-U0179-03贝克莱卡互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0179-04",
+   "unit_id": "SG1-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追根溯源是人类的本性；对看似理所当然的事情愿意追根溯源，才能发现很多人忽略的规律",
+   "quote": "发现很多人忽略的规律",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11083,
+    "end_line": 11085,
+    "fingerprint": [
+     "追根溯源是人类的本性",
+     "忽略的规律"
+    ],
+    "sha1": "01f15964eb0a102ba1f72551e678a5fc548ff124"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "追根溯源见规律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "庄子、古希腊思想者、笛卡尔、贝克莱这样追根溯源的人构建起人类进步阶梯（11083）；吴军自陈与别人的不同在于好奇与追根溯源（11085）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0179-05",
+   "unit_id": "SG1-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经常和历史上的贤哲们进行心灵的对话，我们才能具有智慧",
+   "quote": "进行心灵的对话",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11085,
+    "end_line": 11085,
+    "fingerprint": [
+     "历史上的贤哲",
+     "才能具有智慧"
+    ],
+    "sha1": "f1716d3246599b9f097de28d050d0133a575e371"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "与贤哲对话得智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对话庄子系列与对话毕达哥拉斯（U0176-U0180）的总结句；读《庄子》遇事豁然开朗的用法见U0177",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0179-06",
+   "unit_id": "SG1-U0179"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0179",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "个人经历叙述（11043-11063）：童年对自我存在的好奇与对死亡救护车红十字的恐惧、马王堆纪录片失眠、梦床头有糖轶事（承载梦不可验证论证已并入笛卡尔卡notes）、不信灵魂不朽、顶级物理学家信教与探索真理不冲突的观察，无独立可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0179",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读列表与今日思考题（11087-11097），载体性信息"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第169封信庄周梦蝶：深究浅显道理生科学/笛卡尔我思故我在(E2)/贝克莱存在即被感知(E2)/相信可感知推动突破/追根溯源见规律/与贤哲对话得智慧6卡；童年轶事X8、推荐阅读X1"
+}

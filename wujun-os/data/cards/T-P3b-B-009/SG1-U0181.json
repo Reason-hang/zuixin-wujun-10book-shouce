@@ -1,0 +1,174 @@
+{
+ "unit_id": "SG1-U0181",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做报告或演讲是一对多的通信，目的是让听众接受我们要传递的信息，而非只顾把自己想说的话说完",
+   "quote": "让听众接受我们所要传递的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11179,
+    "end_line": 11179,
+    "fingerprint": [
+     "一对多的通信",
+     "把自己想说的话说完"
+    ],
+    "sha1": "e64c32c3184a72bc211a20562587bd8fe7545ffa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "沟通以送达为目的",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "牧师讲道听众睡觉、司机开车乘客祈祷笑话承载（11167-11177）；很多人忘记目的根本不考虑听众是否听进去（11179）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0181-01",
+   "unit_id": "SG1-U0181"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不会演讲的四个毛病：忘掉目的、不管听众是谁用同一个讲法、试图讲完过多内容、哗众取宠危言耸听",
+   "quote": "忘掉了目的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11181,
+    "end_line": 11185,
+    "fingerprint": [
+     "四个毛病",
+     "忘掉了目的",
+     "同一个讲法"
+    ],
+    "sha1": "e4c24a30c868090341a4fecf5acd7fe9379dfb97"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "演讲四毛病",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "毛病3试图讲完过多内容（11193）；毛病4哗众取宠危言耸听、靠段子八卦拼凑、大话口号逻辑不自洽（11199-11201）；同一PPT讲一年例（11185）；按听众四类调整内容（11187-11191）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0181-02",
+   "unit_id": "SG1-U0181"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一小时能讲多少不取决于准备内容和语速，而取决于听众接受的速度与专注度；一次讲清一件事，要点不超过三条",
+   "quote": "取决于听众接受的速度",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11195,
+    "end_line": 11197,
+    "fingerprint": [
+     "听众接受的速度",
+     "要点一般不会超过三条"
+    ],
+    "sha1": "153536bb3413cf488fe91ee77399e65f016e2023"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "沟通带宽限内容",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "讲不完提高语速接受度变差、拖堂给听众留坏印象（11195）；100条秘诀18个方法之类的书没有大用、内容多且彼此矛盾（11197）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0181-03",
+   "unit_id": "SG1-U0181"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何讲话的人都有责任保证信息按时、准确地送达：确认对方收到并理解意愿才算沟通完成，这是人与人交往的基本技巧",
+   "quote": "收到接收方的确认才算通信完成",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11207,
+    "end_line": 11207,
+    "fingerprint": [
+     "责任保证信息按时、准确地送达",
+     "确认才算通信完成"
+    ],
+    "sha1": "9a6802ac230602b154f29364cb9244c335b2cea9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "送达需确认",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "通信协议类比：发送信息必须收到确认（11207）；张三说告诉过你、李四说没听到，双方都没说谎但张三目的没达到（11205）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0181-04",
+   "unit_id": "SG1-U0181"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事情需要达到目的而非交差完事；宁可少做点事情让每件都产生应有效果，也不为完成任务做一堆没用的事",
+   "quote": "让每件事情都产生应该产生的效果",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11209,
+    "end_line": 11209,
+    "fingerprint": [
+     "交了差就算完成",
+     "没有用的事情"
+    ],
+    "sha1": "fffa631bcf12d175fd416e1fca5173b784a8c38e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "效果导向非交差",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "没有功劳还有苦劳的话不可恃，只有苦劳的人连上帝都不喜欢（11209）；接受任务采取了行动不等于完事，电话没通就要想别的办法（11211）；伪工作者即此类（11211，与第1封来信互引）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0181-05",
+   "unit_id": "SG1-U0181"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "认知水平的提升在于看到看似浅显的道理时多思考，结合自己的经历产生共鸣想到深层含义；悟道的关键在于勤于思考",
+   "quote": "悟道的关键又在于勤于思考",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11213,
+    "end_line": 11215,
+    "fingerprint": [
+     "看似浅显的道理",
+     "勤于思考"
+    ],
+    "sha1": "b7f3e981d670014ceb9ee0ed448ccf92b462f982"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "浅显道理悟深层",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "圣经与佛经故事浅显，有人只记情节有人能悟道（11215）；牧师笑话的深挖示范",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0181-06",
+   "unit_id": "SG1-U0181"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第171封信上帝是要看效果的：沟通以送达为目的/演讲四毛病/沟通带宽限内容/送达需确认/效果导向非交差/浅显道理悟深层6卡"
+}

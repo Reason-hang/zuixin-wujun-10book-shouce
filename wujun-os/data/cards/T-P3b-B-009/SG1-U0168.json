@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0168",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商品最终品质首先取决于原料本身，原料之上再由工艺与制作水平共同决定最终口味",
+   "quote": "取决于咖啡豆的质量",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10371,
+    "end_line": 10371,
+    "fingerprint": [
+     "咖啡豆的质量",
+     "葡萄本身",
+     "最终口味的好坏"
+    ],
+    "sha1": "2cde4f856cdb8dcef6d6150e754cd77981411606"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "源头质量定品质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "类比红酒的质量取决于葡萄本身（10371）；四个最佳产地蓝山/科纳/基尼卡/苏门答腊（10375）；蓝山海拔火山灰土壤（10377）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0168-01",
+   "unit_id": "SG1-U0168"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "星巴克生意经：廉价原料加稳定品控与管理，成本极低售价高，靠品牌溢价挣钱",
+   "quote": "成本不到两美分",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10385,
+    "end_line": 10385,
+    "fingerprint": [
+     "最廉价的",
+     "实在是会做生意"
+    ],
+    "sha1": "81e7253a5043bc9cb0756a27105cbaf0db8041e6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "品牌溢价生意经",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "星巴克用最廉价豆且常买快过期豆，一杯成本不到两美分售两美元（10385）；咖啡豆期货约1.5美元一磅、零售约两倍（10383）；与好咖啡差别如二锅头与茅台（10385）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0168-02",
+   "unit_id": "SG1-U0168"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0168",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "咖啡科普与消费常识主体（10337-10369、10373-10381）：三大饮料地位、各国人均消费数据、阿拉比卡与罗布斯塔、挂羊头卖狗肉现象、产地风土特色（蓝山科纳辨识）、猫屎咖啡（10805），生活品味闲聊无可归属支柱的可迁移判断；可迁移判断已入K卡2张"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第158封信品味咖啡：抽源头质量定品质/品牌溢价生意经2卡；咖啡品种产地消费科普主体归X8"
+}

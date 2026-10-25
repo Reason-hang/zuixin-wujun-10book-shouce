@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0183",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "巴菲特考量公司的核心原则是要对投资人好：稳定发放股息、多余现金回购股票、不断提高利润率，而不是把钱分给员工或被管理层拿走",
+   "quote": "稳定发放股息",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11297,
+    "end_line": 11297,
+    "fingerprint": [
+     "稳定发放股息",
+     "回购股票",
+     "回报股东"
+    ],
+    "sha1": "ea3798020eb08de20302203c66ae00fd451e691e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "选股看对投资人好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "10多年前苹果以他的决策方法考量不合格，今天股价上涨只是马后炮（11291）；现金奶牛标准见第47封信（11289）；很多在美中国公司不对投资人好股价不涨甚至退市（11295）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0183-01",
+   "unit_id": "SG1-U0183"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对投资人好不能看一两次分红回购，要确认长期如此并形成习惯；因此巴菲特常错失公司快速发展阶段，回报来自其后几十年的现金",
+   "quote": "并且已经形成习惯",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11299,
+    "end_line": 11299,
+    "fingerprint": [
+     "不能看一次两次的分红",
+     "长期持续保障投资人的利益"
+    ],
+    "sha1": "9c6c8d75482a8bf084a99b936f59bb8945c698b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "长期考察成习惯",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "英特尔苹果早年优先自身成长不回报股东故不合格（11297）；花太长时间考察是错失青春期的代价（11299、11307）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0183-02",
+   "unit_id": "SG1-U0183"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "富兰克林：一个帮助过你的人，比一个你帮助过的人，更愿意帮助你",
+   "quote": "更愿意帮助你",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11303,
+    "end_line": 11303,
+    "fingerprint": [
+     "富兰克林",
+     "帮助过你的人"
+    ],
+    "sha1": "b65643926580f2a408d6b162bfab584d98e57cf3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "帮过你的人更帮你",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=本杰明·富兰克林；吴军取用于识人交友与伴侣选择（11303-11305）；与C-SG1-U0183-04/05互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0183-03",
+   "unit_id": "SG1-U0183"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "你很喜欢、本身很好的人若不能对你好，再好也不是要找的人；以为对不喜欢自己的人好一点就能换来善意回报是天真的",
+   "quote": "这种想法是非常天真的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11301,
+    "end_line": 11303,
+    "fingerprint": [
+     "换得对方善意的回报",
+     "并不喜欢自己的人"
+    ],
+    "sha1": "4c9e953fcfd7121b8f8654ed49305f660b170729"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "付出换不来真心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "落花有意流水无情的故事太多（11303）；对对方与家人都好也换不得真心或友谊（11303）；富兰克林原则见C-SG1-U0183-03；择偶具体偏好讨论按X5剔除（见x_disposals）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0183-04",
+   "unit_id": "SG1-U0183"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人再好再喜欢，不能长期对你好，对你一生的帮助并不大；用巴菲特的方法长期结交一个人，我们会终身受益",
+   "quote": "如果不能长期对你好",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11309,
+    "end_line": 11309,
+    "fingerprint": [
+     "长期结交一个人",
+     "终身受益"
+    ],
+    "sha1": "83ffdd62487a8449c99c41ce5e6c24a932de84aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "长期结交对你好的人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一生遇到的人比股市股票多得多（11309）；巴菲特花很长时间考察公司错过青春期、回报来自其后几十年现金（11307）；与第173封信标题互证，信末昨日信回顾（11303）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0183-05",
+   "unit_id": "SG1-U0183"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0183",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "恋爱择偶偏好讨论（11301）：找一个喜欢自己的人还是自己喜欢的人的纠结、理性上认为前者靠谱等爱情议题；本文主体为通用关系与投资原则故整单元K，仅该婚恋偏好段落剔除"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第173封信找长期对你好的人：选股看对投资人好/长期考察成习惯/富兰克林原则(E2)/付出换不来真心/长期结交对你好的人5卡；择偶偏好纠结归X5"
+}

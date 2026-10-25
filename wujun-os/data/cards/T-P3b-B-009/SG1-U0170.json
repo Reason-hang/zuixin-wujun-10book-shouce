@@ -1,0 +1,181 @@
+{
+ "unit_id": "SG1-U0170",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "顶级商学院招生并不看重你过去的专业，而是看重你的智力和能力",
+   "quote": "不看重你过去的专业",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10501,
+    "end_line": 10501,
+    "fingerprint": [
+     "智力和能力",
+     "GMAT"
+    ],
+    "sha1": "35b7b115f4031f5b7141f0d8f43b24462ff28016"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "选拔看智力与能力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "GMAT与其说考数学水平不如说考智力（10493）；文科生恶补数学过GMAT进哈佛、沃顿两例（10493、10501）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0170-01",
+   "unit_id": "SG1-U0170"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "精英和普通人的差别不完全在知识多少，而在智慧和人脉：智慧靠与高手切磋，人脉靠好的同学圈子",
+   "quote": "而在于智慧和人脉",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10505,
+    "end_line": 10505,
+    "fingerprint": [
+     "智慧和人脉",
+     "互相提携"
+    ],
+    "sha1": "c7c467a3bc2073c5d0ff7f3d71d16fb2d5cad72c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "精英差在智慧人脉",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "来上课是成为精英的必由之路，考试倒在其次（10505）；与C-SG1-U0170-03圈子说互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0170-02",
+   "unit_id": "SG1-U0170"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "办MBA班很大的目的就是为大家营造一个好的圈子；在哈佛商学院不会玩，学就白上了",
+   "quote": "为大家营造一个好的圈子",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10513,
+    "end_line": 10513,
+    "fingerprint": [
+     "同学的圈子",
+     "不会玩，学就白上了"
+    ],
+    "sha1": "d0924c9bbc6483ca6f947608b352c53e583403de"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "圈子靠玩出来",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "一流大学和二流大学的差别在很大程度上取决于同学的圈子（10513）；斯坦福精英速成班晚会周末活动例（10511）；三分之二的学费白上之说（10509）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0170-03",
+   "unit_id": "SG1-U0170"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用别人的钱挣钱是获取资源的能力；从陌生人那里拿钱比从老爸那里拿钱重要，习惯占亲情便宜则见识难超上一代",
+   "quote": "占亲情的便宜",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10531,
+    "end_line": 10531,
+    "fingerprint": [
+     "从老爸那里拿钱",
+     "见识也很难超出上一代人"
+    ],
+    "sha1": "c3dae9529cd645e6eb886360db8bc3632d848247"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-1"
+   ],
+   "concept_key": "用别人的钱挣钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "哈佛宗旨：自己的钱留作安身立命，做事让别人掏钱（10515）；富二代盖茨特朗普王雪红柳青几乎白手起家（10519）；特朗普曼哈顿融资例（10533）；马斯克雷军卡兰尼克严格遵循（10539）；股市挣钱最多的是管理资产的人、财务顾问旱涝保收即此理（10523-10527）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0170-04",
+   "unit_id": "SG1-U0170"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天不是缺钱的时代，不能让别人投资，要么是项目不好，要么是不会销售；靠家人省吃俭用创业的人最好不要创业",
+   "quote": "要么是项目不好",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10521,
+    "end_line": 10521,
+    "fingerprint": [
+     "让妻子省吃俭用",
+     "不会销售"
+    ],
+    "sha1": "7bf1a7ad78d4b771e5bc6f1dab5b09371c768c9a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "融不到资非项目即销售",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "让妻子省吃俭用、花女朋友的钱创业者不可取（10521）；与C-SG1-U0170-04用别人的钱挣钱互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0170-05",
+   "unit_id": "SG1-U0170"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人必须有点幽默感，什么事都直来直往听众提不起兴趣；幽默感是人必须具备的能力",
+   "quote": "人必须有点幽默感",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10539,
+    "end_line": 10539,
+    "fingerprint": [
+     "幽默感",
+     "听众提不起兴趣"
+    ],
+    "sha1": "726f40a4b296f855674d37c5023f0d70cf4c916d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "幽默感是必备能力",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "用骗钱一词的幽默用法帮助记牢原则（10539）；获取资源的更好听说法是好风凭借力（10537）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0170-06",
+   "unit_id": "SG1-U0170"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0170",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "女孩子嫁人最好嫁会玩能骗来钱的男人一句（10521），爱情婚姻议题，按排除准则剔除；其余例证均承载判断并入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第160封信哈佛商学院精髓：选拔看智力/精英差在智慧人脉/圈子靠玩/用别人的钱挣钱/融不到资非项目即销售/幽默感6卡；婚恋一句归X5"
+}

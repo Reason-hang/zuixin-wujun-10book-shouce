@@ -1,0 +1,138 @@
+{
+ "unit_id": "SG1-U0178",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读反主流观点的书之前一定要了解主流的观点，否则会误入歧途，像学非欧几何前必须先学好欧几里得几何",
+   "quote": "一定要了解主流的观点",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10983,
+    "end_line": 10983,
+    "fingerprint": [
+     "反主流观点",
+     "误入歧途"
+    ],
+    "sha1": "8b3dbafb8df038e19892ef26a2a798e965a8fa76"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "先主流后异端",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "如果赫拉利的书是读到的第一本这类书，可能会被洗脑丧失判断力（10985）；跳出定势思维重新审视流行观点同旨（11005）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0178-01",
+   "unit_id": "SG1-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人的自由意志远比想象的少：要么被主流观点影响要么被异端洗脑；几百到几千人一起行动时会做个体不会做的事",
+   "quote": "人的行为是受到他人影响的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10993,
+    "end_line": 10993,
+    "fingerprint": [
+     "几百人到几千人",
+     "并没有什么自由意志"
+    ],
+    "sha1": "47ad3eeeac14839ee088baf4ef02ff11b450129f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "群体行为无自由意志",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "伯克利学生反特朗普游行发展至烧车砸银行例（10989-10991）；今天大学生与50年前嬉皮士、80年前冲锋队行为相似（10995）；由C-SG1-U0178-01读书洗脑例引出（10985）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0178-02",
+   "unit_id": "SG1-U0178"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "赫拉利：宗教是人类最大的发明，神是人创造的（而不是相反），有了神人类才强大；这恰说明人比其他动物缺乏自由意志",
+   "quote": "神是人创造的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10997,
+    "end_line": 10997,
+    "fingerprint": [
+     "宗教是人类最大的发明",
+     "缺乏自由意志"
+    ],
+    "sha1": "1fbfc18b678d8275bf7f7157f82725f036356077"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "神是人造的发明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=赫拉利（《人类简史》《未来简史》作者）；吴军评其敢说皇帝是裸体的（10997）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0178-03",
+   "unit_id": "SG1-U0178"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "刑侦学共识：谁是最大的受益者，谁就可能是犯罪的主谋",
+   "quote": "谁就可能是犯罪的主谋",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11017,
+    "end_line": 11017,
+    "fingerprint": [
+     "最大的受益者",
+     "犯罪的主谋"
+    ],
+    "sha1": "77bd5ba1ed9842739f397ee652b57ebdb9ee375e"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "受益者归因法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=刑侦学共识，吴军取用于全球化利益分析；全球化受益者是大跨国公司和金融机构（11017）；苹果避税手段本质是全球化（11017）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0178-04",
+   "unit_id": "SG1-U0178"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0178",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时事评论与具体事件论断（10973-10979、10999-11015）：《未来简史》中美亚马逊销量排名对比与畅销三原因（2017年3月时点）、全球化输赢账、库克与美国制造之辩、苹果缴税与张昭富市长增税政绩、大企业联邦税占比变化，均依附当时事件与人物，离开时点失效；受益者归因判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0178",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "赫拉利'神人'预测（拥有财富、能改造基因、成为其他人意志的所有者，11001）及吴军'神人已出现'的引申、超级智能控制意志之问（11019），科技与社会趋势预测，按R5登记X6候选由P4终裁"
+  },
+  {
+   "unit_id": "SG1-U0178",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "锵锵三人行节目信息与收看提示、推荐阅读列表（10971、11021-11031），载体性信息"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第168封信自由意志：先主流后异端/群体行为无自由意志/赫拉利神人造(E2)/受益者归因法(E2)4卡；时事评论X2、神人预测X6、节目信息X1"
+}

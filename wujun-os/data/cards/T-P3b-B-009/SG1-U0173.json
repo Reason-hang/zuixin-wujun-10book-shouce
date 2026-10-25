@@ -1,0 +1,173 @@
+{
+ "unit_id": "SG1-U0173",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "布罗迪：运气对人一生很重要，杜鲁门一生坏运气不断终成总统即是例证",
+   "quote": "运气对人一生的重要性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10683,
+    "end_line": 10683,
+    "fingerprint": [
+     "布罗迪",
+     "运气对人一生的重要性"
+    ],
+    "sha1": "f990e16dc01f3ab9db14ef81bce7ca2ad70039ab"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "运气决定一生高度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=布罗迪（吴军博士毕业典礼上讲话的校长）；杜鲁门坏运气清单：农家出身、没钱上大学、视力差落选西点、求Rejected、小店破产、竞选落选（10685-10695）；好运气：四候选人退出递补参议员、1944年罗斯福选副手、罗斯福去世继任（10697-10701）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0173-01",
+   "unit_id": "SG1-U0173"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人在运气不好的时候，最需要的不是盲目的努力，而是耐心；走出坏运气的关键是让时间成为朋友",
+   "quote": "不是盲目的努力，而是耐心",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10703,
+    "end_line": 10703,
+    "fingerprint": [
+     "盲目的努力",
+     "耐心是成功的第一要素"
+    ],
+    "sha1": "1eff61073a8499c56b6d1449ae1c3e0a6d064b9f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "走出坏运气靠耐心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "老天饿不死瞎家雀、天生我材必有用（10703）；杜鲁门成功第一要素是耐心（10707）；与C-SG1-U0173-01布罗迪讲话互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0173-02",
+   "unit_id": "SG1-U0173"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "马尔基尔：时间是你的朋友，而时机不是；聪明的投资人永远在股市上投资，不投机挑最低点和最高点",
+   "quote": "时间是你的朋友，而时机不是",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10703,
+    "end_line": 10705,
+    "fingerprint": [
+     "马尔基尔",
+     "投资回报少了一半"
+    ],
+    "sha1": "c14d9940cd5d310f363e5c7440f75b7a5dfa7b9e"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "时间是朋友时机不是",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=马尔基尔（《漫步华尔街》作者、吴军金融学101课程老师）；错过涨幅最快的25天回报减半、45年财富积累少掉80%（10705）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0173-03",
+   "unit_id": "SG1-U0173"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何经历只要善于利用都是财富，不善于利用都是浪费时间；有心人把过去经历变为今后成功的铺路石",
+   "quote": "经历变为今后成功的铺路石",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10707,
+    "end_line": 10707,
+    "fingerprint": [
+     "善于利用都是财富",
+     "铺路石"
+    ],
+    "sha1": "3e08dcc936558f0007eae1d39538456648cd6ff2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "经历善用即财富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "杜鲁门不走运时其实为后来做了很多准备，有准备的头脑（10707）；与C-SG1-U0173-02耐心互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0173-04",
+   "unit_id": "SG1-U0173"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功时感谢帮助过自己的人和命运、厄运中坦然自若；对运气的认同让人少怨气、更平和地做事，也就更接近成功",
+   "quote": "少一些怨气，就能更平和地做事",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10719,
+    "end_line": 10719,
+    "fingerprint": [
+     "感谢上天安排的命运",
+     "认同自己不过是运气好"
+    ],
+    "sha1": "ea5c84a89c9c5455f8730dcdaa298cd4470e5777"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "认同运气少怨气",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "反面：股市暴涨尽股神、暴跌怨市场（10717）；真正成功者绝大部分认同自己不过运气好（10719）；运气依然不来则用约翰·肯尼迪的话安慰自己：问心无愧是我们唯一稳得的报酬（10721，转述引语；与U0186问心无愧卡同源）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0173-05",
+   "unit_id": "SG1-U0173"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "humble（朴实低调）是美德：humble的人常常比夸夸其谈的人更为自信，不需要靠吹嘘让别人知道其能力",
+   "quote": "比夸夸其谈的人更为自信",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10709,
+    "end_line": 10709,
+    "fingerprint": [
+     "humble",
+     "更为自信"
+    ],
+    "sha1": "7a13d8b88adb78e34172563b11a3eee3690d5fd8"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "humble即朴实自信",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军孩子的老师；humble指朴实低调而非谦卑（10709）；杜鲁门能当上副总统主要靠humble品质，为各方所接受（10709）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0173-06",
+   "unit_id": "SG1-U0173"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第163封信运气的重要性：布罗迪谈运气(E2)/走出坏运气靠耐心/马尔基尔时间是朋友(E2)/经历善用即财富/认同运气少怨气/humble美德(E2)6卡；杜鲁门传记叙事承载判断并入notes"
+}

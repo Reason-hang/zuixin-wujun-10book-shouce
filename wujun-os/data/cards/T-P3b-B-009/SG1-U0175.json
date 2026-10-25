@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0175",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "浓烈味道可能被用来掩盖劣质原料：厂家把次豆和快过期豆做深度烘烤让购买者喝不出不好的味道，如同川菜用辣椒掩盖怪味",
+   "quote": "掩盖住其它的味道",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10811,
+    "end_line": 10811,
+    "fingerprint": [
+     "快过期的咖啡豆",
+     "川菜用一把辣椒"
+    ],
+    "sha1": "059a6bea4415cf6e3bb80c04b6b1edb124099fdb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "重味掩盖劣质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "深度烘烤让油脂香味和焦糊味掩盖其他味道（10811）；深度烘烤咖啡因被破坏、虽浓但提神效果不好（10811）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0175-01",
+   "unit_id": "SG1-U0175"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "磨成粉后香味只能保持几个小时，好的咖啡要现磨现用",
+   "quote": "好的咖啡要现磨现用",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10817,
+    "end_line": 10817,
+    "fingerprint": [
+     "香味只能保持几个小时",
+     "现磨现用"
+    ],
+    "sha1": "677610259a249c226be70d5e0c45ec4208ca1fcc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "现磨现用保鲜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "烘烤好的咖啡豆能较长时间保持香味不丢失（10817）；品质在关键加工环节后快速衰减的普遍机理",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0175-02",
+   "unit_id": "SG1-U0175"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0175",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "咖啡制作工艺科普主体（10795-10837）：咖啡果去肉多道工艺、猫屎咖啡原理与价格、烘烤三档与酸苦原理、自制烤箱烘焙法、低因咖啡、冲与煮差异、浓缩咖啡家族（拿铁卡布奇诺白咖啡美式）、意美咖啡文化冲突，生活品味知识无可归属支柱的可迁移判断；方法论2卡已另抽"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第165封信咖啡制作生活品味专栏：抽重味掩盖劣质/现磨现用2卡；工艺科普主体归X8"
+}

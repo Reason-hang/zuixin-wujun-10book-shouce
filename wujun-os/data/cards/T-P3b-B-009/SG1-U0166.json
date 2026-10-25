@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0166",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "朴素是富豪的专利，普通人反而要更在意自己的形象",
+   "quote": "仅是富豪们的专利",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10223,
+    "end_line": 10223,
+    "fingerprint": [
+     "富豪们的专利",
+     "更在意一点自己的形象"
+    ],
+    "sha1": "1ccc3644b76118b104e4a0da961b7be7be4b5248"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "朴素是富豪专利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全文反转论点；布林穿短裤T恤与代表团合影、佩奇开旧车例：正是世界首富才没有必要炫耀；梅耶尔当副总裁后不再讲究，没有必要炫耀了；回应读者之问（10219、10221，读者原文归X7）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0166-01",
+   "unit_id": "SG1-U0166"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "外在形象很重要，尤其是当一个人还没有成为大家敬仰的精英之前",
+   "quote": "还没有成为大家敬仰的精英之前",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10237,
+    "end_line": 10237,
+    "fingerprint": [
+     "外在的形象其实很重要",
+     "精英之前"
+    ],
+    "sha1": "831e7e331e59dc9718e1f945334451ba572797ec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "形象重要性前置",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国军接收台湾军容褴褛失民心例（10239-10253）；魏德迈用美式装备新六军受降南京振士气；名将可穿便装因不怒自威，勤务兵低级军官不可（10257）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0166-02",
+   "unit_id": "SG1-U0166"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人需要把自己收拾得得体干净，体现精神风貌也是对别人的尊重；自认有内涵而不注重外表会丢掉交往机会",
+   "quote": "对别人的尊重",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10261,
+    "end_line": 10261,
+    "fingerprint": [
+     "收拾得得体干净",
+     "丢掉机会"
+    ],
+    "sha1": "2c5566540fcef97f37f90b361aa5f703d79b9a41"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-1"
+   ],
+   "concept_key": "得体是尊重与机会",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "与朴素是富豪专利（C-SG1-U0166-01）构成一体两面：精英可不拘形象，普通人模仿反而丢机会",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0166-03",
+   "unit_id": "SG1-U0166"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不主张为虚荣购买超出购买力的奢侈品，硬撑门面适得其反",
+   "quote": "硬撑门面的做法可能适得其反",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10259,
+    "end_line": 10259,
+    "fingerprint": [
+     "超出自己购买力的奢侈品",
+     "适得其反"
+    ],
+    "sha1": "75644ad682f47aa68b4bcc4f7b59d2514b6e6ce3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "虚荣消费适得其反",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "刻意节衣缩食用奢侈品与内心空虚撑门面一眼可辨；奢侈品店销售经理十分钟看出顾客经济情况的佐证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0166-04",
+   "unit_id": "SG1-U0166"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0166",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者'茶与学习'回信原文（10219-10221）：做事忘却根本目的停留在表面、前台岗位何必美貌并重、马云做前台公司是否倒闭之问；吴军回应已入K卡（C-SG1-U0166-01）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第156封信朴素是富豪的专利：形象重要性前置/朴素是富豪专利/得体是尊重/虚荣消费适得其反；读者来信原文归X7"
+}

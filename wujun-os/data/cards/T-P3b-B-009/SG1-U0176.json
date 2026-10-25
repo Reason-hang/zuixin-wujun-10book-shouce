@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG1-U0176",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "东方古文明中科学依附实用目的，成就来自经验积累与偶然发现而非逻辑推理，科学发展因此非常慢",
+   "quote": "来自于经验的积累",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10857,
+    "end_line": 10857,
+    "fingerprint": [
+     "科学依附于实际的应用",
+     "不是逻辑推理"
+    ],
+    "sha1": "4327aee96429757b0b6594895921c02fca9b1966"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "经验科学vs逻辑科学",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "古代东方科学与技术混为一谈称科技（10855）；建立非功利的、纯粹的、理性的科学体系的任务交到希腊人手里（10857）；与C-SG1-U0176-03知识三来源互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0176-01",
+   "unit_id": "SG1-U0176"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "毕达哥拉斯把科学神圣化，让科学免于功利性影响独立发展：不看实际应用而重科学内在逻辑，通过逻辑推理获得新知识建立体系",
+   "quote": "科学本身内在的逻辑性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10865,
+    "end_line": 10865,
+    "fingerprint": [
+     "免于功利性的影响",
+     "逻辑推理"
+    ],
+    "sha1": "9ade7c53711fc18d5088640b167f8842d664ee98"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "科学非功利独立发展",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "论证必须从假设出发通过演绎推导得出，而不是通过测量和经验（10867）；让古希腊科学体系超越东方工匠式经验体系（10867）；出身富商可不图功利是前提（10853）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0176-02",
+   "unit_id": "SG1-U0176"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类知识原本只有亲身感知和他人告知两个来源，毕达哥拉斯之后有了第三个来源：逻辑推知",
+   "quote": "第三个来源，即逻辑推知",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10887,
+    "end_line": 10887,
+    "fingerprint": [
+     "亲身感知和他人告知",
+     "逻辑推知"
+    ],
+    "sha1": "d4d382ce393027f0d6b6e56a84ff7a752d27357b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "知识第三来源逻辑推知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "认识上的巨大飞跃（10887）；整个数学体系靠逻辑推知，牛顿力学大部分结论、相对论、黑洞与暗能量理论多为逻辑推理结果（10889）；中国靠逻辑推知的发现找不出太多（10891）；最想问毕达哥拉斯如何认识到科学有内在逻辑（10887）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0176-03",
+   "unit_id": "SG1-U0176"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "再多的特例也不等于找到了普遍规律，更不等于证明了它",
+   "quote": "特例也不等于找到了普遍规律",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10869,
+    "end_line": 10869,
+    "fingerprint": [
+     "勾股定理的特例",
+     "普遍规律"
+    ],
+    "sha1": "eb360af3bdabfaba331be14f2ed0e40874ba9293"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "特例不等于证明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "毕达哥拉斯两方面突破：认识到直角三角形普遍规律（假设）+用严密逻辑证明而非穷举或测量（10871）；与C-SG1-U0176-02逻辑推理互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0176-04",
+   "unit_id": "SG1-U0176"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0176",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "毕达哥拉斯生平与学派史（10847-10885）：富商出身游学、办学信奉数学、黄金分割与毕氏音程、百牛定理记载源自欧几里得、希帕索斯发现无理数被处死的公案、学派影响柏拉图亚里士多德托勒密哥白尼，纯科学史科普；认识论判断已入K卡4张"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第166封信对话毕达哥拉斯：经验科学vs逻辑科学/科学非功利独立发展/知识第三来源逻辑推知/特例不等于证明4卡；毕氏生平学派史归X4"
+}

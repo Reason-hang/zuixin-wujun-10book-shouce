@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0169",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国军队培养人的标准和未来领袖应具有的素质是一致的",
+   "quote": "培养人的标准和未来领袖",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10437,
+    "end_line": 10437,
+    "fingerprint": [
+     "美国军队培养人的标准",
+     "素质是一致的"
+    ],
+    "sha1": "440074726a8b6cb77fc6195eeb83ba4ace73acb3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "培养标准即领袖素质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二战后13位总统9位正式服过兵役，老布什肯尼迪约翰逊是战斗英雄（10437）；唐代出将入相对比（10423）；参观见闻引入（10399-10405）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0169-01",
+   "unit_id": "SG1-U0169"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "作为军人先要学会服从才能指挥别人；西点前三年学生被要求学会服从",
+   "quote": "先要学会服从才能指挥别人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10461,
+    "end_line": 10461,
+    "fingerprint": [
+     "前三年学生被要求就是学会服从",
+     "指挥别人"
+    ],
+    "sha1": "bf3817c6f4e93dd2c9135a5d694af893f6cbc5cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "先服从后指挥",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "第四年学战术指挥，战略回炉战争学院再学（10461）；与《态度》服从是学会领导的第一步同旨",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0169-02",
+   "unit_id": "SG1-U0169"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好的军人是具有理性思维和专业知识的人，不是四肢发达头脑简单的一介武夫",
+   "quote": "理性思维和专业知识的人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10473,
+    "end_line": 10473,
+    "fingerprint": [
+     "好的军人是具有理性思维",
+     "一介武夫"
+    ],
+    "sha1": "7fedecfa503766e86ba6ed2a3b2b56921c82eed2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "精英靠理性与专业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "西点授予清一色工程学位，16门核心课程以数学和工程为主，纯军事课仅10门（10471-10473）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0169-03",
+   "unit_id": "SG1-U0169"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "推荐制以推荐人自己的政治前途作担保，防止精英互相提携亲友造成近亲繁殖",
+   "quote": "以自己的政治前途作担保",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10451,
+    "end_line": 10451,
+    "fingerprint": [
+     "政治前途作担保",
+     "纨绔子弟"
+    ],
+    "sha1": "b6d139029cb2dfe1e5638e82c6777a2276ad3a95"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "担保制防近亲繁殖",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被推荐者退学或被开除即是推荐人政治污点，故无人愿为纨绔子弟冒名誉风险（10451）；申请者可直接写信求推荐，推荐人成为第一批审核者（10451）；马歇尔溜进白宫找总统推荐例（《品格之路》10455）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0169-04",
+   "unit_id": "SG1-U0169"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "培养领袖非常看重领导力：录取者约四分之一是学生会主席、一大半是演讲队成员，沟通表达能力重要",
+   "quote": "沟通能力和表达能力也很重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10459,
+    "end_line": 10459,
+    "fingerprint": [
+     "学生会主席",
+     "演讲队成员"
+    ],
+    "sha1": "3a01534dd1d79d3166ec6f8ae4937821b06ea311"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D07-1"
+   ],
+   "concept_key": "领袖重沟通表达",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "西点目标是培养未来军界乃至政界领袖（10459）；与C-SG1-U0169-01培养标准互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0169-05",
+   "unit_id": "SG1-U0169"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0169",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "西点军史与招生数据科普（10399-10433、10441-10449、10465-10471）：三军官学院并列、海军陆战队隶属海军部、西点地名与1802年杰斐逊建校、麦克阿瑟确立体育传统、录取率与成绩体育数据、推荐名额制度细节、课程清单，纯院校史实科普；选拔培养的可迁移判断已入K卡5张"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第159封信西点选拔看培养：培养标准即领袖素质/先服从后指挥/精英靠理性与专业/担保制防近亲繁殖/领袖重沟通表达5卡；西点历史与招生数据科普归X4"
+}

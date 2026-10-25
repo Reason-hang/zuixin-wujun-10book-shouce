@@ -1,0 +1,119 @@
+{
+ "unit_id": "SG1-U0172",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学习是一辈子的事，是跑马拉松而不是跑百米；最后的赢家是坚持跑下来的人",
+   "quote": "是跑马拉松，而不是跑百米",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10617,
+    "end_line": 10617,
+    "fingerprint": [
+     "跑马拉松",
+     "跑百米"
+    ],
+    "sha1": "7b92b617c3bfb5224d461f822572c35b5af4a58b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "人生是马拉松",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "50人班永远有第一名和第五十名（10617）；每过一个阶段就有人主动退场，赢在起跑线者反而退场（10619）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0172-01",
+   "unit_id": "SG1-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在起跑线上的输赢对一生的影响并不是那么大，领先的优势其实未必能持续很久",
+   "quote": "对一生的影响并不是那么大",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10645,
+    "end_line": 10645,
+    "fingerprint": [
+     "起跑线上的输赢",
+     "未必能持续很久"
+    ],
+    "sha1": "3f6d4d7feaef015a47fbafa78c107fcd40b18a26"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "起跑输赢影响有限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "杜鲁门高中毕业十多年一事无成后来长跑赢得很漂亮（10641-10645）；罗斯赢在起跑线靠杜鲁门提携平步青云（10627-10633）；1948年连任先落后也说明起跑优势不重要（10645）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0172-02",
+   "unit_id": "SG1-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "玻璃心的养成与今天过分强调起跑线有关：一朝落后永远落后的暗示让孩子一遇挫折就害怕",
+   "quote": "过分强调起跑线的重要性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10649,
+    "end_line": 10651,
+    "fingerprint": [
+     "玻璃心是如何养成的",
+     "一朝落后，永远落后"
+    ],
+    "sha1": "3fb17cb178a52403242acac52a2f91dbce8ce3b3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "起跑线催生玻璃心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "家长学校一面施压一面保驾护航，大家都输不起（10653）；玻璃心一旦养成副作用非常大，一辈子都是大问题（10655）；清华200名顶尖新生期中考试即见坚强心脏与玻璃心之分（10657-10659）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0172-03",
+   "unit_id": "SG1-U0172"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聪明人不妨练就一颗永远摔不坏的强大的心脏，跌倒还能不断爬起来坚持跑下去",
+   "quote": "永远摔不坏的强大的心脏",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10661,
+    "end_line": 10661,
+    "fingerprint": [
+     "强大的心脏",
+     "不断爬起来"
+    ],
+    "sha1": "cde030b5daac14361066b18aa42e532bd521f0be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "练就强大心脏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "玻璃心长大后无法为长跑提供动力（10655）；一边跑一边欣赏路旁的风景更好，最终提前到终点的是这样的人（10661）；与C-SG1-U0172-03成因互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0172-04",
+   "unit_id": "SG1-U0172"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第162封信起跑线和玻璃心：人生是马拉松/起跑输赢影响有限/起跑线催生玻璃心/练就强大心脏4卡；杜鲁门罗斯故事承载判断并入notes"
+}

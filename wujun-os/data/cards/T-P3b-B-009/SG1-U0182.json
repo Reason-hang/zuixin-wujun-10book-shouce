@@ -1,0 +1,119 @@
+{
+ "unit_id": "SG1-U0182",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对那些不主动的人，上帝也没有办法；机会不会垂青消极等待的人",
+   "quote": "对那些不主动的人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11239,
+    "end_line": 11239,
+    "fingerprint": [
+     "上帝也没有办法",
+     "不主动的人"
+    ],
+    "sha1": "c6721877fdf7acc1af6d31285b66c73df91dd0e3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "上帝不救不主动的人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "教徒火灾中等上帝救援拒绝消防员和直升机笑话承载（11227-11237）；努力工作却不被提拔者的教徒式想法是缺乏主动性（11241）；与格局《上帝只垂青主动的人》同旨",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0182-01",
+   "unit_id": "SG1-U0182"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "主动性不仅体现在像老黄牛一样做好本职工作，还在于能主动和领导沟通、承担更多更重要的任务",
+   "quote": "主动和领导沟通",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11243,
+    "end_line": 11243,
+    "fingerprint": [
+     "把本职工作做好",
+     "主动和领导沟通"
+    ],
+    "sha1": "ddde2d64d43c9d7f204c6624e274e34c8a2f3cf5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "主动沟通担任务",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "经理管20人每周每人聊半小时就占掉四分之一工作时间，领导难主动了解每个人（11243）；聊了也未必记得住（11245）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0182-02",
+   "unit_id": "SG1-U0182"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理上级不是给上级分配任务，而是让他了解你的工作，并在必要时及时寻求他的帮助",
+   "quote": "让他了解你的工作",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11247,
+    "end_line": 11247,
+    "fingerprint": [
+     "管理上级不是给你的上级分配任务",
+     "及时寻求他的帮助"
+    ],
+    "sha1": "0915bbfe9201844b3626d49a3d432f1daafdfebb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "向上管理定义",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "这样主动的员工老板们都喜欢（11247）；与C-SG1-U0182-02同链；从一个人做事的主动性可以看出他将来的出息（11249）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0182-03",
+   "unit_id": "SG1-U0182"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业成功靠主动创造条件：没有支付手段就做一个，没有信用体系就建一个，没有好的物流就谈一个",
+   "quote": "没有支付手段，他就做一个",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11261,
+    "end_line": 11261,
+    "fingerprint": [
+     "没有信用体系就建立一个",
+     "没有好的物流"
+    ],
+    "sha1": "6a1645fec15144f35c01aa8214499e4356dc8581"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创业主动造条件",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "8848倒闭后归因环境不具备，马云花几年主动解决电商大部分问题才有了后来的成功（11257-11263）；阿里软件帮助供货方失败例（11263）；签证排队发号、李强托福报名发号主动性例证（11251-11255）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0182-04",
+   "unit_id": "SG1-U0182"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第172封信上帝垂青主动的人：上帝不救不主动的人/主动沟通担任务/向上管理定义/创业主动造条件4卡"
+}

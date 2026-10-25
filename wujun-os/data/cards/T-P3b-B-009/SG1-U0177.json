@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG1-U0177",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "庄子：夏虫不可语冰、乡曲之人不可论道——见识受时间与教育环境的限制",
+   "quote": "夏天的虫子不可能谈论冰",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10923,
+    "end_line": 10923,
+    "fingerprint": [
+     "《庄子》说",
+     "乡曲之人"
+    ],
+    "sha1": "c04d7d8f380e8704c3be71e391db84aab9218a29"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "夏虫不可语冰",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=庄子（《秋水》）；望洋兴叹典源：河神入海望洋向若而叹（10921）；见识的重要性由庄子阐述（10921）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0177-01",
+   "unit_id": "SG1-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成败取决于见识的高低，而不是自己简单的努力；人最终能走多远，取决于他们的见识",
+   "quote": "取决于他们的见识",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10923,
+    "end_line": 10925,
+    "fingerprint": [
+     "见识的高低",
+     "简单的努力",
+     "名师出高徒"
+    ],
+    "sha1": "31ccee5b0c27ad79b679643fe4a36f55e690ed4c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "走多远看见识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "见识的高低取决于我们的环境（10923）；吴军放弃既得利益赴美一流实验室遇世界级大师开阔眼界例（10927）；庄子原话见C-SG1-U0177-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0177-02",
+   "unit_id": "SG1-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "名师出高徒、与比自己好的人为伍，实际上就是为了提高我们的见识",
+   "quote": "与比自己好的人为伍",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10925,
+    "end_line": 10925,
+    "fingerprint": [
+     "名师出高徒",
+     "提高我们的见识"
+    ],
+    "sha1": "b5df5d2854371e2a52667e11098a8c5844116dd5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-2"
+   ],
+   "concept_key": "与高手为伍提见识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG1-U0177-02同段互引；交友的目的落在提高见识",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0177-03",
+   "unit_id": "SG1-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天增加见识比过去容易得多，但心中依然给自己围一道墙；是否愿意提升境界，阻力很多时候在我们自身",
+   "quote": "阻力很多时候在我们自身",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10929,
+    "end_line": 10929,
+    "fingerprint": [
+     "给自己围起来一道墙",
+     "在我们自身"
+    ],
+    "sha1": "a3c4b79107035571c6c81aa7d72433d80b1eb269"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "见识阻力在自身",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "满足于自己的成就和环境、觉得自己了不起而不开放（10931）；毛泽东被亲戚带出韶山冲才知道天下之大例（10929）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0177-04",
+   "unit_id": "SG1-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大和小是相对的：自己觉得很大，放到更大的环境中就显得渺小；把成就放到大时代里不值得沾沾自喜",
+   "quote": "放到更大的环境中就显得渺小了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10931,
+    "end_line": 10931,
+    "fingerprint": [
+     "大和小是相对的",
+     "显得渺小了"
+    ],
+    "sha1": "4af47133bd2eed379e7d3fe1e8bb4c53d7390c8e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "大小相对不自满",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "寒蝉、大龟、大椿时间相对性（10933）；做件好事受夸奖放到大时代算不上什么（10933）；微软Office上千工程师的改进放到十几年里可有可无例（10937）；高瞻远瞩=把目光放远（10937）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0177-05",
+   "unit_id": "SG1-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从细小的角度看大的东西不可能全面，从大的角度看细小的东西也不可能真切；大和小各有合宜之处，把握度让它们相辅相成是艺术",
+   "quote": "看大的东西是不可能全面的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10939,
+    "end_line": 10939,
+    "fingerprint": [
+     "不可能真切",
+     "各有各的合宜之处"
+    ],
+    "sha1": "50388c7b3ca412dbbc93ab0a34721d779cf3f690"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "大小各有合宜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "过分追求大、追求长远，可能一事无成（10939）；与C-SG1-U0177-05大小相对互引，构成度的一体两面",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0177-06",
+   "unit_id": "SG1-U0177"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0177",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "庄子其人其书介绍与文学引录（10903-10921）：庄子是异数、逍遥游开篇原文引录、毛泽东诗词两次引用、庄周奇想；阅读方法建议（白话文对照、蔡志忠漫画）与推荐阅读列表（10941-10957），无可迁移判断；见识论判断已入K卡6张"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第167封信对话庄子1见识：夏虫不可语冰(E2)/走多远看见识/与高手为伍提见识/见识阻力在自身/大小相对不自满/大小各有合宜6卡；庄子引录与推荐阅读归X8"
+}

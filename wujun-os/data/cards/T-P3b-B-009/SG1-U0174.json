@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0174",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其为生前名利和身后名费尽心思，不如像杜邦把漂亮的大花园捐给大众，让人记住这位慈善家",
+   "quote": "把一个漂亮的大花园捐给大众",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10781,
+    "end_line": 10783,
+    "fingerprint": [
+     "生前的名利",
+     "慈善家"
+    ],
+    "sha1": "6e76a5d3961a232208ed2d0c862eed13212051f2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "捐产留名胜逐利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "很多人为生前名利搞得家破人亡最终未必如愿（10783）；杜邦为特拉华州免州税传统保留至今（10783）；长木花园为杜邦遗嘱捐赠开放（10739）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0174-01",
+   "unit_id": "SG1-U0174"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多时候，我们不能听别人怎么讲，要看他们怎么做",
+   "quote": "要看他们怎么做",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 10785,
+    "end_line": 10785,
+    "fingerprint": [
+     "不能听别人怎么讲",
+     "避税"
+    ],
+    "sha1": "a97890422eeb2dd9aeac314b8d90f2af75b16311"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "听言不如观行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼吁加税的富豪暗地避税、负担转嫁中产例（10785）；与U0185看人是否对自己好要看做法互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0174-02",
+   "unit_id": "SG1-U0174"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0174",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "长木花园游记主体（10733-10781）：花园历史沿革（皮尔斯农场-植物园-杜邦1906购园）、欧美园林风格对比、彩色喷泉表演、室内花园兰花、殖民风格住房博物馆、位置与交通指南，行程与景观叙述为主，含杜邦生平背景；方法论仅2卡（10783-10785）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第164封信长木花园游记为主（X3），仅抽捐产留名与听言不如观行2卡"
+}

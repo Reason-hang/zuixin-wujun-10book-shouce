@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0186",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上有三种悲剧：自身错误所致、环境约束所致、无人做错而每步都正确却终局悲惨的命运悲剧，第三种最可悲",
+   "quote": "这恐怕要算是命运使然了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11455,
+    "end_line": 11457,
+    "fingerprint": [
+     "第一种是由于自身的错误",
+     "命运使然"
+    ],
+    "sha1": "a3b42ab53c1e6ec1a1a943722147d7ea5c065d73"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-1"
+   ],
+   "concept_key": "悲剧三类型",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "自身错误例：朋友恋爱婚姻一错再错（11455）；环境例：罗密欧与朱丽叶生于敌对家族（11455）；命运例：俄狄浦斯王与薛宝钗（11457）；宝钗悲剧无人做错什么（11459）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0186-01",
+   "unit_id": "SG1-U0186"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "努力未必能有回报，但是不努力你会后悔，问心无愧是我们唯一稳得的报酬；凡事要尽人事，但也要听天命",
+   "quote": "问心无愧是我们唯一稳得的报酬",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11469,
+    "end_line": 11469,
+    "fingerprint": [
+     "努力未必能有回报",
+     "尽人事"
+    ],
+    "sha1": "e4e5561079ab3016771da50581a734f752e897b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "尽人事听天命",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "回应努力却得不到机会的读者之问（11467）；宝钗式人生注脚；肯尼迪同语引录见C-SG1-U0173-05 notes；与格局《问心无愧是稳得的报酬》《尽人事，仍需听天命》同旨",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0186-02",
+   "unit_id": "SG1-U0186"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人生不如意事十常居七八，遇到这种事还是要活下去；很多时候我们不得不向命运低头",
+   "quote": "很多时候我们不得不向命运低头",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11461,
+    "end_line": 11463,
+    "fingerprint": [
+     "向命运低头",
+     "人还是要活下去"
+    ],
+    "sha1": "648db890cbf5ff0e362fa76bf933406717ba6c72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "不如意仍前行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "贝多芬是与命运抗争的英雄，但英雄们没有赢（11461）；宝钗并无怨言、帮助宝玉解脱精神痛苦（11463）；与C-SG1-U0186-01悲剧三类型互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0186-03",
+   "unit_id": "SG1-U0186"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0186",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "红楼梦人物赏析与文学引录（11435-11459、11465-11467）：宝钗身世才情与选妃背景、元妃赐礼暗示金玉良缘、宝玉对她没感觉的分析、元稹《离思》与两种男人论（歌德但丁）、脂砚斋批语，纯文学赏析无结论句可归属；俄狄浦斯王剧情梗概（11471-11481）为戏剧内容复述"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第176封信可怜人薛宝钗：悲剧三类型/尽人事听天命/不如意仍前行3卡；红楼梦赏析与俄狄浦斯梗概归X8"
+}

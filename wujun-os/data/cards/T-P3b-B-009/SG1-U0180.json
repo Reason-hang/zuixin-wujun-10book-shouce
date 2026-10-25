@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG1-U0180",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1I",
+ "batch_id": "T-P3b-B-009",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "庄子：吾生也有涯，而知也无涯，以有涯随无涯，殆矣——以有限生命追求无限的知识是要失败的",
+   "quote": "以有涯随无涯，殆矣",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11111,
+    "end_line": 11111,
+    "fingerprint": [
+     "吾生也有涯",
+     "知也无涯"
+    ],
+    "sha1": "b24887ef55c9ec000ff78f179c7016006879d8cb"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D03-1"
+   ],
+   "concept_key": "生有涯知无涯",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=庄子（《养生主》开篇）；已而为知者，殆而已矣（11111）；吴军大学读到此段感叹其智慧：时间有限必须有所舍弃（11113-11115）；做减法智慧的思想源头（11105）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0180-01",
+   "unit_id": "SG1-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做更多事情的诀窍就是不做事情：跳出固定思维换角度判断重要性，其次敢于舍弃",
+   "quote": "诀窍就是不做事情",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11117,
+    "end_line": 11117,
+    "fingerprint": [
+     "诀窍就是不做事情",
+     "敢于舍弃"
+    ],
+    "sha1": "ed9cec8767ee43418b20ada664f2ec8d7a78aeec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "时间诀窍是不做事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "习惯性迟到者的定式思维：临时插进来的事情必须要做，其实不做天也塌不下来（11117-11119）；跳出常人固定思维是两大优点之一（11117）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0180-02",
+   "unit_id": "SG1-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一个人不能把一件事情做好就应该少做事情：下属两件工作不能胜任就交出一件，做两件公司收获是0、做一件好歹收获1",
+   "quote": "公司的收获是0",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11125,
+    "end_line": 11125,
+    "fingerprint": [
+     "交出一件事情给别人",
+     "收获是0"
+    ],
+    "sha1": "101c60d057dc24d56bdb70dd2f91284b9b45498a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "少做才能做好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "压力下一件也做不好，哪怕天天加班（11125）；对想晋升者不加任务反而收回一件（11125）；管理场景承载取舍判断，与C-SG1-U0180-02同链",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0180-03",
+   "unit_id": "SG1-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "如果时间比钱更重要，为获得时间反而应该辞去占用时间最多的高薪工作（跳出定式的逆向取舍）",
+   "quote": "我反而是应该辞去高薪的工作",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11129,
+    "end_line": 11129,
+    "fingerprint": [
+     "占用我时间最多的事情",
+     "辞去高薪的工作"
+    ],
+    "sha1": "2f4563c2815724768555be110ee611450ad4efab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-3"
+   ],
+   "concept_key": "时间重于薪逆向取舍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2014年底离开Google例：Google工作占去太多时间（11127）；一般人定式是减少其他事保高薪工作（11129）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0180-04",
+   "unit_id": "SG1-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在低水平上做很多事，花两倍时间只得两倍收益；把时间集中起来将事情做得比别人好，可得10倍收益——捡芝麻与捡西瓜",
+   "quote": "捡芝麻和捡西瓜",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11145,
+    "end_line": 11145,
+    "fingerprint": [
+     "低水平上做很多事情",
+     "捡芝麻和捡西瓜"
+    ],
+    "sha1": "4efed2f230508029ea706dbd98ffa0c9caa97270"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "集中得十倍收益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两个想出国女生对比例：三本生忙于琐事应酬几年背不完托福单词、护士取消一切应酬两年后被一流公卫学院录取（11135-11143）；与第21封来信西瓜与芝麻互引（11145）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0180-05",
+   "unit_id": "SG1-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小公司必须学会做减法：资源有限，把人力集中在一个点才能短时间在某个方面领先大公司",
+   "quote": "小公司必须学会做减法",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 11151,
+    "end_line": 11151,
+    "fingerprint": [
+     "资源有限",
+     "集中在一个点"
+    ],
+    "sha1": "7f0561ee58b1666262d7b7b6fb14f10ed015fbbc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "初创聚焦做减法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "视频识别公司To Do List从三件事减到一件事获投，一年后被亚马逊高价收购，亚马逊看重的正是那一点核心价值（11153-11155）；与第11封信创业不做平台互引（11151）；人生成功的秘诀在于做减法总结（11157）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0180-06",
+   "unit_id": "SG1-U0180"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0180",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "罗辑思维2016-2017跨年演讲对吴军的评价转述与读者来信背景（11113），载体性信息；读者如何做更多事情之问为引入"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第170封信生也有涯做减法：庄子生有涯(E2)/时间诀窍是不做事/少做才能做好/时间重于薪/集中得十倍收益/初创聚焦做减法6卡；罗辑思维提及归X1"
+}
