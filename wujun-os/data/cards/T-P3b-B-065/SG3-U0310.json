@@ -1,0 +1,130 @@
+{
+ "unit_id": "SG3-U0310",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "业余还是专业，在于比同行多花多少功夫，和是否以专业精神做事",
+   "quote": "比同行多花了多少功夫",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32405,
+    "end_line": 32409,
+    "fingerprint": [
+     "业余还是专业",
+     "养家糊口"
+    ],
+    "sha1": "9aecf307501647ac8f7b7420a22b59350fd14ef1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "业余专业之分校准",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "不在养家糊口的职业是什么（32405）；尤斯塔斯为吴军谷歌隔级大老板、谷歌360度考核与晋升定级制度设计者（32391、32397）；其跳伞历史长、曾遇降落伞未开用备用伞着陆（32403）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0310-01",
+   "unit_id": "SG3-U0310"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学会用工程思维解决问题，更能解决生活和工作中很多难题",
+   "quote": "用工程思维解决问题",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32503,
+    "end_line": 32507,
+    "fingerprint": [
+     "通识教育",
+     "工程思维"
+    ],
+    "sha1": "ffa4f8c853ccfd69b8fde9ca7ad33e7198e22251"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "工程思维解决生活难题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "平流层跳伞以工程思维解决的难题：氦气球载人上升、太空服替代太空舱减重83%、管状刚性背带防缠绕（32431-32461，工程细节见X4）；极限运动遇到的每一个风险都是完全未知的（32467）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0310-02",
+   "unit_id": "SG3-U0310"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "实验和测试是工程思维的重要环节，三年准备做了250次测试",
+   "quote": "工程思维中很重要的一个环节",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32475,
+    "end_line": 32475,
+    "fingerprint": [
+     "实验和测试",
+     "三年准备"
+    ],
+    "sha1": "2b14b66a58232c16d6d0b6aaef5913039b905ba8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "实验测试是工程环节",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "2014年10月24日正式跳伞（32477）；上升两个多小时到41419米、自由落体超音速、4分半落地（32483-32491，过程史实见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0310-03",
+   "unit_id": "SG3-U0310"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "极限运动不仅难度大情况复杂，还会遇到完全未知的风险",
+   "quote": "完全未知的风险",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32523,
+    "end_line": 32523,
+    "fingerprint": [
+     "极限运动",
+     "未曾到达的极限"
+    ],
+    "sha1": "e5c9d65abf102978a63be645b3e65feba4b562bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-3"
+   ],
+   "concept_key": "极限运动完全未知风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "珠峰乔戈里峰属已知的未知、尚可借鉴前人经验与请求救助；平流层跳伞是完全未知（32389-32391）；脑损伤、突破音障冲击波等常人难以想象的困难（32465-32469）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0310-04",
+   "unit_id": "SG3-U0310"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0310",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "尤斯塔斯平流层跳伞工程与过程史实：氦气球规模与负重权衡、鲍姆加特纳39000米纪录对比、太空服研制与前苏联飞行员冻死轶事、管状背带设计、跳伞全程数据（32423-32493），工程案例史实叙述；工程思维机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第258封信：业余专业之分校准/工程思维解决生活工作难题/实验测试是工程思维环节/极限运动完全未知风险；跳伞工程与过程史实X4（人物案例信，卡数适中）"
+}

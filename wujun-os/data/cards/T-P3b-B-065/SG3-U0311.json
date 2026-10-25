@@ -1,0 +1,192 @@
+{
+ "unit_id": "SG3-U0311",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "面对现实不是对理想的妥协，是脚踏实地的态度和通往理想第一步",
+   "quote": "通往理想的第一步",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32541,
+    "end_line": 32541,
+    "fingerprint": [
+     "脚踏实地的态度",
+     "妥协"
+    ],
+    "sha1": "ce8ba3ab15bb312d95f52d315a9cf4ecbd5e382a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "面对现实通往理想",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对年轻人还是了解社会、实现职业理想的有效方法（32543）；面对现实的第一步是了解社会（32627）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0311-01",
+   "unit_id": "SG3-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "四分之三毕业生觉得找工作难，可能和薪酬预期偏高有关",
+   "quote": "和这个预期有关",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32585,
+    "end_line": 32585,
+    "fingerprint": [
+     "前2%的富裕人群",
+     "找工作难"
+    ],
+    "sha1": "72d547f830a63295c64f2e9f10da9eafce9f6f16"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "求职难与预期偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "月薪过万相当于城市居民前10%高收入、够得上交税即高收入人群（32583）；做到前10%绝大部分人努力后都能达成（32583）；期望月薪过万者超20%、67.65%自认十年后年薪过百万（32595-32597，数据见X2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0311-02",
+   "unit_id": "SG3-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用增长率算账检验预期：年增8%十年也只增长115%",
+   "quote": "十年后就是增长115%",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32601,
+    "end_line": 32601,
+    "fingerprint": [
+     "工资增长率",
+     "算笔账"
+    ],
+    "sha1": "82fe2fab3fa720d61019c64348baa2f0df47276c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D09-1"
+   ],
+   "concept_key": "增长率算账检验预期",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国工资年增4-8%且经济放缓将影响增长率（32601，时点数据见X2）；年薪百万在英美分别是前10%和前5%的年薪（32597）；今天年薪46万的人数差不多是十年后年薪100万的人数（32601）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0311-03",
+   "unit_id": "SG3-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "暂时钱少就先按现有收入过好生活、慢慢提升",
+   "quote": "过好自己的生活、慢慢提升",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32619,
+    "end_line": 32619,
+    "fingerprint": [
+     "生活态度",
+     "磕磕绊绊"
+    ],
+    "sha1": "b4e0a5d81e12ff7ea478ceda8be2becb44c5d147"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "按现有收入过生活",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "很多成功的人一开始也会磕磕绊绊（32619）；生活在大有希望的大环境里脚踏实地未来发展更顺利（32621-32623）；保持谨慎心态、仍需面对现实了解现实（32617）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0311-04",
+   "unit_id": "SG3-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "找工作前多去做社会调查，提前了解社会信息就不后悔选择",
+   "quote": "多去做做社会调查",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32631,
+    "end_line": 32633,
+    "fingerprint": [
+     "社会调查",
+     "畏难"
+    ],
+    "sha1": "c48314f830d29f607a8276daa9fd9bab04c64fa7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "求职前做社会调查",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "面对现实的第一步是了解社会（32627）；64%大学生希望进互联网但行业没有这么多职位（32629）；吴军上大学时每年做社会调查、毕业前对中央国企政府机关研究所地方国企民企都了解，因能面对现实从未后悔选择（32633）；很多人不能面对现实主因是没去了解社会（32633）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0311-05",
+   "unit_id": "SG3-U0311"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把所在城市看成校园，了解产业与商业运行，用知识分析现实问题",
+   "quote": "用现有的知识分析现实问题",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32637,
+    "end_line": 32641,
+    "fingerprint": [
+     "自己的校园",
+     "分析现实问题"
+    ],
+    "sha1": "282b02d965f5eb6276b989d03bd3690f24c7891e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "城市即校园",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "哥伦比亚大学因校园小提出'纽约是你们的校园'口号（32635）；不光观察路边摊玩乐场所还了解其产业与商业运行（32639）；四年对世界有更准确了解会帮助职业发展（32641）；脚踏实地掌握面对现实的方法（32643）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0311-06",
+   "unit_id": "SG3-U0311"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0311",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2021年中青校园两份就业调查数据与薪酬期望占比（32549-32597）、中国工资增长率4-8%等时点经济数据（32601）、日韩欧盟人均GDP对美占比历年数据（32609-32613），时点调查与行情数据本体；承载的稳定判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0311",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "各国人均收入接近美国后经济竞争力下降、不再缩小差距的历史归纳与经济学家对日韩台湾人均收入的预测（32607-32615），宏观经济与趋势预测议题；'保持谨慎面对现实'的判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第259封信：面对现实是通往理想第一步/求职难与预期偏差/增长率算账检验预期/按现有收入过生活/求职前做社会调查/城市即校园；时点调查数据X2、宏观趋势X6"
+}

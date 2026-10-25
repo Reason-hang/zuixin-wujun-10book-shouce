@@ -1,0 +1,254 @@
+{
+ "unit_id": "SG3-U0317",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高手做研究先判断课题是否在关键路径上、研究条件是否成熟",
+   "quote": "什么题目该做，什么不该做",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33355,
+    "end_line": 33365,
+    "fingerprint": [
+     "关键路径",
+     "条件"
+    ],
+    "sha1": "89bf4c5d588691578f846b47af09da94d0e3286f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "高手选题两判断",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "一般人什么热门做什么、高手做两个判断（33357-33365）；肖克利选人标准二：足够聪明、非常会做研究（33351读者转述）；枝干叶子比喻见C-SG3-U0317-02",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-01",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "关键路径课题是枝干，其成果能成为解决其它问题的工具",
+   "quote": "成为解决其它问题的工具",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33367,
+    "end_line": 33369,
+    "fingerprint": [
+     "枝干",
+     "杰夫·迪恩"
+    ],
+    "sha1": "ce96fbfd0193fde4459759999c945ee14d7f7b16"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "关键路径枝干论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "任何一门知识可比作大树、枝干问题解决后叶子问题才可能解决、解决一片叶子意义有限（33367）；杰夫·迪恩论文极少但被引量是普通教授同类课题上百倍（33369）；只看论文数量意义不大、关键看是否涉及关键路径（33369）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-02",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "卢瑟福善发现研究条件成熟的课题，并引导学生往那个方向努力",
+   "quote": "研究条件成熟的课题",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33373,
+    "end_line": 33373,
+    "fingerprint": [
+     "卢瑟福",
+     "学生的学生"
+    ],
+    "sha1": "75c0797a0b34e22038cda2bd507c44274d132f22"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "卢瑟福善选成熟课题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "指导的学生4人获诺奖、加上学生的学生可达16人（33371，史实细节见X4）；判断条件成熟的两点见C-SG3-U0317-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-03",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "课题条件成熟看两点：基础学科理论突破与相关领域技术突破",
+   "quote": "高度关注最新的理论动态",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33383,
+    "end_line": 33397,
+    "fingerprint": [
+     "新理论的诞生",
+     "高能粒子束"
+    ],
+    "sha1": "858680406251d6f7647a1597d3fb25700b74eb0e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-1"
+   ],
+   "concept_key": "条件成熟两突破",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "没有新理论的诞生很多过去的难题无从解决（33383）；洛伦兹变换助爱因斯坦发现狭义相对论（33379）；高能粒子束技术成熟让沃尔顿切开原子核、提早20年则无任何突破（33393-33395）；关注周边领域研究成果看旧难题是否有希望被解决（33397）；大部分人不做科研但高手判断该做不该做的方法有启发（33399）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-04",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "求学是个苦差事，不能因为远就犯懒就不求学了",
+   "quote": "求学是个苦差事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33343,
+    "end_line": 33343,
+    "fingerprint": [
+     "犯懒",
+     "学问虽远在中国"
+    ],
+    "sha1": "dc39f3729c3366fdeaddf0a9112ace882e61babc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "求学不畏远",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "阿拉伯谚语'学问虽远在中国，亦当求之'本义是求学不怕远（33341-33347）；谚语出处考证：不在《六大圣训集》是否穆罕默德原话不可考（33343，考证见X4）；语境为择校陪伴之辨（X5）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-05",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "了解世界先接触世界，多看研究报告少看八卦新闻",
+   "quote": "先接触这个世界",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33407,
+    "end_line": 33409,
+    "fingerprint": [
+     "研究报告",
+     "八卦新闻"
+    ],
+    "sha1": "2d4a054c93455bb62e598a5871b6433fc28ff35a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "报告胜于八卦",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "承第259封信社会调查之问（谢先生问33403）；正视坏消息、不要抱鸵鸟心态视而不见（33421）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-06",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读报告要打折：作者多为尊者讳死者讳，好消息除以二坏消息乘以二",
+   "quote": "好消息要除以二",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33411,
+    "end_line": 33411,
+    "fingerprint": [
+     "为尊者讳",
+     "坏消息"
+    ],
+    "sha1": "d52c3dc227b937811b557a87a2113e1456f2aebf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "信息折扣原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "绝大部分研究报告作者有'为尊者讳，为死者讳'的坏习惯（33411）；最重要的是亲自获得别人没有的信息（33413）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-07",
+   "unit_id": "SG3-U0317"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要获得别人没有的信息，就要付出别人没有付出的劳动",
+   "quote": "付出别人没有付出的劳动",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33419,
+    "end_line": 33419,
+    "fingerprint": [
+     "别人没有的信息",
+     "劳动"
+    ],
+    "sha1": "4f37404f4e6ad4c4bca77902d9f827895e6c0322"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D05-1"
+   ],
+   "concept_key": "付出非常劳动得非常信息",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "莱福特（Andrew Left）做空案例：派人统计做空企业真实经营情况而非只看粉饰数字（33415-33417，案例细节见X4）；被他唱衰的公司最后证明没有一个是好的（33415）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0317-08",
+   "unit_id": "SG3-U0317"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0317",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "devil问送小学二年级女儿去重庆求学与陪伴之辨及吴军意见：送孩子去更远更好的学校住读、十一二岁住校同学案例（33303-33339），亲子教育与择校议题"
+  },
+  {
+   "unit_id": "SG3-U0317",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "卢瑟福金箔实验、沃尔顿高能粒子切开原子核、狭义相对论与洛伦兹变换等科学史细节（33379-33395）、穆罕默德谚语出处考证（33343-33347）、莱福特做空统计案例细节（33415-33417），科学史与考证；机理判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0317",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文三条：devil（33303）、小意思（33351）、谢先生（33403），读者原文不作抽取；吴军回应判断已逐条成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问52：高手选题两判断/关键路径枝干论/卢瑟福善选成熟课题/条件成熟两突破/求学不畏远/报告胜于八卦/信息折扣原则/付出非常劳动得非常信息；择校陪伴X5、科学史考证X4、读者原文X7"
+}

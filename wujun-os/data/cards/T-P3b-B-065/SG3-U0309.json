@@ -1,0 +1,218 @@
+{
+ "unit_id": "SG3-U0309",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "内容被大家了解后价值就降低，独特谈资依赖独特经历",
+   "quote": "被大家了解以后",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32265,
+    "end_line": 32267,
+    "fingerprint": [
+     "信息论",
+     "独特经历"
+    ],
+    "sha1": "8eb2a24a9c5abf57f428e41140130bebca67acf6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D07-1"
+   ],
+   "concept_key": "信息价值随了解递减",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从信息论角度看内容被了解后价值降低（32265）；行万里路才看到别人见不到听不着的信息（32267）；阿Q进城因谈资赢得未庄关注、城里稀松平常事在乡下新鲜（32255-32257，文学案例见X8）；父母同事出国见闻曾成谈话中心、如今寻常见闻不再是谈资（32261-32263）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-01",
+   "unit_id": "SG3-U0309"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "培根：远游年少是教育年长是经验，无准备则雾中看花所见甚少",
+   "quote": "犹如雾中看花",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32273,
+    "end_line": 32277,
+    "fingerprint": [
+     "培根",
+     "经验之一部分"
+    ],
+    "sha1": "33e637d226666025d2081dce6229aa5ad0262ff9"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "培根远游准备论",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=培根（《培根随笔·论旅行》，曹明伦译人文社版32291）；出门前学会当地语言、找有学问的人同行、随身带地图书籍（32275）；到国外心里有数否则雾中看花所见甚少（32277）；每地按浏览价值决定停留时间、建议记日记（32279-32281）；吴军应用见C-SG3-U0309-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-02",
+   "unit_id": "SG3-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "出行事先做好功课、事后做好整理，是积累谈资的必要方法",
+   "quote": "事先做好功课，事后做好整理",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32285,
+    "end_line": 32285,
+    "fingerprint": [
+     "信息环境",
+     "逐条照办"
+    ],
+    "sha1": "45a4c2f040027a94ff7ef7eff03e2d09f837cfd2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "行前功课事后整理",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "今天信息环境不同、不必逐条照办培根建议（32285）；吴军出差旅行刻意了解当地文化风俗、用相机记录并整理哪些值得讲给朋友（32283）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-03",
+   "unit_id": "SG3-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小道消息别当谈资：说多了被贴标签被讨厌，证实是谣言损信誉",
+   "quote": "损害你的名声和信誉",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32303,
+    "end_line": 32305,
+    "fingerprint": [
+     "流言蜚语",
+     "谣言"
+    ],
+    "sha1": "96b425d4df5f5245540f1fc4ff8aca9a9ae47bf1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "小道消息莫作谈资",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "小道消息有信息增量但人们总归觉得是流言蜚语（32301-32303）；长期不可能一直有准确的小道消息（32307）；内部知情人违规透露保密信息或侵犯隐私问题更严重（32309）；热点新闻须讲独到见解、专业知识找错人搞紧张氛围、小说宜谈人物分析而非转述情节（32299、32311-32321）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-04",
+   "unit_id": "SG3-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "适合作谈资的两类内容：新知与外行缺乏的通识科普知识",
+   "quote": "通识和科普知识",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32325,
+    "end_line": 32325,
+    "fingerprint": [
+     "新知",
+     "外行人"
+    ],
+    "sha1": "60a76d296947c6b297e2c8ef545cb38465c7494f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-2"
+   ],
+   "concept_key": "谈资两类：新知与通识",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "新知因大家不知道而特别有价值（32325）；通识属专业领域常识但大部分外行缺乏、应用范围广：音乐绘画基础知识、健康常识等（32325-32327）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-05",
+   "unit_id": "SG3-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最有价值的谈资是经过自己的头脑加工出来的内容",
+   "quote": "经过自己的头脑加工出来的内容",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32331,
+    "end_line": 32331,
+    "fingerprint": [
+     "最有价值的谈资",
+     "头脑加工"
+    ],
+    "sha1": "91d70bbcfb435fe4828d9fd1509444dbeb1b4e70"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "头脑加工最有价值谈资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "照搬照抄的知识如做菜食材、营养成分一样但没人愿意直接吃，且食材加工后才好消化（32335）；见识世界了解知识用头脑加工打通才能升华认识（32361）；三类谈资中亲身见闻、阅读听来的居次（32371-32375）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-06",
+   "unit_id": "SG3-U0309"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同一素材每人读出的信息不同，能深加工推导新结论者胜",
+   "quote": "从信息推导出新的结论",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32337,
+    "end_line": 32337,
+    "fingerprint": [
+     "深加工",
+     "知识点"
+    ],
+    "sha1": "53a996ba66d47e080ceadb93c33c7d7a5dd662be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "同素材深加工者胜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有的人能发现问题有的人做不到（32337）；雅典学院例：有人看画技、有人解读出画中每人代表一段古希腊文明，需打通知识好好思考（32339-32341，赏析细节见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0309-07",
+   "unit_id": "SG3-U0309"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0309",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "培根雪地做冷冻防腐实验得感冒病逝的名人轶事与'知识就是力量'评述（32347-32353）、《雅典学院》名画赏析（32339-32345），人物轶事与艺术赏析；'轶事反映思想一以贯之'之读法未独立成卡"
+  },
+  {
+   "unit_id": "SG3-U0309",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《阿Q正传》未庄谈资文学案例与原文引述（32253-32257），文学赏析性案例；支撑的'见闻成谈资'判断已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第257封信：信息价值递减/培根远游准备/行前功课事后整理/小道消息莫作谈资/新知与通识两类谈资/头脑加工最有价值/同素材深加工者胜；培根轶事与名画赏析X4、阿Q文学案例X8"
+}

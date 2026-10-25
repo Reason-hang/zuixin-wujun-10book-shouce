@@ -1,0 +1,240 @@
+{
+ "unit_id": "SG3-U0312",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "积累财富四条可行路径：好工作加投资、爬梯子、高级专业人才、追梦者",
+   "quote": "比较可行的方法有四种",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32755,
+    "end_line": 32755,
+    "fingerprint": [
+     "爬梯子",
+     "追梦者"
+    ],
+    "sha1": "70b8b1c760b903fd7fd90509721cd1a88cd59c24"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "财富积累四路径",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "据吴军多年在美国的观察与经验总结（32755）；国内具体环境不一样但思路可借鉴（32671）；别人的做法未必适合自己见C-SG3-U0312-08",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-01",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "美国百万富翁三共性：中高收入、年投两成不浪费、早投资且长期谨慎",
+   "quote": "长期谨慎地投资",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32675,
+    "end_line": 32683,
+    "fingerprint": [
+     "百万富翁",
+     "20%的收入"
+    ],
+    "sha1": "21dff2413ef33623e7913ae85279c54f45a4738b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "百万富翁三共性",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=美国各家投资银行（对约1/5靠'好工作+合理投资'路径的百万富翁之共性总结）；到50岁平均可投资净资产350万美元（32675，时点数据见X4）；吴军评述见C-SG3-U0312-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-02",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三条中最难的是长期谨慎投资，难在需要耐心",
+   "quote": "第三条难在需要耐心",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32685,
+    "end_line": 32685,
+    "fingerprint": [
+     "说难也难",
+     "耐心"
+    ],
+    "sha1": "6d694ff4ed733fc5bc0200f9475fde800c228dcb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D02-4"
+   ],
+   "concept_key": "长期投资难在耐心",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "第一条随中国经济发展和脚踏实地努力能做到（32685）；第二条大部分人一段时间内能做到、长期做到还需加把劲（32685）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-03",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司爬梯子靠人脉网与选对时机，公司没选对爬上去回报低于付出",
+   "quote": "回报可能会低于付出",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32693,
+    "end_line": 32697,
+    "fingerprint": [
+     "人际关系",
+     "时机"
+    ],
+    "sha1": "51cf405908f1f7b1a9458c36be78e6b12783e343"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D08-1"
+   ],
+   "concept_key": "爬梯子人脉与时机",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "高级管理者占百万富翁最多数约31%、财富来自公司股票收益或合伙人分红而非工资（32689，时点数据）；关系建立维护需时间精力、爬高位者工作时间比别人长且常出差牺牲休息（32695）；今天刚进思科英特尔想花20年往上爬可能不是好选择（32697）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-04",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高级专业人才挣钱多，主要因为具有不可替代性",
+   "quote": "具有不可替代性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32719,
+    "end_line": 32719,
+    "fingerprint": [
+     "高级专业人才",
+     "不可替代性"
+    ],
+    "sha1": "444e4a845e1a6d84dd36806fd5f85973096201e1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D09-1"
+   ],
+   "concept_key": "专业人才不可替代性",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "顶级专业人才收入比初级从业者高甚至一个数量级（32701）；约19%百万富翁是高级专业人才、45岁平均净资产400万美元、积累速度比前面所有人都快（32703，数据见X4）；花时间越多学习成本越高回报越好、不需超人智力、系美国中高阶层首选（32723）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-05",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选职业可选年轻时挣钱多的行业，也可选起步艰难但愈久弥香的",
+   "quote": "愈久弥香",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32721,
+    "end_line": 32721,
+    "fingerprint": [
+     "选择职业",
+     "起步艰难"
+    ],
+    "sha1": "f6fc17d2a07622dee1388393f30eb2a9d14b4bc5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "职业早晚之选",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三个黄金职业之辨：外科医生60岁上下保费剧增被迫早退、律师收入增长慢淘汰率高但越老越吃香、资深电脑工程师收入超医生律师但须本领随年龄增长（32705-32717，案例细节见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-06",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追梦是四条路中最难走的，失败率最高，成功平均要12年",
+   "quote": "失败率也是最高的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32735,
+    "end_line": 32737,
+    "fingerprint": [
+     "最难走",
+     "没有周末、没有假期"
+    ],
+    "sha1": "95e836395d193f7f7a631da5be100cac63894c3b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D03-2"
+   ],
+   "concept_key": "追梦路最难",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "梦想家=做自己喜欢做的事：创业与演员音乐家作家等创意职业（32727）；约28%百万富翁是梦想家、成功者40岁前平均740万美元但被上市创始人拉高、中值应低不少（32729-32731，数据见X4）；三大困难：每周至少61小时长时间工作、承担全家拮据的财务压力、起步艰难无风投可找须推迟购房（32737-32741）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-07",
+   "unit_id": "SG3-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每个人情况不一样，别人的做法未必适合自己，要找适合自己的方法",
+   "quote": "未必适合自己",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32757,
+    "end_line": 32757,
+    "fingerprint": [
+     "生活方式",
+     "财富梦想"
+    ],
+    "sha1": "6b37814b139ff4a602d2ad66000238cf3e899467"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D09-1"
+   ],
+   "concept_key": "适合自己的方法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "四条路各有代价：爬梯子牺牲休息、专业人才需多年训练、追梦者生活质量可能不如前几种（32695、32723、32741）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0312-08",
+   "unit_id": "SG3-U0312"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0312",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "外科医生房东靠积蓄在硅谷买20多套公寓收租轶事、三个黄金职业薪酬与保费细节、百万富翁结构统计与资产数据（32705-32717、32675、32703、32729），人物轶事与时点数据；职业选择判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第260封信：财富四路径总述/投行三共性/长期投资难在耐心/爬梯子人脉与时机/专业人才不可替代/职业早晚之选/追梦路最难/找适合自己的方法；人物轶事与统计时点数据X4"
+}

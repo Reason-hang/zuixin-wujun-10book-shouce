@@ -1,0 +1,269 @@
+{
+ "unit_id": "SG3-U0314",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "别人错事不违公德不牵扯你可不管，有违公德或造成损失就要讲道理",
+   "quote": "这时你就需要和他讲道理了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32967,
+    "end_line": 32969,
+    "fingerprint": [
+     "违反公德",
+     "睁只眼闭只眼"
+    ],
+    "sha1": "0c45aa8a26e109ba86fb500a790f9ee7e2b57023"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-3"
+   ],
+   "concept_key": "较真与讲道理分界",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "读者问较真与讲道理的度（32959，读者原文X7）；对听不得任何意见的人说了也白说、反落多管闲事爱较真的印象（32967）；继续做下去把单位项目做死、直接占你便宜则要讲道理（32969）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-01",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讲道理两前提：对基本概念有共识，论证自己的观点要讲逻辑",
+   "quote": "论证自己的观点时要讲逻辑",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32973,
+    "end_line": 32979,
+    "fingerprint": [
+     "共识",
+     "不讲逻辑"
+    ],
+    "sha1": "653a6470bc4fa162943eb2517269893d77bae4bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "讲道理两前提",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "两人吵架常因对同一件事理解不同（32975，参维特根斯坦信）；只要出发点一致、按逻辑原则就不可能得出相反结果、避免不必要争吵（32979）；歪理辩护搅浑沟通等于暗地掀桌子、是沟通没诚意（32981-32983）；花半天劲让对方认对弥补不了消耗的精力（32983）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-02",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "按原则办事是不管原则有没有道理都要执行，讲道理是跟对方商量",
+   "quote": "不管原则有没有道理都要执行",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32987,
+    "end_line": 32989,
+    "fingerprint": [
+     "按原则办事",
+     "商量"
+    ],
+    "sha1": "08e4b402f83a488efca54cf66feba78809021ff5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-1"
+   ],
+   "concept_key": "按原则办事与讲道理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "授权下属例：决定与做法能给单位带来好处则有理可讲，但规定某级别员工不能获授权则仍属没按原则办事（32991-32993）；HR校招案例见C-SG3-U0314-04",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-03",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "越过原则办事一次就可能滥用权力；原则总与道理冲突则要修改",
+   "quote": "就有可能滥用权力",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33003,
+    "end_line": 33007,
+    "fingerprint": [
+     "违反原则",
+     "要修改"
+    ],
+    "sha1": "1a747841df6ef9f4dffe35b59f1f21332b333ef6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D03-2"
+   ],
+   "concept_key": "越原则与修原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "HR被授权20万年薪遇好苗子开价25万案例：便宜行事与先承诺后特批都违原则虽符合道理（32995-33001）；越原则一次未来可能高薪聘进不符要求的人（33003）；多年前10万年薪上限今天找不到顶级人才则规定有问题需修改（33007）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-04",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大小事都守原则成本高，变通须有度且透明，不能私下做交易",
+   "quote": "这件事变得透明",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33013,
+    "end_line": 33017,
+    "fingerprint": [
+     "变通",
+     "私下里做交易"
+    ],
+    "sha1": "d5ca93250e6874c4b76bf326baa6038e6096a2fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D03-1"
+   ],
+   "concept_key": "变通须有度透明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "灰色地带任何国家都有：司法协商认罪换轻判也是灰色地带（33009）；说好听叫变通说难听是拿原则作交易（33011）；不能完全不讲原则否则对大家都有伤害（33017）；较真很多时候是需要的、把握好度（33019）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-05",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与无认知基础者难讨论，替别人操心是彻彻底底浪费自己的时间",
+   "quote": "彻彻底底浪费自己的时间",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33041,
+    "end_line": 33043,
+    "fingerprint": [
+     "认知基础",
+     "地下室"
+    ],
+    "sha1": "1980313b97eeed2bd8532f4461b49637d86f7154"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-1"
+   ],
+   "concept_key": "别替人操心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对无法证明也无法证伪的自圆其说（迷信神话末日预言）不必辩解由他去、损害利益才维护（33027-33031，参马可·奥勒留《沉思录》）；我们没法模拟别人的生活环境、未必能理解他人情感（33035）；老人爱操心觉经验有用、高学历爱讲理觉有知识、位高者自带道德光环（33045）；阴谋论者最好的老师是'社会'（33051）；地下室比喻：对还住地下室的人谈投资房产只会无感甚至恼怒（33041）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-06",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过度劳累的损害不会马上显现，慢性损伤会积累、不可逆且危险",
+   "quote": "身体的慢性损伤是会积累的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33063,
+    "end_line": 33067,
+    "fingerprint": [
+     "三高",
+     "不可逆"
+    ],
+    "sha1": "f7b204f35dc827cc788418e08055c267c450c561"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "过劳损害会积累",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三高与早期癌症症状长期不明显（33063-33065）；很多人猝死是因对自己的身体状态一无所知（33067）；语境：创业者缺锻炼熬夜应酬致身体亮红灯的读者之问（33055，读者原文X7）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-07",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聪明、能干、有成就不等于有智慧，大道理易被自以为聪明者忽视",
+   "quote": "不等于有智慧",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33069,
+    "end_line": 33069,
+    "fingerprint": [
+     "聪明、能干、有成就",
+     "经验之谈"
+    ],
+    "sha1": "f085a67549848f4a6069e46038c4840195c04229"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-4"
+   ],
+   "concept_key": "聪明不等于智慧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'身体是革命的本钱'这类大道理并非人人都真懂（33069）；呼应保留冗余、避免透支的人生意义（33055读者语）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-08",
+   "unit_id": "SG3-U0314"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "说'等忙完这一段'的人永远忙不完，人很难改变生活习惯",
+   "quote": "是永远也忙不完的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 33071,
+    "end_line": 33073,
+    "fingerprint": [
+     "马不停蹄",
+     "生活习惯"
+    ],
+    "sha1": "2e3a9cf14e7935adc18dd501171b41ebfc1aa229"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D05-2"
+   ],
+   "concept_key": "忙完谬误与习惯难改",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "也许不是真忙、不是没时间锻炼、不是不知保健意义，而是习惯了马不停蹄高强度节奏（33071）；有一小时空闲多半选择工作而非锻炼（33073）；多关爱身体、改变不好的生活习惯、过更健康的生活（33075）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0314-09",
+   "unit_id": "SG3-U0314"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0314",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文三条：澜问较真与讲道理之度（32959）、佛祖门徒问无法证伪的自圆其说（33023）与问聪明人为何不懂身体重要性（33055），读者原文不作抽取；吴军回应的判断已逐条成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问49：较真与讲道理分界/讲道理两前提/按原则办事与讲道理之辨/越原则风险与修原则/变通须透明/别替人操心/过劳损害会积累/聪明不等于智慧/忙完谬误与习惯难改；读者来信原文X7"
+}

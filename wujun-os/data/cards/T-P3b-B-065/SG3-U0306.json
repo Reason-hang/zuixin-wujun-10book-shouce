@@ -1,0 +1,219 @@
+{
+ "unit_id": "SG3-U0306",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "盛田昭夫：学历作用被夸大，企业应挖掘员工潜能而非以学历压人",
+   "quote": "学历的作用被夸大了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31987,
+    "end_line": 31987,
+    "fingerprint": [
+     "盛田昭夫",
+     "潜能"
+    ],
+    "sha1": "69680062c1ec9fa8281d123a485cdbbef4bb0357"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-1"
+   ],
+   "concept_key": "学历作用被夸大论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=盛田昭夫（索尼创始人，《学历无用论》）；三观点：技术重大贡献非高学历者做出（31925）、高学历者优越感压制无文凭者反限企业创造力、学历证书都该烧掉（31927-31929）、应挖掘未开发潜能培养实践能力（31931-31933）；写作背景为当时日本过于看重学历（31963）；左宗棠同类观点见X4",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-01",
+   "unit_id": "SG3-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学历是起步阶段的敲门砖和资格认证，能力被证实后可不再需要",
+   "quote": "学历就是一种资格认证",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31941,
+    "end_line": 31941,
+    "fingerprint": [
+     "敲门砖",
+     "资格认证"
+    ],
+    "sha1": "6484f47683aaca4398423d9ed2f7c55ae4fda717"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "学历敲门砖资格认证",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "医学法律财会须专业文凭才能上岗（31941）；反面：美国企业规定不同学历最低薪酬，学历高于岗位所需反成劣势（31917）；谷歌化工博士同事先做开发再入谷歌、文凭后来用上（31947）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-02",
+   "unit_id": "SG3-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高学历者平均水平更高，因求学训练了解决更复杂问题的能力",
+   "quote": "解决更复杂问题的能力",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31943,
+    "end_line": 31945,
+    "fingerprint": [
+     "正相关",
+     "训练"
+    ],
+    "sha1": "32086c599c585c4b6e4ce3f133ba87a7983a1916"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "学历能力正相关机理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "学历-知识储备-能力正相关、非因多读几年书的缘故（31943-31945）；求学中解决复杂问题的训练非人人能在工作中遇到（31945）；凭此机理博士文凭到下一份工作用得上（31947）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-03",
+   "unit_id": "SG3-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "违背内心意愿强行读书结果未必好，遵从意愿拿高学位才受益终身",
+   "quote": "遵从内心意愿",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31961,
+    "end_line": 31961,
+    "fingerprint": [
+     "心理问题",
+     "受益终身"
+    ],
+    "sha1": "2399bd9aa6eacb4f4f907c191b99b77d098921cb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "遵从意愿拿学位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "前提：不觉得上学痛苦、无很大经济负担（31957）；为父母满意而读、有想做的工作则工作中学也很好（31959）；升学建议本体属X5，此处抽意愿与代价的可迁移判断",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-04",
+   "unit_id": "SG3-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读完硕士解决复杂问题能力没超过本科生，这个硕士就白读了",
+   "quote": "能力配得上那张文凭",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31965,
+    "end_line": 31965,
+    "fingerprint": [
+     "白读了",
+     "虚有其表"
+    ],
+    "sha1": "2c5d78b4e2415d5d2e153e45711ef1221e1c1bfd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "能力配得上文凭",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "追求更高学历要让能力配得上文凭，否则虚有其表甚至被嘲笑（31965）；能力学历相匹配时不会把学历挂嘴边、拿了博士学位只做庸碌工作还提学历反助长读书无用论（31967）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-05",
+   "unit_id": "SG3-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多做别人不愿做的事，职责能力增长后，别人就不会在意学历",
+   "quote": "别人又不愿意做的事情",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31973,
+    "end_line": 31973,
+    "fingerprint": [
+     "职责",
+     "学历"
+    ],
+    "sha1": "fd812f2211f102780575f9fd0108799dc7d89aae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "做别人不愿做的事增能",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "拿不到高学历也没关系，机会面向所有人、人们容易视而不见（31969）；杨怀定（杨百万）第一年做别人不屑做的事——投资无人注意的国库券（31971，史实见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-06",
+   "unit_id": "SG3-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用学历评价人是贴标签，本质是懒于发现别人身上真正的价值",
+   "quote": "贴标签本质上是因为懒惰",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 31991,
+    "end_line": 31991,
+    "fingerprint": [
+     "贴标签",
+     "懒惰"
+    ],
+    "sha1": "b7d8240516790366fefef5e076aa966150dbce78"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "学历评价即贴标签",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "单纯靠学历混日子也是一种懒惰、只想年轻时稍努力就享受一辈子红利，两种懒惰都要不得（31979-31981）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0306-07",
+   "unit_id": "SG3-U0306"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0306",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "左宗棠举人出身、面试优先考虑举人轶事（31935）、杨怀定'杨百万'投资国库券与资产增值倍数史实（31971）、美国就业市场薪酬数据（31915、31917），人物史与时点数据；承载的判断已入K卡notes"
+  },
+  {
+   "unit_id": "SG3-U0306",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "女性朋友留美回国被父母逼着相亲自降学历案例（31921），婚恋与家庭议题"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第254封信：盛田昭夫学历无用论/学历敲门砖/学历能力正相关机理/遵从意愿拿学位/能力配得上文凭/做别人不愿做的事/贴标签懒惰；人物史与时点数据X4、相亲案例X5"
+}

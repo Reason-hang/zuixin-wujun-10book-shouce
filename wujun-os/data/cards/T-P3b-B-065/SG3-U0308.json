@@ -1,0 +1,274 @@
+{
+ "unit_id": "SG3-U0308",
+ "book_code": "SG3",
+ "extractor": "EXT-SG21",
+ "batch_id": "T-P3b-B-065",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把不重要的事情从生活中删掉，才能专注真正重要的事活得潇洒",
+   "quote": "从我们的生活中删掉",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32215,
+    "end_line": 32217,
+    "fingerprint": [
+     "活得潇洒",
+     "不重要的事情"
+    ],
+    "sha1": "9f1c4394df7d5b3a68b457acd83a7c4e381de98e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D03-1"
+   ],
+   "concept_key": "删掉不重要的事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "九件不重要的事：服装购物、高档餐饮、八卦、社交媒体、新闻资讯、太在意别人看法、过度思考与总想正确、常用物品挑牌子、对明天的担心（32225）；其中七件来自美国多家调查机构、两件为吴军补充（32115）；身在其中过度关注会活得很辛苦、失去本应得到的（32213-32215）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-01",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想买不需要的东西时把等额钱存起来，每攒够1000元多还一笔房贷",
+   "quote": "额外地多还一笔房贷",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32121,
+    "end_line": 32121,
+    "fingerprint": [
+     "储钱罐",
+     "多还一笔房贷"
+    ],
+    "sha1": "d4c539eafa1ff64ddbeaa8f30d5a8d0e0c20cdc0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "记账法遏制消费欲望",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "调查：买的好看的衣服既不能提高成绩也不能帮助晋升（32119，数据见X2）；不需要的东西要么占地方要么腐烂变质（32119）；房贷更早还清还能多出一笔资产（32121）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-02",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "下馆子既花钱又不健康，偶尔品尝可以，天天应酬实在没必要",
+   "quote": "天天应酬实在没必要",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32127,
+    "end_line": 32127,
+    "fingerprint": [
+     "又不健康",
+     "下午茶"
+    ],
+    "sha1": "1ab1ad6e790343980769b9be899a5a2b7fe6a098"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "应酬餐饮有节制",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "美国数据：每家每年下馆子约3000美元占税前收入5%、正常食物开销约4600美元（32125，时点数据见X2）；为谈工作可选简单下午茶等更健康方式（32127）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-03",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "八卦毁掉同事关系与信任，爱八卦者声誉受损、被大家防备",
+   "quote": "同事关系、朋友情谊",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32133,
+    "end_line": 32133,
+    "fingerprint": [
+     "爱八卦的标签",
+     "声誉"
+    ],
+    "sha1": "04a7629264d324c870b13273cee0755770b3b685"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "八卦毁关系与信任",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "八卦甚至毁掉婚姻；人们怕你也八卦他们的事故而不信任你（32133）；领导者视角：团队爱八卦者迟早影响成员关系与工作（32133）；聊天本是好事但只聊八卦浪费时间且有危害（32131）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-04",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新闻信息量严重过载，一个月前的新闻绝大部分对生活没影响",
+   "quote": "绝大部分对你的生活没什么影响",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32145,
+    "end_line": 32145,
+    "fingerprint": [
+     "严重过载",
+     "新鲜"
+    ],
+    "sha1": "899c36c25712e17a93b53dae4e6e68b06978f415"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-2"
+   ],
+   "concept_key": "新闻过载无益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有时间看很多新闻不如把时间花在做自己的事情上（32145）；社交媒体朋友数量并不那么重要（32139）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-05",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "太在意别人对自己的看法，会让自己生活在别人的阴影中",
+   "quote": "生活在别人的阴影中",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32153,
+    "end_line": 32161,
+    "fingerprint": [
+     "缩手缩脚",
+     "没有安全感"
+    ],
+    "sha1": "c6d7f1d8ae56a1b5ca8f85ac3efaa9eb50f82368"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "别活在他人阴影",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "在意别人看法是从小受教育的结果、让我们觉得安全（32155）；从别人处获反馈有益但过分在意会缩手缩脚、分散注意力、该做的事做不好（32157-32161）；应对两原则见C-SG3-U0308-07",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-06",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对待他人看法两原则：正式建议认真聆听自查，涉个人喜好别在意",
+   "quote": "认真聆听、好好自查",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32163,
+    "end_line": 32167,
+    "fingerprint": [
+     "正式的建议和评价",
+     "喜好"
+    ],
+    "sha1": "b52a37a2a6b1a51ddffaaeb3ac30680f79efd7bd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-1"
+   ],
+   "concept_key": "对待看法两原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "工作建议、评语、工作内容反馈应认真聆听好好自查（32165）；涉及个人喜好如国产车德系车之唠叨不必在意（32167）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-07",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "少犯错误的关键是提高见识和水平，明白自己不可能永远正确才减负",
+   "quote": "提高见识和水平",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32181,
+    "end_line": 32185,
+    "fingerprint": [
+     "循规蹈矩",
+     "减负"
+    ],
+    "sha1": "8792f0f57d35d9a57eec7ab993732de54dc98263"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-4"
+   ],
+   "concept_key": "提高见识少犯错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三思而行是好的但三思之后不行动就有问题（32171）；三个月后回看过度思考的事会发现脑筋多半白花（32175）；过度思考源于总怕做错而错过更好选择（32177）；一味想自己正确会掩盖错误更有害（32183）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-08",
+   "unit_id": "SG3-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "明天未发生的事做好准备比瞎担心更有用，已发生的担心不改结果",
+   "quote": "做好准备比瞎担心更有用",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 32207,
+    "end_line": 32207,
+    "fingerprint": [
+     "坏消息",
+     "考试"
+    ],
+    "sha1": "9a82be5d097c8485f9df3156fddad1da7058bf3d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D03-2"
+   ],
+   "concept_key": "明日之忧明日操",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "明天的烦心事最好明天再操心，否则损失一整天（32203）；不管多担心明天总会到来（32205）；已发生明天才知道结果的事如考试成绩，再担心也不改结果，不如做好自己的事（32209）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0308-09",
+   "unit_id": "SG3-U0308"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0308",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "成为八卦焦点者自尊自信受挫、抑郁焦虑饮食失调乃至自杀念头等心理健康后果描述（32135），医学与心理健康类内容"
+  },
+  {
+   "unit_id": "SG3-U0308",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "美国家庭下馆子3000美元、食物开销4600美元等美国消费时点数据（32125）与美国多家调查机构结论来源（32115、32119），时点调查数据本体；对应方法与判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第256封信：删掉不重要的事/记账法遏制消费/应酬有节制/八卦毁关系/新闻过载/别活在他人阴影/对待看法两原则/提高见识少犯错/明日之忧明日操；心理医学描述X8、时点调查数据X2"
+}

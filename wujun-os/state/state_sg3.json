@@ -1,7 +1,7 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-26（JS-014 后）",
+  "updated": "2026-10-26（JS-015 后）",
   "phase": "A线（SG3）：12/23（B-055 已收编 J-146）；复水入口=V5 §9 + 本文件 + state/journal_sg3.md",
   "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
   "spec": {
@@ -18,7 +18,7 @@
   "progress": {
     "units_total": 1742,
     "units_content": 1697,
-    "units_done": 304,
+    "units_done": 319,
     "chars_total": 5038558,
     "chars_done": 3033287,
     "batches_done": 71,
@@ -33,7 +33,7 @@
     "unsaved": "无（断言前置，未写盘即未产生）",
     "note": "【暂停检查点·用户指令】①GAUD24（GATE-C r22 盲抽）后台在途，交付后需：verify_cards 重跑+s14 attr/strict 双口径+三单元分口径→全 PASS 则 J-143 补验收记录；②EXT-SG11（B-055）交付后需：batch_finish T-P3b-B-055 data/cards/T-P3b-B-055 data/unitcards/uc_SG3.jsonl → batch_publish J-144（SG3 12/23）；③恢复后下一节拍：派 B-005（SG1⑤，batch_brief T-P3x-B-005 EXT-SG1E）+B-056（SG3⑬）双代理；④r23 触发线=B-053/054/055 满3批；⑤工具6件套全在役（anchor_aid/card_writer/batch_finish/batch_publish/batch_brief/sg1_dedup_probe）"
   },
-  "last_ticket": "T-P3b-B-064（80 卡 0 FAIL，JS-014）",
+  "last_ticket": "T-P3b-B-065（94 卡 0 FAIL，JS-015）",
   "next_ticket": "r23（GAUD25，D-34 欠账）→ B-056 → … → B-065 → SG3 单书验收",
   "blocked_by": [],
   "open_items": [
