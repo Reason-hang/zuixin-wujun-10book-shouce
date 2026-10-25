@@ -30,7 +30,7 @@
       "SG3-U0163~U0176"
     ],
     "unsaved": "无（断言前置，未写盘即未产生）",
-    "note": "【暂停检查点·用户指令】①GAUD24（GATE-C r22 盲抽）后台在途，交付后需：verify_cards 重跑+s14 attr/strict 双口径+三单元分口径→全 PASS 则 J-143 补验收记录；②EXT-SG11（B-055）交付后需：batch_finish T-P3b-B-055 data/cards/T-P3b-B-055 data/unitcards/uc_SG3.jsonl → batch_publish J-144（SG3 12/23）；③恢复后下一节拍：派 B-005（SG1⑤，batch_brief T-P3x-B-005 EXT-SG1E）+B-056（SG3⑬）双代理；④r23 触发线=B-053/054/055 满3批；⑤工具6件套全在役（anchor_aid/card_writer/batch_finish/batch_publish/batch_brief/sg1_dedup_probe）"
+    "note": "【暂停检查点·用户指令】①【已完成·J-145】GAUD24 r22 已验收全绿（attr 0.900/1.000/0.941），无需再处理；②EXT-SG11（B-055）交付后需：batch_finish T-P3b-B-055 data/cards/T-P3b-B-055 data/unitcards/uc_SG3.jsonl → batch_publish J-144（SG3 12/23）；③恢复后下一节拍：派 B-005（SG1⑤，batch_brief T-P3x-B-005 EXT-SG1E）+B-056（SG3⑬）双代理；④r23 触发线=B-053/054/055 满3批；⑤工具6件套全在役（anchor_aid/card_writer/batch_finish/batch_publish/batch_brief/sg1_dedup_probe）"
   },
   "last_ticket": "T-P3b-B-054（68 卡 0 FAIL，J-142）",
   "next_ticket": "恢复：收 B-055+r22 → B-005+B-056 → … → SG3 23/23 → SG1 20 批 → 两书验收 → GATE-D → P4~P7",
