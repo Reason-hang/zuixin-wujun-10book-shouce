@@ -41,7 +41,7 @@ def main():
     us = [r for r in rows if r['unit_id'] in b['unit_ids']]
     book_code = us[0]['unit_id'].split('-U')[0]
     books = {'SG3': '《硅谷来信3》｜原著完整精排典藏版｜Codex处理_副本.md',
-             'SG1': '《硅谷来信》｜原著完整精排典藏版｜Codex处理_副本.md',
+             'SG1': '《硅谷来信1》｜原著完整精排典藏版｜Codex处理_副本.md',
              'GG': '《谷歌方法论》[吴军]-原著完整精排版_副本.md',
              'WJ2': '《吴军来信2》原著完整精排版--Codex处理_副本.md',
              'FZ': '《富足：数字时代的个人财富与认知升级》[吴军]-原著完整精排版_副本2.md'}
@@ -50,7 +50,7 @@ def main():
     book = f'src_frozen/{books[book_code]}'
     batch_dir = f'data/cards/{batch_id.replace("T-P3x-", "T-P3b-")}'
     num = int(batch_id[-3:])
-    sample = {'SG3': ('T-P3b-B-047', 'SG3-U0049'), 'SG1': ('T-P3a-B-101', 'SG1-U0007'),
+    sample = {'SG3': ('T-P3b-B-047', 'SG3-U0049'), 'SG1': ('T-P3b-B-047', 'SG3-U0049'),
               'GG': ('T-P3b-B-066', 'GG-U0013'), 'WJ2': ('T-P3b-B-042', 'WJ2-U0307'),
               'FZ': ('T-P3a-B-103', 'FZ-U0007')}.get(book_code, ('T-P3b-B-047', 'SG3-U0049'))
     print(f'你是 WJ-OS 项目批次抽取代理，代号 {agent}，领工单 {batch_id}（目录名 {batch_dir.split("/")[-1]}）。工作目录：/Users/lizhihang/Documents/【Zcode--project】/【最新吴军10本书手册工程化】/wujun-os。')
