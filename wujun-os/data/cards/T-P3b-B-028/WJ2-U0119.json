@@ -1,0 +1,79 @@
+{
+  "unit_id": "WJ2-U0119",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0119-01",
+      "unit_id": "WJ2-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "追求最高等级需投入极高成本，出于性价比考虑不必刻意拔高自己",
+      "quote": "并不会刻意去拔高自己的星位",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9554,
+        "end_line": 9554,
+        "sha1": "7380e2806b834ee2764424dc5c959afe742b22b6",
+        "fingerprint": [
+          "性价比",
+          "成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D03-1"
+      ],
+      "concept_key": "性价比与星位",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "米其林一星与二星之别在摆盘与服务；类比职业俱乐部老板并非都追求冠军"
+    },
+    {
+      "claim_id": "C-WJ2-U0119-02",
+      "unit_id": "WJ2-U0119",
+      "speaker": "吴军本人",
+      "claim_text": "购物前先在心里设定一个预算，以免超支过多",
+      "quote": "最好先在心里设定一个预算",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9578,
+        "end_line": 9578,
+        "sha1": "014c30447156be6463316586ad68042744ae2d42",
+        "fingerprint": [
+          "预算",
+          "超支"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "购物先设预算",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "巴黎购物三去处之实用建议；面包好坏要自己尝不能光看外表（9562）注此"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0119",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "米其林餐厅用餐与巴黎购物去处为游记行程叙述，仅抽两条可迁移建议"
+    },
+    {
+      "unit_id": "WJ2-U0119",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "最好法餐是艺术品、烧瓶煮汤之想象力等属艺术赏析，无结论句可归属"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元按特则抽性价比与预算两条方法论"
+}

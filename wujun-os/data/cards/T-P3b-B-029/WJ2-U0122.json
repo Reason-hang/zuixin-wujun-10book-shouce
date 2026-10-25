@@ -1,0 +1,134 @@
+{
+  "unit_id": "WJ2-U0122",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0122-01",
+      "unit_id": "WJ2-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "每个人的视角都有独特价值，把自己的经历与他人见闻结合，理解更丰富深刻",
+      "quote": "每个人的视角都有独特的价值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9726,
+        "end_line": 9726,
+        "sha1": "4802067d950890e42c699daaf158ee5f977b623c",
+        "fingerprint": [
+          "视角"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "视角的独特价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "多视角互补获知，D01-1 信息与认知层"
+    },
+    {
+      "claim_id": "C-WJ2-U0122-02",
+      "unit_id": "WJ2-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "同质化经营必然内卷，懂商业规律的从业者靠差异化挣到更多钱",
+      "quote": "同质化严重就必然内卷",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9744,
+        "end_line": 9744,
+        "sha1": "f4989571177ec5634f8282f1bc8127c97a6695b4",
+        "fingerprint": [
+          "差异化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "差异化对抗内卷",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以台北餐饮对比为证；商业方法论层，游记叙述不入卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0122-03",
+      "unit_id": "WJ2-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "媒体靠吸引眼球的事件误导人，过度关注媒体于普通人有害，只需照顾好自己的生活工作生意",
+      "quote": "媒体常常误导人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9782,
+        "end_line": 9782,
+        "sha1": "a0238ad4372b32f3a4ec4ed557ef12860d39463b",
+        "fingerprint": [
+          "吸引眼球"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "媒体误导与信息过滤",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "跨书线索：硅谷来信/格局'不要被媒体左右'同主题；了解真实社会=出门去看"
+    },
+    {
+      "claim_id": "C-WJ2-U0122-04",
+      "unit_id": "WJ2-U0122",
+      "speaker": "吴军本人",
+      "claim_text": "小地方的不进步心态伴随落后，想让圈层变好，最有效的做法是走出落后小地方",
+      "quote": "走出那些落后的小地方",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9784,
+        "end_line": 9784,
+        "sha1": "3cf92c04cae787ba2d100b59a75253e6486707d0",
+        "fingerprint": [
+          "小地方"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "走出落后小地方",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：阳明山服务停滞；态度既是结果也是原因"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0122",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "游记主体（台北101/故宫/野柳九份行程与观感叙述）默认排除，只抽方法论4卡；故宫策展'主题混搭对比展示'属展示技艺，未成卡"
+    },
+    {
+      "unit_id": "WJ2-U0122",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "台湾GDP增速、经济转型与代工转半导体的宏观叙述，时点性宏观评论"
+    },
+    {
+      "unit_id": "WJ2-U0122",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "用户留言黃泊淳Only为读者补充见闻，作者仅回复'谢谢你的补充'无实质评述"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元按批次特则只抽可迁移方法论，成4卡，叙述与宏观评论入排除侧"
+}

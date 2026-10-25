@@ -1,0 +1,206 @@
+{
+  "unit_id": "WJ2-U0123",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0123-01",
+      "unit_id": "WJ2-U0123",
+      "speaker": "吴军本人",
+      "claim_text": "进步不必追求速度，稳步调整与深思熟虑的改变反而带来更长远的成效",
+      "quote": "进步不一定要追求速度",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9814,
+        "end_line": 9814,
+        "sha1": "0e2f1fab6930799589c8ce8bcc55b5db1482a221",
+        "fingerprint": [
+          "稳步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "稳步胜于求快",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "由通关变慢引出；跨书线索：富足'不怕慢就怕停'同族"
+    },
+    {
+      "claim_id": "C-WJ2-U0123-02",
+      "unit_id": "WJ2-U0123",
+      "speaker": "吴军本人",
+      "claim_text": "永生对人类不是什么好事情，吴军明确认同尹烨这一看法",
+      "quote": "它对人类来讲不是什么好事情",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9832,
+        "end_line": 9832,
+        "sha1": "64259c58d3bd64b884c9cc1435ab837700caa084",
+        "fingerprint": [
+          "尹烨"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "永生并非好事",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军自述与尹烨看法一致，故记E1；尹烨拒绝富豪500岁研发委托为例证（9834）"
+    },
+    {
+      "claim_id": "C-WJ2-U0123-03",
+      "unit_id": "WJ2-U0123",
+      "speaker": "吴军本人",
+      "claim_text": "要延长的是有效生命，而非病床上的煎熬，过长生命对己对人都是折磨",
+      "quote": "我们希望延长的是有效生命",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9834,
+        "end_line": 9834,
+        "sha1": "5444641a2cedea2e025f716fb494e2d3ab31e4be",
+        "fingerprint": [
+          "有效生命"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "延长有效生命",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0123-02同链互引；'百岁家族和睦'原话出自尹烨"
+    },
+    {
+      "claim_id": "C-WJ2-U0123-04",
+      "unit_id": "WJ2-U0123",
+      "speaker": "转述·第三方",
+      "claim_text": "贾伟设计师成功三步法：先获国际大奖，再签全球500强，再借顶级合作循环放大知名度",
+      "quote": "先获得国际大奖",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9848,
+        "end_line": 9848,
+        "sha1": "6cfdcd26c65b52558d86113b4563faa25ce0cd20",
+        "fingerprint": [
+          "贾伟"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "先摘最高奖项的职业路径",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=贾伟；反'微创新/小步快跑/弯道超车'路径（9846）；16年拿红点金奖为例证（9850-9852）"
+    },
+    {
+      "claim_id": "C-WJ2-U0123-05",
+      "unit_id": "WJ2-U0123",
+      "speaker": "转述·第三方",
+      "claim_text": "设计的源泉是生活中真正的需求，解决实际问题的设计才能脱颖而出",
+      "quote": "生活中真正的需求",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9854,
+        "end_line": 9854,
+        "sha1": "677ab68309374946a9125554983e9a0f90d9856f",
+        "fingerprint": [
+          "乐谱架"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "设计源于真实需求",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=贾伟；例证=55度水杯、多功能乐谱架"
+    },
+    {
+      "claim_id": "C-WJ2-U0123-06",
+      "unit_id": "WJ2-U0123",
+      "speaker": "转述·第三方",
+      "claim_text": "设计分感官与功能两层次，多数人停留感官层，有创造力的设计师追求提供新功能",
+      "quote": "感官的层次和功能的层次",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9856,
+        "end_line": 9856,
+        "sha1": "c8d3a95eb6f2df2ed656f87214f599e4f78a16ea",
+        "fingerprint": [
+          "iPhone"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "设计的感官与功能两层次",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者=贾伟；iPhone为功能层范例；与05卡互补"
+    },
+    {
+      "claim_id": "C-WJ2-U0123-07",
+      "unit_id": "WJ2-U0123",
+      "speaker": "吴军本人",
+      "claim_text": "'在中国做原创发明难'是借口，追求不同的境界，就会得到不同的结果",
+      "quote": "追求不同的境界",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9858,
+        "end_line": 9858,
+        "sha1": "d7d2f38ce872afaa0812fe10a26b1e82ba3776ce",
+        "fingerprint": [
+          "贾伟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-3"
+      ],
+      "concept_key": "境界不同结果不同",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军自答设问；贾伟经历为证（并入母卡）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0123",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "基因测序医疗应用、中美癌症五年成活率数据与2030年预测、唐氏综合征统计为时点数据与预测；'重在防治其次才是治疗'属医疗领域判断，留线索不入主干"
+    },
+    {
+      "unit_id": "WJ2-U0123",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "多年生水稻驯化史与《世界文明史》引注为纯史实科普，无可迁移判断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "人物访谈单元按特则只抽可迁移方法论：生命观1条、做事节奏1条、贾伟方法论3条（转述）+境界结论1条，成7卡"
+}

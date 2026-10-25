@@ -1,0 +1,79 @@
+{
+  "unit_id": "WJ2-U0117",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0117-01",
+      "unit_id": "WJ2-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "以偏概全的印象常含幸存者偏差：到法国的人都去巴黎，而法国不能等同于巴黎",
+      "quote": "法国不能等同于巴黎",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9374,
+        "end_line": 9374,
+        "sha1": "a61bb250a251de86d9078432f874a34fc91c9cf8",
+        "fingerprint": [
+          "幸存者偏差",
+          "巴黎"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "印象中的幸存者偏差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "数据纠正刻板印象：法国个人生活比英美更保守（9372）；里昂之热情对媒体刻板印象同理（9404）"
+    },
+    {
+      "claim_id": "C-WJ2-U0117-02",
+      "unit_id": "WJ2-U0117",
+      "speaker": "吴军本人",
+      "claim_text": "生活在一线大城市的总是少数，多数人要在有特色、有就业机会的小城市过好一生",
+      "quote": "过好自己的一生",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9420,
+        "end_line": 9420,
+        "sha1": "d1b775677a736a4658a8fdd4d67b3ada97feb610",
+        "fingerprint": [
+          "小城市",
+          "立足"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D06-1"
+      ],
+      "concept_key": "大城市少数小城市立足",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "由巴黎与法国南方小城对照中国一线与三四线城市引出"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0117",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "里昂、阿维尼翁之行程见闻为游记叙述，仅抽可迁移方法论"
+    },
+    {
+      "unit_id": "WJ2-U0117",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "英法百年战争、路易十四集权、拿破仑三世当选、国民阵线选民结构等为法国史叙述"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元按特则抽幸存者偏差与小城市立足两条方法论"
+}

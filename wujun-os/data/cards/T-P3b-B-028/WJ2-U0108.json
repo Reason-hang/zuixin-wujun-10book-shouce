@@ -1,0 +1,184 @@
+{
+  "unit_id": "WJ2-U0108",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0108-01",
+      "unit_id": "WJ2-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "当一个现象可用多种理论解释时，最简单的那种解释通常是正确的",
+      "quote": "最简单的一种解释通常是正确的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8804,
+        "end_line": 8806,
+        "sha1": "d42a2776a777f9c25f6a7624de15e1dd25a141d5",
+        "fingerprint": [
+          "奥卡姆剃刀",
+          "解释"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D01-1"
+      ],
+      "concept_key": "简单解释优先",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "奥卡姆剃刀第一层含义；牛顿《原理》表述与地心说史为佐证注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0108-02",
+      "unit_id": "WJ2-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "建立理论要做少之又少的最简假设；但假设简单不意味着结论简单",
+      "quote": "做少之又少、最简单的假设",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8820,
+        "end_line": 8828,
+        "sha1": "569e2c787c3537cb2fc4736d9668efb534601c78",
+        "fingerprint": [
+          "假设",
+          "奥卡姆剃刀"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D01-1"
+      ],
+      "concept_key": "最少假设原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "第二层含义；爱因斯坦：基本要素尽可能简单（8822）为吴军认同之转述；几何学例"
+    },
+    {
+      "claim_id": "C-WJ2-U0108-03",
+      "unit_id": "WJ2-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "阴谋论和万一式想法都违反奥卡姆剃刀：引入无法验证的多余假设",
+      "quote": "引入了过多的无法验证的假设",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8858,
+        "end_line": 8860,
+        "sha1": "fe97163dd169908b813c131aedd0562004e61382",
+        "fingerprint": [
+          "阴谋论",
+          "万一"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-3"
+      ],
+      "concept_key": "阴谋论与万一式假设",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "使用细则一二；同慈善猜疑例（8808）"
+    },
+    {
+      "claim_id": "C-WJ2-U0108-04",
+      "unit_id": "WJ2-U0108",
+      "speaker": "吴军本人",
+      "claim_text": "做事达到目的就好，不要添油加醋",
+      "quote": "做事达到目的就好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8862,
+        "end_line": 8862,
+        "sha1": "c5c437eadea675867a7d49699500c1875bc3f50a",
+        "fingerprint": [
+          "添油加醋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D05-1"
+      ],
+      "concept_key": "达目的就好勿添油加醋",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "使用细则三；勿以剃刀为幌子轻视复杂知识（8864）注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0108-05",
+      "unit_id": "WJ2-U0108",
+      "speaker": "转述·第三方",
+      "claim_text": "马赫简约原则：对不可观察、不可证实的东西，当它不存在就好",
+      "quote": "你就当它不存在就好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8850,
+        "end_line": 8850,
+        "sha1": "5dc82a6d3e9c4c8e1deac54599fc004ea254f73c",
+        "fingerprint": [
+          "简约原则",
+          "不可证实"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "马赫简约原则",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：马赫（economy of thought）；吴军以怕鬼为例认可该延伸"
+    },
+    {
+      "claim_id": "C-WJ2-U0108-06",
+      "unit_id": "WJ2-U0108",
+      "speaker": "转述·第三方",
+      "claim_text": "维特根斯坦：完全看不出含义的话就不要解读，不要说没有含义的废话",
+      "quote": "不要说那种没有含义的废话",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8852,
+        "end_line": 8852,
+        "sha1": "bff15047144597cfccf2766e99a849b96d2d9b7f",
+        "fingerprint": [
+          "维特根斯坦",
+          "语言的边界"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D07-1",
+        "D01-1"
+      ],
+      "concept_key": "语言的边界与废话",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维特根斯坦；吴军提醒以此自省表达"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0108",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "奥卡姆生平、牛顿-休谟-拉普拉斯-马赫运用史为思想史科普，方法论已抽卡1-6"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "奥卡姆剃刀原理含义与使用方法为核心方法论，史实部分记X4"
+}

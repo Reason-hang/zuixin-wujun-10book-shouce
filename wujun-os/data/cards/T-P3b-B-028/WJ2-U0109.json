@@ -1,0 +1,243 @@
+{
+  "unit_id": "WJ2-U0109",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0109-01",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "机械化固定成本高、边际成本低，只有大规模耕种才合算，小地块用机械效率仍低",
+      "quote": "边际成本非常低",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8886,
+        "end_line": 8888,
+        "sha1": "2a8d2f7a022948d7506c6a77e400e9a00c7308fd",
+        "fingerprint": [
+          "固定成本",
+          "边际成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "规模经济与边际成本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "领域直连（农业）；美国农民收入高而农产品便宜之原因"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-02",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "农业工业化先要解决土地制度这一根本，否则智能灌溉无人机等单项技术只是芝麻",
+      "quote": "不解决“西瓜”的问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8890,
+        "end_line": 8890,
+        "sha1": "bf3f08442323113ee21ff4b3a04fed08a3623f68",
+        "fingerprint": [
+          "土地所有权",
+          "智能灌溉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1"
+      ],
+      "concept_key": "西瓜与芝麻之制度根本",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "领域直连（农业）；国内仅东北、新疆兵团能发挥机械化"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-03",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "现代农业要先设目标函数：求收入高还是产量高路径不同；产量高成本低不施肥是不可能三角",
+      "quote": "是要先设置目标函数的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8902,
+        "end_line": 8902,
+        "sha1": "fa62364d04051be40a3962789ff8c950f9d166c1",
+        "fingerprint": [
+          "目标函数",
+          "不可能三角"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D03-2"
+      ],
+      "concept_key": "先设目标函数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "领域直连（农业）；面面俱到是逻辑矛盾非技术问题（8904）注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-04",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "对经常故意断章取义的人，最好不争辩、不理睬；在其身上花时间都多余",
+      "quote": "干脆就不要理他们为好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8914,
+        "end_line": 8914,
+        "sha1": "2e378525fce6c0404cbf4941c096a584825e6a6b",
+        "fingerprint": [
+          "断章取义",
+          "争辩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D07-2"
+      ],
+      "concept_key": "不理断章取义者",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "回应读者Deabe问稻草人谬误之应对；不回应已比争论高明"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-05",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "朋友圈要加几个益友提升整体水平，也要及时删掉拖后腿的朋友，后者见效更容易",
+      "quote": "及时删掉几个拖后腿的朋友",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8914,
+        "end_line": 8914,
+        "sha1": "2e378525fce6c0404cbf4941c096a584825e6a6b",
+        "fingerprint": [
+          "益友",
+          "朋友圈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "益友与拖后腿的朋友",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "长期与断章取义者相处伤害大（8914）注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-06",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "人把自己定位成什么样就无法超出这个定位：总定位成工薪阶层，赚大钱就与你无关",
+      "quote": "无法超出这个定位",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8922,
+        "end_line": 8922,
+        "sha1": "aead401401e33c0d5b9457ce32075acea6db975e",
+        "fingerprint": [
+          "定位",
+          "工薪阶层"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D02-3"
+      ],
+      "concept_key": "自我定位与赚钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "回应读者末日罗兰；工资复利与资本杠杆之别"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-07",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "合理分配收入可过更好但不属于赚大钱；赚大钱要吸引外部资本，借助更大的循环增长",
+      "quote": "借助更大的循环去实现增长",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8924,
+        "end_line": 8924,
+        "sha1": "3c004e37530e7eabc9262c89a95068b7df2fa9a7",
+        "fingerprint": [
+          "外部资本",
+          "分配收入"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "外部资本与更大循环",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "哈佛商学院课程精髓：拿别人的钱赚钱（8922）注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0109-08",
+      "unit_id": "WJ2-U0109",
+      "speaker": "吴军本人",
+      "claim_text": "没有资本社会仍会进步但速度极慢；要想进步快就离不开资本",
+      "quote": "要想进步快，就离不开资本",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8926,
+        "end_line": 8926,
+        "sha1": "89e964917869e32f096db7a29a65317060a41b15",
+        "fingerprint": [
+          "资本",
+          "进步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "资本与进步速度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "苏美尔神庙借贷、希腊罗马信贷、宋代纸币为史实佐证（转述）；文明史口径若裁X6由P4定"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0109",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "三位读者提问原文及文末用户留言块（8932-8940）为读者来信原文，吴军回应已单独成卡"
+    },
+    {
+      "unit_id": "WJ2-U0109",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "四三方案、化纤与布票等中国化肥工业史叙述为史实科普，方法论已入卡1-3"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答：吴军对现代农业、稻草人谬误、财富定位的回应成8卡"
+}

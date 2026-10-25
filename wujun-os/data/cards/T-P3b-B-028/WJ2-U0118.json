@@ -1,0 +1,51 @@
+{
+  "unit_id": "WJ2-U0118",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0118-01",
+      "unit_id": "WJ2-U0118",
+      "speaker": "吴军本人",
+      "claim_text": "祭祀等旧俗式微的两个原因：物质无忧与信神不如信自己",
+      "quote": "信神不如信自己",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9458,
+        "end_line": 9458,
+        "sha1": "5c731463902d286fecb85f865ca8e233471f5bf5",
+        "fingerprint": [
+          "祭祖",
+          "灶神"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "信神不如信自己",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "世俗立场之世界观表露；祭祀分红类比企业年终论功行赏（9450）注此"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0118",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "春节八项传统（祭祀礼制、初一不出门、折萝菜、忌洗头洗衣、扔穷、对联年画、压岁钱、鞭炮）之民俗沿革为史俗科普"
+    },
+    {
+      "unit_id": "WJ2-U0118",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末留言区互动提问（保留传统还是省繁文缛节）与新春祝福属运营互动"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "春节民俗史主体记X4，仅抽信神不如信自己一条世界观判断"
+}

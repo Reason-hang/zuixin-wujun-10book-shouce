@@ -1,0 +1,148 @@
+{
+  "unit_id": "WJ2-U0107",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0107-01",
+      "unit_id": "WJ2-U0107",
+      "speaker": "吴军本人",
+      "claim_text": "信道容量事先限定：要不出错传递信息，传输率须略低于信道容量",
+      "quote": "比信道的容量略低一点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8726,
+        "end_line": 8728,
+        "sha1": "b1bda4cdd6bbcf4d6d6fb268abf89f86777162b4",
+        "fingerprint": [
+          "信道容量",
+          "传输率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "香农第二定律与信道容量",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军对香农第二定律（有噪信道编码定理）的通俗表述；例：演唱会发不出信息"
+    },
+    {
+      "claim_id": "C-WJ2-U0107-02",
+      "unit_id": "WJ2-U0107",
+      "speaker": "吴军本人",
+      "claim_text": "学习要控制速率：超过人接受信息的信道容量，收到的全是噪音，效率为零",
+      "quote": "接受到的都是噪音",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8742,
+        "end_line": 8746,
+        "sha1": "b0ec32196ec372e9e4e5a7ec9c8881ba60599108",
+        "fingerprint": [
+          "信道容量",
+          "效率就是零"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学习速率的上限",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "人接收信道容量每秒几十比特；一字一字地学"
+    },
+    {
+      "claim_id": "C-WJ2-U0107-03",
+      "unit_id": "WJ2-U0107",
+      "speaker": "吴军本人",
+      "claim_text": "要接受的信息总量大时，更好的做法是延长时间，而不是提高接受速率",
+      "quote": "更好的做法是延长时间",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8750,
+        "end_line": 8750,
+        "sha1": "384c8bbb1a12a0b502d612978c62fa2cf605766b",
+        "fingerprint": [
+          "信息总量",
+          "速率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "延长时间而非提速率",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "佐证：大英百科全书约1万小时可学完（8748），时间大把知识有限"
+    },
+    {
+      "claim_id": "C-WJ2-U0107-04",
+      "unit_id": "WJ2-U0107",
+      "speaker": "吴军本人",
+      "claim_text": "做事能力有类似信道容量的最高上限，超过它努力白费，一半结果等于没有结果",
+      "quote": "知道和关注自己的能力边界",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8752,
+        "end_line": 8758,
+        "sha1": "d7e7109b0689bd227b0091ce33758edc8c0ed38c",
+        "fingerprint": [
+          "最高上限",
+          "白费"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "能力的最高上限",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例：举重210公斤、做菜半生不熟、送人半路、播种误时；孔子不逾矩之吴军解"
+    },
+    {
+      "claim_id": "C-WJ2-U0107-05",
+      "unit_id": "WJ2-U0107",
+      "speaker": "吴军本人",
+      "claim_text": "提高做事能力三途径：本事全面性如带宽、专注排干扰提信噪比、目标分步骤近期落地",
+      "quote": "本事的全面性，这相当于带宽",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8772,
+        "end_line": 8782,
+        "sha1": "0b346a983fe0d704380dd187ae1d8b0bb6948284",
+        "fingerprint": [
+          "信噪比",
+          "带宽"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-1",
+        "D04-3"
+      ],
+      "concept_key": "做事能力三要素",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "清单卡：全面性=带宽/专注=信噪比/远目标分步骤=缩短传输距离；投资人评第二点最难（8780）"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "香农第二定律及其学习与做事启示，核心方法论成卡"
+}

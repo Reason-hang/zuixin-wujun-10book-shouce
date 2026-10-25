@@ -1,0 +1,234 @@
+{
+  "unit_id": "WJ2-U0121",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0121-01",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "赚钱不必先有第一桶金：多数富豪白手起家，把赚不到钱归因于缺本钱是推卸自身责任",
+      "quote": "世界上大部分富豪都是白手起家",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9680,
+        "end_line": 9680,
+        "sha1": "7f552be2ba5524a1946d47e10060fd4a6fd20a9a",
+        "fingerprint": [
+          "白手起家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "第一桶金迷思",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "反驳'先有第一桶金'的逻辑错误一（富二代论证）；错误二见 C-WJ2-U0121-02"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-02",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "挣钱速度远超用钱赚钱的人不必急于投资，强行投资大概率赔钱",
+      "quote": "大概率是要赔钱的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9682,
+        "end_line": 9682,
+        "sha1": "6dbf6d2bb145f18ed83e22fdf68f76a6d80a36b1",
+        "fingerprint": [
+          "四分卫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "挣钱快则不必以钱赚钱",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：NFL四分卫约翰逊、马霍姆斯工资五六千万美元仍不该投资；与01卡同属'第一桶金'论证链"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-03",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "没有本金也能用别人的钱赚钱，关键是有办法从别人那里搞到钱",
+      "quote": "你要有办法从别人那里搞到钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9684,
+        "end_line": 9684,
+        "sha1": "4615475234233ccb4ff67c2c9efc05de74feef38",
+        "fingerprint": [
+          "用别人的钱赚钱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "用别人的钱赚钱",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：吴军代NEC办发布会，未掏一分钱赚到大钱（9686-9688，并入母卡）"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-04",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "天下没有轻轻松松赚钱的事，先有赚钱心态并学会做事方法，才可能赚到钱",
+      "quote": "不存在轻轻松松赚钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9692,
+        "end_line": 9692,
+        "sha1": "47b32a36dd70ae2ef1d471411578e326a6c9d7ac",
+        "fingerprint": [
+          "赚钱的心态"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "赚钱心态与做事方法先行",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：鲁本斯毕加索批量生产作品而发财、梵高生前贫穷（并入母卡）；同卡含'必要条件论'"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-05",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "赚钱靠天赋、经验与悟性，写不进公式与课程，所以学校教不了赚钱",
+      "quote": "赚钱要靠悟性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9696,
+        "end_line": 9696,
+        "sha1": "5d08822b43f5f137b90d0aa146b7c2a3bfbd48ec",
+        "fingerprint": [
+          "悟性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "赚钱靠悟性",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "学校不教赚钱原因之一；原因之二（课程设置不合理）为时评，未成卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-06",
+      "unit_id": "WJ2-U0121",
+      "speaker": "史实",
+      "claim_text": "王仁华放手让刘庆峰等学生干而非自己控制，学生办成了科大讯飞",
+      "quote": "愿意放手让学生干",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9698,
+        "end_line": 9698,
+        "sha1": "a19b85d06565cf099128ba659f7784544de02b86",
+        "fingerprint": [
+          "科大讯飞",
+          "王仁华"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "放手让学生干",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理：授权给更合适的人；对比：老一批教授自己办公司多不成功"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-07",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "学校不教赚钱不等于自己不能学，很多人做不成事主要是缺乏主动性",
+      "quote": "主要是缺乏主动性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9702,
+        "end_line": 9702,
+        "sha1": "0ee3587d70fc199b3c464dee226275ec5c086f0d",
+        "fingerprint": [
+          "邓锋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "做不成事多因缺乏主动性",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：邓锋在大学主动到中关村学赚钱（并入母卡）"
+    },
+    {
+      "claim_id": "C-WJ2-U0121-08",
+      "unit_id": "WJ2-U0121",
+      "speaker": "吴军本人",
+      "claim_text": "没有证据就不做额外假设，'欧洲比美国更重视DEI'的假设毫无根据",
+      "quote": "这个假设其实毫无根据",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9710,
+        "end_line": 9710,
+        "sha1": "fa2c8b62ee887330ad3b0c51a322d5a74445a7dc",
+        "fingerprint": [
+          "奥卡姆剃刀"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-3"
+      ],
+      "concept_key": "不作无据假设",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "用奥卡姆剃刀纠读者提问；方法论层归 D01-1，剃刀原理本体见 D04-3 线索"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0121",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者提问引文（高利明/奇·哈斯/云瑞散步/不谋而合）不进卡；奇·哈斯段含读者观点，吴军回应已单独成卡"
+    },
+    {
+      "unit_id": "WJ2-U0121",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "波音/空客DEI影响、法意车质量与保修年限等依附当下企业政策现状的时评；可迁移线索'工匠精神+技工培养体系支撑质量'未独立成卡，留待P4"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答：吴军就第一桶金迷思、用别人的钱赚钱、赚钱悟性、主动性、无据假设给出多条可迁移判断，成8卡"
+}

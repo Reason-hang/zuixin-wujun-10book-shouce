@@ -1,0 +1,161 @@
+{
+  "unit_id": "WJ2-U0111",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0111-01",
+      "unit_id": "WJ2-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "人们总是高估一两年的进步，低估十年的进步",
+      "quote": "低估十年的进步",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9010,
+        "end_line": 9010,
+        "sha1": "297526057e3f3a9d7a2f4e0e6dd893d986e18e6f",
+        "fingerprint": [
+          "高估",
+          "乐观"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "高估一两年低估十年",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "无人驾驶十年落地为证；《智能时代》2016年介绍之伏笔；伪需求疑虑见9008"
+    },
+    {
+      "claim_id": "C-WJ2-U0111-02",
+      "unit_id": "WJ2-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "产业成熟不止一家做得好：多家企业齐做且水平相似，上下游生产服务配套齐备",
+      "quote": "有很多家企业都开始做这件事了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9052,
+        "end_line": 9052,
+        "sha1": "6c3f235c6d170bc925a846966c1f30774cfe3936",
+        "fingerprint": [
+          "上下游",
+          "泡沫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "产业成熟期判定",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本季主题重建底层逻辑；例：激光雷达、测试系统、出租车运营为上下游"
+    },
+    {
+      "claim_id": "C-WJ2-U0111-03",
+      "unit_id": "WJ2-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "新技术成熟时一定会有泡沫、大量公司死掉，无法避免；适度泡沫及其破裂在商业上有好处",
+      "quote": "适度的泡沫",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9052,
+        "end_line": 9052,
+        "sha1": "6c3f235c6d170bc925a846966c1f30774cfe3936",
+        "fingerprint": [
+          "泡沫",
+          "死掉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "泡沫必然论",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "下封信开头重申利大于弊，见C-WJ2-U0112-01"
+    },
+    {
+      "claim_id": "C-WJ2-U0111-04",
+      "unit_id": "WJ2-U0111",
+      "speaker": "吴军本人",
+      "claim_text": "测试与技术不成熟互为死结时，解法是先建一套逼真的模拟测试系统",
+      "quote": "做一套非常真实的模拟测试系统",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9046,
+        "end_line": 9046,
+        "sha1": "e482c0ec502137bfc6029bb812527029e854cc85",
+        "fingerprint": [
+          "困局",
+          "模拟"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D10-1"
+      ],
+      "concept_key": "模拟测试解鸡与蛋困局",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "无人驾驶先有鸡还是先有蛋之困；第三方共享极端情况可提起点"
+    },
+    {
+      "claim_id": "C-WJ2-U0111-05",
+      "unit_id": "WJ2-U0111",
+      "speaker": "转述·第三方",
+      "claim_text": "禾赛把激光雷达成本降两个数量级的三因：供应链齐全、团队迭代快、依托巨大市场",
+      "quote": "中国的供应链比较齐全",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9034,
+        "end_line": 9040,
+        "sha1": "7f840e66421b05979f757fac0314981e8159349d",
+        "fingerprint": [
+          "供应链",
+          "迭代"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "降成本三因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：禾赛科技李一帆（吴军访谈）；产业配套之中国供应链观察"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0111",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "Waymo运营数据、Mobileye估值、BMW首担L3责任等无人驾驶行业进展与趋势资讯"
+    },
+    {
+      "unit_id": "WJ2-U0111",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "禾赛创业史与李一帆经历为企业史叙述，可迁移方法论已抽卡5"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "无人驾驶观察中之产业成熟判定与泡沫论等底层逻辑成卡"
+}

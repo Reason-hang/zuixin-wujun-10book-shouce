@@ -1,0 +1,188 @@
+{
+  "unit_id": "WJ2-U0106",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0106-01",
+      "unit_id": "WJ2-U0106",
+      "speaker": "吴军本人",
+      "claim_text": "了解原因与结果间的滞后效应，就能提前预测一二十年后的变化并早做准备",
+      "quote": "提前预测10 年",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8638,
+        "end_line": 8638,
+        "sha1": "3aa016bdf3bae5263cf8c5dc03a06898263949bb",
+        "fingerprint": [
+          "滞后效应",
+          "早做准备"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "滞后效应与提前预测",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军以霍普金斯预测中国生源并开拓印度市场为例；总结段8696重申"
+    },
+    {
+      "claim_id": "C-WJ2-U0106-02",
+      "unit_id": "WJ2-U0106",
+      "speaker": "吴军本人",
+      "claim_text": "因果关系的未来预测是准确的；仅相关的关系预测不可靠，人们却习惯把相关当因果",
+      "quote": "把它们也当作因果关系",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8664,
+        "end_line": 8664,
+        "sha1": "52ff0df5f993a634c1e2415ffa36d266584273a8",
+        "fingerprint": [
+          "因果关系",
+          "相关性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "因果与相关的预测力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "对照卡1：积分因果可测、相关不可测；股市为反例见卡3"
+    },
+    {
+      "claim_id": "C-WJ2-U0106-03",
+      "unit_id": "WJ2-U0106",
+      "speaker": "吴军本人",
+      "claim_text": "今天的股价反映对未来的提前量而非当下状态；未来表现与当下预期并无因果关系",
+      "quote": "反映的是提前量",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8682,
+        "end_line": 8682,
+        "sha1": "6a735bd5ac19d654f3a2aeaadbb1234f9bdfaa37",
+        "fingerprint": [
+          "提前量",
+          "当下的状态"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D09-2"
+      ],
+      "concept_key": "股价反映提前量",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "定价由自由现金流对比无风险回报展开（8672-8678）；投资应用见卡4"
+    },
+    {
+      "claim_id": "C-WJ2-U0106-04",
+      "unit_id": "WJ2-U0106",
+      "speaker": "吴军本人",
+      "claim_text": "炒股不能只看公司最近的好消息，要分析企业未来3-5年的表现",
+      "quote": "未来3-5 年的表现",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8690,
+        "end_line": 8690,
+        "sha1": "af1f3ee56c2a49fa002d4af7084663f60a4b7d4f",
+        "fingerprint": [
+          "好消息",
+          "巴菲特"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "看未来三五年而非好消息",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "巴菲特价值投资（8686）为吴军认同之转述，注于本卡不另立"
+    },
+    {
+      "claim_id": "C-WJ2-U0106-05",
+      "unit_id": "WJ2-U0106",
+      "speaker": "吴军本人",
+      "claim_text": "轻松挣大钱的好职业不存在：人人可见的机会会被提前抢占",
+      "quote": "这种职业不存在",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8700,
+        "end_line": 8700,
+        "sha1": "a6c4849eda7461916760a2f4f8635384195cab62",
+        "fingerprint": [
+          "提前量",
+          "职业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "机会的提前定价",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "提前量已反映在当下：如股市会有人提前出高价；应用于职业选择"
+    },
+    {
+      "claim_id": "C-WJ2-U0106-06",
+      "unit_id": "WJ2-U0106",
+      "speaker": "吴军本人",
+      "claim_text": "比看不清未来更可怕的是只看当下；一次性好坏事对长期未来影响不大",
+      "quote": "比看不清未来更可怕的是只看当下",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8702,
+        "end_line": 8702,
+        "sha1": "0f786905d7b8600af57b2a30ac4f3002fc7b00ca",
+        "fingerprint": [
+          "一次性",
+          "积分"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "只看当下最可怕",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "未来是自今天起长时间的积分；勿把一两年当作未来"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0106",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "印度GDP不超中国、应关注非洲市场等人口与宏观预测，离时点即失效"
+    },
+    {
+      "unit_id": "WJ2-U0106",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "全球供应链向印度越南墨西哥转移属当时时事论断"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "提前效应通篇为核心认知方法论，抽6卡"
+}

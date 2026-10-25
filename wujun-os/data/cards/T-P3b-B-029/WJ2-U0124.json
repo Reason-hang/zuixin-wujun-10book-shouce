@@ -1,0 +1,97 @@
+{
+  "unit_id": "WJ2-U0124",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ9",
+  "batch_id": "T-P3b-B-029",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0124-01",
+      "unit_id": "WJ2-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "历次产业热都会出现蹭热度命名的公司（摩托/tronic/e-/AI），需辨别谁是真玩家",
+      "quote": "仔细辨别哪些是真的AI",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9876,
+        "end_line": 9876,
+        "sha1": "e931a609d5a275c7a22e5ee38d5e2830c01d5191",
+        "fingerprint": [
+          "蹭热度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D01-1"
+      ],
+      "concept_key": "产业热蹭热度辨伪",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "Motorola、tronic、e-公司命名为史证（并入母卡）；对蹭热者不必指责，人类想法向来如此"
+    },
+    {
+      "claim_id": "C-WJ2-U0124-02",
+      "unit_id": "WJ2-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "有前途的AI应用，靠的是对应用领域的深厚知识，而非AI技术用得多",
+      "quote": "对于应用领域具有很多知识",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9886,
+        "end_line": 9886,
+        "sha1": "6315de45e5064b492216b12d1619b50c04d205ce",
+        "fingerprint": [
+          "塔台吊车"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "AI应用靠领域知识",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "例证：塔台吊车自动控制公司，团队特长在吊车业务本身，AI用量并不多"
+    },
+    {
+      "claim_id": "C-WJ2-U0124-03",
+      "unit_id": "WJ2-U0124",
+      "speaker": "吴军本人",
+      "claim_text": "AI能自动完成流程已知的工作，之前没人做过的创新工作，人依然非常有价值",
+      "quote": "人依然非常有价值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9914,
+        "end_line": 9914,
+        "sha1": "bcacbfceb590ee832310a53f96b09dddd41b6747",
+        "fingerprint": [
+          "创新的工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "创新工作人的价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "依据：清华自动编程项目——玩法已知游戏可自动生成，全新游戏仍需人写脚本（9912）；机器与人的分工"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0124",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "AI创业项目现状观察、无人机载人可行性（'大规模用于城市交通极不合算，只宜作补充'）、清华自动编程agent组织方式等科技趋势与项目叙述；可迁移逻辑已抽入3卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "科技观察单元：趋势与项目叙述按X6排除，仅抽蹭热度辨伪、领域知识、人机分工三条可迁移判断"
+}

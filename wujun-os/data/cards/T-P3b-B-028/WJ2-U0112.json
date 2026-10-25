@@ -1,0 +1,186 @@
+{
+  "unit_id": "WJ2-U0112",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0112-01",
+      "unit_id": "WJ2-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "泡沫对少数人是好事、对多数人是灾难，但总体上对社会利大于弊的时候更多",
+      "quote": "对社会是利大于弊的时候更多",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9064,
+        "end_line": 9064,
+        "sha1": "320b4354c25acc0a53f49cc5593f109f30531e05",
+        "fingerprint": [
+          "泡沫",
+          "铁路"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "泡沫利大于弊",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "19世纪铁路、20世纪初汽车、2000年互联网泡沫为例；承C-WJ2-U0111-03"
+    },
+    {
+      "claim_id": "C-WJ2-U0112-02",
+      "unit_id": "WJ2-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "产品要围绕根本目的设计：汽车首要安全送达，偏离核心目标的智能功能是画蛇添足",
+      "quote": "安全地把人从A 点送到B 点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9074,
+        "end_line": 9074,
+        "sha1": "33ac5488f70408051ccde6e5c572680b0ed15e04",
+        "fingerprint": [
+          "根本目的",
+          "画蛇添足"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "产品围绕根本目的",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "安全性性能可靠性第一、舒适第二；多数智能功能是摆设（9072）注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0112-03",
+      "unit_id": "WJ2-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "靠廉价取胜虽有效但挣不到利润且不利长期发展；以质取胜做好并让人认可才有市场",
+      "quote": "以质取胜上给同行打了一个样",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9080,
+        "end_line": 9080,
+        "sha1": "bfd91e8848cc99ea5e7b081672ab4a6b787632ed",
+        "fingerprint": [
+          "廉价取胜",
+          "以质取胜"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "以质取胜",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "极氪拆车讲解、工程师答问为展示方法佐证；欧美市场愿为好东西付钱"
+    },
+    {
+      "claim_id": "C-WJ2-U0112-04",
+      "unit_id": "WJ2-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "行业整合后只要仍有几家竞争力强的企业就不会形成垄断，资源整合降成本使消费者受益",
+      "quote": "就不会形成垄断",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9082,
+        "end_line": 9082,
+        "sha1": "de0a08db885c06008410c539cec93ae7819705cf",
+        "fingerprint": [
+          "垄断",
+          "资源整合"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "整合不致垄断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "20世纪初美国百余家车厂整合剩三家之史例；对具体企业残酷、对行业消费者是好事"
+    },
+    {
+      "claim_id": "C-WJ2-U0112-05",
+      "unit_id": "WJ2-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "很多智能家居是不必要的智能：不如把产品质量提升一点、价格降两成来得实惠",
+      "quote": "不如把产品质量提升一点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9092,
+        "end_line": 9092,
+        "sha1": "3d29b66c876a8c02f0ccd274f68c8f693cbbd874",
+        "fingerprint": [
+          "画蛇添足",
+          "伪需求"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "不必要的智能与伪需求",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "智能冰箱逐盒显示、物联网自动补货为反例；过度智能家电同判"
+    },
+    {
+      "claim_id": "C-WJ2-U0112-06",
+      "unit_id": "WJ2-U0112",
+      "speaker": "吴军本人",
+      "claim_text": "失败了通常要止损，而不是想办法把沉没成本拿回来",
+      "quote": "把沉没成本拿回来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9098,
+        "end_line": 9098,
+        "sha1": "0a39745469c4a351bd6d3a55ddae5eb5b8528eda",
+        "fingerprint": [
+          "止损",
+          "沉没成本"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2"
+      ],
+      "concept_key": "止损优先于捞沉没成本",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "赛格威电动滑板例：方向错了的产品谁来做也没有希望（9096）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0112",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "中国新能源车厂两年内剩不过五家、传统车企倒一半等时点预测；储能500美元一度等行情"
+    },
+    {
+      "unit_id": "WJ2-U0112",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "5G/6G代际周期、全息图像、大屏电视行情等消费电子与移动通信趋势评述"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "CES失望清单中之产品方法论与竞争垄断判断成卡，时效评述记X"
+}

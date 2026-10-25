@@ -1,0 +1,100 @@
+{
+  "unit_id": "WJ2-U0113",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0113-01",
+      "unit_id": "WJ2-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "很多人的内心比我们通常想象的阴暗，对人性之恶保持防范是必要的",
+      "quote": "对于人性的恶有点防范",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9128,
+        "end_line": 9128,
+        "sha1": "859ac6069d2413259a9afdcb2f826825539c8187",
+        "fingerprint": [
+          "纵火",
+          "趁火打劫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "人性之恶需防范",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "由纵火嫌犯与40名趁火打劫者引出"
+    },
+    {
+      "claim_id": "C-WJ2-U0113-02",
+      "unit_id": "WJ2-U0113",
+      "speaker": "转述·第三方",
+      "claim_text": "资源预算有限却用于次要优先级时，次要优先级会占据第一优先级，挤占核心任务",
+      "quote": "次要的优先级就会占据第一优先级",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9150,
+        "end_line": 9150,
+        "sha1": "f858f3f9cf09c6ebd79438862d4fe1a0e21c5744",
+        "fingerprint": [
+          "优先级",
+          "救火"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D03-1",
+        "D08-1"
+      ],
+      "concept_key": "次要优先级挤占第一优先级",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：阿赛多（哈佛毕业媒体人）；背景为LAFD预算与DEI资源分配"
+    },
+    {
+      "claim_id": "C-WJ2-U0113-03",
+      "unit_id": "WJ2-U0113",
+      "speaker": "吴军本人",
+      "claim_text": "一件很小概率的事情发生了，背后一定有原因",
+      "quote": "背后一定有原因",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9148,
+        "end_line": 9148,
+        "sha1": "bb109927bd1e4a16b6493274e2b3b1b8e2e9df1a",
+        "fingerprint": [
+          "小概率",
+          "公平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "小概率事件必有原因",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以消防局三位负责人全为女同性恋（6.4万分之一）论证存在不公平；可迁移推理逻辑，稳定度：永恒原理"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0113",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "加州山火火情数据、媒体报道倾向、政治正确与DEI、消防预算削减、供水与过度环保政策等时事评论，离时点即失效；可迁移判断已按例外抽卡1-3"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "山火时评主体记X2，仅抽人性防范、优先级挤占、小概率推理三判断"
+}

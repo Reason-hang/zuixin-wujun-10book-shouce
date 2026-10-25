@@ -1,0 +1,84 @@
+{
+  "unit_id": "WJ2-U0110",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0110-01",
+      "unit_id": "WJ2-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "中小企业通过大型展会进入市场，比做电视和互联网广告效果更好，因观众中多潜在客户",
+      "quote": "通过这种大型展会进入市场的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8980,
+        "end_line": 8980,
+        "sha1": "460b8dd2b9b686afe6333ac1be27aaf14dd406b2",
+        "fingerprint": [
+          "展会",
+          "广告"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "展会进入市场",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "展会经济600亿美元年增5%为佐证；中国企业出海以国际展会为最直接路径（8954）注此"
+    },
+    {
+      "claim_id": "C-WJ2-U0110-02",
+      "unit_id": "WJ2-U0110",
+      "speaker": "吴军本人",
+      "claim_text": "壁垒有时候是势能，能把原来不需要做或缺乏动力做的事情做成",
+      "quote": "壁垒有时候是势能",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 8982,
+        "end_line": 8982,
+        "sha1": "7fccbfa74ea1450e936f08a22dafe4cfe3738345",
+        "fingerprint": [
+          "壁垒",
+          "势能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2"
+      ],
+      "concept_key": "壁垒即势能",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "由地缘政治壁垒催生港博会一事引出的一般化判断"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0110",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "英伟达GPU/AI PC/世界基础模型评述与计算集中-分散周期展望属科技趋势判断"
+    },
+    {
+      "unit_id": "WJ2-U0110",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "中国参观者签证被拒、中国企业参展锐减、英伟达股价跌幅归因等时点时事论断"
+    },
+    {
+      "unit_id": "WJ2-U0110",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "港博会筹备进展为吴军参与项目之推广叙述，其势能判断已抽卡2"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "CES时评中展会方法论与壁垒势能两判断成卡，其余时效内容记X"
+}

@@ -1,0 +1,100 @@
+{
+  "unit_id": "WJ2-U0116",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0116-01",
+      "unit_id": "WJ2-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "微小的进步单个微不足道，合在一起假以时日就形成巨大变化",
+      "quote": "合在一起，假以时日",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9350,
+        "end_line": 9350,
+        "sha1": "0e8a1e79d16f1d73193b7733ec541a08a3e57613",
+        "fingerprint": [
+          "琐事",
+          "社会变化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D05-2"
+      ],
+      "concept_key": "微小进步累积成巨变",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "由法国生活琐事之进步引出；呼应积分思想（C-WJ2-U0106-01互参）"
+    },
+    {
+      "claim_id": "C-WJ2-U0116-02",
+      "unit_id": "WJ2-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "真正拥有文化自信的国家，应该对全世界更包容，而不是排斥",
+      "quote": "对全世界更包容，而不是排斥",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9350,
+        "end_line": 9350,
+        "sha1": "0e8a1e79d16f1d73193b7733ec541a08a3e57613",
+        "fingerprint": [
+          "文化自信",
+          "包容"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "文化自信即包容",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "无合适柱：最接近D01（认知格局之包容）兼涉文明观（X6线索），留P4裁；开篇9304设问此处作答"
+    },
+    {
+      "claim_id": "C-WJ2-U0116-03",
+      "unit_id": "WJ2-U0116",
+      "speaker": "吴军本人",
+      "claim_text": "宁选心里傲慢但待你友好者，不选口称欢迎却让你举步维艰者：实际体验重于表态",
+      "quote": "我宁可选择后者",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9352,
+        "end_line": 9352,
+        "sha1": "bcc6c9ac6b0205e652a0515603471c25744f37d9",
+        "fingerprint": [
+          "举步维艰",
+          "友好"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "实际体验重于表态",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以国家待客为喻之一般判断，可迁移至识人与选择"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0116",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "法国之行行程、交通餐饮购物见闻为游记叙述，仅抽三条可迁移方法论"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "游记单元按特则只抽方法论，成3卡"
+}

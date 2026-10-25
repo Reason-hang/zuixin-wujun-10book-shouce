@@ -1,0 +1,84 @@
+{
+  "unit_id": "WJ2-U0120",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ8",
+  "batch_id": "T-P3b-B-028",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0120-01",
+      "unit_id": "WJ2-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "先贤祠入选看对文明的贡献而非职位名气：无总统入选，巴尔扎克落选而左拉入选",
+      "quote": "而是看对法国政治的贡献",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9618,
+        "end_line": 9620,
+        "sha1": "543a5a7297b4e2e87b5c34d8d2a343ac392c272f",
+        "fingerprint": [
+          "先贤祠",
+          "贡献"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "以贡献定义文明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "无合适柱：最接近D01-3/D06-1（贡献思维如朗道等级），兼涉X6文明观，留P4裁；马拉因贡献为负被移出（9622）为佐证"
+    },
+    {
+      "claim_id": "C-WJ2-U0120-02",
+      "unit_id": "WJ2-U0120",
+      "speaker": "吴军本人",
+      "claim_text": "彻底的包容才能有真正的自信；法国人正从过分自信中反思、拥抱世界",
+      "quote": "才能有真正的自信",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 9652,
+        "end_line": 9652,
+        "sha1": "c3946bab5ddfdb64f3dbb0606374efbe4afc213e",
+        "fingerprint": [
+          "包容",
+          "自信"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "DT-待判"
+      ],
+      "concept_key": "文化自信即包容",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0116-02同概念键互引；无合适柱同前，留P4裁"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0120",
+      "disposal": "X",
+      "x_subtype": "X3",
+      "reason": "先贤祠、荣军院、古监狱参观行程为游记叙述"
+    },
+    {
+      "unit_id": "WJ2-U0120",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "启蒙先贤生平、先贤祠迁葬史、拿破仑十大功绩、大革命断头台史等为史实叙述"
+    },
+    {
+      "unit_id": "WJ2-U0120",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "文末设计先贤祠之留言互动属运营提问"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "大革命地标游记按特则抽贡献定义文明与包容自信两条，史实主体记X"
+}
