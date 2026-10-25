@@ -1,0 +1,102 @@
+{
+ "unit_id": "SG3-U0145",
+ "book_code": "SG3",
+ "extractor": "EXT-SG9",
+ "batch_id": "T-P3b-B-053",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吠陀文明精华是对知识不断追求，方法为主观思考、向内心寻求答案",
+   "quote": "主观的思考而非实证的经验研究",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15475,
+    "end_line": 15477,
+    "fingerprint": [
+     "吠陀文明",
+     "向内心寻求答案"
+    ],
+    "sha1": "92a29ca81de695e4c708b995e6d2fbffab7d03d3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "主观思考型知识体系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "单元小结；完全靠主观理性思考建立知识体系、与重视经验研究的实证主义体系大不相同（15441）；萨古鲁向内心求答案即此文化特点（15443）；印度人生活贫困而精神充实平和、幸福指数高（15477）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0145-01",
+   "unit_id": "SG3-U0145"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "希腊人视世界为实在故发展出自然科学，印度人视为幻象故哲学难实证",
+   "quote": "把世界看成是实在的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15479,
+    "end_line": 15481,
+    "fingerprint": [
+     "原子论",
+     "幻象"
+    ],
+    "sha1": "90aa69a2754dc6b4895a8f2cc7adf8faef395c11"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "实在与虚空两种宇宙观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两文明均好奇心强善思考、故数学都发达（15479）；印度空幻宇宙观被西方称东方神秘主义（15437）；不热衷记录历史而歌颂神（15435）；不意味着印度人缺少智慧（15481）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0145-02",
+   "unit_id": "SG3-U0145"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "印度文明重思考传统助其精英执掌500强；愿思考者自有其处世哲学",
+   "quote": "一整套对待人、对待世界的哲学",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15483,
+    "end_line": 15483,
+    "fingerprint": [
+     "重视思想和思考",
+     "500 强企业"
+    ],
+    "sha1": "9681831c5f239c7c06b47a0621b73e1b835c83f2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-3"
+   ],
+   "concept_key": "思考传统与处世哲学",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "愿意思考的人会找到属于自己的一整套对待人、对待世界的哲学，这是可以学习的地方（15483）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0145-03",
+   "unit_id": "SG3-U0145"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0145",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "吠陀文明与种姓制度史述（15409-15471）：哈拉巴文明、雅利安人南下列五河地区、四部吠陀经与梵书森林书奥义书、婆罗门与种姓等级、罗摩衍那马祭、种姓固化于7世纪后；及印度将在有生之年超越美国成第二大经济体的预测（15407），文明历史叙述与宏观预测；知识方法论比较3卡已抽"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第120封信以吠陀文明史为主：仅抽主观思考知识体系、希印宇宙观对比、思考传统3卡；文明史述与印度经济预测归X6"
+}

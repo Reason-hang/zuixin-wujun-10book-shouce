@@ -1,0 +1,191 @@
+{
+ "unit_id": "SG3-U0137",
+ "book_code": "SG3",
+ "extractor": "EXT-SG9",
+ "batch_id": "T-P3b-B-053",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：只能通过研究现实世界的特殊事物去了解世界背后的深层原理",
+   "quote": "现实世界的各种特殊事物",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14551,
+    "end_line": 14553,
+    "fingerprint": [
+     "理念的科学",
+     "特殊事物"
+    ],
+    "sha1": "757f95dff6867ec7464fcdc9dc7edfbc2cb5d5d2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "研究现实世界知深层原理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德；对照柏拉图“理念的科学”、现实只是理念的不完美衍生物（14551）；为此做大量自然科学研究（14553）；划重点1（14631）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0137-01",
+   "unit_id": "SG3-U0137"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：客观世界是主观看法的基础，可在客观世界中寻求判断标准",
+   "quote": "形成主观看法的基础",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14561,
+    "end_line": 14565,
+    "fingerprint": [
+     "客观世界",
+     "主观看法"
+    ],
+    "sha1": "ffd599a6e28e718efaabd8b3dede3a5227d6df92"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "客观世界是判断标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德；自然界是客观真实的存在（14561）；山高有海拔标准、朋友好坏看是否尊重你的利益助你成长（14565）；把哲学从主观思辨中领出（14567）；眼见未必为实、当局者未必更清（14559）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0137-02",
+   "unit_id": "SG3-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现实世界的真实性是主轴，判断离现实太远大概率是我们哪里出错了",
+   "quote": "大概率是我们哪里出错了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14575,
+    "end_line": 14577,
+    "fingerprint": [
+     "主轴",
+     "真实性"
+    ],
+    "sha1": "e134a1325e0344df65e795a315598b761baa794e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "现实主轴检验",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "R1概括卡，对应亚里士多德原意见本单元02卡；亚里士多德提供了平衡自身感受与现实世界真实性的方法（14571）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0137-03",
+   "unit_id": "SG3-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人的属性首先是自己最个性化的属性，其次才是群体属性，两者常有矛盾",
+   "quote": "自己最个性化的属性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14579,
+    "end_line": 14581,
+    "fingerprint": [
+     "群体的属",
+     "矛盾"
+    ],
+    "sha1": "111dde5fd215b809571a9a1eedfa9406525b1beb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D07-2"
+   ],
+   "concept_key": "个体属性先于群体属性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "亚里士多德第二点启示的吴军概括；每个人潜意识都觉得自己感受最重要（14581）；张三明知李四是损友仍不离开例（14583）；划重点2（14633）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0137-04",
+   "unit_id": "SG3-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正改变错误做法，要给自己设置与社会利益目标相一致的新利益目标",
+   "quote": "新的利益目标",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14597,
+    "end_line": 14601,
+    "fingerprint": [
+     "利益目标",
+     "相一致"
+    ],
+    "sha1": "e42063fba425fdc4094e2e506c6bf3f47d5ce732"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-3"
+   ],
+   "concept_key": "新利益目标改变行为",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "源自小学帮王五圆谎经历：依赖朋友友谊的本能利益目标与群体不一致（14587-14593）；帮人改正要帮其设置自己认可且与大家利益一致的目标，而非指责没是非观（14595）；划重点3（14635）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0137-05",
+   "unit_id": "SG3-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "他人感受与我冲突时，明白其个人利益优先性，从客观世界找利益共同点",
+   "quote": "寻找利益的共同点",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14625,
+    "end_line": 14625,
+    "fingerprint": [
+     "个人利益",
+     "合作共处"
+    ],
+    "sha1": "0e0aa989139d104891eaa4670bf7ce547b435e23"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "寻找利益共同点",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "单元小结；应用于亲子：帮孩子设其认可且与社会一致的目标（14615-14617）属教育议题归X5；单纯换位思考解决不了（14585）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0137-06",
+   "unit_id": "SG3-U0137"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0137",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "孩子叛逆的成因与应对：家长老师更懂客观标准但孩子有其真实利益、机器人竞赛给归属感例、权威压制失效、成年后自悟不叛逆（14605-14621），亲子教育议题；“设置自认可且与社会一致目标”通则已入K卡06"
+  },
+  {
+   "unit_id": "SG3-U0137",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "亚里士多德生平背景：《雅典学院》并列中央、小学课文伽利略自由落体否定的误读（14541-14547），人物史科普"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第113封信：亚里士多德客观世界判断标准与吴军主轴检验、个体群体属性、新利益目标、利益共同点判断成卡；叛逆育儿归X5、生平归X4"
+}

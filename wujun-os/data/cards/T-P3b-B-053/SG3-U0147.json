@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG3-U0147",
+ "book_code": "SG3",
+ "extractor": "EXT-SG9",
+ "batch_id": "T-P3b-B-053",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无论多少钱都经不起一次胡折腾；对市场要敬畏，做人对规律要敬畏",
+   "quote": "对市场要有所敬畏",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15655,
+    "end_line": 15659,
+    "fingerprint": [
+     "输得精光",
+     "敬畏"
+    ],
+    "sha1": "58b20cc66e1ef75b9addd3df5fc7cf6fd29a48a0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "一次胡折腾足以清零",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "无论多少次胜利都可能因一次失败输得精光（15657）；800亿美元可瞬间灰飞烟灭（15657）；做人上不断冒险撒谎欺骗同理，比尔·黄是前车之鉴（15659）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0147-01",
+   "unit_id": "SG3-U0147"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：不要做空股票，不要用杠杆投资",
+   "quote": "不要用杠杆投资",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15661,
+    "end_line": 15661,
+    "fingerprint": [
+     "巴菲特",
+     "杠杆"
+    ],
+    "sha1": "556d13f6d25bfe202252ac75082481c0b7b0f1be"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "巴菲特两不投资红线",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特（吴军在第一季专栏分享过的三句话中之两句）；2021年2月散户逼空华尔街印证第一句、3月底阿契戈斯爆仓印证第二句（15661）；在金融领域有再多的钱也不是上帝（15661）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0147-02",
+   "unit_id": "SG3-U0147"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要第二次信任有问题的人；利益诱惑使人失去理性，长期坚守原则不易",
+   "quote": "失去理性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15663,
+    "end_line": 15665,
+    "fingerprint": [
+     "不良记录",
+     "原则"
+    ],
+    "sha1": "8004f0ac95fe62e884fc8af3d9beeec6a22e6e17"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D07-2"
+   ],
+   "concept_key": "勿二信有问题的人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "高盛先拒后因生意接纳比尔·黄、跑得快未受大损例（15665）；把钱交给有不良记录者打理尤不可取（15665）；题外话：无暇自管资产宜交有百年良好记录的大机构、知止损斩断恶性循环（15667）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0147-03",
+   "unit_id": "SG3-U0147"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "了解基本金融常识，才不会相信好到不像是真的投资神话",
+   "quote": "好到不像是真的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15669,
+    "end_line": 15671,
+    "fingerprint": [
+     "金融知识",
+     "神话"
+    ],
+    "sha1": "3df1c65587ca2db9670e0936a4eed070b26643cd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "金融常识防神话",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "too good to be true 的神话背后常有见不得人的东西（15671）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0147-04",
+   "unit_id": "SG3-U0147"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "加5倍杠杆涨1%得5%，跌20%即清零出局，杠杆同步放大收益与风险",
+   "quote": "只要股市下跌20%",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 15621,
+    "end_line": 15623,
+    "fingerprint": [
+     "5 倍的杠杆",
+     "清零出局"
+    ],
+    "sha1": "f0fd955b2fee3b2c42b8e7898f132d2249a2220e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "杠杆双刃放大风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "股票循环抵押借钱形成5倍杠杆（15621）；借款利息极低成本可忽略（15623）；保证金不足→追缴→强制平仓→越卖越跌的正反馈（15631-15639）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0147-05",
+   "unit_id": "SG3-U0147"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0147",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "阿契戈斯资本2021年3月底爆仓事件叙述：家族办公室业务说明、比尔·黄履历与2009年内幕交易被罚、高杠杆操作与强平正反馈过程、投行抛售金额与野村苏黎世信贷损失（15603-15649），依附具体时点与事件的时事叙述；教训判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "特别加餐：一次胡折腾足以清零、巴菲特两不红线、勿二信有问题的人、金融常识防神话、杠杆双刃判断成卡；Archegos事件时事叙述归X2"
+}

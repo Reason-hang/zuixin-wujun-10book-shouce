@@ -1,0 +1,160 @@
+{
+ "unit_id": "SG3-U0140",
+ "book_code": "SG3",
+ "extractor": "EXT-SG9",
+ "batch_id": "T-P3b-B-053",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人文学科很难找到绝对的真理，观点的可信度靠学术讨论与论著支撑",
+   "quote": "很难找到绝对的真理",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14869,
+    "end_line": 14869,
+    "fingerprint": [
+     "人文学科",
+     "可信度"
+    ],
+    "sha1": "4fb091aa54daa08adcbdde7aaa0937204aa6fab5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "人文学科无绝对真理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "摩西是埃及人一说已获部分历史学家赞同亦有反对（14869）；分享此书重在作者得出结论的过程（14871）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0140-01",
+   "unit_id": "SG3-U0140"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跨界有所成就须发挥原领域专长，把它作为新领域的工具和方法",
+   "quote": "新的工具和方法",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14941,
+    "end_line": 14943,
+    "fingerprint": [
+     "跨界",
+     "精神分析法"
+    ],
+    "sha1": "dd39d212f4410eb10619bd191213f5b5522033b4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D05-1"
+   ],
+   "concept_key": "跨界以原专长为工具",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "划重点3（14965）；弗洛伊德以精神分析法研究宗教史料例（14943）；只用该领域原本方法，后来者很难超过本领域专家（14943）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0140-02",
+   "unit_id": "SG3-U0140"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "到新领域开展工作要按对方的规矩办事，与该领域专家交流讨论",
+   "quote": "按对方的规矩办事",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14945,
+    "end_line": 14945,
+    "fingerprint": [
+     "规矩",
+     "讨论"
+    ],
+    "sha1": "f1e406719713217f138b95c5d3e2097981dfdbd9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "跨界按对方规矩",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "弗洛伊德与宗教学家、历史学家交流讨论例（14945）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0140-03",
+   "unit_id": "SG3-U0140"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跨界工作要获广泛认可，需得到新领域专家的背书与承认",
+   "quote": "同行评议",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14947,
+    "end_line": 14949,
+    "fingerprint": [
+     "新领域专家",
+     "同行评议"
+    ],
+    "sha1": "853cacf83cdc9fdbe9a5e7428880fa579447dce5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "跨界需专家背书",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "弗洛伊德非专业历史学家，但采用科学方法并接受同行评议，故观点惊世骇俗仍不能小视（14933）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0140-04",
+   "unit_id": "SG3-U0140"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "跨界的前提是在原领域有所成就建立声望，新领域工作才更受重视",
+   "quote": "更容易得到重视",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14951,
+    "end_line": 14953,
+    "fingerprint": [
+     "原有的领域",
+     "声望"
+    ],
+    "sha1": "c31952b4998d627e221f957b12e909416f9b41d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "跨界先立原领域声望",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "阿斯曼等学者在弗洛伊德基础上继续研究、跨界更有成效例（14953）；扬·阿斯曼《埃及人摩西》等得出同样结论（14935）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0140-05",
+   "unit_id": "SG3-U0140"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0140",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "弗洛伊德《摩西和一神教》考证与古埃及宗教史：摩西为埃及贵族说、出埃及确立一神信仰、阿肯那顿阿顿神一神改革、图坦卡蒙复辟与拉美西斯二世（14879-14935），宗教史与人物史科普；跨界启示已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0140",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "一神教比多神教抽象、需文明与人对宇宙的哲学思考发展到一定程度才出现的文明史论断（14883-14887、划重点2 14963），文明历史叙述"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第116封信：人文学科无绝对真理与跨界四要点判断成卡；摩西考证与古埃及宗教史归X4、一神教文明史论断归X6"
+}

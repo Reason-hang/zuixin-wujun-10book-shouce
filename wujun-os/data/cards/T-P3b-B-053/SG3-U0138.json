@@ -1,0 +1,271 @@
+{
+ "unit_id": "SG3-U0138",
+ "book_code": "SG3",
+ "extractor": "EXT-SG9",
+ "batch_id": "T-P3b-B-053",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德四因说：质料因、形式因、动力因、目的因，事物变化背后四类原因",
+   "quote": "四类原因",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14655,
+    "end_line": 14661,
+    "fingerprint": [
+     "质料因",
+     "目的因"
+    ],
+    "sha1": "100835061ad620efab5439f518832a7980be7c83"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "四因说",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德；形式因决定本质属性详见本单元02卡；大卫像大理石、思想者青铜的质料例（14657）；工程师质料异而形式同（14661）；与莱布尼茨充分推理原则衔接、判条件是否充分（14651）；内在/外在、手段/目的两维度（14667）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-01",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：形式因决定事物的本质属性，决定一个事物究竟是什么",
+   "quote": "决定了一个事物的本质属性",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14659,
+    "end_line": 14661,
+    "fingerprint": [
+     "形式因",
+     "本质属性"
+    ],
+    "sha1": "6ab76925fff96f07b39982a98cea4e08fb5a2f7a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "形式因决定本质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德，bold原话；教授办公司前要想清楚自己成功的形式因（14687）；王仁华支持学生刘庆峰办科大讯飞、自己守实验室的形式因清醒（14689）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-02",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一个人想做成一件事，通常质料形式动力目的四类原因都需要具备",
+   "quote": "这四类原因都需要具备",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14669,
+    "end_line": 14669,
+    "fingerprint": [
+     "做成一件事",
+     "具备"
+    ],
+    "sha1": "d1f8d03b77952eae4d62ab5cb9658e16140a1875"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-4"
+   ],
+   "concept_key": "四因齐备成事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "划重点2：办公司不成多因四因没想明白（14669、14731）；很多人办公司不成功因四问一开始答不上来（14679）；四因内要素多元，过分强调一项会适得其反（14693）；办公司例：形式因定地方或全球、目的因定卖产品或卖公司（14671-14675）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-03",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "快乐是良好生活的目的因，钱只是通向它的动力因；把钱当目的会失去快乐",
+   "quote": "把钱当成了目的",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14691,
+    "end_line": 14691,
+    "fingerprint": [
+     "目的因",
+     "动力因"
+    ],
+    "sha1": "6877979bf1c4ebb1a9190927b467aa8b12d77a9e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D09-1"
+   ],
+   "concept_key": "快乐为目的因钱为动力因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应第112封信伊壁鸠鲁；把钱当目的、用错误手段挣钱，结果天天提心吊胆失去快乐（14691）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-04",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事前把四因当四个问题问自己一遍，能避免糊里糊涂地做一件事",
+   "quote": "避免糊里糊涂",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14699,
+    "end_line": 14699,
+    "fingerprint": [
+     "四个问题",
+     "写一本书"
+    ],
+    "sha1": "6729c8d48b6483cdcf3601c298f75c71b036db23"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "四因四问前置",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "写书四问：优势是否适合、写成什么样、为何写、走什么路径（14699）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-05",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "困难久攻不下时用四因反省：目的是否成立、形式是否更换、流程如何改",
+   "quote": "形式因可能改变了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14703,
+    "end_line": 14709,
+    "fingerprint": [
+     "开水白菜",
+     "目的因"
+    ],
+    "sha1": "92b17dda08916e3dd0414a8818090ee5843ce92d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "四因反省困难",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "开水白菜久攻不下例：查目的因该不该做、形式因可换香菇炖鸡、动力因查步骤火候（14705-14709）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-06",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期停滞要审视形式因与目的因是否过期，过期就设新的形式与目标",
+   "quote": "是否过期了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14711,
+    "end_line": 14715,
+    "fingerprint": [
+     "没有变化",
+     "新的目标"
+    ],
+    "sha1": "29d5709bed20b0641b867cd86270a50651aaa2da"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D05-1"
+   ],
+   "concept_key": "形式因目的因过期检视",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "有什么样的因就有什么样的果（14713）；10年达成目标后若再无变化，须设新形式新目标否则进步慢（14715）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-07",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "质料因不同则方法要变：育人用人按对象特点定路径，不能一刀切",
+   "quote": "不能一刀切",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14719,
+    "end_line": 14719,
+    "fingerprint": [
+     "质料因",
+     "一刀切"
+    ],
+    "sha1": "383fbf9f332ce57a43f0f800c0a770a92dd83f42"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-3"
+   ],
+   "concept_key": "质料因决定方法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "反应慢的孩子循序渐进、聪颖的调节奏（14719）；按天赋培养、鼓励放弃不擅长领域（14717）归X5；对下属安排工作与职业辅导同理（14719）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-08",
+   "unit_id": "SG3-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "哲学并非无用，可以成为辅助我们生活的工具，四因说即一例",
+   "quote": "辅助我们生活的工具",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 14723,
+    "end_line": 14723,
+    "fingerprint": [
+     "哲学",
+     "工具"
+    ],
+    "sha1": "20450d0b5fae8b16cc732aa72b52e337f3b8e012"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "哲学是生活工具",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点3（14733）；研究哲学者常不屑向大众讲清哲学何用之叹（14723）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0138-09",
+   "unit_id": "SG3-U0138"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0138",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "瓦特与博尔顿高度互补、助手默多克把蒸汽机造出来的史实例证（14683-14685），仅作质料因说明，论点已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0138",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "以四因说定孩子培养计划、按天赋鼓励放弃不在行领域（14717），亲子教育议题；“质料因决定方法”通则已入K卡08"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第114封信：四因说及其做事应用（四因齐备/四问前置/困难反省/停滞检视/质料定方法/钱是动力因/哲学是工具）成卡；瓦特史实归X4、育儿应用归X5"
+}
