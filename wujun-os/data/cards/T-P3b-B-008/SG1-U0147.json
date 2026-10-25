@@ -1,0 +1,130 @@
+{
+ "unit_id": "SG1-U0147",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人生境遇塑造艺术认知：夏加尔世纪人生反映一个世纪的世界变化",
+   "quote": "对艺术认知的影响",
+   "anchor": {
+    "start_line": 8961,
+    "end_line": 8961,
+    "fingerprint": [
+     "衣食无虞",
+     "一个世纪的变化"
+    ],
+    "book_code": "SG1",
+    "sha1": "8859d6ee118ce7cccf5cc029cefadba158d0a557"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-4"
+   ],
+   "concept_key": "境遇塑造艺术认知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对家具商夫妇言：几代衣食无虞难理解其境遇对艺术认知的影响（8961）；夏加尔自述'如果我不是一个犹太人……'（9003，被转述名人原话，主题并入本卡）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0147-01",
+   "unit_id": "SG1-U0147"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现实与梦想脱节是普遍心声，说出它的艺术家受东西方共同欢迎",
+   "quote": "在梦里得到现实中得不到的东西",
+   "anchor": {
+    "start_line": 8993,
+    "end_line": 8993,
+    "fingerprint": [
+     "美好的期望",
+     "相脱节"
+    ],
+    "book_code": "SG1",
+    "sha1": "b4346260607ae0548eace80c0f8f5ca254acbadf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-4"
+   ],
+   "concept_key": "梦想现实脱节共鸣",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "毕加索评夏加尔为对绘画颜色掌握最好的画家（毕加索情人吉洛回忆，转述，8993）；'那不是诡异，是梦幻'（8959）；用颜色表达梦想（8993）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0147-02",
+   "unit_id": "SG1-U0147"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功的艺术家是时代的产物，作品是人生与时代的体现",
+   "quote": "都是时代的产物",
+   "anchor": {
+    "start_line": 8999,
+    "end_line": 8999,
+    "fingerprint": [
+     "时代的产物",
+     "一种体现"
+    ],
+    "book_code": "SG1",
+    "sha1": "7e001e92c38479ff6a0f16bd3e4acb94dcda6424"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-4"
+   ],
+   "concept_key": "艺术家是时代产物",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "其所处世纪为从近代到现代、从战争到和平的变化时代（8999）；犹太人是受时代变化影响最大的群体（9001）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0147-03",
+   "unit_id": "SG1-U0147"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "独树一帜的风格后无来者：没有人能重新生活回那个时代",
+   "quote": "重新生活回夏加尔的那个时代",
+   "anchor": {
+    "start_line": 9005,
+    "end_line": 9005,
+    "fingerprint": [
+     "无门无派",
+     "后无来者"
+    ],
+    "book_code": "SG1",
+    "sha1": "fe0097db253425f2c2738c432539a3007c146d29"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-4"
+   ],
+   "concept_key": "风格随时代不可复制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "夏加尔独来独往无门无派，画派纳入被拒（9005）；与'艺术家是时代产物'卡互为表里",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0147-04",
+   "unit_id": "SG1-U0147"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0147",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "夏加尔生平史实：犹太学校习画、巴黎学画、十月革命任人民委员、赴美避难、巴黎歌剧院天顶画（8963-8987）与犹太身份自述（9001-9003）；姚谦歌词引文（8955）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第137封信夏加尔传记为主（X4），抽境遇塑造艺术认知、梦想现实脱节共鸣、艺术家是时代产物、风格随时代不可复制4卡"
+}

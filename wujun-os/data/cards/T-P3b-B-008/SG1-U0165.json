@@ -1,0 +1,266 @@
+{
+ "unit_id": "SG1-U0165",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "钱是对资源所有权与使用权的量化度量，多少反映可调动资源总量",
+   "quote": "调动社会资源",
+   "anchor": {
+    "start_line": 10153,
+    "end_line": 10159,
+    "fingerprint": [
+     "量化度量",
+     "时间资源"
+    ],
+    "book_code": "SG1",
+    "sha1": "68d2b28ab40716c52bcf201b71db7c289b84eb63"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D04-1"
+   ],
+   "concept_key": "钱是资源度量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "钻石与土地=自然资源、买车雇保姆打游戏=买他人时间（10155）；钱是你时间资源商品化的结果（10157）；100万vs1万=100倍资源调动（10159）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-01",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有效花钱等于有效利用社会资源的良性循环；钱放着不用失去意义",
+   "quote": "钱只有花出去才是自己的",
+   "anchor": {
+    "start_line": 10161,
+    "end_line": 10163,
+    "fingerprint": [
+     "良性循环",
+     "烧掉"
+    ],
+    "book_code": "SG1",
+    "sha1": "69f257f99bbfaf43325060fa1cf51c3def575b04"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "花出去才自己的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "舍不得花钱=失去利用资源进步的可能（10163）；烧掉100万=放弃资源所有权使用权（10163）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-02",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "钱发挥最大效能的办法是把今天过好，未来在今天基础上发展",
+   "quote": "利用它把今天过好",
+   "anchor": {
+    "start_line": 10165,
+    "end_line": 10167,
+    "fingerprint": [
+     "生活品质",
+     "不确定性"
+    ],
+    "book_code": "SG1",
+    "sha1": "60b8bb6feaece4a0d2b4763b06ab6d8b4138e2cd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "把今天过好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "昨天无法改变、过得好是幸运要感谢上帝与周围的人（10165）；未来有太多不确定性（10167）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-03",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "需留应急积蓄应对倒霉事，但不为攒钱牺牲当下生活",
+   "quote": "为了攒钱而牺牲当下的生活",
+   "anchor": {
+    "start_line": 10169,
+    "end_line": 10169,
+    "fingerprint": [
+     "积蓄",
+     "万分之一"
+    ],
+    "book_code": "SG1",
+    "sha1": "d0e669c6158390d6a89ffec7ddb6e56effbdb25d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "应急积蓄原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "万分之一倒霉事需积蓄走出困境（10169）；第2点体会（10169）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-04",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "获得皆有代价且会失去另一些；想要的东西应让生活更好非添麻烦",
+   "quote": "让我们的生活变得更好",
+   "anchor": {
+    "start_line": 10173,
+    "end_line": 10173,
+    "fingerprint": [
+     "代价",
+     "失去另外一些"
+    ],
+    "book_code": "SG1",
+    "sha1": "b1c5c409d955df4355ce65a2e82dbe010bc1dbde"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "获得皆有代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第3点金钱观总纲（10171-10173）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-05",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "买奢侈品原则是不让生活变差：不为炫耀，麻烦超便利就不买",
+   "quote": "不能让我的生活因此变差了",
+   "anchor": {
+    "start_line": 10175,
+    "end_line": 10179,
+    "fingerprint": [
+     "炫耀",
+     "肾去换iPhone"
+    ],
+    "book_code": "SG1",
+    "sha1": "7c919485d50f2590014d6ff0d677a78064cab619"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "奢侈品不降生活",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "肾换iPhone与降两个月伙食都不值得（10177）；大房子导致精打细算的案例（10179）；舍不得用的包=浪费可调动资源（10181）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-06",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从2万到100万年薪者都想要两倍的钱，亿万富翁也钱不够花",
+   "quote": "反正都是现在收入的两倍",
+   "anchor": {
+    "start_line": 10185,
+    "end_line": 10187,
+    "fingerprint": [
+     "布隆伯格",
+     "250 亿美元"
+    ],
+    "book_code": "SG1",
+    "sha1": "2fa6e351de16589718251d168a9f6967dcb3e7b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "两倍收入心理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "想象不出更高收入如何花钱（10185）；布隆伯格：10亿捐款vs250亿预算（10187，轶事）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-07",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "提高挣钱效率靠单位时间效率与掌握大部分人不会的稀缺技能",
+   "quote": "必须掌握一些大部分人不会的技能",
+   "anchor": {
+    "start_line": 10189,
+    "end_line": 10191,
+    "fingerprint": [
+     "单位时间",
+     "稀缺资源"
+    ],
+    "book_code": "SG1",
+    "sha1": "bd946975f0d8134fb90b51428cc0d1458a9a8bd8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D06-1"
+   ],
+   "concept_key": "稀缺技能值钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "延长工时不可取（10189）；伪工作者与西瓜芝麻（10189）；大家都会的技能不值钱如开车（10191）；英语与计算机将来最不值钱（10193-10195）；要有独有能力（10195）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-08",
+   "unit_id": "SG1-U0165"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "钱花不光但投资可迅速投光：大家族破产皆因投资不当非消费",
+   "quote": "要特别小心",
+   "anchor": {
+    "start_line": 10197,
+    "end_line": 10201,
+    "fingerprint": [
+     "迅速破产",
+     "投资失败"
+    ],
+    "book_code": "SG1",
+    "sha1": "e950d34c3b6d537f393cea3d06c86522d9be95b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "投资可投光",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不吸毒不养小三不赌博花光不易（10197）；麦克莱恩石油投资失败欠十几亿美元（10199）；亨特兄弟白银投资破产（10201）；风险毁掉一两代人（10201）；第5点金钱观展开，总纲见 C-SG1-U0164-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0165-09",
+   "unit_id": "SG1-U0165"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0165",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "肾换iPhone报道、翻译软件现状、麦克莱恩与亨特兄弟破产等时点案例数据（10177-10201）；布隆伯格10亿美元轶事为论据（10187）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第155封信金钱观（下）9卡：钱是资源度量、花出去才自己的、把今天过好、应急积蓄、获得有代价、奢侈品不降生活、两倍心理、稀缺技能、投资可投光"
+}

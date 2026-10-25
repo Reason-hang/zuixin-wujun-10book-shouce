@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0146",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初到美国时的豪宅梦想符号，真正融入社会后发现不再那么重要",
+   "quote": "房子对我来讲已经不是那么重要了",
+   "anchor": {
+    "start_line": 8899,
+    "end_line": 8899,
+    "fingerprint": [
+     "美国梦",
+     "融入到美国社会"
+    ],
+    "book_code": "SG1",
+    "sha1": "b7219ce177f86019823b806f5a152d8bbf967c7d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-3"
+   ],
+   "concept_key": "美国梦祛魅",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朋友以17英里豪宅为'你未来的美国梦'（8899）；后续转化为偶尔海边周末与高尔夫的低频享受（8899）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0146-01",
+   "unit_id": "SG1-U0146"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "名气带来稀缺溢价：名球场打球价格不菲、需提前多日预约并捆绑住宿",
+   "quote": "价格不菲",
+   "anchor": {
+    "start_line": 8909,
+    "end_line": 8909,
+    "fingerprint": [
+     "名气非常大",
+     "度假村"
+    ],
+    "book_code": "SG1",
+    "sha1": "c4c06c9317caea5cfe693c1f271e3d1e01827204"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "名气稀缺溢价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "卵石滩高尔夫球场：名气大→价格不菲+提前多天预约+先住度假村两天（8909）；多数人无下场机会仍愿看风景（8911）；专名案例承载稀缺定价机理故E3",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0146-02",
+   "unit_id": "SG1-U0146"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0146",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "一号公路/卡梅尔/17英里/大苏尔的行程与景观叙述（8875-8935）为游记主体，无可迁移方法论"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第136封信一号公路游记为主（X3），仅抽美国梦祛魅与名气稀缺溢价2卡"
+}

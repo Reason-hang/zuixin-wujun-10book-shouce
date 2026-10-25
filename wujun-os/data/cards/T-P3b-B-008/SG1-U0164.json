@@ -1,0 +1,185 @@
+{
+ "unit_id": "SG1-U0164",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "鲁迅：人要生存温饱发展——生存不是苟活，温饱不是奢侈，发展不是放纵",
+   "quote": "所谓温饱，并不是奢侈",
+   "anchor": {
+    "start_line": 10087,
+    "end_line": 10087,
+    "fingerprint": [
+     "生存",
+     "放纵"
+    ],
+    "book_code": "SG1",
+    "sha1": "1f7bcc64b6c92a973a91e4fd8d415fa5d7c16319"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "生存温饱与发展",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=鲁迅；鲁迅不假装清高，该享受的物质生活还是享受（10087）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0164-01",
+   "unit_id": "SG1-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "饭碗可以跟理想分开：精神物质没准备好就被劝回去上班",
+   "quote": "饭碗可以跟理想分开",
+   "anchor": {
+    "start_line": 10095,
+    "end_line": 10095,
+    "fingerprint": [
+     "啃老",
+     "劝回去上班"
+    ],
+    "book_code": "SG1",
+    "sha1": "cef7040adc05ace2b8be360e01cbfa0c8fa6b9d2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D06-1"
+   ],
+   "concept_key": "饭碗理想分开",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "裸辞创业混一圈回家啃老例（10095）；2016年劝想创业者回去上班（10095，时点）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0164-02",
+   "unit_id": "SG1-U0164"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "鲁迅：自由固不是钱所能买到的，但能够为钱而卖掉，经济最要紧",
+   "quote": "能够为钱而卖掉",
+   "anchor": {
+    "start_line": 10099,
+    "end_line": 10099,
+    "fingerprint": [
+     "钱是要紧的",
+     "自由固不是钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "8088129b6a6bf381b214e4e9899094fc2bbddc5f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "自由可为钱卖掉",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=鲁迅《娜拉走后怎样》：娜拉出走需带钱、梦是好的否则钱是要紧（10099）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0164-03",
+   "unit_id": "SG1-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有钱万万不能；置于死地多数真死了，退学创业是颠倒因果",
+   "quote": "故意颠倒了因果关系",
+   "anchor": {
+    "start_line": 10101,
+    "end_line": 10103,
+    "fingerprint": [
+     "万万不能",
+     "置于死地"
+    ],
+    "book_code": "SG1",
+    "sha1": "b8a3cc37f1693a439adc172de9a9d9e58fc6d49f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-1"
+   ],
+   "concept_key": "无钱万万不能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "盖茨佩奇布林扎克伯格是先找到挣钱方法才退学而非相反（10103）；媒体为哗众取宠渲染退学创业（10103）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0164-04",
+   "unit_id": "SG1-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "金钱观五句话：上帝暂存、花出去才是你的、为生活更好、靠挣不靠省、投资可投光",
+   "quote": "钱只有花出去才是你的",
+   "anchor": {
+    "start_line": 10105,
+    "end_line": 10115,
+    "fingerprint": [
+     "上帝存在你那里",
+     "气度"
+    ],
+    "book_code": "SG1",
+    "sha1": "66c58ad1125855d77ae8b7e3e0efd78a0365184c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "金钱观五句话",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清单式方法论整体一卡；第1句展开：钱最终三个去处、超能力挣钱成本高（10119-10133）；第5句展开见 C-SG1-U0165-09；挣钱的效率取决于气度（10113）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0164-05",
+   "unit_id": "SG1-U0164"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能力有极限，超过能力挣钱成本太高不合算，想清楚才潇洒",
+   "quote": "超过自己能力去挣钱",
+   "anchor": {
+    "start_line": 10133,
+    "end_line": 10133,
+    "fingerprint": [
+     "极限",
+     "潇洒"
+    ],
+    "book_code": "SG1",
+    "sha1": "f57eca3f3156b47ca16b3d0463fd6c00ac30e3bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "能力极限挣钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴尔扎克日写16小时靠咖啡、40岁垮掉且入不敷出为反例（10135-10137，史实）；鲁迅想做的事都做了过得潇洒（10135）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0164-06",
+   "unit_id": "SG1-U0164"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0164",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "鲁迅收入与北大讲师旧事、巴尔扎克写作生平、贝聿铭叔祖购狮子林等人物轶事史实（10089-10093、10135-10137）；看病占GDP17%为时点数据（10129）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第154封信金钱观（上）6卡：生存温饱发展、饭碗理想分开、自由可为钱卖掉、无钱万万不能、金钱观五句话、能力极限挣钱"
+}

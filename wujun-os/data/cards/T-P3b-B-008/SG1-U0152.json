@@ -1,0 +1,101 @@
+{
+ "unit_id": "SG1-U0152",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "几乎不投英美以外上市公司：滞后立法无力制止钻空子的内幕交易",
+   "quote": "英国和美国以外上市的公司",
+   "anchor": {
+    "start_line": 9337,
+    "end_line": 9337,
+    "fingerprint": [
+     "内幕交易",
+     "法律系统"
+    ],
+    "book_code": "SG1",
+    "sha1": "dde7cf6dfda4f371dbc0f90487c14255781ee034"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "制度保护定投资边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "资本贪婪本性+立法滞后→投资人利益难保障（9337）；英美法系判例随时审判vs成文法滞后可钻空（9307-9311）；制度完善一点对股市帮助莫大（9305）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0152-01",
+   "unit_id": "SG1-U0152"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "交易必须公平才能长期维持下去（纽交所梧桐树协议理念）",
+   "quote": "交易必须公平才能长期维持下去",
+   "anchor": {
+    "start_line": 9339,
+    "end_line": 9339,
+    "fingerprint": [
+     "梧桐树",
+     "公平交易"
+    ],
+    "book_code": "SG1",
+    "sha1": "8d33b6ed2207498528e66b6a09b546ea0356c2ff"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "交易公平可长期",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "纽约最初24名交易员梧桐树协议（9339）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0152-02",
+   "unit_id": "SG1-U0152"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "布雷耶：帮助家庭成员就是帮助自己，亲友获利即利益输送",
+   "quote": "帮助家庭成员就是帮助自己",
+   "anchor": {
+    "start_line": 9333,
+    "end_line": 9333,
+    "fingerprint": [
+     "布雷耶",
+     "利益输送"
+    ],
+    "book_code": "SG1",
+    "sha1": "a09a2849bcd5ad7541642ebd8dce1e27cae77c8d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "亲友获利即利益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=布雷耶大法官；塞尔曼案8:0定罪、斩断亲友传递内幕消息链（9333-9335）；无金钱来往仍认定利益（9329-9333）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0152-03",
+   "unit_id": "SG1-U0152"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0152",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "德克斯案与塞尔曼案案情经过、英美法系与欧陆法系比较、1934年证券法等金融法制史叙述（9303-9335）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第142封信内幕交易以案情史实为主（X4），抽制度保护定投资边界、交易公平可长期、亲友获利即利益3卡"
+}

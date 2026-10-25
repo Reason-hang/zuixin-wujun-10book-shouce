@@ -1,0 +1,214 @@
+{
+ "unit_id": "SG1-U0149",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "花出去的钱才是真的：交易事实与理论矛盾时错的永远是理论",
+   "quote": "错误的永远是理论",
+   "anchor": {
+    "start_line": 9093,
+    "end_line": 9093,
+    "fingerprint": [
+     "花出去的钱",
+     "矛盾"
+    ],
+    "book_code": "SG1",
+    "sha1": "1d50fc1fc528235e04e85e22491118b9ec1e88b4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "事实高于经济理论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中美3000多亿逆差与'成本96%不可能并存'为实证（9091）；总结句'在经济上只有钱是真的'见 C-SG1-U0149-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-01",
+   "unit_id": "SG1-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事就怕分析细节，要刨根问底搞清楚细节",
+   "quote": "凡事就怕分析细节",
+   "anchor": {
+    "start_line": 9115,
+    "end_line": 9115,
+    "fingerprint": [
+     "刨根问底",
+     "搞清楚细节"
+    ],
+    "book_code": "SG1",
+    "sha1": "bcaf1d28d1f4cc77d15617ecd54b116653105afe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "刨根问底析细节",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从BCG网站不起眼处找到指数设计模型（9115）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-02",
+   "unit_id": "SG1-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "指数加固定调整常数则零成本国家也超80%，横向对比严重误导",
+   "quote": "实际上非常误导人",
+   "anchor": {
+    "start_line": 9133,
+    "end_line": 9133,
+    "fingerprint": [
+     "调整常数",
+     "80%"
+    ],
+    "book_code": "SG1",
+    "sha1": "374c76ace68abe44202e17906e15bbd8135043f2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "指数加性常数误导",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三项成本线性加法无权重、以美国为中心（9113）；成本概念被人为发明扭曲（9133）；修正方案见 C-SG1-U0149-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-03",
+   "unit_id": "SG1-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公平的成本指数应按同一比例放大各国成本，而非加调整常数",
+   "quote": "按照同样的比例放大",
+   "anchor": {
+    "start_line": 9135,
+    "end_line": 9137,
+    "fingerprint": [
+     "调整常数",
+     "常数系数"
+    ],
+    "book_code": "SG1",
+    "sha1": "09a573511b9f65a9b85155ab2a89cbb985541395"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D09-2"
+   ],
+   "concept_key": "指数同比缩放公平",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "制造业成本指数＝成本×常数系数（9135-9137）；缺陷分析见 C-SG1-U0149-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-04",
+   "unit_id": "SG1-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "指标脱离设计初衷被误用：纵向对比工具被当横向对比下结论",
+   "quote": "不是用以各国之间横向对比的",
+   "anchor": {
+    "start_line": 9141,
+    "end_line": 9141,
+    "fingerprint": [
+     "纵向对比",
+     "横向对比"
+    ],
+    "book_code": "SG1",
+    "sha1": "c2760d26fca8318bdc54d1fd3ec9acd5ffcecf76"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "指标误用看初衷",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "设计者为经济学家非科学家工程师、利于政府说事（9139）；不分析设计方法就危言耸听有失治学态度（9141）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-05",
+   "unit_id": "SG1-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "统计口径会掩盖真相：放弃找工作的人不计入失业统计",
+   "quote": "他不算失业",
+   "anchor": {
+    "start_line": 9149,
+    "end_line": 9149,
+    "fingerprint": [
+     "心灰意冷",
+     "就业人口比例"
+    ],
+    "book_code": "SG1",
+    "sha1": "7e6989aaee0e35747ef04539774265af990b618c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "失业率口径掩盖",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国就业人口占总人口比例处历史低点（9145）；25岁以下实际失业率20%（9153）；时点数据已入X2",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-06",
+   "unit_id": "SG1-U0149"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在经济上只有钱是真的，理论与事实不一致都是假的",
+   "quote": "只有钱是真的",
+   "anchor": {
+    "start_line": 9155,
+    "end_line": 9155,
+    "fingerprint": [
+     "经济学家",
+     "假的"
+    ],
+    "book_code": "SG1",
+    "sha1": "565e2498055aefdecf8dbab5dd4c5e6ae1835b25"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "只有钱是真的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信总结句；与开头原则句互引见 C-SG1-U0149-01；经济学家自己炒股挣不到钱（9155）；对不靠谱数据的两条路：自己思考或相信世界会更好（9157）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0149-07",
+   "unit_id": "SG1-U0149"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0149",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2015中美贸易逆差、'中国制造成本96%'舆论、BCG指数2014/2004数值与中美成本明细、奥巴马失业率与2016选举、各时代就业曲线等时点论据（9089-9153）；'指标为政治服务'为时评（9085）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第139封信剖析忽悠人的经济指标7卡：事实高于理论、刨根问底、指数加性常数缺陷与修正、指标误用、失业率口径、只有钱是真的"
+}

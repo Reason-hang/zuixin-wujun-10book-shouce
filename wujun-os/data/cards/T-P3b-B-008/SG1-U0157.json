@@ -1,0 +1,263 @@
+{
+ "unit_id": "SG1-U0157",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期看贵金属不是好投资且扣通胀还亏钱，因其与创造财富无关",
+   "quote": "不仅不是好的投资",
+   "anchor": {
+    "start_line": 9621,
+    "end_line": 9625,
+    "fingerprint": [
+     "通货膨胀",
+     "创造财富"
+    ],
+    "book_code": "SG1",
+    "sha1": "5d71bade1d80ae0038d2fdba6ce278d32aa2ad02"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "贵金属非好投资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "金价225年涨63倍年均不足2%（9621）；贝聿铭家9000两白银例（9623）；工业贵金属与大宗商品抗通胀但增长慢、技术占比越来越高（9631）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-01",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "避险买黄金须买实物黄金，纸面符号黄金危急时没有用",
+   "quote": "要买实物黄金",
+   "anchor": {
+    "start_line": 9629,
+    "end_line": 9629,
+    "fingerprint": [
+     "避险",
+     "GLD"
+    ],
+    "book_code": "SG1",
+    "sha1": "3c496a342a9269c0a7e466520acddf7dfedf8ba1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "避险买实物黄金",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "黄金今为避险资产、危机战乱时升值快（9629）；纸面黄金如GLD（9629）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-02",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "短期波动让人把投资变赌博，个人输面远大于赢，要远离赌场",
+   "quote": "就要远离赌场",
+   "anchor": {
+    "start_line": 9633,
+    "end_line": 9637,
+    "fingerprint": [
+     "赌一把",
+     "亨特"
+    ],
+    "book_code": "SG1",
+    "sha1": "f34ab2da50000eba57204e38d47bc14a882760b5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "投资远离赌场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "亨特兄弟操纵白银终破产（9635）；赌多了没有赢家（9633）；投资要的是通过经济增长获确定回报（9637）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-03",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "夏普：解雇理财顾问——趋势一半时间错、利益冲突收费侵蚀、市场有效",
+   "quote": "被基金经理们拿走了2%",
+   "anchor": {
+    "start_line": 9643,
+    "end_line": 9649,
+    "fingerprint": [
+     "一半时间是错的",
+     "利益冲突"
+    ],
+    "book_code": "SG1",
+    "sha1": "085f3e37d841283369f77ad614ac59ef89120ee5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "解雇理财顾问三理由",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=威廉·夏普（诺贝尔经济学奖得主，投资101第一课）（9641-9643）；65%/79%/81%基金跑输标普500（9645）；年2%费40年总回报20.7倍降为9.3倍（9649）；巴菲特基金8年回报与标普重合（9651，转述，市场有效例）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-04",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "简单投资策略胜专业团队的关键不在战术，而在恪守规则",
+   "quote": "而在于能够恪守规则",
+   "anchor": {
+    "start_line": 9653,
+    "end_line": 9653,
+    "fingerprint": [
+     "打擂台",
+     "简单的投资策略"
+    ],
+    "book_code": "SG1",
+    "sha1": "6b1835d005557bc6ec595e8ecbfe7e4c144e0577"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D05-2"
+   ],
+   "concept_key": "恪守规则胜专业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google工程师与高盛摩根士丹利打擂台验证（9653）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-05",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市花时间越多交易越频回报越差，傻子式投资反而效果好",
+   "quote": "越是经常交易，回报越差",
+   "anchor": {
+    "start_line": 9657,
+    "end_line": 9657,
+    "fingerprint": [
+     "劳模",
+     "像傻子一样投资"
+    ],
+    "book_code": "SG1",
+    "sha1": "6638f35a5c94fe10366cbe4d927b72845de1b500"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "越交易越差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "误区三：很多人方法根本有问题（9657）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-06",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "追买受捧高价股如同击鼓传花，是建立在空中楼阁上的投资",
+   "quote": "鼓声常常会在花传到你手上时停止",
+   "anchor": {
+    "start_line": 9661,
+    "end_line": 9661,
+    "fingerprint": [
+     "击鼓传花",
+     "空中楼阁"
+    ],
+    "book_code": "SG1",
+    "sha1": "da187e0691dc3914739622955b85afbc6f53ed9c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "击鼓传花空中楼阁",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "马尔基尔《漫步华尔街》提法（转述，9661）；误区四",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-07",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不卖没损失是当鸵鸟：跌50%需涨100%回本，单股早晚清零",
+   "quote": "单个股票早晚要清零",
+   "anchor": {
+    "start_line": 9663,
+    "end_line": 9667,
+    "fingerprint": [
+     "当鸵鸟",
+     "下跌50%"
+    ],
+    "book_code": "SG1",
+    "sha1": "430f1429afca260c543ca4c8bfb904344e0a1d5b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "当鸵鸟不清零",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "指数总有回来的一天、单股不一定（9665）；道指百年只剩GE、英特尔思科未回2000点位而纳斯达克新高（9667，时点）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-08",
+   "unit_id": "SG1-U0157"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股价贵贱要看股本与盈利成长，一毛钱股票未必比百元股便宜",
+   "quote": "还要看它的盈利能力和成长率",
+   "anchor": {
+    "start_line": 9671,
+    "end_line": 9673,
+    "fingerprint": [
+     "一毛钱",
+     "津巴布韦"
+    ],
+    "book_code": "SG1",
+    "sha1": "18fde4b84b31f24e4a0fe44cb08f6edc75597865"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "便宜股未必便宜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "跌到0.01比涨回1元的情况多得多（9673）；换津巴布韦元类比（9673）；误区六",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0157-09",
+   "unit_id": "SG1-U0157"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0157",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "金价225年数据、亨特兄弟白银豪赌、伯克希尔股价与标普重合、道指成分股只剩GE、英特尔思科点位等时点行情论据（9621-9667）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第147封信投资误区9卡：贵金属非好投资、避险买实物、远离赌场、夏普解雇顾问、恪守规则、越交易越差、击鼓传花、当鸵鸟、便宜股未必便宜"
+}

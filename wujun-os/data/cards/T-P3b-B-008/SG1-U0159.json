@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG1-U0159",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "正常公司破产是漫长过程投资人可渐退，突发崩塌必有不对头处",
+   "quote": "是一个非常漫长的过程",
+   "anchor": {
+    "start_line": 9771,
+    "end_line": 9773,
+    "fingerprint": [
+     "利润目标",
+     "并购掉"
+    ],
+    "book_code": "SG1",
+    "sha1": "f6b9a4ea01abfce0c8da9ae2fee42cab0f6a393c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "突发崩塌必有隐情",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巨额投资失败的金融公司除外（9771）；黑天鹅发生肯定有大家不知道的不对头（9773）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0159-01",
+   "unit_id": "SG1-U0159"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司利润容易作假而现金流难作假，这是巴菲特在意现金流的原因",
+   "quote": "但是现金流比较难",
+   "anchor": {
+    "start_line": 9777,
+    "end_line": 9777,
+    "fingerprint": [
+     "利润容易作假",
+     "巴菲特"
+    ],
+    "book_code": "SG1",
+    "sha1": "5833097ffac1fa73c0a86e15a741fef377d4e851"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "现金流难作假",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特在意现金流（转述提及，9777）；《财富》小记者首先发现安然现金流异常（9777）；公用事业现金流最不该有问题（9777）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0159-02",
+   "unit_id": "SG1-U0159"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "利润主要来自资产出售而非主营，就不能按主营公司给高估值",
+   "quote": "而是一个金融投资公司",
+   "anchor": {
+    "start_line": 9781,
+    "end_line": 9781,
+    "fingerprint": [
+     "资产的出售",
+     "能源公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "8e25c6b7bd72468986c5aba823910ea67b6f26b0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "资产出售换估值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "安然子公司互卖资产抬价（9779）；投资公司风险高须另评估（9781）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0159-03",
+   "unit_id": "SG1-U0159"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "银行为收回旧贷款与问题公司结成利益共同体，从监督者变共谋",
+   "quote": "结成利益共同体",
+   "anchor": {
+    "start_line": 9791,
+    "end_line": 9791,
+    "fingerprint": [
+     "贷款能够收回",
+     "银行"
+    ],
+    "book_code": "SG1",
+    "sha1": "bfeb5007814d27c9ef1f55bb74d818426fd3fc09"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "银行利益共同体",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两个问题的答案只有一个：银行在不断给它钱（9789）；可转债希望股票大涨、高管奖金（9793）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0159-04",
+   "unit_id": "SG1-U0159"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "古老不高明的骗局能长期得逞，醒悟后才发现只是利令智昏",
+   "quote": "只是利令智昏",
+   "anchor": {
+    "start_line": 9801,
+    "end_line": 9801,
+    "fingerprint": [
+     "最简单的伎俩",
+     "欺骗投资人"
+    ],
+    "book_code": "SG1",
+    "sha1": "3305445db57d6e744760d84a94c481721834731a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "利令智昏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "安然玩法古老并不高明（9801）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0159-05",
+   "unit_id": "SG1-U0159"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "造假公司两个相似点：爱炒作概念，有利益共同体帮着捧场",
+   "quote": "都爱炒作概念",
+   "anchor": {
+    "start_line": 9803,
+    "end_line": 9803,
+    "fingerprint": [
+     "炒作概念",
+     "利益共同体"
+    ],
+    "book_code": "SG1",
+    "sha1": "3185db660e3c7a46b040975f73cf20701d0f81a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "造假两特征",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国一些上市公司与资本大鳄仍在玩（9801-9803，时点）；结局也会差不多（9803）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0159-06",
+   "unit_id": "SG1-U0159"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0159",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "安然商业模式、辉煌与破产时间线、虚报手法细节、安达信倒闭与世通丑闻、萨班斯法案与赔偿金等案情史实（9763-9799）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第149封信安然案以案情史实为主（X4），抽突发崩塌必有隐情、现金流难作假、资产出售换估值、银行利益共同体、利令智昏、造假两特征6卡"
+}

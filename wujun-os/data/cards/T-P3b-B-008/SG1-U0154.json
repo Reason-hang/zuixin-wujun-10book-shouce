@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0154",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多事情一旦被钱绑架就难以专心做好，很多老品牌由此被毁",
+   "quote": "一旦被钱绑架了",
+   "anchor": {
+    "start_line": 9445,
+    "end_line": 9445,
+    "fingerprint": [
+     "被钱绑架",
+     "老品牌"
+    ],
+    "book_code": "SG1",
+    "sha1": "8387639588045b52dc0f209ef712226534c85998"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "被钱绑架毁品牌",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "蒙大维为保营收购别家葡萄酿便宜酒致声誉受损（9443）；Inglenook追求产量毁牌、科波拉几十年恢复（9445）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0154-01",
+   "unit_id": "SG1-U0154"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "上市公司营收连增义务与品质波动行业冲突，蒙大维被迫私有化",
+   "quote": "再次将酒庄私有化",
+   "anchor": {
+    "start_line": 9441,
+    "end_line": 9443,
+    "fingerprint": [
+     "营收每年不断增长",
+     "品质"
+    ],
+    "book_code": "SG1",
+    "sha1": "c9f5e5622f4129cc59705514b598ac230773a921"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "增长义务逼私有化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "葡萄酒受气候影响质量产量均不稳（9441）；卖两美元一瓶酒拉低品质（9443）；母卡见 C-SG1-U0154-01；专名案例承载增长义务与品质冲突机理故E3",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0154-02",
+   "unit_id": "SG1-U0154"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0154",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "1976巴黎盲测史、纳帕产区分级与四级酒价格、BV与蒙大维酒庄沿革、Inglenook兴衰、波尔多与加州口感比较（9409-9447）；Google品酒福利轶事（9429）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第144封信红酒知识为主（X4），抽被钱绑架毁品牌及蒙大维私有化案例2卡"
+}

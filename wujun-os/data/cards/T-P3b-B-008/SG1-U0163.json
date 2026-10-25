@@ -1,0 +1,186 @@
+{
+ "unit_id": "SG1-U0163",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市不可预测性恰是理性投资人的机会，将赌徒淘汰出局",
+   "quote": "将赌徒们淘汰出局",
+   "anchor": {
+    "start_line": 10033,
+    "end_line": 10033,
+    "fingerprint": [
+     "不可预测性",
+     "理性的投资人"
+    ],
+    "book_code": "SG1",
+    "sha1": "81cc086f6e8249b7781aa178323c94c610d947aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "不可预测淘汰赌徒",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "任何国家股市都不完美（10033）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0163-01",
+   "unit_id": "SG1-U0163"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期投入则庄家把戏与你无关：像随机出手的傻子无法被战胜",
+   "quote": "和你都完全无关",
+   "anchor": {
+    "start_line": 10037,
+    "end_line": 10037,
+    "fingerprint": [
+     "石头、剪子、布",
+     "傻子"
+    ],
+    "book_code": "SG1",
+    "sha1": "090285c5bda92fff31474c5216b3e5f16823639f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "长期投入无视庄家",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "石头剪刀布高手对随机出手者毫无办法（10037）；要做股市上的'傻子'（10037）；证监会约束内幕交易与操纵（10039）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0163-02",
+   "unit_id": "SG1-U0163"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市增长与GDP非线性：高估不涨低估补涨，短期严重偏离价值",
+   "quote": "严重偏离它的价值范围",
+   "anchor": {
+    "start_line": 10043,
+    "end_line": 10045,
+    "fingerprint": [
+     "线性关系",
+     "补涨"
+    ],
+    "book_code": "SG1",
+    "sha1": "62f2f430c3820d1be628d790626e7dea060110f8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "股市短期偏离价值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "去年高估则今年GDP涨股市未必反应（10043）；股市长期向上但短期甚至几年偏离（10045）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0163-03",
+   "unit_id": "SG1-U0163"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "债券价格取决于票面利率对新发利率之差，风险来自货币政策",
+   "quote": "债券的风险来自于国家的货币政策",
+   "anchor": {
+    "start_line": 10055,
+    "end_line": 10063,
+    "fingerprint": [
+     "二级市场",
+     "货币政策"
+    ],
+    "book_code": "SG1",
+    "sha1": "94d35524ddb1bbf601a6575142e7a3b28821de1a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-1"
+   ],
+   "concept_key": "债券风险在利率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二级市场买卖即流动性来源（10055）；4%旧券102.9元/112.9元定价算例（10057-10061）；两年获12.9元利息年均超6%（10063）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0163-04",
+   "unit_id": "SG1-U0163"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资思维用于日常：目的明确不好高骛远，看回报风险比",
+   "quote": "回报和风险的比例",
+   "anchor": {
+    "start_line": 10065,
+    "end_line": 10065,
+    "fingerprint": [
+     "明确的目的",
+     "好高骛远"
+    ],
+    "book_code": "SG1",
+    "sha1": "8faa8c851b883bf05252951fa46e8ec13466de67"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D09-2"
+   ],
+   "concept_key": "投资思维日常化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "做事情要有明确的目的、不同目的不同方法（10065）；不仅看回报本身（10065）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0163-05",
+   "unit_id": "SG1-U0163"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事有准入/切换成本：换工作头半年做不了大事，换电脑一次升够",
+   "quote": "准入的成本",
+   "anchor": {
+    "start_line": 10067,
+    "end_line": 10067,
+    "fingerprint": [
+     "切换的成本",
+     "换工作"
+    ],
+    "book_code": "SG1",
+    "sha1": "c0dd4b03ed98ec9e2f242f0f1787e43553f720de"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "凡事有准入成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "新单位三个月到半年要重新学习适应（10067）；换电脑一次升级用两三年而非年年换（10067）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0163-06",
+   "unit_id": "SG1-U0163"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0163",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "俄罗斯股市18.53到2283点、中国股指年均复合增长超10%、2007对敲新规等时点数据（10035-10049）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第153封信金融常识补充6卡：不可预测淘汰赌徒、长期投入无视庄家、股市短期偏离价值、债券风险在利率、投资思维日常化、凡事有准入成本"
+}

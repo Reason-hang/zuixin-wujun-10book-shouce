@@ -1,0 +1,158 @@
+{
+ "unit_id": "SG1-U0148",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据驱动时代人人必须识数，不能见数字就做情绪化反应",
+   "quote": "必须做到识数",
+   "anchor": {
+    "start_line": 9025,
+    "end_line": 9025,
+    "fingerprint": [
+     "数据驱动",
+     "情绪化"
+    ],
+    "book_code": "SG1",
+    "sha1": "6df6e6cbb91e2318fc94ff5583e0e8a809d74c4d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "数据时代须识数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数据驱动思维用于决策支撑（9023-9025）；数字为衡量大小多少轻重而生（9027）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0148-01",
+   "unit_id": "SG1-U0148"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据的大和小完全要看场景：0.8%点击率在展示广告已是很大数",
+   "quote": "完全要看场景",
+   "anchor": {
+    "start_line": 9051,
+    "end_line": 9051,
+    "fingerprint": [
+     "0.8%",
+     "互联网展示广告"
+    ],
+    "book_code": "SG1",
+    "sha1": "4b2129f6de913c7519714b877c5588ac9b89404f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "数字大小看场景",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "行业均值0.4%、搜索广告2%（9051）；电商广告老板嫌0.8%低的反例（9049-9051）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0148-02",
+   "unit_id": "SG1-U0148"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "准确率标准随场景差异极大：语音识别95%、机器翻译50%、指纹99%",
+   "quote": "标准相差很多",
+   "anchor": {
+    "start_line": 9057,
+    "end_line": 9057,
+    "fingerprint": [
+     "语音识别",
+     "机器自动翻译"
+    ],
+    "book_code": "SG1",
+    "sha1": "434c239e9da478f38bd27a465d1749353e7258a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "准确率场景标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "支付出错率千分之一已很大、以基点衡量、支付宝一基点以下（9053-9055）；杀菌99%远不够vs过滤PM2.5 99%可用（9059）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0148-03",
+   "unit_id": "SG1-U0148"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数字敏感性三层次：不被数字唬住、建立数量级常识、先找参照物",
+   "quote": "它的参照物是什么",
+   "anchor": {
+    "start_line": 9061,
+    "end_line": 9067,
+    "fingerprint": [
+     "参照物",
+     "数量级"
+    ],
+    "book_code": "SG1",
+    "sha1": "4133933a5c2649a81e96a481530e18f26e3d1961"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "数字敏感三层次",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "牢记数字大小与场景密切相关（9063）；豪宅标题党用地段房价收入对比破（9065）；凡事大小多少都需要参照物（9067）；清单式方法论整体一卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0148-04",
+   "unit_id": "SG1-U0148"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对数字敏感很多时候是不吃亏乃至事业成功的基础",
+   "quote": "事业成功的基础",
+   "anchor": {
+    "start_line": 9069,
+    "end_line": 9069,
+    "fingerprint": [
+     "对数字敏感",
+     "不吃亏"
+    ],
+    "book_code": "SG1",
+    "sha1": "15df2d00bf6a5249497ea8a7cddd93bf1c414400"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D06-2"
+   ],
+   "concept_key": "数字敏感是成功基础",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信总结句（9069）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0148-05",
+   "unit_id": "SG1-U0148"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0148",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "王健林'一个亿'小目标评论、2016中国政府债务28万亿、各国债务GDP占比、M2与美元发行量等时点行情论据（9029-9047）；大小看场景的方法论已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第138封信识数方法论5卡：识数、大小看场景、准确率场景差异、三层次培养法、成功基础"
+}

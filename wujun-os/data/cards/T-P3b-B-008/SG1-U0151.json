@@ -1,0 +1,129 @@
+{
+ "unit_id": "SG1-U0151",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "海外淘货省钱账背后至少三重风险：行李丢失、海关补税、退货",
+   "quote": "忽略了一条，就是风险",
+   "anchor": {
+    "start_line": 9235,
+    "end_line": 9237,
+    "fingerprint": [
+     "账算得不错",
+     "风险"
+    ],
+    "book_code": "SG1",
+    "sha1": "18ca4f7f42dd3c33d4fe352f3ff426fb6de66b74"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "淘货三重风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "省钱够一张机票的账（9235）；三风险清单（9239-9243）；行李丢失率0.3%-1%、年丢损200万件（9249）；风险折价20%加价并不过分、大家按零风险假设（9255）；专名案例承载收益之外看风险的机理故E3",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0151-01",
+   "unit_id": "SG1-U0151"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有无风险意识决定做事策略：多数人只算收益用利益最大化策略",
+   "quote": "策略就会完全不同",
+   "anchor": {
+    "start_line": 9257,
+    "end_line": 9257,
+    "fingerprint": [
+     "利益最大化",
+     "风险意识"
+    ],
+    "book_code": "SG1",
+    "sha1": "19e38a23f48da763cf9a936c1aa7888003cbdd45"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "风险意识改策略",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本信总结：有很好风险意识则成功率大很多（9277）；讲淘货非算合算而是讲策略（9257）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0151-02",
+   "unit_id": "SG1-U0151"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "买债券理财产品不能只看回报更要看风险，评级就是风险标尺",
+   "quote": "更要看它们的风险",
+   "anchor": {
+    "start_line": 9261,
+    "end_line": 9261,
+    "fingerprint": [
+     "评级",
+     "垃圾债券"
+    ],
+    "book_code": "SG1",
+    "sha1": "0e9ae5ef49d847a01ea42405fc5b67af311ee8fc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "回报风险并重",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "AAA赖账风险小于千分之一至垃圾债26%（9261）；中国卖理财者不告知风险（9261）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0151-03",
+   "unit_id": "SG1-U0151"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "合规不等于安全：要防范他人犯错，防御性驾驶者少出事故",
+   "quote": "防御性驾驶",
+   "anchor": {
+    "start_line": 9269,
+    "end_line": 9271,
+    "fingerprint": [
+     "遵守交通法规",
+     "犯神经病"
+    ],
+    "book_code": "SG1",
+    "sha1": "357566f735b82eb3453a37f72635266544474f07"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "防御性驾驶",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "绿灯马上冲出去比闯红灯危险（9267）；起步先确认垂直方向（9271）；短道速滑假定对方会犯规再争成绩（9273-9275）；责任在对方受伤仍是自己吃亏（9269）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0151-04",
+   "unit_id": "SG1-U0151"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0151",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "女士托运丢包新闻与2017奥特莱斯代购省钱场景为时点评论引子（9229-9235）；风险方法论已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第141封信风险意识4卡：淘货三重风险案例、风险意识改策略、回报风险并重、防御性驾驶"
+}

@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG1-U0156",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知道结论背后的原因，才能从被动盲从变成主动自由",
+   "quote": "从盲从的人，变成了自由的人",
+   "anchor": {
+    "start_line": 9561,
+    "end_line": 9561,
+    "fingerprint": [
+     "永恒的真理",
+     "被动状态"
+    ],
+    "book_code": "SG1",
+    "sha1": "a31d90baedc9893262dc8dc66989e30051bbeb2f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "知原因得自由",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "投资黄金获利站不住脚、投资股市获利正确但99%的人不知原因（9559）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-01",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "财富只有创造和掠夺两个来源，长远看创造的远多于掠夺的",
+   "quote": "财富只有两个来源",
+   "anchor": {
+    "start_line": 9563,
+    "end_line": 9565,
+    "fingerprint": [
+     "创造和掠夺",
+     "九牛一毛"
+    ],
+    "book_code": "SG1",
+    "sha1": "f7866bc5daa0249d526bc4181217b496fffbf8fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D08-1"
+   ],
+   "concept_key": "财富源于创造掠夺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "西班牙掠夺白银与英荷创造财富对比（9565）；马恩'资产阶级创造的生产力'引文出自《共产党宣言》而非《资本论》（9567，转述）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-02",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "掠夺性财富已存在未分配谁拿到是谁的，且常常只能获得一次",
+   "quote": "只能获得一次",
+   "anchor": {
+    "start_line": 9573,
+    "end_line": 9575,
+    "fingerprint": [
+     "掠夺的特点",
+     "房地产"
+    ],
+    "book_code": "SG1",
+    "sha1": "d9a04bc460322a2ffcf269f416adb669a84237cb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "掠夺性财富一次性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "房地产增值=已存在的土地价值被量化分配（9571-9573）；祖传花瓶忽然值一亿例（9571）；腾飞期必投房地产为时点论断（9575，X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-03",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资获利成立的唯一原因是生产力不断发展、经济长期增长",
+   "quote": "唯一原因",
+   "anchor": {
+    "start_line": 9579,
+    "end_line": 9579,
+    "fingerprint": [
+     "生产力是不断发展的",
+     "经济能够增长"
+    ],
+    "book_code": "SG1",
+    "sha1": "7d6310df846a6188f59b1e9a6347d82d341f9098"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "投资获利唯一原因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "债券股票房地产回报源于参与创造财富过程（9577）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-04",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "资本加速企业获利故参与利润分配，这是钱生钱的原因与合法性",
+   "quote": "钱能够生钱的原因",
+   "anchor": {
+    "start_line": 9583,
+    "end_line": 9587,
+    "fingerprint": [
+     "加速获利的速度",
+     "stock"
+    ],
+    "book_code": "SG1",
+    "sha1": "daffdf2f8cb99e5c4477bdc1e08da444b423b9ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "资本参与分配",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "利率取决于资本稀缺度（9585）；stock本意存量、股票回报随赢利能力变化（9587）；纠正'利润仅来自劳动'旧观点（9581）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-05",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股市长期永远向上是少数几乎永远成立的结论，不做空股市",
+   "quote": "永远是向上走的",
+   "anchor": {
+    "start_line": 9589,
+    "end_line": 9589,
+    "fingerprint": [
+     "做空股市",
+     "客观规律"
+    ],
+    "book_code": "SG1",
+    "sha1": "6ee2db44889dbbe0f25a66cf857b763380b9ee5f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "股市长期向上",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特不建议做空（转述，9589）；坚持长期投资的人都挣到钱（9589）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-06",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济增长10%股市未必同幅上涨：监管不力或政治不稳都不涨",
+   "quote": "那可不一定",
+   "anchor": {
+    "start_line": 9591,
+    "end_line": 9591,
+    "fingerprint": [
+     "监管不力",
+     "政治不稳定"
+    ],
+    "book_code": "SG1",
+    "sha1": "2a946c838a5f9d8c3b43f52c9d5338d5e833613f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "经济增长股市未必涨",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "庄家作弊赌场与避险情绪两机理（9591）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-07",
+   "unit_id": "SG1-U0156"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保持上市公司质量才涨得快：没有淘汰机制的股市表现好不了",
+   "quote": "没有淘汰机制的股市",
+   "anchor": {
+    "start_line": 9595,
+    "end_line": 9597,
+    "fingerprint": [
+     "退市制度",
+     "烂公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "7b3f782b6840d8f75faa2f64cee0338a85bdc78e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "淘汰机制定质量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "标普500一半收入来自海外、GDP涨1%指数涨2-3%（9595，时点X2）；2000-2016退市略多于上市（9595）；万家中留最好的1万家思想实验（9597）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0156-08",
+   "unit_id": "SG1-U0156"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0156",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "亚洲腾飞期必投房地产、标普500海外收入与GDP放大效应、2000-2016退市数量等时点论断（9575-9595）；西班牙掠夺白银等殖民史叙述（9565-9567）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第146封信为什么投资有回报8卡：知原因得自由、财富两来源、掠夺性财富、获利唯一原因、资本参与分配、股市长期向上、未必同涨、淘汰机制"
+}

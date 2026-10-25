@@ -1,0 +1,265 @@
+{
+ "unit_id": "SG1-U0162",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期稳定增值的效果主要取决于资产配置，而非选股或择时",
+   "quote": "主要取决于资产的配置",
+   "anchor": {
+    "start_line": 9971,
+    "end_line": 9971,
+    "fingerprint": [
+     "资产的配置",
+     "哪一支股票"
+    ],
+    "book_code": "SG1",
+    "sha1": "2dc97af936218bd13ccbf7518cdc3489f2d10e75"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-1"
+   ],
+   "concept_key": "配置决定投资效果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三种情况对比（9973-9983）；长期复合增长关键在于搭上经济增长的工具车（9985）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-01",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "全仓押一两只股票如同赌博，短期暴涨但难长期稳定增长",
+   "quote": "这种情况和赌博差不多",
+   "anchor": {
+    "start_line": 9973,
+    "end_line": 9973,
+    "fingerprint": [
+     "压在一两支股票",
+     "暴跌"
+    ],
+    "book_code": "SG1",
+    "sha1": "2a36d0cee40490bc2743f596a0fb837b4fab7561"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "全仓如赌博",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软腰斩15年才恢复（9975，时点）；卖点难选、吴军卖飞百度FB特斯拉（9975，个人经历）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-02",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股票占比太小即使涨十倍对总资产贡献可忽略，白费手续费",
+   "quote": "浪费时间和交易手续费",
+   "anchor": {
+    "start_line": 9977,
+    "end_line": 9977,
+    "fingerprint": [
+     "5%",
+     "0.5%"
+    ],
+    "book_code": "SG1",
+    "sha1": "2c7a7cc2a1a924a4b77b6bcdcc3822d327bff422"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-1"
+   ],
+   "concept_key": "小占比无意义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朋友5%资金买十几支股票试验（9977）；百度IPO仅分得100股、贡献可忽略（9979）；有这时间不如做好本职工作（9979）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-03",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选得有代表性，少量股票组合与指数走向相关性可达99%",
+   "quote": "相关性高达99%",
+   "anchor": {
+    "start_line": 9981,
+    "end_line": 9983,
+    "fingerprint": [
+     "指数基金",
+     "标普500"
+    ],
+    "book_code": "SG1",
+    "sha1": "53c1206d78c3d1cd6a7bf411eff16a2088a9712e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "组合近似指数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "道指30支与标普500相关性99%（9981）；散户仅5%跑赢指数、60%亏钱（9983，时点）；何必花时间研究（9983）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-04",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "低迷时有钱买入、高涨时知道拿回利润，做到这两条投资差不了",
+   "quote": "即便是傻子做投资",
+   "anchor": {
+    "start_line": 9987,
+    "end_line": 9987,
+    "fingerprint": [
+     "低迷",
+     "拿回多少利润"
+    ],
+    "book_code": "SG1",
+    "sha1": "4fed533ce3ad7317630892155e4b69e92d77afba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "低买高卖两知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "目标因人而异：闲钱30年与5年后结婚用钱不同、风险承受力不同（9987）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-05",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自住房先考虑使用价值而非投资价值；无能力不为买而买负债",
+   "quote": "使用价值，而非它的投资价值",
+   "anchor": {
+    "start_line": 9993,
+    "end_line": 9993,
+    "fingerprint": [
+     "居住很长时间",
+     "使用价值"
+    ],
+    "book_code": "SG1",
+    "sha1": "a00224905f0d3a331162b7d0a5133f592266e9b7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D09-2"
+   ],
+   "concept_key": "自住看使用价值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "等降价让生活质量下降不合算（9993）；不建议负债累累（9993）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-06",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分人只需考虑交易成本极低的指数基金，不要瞎炒股",
+   "quote": "交易成本极低的指数基金",
+   "anchor": {
+    "start_line": 9997,
+    "end_line": 10001,
+    "fingerprint": [
+     "指数基金",
+     "黑五类"
+    ],
+    "book_code": "SG1",
+    "sha1": "d0e1e0b1f5a7e0789fa24eaa92a1336575356998"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "指数基金即可",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "黑五类中后四类坚决远离、几十年无利润的小公司也远离（10001）；选历史上长期表现好的指数基金（9999）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-07",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "按收入风险用钱时间配置股债；近期要用的钱不进股市防变形",
+   "quote": "在压力下动作会变形",
+   "anchor": {
+    "start_line": 10003,
+    "end_line": 10007,
+    "fingerprint": [
+     "风险的承受力",
+     "衰退期"
+    ],
+    "book_code": "SG1",
+    "sha1": "b1bf012e9c7d02385d41118f4ac6b7049ecf6637"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "按比例配置防变形",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "年轻人80%股指+15%国库券+5%现金（10003）；股市衰退期可长达20年以上（10005，时点）；过两年结婚买房者勿想捞首付（10007）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-08",
+   "unit_id": "SG1-U0162"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "涨后减股回比例，跌时不割肉反而买入，微调每年一次即可",
+   "quote": "维持当初设定的",
+   "anchor": {
+    "start_line": 10009,
+    "end_line": 10013,
+    "fingerprint": [
+     "7:3",
+     "割肉"
+    ],
+    "book_code": "SG1",
+    "sha1": "be31abb18357f6fdcd05e77d1395c6f91f228d84"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "再平衡纪律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "好运感谢上帝不感谢自己（10011）；用便宜价格投资（10013）；实践巴菲特'别人贪婪时我恐惧，别人恐惧时我贪婪'（10013，转述）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0162-09",
+   "unit_id": "SG1-U0162"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0162",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "微软2000反垄断腰斩、百度Facebook特斯拉卖价、黑五类划分、美1929与纳指2001与日本1991衰退期等时点数据（9975-10005）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第152封信资产配置9卡：配置决定论、全仓如赌博、小占比无意义、组合近似指数、低买高卖、自住使用价值、指数基金、按比例配置、再平衡"
+}

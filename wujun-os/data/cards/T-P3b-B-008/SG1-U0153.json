@@ -1,0 +1,74 @@
+{
+ "unit_id": "SG1-U0153",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "帕瓦罗蒂谢幕未成离世：今天能抓住的机会就不等到下一次",
+   "quote": "就不等到下一次了",
+   "anchor": {
+    "start_line": 9365,
+    "end_line": 9365,
+    "fingerprint": [
+     "人生的无奈",
+     "癌症复发"
+    ],
+    "book_code": "SG1",
+    "sha1": "e8baa4d70cbd6b8d098c2a8228de79b882b16727"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-3"
+   ],
+   "concept_key": "机会不等人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "准备去温哥华听告别演出未成行的经历（9365）；经历→判断",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0153-01",
+   "unit_id": "SG1-U0153"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "总觉得永远有明天，失去才知可贵；告诫自己只争朝夕地去做",
+   "quote": "要只争朝夕地去做",
+   "anchor": {
+    "start_line": 9391,
+    "end_line": 9391,
+    "fingerprint": [
+     "终身的遗憾",
+     "珍惜"
+    ],
+    "book_code": "SG1",
+    "sha1": "c465732207402b8dced405cf0c26f3c267273e95"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "只争朝夕",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "预订在演大师门票以免遗憾（9393）；对自己的人生也该没有遗憾（9393）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0153-02",
+   "unit_id": "SG1-U0153"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0153",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "三大男高音沿革、悉尼谢幕演出过程、古典乐界代际与大师合作叙述（9357-9389）为演出记叙与人物史"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第143封信卡雷拉斯谢幕演出记叙为主（X4），仅抽机会不等人、只争朝夕2卡"
+}

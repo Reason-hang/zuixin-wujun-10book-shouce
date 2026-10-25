@@ -1,0 +1,179 @@
+{
+ "unit_id": "SG1-U0150",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "0到50分靠常识，没有常识作基础谈论科学技术就是虚妄",
+   "quote": "靠的是常识",
+   "anchor": {
+    "start_line": 9177,
+    "end_line": 9177,
+    "fingerprint": [
+     "常识作为基础",
+     "虚妄"
+    ],
+    "book_code": "SG1",
+    "sha1": "7b8add5fce4acf256c3316da32350291b1bc3ede"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-1"
+   ],
+   "concept_key": "常识定50分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "常识是千百年验证的经验且因人而异（9179）；不打地基想直接盖三楼层类比（9177）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0150-01",
+   "unit_id": "SG1-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新认知违背常识时大概率是新认知错；勿急于否定常识先验证",
+   "quote": "千万不要急于否定常识",
+   "anchor": {
+    "start_line": 9181,
+    "end_line": 9183,
+    "fingerprint": [
+     "常识相违背",
+     "出错的概率"
+    ],
+    "book_code": "SG1",
+    "sha1": "e11ee151a5f8de667ffe5fee0626ff493a6445a4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "违背常识先疑新知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "水变汽油报道例（9181）；伽利略轻重落地为常识出错的小概率例（9183）；出错的概率比重大发现大很多、请别人帮忙验证（9183）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0150-02",
+   "unit_id": "SG1-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "50到90分靠科学技术，其特点是可重复：同样条件下结果一致",
+   "quote": "都是可重复性",
+   "anchor": {
+    "start_line": 9187,
+    "end_line": 9189,
+    "fingerprint": [
+     "可重复性",
+     "菜谱"
+    ],
+    "book_code": "SG1",
+    "sha1": "d5ddf133b893897fdcaeffe9fa2c756b88f7f5be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "科技可重复性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "今天新的科学知识明天变成常识（9187）；工厂流程与菜谱一致性（9189）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0150-03",
+   "unit_id": "SG1-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "90分后靠技术难再提高，把握不可控因素做到极致靠经验和艺术",
+   "quote": "靠经验和艺术了",
+   "anchor": {
+    "start_line": 9191,
+    "end_line": 9193,
+    "fingerprint": [
+     "技术并不是万能",
+     "苹果手机"
+    ],
+    "book_code": "SG1",
+    "sha1": "04fa644f14d443a40b4533bad66a8e15d0786730"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "极致靠艺术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "苹果对华为：性能足够用时技术差别无法左右选择，艺术成分起作用（9193）；法拉利手工打造仍以技术为基础（9197）；艺术是手艺的泛称，医生判读化验单亦属艺术（9195）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0150-04",
+   "unit_id": "SG1-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "行业前5%靠兴趣与天赋，利益驱动者最终遇到瓶颈",
+   "quote": "都是兴趣使然",
+   "anchor": {
+    "start_line": 9199,
+    "end_line": 9199,
+    "fingerprint": [
+     "天赋",
+     "利益驱动"
+    ],
+    "book_code": "SG1",
+    "sha1": "7dd8f4f1270822feeab1c28d034e730fdf016756"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "前百分之五靠兴趣天赋",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "技术人人可学、艺术靠天赋（9199）；5%-20%者通常利益驱动（9199）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0150-05",
+   "unit_id": "SG1-U0150"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "50分靠常识、50-90靠技术、90-100靠艺术，阶段不可跳跃",
+   "quote": "每一个阶段是不能跳跃的",
+   "anchor": {
+    "start_line": 9205,
+    "end_line": 9205,
+    "fingerprint": [
+     "50 分靠常识",
+     "靠艺术"
+    ],
+    "book_code": "SG1",
+    "sha1": "a77b525a88fa20828be4677e22aa8dfa60fa8fa1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "常识技术艺术三段",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "成功学书读而无用：常识离成功太远、违背常识的职场厚黑有害（9201）；职场关系同理，解决常识与技术即使无艺术也没麻烦（9203）；做到90分通过努力都能达到（9205）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0150-06",
+   "unit_id": "SG1-U0150"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第140封信常识-技术-艺术三段论6卡：50分常识、勿急否定常识、科技可重复、极致靠艺术、前5%兴趣天赋、三段总结"
+}

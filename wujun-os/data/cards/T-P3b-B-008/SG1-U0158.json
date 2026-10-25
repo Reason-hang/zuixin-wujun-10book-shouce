@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG1-U0158",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股票有经济支撑非零和，扣除长期收益后波动部分仍是零和游戏",
+   "quote": "并不是零和游戏",
+   "anchor": {
+    "start_line": 9703,
+    "end_line": 9705,
+    "fingerprint": [
+     "零和游戏",
+     "长期收益"
+    ],
+    "book_code": "SG1",
+    "sha1": "afabeb1460f72761fbde4cf61650b8b3fb913fa1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-1"
+   ],
+   "concept_key": "波动是零和游戏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "赌场零和、时间一长只挣抽头者（9703）；黄金买卖近零和（9703）；长期投资赚长期收益、波动部分相互抵消（9705）；美波动约收益2.5倍、中6倍（9705，时点）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-01",
+   "unit_id": "SG1-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "频繁交易一年10%以上资金交给收费者，与进赌场没有差别",
+   "quote": "都交给了收费的",
+   "anchor": {
+    "start_line": 9707,
+    "end_line": 9707,
+    "fingerprint": [
+     "频繁交易",
+     "0.1%"
+    ],
+    "book_code": "SG1",
+    "sha1": "353999b295b37eac98219af70d9641bf6950f361"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "频繁交易如赌场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "买卖一次税费超0.1%（9707）；做证券的都希望你频繁交易、与你利益冲突（9707）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-02",
+   "unit_id": "SG1-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "开赌场思维不押注涨跌：对赌协议转卖做对冲，两头吃只挣不赔",
+   "quote": "不是开赌场的思维方式",
+   "anchor": {
+    "start_line": 9713,
+    "end_line": 9715,
+    "fingerprint": [
+     "对赌",
+     "空手套白狼"
+    ],
+    "book_code": "SG1",
+    "sha1": "61f65e92d74623c300dbb26af2841a02eb908987"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "开赌场思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "黑天鹅时常发生、富豪对赌倾家荡产（9711）；高盛转卖油价保险给航空公司赚2美元差价（9715）；这类金融游戏不产生财富实为赌博（9715）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-03",
+   "unit_id": "SG1-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "庞氏骗局靠新钱补旧亏空，钱与人皆有限，必然崩溃",
+   "quote": "必然有崩溃的一天",
+   "anchor": {
+    "start_line": 9719,
+    "end_line": 9719,
+    "fingerprint": [
+     "上线",
+     "有限的"
+    ],
+    "book_code": "SG1",
+    "sha1": "64e5a1dc07df4f2deb4eebede9679719c3770aec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "庞氏必然崩溃",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "传销即庞氏一种（9719）；主权债务借新还旧同理、关键看能否创造财富付息（9725）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-04",
+   "unit_id": "SG1-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "拉高股价抵押借钱造繁荣不创造价值，靠新钱续命的公司型庞氏",
+   "quote": "只要不断有新的钱进来",
+   "anchor": {
+    "start_line": 9723,
+    "end_line": 9723,
+    "fingerprint": [
+     "抵押给银行",
+     "庞氏骗局"
+    ],
+    "book_code": "SG1",
+    "sha1": "11aa70d1b74e44024dce61284e7d4ae5820544b1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "公司型庞氏识别",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "备受关注的新闻掩盖庞氏本质（9723）；'不，ABC公司又宣布了未来计划'话术（9723）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-05",
+   "unit_id": "SG1-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "烧钱买营业额做账融资是庞氏变体，须揭开概念看是否真生意",
+   "quote": "揭开概念的盖子",
+   "anchor": {
+    "start_line": 9727,
+    "end_line": 9727,
+    "fingerprint": [
+     "百团大战",
+     "虚假的营业额"
+    ],
+    "book_code": "SG1",
+    "sha1": "a4a6cad268d5e0a3534d559e753b1e4a7365ee50"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "烧钱融资庞氏变体",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一块钱东西卖5毛、按销售额10倍作价融资（9727）；挂靠或发明概念（9727）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-06",
+   "unit_id": "SG1-U0158"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对敲互买制造虚假繁荣洗劫散户，比庞氏难识破且无资金链断裂",
+   "quote": "动摇了公平交易的基础",
+   "anchor": {
+    "start_line": 9741,
+    "end_line": 9741,
+    "fingerprint": [
+     "对敲",
+     "公平交易"
+    ],
+    "book_code": "SG1",
+    "sha1": "b906f33bd25ce4ec449b26a7702be53a2018bc99"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "对敲洗劫",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "机制：互买对倒拉价、成本仅为来回输送额（9735-9739）；荷兰最早限制、英美监控严（9741）；L&H案与中国变相对敲（9743-9745，时点）；了解骗术投资成功大一分（9747）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0158-07",
+   "unit_id": "SG1-U0158"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0158",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "高盛对赌石油演示、希腊俄罗斯阿根廷赖账史、百团大战、L&H对敲案与中国2007新规等时点案例叙述（9711-9745）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第148封信投资骗局7卡：波动零和、频繁交易如赌场、开赌场思维、庞氏必然崩溃、公司型庞氏、烧钱融资变体、对敲洗劫"
+}

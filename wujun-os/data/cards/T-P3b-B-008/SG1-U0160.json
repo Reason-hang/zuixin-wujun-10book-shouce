@@ -1,0 +1,102 @@
+{
+ "unit_id": "SG1-U0160",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无可循规矩时成败靠运气：早期电影成功技巧常无法复制",
+   "quote": "完全靠运气",
+   "anchor": {
+    "start_line": 9833,
+    "end_line": 9833,
+    "fingerprint": [
+     "拍脑袋",
+     "随机数"
+    ],
+    "book_code": "SG1",
+    "sha1": "c869a90d09acacdf8dfef448453e488ced24cb1a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "无方法靠运气",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "拍脑袋想出来的手法（9833）；票房是随机数（9833）；与SG1-U0150科技可重复性互证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0160-01",
+   "unit_id": "SG1-U0160"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "格里菲斯经几百部短片试错认识电影是新艺术，发明平行蒙太奇",
+   "quote": "通过这些尝试",
+   "anchor": {
+    "start_line": 9835,
+    "end_line": 9839,
+    "fingerprint": [
+     "几百部电影短片",
+     "平行剪辑"
+    ],
+    "book_code": "SG1",
+    "sha1": "5dfabab5edf52229ebfed5ec56eebadc7c1fd03b"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "试错发明蒙太奇",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "将电影从戏剧的仆从提高到平等地位（9829）；剪接重组获得戏剧没有的效果（9837）；蒙太奇推广后电影变好看（9839）；专名案例承载科学试错机理故E3",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0160-02",
+   "unit_id": "SG1-U0160"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高投入高质量可能获更高回报，新艺术形式具大众传播效果",
+   "quote": "高投入、高质量",
+   "anchor": {
+    "start_line": 9855,
+    "end_line": 9855,
+    "fingerprint": [
+     "大众传播",
+     "制片人"
+    ],
+    "book_code": "SG1",
+    "sha1": "77aa7d352e14f8dd233e490fb3203e969ddc5d77"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "高投入高回报",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《一个国家的诞生》成本三倍、连映600场创票房纪录、占当时GDP千分之一（9851-9853，史实）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0160-03",
+   "unit_id": "SG1-U0160"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0160",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "肖克利与仙童插曲、好莱坞选址起源、格里菲斯生平与《一个国家的诞生》争议与票房史实（9819-9857）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第150封信格里菲斯影史传记为主（X4），抽无方法靠运气、试错发明蒙太奇、高投入高回报3卡"
+}

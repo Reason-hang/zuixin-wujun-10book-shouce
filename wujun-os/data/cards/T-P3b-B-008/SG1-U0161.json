@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0161",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "调配时每次取酒要做记录，不能单凭脑子记忆以免记错",
+   "quote": "不能单凭脑子记忆",
+   "anchor": {
+    "start_line": 9923,
+    "end_line": 9923,
+    "fingerprint": [
+     "做记录",
+     "记错"
+    ],
+    "book_code": "SG1",
+    "sha1": "04c1c5943443ffaeb81a42613974223834556795"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "调配要做记录",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "两杯来回比较、白水漱口（9923）；记录比例后由酒庄混合成品（9923）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0161-01",
+   "unit_id": "SG1-U0161"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "酒庄质量零容忍：标签贴歪即作次品处理不能出厂",
+   "quote": "只能做次品处理",
+   "anchor": {
+    "start_line": 9931,
+    "end_line": 9931,
+    "fingerprint": [
+     "标签贴歪",
+     "出厂"
+    ],
+    "book_code": "SG1",
+    "sha1": "42ded9d6fce664abd5cdfd74f3097154cba20a6e"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "质量零容忍",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "装瓶后还要再放半年、从收割起约三年（9931）；次品用于招待品酒客（9931）；专名案例承载质量文化机理故E3",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0161-02",
+   "unit_id": "SG1-U0161"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0161",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "红酒风味来源科普：土壤朝向、发酵温控、橡木桶陈化与烧烤、调配演示及银朵酒庄与纳帕地质（9873-9929）；品酒文化结语（9937）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第151封信红酒风味科普为主（X4），仅抽调配要做记录、质量零容忍2卡"
+}

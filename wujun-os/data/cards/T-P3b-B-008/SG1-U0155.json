@@ -1,0 +1,267 @@
+{
+ "unit_id": "SG1-U0155",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1H",
+ "batch_id": "T-P3b-B-008",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资行为要围绕目的进行：保本发财情怀名声对应完全不同策略",
+   "quote": "投资的行为要围绕目的进行",
+   "anchor": {
+    "start_line": 9487,
+    "end_line": 9491,
+    "fingerprint": [
+     "围绕目的",
+     "完全不同的策略"
+    ],
+    "book_code": "SG1",
+    "sha1": "cb24d0f1ffcf8ef31a7e86ffb734d3394b21eb18"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-1"
+   ],
+   "concept_key": "投资围绕目的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朋友年回报5%全买国债即够衣食无忧（9491）；学投资为不被骗不浪费钱资源、习得理性态度与量化方法（9483-9485）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-01",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资共同点是用钱挣钱而非交学费，本金不增值就是交学费",
+   "quote": "用钱来挣钱",
+   "anchor": {
+    "start_line": 9493,
+    "end_line": 9495,
+    "fingerprint": [
+     "交学费",
+     "存银行或者买国库券"
+    ],
+    "book_code": "SG1",
+    "sha1": "5c01dbc9f1fe41e191890d702c0f42c344b5be53"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-1"
+   ],
+   "concept_key": "不交学费",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "总说交学费必要者须审视是否违背初衷（9493）；两年前1万今天仍1万即交学费、最简单策略都能赢它（9495）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-02",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何时期折腾的股民很少有人做得比大盘更好",
+   "quote": "很少有人做得比大盘更好",
+   "anchor": {
+    "start_line": 9497,
+    "end_line": 9497,
+    "fingerprint": [
+     "股指基金",
+     "折腾"
+    ],
+    "book_code": "SG1",
+    "sha1": "e47d7b202c819c49546185ff36e007bf7e69e4ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "折腾跑不赢大盘",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "1990年买入股指基金1元变30元年均超13%但老股民拿不到（9497，时点数据已入X2）；如此只能说忘掉投资目的（9497）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-03",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "全球几百年数据年均回报8%已不错，目标定过高适得其反",
+   "quote": "年均回报能够做到8%就不错了",
+   "anchor": {
+    "start_line": 9499,
+    "end_line": 9499,
+    "fingerprint": [
+     "8%",
+     "杠铃"
+    ],
+    "book_code": "SG1",
+    "sha1": "525caabbead39adad6ad2fc90c9de884e16f216c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-1"
+   ],
+   "concept_key": "年均八分目标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "能扛100斤偏举200斤杠铃类比（9499）；腾飞30年处女地论（9501，趋势论断不入主干）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-04",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "稳健投资30年可财务自由；想提前10年达成要靠事业发展",
+   "quote": "不能靠投资，而要靠事业发展了",
+   "anchor": {
+    "start_line": 9507,
+    "end_line": 9507,
+    "fingerprint": [
+     "136 万",
+     "财务自由"
+    ],
+    "book_code": "SG1",
+    "sha1": "81fb3253b55c754b54d0741426965cee7254bea3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "三十年财务自由",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "测算：年投2万、通胀3%、回报8%，20年68.3万、30年136万（9503-9507）；胡乱炒股4%回报仅44.3万（9505）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-05",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "可投资对象主要可概括为六类：股票债券不动产股权衍生品实物",
+   "quote": "大致可以概括成6 类",
+   "anchor": {
+    "start_line": 9511,
+    "end_line": 9513,
+    "fingerprint": [
+     "上市公司可流通的股票",
+     "高价值实物"
+    ],
+    "book_code": "SG1",
+    "sha1": "de276eaae7127807d9931da9161b3702f7fa36fe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "六类投资工具",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "风险投资/金融衍生品/高价值实物大部分人不用考虑（见 SG1-U0162）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-06",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "低风险投资回报肯定不高，高风险投资回报未必高",
+   "quote": "回报肯定不会高",
+   "anchor": {
+    "start_line": 9517,
+    "end_line": 9517,
+    "fingerprint": [
+     "风险低的投资",
+     "未必高"
+    ],
+    "book_code": "SG1",
+    "sha1": "c738b753e29917ca02e5bd28c5382703223b57fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "风险回报不对称",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "基金经理鼓吹低风险高回报是天方夜谭（9519）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-07",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "夏普比率综合衡量回报与风险：超额回报除以波动性标准差",
+   "quote": "综合考虑回报和风险的量化指标",
+   "anchor": {
+    "start_line": 9519,
+    "end_line": 9523,
+    "fingerprint": [
+     "夏普比率",
+     "标准差"
+    ],
+    "book_code": "SG1",
+    "sha1": "3eea110441476ea56b3596b3f58f0b0ae4ec7266"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-1"
+   ],
+   "concept_key": "夏普比率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "提出者=夏普（诺贝尔经济学奖得主）（9519）；无风险回报取存款或国库券（9523）；各国十年数据表为时点论据（9523-9529，X2）；中国排第二出乎预料（9529）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-08",
+   "unit_id": "SG1-U0155"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资还须考虑流动性与准入成本；准入成本高会吃掉大半收益",
+   "quote": "流动性和准入成本",
+   "anchor": {
+    "start_line": 9533,
+    "end_line": 9539,
+    "fingerprint": [
+     "流动性",
+     "手续费"
+    ],
+    "book_code": "SG1",
+    "sha1": "78db399e0dd80ef8811defd973d3eba01aeb365c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "流动性与准入成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "流动性排序：存款>股票>债券>房产>风投（9535）；拍卖手续费15%极高、3%准入成本吃掉8%回报近半（9539）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0155-09",
+   "unit_id": "SG1-U0155"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0155",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "1990年起股指基金1元变30元、经济腾飞30年处女地、各国十年夏普比率表、美国国债方案等时点行情论据（9497-9529）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第145封信投资101第一课9卡：围绕目的、不交学费、跑不赢大盘、8%目标、30年财务自由、六类工具、风险回报不对称、夏普比率、流动性与准入成本"
+}
