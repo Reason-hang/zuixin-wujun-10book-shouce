@@ -1,0 +1,231 @@
+{
+ "unit_id": "GG-U0119",
+ "book_code": "GG",
+ "extractor": "GAUD23",
+ "batch_id": "GATE-C-R21",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：好的产品要有牙刷的功能，让用户每天用上几分钟，久而久之养成使用习惯",
+   "quote": "要有牙刷的功能",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 7991,
+    "end_line": 7993,
+    "fingerprint": [
+     "佩奇",
+     "牙刷"
+    ],
+    "sha1": "790f8d2f93a78faf668410f34d9ae5335b94f8c3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "牙刷原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=拉里·佩奇（Google联合创始人）；Google搜索每天用两三次、习惯养成后被设为开机默认网页（7993）；牙刷功能并非佩奇发明，宝洁（佳洁士、汰渍、潘婷、海飞丝）与可口可乐早已实践、养成'宝洁＝日用品'习惯（7995-7996）；习惯养成后不出大问题、稳定的生意就形成（7997）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-01",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙刷类产品可靠性稳定性至关重要：时灵时不灵哪怕1%时间不能用大家都会很烦",
+   "quote": "时灵时不灵",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 7999,
+    "end_line": 8000,
+    "fingerprint": [
+     "可靠性和稳定性",
+     "时灵时不灵"
+    ],
+    "sha1": "6ba93d866c0e014573c15b6913a1c3268ec77817"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "牙刷要可靠稳定",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "把产品做成牙刷有两个根本性问题，此为其一（7999）；Google搜索在中国做不好不在技术产品而在服务无法稳定：一年断网10天即3%时间不可用（8000）；时灵时不灵的牙刷没人要（8000）；第二问题（功能简单易被替代、好奇心理）由爆款解决，见C-GG-U0119-03",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-02",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：用爆款解决牙刷易被替代问题——好品牌每隔一段时间带来惊喜提醒大家它的存在",
+   "quote": "提醒大家它的存在",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8003,
+    "end_line": 8007,
+    "fingerprint": [
+     "爆款",
+     "周期"
+    ],
+    "sha1": "f804c9674ba17a2fc3d9020f38e0ca94365a85bd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "爆款效应",
+   "ability_tags": [],
+   "notes": "被转述者=拉里·佩奇；牙刷第二问题：功能简单易被同类替代、人总有尝新的好奇（8001）；可口可乐、宝洁每年花上百亿做广告即每隔一段时间加深印象（8005）；配合促销把新产品放商场最前方柜台（8006）；消费电子一年一个爆款营销周期，周期太长则大家已淡忘（8006-8007）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-03",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场活用牙刷与爆款：每周把工作总结成三句话周一汇报老板，每半年到一年给他惊喜成果",
+   "quote": "总结成三句话",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8009,
+    "end_line": 8009,
+    "fingerprint": [
+     "牙刷和爆款",
+     "惊喜的成果"
+    ],
+    "sha1": "4e2f14071363f4bec8be38da234d6be541fbb008"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D06-3"
+   ],
+   "concept_key": "职场牙刷与爆款",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军对职场朋友的建议；这样的员工哪个老板都抢着要（8009）；每周汇报=牙刷式持续存在感，半年至一年的惊喜成果=爆款式提醒",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-04",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事有开始就有终结、有生就有死，组织亦然；不刻意拯救衰老公司，往前找下一次机会",
+   "quote": "不介意公司的死亡",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8012,
+    "end_line": 8013,
+    "fingerprint": [
+     "有生就有死",
+     "衰老的公司"
+    ],
+    "sha1": "e30cc2083605deb0c9a253de2c4bb73b07d77368"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "组织有生有死",
+   "ability_tags": [],
+   "notes": "吴军各种场合的一贯观点（8012）；《硅谷之谜》总结的硅谷公司特点之一（8013）；本小节先述吴军观点再分享佩奇想法（8011）；佩奇的海蜇比喻见C-GG-U0119-06",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-05",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：企业如生物终将老化衰亡；让新产品部门如海蜇新细胞不依赖母体长大，逃脱大公司宿命",
+   "quote": "逃脱大公司的宿命",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8014,
+    "end_line": 8018,
+    "fingerprint": [
+     "海蜇",
+     "佩奇"
+    ],
+    "sha1": "55000cdad4f3d6729262496c354e7255b84153df"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "海蜇策略",
+   "ability_tags": [],
+   "notes": "被转述者=拉里·佩奇（公司内部会议讲话）；全世界唯一可能不死的生物是海蜇：针刺激长出新细胞、母体死亡时新细胞发育成完整海蜇（8014-8015，生物学细节为佩奇比喻载体）；希望Google不断创造新产品部门如海蜇新细胞、最终不依赖母体生存长大（8017）；为此利用财力智力资源不断尝试新领域创新，成立Google风投、X实验室等独立部门（8018）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-06",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司基因决定论：创始人坚守现有业务让新人做新业务，新业务必失去竞争力；佩奇反其道而行",
+   "quote": "公司基因决定论",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8024,
+    "end_line": 8026,
+    "fingerprint": [
+     "基因决定论",
+     "新业务"
+    ],
+    "sha1": "b7708dfcfe9a95cc108f565af3a33a1e07119f31"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "公司基因决定论",
+   "ability_tags": [],
+   "notes": "佩奇培养皮柴：Chrome显示产品市场能力后交安卓、提为类COO职位、Alphabet改名后打包旧业务交皮柴（8020-8022）；通常创始人尝试新业务会找相关领域专家开展，Google正好相反（8024）；若佩奇坚守现有业务让新人试新业务，新业务必成IBM个人电脑部门或微软在线部门、无竞争力（8025）；故把成熟果实交他人看管、自己负责最需支持与资源的新业务（8026）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-07",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司真正能传承的只是基因；认同公司终有一死是常态，再考虑传承基因与文化，而非维持不死",
+   "quote": "薪尽火传",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8032,
+    "end_line": 8034,
+    "fingerprint": [
+     "基因",
+     "常态"
+    ],
+    "sha1": "75af375c8c046aa2f692b9a21953936f30738a32"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-1"
+   ],
+   "concept_key": "薪尽火传",
+   "ability_tags": [],
+   "notes": "家族传承除物质财富还有精神财富——家族的基因（8032，呼应此前家族财富信）；佩奇比很多企业家聪明处：首先认同公司最终死掉是常态，在此前提下考虑传承公司的基因和文化，而不是试图维持不死的公司（8033）；柴火虽烧尽、火种仍留传（8034）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-08",
+   "unit_id": "GG-U0119"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0119",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "反垄断拆分预案与时点预测（8028-8031）：防范美国政府及各国反垄断诉讼、市场份额远超对手总和、2008年聘司法部前官员为法务副总裁、运气好Alphabet或成全球市值最大公司/运气不好被拆分后新业务独立成领头羊——依附当时反垄断形势与公司事件，离开该时点即失效；'未雨绸缪'的可迁移含义已由K卡（组织有生有死/海蜇策略/薪尽火传）覆盖"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "来信补充（佩奇人生智慧整理）：牙刷原则、爆款效应、组织生死观、海蜇策略、基因决定论、薪尽火传均含可迁移判断故K；题头按语（7987-7990）与思考题（8035）为载体性文字；反垄断拆分预案一段X2"
+}
