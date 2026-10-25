@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0272",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "并非有新技术就要否定原有的一切；商业活动一切以长期盈利为目的",
+   "quote": "一切要以长期盈利为目的",
+   "anchor": {
+    "start_line": 17594,
+    "end_line": 17596,
+    "fingerprint": [
+     "新技术",
+     "做死掉了"
+    ],
+    "book_code": "SG1",
+    "sha1": "84899f9ee856d760c27f1931eba198de4d6ebe14"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "新技术服从长期盈利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "过分强调新技术的公司因成本过高市场不接受反而做死（17594）；看似奇怪的决定由很多原因共同造成，涉及商业时盈利才是硬道理（17656）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0272-01",
+   "unit_id": "SG1-U0272"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专利成本比发电成本还高时，宁可在电路上损失一半电量也不付高额专利费",
+   "quote": "支付高额的专利费",
+   "anchor": {
+    "start_line": 17628,
+    "end_line": 17628,
+    "fingerprint": [
+     "专利的成本",
+     "西屋"
+    ],
+    "book_code": "SG1",
+    "sha1": "298b91202f7e2d957a9b99037b8c0b2172053507"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专利费成本约束",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "西屋付高额专利费几乎破产、后以近22万美元买断专利（17626、17642）；企业家必须先让企业活下来再发展（17634）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0272-02",
+   "unit_id": "SG1-U0272"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业竞争不是学术竞争：科学家认为对必须说，商人则看能否带来利益",
+   "quote": "这要看能否给他带来利益",
+   "anchor": {
+    "start_line": 17630,
+    "end_line": 17630,
+    "fingerprint": [
+     "商业竞争",
+     "科学家"
+    ],
+    "book_code": "SG1",
+    "sha1": "7d81cdb49dbbc2f6740727b1eada9f8dbb7511cc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "商人言论看利益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "爱迪生诋毁交流电不等于他真信自己的话（17632）；与C-SG1-U0269-02利益冲突判别法互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0272-03",
+   "unit_id": "SG1-U0272"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0272",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "爱迪生与特斯拉交往史（奖金食言、白炽灯专利官司）、西屋买断专利、瓦登克莱弗塔融资失败、爱迪生纪念会等电力商业史叙述为主体（17598-17654）；商业判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第262封信：爱迪生不用交流电的商业逻辑，3卡，科技史叙述归X4"
+}

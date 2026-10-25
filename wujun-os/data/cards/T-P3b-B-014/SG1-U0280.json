@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0280",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "鲁本斯以画像加博学为媒介完成外交使命，与欧洲显赫家族广建交情",
+   "quote": "外交的使命就这样完成了",
+   "anchor": {
+    "start_line": 18258,
+    "end_line": 18258,
+    "fingerprint": [
+     "鲁本斯",
+     "画像"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9b4297a3f1d5d1afe415a3b1a2b67963d461ed5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-1"
+   ],
+   "concept_key": "技能为社交媒介",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "X3游记语境抽方法论；看家本领一会画像二博学，与当时欧洲几乎所有显赫家族有交情（18258）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0280-01",
+   "unit_id": "SG1-U0280"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "超大博物馆一天转完太辛苦；利用可再入场规则先转半天再回来慢慢看",
+   "quote": "出门后再回来也认账",
+   "anchor": {
+    "start_line": 18278,
+    "end_line": 18278,
+    "fingerprint": [
+     "博物馆",
+     "慢慢看"
+    ],
+    "book_code": "SG1",
+    "sha1": "3c40ddc508e9fb61d69124e17af1eabbc061e97b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "分次参观法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "生活品味语境抽经验方法；大都会主馆展览面积20多公顷（18278）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0280-02",
+   "unit_id": "SG1-U0280"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0280",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "普拉多、大都会、梵蒂冈、乌菲兹等馆藏艺术史与轶事叙述为主体（鲁本斯与戈雅画作、西斯廷天顶画、布隆伯格趣语等）（18230-18312）；仅社交媒介与分次参观法抽2卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第270封信：纯游记艺术见闻信（X3），仅抽社交媒介与分次参观2卡方法论"
+}

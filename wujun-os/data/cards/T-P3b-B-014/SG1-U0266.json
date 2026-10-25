@@ -1,0 +1,132 @@
+{
+ "unit_id": "SG1-U0266",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选专业三因素：国家层面的大机会、个人特长和兴趣、专业变迁与行业机会",
+   "quote": "国家层面的大机会",
+   "anchor": {
+    "start_line": 17118,
+    "end_line": 17124,
+    "fingerprint": [
+     "特长和兴趣",
+     "未来行业的机会"
+    ],
+    "book_code": "SG1",
+    "sha1": "6f2c3299f55ff364a2a35455196bc988f63c114e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "选路三因素框架",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "X5升学语境按方法论例外抽卡；吴军因父母对信息革命趋势的把握学计算机（17114）；清华土木从冷门因基建大发展反超热门（17128）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0266-01",
+   "unit_id": "SG1-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "优先选高势能专业：难学而又是其他专业基础，从高势能转低势能可行、反之绝无可能",
+   "quote": "高势能的专业",
+   "anchor": {
+    "start_line": 17162,
+    "end_line": 17162,
+    "fingerprint": [
+     "难学",
+     "基础"
+    ],
+    "book_code": "SG1",
+    "sha1": "8bec8c48d76bbcd6846c106a46b90cbca9ea1a05"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "高势能知识优先",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "数学相对计算机和商学是高势能、计算机相对管理是高势能（17162）；X5升学语境按方法论例外抽卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0266-02",
+   "unit_id": "SG1-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "本科尽量选适应面广的专业：毕业时1/3知识已过时，工作5年后再过时1/3",
+   "quote": "适应面广的专业",
+   "anchor": {
+    "start_line": 17156,
+    "end_line": 17156,
+    "fingerprint": [
+     "过时",
+     "适应性"
+    ],
+    "book_code": "SG1",
+    "sha1": "92f074d1ed9b685c7799013d7ff191dd4d1bcfc9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "知识过时与适应性",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "没有适应性就难以有未来职业的发展（17156）；数学比生物、金融比会计适应面广，万金油转窄专业可、反之几乎不可能（17158）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0266-03",
+   "unit_id": "SG1-U0266"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大学比学习几门课程更重要的目的，是从只会考试的学生变成一个社会人",
+   "quote": "变成一个社会人",
+   "anchor": {
+    "start_line": 17176,
+    "end_line": 17176,
+    "fingerprint": [
+     "只会考试的学生"
+    ],
+    "book_code": "SG1",
+    "sha1": "d40048e90c0c2ca9e827a1b9fe6d436ee6db72c7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "从考试人到社会人",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "选专业重要的是通过系统学习养成好的学习习惯，课程本身并不重要（17170）；和同学搞好关系建立朋友圈受益终生（17178）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0266-04",
+   "unit_id": "SG1-U0266"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0266",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "第256封信主体为专业选择的升学操作建议（热门vs冷门、生物化学就业辛苦、MIT去向、勿挤过热新兴专业等），归X5；仅选择框架与学习方法论抽4卡"
+  },
+  {
+   "unit_id": "SG1-U0266",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "文末推荐得到App课程（薛兆丰经济学课、宁向东管理学课等）（17182），平台推广内容归X1"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第256封信：X5专业选择信，按方法论例外抽4卡（三因素/高势能/适应性/变社会人）"
+}

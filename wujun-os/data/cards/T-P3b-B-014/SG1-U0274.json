@@ -1,0 +1,106 @@
+{
+ "unit_id": "SG1-U0274",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功的秘诀：自我动力、博学与丰富经历、大师指点，最重要的是长期坚持",
+   "quote": "就是长期坚持",
+   "anchor": {
+    "start_line": 17796,
+    "end_line": 17796,
+    "fingerprint": [
+     "自我的动力",
+     "长期坚持"
+    ],
+    "book_code": "SG1",
+    "sha1": "f4eb8ac9bd8f725b85ee98ccd114322f5dfb9862"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "成功四秘诀",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "贾里尼克78岁工作到生命最后一天（17798）；吴军周六在实验室常见他、不好意思偷懒（17798）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0274-01",
+   "unit_id": "SG1-U0274"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天信这种方法明天信那方法永远做不出大发明；走完从0到N需梯队与精神领袖",
+   "quote": "永远做不出大的发明发现",
+   "anchor": {
+    "start_line": 17758,
+    "end_line": 17758,
+    "fingerprint": [
+     "梯队",
+     "精神领袖"
+    ],
+    "book_code": "SG1",
+    "sha1": "d36d895685f27b71bd7c16a1db3a7e6d0e79bdc8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D01-1"
+   ],
+   "concept_key": "认准一路勿骑墙",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "人人骑墙按“既要又要”逻辑工作，长远科学不会有突破（17762）；顶级圈子尊重观点不同者、不愿与无明确观点者交流（17762）；认死理走错了活该倒霉，方向对的努力最终得到补偿（17760、18120）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0274-02",
+   "unit_id": "SG1-U0274"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学习是一个人一辈子的过程；因兴趣读书的动力比外部压力更持久",
+   "quote": "一个人一辈子的过程",
+   "anchor": {
+    "start_line": 17778,
+    "end_line": 17778,
+    "fingerprint": [
+     "兴趣",
+     "动力不足"
+    ],
+    "book_code": "SG1",
+    "sha1": "e443ecab40b36644d99ad14f5ccbec8bd357290a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "终身学习兴趣驱动",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "X5教育语境按规则⑪抽学习方法论；与贾里尼克的共识：小学生中学生不必花太多时间读书、社会经验生活能力志向帮助一生（17774）；中学优势大学很快丧失（17776）；书本可早学晚学、错过成长阶段无法弥补（17780）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0274-03",
+   "unit_id": "SG1-U0274"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0274",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "贾里尼克生平史实（犹太家庭、二战流亡、母亲移民决定、MIT/IBM/约翰·霍普金斯履历、AI两派之争与ACL易主、Google科学家捐款设奖学金）为主体（17740-17794）；成功秘诀与治学判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0274",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "中小学教育与起跑线观点（99%孩子读书时间比较、少年班不足取、灌输标准答案之弊）（17780-17782）归X5；终身学习与兴趣驱动方法论按规则⑪抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第264封信：贾里尼克，3卡，生平归X4、教育观点部分归X5"
+}

@@ -1,0 +1,174 @@
+{
+ "unit_id": "SG1-U0276",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "富兰克林：能人多而品行好的人极稀缺，品行良好的人机会非常多",
+   "quote": "是稀缺资源",
+   "anchor": {
+    "start_line": 17894,
+    "end_line": 17894,
+    "fingerprint": [
+     "良好品行",
+     "机会非常非常多"
+    ],
+    "book_code": "SG1",
+    "sha1": "49f9aaf0cd6fe7899c0a882d05e17fdd1137ef81"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "品行稀缺机会多",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=富兰克林（其给出的逻辑，17894）；呼应富兰克林语“机会很多，但能够信赖的品行良好的人又很少”（17968）；吴军自评13条美德做到六七条（17950）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0276-01",
+   "unit_id": "SG1-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做好日常简单事情形成好习惯，好习惯培养出好品行，成功可以复制",
+   "quote": "有了好的习惯",
+   "anchor": {
+    "start_line": 17898,
+    "end_line": 17898,
+    "fingerprint": [
+     "好的习惯",
+     "品行"
+    ],
+    "book_code": "SG1",
+    "sha1": "a3e6c247097ffbb6f6d5a1b7a528799f0e9adffd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "习惯养成品行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "富兰克林非天生强人、不靠特殊机缘（17898）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0276-02",
+   "unit_id": "SG1-U0276"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "富兰克林：美德要分得细、每条外延简单清晰，才容易检查自己做到与否",
+   "quote": "容易检查自己",
+   "anchor": {
+    "start_line": 17902,
+    "end_line": 17902,
+    "fingerprint": [
+     "美德",
+     "外延"
+    ],
+    "book_code": "SG1",
+    "sha1": "f051347febbe9138980fee5498993235029f17fe"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "细分目标可检查",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=富兰克林；13条美德清单：节制、慎言、条理、坚毅、节俭、勤奋、真诚、正直、适度、清洁、心静、贞洁、谦卑（17904-17928）；每周只培养一项、13周一循环、涂黑点自评打分，光下决心不行需自我监督反省（17930-17938）；节制居首助清醒、慎言次之因获知识靠耳朵（17940）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0276-03",
+   "unit_id": "SG1-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "抢功劳者遭嫉妒与他人暗损，不抢功劳反而成为受益者",
+   "quote": "反而成为受益者",
+   "anchor": {
+    "start_line": 17948,
+    "end_line": 17948,
+    "fingerprint": [
+     "抢功劳",
+     "嫉妒"
+    ],
+    "book_code": "SG1",
+    "sha1": "28d6ba06f38989ba7fae4ecd6309b1f5445aac48"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "不争功反受益",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "富兰克林主动把功劳往外推、以“我们一起发起的”赢得广泛支持（17946）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0276-04",
+   "unit_id": "SG1-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能守时的公司是没有效率的公司，不能守时的人不能托付大事",
+   "quote": "就不是能够托付大事的人",
+   "anchor": {
+    "start_line": 17962,
+    "end_line": 17962,
+    "fingerprint": [
+     "守时",
+     "没有效率的公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "324f8e75ba5621f0af7ced15d18e3ff0ea1c6a25"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "守时即可信",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "腾讯迟到一分钟罚100元、两次后绝迹（17960-17962）；守诺守时、从不欠人钱（17958）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0276-05",
+   "unit_id": "SG1-U0276"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人很难并行处理事务；无法深入思考就永远只能完成最简单不用动脑的事",
+   "quote": "很难做到并行处理事务",
+   "anchor": {
+    "start_line": 17966,
+    "end_line": 17966,
+    "fingerprint": [
+     "见缝插针",
+     "深入思考"
+    ],
+    "book_code": "SG1",
+    "sha1": "5c4bba40df125302506f47655c9a3c09bdbb1888"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "一次只做一件事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "做事时见缝插针做另一件事最后什么都做不成；开着手机随时回信息无法深入思考（17966）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0276-06",
+   "unit_id": "SG1-U0276"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第266封信：品行培养与富兰克林自我管理工具，6卡"
+}

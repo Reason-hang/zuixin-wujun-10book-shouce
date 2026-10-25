@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0279",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成事靠决策者支持加执行者的耐心：永远不被激怒，温和说服所有相关的人",
+   "quote": "温和地说服了所有相关的人",
+   "anchor": {
+    "start_line": 18170,
+    "end_line": 18170,
+    "fingerprint": [
+     "贝聿铭",
+     "耐心"
+    ],
+    "book_code": "SG1",
+    "sha1": "9b11c26407b5cf8777bdb3e7d1a7a618cd2909f1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D05-2"
+   ],
+   "concept_key": "耐心说服成事",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "贝聿铭卢浮宫金字塔遭强烈反对终做成：先靠密特朗支持、再靠耐心（18170）；X3游记语境抽方法论",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0279-01",
+   "unit_id": "SG1-U0279"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逛博物馆最好的季节是冬天，因为那时人非常少（错峰经验）",
+   "quote": "最好的季节都是冬天",
+   "anchor": {
+    "start_line": 18162,
+    "end_line": 18162,
+    "fingerprint": [
+     "人非常少",
+     "博物馆"
+    ],
+    "book_code": "SG1",
+    "sha1": "14ecd91bf88cb7453bec147fdca483befeffdd79"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "错峰参观经验",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "生活品味语境抽经验方法；卢浮宫冬看展品夏看外景两次法、《蒙娜丽莎》前冬天几乎无人夏天排队一两小时（18178）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0279-02",
+   "unit_id": "SG1-U0279"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0279",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "十大博物馆榜单点评与史密森尼建馆史、卢浮宫沿革藏品、卫城与帕特农神庙、冬宫建筑与收藏等参观见闻与艺术史叙述为主体（18138-18208）；仅耐心与错峰方法论抽2卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第269封信：纯游记艺术见闻信（X3），仅抽耐心说服与错峰参观2卡方法论"
+}

@@ -1,0 +1,147 @@
+{
+ "unit_id": "SG1-U0268",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无法证伪的推论要小心，它们比算命先生的预言好不到哪里去",
+   "quote": "无法证伪的推论",
+   "anchor": {
+    "start_line": 17348,
+    "end_line": 17348,
+    "fingerprint": [
+     "算命先生",
+     "自洽"
+    ],
+    "book_code": "SG1",
+    "sha1": "d6c36f0d427c4f68e98baa64333f4530fbcf2e92"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "证伪比证实重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "证伪两字道出科学和巫术的区别（17298）；彭凯平机场算命案例：算命先生说的皆为大实话、无法证伪（17282-17296）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0268-01",
+   "unit_id": "SG1-U0268"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自洽且被证实的理论可能只是合理的解释，并非构成因果关系的原因",
+   "quote": "并非构成因果关系的原因",
+   "anchor": {
+    "start_line": 17304,
+    "end_line": 17304,
+    "fingerprint": [
+     "片面的",
+     "合理的解释"
+    ],
+    "book_code": "SG1",
+    "sha1": "a3cd4f198d3ce6ed0199969c5606c70a01ddc2ac"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "自洽非因果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人类对事物的认识永远是片面的，只是不断接近真理（17304）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0268-02",
+   "unit_id": "SG1-U0268"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很难证伪的说法，放到更长的时间和空间里就可以证伪了",
+   "quote": "更长的时间和空间里",
+   "anchor": {
+    "start_line": 17320,
+    "end_line": 17320,
+    "fingerprint": [
+     "证伪",
+     "摄像头"
+    ],
+    "book_code": "SG1",
+    "sha1": "2a06a6c0212bcfb9cd40f964a19f0ac288da17d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "时空扩展证伪法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "纽约犯罪率下降归因：堕胎说与摄像头说均被时空对比证伪（17310-17322）；犯罪率下降是局部特点且恰在朱利安尼当政期，铁腕治理是最直接重要原因（17334）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0268-03",
+   "unit_id": "SG1-U0268"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "已有结论倒推出来的原因总无法证伪，这样的成功经验难以复制",
+   "quote": "倒推出来的原因",
+   "anchor": {
+    "start_line": 17342,
+    "end_line": 17342,
+    "fingerprint": [
+     "可复制的经验",
+     "无法证伪"
+    ],
+    "book_code": "SG1",
+    "sha1": "0009c4fb98191c5688efa9e2fb38e49c15b769fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "倒推经验不可复制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "成功企业家介绍的经验多为冠冕堂皇无法证伪的说辞，照办一定失败（17338-17340）；马云蔡崇信例、创业公司过早聘CFO例（17342-17346）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0268-04",
+   "unit_id": "SG1-U0268"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常识经长期证实与证伪，科技有可重复性；宁信常识正统理论而非新奇解释",
+   "quote": "经过无数次检验的正统理论",
+   "anchor": {
+    "start_line": 17350,
+    "end_line": 17350,
+    "fingerprint": [
+     "可重复性",
+     "常识"
+    ],
+    "book_code": "SG1",
+    "sha1": "5518910a6745045aee3f7284ba8d876ce29ff5f6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "宁信常识与正统",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "宁信常识和正统理论，不轻易接受看似能自洽的与众不同的解释（17350）；与C-SG1-U0267-02以正合以奇胜互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0268-05",
+   "unit_id": "SG1-U0268"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第258封信：证伪比证实重要，5卡"
+}

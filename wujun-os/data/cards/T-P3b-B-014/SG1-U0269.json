@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG1-U0269",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "会做一件事与判断其真伪难度方法都不同；判断对错比得到答案容易，应争取做到",
+   "quote": "方法也是不同的",
+   "anchor": {
+    "start_line": 17376,
+    "end_line": 17376,
+    "fingerprint": [
+     "审稿人",
+     "判断一件事的真伪"
+    ],
+    "book_code": "SG1",
+    "sha1": "0ab911f49a3fba00bb9360669abbc54105a89df9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "判断与会做分离",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "审稿人未必比投稿专家知识多却能判定成果真伪有用与否（17376）；验证方程的解不需要会解方程，只需一点代数知识（17378、17418）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0269-01",
+   "unit_id": "SG1-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断权威观点是否可信：看说话人及其公司是否是该观点的受益者",
+   "quote": "是否是那种观点的受益者",
+   "anchor": {
+    "start_line": 17410,
+    "end_line": 17410,
+    "fingerprint": [
+     "马斯克",
+     "受益者"
+    ],
+    "book_code": "SG1",
+    "sha1": "99c9b2b2f8f0773eafd266a14634c6ab09e0e707"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "利益冲突判别法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "提高判断力三准则之一（17370）；马斯克反对退出巴黎协定背后是49亿美元绿色能源补贴的利益冲突（17396-17408）；水利工程与生物领域专家立场亦由利益解释（17414-17420）；网络中立性两边背后都是利益冲突（17428-17430）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0269-02",
+   "unit_id": "SG1-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基金经理与客户有严重利益冲突，推荐产品求佣金最大化；多数专业投资人跑输市场",
+   "quote": "佣金最大化",
+   "anchor": {
+    "start_line": 17412,
+    "end_line": 17412,
+    "fingerprint": [
+     "利益冲突",
+     "投资回报率"
+    ],
+    "book_code": "SG1",
+    "sha1": "58bd2342f2143f607b4f2bad43f630324a2bd37a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "基金佣金利益冲突",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第147封信投资话题的延续（17412）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0269-03",
+   "unit_id": "SG1-U0269"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "电商的优势在于效率使传统商业无法竞争，而非对整个商业带来多少好处",
+   "quote": "它的优势在于它的效率",
+   "anchor": {
+    "start_line": 17426,
+    "end_line": 17426,
+    "fingerprint": [
+     "电商",
+     "利益冲突"
+    ],
+    "book_code": "SG1",
+    "sha1": "5063fcbc9d2b1237a33d7ed410e37a5c2e09b8d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "电商优势在效率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "领域直连：电商；马云讲电商效率时基本客观，讲其他要用利益冲突分析（17426）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0269-04",
+   "unit_id": "SG1-U0269"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0269",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "特朗普退出巴黎协定始末、马斯克辞去科技顾问与49亿美元补贴账目（17382-17408）为2017时事事件叙述，离开时点失效；仅利益冲突判别方法论入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第259封信：提高判断力三准则之一判定利益冲突，4卡"
+}

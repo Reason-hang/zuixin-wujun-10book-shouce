@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0273",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "彻底认识一个事物需要很长时间，认识一开始很难全面，不能过早下结论",
+   "quote": "不能过早下结论",
+   "anchor": {
+    "start_line": 17716,
+    "end_line": 17716,
+    "fingerprint": [
+     "很难做到全面",
+     "青霉素"
+    ],
+    "book_code": "SG1",
+    "sha1": "486a267c947886a177948e51d722f0b201af17d3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "认识需时勿早断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "青霉素最初原理上不该有副作用，未料细菌抗药性催生超级细菌（17716-17718）；直流→交流→高压直流的认识螺旋式上升（17712）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0273-01",
+   "unit_id": "SG1-U0273"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "包容心重要：说一件事好时不满眼优点，说缺点时也不一棒子打死",
+   "quote": "没有一根筋地想问题",
+   "anchor": {
+    "start_line": 17720,
+    "end_line": 17720,
+    "fingerprint": [
+     "包容心",
+     "一棒子把它打死"
+    ],
+    "book_code": "SG1",
+    "sha1": "fb3c46d77ae54e18d9f72a8ec045000e7a4fd6bf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "评价勿一棒子打死",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "个体认识误区：觉得一件事好就好得不得了（17722）；死钻牛角尖会错失重大发现",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0273-02",
+   "unit_id": "SG1-U0273"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学的结论是有条件的：技术环境改变、周边技术突破后原结论不再成立",
+   "quote": "科学的结论是有条件的",
+   "anchor": {
+    "start_line": 17724,
+    "end_line": 17724,
+    "fingerprint": [
+     "技术环境",
+     "不再成立"
+    ],
+    "book_code": "SG1",
+    "sha1": "4a25f8022531608e1b6e387a34a09234a09c8297"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "结论随条件失效",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "交流输电优于直流的结论在提高直流电压的技术突破后失效（17724）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0273-03",
+   "unit_id": "SG1-U0273"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事方法同样有条件：不讲条件简单地学习别人的经验，无异于刻舟求剑",
+   "quote": "无异于刻舟求剑",
+   "anchor": {
+    "start_line": 17726,
+    "end_line": 17726,
+    "fingerprint": [
+     "做事情的方法",
+     "经验"
+    ],
+    "book_code": "SG1",
+    "sha1": "1b86bc9f6227dd877fc8aa6b2efa60f2a3f3e8d8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-1"
+   ],
+   "concept_key": "经验学习讲条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由科学的结论有条件推广到做事方法（17726）；与C-SG1-U0273-03互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0273-04",
+   "unit_id": "SG1-U0273"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0273",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "交直流输电技术史叙述（葛洲坝到上海输电、三峡工程、瑞典商用化、ABB快速半导体断路器）为主体（17680-17710）；认识论判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第263封信：从交直流再认识理解人类认识过程，4卡"
+}

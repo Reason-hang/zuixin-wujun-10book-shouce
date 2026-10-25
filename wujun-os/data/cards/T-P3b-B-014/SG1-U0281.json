@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0281",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最大的恶是作恶而不自知；知道在犯罪会手软，不自知则表现得极为凶残",
+   "quote": "作恶而不自知",
+   "anchor": {
+    "start_line": 18356,
+    "end_line": 18356,
+    "fingerprint": [
+     "最大的恶",
+     "凶残"
+    ],
+    "book_code": "SG1",
+    "sha1": "2cb787d272dd3689a7ff8702764c5cdd9cf8c365"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "作恶而不自知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "教育的目的、文明的标志是知道什么是恶什么不能做（18358）；熊孩子议题语境",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0281-01",
+   "unit_id": "SG1-U0281"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "父母给孩子最宝贵的财富是立足于社会的教养，而非房产证与车",
+   "quote": "立足于社会的教养",
+   "anchor": {
+    "start_line": 18392,
+    "end_line": 18392,
+    "fingerprint": [
+     "最宝贵的财富",
+     "起跑线"
+    ],
+    "book_code": "SG1",
+    "sha1": "9fcb8c1d35eac3eaccdb20820eb0fbabd45fe7af"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "教养是最贵财富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "X5亲子语境按价值观判断抽卡；若说有起跑线，起跑线就是家长（18392）；性格90%在3-6岁决定、之后数十年是10%微调（18394）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0281-02",
+   "unit_id": "SG1-U0281"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0281",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "熊孩子议题的亲子教育与管教内容为主体（长沙电梯事件、美国处罚机制、家长管束案例、斯宾塞与张鸣引文、不当孩子面吵架、经济舱例），归X5；仅普遍性价值观判断抽2卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第271封信：熊孩子亲子教育信（X5），仅抽普遍价值观判断2卡"
+}

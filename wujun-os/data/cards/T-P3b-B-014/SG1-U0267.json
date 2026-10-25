@@ -1,0 +1,121 @@
+{
+ "unit_id": "SG1-U0267",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逻辑链某一环看似有联系未必构成因果；弱相关性传递几次之后就不再有关联",
+   "quote": "传递几次之后",
+   "anchor": {
+    "start_line": 17218,
+    "end_line": 17218,
+    "fingerprint": [
+     "因果关系",
+     "相关性"
+    ],
+    "book_code": "SG1",
+    "sha1": "de501411c91096ca07d892ea9e6d7ef864f82710"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "弱相关链谬误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "英国靠老处女称霸世界的连环归因即此类荒唐逻辑（17202-17216）；温州几个老板跑路唱衰中国经济同为过度解读（17246）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0267-01",
+   "unit_id": "SG1-U0267"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好的思维方式共同点是“以正合，以奇胜”：正规方法为根本，靠多余的力量取胜",
+   "quote": "以正合，以奇胜",
+   "anchor": {
+    "start_line": 17254,
+    "end_line": 17256,
+    "fingerprint": [
+     "思维方式",
+     "孙子兵法"
+    ],
+    "book_code": "SG1",
+    "sha1": "50a06a3b7ae64595412c9fc58670cf9bf01a3e80"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "以正合以奇胜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "“奇”读jī意为多余的，可理解成预备队，并非出奇制胜（17256）；李靖《唐太宗李靖问对》有较好诠释（17256）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0267-02",
+   "unit_id": "SG1-U0267"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事以固定的方法套路为根本、额外为补充；先了解主流观点，勿一开始求新求奇",
+   "quote": "固定的方法套路是根本",
+   "anchor": {
+    "start_line": 17258,
+    "end_line": 17258,
+    "fingerprint": [
+     "主流的观点",
+     "狗熊掰棒子"
+    ],
+    "book_code": "SG1",
+    "sha1": "b38a763a3c6a2b1639f25ed7bb9131ce56c53127"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "守正为本勿先求奇",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "先有做事情的根本再靠积累一步步前进；一开始求新求奇则随意性大，结果是狗熊掰棒子（17258）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0267-03",
+   "unit_id": "SG1-U0267"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "事情做不好源于能力不行，能力不行的根源是思维方式有问题",
+   "quote": "思维方式有问题",
+   "anchor": {
+    "start_line": 17252,
+    "end_line": 17252,
+    "fingerprint": [
+     "能力不行",
+     "没有进步"
+    ],
+    "book_code": "SG1",
+    "sha1": "cebcd3338835bb485967670a29ba3d101d1c44e0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-1"
+   ],
+   "concept_key": "思维决定能力成长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "只在一件事情上思维方式有问题吃亏是一次，从小没训练好则十几年几十年没有进步或进步很慢（17252）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0267-04",
+   "unit_id": "SG1-U0267"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第257封信：过度解读与以正合以奇胜的思维方法，4卡"
+}

@@ -1,0 +1,155 @@
+{
+ "unit_id": "SG1-U0275",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第一桶金首在掌握技能：练成行业专家级工匠，一技之长让人脱颖而出",
+   "quote": "掌握一个技能",
+   "anchor": {
+    "start_line": 17840,
+    "end_line": 17840,
+    "fingerprint": [
+     "印刷术",
+     "专家级工匠"
+    ],
+    "book_code": "SG1",
+    "sha1": "23debce6a37a74b4dac03c39bf8b372fec81cae3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D06-1"
+   ],
+   "concept_key": "技能为立身之本",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军靠少人掌握的自然语言处理技术在千名竞争者中脱颖而出进Google（17844）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0275-01",
+   "unit_id": "SG1-U0275"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "富兰克林：信誉来自于勤奋；努力工作让邻居与客户产生信任",
+   "quote": "信誉来自于勤奋",
+   "anchor": {
+    "start_line": 17846,
+    "end_line": 17848,
+    "fingerprint": [
+     "勤奋",
+     "信任"
+    ],
+    "book_code": "SG1",
+    "sha1": "421a778a4110c2b9379a1a2f2fab3ecb5e244ff6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "信誉来自勤奋",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=富兰克林（接教会低酬活保证每天排一版、加班到很晚，邻居与路人见其努力产生信任，17848）；吴军践行按时完成承诺、时间一长大家有信心（17848）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0275-02",
+   "unit_id": "SG1-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "行万里路常常比读万卷书更重要；见识不足难有超越平台的成就",
+   "quote": "行万里路更重要",
+   "anchor": {
+    "start_line": 17854,
+    "end_line": 17854,
+    "fingerprint": [
+     "读万卷书",
+     "见识"
+    ],
+    "book_code": "SG1",
+    "sha1": "72bacdf7aba4c8ce6038241bc942793a0466b39e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "行万里路增见识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朱雪龙教授语被转述：幸好出国否则写不出《文明之光》，因不可能有更多见识（17854）；小富即安只关注眼前利益难进更高阶层（17852）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0275-03",
+   "unit_id": "SG1-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "品格的力量使人追随：众人认准能一起做大事的人，困难时也愿意帮助他",
+   "quote": "能够一起做大事的人",
+   "anchor": {
+    "start_line": 17856,
+    "end_line": 17858,
+    "fingerprint": [
+     "品格的力量",
+     "追随"
+    ],
+    "book_code": "SG1",
+    "sha1": "5d784b8952b3d45bd56a68a6b63704a0137a7dec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "品格赢得追随",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "前老板挤兑反而促成年轻人追随富兰克林并在其困难时相助（17856-17858）；立宪会议中富兰克林起调和作用（17860）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0275-04",
+   "unit_id": "SG1-U0275"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天的工作要成为明天成就的阶梯；否则财富增长只是线性而非指数",
+   "quote": "明天成就的阶梯",
+   "anchor": {
+    "start_line": 17862,
+    "end_line": 17862,
+    "fingerprint": [
+     "财务自由",
+     "线性的"
+    ],
+    "book_code": "SG1",
+    "sha1": "ded089d8fd9b92b33b42acd46db8160bf3ef6dad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D09-1"
+   ],
+   "concept_key": "工作即阶梯",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "接受差事先问除收入外能否快速进步（17866）；印刷→报业→教育与社会活动家的扩张路径（17864）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0275-05",
+   "unit_id": "SG1-U0275"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0275",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "富兰克林生平标签、四个建国法律文件签署、墓碑铭、印刷所学徒与创业经过等人物史叙述（17824-17844）；五要素方法论已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第265封信：富兰克林财务自由五启示，5卡"
+}

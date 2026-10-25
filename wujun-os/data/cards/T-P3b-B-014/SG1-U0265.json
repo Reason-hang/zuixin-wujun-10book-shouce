@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0265",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1N",
+ "batch_id": "T-P3b-B-014",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "志愿无法兼顾时优先级为城市>大学>专业，地点与机会密度优先",
+   "quote": "考生无法兼顾这三者",
+   "anchor": {
+    "start_line": 17026,
+    "end_line": 17026,
+    "fingerprint": [
+     "城市",
+     "专业"
+    ],
+    "book_code": "SG1",
+    "sha1": "fb0afba6fbf9ff79312d04f8a1bb27c6f26780f9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "志愿取舍城市优先",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "X5升学语境按方法论例外抽卡；优先选经济发达地区，机会比其他地方多很多（17038）；企业只到北上广深及宁杭汉蓉西哈校招，其他城市毕业直接进入可能性几乎为零（17042-17044）；圣荷西州立大学在硅谷就业胜过伊利诺伊等名校、深圳大学进腾讯华为者多（17050）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0265-01",
+   "unit_id": "SG1-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "底层进阶需先掌握技能，中产到精英的进阶需要博雅教育，不同阶段出发点不同",
+   "quote": "不同阶段和社会阶层",
+   "anchor": {
+    "start_line": 17072,
+    "end_line": 17072,
+    "fingerprint": [
+     "中产阶级",
+     "博雅教育"
+    ],
+    "book_code": "SG1",
+    "sha1": "ef3455ccf054f0e2b31b014ea28a460b0e8d5035"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "阶层进阶阶段论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "企业家之子应学大视野而非会计，工薪之子先学一技之长入投行赢得信任再发展（17064-17070）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0265-02",
+   "unit_id": "SG1-U0265"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "毕业学校与成功无强相关，但初入职场时大公司仍按名校名气分配招工比例",
+   "quote": "按照大学的名气分配",
+   "anchor": {
+    "start_line": 17054,
+    "end_line": 17054,
+    "fingerprint": [
+     "英雄不问出处",
+     "招收员工的比例"
+    ],
+    "book_code": "SG1",
+    "sha1": "6fd000ba4b05d935339f6912809cce4a0443579c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "学历初筛信号",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "因为没有更好的衡量不同大学毕业生水平的方法（17054）；投行宁招北大历史系再培养也不招差学校热门专业（17058）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0265-03",
+   "unit_id": "SG1-U0265"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0265",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "第255封信主体为高考志愿填报的升学操作建议（志愿风险、C9名单、校招城市、家庭因素咨询案例），归X5；仅取舍框架与可迁移判断抽3卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第255封信：X5升学志愿信，按方法论例外抽3卡（取舍优先级/阶层进阶/学历信号）"
+}
