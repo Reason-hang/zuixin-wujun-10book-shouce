@@ -1,0 +1,261 @@
+{
+ "unit_id": "WJ2-U0188",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "安全感三要素排序：社会安定第一、家庭稳定第二、钱与挣钱能力第三",
+   "quote": "排在第一位的是社会安定",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15251,
+    "end_line": 15255,
+    "sha1": "780769561a93aea20ba31f712997c88508cecce3",
+    "fingerprint": [
+     "安全感",
+     "社会安定"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-3"
+   ],
+   "concept_key": "安全感三要素",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "欧美社会学家统计研究；俄乌冲突后俄富人逃离例证；企业稳定并入第一要素（15265）",
+   "claim_id": "C-WJ2-U0188-01",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期看只有英美瑞士资本市场稳定增长；保护商业的法律加本土无大战是安全感根基",
+   "quote": "长期稳定增长",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15261,
+    "end_line": 15261,
+    "sha1": "728183cd66c8798c15b650b2eca08135a9dd2ddf",
+    "fingerprint": [
+     "股市",
+     "瑞士"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "社会安定与资本安全",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "英股市300年2000多倍、美200多万倍；津巴布韦/委内瑞拉剥夺私产、罗斯柴尔德与维特根斯坦家族衰落为例",
+   "claim_id": "C-WJ2-U0188-02",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "福利社会给普通人兜底；有工会保护的员工底气十足，欺凌员工的可能是老板",
+   "quote": "因为社会在给他们兜底",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15263,
+    "end_line": 15263,
+    "sha1": "04b66f3b196d6573700fe7556ae8d5de3b850318",
+    "fingerprint": [
+     "工会",
+     "福利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "社会兜底与底气",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "欧洲绝对收入不高仍有安全感的原因",
+   "claim_id": "C-WJ2-U0188-03",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "安全感可来自财富本身或创造财富的能力：不差钱者20年不挪窝，凭能力者不怕跳槽",
+   "quote": "她不差钱",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15277,
+    "end_line": 15281,
+    "sha1": "4682299e04e2ba2881f0f846dbb793646f96188b",
+    "fingerprint": [
+     "底气",
+     "跳槽"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-4"
+   ],
+   "concept_key": "财富与能力的底气",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两朋友对照：死守核心业务不争权 vs 期权四年周期跳槽升职",
+   "claim_id": "C-WJ2-U0188-04",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "钱、资源和能力三者可以互换；年轻时重积累资源和能力，不必急于挣钱变现",
+   "quote": "三者是可以互换的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15283,
+    "end_line": 15285,
+    "sha1": "1fc6ece376db28fb77ab96e46e9d5c6e3e6885b1",
+    "fingerprint": [
+     "资源",
+     "积累"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-1"
+   ],
+   "concept_key": "钱资源能力互换",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "做生意赚资源日后有用（第19期问答互参）；跳槽朋友攒人脉",
+   "claim_id": "C-WJ2-U0188-05",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "资源和能力要适时兑现：约50岁把资源能力变现，过早变现挣不了多少，不兑现则贬值",
+   "quote": "把资源和能力兑现了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15287,
+    "end_line": 15289,
+    "sha1": "d29cdf5f17cce504228a50a5da1bdf17c826fa1e",
+    "fingerprint": [
+     "兑现",
+     "贬值"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D06-1"
+   ],
+   "concept_key": "资源能力适时兑现",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "图灵奖得主们去谷歌Meta挣钱例；跳槽朋友50岁转房屋销售人脉派用场",
+   "claim_id": "C-WJ2-U0188-06",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伟大公司理财可类比个人：成长期利润再投资自己，成熟期派息回购；人年轻时投资自己效率最高",
+   "quote": "投资自己",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15293,
+    "end_line": 15295,
+    "sha1": "0c1adbd8b37643145220f45dcea7c990526a506e",
+    "fingerprint": [
+     "股息",
+     "回购"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-1"
+   ],
+   "concept_key": "投资自己的人生阶段",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "科技公司利润处置路径观察（15293）+'人也是一样'明喻；50岁后投资别人并争取兑现",
+   "claim_id": "C-WJ2-U0188-07",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "安全感等于社会安定、家庭后盾、钱与赚钱能力之和再减去义务；提前消费、毁健康换钱、过多义务都减损安全感",
+   "quote": "再减去你的义务",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15297,
+    "end_line": 15307,
+    "sha1": "2e36c8cdd1e2565883185141429f793e1df14e4f",
+    "fingerprint": [
+     "义务",
+     "无债一身轻"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-1"
+   ],
+   "concept_key": "安全感公式",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "毁身体换100块修复要1万；前三项无法增加时就卸担子不逞强",
+   "claim_id": "C-WJ2-U0188-08",
+   "unit_id": "WJ2-U0188"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对公司愚忠的人可能既没钱又没资源和能力，最终很不安全",
+   "quote": "愚忠心理",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15291,
+    "end_line": 15291,
+    "sha1": "b4756eeb3d76765e1124b147ddb0638a38ecbc5b",
+    "fingerprint": [
+     "愚忠",
+     "安全"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "职场愚忠之危",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "公司培养之恩vs更好的挣钱机会",
+   "claim_id": "C-WJ2-U0188-09",
+   "unit_id": "WJ2-U0188"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "安全感三要素与钱资源能力互换，整信方法论成卡"
+}

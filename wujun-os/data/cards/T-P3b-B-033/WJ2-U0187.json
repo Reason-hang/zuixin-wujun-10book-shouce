@@ -1,0 +1,258 @@
+{
+ "unit_id": "WJ2-U0187",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "谷歌名厨查理辞职开网红餐厅仍失败：名气敌不过行业零利润，还因过早兑现期权损失更多",
+   "quote": "很快就趋于平庸了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15179,
+    "end_line": 15183,
+    "sha1": "36c9f45e37d12ef1edff5c073778aae986c01b3e",
+    "fingerprint": [
+     "查理",
+     "谷歌"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "名厨查理开餐厅案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理；硅谷富二代创意中餐厅大半没扛过一年（15185）；查理称美国饭馆生命周期不到一年",
+   "claim_id": "C-WJ2-U0187-01",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "充分竞争行业利润为零（边际成本等于边际效益）；餐饮业竞争最充分，全行业不可能挣钱",
+   "quote": "全行业的利润自然为零",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15187,
+    "end_line": 15191,
+    "sha1": "629960d46706e1797dc0b7aff24a6541f54dc2ed",
+    "fingerprint": [
+     "边际成本",
+     "餐饮业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "充分竞争零利润",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "航空/汽车/家电同；压榨员工正因不挣钱、手指缝大一点就亏损",
+   "claim_id": "C-WJ2-U0187-02",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "零利润行业中个别企业挣钱靠垄断或不断出新，但都难持续，挣钱企业走马灯似的换",
+   "quote": "走马灯似的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15193,
+    "end_line": 15193,
+    "sha1": "29f8148040c6a4c8ef1825ee4c8fe74ff90d4ce5",
+    "fingerprint": [
+     "垄断",
+     "新品"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "零利润行业的幸存者",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "麦当劳/百盛例；'经营好就能挣钱'是短期错觉",
+   "claim_id": "C-WJ2-U0187-03",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "31岁年富力强转行不晚；40岁后转行要三思：经验提升成本、家庭负担加重、精力衰退升风险",
+   "quote": "不要在一棵树上吊死",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15195,
+    "end_line": 15197,
+    "sha1": "f524bf3e8da4b3746a45252239f88a8f37fca467",
+    "fingerprint": [
+     "转行",
+     "年富力强"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "转行年龄窗口",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "30-40岁三个渐变常被忽视；答读者NIUZHANLINN（餐饮业31岁）",
+   "claim_id": "C-WJ2-U0187-04",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "人最大的幸运，是在年富力强的时候找到自己的使命（茨威格）",
+   "quote": "年富力强的时候找到自己的使命",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15195,
+    "end_line": 15195,
+    "sha1": "0161c18f9058f2eacd45a0c5d359941b698f63b6",
+    "fingerprint": [
+     "茨威格",
+     "使命"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "年富力强找到使命",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=茨威格《人类的群星闪耀时》；与转行年龄窗口卡同锚互引",
+   "claim_id": "C-WJ2-U0187-05",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "25岁前学习准备、25-40岁积累经验找使命、50岁后兑现积累",
+   "quote": "不同时期要做不同的事情",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15199,
+    "end_line": 15199,
+    "sha1": "b1566d31cb14790cc3f0d0f2a949d07c9033033b",
+    "fingerprint": [
+     "使命",
+     "兑现"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "人生三阶段任务",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "第92封信互参",
+   "claim_id": "C-WJ2-U0187-06",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "资源是被使用改造的客体，管理是主体行为：管理权不是资源，不按效率优先分配",
+   "quote": "管理权不是资源",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15209,
+    "end_line": 15211,
+    "sha1": "ebd3bfde2eae254862fcd42cc680492b6d298266",
+    "fingerprint": [
+     "资源",
+     "主体"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "管理权非资源",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "人力资源=企业把人当生产要素的视角；不同设定形成不同企业文化（《硅谷之谜》）；答读者凡语问",
+   "claim_id": "C-WJ2-U0187-07",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创权力集中决策快但一错难补救；大企业分权制约慢但避免大损失；事必躬亲的决策者本身成瓶颈",
+   "quote": "事必躬亲",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15215,
+    "end_line": 15221,
+    "sha1": "673b37bd4a8ae8e86a9d46f32b0113106a527aad",
+    "fingerprint": [
+     "瓶颈",
+     "制约"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "决策快慢与规模",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "站在老板角度思考，一半的不理解能理解（15219）；失败初创远多于成功",
+   "claim_id": "C-WJ2-U0187-08",
+   "unit_id": "WJ2-U0187"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人基因即企业基因；创始人不在又无令人信服的CEO，企业管理趋于平庸",
+   "quote": "趋于平庸",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15223,
+    "end_line": 15227,
+    "sha1": "88306269f4aa1b29839d89743c9582dc80a8e201",
+    "fingerprint": [
+     "创始人",
+     "平庸"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "创始人依赖症",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "思科唐·瓦伦丁和平换掉创始人夫妇、乔布斯被董事会替换两例证；中韩创始人赖着不走现象",
+   "claim_id": "C-WJ2-U0187-09",
+   "unit_id": "WJ2-U0187"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答：餐饮业零利润经济学+转行窗口+决策权辨析，双问分别成卡"
+}

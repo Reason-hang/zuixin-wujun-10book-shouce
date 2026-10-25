@@ -1,0 +1,206 @@
+{
+ "unit_id": "WJ2-U0185",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "禁止越级上报的经济学理由：越级汇报管理成本太高，弊远大于利",
+   "quote": "弊远大于利",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15029,
+    "end_line": 15029,
+    "sha1": "519b5295b129da602d53ebb224204d524c81d352",
+    "fingerprint": [
+     "越级汇报",
+     "管理成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "越级汇报的成本",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "一人管10余人合理；越级有效需高层了解全部百人工作，成本过高（15031-15033）",
+   "claim_id": "C-WJ2-U0185-01",
+   "unit_id": "WJ2-U0185"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "分层管理是泰勒科学管理精髓：组织架构与产品组成结构同构，管理效率最高",
+   "quote": "产品怎么拆，组织架构就怎么拆",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15035,
+    "end_line": 15037,
+    "sha1": "bdf31ce0fbe1ab2fbd63c0943af8db0299444448",
+    "fingerprint": [
+     "泰勒",
+     "同构"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "组织与产品同构",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "汽车部件-部门对应；零件先装组件再装整车，故管理不留越级通道；负责人制度保证品质",
+   "claim_id": "C-WJ2-U0185-02",
+   "unit_id": "WJ2-U0185"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "允许例外越级汇报的隐患：滥用申诉、下级不听指挥、中层权威受损致揣摩或阻拦、信息权限分层被破坏",
+   "quote": "巨大的隐患",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15041,
+    "end_line": 15051,
+    "sha1": "b7a076514650a48399482cba50c9364d3a1bfe6c",
+    "fingerprint": [
+     "小报告",
+     "权威"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "越级汇报四隐患",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "古代上告途径形同虚设例证；越大越老的公司越禁止",
+   "claim_id": "C-WJ2-U0185-03",
+   "unit_id": "WJ2-U0185"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "禁止越级汇报的四个代价：官本位僵化、信息流通不畅、跨部门合作难、无法适应快速更新——即大公司病",
+   "quote": "主要有四个",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15057,
+    "end_line": 15067,
+    "sha1": "b16ee7b0651dfbed9320333a9c87dca61411473a",
+    "fingerprint": [
+     "大公司病",
+     "信息流通"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "大公司病四表现",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "层层传递信息走样+被'雪藏'；抽调基层资源受中层利益阻挠",
+   "claim_id": "C-WJ2-U0185-04",
+   "unit_id": "WJ2-U0185"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不越级汇报的三种替代：上级越级检查（韦尔奇/郭士纳）、矩阵或网状管理、定期下级评议上级",
+   "quote": "三种办法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15071,
+    "end_line": 15077,
+    "sha1": "e0c491c008d13ad213fb8da51a8393a33f24c5a3",
+    "fingerprint": [
+     "矩阵",
+     "网状",
+     "评议"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "越级汇报三替代",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "谷歌矩阵/Meta网状；美国7大科技公司用定期评议防独立王国",
+   "claim_id": "C-WJ2-U0185-05",
+   "unit_id": "WJ2-U0185"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "个人层面最好不要打老板小报告：老板信息资源更多、你的可替代性更高、搞好关系比告倒更有效",
+   "quote": "最好不要打老板的小报告",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15079,
+    "end_line": 15087,
+    "sha1": "24ec78d3c92998bc58b3531b372077d32bd1f61f",
+    "fingerprint": [
+     "小报告",
+     "证据"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "不打小报告三理由",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "真要越级须掌握具体证据；除非准备鱼死网破或老板真烂且不断欺压",
+   "claim_id": "C-WJ2-U0185-06",
+   "unit_id": "WJ2-U0185"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "家长制官本位在日韩中企业较重，与长期管理文化有关；欧美对职务权威保持距离感",
+   "quote": "官大一级压死人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15053,
+    "end_line": 15053,
+    "sha1": "327cf5728019a6bd110784bbdedeac92b894fb0d",
+    "fingerprint": [
+     "家长制",
+     "距离感"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-4"
+   ],
+   "concept_key": "管理文化差异",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "欧洲员工组织参与感强，老板难独自决定下属命运",
+   "claim_id": "C-WJ2-U0185-07",
+   "unit_id": "WJ2-U0185"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "禁止越级上报的经济学考量与替代方案，整信方法论成卡"
+}

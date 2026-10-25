@@ -1,0 +1,99 @@
+{
+ "unit_id": "WJ2-U0190",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "分歧吵到吵架程度时双方闭嘴去睡觉：过一夜冷静后多能认识到自己冲动",
+   "quote": "建议双方都闭嘴去睡觉",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15437,
+    "end_line": 15439,
+    "sha1": "b31eb79ad3694e7df81e6d6c2ee8d855e560b1e4",
+    "fingerprint": [
+     "吵架",
+     "冷静"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "吵架闭嘴过夜",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "普适关系方法论（X5语境按方法论例外成卡）；永不自省者属底线问题本不该结合（15441）",
+   "claim_id": "C-WJ2-U0190-01",
+   "unit_id": "WJ2-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "受苦的不受气：谁受累做了工作对方就不要抱怨，否则怨气积累终会爆发",
+   "quote": "受苦的不受气",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15443,
+    "end_line": 15447,
+    "sha1": "97a6aaee76fcc6fbc9ec63f6577299a7856fe7ea",
+    "fingerprint": [
+     "埋怨",
+     "爆发"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "受苦的不受气",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "普适补偿机制；要吃好的就一起下馆子或叫外卖；同学家规案例",
+   "claim_id": "C-WJ2-U0190-02",
+   "unit_id": "WJ2-U0190"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多事要丑话说在前头：生活习惯与底线事先谈清，深度绑定后再分最痛苦",
+   "quote": "丑话说在前头",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 15425,
+    "end_line": 15425,
+    "sha1": "dc253dd1c8cbcae54703b7e6e4cc693d1c8b50a9",
+    "fingerprint": [
+     "习惯",
+     "改不掉"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "丑话说在前头",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "普适于合作与合同；有的习惯能改有的改不掉",
+   "claim_id": "C-WJ2-U0190-03",
+   "unit_id": "WJ2-U0190"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0190",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "婚前四问框架（期待/需求/生活方式/分歧处理）、恋爱加法婚姻乘法模型、童话王子期待、扎克伯格见面时间例、学区房与全职主妇期望等婚恋本体内容按X5留痕；仅文末两个普适建议+丑话说在前头按方法论例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "婚恋本体X5留痕+文末普适关系方法论三卡（D-40口径）"
+}

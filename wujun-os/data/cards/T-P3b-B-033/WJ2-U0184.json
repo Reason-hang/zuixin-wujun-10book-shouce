@@ -1,0 +1,239 @@
+{
+ "unit_id": "WJ2-U0184",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "身边统计学=基于自己接触的人和事总结经验并推广到社会整体",
+   "quote": "身边统计学",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14927,
+    "end_line": 14929,
+    "sha1": "6318d3e9098da4427d96208591d1b161cc8cf278",
+    "fingerprint": [
+     "身边统计学",
+     "个例"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "身边统计学",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "定义卡；有可取之处也有问题，下分优缺点两卡",
+   "claim_id": "C-WJ2-U0184-01",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "身边统计学对简单常识有效，且可用来质疑与所见明显矛盾的权威结论",
+   "quote": "就应该质疑这个结论",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14935,
+    "end_line": 14937,
+    "sha1": "84975ebd2b4987c93b70e772d7cdab6bc76e1b5d",
+    "fingerprint": [
+     "常识",
+     "质疑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "身边统计质疑权威",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "'男人是女人两倍'反例；村庄常识够用但进城需更新",
+   "claim_id": "C-WJ2-U0184-02",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "身边统计学统计的对象真实具体；小而真实的直观印象常比带情绪的分析更准",
+   "quote": "真实的、具体的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14937,
+    "end_line": 14945,
+    "sha1": "f23cb43ed00d6c72a539e8bdb52709f12b3cb09b",
+    "fingerprint": [
+     "巴菲特",
+     "斯利姆"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "真实样本胜过情绪分析",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "巴菲特逛沃尔玛家得宝、斯利姆坐店数客估营收成《纽约时报》大股东两例证",
+   "claim_id": "C-WJ2-U0184-03",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "比统计量更重要的是真实性；小而真实的样本优于大而不透明或有系统性偏差的民调",
+   "quote": "更重要的是真实性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14947,
+    "end_line": 14951,
+    "sha1": "746cf78118aed398c99a35912c5d2230e4480282",
+    "fingerprint": [
+     "统计量",
+     "真实性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "真实性优先于统计量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "CBS特朗普演说民调只统计收看者（共和党51%vs民主党20%）为例证；名校就业率vs个体感受（14953）",
+   "claim_id": "C-WJ2-U0184-04",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "身边统计学以偏概全，更大的问题是对少量样本再做有色过滤，只记住合己见的个例",
+   "quote": "有色眼镜",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14959,
+    "end_line": 14969,
+    "sha1": "7b68d417ffd55c02ee7192e5c7667838386e3b32",
+    "fingerprint": [
+     "以偏概全",
+     "过滤"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "身边统计的过滤偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "学历书呆子/比特币/卖房赚钱例证；两个过滤器不同的人对吵无意义，走开就好（14969）",
+   "claim_id": "C-WJ2-U0184-05",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "网络时代身边统计学三变化：吹牛晒关系、短视频化造信息茧房、匿名发泄愈发不理性",
+   "quote": "三个新问题",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14973,
+    "end_line": 14989,
+    "sha1": "fcc94cba872207cc7d5afcb3e9827a1fd0dbf9f4",
+    "fingerprint": [
+     "吹牛",
+     "信息茧房"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "网络身边统计学三弊",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "推荐算法强化个例歪理；网上遇身边统计学讨论最好别参加（14989）",
+   "claim_id": "C-WJ2-U0184-06",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "身边统计学是低成本不精确的信息方式：只适用于身边范围，范围越大越不准；要统计就统计全、勿再过滤",
+   "quote": "要统计就统计全",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14995,
+    "end_line": 14997,
+    "sha1": "d41203c769b76600421e0a874d9d51fb381474c7",
+    "fingerprint": [
+     "低成本",
+     "准确"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "身边统计学适用边界",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "问身边朋友无法测全国支持率；信息闭塞者的没有办法的办法（15001）",
+   "claim_id": "C-WJ2-U0184-07",
+   "unit_id": "WJ2-U0184"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不属于某群体就不要用身边统计学评价该群体，那只是评价者自己的看法",
+   "quote": "完全不代表目标群体的看法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14999,
+    "end_line": 14999,
+    "sha1": "bfd94e91dbf6b7e0fad13f30b2a35b5ec5467964",
+    "fingerprint": [
+     "群体",
+     "看法"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "跨群体评价误区",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "中文媒体谈美国人看法、英文媒体采访中国人双向例证",
+   "claim_id": "C-WJ2-U0184-08",
+   "unit_id": "WJ2-U0184"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0184",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "CBS民调2025-03、特朗普国会演说100分钟等时政数据为例证留痕，机理已并入真实性优先卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "身边统计学利弊与适用边界，整信方法论成卡"
+}
