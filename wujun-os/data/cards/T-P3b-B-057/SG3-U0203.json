@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG3-U0203",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专家预测只能作思考参考而非最终答案，总有出人意料的重大技术未被预测",
+   "quote": "而不是最终的答案",
+   "anchor": {
+    "start_line": 21493,
+    "end_line": 21493,
+    "fingerprint": [
+     "出人意料",
+     "参考"
+    ],
+    "book_code": "SG3",
+    "sha1": "7264f7230a6fffef673b756a20deae7e7c156697"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D10-1"
+   ],
+   "concept_key": "预测仅供参考",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2001年无人预测出移动互联网、无人驾驶、基因测序、基因编辑（21493）；未来可能发现部分预测未成真（21493）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0203-01",
+   "unit_id": "SG3-U0203"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大数据变成个人资产需要两个保障：法律保障（已有共识）与技术保障（尚无共识）",
+   "quote": "法律保障",
+   "anchor": {
+    "start_line": 21541,
+    "end_line": 21541,
+    "fingerprint": [
+     "个人资产",
+     "技术保障"
+    ],
+    "book_code": "SG3",
+    "sha1": "8c223f03c8914b7b0ca204742da492238b0c3136"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据资产两保障",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "详见第77-79封信（21541）；数据信托是一种技术解决方式：把数据所有者与管理使用者分开、让用户从数据资产中获益（21543-21545）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0203-02",
+   "unit_id": "SG3-U0203"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数据保护与数据行业发展须平衡：限制过严不利行业，需以技术与产品形态求解",
+   "quote": "更安全、更有效地使用数据",
+   "anchor": {
+    "start_line": 21555,
+    "end_line": 21557,
+    "fingerprint": [
+     "DNA",
+     "限制太严格"
+    ],
+    "book_code": "SG3",
+    "sha1": "ec3aea29eb608f054316983de95d93324f2080ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "数据保护平衡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数据信托为更安全有效使用数据而非限制使用（21555）；DNA泄露致医保房贷成本上升例（21555）；信托像20世纪初工会（21553）；英国政府首倡、欧盟跟进、美国偏好私营机构执行（21547、21559）；SideWake多伦多智慧城市试点因市民反对失败（21561-21563）；数据信托只是一种设想、未来或出更好方案（21565）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0203-03",
+   "unit_id": "SG3-U0203"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0203",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "未来10项技术预测本体：技术清单、绿色氢计划六环节与盖茨BEV基金、朱棣文储电数字、数据信托机制设想与各国试点、数字化接触和追踪技术（21469-21589），科技趋势预测与具体技术本体排除；可迁移判断逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第168封信未来科技2：预测仅供参考/数据资产两保障/数据保护平衡三条可迁移判断；技术预测与技术本体归X6故降档3卡"
+}

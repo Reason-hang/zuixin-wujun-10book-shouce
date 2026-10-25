@@ -1,0 +1,210 @@
+{
+ "unit_id": "SG3-U0198",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逻辑学是讲道理的学说，靠有效论证以理服人；从共同事实出发通常能达成一致",
+   "quote": "以理服人",
+   "anchor": {
+    "start_line": 20897,
+    "end_line": 20901,
+    "fingerprint": [
+     "讲道理的学说",
+     "有效论证"
+    ],
+    "book_code": "SG3",
+    "sha1": "a5def1e7a926da40b76b86e9b413e620aa1cec45"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "逻辑以理服人",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "逻辑可能是唯一可百分百信赖的思维工具（20877）；论证无效即便结论正确也不能服人（20903）；恋人香蕉苹果无效论证例（20903）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-01",
+   "unit_id": "SG3-U0198"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：有效论证仅两种——小前提肯定大前提前件，或否定其后件",
+   "quote": "有效论证只有两种",
+   "anchor": {
+    "start_line": 20935,
+    "end_line": 20939,
+    "fingerprint": [
+     "前件",
+     "后件"
+    ],
+    "book_code": "SG3",
+    "sha1": "5f70fbaff3ad6eb383cc263874cdfc8b1ceddc2e"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "有效论证两式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德；三段论=大前提（通用原则、蕴含关系）+小前提（特殊原则）+结论（20907-20923）；无效例：所有人会死+张三会死推不出张三是人（20929-20931）；亚氏只是认识到规则而非创造、规则符合事物自然联系（20941-20945）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-02",
+   "unit_id": "SG3-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "'连续三年省优秀企业→贡献突出'是肯定后件的无效三段论，直觉上难察其错",
+   "quote": "一个无效论证",
+   "anchor": {
+    "start_line": 20955,
+    "end_line": 20957,
+    "fingerprint": [
+     "省优秀企业",
+     "三段论"
+    ],
+    "book_code": "SG3",
+    "sha1": "7b8eac3975c0cce33ebc9840962c0a488444dfc6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "无效三段论实例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与'张三会死推张三是人'同错（20957）；A公司8年利润851万、融资圈钱数十亿背景（20951）；老板以政府评优回应媒体质疑（20953）；其余逻辑错误留给读者找（20961）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-03",
+   "unit_id": "SG3-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "结论正确不等于论证有效，论证有效也未必结论正确；沟通必须讲逻辑",
+   "quote": "从错误的前提出发",
+   "anchor": {
+    "start_line": 20967,
+    "end_line": 20973,
+    "fingerprint": [
+     "符合逻辑",
+     "讲逻辑"
+    ],
+    "book_code": "SG3",
+    "sha1": "cda61e9a21b0ee4b309b95d0a66898d8f27c7002"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "有效与正确两分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "争吵中觉委屈者多为论证过程无效没服人（20969）；狗猫兔荒唐例：前提全错可得很合逻辑的大错结论（20971）；正确答案需正确前提+有效论证（20973）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-04",
+   "unit_id": "SG3-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无效论证蒙对结论更危险：错而不知使人深信不疑；有效论证出错可排查前提",
+   "quote": "蒙对了而已",
+   "anchor": {
+    "start_line": 20979,
+    "end_line": 20983,
+    "fingerprint": [
+     "深信不疑",
+     "排查"
+    ],
+    "book_code": "SG3",
+    "sha1": "b3a0a7b32b933b5f6a8a34d99b9f0d9a6654311c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "无效论证危害更大",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "带入新前提'我家的狗死了'即得'我家的狗是人'（20979）；考试蒙对以为掌握知识、比没掌握更可怕（20981）；亚氏科学原则=用逻辑不断排查错误补条件，科学因此进步（20983）；掌握正确逻辑比蒙对结论更重要（20983）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-05",
+   "unit_id": "SG3-U0198"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "库恩：科学发展不在个人有无创新想法，而在社会有一套系统聚拢科研者共同创造",
+   "quote": "一套完整的系统",
+   "anchor": {
+    "start_line": 20989,
+    "end_line": 20993,
+    "fingerprint": [
+     "库恩",
+     "心意"
+    ],
+    "book_code": "SG3",
+    "sha1": "dcb39cce8d9a00d834f37d145d2dc8506e78b0a3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "库恩系统论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=库恩（《科学革命的结构》）；把所有科研者心意吸引到系统中做出系列发明创造（20989）；亚里士多德提供的就是这样一个基本系统、按规范方法论做事实现文明进步（20993）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-06",
+   "unit_id": "SG3-U0198"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "争吵多为无利益冲突只是看法不一；双方都自觉有理又冲动时便吵起来",
+   "quote": "只是看法不一致",
+   "anchor": {
+    "start_line": 20891,
+    "end_line": 20895,
+    "fingerprint": [
+     "利益冲突",
+     "强加给他人"
+    ],
+    "book_code": "SG3",
+    "sha1": "faf14fc7a3fc6eb8a1207bd5d9c9a27d399ed2e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "争吵根源",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "主观感受与喜好之别，有涵养者不强加于人（20893）；都觉得对方出错或不讲道理（20895）；化解之道见C-SG3-U0198-01（20897-20901）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0198-07",
+   "unit_id": "SG3-U0198"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0198",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "逻辑学史背景：早期文明朴素逻辑学未持续发展、亚氏《工具论》与第一科学地位、亚氏之于逻辑学如欧几里得之于几何（20883-20887），纯史实科普；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第164封信亚里士多德逻辑学：逻辑以理服人/有效论证两式/无效三段论实例/有效与正确两分/无效论证危害更大/库恩系统论/争吵根源；逻辑学史背景归X4"
+}

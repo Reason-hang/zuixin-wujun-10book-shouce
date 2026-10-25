@@ -1,0 +1,261 @@
+{
+ "unit_id": "SG3-U0201",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司盘子有限，大规模买卖推高买入价压低卖出价，大盘基金难保持高收益率",
+   "quote": "很难保持高收益率",
+   "anchor": {
+    "start_line": 21243,
+    "end_line": 21247,
+    "fingerprint": [
+     "盘子",
+     "股价"
+    ],
+    "book_code": "SG3",
+    "sha1": "84f884db6c7e29ce7a1fc36521eb30bc0e0bdfa0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "规模侵蚀收益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "1亿股买卖100股与1000万股对比例（21245）；拆成小单短期内完成结果一样、长期完成股价波动仍影响收益（21249）；朋友大基金跨国换仓18个月例（21249）；散户占比小难体会大户影响（21249）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-01",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "杀猪盘原理：出货必砸盘，需大基金或群体接盘，荐股大师荐盘，散户终受损",
+   "quote": "体量很大的基金或者群体来接盘",
+   "anchor": {
+    "start_line": 21253,
+    "end_line": 21259,
+    "fingerprint": [
+     "杀猪盘",
+     "出货"
+    ],
+    "book_code": "SG3",
+    "sha1": "ab66d3f7cfd45b07841733e811d14790a4c26a85"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "杀猪盘原理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "没人能一边抛售一边维持高价、虚假宣传也做不到（21253）；接盘基金管理人私下受补偿、出卖散户利益（21255）；社交媒体荐股大师收好处荐散户接盘（21257）；投资个股尤其小盘个股要非常小心（21259）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-02",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "法律重要原则是教化：把坏人教育好并警示其他人，无知与激情犯罪可从轻",
+   "quote": "把坏人教育好，同时警示其他人",
+   "anchor": {
+    "start_line": 21277,
+    "end_line": 21279,
+    "fingerprint": [
+     "教化",
+     "从轻"
+    ],
+    "book_code": "SG3",
+    "sha1": "d727b6be2b68bff7cdb661d444f8f2e5cbfe0a5c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "法律教化原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'明知'是强调蓄意而非处罚坏想法（21279）；蓄意杀人/激情杀人/过失伤害致死三档对应量刑（21271-21275）；不违反亚氏'人只为行为负责'主张、反而体现法律目的在教化（21269、21277）；交通肇事无杀人意图不算谋杀（21279）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-03",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自首坦白从宽：悔悟使教化目的部分达成可减罚，兼作榜样，另有司法成本考量",
+   "quote": "一部分的教化目的已经达到",
+   "anchor": {
+    "start_line": 21281,
+    "end_line": 21283,
+    "fingerprint": [
+     "悔悟",
+     "破案率"
+    ],
+    "book_code": "SG3",
+    "sha1": "1c40494987ff89689c980bacf6c9e7f81054373c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "自首从宽逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "榜样作用让其他罪犯从善（21281）；任何国家破案率非100%、破案成本高，警力错配致其他罪犯逍遥法外（21283）；控辩双方或以自首坦白从宽处理案件（21283）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-04",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场不能碍于面子答应不该答应的事；权限失控是自己的问题，须公事公办处理",
+   "quote": "碍于面子答应别人不该答应的事情",
+   "anchor": {
+    "start_line": 21293,
+    "end_line": 21297,
+    "fingerprint": [
+     "管理权限",
+     "公事公办"
+    ],
+    "book_code": "SG3",
+    "sha1": "61980fb7e2e25c9e6d2cd26921d3cc125de8474e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "权限须公事公办",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "同事如何获得管理权限需自省：他人给的？碍于面子？控制不严？（21293）；往小了说没原则、往大了说违反公司制度（21295-21297）；按公司章程处理做好善后、不是可私下私了的问题（21297）；职场霸凌应对参见前信与问答（21291）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-05",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "失去信任一次错误就够、赢得信任要一辈子；应报告领导征求意见，勿擅自做主",
+   "quote": "只要犯一次错误就够了",
+   "anchor": {
+    "start_line": 21299,
+    "end_line": 21301,
+    "fingerprint": [
+     "一辈子",
+     "把柄"
+    ],
+    "book_code": "SG3",
+    "sha1": "445e5f5cb8403425472931bc24011808548aba57"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "信任一次失",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "领导信任勿辜负（21299）；不知如何处理就向领导和有关部门征求意见（21299）；先记一笔当把柄是黑社会做法（21299）；职业人士本职是谋公司利益、勿只顾自己利益（21301）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-06",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在哪里生活就要适应当地的节奏，节奏错配会让周围人觉得你奇怪",
+   "quote": "就要适应北京的节奏",
+   "anchor": {
+    "start_line": 21311,
+    "end_line": 21311,
+    "fingerprint": [
+     "节奏",
+     "奇怪"
+    ],
+    "book_code": "SG3",
+    "sha1": "8939d284e4c982495ae261db7ebaa12e358daf73"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "适应当地节奏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不可能用四五线城市节奏在北京生活、也不能用北京节奏在四五线生活（21311）；关注点很重要（21311）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-07",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要在可支配时间中留出空闲（如旅行箱勿塞太满），有空闲情绪才易平复",
+   "quote": "留出一定的空闲",
+   "anchor": {
+    "start_line": 21313,
+    "end_line": 21317,
+    "fingerprint": [
+     "旅行箱",
+     "情绪"
+    ],
+    "book_code": "SG3",
+    "sha1": "b06122493c7cc3661ff902f9b896cfbd5280b54f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "留空闲稳情绪",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "旅行箱塞太满则花时间收拾、看风景少也不能买东西（21313）；留空闲防止精力耗在归置杂物上（21315-21317）；多关注工作学习健康生活、少关心可有可无之事（21317）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-08",
+   "unit_id": "SG3-U0201"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "众争勿往：别挤人人都能想到的机会，用平台放大效应与信息优势并回避劣势",
+   "quote": "众争勿往",
+   "anchor": {
+    "start_line": 21319,
+    "end_line": 21319,
+    "fingerprint": [
+     "拥挤",
+     "放大效应"
+    ],
+    "book_code": "SG3",
+    "sha1": "0d3476a78c5dedd28dca2bcd25b271bd2ff9e19a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "众争勿往",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "同题详见第二季《硅谷来信》（21319）；利用北京平台最先获得信息的优势（21319）；不要优势没占着、劣势却沾上边（21319）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0201-09",
+   "unit_id": "SG3-U0201"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0201",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文4则：Canadajack（基金规模之问）、薛定饿着猫（明知与自首之问）、JAKE 刘（权限被滥用之问）、朱科屹（情绪平静之问），21235-21321，无吴军评述的原文不入卡；吴军回应已单独成卡并标说话人"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问30：规模侵蚀收益/杀猪盘原理/法律教化原则/自首从宽逻辑/权限须公事公办/信任一次失/适应当地节奏/留空闲稳情绪/众争勿往；读者原文X7"
+}

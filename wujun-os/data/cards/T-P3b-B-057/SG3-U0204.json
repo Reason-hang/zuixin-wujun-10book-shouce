@@ -1,0 +1,99 @@
+{
+ "unit_id": "SG3-U0204",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "图灵测试：若无法区分AI与人类的言谈，即认为该AI具有与人类同等的智能",
+   "quote": "同等的智能",
+   "anchor": {
+    "start_line": 21607,
+    "end_line": 21607,
+    "fingerprint": [
+     "图灵测试",
+     "区分"
+    ],
+    "book_code": "SG3",
+    "sha1": "5797e3e75ccff70bbbe5a045345d07f8c2f1f134"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "图灵测试",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=图灵；GPT-3生成文本难与人类书写区分（21607）；面对'脚有多少眼睛'类无意义提问仍会答错（21609）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0204-01",
+   "unit_id": "SG3-U0204"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "海量数据模拟出的算法结果可能正确，但不知其所以然（只知其然）",
+   "quote": "只知其然，不知其所以",
+   "anchor": {
+    "start_line": 21627,
+    "end_line": 21629,
+    "fingerprint": [
+     "海量的数据",
+     "模拟"
+    ],
+    "book_code": "SG3",
+    "sha1": "988ab68807bab69fd984842b84dffac0f3286fcc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "只知其然",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "算法推荐与GPT-3的共同之处（21627）；算法比用户更了解自己、人是否沦为算法奴隶失去思考判断之问（21625）；计算机靠海量数据训练、并不理解含义彼此之间的关系（21651）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0204-02",
+   "unit_id": "SG3-U0204"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单一智能的实现比综合智能简单得多，AI能完成单一任务不等于综合智能",
+   "quote": "比综合智能要简单得多",
+   "anchor": {
+    "start_line": 21641,
+    "end_line": 21641,
+    "fingerprint": [
+     "单一智能",
+     "苍蝇"
+    ],
+    "book_code": "SG3",
+    "sha1": "b1e17d1edf9504826af57df7e9a190fa24a7e553"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "单一智能易综合难",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "乔姆斯基苍蝇之问与生物系本科生回答：苍蝇任务仅感知食物逃避天敌繁衍（21639-21641）；老鹰猛兽苍蝇统治之喻（21637）；AlphaGo/GPT-3/抖音皆单一功能、不必担心单一功能系统（21635）；果蝇大脑代替人工神经网络实验：结果相近而资源能量少得多（21643）；多技能AI两关键：理解复杂语义与具备常识（21651-21653）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0204-03",
+   "unit_id": "SG3-U0204"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0204",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "AI趋势预测本体：GPT-3技术细节与模型规模更替史、基于算法的内容推荐、多技能人工智能路线图与两项关键技术、博斯特罗姆《超级智能》风险调查与科学家比例（21597-21661），AI与科技趋势预测排除；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第169封信未来科技3：图灵测试/只知其然/单一智能易综合难三条可迁移判断；AI趋势预测本体归X6故降档3卡"
+}

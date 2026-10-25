@@ -1,0 +1,238 @@
+{
+ "unit_id": "SG3-U0209",
+ "book_code": "SG3",
+ "extractor": "EXT-SG14",
+ "batch_id": "T-P3b-B-058",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专注是提高效率的关键，关注方向决定时间分配、时间分配决定达成目标的效率",
+   "quote": "关注方向决定了人的时间分配",
+   "anchor": {
+    "start_line": 22105,
+    "end_line": 22107,
+    "fingerprint": [
+     "时间分配",
+     "四处张望"
+    ],
+    "book_code": "SG3",
+    "sha1": "e8e78a193a03a7f7a0755990e5d0672bd9ed28e1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "关注决定效率",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "战术层面效率关键在专注、眼睛不要向四处张望（22097）；无关事物多看一眼就已经是输了，贝佐斯盖茨马云等八卦新闻根本不需要关心（22107）；屈从贪多好奇的本能则效率无从谈起（22109）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-01",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "短时间效率人人相差不大，大时间跨度的效率才更有意义，也说明人人有很大提升空间",
+   "quote": "大时间跨度的效率才更有意义",
+   "anchor": {
+    "start_line": 22113,
+    "end_line": 22115,
+    "fingerprint": [
+     "最优秀的人",
+     "考试"
+    ],
+    "book_code": "SG3",
+    "sha1": "efc4ecce1d2c9fde2dec0f080e88423f028af13b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "长期效率才作数",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2小时考试最优秀者也至少要1小时、只比一般人快1倍（22115）；一周效率差距大在专注（22117）；从提高一天一周效率做起，做完有了闲暇再环顾四周即劳逸结合（22121）；真正有效率的人早早完成任务才有时间慢下来欣赏风景（22165、22187）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-02",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讨论问题需要收敛思维，尽可能取得成果；高层会议议题更聚焦正是高效率的体现",
+   "quote": "需要收敛思维",
+   "anchor": {
+    "start_line": 22125,
+    "end_line": 22125,
+    "fingerprint": [
+     "收敛思维",
+     "聚焦"
+    ],
+    "book_code": "SG3",
+    "sha1": "b7eecf5a09c38663389214d3c211b693a1dbf547"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D05-1"
+   ],
+   "concept_key": "会议收敛出成果",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "主持人要把跑题话题拉回并要求固定时间内讨论必须出结果（22123）；越基层的会议越发散、越高层越聚焦——高层懂得讨论要收敛思维取得成果（22125）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-03",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目光往什么地方看，自己就会成为什么样的人——关注的方向塑造人",
+   "quote": "自己就会成为什么样的人",
+   "anchor": {
+    "start_line": 22129,
+    "end_line": 22129,
+    "fingerprint": [
+     "专注一个方向",
+     "什么样的人"
+    ],
+    "book_code": "SG3",
+    "sha1": "0331c9f5d8591a05c24909820221c80903652718"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D03-1"
+   ],
+   "concept_key": "关注点造就人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三位条件相同的朋友因注视方向不同分别成为大学校长、美国教授、商人（22133-22137）；关注方向太多的人多平庸（22139）；专注是思维方式、不被家庭条件限制（22143）；360度都想看、不停换道或原地打转基本没有成功的可能（22163）；我们为什么样的人而感动就会成为什么样的人（22177）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-04",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "学者朋友C：你从小被什么人感动，就可能成为什么人",
+   "quote": "就可能成为什么人",
+   "anchor": {
+    "start_line": 22141,
+    "end_line": 22141,
+    "fingerprint": [
+     "感动",
+     "思想上的巨人"
+    ],
+    "book_code": "SG3",
+    "sha1": "caff617e04e52349ed92ab4023f2956ab207b30a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "感动塑造方向",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军的学者朋友C（美国知名大学教授）；C自幼为古今中外思想上的巨人们感动、终成学者（22141）；与本人卡'关注点造就人'互引",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-05",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "清崎：同为没钱困境，放弃与改变生活方式做成，是穷爸爸和富爸爸的区别",
+   "quote": "穷爸爸和富爸爸的区别",
+   "anchor": {
+    "start_line": 22145,
+    "end_line": 22153,
+    "fingerprint": [
+     "罗伯特·清崎",
+     "富爸爸"
+    ],
+    "book_code": "SG3",
+    "sha1": "7e2f13691b555382426cb2838e43bc07180c273f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D03-1"
+   ],
+   "concept_key": "关注点在事情非条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=罗伯特·清崎（《富爸爸穷爸爸》作者，电视访谈）；前者关注点放在家庭条件故做不成，后者放在要做的事情上故想办法做成（22151）；忍不住看四周觉得别人有的我也得有，就无法改变生活（22153）；圣诞礼物调查：有人要急需的文具、有人因同学有而要香水玩具（22155）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-06",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "清崎：很多我们觉得是资产的东西，实际上是债务",
+   "quote": "实际上是债务",
+   "anchor": {
+    "start_line": 22161,
+    "end_line": 22161,
+    "fingerprint": [
+     "资产",
+     "债务"
+    ],
+    "book_code": "SG3",
+    "sha1": "bbebdbf185da30eac7e8fbf81d26884645528f58"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "资产债务之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=罗伯特·清崎（《富爸爸穷爸爸》'资产''债务'概念）；吴军受其启发形成自己的展开判断（见本单元'隐性债务清单'卡与第175封信U0211）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-07",
+   "unit_id": "SG3-U0209"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基本不用却要花精力维护的东西、忍不住追的剧、太远的天下大事、不知何用的技能都可能是债务",
+   "quote": "都可能是债务",
+   "anchor": {
+    "start_line": 22161,
+    "end_line": 22161,
+    "fingerprint": [
+     "游戏账号",
+     "技能"
+    ],
+    "book_code": "SG3",
+    "sha1": "bbebdbf185da30eac7e8fbf81d26884645528f58"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-2"
+   ],
+   "concept_key": "隐性债务清单",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "需很多时间维护的游戏账号、花了时间学却不知拿它做什么的所谓技能也可能是债务（22161）；闲聊八卦、无必要应酬、微信群红包、远方花边新闻不值得关注（22159）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0209-08",
+   "unit_id": "SG3-U0209"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0209",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "比特币价格波动、特斯拉市值飙升、Definity区块链公司还有没有机会、绿色经济是否泡沫等读者投资提问举例（22101），依附具体时点行情与标的"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第173封信：关注决定效率/长期效率才作数/会议收敛出成果/关注点造就人/感动塑造方向(E2)/关注点在事情非条件(E2)/资产债务之辨(E2)/隐性债务清单8卡；比特币特斯拉等读者投资时点问题举例归X2"
+}

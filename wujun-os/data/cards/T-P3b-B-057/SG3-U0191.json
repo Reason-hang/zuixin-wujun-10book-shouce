@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG3-U0191",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断城市前景：看周边经济能否支撑起大都市，看城市自身能辐射带动多大范围",
+   "quote": "城市前景如何",
+   "anchor": {
+    "start_line": 20103,
+    "end_line": 20105,
+    "fingerprint": [
+     "支撑起一个大都市",
+     "辐射、带动"
+    ],
+    "book_code": "SG3",
+    "sha1": "257094f96388bd95dc2afb5d69c90d249bed988a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "城市前景判断法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "地理和经济限制难以逾越（20099-20101）；一省资源常只能维持一个大都市（20101）；农耕文明一城独大vs商业文明城市群（20145-20147）；小结三特征（20149-20151）；划重点（20157-20161）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0191-01",
+   "unit_id": "SG3-U0191"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选城市应选分工细致、社会组织复杂的都市：个人机会多且更易诞生新技术",
+   "quote": "分工非常细致",
+   "anchor": {
+    "start_line": 20123,
+    "end_line": 20125,
+    "fingerprint": [
+     "社会组织足够复杂",
+     "提供机会"
+    ],
+    "book_code": "SG3",
+    "sha1": "5677c4ed3b2e84df48bcf5d5dace7073647a1aa2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "选城看分工复杂度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军30岁/50岁两份城市清单，50岁加重文化与宜居权重（20123-20125）；选深圳上海因其复杂而非大（20127）；资源型单一经济城市前景有限：大庆、鄂尔多斯、苏联军工城市、迪拜（20121）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0191-02",
+   "unit_id": "SG3-U0191"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "越复杂的大城市出身限制越小、可凭能力上升；年轻人宜趁早进入复杂系统生活",
+   "quote": "凭能力竞争",
+   "anchor": {
+    "start_line": 20141,
+    "end_line": 20143,
+    "fingerprint": [
+     "家庭出身",
+     "复杂的系统"
+    ],
+    "book_code": "SG3",
+    "sha1": "55cb212e49793f3da76e3ece89513a82136756aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D06-1"
+   ],
+   "concept_key": "复杂系统上升论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "小地方家庭出身影响大（20141）；从复杂进入简单容易、反过来很困难（20143）；行政管理复杂度带来阶层流动：专职文职管理与典籍制度提供上升通道（20137-20139）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0191-03",
+   "unit_id": "SG3-U0191"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "分工简单、复杂度不高的城市难产生创新技术，规模大而富有也可能只是大村落",
+   "quote": "很难产生创新性的技术",
+   "anchor": {
+    "start_line": 20129,
+    "end_line": 20129,
+    "fingerprint": [
+     "社会分工简单",
+     "创新性"
+    ],
+    "book_code": "SG3",
+    "sha1": "063501f8d80a3b78c2cdbec7955312b658b48ca3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "单一结构城市创新难",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "迪拜看似富有但与农耕大村落无异（20129）；依赖自然资源、经济模式单一城市例：大庆、鄂尔多斯、苏联军工城市、迪拜（20121）；农耕乡村难成冶金中心类比（20129）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0191-04",
+   "unit_id": "SG3-U0191"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0191",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "城市考古与经济史实叙述：乌鲁克城规模与人口、拜罗克余粮估算、耶利哥无分工定居点、加泰土丘无神庙、江户大名供养城市、省级资源单中心（20083-20147），纯史实科普无可迁移判断；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第158封信：城市前景判断法/选城看分工复杂度/复杂系统上升论/单一结构城市创新难；城市考古与经济史实叙述归X4"
+}

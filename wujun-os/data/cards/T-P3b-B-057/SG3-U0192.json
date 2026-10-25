@@ -1,0 +1,129 @@
+{
+ "unit_id": "SG3-U0192",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把每天手机时间从4小时减到2小时，业余时间翻倍；用于提升自己一年当两年用",
+   "quote": "业余时间增加了1 倍",
+   "anchor": {
+    "start_line": 20217,
+    "end_line": 20221,
+    "fingerprint": [
+     "手机上的时间",
+     "一年可以当两年用"
+    ],
+    "book_code": "SG3",
+    "sha1": "b62436f5152819d4d24a97974347c745cd8f98b4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-4"
+   ],
+   "concept_key": "减屏增自由时间",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "睡眠家务工作之外每天自由时间本不到2小时（20217）；工作时扔手机：看视频和分享照片的一半时间（1个多小时）可省（20211）；手机沟通仅10%-20%是必要交流（20213）；睡眠家务吃饭占24小时一半、手机占剩余时间1/3（20185-20199）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0192-01",
+   "unit_id": "SG3-U0192"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职业发展好的人与普通人的时间差异约2小时；更有成效地用这2小时生活可大变",
+   "quote": "差异其实就是2 小时左右",
+   "anchor": {
+    "start_line": 20245,
+    "end_line": 20247,
+    "fingerprint": [
+     "职业上发展比较好的人",
+     "更有成效"
+    ],
+    "book_code": "SG3",
+    "sha1": "36022fa8671d7efe5df145689871296297317328"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D05-2"
+   ],
+   "concept_key": "两小时差异论",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "对照组（管理层/教授/投资人）读书时间与平均无异（20239）；差异一：工作约12小时更长、通勤更少（20241）；差异二：每天锻炼1小时、屏幕时间少约1小时（20243）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0192-02",
+   "unit_id": "SG3-U0192"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分人一天的工作时间被邮件和短信不断打断而碎片化",
+   "quote": "被碎片化的",
+   "anchor": {
+    "start_line": 20233,
+    "end_line": 20233,
+    "fingerprint": [
+     "邮件和短信",
+     "打断"
+    ],
+    "book_code": "SG3",
+    "sha1": "9b03d171983613e4ce7ddd88386de811860b140b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "工作时间碎片化",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "到办公室第一件事是看邮件和回社交消息（20233）；仅少数人在固定时间发送消息（20233）；数据为2019年、无疫情影响（20231）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0192-03",
+   "unit_id": "SG3-U0192"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "美国作家：每天花四个15分钟做四件小事，一年后的你就会和现在完全不同",
+   "quote": "四个15 分钟",
+   "anchor": {
+    "start_line": 20249,
+    "end_line": 20249,
+    "fingerprint": [
+     "四件小事",
+     "一年后"
+    ],
+    "book_code": "SG3",
+    "sha1": "c6f44b0b7a9c7d8de3d3cb8f46fff4a1f84cb39a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-2"
+   ],
+   "concept_key": "四个15分钟习惯",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=一位美国作家（原书未署名）；六例：学外语/写日记/读5页书/打理花园/和孩子聊天/冥想瑜伽（20255）；欢迎读者补充（20257）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0192-04",
+   "unit_id": "SG3-U0192"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0192",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2019年美国大众时间分配统计本体（睡眠7.5小时、做饭性别差、手机4小时、社交媒体153分钟、读书10分钟、健身3小时、下班后工作比例等，20185-20231），依附具体时点调查数据离开时点即失效；可迁移判断逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第159封信：减屏增自由时间/两小时差异论/工作时间碎片化/四个15分钟习惯；2019年时间统计时点数据本体归X2"
+}

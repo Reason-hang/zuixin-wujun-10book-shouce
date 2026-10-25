@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG3-U0194",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "开创自己独特风格无捷径，恰需按部就班接受专业训练、走正路，方成大家",
+   "quote": "标新立异、另辟蹊径",
+   "anchor": {
+    "start_line": 20441,
+    "end_line": 20445,
+    "fingerprint": [
+     "独特风格",
+     "专业训练"
+    ],
+    "book_code": "SG3",
+    "sha1": "cb7b6ed81ffbe3e45bef6448951448c253440f42"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "风格始于专业训练",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "克里姆特与毕加索的艺术之路验证（20443-20445）；克里姆特早期《坐姿少女》显古典功底（20421）；毕加索同样从古典绘画开始（20439）；席勒掌握克里姆特风格后以有棱角线条自成一家（20523）；小结问如何形成自己的风格（20535）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0194-01",
+   "unit_id": "SG3-U0194"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "满足于熟练模仿只能是一流模仿者；先吸收传统养分再与传统分离，方能自成一家",
+   "quote": "一流的模仿者",
+   "anchor": {
+    "start_line": 20449,
+    "end_line": 20453,
+    "fingerprint": [
+     "模仿者",
+     "反传统"
+    ],
+    "book_code": "SG3",
+    "sha1": "5bcfcc0537960711885290822181efef2c0476ef"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D02-2"
+   ],
+   "concept_key": "先继承后分离",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "写实肖像画如照片般精准足见功力（20449）；维也纳分离派口号：时代的艺术，自由的艺术（20451）；婴儿吸收足够营养方能与母体分离之喻（20453）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0194-02",
+   "unit_id": "SG3-U0194"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0194",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "克里姆特生平与画作史实鉴赏：移民家庭出身、维也纳美校训练、金质勋章、贝多芬长卷、《吻》金箔与象征符号赏析、与席勒师生对比及西班牙流感去世（20405-20531），纯艺术史科普无可迁移判断；可迁移方法论已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第161封信克里姆特：风格始于专业训练/先继承后分离两条方法论；画作与生平纯艺术史科普归X4故降档2卡"
+}

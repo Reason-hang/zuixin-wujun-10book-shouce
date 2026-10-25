@@ -1,0 +1,240 @@
+{
+ "unit_id": "SG3-U0197",
+ "book_code": "SG3",
+ "extractor": "EXT-SG13",
+ "batch_id": "T-P3b-B-057",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学哲学关注科学的基础和方法，是了解世界与做研究的通用方法论，文理皆适用",
+   "quote": "科学的基础和方法",
+   "anchor": {
+    "start_line": 20769,
+    "end_line": 20775,
+    "fingerprint": [
+     "科学哲学",
+     "做研究的方法"
+    ],
+    "book_code": "SG3",
+    "sha1": "573f593284bb05da5ae23b5d46964f7abfe41a4d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D01-4"
+   ],
+   "concept_key": "科学哲学方法论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "关心科学本质、理论结构、研究过程、模型建立验证、结论可靠性（20771）；文理都在同一方法论框架下做研究、差别只在课题（20775）；读博士需了解（20775）；波普尔皮尔斯实证主义标准、库恩范式转移为颠覆式创新理论基础（20777）；研究本质=回应新问题获得新知开辟新领域（20779）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-01",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：可以相信感官经验，世界并非虚幻而是经验上有形，可凭经验认识",
+   "quote": "在经验上是有形的",
+   "anchor": {
+    "start_line": 20805,
+    "end_line": 20807,
+    "fingerprint": [
+     "感官经验",
+     "虚幻"
+    ],
+    "book_code": "SG3",
+    "sha1": "8c968764ae0922ec365e2060d30e7c82bd9aef98"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "经验上有形",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德；tangible本义可触碰（20807）；此前哲学家两类回避：苏格拉底无知说、借神话解释世界（20789-20791）；柏拉图理念世界立场相反（20795）；《雅典学院》柏氏指天亚氏掌心向下喻（20809）；亚氏被视作经验主义始祖（20847）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-02",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想获得切实进展或创造力，须不断用经验触碰世界，而非向虚幻平行世界找答案",
+   "quote": "用经验去触碰这个世界",
+   "anchor": {
+    "start_line": 20813,
+    "end_line": 20813,
+    "fingerprint": [
+     "切实的进展",
+     "平行世界"
+    ],
+    "book_code": "SG3",
+    "sha1": "91982ae5c10fc46dbede16a8f40e351efca194d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "经验触碰世界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "亚里士多德告诉人们的道理（20813）；与小结'可触碰的经验'呼应（20857、20867）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-03",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "亚里士多德：知识分三类——科学知识（经验加逻辑）、技能知识（练习）、道德知识（实践）",
+   "quote": "把知识分为三类",
+   "anchor": {
+    "start_line": 20815,
+    "end_line": 20821,
+    "fingerprint": [
+     "科学知识",
+     "道德知识"
+    ],
+    "book_code": "SG3",
+    "sha1": "44b8a668d3ae13149643716de405ef925de8392f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D01-1"
+   ],
+   "concept_key": "知识三分类",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚里士多德；Episteme/Techne/Phronesis（20815）；技能知识可经一万小时练习获得（20819）；清华经管学生转行例：管理学属道德知识需摸爬滚打非读书可成（20823）；科学知识求真提供原因、技能知识提供工具（20829-20831）；一切知识皆可经验触碰、可系统扩展（20837-20841）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-04",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学与人文如风筝与放风筝人：剪断线一时飞高终会失控坠落，没有人文的科学很危险",
+   "quote": "放风筝的人",
+   "anchor": {
+    "start_line": 20833,
+    "end_line": 20835,
+    "fingerprint": [
+     "风筝",
+     "人文"
+    ],
+    "book_code": "SG3",
+    "sha1": "d9502a2f73bffebd0197e0ef7a0764efdcf01bc8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "风筝喻",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "最易忽略的是人文对科学的指导作用（20833）；风筝需放线更长松绑才飞得高（20835）；掉下来还会伤害地面上的人（20835）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-05",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "伊斯兰学者：智力既是获取知识的潜能又是活动，越是使用智力水平越高",
+   "quote": "越是使用，智力水平就会越高",
+   "anchor": {
+    "start_line": 20845,
+    "end_line": 20845,
+    "fingerprint": [
+     "潜能",
+     "智力"
+    ],
+    "book_code": "SG3",
+    "sha1": "118516a856b5da5030284ffd90e90e5ab00753e1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "智力越用越高",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=伊斯兰学者（亚氏思想继承者）；观察可推翻科学命题、新命题引出新抽象概念（20845）；把实践论与理性推理结合创伊斯兰黄金时代（20843）；亚氏思想回传欧洲形成经验主义（20847）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-06",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知识背后逻辑相通；学什么都要认认真真学透彻、掌握通用方法论方能一通百通",
+   "quote": "通用的方法论",
+   "anchor": {
+    "start_line": 20853,
+    "end_line": 20855,
+    "fingerprint": [
+     "一通百通",
+     "学透彻"
+    ],
+    "book_code": "SG3",
+    "sha1": "46a3ef31ee744e766541464495b61781b39c984d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "一通百通",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "相通指知识背后逻辑而非直接解决问题（20853）；杰出学者多学科建树、华尔街顶级交易员有理论物理出身例（20853）；亚氏经十余年生物学精深研究悟出共通方法论（20855）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-07",
+   "unit_id": "SG3-U0197"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "相信世界可触碰并不断去触碰才能获得知识，所有知识都是触碰世界的结果",
+   "quote": "不断触碰这个世界的结果",
+   "anchor": {
+    "start_line": 20857,
+    "end_line": 20857,
+    "fingerprint": [
+     "管理学课程",
+     "爱情小说"
+    ],
+    "book_code": "SG3",
+    "sha1": "de658a8de8d80c094d70d27548817b486ddc5bc1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "可触碰的经验",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "没人能靠学一百门管理学课程管好公司、读一百本爱情小说收获爱情（20857）；划重点3（20867）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0197-08",
+   "unit_id": "SG3-U0197"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0197",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "哲学史背景叙述：苏格拉底无知说与神话归因、吠陀幻象、柏拉图理念世界与慧能偈语对比、《雅典学院》画作、亚氏过半著作属生物学与16年研究、著作两次遗失与伊斯兰学者继承史（20789-20845），纯哲学史/史实科普；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第163封信亚里士多德科学哲学：科学哲学方法论/经验上有形/经验触碰世界/知识三分类/风筝喻/智力越用越高/一通百通/可触碰的经验；哲学史背景归X4"
+}

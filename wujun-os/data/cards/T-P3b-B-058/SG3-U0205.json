@@ -1,0 +1,161 @@
+{
+ "unit_id": "SG3-U0205",
+ "book_code": "SG3",
+ "extractor": "EXT-SG14",
+ "batch_id": "T-P3b-B-058",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "定位精度再提升RKP与PPP都做不到，必须回到物理学的原点想办法",
+   "quote": "回到物理学的原点",
+   "anchor": {
+    "start_line": 21717,
+    "end_line": 21717,
+    "fingerprint": [
+     "RKP",
+     "物理学"
+    ],
+    "book_code": "SG3",
+    "sha1": "3cc81161eec3d1be3c33126a9ebbe6498d1567f7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "工程精度极限在物理原点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点1同述（21769）；误差根源是原子本身来回震荡、各种测量本身就有误差（21717）；激光冷却让原子静止从而将精度做到毫米量级（21719）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0205-01",
+   "unit_id": "SG3-U0205"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基础研究当年看不出用途，几十年后可能成为关键技术（朱棣文激光冷却例）",
+   "quote": "并不知道有什么用",
+   "anchor": {
+    "start_line": 21721,
+    "end_line": 21721,
+    "fingerprint": [
+     "激光冷却",
+     "朱棣文"
+    ],
+    "book_code": "SG3",
+    "sha1": "3c43ba55f137832b159570d4d6bd28167813407c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "基础研究远期价值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朱棣文2015年酒会自述经吴军转述：研究激光冷却课题时只觉得让原子停下来很有意思（21721）；激光冷却使原子静止、最大限度减小误差，太空建空间站要用（21719）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0205-02",
+   "unit_id": "SG3-U0205"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "“万事远程化”更多是研究如何把各种技术组合应用好，而非基础技术",
+   "quote": "把各种技术组合应用好",
+   "anchor": {
+    "start_line": 21725,
+    "end_line": 21725,
+    "fingerprint": [
+     "组合应用",
+     "基础技术"
+    ],
+    "book_code": "SG3",
+    "sha1": "a73cd7a4151da24f9258068dd7acfad7c44fc393"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "组合应用式技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "MIT科技评论原文为remote everything、字面“万事远程化”（21693）；远程医疗为其最典型延伸例（21727）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0205-03",
+   "unit_id": "SG3-U0205"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "远程医疗不是一项技术，而是一整套需要多领域配合的新的技术服务系统",
+   "quote": "一整套新的技术服务系统",
+   "anchor": {
+    "start_line": 21755,
+    "end_line": 21755,
+    "fingerprint": [
+     "技术服务系统",
+     "多领域"
+    ],
+    "book_code": "SG3",
+    "sha1": "9ac875baf1019442581baa9f9e385c28ad0526cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D08-1"
+   ],
+   "concept_key": "技术落地即系统",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "远程医疗需医疗技术、通信设施、信息管理与IT软件支持（21737）；四项配套：家庭医疗设备RPM、患者IT能力、医院IT系统与云计算、化验取药看护渠道（21739-21749）；划重点3（21773）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0205-04",
+   "unit_id": "SG3-U0205"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "五花八门的远程医疗系统满足不了要求，最终将整合为少数通用系统，是巨大商业机会",
+   "quote": "少数几个通用系统",
+   "anchor": {
+    "start_line": 21757,
+    "end_line": 21759,
+    "fingerprint": [
+     "通用系统",
+     "巨大的商业机会"
+    ],
+    "book_code": "SG3",
+    "sha1": "20a9500d95946932d552e5c2b1a26762c7f306a7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "系统整合商业机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国三类远程医疗系统（医院自研/云+APP/服务商开发）彼此缺少共通性（21757）；划重点3（21773）；具体远程医疗语境属趋势判断，通则为碎片化系统终将整合",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0205-05",
+   "unit_id": "SG3-U0205"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0205",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "未来科技趋势综述与技术原理科普本体：MIT科技评论10项技术盘点（21691-21693）、RKP/PPP定位原理与北斗精度数字、激光冷却机理、无人机播种与自动驾驶应用叙述（21699-21719）、远程医疗技术构成与四项配套叙述（21727-21751），科技趋势预测与技术科普，可迁移判断已抽卡"
+  },
+  {
+   "unit_id": "SG3-U0205",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "远程医疗市场规模等时点数据：2020年美国市场95亿美元、同比增80%、今后五年年复合增长率29%、五年后350亿、70%日常门诊可远程、70%医院52%医生可提供（21733-21735），离开时点即失效"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第170封信：工程精度极限在物理原点/基础研究远期价值/组合应用式技术/技术落地即系统/系统整合商业机会5卡；未来科技趋势综述与原理科普归X6、远程医疗市场时点数据归X2"
+}

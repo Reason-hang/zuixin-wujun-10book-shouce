@@ -1,0 +1,239 @@
+{
+ "unit_id": "SG3-U0215",
+ "book_code": "SG3",
+ "extractor": "EXT-SG14",
+ "batch_id": "T-P3b-B-058",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期主义第一件事：认清目标是否值得，防止追求海市蜃楼陷在想象中出不去",
+   "quote": "都值得用长期主义的策略去做",
+   "anchor": {
+    "start_line": 22679,
+    "end_line": 22679,
+    "fingerprint": [
+     "海市蜃楼",
+     "长期主义"
+    ],
+    "book_code": "SG3",
+    "sha1": "7ca43bf73b783ecb1a2fa0f806f4de2efb2607ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "先判目标值得",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不是每一件事都值得用长期主义的策略去做（22679）；思科例：指数增长十多年后陡跌、夕阳产业永远回不到高点（22671-22677，个股时点归X2）；划重点1（22761）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-01",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第二件事：搞清行动会带来指数级回报还是线性乃至对数级回报，公务员升迁即对数增长",
+   "quote": "这是对数函数级的增长",
+   "anchor": {
+    "start_line": 22687,
+    "end_line": 22689,
+    "fingerprint": [
+     "公务员",
+     "对数函数"
+    ],
+    "book_code": "SG3",
+    "sha1": "c791a4ca24213985e31e7a900c36b51c9d958a85"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D04-1"
+   ],
+   "concept_key": "回报函数形状",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "升迁间隔越来越长：两年、五年、十年一级，绝大多数人到头（22689）；指数底太小翻番需时长过生命、年3%约80年才10倍（22691-22695）；荷叶40天铺满池塘但有人一辈子只到35天的3%水平（22697）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-02",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期主义最大付出是拒绝诱惑、可能还要放弃一些东西；想得太容易最后大概率半途而废",
+   "quote": "最大的付出就是拒绝诱惑",
+   "anchor": {
+    "start_line": 22699,
+    "end_line": 22703,
+    "fingerprint": [
+     "拒绝诱惑",
+     "半途而废"
+    ],
+    "book_code": "SG3",
+    "sha1": "51800f02d3002d48614a4a0e6a941f8b7daca128"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "长期主义即拒绝诱惑",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "做到即成为少数人（22701）；凡事开始前多想困难的一面反而容易坚持（22703）；划重点1（22761）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-03",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "判断某事值不值得长期投入的方法：过滤短期波动，直接触达未来的终点",
+   "quote": "直接触达未来的终点",
+   "anchor": {
+    "start_line": 22729,
+    "end_line": 22729,
+    "fingerprint": [
+     "过滤短期的波动",
+     "终点"
+    ],
+    "book_code": "SG3",
+    "sha1": "c7aa22a60ce1dff612870df2755ea08303fe968a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-2"
+   ],
+   "concept_key": "过滤波动触达终点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "D对特斯拉判断对不对不重要，重要的是思维方式——抛开干扰因素一眼看到遥远的未来（22723）；纠结一两年房价涨跌、是否两年后买入，这种关注短期波动的想法已远离长期主义（22729）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-04",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "友人A：年入10万定投1万年收益8%难财务自由；两个选择是降低欲望或投资自己不断进步",
+   "quote": "自己要不断进步",
+   "anchor": {
+    "start_line": 22731,
+    "end_line": 22733,
+    "fingerprint": [
+     "定投股票",
+     "降低自己的欲望"
+    ],
+    "book_code": "SG3",
+    "sha1": "95a0e6f1bbce47a0be548310c0a025bd128d747a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D02-1"
+   ],
+   "concept_key": "降欲望或投资自己",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军友人A（中国知名度不亚于D的知名投资人，化名）；买房很早则连定投的钱都没有、只能指望房子升值养老（22731）；把握机会前提是不断进步而非做重复工作（22733）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-05",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "长期主义的大敌是经不住短期利益的诱惑；不在乎短期得失者回报反超要出业绩的基金经理",
+   "quote": "经不住短期利益的诱惑",
+   "anchor": {
+    "start_line": 22737,
+    "end_line": 22737,
+    "fingerprint": [
+     "短期利益",
+     "基金经理"
+    ],
+    "book_code": "SG3",
+    "sha1": "464e22e7a74e60852452fc659166097ab15d5bd1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D09-2"
+   ],
+   "concept_key": "忌短期诱惑",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "A、B、C投资回报好于风投合伙人与投行基金经理，原因之一是完全不在乎短期得失，后者需短期回报出业绩——心态不同结果不同（22737）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-06",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "抵抗得住诱惑、坚持六七年做成一件事，对人本身有价值——与博士学历无关",
+   "quote": "能够抵抗得住诱惑",
+   "anchor": {
+    "start_line": 22739,
+    "end_line": 22739,
+    "fingerprint": [
+     "霍普金斯",
+     "半途退学"
+    ],
+    "book_code": "SG3",
+    "sha1": "31ce3bd464dcbae777f140c047f09b3448f77c45"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "坚持成事修炼人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "约翰·霍普金斯大学前后几届同学：读完博士的事业发展基本都好、半途退学挣钱的绝大多数疲于奔命（22739）；博士学的知识可能早过时（22739）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-07",
+   "unit_id": "SG3-U0215"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要走远必须享受走路的过程而不是靠毅力咬牙走，只靠毅力走不了远路",
+   "quote": "靠毅力咬着牙走",
+   "anchor": {
+    "start_line": 22745,
+    "end_line": 22745,
+    "fingerprint": [
+     "享受",
+     "崩溃"
+    ],
+    "book_code": "SG3",
+    "sha1": "f0c3e6a52106955a7c22ae7aae3dea4e5e850373"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "享受过程方能远行",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "须能享受长期主义对生活的影响，找能一同立业的人成家就是这个道理（22741）；配偶天天聊房子车子或泼冷言冷语则难坚持、成家立业对立说明找错了人（22743）；小结：区分虚幻与真实的城堡、投资自己使有生之年能达到目标、心无旁骛享受远行（22749-22755）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0215-08",
+   "unit_id": "SG3-U0215"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0215",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "思科股价个案（上市时投1美元峰值回报约3000美元后陡跌20多年不回、销售额涨三倍仍因夕阳产业回不去）与特斯拉价值讨论（友人D：汽车产业利润率基本为零持续半个多世纪、企业价值基本等于不动产、特斯拉几乎无不动产故价值为零；无人驾驶卖服务每辆车利润增40倍；一致意见不管股价多高同时投资特斯拉与谷歌）（22671-22677、22707-22725），依附具体公司与时点的行情论断；其中可迁移的'过滤波动触达终点'思维已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第178封信：先判目标值得/回报函数形状/长期主义即拒绝诱惑/过滤波动触达终点/降欲望或投资自己(E2)/忌短期诱惑/坚持成事修炼人/享受过程方能远行8卡；思科与特斯拉个股时点论断归X2"
+}

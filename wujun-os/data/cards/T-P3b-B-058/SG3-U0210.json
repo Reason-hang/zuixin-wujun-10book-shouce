@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG3-U0210",
+ "book_code": "SG3",
+ "extractor": "EXT-SG14",
+ "batch_id": "T-P3b-B-058",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "信用卡、借呗类消费借贷其实是高利贷（年利率20%上下），抵押未来收入的对赌变相利率更高",
+   "quote": "前者其实是高利贷",
+   "anchor": {
+    "start_line": 22215,
+    "end_line": 22217,
+    "fingerprint": [
+     "高利贷",
+     "对赌协议"
+    ],
+    "book_code": "SG3",
+    "sha1": "7ace8e53225c44595c553cc6ae472f9adee2c5d2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D09-1"
+   ],
+   "concept_key": "消费贷即高利贷",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "借呗日息0.045%折年利率20%、美国信用卡年利率12.9%～21.9%（22215）；工资抵押半月息2%年化60%、演艺界人士与企业对赌协议为变相抵押未来收入（22217）；用完及时还清不付息不算透支（22215）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-01",
+   "unit_id": "SG3-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "透支消费最大危害不是还不上钱，而是习惯后几乎不可能摆脱贫困——生活没有了冗余",
+   "quote": "没有了冗余的时间、空间和资源",
+   "anchor": {
+    "start_line": 22225,
+    "end_line": 22225,
+    "fingerprint": [
+     "摆脱贫困",
+     "冗余"
+    ],
+    "book_code": "SG3",
+    "sha1": "0422587735c3640585465813e9ff9597a32b5b46"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "透支摧毁冗余",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "旅行箱比喻：塞得满满的箱子带不了纪念品、反复归置耗费精力还挤坏东西（22229-22239）；花呗白条升级手机、网贷改善生活，两月后手上基本不再有现金（22235）；每月权衡先还哪笔欠款见本单元'债务挤占视野'卡（22241-22243、22269）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-02",
+   "unit_id": "SG3-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每月权衡一堆欠款先还哪笔，人就习惯于只看眼前，忽视了更重要的事情",
+   "quote": "习惯于只看眼前",
+   "anchor": {
+    "start_line": 22269,
+    "end_line": 22269,
+    "fingerprint": [
+     "左右腾挪",
+     "更重要的事情"
+    ],
+    "book_code": "SG3",
+    "sha1": "53d3b44eb590782d27ddd8139a6b3a93785f7d3e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-4"
+   ],
+   "concept_key": "债务挤占视野",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点2（22269）；美国老太太一辈子还房贷，如拎着旅行箱走遍世界却忘记了看风景（22243）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-03",
+   "unit_id": "SG3-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多人抓不住机会，原因很简单：箱子里装了太多的东西，没有了空间",
+   "quote": "他们的箱子里装了太多的东西",
+   "anchor": {
+    "start_line": 22247,
+    "end_line": 22247,
+    "fingerprint": [
+     "留有一些冗余",
+     "机会"
+    ],
+    "book_code": "SG3",
+    "sha1": "65bfab775b44a8bc168e38e559a5d8d936b87ad0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D03-1"
+   ],
+   "concept_key": "冗余才有机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "解决方法简单：留有一些冗余，旅行箱有余则来去方便、遇到喜欢的东西直接放进去（22247）；正反案例见本单元E3卡两则（22249-22255）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-04",
+   "unit_id": "SG3-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两位高管因高薪买大房被房贷锁死在大公司，错过谷歌与Facebook上市红利",
+   "quote": "困住了他们的人生",
+   "anchor": {
+    "start_line": 22249,
+    "end_line": 22251,
+    "fingerprint": [
+     "微软的高管",
+     "大旅行箱"
+    ],
+    "book_code": "SG3",
+    "sha1": "9b4414ce3768ba8e0fd5b9449bcfb94a086b289d"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-1",
+    "D06-1"
+   ],
+   "concept_key": "大房子困住人生",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被介绍去谷歌/Facebook的实习生赶上上市发财，资产已是他们十倍（22251）；西雅图湖滩码头豪宅供养负担极高；大房子如大旅行箱塞进一床大棉被不再有腾挪空间（22251）；吴军亲历见闻案例，承载冗余机理故独立成卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-05",
+   "unit_id": "SG3-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Z君总把冗余空间留得很大：首家公司上市后仍租房、只买够住的小房，故能轻松把握新机会",
+   "quote": "把冗余的空间留得很大",
+   "anchor": {
+    "start_line": 22253,
+    "end_line": 22255,
+    "fingerprint": [
+     "Z 君",
+     "高盛"
+    ],
+    "book_code": "SG3",
+    "sha1": "93983d9746bad576b655161d4c476b18f5eba144"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-1",
+    "D03-1"
+   ],
+   "concept_key": "留冗余者得机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "赶上高盛、谷歌等三家公司上市、亚马逊早期雇员（22253）；谷歌上市后拒绝高职挖角、把时间留给自己和孩子做教育（22255）；吴军友人案例（E3），与大房子困住人生卡正反互证",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-06",
+   "unit_id": "SG3-U0210"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同样背景的人几年后差距拉开，原因之一是一部分人天天折腾旅行箱，另一些人在旅行",
+   "quote": "一部分人天天在折腾旅行箱",
+   "anchor": {
+    "start_line": 22259,
+    "end_line": 22259,
+    "fingerprint": [
+     "收入差不到哪里去",
+     "旅行"
+    ],
+    "book_code": "SG3",
+    "sha1": "505acae74e8c254ce47c9e8ecc5a2b755351276c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "折腾箱者与旅行者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "小结段；什么东西该装进旅行箱留待下一封信（22261）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0210-07",
+   "unit_id": "SG3-U0210"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0210",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "美国1700万家庭破产占人口14%、失业率约5%、约10%的人每天辛苦工作仍处破产状态、中国借网贷年轻人实质破产等时点统计叙述（22219-22221），依附具体时点；透支机理已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第174封信：消费贷即高利贷/透支摧毁冗余/债务挤占视野/冗余才有机会/大房子困住人生(E3)/留冗余者得机会(E3)/折腾箱者与旅行者7卡；美国破产家庭时点统计归X2"
+}
