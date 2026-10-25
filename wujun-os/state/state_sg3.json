@@ -1,9 +1,9 @@
 {
   "project": "WJ-OS 吴军十书·认知与行动操作系统",
   "pack_version": "1.0",
-  "updated": "2026-10-26（JS-015 后）",
-  "phase": "A线（SG3）：12/23（B-055 已收编 J-146）；复水入口=V5 §9 + 本文件 + state/journal_sg3.md",
-  "step": "P3a 收口：22 批 1,857 卡 0 FAIL；GATE-C r3 全绿（0.900/0.875/0.941）；审计修正①②落地（CHG-025，s11 断言 27/170/24）；概念键注册表 1,880。剩：P3b 谷歌 21 批 → 来信2 22 → 来信3 23 → 来信1 20 → P4 聚类归属",
+  "updated": "2026-10-26（JS-017 SG3 单书验收 PASS）",
+  "phase": "A线（SG3）：23/23 全部收编 + 单书验收 PASS（JS-017，2026-10-26）；GATE-C 本线 4 轮（r23/r24b/r25/r26）全绿；模糊点已汇总移交 state/模糊点_SG3.md；等 GATE-D 收口",
+  "step": "P3b SG3 线完成：23 批 319 单元 1,825 卡全 0 FAIL（B-043~065）；单书验收 book_coverage PASS（处置未落值 0，N3/K311/X5）；ck_registry 已刷新（7,756 键）",
   "spec": {
     "v2_方案": "v2（2026-10-19）",
     "v2.1_增补": "v2.1（2026-10-24 已落盘 spec/v2_1_增补.md，优先级高于 v2）",
@@ -26,15 +26,13 @@
     "note": "本线（SG3）已处置单元数；全库数见 state.json"
   },
   "in_flight": {
-    "ticket": "T-P3x-B-055（EXT-SG11 抽取中，SG3⑫ 14单元 U0163~U0176 行窗17203-18694）",
-    "unit_ids": [
-      "SG3-U0163~U0176"
-    ],
-    "unsaved": "无（断言前置，未写盘即未产生）",
-    "note": "【暂停检查点·用户指令】①GAUD24（GATE-C r22 盲抽）后台在途，交付后需：verify_cards 重跑+s14 attr/strict 双口径+三单元分口径→全 PASS 则 J-143 补验收记录；②EXT-SG11（B-055）交付后需：batch_finish T-P3b-B-055 data/cards/T-P3b-B-055 data/unitcards/uc_SG3.jsonl → batch_publish J-144（SG3 12/23）；③恢复后下一节拍：派 B-005（SG1⑤，batch_brief T-P3x-B-005 EXT-SG1E）+B-056（SG3⑬）双代理；④r23 触发线=B-053/054/055 满3批；⑤工具6件套全在役（anchor_aid/card_writer/batch_finish/batch_publish/batch_brief/sg1_dedup_probe）"
+    "ticket": "无",
+    "unit_ids": [],
+    "unsaved": "无",
+    "note": "0 在途 0 悬置 0 未推"
   },
-  "last_ticket": "T-P3b-B-065（94 卡 0 FAIL，JS-015）",
-  "next_ticket": "r23（GAUD25，D-34 欠账）→ B-056 → … → B-065 → SG3 单书验收",
+  "last_ticket": "T-P3b-B-065（94 卡 0 FAIL，JS-015；SG3 末批）",
+  "next_ticket": "无（本线工单清零）；GATE-D 收口待两线 PASS 标记齐全后由任一 Agent 执行",
   "blocked_by": [],
   "open_items": [
     "移民专题 X8 子类归属待用户确认（D-37，B-024 留痕）",
