@@ -1,0 +1,185 @@
+{
+  "unit_id": "WJ2-U0022",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0022-01",
+      "unit_id": "WJ2-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "以'能否实际解决问题'评判学科价值是思维误区：世上很多问题本就无解",
+      "quote": "很多问题本身就是无解的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1755,
+        "end_line": 1755,
+        "sha1": "f49bd0edbce604d145a56b77895d4f99f21914f3",
+        "fingerprint": [
+          "底层逻辑",
+          "思维误区",
+          "摸索着前行"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "学科价值评判误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "高考报志愿话题为引子（X5语境）；'文科难就业/门槛低/主观性强'三因为观察事实并入（1759-1767）"
+    },
+    {
+      "claim_id": "C-WJ2-U0022-02",
+      "unit_id": "WJ2-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "人对自己搞得懂的事觉得简单、搞不懂的肃然起敬，这造成对文科门槛的低估",
+      "quote": "搞不懂的，就会觉得高深",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1761,
+        "end_line": 1761,
+        "sha1": "76be8d8f41a7f030e5f2b2f9b1ad74d824372eaf",
+        "fingerprint": [
+          "看得懂",
+          "高深",
+          "肃然起敬"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "能看懂就觉得简单",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "《道德经》养活一大票人/苏格拉底柏拉图研究、牛顿《原理》无重研之对比（1763-1765）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0022-03",
+      "unit_id": "WJ2-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "文科理论时灵时不灵：其对错需放到真实世界中验证，而非严密推导保证",
+      "quote": "时灵时不灵",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1797,
+        "end_line": 1799,
+        "sha1": "695614ad57d159d217ee8660c887bc943a843a80",
+        "fingerprint": [
+          "100%正确",
+          "试试看",
+          "真实的世界"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "文科结论需实境验证",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "经济学无100%正确理论、凯恩斯主义恰逢大萧条验证之例并入；与C-WJ2-U0023-01互参（续链）"
+    },
+    {
+      "claim_id": "C-WJ2-U0022-04",
+      "unit_id": "WJ2-U0022",
+      "speaker": "转述·第三方",
+      "claim_text": "衰退来来去去、好日子总会到来；经历的历史足够长看得足够远，就不会觉得天要塌",
+      "quote": "好日子最终总是会到来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1825,
+        "end_line": 1825,
+        "sha1": "3cc8c5adddc24cc0e897ca1556032e29b8e45569",
+        "fingerprint": [
+          "垂头丧气",
+          "周期",
+          "鲜明的对比"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-4"
+      ],
+      "concept_key": "经历足够长看得足够远",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：约翰·洛克菲勒（93岁亲历衰退之自述，吴军称其道出规律）"
+    },
+    {
+      "claim_id": "C-WJ2-U0022-05",
+      "unit_id": "WJ2-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "民众信心的恢复比经济数据恢复慢得多；经济下行时新领导人上任本身就能带来信心",
+      "quote": "恢复信心需要很长的时间",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1823,
+        "end_line": 1827,
+        "sha1": "19c044941875044f4397a4a21bfaacdc257547ed",
+        "fingerprint": [
+          "经济前景没有信心",
+          "比经济数据恢复的时间要长很多",
+          "新领导人的上任"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "信心恢复滞后于数据",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "X6候选（宏观），按方法论例外取其可迁移机理归D08；胡佛/罗斯福案例承载"
+    },
+    {
+      "claim_id": "C-WJ2-U0022-06",
+      "unit_id": "WJ2-U0022",
+      "speaker": "吴军本人",
+      "claim_text": "历史叙事有胜者偏差：失败者担几乎全部错误，胜利者得几乎所有荣誉，时过境迁会重估",
+      "quote": "胜利者获得了几乎所有的荣誉",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1821,
+        "end_line": 1821,
+        "sha1": "bbf519ccda0f88e81b259cf8f82c73c9a2859558",
+        "fingerprint": [
+          "时过境迁",
+          "担当了几乎全部的错误",
+          "看法改变了"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "胜者叙事偏差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "'胡佛没有那么失败，罗斯福也没有那么成功'之重估为例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0022",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "大萧条股灾/产量/失业数据、胡佛五项举措罗列、凯恩斯两核心观点转述为纯史实/学说史叙述，未单独成卡，可迁移判断已并入卡03/05/06"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第016封信以学科价值认知与统计/叙事偏差成卡6张（E1×5+E2×1），史实叙述记X4"
+}

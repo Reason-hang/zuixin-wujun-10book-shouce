@@ -1,0 +1,238 @@
+{
+  "unit_id": "WJ2-U0071",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0071-01",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "听过觉得有道理、过会儿就忘不叫学会；一个道理通常要七八遍才能真正记住。",
+      "quote": "这不叫学会了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5560,
+        "end_line": 5562,
+        "sha1": "07b681e34d0844b6824f435fd4780affbd26eca0",
+        "fingerprint": [
+          "学会了",
+          "七八遍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "学会判据与七八遍",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：上周晚饭吃了什么多数人答不上；“查经”逐字逐句读几千年同理（5566）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-02",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "高倍速、二倍速听课效率是零：一倍速学了尚不能完全掌握。",
+      "quote": "这么做效率是零",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5564,
+        "end_line": 5564,
+        "sha1": "3617c2e8fd2f292affed7936ae8bf8139b8b1c3e",
+        "fingerprint": [
+          "二倍速",
+          "高倍速"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "倍速听课效率为零",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "批评毫无根据推广高倍速听课法的产品方。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-03",
+      "unit_id": "WJ2-U0071",
+      "speaker": "转述·第三方",
+      "claim_text": "很多道理，要一个字一个字慢慢读。",
+      "quote": "要一个字一个字慢慢读",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5564,
+        "end_line": 5564,
+        "sha1": "3617c2e8fd2f292affed7936ae8bf8139b8b1c3e",
+        "fingerprint": [
+          "李笑来",
+          "慢慢读"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "道理须逐字慢读",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：李笑来；听者觉得有道理但没认真执行——支撑卡-01/-02。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-04",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "学生说学懂了时，80%的人连一半道理都没搞懂；知识没有过脑、过心是不行的。",
+      "quote": "知识没有过脑、过心是不行的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5568,
+        "end_line": 5568,
+        "sha1": "7cc2e7d0d58600241e77d48b6512eb79d84c90bb",
+        "fingerprint": [
+          "80%",
+          "过脑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "自称学会多未懂",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "吴军大学授课反问验证的经验例证。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-05",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "感触深的内容要回去复习、补基本知识真正学懂；学了会忘不必自责，关键是当时学会、记住脉络。",
+      "quote": "要回去复习",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5570,
+        "end_line": 5572,
+        "sha1": "4d1a7e2896903e2907b71cc2c25f3cc1156fe405",
+        "fingerprint": [
+          "复习",
+          "脉络"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "复习补基与记脉络",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "例证：吴军记住大一课程脉络故能开微积分课；美国前十大学家长数十年记住基础课。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-06",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "知道了和真的懂了是两回事：真懂等于更换程序、删除与旧知识的矛盾；不愿换掉过去做法，学了不用就是白学。",
+      "quote": "知道了和真的懂了，是两回事",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5574,
+        "end_line": 5576,
+        "sha1": "8310cb63f4841e59b725d5d910abd7bb1d581074",
+        "fingerprint": [
+          "换掉过去的做事方法",
+          "更换了程序"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2"
+      ],
+      "concept_key": "真懂即换程序",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0831“会用才是学会”同族；例证：懂股指定投者牛市又去做短线、卓克“上火”课不弃旧做法即白学。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-07",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "很多营销书毫无营养：故事既不能证实也不能证伪、更无统计意义，消遣翻翻即可，不要花太多时间。",
+      "quote": "既不能证实，也不能证伪",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5578,
+        "end_line": 5578,
+        "sha1": "f732ab9264d961979c16b51bd6ce39bd77ea2dd4",
+        "fingerprint": [
+          "毫无营养",
+          "统计意义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "营销书无营养",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "证伪判据用于选书。"
+    },
+    {
+      "claim_id": "C-WJ2-U0071-08",
+      "unit_id": "WJ2-U0071",
+      "speaker": "吴军本人",
+      "claim_text": "新技术来了不要想着人人受益：有些人会被淘汰，或者原本的高收入变成低收入。",
+      "quote": "有些人是会被淘汰的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5588,
+        "end_line": 5588,
+        "sha1": "9ebf58da5fc74b8f305ade2a45f41ccf71be4ec2",
+        "fingerprint": [
+          "新技术",
+          "淘汰"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D09-1"
+      ],
+      "concept_key": "新技术有人被淘汰",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "“实话比恭维话值钱”呼应C-WJ2-U0063-02；汽车售后萎缩机理=复杂劳动贬值，互引C-WJ2-U0063-08。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0071",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "行5554-5556、5582-5584麦田里的晨曦、骆俊龙的提问原文（含骆对新能源行业的个人观察），读者发言不进卡。"
+    },
+    {
+      "unit_id": "WJ2-U0071",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行5590-5600美国4S店售后利润结构、特斯拉直销、电车复杂度下降、电脑维修业消亡史、“中国车企超德美”预测与“转管品牌城市总业务”个人建议，依附时点行业论断；可迁移机理（复杂劳动贬值）已互引C-WJ2-U0063-08。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答11：何谓学会、真懂换程序等学习判断成8卡（E1七、E2一），新能源行业部分按X2/X7处置。"
+}

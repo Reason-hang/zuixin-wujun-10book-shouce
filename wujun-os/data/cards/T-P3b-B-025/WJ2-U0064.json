@@ -1,0 +1,326 @@
+{
+  "unit_id": "WJ2-U0064",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0064-01",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "在这个宇宙中死亡是永恒的、生命是短暂的；大部分文化中不存在永恒的生。",
+      "quote": "死亡是永恒的，生命是短暂的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 4994,
+        "end_line": 4994,
+        "sha1": "4e5c0239f29859d82a317c3a28d59f7f4585a1a6",
+        "fingerprint": [
+          "死亡",
+          "生命是短暂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-3"
+      ],
+      "concept_key": "死亡永恒生命短暂",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "宇宙寿命与顶夸克对比的科普叙述（4996-5004）为此卡的例证支撑，按X4处置。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-02",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "人们为应对死亡恐惧创造了天堂、来世、灵魂不死三个自我安慰方法；对死亡的态度影响对现世的态度。",
+      "quote": "三个自我安慰的方法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5008,
+        "end_line": 5008,
+        "sha1": "2566207c8d43284e986abe0cc3dfd0b24eaae5e1",
+        "fingerprint": [
+          "自我安慰",
+          "现世的态度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-4"
+      ],
+      "concept_key": "死亡观塑造现世态度",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "基督教/佛教/古埃及的具体比较叙述按X6处置，机制已入本卡。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-03",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "天堂与来世两种想法都无法证伪，因此很多人对它们深信不疑。",
+      "quote": "这两种想法其实都无法证伪",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5012,
+        "end_line": 5012,
+        "sha1": "846ad5fa34217a8843a24a5af08ec883b0f0883b",
+        "fingerprint": [
+          "无法证伪",
+          "深信不疑"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "无法证伪的论断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键CK-2191；证伪判据在生死观上的应用。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-04",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "文明历程与科学进步证明人不能永生、不会成神、没有来世，这让人老老实实过好现世并思考现世生活的意义。",
+      "quote": "人不能永生，也不会成为神",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5018,
+        "end_line": 5018,
+        "sha1": "722ac5848f151dbb2f328c35658648299e0947cf",
+        "fingerprint": [
+          "永生",
+          "现世"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "无永生则过好现世",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "信念崩塌→转向现世意义的论证链起点。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-05",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "古希腊人认定人生悲剧的底色，反而对现世非常严肃认真，勇敢面对命运、为生命而骄傲。",
+      "quote": "对现世的态度非常严肃认真",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5020,
+        "end_line": 5020,
+        "sha1": "43075d4c913fa10ca654aa12254d276f286979ff",
+        "fingerprint": [
+          "悲剧",
+          "为生命而骄傲"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-4"
+      ],
+      "concept_key": "悲剧底色下认真现世",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "日本生死观/樱花（5030）为类似例证；原话见C-WJ2-U0064-06。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-06",
+      "unit_id": "WJ2-U0064",
+      "speaker": "转述·第三方",
+      "claim_text": "真正的英雄主义，是看透生活的真相后依然热爱生活。",
+      "quote": "看透生活的真相后依然热爱生活",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5020,
+        "end_line": 5020,
+        "sha1": "43075d4c913fa10ca654aa12254d276f286979ff",
+        "fingerprint": [
+          "英雄主义",
+          "热爱生活"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-4",
+        "D02-3"
+      ],
+      "concept_key": "看透真相依然热爱生活",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：罗曼·罗兰；吴军取用概括见C-WJ2-U0064-05。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-07",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "简单延长生命对人类意义不大；从社会进步的角度讲，过长的个体生命是社会进步的大碍。",
+      "quote": "过长的个体生命是社会进步的大碍",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5032,
+        "end_line": 5032,
+        "sha1": "e4c0618a1bf6edac73c591fe397a569824ddfb93",
+        "fingerprint": [
+          "延长生命",
+          "社会进步"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "过长生命碍社会进步",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "另：永生拐点报道“属民科、无根据”为对当时科技预测的批驳，并入本卡notes语境。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-08",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "与其追求永生或多活一两年，不如把目光聚焦有限生命，把几十年活得更有意义。",
+      "quote": "活得更有意义",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5034,
+        "end_line": 5034,
+        "sha1": "ab759d3199654d53574b6722b5a63c357857d17e",
+        "fingerprint": [
+          "有限的生命",
+          "意义"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "活得有意义胜过多活",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "收束永生讨论的价值判断。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-09",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "为自己列人生清单：做完清单上的事这辈子就够本不虚度；不在清单上的事能不做就不做。",
+      "quote": "我就觉得这辈子够本了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5034,
+        "end_line": 5034,
+        "sha1": "ab759d3199654d53574b6722b5a63c357857d17e",
+        "fingerprint": [
+          "清单",
+          "虚度"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D02-3"
+      ],
+      "concept_key": "人生够本清单",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "取舍工具卡；与-08同一论证链（08讲意义，本卡讲方法）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-10",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "世界的发展需要积累而非循环轮回，下一代人生活在这一代人建立的基础上，因此要给后人打一个好一点的基础。",
+      "quote": "世界的发展是需要积累的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5036,
+        "end_line": 5036,
+        "sha1": "e150fc65b223b23349da01a0bfd7dbbdabc7adae",
+        "fingerprint": [
+          "积累",
+          "基础"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D05-2"
+      ],
+      "concept_key": "发展靠积累为后人打基础",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "“绝大部分人死后50年消失”及AI虚拟世界推测并入本卡语境。"
+    },
+    {
+      "claim_id": "C-WJ2-U0064-11",
+      "unit_id": "WJ2-U0064",
+      "speaker": "吴军本人",
+      "claim_text": "人本身的存在就是意义：活着只需关注身体的感受幸福与满足，以及灵魂是否高尚；灵魂是否不朽并不重要。",
+      "quote": "人本身的存在就是意义",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5038,
+        "end_line": 5038,
+        "sha1": "6a0ed50e433a62be2a1db4329179966d46d07654",
+        "fingerprint": [
+          "存在就是意义",
+          "高尚的灵魂"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-4"
+      ],
+      "concept_key": "存在即意义与高尚灵魂",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "回应礼之贤士之问；身体与灵魂两分框架。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0064",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "行4976-4990咚咚锵、礼之贤士读者留言原文，读者发言不进卡。"
+    },
+    {
+      "unit_id": "WJ2-U0064",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "行4996-5004恒星星系宇宙寿命、顶夸克寿命等纯科学科普叙述，无可迁移方法论，仅支撑卡01（已并入notes）。"
+    },
+    {
+      "unit_id": "WJ2-U0064",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "行5010-5018、5030基督教天堂、佛教来世、古埃及灵魂不死、日本樱花等文明生死观比较叙述；可迁移机制已入卡02/03/04/05。"
+    },
+    {
+      "unit_id": "WJ2-U0064",
+      "disposal": "X",
+      "x_subtype": "X8",
+      "reason": "行5022-5028赫格索墓碑艺术赏析（藏品描述），纯赏析无结论句归属。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "回用户信05：吴军就生死与人生意义给出多条可迁移判断（现世意义、证伪、人生清单、存在即意义），成11卡。"
+}

@@ -1,0 +1,186 @@
+{
+  "unit_id": "WJ2-U0031",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0031-01",
+      "unit_id": "WJ2-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "你看到的历史可能是当时书写者希望你看到的，并非历史全貌",
+      "quote": "并非是历史的全貌",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2521,
+        "end_line": 2521,
+        "sha1": "77d7167dc7aacef1f0c9d0feb3858eacc40efe7c",
+        "fingerprint": [
+          "有趣的历史",
+          "历史学家",
+          "全貌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "史书是选择性书写",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0031-03互参（书写机制）"
+    },
+    {
+      "claim_id": "C-WJ2-U0031-02",
+      "unit_id": "WJ2-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "只发生一两次的史实难总结普遍规律；用今天的方法解决今天的具体问题更有效",
+      "quote": "用今天的方法解决今天具体的问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2523,
+        "end_line": 2525,
+        "sha1": "090dd1119bf422d913f8cedc76d7cc8b1c10b399",
+        "fingerprint": [
+          "严谨地验证",
+          "普遍适用的规律",
+          "更加有效"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "一两次史实难成规律",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1661（少样规律不可靠）互参"
+    },
+    {
+      "claim_id": "C-WJ2-U0031-03",
+      "unit_id": "WJ2-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "后朝为前朝修史以合本朝合法性为准，春秋笔法有选择地夸大或隐瞒",
+      "quote": "按照自己的需要做了选择",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2551,
+        "end_line": 2553,
+        "sha1": "841b42bc9f013311869e1d9be11e48d4a0fdf47c",
+        "fingerprint": [
+          "春秋笔法",
+          "统治的合法性",
+          "关陇集团"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "后朝修史遵本朝合法性",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "唐修隋史须肯定关陇集团与隋朝合法性、贬隋炀帝以彰代隋之正当为例"
+    },
+    {
+      "claim_id": "C-WJ2-U0031-04",
+      "unit_id": "WJ2-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "很多历史结论带幸存者偏差；王朝兴衰非全由统治者个人决定",
+      "quote": "都带有幸存者偏差",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2589,
+        "end_line": 2589,
+        "sha1": "5b1e22c4d6e72f09bc03fa75f94a707a9b65e903",
+        "fingerprint": [
+          "偶然",
+          "并不是由他们决定的",
+          "倒大霉"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "历史结论的幸存者偏差",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "宇文邕早逝反事实（若在，统一者非杨坚）与'碰到杨坚式领导要倒大霉'并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0031-05",
+      "unit_id": "WJ2-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "人们惯用结果反推人物英明，并高估帝王个人对历史的作用",
+      "quote": "用结果反过来判断人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2583,
+        "end_line": 2583,
+        "sha1": "0117f2605856d7e3478781ce1d3a8aea9d8d9bf2",
+        "fingerprint": [
+          "高估了君王的作用",
+          "皇帝英明",
+          "昏庸无能"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "因果反转看成功",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沿CK-1378；'统一是民族融合诸事件的自然结果'（第五张饼）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0031-06",
+      "unit_id": "WJ2-U0031",
+      "speaker": "吴军本人",
+      "claim_text": "历史发展是连续的不跳变；短期亡国的危机早在前面就已埋下",
+      "quote": "历史的发展是连续的，不是跳跃的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2579,
+        "end_line": 2579,
+        "sha1": "05d1c3074cb149905c8102c1f189c39aa1f126a3",
+        "fingerprint": [
+          "危机一定是在前面",
+          "二世而亡",
+          "起自高祖"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "历史不跳变",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沿CK-1190；X6候选（文明史叙述），按方法论例外取其认知机理；魏征'起自高祖，成于炀帝'评语并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0031",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "隋文帝/隋炀帝生平重估（残忍度、才能、租粟义仓、《隋书》《资治通鉴》魏征司马光评语）与关陇集团背景介绍为人物史/制度史叙述，可迁移判断已并入卡01-06，未单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第023封信以历史认知方法论成卡6张（E1×6），帝王生平史实记X4"
+}

@@ -1,0 +1,127 @@
+{
+  "unit_id": "WJ2-U0026",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0026-01",
+      "unit_id": "WJ2-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "世上很多事付出后没有回报（如爱情、养育），但依然要付出",
+      "quote": "付出了之后可能是没有回报的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2097,
+        "end_line": 2097,
+        "sha1": "bdfc174b86c97370cdd3482e5aeab9875e6464c1",
+        "fingerprint": [
+          "爱情",
+          "正眼看他一次",
+          "算计"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3"
+      ],
+      "concept_key": "付出无回报仍付出",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "本信标题结论句；'很多该做的事一旦过早考虑回报就不会去做了'(2117)并入本卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0026-02",
+      "unit_id": "WJ2-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "金字塔式培养中绝大多数投入者财务上是失败的，但没有大基座就没有塔尖",
+      "quote": "没有足够大的基座",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2119,
+        "end_line": 2119,
+        "sha1": "4359405762ffb5972fa45e7cb49058178bcd7d59",
+        "fingerprint": [
+          "金字塔",
+          "登顶",
+          "不成功就不投入"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "金字塔基座与塔尖",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "中美奥运金牌成本数据（6亿人民币/15亿美元，时点）并入为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0026-03",
+      "unit_id": "WJ2-U0026",
+      "speaker": "转述·第三方",
+      "claim_text": "学计算机是为掌握计算机思维训练大脑，如同学数学不是为了做数学家",
+      "quote": "学没学过数学，人生是不同的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2135,
+        "end_line": 2135,
+        "sha1": "b659146668ef6a2ca6a3ff8863ef216e8151d621",
+        "fingerprint": [
+          "计算机思维",
+          "训练大脑",
+          "深表赞同"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-2"
+      ],
+      "concept_key": "学思维而非做数学家",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：郭毅可院士（深圳新书发布会答问，吴军称其为听过的最好回答）；吴军取用见C-WJ2-U0026-04"
+    },
+    {
+      "claim_id": "C-WJ2-U0026-04",
+      "unit_id": "WJ2-U0026",
+      "speaker": "吴军本人",
+      "claim_text": "计算机思维方式在工程和投资上都远比普通人的思维方式有效",
+      "quote": "计算机的思维方式",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2135,
+        "end_line": 2135,
+        "sha1": "b659146668ef6a2ca6a3ff8863ef216e8151d621",
+        "fingerprint": [
+          "思维方式",
+          "做工程还是做投资",
+          "有效得多"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "计算机思维的长期价值",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军以自身数学/计算机教育经历对卡03之取用；与C-WJ2-U0026-03互参"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0026",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "生养孩子不算经济账、郑钦文/王蔷培养费、韩国家庭高尔夫投入、曾国家族教育史等亲子教育投资叙述属X5；'教育让人更好更有趣、给孩子教育而非金钱'之论亦在亲子语境，未单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第019封信以'付出与回报'人生观成卡4张（E1×3+E2×1），亲子教育投资叙述记X5"
+}

@@ -1,0 +1,137 @@
+{
+  "unit_id": "WJ2-U0030",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0030-01",
+      "unit_id": "WJ2-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "商品卖高价应多做品牌宣传而非过度包装；品牌未获认可前包装溢价才有些道理",
+      "quote": "多做品牌宣传，而不是过度包装",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2445,
+        "end_line": 2445,
+        "sha1": "1dfdeaa3f7f78126396d77337e5415ab6cf461b6",
+        "fingerprint": [
+          "过度包装",
+          "拉菲",
+          "罗曼尼康帝"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "卖高价靠品牌非包装",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "年份白酒奢侈包装vs拉菲/罗曼尼康帝简装、爱马仕随包对比；'品牌未认可时包装能多卖钱'(2443)并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0030-02",
+      "unit_id": "WJ2-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "降商品售价的两个抓手是降包装费与物流成本；物流压缩有限，厂地近市场则生产成本升",
+      "quote": "降低包装费用和降低物流成本",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2443,
+        "end_line": 2447,
+        "sha1": "41dfb5bc25a7212848ec2a7f04870f59a9c065bf",
+        "fingerprint": [
+          "有效措施",
+          "供应链结构",
+          "生产成本却提高了"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "包装物流双降本",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "领域直连（物流/供应链，pillars D08-1线索信）；宝洁太渍洗衣粉运费高于货值、就近建厂案例并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0030-03",
+      "unit_id": "WJ2-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "企业价值取决于产生自由现金流的能力；产值高而净利润近零的产业对企业主价值为零",
+      "quote": "产生自由现金流的能力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2507,
+        "end_line": 2507,
+        "sha1": "cc18ef886287ff58aa4a5efe05a9e332ccda6a14",
+        "fingerprint": [
+          "净利润近乎为零",
+          "固定资产的投入",
+          "另一回事"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D08-1"
+      ],
+      "concept_key": "产值高不等于价值高",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "回应汽车产业之问（产值高vs公司价值）；与CK-2531（现金流最大化才是价值投资）互参"
+    },
+    {
+      "claim_id": "C-WJ2-U0030-04",
+      "unit_id": "WJ2-U0030",
+      "speaker": "吴军本人",
+      "claim_text": "IT是好行业在于平均工资较高、工作环境好，而非暴富神话；各行业都有暴富者",
+      "quote": "平均工资比较高",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2483,
+        "end_line": 2483,
+        "sha1": "7c947928d4b9e1d7210f4d68ed6cf022192c6044",
+        "fingerprint": [
+          "暴富",
+          "房地产、能源、文娱",
+          "纸面上"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "行业好在于平均待遇",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0017-01（媒体曝光错觉）互参；'媒体只宣传IT暴富、纸面身价'并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0030",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "万国邮联补贴与直邮避税机制、Temu在德国遭抵制、中国医疗待遇偏低与新材料就业等时点性行业/政策评论未成卡"
+    },
+    {
+      "unit_id": "WJ2-U0030",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "'生化环材四大天坑'专业之问与生物（北大清华vs二本概率）、物理（阿波罗后转行）、新材料课程老化等分析属大学与专业选择，按X5排除"
+    },
+    {
+      "unit_id": "WJ2-U0030",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者来信原文（朱朝阳/不谋而合/微笑的特蕾莎三段）为读者发言，仅作问题语境，不单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答04：吴军回应成卡4张（E1×4），时点行业评论/专业选择/读者原文分别记X2/X5/X7"
+}

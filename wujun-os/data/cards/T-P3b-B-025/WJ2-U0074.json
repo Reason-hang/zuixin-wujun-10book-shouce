@@ -1,0 +1,129 @@
+{
+  "unit_id": "WJ2-U0074",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0074-01",
+      "unit_id": "WJ2-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "贫穷限制了想象力：处于低创造能力社会的人（勾践、商鞅）无法想象什么叫富裕。",
+      "quote": "贫穷限制了想象力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5804,
+        "end_line": 5804,
+        "sha1": "4b8b173bf632e6abcaedac951cc5ac40b6c1ed46",
+        "fingerprint": [
+          "想象力",
+          "富裕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-2",
+        "D02-3"
+      ],
+      "concept_key": "贫穷限制想象力",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-3216“贫穷限制维度经验”同族；历史背景（勾践增人口、商鞅重农）按X6处置。"
+    },
+    {
+      "claim_id": "C-WJ2-U0074-02",
+      "unit_id": "WJ2-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "技术可以在不增加资源的前提下创造更多价值：沙子铜线做成集成电路价值增万倍，玻璃做镜头远贵于容器。",
+      "quote": "不增加资源的前提下",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5812,
+        "end_line": 5812,
+        "sha1": "6091b74003ab99f54862a71f8ad697923c19de62",
+        "fingerprint": [
+          "集成电路",
+          "上万倍"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2",
+        "D10-1"
+      ],
+      "concept_key": "技术不增资源创价值",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "承接5804“没有技术突破就没有经济发展、靠科技进步带来新产品和新收入来源”（宏观本体按X6处置）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0074-03",
+      "unit_id": "WJ2-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "享受服务的人数与时间近常数，但服务总价值仍可大幅提升：同样时间的服务，价值可差两个数量级。",
+      "quote": "能创造的价值还有很大的提升空间",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5818,
+        "end_line": 5824,
+        "sha1": "dc419759d31aebe05129dabc3f964e62d91add11",
+        "fingerprint": [
+          "高端餐饮",
+          "园艺师"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "服务价值提升空间",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "三例证：外出就餐升级、报税/园艺等专业服务外包、特种兵游vs高端旅行社。"
+    },
+    {
+      "claim_id": "C-WJ2-U0074-04",
+      "unit_id": "WJ2-U0074",
+      "speaker": "吴军本人",
+      "claim_text": "技术提高服务业效率后单价下降、市场扩大：会计一人从服务10户到四五十户，收入提高单价更便宜，填补人手不足而非抢走工作。",
+      "quote": "填补人手不足的空白",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5826,
+        "end_line": 5826,
+        "sha1": "20683de600de29b346ecf7fe4b086e48cee0ff2d",
+        "fingerprint": [
+          "财务软件",
+          "请不起"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D10-1"
+      ],
+      "concept_key": "提效扩市场不抢岗位",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "AI与就业的总体预测及工业革命就业史按X6处置；本卡取其可迁移的商业机理。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0074",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "行5844-5848苏适同学留言原文，读者发言不进卡。"
+    },
+    {
+      "unit_id": "WJ2-U0074",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "宏观经济与文明史主体：勾践商鞅经济史、人口×人均GDP框架（含冯仑对谈观点转述）、三资源限制、工业革命GDP增幅与三进步方向、全社会劳动简单到复杂、UCL小冰期研究、“用信息换能量”趋势、AI与就业总体预测，均属宏观/史述本体；可迁移判断已提炼为卡-01至-04（依X6例外归D08）。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第060封信：宏观经济叙述按X6处置，抽可迁移判断4卡（贫穷限制想象力、技术不增资源创价值、服务价值提升空间、提效扩市场）。"
+}

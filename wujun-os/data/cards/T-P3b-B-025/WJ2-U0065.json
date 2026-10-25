@@ -1,0 +1,167 @@
+{
+  "unit_id": "WJ2-U0065",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0065-01",
+      "unit_id": "WJ2-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "蓝领不如白领的观念正在改变：社会最终用经济实力说话，用蓝领、白领区分工作已不合适。",
+      "quote": "用蓝领、白领区分工作并不合适",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5064,
+        "end_line": 5064,
+        "sha1": "291d38c2e201d469a6d9dfe93116801504cb4687",
+        "fingerprint": [
+          "经济实力",
+          "观念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "蓝领白领之辨过时",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "概念澄清“蓝领≠制造业，管道维修工属服务业”（5056）并入notes；私立大专毕业生供不应求为例证（5066）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0065-02",
+      "unit_id": "WJ2-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "站在个人角度，读一个没什么用的大学找不到工作，还不如学习一技之长。",
+      "quote": "还不如学习一技之长",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5066,
+        "end_line": 5066,
+        "sha1": "d219041d1a415e4ee90d49f9dc37bbf5c8238365",
+        "fingerprint": [
+          "一技之长",
+          "找不到工作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "一技之长胜过无用学历",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与CK-0475“一技之长与快速学习”同族。"
+    },
+    {
+      "claim_id": "C-WJ2-U0065-03",
+      "unit_id": "WJ2-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "在美国买房三个要素是地点、地点、还是地点；不同地点的房价相差巨大。",
+      "quote": "第二是地点，第三还是地点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5078,
+        "end_line": 5078,
+        "sha1": "25be19cdd9d3fa470ec630e8579d633545f49c89",
+        "fingerprint": [
+          "三个要素",
+          "相差巨大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "买房看地点",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "复用既有概念键CK-0687；例证：帕罗阿图与东帕罗阿图差四五倍。"
+    },
+    {
+      "claim_id": "C-WJ2-U0065-04",
+      "unit_id": "WJ2-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "挑好地点的前两个标准：看学区（好学区与高房价形成正循环）、看邮编（邮编大致代表收入水平）。",
+      "quote": "第一，看学区",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5080,
+        "end_line": 5092,
+        "sha1": "b31c9733a01416c1a25f64d18f4ac69c8b421600",
+        "fingerprint": [
+          "学区",
+          "邮编"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "好地点三标准",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论前两项；第三项见续卡C-WJ2-U0065-05。"
+    },
+    {
+      "claim_id": "C-WJ2-U0065-05",
+      "unit_id": "WJ2-U0065",
+      "speaker": "吴军本人",
+      "claim_text": "挑好地点的第三标准是生活便利性；买房要多看开放参观的房获得一手经验，而不是只听中介介绍。",
+      "quote": "看生活的便利性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5094,
+        "end_line": 5098,
+        "sha1": "8025ba8abb5bfc312b898138c18d34d32579667b",
+        "fingerprint": [
+          "便利性",
+          "一手"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-1"
+      ],
+      "concept_key": "好地点三标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "续卡 of C-WJ2-U0065-04；例证：山景城因通勤便利房价快涨。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0065",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "行5050-5052、5072-5074、5102-5108水门、Flamman Liang、戴征东、kenshin李的提问原文，读者发言不进卡。"
+    },
+    {
+      "unit_id": "WJ2-U0065",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "行5056-5062及5066国家角度部分：初中分流、各国上大学比例、“教育不仅传授知识还有筛选人才的功能”等升学制度议题，按X5处置；其中筛选功能为可迁移机制判断，载体是分流讨论，留P4复核。"
+    },
+    {
+      "unit_id": "WJ2-U0065",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行5110-5114 6G联盟构成与2028测试/2030商用时间表，依附具体时点的技术与产业论断。"
+    },
+    {
+      "unit_id": "WJ2-U0065",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行5116高度近视者用VR、Vision Pro配蔡司镜片等产品适配判断，具体产品时点论断（“第一眼美女”）。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答10：职业观与买房选址方法论成卡（5张），教育与6G/VR部分按X5/X2/X7处置。"
+}

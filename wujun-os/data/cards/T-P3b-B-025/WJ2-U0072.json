@@ -1,0 +1,185 @@
+{
+  "unit_id": "WJ2-U0072",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0072-01",
+      "unit_id": "WJ2-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "控制论的核心思想是两个词：信息（去除噪音找到规律）与反馈（动态地接近目标）。",
+      "quote": "信息和反馈",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5650,
+        "end_line": 5650,
+        "sha1": "8ffdf8ac42fe9f08c02ced7e80a8238d67c662ae",
+        "fingerprint": [
+          "信息",
+          "反馈",
+          "噪音"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D04-2"
+      ],
+      "concept_key": "控制论两核心",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "维纳定义“研究动物和机器的控制和通信”（5612）与开车反馈回路例并入本卡语境。"
+    },
+    {
+      "claim_id": "C-WJ2-U0072-02",
+      "unit_id": "WJ2-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "用控制论解决问题：把问题看成带反馈的系统——已知条件是输入，想要的结果是输出，输出作为反馈再加入输入。",
+      "quote": "带有反馈的系统",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5668,
+        "end_line": 5668,
+        "sha1": "82d67d0ac4f1098ce1b85c4c157690cf342466b2",
+        "fingerprint": [
+          "输入",
+          "输出",
+          "反馈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "反馈系统解题法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "方法论入口；“控制论帮助理解复杂系统运行规律”（5666）为框架句。"
+    },
+    {
+      "claim_id": "C-WJ2-U0072-03",
+      "unit_id": "WJ2-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "机械论无法处理现实大量问题：控制论使偶然性成为科学研究对象；结果必有原因，又经反馈构成自己的原因。",
+      "quote": "偶然性成为科学研究的重要对象",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5658,
+        "end_line": 5662,
+        "sha1": "bffa2dbbdf5ed539e1981f7c9578d976299a5171",
+        "fingerprint": [
+          "机械论",
+          "偶然性"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D01-1"
+      ],
+      "concept_key": "偶然性入科学",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "思想源自维纳（借莱布尼茨因果理论替代牛顿决定论），本卡为吴军概括句；“掌舵的艺术”别名见5660。"
+    },
+    {
+      "claim_id": "C-WJ2-U0072-04",
+      "unit_id": "WJ2-U0072",
+      "speaker": "转述·第三方",
+      "claim_text": "维纳滤波：根据过去数据推知未来结果，消除历史数据中的随机性，去除噪音找到规律，使预测与真实的均方误差最小。",
+      "quote": "去除噪音，找到规律",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5646,
+        "end_line": 5646,
+        "sha1": "b9cd7146e3824dd520d0ab0a2403dc51a67b5541",
+        "fingerprint": [
+          "维纳滤波",
+          "均方误差"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-3",
+        "D04-2"
+      ],
+      "concept_key": "维纳滤波去噪",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：维纳；火炮预测背景（5644）；负反馈让偏差趋零的火炮机制见5648，并入卡-06语境。"
+    },
+    {
+      "claim_id": "C-WJ2-U0072-05",
+      "unit_id": "WJ2-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "正反馈系统输入输出彼此增强、结果不断放大，系统不稳定，但可利用：如利滚利的复利投资。",
+      "quote": "有正反馈的系统并不稳定",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5674,
+        "end_line": 5678,
+        "sha1": "296e56952c734c9ec1924947233e4ab6da44ef4a",
+        "fingerprint": [
+          "正反馈",
+          "麦克风"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "正反馈放大",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：麦克风接喇叭的尖叫；投资回报再投入。"
+    },
+    {
+      "claim_id": "C-WJ2-U0072-06",
+      "unit_id": "WJ2-U0072",
+      "speaker": "吴军本人",
+      "claim_text": "负反馈系统最终收敛：恒定输入收敛到稳定值；波动输入经滤波去噪仍稳定；一次性输入的初值优劣几拍后被系统固有特性掩盖。",
+      "quote": "最终它会收敛到某个值",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5680,
+        "end_line": 5692,
+        "sha1": "ce06c03bcdc027157ecac39a7c9f7dff5dada6e0",
+        "fingerprint": [
+          "负反馈",
+          "收敛",
+          "初值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D04-2"
+      ],
+      "concept_key": "负反馈收敛",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-1217“反馈与渐进收敛”同族；例证：火炮命中（5686）、对冲基金防剧烈震荡（5688）；“初值被掩盖”为后信伏笔。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0072",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "行5614-5644维纳生平履历、清华讲学与华罗庚交往、二战火炮研制史，及5652阿波罗应用史，属人物史/技术史叙述；可迁移方法论已入卡-01至-06。另5634“高压教育法（鸡娃）不推荐”一句属亲子教育，随人物史一并处置，未单独成卡。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第058封信：控制论核心思想与四种反馈机制方法论成6卡（E1五、E2一），维纳生平按X4处置。"
+}

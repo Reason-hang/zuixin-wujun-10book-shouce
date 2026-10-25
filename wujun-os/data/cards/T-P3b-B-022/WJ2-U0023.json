@@ -1,0 +1,104 @@
+{
+  "unit_id": "WJ2-U0023",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0023-01",
+      "unit_id": "WJ2-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "按人文社科答案实际操作，结果不确定不可控，即便当下成功事后也有翻车风险",
+      "quote": "不仅不确定、不可控",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1881,
+        "end_line": 1881,
+        "sha1": "d0641001e4f944e7f18600513c88ec416674f7af",
+        "fingerprint": [
+          "翻车",
+          "人文社科",
+          "实际操作"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "文科答案不可控",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0022-03互参（'时灵时不灵'链的续篇）"
+    },
+    {
+      "claim_id": "C-WJ2-U0023-02",
+      "unit_id": "WJ2-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "人文社科只给出宽泛结论；解决实际问题起作用的是具体实践和策略，而非理论本身",
+      "quote": "具体的实践和策略",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1905,
+        "end_line": 1905,
+        "sha1": "677403ea016fb7724dc39e5e2d5e739b4ac6444c",
+        "fingerprint": [
+          "宽泛的结论",
+          "理论本身",
+          "解决实际问题"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D05-1"
+      ],
+      "concept_key": "理论提供选择用法为要",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0023-03互参"
+    },
+    {
+      "claim_id": "C-WJ2-U0023-03",
+      "unit_id": "WJ2-U0023",
+      "speaker": "吴军本人",
+      "claim_text": "文科结论的价值在于提供一种选择；灵不灵取决于应用的时间、场景、条件及谁来用怎么用",
+      "quote": "看是谁来用、怎么用",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1919,
+        "end_line": 1921,
+        "sha1": "4f7367dde681c61c0c473629cf40f1ee26651353",
+        "fingerprint": [
+          "提供了一种选择",
+          "时间、场景和条件",
+          "金融危机"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D05-1"
+      ],
+      "concept_key": "用法决定成败",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "2008年美国果断干预快愈、欧洲犹豫拖长之对比并入为例证"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0023",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "罗斯福新政史实（存款保险/植树大军/1936-38再衰退）、小福尔索姆书证、'二战救美国'与特克四特点转述、阿根廷（庇隆/米莱）与英国（撒切尔）国别案例为史实/人物史与时点评论，可迁移判断已并入卡01-03，未单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第017封信成卡3张（文科答案方法论），新政与国别史实记X4"
+}

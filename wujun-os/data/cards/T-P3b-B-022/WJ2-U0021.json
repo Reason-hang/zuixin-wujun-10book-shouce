@@ -1,0 +1,188 @@
+{
+  "unit_id": "WJ2-U0021",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0021-01",
+      "unit_id": "WJ2-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "结论对错常只是概率，此时首选的判断标准是价值判断（损益判断）",
+      "quote": "价值判断，或者说损益判断",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1673,
+        "end_line": 1679,
+        "sha1": "1c7b10815b1730ac9e86ee8e542f2beeec681f7b",
+        "fingerprint": [
+          "概率",
+          "灭顶之灾",
+          "可控的损失"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "概率结论用损益判断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全球变暖50%例与癌症20%例并入；彩票/闯红灯反例见C-WJ2-U0021-02"
+    },
+    {
+      "claim_id": "C-WJ2-U0021-02",
+      "unit_id": "WJ2-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "喜得厌失、过分自信、重当下轻长远，三类认知误区毁掉准确的价值判断",
+      "quote": "喜欢得，而厌恶失",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1695,
+        "end_line": 1697,
+        "sha1": "55c3d66060d7e23f05c7ceceedb5ecdd8b2c4975",
+        "fingerprint": [
+          "认知误区",
+          "忘记成本",
+          "长远的利益"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "喜得厌失的判断误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "彩票vs车祸概率数据、绝症两种治疗方案之例并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0021-03",
+      "unit_id": "WJ2-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "判断结论真伪应从事实出发对结论本身作判断，而不是根据谁说的",
+      "quote": "而不是根据谁说的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1705,
+        "end_line": 1705,
+        "sha1": "746fbedb08e3bec17e51d2a79265ec1b01c84f72",
+        "fingerprint": [
+          "从事实出发",
+          "判断力",
+          "退而求其次"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "对结论本身作判断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "诉诸大众/诉诸权威两谬误（《逻辑思维训练》知识点）为其语境"
+    },
+    {
+      "claim_id": "C-WJ2-U0021-04",
+      "unit_id": "WJ2-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "统计上权威意见远比大众准确；无法自行客观判断时宁可信权威",
+      "quote": "宁可信权威的意见",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1717,
+        "end_line": 1719,
+        "sha1": "0c834e867660406f22db6b6b96009b4f7ea4efef",
+        "fingerprint": [
+          "统计数据",
+          "压倒权威人士的声音",
+          "准确得多"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "权威胜过大众",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沿CK-2325；'今天比信权威更危险的是诉诸大众'(1707)与信息差/专业门槛两原因、杨立昆李飞飞AI评论（时点例）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0021-05",
+      "unit_id": "WJ2-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "两种情况权威常错：高度随机领域的判断；观点受巨大利益影响之时",
+      "quote": "权威的意见经常是错的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1723,
+        "end_line": 1727,
+        "sha1": "c75e3db4cc5bbeb0fbe32ae188b5383dda426572",
+        "fingerprint": [
+          "随机性",
+          "违背常识",
+          "利令智昏"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "权威失准两情形",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "'不是笨而是坏、不是无知而是无耻'并入；摩根斯坦利/高盛2020-2024预测案例（时点论断）并入为例证"
+    },
+    {
+      "claim_id": "C-WJ2-U0021-06",
+      "unit_id": "WJ2-U0021",
+      "speaker": "吴军本人",
+      "claim_text": "判断四步：能自判则自判；次选常识；大众权威相左且无利益冲突则信权威；无人能判则不纠结",
+      "quote": "不要纠结了，接受自然的结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1731,
+        "end_line": 1739,
+        "sha1": "9f079c5432d46c2d448351591212c1a22a8142a7",
+        "fingerprint": [
+          "常识",
+          "利益冲突",
+          "白费力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "信谁的四步判断",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "清单式方法论整体一卡；'人不是神，该原谅自己判断上的错误'(1741)并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0021",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "摩根斯坦利/高盛2020-2024美国经济预测成败之论断属时点性评论，未单独成卡（并入C-WJ2-U0021-05为例证）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第015封信判断方法论成卡6张，投行预测时点论断记X2"
+}

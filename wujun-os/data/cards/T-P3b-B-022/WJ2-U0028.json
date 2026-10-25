@@ -1,0 +1,149 @@
+{
+  "unit_id": "WJ2-U0028",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0028-01",
+      "unit_id": "WJ2-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "以原材料成本断定商品暴利不合逻辑：价格还含软件、研发摊销与场地资金成本",
+      "quote": "以原材料成本判断商品价格",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2269,
+        "end_line": 2269,
+        "sha1": "6ff974a76cd240c9c15cc6ccff4aadcdd4d00daa",
+        "fingerprint": [
+          "20-25%",
+          "并不符合逻辑",
+          "一次性投入"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "成本不止原材料",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "苹果利润率20-25%估算与迪士尼玩具吐槽为例；'蹭流量者非蠢即坏'之评并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0028-02",
+      "unit_id": "WJ2-U0028",
+      "speaker": "转述·第三方",
+      "claim_text": "看不见的手：自利动机经竞争产出公益结果，价格不会长期偏离价值",
+      "quote": "看不见的手",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2309,
+        "end_line": 2315,
+        "sha1": "d7d7c0f846ce4b064a402934bcd7b77bcb39941a",
+        "fingerprint": [
+          "重新分配社会资源",
+          "追求自身利益",
+          "促进社会的利益"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "看不见的手",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：亚当·斯密（《国富论》及晚餐/屠户引文）；'充分竞争下企业利润有限'之今日经济学补充(2307)并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0028-03",
+      "unit_id": "WJ2-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "商品价值除直接劳动外还包括资本、生产资料、土地等既往劳动；价格另受风险与交易成本影响",
+      "quote": "市场风险、交易成本等多种因素",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2321,
+        "end_line": 2325,
+        "sha1": "d060bacf65cdc022b27c2d9822d5fe3d3a0ba95f",
+        "fingerprint": [
+          "李嘉图",
+          "供求关系",
+          "流通环节"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-2"
+      ],
+      "concept_key": "价值构成多要素",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军对斯密之后价值理论完善的概括（R1总结句成卡）；货款难收涨价、白菜损耗计价两例并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0028-04",
+      "unit_id": "WJ2-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "个人价值按劳动量而非劳动行为计；想挣钱多须做复杂劳动并成为熟练工",
+      "quote": "出工不出力的劳动",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2327,
+        "end_line": 2331,
+        "sha1": "3ca8ff7744be7e4f12755078d8f612c07141d1ce",
+        "fingerprint": [
+          "劳动量",
+          "复杂的劳动",
+          "熟练工"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "劳动量与复杂劳动",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "信末对个人的启示总结句；斯密'复杂劳动倍数简单劳动'之学理（2299-2301）并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0028-05",
+      "unit_id": "WJ2-U0028",
+      "speaker": "吴军本人",
+      "claim_text": "挣钱是光彩的事，商业是最好的慈善，不必为赚钱动机不好意思",
+      "quote": "商业是最好的慈善",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2331,
+        "end_line": 2331,
+        "sha1": "4aa80e189573a3ba9cc26743acab619c6071d60a",
+        "fingerprint": [
+          "光彩的事情",
+          "赚钱的动机",
+          "不好意思"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "商业是最好的慈善",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0028-02看不见的手（利己→公益）互参"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0028",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "亚里士多德使用/交换价值、阿奎那劳动价值论雏形、斯密生平与海狸换鹿例等经济思想史/人物史叙述未单独成卡，其可迁移机理已并入卡02-04"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第021封信定价底层逻辑成卡5张（E1×4+E2×1），思想史叙述记X4；本信为D08-2素材线索信"
+}

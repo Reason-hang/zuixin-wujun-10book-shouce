@@ -1,0 +1,194 @@
+{
+  "unit_id": "WJ2-U0024",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0024-01",
+      "unit_id": "WJ2-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "投资不是赌赛道：投资是把资本与经济产出对接、发挥生产要素作用，不是赌博",
+      "quote": "投资不是赌博",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1939,
+        "end_line": 1941,
+        "sha1": "26b78c40cef31380a94eaf0bfb9673c04ce37574",
+        "fingerprint": [
+          "赌赛道",
+          "生产要素",
+          "经济产出"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资不是赌赛道",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "'大部分赌赛道的投资人都失败了'之风投语境并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0024-02",
+      "unit_id": "WJ2-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "想问题先把基本事实搞清楚，事实清楚了问题往往就有答案；勿以'据说'为据",
+      "quote": "先把基本的事实搞清楚",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1975,
+        "end_line": 1979,
+        "sha1": "d99d829f679f8601288310c33fd6a9cdee3cf1e0",
+        "fingerprint": [
+          "基本的事实",
+          "据说",
+          "杜撰的理由"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "先把事实搞清楚",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "亚马逊成立/盈利/上市融资4800万等史实更正（1971-1977）并入为例证；'任何据说的问题都不要拿出来问'并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0024-03",
+      "unit_id": "WJ2-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "凡事要从自己身上找原因，不要找不准确甚至杜撰的理由为自己开脱",
+      "quote": "从自己身上找原因",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1979,
+        "end_line": 1981,
+        "sha1": "700149964d1ba81e110045fb3ff236692dd30a7d",
+        "fingerprint": [
+          "自己身上找原因",
+          "孙正义",
+          "开脱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "成败归因自身",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "'没有孙正义还有张正义；王云赵云遇孙正义也没用'之马云反例并入；与CK-0218（35岁危机归因自身）互参"
+    },
+    {
+      "claim_id": "C-WJ2-U0024-04",
+      "unit_id": "WJ2-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "账面亏损与现金流为负是两回事；股权激励成本使科技公司看似亏损而现金流为正",
+      "quote": "两个不同的概念",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1983,
+        "end_line": 1983,
+        "sha1": "57b14c5f341f1a89b009c4d044c7f29744d38439",
+        "fingerprint": [
+          "期权和限制性股票",
+          "真金白银",
+          "自由现金流都是正的"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "账面亏损不等于现金流为负",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "亚马逊现金流案例并入；与CK-2999/3000（自由现金流概念）互参"
+    },
+    {
+      "claim_id": "C-WJ2-U0024-05",
+      "unit_id": "WJ2-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "利用技术与掌握技术是两回事：会开车是利用，会造车才是掌握",
+      "quote": "会造车是掌握技术",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1997,
+        "end_line": 1997,
+        "sha1": "13d14c90bc68efba76357b3cf6f1e163e33754a9",
+        "fingerprint": [
+          "差别很大",
+          "利用技术",
+          "掌握技术"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D04-2"
+      ],
+      "concept_key": "利用与掌握技术之别",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "'工业革命后就业上升/制造业比例降/服务业唯一出路'两要点属宏观趋势（X6）并入本卡语境；预告后信展开"
+    },
+    {
+      "claim_id": "C-WJ2-U0024-06",
+      "unit_id": "WJ2-U0024",
+      "speaker": "吴军本人",
+      "claim_text": "出海做品牌要靠产品质量与口碑相传，避免广告轰炸式内卷",
+      "quote": "走安克的道路",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1957,
+        "end_line": 1959,
+        "sha1": "c3c17c71833c9cfdf89e847492a294bc86ccf783",
+        "fingerprint": [
+          "口碑相传",
+          "安克",
+          "内卷"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "出海靠质量口碑",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "安克100瓦充电器85美元/无广告口碑 vs Shein·Temu广告轰炸（专名案例承载机理，E3候选并入）；与CK-3499靠作品而非炒作互参"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0024",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "跨境电商'小额豁免'政策收紧、Shein/Temu前景与遭抵制等时点性行情政策判断未成卡（跨境电商整体增长、须关注政策变化之结论亦属时点判断）"
+    },
+    {
+      "unit_id": "WJ2-U0024",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "'工业革命后总就业上升、制造实物人数比例下降、服务业是唯一出路'为宏观趋势叙述，并入C-WJ2-U0024-05语境不另成卡"
+    },
+    {
+      "unit_id": "WJ2-U0024",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "读者来信原文（lxw832356/邓文达/Chongkai三段）为读者发言，仅作问题语境，不单独成卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答03：吴军回应成卡6张（E1×6），行情/宏观/读者原文分别记X2/X6/X7"
+}

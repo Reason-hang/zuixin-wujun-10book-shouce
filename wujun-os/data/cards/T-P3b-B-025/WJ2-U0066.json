@@ -1,0 +1,257 @@
+{
+  "unit_id": "WJ2-U0066",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0066-01",
+      "unit_id": "WJ2-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "投资场上比的不是知识和技能，最后比的是人性；很多人注定发不了财，是因为财商太低。",
+      "quote": "最后比的是人性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5128,
+        "end_line": 5128,
+        "sha1": "687b4c9baada119972eac305e6182c9cc4bb82bc",
+        "fingerprint": [
+          "人性",
+          "财商"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2",
+        "D09-1"
+      ],
+      "concept_key": "投资成败看人性",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "复用既有概念键CK-1959（WJ2他批次已建）；财商比“人性”更准确。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-02",
+      "unit_id": "WJ2-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "财商包括两方面能力：对财富本质的认知，和驾驭财富的能力。",
+      "quote": "对财富本质的认知",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5130,
+        "end_line": 5130,
+        "sha1": "6f65bb0711a94ee23cf66662068d7b2d2bb8807d",
+        "fingerprint": [
+          "财商",
+          "驾驭财富"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "财商两能力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "全信框架性定义。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-03",
+      "unit_id": "WJ2-U0066",
+      "speaker": "转述·第三方",
+      "claim_text": "2014-15牛市18个月小散户平均损失28％，超大散户获31％，牛市不等于散户轻松获利。",
+      "quote": "牛市并不一定意味着能够轻松获利",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5164,
+        "end_line": 5170,
+        "sha1": "5534f5ba59910fd08c224cb68f0d58d0218051a4",
+        "fingerprint": [
+          "牛市",
+          "28％",
+          "31％"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "牛市散户亏钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：论文《泡沫与崩溃中的财富转移》作者（Li An、Dong Lou、Donghui Shi）；行情数据本体按X2处置。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-04",
+      "unit_id": "WJ2-U0066",
+      "speaker": "转述·第三方",
+      "claim_text": "看到牛市怕错过泼天富贵的新手最易损失财富：新进入者仅占投资资本18％，却构成被转移财富的30％。",
+      "quote": "生怕自己错过了泼天富贵",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5174,
+        "end_line": 5176,
+        "sha1": "7127f4fb35673ad25658f6fc7906f1478e82f662",
+        "fingerprint": [
+          "新进入者",
+          "泼天富贵"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2",
+        "D03-2"
+      ],
+      "concept_key": "新手牛市损失最重",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：同上论文作者；该现象基本不出现在资本市场历史悠久的国家（5176）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-05",
+      "unit_id": "WJ2-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "小散户简直是市场的反指数：当你和绝大部分人的想法与操作一样时，往往很难在股市获得理想收益。",
+      "quote": "往往很难在股市上获得理想的收益",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5172,
+        "end_line": 5172,
+        "sha1": "6da676b7f4b7c597b2a1c9a414c07dc48fefd257",
+        "fingerprint": [
+          "反指数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "散户是市场反指数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "吴军基于论文图示的引申结论；原论文结论见卡-03/-04。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-06",
+      "unit_id": "WJ2-U0066",
+      "speaker": "转述·第三方",
+      "claim_text": "超大散户操作与股指一致（涨时买、跌时离场）；散户相反：挣点就退、高位再进、下跌抄底。",
+      "quote": "上涨的时候买涨，下跌的时候离场",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5180,
+        "end_line": 5184,
+        "sha1": "ec9d973fa8cd8d3ce1bbf280de9cc4801b268c92",
+        "fingerprint": [
+          "抄底",
+          "高位再进场"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "大户顺指数散户逆势",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：吴军的资深财经大V朋友（不愿具名）；其还指出小散户资金占比2008-2024从约1/2降至不到10%，损失主要发生在三次牛市（5182-5184）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-07",
+      "unit_id": "WJ2-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "三个结论：小散户资金流向更专业投资者；新兴市场上小散户更易处于博弈劣势；绝大多数散户无法摆脱和市场对着干的想法。",
+      "quote": "和市场对着干的想法",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5192,
+        "end_line": 5192,
+        "sha1": "a822936a1ad625e316ed5c22f66d5f5b4261d4c3",
+        "fingerprint": [
+          "小散户",
+          "新兴市场"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "散户博弈三结论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军对论文发现的总结提炼；对应财商认知与驾驭两缺陷（5194）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-08",
+      "unit_id": "WJ2-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "财商和智商一样不太容易后天培养；知道自己财商不高，就特别要谨慎行事。",
+      "quote": "不太容易后天培养",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5260,
+        "end_line": 5260,
+        "sha1": "7552f10fc920ecf29178d2265eee2b8a647ae914",
+        "fingerprint": [
+          "财商",
+          "智商"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D03-2"
+      ],
+      "concept_key": "财商难培养须谨慎",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与“智商不高就别做烧脑工作”同构。"
+    },
+    {
+      "claim_id": "C-WJ2-U0066-09",
+      "unit_id": "WJ2-U0066",
+      "speaker": "吴军本人",
+      "claim_text": "世界上成功的机会很多，一定要找那些适合自己特点的事情去做。",
+      "quote": "适合自己特点的事情",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5260,
+        "end_line": 5260,
+        "sha1": "7552f10fc920ecf29178d2265eee2b8a647ae914",
+        "fingerprint": [
+          "机会",
+          "特点"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-3"
+      ],
+      "concept_key": "找适合自己特点的事",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "承接财商话题的一般化职业判断。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0066",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行5148-5170 2014-15中国股市行情复盘的具体数据叙述（2500亿/2000亿转移、账户分类占比等），依附具体行情时点；可迁移判断已提炼为卡-03/-04/-05。"
+    },
+    {
+      "unit_id": "WJ2-U0066",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "行5196-5258与5264-5308财商五问测试卷及评分标准属运营互动/测试内容，按批次特则记X1；评分倾向（定投股指6分、炒股-2分等）属测试设计不入主干。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第053封信：财商定义与论文研究结论转述成卡（9张：E1六张、E2三张），测试卷与行情数据按X1/X2处置。"
+}

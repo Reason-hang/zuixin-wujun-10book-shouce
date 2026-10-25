@@ -1,0 +1,215 @@
+{
+  "unit_id": "WJ2-U0075",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0075-01",
+      "unit_id": "WJ2-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "靠内部解决烂账坏账永远办不到：经手人会隐瞒；负责任的做法是请外部第三方清算，该追的追该平的平，短期亏损换轻装上阵。",
+      "quote": "永远办不到",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5876,
+        "end_line": 5880,
+        "sha1": "d1642ecb6a1672e35b25f6b545dc3a86bfe32cbf",
+        "fingerprint": [
+          "烂账",
+          "第三方"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D04-3"
+      ],
+      "concept_key": "烂账须外部清理",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "银行例证；推广至亏损企业靠外部力量扭亏为盈（5882）；政府类比见卡-02。"
+    },
+    {
+      "claim_id": "C-WJ2-U0075-02",
+      "unit_id": "WJ2-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "封闭系统（反馈小于1又无外部输入）输出越来越少终将垮掉；改进系统使反馈达到1很难，人们惯用不断输血的偷懒办法。",
+      "quote": "输出越来越少",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5882,
+        "end_line": 5888,
+        "sha1": "8e28f78d6568a3a817b0cf6250522094cdd4d09b",
+        "fingerprint": [
+          "封闭的系统",
+          "输血"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "封闭系统输血模型",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "借债输血非长久之计（政府例，5894）并入本卡语境；与C-WJ2-U0072-06负反馈收敛互引。"
+    },
+    {
+      "claim_id": "C-WJ2-U0075-03",
+      "unit_id": "WJ2-U0075",
+      "speaker": "转述·第三方",
+      "claim_text": "福山三理由：联邦雇员数与几十年前相当、部分部门人手不足；效率低源于招聘制约与机构养老化；涉国家利益不能像私企随意裁员。",
+      "quote": "是走错了方向",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5908,
+        "end_line": 5912,
+        "sha1": "b51b6c3edf22b4eaed39cddec8263cebec64e83b",
+        "fingerprint": [
+          "人手不足",
+          "养老场所"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "福山反对裁员省钱",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：弗朗西斯·福山（公开信，全文见5940-5968按X7处置）；医保部门6400人管1.4万亿美元为例。"
+    },
+    {
+      "claim_id": "C-WJ2-U0075-04",
+      "unit_id": "WJ2-U0075",
+      "speaker": "转述·第三方",
+      "claim_text": "经济学家怀疑大幅裁员：被裁联邦雇员很难找到工作，失业率数字难看，届时特朗普政府其他阁员甚至特朗普本人都会反对。",
+      "quote": "很难找到工作",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5914,
+        "end_line": 5914,
+        "sha1": "6f21307fb11c3bc7230345d165b58b1b735633d1",
+        "fingerprint": [
+          "失业率",
+          "反对"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "裁员失业反噬论",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：一些经济学家（未具名）；支撑双输出框架（卡-05）的政治约束例。"
+    },
+    {
+      "claim_id": "C-WJ2-U0075-05",
+      "unit_id": "WJ2-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "双输出系统：优化一个输出会损害另一个；企业优化后可把被裁者推向社会，政府不能——失去的功能无补救，人员最终仍是社会负担。",
+      "quote": "会损害其他方面的考量",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5922,
+        "end_line": 5924,
+        "sha1": "cb86015e0e5810cb445138542b4a09bf855b4e4a",
+        "fingerprint": [
+          "两个输出",
+          "失业率"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D08-1"
+      ],
+      "concept_key": "双输出系统",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "输出一=经济考量、输出二=失业率等社会考量；企业是局部、政府是整体；“优化一个会损害另一个”复述见5926。"
+    },
+    {
+      "claim_id": "C-WJ2-U0075-06",
+      "unit_id": "WJ2-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "双输出两解法：排序后干脆牺牲一个（米莱式，仅绝境使用）；或改变前先找好替代（里根撒切尔式），承受短期动荡慢慢调整。",
+      "quote": "先找好替代",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5926,
+        "end_line": 5930,
+        "sha1": "525b530baf015a553a0ea5ab138da83513854045",
+        "fingerprint": [
+          "休克疗法",
+          "替代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D03-1"
+      ],
+      "concept_key": "双输出两解法",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例证：阿根廷通胀6.4%降至2.7%、里根前两年动荡后16年政策延续；育儿中成绩与全面发展同理（5936，应用例并入notes）；特朗普四年时间约束（5932）为时政注脚。"
+    },
+    {
+      "claim_id": "C-WJ2-U0075-07",
+      "unit_id": "WJ2-U0075",
+      "speaker": "吴军本人",
+      "claim_text": "很多不合理的事真要改变会非常难：吴军自述30年前倾向大刀阔斧改革，如今对这类事常摇摇头说随它去吧。",
+      "quote": "说随它去吧",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5934,
+        "end_line": 5934,
+        "sha1": "3c4edd5e667c8bc86cde86ac8d5eeb2ca7aac362",
+        "fingerprint": [
+          "大刀阔斧",
+          "随它去吧"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-3"
+      ],
+      "concept_key": "改革之难与心态转变",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "经历→判断卡：以五角大楼冗员为例；对照本信诸分析仍给出两种解法（卡-06）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0075",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "马斯克削减两万亿赤字计划、联邦雇员230万/国防部77万等数字、77%可省计算、里根“幸福研究”笑话、猴子变性研究、政府效率部双部长、特朗普四年任期约束等时政本体（5856-5870、5894-5902、5932）；可迁移框架已入卡-01/-02/-05/-06。"
+    },
+    {
+      "unit_id": "WJ2-U0075",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "行5940-5968福山致马斯克公开信全文（第三方引文）；吴军对其论点的转述提炼已入卡-03。"
+    },
+    {
+      "unit_id": "WJ2-U0075",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "行5864福山生平与《历史的终结》介绍，属人物史叙述，无可迁移方法论。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第061封信：控制论分析政府改革，抽双输出系统及两解法等可迁移判断7卡（E1五、E2二），时政本体与福山信按X2/X7/X4处置。"
+}

@@ -1,0 +1,219 @@
+{
+  "unit_id": "WJ2-U0068",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0068-01",
+      "unit_id": "WJ2-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "职场义气靠不住：讲义气等于给自己贴派系标签，领导一走就得罪人、难免被清算。",
+      "quote": "义气这种东西根本靠不住",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5388,
+        "end_line": 5390,
+        "sha1": "4a7ec7c8f054ee8cccbc21b5652c34a04c39175b",
+        "fingerprint": [
+          "义气",
+          "贴上标签"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D07-2"
+      ],
+      "concept_key": "职场义气靠不住",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：那伟对老板忠诚仍被开除；对下属讲义气——公司决定开除下属，个人不必有罪恶感、不必站在中间（5394）；央视主持人创业失败印证资源是平台的（5396，另见C-WJ2-U0067-03）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-02",
+      "unit_id": "WJ2-U0068",
+      "speaker": "史实",
+      "claim_text": "曾国藩不结派系自保：曾被当作穆彰阿党受冷落，故不写信讨好肃顺，慈禧清除肃顺余党时未受牵连。",
+      "quote": "唯独曾国藩没有",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5392,
+        "end_line": 5392,
+        "sha1": "7254cd67be37c3443df6996cac619eaa570e9f7e",
+        "fingerprint": [
+          "肃顺",
+          "穆彰阿"
+        ]
+      },
+      "evidence_level": "E3",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "曾国藩不结派",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "专名案例+可迁移机理（不依附派系避免连坐），支撑卡-01；今日“张总的人李总的人”同构。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-03",
+      "unit_id": "WJ2-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "职场最重要的是合作关系：利益面前按规矩做事不损人利己；找不到共同利益不强求合作；由小到大合作、考察信守合同后再长期维持。",
+      "quote": "不要强求合作",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5400,
+        "end_line": 5406,
+        "sha1": "6acfdae714f72d1508adb02ba86a0226144bb2e5",
+        "fingerprint": [
+          "合作关系",
+          "由小到大",
+          "信守合同"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2",
+        "D08-1"
+      ],
+      "concept_key": "合作按规矩由小到大",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "清单式方法论；“酒桌朋友”对照；赔本赚吆喝的生意不能接（5400）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-04",
+      "unit_id": "WJ2-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "支付纪律：要定金（共担风险+考察支付能力）；对方哭穷不心软，先顾员工家人；公益用自己的钱做。",
+      "quote": "宁可让自己的家人受苦",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5402,
+        "end_line": 5404,
+        "sha1": "d301d73a8c625e71b1921400b0f3017eb826c3ad",
+        "fingerprint": [
+          "定金",
+          "心软"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D08-1",
+        "D09-1"
+      ],
+      "concept_key": "定金与支付纪律",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "“维持脸面照顾八杆子打不着的伙伴”“宁可让家人受苦”为反例；假公益是常见骗局，勿用供应方的钱做公益。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-05",
+      "unit_id": "WJ2-U0068",
+      "speaker": "转述·第三方",
+      "claim_text": "寻找合作伙伴和目标客户一开始就要筛选对方过去的支付能力与诚信记录，有问题即停止谈判，把时间花在找其他伙伴上。",
+      "quote": "支付能力和诚信记录",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5408,
+        "end_line": 5410,
+        "sha1": "aacbd5b8a92bbad2acc1413cd81746c2f62e7dd6",
+        "fingerprint": [
+          "筛选",
+          "时间窗"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "筛选支付能力与诚信",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：硅谷某上市公司创始人（孵化器辅导课）；吴军补充：初创机会时间窗有限，什么生意都想做会陷入无底洞与沉没成本（5410）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-06",
+      "unit_id": "WJ2-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "好心、同情心与公司规章制度是两回事：不能以恻隐之心为由违反公司规定，闯祸后承担责任的是你，感激弥补不了损失。",
+      "quote": "承担责任的是你而不是他",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5422,
+        "end_line": 5422,
+        "sha1": "fa00de1710d966f6bc048b2ebd817f75ae3d6cd5",
+        "fingerprint": [
+          "恻隐之心",
+          "违反公司的规定"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D06-2"
+      ],
+      "concept_key": "好心不代规章制度",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：沈琳出于同情推荐已婚未育候选人被作替罪羊解职；公司歧视性政策违法与执行规定是两个层面；命题句见5414。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-07",
+      "unit_id": "WJ2-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "上上级交代的事情，无论做与不做都要告知直接上级，让对方感到没有威胁。",
+      "quote": "让对方感到没有威胁",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5426,
+        "end_line": 5428,
+        "sha1": "b4e9e7cae6019ad8693f5c3035ee31831d3e0329",
+        "fingerprint": [
+          "直接上级",
+          "穿小鞋"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3"
+      ],
+      "concept_key": "上上级事务告知直接上级",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "处理双重上级关系的战术；三种通常做法（换部门/混日子/取代上级）视情况而定（5428，notes）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0068-08",
+      "unit_id": "WJ2-U0068",
+      "speaker": "吴军本人",
+      "claim_text": "被排挤时混日子等待转机可能不是坏选择：零不是最小的数；但混日子时不要真摸鱼，要借机练习内功。",
+      "quote": "要借机练习内功",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5430,
+        "end_line": 5430,
+        "sha1": "c45dd63736ea4b7263583d0b8bb1ea2575f59a0f",
+        "fingerprint": [
+          "混日子",
+          "负数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-3",
+        "D06-1"
+      ],
+      "concept_key": "混日子练内功",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "企业内部变化频繁，生存下去一两个季度到一年或有转机；“负数”呼应C-WJ2-U0067-08。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第055封信：职场三注意事项（义气/合作/规章制度/上级关系）判断成8卡，《凡人歌》剧情作例证入notes。"
+}

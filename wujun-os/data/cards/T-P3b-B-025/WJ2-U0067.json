@@ -1,0 +1,219 @@
+{
+  "unit_id": "WJ2-U0067",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0067-01",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "外表光鲜的人与赤贫状态的距离没有多远：不记账的家庭可能早已现金流为负、入不敷出。",
+      "quote": "和赤贫状态之间的距离没有多远",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5324,
+        "end_line": 5328,
+        "sha1": "bc7f073cd85bebf5a40993b543de1341406daa7d",
+        "fingerprint": [
+          "外表光鲜",
+          "赤贫"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "光鲜与赤贫一步之遥",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：《凡人歌》那伟家庭月支出3.1万账单、年薪50万实为月光；买不断贬值的宝马不理性（5360）同属负现金流下的消费误判。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-02",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "未上市公司的期权只是纸面财富，不能计入真正的资产；其价值需外部第三方给出，50万现金优于纸面千万期权。",
+      "quote": "不能计入真正的资产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5358,
+        "end_line": 5358,
+        "sha1": "7fb157483bb1ee39efd8cae172faa85457f9e1cb",
+        "fingerprint": [
+          "期权",
+          "非流动性资产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D09-2"
+      ],
+      "concept_key": "纸面财富非真资产",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：那伟把1000万期权当真财富；融资失败、创始人跑后期权价值归零。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-03",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "常见职场误判一：把公司的资源看成自己的能力；靠公司出钱换来的人脉是假象。",
+      "quote": "把公司的资源看成自己的能力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5338,
+        "end_line": 5338,
+        "sha1": "8d019d981bd565be36bcff971a2448e4abf9cc3e",
+        "fingerprint": [
+          "人脉",
+          "假的"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "人脉依赖组织光环",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "复用既有概念键CK-0758；例证：那伟的市场推广部门对外是别人求它。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-04",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "常见职场误判二：把过时的技能当成核心竞争力；忠诚和挡酒不算专长，老板可能只是利用下属的忠诚。",
+      "quote": "把过时的技能当成核心竞争力",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5340,
+        "end_line": 5340,
+        "sha1": "601a5e1b43711a43155e2c05b69674a7712851a6",
+        "fingerprint": [
+          "核心竞争力",
+          "挡酒"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1"
+      ],
+      "concept_key": "过时技能非核心竞争力",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "与CK-1510“契约关系非忠诚”同族；无特长者在公司生变时毫无危机感是连锁错误（5344）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-05",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "羞于向人开口要钱是要不得的毛病：碍于情面不催收，对方就真的赖账。",
+      "quote": "羞于向人开口要钱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5362,
+        "end_line": 5362,
+        "sha1": "949a04eea42915bc9058c59ad69274a6d4861fd5",
+        "fingerprint": [
+          "要钱",
+          "赖"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1",
+        "D07-1"
+      ],
+      "concept_key": "羞于开口要钱之弊",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "例证：那伟卖车给亲戚也不好意思要钱。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-06",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "未来的挣钱能力可能随年限往下走而非一直增长；过了挣钱峰值就要习惯节俭，不能大手大脚。",
+      "quote": "也可能会往下走",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5364,
+        "end_line": 5364,
+        "sha1": "ead35e0a9561070dcb86d4a37d19054d7df49f72",
+        "fingerprint": [
+          "挣钱能力",
+          "节俭"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "挣钱能力会下行须节俭",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：美国外科医生过50岁就习惯节俭过日子。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-07",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "要懂沉没成本：不该为保住靠不住的工作投入真金白银；对方未变卦前，一切现钱落袋为安是上策。",
+      "quote": "一切现钱落袋为安是上策",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5366,
+        "end_line": 5366,
+        "sha1": "2247ebb8b79e5c8c58a010d8daf4ed944dba115c",
+        "fingerprint": [
+          "沉没成本",
+          "真金白银"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D09-2"
+      ],
+      "concept_key": "沉没成本误区",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "复用既有概念键CK-2413；落袋为安亦见CK-3032；例证：那伟为保工作私了80万。"
+    },
+    {
+      "claim_id": "C-WJ2-U0067-08",
+      "unit_id": "WJ2-U0067",
+      "speaker": "吴军本人",
+      "claim_text": "要懂得有负数：付出劳动可能收获为零甚至为负；生意以赚钱与否而非成败考量，亏本买卖不做，勿靠付款让步抢生意。",
+      "quote": "任何亏本的买卖都不要做",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5368,
+        "end_line": 5370,
+        "sha1": "98efa9b70e3b0f9be053f5304fb4d948d6f9a9c7",
+        "fingerprint": [
+          "负数",
+          "亏本的买卖"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-2",
+        "D08-1"
+      ],
+      "concept_key": "负数思维",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "复用既有概念键CK-3187；“零不是最小的数，还有负数”（5350）互证；靠让步竞争等于放弃提高产品与服务质量（5370）；例证：不签合同被白拿方案、干活垫钱收入为负。"
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第054封信：借《凡人歌》那伟案例总结缺乏财商的表现，剧情叙述作例证并入各卡notes，吴军判断成8卡。"
+}

@@ -1,0 +1,241 @@
+{
+  "unit_id": "WJ2-U0029",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0029-01",
+      "unit_id": "WJ2-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "该信谁的话？谁讲理就信谁，讲理的核心是讲逻辑",
+      "quote": "谁讲理，我们就信谁",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2343,
+        "end_line": 2343,
+        "sha1": "b23483c6d9c95c852a07c119945b5deef68cb3bb",
+        "fingerprint": [
+          "讲理",
+          "讲逻辑",
+          "知识过载"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D07-1"
+      ],
+      "concept_key": "谁讲理信谁",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "本信为pillars中D07-1素材线索信（来信2讲逻辑的人如何表达思想），按结论句测试主归D01-1、辅助D07-1"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-02",
+      "unit_id": "WJ2-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "任何结论都要从站得住脚的前提层层推出，最终归结到不证自明的公理",
+      "quote": "归结到一些不证自明的公理",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2367,
+        "end_line": 2367,
+        "sha1": "12fdb672a1ea22955a280b0f00bcfe02726bc447",
+        "fingerprint": [
+          "站得住脚",
+          "层层递进",
+          "经济学和法学"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "结论层层归结于公理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与CK-2997（自然法是法律之公理）互参；罗马法/经济学公理化为例"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-03",
+      "unit_id": "WJ2-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "前提为真且论证过程有效，结论必为真",
+      "quote": "前提为真，论证的过程有效",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2417,
+        "end_line": 2417,
+        "sha1": "6dc375c1523269ed02b99fa28d47080451d26681",
+        "fingerprint": [
+          "结论也为真",
+          "奥地利学派",
+          "逻辑思维训练"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "前提加逻辑皆合理",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沿CK-0900；奥地利学派结论皆由此得出"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-04",
+      "unit_id": "WJ2-U0029",
+      "speaker": "转述·第三方",
+      "claim_text": "产权三原则：自我所有权（公理）、先占先得（公理）、互不侵犯产权（推论）",
+      "quote": "互不侵犯产权",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2369,
+        "end_line": 2375,
+        "sha1": "86d2783fa103d9b4c1d49370d6c6dd3b214a1aa1",
+        "fingerprint": [
+          "自我所有权",
+          "先占先得",
+          "自然法"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "产权三原则",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：穆瑞·罗斯巴德；吴军评'这是我见到的对产权保护做出最好解释的理论'(2395)"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-05",
+      "unit_id": "WJ2-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "逐一列举比较各种产权授予方式后，先来者获得是灾难最少的公理选择",
+      "quote": "先来者获得，是最好的设定",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2383,
+        "end_line": 2385,
+        "sha1": "2356cb947e29320c3d3104396f5c1b8b87a87f88",
+        "fingerprint": [
+          "灾难性的结果",
+          "逐一考虑",
+          "付出劳动"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D04-1"
+      ],
+      "concept_key": "公理的选择标准",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "沿CK-0998；'给最后来的人/最高/最漂亮'之反例推演并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-06",
+      "unit_id": "WJ2-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "制度若允许随便分他人财产，则人人财产不保：均分摧毁激励、走向共同贫穷",
+      "quote": "你的财产也是保不住的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2403,
+        "end_line": 2405,
+        "sha1": "f98227335d39bcd06c9f5cf3fe055ec76741137b",
+        "fingerprint": [
+          "平均分",
+          "先占先得",
+          "后到者拥有财富"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D09-1"
+      ],
+      "concept_key": "绝对平均最不公平",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "沿CK-2902；与C-WJ2-U0018-02互参（同一概念双论证：热寂/课堂平均分实验）"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-07",
+      "unit_id": "WJ2-U0029",
+      "speaker": "吴军本人",
+      "claim_text": "可持续发展三要义：按需索取的有限需求、价值排序、权衡收益（为得一样放弃另一样）",
+      "quote": "权衡收益的结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2409,
+        "end_line": 2415,
+        "sha1": "796466fe1b110b8d31b8a196b1f4ec782b171f3a",
+        "fingerprint": [
+          "有限需求",
+          "按需索取",
+          "看不见的手"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D02-3"
+      ],
+      "concept_key": "有限需求与价值排序",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "从产权三原则推出的取舍方法论；'给斯密看不见的手做注释'(2415)并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0029-08",
+      "unit_id": "WJ2-U0029",
+      "speaker": "转述·第三方",
+      "claim_text": "经济的本质是人的行动互动、劳动和价值的互换；资源企业等只是表象",
+      "quote": "劳动和价值的互换",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 2391,
+        "end_line": 2391,
+        "sha1": "b8a5f21de3bf3d7b7f4b9aa5d5346d0ce263f11c",
+        "fingerprint": [
+          "行动和互动",
+          "表象",
+          "产权三原则"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D08-1"
+      ],
+      "concept_key": "经济即价值互换",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：罗斯巴德（由产权三原则推导出的经济观）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0029",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "罗斯巴德生平与奥地利学派师承（米塞斯/哈耶克）、古典自由主义/无政府主义主张等人物史介绍未成卡；《自由的伦理》荐书语为载体类信息"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第022封信以逻辑论证方法论成卡8张（E1×6+E2×2），人物史介绍记X4"
+}

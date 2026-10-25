@@ -1,0 +1,159 @@
+{
+  "unit_id": "WJ2-U0017",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0017-01",
+      "unit_id": "WJ2-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "媒体高占比报道会造成某行业很挣钱、易就业的错觉，实际产业占比可能很小",
+      "quote": "可能会给你一个错误的印象",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1365,
+        "end_line": 1367,
+        "sha1": "79e1324e34e15b38fcdc680227dcaa99821d93a9",
+        "fingerprint": [
+          "经常被高估",
+          "错误的印象",
+          "很容易就业"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "媒体曝光不等于行业规模",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "IT业就业占比与产值占比数据为时点佐证（X2），判断本体可迁移"
+    },
+    {
+      "claim_id": "C-WJ2-U0017-02",
+      "unit_id": "WJ2-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "在规模巨大却被视而不见的行业，效率的小幅改进也极有价值",
+      "quote": "让物流的效率提高1%",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1391,
+        "end_line": 1391,
+        "sha1": "5e7abaf99a197f6741d5a5ddde319c5156697651",
+        "fingerprint": [
+          "物流",
+          "视而不见",
+          "非常有价值"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1",
+        "D08-1"
+      ],
+      "concept_key": "大行业效率改进的机会",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "与既有概念键CK-3087解决他人不解决的障碍互参；物流为最大产业之数据为时点佐证"
+    },
+    {
+      "claim_id": "C-WJ2-U0017-03",
+      "unit_id": "WJ2-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "媒体贩卖焦虑会制造只剩一种产业的错觉；多数人原来该干什么还是干什么",
+      "quote": "该干什么还是干什么",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1419,
+        "end_line": 1419,
+        "sha1": "c3dbf3cd6153e16be20e5c95bdc2c643bcb4f31a",
+        "fingerprint": [
+          "贩卖焦虑",
+          "IT 产业",
+          "贡献和就业人数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-4"
+      ],
+      "concept_key": "媒体贩卖焦虑",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "与C-WJ2-U0017-01同链互引（媒体曝光错觉→焦虑心态）"
+    },
+    {
+      "claim_id": "C-WJ2-U0017-04",
+      "unit_id": "WJ2-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "投资要考虑整个世界经济的结构，而不是只盯着某一个行业",
+      "quote": "考虑整个世界经济",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1421,
+        "end_line": 1421,
+        "sha1": "f00cc42e912f5b363d9343c8559f425ec5926079",
+        "fingerprint": [
+          "投资",
+          "某一个行业",
+          "深耕"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-2"
+      ],
+      "concept_key": "投资着眼整个经济",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "个人资金视角的投资配置原则"
+    },
+    {
+      "claim_id": "C-WJ2-U0017-05",
+      "unit_id": "WJ2-U0017",
+      "speaker": "吴军本人",
+      "claim_text": "想在上升领域站住脚，就必须在年轻的时候深耕",
+      "quote": "在年轻的时候深耕",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1421,
+        "end_line": 1421,
+        "sha1": "f00cc42e912f5b363d9343c8559f425ec5926079",
+        "fingerprint": [
+          "医疗健康",
+          "新材料",
+          "站住脚"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-2"
+      ],
+      "concept_key": "朝阳领域须早深耕",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "IT/医疗/材料三方向清单为时点推荐（X2并入X处置），深耕原则可迁移；中石化中海油人均产值例并入"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0017",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "各行业GDP规模、就业构成、人均产值与中美国别比较为时点数据；医疗健康/新材料为关注清单属趋势推荐（兼X6候选），可迁移判断已另抽卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "以行业认知与投资/职业可迁移判断成卡5张，行业时点数据记X2"
+}

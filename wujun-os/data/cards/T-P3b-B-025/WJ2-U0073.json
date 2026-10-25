@@ -1,0 +1,243 @@
+{
+  "unit_id": "WJ2-U0073",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ5",
+  "batch_id": "T-P3b-B-025",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0073-01",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "每个人都在创造历史不等于能改变历史：巨大合力由微小力量累加而成，1乘80亿很大，当成零则全无。",
+      "quote": "每一个人都在创造历史",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5710,
+        "end_line": 5710,
+        "sha1": "de455e2c74f463cbba14a6cda1d75d9742575962",
+        "fingerprint": [
+          "创造历史",
+          "合力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D01-2"
+      ],
+      "concept_key": "创造历史与改变历史",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "加州零元购公投等2024时事例证（5712-5718）按X2处置；与CK-2215“时代力量与个人偶然”同族。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-02",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "改变结果的是个体力量的直接聚集，不是蝴蝶效应式无关小事的雪崩；不在系统循环中的偶然个体事件影响很有限。",
+      "quote": "个体力量直接聚集的结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5720,
+        "end_line": 5724,
+        "sha1": "27aea9ff7e15c7b8248d1b6b6be876c132fcdfeb",
+        "fingerprint": [
+          "蝴蝶效应",
+          "循环"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D01-1"
+      ],
+      "concept_key": "蝴蝶效应批判",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "控制论解释：在循环中影响众人决定的变量才有大影响；撞车翻盘式关系链可能性极小（5720）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-03",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "恒定的小变化会改变结果，偶发的小扰动会被系统过滤掉：持续发生就不是偶发事件了。",
+      "quote": "持续发生就不是偶发事件了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5728,
+        "end_line": 5728,
+        "sha1": "d30bd2a809644f17ce4e23b725d8c27ae602c2a7",
+        "fingerprint": [
+          "恒定",
+          "偶发事件"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "恒定变化胜偶发扰动",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例：输入恒增万分之一仍改变结果；震荡随机数被系统过滤。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-04",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "正反馈系统会放大偶发事件：输出为输入指数函数且完全反馈时，一点变化就会放大并影响结果。",
+      "quote": "一点变化就会放大",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5730,
+        "end_line": 5730,
+        "sha1": "15bb3fb1cd60ae66f1b0f199ee75538f43ca5e52",
+        "fingerprint": [
+          "正反馈",
+          "指数函数"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "正反馈放大偶发",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "例证：基因小变异被放大致癌死亡；但需多重巧合，平时少见，免疫系统/社会组织常清除副作用（5732）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-05",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "小变量改变世界须满足其一：背后有深层原因使其大量或长期出现；或系统为正反馈（长期正反馈少见不稳定）。",
+      "quote": "小的变量有可能改变世界",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5734,
+        "end_line": 5738,
+        "sha1": "afb3e3fe11d298677b9e23d0327d623a3e93326f",
+        "fingerprint": [
+          "恒定变化",
+          "正反馈"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3"
+      ],
+      "concept_key": "小变量改变世界两条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "全信总结句；承接卡-03/-04的机理综合。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-06",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "影响系统长期输出的是长期稳定的输入，不是初始条件：人不断收集信息自我改进，初始条件不由己，持续输入可控。",
+      "quote": "长期稳定的输入",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5764,
+        "end_line": 5764,
+        "sha1": "428dba616396c51d19c63f52679143f861e029db",
+        "fingerprint": [
+          "初始条件",
+          "稳定的输入"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D02-3"
+      ],
+      "concept_key": "长期输入胜初始条件",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "两输入系统量化对比（5752-5760）为论证；与CK-3244“起跑线影响有限”同族。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-07",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "人的系统模型：每年输入1、能力按积分积累，每年负反馈5%（遗忘与过时）；25岁后曲线接近天花板。",
+      "quote": "积累每年少5%",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5768,
+        "end_line": 5772,
+        "sha1": "89ee321842a1e341bf4885ccebff560c2f0ce6a4",
+        "fingerprint": [
+          "负反馈",
+          "积分"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-3",
+        "D02-2"
+      ],
+      "concept_key": "人生积累系统模型",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "三设定模型；中间几年不学习实为走下坡路（5774）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0073-08",
+      "unit_id": "WJ2-U0073",
+      "speaker": "吴军本人",
+      "claim_text": "人到中年仍可改变：旧知识淘汰新知识补入；40岁后不退步就是不错结果；人能控制的是长期稳定输入而非初始条件。",
+      "quote": "你已经不是过去的你了",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 5778,
+        "end_line": 5778,
+        "sha1": "df1416c6a24df0c0ac048d952205f62e5610e290",
+        "fingerprint": [
+          "中年",
+          "与时俱进"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D02-2"
+      ],
+      "concept_key": "中年仍可改变",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "回答罗翔之问；同龄人退步而你与时俱进即值得欣慰；与卡-06互引。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0073",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "行5782-5788罗翔、Cogito ergo sum同学留言原文（附于信末），读者发言不进卡，其提问引出本信主题。"
+    },
+    {
+      "unit_id": "WJ2-U0073",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "行5712-5718加州950美元轻罪法、36号提案公投、罢免奥克兰市长等2024年选举时事例证，依附具体时点；其支撑的“个体合力”判断已入卡-01。"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第059封信：小变量改变世界的两条件、长期输入胜初始条件、中年仍可改变等判断成8卡（全E1），时事与留言按X2/X7处置。"
+}

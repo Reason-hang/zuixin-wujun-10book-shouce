@@ -1,0 +1,233 @@
+{
+  "unit_id": "WJ2-U0018",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0018-01",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "人类经济活动不是零和赌博，而是不断创造财富；你的所得不必以他人负债为代价",
+      "quote": "而不是零和游戏",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1459,
+        "end_line": 1461,
+        "sha1": "36ba66b2788653e949fa76fcc33716611941b0a8",
+        "fingerprint": [
+          "零和游戏",
+          "创造财富",
+          "上下家"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "经济活动非零和",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "沿既有概念键CK-2873（WJ2）；回应读者财富自由零和之问"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-02",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "绝对平均才是最不公平：无差距的系统如热寂般死气沉沉，无人有动力创造财富",
+      "quote": "绝对的平均才是最不公平的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1467,
+        "end_line": 1467,
+        "sha1": "260792d8822de7cc5761ca56a6ce529dba98de97",
+        "fingerprint": [
+          "热寂",
+          "平均分配",
+          "不公平"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-3",
+        "D09-1"
+      ],
+      "concept_key": "绝对平均最不公平",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "沿CK-2902（WJ2）；物理学热寂类比；与C-WJ2-U0029-06互参"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-03",
+      "unit_id": "WJ2-U0018",
+      "speaker": "转述·第三方",
+      "claim_text": "涓滴效应：富人财富经投资再生产层层下渗，最终惠及大众",
+      "quote": "通过投资再生产，惠及大众",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1469,
+        "end_line": 1471,
+        "sha1": "abd865e2f200bcb709fdb4a6981a37258ef4867d",
+        "fingerprint": [
+          "涓滴效应",
+          "亚当·斯密",
+          "斯托克曼"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "涓滴效应",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "被转述者：亚当·斯密、大卫·斯托克曼；X6候选（宏观经济学说），按方法论例外入卡；吴军取用见C-WJ2-U0018-04"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-04",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "不要认为别人有了钱自己的钱就会少；富人多的社会里普通人致富机会更多",
+      "quote": "自己的钱就会少",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1475,
+        "end_line": 1475,
+        "sha1": "ed9d2f4d1c3c7b4565272163c8f977893bc3f966",
+        "fingerprint": [
+          "一桶水",
+          "普通的工薪阶层",
+          "致富的机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "富人多的社会机会多",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "吴军对涓滴效应的取用与概括；学说转述见C-WJ2-U0018-03；特朗普无现金例并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-05",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "有负债与自由现金流不排斥；月现金流扣除本息后仍充裕，就不必担心借贷",
+      "quote": "不用太担心借贷",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1485,
+        "end_line": 1487,
+        "sha1": "798d084d25b9e23cd556c68f2aaace65af3f13ba",
+        "fingerprint": [
+          "本息支出",
+          "借贷太高",
+          "现金流很紧张"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "家庭借贷考量",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "沿CK-0109（WJ2）；美国按揭不超过两年平均年收入四倍之经验线与房企爆雷例并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-06",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "还款快慢取决于贷款利率与投资收益之差，不稳收益须经风险调整后再比较",
+      "quote": "你可以还款慢一点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1497,
+        "end_line": 1499,
+        "sha1": "cfbe10d41782ed4db9bee1d8e3d50a7b79b8e2e7",
+        "fingerprint": [
+          "利率",
+          "多还点本金",
+          "风险的因素"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "还款看利率收益差",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "7%收益对5%利率、风险上浮至10%之算法并入；买房属加杠杆投资、与其它投资分散（鸡蛋分篮）原则同段并入"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-07",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "购房不宜只当投资：房屋的使用属性能让你提前多年享受生活",
+      "quote": "房屋还有使用属性",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1503,
+        "end_line": 1503,
+        "sha1": "2238a521fbbaaebe20292a04c9792aa9a919d22e",
+        "fingerprint": [
+          "使用属性",
+          "提前很多年",
+          "应急存款"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "买房先看使用价值",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "沿CK-0686；同段并含家庭应留约半年生活费应急存款、过多现金非好投资（沿CK-1760应急积蓄）之判断"
+    },
+    {
+      "claim_id": "C-WJ2-U0018-08",
+      "unit_id": "WJ2-U0018",
+      "speaker": "吴军本人",
+      "claim_text": "个人财富自由的前提是保护私有财产且相对公平的社会，否则短期所得也难保有",
+      "quote": "保护私有财产",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1477,
+        "end_line": 1477,
+        "sha1": "91496d878fd0b88d5ae7d18a629dea3aad08ed58",
+        "fingerprint": [
+          "普遍贫困",
+          "互害",
+          "财富自由"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D09-1"
+      ],
+      "concept_key": "产权保护与财富自由",
+      "ability_tags": [],
+      "status": "已生成",
+      "notes": "沿CK-0722（WJ2）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0018",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "millie问选大学（名校vs城市：名校优先于城市、城市优先于一般大学；名校范围C9+顶尖专业校；区位优势有梯度）属升学择校范畴，按X5排除"
+    },
+    {
+      "unit_id": "WJ2-U0018",
+      "disposal": "X",
+      "x_subtype": "X7",
+      "reason": "三段读者来信原文（millie/黄金/麻花儿）为读者发言，仅作问题语境，不单独成卡；吴军回应部分已按规则抽卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "问答单元：读者发言记X7、择校问答记X5，吴军回应中财富观与家庭财务判断成卡8张"
+}

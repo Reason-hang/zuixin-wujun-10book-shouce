@@ -1,0 +1,103 @@
+{
+  "unit_id": "WJ2-U0016",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ2R",
+  "batch_id": "T-P3b-B-022",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0016-01",
+      "unit_id": "WJ2-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "多源数据必有重叠漏算与口径差异，了解大致情况即可，不必纠缠个别数字的精确性",
+      "quote": "你了解大致的情况就好",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1297,
+        "end_line": 1299,
+        "sha1": "5bb5cbbf3ba020bcb3db78f10dc3831706f0a088",
+        "fingerprint": [
+          "重叠",
+          "漏算",
+          "大致的情况"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "数据口径不一取大势",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "跨机构统计数据的使用方法论；IT业收入定义、蚂蚁金服归属两难等例证并入本卡"
+    },
+    {
+      "claim_id": "C-WJ2-U0016-02",
+      "unit_id": "WJ2-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "判断宏观数据是否靠谱，先看其底层信息是否公开透明、可独立核实",
+      "quote": "交易信息都是公开的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1313,
+        "end_line": 1315,
+        "sha1": "678fde725c8538878d444f0572ceb734a12c9c29",
+        "fingerprint": [
+          "数据来源和算法",
+          "透明",
+          "保守估计"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "数据可核性看公开透明",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "以中美房市估值数据可信度差异（Zillow/Redfin逐栋追踪）为例"
+    },
+    {
+      "claim_id": "C-WJ2-U0016-03",
+      "unit_id": "WJ2-U0016",
+      "speaker": "吴军本人",
+      "claim_text": "均值与中位数差距大未必说明内部贫富悬殊，可能是子群体间收入差异所致",
+      "quote": "说明贫富悬殊",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 1349,
+        "end_line": 1349,
+        "sha1": "e4721a0b79b755c0c830b30ec3440d025adf4174",
+        "fingerprint": [
+          "均值和中值",
+          "贫富悬殊",
+          "人均收入差异巨大"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1",
+        "D01-1"
+      ],
+      "concept_key": "均值中值差距的歧义",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "统计指标解读原理；欧盟家庭资产均值中值背离（成员国间差异）为例"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0016",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "全球财富存量数据（黄金/比特币/房市/股市/存款时点规模与中美日欧占比）为2024年时点行情数据，离开时点即失效；可迁移的数据方法论已另抽3卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "以数据使用方法论与统计推断原理成卡3张，时点行情数据记X2"
+}
