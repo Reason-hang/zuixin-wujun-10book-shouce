@@ -1,0 +1,80 @@
+{
+ "unit_id": "SG3-U0107",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "到达一个希望之地是要经过艰难的，不必因途中艰难而却步",
+   "quote": "希望之地是要经过艰难的",
+   "anchor": {
+    "start_line": 11223,
+    "end_line": 11223,
+    "fingerprint": [
+     "望而却步",
+     "艰难"
+    ],
+    "book_code": "SG3",
+    "sha1": "b5631dff63def147b75e09a82bb0ad2dcc6e83cc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-3"
+   ],
+   "concept_key": "希望之地必经艰难",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "穿越德雷克海峡晕船两天的亲历铺垫（11219-11223）；'不希望这些描述让你对南极望而却步'为限定语境",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0107-01",
+   "unit_id": "SG3-U0107"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类并没有更高的生存权，人对其它物种的伤害终究会反过来伤害人类自身",
+   "quote": "并没有更高的生存权",
+   "anchor": {
+    "start_line": 11249,
+    "end_line": 11249,
+    "fingerprint": [
+     "生存权",
+     "反过来伤害到人类自身"
+    ],
+    "book_code": "SG3",
+    "sha1": "80eaf0230a45077c42798e2748b37642f6027c4a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-2"
+   ],
+   "concept_key": "人与物种平等相处观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "以南极公约严格规定为语境：防物种交换、远离企鹅五米海豹十五米（11241-11247）；引《1493》物种大交换灾难佐证（11249）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0107-02",
+   "unit_id": "SG3-U0107"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0107",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "南极游记叙述：登船与船上人员构成、吉姆船员（11177-11183）、邮轮航线与南极半岛形状（11189-11201）、穿越海峡的晕船体验（11213-11227）、企鹅岛登岸（11253）"
+  },
+  {
+   "unit_id": "SG3-U0107",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "德雷克海峡得名与洋流成因、西风漂流科普（11205-11213）；南极公约1959年条约史、52国签署与《马德里议定书》四项规定叙述（11233-11247），纯史实科普，人与物种判断已抽K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第088封信：游记与公约史实为主，抽两条可迁移判断（希望之地必经艰难/人与物种平等），其余归X3/X4"
+}

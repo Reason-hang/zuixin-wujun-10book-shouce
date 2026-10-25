@@ -1,0 +1,150 @@
+{
+ "unit_id": "SG3-U0112",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "识别与判断的错误率不可能为零，做任何判断都可能犯错误",
+   "quote": "错误率不可能为零",
+   "anchor": {
+    "start_line": 11739,
+    "end_line": 11743,
+    "fingerprint": [
+     "错误率不可能为零",
+     "犯错误"
+    ],
+    "book_code": "SG3",
+    "sha1": "7c18b7c8f86b6d8753b5ada0f082136f6a58fefe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "判断必有错误率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "好人与坏人边界本来就是模糊的（11741）；识别率100%多半是骗子、人识语音无上下文也只有六十几（11739）；应用：医疗筛查别因一次阳性恐慌、十年筛查近七成阳性为假阳性（11817）；划重点1（11829）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0112-01",
+   "unit_id": "SG3-U0112"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两类错误概率P1与P2不可能同时为零，只能选择降低哪一类",
+   "quote": "不可能同时为零",
+   "anchor": {
+    "start_line": 11761,
+    "end_line": 11767,
+    "fingerprint": [
+     "同时为零",
+     "分类方法"
+    ],
+    "book_code": "SG3",
+    "sha1": "9e192da26423ec8198fc796ec8ca307c6477eecf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "两类错误此消彼长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全当好人则P2=0而P1=100%，反之亦然（11765）；每条分类方法对应确定的P1与P2，能选的只是让哪个小一点（11767）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0112-02",
+   "unit_id": "SG3-U0112"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不同错误的损失不对称，不能只看错误率，要结合损失内容综合决策",
+   "quote": "结合损失的内容来综合考虑",
+   "anchor": {
+    "start_line": 11819,
+    "end_line": 11821,
+    "fingerprint": [
+     "损失也不同",
+     "用概率来做决定"
+    ],
+    "book_code": "SG3",
+    "sha1": "424489dbf3938f1af015e2161b27aaae400bb274"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "按损失不对称定方案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "抓小偷例：放跑损失10、错抓损失3，虚线错误多却总损失更小（11777-11781）；抢劫犯例损失100对3选红线（11783）；银行保险柜反向：识别该更严（11789）；划重点3（11833）；应用：判断身边人值不值得信任（11823）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0112-03",
+   "unit_id": "SG3-U0112"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "基数比例影响判定阈值：好人远多于坏人时宁可把坏人识别成好人",
+   "quote": "宁可把坏人识别成好人",
+   "anchor": {
+    "start_line": 11793,
+    "end_line": 11795,
+    "fingerprint": [
+     "无罪推定",
+     "数量"
+    ],
+    "book_code": "SG3",
+    "sha1": "b3922a03cc4abd6efc8c76b62e27ef4ca6cd3639"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-1"
+   ],
+   "concept_key": "基数比例与无罪推定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "1000好人100坏人例：P1=0.3/P2=0.1优于双0.2策略（11793）；司法无罪推定即默认好人远多于坏人、提高判坏人阈值（11795）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0112-04",
+   "unit_id": "SG3-U0112"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学家设法压低整条错误曲线，工程师在固定曲线上找总体损失最小的点",
+   "quote": "找到那个最恰当的点",
+   "anchor": {
+    "start_line": 11805,
+    "end_line": 11811,
+    "fingerprint": [
+     "曲线",
+     "最恰当的点"
+    ],
+    "book_code": "SG3",
+    "sha1": "36d5f36c52694c3650221d3914877baca1318a53"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D04-1"
+   ],
+   "concept_key": "科学与工程之别",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "P1降则P2升，关系成一条曲线（11799-11805）；工程师无法改变曲线关系，按具体问题找损失最小的点，大部分工程问题类似（11809-11811）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0112-05",
+   "unit_id": "SG3-U0112"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第092封信：贝叶斯分类五条原理与方法论（判断必有错/两类错误权衡/损失不对称/基数比例/科学工程之别），全单元K无X"
+}

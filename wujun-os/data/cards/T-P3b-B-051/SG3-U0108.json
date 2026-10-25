@@ -1,0 +1,57 @@
+{
+ "unit_id": "SG3-U0108",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自然颜色单调的环境里，人们爱用靓丽色彩装饰，让人心中明亮",
+   "quote": "心中能够明亮起来",
+   "anchor": {
+    "start_line": 11375,
+    "end_line": 11375,
+    "fingerprint": [
+     "单调",
+     "靓丽"
+    ],
+    "book_code": "SG3",
+    "sha1": "f7661cabea7dee10968be83ecb82c9a80a49b0be"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "以亮色点亮单调环境",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "划重点3（11385）；极地雪山红房子、挪威彩色房屋与旗帜为例（11375）；红帆船在冰雪中增彩同理（11363）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0108-01",
+   "unit_id": "SG3-U0108"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0108",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "南极游记叙述：日常活动分组与摄影领队（11291-11297）、古尔丹岛企鹅（11329-11335）、丹科岛拍倒影与红帆船（11339-11373）行程见闻"
+  },
+  {
+   "unit_id": "SG3-U0108",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "企鹅孵蛋与成长生物学科普：企鹅爸爸风中孵蛋60天体重降45%、贼鸥天敌、换毛后才能下水（11301-11311），纯自然科普，父爱感慨（11303）无独立结论句"
+  },
+  {
+   "unit_id": "SG3-U0108",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "倒影摄影技法科普：平静水面与长曝光两种拍法、端稳时间与焦距倒数关系、三脚架沙袋与ND滤镜（11341-11355），属摄影专业技能知识，无可归属支柱的可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第089封信：游记与摄影技法为主，仅抽一条可迁移观察（单调环境用亮色点亮心情），其余归X3/X4/X8"
+}

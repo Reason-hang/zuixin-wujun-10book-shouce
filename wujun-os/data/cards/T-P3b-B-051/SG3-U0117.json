@@ -1,0 +1,215 @@
+{
+ "unit_id": "SG3-U0117",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股价是对公司未来盈利能力的预期，不是对今天资产或现金的估算",
+   "quote": "是对它未来盈利能力的预期",
+   "anchor": {
+    "start_line": 12367,
+    "end_line": 12367,
+    "fingerprint": [
+     "预期",
+     "盈利能力"
+    ],
+    "book_code": "SG3",
+    "sha1": "e5d50c8331fe87878018eccfcf23983557e22176"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "股价是未来预期",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "答疑股票回购为何拉升股价（12337-12355）：静态算回购后股价不该涨（12355）；亚马逊市值1.5万亿中约1.4万亿是对未来盈利能力的预期（12357-12361）；回购被解读为未来现金流增强故涨、增发则被猜现金流有问题故跌（12363）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-01",
+   "unit_id": "SG3-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "永远不要只按公司资产数量和账上现金选股，否则选中的多是未来不好的传统企业",
+   "quote": "账上的现金数量",
+   "anchor": {
+    "start_line": 12369,
+    "end_line": 12369,
+    "fingerprint": [
+     "资产数量",
+     "传统企业"
+    ],
+    "book_code": "SG3",
+    "sha1": "a7a49f9ef4357e047906eb650df9fb52d582a1a9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "勿按资产现金选股",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "只有未来业务发展不好的传统企业，现金和固定资产才占市值大部分（12369）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-02",
+   "unit_id": "SG3-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "搞不懂的基本问题一定要搞懂，不要糊里糊涂接受似是而非的结论",
+   "quote": "似是而非的结论",
+   "anchor": {
+    "start_line": 12371,
+    "end_line": 12371,
+    "fingerprint": [
+     "搞懂",
+     "糊里糊涂"
+    ],
+    "book_code": "SG3",
+    "sha1": "2cd2d4a9a050d90107eb78945e3613498df3e18a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "基本问题须搞懂",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "提问同学的态度值得大家学习，其问题提醒了市值与企业价值之别（12371）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-03",
+   "unit_id": "SG3-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "回应隐私纠缠先看对象：泛泛之交干脆回绝，第一次回答不要支支吾吾",
+   "quote": "第一次的回答一定要干脆",
+   "anchor": {
+    "start_line": 12387,
+    "end_line": 12389,
+    "fingerprint": [
+     "看对象",
+     "支支吾吾"
+    ],
+    "book_code": "SG3",
+    "sha1": "f86ef6ddb7b42fbf5b09950547b4a5d631fc4a7c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "隐私回应看对象",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "可答'我们似乎还没熟到谈这些私人问题'，对方不高兴也不必有负担（12387）；追问者已无礼，可答'编段谎话你也没意思'，懂礼貌的多数人会知趣不在讨论范围（12385、12389）；可用回答考验对方教养（12389）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-04",
+   "unit_id": "SG3-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "让回答的信息量等于零：用无法证伪的表述或含糊前提条件作答",
+   "quote": "信息量等于零",
+   "anchor": {
+    "start_line": 12393,
+    "end_line": 12403,
+    "fingerprint": [
+     "无法证伪",
+     "前提条件"
+    ],
+    "book_code": "SG3",
+    "sha1": "3c50697be01eb23db818417612ae9471dc9e2c79"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "零信息量回应",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "最好的加密是得到密文后没获得新信息，讲话同理（12395）；康熙'选英明刚毅的人'无法证伪例（12399）；错误前提可推导任意结果例（12401）；答一句后让对方就此打住、尽了礼数（12403）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-05",
+   "unit_id": "SG3-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先把对方可能问的话堵回去：谁先划定一条线，谁就设定了规则",
+   "quote": "谁就设定了规则",
+   "anchor": {
+    "start_line": 12405,
+    "end_line": 12405,
+    "fingerprint": [
+     "划定一条线",
+     "只谈友谊"
+    ],
+    "book_code": "SG3",
+    "sha1": "4960376978635dbb357ca65d75a80270443634a9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "先声明划定规则",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "聚会先声明只谈友谊不谈家庭不比娃、单位里只谈公事（12405）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-06",
+   "unit_id": "SG3-U0117"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奖金多少永远不要告诉同事，说出去可能毁掉职业前程；单位机密出门不乱讲",
+   "quote": "永远不要告诉同事",
+   "anchor": {
+    "start_line": 12411,
+    "end_line": 12419,
+    "fingerprint": [
+     "红线",
+     "机密"
+    ],
+    "book_code": "SG3",
+    "sha1": "5e6fe57d3b4250a42c1687af62d76a06ab4c83e4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-1"
+   ],
+   "concept_key": "薪酬保密红线",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "笑人贫恨人富、打探隐私者品行可疑，收入高低都无好处（12413）；跨国公司打听收入触红线、腾讯小米严格制止，告诉同事既卖自己隐私也卖老板（12415）；可搬公司规定挡、再问则装穷借钱（12417）；看似不重要的单位信息泄露也造成损失、嘴不严闯祸（12419）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0117-07",
+   "unit_id": "SG3-U0117"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0117",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文：会灰的咸鱼股票回购提问（12337）、Phoebe隐私提问（12375）、刘金媛同事打探奖金提问（12379），吴军回应已单独抽卡"
+  },
+  {
+   "unit_id": "SG3-U0117",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点数据举例：亚马逊市值1.5万亿美元、现金负160亿等2020年前后数据（12357-12363），用于说明预期机理，离开时点即失效；机理已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问17：股票回购三卡（未来预期/勿按资产选股/求甚解）+隐私回应四卡（看对象/零信息量/先定规则/薪酬红线）；读者提问归X7、亚马逊时点数据归X2"
+}

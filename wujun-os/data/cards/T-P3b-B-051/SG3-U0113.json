@@ -1,0 +1,211 @@
+{
+ "unit_id": "SG3-U0113",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创作有价值作品首先要有目的性：传递思想，而非单纯讲故事",
+   "quote": "应当传递一些思想",
+   "anchor": {
+    "start_line": 11853,
+    "end_line": 11853,
+    "fingerprint": [
+     "目的性",
+     "讲故事"
+    ],
+    "book_code": "SG3",
+    "sha1": "7961fe588e71d033dfe7bd7808d612fefccca531"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "创作先立目的性",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "《信息传》表面像史书、真实目的是讲信息世界的常识（11855）；目的定下后内容取舍、结构安排有了标准（11935）；好作品还需独到观点（11929）与回答读者具体疑问（11931）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-01",
+   "unit_id": "SG3-U0113"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常识为我们做事划定边界、指明方向，信息时代的常识很多人却不了解",
+   "quote": "为我们做事划定了边界",
+   "anchor": {
+    "start_line": 11857,
+    "end_line": 11861,
+    "fingerprint": [
+     "常识",
+     "边界"
+    ],
+    "book_code": "SG3",
+    "sha1": "a8801bea19c03c7154fac78d64c43063f32fa44d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "常识划定做事边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "物理世界常识例：光速、绝对零度、发动机效率上限（11859）；知道发动机极限就不会追求无限提升（11861）；信息世界常识缺乏的体会引出写书动机（11863、11897）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-02",
+   "unit_id": "SG3-U0113"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做违背香农第二定律的事如同造永动机，沿此走下去早晚烧完钱死掉",
+   "quote": "相当于要造出永动机",
+   "anchor": {
+    "start_line": 11875,
+    "end_line": 11877,
+    "fingerprint": [
+     "永动机",
+     "香农第二定律"
+    ],
+    "book_code": "SG3",
+    "sha1": "ced64b06e944b88a1f1195adb636dbc3a2422949"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-1"
+   ],
+   "concept_key": "不可违背信息规律",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "香农第二定律：传更多信息须更高带宽，香农极限如光速不可突破（11877）；视频网站大战上百家一年死一大半（11877）；创始人若懂常识应把精力放在找商业模式而非压带宽（11879-11883）；YouTube烧钱与谷歌赔10年始盈利（11885）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-03",
+   "unit_id": "SG3-U0113"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成败比努力更重要的是找对方向、掌握或切合规律；不以成败论英雄",
+   "quote": "是否找对了方向",
+   "anchor": {
+    "start_line": 11915,
+    "end_line": 11917,
+    "fingerprint": [
+     "规律",
+     "成败论英雄"
+    ],
+    "book_code": "SG3",
+    "sha1": "2648ef66ecda15f98382a1e3bdda853cea7394b4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-1"
+   ],
+   "concept_key": "方向规律重于努力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴贝奇败于不懂复杂问题需简单设计、特斯拉败于在能量与信息间选错方向（11915）；摩尔斯、贝尔、马可尼巧合切合规律而成功，成功者未必更高明（11917）；划重点2（11943）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-04",
+   "unit_id": "SG3-U0113"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理论的指引让成功从偶然事件变成大概率事件，这是要上大学学理论的原因",
+   "quote": "从偶然事件变成大概率事件",
+   "anchor": {
+    "start_line": 11923,
+    "end_line": 11925,
+    "fingerprint": [
+     "大概率事件",
+     "理论"
+    ],
+    "book_code": "SG3",
+    "sha1": "51bc7629bb2d58756eabf2b8732eb8956e2cc957"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-1"
+   ],
+   "concept_key": "理论使成功成大概率",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "自发时代成功靠运气、失败是大概率；自觉时代掌握规律后进步成大概率（11923）；1G到5G无重大挫折非因人更聪明而是有理论指导（11925）；划重点3（11945）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-05",
+   "unit_id": "SG3-U0113"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何一部好的作品都需要有取有舍，与主题关系不大的内容必须舍弃",
+   "quote": "都需要有取有舍",
+   "anchor": {
+    "start_line": 11905,
+    "end_line": 11907,
+    "fingerprint": [
+     "舍弃",
+     "有取有舍"
+    ],
+    "book_code": "SG3",
+    "sha1": "ab6aa98a2310fd02b4e1efd33b02cba16022bad8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "作品取舍得靠主题",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "《信息传》起点定摩尔斯电报、终点定诺伊斯摩尔创英特尔，因那时信息科学主要成就已提出（11905）；体裁选传记式参考《人类群星闪耀时》（11901）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-06",
+   "unit_id": "SG3-U0113"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "诺伊斯：未来电子产业原材料就是沙子和铜线，重要的是变成元器件的工艺",
+   "quote": "重要的是工艺",
+   "anchor": {
+    "start_line": 11931,
+    "end_line": 11931,
+    "fingerprint": [
+     "沙子和铜线",
+     "诺伊斯"
+    ],
+    "book_code": "SG3",
+    "sha1": "333d119553ca26939ce772516aedb390acc150fd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "半导体关键在工艺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=诺伊斯（集成电路发明人）；60年前给出的答案今天依然适用，用以回答中国半导体产业出路之问（11931）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0113-07",
+   "unit_id": "SG3-U0113"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0113",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "趋势与时点论述：2006-2010中国视频网站大战潮起潮落（11869-11871）、星链与5G孰先进之争及星链天线、偏远区域定位（11889-11895），依附2019-2021行业时点；视频网站案例机理已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第093封信：写作《信息传》的七条创作与方法判断；星链5G对比与视频网站大战时点论述归X6"
+}

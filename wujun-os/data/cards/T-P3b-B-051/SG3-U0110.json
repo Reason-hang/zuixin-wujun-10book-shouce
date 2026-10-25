@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG3-U0110",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不理解对方语言背后的文化，就难以进入深层次的沟通、理解民族精神内核",
+   "quote": "不理解对方的文化",
+   "anchor": {
+    "start_line": 11579,
+    "end_line": 11581,
+    "fingerprint": [
+     "语言",
+     "精神内核"
+    ],
+    "book_code": "SG3",
+    "sha1": "0255051deb618ae6348b2085e175ca1753d9b3db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "深层沟通须懂语言背后的文化",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "学语言不只为沟通交流更为了解文化（11577）；吴军自述了解词与语言习惯对理解各种文化非常有帮助（11583）；同语言文化差异例：英式先感谢再提要求（11585）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0110-01",
+   "unit_id": "SG3-U0110"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一门没有文化的语言很难具有强大生命力，人造语言无法取代自然语言",
+   "quote": "很难具有强大的生命力",
+   "anchor": {
+    "start_line": 11593,
+    "end_line": 11593,
+    "fingerprint": [
+     "世界语",
+     "生命力"
+    ],
+    "book_code": "SG3",
+    "sha1": "d953277ce3a746175efe2dd6c6123015ff20488a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "语言生命力在于承载文化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "语言两种作用：表达信息、承载文化，诗几乎无法翻译即因文化（11537）；词汇差异反映生活环境：新几内亚颜色词、因纽特白色词、阿拉伯骆驼词（11539-11545）；嫁娶与marry句式、忌讳词（负增长、转进）为语言追溯历史文化的线索（11549-11563）；古希伯来语复兴vs世界语失败对照（11593）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0110-02",
+   "unit_id": "SG3-U0110"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "需要的不是用世界语取代所有语言，而是通过语言了解对方的文化",
+   "quote": "通过语言了解对方的文化",
+   "anchor": {
+    "start_line": 11591,
+    "end_line": 11591,
+    "fingerprint": [
+     "世界语",
+     "文化"
+    ],
+    "book_code": "SG3",
+    "sha1": "78ca1dd2b62e5cbef0da27360e081117f64d3d0c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D07-1"
+   ],
+   "concept_key": "学外语为了解文化",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "回答'是否该学好英语'之问（11591）；建议有语言天赋的人多学外语、非常有意义（11583）；划重点3（11603）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0110-03",
+   "unit_id": "SG3-U0110"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0110",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "史实科普：柴门霍夫1887年创制世界语经过与不足200万人通晓的现状（11525-11529）、语言数量与消亡统计、亚马孙部落与盖尔语衰落（11569-11573）；本·耶胡达复活希伯来语仅为引子（11517）；嫁娶marry与忌讳词例证已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第091封信：语言与文化三判断（深层沟通须懂文化/语言生命力在于文化/学外语为懂文化），世界语史实归X4"
+}

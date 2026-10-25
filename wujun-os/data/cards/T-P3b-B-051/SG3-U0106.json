@@ -1,0 +1,101 @@
+{
+ "unit_id": "SG3-U0106",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一辈子用不了几次的专门器材宜租不宜买，租金只有售价的约1/10",
+   "quote": "价格只有买器材的1/10",
+   "anchor": {
+    "start_line": 11091,
+    "end_line": 11091,
+    "fingerprint": [
+     "一辈子也用不了几次",
+     "1/10"
+    ],
+    "book_code": "SG3",
+    "sha1": "3d64dbdb0b6eeeea39d576a7f393f3b18cd33f22"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D03-1"
+   ],
+   "concept_key": "低频器材租比买划算",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "南极摄影器材语境；将来真要买时新镜头成像质量也更高（11091）；一般出门拍风光广角中焦更常用、南极相反的观察见11093-11095",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0106-01",
+   "unit_id": "SG3-U0106"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要因为照相错过亲身体验，真正最需要的是自己的一双眼睛",
+   "quote": "错过了亲身体验的机会",
+   "anchor": {
+    "start_line": 11099,
+    "end_line": 11099,
+    "fingerprint": [
+     "一双眼睛",
+     "亲身体验"
+    ],
+    "book_code": "SG3",
+    "sha1": "569d6d8ebeae38c37404dc42001932ec6a8f2923"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "体验优先于记录",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "你能带走的只有照片和记忆，记忆会淡忘故留照片重要（11087）；与11099'最要强调'句构成取舍互补",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0106-02",
+   "unit_id": "SG3-U0106"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "准点率低的行程环节要预留一至两天富余时间，防晚点或取消",
+   "quote": "最好留两天富余时间",
+   "anchor": {
+    "start_line": 11161,
+    "end_line": 11161,
+    "fingerprint": [
+     "准点率",
+     "富余时间"
+    ],
+    "book_code": "SG3",
+    "sha1": "91fb515d06ca7f6fbe8111b504d2974e03562987"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "低可靠环节预留缓冲",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "正文：去程至少留一天、允许最好两天（11119-11121），回程乔治王岛航班常因天气取消同样预留（11123）；链条复杂一环出错全盘皆输故2015年先踩点（11073）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0106-03",
+   "unit_id": "SG3-U0106"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0106",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "南极游记叙述：为什么去南极的缘起（11069-11071）、船票稀缺与选船经过（11075-11079）、相机镜头选型与防寒服晕船药准备细节（11085-11109）、乌斯怀亚与火地岛行程见闻（11113-11129），行程见闻为主，仅方法论已抽K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第087封信：游记为主，仅抽三条可迁移方法论（租买取舍/体验优先/缓冲预留），行程见闻与装备细节归X3"
+}

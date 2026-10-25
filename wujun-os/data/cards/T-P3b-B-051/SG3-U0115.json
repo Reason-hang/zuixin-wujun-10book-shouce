@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG3-U0115",
+ "book_code": "SG3",
+ "extractor": "EXT-SG7",
+ "batch_id": "T-P3b-B-051",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新产业就是现有产业+新技术；懂原理才能在看似不搭界的事物间架桥",
+   "quote": "新产业就是现有产业+新技术",
+   "anchor": {
+    "start_line": 12155,
+    "end_line": 12155,
+    "fingerprint": [
+     "现有产业",
+     "桥梁"
+    ],
+    "book_code": "SG3",
+    "sha1": "ad820f3d345278ed3df1c6b3b80293b4ef09b735"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "新产业=现有产业+新技术",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "纳米材料与最传统的服装产业结合为例（12155）；纳米防寒服保暖透气防水原理（12137-12153）；划重点2（12199）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0115-01",
+   "unit_id": "SG3-U0115"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IT发展只是结果，创新才是硅谷发展的原因，创新可用于所有科技领域",
+   "quote": "才是硅谷发展的原因",
+   "anchor": {
+    "start_line": 12189,
+    "end_line": 12189,
+    "fingerprint": [
+     "创新",
+     "IT"
+    ],
+    "book_code": "SG3",
+    "sha1": "7c186cc5a672bc2348f587ef73a1f33e78bbba1b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "创新是因技术是果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "硅谷的创新即顶天又立地：既有高水平又与生活联系紧密（12189）；划重点3（12201）；电池储能、清洁能源等应用与后续信呼应（12191）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0115-02",
+   "unit_id": "SG3-U0115"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0115",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "纳米材料科技科普：崔屹履历与特斯拉专利对比（12085-12089）、N95熔喷静电布原理与纳米口罩过滤透气机理（12095-12125）、衣服保暖防辐射与疏水原理（12137-12153）、朱棣文静电场反比与诺奖由来（12121-12123）、纳米电池硅负极与重金属过滤、燃料电池催化剂与人造光合作用（12169-12183），纯前沿科技科普无可迁移判断；创新机理已抽K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第095封信：抽两条创新判断（现有产业+新技术/创新是因技术是果），纳米材料科技科普归X4"
+}
