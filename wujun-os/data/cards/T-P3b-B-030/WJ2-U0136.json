@@ -1,0 +1,151 @@
+{
+  "unit_id": "WJ2-U0136",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ10R",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0136-01",
+      "unit_id": "WJ2-U0136",
+      "speaker": "转述·第三方",
+      "claim_text": "伟大的公司大都是由年轻人创立的，创始人创业时多在30岁上下",
+      "quote": "伟大的公司都是年轻人创立的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10764,
+        "end_line": 10772,
+        "sha1": "1fc3c1505330d54adcc899b13f61c37c5ea5b9ff",
+        "fingerprint": [
+          "年轻人"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "伟大公司由年轻人创立",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：梁建章《人口战略》；日美例证盛田昭夫25岁、早川德次19岁等；由此引出的人口结构宏观论断记X6"
+    },
+    {
+      "claim_id": "C-WJ2-UU0136-02",
+      "unit_id": "WJ2-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "评价著作先看数据：数据充分可自行推理，从假设出发的牵强推理无价值",
+      "quote": "我比较喜欢看这种数据丰富的书",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10776,
+        "end_line": 10776,
+        "sha1": "32f35e1bf95e124ccf315a4ed98276bcdc106c20",
+        "fingerprint": [
+          "数据",
+          "假设"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "假设先行无效",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "概念键沿用CK-0909假设先行无效；跨书线索：富足/见识同类判断"
+    },
+    {
+      "claim_id": "C-WJ2-UU0136-03",
+      "unit_id": "WJ2-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "创造力输出的是信息，信息类量多呈对数关系，人口贡献应为Log(人口)而非线性",
+      "quote": "创造力输出的是信息",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10806,
+        "end_line": 10808,
+        "sha1": "5095026d6776536db182c6822db79c97881c6ee7",
+        "fingerprint": [
+          "对数",
+          "信息论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-2",
+        "D04-1"
+      ],
+      "concept_key": "信息量呈对数关系",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "修正梁建章国家创造力公式；处理器性能翻番体感不到两倍同理；公式本体属宏观模型记X6"
+    },
+    {
+      "claim_id": "C-WJ2-UU0136-04",
+      "unit_id": "WJ2-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "创新离不开交流，信息流通越充分的地方越有创新力",
+      "quote": "创新确实离不开交流",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10812,
+        "end_line": 10812,
+        "sha1": "995bc5c303e1d14de7be1eaf155bf518c07c6875",
+        "fingerprint": [
+          "交流"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "创新依赖交流强度",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对应公式中交流强度因子；反例：香港人均能力与交流占优而创造力不如深圳，说明还有传统教育等因素"
+    },
+    {
+      "claim_id": "C-WJ2-UU0136-05",
+      "unit_id": "WJ2-U0136",
+      "speaker": "吴军本人",
+      "claim_text": "创造力是全方位的，不限于科技，文化创造力同样带来巨大利益",
+      "quote": "创造力或者创新力是全方位的",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10804,
+        "end_line": 10804,
+        "sha1": "71163b3ffd58378bd5912360092fb92b45b24689",
+        "fingerprint": [
+          "全方位"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D10-1"
+      ],
+      "concept_key": "创造力是全方位的",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "对梁建章理工科思维的补充：日韩文化创造力获世界认可并获益"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0136",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "人口趋势数据、生育补贴测算、日本失去30年人口解释、人口结构巨变国家发展难等宏观人口经济论断（吴军本人及转述梁建章），属宏观趋势/文明史叙述不入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军对谈梁建章：5卡（1张转述E2+4张本人E1），宏观人口论断整体记X6"
+}

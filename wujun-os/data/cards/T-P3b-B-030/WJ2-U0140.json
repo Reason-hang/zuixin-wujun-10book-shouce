@@ -1,0 +1,160 @@
+{
+  "unit_id": "WJ2-U0140",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ10R",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0140-01",
+      "unit_id": "WJ2-U0140",
+      "speaker": "转述·第三方",
+      "claim_text": "AI时代人最大的用途是提出问题，提出问题的关键在思考角度，角度单一问不出好问题",
+      "quote": "人最大的用途是提出问题",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11050,
+        "end_line": 11050,
+        "sha1": "aba9e9fb02b5d0de36f804222a37aa286d50885a",
+        "fingerprint": [
+          "提出问题"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "人的价值在提问",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：梁建章；其教育广度比深度重要的教育判断属X5/X6，此处只取可迁移内核"
+    },
+    {
+      "claim_id": "C-WJ2-UU0140-02",
+      "unit_id": "WJ2-U0140",
+      "speaker": "转述·第三方",
+      "claim_text": "可批量生产、技能可重复的人才易被取代：可重复的事计算机做得更好",
+      "quote": "能够批量生产的人才都会被取代",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11058,
+        "end_line": 11058,
+        "sha1": "c3b8d70b3f63c612126637f531923c8130c2b49f",
+        "fingerprint": [
+          "批量生产"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D04-2"
+      ],
+      "concept_key": "可重复即易取代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：梁建章；翻译职业例证；职业替代预测本体属X6，留P4终裁"
+    },
+    {
+      "claim_id": "C-WJ2-UU0140-03",
+      "unit_id": "WJ2-U0140",
+      "speaker": "转述·第三方",
+      "claim_text": "未来更需要专才：创造知识要在一个领域深挖，把自己感兴趣的事做到极致，其余交给计算机",
+      "quote": "在未来，更需要的是专才",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11104,
+        "end_line": 11104,
+        "sha1": "ff59ce0fcdcfb33372f7764545d84984c7d43d2e",
+        "fingerprint": [
+          "专才"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D05-1"
+      ],
+      "concept_key": "深挖一域做到极致",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：陈先生及其顾问团队；源自天才少年项目：缺的知识靠互联网与AI快速补足"
+    },
+    {
+      "claim_id": "C-WJ2-UU0140-04",
+      "unit_id": "WJ2-U0140",
+      "speaker": "吴军本人",
+      "claim_text": "高天赋者圈子天然排他：聪明孩子排斥水平差距大的人，不愿与降标进来的人为伍",
+      "quote": "排斥不如自己的人",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11106,
+        "end_line": 11106,
+        "sha1": "ccd8935bbd934815ece2d1ebe1d2b9bea2498c83",
+        "fingerprint": [
+          "排他"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-2"
+      ],
+      "concept_key": "高手圈子的排他性",
+      "ability_tags": [
+        "沟"
+      ],
+      "status": "已生成",
+      "notes": "天才项目招生口子不能开即因聪明孩子以水平差距大为退出条件（11088行）；表面体面包容、内心排他"
+    },
+    {
+      "claim_id": "C-WJ2-UU0140-05",
+      "unit_id": "WJ2-U0140",
+      "speaker": "吴军本人",
+      "claim_text": "资源充足时，聪明年轻人会自发钻研科技满足好奇心，而非打游戏",
+      "quote": "他们不会去打游戏",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11106,
+        "end_line": 11106,
+        "sha1": "ccd8935bbd934815ece2d1ebe1d2b9bea2498c83",
+        "fingerprint": [
+          "好奇心"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "资源足则好奇自驱",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "陈先生天才少年项目观察：按本心选择全部倾向STEM深钻；天才教育项目背景本身属X5"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0140",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "洪堡式与纽曼式教育制度比较、吴军《大学之路》教育观引用、天才少年培养项目运作属教育制度与培养方式"
+    },
+    {
+      "unit_id": "WJ2-U0140",
+      "disposal": "X",
+      "x_subtype": "X6",
+      "reason": "AI取代翻译法务财务等职业的宏观预测叙述（可迁移内核已入-02卡）"
+    },
+    {
+      "unit_id": "WJ2-U0140",
+      "disposal": "X",
+      "x_subtype": "X2",
+      "reason": "携程机票酒店导游业务利润结构与导游前景评论依附当时行业状况；陈先生地产区块链英伟达投资轶事为个人轶事残余（兼X8）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "通才专才之辩：3张E2转述（梁建章2陈先生1）+2张E1观察，教育制度/职业预测/行业评论按X5/X6/X2排除"
+}

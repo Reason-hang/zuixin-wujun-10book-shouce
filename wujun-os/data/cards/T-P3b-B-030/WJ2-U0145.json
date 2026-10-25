@@ -1,0 +1,211 @@
+{
+  "unit_id": "WJ2-U0145",
+  "book_code": "WJ2",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0145-01",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "努力实现目标是一回事，理性平和地对待结果是另一回事——把不对立的事情当作矛盾看待是通病",
+      "quote": "理性、平和地对待结果",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11436,
+        "end_line": 11436,
+        "sha1": "bb745f7c5d77e4fa0ea446d24b29ec77d2f6b3ba",
+        "fingerprint": [
+          "目标",
+          "结果"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D03-1"
+      ],
+      "concept_key": "目标与结果分离",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-WJ2-U0145-02",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "不管上什么学校都要奋斗：上名校不一定收获理想成就，但不奋斗机会只会更少",
+      "quote": "机会只会更少",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11438,
+        "end_line": 11438,
+        "sha1": "6e926e3e652f8383dd5b51c6aebd40994c9964cc",
+        "fingerprint": [
+          "奋斗",
+          "机会"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "奋斗不问出身",
+      "ability_tags": [
+        "做"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-WJ2-U0145-03",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "好单位不是刚需（97%的人不在大企业），但能进好公司还是要争取——绝大部分人好环境才能发展起来",
+      "quote": "企业文化",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11442,
+        "end_line": 11446,
+        "sha1": "a9db557c674993035c5de62fd21621b7f1980caa",
+        "fingerprint": [
+          "好单位",
+          "文化"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "争取好环境",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "好单位要看发展速度和企业文化而非规模营收：美国邮政50万人 vs OpenAI五千人（11446）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0145-04",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "成功三层次：物质收益→得到尊重→自我满足；应一步步来，跳过前两层直接追自我实现会走火入魔",
+      "quote": "一步步来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11464,
+        "end_line": 11472,
+        "sha1": "8a84b12c2f68766ab5da9237d000fe10b88d640a",
+        "fingerprint": [
+          "自我满足",
+          "自我实现"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "成功三层递进",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "古代乡绅买地/修桥捐官/刻书稿对应三层（11462-11466）；教授艺术家兑现名望反成笑料（11472）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0145-05",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "相对成功两件事：比前人强、比周围人强——父辈太厉害就不要勉强自己（唐高宗例）；中产孩子成功压力最大",
+      "quote": "比前人强",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11474,
+        "end_line": 11478,
+        "sha1": "37fe1c7b083192e65bcf6fdc5fc0bc1e53679ce6",
+        "fingerprint": [
+          "父辈",
+          "中产"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1"
+      ],
+      "concept_key": "相对成功观",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "知道离开差环境就已比周围人强（11476）；见贤思齐大概率不差（11476）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0145-06",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "不要试图超越自己的极限，不要给自己定太多成功目标——生活有保障、受尊重、内心愿望满足就够了",
+      "quote": "超越自己的极限",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11482,
+        "end_line": 11482,
+        "sha1": "3cba93698f4073a9f77ed556dc3c28c359f06e8b",
+        "fingerprint": [
+          "极限",
+          "目标"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D03-1"
+      ],
+      "concept_key": "成功勿过载",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "抱着这种理解就容易幸福（11482）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0145-07",
+      "unit_id": "WJ2-U0145",
+      "speaker": "吴军本人",
+      "claim_text": "幸福是人生该追求的根本，成功是手段、甚至连手段都算不上是意外的惊喜——不要为了成功放弃幸福",
+      "quote": "意外的惊喜",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11486,
+        "end_line": 11488,
+        "sha1": "f429167c62877523633c41dcfb076ff6d2d64b7a",
+        "fingerprint": [
+          "幸福",
+          "成功"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "幸福本位",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "伟大由后人评价（莫扎特梵高伽罗瓦 vs 牛顿贝多芬香农）（11486）；放弃了幸福也不一定能成功（11488）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0145",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "11434-11440行名校目标与教育理性问答为升学教育内容（部分判断已按可迁移成卡）"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "周末问答23：怎样定义成功（双说话人7卡）。"
+}

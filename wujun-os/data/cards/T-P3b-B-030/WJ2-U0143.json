@@ -1,0 +1,179 @@
+{
+  "unit_id": "WJ2-U0143",
+  "book_code": "WJ2",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0143-01",
+      "unit_id": "WJ2-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "求真最根本的目的：知道我们是谁、现在在哪里、要去什么地方、走哪条路过去——地图错了再好的车也到不了",
+      "quote": "知道我们自己是谁",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11286,
+        "end_line": 11288,
+        "sha1": "16efd41d53f98f3889a323d9b5f6e0b880557cc8",
+        "fingerprint": [
+          "求真",
+          "地图"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D03-1"
+      ],
+      "concept_key": "求真四问",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "通识课程都在回答'我们在哪里'（11290）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0143-02",
+      "unit_id": "WJ2-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "片面教育让人不知道自己在哪里：走入社会后因片面认识格格不入、价值体系崩塌",
+      "quote": "和社会格格不入",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11292,
+        "end_line": 11292,
+        "sha1": "6986169f2e104230a431320d7953651848e8bf00",
+        "fingerprint": [
+          "片面",
+          "崩塌"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-2"
+      ],
+      "concept_key": "片面认知之害",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "极端宗教国家的人对当前位置认知就是错的（11292）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0143-03",
+      "unit_id": "WJ2-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "人文教育让我们知道目的地在哪里、为什么有些地方去不得；该走哪条路需要人文+理工知识——光有理工知识路可能走错",
+      "quote": "该走哪一条路",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11300,
+        "end_line": 11304,
+        "sha1": "c291f33d6fdbd97d68defbf1d222b92193528dde",
+        "fingerprint": [
+          "目的地",
+          "人文"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "人文指路",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "摸着石头过河：最初过河的实践者都不是有决定权的官员（11304）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0143-04",
+      "unit_id": "WJ2-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "知道自己是谁才能知道自己要走哪条路——孔子柏拉图的书告诉你这些，牛顿达尔文不会",
+      "quote": "知道自己是谁",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11306,
+        "end_line": 11308,
+        "sha1": "635aa7a8ee14cc0304e380dca3d1bf523b1bf544",
+        "fingerprint": [
+          "老鹰",
+          "柏拉图"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "认识自己",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "老鹰直线飞而人要导航——不知道自己是谁就选错路（11306-11308）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0143-05",
+      "unit_id": "WJ2-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "真相和幸福是J形曲线：刚知道真相时幸福感下降（戳穿谎言），随后因更好感知世界而增加——浑浑噩噩如同被打麻药蒙眼",
+      "quote": "幸福感就会随之增加",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11314,
+        "end_line": 11314,
+        "sha1": "2f3ebdb79fa07983c44988b4505162738c5363a3",
+        "fingerprint": [
+          "真相",
+          "幸福感"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1",
+        "D02-1"
+      ],
+      "concept_key": "真相与幸福J曲线",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "互引谷歌U0338 J曲线滞后效应——同一框架跨书复现；幸福感主要来自成就（11314）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0143-06",
+      "unit_id": "WJ2-U0143",
+      "speaker": "吴军本人",
+      "claim_text": "教育让人向善：虽无法根本消除人性之恶，但让绝大多数人讲规矩、知道善恶、希望被认可为善良的人——这是人性的升华",
+      "quote": "人性的升华",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11316,
+        "end_line": 11316,
+        "sha1": "059e85b3b340ec71e5cc6ec295721930c3f23c5f",
+        "fingerprint": [
+          "向善",
+          "规矩"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-1",
+        "D01-1"
+      ],
+      "concept_key": "教育促向善",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    }
+  ],
+  "x_disposals": [],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第116封信：求真与向善（6卡）。"
+}

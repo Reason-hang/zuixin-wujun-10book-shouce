@@ -1,0 +1,102 @@
+{
+  "unit_id": "WJ2-U0146",
+  "book_code": "WJ2",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0146-01",
+      "unit_id": "WJ2-U0146",
+      "speaker": "转述·第三方",
+      "claim_text": "共同知识=每个人都知道且知道其他人也知道（层层递归）；共享知识=每个人都知道但不清楚他人是否知道——两者行为后果完全不同",
+      "quote": "共同知识",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11517,
+        "end_line": 11519,
+        "sha1": "4d62e3ff4df8a1ed18a8f13f358c590ab76c5e2e",
+        "fingerprint": [
+          "共同知识",
+          "共享知识"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D03-1",
+        "D07-1"
+      ],
+      "concept_key": "共同vs共享知识",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "转述·第三方；被转述者=哲学家大卫·凯洛格·刘易斯（11506/11517）；概念属罗素维特根斯坦一派（11506）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0146-02",
+      "unit_id": "WJ2-U0146",
+      "speaker": "吴军本人",
+      "claim_text": "共享知识状态下人们评估说出的收益或危害，很多心知肚明的信息被长期雪藏（17世纪日心说、二战后期德国人不敢言败）",
+      "quote": "长期雪藏",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11521,
+        "end_line": 11523,
+        "sha1": "406cfa2474016d0307a5ce2ffb74976d194c68b8",
+        "fingerprint": [
+          "雪藏",
+          "迫害"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D07-1"
+      ],
+      "concept_key": "共享知识致沉默",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "民调长期低估特朗普支持率即此理：支持者不好意思说（11515/11525，时政例入notes）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0146-03",
+      "unit_id": "WJ2-U0146",
+      "speaker": "吴军本人",
+      "claim_text": "只有把大家都知道的知识变成共同知识才能在社会上真正发生作用——要么有人站出来喊一声（会牺牲），要么靠外力推一把",
+      "quote": "真正发生作用",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11565,
+        "end_line": 11567,
+        "sha1": "04b9328beb452c6988e08bcae796b55ba23135a0",
+        "fingerprint": [
+          "共同知识",
+          "外力"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D07-1",
+        "D03-1"
+      ],
+      "concept_key": "共享变共同才起作用",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "陶哲轩蓝眼睛谜题：外乡人一句'我看见蓝眼睛的人'触发递归推理，第10天10个蓝眼睛集体离岛（11531-11555，转述留痕）；第一个喊的人会被处死故无人愿当（11567）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0146",
+      "disposal": "X",
+      "x_subtype": "X1",
+      "reason": "11571-11935行DeepSeek深度思索与答案附录为AI生成参考资料，非吴军论点"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第118封信：共享知识与共同知识（含陶哲轩蓝眼睛谜题与DeepSeek附录，可迁移3卡）。"
+}

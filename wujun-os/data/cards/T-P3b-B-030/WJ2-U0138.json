@@ -1,0 +1,230 @@
+{
+  "unit_id": "WJ2-U0138",
+  "book_code": "WJ2",
+  "extractor": "EXT-WJ10R",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-UU0138-01",
+      "unit_id": "WJ2-U0138",
+      "speaker": "转述·第三方",
+      "claim_text": "科学建立在概念、分类和逻辑之上，它们是一切科学思维的起点（亚里士多德）",
+      "quote": "一切科学思维的起点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10904,
+        "end_line": 10904,
+        "sha1": "cbea6bbcf28d13a48a1447e743ddcc86b74ceded",
+        "fingerprint": [
+          "概念",
+          "分类",
+          "逻辑"
+        ]
+      },
+      "evidence_level": "E2",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "科学思维三起点",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "被转述者：亚里士多德；吴军全信以此展开，本人展开见C-WJ2-U0138-02/-03"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-02",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "概念不清晰思维就混乱，领悟任何领域规律前先把概念搞清楚",
+      "quote": "概念不清晰，思维就会变得混乱",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10906,
+        "end_line": 10906,
+        "sha1": "d43390662962f1118bda96d89557af9e0fff6fdf",
+        "fingerprint": [
+          "概念"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "概念先于思维",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "例：巴菲特与西蒙斯说的股票市场若与你理解不同，领悟不出相应规律"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-03",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "分类是理解的前提：把问题分成侧面逐类搞清楚，才能想清楚",
+      "quote": "只有分类进行研究",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10912,
+        "end_line": 10914,
+        "sha1": "0fe46adfb5997aad2835edb58c450288a2bc1626",
+        "fingerprint": [
+          "分类"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "分类理解",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "人是无法将整个世界放在一起理解的；想不清多因没把问题分侧面"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-04",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "规律公式化把复杂世界变简单，便于理解记忆使用推广，认识升到公式才深刻",
+      "quote": "把复杂的世界变得非常简单",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10918,
+        "end_line": 10918,
+        "sha1": "d26b0fe236ec196b73189bd02718d3925719b975",
+        "fingerprint": [
+          "公式"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D04-1"
+      ],
+      "concept_key": "规律公式化",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "触类旁通即将一个公式推广开，科学方法就是不断用已知公式解未知问题（10920行并入此卡notes）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-05",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "建立知识树：用逻辑把零散知识点连接成体系，形成清晰的思维框架",
+      "quote": "把零散的知识点连接起来",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10926,
+        "end_line": 10926,
+        "sha1": "5c99b8845f9da9c490929b0d6f4502ac25fcd84a",
+        "fingerprint": [
+          "知识树"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "知识树",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "科学体系因节点更新带动分支全更新而进步快（10930行引出-06卡）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-06",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "学到颠覆性新知应把整个知识图谱更新一遍，而非只换几个知识点",
+      "quote": "把自己的全部知识图谱更新一遍",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10930,
+        "end_line": 10930,
+        "sha1": "f443983273cac9a86e7efa7ab48302d2cb8781c7",
+        "fingerprint": [
+          "知识图谱"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D01-1"
+      ],
+      "concept_key": "知识图谱全量更新",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "反例：知道错误前提可推出任何结论后，多数人仍对未发生的历史作假设总结教训（10932-10934行）"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-07",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "同一批数据能让人得出截然相反结论，说明其中有假；判断数据真伪是分析师职责",
+      "quote": "不要轻信公布的数据",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10938,
+        "end_line": 10942,
+        "sha1": "6d44589804302cc9d17a9ba9991d9b9bb3845662",
+        "fingerprint": [
+          "矛盾律"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "矛盾律检验数据",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "营收长期好却拖欠货款还裁员，A与非A必有一假；悟性高=用知识点更新知识图谱并每次审视数据"
+    },
+    {
+      "claim_id": "C-WJ2-UU0138-08",
+      "unit_id": "WJ2-U0138",
+      "speaker": "吴军本人",
+      "claim_text": "复杂问题画思维导图：起因、结果、关键节点与人物全画清楚，道理自明",
+      "quote": "把起因、结果、关键节点",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 10954,
+        "end_line": 10954,
+        "sha1": "a07f84e16a369f5d7730630388c403fab3c3fdcb",
+        "fingerprint": [
+          "思维导图"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D01-1"
+      ],
+      "concept_key": "思维导图分析",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "知识树=学习的组织（搞清概念分类逻辑），思维导图=对知识树的应用；悟性高=两者皆好（10956-10960行）"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0138",
+      "disposal": "X",
+      "x_subtype": "X4",
+      "reason": "毕达哥拉斯、亚里士多德、牛顿第二定律等科学史叙述为例证载体，无可独立成卡的史实判断，方法论已入卡"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "吴军论科学思维提高悟性：概念分类逻辑+知识树+思维导图，8卡（1张E2转述+7张E1）"
+}

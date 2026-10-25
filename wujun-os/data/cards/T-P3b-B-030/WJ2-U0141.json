@@ -1,0 +1,158 @@
+{
+  "unit_id": "WJ2-U0141",
+  "book_code": "WJ2",
+  "extractor": "R-ORCH-inline",
+  "batch_id": "T-P3b-B-030",
+  "cards": [
+    {
+      "claim_id": "C-WJ2-U0141-01",
+      "unit_id": "WJ2-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "防范标题党：光看标题不了解事实就下结论，是让自己的智力和判断力越来越低的做法",
+      "quote": "智力和判断力越来越低",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11124,
+        "end_line": 11128,
+        "sha1": "3bba2288a146079ccebd4aebc6d06b9d1cf1085d",
+        "fingerprint": [
+          "标题党",
+          "结论"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D01-1"
+      ],
+      "concept_key": "标题党之害",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": ""
+    },
+    {
+      "claim_id": "C-WJ2-U0141-02",
+      "unit_id": "WJ2-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "大数据时代要学会识数，看清数字背后的真实情况——哈佛砍30门课仅占6000门课的0.5%",
+      "quote": "数字背后的真实情况",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11128,
+        "end_line": 11130,
+        "sha1": "fec64bb2b9f2ed2db5e4b792da12efa251f56126",
+        "fingerprint": [
+          "识数",
+          "6000"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D03-1",
+        "D04-1"
+      ],
+      "concept_key": "学会识数",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "约翰·霍普金斯课程表400页5000门以上（11130）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0141-03",
+      "unit_id": "WJ2-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "当今学生将大学教育视为一种投资：关注实习机会、简历与毕业后六位数薪资的投资回报",
+      "quote": "将大学教育视为一种投资",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11168,
+        "end_line": 11168,
+        "sha1": "c4aa873891f65de27287a9b747537b8689876712",
+        "fingerprint": [
+          "投资",
+          "回报"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D02-1"
+      ],
+      "concept_key": "教育是投资",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "MIT博士生的一手观察（11168）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0141-04",
+      "unit_id": "WJ2-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "文科课程有用但不能靠它吃饭：培养批判性思维（阅读-分析-写出看法）+训练沟通表达（宣讲论文）",
+      "quote": "有用，但是不能靠它吃饭",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11174,
+        "end_line": 11181,
+        "sha1": "83b2b95a988d3978a3e0f3c8c631fe0a8bcd0a39",
+        "fingerprint": [
+          "批判性思维",
+          "沟通"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D02-2",
+        "D07-1"
+      ],
+      "concept_key": "文科两用",
+      "ability_tags": [
+        "学"
+      ],
+      "status": "已生成",
+      "notes": "艺术对科研帮助一般、灵感主要来自专业深入与教授启发（11182-11184）。"
+    },
+    {
+      "claim_id": "C-WJ2-U0141-05",
+      "unit_id": "WJ2-U0141",
+      "speaker": "吴军本人",
+      "claim_text": "你是造机器的，因此不会被机器取代——造产品的人不能拿产品当参考标杆",
+      "quote": "不会被机器取代",
+      "anchor": {
+        "book_code": "WJ2",
+        "start_line": 11188,
+        "end_line": 11188,
+        "sha1": "a6b8e791cae34b874ce8a3a467f7343fe76d7f55",
+        "fingerprint": [
+          "机器",
+          "取代"
+        ]
+      },
+      "evidence_level": "E1",
+      "pillar_candidates": [
+        "D06-1",
+        "D10-1"
+      ],
+      "concept_key": "造机器者不被取代",
+      "ability_tags": [
+        "思"
+      ],
+      "status": "已生成",
+      "notes": "谷歌面试故事：改进搜索不能拿谷歌当标杆（11188）。"
+    }
+  ],
+  "x_disposals": [
+    {
+      "unit_id": "WJ2-U0141",
+      "disposal": "X",
+      "x_subtype": "X5",
+      "reason": "11120-11166行哈佛课程调整与STEM崛起、混学分专业叙述为教育制度时评内容"
+    }
+  ],
+  "unit_disposal": "K",
+  "unit_disposal_reason": "第114封信：哈佛砍文科课（教育时评X5，可迁移5卡）。"
+}
