@@ -1,0 +1,132 @@
+{
+ "unit_id": "SG1-U0070",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国购物季前各厂商必须推出明年新产品，错过销售季明年的销售就受影响",
+   "quote": "推出明年的新产品",
+   "anchor": {
+    "start_line": 3707,
+    "end_line": 3707,
+    "fingerprint": [
+     "双十一",
+     "iPhone"
+    ],
+    "book_code": "SG1",
+    "sha1": "46dd425f0f73ad572bd2c2251b8c5825726b8ca0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "购物季新品窗口",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国双十一只是价格便宜没有什么新东西（3707）；iPhone与新款汽车都在10月左右推出即此缘故（3707）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0070-01",
+   "unit_id": "SG1-U0070"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其说购物季绑架顾客不如说绑架公司，Google错过销售季延迟产品终被砍掉",
+   "quote": "绑架了公司",
+   "anchor": {
+    "start_line": 3709,
+    "end_line": 3709,
+    "fingerprint": [
+     "Google",
+     "金融危机"
+    ],
+    "book_code": "SG1",
+    "sha1": "45474cdece0fdfaf2c3f315b4181a575b1dcef56"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "购物季绑架公司",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2007年与索尼飞利浦柯达合作消费电子品、延到第二年赶上金融危机被砍、负责人离职（3709，时点案例）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0070-02",
+   "unit_id": "SG1-U0070"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国流通环节少实体店也便宜，匹配最低价策略使消费者不必等促销",
+   "quote": "匹配最低价",
+   "anchor": {
+    "start_line": 3685,
+    "end_line": 3685,
+    "fingerprint": [
+     "流通环节",
+     "差价"
+    ],
+    "book_code": "SG1",
+    "sha1": "add54175ee1be2bc046eba783b2431713adf4a7b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "匹配最低价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "7-30天内可退差价（3685）；使黑色星期五抢购必要性下降（3697）；美国网购不热的另两原因：购物中心文化与网购税（3679-3683，时点归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0070-03",
+   "unit_id": "SG1-U0070"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对同一件事情不同人关注点完全不同：省钱、体验文化、销售、经济金融走势",
+   "quote": "关注点完全不同",
+   "anchor": {
+    "start_line": 3711,
+    "end_line": 3713,
+    "fingerprint": [
+     "购物季",
+     "经济和金融走势"
+    ],
+    "book_code": "SG1",
+    "sha1": "cf2a90dfa09b1742cc9d472fc6264c1bfd442f4b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "同事不同关注点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "购物季首日业绩指示股市走向、股价反映对未来的预期（3711，投资预测语归X2）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0070-04",
+   "unit_id": "SG1-U0070"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0070",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "网购免税沿革与克林顿奥巴马治国评论、黑色星期五开门时间竞赛与电器折扣幅度、购物季首日业绩指示股市走向（3681-3711），时点消费与市场评论"
+  },
+  {
+   "unit_id": "SG1-U0070",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "年底购物习惯与中世纪丰收感恩渊源、美国购物中心建设史（3673-3679），文化史背景"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第061封信：购物季新品窗口/购物季绑架公司/匹配最低价/同事不同关注点，4卡全E1；时点消费观察归X2、文化背景归X4"
+}

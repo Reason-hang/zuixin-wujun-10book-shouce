@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0068",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "传统媒体一对多单向通信无反馈难知效果；社交媒体多对多双向通信收敛到真实民意",
+   "quote": "多对多的双向通信",
+   "anchor": {
+    "start_line": 3553,
+    "end_line": 3555,
+    "fingerprint": [
+     "单向通信",
+     "反馈机制"
+    ],
+    "book_code": "SG1",
+    "sha1": "771b5531730ebbfb8f1740335f613b76a6d08cce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D07-1"
+   ],
+   "concept_key": "双向反馈自适",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "民调样本小加主观偏见难反映真实（3553）；2012年起社交网络大数据分析比民调准（3555）；社交媒体整体可信度未必比专业人士差（3563）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0068-01",
+   "unit_id": "SG1-U0068"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "制作资讯类节目者只是转述发生过的事，社交媒体时代最可能首先失去工作",
+   "quote": "转述给受众",
+   "anchor": {
+    "start_line": 3561,
+    "end_line": 3563,
+    "fingerprint": [
+     "资讯",
+     "观众和读者"
+    ],
+    "book_code": "SG1",
+    "sha1": "f1f96922bc16f938b1c0563744e42de947c98849"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "资讯转述者先失业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "社交网络取代的是第二类资讯类内容，娱乐与知识类不在此列（3559-3561）；群体效应下整体可信度未必差于专业人士（3563）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0068-02",
+   "unit_id": "SG1-U0068"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从事搬运工工作（体力或脑力）的人该有危机感，从事创造性工作的人有大展鸿图机会",
+   "quote": "搬运工工作",
+   "anchor": {
+    "start_line": 3565,
+    "end_line": 3567,
+    "fingerprint": [
+     "创造性",
+     "危机感"
+    ],
+    "book_code": "SG1",
+    "sha1": "979246bb849b90bf52112b217c427b63ef46d15e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "搬运工与创造者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "创造知识内容者从无到有创造知识、多传播手段受众更多收入更多（3565）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0068-03",
+   "unit_id": "SG1-U0068"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商家投放广告基于广告能促销的假设；媒体若无法影响受众选择，广告根基便动摇",
+   "quote": "基于广告能最终促销的假设",
+   "anchor": {
+    "start_line": 3549,
+    "end_line": 3549,
+    "fingerprint": [
+     "衣食父母",
+     "末日"
+    ],
+    "book_code": "SG1",
+    "sha1": "3797fadff191d083678f1b4783c451a2ff184994"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "广告促销假设",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由2016大选媒体无法影响选民引申（时点评论）；宣传越多卖越好再投广告的正循环与媒体助选模式同构（3545-3549）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0068-04",
+   "unit_id": "SG1-U0068"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0068",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016大选媒体站队、民调失灵、安倍拜会、《新闻周刊》错刊、特朗普粉丝数与社媒运营对比等时点事件评论（3537-3557），时效论断本体；通信机制与职业判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第059封信：双向反馈自适/资讯转述者先失业/搬运工与创造者/广告促销假设，4卡全E1；大选时点评论归X2"
+}

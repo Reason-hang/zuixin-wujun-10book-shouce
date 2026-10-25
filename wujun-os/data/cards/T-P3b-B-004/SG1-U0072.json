@@ -1,0 +1,74 @@
+{
+ "unit_id": "SG1-U0072",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伟大发明远非从0到1一蹴而就，要解决过程中众多实际问题——是从0到N的过程",
+   "quote": "从0 到N 的过程",
+   "anchor": {
+    "start_line": 3833,
+    "end_line": 3833,
+    "fingerprint": [
+     "从0 到1",
+     "实际问题"
+    ],
+    "book_code": "SG1",
+    "sha1": "8766bcb4f522eba7ccd54de41675ddc7c5fd423b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "从0到N方成发明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大部分人只关心从0到1、真正的成功者关心从0到N（3833）；以人工心脏研发全程为例（3817-3831）；与第057封信呼应见C-SG1-U0066-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0072-01",
+   "unit_id": "SG1-U0072"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "周边相关技术对一项发明至关重要：人工心脏诞生于霍普金斯的医学院、材料与航天成就",
+   "quote": "周边相关技术",
+   "anchor": {
+    "start_line": 3835,
+    "end_line": 3835,
+    "fingerprint": [
+     "人工心脏",
+     "应用物理实验室"
+    ],
+    "book_code": "SG1",
+    "sha1": "650370ccbeecc7b53d6912baf539d953cc2d5ac3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "周边技术成就发明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "医学院、材料科学成就、航天成就（通过应用物理实验室）都是催生人工心脏的重要原因（3835）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0072-02",
+   "unit_id": "SG1-U0072"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0072",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "三类死因与心脏病数据、凯茨报告与电池续航演进、核能电池阿尔法射线科普、泵转速难题、模拟心脏实验室见闻、纳米生物材料与人造皮肤（3797-3831），科技见闻科普；方法论判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第063封信：从0到N方成发明/周边技术成就发明，2卡全E1——人工心脏研发见闻科普为主的信故2卡；科技叙述归X4"
+}

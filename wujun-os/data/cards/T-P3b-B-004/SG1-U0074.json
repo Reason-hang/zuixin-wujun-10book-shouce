@@ -1,0 +1,113 @@
+{
+ "unit_id": "SG1-U0074",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "克隆器官难点在干细胞分化的'道岔'未搞清；近期最有希望的是人造器官替代辅助",
+   "quote": "火车岔路上的道岔",
+   "anchor": {
+    "start_line": 3931,
+    "end_line": 3931,
+    "fingerprint": [
+     "干细胞",
+     "道岔"
+    ],
+    "book_code": "SG1",
+    "sha1": "d30244f536540313e2d511a4560d07d385f86bc8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "分化道岔定前景",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "判断逻辑：技术前景取决于最核心未解环节；'十年内可能还没有实现的希望'为预测语（3931，登记X6候选）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0074-01",
+   "unit_id": "SG1-U0074"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人造的器官和身体部件可能比我们原装的还好——过去认为残疾人做事难超健全人",
+   "quote": "比我们原装的还好",
+   "anchor": {
+    "start_line": 3935,
+    "end_line": 3939,
+    "fingerprint": [
+     "假肢",
+     "残疾人"
+    ],
+    "book_code": "SG1",
+    "sha1": "45c2e3c2ca29e282291cf7c3e80c5d4ae8de9763"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D10-1"
+   ],
+   "concept_key": "人造或胜原装",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "智能假肢靠断肢末端芯片感知脑信号（3935）；里姆假腿获欧锦赛预选冠军被取消资格例（3937，时点事件归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0074-02",
+   "unit_id": "SG1-U0074"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当大脑被人造部件替代、生命靠部件延续时，我们还是不是自己——高更三问",
+   "quote": "我们从哪里来",
+   "anchor": {
+    "start_line": 3961,
+    "end_line": 3963,
+    "fingerprint": [
+     "大脑",
+     "我们是谁"
+    ],
+    "book_code": "SG1",
+    "sha1": "14fb29c44b21e5c56a4545e64216c2e051ed8579"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-3",
+    "D02-3"
+   ],
+   "concept_key": "人造部件与自我",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全面取代人脑做不到、芯片修补功能可行（3949）；伯杰海马体芯片与伯克哈特例（3951-3955，技术叙述归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0074-03",
+   "unit_id": "SG1-U0074"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0074",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "三类人造器官技术进展、视网膜芯片与人工耳蜗、脑芯片与伯克哈特案例叙述（3925-3957），科技进展科普"
+  },
+  {
+   "unit_id": "SG1-U0074",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "'克隆器官十年内难实现''逐渐替代病人大脑从事复杂工作'等时点预测语（3931、3957），科技趋势预测本体；判别逻辑已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0074",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "新生儿脐带血保存的商业玄机与必要性已不大判断（3929），医学消费类建议"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第065封信：分化道岔定前景/人造或胜原装/人造部件与自我，3卡全E1——科技进展叙述为主的信；技术叙述归X4、预测语归X6、脐带血建议归X8"
+}

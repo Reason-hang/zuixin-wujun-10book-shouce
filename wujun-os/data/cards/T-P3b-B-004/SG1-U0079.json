@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG1-U0079",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "西塞罗：法律是自然的力量、明理之人的智慧和理性，是衡量合法非法的尺度",
+   "quote": "衡量合法与非法的尺度",
+   "anchor": {
+    "start_line": 4299,
+    "end_line": 4299,
+    "fingerprint": [
+     "西塞罗",
+     "自然法"
+    ],
+    "book_code": "SG1",
+    "sha1": "3c4803427dea0e39767cc8e0199de32eefebd80f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "自然法立足点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=西塞罗（《论法律》三卷为罗马法提供理论基础，4297）；自然法相当于几何学的公设（4299）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0079-01",
+   "unit_id": "SG1-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "零散数学知识不能形成体系后人难以进步；欧氏几何以公理加逻辑演绎成可发展的体系",
+   "quote": "公理化的几何体系",
+   "anchor": {
+    "start_line": 4293,
+    "end_line": 4295,
+    "fingerprint": [
+     "勾股定理",
+     "欧几里得"
+    ],
+    "book_code": "SG1",
+    "sha1": "b3d4f6f21867676b56e637a419563a507fd6ba25"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "公理化体系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "古埃及美索不达米亚早知勾股定理但零散（4293）；几何学通用性、新发现可添加回体系（4295）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0079-02",
+   "unit_id": "SG1-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "出于正义自然法的罗马法有普遍性；为维护一时统治的实定法只局限特定地区人群",
+   "quote": "维护一时的统治需要",
+   "anchor": {
+    "start_line": 4313,
+    "end_line": 4315,
+    "fingerprint": [
+     "秦律",
+     "普遍性"
+    ],
+    "book_code": "SG1",
+    "sha1": "09ba69c4f3d2395812673b5dfd08c39ee4b597e8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "普遍性出于正义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商鞅看到但秦统治者没耐心、天下苦秦久矣（4311-4315）；自然法先验性如几何公理不证自明（4319-4321）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0079-03",
+   "unit_id": "SG1-U0079"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "西方人擅长把零散理论组织成体系：从亘古不变的假设出发用逻辑演绎整个系统——科学的精神",
+   "quote": "就是科学的精神",
+   "anchor": {
+    "start_line": 4327,
+    "end_line": 4329,
+    "fingerprint": [
+     "欧氏几何",
+     "微积分"
+    ],
+    "book_code": "SG1",
+    "sha1": "d447feb3be4f9e16472521bd45982053dde79b37"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "公理演绎科学精神",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "罗马法、微积分、概率论、西方经济学皆建立在几条公理之上（4329）；罗马法堪比法律学的欧氏几何（4325）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0079-04",
+   "unit_id": "SG1-U0079"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0079",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "林肯举《几何原本》说服国会故事、罗马法沿革与《法学阶梯》三分、杰弗逊《独立宣言》、梅因评语（4287-4323），法律史叙述；体系化判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第070封信：自然法立足点E2西塞罗/公理化体系/普遍性出于正义/公理演绎科学精神，4卡（E1×3+E2×1）；法律史叙述归X4"
+}

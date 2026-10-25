@@ -1,0 +1,155 @@
+{
+ "unit_id": "SG1-U0071",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机器人做手术精度0.02毫米，远超最好医生的0.1毫米——人手总会微微抖动",
+   "quote": "手都是微微抖动的",
+   "anchor": {
+    "start_line": 3739,
+    "end_line": 3741,
+    "fingerprint": [
+     "达·芬奇",
+     "头发丝"
+    ],
+    "book_code": "SG1",
+    "sha1": "08eb8ad1f72595ebece217c3583619389de1e450"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "机器胜人手稳",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "成年人头发丝直径0.05-0.12毫米（3739）；缝布针实验体会精度概念（3743）；泰勒教授手抖录像对比（3741）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0071-01",
+   "unit_id": "SG1-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机器人的另两大优势：能进入人手常常伸不进去的地方、发挥稳定不受情绪影响",
+   "quote": "发挥稳定",
+   "anchor": {
+    "start_line": 3749,
+    "end_line": 3749,
+    "fingerprint": [
+     "伸不进去",
+     "情绪"
+    ],
+    "book_code": "SG1",
+    "sha1": "912a43e6cdd84f5bc09e2ab967116de2e29e617d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "机器人稳定优势",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "医生早上吃罚单这一天做手术水准就会下降、机器人不会有这个问题（3749）；眼科机器人精度0.002毫米高一个数量级（3755，技术进展归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0071-02",
+   "unit_id": "SG1-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "外科医生训练无人手把手教、技术提高靠悟性；手术机器人可引导实习医生的手",
+   "quote": "手把手地教",
+   "anchor": {
+    "start_line": 3751,
+    "end_line": 3753,
+    "fingerprint": [
+     "悟性",
+     "实习医生"
+    ],
+    "book_code": "SG1",
+    "sha1": "6e2fddcf981aa6d9e7be32f6d43b902457a012c0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D04-2"
+   ],
+   "concept_key": "机器人手把手教学",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "特殊手臂引导实习医生的手进入人体模型感受手术（3753）；训练前后手运动轨迹对比、训练后稳定多了（3753）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0071-03",
+   "unit_id": "SG1-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正对科学有兴趣的科学家不断探求真理，在外行面前从不以专家自居（泰勒）",
+   "quote": "以专家自居",
+   "anchor": {
+    "start_line": 3759,
+    "end_line": 3759,
+    "fingerprint": [
+     "探求真理",
+     "泰勒"
+    ],
+    "book_code": "SG1",
+    "sha1": "d403066f4611088d7b51028557f6aa5d94d9b731"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D01-3"
+   ],
+   "concept_key": "真科学家不自居",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "每周接待中学生普及机器人医学知识、陪吴军女儿看实验室一小时（3759）；与生物学博士优越感事件对照（3761，叙述归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0071-04",
+   "unit_id": "SG1-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把泰勒的成就从科技史抠除科技史就不完整；大部分学者删了论文世界无变化",
+   "quote": "长度、宽度和深度",
+   "anchor": {
+    "start_line": 3761,
+    "end_line": 3763,
+    "fingerprint": [
+     "影响力",
+     "科技史"
+    ],
+    "book_code": "SG1",
+    "sha1": "a653b05c92952b13c974025cf2f269ed5c26055a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "影响力三维度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "引第52封信人生是一条河、影响力用长度宽度深度综合度量（3761）；有智商没智慧（3763）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0071-05",
+   "unit_id": "SG1-U0071"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0071",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "达·芬奇系统装备数据与亲身体验经过、危险三角区头盖骨医学细节、医生最佳年龄与保险、泰勒履历、中国生物学博士优越感事件叙述（3731-3761），科技见闻与人物背景；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第062封信：机器胜人手稳/机器人稳定优势/机器人手把手教学/真科学家不自居/影响力三维度，5卡全E1；科技见闻叙述归X4"
+}

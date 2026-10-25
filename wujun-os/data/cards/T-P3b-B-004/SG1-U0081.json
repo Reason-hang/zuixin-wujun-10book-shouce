@@ -1,0 +1,101 @@
+{
+ "unit_id": "SG1-U0081",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "杀手锏初生时不完美威力难显，持续发挥需解决细小问题并等合适时机土壤",
+   "quote": "这样或者那样的不足",
+   "anchor": {
+    "start_line": 4397,
+    "end_line": 4399,
+    "fingerprint": [
+     "杀手锏",
+     "时机"
+    ],
+    "book_code": "SG1",
+    "sha1": "32f607552471f9cdb99ac8bd3fc798ee7c695518"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "杀手锏需迭代",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接第13封信蚂蚁战胜大象需要杀手锏（4397）；以印刷术故事为例（4399）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0081-01",
+   "unit_id": "SG1-U0081"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "毕升活字术相当先进甚至超越时代，但未解决使用问题且无人改进，未成中国印刷主流",
+   "quote": "超越时代",
+   "anchor": {
+    "start_line": 4407,
+    "end_line": 4409,
+    "fingerprint": [
+     "毕升",
+     "活字"
+    ],
+    "book_code": "SG1",
+    "sha1": "4806639c71bff6bb7f8712c6160b6b2e7ab646bd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "先进未成主流",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "效率提升有限、字对不齐不好看、强度不够印不了多少张（4409）；毕升之后无人改进、影响不大（4411）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0081-02",
+   "unit_id": "SG1-U0081"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "颠覆式创新仅靠一项关键技术远不够，须解决相关很多技术才成杀手锏——要配套",
+   "quote": "仅仅靠一项关键性技术远远不够",
+   "anchor": {
+    "start_line": 4439,
+    "end_line": 4445,
+    "fingerprint": [
+     "配套",
+     "古腾堡"
+    ],
+    "book_code": "SG1",
+    "sha1": "61aebb64f79d8bc1639cdc89993fc803989e1cb0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "创新靠配套",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "四个关键问题：活字寿命、批量生产、词频部首排版效率、字体标准化（4441）；古腾堡成功在整套技术工艺流程、毕升败于没配套（4445）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0081-03",
+   "unit_id": "SG1-U0081"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0081",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "雕版与活字印刷史、古腾堡生平与德国评选、马礼逊编《华英字典》经过、梁发与洪秀全、姜别利电镀铜模与元宝排字架（4401-4437），印刷史叙述；判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第072封信：杀手锏需迭代/先进未成主流/创新靠配套，3卡全E1——印刷史叙述为主的信；史实归X4"
+}

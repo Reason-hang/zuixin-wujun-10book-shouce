@@ -1,0 +1,156 @@
+{
+ "unit_id": "SG1-U0080",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "写书选题四原则：自己熟悉且有独家资料、读者感兴趣、有现实意义、扣住文明进步",
+   "quote": "读者感兴趣的",
+   "anchor": {
+    "start_line": 4349,
+    "end_line": 4357,
+    "fingerprint": [
+     "读者感兴趣",
+     "现实意义"
+    ],
+    "book_code": "SG1",
+    "sha1": "a36c8b9703d3405aa03ea172658e22cde726df9e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "选题四原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不熟悉或别人能写得更好的不考虑（4349）；一贯主张和平方式、强调文明的力量（4357）；印刷术启蒙运动明治维新青霉素四题最重要（4359）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0080-01",
+   "unit_id": "SG1-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "写书功课分三类：读书换视角、查阅组织材料读专业文献、通过慕课上系统课程",
+   "quote": "查阅和组织材料",
+   "anchor": {
+    "start_line": 4365,
+    "end_line": 4369,
+    "fingerprint": [
+     "视角",
+     "慕课"
+    ],
+    "book_code": "SG1",
+    "sha1": "2aac3ba54525aff8780805bcd89eb1a0396d6538"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-1"
+   ],
+   "concept_key": "功课三分类",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "读英文书多于中文、中国有观点的书不多且常删节断章取义（4365）；把大科学家在《自然》《科学》的论文读一遍（4367）；MOOC一门课约100美元还能拿证书（4369）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0080-02",
+   "unit_id": "SG1-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用碎片时间积少成多写初稿，成书后在绝对安静不受打扰的环境重新写一遍",
+   "quote": "积少成多",
+   "anchor": {
+    "start_line": 4373,
+    "end_line": 4375,
+    "fingerprint": [
+     "零碎的时间",
+     "重新写一遍"
+    ],
+    "book_code": "SG1",
+    "sha1": "b0342e2b0e6ed066cde1b3db8c7a9dd34e4199d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "碎片积稿静修重写",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "平均半年写出一本20万字的书（4373）；如古代犹太人抄《圣经》般虔诚而心无杂念、夫人端水也不打扰（4375）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0080-03",
+   "unit_id": "SG1-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "书稿完成后征求编辑读者意见调整框架，请领域专家把关常识性错误再更正",
+   "quote": "常识性错误",
+   "anchor": {
+    "start_line": 4377,
+    "end_line": 4377,
+    "fingerprint": [
+     "框架结构",
+     "专家"
+    ],
+    "book_code": "SG1",
+    "sha1": "3e686638f9329e5fa325a2d99cde7d7339509e39"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "外部把关迭代",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "张首晟帮看物理学内容、徐霄羽把关生物学（4377）；调整框架后整个章节读起来完全不同（4377）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0080-04",
+   "unit_id": "SG1-U0080"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每写完一册书等于学完一门课或做完一个课题，书是课题的研究报告",
+   "quote": "课题的研究报告",
+   "anchor": {
+    "start_line": 4379,
+    "end_line": 4379,
+    "fingerprint": [
+     "学完一门课",
+     "写完一册书"
+    ],
+    "book_code": "SG1",
+    "sha1": "949701b64bf63f1dae43e99661db45846d909e24"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-2"
+   ],
+   "concept_key": "写书如课题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "以研究课题方式写书、功课做足后能与世界一流科学家讨论课题（4363-4371）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0080-05",
+   "unit_id": "SG1-U0080"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0080",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "《文明之光》第四册与精华版出版节奏、罗辑思维独家销售与上市时间等出版推广信息（4345、4381），载体与推广信息"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第071封信：选题四原则/功课三分类/碎片积稿静修重写/外部把关迭代/写书如课题，5卡全E1；出版推广信息归X1"
+}

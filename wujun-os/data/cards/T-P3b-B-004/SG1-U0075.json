@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0075",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对耽误不起的事情，最后半小时的时间不是你的，是上帝的——多留富裕量",
+   "quote": "最后半小时的时间不是你的",
+   "anchor": {
+    "start_line": 3993,
+    "end_line": 3993,
+    "fingerprint": [
+     "富裕量",
+     "耽误不起"
+    ],
+    "book_code": "SG1",
+    "sha1": "e32732121e26e22922eabd1f18973461bacfc4d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-2"
+   ],
+   "concept_key": "留足富裕量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "每次提前三小时离家赴机场（3991）；为防小概率晚点误转机改签早班、损失一天时间不得了（3995-3997）；早到了可写作不浪费（3993）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0075-01",
+   "unit_id": "SG1-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "熟悉的城市每次住有特色的酒店，不熟悉的城市选连锁品牌保质量；位置比价格重要",
+   "quote": "位置比价格更重要",
+   "anchor": {
+    "start_line": 4003,
+    "end_line": 4003,
+    "fingerprint": [
+     "连锁",
+     "特色"
+    ],
+    "book_code": "SG1",
+    "sha1": "4388951dc0ac2fd1e80dba9d096437a0675d8281"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "陌生求稳熟悉求变",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "旅行情境的可迁移判断；位置偏僻每天花时间交通、玩的时间无形减少（4003）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0075-02",
+   "unit_id": "SG1-U0075"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0075",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "看极光行程叙述：时机选择与强度预测、防寒装备、租车探路、酒店餐饮与风景见闻（3979-4029），游记叙述；仅时间富裕量与酒店选择两则方法论入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第066封信阿拉斯加日记1：游记为主（X3），仅抽留足富裕量/陌生求稳熟悉求变两则方法论，2卡全E1"
+}

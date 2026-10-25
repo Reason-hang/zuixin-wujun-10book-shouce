@@ -1,0 +1,185 @@
+{
+ "unit_id": "SG1-U0065",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：硅谷其实没有发明什么，只是利用发明创办了很多伟大的公司",
+   "quote": "利用发明创办了很多伟大的公司",
+   "anchor": {
+    "start_line": 3377,
+    "end_line": 3377,
+    "fingerprint": [
+     "斯加鲁菲",
+     "硅谷"
+    ],
+    "book_code": "SG1",
+    "sha1": "1177fab233c349a8ee160c76425ed15b4d349077"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "硅谷无发明论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=皮埃罗·斯加鲁菲（《硅谷百年史》作者，标题为其所起）；重大发明多源于MIT却没了下文（3383）；上一封信观点见C-SG1-U0064-01/02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0065-01",
+   "unit_id": "SG1-U0065"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MIT人喜欢做从0到1的事却懒得走完从1到N的全过程，大众记住的是走完N步者",
+   "quote": "懒得走完从1 到N的全过程",
+   "anchor": {
+    "start_line": 3385,
+    "end_line": 3385,
+    "fingerprint": [
+     "iRobot",
+     "从0 到1"
+    ],
+    "book_code": "SG1",
+    "sha1": "3de8a075c9ebf307cde53486cb98561ff5102688"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "从0到1难在1到N",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2015年参观CSAIL见闻（3383-3385）；从那里诞生的公司最好结局不过被Google等收购（3385）；人工心脏从0到N呼应见C-SG1-U0072-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0065-02",
+   "unit_id": "SG1-U0065"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：叛逆者为颠覆现有产业去寻找而非发明被搁置的技术，耐心走完1到N",
+   "quote": "是寻找而不是发明",
+   "anchor": {
+    "start_line": 3387,
+    "end_line": 3389,
+    "fingerprint": [
+     "叛逆",
+     "颠覆现有产业"
+    ],
+    "book_code": "SG1",
+    "sha1": "bef449f29edf83a90c768b4f1923355194406339"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "寻找而非发明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯加鲁菲；叛逆者改变世界有常人没有的执着（3387）；无人驾驶例：卡内基梅隆做几十年、Google为颠覆产业接手（3391-3393）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0065-03",
+   "unit_id": "SG1-U0065"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创小公司完全按大公司制定的市场规则竞争胜算很低，常常需要打擦边球",
+   "quote": "常常需要打擦边球",
+   "anchor": {
+    "start_line": 3399,
+    "end_line": 3399,
+    "fingerprint": [
+     "大公司",
+     "擦边球"
+    ],
+    "book_code": "SG1",
+    "sha1": "58a3d65feaf6e44522edf25fcb6aae6e2af934e2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "小公司打擦边球",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软抄袭苹果、Facebook滥用隐私、Uber滴滴无照等例（3399）；中国几十年对新生事物来不及监管也成大试验场（3401）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0065-04",
+   "unit_id": "SG1-U0065"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：硅谷另一成功条件是扮演新技术试验场，政策成本低容得下打擦边球",
+   "quote": "政策成本非常低",
+   "anchor": {
+    "start_line": 3401,
+    "end_line": 3401,
+    "fingerprint": [
+     "试验场",
+     "政策成本"
+    ],
+    "book_code": "SG1",
+    "sha1": "bcfa22642112ded35f61aa36291d8025fe49641b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "新技术试验场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯加鲁菲；硅谷常扮演新技术试验场角色（3395）；无人驾驶14万英里路测、腾讯街景扫街捞人经历（3397）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0065-05",
+   "unit_id": "SG1-U0065"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "山寨不是从1到N而是做N－1：抄袭过来、低水平重复、偷工减料",
+   "quote": "低水平重复",
+   "anchor": {
+    "start_line": 3403,
+    "end_line": 3403,
+    "fingerprint": [
+     "山寨",
+     "偷工减料"
+    ],
+    "book_code": "SG1",
+    "sha1": "e51c08044eb046b18bcef980e0bdf22f73759b05"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "山寨是N减1",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "别人卖一千他卖八百（3403）；以思考别人意见合理性的态度看待斯加鲁菲观点（3405）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0065-06",
+   "unit_id": "SG1-U0065"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0065",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "无人驾驶攻关案例叙述（卡内基梅隆沿革、Google接手与激光雷达数据难题、14万英里路测）与腾讯街景扫街经历（3391-3397），企业技术史背景；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第056封信：硅谷无发明论E2/从0到1难在1到N/寻找而非发明E2/小公司打擦边球/新技术试验场E2/山寨是N减1，6卡（E1×3+E2×3）；无人驾驶案例叙述归X4"
+}

@@ -1,0 +1,184 @@
+{
+ "unit_id": "SG1-U0076",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "霍洛维茨：嗅觉是狗了解世界的主要手段；人了解世界80%靠眼睛",
+   "quote": "了解世界80%靠眼睛",
+   "anchor": {
+    "start_line": 4065,
+    "end_line": 4067,
+    "fingerprint": [
+     "嗅觉",
+     "狗"
+    ],
+    "book_code": "SG1",
+    "sha1": "c531eb801461c3af6617084799ac5ceda63803dc"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "嗅觉主世界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=亚历山德拉·霍洛维茨（《做条狗》作者，4061）；狗靠闻气味知时间、无法靠视觉分清自我（4069-4073，镜像实验科普归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0076-01",
+   "unit_id": "SG1-U0076"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "承认人与人的差距，珍视自己的天赋扬长避短（而不是补短），不模仿谁而迷失自我",
+   "quote": "扬长避短",
+   "anchor": {
+    "start_line": 4081,
+    "end_line": 4083,
+    "fingerprint": [
+     "天赋",
+     "迷失了自我"
+    ],
+    "book_code": "SG1",
+    "sha1": "1bc09a719a279d9c161467ebe044d1cd29ffbc1e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-1"
+   ],
+   "concept_key": "扬长避短不补短",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由狗与人感官差异引申：上天给每个个体特长又在其它方面剥夺能力（4079）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0076-02",
+   "unit_id": "SG1-U0076"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不把自己的模式套到别人身上：不能认为自己能做到的别人就必须做到",
+   "quote": "套到别人的身上",
+   "anchor": {
+    "start_line": 4083,
+    "end_line": 4083,
+    "fingerprint": [
+     "模仿谁",
+     "反之亦然"
+    ],
+    "book_code": "SG1",
+    "sha1": "5e6da7060be925bfac5d3fb90c4e1dbd466571d5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "莫以己度人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "反之亦然：我们自己做不好的别人可能做得非常好（4083）；与C-SG1-U0076-02同段互证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0076-03",
+   "unit_id": "SG1-U0076"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "直觉与理性是不同人感知世界的不同方法，没有哪种方法就一定正确",
+   "quote": "没有哪种方法就一定正确",
+   "anchor": {
+    "start_line": 4085,
+    "end_line": 4085,
+    "fingerprint": [
+     "直觉",
+     "理性"
+    ],
+    "book_code": "SG1",
+    "sha1": "2359ae4564c00d7aeb6990126a505acbd754f9c4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-2"
+   ],
+   "concept_key": "感知方法无对错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "以白为美对黑也要宽容；善待小猫小狗却不能宽容异见者（4085）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0076-04",
+   "unit_id": "SG1-U0076"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "阿拉斯加教授：小州有小州的好处，最善于倾听和处理邻里关系的人当选议员",
+   "quote": "最善于倾听",
+   "anchor": {
+    "start_line": 4089,
+    "end_line": 4089,
+    "fingerprint": [
+     "小州",
+     "议员"
+    ],
+    "book_code": "SG1",
+    "sha1": "e72f10586276652794b0ad784c733fdf68bddb6c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "小州倾听者当选",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=英国裔学者、阿拉斯加大学教授（所听音频书作者，4087）；小州的好处与邻居政治家（4087）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0076-05",
+   "unit_id": "SG1-U0076"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司组织里常不是能力最强的人做成事，而是最善于和每个人处好关系的人办成",
+   "quote": "处好关系",
+   "anchor": {
+    "start_line": 4089,
+    "end_line": 4089,
+    "fingerprint": [
+     "能力最强",
+     "公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "e72f10586276652794b0ad784c733fdf68bddb6c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "善处关系者成事",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "由小州议员选举联想一个公司或一个组织大抵相似（4087-4089）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0076-06",
+   "unit_id": "SG1-U0076"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0076",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "狗嗅觉原理、镜像实验、狗认人靠味道闻风暴等《做条狗》科普细节与阿拉斯加旅途背景（4059-4079），书籍科普与旅途背景；认知与处世判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第067封信：嗅觉主世界E2/扬长避短不补短/莫以己度人/感知方法无对错/小州倾听者当选E2/善处关系者成事，6卡（E1×4+E2×2）；书籍科普细节归X4"
+}

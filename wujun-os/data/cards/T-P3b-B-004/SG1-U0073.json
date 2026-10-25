@@ -1,0 +1,129 @@
+{
+ "unit_id": "SG1-U0073",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "媒体实验室只研究跨学科、且任何公司或基金都不直接支持的项目，故能发明他处发明不了的东西",
+   "quote": "都不直接支持的项目",
+   "anchor": {
+    "start_line": 3889,
+    "end_line": 3889,
+    "fingerprint": [
+     "跨学科",
+     "媒体实验室"
+    ],
+    "book_code": "SG1",
+    "sha1": "abcb584a07409d34b9be925da16102fb6b08c6d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "无人支持的课题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "明确属于一个特定学科的研究项目不研究（3889）；主任有时来自工业界投资领域、伊藤原是投资人（3889）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0073-01",
+   "unit_id": "SG1-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "给思想太超前、脱离实际的教授自由环境和支持，保不齐搞出异想天开的大发明",
+   "quote": "异想天开的大发明",
+   "anchor": {
+    "start_line": 3883,
+    "end_line": 3885,
+    "fingerprint": [
+     "不受欢迎",
+     "超前"
+    ],
+    "book_code": "SG1",
+    "sha1": "aa0914a1315c7e161db6529f838dcbdf1b4b7141"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D02-1"
+   ],
+   "concept_key": "自由环境出异果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "媒体实验室由各系不受欢迎的科学家凑成（3883）；内格罗庞特与校长韦斯内建议给自由环境（3885）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0073-02",
+   "unit_id": "SG1-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "媒体实验室奥秘：专门研究非常重要、别人却因经费原因不愿碰的跨学科课题",
+   "quote": "不愿意碰的课题",
+   "anchor": {
+    "start_line": 3907,
+    "end_line": 3907,
+    "fingerprint": [
+     "重要",
+     "跨学科"
+    ],
+    "book_code": "SG1",
+    "sha1": "8f2ac834b14b497dcd7019e21b8bf389bb9d8205"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D01-2"
+   ],
+   "concept_key": "重要而诡异的课题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不做经费多、发论文容易的热门课题（3907）；共同特点是重要却显得有点诡异（3907）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0073-03",
+   "unit_id": "SG1-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应关注自己擅长的、重要却被别人忽略的事情，而不是为眼前利益在人堆中挤来挤去",
+   "quote": "在人堆中挤来挤去",
+   "anchor": {
+    "start_line": 3909,
+    "end_line": 3909,
+    "fingerprint": [
+     "擅长的",
+     "忽略"
+    ],
+    "book_code": "SG1",
+    "sha1": "bc069ade993187c01508209888c20e92f2782d60"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D03-1"
+   ],
+   "concept_key": "做被忽略的重要事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由媒体实验室经验引申到个人（3909）；人机关系与转基因环境评估项目叙述归X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0073-04",
+   "unit_id": "SG1-U0073"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0073",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "媒体实验室沿革与贝聿铭设计、翻译'刘明培'笑话、人机关系与无人驾驶见闻、转基因环境评估、社交网络与隐私项目叙述（3869-3905），参观见闻叙述；判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第064封信：无人支持的课题/自由环境出异果/重要而诡异的课题/做被忽略的重要事，4卡全E1；机构见闻叙述归X4"
+}

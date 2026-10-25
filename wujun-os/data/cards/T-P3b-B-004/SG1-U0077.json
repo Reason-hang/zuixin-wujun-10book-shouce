@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0077",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多人旅游的误区是光记着拍照反而忽视了景致本身，别因摆弄器材忘记欣赏",
+   "quote": "光记着拍照",
+   "anchor": {
+    "start_line": 4183,
+    "end_line": 4183,
+    "fingerprint": [
+     "误区",
+     "景致"
+    ],
+    "book_code": "SG1",
+    "sha1": "5a65f595b279c5d84ebed3ba9b452164eb9cf208"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D03-1"
+   ],
+   "concept_key": "莫为拍照误景致",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "看到极光是一生难忘的经历（4183）；愿你有机会多出门看世界（4185）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0077-01",
+   "unit_id": "SG1-U0077"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "万能镜头90%情况下没问题，但关键场景恰是不适用的10%；被忽视的解像力光圈才决定质量",
+   "quote": "万能镜头走遍天下",
+   "anchor": {
+    "start_line": 4145,
+    "end_line": 4145,
+    "fingerprint": [
+     "变焦镜头",
+     "解像力"
+    ],
+    "book_code": "SG1",
+    "sha1": "6f4e7dbaad52cbc2991d14c36c1cb20600ffe16c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "万能方案10%失效",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "摄影情境的可迁移判断；大光圈定焦镜头解像力比变焦好很多（4147）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0077-02",
+   "unit_id": "SG1-U0077"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0077",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "极光成因科普、器材清单与拍摄参数教程（电池低温、ISO噪点、三脚架配重、曝光设置）、延时摄影与装备复盘（4115-4181），旅行摄影教程叙述；仅目的手段与万能方案两判断入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第068封信阿拉斯加日记3：旅行摄影教程为主（X3），仅抽莫为拍照误景致/万能方案10%失效，2卡全E1"
+}

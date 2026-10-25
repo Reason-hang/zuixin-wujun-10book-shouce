@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0066",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "古德里奇：所有的发明都是以最后一个发明者的名字命名的",
+   "quote": "以最后一个发明者的名字命名",
+   "anchor": {
+    "start_line": 3423,
+    "end_line": 3423,
+    "fingerprint": [
+     "古德里奇",
+     "发明"
+    ],
+    "book_code": "SG1",
+    "sha1": "22fe6053031ac4a1382894f8df751afe0c0a225c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "最后的发明者命名",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=迈克尔·古德里奇（吴军的老师）；第一个发明家常不可考且通常不实用（3425-3429）；吴军的概括见C-SG1-U0066-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0066-01",
+   "unit_id": "SG1-U0066"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "发明本身是一个从0到N的过程，真正完成伟大发明的是能从0走到N的人",
+   "quote": "从0 走到N",
+   "anchor": {
+    "start_line": 3423,
+    "end_line": 3423,
+    "fingerprint": [
+     "从0 到N",
+     "发明"
+    ],
+    "book_code": "SG1",
+    "sha1": "22fe6053031ac4a1382894f8df751afe0c0a225c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D05-1"
+   ],
+   "concept_key": "发明是从0到N",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "只有到了N这一步发明才真正算发明（3423）；双创语境下人人争说从0到1（3421）；MIT懒得走1到N见C-SG1-U0065-02",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0066-02",
+   "unit_id": "SG1-U0066"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "历史上发明的荣誉常常是给最后一个发明者，而不是第一个",
+   "quote": "给最后一个发明者",
+   "anchor": {
+    "start_line": 3447,
+    "end_line": 3447,
+    "fingerprint": [
+     "蔡伦",
+     "荣誉"
+    ],
+    "book_code": "SG1",
+    "sha1": "7cb6b8cbd8ea4331205071b197783e9e745ef6aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "荣誉归最后者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG1-U0066-01古德里奇原话互引（R1双卡并存）；蔡伦既是第一个也是最后的发明者，贡献在通用性书写载体（3447）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0066-03",
+   "unit_id": "SG1-U0066"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "蔡伦发明的是便宜原料大量造便宜纸的整套工艺；能造出一张纸和形成造纸产业是两回事",
+   "quote": "一整套采用便宜原料",
+   "anchor": {
+    "start_line": 3443,
+    "end_line": 3445,
+    "fingerprint": [
+     "偷换了一个概念",
+     "造纸产业"
+    ],
+    "book_code": "SG1",
+    "sha1": "47a3dabc2ba0ef3af24a3ec5e96c6455e2875cd9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "发明即工艺体系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "纸张发明与造纸术发明被混为一谈（3443）；蔡伦之前垫油灯的纸作用相当于抹布、不算书写载体（3445）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0066-04",
+   "unit_id": "SG1-U0066"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "文明的进程和知识的启蒙普及有关，知识的普及离不开廉价载体——纸张",
+   "quote": "知识的普及离不开廉价的载体",
+   "anchor": {
+    "start_line": 3459,
+    "end_line": 3459,
+    "fingerprint": [
+     "文明进程",
+     "纸张"
+    ],
+    "book_code": "SG1",
+    "sha1": "d7df7523a5913425f78f7431ed2292ac392769c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "廉价载体促文明",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "造纸业发展与西方国家文明进程强相关且先于重大历史事件（3459）；蔡伦的历史作用在书写载体变得便宜轻便易用（3453）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0066-05",
+   "unit_id": "SG1-U0066"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0066",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "计算机发明权之争（冯诺依曼/楚泽/巴贝奇/穆奇电话）、蔡伦宦官排名、造纸术西传年代路线等科技史叙述（3425-3435、3455-3457），纯史实科普；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第057封信：最后的发明者命名E2古德里奇/发明从0到N/荣誉归最后者/发明即工艺体系/廉价载体促文明，5卡（E1×4+E2×1）；计算机与造纸史实叙述归X4"
+}

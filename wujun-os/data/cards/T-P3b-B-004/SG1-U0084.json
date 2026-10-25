@@ -1,0 +1,140 @@
+{
+ "unit_id": "SG1-U0084",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "免费提供的指南没人珍惜当废纸，收费后反而有人买——资讯免费、知识要付钱",
+   "quote": "资讯是免费的",
+   "anchor": {
+    "start_line": 4629,
+    "end_line": 4633,
+    "fingerprint": [
+     "免费",
+     "米其林"
+    ],
+    "book_code": "SG1",
+    "sha1": "4a41559afddbbd57ffd0039071558bc42b6c5d1e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "免费无价知识值钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "免费指南被垫桌子腿工作台（4629）；1920年停免费改贩卖、1926年星级标记、1931年三星体系（4631-4633，沿革史实归X4）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0084-01",
+   "unit_id": "SG1-U0084"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "价格是按照供求关系定的，不是由成本定的——米其林餐厅小费比一般正餐还贵",
+   "quote": "按照供求关系定的",
+   "anchor": {
+    "start_line": 4711,
+    "end_line": 4711,
+    "fingerprint": [
+     "小费",
+     "成本"
+    ],
+    "book_code": "SG1",
+    "sha1": "a30e3c2d3e2b4162b5443e591461ccfe1e509c9b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "价格由供求定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吃时高兴付账时心疼（4711）；一顿饭三到四小时、需求旺盛（4713）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0084-02",
+   "unit_id": "SG1-U0084"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无论什么事情做到极致，收入就会呈指数曲线提高；第五级与顶端的人无法相比",
+   "quote": "呈指数曲线提高",
+   "anchor": {
+    "start_line": 4719,
+    "end_line": 4719,
+    "fingerprint": [
+     "极致",
+     "第五级"
+    ],
+    "book_code": "SG1",
+    "sha1": "8c72f63216631da8c5c60071f8f776885c60ed31"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "极致收入指数提高",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应第54封信五级工程师、任何行业都可分级（4719）；50米外烧烤摊套餐价钱只有百分之一、寒风中等顾客（4721）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0084-03",
+   "unit_id": "SG1-U0084"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "行行出状元职业无高低贵贱；发挥自己的特长，而不是跟随别人挤进热门行业",
+   "quote": "高低贵贱",
+   "anchor": {
+    "start_line": 4723,
+    "end_line": 4725,
+    "fingerprint": [
+     "特长",
+     "热门行业"
+    ],
+    "book_code": "SG1",
+    "sha1": "4f245c9cf2d4e1f92f8bef06d2240ec8ef3a0838"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-4"
+   ],
+   "concept_key": "发挥特长不挤热门",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大厨社会地位收入似好莱坞明星、逼他从小学奥数可能只是三流工程师（4725）；想清楚这点生活或许幸福得多（4723）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0084-04",
+   "unit_id": "SG1-U0084"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0084",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "米其林轮胎公司办指南的由来、免费到收费沿革、星级体系与乔装评鉴方式（4623-4637），企业史叙述"
+  },
+  {
+   "unit_id": "SG1-U0084",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "让·乔治斯餐厅订位、菜单制与面包/开胃菜/副餐/主菜/甜点十余道菜品记述（4641-4713），就餐体验记述"
+  },
+  {
+   "unit_id": "SG1-U0084",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2000年泡沫期纽约这类餐厅服务员小费年收入十多万美元等时点收入数据（4717）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第075封信：免费无价知识值钱/价格由供求定/极致收入指数提高/发挥特长不挤热门，4卡全E1；企业史归X4、就餐记述归X8、时点数据归X2"
+}

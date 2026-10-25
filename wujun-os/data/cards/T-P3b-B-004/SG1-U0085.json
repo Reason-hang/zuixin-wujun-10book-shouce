@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0085",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1D",
+ "batch_id": "T-P3b-B-004",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业的本质是让人多花钱，而不是省钱；如何让人愿意花钱则是艺术",
+   "quote": "让人多花钱",
+   "anchor": {
+    "start_line": 4783,
+    "end_line": 4783,
+    "fingerprint": [
+     "商业的本质",
+     "省钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "4073ac01628bc587847f8d7df90d8c45d8144e03"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业本质让人多花钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "转述发达国家经济学家企业家的观察结果（4767）；从事商业需想其他方式、不能照抄增田宗昭（4783）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0085-01",
+   "unit_id": "SG1-U0085"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "线下到线上为省时省钱路越走越窄；线上回线下为花时间花钱路越走越宽",
+   "quote": "路就会越走越宽",
+   "anchor": {
+    "start_line": 4763,
+    "end_line": 4765,
+    "fingerprint": [
+     "省时间",
+     "商业机会"
+    ],
+    "book_code": "SG1",
+    "sha1": "5cd58da8ce238b8e81a84b6d76158675880c31d3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "两趋势宽窄路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被忽视的第二种趋势反而有更大的商业机会（4763）；旅游、音乐、体育从线下到线上再回归例（4753-4761）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0085-02",
+   "unit_id": "SG1-U0085"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "增田宗昭：寻找网络和实体的真正的协同作用，才是对CCC而言最佳的选择",
+   "quote": "真正的协同作用",
+   "anchor": {
+    "start_line": 4779,
+    "end_line": 4779,
+    "fingerprint": [
+     "增田宗昭",
+     "CCC"
+    ],
+    "book_code": "SG1",
+    "sha1": "9a3816ac56f94401e818366355c812cf9d6c207b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "网络实体协同",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=增田宗昭（茑屋书店/CCC创始人，4767-4769）；茑屋在线上千万会员、引流量到实体店（4777-4779）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0085-03",
+   "unit_id": "SG1-U0085"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "CCC是生活平台而非购物平台；线下生活平台无人投资，正是另辟蹊径的机会",
+   "quote": "生活平台",
+   "anchor": {
+    "start_line": 4781,
+    "end_line": 4781,
+    "fingerprint": [
+     "购物平台",
+     "另辟蹊径"
+    ],
+    "book_code": "SG1",
+    "sha1": "f990c8f1d3e491d0178cf490877bf96328340202"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "生活平台空白",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "购物看剧的网上平台多且竞争激烈（4781）；书店只是锚定产品、真正挣钱靠房地产租金（4769-4773）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0085-04",
+   "unit_id": "SG1-U0085"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们常常容易随大流；更需要独立思考，从事物的本质出发找到大流忽视的机会",
+   "quote": "从事物的本质出发",
+   "anchor": {
+    "start_line": 4785,
+    "end_line": 4785,
+    "fingerprint": [
+     "随大流",
+     "独立思考"
+    ],
+    "book_code": "SG1",
+    "sha1": "e415ef84fd3032493f385347769bcc10033411f7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D08-1"
+   ],
+   "concept_key": "独立思考找盲区",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "前提是人省了钱有了时间最终要花掉，否则茑屋模式基础不存在（4785）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0085-05",
+   "unit_id": "SG1-U0085"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0085",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "曾国藩恢复秦淮灯船轶事、摄影影视与音乐体育载体变迁、日本出版业与茑屋沿革背景（4745-4769），史实轶事叙述；趋势与商业判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第076封信：商业本质让人多花钱/两趋势宽窄路/网络实体协同E2/生活平台空白/独立思考找盲区，5卡（E1×4+E2×1）；史实轶事归X4"
+}
