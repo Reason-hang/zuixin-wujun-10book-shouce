@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG3-U0067",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "贸易保护可让一国短期局部获利，但长远害处更大，还可能刺激出潜在的竞争对手",
+   "quote": "从长远来讲害处更大",
+   "anchor": {
+    "start_line": 6817,
+    "end_line": 6821,
+    "fingerprint": [
+     "贸易保护",
+     "从长远来讲害处更大"
+    ],
+    "book_code": "SG3",
+    "sha1": "1152d80d710318a962e66d82a642af62395ae86b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "贸易保护长远有害",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《航海法案》刺激北美造船业与自产工业品为例（6807-6815）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0067-01",
+   "unit_id": "SG3-U0067"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "南北战争的治国理念之争不是空谈，实质是关税政策、经济制度与发展道路之争",
+   "quote": "具体的关税政策、经济制度",
+   "anchor": {
+    "start_line": 6885,
+    "end_line": 6885,
+    "fingerprint": [
+     "治国理念",
+     "关税政策"
+    ],
+    "book_code": "SG3",
+    "sha1": "73cabb17b4e99a40b06691e85b422222f2bf281d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "理念之争实为利益道路之争",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "欧文《贸易的冲突》'关税和平'：关税一致则和平、分歧大则冲突（6855-6859，转述经济史学家）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0067-02",
+   "unit_id": "SG3-U0067"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "偶然性的事件往往成为推动历史发展的标志性节点，如轧棉机发明改变南方经济",
+   "quote": "标志性节点",
+   "anchor": {
+    "start_line": 6885,
+    "end_line": 6889,
+    "fingerprint": [
+     "标志性节点",
+     "轧棉机"
+    ],
+    "book_code": "SG3",
+    "sha1": "c0b0db2e61b3fb5760be82fd416ea64f43933256"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "偶然事件为历史节点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "轧棉机让种植园利润剧增、巩固奴隶制、扭转南北力量对比（6833-6839，划重点1 6895）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0067-03",
+   "unit_id": "SG3-U0067"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "多马：奴隶制与自由制度并存于同一经济体时，前者更有生产效率且复制成功极快",
+   "quote": "复制后者成功的速度非常快",
+   "anchor": {
+    "start_line": 6871,
+    "end_line": 6873,
+    "fingerprint": [
+     "多马",
+     "奴隶制"
+    ],
+    "book_code": "SG3",
+    "sha1": "944cd99bdad57210b72d283d62417d519b32654d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "多马奴隶制效率论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=艾弗西·多马（美国经济学家，划重点3 6899）；俄国彼得大帝与日本明治维新纺织业例（6875）；低成本出口导向体制竞争力判断",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0067-04",
+   "unit_id": "SG3-U0067"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0067",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "南北战争前史叙述：《航海法案》细节与北美造船冶铁兴起（6805-6815）、白奴与建国废奴二十年之约（6825-6831）、轧棉机发明与惠特尼专利始末（6833-6839）、南北关税之争与战后统一市场、民权法案百年（6843-6881）、尼克松回忆录转述（6879），史实与时点叙述；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第054封信：贸易保护长远有害、理念之争实为利益道路之争、偶然事件为历史节点、多马奴隶制效率论（E2）；南北战争史实叙述归X4"
+}

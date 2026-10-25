@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG3-U0066",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不同的自然条件决定不同的经济模式和生活方式，各地区由此走出不同的发展道路",
+   "quote": "不同的经济模式和生活方式",
+   "anchor": {
+    "start_line": 6769,
+    "end_line": 6769,
+    "fingerprint": [
+     "自然条件",
+     "发展道路"
+    ],
+    "book_code": "SG3",
+    "sha1": "d7b522a1689e752dff7e43b8c2b0dc323ed109e3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "自然条件定经济模式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "拉美/北美东北部/北美南方三分对比（6771-6773）；文明史可迁移判断按X6例外归商业柱；南北差异后引发南北战争（6775）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0066-01",
+   "unit_id": "SG3-U0066"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济利益最终让起初不主张蓄奴的南方变成蓄奴州，制度选择随经济模式而定",
+   "quote": "经济利益最终让那里变成了蓄奴州",
+   "anchor": {
+    "start_line": 6761,
+    "end_line": 6761,
+    "fingerprint": [
+     "蓄奴州",
+     "种植园"
+    ],
+    "book_code": "SG3",
+    "sha1": "a15806ef9257d5c49d7924acbc7e5c21b440aed0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "经济利益定蓄奴制度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "英国人不适应热带劳动、黑奴成本优势（6759）；北方无种植园经济故蓄奴制未发展（6761）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0066-02",
+   "unit_id": "SG3-U0066"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0066",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "北美殖民史叙述：西葡与英国殖民者构成差异（6691-6699）、爱尔兰殖民经验与詹姆士顿存亡（6701-6715）、土地许诺与妇女移民（6719-6721）、与印第安人冲突及人口优势（6725-6733）、举家移民小社会与议会制（6727-6735）、西印度群岛甘蔗黑奴与海地革命（6745-6755）、殖民须大规模移民形成人口优势（6703-6705划重点1），纯史实科普无可迁移生活判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第053封信：北美与拉美殖民对比，仅自然条件定经济模式、经济利益定蓄奴制度两个可迁移判断；殖民过程史实归X4"
+}

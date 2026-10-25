@@ -1,0 +1,107 @@
+{
+ "unit_id": "SG3-U0074",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "太阳输送给地球的能量远超人类所能产生，一点浮动影响巨大，人类对自然影响仍微不足道",
+   "quote": "这仍然是微不足道的",
+   "anchor": {
+    "start_line": 7597,
+    "end_line": 7601,
+    "fingerprint": [
+     "太阳输送给地球的能量",
+     "微不足道"
+    ],
+    "book_code": "SG3",
+    "sha1": "511f8d2ec8b7ecdbc43a04af3cae0a480861d4cb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "人类能量远逊自然",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "德州正午光照能量约为全球发电量300倍例（7603）；卡尔达肖夫文明指数按可利用能源量级分级（7605，归X8）；划重点1（7647）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0074-01",
+   "unit_id": "SG3-U0074"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在做事之前要系统地考虑问题，否则简单地解决一个问题，可能带来更多更大的问题",
+   "quote": "系统地考虑问题",
+   "anchor": {
+    "start_line": 7641,
+    "end_line": 7641,
+    "fingerprint": [
+     "系统地考虑问题",
+     "更多更大的问题"
+    ],
+    "book_code": "SG3",
+    "sha1": "701b13c9373cda126e33e03b93c30c7012d479ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "做事先系统考虑",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "太阳能替代煤电需配套解决价格、储电、回收三问题例（7629-7635）；保护环境一靠资源二靠系统工程、无经济发展空谈环保保护不了环境（7649划重点2）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0074-02",
+   "unit_id": "SG3-U0074"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世上缺好心办成好事的人；办成好事先要对自然有所敬畏、承认人类能力有限",
+   "quote": "对自然有所敬畏",
+   "anchor": {
+    "start_line": 7641,
+    "end_line": 7641,
+    "fingerprint": [
+     "好心的人",
+     "敬畏"
+    ],
+    "book_code": "SG3",
+    "sha1": "701b13c9373cda126e33e03b93c30c7012d479ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D05-1"
+   ],
+   "concept_key": "敬畏自然办好事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "加州小山火是森林自我保护机制、高估能力遭报复（7623）；吴军中学时坚定环保主义者到认识转变（7627）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0074-03",
+   "unit_id": "SG3-U0074"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0074",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2020年加州山火时事叙述与时点论断：加州地中海气候与'核冬天'三日亲历（7569-7589）、西海岸大火灾情与'两分天灾八分人祸'归因（7609-7621）、环保组织禁小火禁砍树致1-1.5亿棵树被烧等当季事件评论（7617-7623），依附具体时点离开即失效；敬畏与系统工程的稳定判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0074",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "卡尔达肖夫文明指数科普：按可利用能源量级划分三型文明、人类未达第一型（7605），科学概念介绍无可迁移生活判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第061封信：人类能量远逊自然、做事先系统考虑、敬畏自然办好事；加州山火时事叙述归X2、卡尔达肖夫指数科普归X8"
+}

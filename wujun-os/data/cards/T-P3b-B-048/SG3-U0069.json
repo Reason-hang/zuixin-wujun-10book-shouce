@@ -1,0 +1,162 @@
+{
+ "unit_id": "SG3-U0069",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "私德有亏和公事上才华卓越，两者是可能共存的",
+   "quote": "私德有亏和公事上才华卓越",
+   "anchor": {
+    "start_line": 7133,
+    "end_line": 7133,
+    "fingerprint": [
+     "私德",
+     "才华卓越"
+    ],
+    "book_code": "SG3",
+    "sha1": "7e7933f46394461e261db994a71a3ed99198579c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "私德与才华可并存",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《汉密尔顿》小结三道理之一（7131）；汉密尔顿私德不好（7079）；识人时私生活与公事分开看",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0069-01",
+   "unit_id": "SG3-U0069"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "党争不可耻也不可怕，政敌可以都一心为国、才华横溢，只是人生观和政见不同",
+   "quote": "党争不可耻，也不可怕",
+   "anchor": {
+    "start_line": 7135,
+    "end_line": 7135,
+    "fingerprint": [
+     "党争",
+     "一心为国"
+    ],
+    "book_code": "SG3",
+    "sha1": "3b016dedbef22908df54e28557044407ea5a63c3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "党争不可怕",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "汉密尔顿与杰斐逊形同水火却客观促成1800革命（7127）；生活中职场中也有此类又一心为公又党同伐异的人（7139）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0069-02",
+   "unit_id": "SG3-U0069"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其盼望一个完美无缺的领袖，不如维护好自己的政治制度",
+   "quote": "维护好自己的政治制度",
+   "anchor": {
+    "start_line": 7137,
+    "end_line": 7137,
+    "fingerprint": [
+     "完美无缺的领袖",
+     "政治制度"
+    ],
+    "book_code": "SG3",
+    "sha1": "ea5277d73106544d263c2b5e391f4ae94426ad2f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "制度重于完美领袖",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "领导平庸或党争激烈时遵循立国制度原则国家仍能前进（7137）；1800大选后总统开始真正代表民众（7125）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0069-03",
+   "unit_id": "SG3-U0069"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "让债权人买入新债与政府利益绑定，是换取其支持强政府的机制设计",
+   "quote": "绑到了一起",
+   "anchor": {
+    "start_line": 7107,
+    "end_line": 7107,
+    "fingerprint": [
+     "新债券",
+     "强有力的联邦政府"
+    ],
+    "book_code": "SG3",
+    "sha1": "8d3d108a63577c435921266dc9cf47277f49de72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "利益绑定换支持",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "史实载体：汉密尔顿坚持按原价偿还各州旧债（7101-7105）；另以经济好处回馈支持者（7107）；非为谋私利",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0069-04",
+   "unit_id": "SG3-U0069"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汉密尔顿：选一个有着错误原则的人，总比一个完全没有原则的人要好",
+   "quote": "总比一个完全没有原则的人要好",
+   "anchor": {
+    "start_line": 7123,
+    "end_line": 7123,
+    "fingerprint": [
+     "错误原则",
+     "小人"
+    ],
+    "book_code": "SG3",
+    "sha1": "470fbbe14fa0025474259a2d9d69575747f60bec"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "有原则好过无原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=汉密尔顿（美国国父、首任财长），据说语，1800年说服联邦党人投杰斐逊；伯尔被称为小人、后决斗致死汉密尔顿（7123）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0069-05",
+   "unit_id": "SG3-U0069"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0069",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "汉密尔顿生平与美国建国史实：加勒比海出身与独立战争经历（7075-7077）、制宪会议与《联邦党人文集》及Federalists译名考证（7083-7093）、国债偿还争议经过（7101-7105）、民主共和党成立与历次选举操纵（7111-7121）、1800革命与决斗之死（7123-7127），纯史实；利益绑定机制已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0069",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "音乐剧《汉密尔顿》艺术评价：托尼奖16提名11奖纪录、'革命'两层含义、重新定义音乐剧如瓦格纳《尼伯龙根的指环》、一票难求（7057-7069），纯赏析无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第056封信：私德与才华并存、党争不可怕、制度重于完美领袖、利益绑定换支持、汉密尔顿选人原则（E2）；生平史实归X4、音乐剧赏析归X8"
+}

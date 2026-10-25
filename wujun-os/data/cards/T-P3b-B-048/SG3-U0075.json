@@ -1,0 +1,242 @@
+{
+ "unit_id": "SG3-U0075",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讲话通常有两个目的：传递信息（客观事实与主观想法），以及通过沟通联络感情",
+   "quote": "传递信息",
+   "anchor": {
+    "start_line": 7671,
+    "end_line": 7673,
+    "fingerprint": [
+     "两个目的",
+     "联络感情"
+    ],
+    "book_code": "SG3",
+    "sha1": "4285b61403df429f04788814c68c5a39b324346f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "讲话两大目的",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "本答问回应慧空和尚'说话得罪人'之问（7665，读者原文归X7）；信息与感情两类谈话功课不同（7675-7695）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-01",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "传递坏消息前先想该不该由你讲；非职责所在不要多此一举去告诉别人",
+   "quote": "该不该和他讲",
+   "anchor": {
+    "start_line": 7677,
+    "end_line": 7681,
+    "fingerprint": [
+     "坏消息",
+     "倒霉"
+    ],
+    "book_code": "SG3",
+    "sha1": "3225a9c40e4967dfc377a8d21df5e9fc9a6c5467"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "坏消息该不该讲",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "宰相扣奏报让将军自讲例（7679）；提职称未批让HR通知（7681）；闻过则喜者不足十分之一（7681）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-02",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "个人诉求要明确提出、不寄希望于让别人猜；语气要谦逊但态度要坚决，一次讲清楚",
+   "quote": "不要寄希望于让别人来猜",
+   "anchor": {
+    "start_line": 7683,
+    "end_line": 7683,
+    "fingerprint": [
+     "语气要谦逊",
+     "暗示"
+    ],
+    "book_code": "SG3",
+    "sha1": "2227371a3678f3d1a7612a689a93d4288692e13b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-3"
+   ],
+   "concept_key": "诉求要明说不暗示",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "朋友欠钱直接说清例（7685）；反复暗示是低效沟通、会被推责为斤斤计较（7685）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-03",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对人提意见先看对方性格调整方式；无伤大雅且不影响他人利益的错不必多指摘",
+   "quote": "显得为人不够宽容",
+   "anchor": {
+    "start_line": 7687,
+    "end_line": 7689,
+    "fingerprint": [
+     "急脾气",
+     "指摘"
+    ],
+    "book_code": "SG3",
+    "sha1": "ba77d13e9eb29715cb75e6b76b9c57c39d7df934"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "提意见因人而异",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "张三急脾气宜委婉、李四闷响宜庄重时机说重（7689）；三天两头唠叨招人反感（7689）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-04",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "联络感情的聊天靠长时间积累谈资并养成准备习惯，还要了解对方的喜好和忌讳",
+   "quote": "养成准备谈资的习惯",
+   "anchor": {
+    "start_line": 7693,
+    "end_line": 7695,
+    "fingerprint": [
+     "谈资",
+     "喜好和忌讳"
+    ],
+    "book_code": "SG3",
+    "sha1": "6dbe53cdf58e0321973f63f6e96e77bb35215854"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "谈资需积累",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "朋友约会以智力测验书救场例（7693）；学什么专业都需人文素养（7695）；别自顾自说个没完（7695）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-05",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "讲笑话好处远不及可能伤害；不可开对方与弱势群体玩笑；几次没人笑就别讲",
+   "quote": "缺乏对人起码的尊重",
+   "anchor": {
+    "start_line": 7697,
+    "end_line": 7705,
+    "fingerprint": [
+     "笑话",
+     "弱势群体"
+    ],
+    "book_code": "SG3",
+    "sha1": "c3b991988faf0c294f948c45bd45fa018c410268"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "笑话慎讲",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "一次得罪抹除一百次欢乐（7703）；讲两三次没人笑就彻底忘掉讲笑话（7705）；不是情商低而是缺尊重（7703）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-06",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "情商不及格先管住嘴（言多必失）；到80分需因人量体裁衣，90分需一语中的",
+   "quote": "管住自己的嘴",
+   "anchor": {
+    "start_line": 7707,
+    "end_line": 7711,
+    "fingerprint": [
+     "言多必失",
+     "情商"
+    ],
+    "book_code": "SG3",
+    "sha1": "a195b03fea9f159f23b4f1649505899fe98489e4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "情商管住嘴",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "引起别人注意靠一语中的而非说话多（7709）；常人60-70分、90以上高情商（7707、7711）；高目标可设不必强求（7711）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-07",
+   "unit_id": "SG3-U0075"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要提预设了观点的问题；去掉预设结论，矛盾往往就不存在了",
+   "quote": "最好不要给对方一个预设的结论",
+   "anchor": {
+    "start_line": 7719,
+    "end_line": 7721,
+    "fingerprint": [
+     "预设观点",
+     "矛盾"
+    ],
+    "book_code": "SG3",
+    "sha1": "30b2aba8a10da9b41dc0fbb3ab55e39db87246fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "勿预设观点提问",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "英国撤出殖民地之问的史实回答（7723-7729）归X4；'一贯想保持影响力'的说法本身有问题（7723）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0075-08",
+   "unit_id": "SG3-U0075"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0075",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者来信原文两则：慧空和尚说话得体之问（7665）、薛定饿着猫英国撤出殖民地与印巴分治之问（7713）；吴军回应与评述已单独抽卡"
+  },
+  {
+   "unit_id": "SG3-U0075",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "英国逐步退出殖民地与印巴分治史实：工党主张让殖民地独立、国大党与全印穆斯林联盟谈不拢、蒙巴顿不干涉与真纳急建国、东巴基斯坦独立为孟加拉国（7723-7729），纯史实科普"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问10：讲话两目的、坏消息该不该讲、诉求明说、提意见因人而异、谈资积累、笑话慎讲、情商管住嘴、勿预设提问8卡；读者来信原文归X7、印巴分治史实归X4"
+}

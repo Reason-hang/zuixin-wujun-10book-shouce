@@ -1,0 +1,238 @@
+{
+ "unit_id": "SG3-U0072",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要做出有效的进步，做事需要从计划导向调整到行动导向",
+   "quote": "从计划导向调整到行动导向",
+   "anchor": {
+    "start_line": 7387,
+    "end_line": 7387,
+    "fingerprint": [
+     "计划导向",
+     "行动导向"
+    ],
+    "book_code": "SG3",
+    "sha1": "cc48de83eaaec55afe76df53161a6f2e0b4437f9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "计划导向转行动导向",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "四原因：知识阶层依赖知（7389）、社会流动性大（7393）、领导力靠行动（7403）、独有认知靠行动（7411）；MIT校训mens et manus'脑和手'（7389）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-01",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "王阳明：知行合一更强调有了想法之后，要付诸行动",
+   "quote": "有了想法之后，要付诸行动",
+   "anchor": {
+    "start_line": 7369,
+    "end_line": 7369,
+    "fingerprint": [
+     "知行合一",
+     "付诸行动"
+    ],
+    "book_code": "SG3",
+    "sha1": "04309bdbd934aca71d35449c769ccdf1a14baa87"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "王阳明知行重行",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=王阳明；吴军解读：针对明朝士大夫重知不重行、光说不练（7369）；知行合一未回答先后问题（7369）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-02",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会流动性大，任何计划都需要在行动中根据具体情况的变化加以调整",
+   "quote": "根据具体情况的变化加以调整",
+   "anchor": {
+    "start_line": 7393,
+    "end_line": 7397,
+    "fingerprint": [
+     "流动性",
+     "计划"
+    ],
+    "book_code": "SG3",
+    "sha1": "2fac0b2be0a69ef7a4b357282d5098e83c8d8da5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "计划随行动调整",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "金属货币到纸币上千年、信用记账数百年、数字货币不到百年，变化加速例（7395）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-03",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无计划则脚踩西瓜皮时刻被动，固执执行不切实际的计划也时刻遇阻；有效计划约管十年",
+   "quote": "脚踩西瓜皮",
+   "anchor": {
+    "start_line": 7399,
+    "end_line": 7401,
+    "fingerprint": [
+     "不切实际的计划",
+     "被动"
+    ],
+    "book_code": "SG3",
+    "sha1": "1c9881c82b78ef9bc2ebe3f95e378ffe6e912688"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "计划的边界与被动",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军自述：很会定计划也能执行，最长的有效计划只管10年左右（7399）；行为决定下一个计划（7401）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-04",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "领导力的获得更依赖行动导向，只会算无遗策的谋臣成不了领袖",
+   "quote": "更依赖于行动导向",
+   "anchor": {
+    "start_line": 7403,
+    "end_line": 7409,
+    "fingerprint": [
+     "领导力",
+     "算无遗策"
+    ],
+    "book_code": "SG3",
+    "sha1": "ad8137e8a90806065a94547663b73497ff8d11fa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D05-1"
+   ],
+   "concept_key": "领导力靠行动导向",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "大学同学为班费骑车跑全流程例（7403-7407）；郭嘉算无遗策仍只是谋臣、曹操靠适时行动化险为夷（7409）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-05",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想获得他人没有的认知只能靠自己的行动；想在知的层次胜出需在行上更努力",
+   "quote": "行的方面比别人更努力",
+   "anchor": {
+    "start_line": 7411,
+    "end_line": 7415,
+    "fingerprint": [
+     "认知",
+     "行动"
+    ],
+    "book_code": "SG3",
+    "sha1": "7fc8eecec0fdb3898d0a07a0d763200db49fc85c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D05-1"
+   ],
+   "concept_key": "独有认知靠行动",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "极低成本易得的计划信息价值也极低（7419-7421）；浑水门店数人头发现瑞幸问题例（7419）；吴军写史走访一手资料（7421）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-06",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "杜威：经验=经验到的结果+经验的过程，两者缺一不可",
+   "quote": "经验=经验到的结果+经验的过程",
+   "anchor": {
+    "start_line": 7429,
+    "end_line": 7429,
+    "fingerprint": [
+     "杜威",
+     "缺一不可"
+    ],
+    "book_code": "SG3",
+    "sha1": "36d174b4194455a9587b833a35e755a8d3957a61"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "杜威经验公式",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=约翰·杜威（美国实用主义哲学家和教育家、胡适的老师）；对早年中国思想界教育界影响重大（7429）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-07",
+   "unit_id": "SG3-U0072"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有效进步更需要由行到知：做成之事变成经验再上升为认知，循环往复",
+   "quote": "从由行到知的过程",
+   "anchor": {
+    "start_line": 7425,
+    "end_line": 7425,
+    "fingerprint": [
+     "由知到行",
+     "由行到知"
+    ],
+    "book_code": "SG3",
+    "sha1": "69ee216fb7bf940d30f995ab25adaf9eeb7e1f4e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-2"
+   ],
+   "concept_key": "由行到知循环",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "由知到行人人都会，由行到知才有效进步（7425）；过程与结果缺一不可（7427）；杜威公式见C-SG3-U0072-07；以'学而知之，安而行之'作结（7431）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0072-08",
+   "unit_id": "SG3-U0072"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0072",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "知行论的经史铺垫：《中庸》孔子'生知/学知/困知、安行/利行/勉行'三分及'愚而好自用'辨析（7371-7383）、知识阶层与行动者的历史分工（7383）、《旧约》先知神谕与圣贤神化（7417），经典注疏与史述无可迁移生活判断；王阳明解读与杜威公式已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第059封信：计划导向转行动导向及四原因、王阳明知行重行（E2）、杜威经验公式（E2）、由行到知循环等8卡；中庸注疏史述归X4"
+}

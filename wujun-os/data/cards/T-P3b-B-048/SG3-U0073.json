@@ -1,0 +1,231 @@
+{
+ "unit_id": "SG3-U0073",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "为最有效地获得经验，要从盲目试错上升到科学试错",
+   "quote": "从盲目试错，上升到科学试错",
+   "anchor": {
+    "start_line": 7465,
+    "end_line": 7465,
+    "fingerprint": [
+     "经验",
+     "科学试错"
+    ],
+    "book_code": "SG3",
+    "sha1": "78fb728cda3a1e7b59ee05aa2d4a002b82a6c3b7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D04-3"
+   ],
+   "concept_key": "科学试错之路",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "主动试错是行动导向的一部分（7467）；杜威'探究'：对经历体验作回应适应环境（7545-7547）；划重点1（7553）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-01",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经历不等于经验；过程不可重复便不构成经验",
+   "quote": "不可重复的过程也就不构成经验了",
+   "anchor": {
+    "start_line": 7455,
+    "end_line": 7459,
+    "fingerprint": [
+     "经历",
+     "可重复"
+    ],
+    "book_code": "SG3",
+    "sha1": "cc0c80f3775e0ccd22ffcad1104a75d81d8074c3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "经历不等于经验",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "囚牢十年只有经历没有经验例（7455、7461）；杜威：经验是与环境相互作用的结果（7461）；一盎司经验胜过一吨理论（7463）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-02",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "杜威五步法前三步：经验仍适用勿为试错而试错；定位问题；先列举多方案再动手",
+   "quote": "尽可能地列举出更多的解决方案",
+   "anchor": {
+    "start_line": 7477,
+    "end_line": 7493,
+    "fingerprint": [
+     "试错",
+     "多种方案"
+    ],
+    "book_code": "SG3",
+    "sha1": "44a42042bd11f98042e498d8bca8b9e80b7a2278"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-3"
+   ],
+   "concept_key": "杜威五步法前三步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=杜威（思维五步法）；经验仍适用勿画蛇添足（7479-7481）；谷歌审核人乱改代码、新领导改规矩反例（7485）；动手前多动脑降低修正成本（7493）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-03",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "杜威五步法后两步：动手前理性推演方案效果，实践后对照验证或否定假设",
+   "quote": "先理性推演一遍不同设想的效果",
+   "anchor": {
+    "start_line": 7501,
+    "end_line": 7509,
+    "fingerprint": [
+     "理性推演",
+     "假设"
+    ],
+    "book_code": "SG3",
+    "sha1": "ea6762992c66a811fe93d630f312402b7308a172"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-3"
+   ],
+   "concept_key": "杜威五步法后两步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=杜威；推演比直接实操省资源省时间（7503-7507）；谷歌立项须至少两方案否则无法立项、背对背团队例（7495-7499）；五步法前三步见C-SG3-U0073-03",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-04",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "波普尔：只有经过验证的，或可证伪的假说，才是科学的",
+   "quote": "可证伪的假说，才是科学的",
+   "anchor": {
+    "start_line": 7511,
+    "end_line": 7511,
+    "fingerprint": [
+     "波普尔",
+     "证伪"
+    ],
+    "book_code": "SG3",
+    "sha1": "4f052282e2f22840c04fe23c79e386e387ca656e"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "波普尔可证伪",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=波普尔（科学哲学家）；杜威实证主义亦不主张盲目实践（7507）；验证两误区见C-SG3-U0073-06",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-05",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "验证两误区：结果否定假说后仍自圆其说（违奥卡姆剃刀）；用个案肯定或否定假说",
+   "quote": "自欺欺人",
+   "anchor": {
+    "start_line": 7511,
+    "end_line": 7517,
+    "fingerprint": [
+     "奥卡姆剃刀",
+     "自圆其说"
+    ],
+    "book_code": "SG3",
+    "sha1": "ff3807a725bb4de3fe7d24d3c9017f5a6691644a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "验证两误区",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "女生试探男生例：三种解释皆自欺欺人（7513）；媒体报道证据得不出结论例（7515）；个案误区不展开（7517）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-06",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聚焦原则：整体进步始于单点突破，措施逐一试错才能确认效果与归因",
+   "quote": "整体进步始于单点突破",
+   "anchor": {
+    "start_line": 7523,
+    "end_line": 7531,
+    "fingerprint": [
+     "单点突破",
+     "盲目试错"
+    ],
+    "book_code": "SG3",
+    "sha1": "13d73e0a3c7da29964592c792f5cc25862e00ed1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-2"
+   ],
+   "concept_key": "聚焦单点突破",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "英国自行车队例（7525）；10条措施一起上只提高0.2秒无法归因（7527）；逐一试错看似慢但保证进展（7529-7531）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-07",
+   "unit_id": "SG3-U0073"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "通过迭代实现完美主义：完美靠每次比原来更好实现，过程中要容忍缺陷",
+   "quote": "每一次比原来更好而实现",
+   "anchor": {
+    "start_line": 7533,
+    "end_line": 7541,
+    "fingerprint": [
+     "完美主义",
+     "截止日期"
+    ],
+    "book_code": "SG3",
+    "sha1": "fc56c6e1f2a95326383e8ab81878b1a1056ea258"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "迭代致完美",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "截止日期前做完最重要的事，不为全部完成而延期，也不偷工减料（7541）；一蹴而就则工作永远无法完成（7541）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0073-08",
+   "unit_id": "SG3-U0073"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第060封信：科学试错之路、经历不等于经验、杜威思维五步法两卡（E2）、波普尔可证伪（E2）、验证两误区、聚焦单点突破、迭代致完美，全单元方法论无排除项"
+}

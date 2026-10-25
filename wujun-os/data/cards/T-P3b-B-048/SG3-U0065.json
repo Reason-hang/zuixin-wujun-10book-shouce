@@ -1,0 +1,99 @@
+{
+ "unit_id": "SG3-U0065",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "地理和气候对国家、民族和经济的影响是谈历史绕不过去的话题，能解释今天世界上的很多现象",
+   "quote": "绕不过去的话题",
+   "anchor": {
+    "start_line": 6591,
+    "end_line": 6591,
+    "fingerprint": [
+     "地理和气候",
+     "很多现象"
+    ],
+    "book_code": "SG3",
+    "sha1": "ae12da6ca61f9d393da80a5f2e0cbad38b191ea2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "地理气候影响绕不过",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "孟德斯鸠《论法的精神》系统阐述过、今被扣地理决定论帽子，吴军评其部分有道理（6589）；文明史单元按可迁移判断抽出避免整体排除",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0065-01",
+   "unit_id": "SG3-U0065"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "地理环境决定早期文明形态：人类改变自然能力有限时，只能寻找适宜生存的环境",
+   "quote": "决定了早期的文明形态",
+   "anchor": {
+    "start_line": 6617,
+    "end_line": 6617,
+    "fingerprint": [
+     "地理环境",
+     "适宜生存的环境"
+    ],
+    "book_code": "SG3",
+    "sha1": "c790a43fdd297d495161d81416cab1eeac8e1700"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "地理定早期文明形态",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "早期文明多分布于纬度25-35度、美洲三文明在北纬20度与南纬10-20度（6607）；划重点2（6671）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0065-02",
+   "unit_id": "SG3-U0065"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "欧洲人带来新技术之后，依然不能克服自然条件的限制，人定胜天在当时并不成立",
+   "quote": "答案是依然不能",
+   "anchor": {
+    "start_line": 6621,
+    "end_line": 6621,
+    "fingerprint": [
+     "新的技术",
+     "人定胜天"
+    ],
+    "book_code": "SG3",
+    "sha1": "6ba255ee11c6be913317e613f2f9d63af1107e3f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "技术难逾自然限制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接殖民两阶段叙述：掠夺与采矿仍受地理与人口分布约束（6627-6633）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0065-03",
+   "unit_id": "SG3-U0065"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0065",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "美洲殖民史叙述：哥伦布前美洲人口估计与三大文明状况（6603-6615）、欧洲人掠夺与采矿两阶段（6623-6633）、拉美族裔混血与三阶层（6639-6651）、巴西葡萄牙王室整合特例（6653）、殖民特许状与拉美多国成因（6655-6663），纯史实科普；地理影响的可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第052封信：地理气候影响的三个可迁移判断；拉美殖民史实叙述归X4"
+}

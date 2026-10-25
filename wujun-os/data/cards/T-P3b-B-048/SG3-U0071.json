@@ -1,0 +1,180 @@
+{
+ "unit_id": "SG3-U0071",
+ "book_code": "SG3",
+ "extractor": "EXT-SG4",
+ "batch_id": "T-P3b-B-048",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做人生规划需从自我导向、组织导向和社会导向三个层次考虑，不能偏废",
+   "quote": "自我导向、组织导向和社会导向",
+   "anchor": {
+    "start_line": 7335,
+    "end_line": 7335,
+    "fingerprint": [
+     "人生规划",
+     "不能偏废"
+    ],
+    "book_code": "SG3",
+    "sha1": "9d12920e1ae548c0f04bd9fca2d61b047f5b6ed8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "三层导向规划",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "北漂演员比诗人成名多因更契合社会导向（7333）；划重点4（7349）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0071-01",
+   "unit_id": "SG3-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "让自我导向去配合机构导向的做法，其实就是团队精神",
+   "quote": "其实就是团队精神",
+   "anchor": {
+    "start_line": 7325,
+    "end_line": 7325,
+    "fingerprint": [
+     "机构导向",
+     "团队精神"
+    ],
+    "book_code": "SG3",
+    "sha1": "cbafc8a8f446848a9638bc672690ba89d8645cc0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "配合机构导向即团队精神",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "美国人除律师医生外改行司空见惯（7325）；中国年轻人反而常不愿迎合机构导向（7323）；划重点3（7347）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0071-02",
+   "unit_id": "SG3-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "组织内各岗位不是简单加法关系，缺了某一种，整个组织绩效可能打对折甚至更多",
+   "quote": "打对折甚至更多",
+   "anchor": {
+    "start_line": 7327,
+    "end_line": 7327,
+    "fingerprint": [
+     "加法关系",
+     "绩效"
+    ],
+    "book_code": "SG3",
+    "sha1": "25cd63a868b6a9fe871dacdb46118ed6956a7ce0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "组织岗位非加法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "组织无法短时配齐岗位、需员工配合调整（7327）；谷歌微软招毕业生不预定岗位、按需要调整（7329）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0071-03",
+   "unit_id": "SG3-U0071"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "加德纳：人可能有多达10种智力或天赋，如语言、数学、空间构想、人际交往等",
+   "quote": "多元智能理论",
+   "anchor": {
+    "start_line": 7299,
+    "end_line": 7299,
+    "fingerprint": [
+     "加德纳",
+     "多元智能理论"
+    ],
+    "book_code": "SG3",
+    "sha1": "c36cf4433e3ab99ebeee2dddfec6ccc66018f750"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "加德纳多元智能",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=加德纳（哈佛大学教育学教授，《心灵的框架：多元智能理论》）；智力需教育开发，未开发则不产生相应自我导向（7301）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0071-04",
+   "unit_id": "SG3-U0071"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自我导向与社会导向相一致即做自己爱做的事，坚持按本心做事常能做得非常好",
+   "quote": "坚持按照本心做事情",
+   "anchor": {
+    "start_line": 7285,
+    "end_line": 7285,
+    "fingerprint": [
+     "自我导向",
+     "本心"
+    ],
+    "book_code": "SG3",
+    "sha1": "70ba5ebe5c64dbb6ab4805e8592a7f3e17c85523"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "本心与社会导向一致",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "拿破仑爱打仗游戏恰逢国家需要为例（7285）；导向受能力与社会两因素影响而改变（7281-7283）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0071-05",
+   "unit_id": "SG3-U0071"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "万维钢：你有你的计划，但是世界另有计划",
+   "quote": "世界另有计划",
+   "anchor": {
+    "start_line": 7333,
+    "end_line": 7333,
+    "fingerprint": [
+     "万维钢",
+     "计划"
+    ],
+    "book_code": "SG3",
+    "sha1": "7579cd8825b0365779b8f1155b0738341688d474"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "世界另有计划",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=万维钢（科学作家），吴军引语收束三层导向论证；概括见C-SG3-U0071-01",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0071-06",
+   "unit_id": "SG3-U0071"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0071",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育与专业选择内容：中国孩子导向不一致两大成因（父母越俎代庖替孩子做选择7295、教育同质化7297-7309）、美国毕业生专业与就业错配及'没用的专业'清单（7313-7317）、给家长的两个提醒（7337），涉教育制度与家庭教育；多元智能理论与三层导向本体已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第058封信：三层导向规划、配合机构导向即团队精神、组织岗位非加法、加德纳多元智能（E2）、本心导向一致、世界另有计划（E2）；亲子教育与专业选择归X5"
+}
