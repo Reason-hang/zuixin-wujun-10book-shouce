@@ -1,0 +1,240 @@
+{
+ "unit_id": "SG3-U0240",
+ "book_code": "SG3",
+ "extractor": "EXT-SG16",
+ "batch_id": "T-P3b-B-060",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "轻易找到的往往是简单答案，它不解决问题，还阻碍进一步探索思考",
+   "quote": "简单的答案",
+   "anchor": {
+    "start_line": 25219,
+    "end_line": 25219,
+    "fingerprint": [
+     "探索和思考",
+     "答案"
+    ],
+    "book_code": "SG3",
+    "sha1": "2e40fa5050d446bc9eef6976c82eaf7dc1db5e0c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "简单答案的陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "找到一个问题答案可能没有意义甚至有害（25219）；真正捆住思维的不是墙而是能力、阅历和经验——两米高的墙挡不住姚明，矮墙却能挡住小矮人（25277）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-01",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学校里的问题答案相对简单，现实中哪怕小问题的答案都可能很复杂",
+   "quote": "答案都可能很复杂",
+   "anchor": {
+    "start_line": 25229,
+    "end_line": 25231,
+    "fingerprint": [
+     "毕业设计课题",
+     "现实"
+    ],
+    "book_code": "SG3",
+    "sha1": "aec8527ef091bbf557c9f92293b017e62d11a89c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "现实问题无简单答案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "成绩极好的学生在谷歌面试表现不好的原因（25225-25227，2005年招聘叙事见X2）；网络爬虫面试题学校30行代码、谷歌几百人团队几百万行代码（25233）；托福高分订不好机票例：老板把条件都讲清就不需要助理了（25235）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-02",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不费力想到的好答案往往是别人淘汰的；未解之题不存在灵机一动答案",
+   "quote": "淘汰掉的答案",
+   "anchor": {
+    "start_line": 25253,
+    "end_line": 25255,
+    "fingerprint": [
+     "灵机一动",
+     "贾里尼克"
+    ],
+    "book_code": "SG3",
+    "sha1": "8d5ab8e467e4e85e6f6775c6eb63adb06d4b7c87"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "好答案是淘汰答案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "NASA太空笔传闻真相见X4（25241-25251）；贾里尼克：受益最多的不是被告知该怎么做而是不能怎么做，那些办法IBM十多年前已试过不管用（25255）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-03",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "工程师：发动机1000个问题解决20个能工作但不实用，解决100个才是商用开始",
+   "quote": "商用的开始",
+   "anchor": {
+    "start_line": 25259,
+    "end_line": 25259,
+    "fingerprint": [
+     "发动机",
+     "商用"
+    ],
+    "book_code": "SG3",
+    "sha1": "74419e2b8755f483392631856e1353de1206f84d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "千题百题商用门槛",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军朋友的孩子（奔驰公司机械工程师）；引子：内燃机一百多年历史中国国产发动机仍做不好（25257）；今天发动机与一百年前完全不可比（25259）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-04",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "芯片设计者：成功要走一百步，第十步就能出样片，后面问题多十倍",
+   "quote": "胜利的曙光",
+   "anchor": {
+    "start_line": 25261,
+    "end_line": 25261,
+    "fingerprint": [
+     "一百步",
+     "样片"
+    ],
+    "book_code": "SG3",
+    "sha1": "df80f3f2ccd742b06157c3db3b6e7d6f88c9ebd7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "样片只是第十步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴军的弟弟（半导体芯片设计者）；引子：一些地方投资半导体几十亿砸下去没见响（25261）；很多人到样片就觉得看到胜利曙光，其实还差得远（25261）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-05",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真实世界的复杂性远超多数人想象；解决一百个问题未成才换事总在墙外兜圈",
+   "quote": "复杂性",
+   "anchor": {
+    "start_line": 25265,
+    "end_line": 25265,
+    "fingerprint": [
+     "转圈子",
+     "围墙外"
+    ],
+    "book_code": "SG3",
+    "sha1": "40878e26e4c9b9dcb2d98400cf3a42aade8631f7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "真实世界复杂性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承接口述：很多人努力只在前一百个问题里转圈子，解决一百个还没成功就转做另一件事，总在成功的围墙外兜圈子（25265）；与发动机、芯片两例互证（25259、25261）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-06",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "用人单位录用最关键的因素只有实力，应聘技巧只是锦上添花",
+   "quote": "锦上添花",
+   "anchor": {
+    "start_line": 25267,
+    "end_line": 25271,
+    "fingerprint": [
+     "实力",
+     "竹篮打水"
+    ],
+    "book_code": "SG3",
+    "sha1": "5e72d781233bf9d6607669d07c8c0013e65ea4e2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "实力是录用关键",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "实力不只是解决学校纸面问题的能力：考试只有一两个小时，工作里两小时能解决的问题很少（25273）；师妹例：有实力改穿着后很快找到工作，有再多衣服没实力几年也补不上（25273）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-07",
+   "unit_id": "SG3-U0240"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对待先贤要虚心学习思想精髓，而不是找错误显高明，前者终身受益",
+   "quote": "先贤思想的精髓",
+   "anchor": {
+    "start_line": 25283,
+    "end_line": 25289,
+    "fingerprint": [
+     "人无完人",
+     "终身受益"
+    ],
+    "book_code": "SG3",
+    "sha1": "37cf1cb1a5c1070fdb007b87a365a53299b9cbaa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "学精髓不挑错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "孔子老子亚里士多德牛顿释迦牟尼都有局限性（25283）；找先贤局限不过是说了人尽皆知的事，贡献不会因此超过先贤（25289）；U0245对先贤宽容卡与此互引；与贤者为伍是增加阅历最快方式，但间接经验仍需自己触碰世界（25279-25281）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0240-08",
+   "unit_id": "SG3-U0240"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0240",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "NASA太空笔传闻考订：阿波罗计划太空书写问题、铅笔碎屑危险被排除、菲舍尔太空笔百万美元研发史（25241-25251），纯科技史科普；好答案是淘汰答案的判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0240",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2005年谷歌中国招聘淘汰率、宿华陈磊等当时录用者名单叙事（25223-25225），依附具体时点事件的叙述"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第199封信：简单答案陷阱/现实问题无简单答案/好答案是淘汰答案/千题百题商用门槛/样片只是第十步/真实世界复杂性/实力是录用关键/学精髓不挑错；NASA太空笔考订归X4、2005谷歌招聘归X2"
+}

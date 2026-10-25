@@ -1,0 +1,105 @@
+{
+ "unit_id": "SG3-U0237",
+ "book_code": "SG3",
+ "extractor": "EXT-SG16",
+ "batch_id": "T-P3b-B-060",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人最能指望的是自己；不愿依靠自己而指望他人是心存妄念，早打消早好",
+   "quote": "心存妄念",
+   "anchor": {
+    "start_line": 24991,
+    "end_line": 24995,
+    "fingerprint": [
+     "指望",
+     "妄念"
+    ],
+    "book_code": "SG3",
+    "sha1": "dfe5df6a39528bf71a718ff68bc551e11e4f4646"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "指望自己不靠妄念",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "针对攀高枝择偶问题的总结：靠老丈人岳父母上位的想法趁早打消（24991）；靠别人提携的日子不好过（24983）；该判断为通用三观，攀高枝婚恋论证主体见X5处置",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0237-01",
+   "unit_id": "SG3-U0237"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "陆奇：身体像汽车，按习惯方式匀速生活不易出问题，没规律问题就大",
+   "quote": "人的身体就像汽车",
+   "anchor": {
+    "start_line": 25009,
+    "end_line": 25015,
+    "fingerprint": [
+     "陆奇",
+     "匀速行驶"
+    ],
+    "book_code": "SG3",
+    "sha1": "80ac61ce5b52ac310cb0e854b425b04e6335a034"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "规律生活如匀速行驶",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=陆奇；如同汽车按每小时70英里在高速路匀速行驶（25009-25011）；梅耶尔、李开复、拉里·埃里森精力过人例（25009-25013）；吴军重申记住陆奇这句话（25015）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0237-02",
+   "unit_id": "SG3-U0237"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "精力因人而异不必过分强求；熬夜一次三天不济的人千万不要熬夜",
+   "quote": "千万不要熬夜",
+   "anchor": {
+    "start_line": 25015,
+    "end_line": 25015,
+    "fingerprint": [
+     "节奏",
+     "精力不济"
+    ],
+    "book_code": "SG3",
+    "sha1": "2813e5f119538b55d74b2553231836bb50dd4701"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "按自己节奏用精力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "绝大多数人不可能长期连轴转，要按自己的节奏学习和工作（25015）；身体状况不同，不要对自己过分强求（25007）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0237-03",
+   "unit_id": "SG3-U0237"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0237",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "婚恋攀高枝议题：找金丈母快速进入上流社会的利弊、富豪家族信托与婚姻财产规则（女明星、戴安娜、邓文迪案例）、门当户对与岳父期望值、状元娶公主史实考订、谷歌同事与大小姐恋爱案例（24953-24989），属择偶与亲密关系议题；仅指望自己的三观判断与精力管理入K卡"
+  },
+  {
+   "unit_id": "SG3-U0237",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "路边乞丐施舍的个人做法：不影响安全就抓一把钢镚、是否骗子懒得过脑子（25005），个人轶事无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "答读者问36：婚恋攀高枝主体归X5；可抽卡仅指望自己三观与精力管理两条（含陆奇匀速行驶转述），降档3卡"
+}

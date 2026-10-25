@@ -1,0 +1,180 @@
+{
+ "unit_id": "SG3-U0234",
+ "book_code": "SG3",
+ "extractor": "EXT-SG16",
+ "batch_id": "T-P3b-B-060",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "孔子：好的社会里落得贫贱是自己的耻辱，乱世里大富大贵也是耻辱",
+   "quote": "邦有道，贫且贱焉，耻也",
+   "anchor": {
+    "start_line": 24693,
+    "end_line": 24693,
+    "fingerprint": [
+     "孔子",
+     "耻辱"
+    ],
+    "book_code": "SG3",
+    "sha1": "13707f884608bd05d3240c29133e81b518f25c27"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "邦有道贫且贱为耻",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=孔子；吴军引申：今天正逢人类几千年来的盛世，一个人躺平到流浪汉的程度需要思考自己的问题（24693）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0234-01",
+   "unit_id": "SG3-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "繁荣时代年轻人反而迷惘：不是社会太糟，是社会太好引发对比与失动力",
+   "quote": "社会太好了",
+   "anchor": {
+    "start_line": 24659,
+    "end_line": 24659,
+    "fingerprint": [
+     "迷惘",
+     "物质条件丰富"
+    ],
+    "book_code": "SG3",
+    "sha1": "c772dfcf217c5fcc629ece9d61d9da210dda430a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "繁荣致迷惘",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "20年代柯立芝繁荣与迷惘的一代背景（24657，史实见X4）；社会太好让人接触到原本接触不到的东西，对比引发不满，或物质丰富使年轻人失去前进动力（24659）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0234-02",
+   "unit_id": "SG3-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "躺平的年轻人大多数躺一阵后发现无法继续躺，还得回到社会合作之中",
+   "quote": "回到社会合作之中",
+   "anchor": {
+    "start_line": 24673,
+    "end_line": 24673,
+    "fingerprint": [
+     "大多数",
+     "躺"
+    ],
+    "book_code": "SG3",
+    "sha1": "9d24b361bb4b19caa531f38e149ff77c380e83bb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "躺平者终回合作",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "60年代垮掉一代后来分化：一部分70年代穿上正装上班创业，如乔布斯与硅谷第二代创业者、巴尔的摩房东获普利策奖提名的摄影记者（24671-24673）；少数一直躺到今天成伯克利流浪汉（24675，见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0234-03",
+   "unit_id": "SG3-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "躺平是思想解放的说法不成立：其主张未超越60年代垮掉一代的水平",
+   "quote": "垮掉一代",
+   "anchor": {
+    "start_line": 24685,
+    "end_line": 24689,
+    "fingerprint": [
+     "躺平",
+     "年轻人的水平"
+    ],
+    "book_code": "SG3",
+    "sha1": "09cf216d7adfd406e555565d737666c8fbee6d77"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "躺平未超垮掉一代",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "流浪汉想法与躺平辩护（不买房不消费、拒绝成为赚钱机器）高度相似（24685）；第欧根尼有思想贡献且处古典文明末世、竹林七贤是司马氏乱世装疯避祸，与躺平均不可比（24695-24697）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0234-04",
+   "unit_id": "SG3-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "极简主义生活只降低物质欲望，省出的时间精力是要做更多的事",
+   "quote": "降低物质欲望",
+   "anchor": {
+    "start_line": 24699,
+    "end_line": 24699,
+    "fingerprint": [
+     "极简主义",
+     "做更多的事情"
+    ],
+    "book_code": "SG3",
+    "sha1": "4899baf95f76eac101a245314f546f958bc8af49"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "极简非躺平",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "贾里尼克极简生活例：开20多年旧丰田、饮食简单，62岁建约翰霍普金斯CLSP中心并使之成为世界最大NLP研究中心，工作到生命最后一天（24701-24703，细节见X4）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0234-05",
+   "unit_id": "SG3-U0234"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能躺平是上一代奋斗创造了条件；人躺久了站不起来，社会躺久了没资源",
+   "quote": "还有条件躺平",
+   "anchor": {
+    "start_line": 24707,
+    "end_line": 24713,
+    "fingerprint": [
+     "上一代的奋斗",
+     "躺久了"
+    ],
+    "book_code": "SG3",
+    "sha1": "d8a77a9fd502076e4f7bdb0ca52c23ed104d543b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "躺平的条件与代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "40年前改革开放之初条件更苦无人躺平，因为躺平就意味着饿死（24707）；软件条件是社会对个人行为更宽容（24709）；对社会不满比起躺平不如采取行动营造更公平环境，让社会尊重每个人的工作和价值（24715）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0234-06",
+   "unit_id": "SG3-U0234"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0234",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "欧美青年运动史实叙述：迷惘的一代与柯立芝繁荣、垮掉的一代与嬉皮士运动、乔布斯与巴尔的摩房东案例、伯克利流浪汉与斯坦福退休教授夫妇访谈（24655-24683）、第欧根尼犬儒派与竹林七贤背景考订（24695-24697）、贾里尼克极简生活细节（24701-24703），纯社会史与个人见闻科普；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第194封信：躺平未超垮掉一代/躺平者终回合作/繁荣致迷惘/极简非躺平/躺平的条件与代价/孔子邦有道耻；欧美青年运动史实归X4"
+}

@@ -1,0 +1,202 @@
+{
+ "unit_id": "SG3-U0251",
+ "book_code": "SG3",
+ "extractor": "EXT-SG17",
+ "batch_id": "T-P3b-B-061",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "流传很广的小聪明故事有三特点：看似聪明的记忆点、关联财富运气、借信息不对称与俗人心态",
+   "quote": "利用了信息不对称",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26341,
+    "end_line": 26341,
+    "fingerprint": [
+     "破绽百出",
+     "信息不对称"
+    ],
+    "sha1": "cdb91c3771ae92a573b5fb8968e19e97a85ba23e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "毒鸡汤故事三特点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "背景设得离普通人远，动辄首富大企业家，迎合'大人物也是俗人'心理（26341）；划重点1（26423）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-01",
+   "unit_id": "SG3-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "总是相信小聪明故事会扭曲对真实世界的认知，一厢情愿追求虚构目标，每信一回认知降一点",
+   "quote": "扭曲自己对于真实世界的认知",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26343,
+    "end_line": 26347,
+    "fingerprint": [
+     "认知",
+     "智商税"
+    ],
+    "sha1": "c0981de13f8db6527d86da547ecdd433f6b2a955"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信毒鸡汤扭曲认知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "久而久之变成'智商税'的目标人群（26347）；划重点2（26425）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-02",
+   "unit_id": "SG3-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "若总结出道理的事情完全是虚构的，这道理便没有可信的价值，变体再多也如此",
+   "quote": "这种道理是可信的呢",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26355,
+    "end_line": 26355,
+    "fingerprint": [
+     "虚构",
+     "嫁接资源"
+    ],
+    "sha1": "9e3e25e9b978c539cefb1f3edabdb880b423fd25"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "虚构故事无道理价值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "'老爹空手套白狼'盖茨女婿故事硬伤：盖茨大女儿未婚、世界银行总裁无法指名副总裁（26351-26353）；'富翁智赚停车费'故事的银行抵押硬伤（26357-26363）；同理追问见26365",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-03",
+   "unit_id": "SG3-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正的事实充满细节，远不是35岁、43岁几个数字能概括的；有意忽略细节的说法掩盖真相",
+   "quote": "真正的事实充满细节",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26381,
+    "end_line": 26381,
+    "fingerprint": [
+     "任正非",
+     "数字"
+    ],
+    "sha1": "82510695acc440ae80dad57dc1184c37a4b408b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "事实充满细节",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "任正非是文革前稀缺大学生、1978全国科学大会代表、年纪与经验恰逢信息产业兴起（26381）；董明珠实为十多年经验的行政主管、靠业绩救活格力（26383）；马云黄峥等'35岁'神话同属此类（26371-26377）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-04",
+   "unit_id": "SG3-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "黄峥的成功有迹可循：他知道人比钱重要，把并购所得还给投资人赢得信任并留住能干的团队",
+   "quote": "人比钱重要",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26389,
+    "end_line": 26389,
+    "fingerprint": [
+     "黄峥",
+     "段永平"
+    ],
+    "sha1": "d3bba5eaaa31667b5c7570c7fb93a75370382134"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-1"
+   ],
+   "concept_key": "人比钱重要",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "专名案例承载可迁移判断：黄峥团队曾为吴军工作中最出成果者（26385）；并购后还钱给段永平等投资人、收获含谷歌中国主力的工程团队、实习生即拼多多CEO陈磊（26387-26389）；首次创业未上市而卖出的过程（26387）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-05",
+   "unit_id": "SG3-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "沦为毒鸡汤目标受众的五特质：轻视逻辑、信四两拨千斤、知识贫穷、爱听顺耳枕头话、信息茧房",
+   "quote": "信息茧房",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26395,
+    "end_line": 26407,
+    "fingerprint": [
+     "逻辑",
+     "四两拨千斤",
+     "信息茧房"
+    ],
+    "sha1": "a2c17c4a06563b1aabcec574b56874395a62e54b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "沦为毒鸡汤目标特质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清单式方法论整体一卡：社会系统严密漏洞少、不可能靠捡漏成功（26397-26401）；金融常识可自行拆穿豪车抵押故事（26403）；枕头让你沉睡，没人能舒舒服服做出成就（26405）；人性弱点需时时自省（26409）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-06",
+   "unit_id": "SG3-U0251"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "可把智商看成一个相对值：比别人更能明辨真伪、更不易陷入抖机灵陷阱，就是更高的智商",
+   "quote": "把智商看成一个相对值",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26413,
+    "end_line": 26417,
+    "fingerprint": [
+     "相对值",
+     "明辨真伪"
+    ],
+    "sha1": "ec68afa71891eff554a4b151812c2b72459100a4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "智商是明辨真伪相对值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "比一般人更能明辨真伪智商超100，比四分之三的人更不易陷入陷阱智商110（26415）；比做数学题的智商更有意义（26417）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0251-07",
+   "unit_id": "SG3-U0251"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第208封信小聪明故事：毒鸡汤三特点/扭曲认知/虚构无道理/事实充满细节/黄峥人比钱重要（E3专名案例）/五特质清单/智商相对值；虚构故事拆解并入卡注，无X处置"
+}

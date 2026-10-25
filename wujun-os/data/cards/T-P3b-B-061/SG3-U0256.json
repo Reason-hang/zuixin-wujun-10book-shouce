@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG3-U0256",
+ "book_code": "SG3",
+ "extractor": "EXT-SG17",
+ "batch_id": "T-P3b-B-061",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知识信息更新迭代速度空前，认为青少年时代的教育够用一生已不现实，受教育步伐不能慢于时代",
+   "quote": "教育就足够应用一生",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26847,
+    "end_line": 26847,
+    "fingerprint": [
+     "更新迭代",
+     "终身教育"
+    ],
+    "sha1": "999978766aaa02f4e4ebf6fd4ef3a1df1fa470ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "教育步伐不慢于时代",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "终身教育概念最早由朗格朗1970年《终身教育引论》提出（26843，转述背景）；绝大部分人接受新知速度慢于时代，40、50岁就跟不上（26847）；划重点1（26921）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-01",
+   "unit_id": "SG3-U0256"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人口增长致竞争激化、新产业加快诞生；死守原职业面临被替代与竞争加剧双重风险，换赛道就要更新知识框架",
+   "quote": "死守着自己原本的职业",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26851,
+    "end_line": 26859,
+    "fingerprint": [
+     "人口的增长",
+     "职业赛道"
+    ],
+    "sha1": "a072e19cd116ee4d806811ce4d565a0901fde8cb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "换赛道需更新知识",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "内卷原因之一即人口增长，人均寿命70岁国家大增（26851）；论点框架源自朗格朗，吴军结合内卷与产业变迁展开",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-02",
+   "unit_id": "SG3-U0256"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应对复杂情况的知识学校不会教，从网络碰瓷到海外上市，我们必须在社会生活中重新学习",
+   "quote": "在社会生活中重新学习",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26867,
+    "end_line": 26871,
+    "fingerprint": [
+     "全球化",
+     "学校是不会教的"
+    ],
+    "sha1": "1d7bf60f71802b0c84541118fe326f9cb5560c71"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学校外知识社会学",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "全球化逆全球化挑战为人忽视（26865）；世界格局与50年前30年前10年前大不相同（26869-26871）；格局巨变叙述本体已登记X6",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-03",
+   "unit_id": "SG3-U0256"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "岗位相对减少、间歇性失业增长之下，学习是继续参与社会活动的重要方式；回职者共同点是不曾真正离开社会",
+   "quote": "不曾真正离开过社会",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26885,
+    "end_line": 26887,
+    "fingerprint": [
+     "间隔年",
+     "天壤之别"
+    ],
+    "sha1": "f653bb8170b9a2a1518a144789cec74901cab084"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "学习维系社会参与",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "技术进步使一人可做过去几十人工作（26885）；不工作期间宅家玩游戏与主动充电者一年后适应力天壤之别（26887）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-04",
+   "unit_id": "SG3-U0256"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每个人都需自己去创造自己在社会中的发展空间，不可能依靠其他人或组织的安排",
+   "quote": "创造自己在社会中的发展空间",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26889,
+    "end_line": 26891,
+    "fingerprint": [
+     "发展空间",
+     "组织"
+    ],
+    "sha1": "59f2ad30bc8c62219b6df6f1d314e33a6fd013b0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "自创社会发展空间",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "很多人不知道该做什么、找到了喜欢的事又未必做好，是普遍社会问题，整体解法是全社会建立终身学习氛围与支持机制（26891）；划重点2（26923）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-05",
+   "unit_id": "SG3-U0256"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "终身学习四法：自我驱动优先学马上要用的、善用小组学习、边做边学、兼顾广度与深度",
+   "quote": "优先学习马上要用到的内容",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26899,
+    "end_line": 26911,
+    "fingerprint": [
+     "自我驱动",
+     "小组学习",
+     "广度和深度"
+    ],
+    "sha1": "dd2d38df5b29287a3f2f75a9086385519dffcb21"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "终身学习四法",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "清单式方法论整体一卡：朗格朗从新方法新工具两维度给建议，吴军总结最有用四点（26897）；不指望长辈老师教，自设内容自找评估（26899-26901）；同事共同解决业务问题也是小组学习（26907）；学校教育越学越深广度收窄，终身教育补平衡（26911）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-06",
+   "unit_id": "SG3-U0256"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "遇到难题，通过学习和研究解决难题，是比学校里的学习更有效率的学习方式",
+   "quote": "更有效率的学习方式",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26909,
+    "end_line": 26909,
+    "fingerprint": [
+     "边做边学",
+     "科研"
+    ],
+    "sha1": "8ba99e86468864f6d75341803643a0e0ebb3d55a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "难题驱动更高效",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "科研是标志性终身学习，科学家边学习边工作围绕目标展开（26909）；医生等技术职业同理；划重点3（26925）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0256-07",
+   "unit_id": "SG3-U0256"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0256",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "宏观趋势叙述（26863 未来受益于智能革命者仅最上层2%的预测，引自《智能时代》；26865-26869 二战后独立国家数量、全球化与逆全球化震荡、世界格局巨变；26873-26877 寿命延长与生活方式变化）：宏观经济与科技趋势叙述归X6候选；'学校不会教须社会重学'的可迁移判断已入K卡",
+   "lines": "26863-26877"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第212封信朗格朗终身教育：教育步伐不慢于时代/换赛道更新知识/学校外知识社会学/学习维系社会参与/自创发展空间/终身学习四法/难题驱动更高效；宏观趋势叙述X6"
+}

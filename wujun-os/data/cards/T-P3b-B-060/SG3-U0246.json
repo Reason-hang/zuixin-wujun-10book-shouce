@@ -1,0 +1,270 @@
+{
+ "unit_id": "SG3-U0246",
+ "book_code": "SG3",
+ "extractor": "EXT-SG16",
+ "batch_id": "T-P3b-B-060",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "弯道超车是毒鸡汤：只要跑得比别人快自然会超过，重点应在跑得快",
+   "quote": "变了个方法讲捷径",
+   "anchor": {
+    "start_line": 25827,
+    "end_line": 25835,
+    "fingerprint": [
+     "毒鸡汤",
+     "跑得比别人"
+    ],
+    "book_code": "SG3",
+    "sha1": "43df5b4aa098689e06b4ba7953e55e2438868e4e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "弯道超车是毒鸡汤",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "受追捧的鸡汤是讲靠智慧或机会替代努力：风口、弯道超车（25827）；风口和弯道超车存在但是特殊情况不具普遍性（25829）；强调弯道的说法重点不在跑得快（25831）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-01",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大器晚成都是厚积薄发，只是积累势能花的时间比别人长一点",
+   "quote": "厚积薄发",
+   "anchor": {
+    "start_line": 25837,
+    "end_line": 25843,
+    "fingerprint": [
+     "大器晚成",
+     "势能"
+    ],
+    "book_code": "SG3",
+    "sha1": "c21d13cde501a5f16f00c176d5dfa97519d0134f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "大器晚成即厚积薄发",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大器晚成用于未成功时鼓励坚持不懈，不是一事无成时安慰自己（25837）；鸡汤只讲结果省略了过程中的无数努力（25837）；爱因斯坦1分故事考订见X4（25839）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-02",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "承认繁荣发展的大前提，却抱怨社会没机会怀才不遇，是自相矛盾",
+   "quote": "这就叫做自相矛盾",
+   "anchor": {
+    "start_line": 25847,
+    "end_line": 25849,
+    "fingerprint": [
+     "大前提",
+     "怀才不遇"
+    ],
+    "book_code": "SG3",
+    "sha1": "1c8ee6c4a54743d0d8107037cd9aca83b85b9d25"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "承认前提勿自相矛盾",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "北上广深房价分析与央行住房自有率数据见X2（25849-25857）；房价低说明当地经济不活跃收入高不了，指望压房价让自己买得起也是自相矛盾（25859）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-03",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "滥用辩证法让人分不清好坏；坏事好事的判断存在基本标准",
+   "quote": "滥用辩证法",
+   "anchor": {
+    "start_line": 25861,
+    "end_line": 25861,
+    "fingerprint": [
+     "基本判断标准",
+     "分不清"
+    ],
+    "book_code": "SG3",
+    "sha1": "0c9a75f65aac18dbe183fb95708d8edf172c9db6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "忌滥用辩证法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "见坏事说好一面、见好事说坏一面没有意义（25861）；投行收获损失harvest loss例：去年亏1万今年赚2万缴税后净收入5000，只有不亏时1万的一半（25863-25867）；媒体强调挽回损失是把丧事办成喜事（25869）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-04",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要养成就事论事的习惯：好就是好，不可文过饰非、讳疾忌医",
+   "quote": "就事论事的习惯",
+   "anchor": {
+    "start_line": 25869,
+    "end_line": 25873,
+    "fingerprint": [
+     "文过饰非",
+     "讳疾忌医"
+    ],
+    "book_code": "SG3",
+    "sha1": "d77edfa4b31664b176db17eb39c5d7f468bc59ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D01-1"
+   ],
+   "concept_key": "就事论事忌文过饰非",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "同事和老板都能一眼看穿坏事说成好事（25869）；做错事造成损失不可怕，可怕的是怕担责任而文过饰非（25869）；不可把自身问题推诿到环境和他人身上（25873）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-05",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聚焦问题不节外生枝：命题成立不等于否命题成立，职场要在特定时间得到结果",
+   "quote": "不等于它的否命题",
+   "anchor": {
+    "start_line": 25877,
+    "end_line": 25885,
+    "fingerprint": [
+     "节外生枝",
+     "抬杠",
+     "必须要得到一个结果"
+    ],
+    "book_code": "SG3",
+    "sha1": "bfd990146111f9234ee8a591df5649c66dbc98c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D06-2"
+   ],
+   "concept_key": "聚焦问题忌节外生枝",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "抬杠例：难道不聪明不努力就能过好一生了吗——否命题未必成立，不讨论是因早有定论（25879）；学生时代天马行空无伤大雅，进入职场要特定时间内解决特定问题必须得到结果（25881-25883）；节外生枝降低效率（25885）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-06",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "聚焦主要职责：不揽无关事、不传话，人不知而不愠是成熟表现",
+   "quote": "人不知而不愠",
+   "anchor": {
+    "start_line": 25887,
+    "end_line": 25887,
+    "fingerprint": [
+     "主要的职责",
+     "传话筒"
+    ],
+    "book_code": "SG3",
+    "sha1": "13b660b326943dcc24ac5b45ab9e7d8b4906c07b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "守职责不传话",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "不是职责内的事要衡量清楚、不来一件答应一件（25887）；别人无伤大雅的错误与己无关不必多事；心里藏得住话是成熟的表现（25887）；不能聚焦职责却老给别人挑毛病的人难得到认可（25887）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-07",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做出成绩可让关键人知道但不必招摇；盯着已有成就失去未来可能",
+   "quote": "没有必要太过招摇",
+   "anchor": {
+    "start_line": 25889,
+    "end_line": 25897,
+    "fingerprint": [
+     "学会低调",
+     "人际环境"
+    ],
+    "book_code": "SG3",
+    "sha1": "58d473058e0697e2618873c304d7deffeade449b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "成绩低调不招摇",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "成绩可让老板、合作伙伴、可能写评语的同事了解（25891）；豪车招摇例：路人对豪车主人评价影响不到他，但同事如何看待你实实在在影响你（25893）；每件事都有后果和代价，贷款买车是拿未来灵活性换一时风光（25895）；总把成绩挂嘴边说明注意力放在过去而非未来（25897）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-08",
+   "unit_id": "SG3-U0246"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要为工作挤压锻炼时间，多工作几小时不会多几分成就",
+   "quote": "步入老年时后悔",
+   "anchor": {
+    "start_line": 25899,
+    "end_line": 25901,
+    "fingerprint": [
+     "锻炼身体",
+     "更基本素质"
+    ],
+    "book_code": "SG3",
+    "sha1": "d651ad74196619c67b74d6b6f88b3cd57053945b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "锻炼不可挤压",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "每周多工作几小时不会多几分成就，却可能老来后悔（25901）；学生也不要因学业忽视身体、为多考几分挤压更基本素质的培养（25901）；五不要小结（25905）；上封信三件偏战略讲格局，本篇五件偏战术讲做理性现实就事论事的人（25907）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0246-09",
+   "unit_id": "SG3-U0246"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0246",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "爱因斯坦小学数学1分故事考订（德国小学1分相当于A、2分相当于B，25839），纯史实纠错；大器晚成即厚积薄发的判断已入K卡"
+  },
+  {
+   "unit_id": "SG3-U0246",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "北上广深房价与央行住房自有率数据（自有率70%、纽约33%、旧金山38%、外来人口占比30-40%，25851-25857），依附时点行情的宏观分析"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第204封信：弯道超车毒鸡汤/大器晚成厚积薄发/承认前提勿自相矛盾/忌滥用辩证法/就事论事忌文过饰非/聚焦问题忌节外生枝/守职责不传话/成绩低调不招摇/锻炼不可挤压；爱因斯坦考订归X4、房价数据归X2"
+}

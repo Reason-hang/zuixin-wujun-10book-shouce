@@ -1,0 +1,213 @@
+{
+ "unit_id": "SG3-U0253",
+ "book_code": "SG3",
+ "extractor": "EXT-SG17",
+ "batch_id": "T-P3b-B-061",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卢梭：出自造物主之手的东西都是好的，一到人的手里就全变坏了，因人按喜好扭曲万物",
+   "quote": "就全变坏了",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26565,
+    "end_line": 26565,
+    "fingerprint": [
+     "造物主",
+     "自然规律"
+    ],
+    "sha1": "514318a7a7e6d5920b26963668ffc7b25806c373"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "自然天性本善",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卢梭（《爱弥儿》开宗明义）；人违背自然规律把万事万物按喜好摆布扭曲（26565）；卢梭认为自然天性美好，教育目的在使人成为自然人（26563）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-01",
+   "unit_id": "SG3-U0253"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卢梭：12岁前理性不足，儿童靠直观感受学习，此后才能教抽象学问，揠苗助长适得其反",
+   "quote": "通过直观感受来学习",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26567,
+    "end_line": 26567,
+    "fingerprint": [
+     "直观感受",
+     "揠苗助长"
+    ],
+    "sha1": "b88679471b25fea0e88d5b64df489d38b40473a1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "直观学习先于抽象",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=卢梭；学画孩子被逼画素描可能扼杀兴趣与天赋（26569）；对自我学习者同样成立的启示由吴军点明（26557）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-02",
+   "unit_id": "SG3-U0253"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卢梭：人皆受三种教育——自然、事物、人为；自然的教育不可控，须让人为的教育以自然为基准",
+   "quote": "以自然为基准",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26571,
+    "end_line": 26577,
+    "fingerprint": [
+     "三种教育",
+     "自然为基准"
+    ],
+    "sha1": "0b9bc6f60b6dfff059f0308fe055fb055a264802"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-4"
+   ],
+   "concept_key": "三种教育以自然为基准",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=卢梭；三位老师即自己、被自己行为影响的事物、他人（26571）；自然中学习是天生禀赋，做事情获得经验即事物的教育，'生活教育了我'（26573）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-03",
+   "unit_id": "SG3-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们过于强调人为的教育，忽略了自然的教育与事物的教育，忽视了孩子的自我教育和自我成长",
+   "quote": "忽略了自然的教育",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26581,
+    "end_line": 26585,
+    "fingerprint": [
+     "人为的教育",
+     "自我教育"
+    ],
+    "sha1": "f609c3260ebf3adcd9c398c05a0cc52a17c474ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "莫忽视自我教育",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "蒙特梭利教育与卢梭相通，强调自我学习自发行动，盖茨贝佐斯布林佩奇幼年均受此教育（26587）；同伴互相学习也是被忽视的一环，吴军自述成长很大部分来自同伴帮助（26599）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-04",
+   "unit_id": "SG3-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多成人与真实世界接触很少，又不善于总结经验，即使和世界有所接触收获也不大",
+   "quote": "不善于总结经验",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26589,
+    "end_line": 26589,
+    "fingerprint": [
+     "真实世界",
+     "总结经验"
+    ],
+    "sha1": "e838a8885ecf1b7cf5149cbfcb62a238103eedc4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-1"
+   ],
+   "concept_key": "从世界获得教育",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "事物的教育即来自世界的教育，今日做得更不够（26589）；经历变经验的方法另见富足相关论述",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-05",
+   "unit_id": "SG3-U0253"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "塞涅卡（经卢梭《爱弥儿》转引）：生活，这就是我要教给他的技能",
+   "quote": "这就是我要教给他的技能",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26619,
+    "end_line": 26623,
+    "fingerprint": [
+     "塞涅卡",
+     "卢梭"
+    ],
+    "sha1": "ff7cc7382d3a63fc713d3125dda8407b869ae2af"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3",
+    "D01-4"
+   ],
+   "concept_key": "教人生活为技能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=塞涅卡（斯多葛派哲学家，卢梭借爱弥儿教师之口引用）；受教育者无论做军人教士律师皆可，因大自然已教会他认识人生（26617）；西塞罗语'命运啊，我对你早有防范'（26623）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-06",
+   "unit_id": "SG3-U0253"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自然教育下的人无论做什么首先是一个人，能牢牢把握自己的地位，成为命运的主人",
+   "quote": "成为命运的主人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26619,
+    "end_line": 26623,
+    "fingerprint": [
+     "命运",
+     "防范"
+    ],
+    "sha1": "ff7cc7382d3a63fc713d3125dda8407b869ae2af"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "教育使人成命运主人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "做到人这一点命运就不能改变其地位（26621-26623）；与塞涅卡原话转述卡同链互引；划重点3（26633）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0253-07",
+   "unit_id": "SG3-U0253"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0253",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "亲子教育叙述（26591-26597：把孩子丢给补习班是不负责任、花钱宠爱非真对娃好、亲子关系最易建立；26569 学画画逼素描例）：亲子教育方法议题归X5；成人自我学习方法论与三种教育模型已入K卡；蒙特梭利与商业巨子背景（26587）、同伴教育（26599）并入卡注",
+   "lines": "26569,26587-26599"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第210封信卢梭1：自然天性本善/直观先于抽象/三种教育以自然为基准（转述）/莫忽视自我教育/从世界获得教育/教人生活技能（转述塞涅卡）/成命运主人；补习班亲子议题X5"
+}

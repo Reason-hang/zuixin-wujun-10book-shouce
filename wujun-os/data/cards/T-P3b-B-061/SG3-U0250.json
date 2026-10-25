@@ -1,0 +1,178 @@
+{
+ "unit_id": "SG3-U0250",
+ "book_code": "SG3",
+ "extractor": "EXT-SG17",
+ "batch_id": "T-P3b-B-061",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "情商包括三个侧面：管理自己的情绪、同情理解他人、与他人有效沟通，只强调沟通是片面的",
+   "quote": "情商其实包括三个侧面",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26241,
+    "end_line": 26245,
+    "fingerprint": [
+     "三个侧面",
+     "沟通"
+    ],
+    "sha1": "6fc9df085ffdff3855932653c5faed74026924bb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-1"
+   ],
+   "concept_key": "情商三侧面",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "情商不止待人接物，还含缓解压力、克服挑战与化解冲突（26241）；三个侧面对于克服挑战、化解冲突、建立友谊都需要（26245）；划重点1（26323）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0250-01",
+   "unit_id": "SG3-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "会来事儿但缺同情心的人显得假，木讷而真诚的人反而赢得信任，后者情商更高",
+   "quote": "缺乏同情心和同理心",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26247,
+    "end_line": 26247,
+    "fingerprint": [
+     "来事儿",
+     "木讷"
+    ],
+    "sha1": "f99f6a658a8ab2d2dd84e80b17a831c89eb7beda"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "真诚胜过话术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "学了很多办公室政治手段但无法管理情绪、冲动易怒者情商未必高（26245）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0250-02",
+   "unit_id": "SG3-U0250"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "戈尔曼与布拉德伯里：情商可用七个维度衡量——自知、自控、同理心、适应、不沉溺过去、善表达、专注",
+   "quote": "衡量情商的七个维度",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26251,
+    "end_line": 26269,
+    "fingerprint": [
+     "戈尔曼",
+     "自知",
+     "专注"
+    ],
+    "sha1": "822a089ed24c2edbaa08c1a984f5e9cee5044b4b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "情商七维度",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=丹尼尔·戈尔曼（《情商》作者）与特拉维斯·布拉德伯里；吴军评：不必太关注测试分数，价值在于给出培养方向（26253）；同理心最常被忽视，情商基础是理解自己与他人（26271）；专注维度见另卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0250-03",
+   "unit_id": "SG3-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "明显的错误大概率已有人指出，不必做反复带来坏消息的人；心里存得住事儿是有同理心的表现",
+   "quote": "反复带来坏消息的人",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26287,
+    "end_line": 26291,
+    "fingerprint": [
+     "坏消息",
+     "同理心"
+    ],
+    "sha1": "904ad957ef7b62c56612fd6d796b5ab7c7cb4f45"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-1"
+   ],
+   "concept_key": "勿反复带坏消息",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "只挑最小笔误的反馈没意义且让老板不痛快，还令人生疑其建设性与上心程度（26287-26289）；有些话少说为妙（26291）；如何判断错误要不要指出另见答读者问39单元",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0250-04",
+   "unit_id": "SG3-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其说情商是能言善道，不如说是能够体察人心、换位思考，了解对方的想法",
+   "quote": "能够体察人心、换位思考",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26313,
+    "end_line": 26313,
+    "fingerprint": [
+     "能言善道",
+     "换位思考"
+    ],
+    "sha1": "42a3c9330b43710f85c852ae828872f760cb79d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D06-3"
+   ],
+   "concept_key": "情商即体察换位",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "企业家朋友两故事为证（26277-26309）：报告笔误反馈与两部门负责人合并之争；Wi-Fi负责人站企业角度考虑问题经行动考察获重任（26307-26309）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0250-05",
+   "unit_id": "SG3-U0250"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要取得更多成就最直接的办法是不要分心；情商高的人懂得把注意力投注在更关键的事情上",
+   "quote": "不要分心",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 26315,
+    "end_line": 26315,
+    "fingerprint": [
+     "专注",
+     "注意力"
+    ],
+    "sha1": "00f66f8ad671a1f4dca27441e6632d3054fab063"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-4"
+   ],
+   "concept_key": "不分心成事法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "注意力投注决定一个人每天能完成多少工作（26315）；划重点3（26327）；源自戈尔曼七维度中常被忽视的专注（26315）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0250-06",
+   "unit_id": "SG3-U0250"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第207封信情商：情商三侧面/真诚胜过话术/七维度（转述戈尔曼布拉德伯里）/勿反复带坏消息/情商即体察换位/不分心成事；两企业家故事并入卡注，无X处置"
+}

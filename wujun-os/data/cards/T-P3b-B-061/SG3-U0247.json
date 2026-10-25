@@ -1,0 +1,218 @@
+{
+ "unit_id": "SG3-U0247",
+ "book_code": "SG3",
+ "extractor": "EXT-SG17",
+ "batch_id": "T-P3b-B-061",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "哈里斯：如果产品是免费的，那么你就是产品",
+   "quote": "那么你就是产品",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25993,
+    "end_line": 25993,
+    "fingerprint": [
+     "哈里斯",
+     "免费",
+     "产品"
+    ],
+    "sha1": "870c2bb1e834f94af5f388408660d632a097eabe"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "免费产品用户即产品",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=特里斯坦·哈里斯（谷歌前设计伦理学家、《社交困境》主讲人）；吴军评语：我们每一个人都应该记住这句话（26003）；免费服务商以个性化推荐、针对性折扣驯化用户（25997）；雅虎与Facebook对比见概括卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-01",
+   "unit_id": "SG3-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "雅虎没有改变用户只被当工具，Facebook改变了用户的生活习惯和价值观，故影响力悬殊",
+   "quote": "改变了用户的生活习惯和价值观",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25987,
+    "end_line": 25989,
+    "fingerprint": [
+     "雅虎",
+     "Facebook"
+    ],
+    "sha1": "3f34d8a359c4283709ba7bcb10075283f450970f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "改变用户即影响力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "重度用户像天天看广告点击广告的机器人且欲罢不能（25989）；划重点3（26033）；滑动刷新的间歇性正增强机理见另卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-02",
+   "unit_id": "SG3-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社交软件大大降低社交成本并滤掉不愉快，成瘾性远超会自然平衡的现实社交",
+   "quote": "大大降低了社交的成本",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25959,
+    "end_line": 25961,
+    "fingerprint": [
+     "社交成本",
+     "成瘾性"
+    ],
+    "sha1": "d1cc866b32df54aed8e8db9197902afb483019b8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "社交软件成瘾机理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "现实社交愉快与不愉快会达到平衡故瘾不大（25959）；中小学生放学贪玩即轻微社交上瘾（25959）；多巴胺机制的第三方解释见转述卡",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-03",
+   "unit_id": "SG3-U0247"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莱姆克：社交时大脑释放多巴胺，离开社交软件后多巴胺缺乏令人不由自主拿手机",
+   "quote": "释放令自己愉快的多巴胺",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25957,
+    "end_line": 25957,
+    "fingerprint": [
+     "多巴胺",
+     "莱姆克"
+    ],
+    "sha1": "85e630a7dcb04f0ff8126d905054e7a142eb76c7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "社交多巴胺循环",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=安娜·莱姆克（斯坦福大学成瘾医学研究所所长）；群居习性刻进基因（25957）；莱姆克自己也管不住孩子，协议一小时实玩近四小时（25963）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-04",
+   "unit_id": "SG3-U0247"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "哈里斯等人：工程师已成半个产品经理加心理学家，刻意设计让你无法放手的产品",
+   "quote": "刻意设计出让你无法放手",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25945,
+    "end_line": 25945,
+    "fingerprint": [
+     "哈里斯",
+     "心理学家"
+    ],
+    "sha1": "f8be5cb43b97c0eeb3f4527f1e846304d8c3c067"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "上瘾式产品设计",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=特里斯坦·哈里斯等各大科技公司前雇员；Gmail改进目的不是新功能而是让用户上瘾（25941）；哈里斯写报告后声音被谷歌压下遂离职（25947）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-05",
+   "unit_id": "SG3-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不断滑动刷新的刺激即间歇性正增强，可强化行为塑造习惯，赌场拉客同用此理",
+   "quote": "间歇性正增强",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25991,
+    "end_line": 25991,
+    "fingerprint": [
+     "滑动刷新",
+     "赌场"
+    ],
+    "sha1": "da0bbf4d82a1fb18b2ccc6549caff0827c589575"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "间歇性正增强塑造习惯",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "上下滑动跳新页面是社交软件常见功能（25991）；与改变用户习惯的判断互为表里（25987-25989）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-06",
+   "unit_id": "SG3-U0247"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "尚无证据表明青少年抑郁上升系社交媒体直接导致，但数十年稳定数据近十年暴增不能不警惕",
+   "quote": "不能不引起人们的警惕",
+   "anchor": {
+    "book_code": "SG3",
+    "start_line": 25971,
+    "end_line": 25973,
+    "fingerprint": [
+     "没有证据",
+     "暴增"
+    ],
+    "sha1": "97ed6bbc5b975bea1442e1f939c2cbcd1f6c2855"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-4"
+   ],
+   "concept_key": "相关暴增需警惕因果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "具体统计数字（住院+62%、自杀率+70%、自残+189%等）已登记X2；过于频繁用手机会干扰生活节奏致睡眠紊乱（25975-25979）；中国青少年抑郁趋势与美国相似（25981）",
+   "status": "已生成",
+   "claim_id": "C-SG3-U0247-07",
+   "unit_id": "SG3-U0247"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG3-U0247",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "Z世代与00后青春期少女住院、自残、自杀率统计及中美青少年抑郁患病率对比（25971-25981）：依附具体年份国别的统计论断，吴军自注尚无因果证据；可迁移的警惕判断已入K卡",
+   "lines": "25971-25981"
+  },
+  {
+   "unit_id": "SG3-U0247",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "纪录片《社交困境》戒掉社交网络依赖的10条建议清单（26007-26025）：第三方建议引文，吴军评'大部分人其实是做不到的'，仅对第4条注'非常有用'；主动获取知识要旨已并入影片评价叙述",
+   "lines": "26007-26025"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第205封信：免费即用户/改变用户即影响力/社交成瘾机理/上瘾式设计/间歇性正增强/数据警惕；统计时效论断X2、纪录片建议清单X7"
+}
