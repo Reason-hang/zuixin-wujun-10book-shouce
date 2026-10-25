@@ -1,0 +1,148 @@
+{
+ "unit_id": "SG1-U0086",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大多数人对隐私说一套做一套，为换取便利性实际上完全放弃了隐私",
+   "quote": "完全放弃了隐私",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4807,
+    "end_line": 4809,
+    "fingerprint": [
+     "便利性",
+     "隐私"
+    ],
+    "sha1": "c7c65f8fff004e570aea59f9b9248a5709fc8823"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "隐私换便利默认行为",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "手电筒App索要通信录例（4807）；吴军实验与凯文·凯利同类调查同结论（4809）；被调查者自认无所谓（4811）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0086-01",
+   "unit_id": "SG1-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "货比三家的询价习惯在隐私不设防的互联网时代恰恰向商家透露了你的底价",
+   "quote": "透露了你的底价",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4815,
+    "end_line": 4817,
+    "fingerprint": [
+     "货比三家",
+     "底价"
+    ],
+    "sha1": "1ceb36ab27751e88ac3e35140c6d3147ee138ccb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D03-2"
+   ],
+   "concept_key": "询价暴露底价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "谈判中不能暴露心理底价的常理（4817）；个人和商家信息不对称，个人在商家面前没有隐私（4817）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0086-02",
+   "unit_id": "SG1-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大数据个性化定价：A公司同一商品按人报价，统计购买史并看你别处询价，心理价位透明",
+   "quote": "完全是透明的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4819,
+    "end_line": 4821,
+    "fingerprint": [
+     "A 公司",
+     "心理价位"
+    ],
+    "sha1": "ef086a1758837752a90f8921504d1347d5d7ea23"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "大数据杀熟例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：被访者=美国最大电商A公司总监（吴军朋友，4819）；商家不打算给最低价而给可接受价（4821）；你的隐私还是挺值钱的（4823）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0086-03",
+   "unit_id": "SG1-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "可怕的不是能控制人类的超级智能，而是制造智能机器的人通过机器控制其他人",
+   "quote": "装神弄鬼的人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4823,
+    "end_line": 4823,
+    "fingerprint": [
+     "超级智能",
+     "鬼神"
+    ],
+    "sha1": "87371325edebc8ccecc10d5287c7f4ccf9f8c9e6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D08-1"
+   ],
+   "concept_key": "恐机器不如恐控机之人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "担心机器有意识如同担心鬼神（4823）；《智能时代》同源观点",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0086-04",
+   "unit_id": "SG1-U0086"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "巨头倡议给机器人立规矩，实质是互为对手想约束对方，并为自己划定赚取利润的空间",
+   "quote": "约束的其实是对方",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4825,
+    "end_line": 4825,
+    "fingerprint": [
+     "机器人",
+     "竞争对手"
+    ],
+    "sha1": "5aa337647b18446a0e83876eea9c2bb06161dde6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "立规矩即约束对手",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本体为2016年Google/ Facebook/特斯拉/亚马逊/微软倡议新闻的时点评论，此处抽可迁移的竞争解读逻辑；集体诉讼或是出路（4829）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0086-05",
+   "unit_id": "SG1-U0086"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第077封信：隐私换便利默认行为/询价暴露底价/大数据杀熟例（E3）/恐机器不如恐控机之人/立规矩即约束对手，5卡"
+}

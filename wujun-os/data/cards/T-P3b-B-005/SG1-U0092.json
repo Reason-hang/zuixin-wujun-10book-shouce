@@ -1,0 +1,229 @@
+{
+ "unit_id": "SG1-U0092",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一定把事情的最后一步做好：同学一句走了九十九步为什么不走完最后一步记一辈子",
+   "quote": "把最后一步走完",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5147,
+    "end_line": 5147,
+    "fingerprint": [
+     "九十九步",
+     "点完卯"
+    ],
+    "sha1": "85a228e3ce68f00af30cf4093a66d215d1350a85"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "走完最后一步",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "高中运动会溜号点卯经历→判断（5147）；承接读者希望谈影响最大的教育（5139）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-01",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不走完最后一步的人质量大打折扣，同样辛苦成就却差很远，要紧事领导不敢交给他们",
+   "quote": "大打折扣",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5153,
+    "end_line": 5153,
+    "fingerprint": [
+     "最后一步",
+     "成就"
+    ],
+    "sha1": "514c8cbe848a3de2272548e6c1f552289034c0c0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "做好最后的1%",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "大部分人愿意开头不愿收尾、觉得差不多就行是天性（5153）；朋友搬家差五分钟掉头不送例（5149-5151）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-02",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "瑞士制造精神：做一样就做到最好；只比别家好5%换来几倍市场份额与两三倍溢价",
+   "quote": "就要做到最好",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5155,
+    "end_line": 5159,
+    "fingerprint": [
+     "瑞士",
+     "5%"
+    ],
+    "sha1": "b63dad7db1f46c3f4bf0aa032e9840be23fdabf1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-2"
+   ],
+   "concept_key": "瑞士制造5%溢价",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "瑞士缺资源只能以质量取胜（5155）；Google比竞争对手好5%因此份额大出几倍（5159）；吴军买奢侈品为欣赏其完美而非使用（5157）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-03",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "走完一百步也体现在沟通上：通知没被留意可能因为发通知的人只走了九十九步",
+   "quote": "只走了九十九步",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5161,
+    "end_line": 5161,
+    "fingerprint": [
+     "通知",
+     "沟通"
+    ],
+    "sha1": "c91f41ce58d12701272bb2fc4bc383ede465360a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D05-1"
+   ],
+   "concept_key": "沟通走完一百步",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "不能完全怪对方没留心（5161）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-04",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高盛与摩根士丹利要求客户说出“确认”才算任务完成，注重最后一步使客户忠诚度极高",
+   "quote": "才算任务完成",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5163,
+    "end_line": 5165,
+    "fingerprint": [
+     "高盛",
+     "确认"
+    ],
+    "sha1": "a59f4439acca6f10c763350cdde2127e62d57bef"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "确认才算送达",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "案例卡：通常中间还会提醒（5163）；看到投行赚大钱时要想到其注重最后一步细节（5165）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-05",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过得去的人和1%的人可能就差最后几步路，但收入、地位、机会差别就大了",
+   "quote": "就差最后几步路",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5167,
+    "end_line": 5171,
+    "fingerprint": [
+     "1%",
+     "房子"
+    ],
+    "sha1": "b825b70e0e77a8e14682c63762ec318909dee439"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "最后几步定差距",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "硅谷房子只给各方面高出一截的人（5167）；位置好的房子为领域内最好的5%的人准备、最好地段为1%（5169）；把事做好至少为了一套舒适房子（5171）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-06",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "感谢同学身上比我做得好的地方，看到差距就自我改进，受益的影响一直记得",
+   "quote": "懂得自我改进",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5173,
+    "end_line": 5173,
+    "fingerprint": [
+     "同学",
+     "差距"
+    ],
+    "sha1": "ca56cb8bbcbec88e6a2880bb06b6c1cf025796f6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "见贤思齐自改进",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "同学不是完人、全面未必比我强，但总有做得好的地方（5173）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-07",
+   "unit_id": "SG1-U0092"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "纽曼：最好的教育是让年轻人生活在一起相互学习，互联网让这件事变容易了",
+   "quote": "生活在一起相互学习",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5175,
+    "end_line": 5177,
+    "fingerprint": [
+     "纽曼",
+     "互联网"
+    ],
+    "sha1": "1a41659d596cb056a7d2a1e9fe93d77947a3259a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "共同生活相互学习",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "被转述者=约翰·纽曼（英国著名教育家）；过去难因人须物理呆在一起（5175）；得到读者思考问题深入多的观察佐证（5177）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0092-08",
+   "unit_id": "SG1-U0092"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第083封信：走完最后一步/做好最后1%/瑞士5%溢价/沟通走完一百步/确认才算送达（E3）/最后几步定差距/见贤思齐/共同生活相互学习（E2），8卡"
+}

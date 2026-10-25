@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0098",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投资本质是获得回报而非把钱投出去：没有好项目就不投，人人都叫好的方向已拥挤过时",
+   "quote": "获得回报",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5537,
+    "end_line": 5537,
+    "fingerprint": [
+     "跟风",
+     "拥挤"
+    ],
+    "sha1": "655d3e0bde1b51790007922b9cbad27f4079555e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "无好项目不投",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "银行对贷款员有信贷指标、金融机构对投资人有数量要求，我们不做跟风占赛道（5537）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0098-01",
+   "unit_id": "SG1-U0098"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡和艺术沾点边的事情其结果常常不容易预测：写书如游戏电影，事先尽力市场难测",
+   "quote": "不容易预测",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5545,
+    "end_line": 5547,
+    "fingerprint": [
+     "事后诸葛亮",
+     "游戏"
+    ],
+    "sha1": "92e32238f21535b58474816ac8e66d2e8be94ef1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "艺术结果难预测",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《智能时代》销售超预期、《浪潮之巅》心血最多市场反应却一般（5545）；游戏行业同感：精心高期望产品常不受欢迎（5547）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0098-02",
+   "unit_id": "SG1-U0098"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没想清楚就去车库创业成功者微乎其微；成功是站在巨人肩上，真创新是做N＋1",
+   "quote": "深思熟虑",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5567,
+    "end_line": 5569,
+    "fingerprint": [
+     "车库里",
+     "N＋1"
+    ],
+    "sha1": "ac67220dd6b0d009c802f392b667f23ed5e379aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "创新是N＋1非推倒重来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "基于硅谷四十多年创业案例研究（5567）；多数成功者利用原单位条件把东西做得差不多再出来（5567）；劝回未准备好的朋友（5569）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0098-03",
+   "unit_id": "SG1-U0098"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0098",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "2016年度个人事务总结：基金投资数量与业绩、四校讲课与两本新书、出版奖项、年度书单与荐书、摄影、公益捐款、锻炼与家务未完成事项（5533-5559、5561-5565、5571），个人年度叙述无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第089封信：无好项目不投/艺术结果难预测/创新是N＋1非推倒重来，3卡（个人年度总结为主故少卡）；年度个人事务归X8"
+}

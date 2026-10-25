@@ -1,0 +1,260 @@
+{
+ "unit_id": "SG1-U0090",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "稳定回报的风投靠系统方法而非眼光：早期广种薄收，对好的公司不断双倍加码",
+   "quote": "广种薄收",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5025,
+    "end_line": 5025,
+    "fingerprint": [
+     "系统的方法",
+     "双倍加码"
+    ],
+    "sha1": "30d6aaf6ccb78596d8ffb354beab221ef96b72cd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "投资靠系统非眼光",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不把命运交给运气、从不是赌徒（5025）；《硅谷之谜》最后一章同源（5025）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-01",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "反应比预测更重要，这是在任何投资领域都必须遵循的原则；不做先入为主的判断",
+   "quote": "反应比预测更重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5027,
+    "end_line": 5027,
+    "fingerprint": [
+     "先入为主",
+     "客观的评判"
+    ],
+    "sha1": "c8945c62ce0153bb5f12bab54a01c465b5fa0e46"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "反应比预测重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "同概念键另见 C-SG1-U0095-02；依据=无人能预测12个月后的事（5031）、上市公司预测一多半错（5033-5035）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-02",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当一个项目十个人中有九个都觉得该投资时，基本已过了投资的最好时机",
+   "quote": "投资的最好时机",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5027,
+    "end_line": 5027,
+    "fingerprint": [
+     "十个人中有九个"
+    ],
+    "sha1": "c8945c62ce0153bb5f12bab54a01c465b5fa0e46"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "共识即过时",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人通常是在鼓声停止之前接到传来的花（5027）；不跟热门、按已有知识和数据客观评判（5027）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-03",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一流的人能把二流项目做成一流，二流的人会把一流项目做成二流三流——投资就是投人",
+   "quote": "把二流的项目做成一流",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5029,
+    "end_line": 5029,
+    "fingerprint": [
+     "一流的人",
+     "投人"
+    ],
+    "sha1": "b520aeb8d9c4b924d1fd4503c4d3f4b791b64b34"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "一流的人做成一流事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对照：央视主持人转行与O2O获融资过万家，做得好的两只巴掌数得过来，非点子独特而是创始人不同（5057）；理念从科西莫·美第奇到J.P.摩根一脉相承（5059）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-04",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "上市公司一多半预测是错的，创业上市比例不到1%：无人能预测12个月后的事情",
+   "quote": "无法预测",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5031,
+    "end_line": 5035,
+    "fingerprint": [
+     "上市的比例不到1%",
+     "财报"
+    ],
+    "sha1": "a0be533fa7a578415ab15ef32ca2dabf5942ac69"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "长期预测不可靠",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "上市公司资质好规模大尚且预测不准，何况小公司（5035）；世界变化太快非有意骗人（5033）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-05",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人必须不断改变并作出正确判断适应环境，我回报最高的项目都是因为创始人好",
+   "quote": "不断改变并作出正确的判断",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5037,
+    "end_line": 5039,
+    "fingerprint": [
+     "岔路口",
+     "创始人"
+    ],
+    "sha1": "cc24f41f3c6e8152cea1a93cf99f9a9ca847c747"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "创始人应变成事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google到吴军入职前后五六次重大抉择错一次就不是今天（5037）；成功公司最初做的事和挣钱的事通常不是一件（5039）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-06",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "罗胖案例：会讲故事是万中无一的综合能力，理性真实、守诺，提供别人提供不了的价值",
+   "quote": "守诺",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5041,
+    "end_line": 5045,
+    "fingerprint": [
+     "罗胖",
+     "守诺"
+    ],
+    "sha1": "ccc7f0ef3e40dc197d333e1fcf53f0b83b49c000"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "投人案例罗辑思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：被评价者=罗振宇（罗辑思维创始人）；会讲故事者如钱伯斯、埃里森、佩奇（5041）；世界有他和没有他不一样（5043）；卖大米月饼走弯路后渐找到定位（5047）；20年门票非透支，已具变色龙式适应力（5049）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-07",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "比能力更重要的是品性：利益绑定散去仍待你如故的人可共事，王晓峰以诚待人聚拢同道",
+   "quote": "以诚待人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5053,
+    "end_line": 5055,
+    "fingerprint": [
+     "门可罗雀",
+     "王晓峰"
+    ],
+    "sha1": "ea6c361862f302325fe7f50a91f0e002b04ebbf3"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2",
+    "D07-2"
+   ],
+   "concept_key": "品性重于能力例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：腾讯时门庭若市、离开后门可罗雀，唯王晓峰等个位数待我如故（5053）；摩拜成独角兽仍待我如故，如孟尝君落难唯有冯驩（5055）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-08",
+   "unit_id": "SG1-U0090"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每个人都在投资：有人用钱投资，你用你的生命在投资（交友是人生最重要的投资）",
+   "quote": "用你的生命在投资",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5061,
+    "end_line": 5061,
+    "fingerprint": [
+     "投资",
+     "生命"
+    ],
+    "sha1": "a88af60f7ca1a65311a35521998d15b15ededea4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "生命即投资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "如何交朋友的话题次日展开（5061、5089）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0090-09",
+   "unit_id": "SG1-U0090"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第081封信：投资靠系统/反应比预测/共识即过时/一流的人做成一流事/长期预测不可靠/创始人应变/投人两案例（E3）/生命即投资，9卡"
+}

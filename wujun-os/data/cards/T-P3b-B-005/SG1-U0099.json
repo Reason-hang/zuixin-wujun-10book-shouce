@@ -1,0 +1,135 @@
+{
+ "unit_id": "SG1-U0099",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在现有市场经营的公司不能赌未来，一旦赌错弥补几乎不可能，须多方案同时尝试",
+   "quote": "不能赌未来",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5623,
+    "end_line": 5625,
+    "fingerprint": [
+     "大众",
+     "战略"
+    ],
+    "sha1": "3ee6d649d5b960041b318b0247d83df421b931fa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D08-1"
+   ],
+   "concept_key": "多方案对冲赌错",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例=大众近期个性化智能车/中期全电动/长期有人干预无人驾驶三规划（5615-5617）；通过资金投入换取商业上的安全性（5625）；奔驰理念相似（5625）；也不能学Google花十年开发看不到商业前景的车（5625）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0099-01",
+   "unit_id": "SG1-U0099"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "驭势针对无驾驶员从零设计车内如客厅；传统大企业方案通不过，外来案例证明即跟进",
+   "quote": "方案总是通不过",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5609,
+    "end_line": 5613,
+    "fingerprint": [
+     "驭势",
+     "通用汽车"
+    ],
+    "sha1": "8e93213f8cadb1bc6e3d89cdbe793c270b4603cf"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "小公司原型撬动大企业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：被转述者=通用汽车副总裁（5613）；丰田人员现场对指标打分（5613）；成立不到一年受CES主办方重视并邀明年再来（5611）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0099-02",
+   "unit_id": "SG1-U0099"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "参展要有明确目标并努力达成：成功的公司员工主动交流，不成功的坐角落玩手机",
+   "quote": "明确的目标",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5635,
+    "end_line": 5639,
+    "fingerprint": [
+     "乐视",
+     "参展"
+    ],
+    "sha1": "81fdf03905c23c93e4e17ec1bf1b322ccaed082a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "展示要有目标",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "像乐视吸引媒体或驭势吸引专家都要目标明确（5635）；把内部技术视频放给大众看完全达不到目的（5635）；国际化做得好的中国公司是主动交流那种（5637）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0099-03",
+   "unit_id": "SG1-U0099"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对人亦然：得到机会展示才能前充分准备有目的性，否则给再多机会也丢掉",
+   "quote": "展示自己才能",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5639,
+    "end_line": 5639,
+    "fingerprint": [
+     "机会",
+     "目的性"
+    ],
+    "sha1": "39ade7bb1184b3614abe18229ab81858e646d033"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "机会展示靠准备",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "由参展公司点评推及个人（5639）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0099-04",
+   "unit_id": "SG1-U0099"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0099",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "CES未来汽车参展格局叙述、自动驾驶L0-L5六级分级、乐视FF91与百度展品介绍（5589-5611），行业现状与技术分类陈述无可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0099",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "电动汽车与联网智能汽车5-7年普及、高度辅助驾驶5-7年内增多、几年内美国可自动驾驶去机场等预测（5633），时点趋势预测"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第090封信（CES3）：多方案对冲赌错/小公司原型撬动大企业（E3）/展示要有目标/机会展示靠准备，4卡；参展格局与自动驾驶分级归X4、普及预测归X6"
+}

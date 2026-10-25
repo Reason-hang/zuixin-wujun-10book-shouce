@@ -1,0 +1,106 @@
+{
+ "unit_id": "SG1-U0102",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "LIGO双实验设计：相距3000公里同装置同时实验，既交叉验证又避免偶然性误差",
+   "quote": "交叉验证",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5777,
+    "end_line": 5783,
+    "fingerprint": [
+     "LIGO",
+     "真空管"
+    ],
+    "sha1": "56576da0dbcd7f61ac5a26080daf640ca63aafaf"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-3"
+   ],
+   "concept_key": "双站交叉验证设计",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：来源=MIT理学院院长斯普塞尔报告转述（5777）；两个四公里真空管L型垂直放置（5781）；误差须小于激光一个波长（5783）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0102-01",
+   "unit_id": "SG1-U0102"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "重大科学发现需要反复验证：引力波2月首次探测、6月再次清晰探测才算可重复",
+   "quote": "反复验证",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5787,
+    "end_line": 5787,
+    "fingerprint": [
+     "可重复",
+     "引力波"
+    ],
+    "sha1": "839fbadd192db8ad57032082947ad01db4527943"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "重大发现需可重复",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美欧两个引力波探测项目再次宣布（5787）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0102-02",
+   "unit_id": "SG1-U0102"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "造出一个碳纳米晶体管和造出几十亿晶体管的芯片完全是两回事：原型不等于量产",
+   "quote": "完全是两回事",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5813,
+    "end_line": 5813,
+    "fingerprint": [
+     "碳元素纳米晶体管",
+     "芯片"
+    ],
+    "sha1": "e7b99ca69fc439a90daa69b993f2373c12f65340"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "原型不等于量产",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=英特尔和英伟达半导体公司科学家（对碳纳米晶体管轰动的评价）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0102-03",
+   "unit_id": "SG1-U0102"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0102",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "2016年科技成果盘点叙述：引力波意义与LIGO细节、五维数据存储、AlphaGo胜李世石、干细胞治中风、龙飞船火箭回收、比邻星b（5773-5785、5791-5807），科技新闻史实；方法判断已抽卡"
+  },
+  {
+   "unit_id": "SG1-U0102",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "如果我是一个十几岁的中学生会选IT、生物医学、航空航天等领域（5815），依附2017年前沿时点的方向建议"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第093封信：双站交叉验证设计（E3）/重大发现需可重复/原型不等于量产（E2），3卡（科技盘点为主故少卡）；成果史实归X4、选领域建议归X2"
+}

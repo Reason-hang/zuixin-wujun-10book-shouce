@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG1-U0089",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "金色大厅音响效果并非一流但名气最大：世人只知道第一，不知道第二",
+   "quote": "只知道第一",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4973,
+    "end_line": 4975,
+    "fingerprint": [
+     "金色大厅",
+     "音响效果"
+    ],
+    "sha1": "7164c0cabb5fdc679d221613d68709ebef916fe2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "世人只知第一",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "金色大厅年代久远，音响不如柏林爱乐厅、卡内基、林肯中心等（4975）；吴军个人认为维也纳爱乐今不如柏林爱乐（4973）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0089-01",
+   "unit_id": "SG1-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何东西只要能流传下来必有原因，也会慢慢成为经典——施特劳斯、奥斯汀皆如此",
+   "quote": "也会慢慢成为经典",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4981,
+    "end_line": 4981,
+    "fingerprint": [
+     "施特劳斯",
+     "流传下来"
+    ],
+    "sha1": "7e53a10bd426b32be316cde24468246283e688b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "流传即成经典",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "施特劳斯之于莫扎特贝多芬如琼瑶之于红楼梦、奥斯汀之于狄更斯（4981）；琼瑶再流传半个世纪也是经典",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0089-02",
+   "unit_id": "SG1-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "全世界著名乐团歌剧院仅纽约大都会一家不赔钱：人口富裕、文化中心、清唱省成本三条件",
+   "quote": "入不敷出",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4995,
+    "end_line": 5001,
+    "fingerprint": [
+     "大都会歌剧院",
+     "清唱"
+    ],
+    "sha1": "615f82c24ebc09fe5438071b509a07ac5628f517"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "严肃艺术难自负盈亏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：多明戈卡雷拉斯常去纽约、游客多（4999）；其他地区前两条件不具备赔钱是情理之中，乐团靠金字招牌淡季创收几方受益（5001）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0089-03",
+   "unit_id": "SG1-U0089"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科研与艺术创作靠发财很难，为追求理想先要填饱肚子，为此妥协合情合理",
+   "quote": "先要填饱肚子",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5003,
+    "end_line": 5005,
+    "fingerprint": [
+     "发财",
+     "歌功颂德"
+    ],
+    "sha1": "c2985feafef3c0bc31240d317a2eeadd699d8bd9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D08-1"
+   ],
+   "concept_key": "理想先填饱肚子",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "作家艺术家为权贵歌功颂德、美国名校为捐款者开绿灯（5005）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0089-04",
+   "unit_id": "SG1-U0089"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0089",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "维也纳新年音乐会沿革（博斯科夫斯基创始、克劳斯/马泽尔/卡拉扬以来大师轮替，4979-4985）与中国游客打卡、艺术家镀金现象叙述（4989-4993），史实与现象描述无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第080封信：世人只知第一/流传即成经典/严肃艺术难自负盈亏（E3）/理想先填饱肚子，4卡；新年音乐会沿革与打卡镀金叙述归X4"
+}

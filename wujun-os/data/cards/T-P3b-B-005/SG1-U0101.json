@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0101",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：技术加速仅在IT行业成立、其他领域在减速，用IT进步说明整体加速是以偏概全",
+   "quote": "以偏概全",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5741,
+    "end_line": 5741,
+    "fingerprint": [
+     "斯加鲁菲",
+     "以偏概全"
+    ],
+    "sha1": "3f48785b520c81d4d02a66d06143bb05581ba0ec"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "整体加速判断防以偏概全",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=皮埃罗·斯加鲁菲（《硅谷百年史》作者、《人类2.0》作者）；例证：1880-1915年30余年集中诞生汽车飞机电话与相对论量子力学（5731）、协和式2.0马赫对47年后A380仅0.86（5735）、V2到登月25年后今日不如土星五号（5737）、沙基机器人（5739）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0101-01",
+   "unit_id": "SG1-U0101"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "技术解决方案宏观上没想象的那么好：旧金山每次最优化驾驶的努力几乎都致更拥堵",
+   "quote": "并没有想象的那么好",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5741,
+    "end_line": 5743,
+    "fingerprint": [
+     "旧金山",
+     "共享租车"
+    ],
+    "sha1": "3a3304be10af8830e08db3f6ca62553a96a76f47"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-1"
+   ],
+   "concept_key": "局部最优致整体恶化",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯加鲁菲；共享租车让乘公交地铁者开车上班、Uber与Lyft增千辆车，每辆驶出车库的车都增堵与污染（5743）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0101-02",
+   "unit_id": "SG1-U0101"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "容易做的发明都被人类找到了，剩下来的都是难题；今人穷其一生做出影响世界的发明更少",
+   "quote": "剩下来的都是些难题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5745,
+    "end_line": 5745,
+    "fingerprint": [
+     "难题",
+     "专利"
+    ],
+    "sha1": "b3f9df293dbdbb751b1a1afde36312742cbed50b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "易得的发明已被找完",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "斯加鲁菲与吴军共同看法；今天科技进步很大程度只是经济使过去理论实用化且集中在IT（5747）；科学理论突破比一百年前少得多（5747）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0101-03",
+   "unit_id": "SG1-U0101"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯加鲁菲：老龄化早于机器智能超人类到来，与其担心奇点不如造好机器人照顾老人",
+   "quote": "与其担心机器人",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5749,
+    "end_line": 5751,
+    "fingerprint": [
+     "奇点",
+     "老龄化"
+    ],
+    "sha1": "d3b999e9d1dc385209f22d0adb5198ee3c0027ef"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "担心奇点不如解决养老",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=斯加鲁菲；话题本体属AI趋势预测（X6登记），按例外抽风险优先级判断逻辑",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0101-04",
+   "unit_id": "SG1-U0101"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0101",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "技术翻番周期（100年/400年/1500年）、计算机辅助加速、科技人口增加等加速论证据与理论实用化集中于IT的科技史述（5717-5727、5747），科技趋势与史述本体；双方观点中的可迁移判断已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第092封信：以偏概全（E2）/局部最优致整体恶化（E2）/易得的发明已被找完/担心奇点不如解决养老（E2），4卡；加速论证据与科技史述归X6"
+}

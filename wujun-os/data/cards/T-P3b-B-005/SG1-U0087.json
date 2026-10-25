@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG1-U0087",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "王晓峰：把东西卖出去只完成销售的一半，最关键的另一半是把钱收回来",
+   "quote": "把钱收回来",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4859,
+    "end_line": 4859,
+    "fingerprint": [
+     "王晓峰",
+     "销售的一半"
+    ],
+    "sha1": "0896644ab34d087291de43f767c9c999b8bc5f7f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "销售本质是回款",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=王晓峰（摩拜单车创始人、吴军Google/腾讯老同事）；否则卖了还不如不卖（4859）；王晓峰腾讯营销课总结六字反例引出",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0087-01",
+   "unit_id": "SG1-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "收款成本可占销售成本一大块甚至吃光利润，大部分公司能收上九成销售款已算不错",
+   "quote": "甚至把利润都吃光了",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4861,
+    "end_line": 4865,
+    "fingerprint": [
+     "三角债",
+     "沃尔玛"
+    ],
+    "sha1": "07737ef2c48b5c60c10b54cbec4679527c59d4e3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "收款成本吞噬利润",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中国传统行业三角债普遍（4861）；吴军自己做销售要账跑数次、给名校咨询半天要账五来回成本升五成（4863）；供货商忍受沃尔玛压价因回款成本低（4865）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0087-02",
+   "unit_id": "SG1-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标从卖出东西改为把钱收回来，则收款的便捷性要超过卖出东西的数量",
+   "quote": "收款的便捷性",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4867,
+    "end_line": 4867,
+    "fingerprint": [
+     "先付账",
+     "5%"
+    ],
+    "sha1": "d00be515db6ebc8b0f5e4b94bb50d8945c14568f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "收款便捷优先于销量",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "美国人认钱不认人：加高利息、先付账给折扣，定价留5%作收款成本（4867）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0087-03",
+   "unit_id": "SG1-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把钱收回来是目的卖货只是手段，背本趋末的做法时时可见，目的和手段不能颠倒",
+   "quote": "背本趋末",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4869,
+    "end_line": 4871,
+    "fingerprint": [
+     "目的",
+     "手段"
+    ],
+    "sha1": "56d3c163a811028ce9169d89ad3fcb06f72e18e9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "目的与手段不颠倒",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不顾家挣钱理由为家庭幸福、做法本身已让家不幸福（4869）；吴军不肯放弃休假参加活动（4871）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0087-04",
+   "unit_id": "SG1-U0087"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "王晓峰：可持续的生意关键是要让顾客把买的东西花光，否则很难有第二三次购买",
+   "quote": "把买的东西花光",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4879,
+    "end_line": 4881,
+    "fingerprint": [
+     "王晓峰",
+     "促销"
+    ],
+    "sha1": "1e2b85211e20acbb4fad1b6e3fecd05f1c9e2a6a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "让顾客花光再买",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=王晓峰；腾讯促销后广告销售疲软的结症（4875-4877）；充值1000送500与网约车充值一万送一万反例（4879）；王晓峰助搜索广告销售额提高6倍（4881）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0087-05",
+   "unit_id": "SG1-U0087"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要让员工消耗掉物质和精神奖励轻装奋斗；Google每次升迁后之前贡献清零防躺功劳簿",
+   "quote": "轻装继续奋斗",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 4883,
+    "end_line": 4885,
+    "fingerprint": [
+     "奖励",
+     "清零"
+    ],
+    "sha1": "cb8e084a8c72f3b1e3cbf6555bad3d6f86f835b6"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-2"
+   ],
+   "concept_key": "奖励可消耗贡献清零",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：Google升迁后下次晋升依据从上次升迁后算起，防靠运气吃一辈子（4885）；由王晓峰让顾客花光思路拓展而来（4883）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0087-06",
+   "unit_id": "SG1-U0087"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0087",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "王晓峰个人履历（宝洁→Google→香水公司→腾讯→Uber→创办摩拜）与摩拜融资背景叙述（4843-4851），人物背景介绍无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第078封信：销售本质是回款（E2王晓峰）/收款成本/收款便捷优先/目的与手段不颠倒/让顾客花光（E2）/奖励清零（E3），6卡；王晓峰履历归X4"
+}

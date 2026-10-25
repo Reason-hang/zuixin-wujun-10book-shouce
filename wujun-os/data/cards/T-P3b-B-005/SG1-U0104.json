@@ -1,0 +1,101 @@
+{
+ "unit_id": "SG1-U0104",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "白兰地起源：为解决运输变酸把白葡萄酒蒸馏浓缩，意外创造流传至今的新品类",
+   "quote": "蒸馏浓缩",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5887,
+    "end_line": 5891,
+    "fingerprint": [
+     "白兰地",
+     "葡萄酒"
+    ],
+    "sha1": "d03d06aac3473f5cfe4793ef20db55a30f65bc95"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "白兰地问题倒逼创新",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：运到目的地变酸无法饮用的痛点（5889）；后有人喜欢新口味遂专门生产，再寻特殊葡萄与工艺成干邑产区（5891-5893）；如只有香槟产区才能叫香槟（5893）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0104-01",
+   "unit_id": "SG1-U0104"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "X.O作为商品最早出现在中国：经营者自用的陈年酒被本地商界认可后决定生产",
+   "quote": "最早出现在中国",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5903,
+    "end_line": 5905,
+    "fingerprint": [
+     "X.O",
+     "陈年"
+    ],
+    "sha1": "68ef56be0f138edab56406133f0f0d6cc6c18e1f"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "XO需求拉动起源",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：轩尼诗是发明X.O的酒庄（5903）；X.O用10-30年陈干邑调配、工艺考究（5905）；1870年轩尼诗进入中国等亚洲市场（5903）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0104-02",
+   "unit_id": "SG1-U0104"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "轩尼诗传人：经验固然重要，什么事情做得精确是保障品质的关键——欧洲工匠精神",
+   "quote": "保障品质的关键",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5911,
+    "end_line": 5915,
+    "fingerprint": [
+     "轩尼诗",
+     "Precision"
+    ],
+    "sha1": "8137c25f87a9c80832b126af7cd797a4fec33e45"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "精确保障品质",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=莫里斯·轩尼诗（轩尼诗第八代传人）；闻起来与喝起来味道完全相同极难做到（5913）；皇禧调配130年酒龄佳酿（5911）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0104-03",
+   "unit_id": "SG1-U0104"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0104",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "干邑三大品牌、轩尼诗252年八代沿革与V.S/V.S.O.P等级由来、品饮方式、百乐廷皇禧工艺、酩悦与路易威登合并为LVMH与家族大使角色叙述（5895-5901、5907-5909、5917-5919），品牌史与品酒记叙；创新机理已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第095封信：白兰地问题倒逼创新（E3）/XO需求拉动起源（E3）/精确保障品质（E2），3卡（品牌史与品酒记叙为主故少卡）；轩尼诗沿革归X4"
+}

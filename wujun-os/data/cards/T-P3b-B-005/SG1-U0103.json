@@ -1,0 +1,189 @@
+{
+ "unit_id": "SG1-U0103",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯图林格四论探索宇宙：无用探索未来大用、技术解饥荒、极致工程拉升全人类水平",
+   "quote": "大幅度的提升",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5839,
+    "end_line": 5847,
+    "fingerprint": [
+     "斯图林格",
+     "显微镜"
+    ],
+    "sha1": "b4031d18887e27e14eaaeb98834ae577256fd0a2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "无用探索的长期价值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=NASA副总监斯图林格博士（回复赞比亚修女朱库恩达）；显微镜当时不能治病救人后来救很多人（5841）；遥感气象卫星助农业（5843）；吸引年轻人加入科学探索（5847）；议题本体属国家科研体制（X6登记）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0103-01",
+   "unit_id": "SG1-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "地球生态脆弱，小行星核战环境破坏足以毁灭文明；探索外太空为文明找备份系统",
+   "quote": "备份系统",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5849,
+    "end_line": 5849,
+    "fingerprint": [
+     "脆弱",
+     "文明"
+    ],
+    "sha1": "1894983ebf2bc9effd35e38d5781539586b0d9e7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "文明备份系统思维",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "一个世纪内或不会发生，一千年一万年跨度概率不小（5849）；备份系统可能没有地球理想（5849）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0103-02",
+   "unit_id": "SG1-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "极致科技工程是对人类工程水平的总测试，成果溢出程度超出一般人想象",
+   "quote": "一次总测试",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5851,
+    "end_line": 5853,
+    "fingerprint": [
+     "阿波罗",
+     "记忆海绵"
+    ],
+    "sha1": "91f84a5fb60be593f2d431881b4f5df0952807b0"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "极致工程溢出效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：摩托罗拉承接阿波罗通信、尼康蔡司太空光学转商用（5853）；床垫记忆海绵源自NASA（5853）；登陆小行星需极低温特制芯片（5855）；直接目的为改变小行星轨道避撞（5855）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0103-03",
+   "unit_id": "SG1-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能盈利即对人类犯罪中的盈利非仅直接盈利：互联网让众多公司盈利，产出大于投入",
+   "quote": "产出大于投入",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5861,
+    "end_line": 5865,
+    "fingerprint": [
+     "松下幸之助",
+     "盈利"
+    ],
+    "sha1": "254dee6d590d51b2bba9a862117e2afefd32c6c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "盈利看间接产出",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=松下幸之助（名言出处）；ARPA与自然科学基金会不盈利但成就互联网（5863）；每年约一千项太空技术转入日常（5865）；反对的是烧钱概念、劣币驱逐良币、传销生意（5865）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0103-04",
+   "unit_id": "SG1-U0103"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "数学家：从长远来看所有的数学都是应用数学，纯数学结论后来大多得到应用",
+   "quote": "都是应用数学",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5867,
+    "end_line": 5867,
+    "fingerprint": [
+     "纯数学",
+     "父亲"
+    ],
+    "sha1": "aa92d0733b14f13c47f057ba26a03bbcb592b9c5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "数学皆应用数学",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=一位著名数学家（名字已不可考，经吴军父亲转述）；吴军把抽象数学方法用到信息处理（5867）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0103-05",
+   "unit_id": "SG1-U0103"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类对未知的探索源于基因：10万年前走出东非探索未知，缺了探索精神不成其为人类",
+   "quote": "探索精神",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5869,
+    "end_line": 5869,
+    "fingerprint": [
+     "基因",
+     "灵长类"
+    ],
+    "sha1": "fa6d9636f0683556d91df189cd6fcd39a096fa82"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "探索是人的基因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人类是唯一靠双脚走遍全球的生物（5869）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0103-06",
+   "unit_id": "SG1-U0103"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0103",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "约翰·霍普金斯应用物理实验室、JPL、费米实验室等美国国家资助私营科研机构与6000人规模介绍（5857），机构背景史实"
+  },
+  {
+   "unit_id": "SG1-U0103",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "人类该不该花巨资探索太空还是扶贫与免费教育的政策议题本体、火星移民与SpaceX时事背景（5833-5837、5873），国家科研体制类议题；可迁移判断逻辑已按例外抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第094封信：无用探索的长期价值（E2）/文明备份系统/极致工程溢出（E3）/盈利看间接产出/数学皆应用数学（E2）/探索是人的基因，6卡；科研机构背景归X4、体制议题归X6"
+}

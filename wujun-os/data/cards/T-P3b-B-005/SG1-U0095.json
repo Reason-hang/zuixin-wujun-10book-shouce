@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0095",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "改变世界的技术从首次展出到最终成功约差7-8年（七年之痒），一半最抢眼技术无用途",
+   "quote": "七年之痒",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5377,
+    "end_line": 5377,
+    "fingerprint": [
+     "改变世界",
+     "7-8"
+    ],
+    "sha1": "358d0263101fae54e58f6efe6e37e4efcea38aa7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "技术成功七年之痒",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "CES展出的是第一眼美女，离商业成功还有距离（5331）；据此今天了解新技术回去全力开发，做得好七八年后有一半成功概率，比创业不到1%大很多（5377）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0095-01",
+   "unit_id": "SG1-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "盖茨CES报告预测绝大部分没发生：要对市场做出正确反应，而不是预测市场",
+   "quote": "而不是预测市场",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5379,
+    "end_line": 5381,
+    "fingerprint": [
+     "盖茨",
+     "反应"
+    ],
+    "sha1": "7443326fa146a09f44f10bcc1a4d9adb8968eb9a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D10-1"
+   ],
+   "concept_key": "反应比预测重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "概念键与 C-SG1-U0090-02 同名收敛；盖茨做了十多次大会报告、内容无人记得（5379）；预测本身是非常难的事情，非其水平低（5379）；产品原型大家记住了因为改变世界（5381）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0095-02",
+   "unit_id": "SG1-U0095"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "CES上的新产品原型是第一眼美女，离商业的成功通常还有距离",
+   "quote": "第一眼美女",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5331,
+    "end_line": 5331,
+    "fingerprint": [
+     "原型",
+     "商业的成功"
+    ],
+    "sha1": "4a3c86a064968c7c40930a5762380134eedca9e7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "第一眼美女到第三眼美女",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应第9封来信《VR技术和第三眼美女》（5331）；历年抢眼展品仅一小半最终影响世界（5331）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0095-03",
+   "unit_id": "SG1-U0095"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0095",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "CES 1967年创立沿革与历届产品编年（VCR/CD/个人电脑/游戏机/牛顿/DVD/高清电视/3D电视/安卓机等首展年份与成败，5321-5375），科技产品史实无可迁移判断；机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第086封信（CES1）：七年之痒/反应比预测/第一眼美女到第三眼美女，3卡（纯产品编年为主故少卡）；CES沿革与产品史归X4"
+}

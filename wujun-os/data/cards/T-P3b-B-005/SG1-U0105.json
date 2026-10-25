@@ -1,0 +1,99 @@
+{
+ "unit_id": "SG1-U0105",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "极品火腿的溢价支撑：橡实喂养的黑猪、2-4年风干与菌群作用的时间成本不可复制",
+   "quote": "天然的抗氧化剂",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5965,
+    "end_line": 5969,
+    "fingerprint": [
+     "橡实",
+     "黑猪"
+    ],
+    "sha1": "bddff402a0da8ca63dd7e1497502f52fc2522fa1"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "时间稀缺支撑溢价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：野生放养天天运动故肌肉脂肪配比合理（5965）；2-4年历经气候花草水分变化成层次口感（5969-5971）；饱和脂肪酸转为非饱和、人称跑动的橄榄油（5971）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0105-01",
+   "unit_id": "SG1-U0105"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "切一条火腿4000美元的桑奇德里安：什么事情只要做到极致就能够成功",
+   "quote": "做到极致就能够成功",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5981,
+    "end_line": 5983,
+    "fingerprint": [
+     "桑奇德里安",
+     "4000"
+    ],
+    "sha1": "598e08fec3d56a7840700a8a1d392841141c8351"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "切火腿极致成功例",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：切30年成伊比利亚火腿形象大使（5981）；客户含奥巴马、西班牙国王、贝克汉姆与奥斯卡活动（5983）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0105-02",
+   "unit_id": "SG1-U0105"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "桑奇德里安：对作品来龙去脉烂熟于心、切前核查每个标签，把切火腿做成表演艺术",
+   "quote": "烂熟于心",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5989,
+    "end_line": 5993,
+    "fingerprint": [
+     "斗牛士",
+     "标签"
+    ],
+    "sha1": "fb582501c6e5f28e7cf7dbf40d0262090c9e24b3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "手艺即全链路知识",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=弗洛伦西奥·桑奇德里安（切火腿大师）；猪的居住放养环境与生育状况、储存环境温湿度都要掌握（5993）；边切边讲火腿制作和历史（5991）；半路出家的斗牛士专学切火腿课程多次获奖（5989）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0105-03",
+   "unit_id": "SG1-U0105"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0105",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "伊比利亚火腿品鉴与品类分级（橡实/recebo/campo/塞拉诺）、切制楔形手法与价格、桑奇德里安生平与表演场合、生食方式叙述（5951-5959、5973-5979、5995-5997），美食科普与见闻；承载可迁移判断的三段已抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第096封信：时间稀缺支撑溢价（E3）/切火腿极致成功例（E3）/手艺即全链路知识（E2），3卡（美食科普为主故少卡）；品类与生平叙述归X4"
+}

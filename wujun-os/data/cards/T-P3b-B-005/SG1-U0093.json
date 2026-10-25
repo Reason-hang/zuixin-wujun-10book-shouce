@@ -1,0 +1,183 @@
+{
+ "unit_id": "SG1-U0093",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "生活是具体的：不要泛泛谈概念，拿出数据比一比，还要看十年变化是在进步还是退步",
+   "quote": "生活是具体的",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5203,
+    "end_line": 5205,
+    "fingerprint": [
+     "泛泛",
+     "腐败"
+    ],
+    "sha1": "834f7f75141a92e0a96d456f1a15c5a60a6f64d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "生活是具体的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "语出德国人口头禅，经定居德国二十多年的老同学转述（5201）；抽象谈腐败各国都有扯不清（5205）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0093-01",
+   "unit_id": "SG1-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "表决政策前列出具体数字算清投入产出账；炒概念容易，恪守“生活是具体的”难",
+   "quote": "列出具体的数字",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5207,
+    "end_line": 5213,
+    "fingerprint": [
+     "节能灯",
+     "太阳能"
+    ],
+    "sha1": "45c80ab39910fdfcdcd8fba9546df0a58b450571"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D01-1"
+   ],
+   "concept_key": "政策表决先算账",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "20万人城市LED改造投入与节省例（5207）；太阳能发电无人算投入回收与电网改造污染账（5211）；一窝蜂太阳能项目资不抵债（5213）；水泥厂迁留按成本收益定（5215-5217）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0093-02",
+   "unit_id": "SG1-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "质量落到具体指标：德产镜头规范细到刻度线，美能达首批按徕卡标准合格率仅两成多",
+   "quote": "合格率按照徕卡的标准",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5219,
+    "end_line": 5223,
+    "fingerprint": [
+     "徕卡",
+     "蔡司"
+    ],
+    "sha1": "71ad5c09881ce236e4eaf19f54283df2afc9c69c"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "质量具体到刻度线",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例卡：日本徕卡多年改进仍被反映不如德国干脆关厂（5223）；日本蔡司与德国产只能分型号、价差三倍（5223）；德国人不满喊口号而定一堆具体指标（5219）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0093-03",
+   "unit_id": "SG1-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "德国人帮忙帮到底：一旦开始帮你就帮你解决掉，讲不清楚不如干脆带你去",
+   "quote": "帮忙帮到底",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5225,
+    "end_line": 5227,
+    "fingerprint": [
+     "奥科",
+     "带你去"
+    ],
+    "sha1": "365a8bf6af0563c6a6741c558359088a5141e240"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "帮忙帮到底",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述解释=奥科博士（5227）；忙时直接说明不能帮、不知就明说（5227）；吴军多次在德国被直接带到车站（5225）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0093-04",
+   "unit_id": "SG1-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把每步中间结果写进论文、点心严格按称量步骤：说明足够具体才能无师自通复现",
+   "quote": "中间结果",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5229,
+    "end_line": 5235,
+    "fingerprint": [
+     "论文",
+     "无师自通"
+    ],
+    "sha1": "208869595aecba18aa0c9903b0f9ff783ad1ad68"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D05-1"
+   ],
+   "concept_key": "具体到可复现",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "德国科学家写明每步中间结果、多数国家只报主要结果（5229）；12岁女儿看电视看书自学、严格称量与指定品牌精确温时做好点心（5235）；贾里尼克调侃“他们是德国人嘛”（5231）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0093-05",
+   "unit_id": "SG1-U0093"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "泛泛讲好坏没有意义，找反例永远不难；关键看总体水平是否好了那么一点点",
+   "quote": "总体水平",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5239,
+    "end_line": 5241,
+    "fingerprint": [
+     "十全十美",
+     "反例"
+    ],
+    "sha1": "5f9e4c8fd3b6082eb2d14437789e5a1e9e99515b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "比总体水平不抠反例",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "砸奔驰宝马的反例挡不住总体好一点点、体验差很大（5239）；让我们都记住这句话（5241）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0093-06",
+   "unit_id": "SG1-U0093"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0093",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "德国若非和平道路有能力再发动世界大战的民族性感叹（5199），修辞性背景叙述无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第084封信：生活是具体的/政策表决先算账/质量具体到刻度线（E3）/帮忙帮到底/具体到可复现/比总体水平不抠反例，6卡；德国民族性感叹归X8"
+}

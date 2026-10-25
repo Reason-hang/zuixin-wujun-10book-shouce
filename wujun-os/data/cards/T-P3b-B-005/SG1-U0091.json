@@ -1,0 +1,230 @@
+{
+ "unit_id": "SG1-U0091",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对创业者的评价品德尤其诚信比能力更重要；无抵押把钱交给陌生人首先必须信得过",
+   "quote": "诚信比能力更重要",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5081,
+    "end_line": 5081,
+    "fingerprint": [
+     "品德",
+     "抵押"
+    ],
+    "sha1": "f0a6846471d7c6de4f1b7b6af70644fabb460da1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D07-2"
+   ],
+   "concept_key": "诚信重于能力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "创业者骗投资人的钱通常投资人毫无办法（5081）；承接昨日投资就是投人话题（5079）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-01",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业办砸即转移技术产品再融资让原公司清盘，逼出霸王条款——不诚信抬高全社会成本",
+   "quote": "破产清盘",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5083,
+    "end_line": 5085,
+    "fingerprint": [
+     "霸王条款",
+     "清盘"
+    ],
+    "sha1": "75c51f0f9f3a28adf5d0a3d251acb987a2e6d896"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "不诚信的社会成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：国内知名早期投资人条款=办砸后投资永远算到新公司（5083）；诚信却失败的创业者二三次创业背重包袱（5085）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-02",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "受基因局限很难同时交往超过150人，这是你一生在亲友方面能投资的总额",
+   "quote": "能够投资的总额",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5087,
+    "end_line": 5087,
+    "fingerprint": [
+     "150",
+     "基因"
+    ],
+    "sha1": "75f6b4f4d8438d3520ec9680913055496ec61183"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "交友额度150人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朋友交往也是一种投资（5087）；亲情占掉一半、剩给朋友合作伙伴很有限（5087）；成功者靠最志同道合的人帮，运气差者交了狐朋狗友（5089）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-03",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莎氏交友三诫：凡事三思而行；对人和气但不过分狎昵；挚友用钢圈箍在灵魂上",
+   "quote": "钢圈箍在你的灵魂上",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5091,
+    "end_line": 5097,
+    "fingerprint": [
+     "波洛涅斯",
+     "三思而行"
+    ],
+    "sha1": "8c55a9ae8cb3fcea0db92eca8e68fd858e89117b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "莎氏交友三诫",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=莎士比亚（借《哈姆雷特》波洛涅斯告诫雷欧提斯之口，实为莎翁人生智慧，5091）；第3条是吴军一生交友准则（5097）；后半句见 C-SG1-U0091-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-04",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "朱会灿案例：理性大气不摆老资格的伙伴合作愉快，从中日韩搜索到腾讯再到基金如约同行",
+   "quote": "从来没有摆过老资格",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5099,
+    "end_line": 5103,
+    "fingerprint": [
+     "朱会灿",
+     "GFS"
+    ],
+    "sha1": "24e6b74ee6483ef6878414f7b94f9681c0f3930e"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "挚友合伙人例",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "案例卡：会灿一人开发Google图片搜索、与Jeff Dean等开发GFS存储（5099）；共建中日韩搜索、请来李开复自任副手（5103）；基金做大后如约保留合伙人位置（5107）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-05",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考察一个人看他的朋友圈；交往带宽有限不可能和所有人交情深，一视同仁者难有至交",
+   "quote": "交往的带宽有限",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5109,
+    "end_line": 5111,
+    "fingerprint": [
+     "朋友圈",
+     "至交"
+    ],
+    "sha1": "9dea72ffaad8dbeb6107f5a270ae47e6f547ee41"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "择友带宽有限",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "合作伙伴的选择至关重要（5109）；好好先生老板对所有部下一视同仁致能干者跑光（5113）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-06",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人能自己决定和选择的只有朋友：好朋友是巨大财富，损友是巨大负资产，不给第二次机会",
+   "quote": "损友则是巨大的负资产",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5115,
+    "end_line": 5115,
+    "fingerprint": [
+     "曾国藩",
+     "第二次机会"
+    ],
+    "sha1": "65dcbe48e4a86922de3dda93f9cedc3e9d86c7c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "损友不给第二次机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "方法源自曾国藩：被转述者=曾国藩（家书“袁婿荒唐……永远绝之”，5117）；先假设人正直诚信、只上一次当（5117）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-07",
+   "unit_id": "SG1-U0091"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不知道止损的投资者注定倾家荡产，在和朋友的关系上也是如此（只上一次当）",
+   "quote": "倾家荡产",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5119,
+    "end_line": 5119,
+    "fingerprint": [
+     "止损",
+     "无底洞"
+    ],
+    "sha1": "830146b86ed334b92ddafa11705962a4826ee4ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D03-2"
+   ],
+   "concept_key": "交友止损",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人会变好但已与我无关；可交往的人很多而时间精力只够维持几十个，笨办法避免无底洞（5119）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0091-08",
+   "unit_id": "SG1-U0091"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第082封信：诚信重于能力/不诚信社会成本（E3）/交友额度150人/莎氏交友三诫（E2）/挚友例（E3）/择友带宽/损友负资产/交友止损，8卡"
+}

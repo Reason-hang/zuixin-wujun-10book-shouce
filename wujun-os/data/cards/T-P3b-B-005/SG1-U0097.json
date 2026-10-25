@@ -1,0 +1,223 @@
+{
+ "unit_id": "SG1-U0097",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1E",
+ "batch_id": "T-P3b-B-005",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "了解AI产品背后的思路比了解技术本身更重要，学习采用现有技术做产品最重要",
+   "quote": "采用现有的技术做产品",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5451,
+    "end_line": 5451,
+    "fingerprint": [
+     "思路",
+     "产品大会"
+    ],
+    "sha1": "4e3165a42d5e441615270cbacd997f4ffb848a79"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "产品思路重于技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "CES不是学术性技术大会而是产品大会（5451）；各家因基因不同思路不同（5449）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-01",
+   "unit_id": "SG1-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机器和人一样重要的是脑子而不是四肢，有意义的机器人是能解决人的问题",
+   "quote": "解决人的问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5457,
+    "end_line": 5457,
+    "fingerprint": [
+     "脑子",
+     "四肢"
+    ],
+    "sha1": "82ab3b8fdc58666510cd4bb68bcb9d5b75dbf8b3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "机器人重脑不重形",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Echo是茶壶大小圆形音箱无半点人样（5457）；Echo产品设计原则基于此（5457）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-02",
+   "unit_id": "SG1-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对话机器人三技术：语音识别（已被解决、机器超速记员）、对话数学模型、任务执行",
+   "quote": "已经解决的问题",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5469,
+    "end_line": 5479,
+    "fingerprint": [
+     "语音识别",
+     "科大讯飞"
+    ],
+    "sha1": "2c7c5692c655734ee6e2bddb07a25c03f1bf099c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D10-1"
+   ],
+   "concept_key": "对话机器人三技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军对比速记员与科大讯飞转写讲演稿，机器明显更好（5477）；四大公司在语音识别上处同一时代相差非常小（5479）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-03",
+   "unit_id": "SG1-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "各家产品效果的差异主要来自于数据量，而不是技术本身",
+   "quote": "主要来自于数据量",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5479,
+    "end_line": 5479,
+    "fingerprint": [
+     "数据量",
+     "差异"
+    ],
+    "sha1": "fa8912a18cf51e747d900a2644eb62e6e436d93c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "差异在数据量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《智能时代》同源：对话系统水平取决于数据量（5487）；苹果Siri不能混识中英、Google Now数据大可以（5503）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-04",
+   "unit_id": "SG1-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Echo把任务执行交给上千合作伙伴，如AWS提供最难做的基础让小公司开发产品",
+   "quote": "上千个合作伙伴",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5487,
+    "end_line": 5491,
+    "fingerprint": [
+     "Echo",
+     "AWS"
+    ],
+    "sha1": "618c6576dec87e9ed063651d9c2ef344bd4e3434"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "Echo开放平台模式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例卡：Echo本身只是语音识别加对话引擎（5489）；用合作伙伴收集数据（5487）；从多米诺订披萨由披萨店自开发（5491）；小冰小Q是展示技术的玩具不实用（5465、5513）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-05",
+   "unit_id": "SG1-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "四家AI产品形态由商业模式与习惯决定：亚马逊开放、Google整合自营、苹果做功能、微软难转化",
+   "quote": "转化成产品",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5507,
+    "end_line": 5513,
+    "fingerprint": [
+     "商业模式",
+     "小冰"
+    ],
+    "sha1": "372dfaf95bf3c900db7bdb511ce548abf3ef9d9a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "基因决定产品形态",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google开放语音接口但目的在推广整合自己服务（5511）；苹果把Siri做成产品功能、互联网公司资历浅能做的有限（5513）；微软20年未能把技术转化成产品（5513）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-06",
+   "unit_id": "SG1-U0097"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "智能时代不需要每个公司开发AI技术但你要会用，会有公司像提供水和电一样提供机器智能",
+   "quote": "提供机器智能",
+   "anchor": {
+    "book_code": "SG1",
+    "start_line": 5515,
+    "end_line": 5515,
+    "fingerprint": [
+     "水和电",
+     "智能时代"
+    ],
+    "sha1": "5f69b3e287cbb29a7e4dce1d067115a2a9bf7402"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "智能如水电",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《智能时代》同源；对话式人机交互几年内是大趋势为2017年CES时点判断（X6登记）；亚马逊已在提供这种智能服务（5515）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0097-07",
+   "unit_id": "SG1-U0097"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0097",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "“几年内通过对话方式实现人机交流将是大趋势”“Google Now最终做不过Echo”等科技趋势预测（5505、5515），依附2017年产业时点；稳定判断已抽卡"
+  },
+  {
+   "unit_id": "SG1-U0097",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "Echo用户Jimmy、Rachel使用体会原文（5467），第三方引文无吴军评述"
+  },
+  {
+   "unit_id": "SG1-U0097",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "苹果早期语音项目与Siri沿革、Nuance公司背景、Google Now功能清单与小冰小Q对照叙述（5463、5485、5493-5503），技术史背景；机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第088封信（CES2）：产品思路重于技术/机器人重脑不重形/对话三技术/差异在数据量/Echo开放平台（E3）/基因决定产品形态/智能如水电，7卡；趋势预测归X6、用户原话归X7、Siri沿革归X4"
+}
