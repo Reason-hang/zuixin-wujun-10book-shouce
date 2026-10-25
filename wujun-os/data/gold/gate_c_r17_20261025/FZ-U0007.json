@@ -1,0 +1,376 @@
+{
+ "unit_id": "FZ-U0007",
+ "book_code": "FZ",
+ "extractor": "GAUD19",
+ "batch_id": "GATE-C-R17",
+ "cards": [
+  {
+   "claim_id": "C-FZ-U0007-01",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "做减法比做加法重要：个人与企业要把成就或利益最大化，须做减法而非加法",
+   "quote": "要靠做减法才能完成",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 181,
+    "end_line": 187,
+    "fingerprint": [
+     "乔布斯",
+     "成就最大化"
+    ],
+    "sha1": "d7623f6bd6927f60db8390cfbc97b44dd563d873"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "做减法比做加法重要",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "单元总结句（187）；乔布斯1996年白板砍14条产品线至4条救回苹果（183，迈克尔·穆勒回忆）；全球市值前五公司产品线极短（185，时点现状见X2）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-02",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "做事的成本投入须超过阈值才产生效果，投入不足阈值时效果为零",
+   "quote": "成本的投入超过一定的阈值",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 193,
+    "end_line": 193,
+    "fingerprint": [
+     "阈值",
+     "效果就是零"
+    ],
+    "sha1": "be1b1b5f481099af83359f95fcb6c3a8c0c6e362"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "投入阈值",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "锻炼须超10分钟、读书5~10分钟才入深度思考为例（193）；支撑减法总论（181-187）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-03",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "同时做的事情过多且每件投入都未过阈值，时间精力花了很多也没有效果",
+   "quote": "时间和精力花了很多却没有效果",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 195,
+    "end_line": 195,
+    "fingerprint": [
+     "特长班",
+     "精力太分散"
+    ],
+    "sha1": "a0260ddd67509b3f079308c3847ce7e9393eb3b5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "分散投入无效",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "中小学生报多个特长班却无特长为例（195）；与投入阈值律（C-FZ-U0007-02）构成减法依据"
+  },
+  {
+   "claim_id": "C-FZ-U0007-04",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "很多产品的品质、艺术水准差百分之几，价格就差出好几倍，且非单纯稀缺所致",
+   "quote": "品质、艺术水准差百分之几",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 201,
+    "end_line": 201,
+    "fingerprint": [
+     "爱马仕",
+     "物以稀为贵"
+    ],
+    "sha1": "22b785f8a17f6968d6ac0ab6d0356c7d5063f383"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "品质差价",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "蔻驰一两百美元vs爱马仕一两万美元（201）；小众品牌销量更少价格仍上不去，说明非单纯物以稀为贵（201）；支撑质量优先于数量（207-209）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-05",
+   "unit_id": "FZ-U0007",
+   "speaker": "转述·第三方",
+   "claim_text": "朗道把物理学家分为五级，每差一级，贡献和影响力就差一个数量级",
+   "quote": "贡献和影响力就差一个数量级",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 203,
+    "end_line": 203,
+    "fingerprint": [
+     "朗道",
+     "五个等级"
+    ],
+    "sha1": "7273c4bf89dd829b9269aebcb581c44b8711e2a1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "朗道五级分级",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：物理学家朗道；玻尔、海森堡、薛定谔列第一级，助理教授第五级（203）；吴军将其推广见C-FZ-U0007-06"
+  },
+  {
+   "claim_id": "C-FZ-U0007-06",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "与其在低水平上多做几件事，不如把力量集中到一点，实现等级的跃迁",
+   "quote": "实现等级的跃迁",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 207,
+    "end_line": 209,
+    "fingerprint": [
+     "斜杠青年",
+     "等级的跃迁"
+    ],
+    "sha1": "fb81700a72759e13fe3d77468012b8c4b3c51841"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D01-2"
+   ],
+   "concept_key": "等级跃迁",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "两份工作两倍时间最多收入增一倍，一份高水平工作收入增好几倍（207）；与其名片加名词不如加'资深''著名'（209）；朗道分级推广至几乎所有专业领域（205）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-07",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "初创企业资源有限，摊子铺得大几乎无一例外失败；聚焦解决一个问题的成功率更高",
+   "quote": "把一个看似小的问题解决到极致",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 215,
+    "end_line": 215,
+    "fingerprint": [
+     "初创企业",
+     "事与愿违"
+    ],
+    "sha1": "cdc11a7aff60c20179d88826040471a9fe5c9c6e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "初创聚焦减法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "全面挑战行业甚至想颠覆整个行业的初创通常事与愿违（215）；聚焦小问题解决到极致者即便不上市也会被收购（215）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-08",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "风险投资人投资前要求初创公司把任务清单精简到无法再减，心思放在代差产品上",
+   "quote": "减到无法再减为止",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 217,
+    "end_line": 217,
+    "fingerprint": [
+     "任务清单",
+     "代差"
+    ],
+    "sha1": "4a329d785d32c92e0af751de6b223177efc4e14d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "任务清单减到无法再减",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "几乎所有风投机构包括吴军本人均如此要求（217）；创始人意识到减法意义并把心思放在有代差的产品上就接近成功（217）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-09",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "与其做一站式集成，宁可少一些功能也要把核心功能做到极致",
+   "quote": "把核心功能做好",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 221,
+    "end_line": 221,
+    "fingerprint": [
+     "Zoom",
+     "一站式"
+    ],
+    "sha1": "a4bbaf0fa0e7aaf0b0fac8ed331e760584739468"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "核心功能极致",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "微软Teams一站式集成vs Zoom单项指标全面领先的对比（221）；Zoom选择做减法（221）；2020疫情市场背景见X2"
+  },
+  {
+   "claim_id": "C-FZ-U0007-10",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "在自己不擅长领域扩张是大企业由盛而衰的开始；一个领域第一胜过十个领域第二三",
+   "quote": "由盛而衰的开始",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 223,
+    "end_line": 223,
+    "fingerprint": [
+     "扩张",
+     "金牌"
+    ],
+    "sha1": "9f64ecf8b725240c1cceac9e1d18909afb964097"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "扩张由盛而衰",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "一个领域绝对第一vs十个领域第二三，几乎无一例外前者更好（223）；人们只记得金牌得主（223）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-11",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "很多市场第一名拿走70%的利润、第二名20%，其余竞争者不到10%",
+   "quote": "70%的利润",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 225,
+    "end_line": 225,
+    "fingerprint": [
+     "浪潮之巅",
+     "70-20-10"
+    ],
+    "sha1": "4bb43c24226de4346c8120e63d87dcc4f15618a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "70-20-10定律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "出自吴军《浪潮之巅》（225）；制药等传统行业细分品类仍遵循（225）；半导体印证见C-FZ-U0007-12"
+  },
+  {
+   "claim_id": "C-FZ-U0007-12",
+   "unit_id": "FZ-U0007",
+   "speaker": "转述·第三方",
+   "claim_text": "半导体行业任何细分市场中，第一名盈利，第二名勉强打平，其余一律亏损",
+   "quote": "第一名盈利，第二名勉强打平",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 225,
+    "end_line": 225,
+    "fingerprint": [
+     "吴子宁",
+     "半导体"
+    ],
+    "sha1": "4bb43c24226de4346c8120e63d87dcc4f15618a3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "半导体细分市场盈亏",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者：吴子宁（美满电子前首席技术官，吴军之弟，半导体从业20多年）（225）；故大半导体公司真正拳头产品只有一两个（225）"
+  },
+  {
+   "claim_id": "C-FZ-U0007-13",
+   "unit_id": "FZ-U0007",
+   "speaker": "吴军本人",
+   "claim_text": "做事须问目标：与目标无关的事情，就应该通过做减法删掉",
+   "quote": "通过做减法删掉",
+   "anchor": {
+    "book_code": "FZ",
+    "start_line": 231,
+    "end_line": 231,
+    "fingerprint": [
+     "断舍离",
+     "目标"
+    ],
+    "sha1": "9909a2a773ac1e9afe02ed8a5ff7c99252eb97ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "目标减法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "借山下英子《断舍离》原则（想过什么生活就保留相应东西）转用于做事目标（231，被转述者：山下英子）；一个人不可能所有方位都是目标（231）"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "FZ-U0007",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "'今天全世界市值最大5家公司'现状（185）、2020全球公共卫生事件期间Zoom/DoorDash受惠与上市背景（219）依附具体时点，离开时点即失效；可迁移逻辑（减法聚焦、核心功能极致）已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "富足03节'做减法比做加法重要'：减法总论/投入阈值/分散无效/品质差价/朗道五级与等级跃迁/初创聚焦/任务清单极简/核心功能极致/扩张风险/70-20-10/半导体盈亏/目标减法；时点性行情与企业现状叙述归X2"
+}
