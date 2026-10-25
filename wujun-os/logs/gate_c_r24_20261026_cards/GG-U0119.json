@@ -1,0 +1,274 @@
+{
+ "unit_id": "GG-U0119",
+ "book_code": "GG",
+ "extractor": "GAUD26",
+ "batch_id": "GATE-C-R24",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：好产品要有牙刷的功能，让用户每天必用几分钟，久而久之养成使用习惯",
+   "quote": "要有牙刷的功能",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 7992,
+    "end_line": 7993,
+    "fingerprint": [
+     "刷牙",
+     "习惯"
+    ],
+    "sha1": "16cd1e7200a9cef5a52ee9cde82e60e6bc6076bf"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "牙刷原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=拉里·佩奇（Google联合创始人）；Google搜索每天用两三次，久之成习惯并设为开机默认页（7992-7993）；牙刷功能并非佩奇发明，宝洁、可口可乐一直这么做（7995）；习惯养成后不出大问题稳定生意就形成（7997）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-01",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙刷类产品须解决两个根本问题：可靠稳定不能时灵时不灵；功能简单易被同类替代",
+   "quote": "两个根本性问题",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 7999,
+    "end_line": 8001,
+    "fingerprint": [
+     "时灵时不灵",
+     "好奇"
+    ],
+    "sha1": "10257434b55fe9fd57d9ea25f5b337e2499df443"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "牙刷两大问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "哪怕1%时间不能用大家都会很烦（7999）；Google搜索在中国做不好非技术产品原因而是服务不稳定，一年断网10天即3%（8000）；人总好奇想尝新（8001）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-02",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：好产品或品牌每隔一段时间要带来一个惊喜，提醒大家它的存在（爆款效应）",
+   "quote": "第二招——爆款",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8003,
+    "end_line": 8007,
+    "fingerprint": [
+     "爆款",
+     "促销"
+    ],
+    "sha1": "f804c9674ba17a2fc3d9020f38e0ca94365a85bd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "爆款效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=拉里·佩奇；可口可乐宝洁每年花上百亿做广告加深印象（8005）；配合广告定期促销、新品放最前方柜台（8006）；消费电子产品一年一个爆款周期，周期太长会被淡忘（8006-8007）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-03",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场可活用牙刷与爆款：每周总结三句话周一汇报老板，每半年到一年拿出让他惊喜的成果",
+   "quote": "让他惊喜的成果",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8009,
+    "end_line": 8009,
+    "fingerprint": [
+     "三句话",
+     "抢着要"
+    ],
+    "sha1": "4e2f14071363f4bec8be38da234d6be541fbb008"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-2"
+   ],
+   "concept_key": "职场牙刷与爆款",
+   "ability_tags": [
+    "做",
+    "沟"
+   ],
+   "notes": "我常建议职场朋友灵活运用（8009）；这样的员工哪个老板都抢着要（8009）；向上汇报视角归D06-3，职场成果视角归D06-2",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-04",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事有开始就有终结、有生就有死，组织亦然；硅谷公司不介意死亡而是寻找下一次机会",
+   "quote": "不介意公司的死亡",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8012,
+    "end_line": 8013,
+    "fingerprint": [
+     "有生就有死",
+     "下一次机会"
+    ],
+    "sha1": "e30cc2083605deb0c9a253de2c4bb73b07d77368"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "公司有生死",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本小节先说我的观点再分享佩奇想法（8011）；《硅谷之谜》总结：不刻意拯救衰老公司，把目光往前看（8013）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-05",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇：企业如生物难逃老化衰亡，让新部门如海蜇新细胞独立长大，以逃脱大公司宿命",
+   "quote": "逃脱大公司的宿命",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8014,
+    "end_line": 8018,
+    "fingerprint": [
+     "海蜇",
+     "新的产品部门"
+    ],
+    "sha1": "55000cdad4f3d6729262496c354e7255b84153df"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "海蜇细胞论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=拉里·佩奇；全世界只有一种海蜇可不死，受刺激长出新细胞、母体死后发育成完整个体（8014-8015）；为此成立Google风投、X实验室等独立部门（8018）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-06",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人该把成熟业务交给他人、自己负责最需资源的新业务，否则新业务必重蹈IBM覆辙",
+   "quote": "公司基因决定论",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8024,
+    "end_line": 8026,
+    "fingerprint": [
+     "基因决定论",
+     "成熟的果实"
+    ],
+    "sha1": "b7708dfcfe9a95cc108f565af3a33a1e07119f31"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "创始人守新业务",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "常见做法是找相关领域专家开展新业务，与Google相反（8024）；创始人守旧业则新业务必成IBM个人电脑部门或微软在线部门（8025）；皮柴交接铺垫：高级副总裁改向皮柴汇报、Chrome成绩、接手安卓、Alphabet改组（8020-8022，史实见X处置）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-07",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "家族要传承的不止物质财富还有精神财富（基因）；公司真正能传承的也只是基因而已",
+   "quote": "传承的其实也只是基因",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8032,
+    "end_line": 8032,
+    "fingerprint": [
+     "精神财富",
+     "基因"
+    ],
+    "sha1": "79f861473ed41f5b19e6affe82a9fe5637f656c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-1"
+   ],
+   "concept_key": "可传承者唯基因",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "家族的基因指精神财富（8032）；与C-GG-U0119-09佩奇传承观相接",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-08",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "佩奇过人处在先认同公司终将死掉是常态，再考虑传承基因与文化，而非维持不死公司",
+   "quote": "而不是试图维持一个不死的公司",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 8033,
+    "end_line": 8033,
+    "fingerprint": [
+     "常态",
+     "基因和文化"
+    ],
+    "sha1": "74eba25eac1bc65656042f27db334d9d0d3283a4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "认同死亡再谋传承",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "评述对象=拉里·佩奇；薪尽火传：柴火烧尽火种仍留传（8034）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-09",
+   "unit_id": "GG-U0119"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0119",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "佩奇培养皮柴与Alphabet改组过程（8020-8022）：汇报线调整、职务提拔、公司改名与业务打包等企业史叙述，仅作基因决定论卡的背景，不独立成卡"
+  },
+  {
+   "unit_id": "GG-U0119",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "Google反垄断诉讼预判与聘请司法部前官员的未雨绸缪（8028-8031）：依附2018年时点与具体公司事件，离开时点即失效，无可独立迁移的强判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "佩奇人生智慧：牙刷原则/两大问题/爆款/职场应用/公司生死/海蜇细胞/基因决定论/传承基因/认同死亡；皮柴交接史实X4、反垄断时点预判X2"
+}
