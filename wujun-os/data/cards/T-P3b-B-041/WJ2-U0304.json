@@ -1,0 +1,102 @@
+{
+ "unit_id": "WJ2-U0304",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "支持留学者四理由：最好大学学生教授集中在美国、本科尽量读名校、看世界本身是大学的一部分、不用太担心政治因素",
+   "quote": "集中在美国",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24663,
+    "end_line": 24665,
+    "sha1": "2ac5efa7a4a631b73bbf8b102de41ffdd9dbd077",
+    "fingerprint": [
+     "大学",
+     "美国"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "留学四理由",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "U.S.News世界前十美国占7所（24667）；沃顿遇到的企业家金融要员几句话受益匪浅（24673）；阿拉伯谚语'学问虽远在中国亦当求之'——不惜代价求知（24687）；X5边界留痕（留学决策、机理=见识优先）；答老罗",
+   "claim_id": "C-WJ2-U0304-01",
+   "unit_id": "WJ2-U0304"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "系统学习优于师傅带徒弟：成功商人是好实践者不是理论家、讲课需要理论家；同样的话父母说就不听老师说就听",
+   "quote": "系统性地学习",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24699,
+    "end_line": 24701,
+    "sha1": "e9e7dd12491a7de963b9ed7903ea2e165d01edd7",
+    "fingerprint": [
+     "理论家",
+     "系统"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "系统学习优于带教",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "再成功的商人不可能掌握所有商业知识、商业还需跨领域知识（24699）；两个孩子都学计算机是自己的选择、吴军一点没教（24703）；X5边界留痕",
+   "claim_id": "C-WJ2-U0304-02",
+   "unit_id": "WJ2-U0304"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "别为留孩子在身边而上差一点的学校——那是双重损失；离开父母一个人才能独立起来",
+   "quote": "双重损失",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24679,
+    "end_line": 24679,
+    "sha1": "9d67d964128c7638a3a4f2c4321d26794c3dadb6",
+    "fingerprint": [
+     "离开家",
+     "独立"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "离家上学原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "女儿信：周末回家会失去与同学建立联系的机会、父母更难放手；学生需要与父母保持地理距离（geographic space 24729）；本科录取率4.5%vs MBA21%——大学最宝贝本科生、硕士多为赚钱（24715-24717）；父母认为你不成熟更应成为承担更多责任的动力的（24733）；X5边界留痕（家教语境、机理=独立成长普适）",
+   "claim_id": "C-WJ2-U0304-03",
+   "unit_id": "WJ2-U0304"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0304",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'老罗'近3000字来信与用户留言为读者发言本体，X7留痕；女儿英文信兼X5留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "该不该到美国读书：留学四理由/系统学习/离家上学（X5边界例外）"
+}

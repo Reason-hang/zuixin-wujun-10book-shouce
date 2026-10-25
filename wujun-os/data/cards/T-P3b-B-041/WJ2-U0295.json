@@ -1,0 +1,129 @@
+{
+ "unit_id": "WJ2-U0295",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成熟行业全行业打平、毛利=劳动力成本：只有高门槛（外科医生式护城河）或暂时无法复制的新技术才能超额",
+   "quote": "全行业没钱赚",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23853,
+    "end_line": 23853,
+    "sha1": "c0dbb8bb0e1920a824c414d08720e2ff591c4a4b",
+    "fingerprint": [
+     "护城河",
+     "打平"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "成熟行业打平律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "餐饮最没门槛最不挣钱、快餐加盟又是其中最没技术含量的（23855）；与'充分竞争零利润'（U0187）同族互参；答F",
+   "claim_id": "C-WJ2-U0295-01",
+   "unit_id": "WJ2-U0295"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先做再懂：知道正确方法就该执行，在执行中加深理解——'不懂不做'会陷入不理解不执行没经验的死循环",
+   "quote": "不理解，不执行",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23883,
+    "end_line": 23883,
+    "sha1": "e1c3c87f459a1ff8919c0d0279a2d84a5829dc9a",
+    "fingerprint": [
+     "执行",
+     "理解"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "先执行再理解",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "老板最怕悟性差还不执行的人（'倔' 23881）；教练经验讲不出原理但有道理——要么悟出来要么找真懂的人（23877）；悟性高低别太在意、慢慢学慢慢悟（23879）；答LJ",
+   "claim_id": "C-WJ2-U0295-02",
+   "unit_id": "WJ2-U0295"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "交友底线：一个人可以能力差、穷、受教育少，但不能缺一个'善'字",
+   "quote": "不能缺了一个“善”字",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23901,
+    "end_line": 23903,
+    "sha1": "2bac2dddcf5ccd6e7888cbc9e622d8cfc1997470",
+    "fingerprint": [
+     "善",
+     "边界"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "善字底线",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "王晗问'维权成瘾'的朋友该不该断：吴军'早就和这个人断了'（23901）；产生这种问题是自我认知与明确边界的过程（23901）；X5边界留痕（交友语境、机理=价值观底线）",
+   "claim_id": "C-WJ2-U0295-03",
+   "unit_id": "WJ2-U0295"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "增加时间维度时勿忽视自己在变：关注外部世界的变化、却忘了认识主体（你）也在变化",
+   "quote": "认识的主体",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23913,
+    "end_line": 23913,
+    "sha1": "e26e2ce01e969519922461678dd89b3d3a560819",
+    "fingerprint": [
+     "主体",
+     "变化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "主体也在变化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "婚恋例：自身条件与对对方期望的差距越来越大（23925）；'约束条件过多可选对象可能是零'（23921）；X5边界留痕（婚恋例、机理=时间维度自检普适）；答欢欢的老公",
+   "claim_id": "C-WJ2-U0295-04",
+   "unit_id": "WJ2-U0295"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0295",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'F''LJ''王晗''欢欢的老公'四位读者留言为读者发言本体，X7留痕；婚恋观察细节兼X5留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答48：成熟行业打平/先执行再理解/善字底线/主体也在变化"
+}

@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0293",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现代文明只有一百多年：海德堡600年校史里科学1890年才成独立系、关学生禁闭到19世纪末、平等友善不过百十来年",
+   "quote": "非常短，只有一百多年",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23661,
+    "end_line": 23661,
+    "sha1": "efec5b0b2e5ec887a2afe23c7f3190cf64fad792",
+    "fingerprint": [
+     "海德堡",
+     "文明"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D04-1"
+   ],
+   "concept_key": "现代文明很年轻",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "X3游记语境按认知例外成卡；招收女生1900年（23675）；马克·吐温'学生监狱'（23695）；高年级欺负低年级被制止也只100多年（23705）；对比文艺复兴与启蒙运动、今天说的现代文明是最近百年的产物（23713）",
+   "claim_id": "C-WJ2-U0293-01",
+   "unit_id": "WJ2-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "受教育不等于良善：海德堡70%教职工加入纳粹党（含著名学者）、海德格尔也是党员——高级军官反而不是",
+   "quote": "70%的教职工",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23707,
+    "end_line": 23711,
+    "sha1": "dc2bb5b1c645a348b020ff991fd1f2e087386df6",
+    "fingerprint": [
+     "纳粹",
+     "知识分子"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-2"
+   ],
+   "concept_key": "受教育不等于良善",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X3游记语境按认知例外成卡；犹太教授被迫害致20%教授离职；海德格尔校长就职演说用纳粹言词（23709）；曼施坦因古德里安等将领非党员、军界反看不起党卫军（23711）；1933学生焚书事件；仅靠教育不足以推动社会整体进步（23751）",
+   "claim_id": "C-WJ2-U0293-02",
+   "unit_id": "WJ2-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "医学应按时间分传统与现代而非按地域分：传统阶段全世界做法都差不多（草药矿物放血），现代医学满算只有百余年",
+   "quote": "分成传统医学和现代医学",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23737,
+    "end_line": 23737,
+    "sha1": "722689a915d84cb7d7a2b1587783bf787e4e7e72",
+    "fingerprint": [
+     "传统医学",
+     "现代医学"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-1"
+   ],
+   "concept_key": "医学的时间划分",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "医药博物馆=西方中药铺（23733）；斯大林1953年还在用蚂蝗放血（23735）；哈维算起、塞麦尔维斯洗手-巴斯德-李斯特无菌术只100多年（23739）；X3游记语境按认知例外成卡",
+   "claim_id": "C-WJ2-U0293-03",
+   "unit_id": "WJ2-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正改变社会的是工业革命：科技+企业家精神的结合，与人文主义对个人的尊重——而非仅靠教育",
+   "quote": "工业革命的核心",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23749,
+    "end_line": 23749,
+    "sha1": "cb29db12334680fad2b5596d6941fce22ce8e2a4",
+    "fingerprint": [
+     "工业革命",
+     "企业家"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "工业革命改变社会",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "奔驰博物馆见每次汽车工业进步对社会的影响（23753）；与U0276'南撒哈拉缺工业'同族互参；X3游记语境按机理例外成卡",
+   "claim_id": "C-WJ2-U0293-04",
+   "unit_id": "WJ2-U0293"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0293",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "海德堡城堡医药博物馆、斯图加特奔驰保时捷博物馆见闻叙事按X3留痕，四条认知/科学史机理已例外成卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "海德堡到斯图加特：现代文明年轻/受教育不等于良善/医学时间划分/工业革命（X3+例外）"
+}

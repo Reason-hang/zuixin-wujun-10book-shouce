@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0298",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "内卷的本质：非零和博弈中的双输选择——出于攀比而产生的最终没有人受益的无效竞争",
+   "quote": "非零和博弈中的双输选择",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24115,
+    "end_line": 24115,
+    "sha1": "759fb63e93569ed66f1fb961d9dfd857eb35091d",
+    "fingerprint": [
+     "内卷",
+     "双输"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D07-2"
+   ],
+   "concept_key": "内卷的本质",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "纳什：非零和博弈存在共赢状态、双赢需合作（24117）；三种情形：双赢/双输小输/合作方大输；双输才是纳什平衡点（稳态）、指望合作靠不住（24129）；演唱会站起来看戏例（24137-24139）；不管卷不卷每年上清北的名额就那么多（24141）",
+   "claim_id": "C-WJ2-U0298-01",
+   "unit_id": "WJ2-U0298"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "双赢不是稳态所以内卷难止：有人悄悄加班内卷就重启——减负令下仍有人偷偷补课",
+   "quote": "双赢不是个稳态",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24143,
+    "end_line": 24145,
+    "sha1": "6afe0e33fac6266637c27d0d184b851c77757935",
+    "fingerprint": [
+     "稳态",
+     "补课"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "双赢非稳态",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "00后宣布不内卷是理想做法但难靠别人善意（24145）；不内卷需所有人达成共识——基于善意的结果不处于平衡态；'别人合作你背叛赚便宜'的威胁使退出内卷很难（24143）",
+   "claim_id": "C-WJ2-U0298-02",
+   "unit_id": "WJ2-U0298"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "局部内卷喂肥更高层的赢家：员工间内卷双输、公司受益——员工整体在与公司的更大博弈中吃亏",
+   "quote": "两个非零和游戏",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24147,
+    "end_line": 24149,
+    "sha1": "38ffdc0f99ef307b428aefdd1472c3280a59692c",
+    "fingerprint": [
+     "局部",
+     "整体"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-2"
+   ],
+   "concept_key": "内卷的层次结构",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "员工间游戏嵌套于员工vs公司的更大游戏；员工合作双赢则在与公司博弈中占更有利地位（24149）；与导游博弈双赢（U0275）同族互参",
+   "claim_id": "C-WJ2-U0298-03",
+   "unit_id": "WJ2-U0298"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "破解内卷要站到更高层次：限制申请数量的私校（埃克塞特/安多福）在更高博弈中赢——不限制的每人报20所陷入内卷",
+   "quote": "更高的层次",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24153,
+    "end_line": 24163,
+    "sha1": "3530f939be386ddd6647e9e87ccdd502561099b3",
+    "fingerprint": [
+     "层次",
+     "内卷"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-1"
+   ],
+   "concept_key": "高维破解内卷",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "大女儿报10所、二女儿近20所、现在要20所以上=典型内卷（24161）；提前录取即撤其他申请把机会让给同学=全校双赢（24163）；把学校看作整体在更高层博弈、第一类学校是输家（24165）；个体看不到更高层收益就不愿放弃内卷（24169）",
+   "claim_id": "C-WJ2-U0298-04",
+   "unit_id": "WJ2-U0298"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0298",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'青云龙上'读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "内卷的本质：双输选择/双赢非稳态/层次结构/高维破解"
+}

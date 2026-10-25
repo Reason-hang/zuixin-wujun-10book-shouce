@@ -1,0 +1,102 @@
+{
+ "unit_id": "WJ2-U0297",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "富不过三代四因：社会避免财富世袭放大（遗产税/历史上抄家）、均值回归、后代未必对管钱感兴趣、被动投资与财富拆分",
+   "quote": "富不过三代的原因",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24031,
+    "end_line": 24041,
+    "sha1": "399be43825e3f17ea9de0a54cb4acee40e0f63b2",
+    "fingerprint": [
+     "遗产税",
+     "均值回归"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D08-1"
+   ],
+   "concept_key": "富不过三代四因",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "美国联邦遗产税最高40%（24037）；东西方皇帝都变相掠夺富户（24035）；朱元璋精力过人vs仁宣二帝身体不行开宦官参政先例（24043-24049）；开国皇帝普遍长寿：第一代精力过人以后一代不如一代（24051）；继承人无超过开创者则难逃此命运（24079）",
+   "claim_id": "C-WJ2-U0297-01",
+   "unit_id": "WJ2-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "东亚王朝企业vs欧美基金会信托：选一人继承家业（丰田三星）或基金会（年捐5%实际缩水）与信托（领生活费终将领光）",
+   "quote": "王朝企业",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24065,
+    "end_line": 24075,
+    "sha1": "aa6f21b92c1ee1d3c1e8bef20eebcc1ba340877b",
+    "fingerprint": [
+     "基金会",
+     "信托"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D08-1"
+   ],
+   "concept_key": "财富传承三模式",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "基金会回报7%捐5%剩2%扣管理费与工资、本金难增长、洛克菲勒基金会相对财富缩水（24073）；信托投资保守+固定生活费、子孙多则领光（24075）；日耳曼平分财产传统：德意志300多个诸侯签约（24077）",
+   "claim_id": "C-WJ2-U0297-02",
+   "unit_id": "WJ2-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "普通家庭应为均值回归庆幸：财富回到社会再分配、你因此有相对多的机会",
+   "quote": "感到庆幸",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24089,
+    "end_line": 24089,
+    "sha1": "59fec1292f9dc454a1fea905230e7e5fc339f8c3",
+    "fingerprint": [
+     "均值回归",
+     "机会"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-1"
+   ],
+   "concept_key": "均值回归的机会面",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "富一代勿指望孩子超过自己：不继承就转出财产分散投资（盖茨模式）+给孩子够实现梦想的钱（24085）；富二代做自己想做的事就好（24087）；亿万到千万到百万是家道中落但瘦死骆驼比马大（24091）；维特根斯坦放弃遗产、学业表现与钱无关（24093）",
+   "claim_id": "C-WJ2-U0297-03",
+   "unit_id": "WJ2-U0297"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0297",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'郭立勇'读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "富不过三代：四因/传承三模式/均值回归的机会面"
+}

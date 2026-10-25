@@ -1,0 +1,122 @@
+{
+ "unit_id": "WJ2-U0292",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "家最需要松弛感：平和从容的状态让人宽容；缺乏松弛感会激发自我保护本能——表现为怼和冲",
+   "quote": "平和、从容、不慌张的心理状态",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23607,
+    "end_line": 23607,
+    "sha1": "b09f9e9c73455dd7f1392166a9d37ccf920fd023",
+    "fingerprint": [
+     "松弛感",
+     "内耗"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D07-2"
+   ],
+   "concept_key": "家庭松弛感",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（家庭语境、机理=心理空间与压力管理普适）；家应是避风港却常最没松弛感（23641）；看球去酒吧比在家放松（23643）；新男友'一起赖在床上'懂得家的含义（23645）",
+   "claim_id": "C-WJ2-U0292-01",
+   "unit_id": "WJ2-U0292"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同样的话父母说就是控制、老板朋友说是关心：父母早年管束让你分不清关心与干涉——自我保护先启动",
+   "quote": "激起了你的自我保护本能",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23609,
+    "end_line": 23613,
+    "sha1": "2a11de0cceb81d338cb374d22adbe8c67647f797",
+    "fingerprint": [
+     "自我保护",
+     "管束"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-4"
+   ],
+   "concept_key": "关心与干涉之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；从小被否定打压→分不清关心与干涉（23611）；父母自己也分不清：同样的话有时是关心有时是管束（23613）；心理空间被侵占就烦（23615）",
+   "claim_id": "C-WJ2-U0292-02",
+   "unit_id": "WJ2-U0292"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "亲密关系反而压力大：因为太在乎、没给对方留心理空间——朋友压力小因为在乎得少",
+   "quote": "在乎得少",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23637,
+    "end_line": 23639,
+    "sha1": "1b78b84a2ddd15d7591fe29f17ef609ee22f3c76",
+    "fingerprint": [
+     "心理空间",
+     "压力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-4"
+   ],
+   "concept_key": "亲密关系的心理空间",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕；配偶晚归被质疑即炸vs室友说什么都没反应（23619-23621）；把重要事瞒配偶不瞒朋友：怕对方不必要的担心反成压力（23623）；换位想：若他独居需要什么、我该说什么（23637）",
+   "claim_id": "C-WJ2-U0292-03",
+   "unit_id": "WJ2-U0292"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "少给对方压力是保持各种关系的秘诀：'他是我儿子我唠叨几句不行吗'——对方想的是你还在添乱",
+   "quote": "保持各种关系的秘诀",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23639,
+    "end_line": 23639,
+    "sha1": "75aca21a4a5228f7b61448bbed8247cac0c7ca2c",
+    "fingerprint": [
+     "压力",
+     "唠叨"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "少给压力原则",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（机理普适于一切关系）；爱变成控制、关心变成压力、沟通变成战场（23629）；遇倒霉事时想：如果这里是避风港我该说什么（23637）",
+   "claim_id": "C-WJ2-U0292-04",
+   "unit_id": "WJ2-U0292"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "家庭松弛感：定义/关心与干涉/心理空间/少给压力（X5边界例外成卡）"
+}

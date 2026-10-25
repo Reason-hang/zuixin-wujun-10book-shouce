@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0301",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一家人尽量不坐同一趟飞机：极小概率但代价巨大的风险（曼联慕尼黑空难/美国花滑队全队罹难）值得规避",
+   "quote": "不要坐同一趟飞机",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24379,
+    "end_line": 24381,
+    "sha1": "9939eac8a4a6828a81b408a394c3e9fa30814785",
+    "fingerprint": [
+     "飞机",
+     "风险"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "分乘避险",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "美国总统副总统、公司一二把手也被要求不同乘（24381）；博比·查尔顿幸存但曼联一蹶不振（24375）；1961比利时548班机美国花滑全队遇难（24377）；X5边界留痕（家庭出行语境、机理=尾部风险规避普适）；答龚伟",
+   "claim_id": "C-WJ2-U0301-01",
+   "unit_id": "WJ2-U0301"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "外行判断内行水平没有简单办法：听圈内人评价而非媒体——杨振宁一两句话把物理学家特点讲得清清楚楚",
+   "quote": "没有简单的办法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24397,
+    "end_line": 24399,
+    "sha1": "849d0641b46ee2436f84386eb666903718fe312a",
+    "fingerprint": [
+     "外行",
+     "同行"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "外行判不了内行",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "于谦相声'外行不要随便评论我们'（24397）；新闻传记只能得到'都很伟大'的笼统结论（24399）；大大方方承认不懂、不跟人争哪个物理学家伟大（24405）；面试官教授也会看走眼（24407）；答咚咚锵",
+   "claim_id": "C-WJ2-U0301-02",
+   "unit_id": "WJ2-U0301"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "信息少而准胜过多而误：皮尤把非法移民算作移民得出'移民创新低'——不研究细节的媒体内容少看为好",
+   "quote": "少看为好",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24409,
+    "end_line": 24411,
+    "sha1": "952066040f8c5b758b590e15e5482cbfecbbf327",
+    "fingerprint": [
+     "误导",
+     "准确"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "少而准胜多而误",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "2025遣返非法移民所以人数降——故意混淆概念即刻意误导（24409）；标题党盛行的年代尤甚；与U0296'权威渠道'同族互参",
+   "claim_id": "C-WJ2-U0301-03",
+   "unit_id": "WJ2-U0301"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学人才=有实际贡献者而非会考试：奥数金牌不算——分布集中于法德英苏美五国，日本在欧美外最高（3个菲尔兹奖）",
+   "quote": "不算是真正的数学人才",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24423,
+    "end_line": 24431,
+    "sha1": "e8fd55129bdaee4cc9e030708d1e6526a6e6ad07",
+    "fingerprint": [
+     "数学人才",
+     "菲尔兹"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D01-2"
+   ],
+   "concept_key": "数学人才的定义与分布",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "华为找数学家去俄罗斯（24429）；印度拉马努金奖不考虑欧美（24429）；二战图灵破译密码如明眼人打瞎子、维纳提高火炮精度、奥本海默算临界质量只能靠理论（24435）；信息处理精确计算系统优化能力通向AI量子竞争（24437）；答末日罗兰",
+   "claim_id": "C-WJ2-U0301-04",
+   "unit_id": "WJ2-U0301"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0301",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'龚伟''咚咚锵''末日罗兰'三位读者留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答49：分乘避险/外行判不了内行/少而准/数学人才定义与分布"
+}

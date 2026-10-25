@@ -1,0 +1,74 @@
+{
+ "unit_id": "WJ2-U0294",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "海恩法则：每起严重事故背后有29次轻微事故、300起未遂先兆、1000起隐患——常出小问题的航司早晚会掉飞机",
+   "quote": "海恩法则",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23785,
+    "end_line": 23785,
+    "sha1": "ad3603dc3d7c61026313282b0f7ea67ae2d67676",
+    "fingerprint": [
+     "海恩法则",
+     "隐患"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D04-3"
+   ],
+   "concept_key": "海恩法则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "小故障多=管理有问题、离远点（23785）；印度航空上一班乘客已报空调屏幕灯全坏还敢再飞（23787）；美联航微波炉坏降落伦敦排故2小时——不带伤飞行（23789）；一家公司一年4次小故障坚决不坐",
+   "claim_id": "C-WJ2-U0294-01",
+   "unit_id": "WJ2-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "挑航司三法：挑大飞机（777/350比737/320安全）、挑枢纽机场航司（维护强配件全）、坐早班机",
+   "quote": "维护维修力量强",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23795,
+    "end_line": 23801,
+    "sha1": "e4c17e16d2928cd63277f72e305ea3e06cacbcfd",
+    "fingerprint": [
+     "枢纽",
+     "配件"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-2"
+   ],
+   "concept_key": "挑航司三法",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "大飞机抗颠簸、安全设备多（空姐经验、统计量不够看不出 23795）；圣荷西缺配件飞旧金山换的最短航班（23799）；枢纽机场有先起飞权力、天气差也能飞几架；晚班机看上一班能否准时进港（23801）",
+   "claim_id": "C-WJ2-U0294-02",
+   "unit_id": "WJ2-U0294"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0294",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "个人飞行履历（百万英里星空联盟金卡等）与航司体验叙事按X3留痕（信后半乘机细节在U0295窗口）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "坐飞机注意事项（上）：海恩法则/挑航司三法"
+}

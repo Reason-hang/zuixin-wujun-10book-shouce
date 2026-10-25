@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0305",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数字时代的核心是主导权：小常小梅掌握信息与信息处理的主导权、小叶把主导权交给机器——脑子成了电脑的终端",
+   "quote": "主导权",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24837,
+    "end_line": 24843,
+    "sha1": "0824a3ad94fe6581273ad09b5931c57af028d35f",
+    "fingerprint": [
+     "主导权",
+     "延伸"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "信息主导权",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三个例子在24833-24837：平台创始人/意见领袖/重度用户；机械时代机器是人手的延伸、信息时代电脑是人脑的延伸——但也可能反过来（24841）；不仅对信息有控制权、对处理信息的方式也要保持控制权（24843）；点题句在24827",
+   "claim_id": "C-WJ2-U0305-01",
+   "unit_id": "WJ2-U0305"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学100张卡片不等于读一本书：碎片信息无法训练大脑形成逻辑网络——刷两小时短视频答不上看懂了什么",
+   "quote": "100 张卡片",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24849,
+    "end_line": 24855,
+    "sha1": "7b17789e18e5e62f3da48ca756e9c04235d22613",
+    "fingerprint": [
+     "碎片",
+     "教科书"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D02-2"
+   ],
+   "concept_key": "卡片不等于书",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "中学不听课只看定义公式学不下来（24849）；信息处理外包久了脑子难做恰当处理（24853）；完整有逻辑关联的信息才能训练大脑变聪明（24857）；与'摘要不能代替阅读'（U0296）、'知识与能量'同族互参",
+   "claim_id": "C-WJ2-U0305-02",
+   "unit_id": "WJ2-U0305"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "碎片信息把大脑训练成投票机器：能刺激兴奋点的停留、不能的直接刷过——如天天刷5+3永远做不出复杂应用题",
+   "quote": "投票机器",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24861,
+    "end_line": 24861,
+    "sha1": "2d388fd25ec643ba7e7a11593a9c3dab2c528371",
+    "fingerprint": [
+     "投票",
+     "碎片"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "大脑投票机化",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "系统学过的人能整合数学与地理知识发现时差错（24863）；没有系统知识与推理能力、AI说'到达是当地夜里12点'就无法判断对错（24865）；有心判断也做不到——头脑没被训练得善于处理信息（24867）",
+   "claim_id": "C-WJ2-U0305-03",
+   "unit_id": "WJ2-U0305"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "坚持电脑是人脑的延伸而非人脑变成电脑的反馈设备：先明白保留选择/获取/处理信息的主导权、再谈工具用法",
+   "quote": "人脑的延伸",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24871,
+    "end_line": 24871,
+    "sha1": "b60f6ad03d3ebbdac17e3ad41c78233aca29de45",
+    "fingerprint": [
+     "延伸",
+     "反馈"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D02-2"
+   ],
+   "concept_key": "电脑是人脑延伸",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "最重要的不是掌握数字化工具包括AI的用法（24871）；平台希望越来越多小叶——生活想法决定都依附平台（24869）",
+   "claim_id": "C-WJ2-U0305-04",
+   "unit_id": "WJ2-U0305"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "信息主导权：定义/卡片不等于书/大脑投票机化/电脑是人脑延伸"
+}

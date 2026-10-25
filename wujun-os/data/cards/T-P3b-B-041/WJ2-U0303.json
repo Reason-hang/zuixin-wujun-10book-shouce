@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0303",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大学两功能=筛选+培养：美国名校错在筛选（约一半学生不合格靠DEI与金主入学），中国大学错在培养",
+   "quote": "筛选和培养",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24561,
+    "end_line": 24561,
+    "sha1": "1fbdcc52b3d28651af72c5a68aa6439c93ea162e",
+    "fingerprint": [
+     "筛选",
+     "培养"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-2"
+   ],
+   "concept_key": "中美大学各自错位",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（教育语境、机理=筛选/培养框架普适）；顶级私校进大厂不比UC公立好——不合格学生拖累（24571）；美国入学照顾各方面、校内选课择优补完筛选（24583）；光筛选不培养或光培养不筛选都是错位（24561）",
+   "claim_id": "C-WJ2-U0303-01",
+   "unit_id": "WJ2-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中国大学培养三问题：无就业前途专业大量招生、课表三分之一课程无意义且参与考评、考核方式缺动手环节",
+   "quote": "毫无意义",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24597,
+    "end_line": 24599,
+    "sha1": "74b47eec30411ccf7a28bae834cee78f9bc4473c",
+    "fingerprint": [
+     "课表",
+     "课程"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D08-1"
+   ],
+   "concept_key": "大学培养三问题",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "C9大学课表至少1/3无意义（24597）；美国《计算机网络》学完底层编程几乎全亲手做一遍、《操作系统》写出简单系统（24603）；艾斯纳NLP课100多人报名40人学下来（24603）；水专业赚钱（24585）；动手环节少的考核在24595；X5边界留痕",
+   "claim_id": "C-WJ2-U0303-02",
+   "unit_id": "WJ2-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技术进步则学习要求同步提高：AI让旧项目从100小时变快、教授就把项目难度提到仍需100小时——企业用人要求在提高",
+   "quote": "提高了非常多",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24619,
+    "end_line": 24621,
+    "sha1": "b16a87bcdf8f048311c5dbda7dbdae71eea1b548",
+    "fingerprint": [
+     "难度",
+     "要求"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D04-2"
+   ],
+   "concept_key": "水涨船高律",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "库旦普《语音识别》课程实例（24619）；学生觉得AI让作业从10小时变1小时很爽、但老板不会这么安排工作（24623）；教授应改进教学内容而非一味限制工具（24623）；高端岗位缺人与大量人找不到对口工作并存=错位（24625）",
+   "claim_id": "C-WJ2-U0303-03",
+   "unit_id": "WJ2-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "给大学生三事实：专业与实际需求有差距须补实践、课程未必契合应用高GPA≠核心能力、毕业离能上手还有差距",
+   "quote": "存在差距",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24609,
+    "end_line": 24615,
+    "sha1": "ecbe42d0c6c769d38e7b860464cd89cc13cee3a0",
+    "fingerprint": [
+     "实践",
+     "差距"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "在校三事实",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "交大毕业生泡实验室做机器人比赛、四年积累实践经验（24605）；X5边界留痕",
+   "claim_id": "C-WJ2-U0303-04",
+   "unit_id": "WJ2-U0303"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "中美大学各自错位：筛选培养框架/中国培养三问题/水涨船高/在校三事实"
+}

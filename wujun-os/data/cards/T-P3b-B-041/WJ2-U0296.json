@@ -1,0 +1,148 @@
+{
+ "unit_id": "WJ2-U0296",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "删除'人家说/有人说/现在都'：把别人的选择或大多数人的选择当正确答案是思维陷阱",
+   "quote": "从我们的字典中删除",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23947,
+    "end_line": 23949,
+    "sha1": "4e0fdf2b42d1e2497462b0201f6235944445d3af",
+    "fingerprint": [
+     "人家说",
+     "陷阱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "人家说陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "岳母一开口'人家说'就请她别说（23947）；几吨沙子里淘一粒金成本太高、通常做法是全部删除；巴菲特'别人恐惧我贪婪'的深层含义：大多数人对世界规律的理解是肤浅甚至错的（23951-23953）",
+   "claim_id": "C-WJ2-U0296-01",
+   "unit_id": "WJ2-U0296"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知道和学会是两回事：只有实践中用出来知识才属于你——没真学进去遇到现实不会用也不打算用",
+   "quote": "知道和学会是两回事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23957,
+    "end_line": 23957,
+    "sha1": "a6f653484835c4bca99f613d2f6c4973f84ebc96",
+    "fingerprint": [
+     "学会",
+     "实践"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "知道不等于学会",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "学懂巴菲特那句话前后对同一件事的判断会不同（23959）；'美日都走过弯路中国也该走'的逻辑问题：明知是错误为何还要犯（23963）；别人干蠢事跟着干一遍是大多数人失败的原因（23965）",
+   "claim_id": "C-WJ2-U0296-02",
+   "unit_id": "WJ2-U0296"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "别人放弃努力时机会留给你：有人鼓吹AI时代不用学数学英语——满地金子由你的孩子捡",
+   "quote": "满地的金子",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23973,
+    "end_line": 23975,
+    "sha1": "317800ea275a5e3a8b39aca6c31eaeb1a2938c7e",
+    "fingerprint": [
+     "AI",
+     "努力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "他人放弃即机会",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "有了AI不用学数学、机器翻译不用学英语、快乐学习更好——本质上是一类问题（23973）；如果大家都很理性都知道要学、竞争才累（23975）；牛奶广告违背蛋白质分解常识（23967）；保持清醒不犯错误就能超越大部分人（23969）",
+   "claim_id": "C-WJ2-U0296-03",
+   "unit_id": "WJ2-U0296"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "得到知识须付出能量：信息与能量可互换、不耗能量获得的知识没参与大脑改造——如同存了数据从不训练",
+   "quote": "相互交换",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23977,
+    "end_line": 23993,
+    "sha1": "6dccbc1cfacb4381f247561f5d6c715dbbf83aa7",
+    "fingerprint": [
+     "能量",
+     "神经网络"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D02-2"
+   ],
+   "concept_key": "知识与能量",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "大脑如神经网络：信息来回流动才改变节点权重与连接（23987-23989）；苦思冥想、结合经历反复审视、更新知识图谱都要能量（23985）；读名著缩写只知情节、答不上细节更谈不上欣赏文字与思想（23995-23997）；与施普伦三角（U0264）同族互参",
+   "claim_id": "C-WJ2-U0296-04",
+   "unit_id": "WJ2-U0296"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI摘要与精讲不能代替阅读本身：一本书只有你读过全文而他人只读缩写——不用做任何事已拥有优势",
+   "quote": "不能代替阅读本身",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 23999,
+    "end_line": 23999,
+    "sha1": "edef31ffdf0813a4855ef90af16d60f0fbd43247",
+    "fingerprint": [
+     "摘要",
+     "阅读"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "摘要不能代替阅读",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "视频/精讲/知识卡片对选择阅读内容有帮助（23999）；洋务运动时期唯一读过《几何原本》与牛顿力学的人思想实验（24001）；有人鼓吹这些不要读、你反而可以庆幸：掌握者优势更明显（24001）；答咚咚锵",
+   "claim_id": "C-WJ2-U0296-05",
+   "unit_id": "WJ2-U0296"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "读原著还是总结：人家说陷阱/知道不等于学会/他人放弃即机会/知识与能量/摘要不能代替阅读"
+}

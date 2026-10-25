@@ -1,0 +1,130 @@
+{
+ "unit_id": "WJ2-U0302",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "转行计算机既容易也难：容易在确实很多人做到（护校生成军工IT总监），难在浪潮淘汰——技能过时后回不去",
+   "quote": "既容易，也难",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24481,
+    "end_line": 24481,
+    "sha1": "5b7169826c6f51d8ebfd042eb7ad7dbc7fdec239",
+    "fingerprint": [
+     "转行",
+     "容易"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D04-2"
+   ],
+   "concept_key": "转行计算机既易又难",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "越南理发师：英语文学出身、泡沫破裂被裁后再没回去（24473）；80年代会数据库就行、90年代要Java、最近十年要数据科学家——每次浪潮技能过时（24479）；答学习之路",
+   "claim_id": "C-WJ2-U0302-01",
+   "unit_id": "WJ2-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "转行计算机五级：大师（雅让斯基/布莱尔/邓力等本科非计算机）＞顶级科学家＞比肩科班＞胜任工作＞浪潮后出局",
+   "quote": "分为五级",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24487,
+    "end_line": 24499,
+    "sha1": "e106b44ba3815835076f70ebd8b53c40f5e1da26",
+    "fingerprint": [
+     "五级",
+     "大师"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D04-2"
+   ],
+   "concept_key": "转行计算机五级",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "萨尔兹伯格本科学英文、邓力生物、科恩音乐（24493）；哲学博士杰克逊连迪恩都请教（24497）；护校生属第三级（24499）；第四级40岁危机风险高、第五级如理发师（24501-24503）；X5边界留痕（职业分级、机理=能力层级普适）",
+   "claim_id": "C-WJ2-U0302-02",
+   "unit_id": "WJ2-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "达到第二级须硬核课程全A：算法（导论/机器学习/并行）+系统（操作系统/网络/体系结构）+应用各取其重",
+   "quote": "硬核课程",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24511,
+    "end_line": 24513,
+    "sha1": "5fa93ef6ea7f159502cdeea9570a6ee0f5ee0b92",
+    "fingerprint": [
+     "算法",
+     "系统"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "计算机硬核三方向",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "霍普金斯学够10门B+即得硕士（24515）；第三级可无学位但面试题必须会做（24517）；第四级一辈子提心吊胆（24519）",
+   "claim_id": "C-WJ2-U0302-03",
+   "unit_id": "WJ2-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "欲戴皇冠必承其重：不存在成本低收益高的好事——花千把块听AI课就想年薪翻倍，不如想郭德纲现场还上千块",
+   "quote": "欲戴皇冠，必承其重",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24531,
+    "end_line": 24533,
+    "sha1": "d4befaa758846f72b57accb828eedd4688fdeb33",
+    "fingerprint": [
+     "大部头",
+     "成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D09-1"
+   ],
+   "concept_key": "欲戴皇冠必承其重",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "大部头吓回去说明兴趣不足以支撑长期投入（24527）；盖茨：读懂高德纳4000页《计算机程序设计艺术》就给工作（24529）；硅谷工程师25万美元不是两本小册子能换的；与'无省事又好的事'（U0259）同族互参",
+   "claim_id": "C-WJ2-U0302-04",
+   "unit_id": "WJ2-U0302"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0302",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "'学习之路'读者长留言为读者发言本体，X7留痕"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "转行计算机：既易又难/五级/硬核三方向/欲戴皇冠"
+}

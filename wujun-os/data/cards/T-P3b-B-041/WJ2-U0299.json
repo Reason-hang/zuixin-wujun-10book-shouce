@@ -1,0 +1,123 @@
+{
+ "unit_id": "WJ2-U0299",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-041",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "内卷收益不是无限增加的：边际收益递减而边际成本递增（加班痛苦近指数增长），过交点后净收益为负",
+   "quote": "边际收益是不断递减的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24213,
+    "end_line": 24213,
+    "sha1": "11238a37684cb3b1325f7fba4992c15d890778eb",
+    "fingerprint": [
+     "边际",
+     "递减"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D05-1"
+   ],
+   "concept_key": "内卷边际律",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "普林斯顿2010：年收入7.5万美元是幸福门槛、此后幸福感与收入呈对数关系（24205-24207）；加班1小时辛苦一点、2小时加倍、3小时四倍、4小时十倍（24211）；学生刷题同理（24217）；交叉点因人而异但总存在（24219）",
+   "claim_id": "C-WJ2-U0299-01",
+   "unit_id": "WJ2-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从长期看内卷交点比想象浅得多：以为加班3小时是平衡点，长期可能只有1小时——身体、学业、家庭都受损",
+   "quote": "交叉点其实在内卷程度很浅的地方",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24237,
+    "end_line": 24243,
+    "sha1": "1baaa83e0e920cbc3d6ddb21e7828c152065b4a4",
+    "fingerprint": [
+     "交叉点",
+     "长期"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-1"
+   ],
+   "concept_key": "长期交点更浅",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "两个思想实验：有先天优势者不卷分数培养长期能力（24235）；预言家看到未来'卷不卷都一样'（24237）；孩子承受内卷的阈值比想象低得多（24243）；二代优势部分来自看到更真实的世界：卷到一定程度就停（24247）",
+   "claim_id": "C-WJ2-U0299-02",
+   "unit_id": "WJ2-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三岁孩子学编程是边际收益远小于边际成本：四岁前用键盘可能造成手指永久伤害（钢琴老师评估招生）",
+   "quote": "永久性的伤害",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24225,
+    "end_line": 24227,
+    "sha1": "c719ec589d5631629dacf05cf8b6538c6cdd4916",
+    "fingerprint": [
+     "键盘",
+     "手指"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-2"
+   ],
+   "concept_key": "学琴年龄与手指发育",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "X5边界留痕（育儿语境、机理=成本收益判断普适）；吴军孩子4岁学琴、老师先评估手指发育状态（24227）；答青云龙上",
+   "claim_id": "C-WJ2-U0299-03",
+   "unit_id": "WJ2-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "摆脱低层次内卷三件事：花钱买经历与精力（快乐记忆升值、物质快乐递减）、买时间、不比下限",
+   "quote": "购买经历和精力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 24255,
+    "end_line": 24267,
+    "sha1": "b93a9a641e1878f3bad0bbe72f9faed04737dce4",
+    "fingerprint": [
+     "经历",
+     "下限"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "摆脱内卷三事",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "大脑保留快乐过滤痛苦、快乐记忆长期升值（24257）；大彩电新手机兴奋几个月、内卷成功的快乐时不时被清零（24259-24261）；刷题考好成绩期末得重来、为知识学习快乐是积累的（24261）；买精力=请专业人士+外包琐事、在别人内卷时去更高层竞争（24263）；比下限总能找到更低的、及时退出找新游戏（24267）",
+   "claim_id": "C-WJ2-U0299-04",
+   "unit_id": "WJ2-U0299"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "破解内卷：边际律/长期交点更浅/学琴年龄/摆脱三事"
+}
