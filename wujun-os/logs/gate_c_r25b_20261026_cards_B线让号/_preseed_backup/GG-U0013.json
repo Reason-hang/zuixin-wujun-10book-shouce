@@ -1,0 +1,254 @@
+{
+ "unit_id": "GG-U0013",
+ "book_code": "GG",
+ "extractor": "GAUD27",
+ "batch_id": "GATE-C-R25",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们所有的工作都应建立在基线之上，而不是从基线下面开始做起；起点低于时代基线难有价值",
+   "quote": "都应该建立在这条线的基础上",
+   "anchor": {
+    "start_line": 1073,
+    "end_line": 1074,
+    "fingerprint": [
+     "基线",
+     "民间发明家"
+    ],
+    "book_code": "GG",
+    "sha1": "5444a8b713b987873582721fca8abbf222da1e72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "工作要建立在基线之上",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "基线定义：直到今天为止人类或个人所掌握的知识，因人而异（行1073）；民间发明家造小飞机为低基线蛮干反例（行1075-1077），散户投资同理（行1086），均并入本卡",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-01",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "莱特兄弟先系统学习前人理论，再经200多种翼形设计与上千次风洞试验才上天，胜过蛮干同行",
+   "quote": "打造了一个风洞",
+   "anchor": {
+    "start_line": 1080,
+    "end_line": 1083,
+    "fingerprint": [
+     "莱特兄弟",
+     "风洞"
+    ],
+    "book_code": "GG",
+    "sha1": "aa45f5892ebe5c9a911495c14eab9bf44c5629f2"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "莱特兄弟风洞试错",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "奥维尔·莱特1912年自述成功完全要感谢凯利爵士100年前写下的理论（行1080）系转述；机理：先站上理论基线，再做足试验才行动",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-02",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要把工作做好，首先就要提高基线；对专家是常识的知识，对另一类人就是高深新知",
+   "quote": "首先就要提高基线",
+   "anchor": {
+    "start_line": 1084,
+    "end_line": 1085,
+    "fingerprint": [
+     "基线",
+     "常识"
+    ],
+    "book_code": "GG",
+    "sha1": "8cf31ebb74310348844c870b932085f729c3390c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "提高基线是做好工作的前提",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "工作中方法与民间发明家无异者，都立足于过低的基线；两类人谁更能做成事，结论自明",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-03",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们接受教育的目的就是提高自己的基线；不主张大学生退学创业，因为基线太低",
+   "quote": "提高自己的基线",
+   "anchor": {
+    "start_line": 1087,
+    "end_line": 1087,
+    "fingerprint": [
+     "教育",
+     "退学创业"
+    ],
+    "book_code": "GG",
+    "sha1": "2e4ded58a2adf342ca5f3983f0b60deecb6b4fb4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "受教育的目的是提高基线",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "属'为什么学'，按边界规则⑪挂个人成长；大学毕业与持续培训皆为抬高基线；退学创业涉教育选择，此处保留其基线逻辑",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-04",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理论给出的极限无法突破；了解极限的存在，是专业人士与业余爱好者的一个差别",
+   "quote": "那是理论给出的极限",
+   "anchor": {
+    "start_line": 1088,
+    "end_line": 1091,
+    "fingerprint": [
+     "极限",
+     "卡诺定理"
+    ],
+    "book_code": "GG",
+    "sha1": "16b1a58feeba9644b8f60d7aa2890cca2ec32032"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "极限不可突破",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "极限如光速、绝对零度、能量守恒；例：涡轮蒸汽机效率到60%多后无法再提高，受卡诺定理限死（行1090）；有理论依据做事就不至于异想天开（行1091）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-05",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第三条边是连接基线与极限的绳索阶梯；越往上可行路径越少，工程师的工作就是找到或编织攀登绳索",
+   "quote": "找到或者编织攀登绳索",
+   "anchor": {
+    "start_line": 1093,
+    "end_line": 1098,
+    "fingerprint": [
+     "绳索",
+     "基线"
+    ],
+    "book_code": "GG",
+    "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "连接路径与攀登绳索",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "斜线下粗上细：近基础处方法多，近极限处道路要靠自己探索；鸟巢施工与总工程师李久林的一整套方案为例（行1094-1096）并入本卡",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-06",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标明确却无路径时，补齐基础缺口、只保留通向目标的台阶并回绝通道外一切，可把天花板变成新基础",
+   "quote": "把过去的天花板变成了后来的基础",
+   "anchor": {
+    "start_line": 1103,
+    "end_line": 1108,
+    "fingerprint": [
+     "L 君",
+     "通道"
+    ],
+    "book_code": "GG",
+    "sha1": "963a0ae21be950df3a168cbbf2538885f61ad818"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "通道聚焦与天花板变基础",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "L君为吴军投资界朋友化名；其长辈泰斗点明他缺的是管钱与创业经验这一块基础（行1101-1102）为转述背景；上下两根线清楚后只走通道",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-07",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "找不到前两条线是蛮干傻干，找不到第三条线则永远只能纸上谈兵",
+   "quote": "纸上谈兵",
+   "anchor": {
+    "start_line": 1110,
+    "end_line": 1110,
+    "fingerprint": [
+     "蛮干",
+     "第三条线"
+    ],
+    "book_code": "GG",
+    "sha1": "1422e68beaca43caea7ed2301a47f80fbc4a108b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "蛮干傻干与纸上谈兵",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三条边总章法：工程目的是解决问题，解决问题有相对固定章法可循（行1109）；框架源自吴军在Google对新员工的培训（行1069）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-08",
+   "unit_id": "GG-U0013"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "GG-U0013",
+   "x_subtype": "X1",
+   "target": "行1112-1113 今日思考互动题",
+   "reason": "互动引导载体，非论点内容"
+  },
+  {
+   "unit_id": "GG-U0013",
+   "x_subtype": "X1",
+   "target": "行1092 计算机极限的前后讲次预告",
+   "reason": "课程导航性参照，非独立判断"
+  },
+  {
+   "unit_id": "GG-U0013",
+   "x_subtype": "X8",
+   "target": "行1070-1071 Z形示意图文字描述",
+   "reason": "图形描述无法承载文本判断，三条边方法本体已入卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "三条边方法论全窗可迁移，互动题与讲次预告登记X1，示意图描述登记X8"
+}

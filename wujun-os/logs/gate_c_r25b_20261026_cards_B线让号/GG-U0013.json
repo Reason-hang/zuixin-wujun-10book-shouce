@@ -1,0 +1,206 @@
+{
+ "unit_id": "GG-U0013",
+ "book_code": "GG",
+ "extractor": "GAUD27",
+ "batch_id": "GATE-C-R25",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事情有三条边：下面的基线、上面理论给出的极限、连接两者的绳索阶梯；源自Google新人培训，适用于每一个人",
+   "quote": "做事情的三条边",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1069,
+    "end_line": 1073,
+    "fingerprint": [
+     "三条边",
+     "基线"
+    ],
+    "sha1": "71cf8ef1ac6f64f1fefc7345071f42cd4abef826"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "三条边方法论",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "Google新入职工程师培训课程压缩版（1069）；Z字形图示：上下两线加中间斜线（1070-1071）；基线=迄今人类或个人所掌握的工程知识（1073）；清单式方法论主卡，续卡：基线见 C-GG-U0013-02、极限见 C-GG-U0013-04、连接路径见 C-GG-U0013-05",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-01",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "所有工作应建立在基线之上而非从基线下开始；民间发明家蛮干一生无实际价值，因起点远低于时代基线",
+   "quote": "起点远远低于这个时代的基线",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1074,
+    "end_line": 1077,
+    "fingerprint": [
+     "基线",
+     "民间发明家"
+    ],
+    "sha1": "1f0af1407ec5a7c50938aac3385cc6131e8560d8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "基线之上做事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "续卡 of C-GG-U0013-01（基线部分）；民间发明家研制小飞机电视节目（1075-1077）；莱特兄弟反例：系统学习凯利理论、核实计算、200多种翼形试验、自制风洞上千次试验（1080-1083）；散户投资同病，从地下室三层做起（1086）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-02",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "接受教育与不断参加培训学习的目的是提高基线；不主张大学生退学创业，因为基线太低",
+   "quote": "提高自己的基线",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1087,
+    "end_line": 1087,
+    "fingerprint": [
+     "接受教育",
+     "退学创业"
+    ],
+    "sha1": "2e4ded58a2adf342ca5f3983f0b60deecb6b4fb4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "教育提高基线",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "大学毕业比中学毕业基线高得多（1087）；对专家是常识的知识对他人是高深新知，谁更可能成功可想（1085）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-03",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "上面一条线是理论给出的极限，无法突破；专业与业余的差别在于是否了解极限的存在，知极限则不异想天开",
+   "quote": "理论给出的极限，是无法突破的",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1088,
+    "end_line": 1092,
+    "fingerprint": [
+     "极限",
+     "卡诺定理"
+    ],
+    "sha1": "f3b83d73588ced97af0133ab526fa090b9fefed0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "极限不可突破",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "续卡 of C-GG-U0013-01（极限部分）；涡轮蒸汽机效率60%多即到顶，卡诺定理限死特定蒸汽温度下效率上限（1090）；图灵机理论极限、摩尔定律物理极限、冯·诺依曼结构设计极限（1092）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-04",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有了基线、知极限还不够，还需扶着向上攀登的绳索阶梯；越接近目标道路越少，工程师的工作就是编织绳索",
+   "quote": "找到或者编织攀登绳索",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1093,
+    "end_line": 1098,
+    "fingerprint": [
+     "绳索",
+     "越画越细"
+    ],
+    "sha1": "6b70aab6ef46b5ee8f8a178bcdbd4c146cdf4d28"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "编织攀登绳索",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "续卡 of C-GG-U0013-01（连接路径部分）；鸟巢案例：基础具备后靠一整套可行高效方案爬绳索（1094-1096）；科学家告知可以做，工程师要明白怎么做（1095）；斜线下粗上细，越接近有难度的目标可走的路越少（1097）；这种思维方式在生活中普遍适用（1098）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-05",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "L君融资案例：上下两线都清楚后，给自己一条明确的通道（行动步骤），通道之外的事情一律不做，把天花板变成基础",
+   "quote": "把过去的天花板变成了后来的基础",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1101,
+    "end_line": 1108,
+    "fingerprint": [
+     "L 君",
+     "通道"
+    ],
+    "sha1": "a118a6ae10348f1b9f712bcc5a1516cf6e802364"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "L君通道案例",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "编织绳索的实操例；L君名气人望构成脚下基础（1099-1101），缺管理资金与创业经验是极限所在（1102）；企业界泰斗点拨后上下两线都清楚（1101-1103）；泰斗自掏一笔钱投不值得建团队的项目（1105）；从工业界而非金融界融资，通道外的事一律回绝（1107）；融资后聚年轻人做大公司不愿建团队做的项目（1108）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-06",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "解决问题有相对固定章法可循；很多工程师上下两线俱备，却缺找到第三条线并沿之上升的本事，只能纸上谈兵",
+   "quote": "永远只能纸上谈兵",
+   "anchor": {
+    "book_code": "GG",
+    "start_line": 1109,
+    "end_line": 1110,
+    "fingerprint": [
+     "章法",
+     "第三条线"
+    ],
+    "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "缺第三条线之弊",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "三条线简化得可能过于简单但便于记忆和操作（1109）；找不到前两条线是蛮干傻干（1110）；今日思考：定2018年目标、分析基线、找攀附阶梯（1112-1113）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-07",
+   "unit_id": "GG-U0013"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "谷歌第008封信把事情做好的三条边：三条边总纲及基线/极限/连接路径续卡、教育提高基线、L君编织绳索案例、缺第三条线之弊"
+}
