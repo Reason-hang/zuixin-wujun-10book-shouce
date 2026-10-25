@@ -1,0 +1,284 @@
+{
+ "unit_id": "WJ2-U0178",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "但凡掌握一点稀缺资源的人，不加限制都会出现权力寻租的可能",
+   "quote": "都会出现权力寻租的可能性",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14445,
+    "end_line": 14445,
+    "sha1": "61adf1b758a2af2989b39056cc364c8b0b7e2593",
+    "fingerprint": [
+     "权力寻租",
+     "稀缺资源"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "权力寻租的普遍性",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "打字员靠打印顺序受贿数百万元案例（14451）",
+   "claim_id": "C-WJ2-U0178-01",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "凡是拥有权力的人，都容易滥用权力（孟德斯鸠）",
+   "quote": "都容易滥用权力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14445,
+    "end_line": 14445,
+    "sha1": "61adf1b758a2af2989b39056cc364c8b0b7e2593",
+    "fingerprint": [
+     "孟德斯鸠",
+     "权力"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "孟德斯鸠权力滥用论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=孟德斯鸠；吴军引用支持权力寻租普遍性卡",
+   "claim_id": "C-WJ2-U0178-02",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "谷歌幼儿园因排队分配不透明滋生寻租，最终福利反噬被裁撤",
+   "quote": "借着一次裁员的机会",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14453,
+    "end_line": 14457,
+    "sha1": "ee0faf01e0a8d94f0e60947c919ad21d44db0ddb",
+    "fingerprint": [
+     "谷歌",
+     "幼儿园",
+     "排队"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "谷歌幼儿园寻租案",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：福利性稀缺资源不透明分配必滋寻租",
+   "claim_id": "C-WJ2-U0178-03",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "思想教育对权力寻租无效；相互监督虽有效但取得公平的成本太高",
+   "quote": "这样取得的公平成本太高",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14463,
+    "end_line": 14467,
+    "sha1": "2effefc21116a849732145a1d9b7fbd40bb3bb48",
+    "fingerprint": [
+     "相互监督",
+     "思想教育"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-2"
+   ],
+   "concept_key": "监督制衡的成本",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "福山评马斯克效率部互参（第61封信）；大权力仍需制衡",
+   "claim_id": "C-WJ2-U0178-04",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "权力寻租源于资源稀缺，解法是增加供给或改用市场竞价分配",
+   "quote": "主要是因为资源稀缺",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14471,
+    "end_line": 14477,
+    "sha1": "2927806780673aa48353d8f43001234c09ec2c1c",
+    "fingerprint": [
+     "资源稀缺",
+     "竞标"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "权力寻租的稀缺根源",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "政府加急费、宿舍阿姨租房消失两例证；增加供给常因成本高做不成",
+   "claim_id": "C-WJ2-U0178-05",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业是最好的慈善，用市场方式解决腐败常比过度监督更有效",
+   "quote": "商业是最好的慈善",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14477,
+    "end_line": 14481,
+    "sha1": "89450d587ed1c664b3a61113ff15d94ad02a4aec",
+    "fingerprint": [
+     "商业是最好的慈善",
+     "福利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业是最好的慈善",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与上一卡论证链并存（R1）；谷歌幼儿园涨价方案为例",
+   "claim_id": "C-WJ2-U0178-06",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当事实与理论出现偏差时，事实总是对的，要修正的是理论",
+   "quote": "我们要修正的是理论",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14495,
+    "end_line": 14495,
+    "sha1": "f75a2f276acd4f714f271aeccb6ed637e71a5fcd",
+    "fingerprint": [
+     "事实",
+     "理论"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "事实优先于理论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "卫报94%数据否证'市场自动消除寻租'论；求真判断",
+   "claim_id": "C-WJ2-U0178-07",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "执行人与受益人分离、从业者普遍超合格，是市场规律下仍现权力寻租的前两个原因",
+   "quote": "执行人和受益人常常不是一个人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14499,
+    "end_line": 14507,
+    "sha1": "584a83837097dc8df886e7c2aff4d302e2d851b1",
+    "fingerprint": [
+     "执行人和受益人",
+     "over qualified"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "市场失灵下寻租三因（上）",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "影视投资回报、博士招生为例证；超锚点拆续卡（R7），续卡见下一卡",
+   "claim_id": "C-WJ2-U0178-08",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第三个原因是握有权力的人也不知道谁更合格，合格的关系户会被优先考虑",
+   "quote": "也不知道谁更合格",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14511,
+    "end_line": 14513,
+    "sha1": "d6b48d923021a24b7400cbc9e3bc06b31bc3c59a",
+    "fingerprint": [
+     "未来之星",
+     "关系户"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "市场失灵下寻租三因（下）",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "续卡 of C-WJ2-U0178-08；票房新人创造奇迹、科技大厂百人招聘例",
+   "claim_id": "C-WJ2-U0178-09",
+   "unit_id": "WJ2-U0178"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "效率优先的收益链条未闭合时（如HR与企业利益分离），效率优先原则无法完全实现",
+   "quote": "效率优先的收益链条没有闭合",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14517,
+    "end_line": 14523,
+    "sha1": "d92d8c6dd6dbf07cef89d9dc5242cb72a8c3855a",
+    "fingerprint": [
+     "收益链条",
+     "闭环"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D08-1"
+   ],
+   "concept_key": "收益链闭环",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "投资人vs执行人、HRvs企业两例；防寻租至今无完美办法（14523）",
+   "claim_id": "C-WJ2-U0178-10",
+   "unit_id": "WJ2-U0178"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "权力寻租的经济学机理与市场化解法，整信方法论成卡"
+}

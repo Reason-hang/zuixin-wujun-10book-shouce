@@ -1,0 +1,152 @@
+{
+ "unit_id": "WJ2-U0163",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0163-01",
+   "unit_id": "WJ2-U0163",
+   "speaker": "吴军本人",
+   "claim_text": "挣到巨额财富常常是做事的结果而非目标，抱着先赚一个亿的目标做事未必带来尊严",
+   "quote": "常常是结果，不是目标",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13235,
+    "end_line": 13237,
+    "sha1": "94c28e565dd75a05a0c31321e2f6228ab5747e7f",
+    "fingerprint": [
+     "一个亿",
+     "尊严",
+     "宝马车"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "财富是结果不是目标",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证：《非诚勿扰》宁可坐宝马车里哭宣言；发达国家多数人体面有尊严而无百万净资产。"
+  },
+  {
+   "claim_id": "C-WJ2-U0163-02",
+   "unit_id": "WJ2-U0163",
+   "speaker": "吴军本人",
+   "claim_text": "尊严要靠自己维护，与财富多少无关；没有尊严的人给再多钱也无尊严可言",
+   "quote": "尊严是要靠自己维护的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13241,
+    "end_line": 13247,
+    "sha1": "95d8f033003efaf94d2ab0096a24c9075331c467",
+    "fingerprint": [
+     "明英宗",
+     "劳改",
+     "体面"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "尊严靠自守",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "史实例证并入：明英宗土木堡被俘不卑不亢、文革劳改农场名门闺秀维持体面（X4 只留机理）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0163-03",
+   "unit_id": "WJ2-U0163",
+   "speaker": "吴军本人",
+   "claim_text": "指望物质财富带来快乐与安全感的人，得到后也会很快失望；攀比永无满足",
+   "quote": "永远得不到满足",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13251,
+    "end_line": 13253,
+    "sha1": "0a74fc80c626024f0e4c831371bed0680459f0b1",
+    "fingerprint": [
+     "兰博基尼",
+     "安全感",
+     "比较"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D09-1"
+   ],
+   "concept_key": "财富攀比无满足",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "宝马→兰博基尼→私人飞机攀比链；钱在安全感各因素中仅排第三（13253，后信预告）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0163-04",
+   "unit_id": "WJ2-U0163",
+   "speaker": "吴军本人",
+   "claim_text": "薪酬等个人信息不会由独享变共享：隐私保护、人性嫉妒与企业议价权三层原因",
+   "quote": "越不会知道周围人的工资",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13261,
+    "end_line": 13271,
+    "sha1": "ba79112d0a02ac0b3859f58f41a929cd92484df9",
+    "fingerprint": [
+     "隐私",
+     "嫉妒",
+     "议价权"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D06-3"
+   ],
+   "concept_key": "薪酬不共享三因",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "续论点（个人信息系统论）：个人信息大多不属共享信息范畴；公开致心理不平衡且企业失去劳动合同议价优势。"
+  },
+  {
+   "claim_id": "C-WJ2-U0163-05",
+   "unit_id": "WJ2-U0163",
+   "speaker": "吴军本人",
+   "claim_text": "获取信息先看来源：AI 味文章、无出处与黑名单媒体不看；宁可少接收也要确保准确",
+   "quote": "获取信息还是要看信息来源",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13285,
+    "end_line": 13291,
+    "sha1": "ef993d0c8724ddafb6307cfc6660bdac9fe45230",
+    "fingerprint": [
+     "黑名单",
+     "优质内容",
+     "准确性"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信息来源过滤",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "缺的不是内容而是准确的好内容（13287）；所谓权威机构转述无源消息不可靠（13289）并入；与 U0165 识谎、U0166 防上当互引。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0163",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "攻城狮/刘江/林三段读者提问原文不计卡，仅吴军回答部分抽卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "周末问答三答均有可独立成立判断，成卡 5 张"
+}

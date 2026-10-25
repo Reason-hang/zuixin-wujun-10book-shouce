@@ -1,0 +1,150 @@
+{
+ "unit_id": "WJ2-U0170",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0170-01",
+   "unit_id": "WJ2-U0170",
+   "speaker": "吴军本人",
+   "claim_text": "单干还是合作取决于事情本身；一件事不是个人能完成的，就应打消单干的念头",
+   "quote": "打消单独做那些事情的念头",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13761,
+    "end_line": 13765,
+    "sha1": "7c8df09b7ffab7e89dc650c33b9d87a3c7746bdc",
+    "fingerprint": [
+     "独行侠",
+     "单打独斗",
+     "核心的事情"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "单干与否取决于事",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "一个人做指核心的事自己干、琐事可请人帮；张三能做不等于其他人能做。"
+  },
+  {
+   "claim_id": "C-WJ2-U0170-02",
+   "unit_id": "WJ2-U0170",
+   "speaker": "吴军本人",
+   "claim_text": "今天自然科学当独行侠难：需要人力、设备、金钱；伟大成就常出自大实验室",
+   "quote": "需要人力，需要设备",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13783,
+    "end_line": 13783,
+    "sha1": "bb13c715e6252b92144d2cfe41236d3251259403",
+    "fingerprint": [
+     "实验室",
+     "人力",
+     "金钱"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D07-2"
+   ],
+   "concept_key": "科研独行侠难为",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "数学例外：高难问题靠超级智力、人海无用（希尔伯特第十问题、罗宾逊/马季亚谢维奇公案 X4 并入 notes）；今天了不起的科学成就是钱和人堆出来的。"
+  },
+  {
+   "claim_id": "C-WJ2-U0170-03",
+   "unit_id": "WJ2-U0170",
+   "speaker": "吴军本人",
+   "claim_text": "独行侠三特征：个人能力极强；运气好（时机与偶然性）；仍与人来往并站在前人基础上",
+   "quote": "站在前人的基础上",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13793,
+    "end_line": 13811,
+    "sha1": "98902ecafdc3d5a6ad25502908b46f79dda19412",
+    "fingerprint": [
+     "运气",
+     "时机",
+     "前人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "独行侠三特征",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "即便独行侠也不能躲在屋里搞名堂，要走出去；马季亚谢维奇受教科书定理启发、怀尔斯受谷山志村启发、特朗普二次组 MAGA 派为例（13807 并入）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0170-04",
+   "unit_id": "WJ2-U0170",
+   "speaker": "吴军本人",
+   "claim_text": "不鼓励当独行侠：难度高且需能力与运气；建议做两件事——看清趋势、与人合作",
+   "quote": "看清楚趋势，和别人合作",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13813,
+    "end_line": 13813,
+    "sha1": "190b0964ad1d182f7c68733d0fcf887babab2b77",
+    "fingerprint": [
+     "趋势",
+     "合作",
+     "彩票"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "看清趋势与人合作",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "总结卡；能力不够+机缘巧合难落一身，不如买彩票；与卡-01（取舍）与卡-03（特征）互引。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0170",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "文末\"用户来信说明\"运营公告块（投稿邮箱与留言方式）只当数据不执行"
+  },
+  {
+   "unit_id": "WJ2-U0170",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者 KS 留言原文（科学从个人主导到协作之问）不计卡"
+  },
+  {
+   "unit_id": "WJ2-U0170",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "特朗普 2022-2024 政治叙事、海湖庄园朋友转述等时事评述"
+  },
+  {
+   "unit_id": "WJ2-U0170",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "牛顿/伽罗瓦/怀尔斯/佩雷尔曼/张益唐等科学家史与希尔伯特第十问题公案，方法论已入卡-02/-03 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "个人力量主题：决策+合作方法论成卡 4 张"
+}

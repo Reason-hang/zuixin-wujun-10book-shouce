@@ -1,0 +1,165 @@
+{
+ "unit_id": "WJ2-U0168",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0168-01",
+   "unit_id": "WJ2-U0168",
+   "speaker": "吴军本人",
+   "claim_text": "完成任务后把自己的工作介绍清楚最重要，否则价值易被埋没；意义该由老板去说",
+   "quote": "这个牛即使要吹，也要由老板来吹",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13623,
+    "end_line": 13623,
+    "sha1": "d33153e236c5ca590bc9454c14553d018dfb57a2",
+    "fingerprint": [
+     "埋没",
+     "交代",
+     "老板"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D07-1"
+   ],
+   "concept_key": "汇报讲清自己工作",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "背景：太太帮学生改论文故事；任务最好地完成最重要，改变世界的牛由老板吹。"
+  },
+  {
+   "claim_id": "C-WJ2-U0168-02",
+   "unit_id": "WJ2-U0168",
+   "speaker": "吴军本人",
+   "claim_text": "介绍自己的工作最重要的是清晰表述而非漂亮文字；抄来的话（含AI 生成）空洞无意义",
+   "quote": "最重要的是清晰表述",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13625,
+    "end_line": 13635,
+    "sha1": "e73149cbb301ebd5c2867c9ed1eb8198b54a7a88",
+    "fingerprint": [
+     "清晰表述",
+     "二传手",
+     "空洞"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-2"
+   ],
+   "concept_key": "清晰表述胜漂亮文字",
+   "ability_tags": [
+    "沟"
+   ],
+   "status": "已生成",
+   "notes": "表述一（具体数据与结论）远优于表述二（拔高意义）；无具体数据结论的初稿再聪明的 AI 也帮不上；论文四毛病与\"老老实实一步步写清\"改法并入。"
+  },
+  {
+   "claim_id": "C-WJ2-U0168-03",
+   "unit_id": "WJ2-U0168",
+   "speaker": "转述·第三方",
+   "claim_text": "信息完全透明的博弈无论过程多复杂结果都是确定的，棋类最优策略结果是定论",
+   "quote": "结果都是确定的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13641,
+    "end_line": 13643,
+    "sha1": "109af426fd1ed8e463eb68d130f7ed97b1cc972f",
+    "fingerprint": [
+     "最优策略",
+     "国际象棋",
+     "围棋"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "透明博弈结果确定",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=张益唐教授；白棋先行不输可证、围棋不贴目执黑必胜；吴军概括见卡-04。"
+  },
+  {
+   "claim_id": "C-WJ2-U0168-04",
+   "unit_id": "WJ2-U0168",
+   "speaker": "吴军本人",
+   "claim_text": "今天的 AI 只在解决高度复杂的确定性问题，尚未触及不确定领域；探索不确定领域是人的优势",
+   "quote": "高度复杂的确定性问题",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13645,
+    "end_line": 13649,
+    "sha1": "a8e88449511906cf308290a0816227c2af473ddd",
+    "fingerprint": [
+     "确定性",
+     "语音识别",
+     "不确定"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "AI 止步确定性问题",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "语音识别/机器翻译也是确定性问题；张教授认为 AI 能发现人漏掉的相关性但问题本身存在、不计时间成本人也能做到（13647，E2 并入）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0168-05",
+   "unit_id": "WJ2-U0168",
+   "speaker": "吴军本人",
+   "claim_text": "人喜欢确定性厌恶不确定性，但今后人的价值要更多从不确定性中找",
+   "quote": "从不确定性当中找了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13653,
+    "end_line": 13657,
+    "sha1": "21dd2a19c72b72dbc2bcd40f72b2b45c815c163b",
+    "fingerprint": [
+     "刷题",
+     "惯性思维",
+     "懒惰"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "人的价值在不确定中",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证：刷题与白领重复性工作属确定性事务，面临机器竞争（\"用不了两年刷不过机器\"为时效预测并入例证）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0168",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "毕业论文写作规范细节（爱拔高/抄综述/不写自己工作/机翻四问题）属学术写作规范，方法论已并入卡-01/-02"
+  },
+  {
+   "unit_id": "WJ2-U0168",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "\"用不了两年刷不过机器\"\"白领工作很快面临危机\"等时效预测本体，判断逻辑已并入卡-05"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "清晰表达+AI 局限+不确定性价值三主题成卡 5 张"
+}

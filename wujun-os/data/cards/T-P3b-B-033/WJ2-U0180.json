@@ -1,0 +1,373 @@
+{
+ "unit_id": "WJ2-U0180",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真努力六板斧：认知三板斧（便宜没好货、善于思考发现问题、取舍排优先级）加操作三板斧（分配精力、护精力、及时止损）",
+   "quote": "今天我要给你六板斧",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14609,
+    "end_line": 14609,
+    "sha1": "778771faf134db996a4368f37969e4fcda14c1ac",
+    "fingerprint": [
+     "六板斧",
+     "三板斧"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D05-1"
+   ],
+   "concept_key": "真努力六板斧",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "框架卡（2016硅谷来信三板斧扩展）；'自觉努力却长期无结果要反思是否瞎忙'（14683）并入本卡",
+   "claim_id": "C-WJ2-U0180-01",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "充分竞争市场里价格由劳动量决定，便宜货劳动量少自然好不了",
+   "quote": "便宜没好货",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14617,
+    "end_line": 14619,
+    "sha1": "f622a276878cd95463952782a6f9b192832c8f43",
+    "fingerprint": [
+     "便宜没好货",
+     "劳动量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-1"
+   ],
+   "concept_key": "便宜没好货与劳动量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "价格停在边际成本=边际效益点；求市场给机会没有用，努力总量需达标",
+   "claim_id": "C-WJ2-U0180-02",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "弯道加速是要翻车的：想比别人更快进步违反基本经济学原理（许小年）",
+   "quote": "弯道加速是要翻车的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14623,
+    "end_line": 14623,
+    "sha1": "0b3af2edc8d6535bfcb25b0306a40e1fe11e54bd",
+    "fingerprint": [
+     "弯道超车",
+     "翻车"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1",
+    "D08-1"
+   ],
+   "concept_key": "弯道超车翻车论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=许小年（讲座告诫企业家）；翻书快的学生同构",
+   "claim_id": "C-WJ2-U0180-03",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不承认问题，再努力也是假努力；发现问题的能力可以通过训练获得",
+   "quote": "不承认问题，再努力也是假努力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14627,
+    "end_line": 14629,
+    "sha1": "5e45f02401f8386c47906a05b9b841d5ee54a146",
+    "fingerprint": [
+     "承认问题",
+     "假努力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-1"
+   ],
+   "concept_key": "承认问题是真努力前提",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "方向靠人文教育定位（第116封信互参）；机器学习迭代不重蹈覆辙对照",
+   "claim_id": "C-WJ2-U0180-04",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "弱科不是成绩差的课，而是离天花板最远、提升空间最大的课",
+   "quote": "数学是他的弱科，语文不是",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14635,
+    "end_line": 14635,
+    "sha1": "6471fecd57b2c96731b4411f9d09a331f5c8b39c",
+    "fingerprint": [
+     "弱科",
+     "天花板"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D02-2"
+   ],
+   "concept_key": "弱科的判定方法",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "数学100分考90 vs 语文88/90例；找原因要借助老师等外部帮助",
+   "claim_id": "C-WJ2-U0180-05",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "没有人能把所有事做好；先保工作再谈学习，是懂优先级、最大化利益的做法",
+   "quote": "兼顾不了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14639,
+    "end_line": 14641,
+    "sha1": "898a891b7665348d906c3af58f1660774c10b0cd",
+    "fingerprint": [
+     "优先级",
+     "收益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "取舍与优先级",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "认知第三板斧",
+   "claim_id": "C-WJ2-U0180-06",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "精力是时间与效率的组合、最宝贵的资源；精力最旺时做最重要的事",
+   "quote": "精力最旺盛的时候做最重要的事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14647,
+    "end_line": 14655,
+    "sha1": "c9946b053218fc09dcbda9eb1fb840c411d5251a",
+    "fingerprint": [
+     "精力",
+     "稀缺"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "精力管理",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "时间对每人公平、精力不公平；伟大创始人多精力过人",
+   "claim_id": "C-WJ2-U0180-07",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要靠加班熬夜弥补与精力过人者的差距，那只是透支身体和精力",
+   "quote": "透支身体和精力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14651,
+    "end_line": 14653,
+    "sha1": "8e670e346b6eb05fef6d9262ba55a9bb3670fd0b",
+    "fingerprint": [
+     "精力过人",
+     "透支"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-4"
+   ],
+   "concept_key": "精力常数与不透支",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "月入5000借债消费类比；欠账将来要还",
+   "claim_id": "C-WJ2-U0180-08",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "在谷歌用日历锁定上午高效时段，别人就约不走这段时间",
+   "quote": "私人讨论",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14657,
+    "end_line": 14659,
+    "sha1": "6b5c244a9efbe92a730e9adfddfc1e6e92b32fcc",
+    "fingerprint": [
+     "日历",
+     "开会"
+    ]
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "日历锁定高效时段",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "专名案例+可迁移机理：占用式防御；午后精力低谷开会、很多人任务精力随机匹配为反例",
+   "claim_id": "C-WJ2-U0180-09",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勤奋不以时间长度衡量，劳动行为不等于劳动量；只算时间不算精力的加班是假努力",
+   "quote": "劳动行为不等于劳动量",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14661,
+    "end_line": 14663,
+    "sha1": "c0234873c731042a692bc252dcb7a7e2a85ff6d6",
+    "fingerprint": [
+     "加班",
+     "劳动行为"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "劳动行为不等于劳动量",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "接受任务先问精力不只问时间；坐书桌前磨洋工是假象；与谷歌书劳动量价值论跨书同族",
+   "claim_id": "C-WJ2-U0180-10",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "精力可以培养：抽时间锻炼（8-1>8）与良好饮食作息是少数可控的增精力手段",
+   "quote": "让自己的精力更加旺盛",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14665,
+    "end_line": 14673,
+    "sha1": "31cad837adbd03963a7c5347c565daf776fd1935",
+    "fingerprint": [
+     "锻炼",
+     "精力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D05-1"
+   ],
+   "concept_key": "精力可培养",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "伤害精力的黑名单（14673）：暴饮暴食、白酒、熬夜、久坐、不当节食、纵欲；饮食作息比看病吃药对寿命影响大",
+   "claim_id": "C-WJ2-U0180-11",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "精力只有别人一半，能完成的事情大约也只有一半",
+   "quote": "大约也只有一半",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14675,
+    "end_line": 14675,
+    "sha1": "1522a54e48653cb2788cb4f5e67f778bb63fd24c",
+    "fingerprint": [
+     "精力",
+     "一半"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D05-1"
+   ],
+   "concept_key": "精力决定产出上限",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "加粗结论句；精力是产出的硬约束",
+   "claim_id": "C-WJ2-U0180-12",
+   "unit_id": "WJ2-U0180"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成就取决于完成多少件事而非开始多少件；不及时止损多因沉没成本和面子",
+   "quote": "舍不得沉没成本",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14677,
+    "end_line": 14681,
+    "sha1": "7fe42293a77f3c6e4b867b6d43b50c47bc04dff0",
+    "fingerprint": [
+     "及时止损",
+     "沉没成本"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D05-1"
+   ],
+   "concept_key": "及时止损",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "退回正确位置重新开始；没有里子时面子不重要",
+   "claim_id": "C-WJ2-U0180-13",
+   "unit_id": "WJ2-U0180"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "真努力六板斧（认知三+操作三），整信方法论成卡"
+}

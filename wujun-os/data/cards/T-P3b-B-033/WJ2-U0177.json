@@ -1,0 +1,205 @@
+{
+ "unit_id": "WJ2-U0177",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "稀缺资源分配有四种基本方式：随机、效率竞价、权威分配、最需要优先",
+   "quote": "分配方式有四种",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14363,
+    "end_line": 14373,
+    "sha1": "0d27baf18d6987643860b8d83b9f4d0190cd5cfd",
+    "fingerprint": [
+     "随机分配",
+     "权威分配",
+     "最需要的优先原则"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "稀缺资源四种分配方式",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "框架卡，后文逐一评估；摇号车牌/维也纳音乐会票为例证",
+   "claim_id": "C-WJ2-U0177-01",
+   "unit_id": "WJ2-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "随机分配看似公平，实则浪费稀缺资源、损害整体利益",
+   "quote": "看似追求公平的做法",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14383,
+    "end_line": 14385,
+    "sha1": "88a2fde5f15db9a1f2722f2e6a4e089a7182b418",
+    "fingerprint": [
+     "随机分配",
+     "损害了整体的利益"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "随机分配的公平幻觉",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "重点中学抽签降水平、德国战后教育平均分配例证（第83封信互参）",
+   "claim_id": "C-WJ2-U0177-02",
+   "unit_id": "WJ2-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "效率优先的竞价原则能最好地利用稀缺资源",
+   "quote": "最好地利用了稀缺资源",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14397,
+    "end_line": 14403,
+    "sha1": "2f224d748e3a6add9cb4cc3f5102f1fdc43dfd71",
+    "fingerprint": [
+     "效率优先",
+     "择优原则",
+     "Merit Base"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "效率优先原则",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "上海拍卖vs北京摇号对照；学区房正循环为例证",
+   "claim_id": "C-WJ2-U0177-03",
+   "unit_id": "WJ2-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "稀缺人才可让多家公司重新出价竞标，从而获得市场合理薪酬",
+   "quote": "你实际上是在反向招标",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14409,
+    "end_line": 14411,
+    "sha1": "1d20f8730e7ad46be5820fd82a13ae74d1584831",
+    "fingerprint": [
+     "反向招标",
+     "效率优先"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "人才定价反向招标",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "前提：公司间有可比性；美国邮政vs OpenAI选前景为例",
+   "claim_id": "C-WJ2-U0177-04",
+   "unit_id": "WJ2-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "以权威分配取代竞价分配，稀缺资源利用率必然很差，结果是浪费资源",
+   "quote": "稀缺资源的利用率一定很差",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14417,
+    "end_line": 14421,
+    "sha1": "fe0cb6cefc9178db449eb2d62aefd819f5dd497c",
+    "fingerprint": [
+     "权威分配",
+     "特权"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "权威分配低效论",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "企业家让飞机延飞例证；与特权怨恨卡同锚互引",
+   "claim_id": "C-WJ2-U0177-05",
+   "unit_id": "WJ2-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "很多人痛恨的不是特权本身，而是自己没有特权",
+   "quote": "而是自己没有这种特权",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14417,
+    "end_line": 14421,
+    "sha1": "fe0cb6cefc9178db449eb2d62aefd819f5dd497c",
+    "fingerprint": [
+     "特权",
+     "权威分配"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "特权怨恨的人性洞察",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "托关系走后门=醉心权威分配；与权威分配低效卡同锚互引",
+   "claim_id": "C-WJ2-U0177-06",
+   "unit_id": "WJ2-U0177"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "随机分配与最需要优先最有道德光环，但会造成巨大资源浪费、损害整体公益",
+   "quote": "最有道德光环",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14425,
+    "end_line": 14431,
+    "sha1": "c1ea9bea22fe2ea93fd757b03365bbec78065392",
+    "fingerprint": [
+     "最需要的优先原则",
+     "道德",
+     "资源浪费"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D01-4"
+   ],
+   "concept_key": "道德光环分配陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "斯坦福医院200万美元案例、DEI时评为例证；'最需要'标准由谁定是死结",
+   "claim_id": "C-WJ2-U0177-07",
+   "unit_id": "WJ2-U0177"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "方法论信：稀缺资源四种分配方式与效率优先结论，整信成卡"
+}

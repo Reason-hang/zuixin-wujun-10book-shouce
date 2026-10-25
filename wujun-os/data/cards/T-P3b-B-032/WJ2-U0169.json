@@ -1,0 +1,64 @@
+{
+ "unit_id": "WJ2-U0169",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0169-01",
+   "unit_id": "WJ2-U0169",
+   "speaker": "吴军本人",
+   "claim_text": "刷题肯定培养不了创造力且妨碍其培养；强调标准答案是创造力的大忌",
+   "quote": "刷题肯定培养不了创造力",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13699,
+    "end_line": 13703,
+    "sha1": "b8fa1fcce8b53b9fe45de29de3faf5d0a2731485",
+    "fingerprint": [
+     "标准答案",
+     "大忌",
+     "练习题"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "刷题与标准答案妨碍创造力",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "张益唐/崔屹均赞同此观点（E2 并入）；法国嘉德水道桥小学生分组实测项目为创造力训练例证（X3 游记片段并入）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0169",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "英美留学优劣对比与选择建议（费用/申请难易/学制/换专业/实习）属升学与教育制度讨论"
+  },
+  {
+   "unit_id": "WJ2-U0169",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "北欧\"好日子维持不了几年\"等针对当时局面的时效预测"
+  },
+  {
+   "unit_id": "WJ2-U0169",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "北欧高福利三重保障（美国军保/俄能源/中国商品）宏观经济与地缘分析"
+  },
+  {
+   "unit_id": "WJ2-U0169",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "姚瑶/咚咚锵两段读者提问原文不计卡，仅吴军回答部分判定"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "问答主体留学与北欧分析排除，创造力培养一条成卡"
+}

@@ -1,0 +1,136 @@
+{
+ "unit_id": "WJ2-U0174",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0174-01",
+   "unit_id": "WJ2-U0174",
+   "speaker": "吴军本人",
+   "claim_text": "工具越多工作越难做好：简单工作人人能做，只有能解决复杂问题的人才有出路",
+   "quote": "只有能解决复杂问题的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14137,
+    "end_line": 14143,
+    "sha1": "01719794fc1072f13e06fc692ac168af8ba4431c",
+    "fingerprint": [
+     "复杂问题",
+     "兰花",
+     "懒人"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "解决复杂问题者胜",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：ChatGPT 给一堆通用答案救不活兰花（每株病因不同）；想要现成答案的懒人没有出路；光会用计算器找不到工作。"
+  },
+  {
+   "claim_id": "C-WJ2-U0174-02",
+   "unit_id": "WJ2-U0174",
+   "speaker": "吴军本人",
+   "claim_text": "掌握多个技能但无一比 AI 做得好则本事为零；万金油最先被裁，一技之长者留下",
+   "quote": "真正掌握一技之长的人",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14155,
+    "end_line": 14159,
+    "sha1": "d6171a8b60fb718c81d017f2d8a1739ed4c45936",
+    "fingerprint": [
+     "万金油",
+     "一技之长",
+     "开刀"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "一技之长胜万金油",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "最怕高不成低不就（中档礼物比喻并入）；业绩前 30% 但不及 AI 水准也无用；马斯克砍 70% 员工例。"
+  },
+  {
+   "claim_id": "C-WJ2-U0174-03",
+   "unit_id": "WJ2-U0174",
+   "speaker": "吴军本人",
+   "claim_text": "圆规比喻：技能是扎稳圆心的针尖，通识是外面的圆；没有针尖圈不出面积",
+   "quote": "通识教育，是外面那个圆",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14163,
+    "end_line": 14163,
+    "sha1": "35ac812ef03f57e6e03584e99809862093ab168d",
+    "fingerprint": [
+     "圆规",
+     "圆心",
+     "针"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "圆规比喻专与博",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "纸越硬（时代越进步）越要把圆规扎深；教育制度语境（通识 vs 技能课程）属 X5 边界，此处只取个人知识结构方法论。"
+  },
+  {
+   "claim_id": "C-WJ2-U0174-04",
+   "unit_id": "WJ2-U0174",
+   "speaker": "吴军本人",
+   "claim_text": "社会需要的不是批判而是创造，批判的目的也是创造；光批判不创造没有出路",
+   "quote": "光批判，不创造，是没有出路的",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14161,
+    "end_line": 14161,
+    "sha1": "8d87ad232dc799c2960b87a5bb1975142f06926c",
+    "fingerprint": [
+     "批判",
+     "创造",
+     "普娃"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "创造优先于批判",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "\"越是普娃越需要技能培养\"的教育框架部分 X5 留痕；没有专业技能批判也无用。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0174",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "普娃定位、通识课程设置批判、农民工子女送外卖归因等教育制度讨论本体"
+  },
+  {
+   "unit_id": "WJ2-U0174",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "AI 能否带来 GDP 增长的宏观经济分析、技术革命洗牌而非普惠机会（摩尔定律/瓷器/电商例）"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "AI 时代职业价值方法论 4 卡，教育制度框架排除"
+}

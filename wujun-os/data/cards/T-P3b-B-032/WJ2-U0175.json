@@ -1,0 +1,179 @@
+{
+ "unit_id": "WJ2-U0175",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0175-01",
+   "unit_id": "WJ2-U0175",
+   "speaker": "吴军本人",
+   "claim_text": "什么是善不同人有不同理解：绿林劫富济贫小处看是善举、更大视角是作恶",
+   "quote": "不同人有不同的理解",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14187,
+    "end_line": 14187,
+    "sha1": "7b9508bb8cabc893b1ce82023cdc40701dd233fe",
+    "fingerprint": [
+     "劫富济贫",
+     "作恶",
+     "商业"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "善无统一标准",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "\"商业是最大的善\"为经济学家观点（E2 泛指并入）；小领导号召高尚加班自以为善实则违法例（14189 并入）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0175-02",
+   "unit_id": "WJ2-U0175",
+   "speaker": "吴军本人",
+   "claim_text": "与其要求道德高尚不如人人守契约不作恶；道德风格之事不要求别人也不被要求",
+   "quote": "按照契约办事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14191,
+    "end_line": 14191,
+    "sha1": "6c9f7df168cececc6adc40cf370af682aaaf5aa6",
+    "fingerprint": [
+     "社会契约",
+     "道德",
+     "大公无私"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "守契约不作恶即好",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "法律与承诺都是社会契约；道德/风格/大公无私无法衡量，吴军从不要求别人也不希望被要求；与卡-06 互引。"
+  },
+  {
+   "claim_id": "C-WJ2-U0175-03",
+   "unit_id": "WJ2-U0175",
+   "speaker": "吴军本人",
+   "claim_text": "企业应先做好业务再谈慈善，兑现每一个契约合同最重要；有钱先给员工加薪放假",
+   "quote": "兑现每一个契约合同最为重要",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14195,
+    "end_line": 14195,
+    "sha1": "9607a4b231b81a1606461401886bd223cab21c78",
+    "fingerprint": [
+     "慈善",
+     "契约",
+     "工资"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "企业先业务后慈善",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "免费产品企业例：小范围慈善、大范围致同行倒闭失业（14193 并入）；呼应第 130 封信\"企业的第一任务是赚钱\"。"
+  },
+  {
+   "claim_id": "C-WJ2-U0175-04",
+   "unit_id": "WJ2-U0175",
+   "speaker": "吴军本人",
+   "claim_text": "绝大部分人做不到延迟享受与未雨绸缪，甚至做不到为未来做打算",
+   "quote": "做不到延迟享受",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14207,
+    "end_line": 14207,
+    "sha1": "ab442dd70a71125d64b146e9a9060d0b11618b1c",
+    "fingerprint": [
+     "绝大部分",
+     "延迟享受",
+     "未雨绸缪"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D03-1"
+   ],
+   "concept_key": "多数人难延迟享受",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证并入：棉花糖实验仅 1/3 儿童做到（米歇尔；政治正确质疑声注明）；2019 诺奖《贫穷的本质》不懂规划未来致穷（E2）；热带气候缺\"年\"概念；非洲消费贷年化 60%+。"
+  },
+  {
+   "claim_id": "C-WJ2-U0175-05",
+   "unit_id": "WJ2-U0175",
+   "speaker": "吴军本人",
+   "claim_text": "很多人聚在一起形成的常不是合力而是乌合之众；国家也从不储蓄备荒",
+   "quote": "不是合力，而是变成了乌合之众",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14219,
+    "end_line": 14219,
+    "sha1": "30e337212181046861e64ba2b1c2164cccae3171",
+    "fingerprint": [
+     "合力",
+     "乌合之众",
+     "赤字"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "群聚成乌合之众",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "个人尚有储蓄备急者，国家财政盈余就增加福利花掉；与群体决策机制相关（引子见 14203）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0175-06",
+   "unit_id": "WJ2-U0175",
+   "speaker": "吴军本人",
+   "claim_text": "商业现象能不往道德上想就不往道德上想；机构拔高评价既是商业也是护孩子",
+   "quote": "不要上升到道德高度",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14227,
+    "end_line": 14229,
+    "sha1": "a0993b4c68752eddb9790787888ae6840f8e3983",
+    "fingerprint": [
+     "道德",
+     "Good Job",
+     "开窍"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "少作道德评判",
+   "ability_tags": [],
+   "status": "已生成",
+   "notes": "例证：欧美钢琴老师一律\"Good Job\"；鼓励是为让孩子坚持等开窍；与卡-02 守契约观互引。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0175",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "Deabe/一不小心就迷路了/初心三段提问原文与文末\"用户留言\"（阿繁达1043：马尔可夫过程科普、扎克伯格案例、哈耶克引文）均读者文字，不计卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "善行问答：善恶标准/契约/短视/群氓成卡 6 张"
+}

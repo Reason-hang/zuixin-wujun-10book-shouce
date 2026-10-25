@@ -1,0 +1,87 @@
+{
+ "unit_id": "WJ2-U0172",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0172-01",
+   "unit_id": "WJ2-U0172",
+   "speaker": "吴军本人",
+   "claim_text": "AI 总结归纳本质是拷贝复制与细化，创造不出新文化；新文化靠人的叛逆产生",
+   "quote": "拷贝复制和细化",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13983,
+    "end_line": 13983,
+    "sha1": "02473b3cb6c0b7e9a552ba51b2f2ba404f8a22f5",
+    "fingerprint": [
+     "人工智能",
+     "叛逆",
+     "新文化"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D10-1"
+   ],
+   "concept_key": "AI 拷贝不创新文化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "AI 替人做事后人会反思求突破、产生叛逆与新文化（14005 并入）；闲暇越多新文化越多。"
+  },
+  {
+   "claim_id": "C-WJ2-U0172-02",
+   "unit_id": "WJ2-U0172",
+   "speaker": "吴军本人",
+   "claim_text": "历史上新文化都由对前文化的叛逆产生，模仿式精进成就不大；引领文化者是有想法的叛逆者",
+   "quote": "一个特别有自己想法的叛逆者",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13985,
+    "end_line": 13993,
+    "sha1": "99b4e94241f6b17a4023e04f6d743e817a69ea24",
+    "fingerprint": [
+     "叛逆",
+     "模仿",
+     "浪漫主义"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "叛逆生新文化",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：浪漫主义对达维特/贝多芬的叛逆、法国大革命后、先秦与民国新文化运动、纽约因叛逆而有文化气息（文化史 X4/X6 例证并入）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0172",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "技术使文明趋同、未来文化只会更多元不会统一等文明趋势判断；卡普《技术共和国》三观点转述与杜威引言；蒂尔/马斯克/万斯政治评述"
+  },
+  {
+   "unit_id": "WJ2-U0172",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "Deabe 留言摘录（13931）与文末\"用户留言\"块（14011-14019）不计卡"
+  },
+  {
+   "unit_id": "WJ2-U0172",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "文化与文明概念史、明治/纳粹/印度地域文化等文明史叙述"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "文明趋势主体排除，抽 AI 创造局限与叛逆方法论 2 卡"
+}

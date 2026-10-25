@@ -1,0 +1,98 @@
+{
+ "unit_id": "WJ2-U0164",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0164-01",
+   "unit_id": "WJ2-U0164",
+   "speaker": "转述·第三方",
+   "claim_text": "做研究要做得仔细，学习德国人把每个细节都研究透，很多发现藏在细节里",
+   "quote": "每个细节都要研究透",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13335,
+    "end_line": 13335,
+    "sha1": "49b36b59202b2d95abb70a5020bcfec4c519c58a",
+    "fingerprint": [
+     "朱雪龙",
+     "细节",
+     "开题报告"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "研究要透细节",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=朱雪龙教授（吴军在清华的老师，博士开题会上所言）；吴军同段概括\"很多科学发现都是在细节中发现问题\"（E1 与本卡同链）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0164-02",
+   "unit_id": "WJ2-U0164",
+   "speaker": "吴军本人",
+   "claim_text": "日本科研文化两大特点：工匠精神，以及对学术声誉的追求超过对财富的追求",
+   "quote": "工匠精神",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13331,
+    "end_line": 13341,
+    "sha1": "0632ca7dfb9f939a1916919a3f18b3089ec780df",
+    "fingerprint": [
+     "工匠精神",
+     "学术声誉",
+     "大隅良典"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "工匠精神与声誉优先",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "人物史例证（X4 只留方法论）：大隅良典 40 年潜心酵母、田中耕一放弃升职 20 年一线研究、老教授六点上班。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0164",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "summer.墨 留言原文（诺奖国别统计与杭州四小龙引子）不计卡"
+  },
+  {
+   "unit_id": "WJ2-U0164",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "日本基础教育史：江户识字率、1860 义务教育、兰学等教育制度史叙述"
+  },
+  {
+   "unit_id": "WJ2-U0164",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "2001 年 50 年 30 诺奖政策、国际科研合作开放、中日科研导向差异、日本原创发明世界第二等国别科研体制分析"
+  },
+  {
+   "unit_id": "WJ2-U0164",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "杭州四小龙属应用技术非原创突破等针对当时公司时点的评论"
+  },
+  {
+   "unit_id": "WJ2-U0164",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "汤川秀树/大隅良典/田中耕一人物史叙述，方法论已并入卡-02"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "国别科研体制主体排除，仅抽工匠精神与细节研究两方法论卡"
+}

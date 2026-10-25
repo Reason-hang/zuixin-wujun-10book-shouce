@@ -1,0 +1,221 @@
+{
+ "unit_id": "WJ2-U0165",
+ "book_code": "WJ2",
+ "extractor": "EXT-WJ12",
+ "batch_id": "T-P3b-B-032",
+ "cards": [
+  {
+   "claim_id": "C-WJ2-U0165-01",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "AI 时代谎言依然有六个不变特征：逻辑矛盾、统计不可能、难证伪、万能同盟军、定义不明、以偏概全",
+   "quote": "谎言依然有六个无法改变的特征",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13377,
+    "end_line": 13379,
+    "sha1": "608687f4ee5f5e1a5656e303cfd875bb4092c549",
+    "fingerprint": [
+     "人工智能",
+     "六个",
+     "特征"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "谎言六特征",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "总纲卡，六分特征见本单元 -02 至 -07；AI 可帮造假圆谎但改变不了六特征；东芝/奥林巴斯造假史例并入。"
+  },
+  {
+   "claim_id": "C-WJ2-U0165-02",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "逻辑上不可能的事情发生了，一定是骗子；违背基本逻辑的说辞无法自圆",
+   "quote": "一定是骗子",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13389,
+    "end_line": 13393,
+    "sha1": "eb5f9a76e550bb784010ee498c63f3a4cedef83e",
+    "fingerprint": [
+     "逻辑",
+     "骗子",
+     "投资移民"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "逻辑矛盾识谎",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：硅谷移民律师夫妇卷款案、第三党既不加税又增福利承诺；\"哪儿有万一呢\"（13393）。"
+  },
+  {
+   "claim_id": "C-WJ2-U0165-03",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "统计意义上几乎不可能发生的事出现了，说明一定有作弊或造假",
+   "quote": "在统计意义上不可能发生",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13397,
+    "end_line": 13403,
+    "sha1": "df6ff21c1599f99c5f2e11dfc345616a36b73955",
+    "fingerprint": [
+     "作弊",
+     "GDP",
+     "选票"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "统计不可能识谎",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：选举最后 2% 选票 90% 单方获取概率低于 10^-20；大城市增速均低于全国 GDP 增速则国家数据有问题。"
+  },
+  {
+   "claim_id": "C-WJ2-U0165-04",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "要求自证清白的指责本质是无理取闹；无所不能却找不到的敌人是万能背锅侠",
+   "quote": "万能的背锅侠",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13405,
+    "end_line": 13415,
+    "sha1": "480d4497bebca9b822dfb92cd1d324209c94a6c1",
+    "fingerprint": [
+     "自证清白",
+     "背锅侠",
+     "不留痕迹"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "难证伪识谎",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "难以证明或不值得花成本证明的消息（如植物养生功效）最好一律忽略（13411）；共济会/神鬼星座为谎言帮凶。"
+  },
+  {
+   "claim_id": "C-WJ2-U0165-05",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "谎言常有一个无所不能的同盟军，且不免费：要你同行动、赚你流量或直接要钱",
+   "quote": "无所不能的同盟军",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13417,
+    "end_line": 13421,
+    "sha1": "689f3e6d8454664109513cfde69c7b1ff948b3e9",
+    "fingerprint": [
+     "同盟军",
+     "庄家",
+     "流量"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "万能同盟军识谎",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：股市庄家/国家队消息、求职经、教育秘诀，AI 成新同盟军。"
+  },
+  {
+   "claim_id": "C-WJ2-U0165-06",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "表述模糊、定义不明确的话说了等于白说；深究定义很多谎言不攻自破",
+   "quote": "说了等于白说",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13423,
+    "end_line": 13429,
+    "sha1": "cb6f0aa40d6d672a81f6598527d0e4ffa1a9ef75",
+    "fingerprint": [
+     "定义",
+     "精华",
+     "民意"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "定义不明识谎",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "例证：\"取其精华去其糟粕\"未定义何为精华；\"民意\"一词若不含普通民众意愿则无意义。"
+  },
+  {
+   "claim_id": "C-WJ2-U0165-07",
+   "unit_id": "WJ2-U0165",
+   "speaker": "吴军本人",
+   "claim_text": "世上不存在绝对完美的东西，因局部不完美就全盘否定通常是谎言",
+   "quote": "不存在绝对完美的东西",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 13431,
+    "end_line": 13437,
+    "sha1": "ee23ec39f93865dc47d616a4a2ab6cecf5c5868e",
+    "fingerprint": [
+     "绝对化",
+     "全盘否定",
+     "疫苗"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "以偏概全识谎",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "对一半错一半的观点不能因错的一半全盘否定；马斯克/纽约酒店案为时事例证（X2 并入 notes，本体不入卡）。"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "WJ2-U0165",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "马斯克谈美国政府资金去向与纽约酒店移民安置等时事例证本体（13439-13441），机理已并入卡-07"
+  },
+  {
+   "unit_id": "WJ2-U0165",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "东芝/奥林巴斯营收造假等企业造假史例证，并入总纲卡-01 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "识谎六特征方法论信，成总纲卡+六分特征卡"
+}

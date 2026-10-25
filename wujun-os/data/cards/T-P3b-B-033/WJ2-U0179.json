@@ -1,0 +1,317 @@
+{
+ "unit_id": "WJ2-U0179",
+ "book_code": "WJ2",
+ "extractor": "R-ORCH-inline",
+ "batch_id": "T-P3b-B-033",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "假努力是用低质量的勤奋掩盖真正的懒惰",
+   "quote": "低质量的勤奋，掩盖了真正的懒惰",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14591,
+    "end_line": 14595,
+    "sha1": "9e3613e2c11463927d82d80ff281c09e960d2de1",
+    "fingerprint": [
+     "假努力",
+     "勤奋",
+     "懒惰"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-4"
+   ],
+   "concept_key": "假努力",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "三种表现：学网课、拖时间读书、堆时间写作业（呼应9年前'伪工作者'）",
+   "claim_id": "C-WJ2-U0179-01",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "知识本身不能直接赚钱，变成技术才能赚钱，变成产品流程才能申请专利",
+   "quote": "才能申请专利",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14555,
+    "end_line": 14559,
+    "sha1": "577093d9beae377cec69f89129601c5b1d43decf",
+    "fingerprint": [
+     "知识",
+     "技术",
+     "专利"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "知识变现链条",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "GDP与劳动价值铺垫；DeepSeek付费教程乱象为例证",
+   "claim_id": "C-WJ2-U0179-02",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学完不指向使用的网课学习是假努力，是懒得动手的替代品",
+   "quote": "为自己懒得动手找替代品",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14559,
+    "end_line": 14563,
+    "sha1": "8bcd5aacaf87d46525ebb3260297334c27fbd00b",
+    "fingerprint": [
+     "网课",
+     "替代品"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-1"
+   ],
+   "concept_key": "学习要有输出指向",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "为好奇心或修行而学另当别论，但别问为何没改变命运",
+   "claim_id": "C-WJ2-U0179-03",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "歌德将'太初有道'改译'太初有为'，确立实践第一的意识",
+   "quote": "太初有为",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14563,
+    "end_line": 14565,
+    "sha1": "f9492bab320fd539cbe382194e900e547dc04a17",
+    "fingerprint": [
+     "太初有为",
+     "浮士德"
+    ]
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "太初有为",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "被转述者=歌德（经维特根斯坦引用放大）；吴军概括卡互引",
+   "claim_id": "C-WJ2-U0179-04",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上的事，要做了才有结果",
+   "quote": "要做了才有结果",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14563,
+    "end_line": 14563,
+    "sha1": "bac2c40710bb59234b4da851154653c35e37c173",
+    "fingerprint": [
+     "太初有为",
+     "刨个坑"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-1"
+   ],
+   "concept_key": "做了才有结果",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "养花例证；与歌德转述卡同一论证链（R1双卡互引）",
+   "claim_id": "C-WJ2-U0179-05",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "因找不到工作而拖时间读书是假努力；真努力是学好硬核课程并主动实习",
+   "quote": "比起在学校里拖时间",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14571,
+    "end_line": 14577,
+    "sha1": "cbb666e97f0d0351b3df0af34a1a2fcc07da2fae",
+    "fingerprint": [
+     "硬核课程",
+     "实习",
+     "考研"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "逃避式读书",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "Meta 4取1 Offer数据为例证；GPA靠通识课凑分同属假努力（14577）",
+   "claim_id": "C-WJ2-U0179-06",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "翻书快说明心没静下来；会的题多做几遍、不会的做十遍还是错，是典型假努力",
+   "quote": "说明心就没有静下来",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14581,
+    "end_line": 14585,
+    "sha1": "1101fb46dcb160bfce65a97b03d783f962e707df",
+    "fingerprint": [
+     "翻书翻得飞快",
+     "家教"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学懂优于刷题",
+   "ability_tags": [
+    "学"
+   ],
+   "status": "已生成",
+   "notes": "清华校友儿子案例；摄像头观察法定位问题",
+   "claim_id": "C-WJ2-U0179-07",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要求员工长期996是企业管理不善的表现，顶级企业不靠超长工时也有高人均产出",
+   "quote": "管理不善的表现",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14589,
+    "end_line": 14589,
+    "sha1": "79b736c369b61a926a84614fe3c0f05fdf9b3125",
+    "fingerprint": [
+     "996",
+     "人均"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D07-2"
+   ],
+   "concept_key": "996与管理不善",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "效益差的企业工时反而长（中外观测）；与工时膨胀卡同锚互引",
+   "claim_id": "C-WJ2-U0179-08",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "当员工不得不工作12小时，就会把8小时的工作拉长到12小时完成",
+   "quote": "拉长到12 小时完成",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14589,
+    "end_line": 14589,
+    "sha1": "79b736c369b61a926a84614fe3c0f05fdf9b3125",
+    "fingerprint": [
+     "12 小时",
+     "8 小时"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "被动加班的工时膨胀",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与996卡同锚互引；帕金森定律同族",
+   "claim_id": "C-WJ2-U0179-09",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "懒惰与否自己常不知道，人会被自己的假努力感动，最后把自己骗了",
+   "quote": "最后把自己给骗了",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14591,
+    "end_line": 14595,
+    "sha1": "9e3613e2c11463927d82d80ff281c09e960d2de1",
+    "fingerprint": [
+     "感动",
+     "假努力"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "假努力的自我感动",
+   "ability_tags": [
+    "思"
+   ],
+   "status": "已生成",
+   "notes": "与假努力定义卡同锚互引；信息时代勤奋懒惰难辨",
+   "claim_id": "C-WJ2-U0179-10",
+   "unit_id": "WJ2-U0179"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不相信孩子能边学边玩学好，就不要相信成年人能同时做好几件事",
+   "quote": "同时做好几件事",
+   "anchor": {
+    "book_code": "WJ2",
+    "start_line": 14595,
+    "end_line": 14595,
+    "sha1": "dc2f7c79c6201feca3d13a97beefade998c4c4fa",
+    "fingerprint": [
+     "并行处理",
+     "边学边玩"
+    ]
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "多任务并行幻觉",
+   "ability_tags": [
+    "做"
+   ],
+   "status": "已生成",
+   "notes": "多任务'勤奋'属假努力；抄笔记快vs动手懒对照",
+   "claim_id": "C-WJ2-U0179-11",
+   "unit_id": "WJ2-U0179"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "假努力概念、三种表现与机理，整信方法论成卡"
+}
