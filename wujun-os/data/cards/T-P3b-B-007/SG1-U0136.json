@@ -1,0 +1,184 @@
+{
+ "unit_id": "SG1-U0136",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事有生就有死，组织亦然；不介意公司死亡、不刻意拯救衰老公司，往前找下一次机会",
+   "quote": "不介意公司的死亡",
+   "anchor": {
+    "fingerprint": [
+     "有生就有死",
+     "不介意公司的死亡"
+    ],
+    "start_line": 8133,
+    "end_line": 8133,
+    "book_code": "SG1",
+    "sha1": "bcd369c7bc5fd904b00db77c52d7b7f1500ff12d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "组织生死观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出自《硅谷之谜》总结的硅谷公司特点（8133）；生物（包括人）如此（8133）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0136-01",
+   "unit_id": "SG1-U0136"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不办大而全的百年老店，要办专而精有活力的公司；完成使命退出是把资源释放给未来",
+   "quote": "专而精的有活力的公司",
+   "anchor": {
+    "fingerprint": [
+     "百年老店",
+     "最后一次贡献"
+    ],
+    "start_line": 8135,
+    "end_line": 8135,
+    "book_code": "SG1",
+    "sha1": "98a1bf26101d9c26eb1c98e97c7816512464175f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专而精非百年老店",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "公司完成历史使命退出历史舞台是对社会最后一次贡献、释放人力土地资源（8135）；感情上跨越不过去故多数企业家仍追求百年老店（8135）；美国财富500强平均年龄三十多岁（8147，X4侧）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0136-02",
+   "unit_id": "SG1-U0136"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇以不死海蜇为喻：不断创造能独立生存的新产品部门，逃脱大公司的宿命",
+   "quote": "逃脱大公司的宿命",
+   "anchor": {
+    "fingerprint": [
+     "海蜇",
+     "新的产品部门"
+    ],
+    "start_line": 8151,
+    "end_line": 8153,
+    "book_code": "SG1",
+    "sha1": "b74d1c5af206a4b2f88783f0c27492df3c0fc6f1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "海蜇策略",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=拉里·佩奇；海蜇受针刺长新细胞、母体死后新细胞发育成完整海蜇（8151）；为此设Google风投、X实验室等独立部门（8153）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0136-03",
+   "unit_id": "SG1-U0136"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人应把成熟业务交给他人、自己负责最需资源的新业务，避开公司基因决定论",
+   "quote": "公司基因决定论",
+   "anchor": {
+    "fingerprint": [
+     "佩奇深知",
+     "基因决定论"
+    ],
+    "start_line": 8163,
+    "end_line": 8165,
+    "book_code": "SG1",
+    "sha1": "5fbb3cdb562b38f0dfada9e8f80196b0a79b8f12"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "公司基因决定论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "佩奇把成熟业务交皮柴、自己挑难做的新业务，与常找领域专家的做法相反（8163）；否则新业务必成IBM个人电脑部门或微软在线部门（8165）；皮柴培养路径（8155，X4侧）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0136-04",
+   "unit_id": "SG1-U0136"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对迟早会来的反垄断诉讼，与其被动等待不如早做打算，拆分是未雨绸缪",
+   "quote": "不如早做打算",
+   "anchor": {
+    "fingerprint": [
+     "反垄断",
+     "迟早会发生"
+    ],
+    "start_line": 8171,
+    "end_line": 8171,
+    "book_code": "SG1",
+    "sha1": "1e3c3c8abcabed77f85bbd2b843e2d4d69e7b9b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D08-1"
+   ],
+   "concept_key": "不可避免早做打算",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "2008年聘司法部前高官为法务副总裁（8169）；即便如微软IBM赢得官司被限制扩张也失去机会（8171）；Alphabet两头下注：不被拆则新业务长大、被拆则新业务已成年（8173）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0136-05",
+   "unit_id": "SG1-U0136"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司真正能传承的只是基因；先认同公司必死是常态，再考虑传承基因与文化",
+   "quote": "只是基因而已",
+   "anchor": {
+    "fingerprint": [
+     "精神财富",
+     "常态"
+    ],
+    "start_line": 8177,
+    "end_line": 8177,
+    "book_code": "SG1",
+    "sha1": "897f4646517db4cacd37fec755bcf1911e24d45f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D02-3"
+   ],
+   "concept_key": "薪尽火传",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "家族传承物质财富+精神财富=基因（8177）；总结词“薪尽火传”（8179）；长出的新细胞不是原母体但基因相同（8175）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0136-06",
+   "unit_id": "SG1-U0136"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0136",
+   "disposal": "X",
+   "reason": "各国百年老店存续史实：张小泉六必居易主、夏普换主、LVMH与斯沃琪并购品牌、道琼斯仅剩GE、财富500强平均年龄（8139-8147），纯企业史科普",
+   "x_subtype": "X4"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第126封信：谷歌为什么要拆分——组织生死观、专而精非百年老店、海蜇策略、公司基因决定论、不可避免早做打算、薪尽火传，共6卡；各国百年老店史实归X4；与GG-U0119同源段双出处已登记"
+}

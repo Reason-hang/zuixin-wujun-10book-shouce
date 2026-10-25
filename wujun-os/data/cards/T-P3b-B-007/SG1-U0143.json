@@ -1,0 +1,137 @@
+{
+ "unit_id": "SG1-U0143",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "掌握对社会真正有用、特别是稀缺技能的人，比同龄人获得成倍甚至数量级更多的回报",
+   "quote": "特别是社会稀缺的技能时",
+   "anchor": {
+    "fingerprint": [
+     "正面影响",
+     "稀缺的技能"
+    ],
+    "start_line": 8699,
+    "end_line": 8699,
+    "book_code": "SG1",
+    "sha1": "2d82ba857649497fdc5da829be7e7391a921ce54"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D08-2"
+   ],
+   "concept_key": "稀缺技能高回报",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人从社会获得的回报取决于对社会的正面影响（8699）；洪堡理念对底层摆脱困境仍有指导意义（8699）；回报差异即便不是数量级也是成倍数（8699）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0143-01",
+   "unit_id": "SG1-U0143"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能换取报酬地位的是后天学来、他人缺乏的技能；与生俱来和人人易掌握的本领不算",
+   "quote": "其他人所缺乏的技能",
+   "anchor": {
+    "fingerprint": [
+     "后天学习来的技能",
+     "很容易掌握的本领"
+    ],
+    "start_line": 8703,
+    "end_line": 8703,
+    "book_code": "SG1",
+    "sha1": "d7e1b4382fc203ff092271360b7628762f264ec0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-2"
+   ],
+   "concept_key": "技能的判别标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "出卖苦力色相是与生俱来不算（8703）；开车、做家常饭、接电话、订机票、写一两行代码都不算（8703）；行业界限模糊但原则未变（8703）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0143-02",
+   "unit_id": "SG1-U0143"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "失败不是成功之母，成功才是成功之母：成功做成一件事才可能举一反三做成二三件",
+   "quote": "成功才是成功之母",
+   "anchor": {
+    "fingerprint": [
+     "举一反三",
+     "学习一种新技能的方法"
+    ],
+    "start_line": 8713,
+    "end_line": 8715,
+    "book_code": "SG1",
+    "sha1": "a3c1115b6119f62993f608f28ecbfb49c650b2ca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-2"
+   ],
+   "concept_key": "成功是成功之母",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "学到真技能更长的好处是掌握学习新技能的方法（8713）；从没做成过事的人以后成功可能性不大（8715）；年轻时掌握一种技能学习方法就有信心适应变化（8715）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0143-03",
+   "unit_id": "SG1-U0143"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技能培养对改变社会地位立竿见影，与家庭出身、地域关系不大，按培养方法可习得",
+   "quote": "改变社会地位可以讲是立竿见影",
+   "anchor": {
+    "fingerprint": [
+     "立竿见影",
+     "培养方法"
+    ],
+    "start_line": 8705,
+    "end_line": 8705,
+    "book_code": "SG1",
+    "sha1": "c6aff51f42f8d6eeffa9daba9cbc9a8b5aaf1027"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "技能培养",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "技能培养不同于素质培养、不看出身地域（8705）；遵循一定培养方法才能培养出来（8705）；对中低阶层实用性非常明显（8705）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0143-04",
+   "unit_id": "SG1-U0143"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0143",
+   "disposal": "X",
+   "reason": "富兰克林43岁创办青年教育学院（宾大）、杰斐逊创办弗吉尼亚大学、洪堡体系与普鲁士崛起、新中国院系调整等教育史实（8675-8693），纯教育史科普",
+   "x_subtype": "X4"
+  },
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0143",
+   "disposal": "X",
+   "reason": "技能教育vs素质教育/博雅教育之辩、大众教育与升学名额杯水车薪、大学毕业生未掌握安身立命技能、中美大学技能训练差距、小米粥比喻等教育制度议论（8669-8673、8707-8717），教育议题排除；其方法论已抽卡",
+   "x_subtype": "X5"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第133封信：技能教育的重要性——稀缺技能高回报、技能判别标准、成功是成功之母、技能培养立竿见影，共4卡；教育史实归X4，教育制度议论归X5"
+}

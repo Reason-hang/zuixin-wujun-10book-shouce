@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0140",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其花大钱追名气尤其副牌酒，不如合适价格买好年份低级别酒庄酒；越贵未必越好",
+   "quote": "越是贵的未必越好",
+   "anchor": {
+    "fingerprint": [
+     "讲究点实际",
+     "四级或者五级酒庄"
+    ],
+    "start_line": 8463,
+    "end_line": 8463,
+    "book_code": "SG1",
+    "sha1": "dd7f0aaa029bf60689c52fdfa24e76fa67b4fdd2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "名气不等于品质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "好酒庄酒价格不菲但品质不差（8463）；对酒味道的感觉非常主观（8463）；懂行老饕按酒庄和年份挑选（8415）；今日思考：商品“名”和“实”（8483）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0140-01",
+   "unit_id": "SG1-U0140"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "副牌酒用嫩藤葡萄酿造，品质连五级酒庄都不如，被炒高价只因沾了大牌名气",
+   "quote": "只是沾了拉菲的名气而已",
+   "anchor": {
+    "fingerprint": [
+     "副牌酒",
+     "中国买家炒作"
+    ],
+    "start_line": 8459,
+    "end_line": 8459,
+    "book_code": "SG1",
+    "sha1": "8d8d001d61d6028ca3b142e2d9be5b808c7032e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "副牌酒品牌溢价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "葡萄藤30年才能酿好酒、超80年不可用（8457）；嫩藤葡萄酿副牌酒补贴经营成本、小拉菲从50美元炒到一二百美元（8459）；追捧拉菲多奔名字去（8455）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0140-02",
+   "unit_id": "SG1-U0140"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "红酒并非年头越长品质越好，大部分波尔多酒15年后走下坡路；品质很大程度取决于年份",
+   "quote": "并非年头越长品质越好",
+   "anchor": {
+    "fingerprint": [
+     "乙酸",
+     "年份"
+    ],
+    "start_line": 8409,
+    "end_line": 8409,
+    "book_code": "SG1",
+    "sha1": "34ea104a783ca889d6d80fbbd5df61afd5937af9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "年头长未必品质好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "乙醇变乙酸（8409）；20年的不意味着比10年的好（8409）；大年小年与近30年十大年份（8411）；“拿一瓶20年的波尔多”“82年拉菲压压惊”是影视外行话（8413）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0140-03",
+   "unit_id": "SG1-U0140"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0140",
+   "disposal": "X",
+   "reason": "旧世界新世界之分、波尔多左右岸与产区结构、混酒层次感、AOC原产地命名控制、1855分级与五大一级酒庄名录及价格、拉菲历史沿革、圣爱美隆评级等品鉴知识科普（8403-8461），无支柱可归属的可迁移判断",
+   "x_subtype": "X8"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第130封信：法国名酒——名气不等于品质、副牌酒品牌溢价、年头长未必品质好，共3卡（知识科普为主的信按工单允许2-3卡）；产区评级与酒庄名录等品鉴科普归X8"
+}

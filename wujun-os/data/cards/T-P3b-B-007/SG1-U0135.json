@@ -1,0 +1,155 @@
+{
+ "unit_id": "SG1-U0135",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇论EchoStar：设备内容都不是自己的，只把好节目送到用户家里，就值上百亿美元",
+   "quote": "它就值上百亿美元",
+   "anchor": {
+    "fingerprint": [
+     "EchoStar",
+     "都不是自己的"
+    ],
+    "start_line": 8089,
+    "end_line": 8089,
+    "book_code": "SG1",
+    "sha1": "fd1ab229edecb35bb808ce062b4f903a3ab07ea3"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "EchoStar启发",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=拉里·佩奇；卫星买或租、节目授权、机顶盒定制（8089）；把好的电视节目内容送到终端用户家里这一条就值上百亿（8089）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0135-01",
+   "unit_id": "SG1-U0135"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇认定：只要把互联网上有用的内容送到千家万户就行，内容是谁的并不重要",
+   "quote": "有用的内容送到千家万户",
+   "anchor": {
+    "fingerprint": [
+     "佩奇认定了",
+     "并不重要"
+    ],
+    "start_line": 8091,
+    "end_line": 8091,
+    "book_code": "SG1",
+    "sha1": "ea581da098055479bfcd9ee31ea9bb2e2c62ee02"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "有用内容送达用户",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=拉里·佩奇；认定这样的公司市值可到一千亿美元（8091）；Google由此砍掉占90%收入的企业级搜索转型广告（8093）；本质论展开见C-SG1-U0135-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0135-02",
+   "unit_id": "SG1-U0135"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "佩奇讲的是有用而非流量，99%的人忽视有用二字；有用=客观公正有权威，严禁购买排名",
+   "quote": "而是提供有用的内容",
+   "anchor": {
+    "fingerprint": [
+     "忽视了",
+     "客观公正"
+    ],
+    "start_line": 8095,
+    "end_line": 8099,
+    "book_code": "SG1",
+    "sha1": "c8de3cf120f9b5850ff8dcda7f85b25a04463c87"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "有用而非流量",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "EchoStar挣钱因内容有用而非垃圾（8095）；自媒体新闻网站内容没用比垃圾强不到哪去（8097）；有用=客观公正有权威而非谁出钱多推荐谁、严禁买排名与SEO作弊（8099）；商业信息与自然结果严格分开（8101）；广告也必须有用、坑蒙拐骗广告不能做（8103）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0135-03",
+   "unit_id": "SG1-U0135"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看商业模式不能光看表面要看本质：免费加广告与收月费本质一致，都是把有用内容送达用户",
+   "quote": "不能光看表面，而要看本质",
+   "anchor": {
+    "fingerprint": [
+     "光看表面",
+     "相通的、一致的"
+    ],
+    "start_line": 8107,
+    "end_line": 8109,
+    "book_code": "SG1",
+    "sha1": "2647b0ff43a0ccad90d51746d12103b6615810b4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业模式看本质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "刷流量买用户的公司与Google模式不同（8109）；罗辑思维本质同源——有用是佩奇理解的商业本质之一（8111）；照猫画虎的公司把垃圾强制推送给用户（8111）；必应做不成因不能更好违背有用（8105）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0135-04",
+   "unit_id": "SG1-U0135"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "连接比拥有更重要：Google、Facebook不拥有内容却有连接；Airbnb无房、Uber无车却是最大公司",
+   "quote": "连接比拥有更重要",
+   "anchor": {
+    "fingerprint": [
+     "连接比拥有更重要",
+     "并不拥有什么内容"
+    ],
+    "start_line": 8113,
+    "end_line": 8113,
+    "book_code": "SG1",
+    "sha1": "c8d3938bac92e70952bce8a977b2673a211f0a11"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "连接比拥有重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商业本质第二点：内容不需要是自己的（8113）；出自吴军《智能时代》（8113）；罗辑思维自有内容占比降低连接变大、自媒体与知识服务商之别（8113）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0135-05",
+   "unit_id": "SG1-U0135"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0135",
+   "disposal": "X",
+   "reason": "Google早期靠卖企业级搜索服务器与雅虎七百万美元合同维生、EchoStar市值背景、找来的CEO摇头出走等公司史叙述（8079-8085），纯企业史背景",
+   "x_subtype": "X4"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第125封信：谷歌商业模式——EchoStar启发、有用内容送达用户、有用而非流量、商业模式看本质、连接比拥有重要，共5卡；Google早期企业史归X4"
+}

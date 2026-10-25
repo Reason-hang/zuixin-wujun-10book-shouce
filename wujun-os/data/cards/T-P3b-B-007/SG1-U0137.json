@@ -1,0 +1,158 @@
+{
+ "unit_id": "SG1-U0137",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好产品首先目标必须明确：所有技术指标围绕核心目标，其它功能都变得次要",
+   "quote": "它的目标必须明确",
+   "anchor": {
+    "fingerprint": [
+     "好的产品",
+     "拦截"
+    ],
+    "start_line": 8241,
+    "end_line": 8241,
+    "book_code": "SG1",
+    "sha1": "3dfb5af01fcda8ca10ed4fc18a32e4ec3d5bbcc4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "好产品目标明确",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "米格-25为拦截XB-70设计、整体方案所有指标针对XB-70（8241）；产品课总结第一条；过分设计思考题（8253）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0137-01",
+   "unit_id": "SG1-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程和科学不同，没有绝对正确的答案，只有在当时情况下找最好的方法；不能等待条件成熟",
+   "quote": "没有绝对正确的答案",
+   "anchor": {
+    "fingerprint": [
+     "工程和科学不同",
+     "利用现有技术"
+    ],
+    "start_line": 8243,
+    "end_line": 8243,
+    "book_code": "SG1",
+    "sha1": "311e6f9fd9ca213913a5f6fb3094956325184340"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D05-1"
+   ],
+   "concept_key": "工程无绝对答案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "米格-25立足有限条件找到最好方法（8243）；公司里“条件不具备要等待”的借口（8243）；工程师要尽可能利用现有技术解决实际问题（8243）；三条边应用侧见D05-1互设标签",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0137-02",
+   "unit_id": "SG1-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程上一个问题解决后方法会派生新问题，遇到问题解决问题；取舍原则围绕最终目标",
+   "quote": "取舍的原则都是要围绕最终的目标",
+   "anchor": {
+    "fingerprint": [
+     "派生出一个新的问题",
+     "遇到问题解决问题"
+    ],
+    "start_line": 8245,
+    "end_line": 8245,
+    "book_code": "SG1",
+    "sha1": "4fd4fee1fcab75d5682c441e31f715484f1b57b3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3",
+    "D10-1"
+   ],
+   "concept_key": "问题派生与取舍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "这是产品经理和工程师应有的做事态度（8245）；米格-25链条：钢太重→机身减薄→薄则变形→加支架→更重→换大推力发动机（8223）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0137-03",
+   "unit_id": "SG1-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标变了还采用原来方案就如同刻舟求剑；伊拉克用米格-25打无人机是用错工具",
+   "quote": "就如同刻舟求剑",
+   "anchor": {
+    "fingerprint": [
+     "刻舟求剑",
+     "用错了工具"
+    ],
+    "start_line": 8247,
+    "end_line": 8247,
+    "book_code": "SG1",
+    "sha1": "6f30bc6a20837b58605fcc0aa746ecefd03d4525"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "目标变方案变",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第三世界用米格-25空战效果不佳是意料之中（8247）；打无人侦察机效果差非产品问题而是食古不化用错工具（8247）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0137-04",
+   "unit_id": "SG1-U0137"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "米格-25以钢合金造三马赫拦截机：牺牲机动性换取预定战略目标达成的工程典范",
+   "quote": "完全实现了它预先的设计目的",
+   "anchor": {
+    "fingerprint": [
+     "机动性",
+     "设计目的"
+    ],
+    "start_line": 8227,
+    "end_line": 8227,
+    "book_code": "SG1",
+    "sha1": "fe97fa98e872f008e3972015e91b22449e7ad13b"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "米格25工程取舍",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "专名案例卡：格列维奇钢合金方案替代钛合金（8221）、机身机翼减薄加支架（8225）、两台大推力发动机补动力（8227）；美国人评价“极善于用取之不尽的聪明才智来弥补资源的局限”（8233）；总结卡见C-SG1-U0137-02/03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0137-05",
+   "unit_id": "SG1-U0137"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0137",
+   "disposal": "X",
+   "reason": "XB-70研发背景与压缩升力原理、钛合金与三明治钢板工艺、米格-25项目缘起、别连科叛逃与美日拆解研究、后续出口与空战表现等航空史叙述（8203-8235），纯军工史科普；承载的工程方法论已抽卡",
+   "x_subtype": "X4"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第127封信：米格-25产品课——好产品目标明确、工程无绝对答案、问题派生与取舍、目标变方案变、米格-25案例卡（E3），共5卡；航空史实背景归X4"
+}

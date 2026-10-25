@@ -1,0 +1,129 @@
+{
+ "unit_id": "SG1-U0127",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "奚恺元：印度人缺乏选择的现状，以及由此产生的幸福感和成就感，帮助其精英成功",
+   "quote": "缺乏选择的现状",
+   "anchor": {
+    "fingerprint": [
+     "奚教授",
+     "缺乏选择的现状"
+    ],
+    "start_line": 7561,
+    "end_line": 7561,
+    "book_code": "SG1",
+    "sha1": "7a7a507c42252912f7c2ebb6e27feddebd8a5289"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4",
+    "D06-1"
+   ],
+   "concept_key": "缺乏选择反得幸福",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=奚恺元（芝加哥大学讲席教授，消费心理学）；印度婚姻无选择只好用心经营、工作亦然（7577）；在美印度人婚姻满意度高于美国平均（7569）；概括见C-SG1-U0127-04；对应见识《不做选择的幸福》",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0127-01",
+   "unit_id": "SG1-U0127"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "奚恺元同事：人的幸福感和成就的取得，在很大程度上是经营的结果，而不是攀高枝的结果",
+   "quote": "经营的结果",
+   "anchor": {
+    "fingerprint": [
+     "经营的结果",
+     "攀高枝"
+    ],
+    "start_line": 7575,
+    "end_line": 7575,
+    "book_code": "SG1",
+    "sha1": "a757b6e7fb4cecac628e2b90125f6226fd098fb1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福靠经营",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=芝加哥大学幸福感研究教授（奚恺元同事）；为更好婚姻而离婚者五年后幸福感未提高（7573，美国调查机构，X5侧）；婚姻朋友工作皆靠经营（7599）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0127-02",
+   "unit_id": "SG1-U0127"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Google最早一批印度高管因机会太多，十几年如一日重新选择，职级原地踏步",
+   "quote": "十几年如一日地在选择",
+   "anchor": {
+    "fingerprint": [
+     "西雅图办公室",
+     "职级上踏步"
+    ],
+    "start_line": 7591,
+    "end_line": 7591,
+    "book_code": "SG1",
+    "sha1": "8f1b169d512be860deedafc2653ff9f9524c6782"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "反复选择职级踏步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "专名案例卡：班加罗尔研究院主管几度往返印度与总部、到处开办公室（7583）；给了印度人很多选择也会犯选择困难（7581）；承载判断见C-SG1-U0127-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0127-03",
+   "unit_id": "SG1-U0127"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无选择者被迫安心经营反而升到高层，奚教授称之为“不选择反而获得幸福”",
+   "quote": "不选择反而获得幸福",
+   "anchor": {
+    "fingerprint": [
+     "职业金字塔上爬楼梯",
+     "不选择反而获得幸福"
+    ],
+    "start_line": 7593,
+    "end_line": 7593,
+    "book_code": "SG1",
+    "sha1": "643a01b0b65f838ee4e156b6d4008383f2ccfda9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-4"
+   ],
+   "concept_key": "无选择者安心经营",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "今天Google职级很高的印度人反而是当初没选择、只好爬楼梯的人（7593）；原话见C-SG1-U0127-01、案例见C-SG1-U0127-03；商业与管理应用见第118封（U0128）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0127-04",
+   "unit_id": "SG1-U0127"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0127",
+   "disposal": "X",
+   "reason": "印度婚姻与种姓制度、父母之命、离婚再婚幸福感对比、美国人选择困难等以婚恋为载体的叙述（7563-7573），婚恋家庭议题排除；其承载的选择与幸福判断已抽卡",
+   "x_subtype": "X5"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第117封信：不选择反而获得幸福——缺乏选择带来经营与幸福感（转述奚恺元2卡）、反复选择职级踏步案例卡与吴军判断卡；印度婚姻与种姓制度等婚恋叙述归X5"
+}

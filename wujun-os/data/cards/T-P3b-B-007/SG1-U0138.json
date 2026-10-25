@@ -1,0 +1,212 @@
+{
+ "unit_id": "SG1-U0138",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好产品要解决一个特定问题（最好是现有产品未解决的），不陷入固定思维，成本可控迭代进步",
+   "quote": "解决一个特定的问题",
+   "anchor": {
+    "fingerprint": [
+     "特定的问题",
+     "迭代中进步"
+    ],
+    "start_line": 8311,
+    "end_line": 8311,
+    "book_code": "SG1",
+    "sha1": "068c04174ffcc12e79de8bc6ba09c7af04d39af8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "好产品解决特定问题",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "驭势案例四点总结（8311）；CES后愿总结思考的学习法见C-SG1-U0138-06；米格-25同主题上一封（U0137）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-01",
+   "unit_id": "SG1-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好的产品并非所有指标都第一，而是现有技术和有限成本条件下可行的解决方案",
+   "quote": "可行的解决方案",
+   "anchor": {
+    "fingerprint": [
+     "所有指标都是第一",
+     "有限成本"
+    ],
+    "start_line": 8297,
+    "end_line": 8297,
+    "book_code": "SG1",
+    "sha1": "fc1030933503d2d2fbf9c0bdf54f5f98dba727db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-3"
+   ],
+   "concept_key": "可行方案优于全能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "米格-25同为立足现有技术条件（8297）；16线雷达替代64线、三目摄像头与超声波补感知、定位专用线路使低端雷达够用（8299、8301）；雷达价格随分辨率指数提高（8299）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-02",
+   "unit_id": "SG1-U0138"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "吴甘沙重新定义无人驾驶：回到出行原点，瞄准最后三公里专线摆渡，不与现有行业抢市场",
+   "quote": "最后的三公里",
+   "anchor": {
+    "fingerprint": [
+     "重新定义",
+     "固定线路"
+    ],
+    "start_line": 8279,
+    "end_line": 8281,
+    "book_code": "SG1",
+    "sha1": "6bab11dc6cda27c28bebdb35969e49a0a812e6b6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "重定义问题找痛点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=吴甘沙（驭势汽车创始人）；开车为出行、公交痛点在站离家与单位太远（8279）；小区到车站到办公楼固定线路（8281）；定位第4级自动驾驶、比特斯拉高不如Google尖端（8281）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-03",
+   "unit_id": "SG1-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "是否能称为汽车并不重要，真的解决大城市出行痛点问题，产品目的就达到了",
+   "quote": "出行困难的痛点问题",
+   "anchor": {
+    "fingerprint": [
+     "并不重要",
+     "痛点"
+    ],
+    "start_line": 8287,
+    "end_line": 8287,
+    "book_code": "SG1",
+    "sha1": "4acf5cde97aaf4b481a80eae03b3c1eb970420aa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "品类名义不重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "简化后竞争对手质疑不是机动车（8287）；零件从约3万个降到不到三千个、成本降周期短性能可靠（8285）；车厢建成客厅的设计（8291，转述·吴甘沙）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-04",
+   "unit_id": "SG1-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能等技术成熟再上路：先造原型车上路收集数据再迭代升级，大数据是机器智能的基础",
+   "quote": "通过一步步迭代来改进",
+   "anchor": {
+    "fingerprint": [
+     "原型汽车",
+     "收集数据"
+    ],
+    "start_line": 8305,
+    "end_line": 8307,
+    "book_code": "SG1",
+    "sha1": "b18baf7e803727becf8a7aa023e09051eb6807af"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D04-2"
+   ],
+   "concept_key": "原型先行迭代",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=吴甘沙（性能质量取决于路况数据，8305）；驭势理念：先专线上路、数据够多再升级跑更多道路（8307）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-05",
+   "unit_id": "SG1-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学习效率高无非是愿意总结思考，把所见所闻变成自己的财富",
+   "quote": "变成我的财富",
+   "anchor": {
+    "fingerprint": [
+     "学习效率",
+     "总结、思考"
+    ],
+    "start_line": 8267,
+    "end_line": 8267,
+    "book_code": "SG1",
+    "sha1": "977c61ff1d29f09acade7ba2772fcca4bf1ba4d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "见闻变财富",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "CES后新闻不再关注大家淡忘、只剩个别抢眼产品（8267）；经历变经验的自觉（D02-1口径）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-06",
+   "unit_id": "SG1-U0138"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "考察创业想法的三问：凭什么成功、如何后来居上、拿什么优势抵消劣势",
+   "quote": "为什么你觉得你能够成功",
+   "anchor": {
+    "fingerprint": [
+     "三个问题",
+     "后来居上"
+    ],
+    "start_line": 8269,
+    "end_line": 8269,
+    "book_code": "SG1",
+    "sha1": "8f20ca9989502bbf9104625f4e8d907ebe8144f4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "创业考察三问",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对吴甘沙创业打算的三个问题（8269）；一年后吴甘沙用产品设计证明想法可行（8271）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0138-07",
+   "unit_id": "SG1-U0138"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0138",
+   "disposal": "X",
+   "reason": "特斯拉从第2级做起、Google直接做第5级、64线激光雷达10万美元、原型车超20万美元、法规等待等2017年无人驾驶行业时点动态（8275-8277），依附行业时点不入主干",
+   "x_subtype": "X2"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第128封信：驭势汽车产品课——好产品解决特定问题、可行方案优于全能、重定义问题找痛点、品类名义不重要、原型先行迭代、见闻变财富、创业考察三问，共7卡；无人驾驶时点动态归X2"
+}

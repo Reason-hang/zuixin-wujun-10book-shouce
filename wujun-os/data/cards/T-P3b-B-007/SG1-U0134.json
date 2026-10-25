@@ -1,0 +1,184 @@
+{
+ "unit_id": "SG1-U0134",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "好的产品要有牙刷功能：让用户每天用上几分钟，久而久之养成使用该品牌产品的习惯",
+   "quote": "牙刷的功能",
+   "anchor": {
+    "fingerprint": [
+     "要有牙刷的功能",
+     "刷牙一样"
+    ],
+    "start_line": 8039,
+    "end_line": 8039,
+    "book_code": "SG1",
+    "sha1": "13d774a3ce0c6a6ac7f79153ec9a2df214dc535b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "牙刷原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0119（同名概念键收敛，勿另立键）；被转述者=拉里·佩奇；Google搜索每天用两三次、设为开机默认页（8039）；宝洁可口可乐日用品习惯例（8041）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0134-01",
+   "unit_id": "SG1-U0134"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙刷式产品要解决两个根本问题：可靠稳定（时灵时不灵没人要）与功能简单易被替代",
+   "quote": "时灵时不灵的牙刷是不会有人要的",
+   "anchor": {
+    "fingerprint": [
+     "两个根本性问题",
+     "可靠性和稳定性"
+    ],
+    "start_line": 8043,
+    "end_line": 8045,
+    "book_code": "SG1",
+    "sha1": "fa118f462a2bd1481167ef38086056587e97da1f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "牙刷的可靠性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0119（同名概念键收敛，勿另立键）；Google搜索在华败于服务不稳定、一年断网10天即3%（8045）；好奇心驱使用户尝试新品、解决靠爆款（8045）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0134-02",
+   "unit_id": "SG1-U0134"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "好品牌每过一段时间要用爆款带来惊喜提醒存在，广告促销强化印象；周期太长会被淡忘",
+   "quote": "爆款效应",
+   "anchor": {
+    "fingerprint": [
+     "带来一个惊喜",
+     "爆款"
+    ],
+    "start_line": 8047,
+    "end_line": 8047,
+    "book_code": "SG1",
+    "sha1": "8c4e612ede7ab3f3b9b05fb4553f1ccf7b98c4c4"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "爆款效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0119（同名概念键收敛，勿另立键）；被转述者=拉里·佩奇；可口可乐宝洁年花上百亿广告配合商场促销（8047）；消费电子以一年为爆款周期（8047）；吴军自用：得到日更如刷牙不能周末不刷、每半年到一年出新书做爆款（8055、8057）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0134-03",
+   "unit_id": "SG1-U0134"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "格鲁夫：英特尔每18个月推性能翻倍新品，胜过36个月推四倍——周期短及时刷新记忆",
+   "quote": "刷新了大家的记忆",
+   "anchor": {
+    "fingerprint": [
+     "格鲁夫",
+     "走了半步"
+    ],
+    "start_line": 8049,
+    "end_line": 8051,
+    "book_code": "SG1",
+    "sha1": "ebb0b5a40aea0a9a819351ed2bb9bfdd2b9fe419"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "爆款周期刷新记忆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=安迪·格鲁夫（英特尔前CEO）；RISC结构更合理却败于爆款周期太长被遗忘（8049）；同为每18/36个月同速进步（8051）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0134-04",
+   "unit_id": "SG1-U0134"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爆款不是越多越好，频繁爆款既不可能也不需要；再压缩周期成本太高难以承受",
+   "quote": "频繁爆款既不可能也不需要",
+   "anchor": {
+    "fingerprint": [
+     "越多越好",
+     "成本太高难以承受"
+    ],
+    "start_line": 8053,
+    "end_line": 8053,
+    "book_code": "SG1",
+    "sha1": "c3238dbf2d21a59fe25f308c2e1fbd52821088c3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "爆款周期边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "18个月周期工作量近对手两倍、要求管理水平和开发效率远高于同行（8053）；影视明星天天炒作新闻让人烦（8053）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0134-05",
+   "unit_id": "SG1-U0134"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场用牙刷与爆款：每周把工作总结成三句话汇报老板，每半年到一年给一个惊喜成果",
+   "quote": "把你的工作总结成三句话",
+   "anchor": {
+    "fingerprint": [
+     "牙刷和爆款的原则",
+     "惊喜的成果"
+    ],
+    "start_line": 8059,
+    "end_line": 8059,
+    "book_code": "SG1",
+    "sha1": "26173a6e5edccd9f10ebd77355b4c27dd7e3d875"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D08-1"
+   ],
+   "concept_key": "三句话汇报",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "双出处：本段亦见 GG-U0119（同名概念键收敛，勿另立键）；这样的员工哪个老板都抢着要（8059）；吴军个人品牌应用见C-SG1-U0134-03注",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0134-06",
+   "unit_id": "SG1-U0134"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0134",
+   "disposal": "X",
+   "reason": "佩奇布林与施密特的权力关系、外界低估佩奇、读财报习惯、2011年接任CEO等Google公司史背景（8027-8037），纯企业史叙述；产品方法论已抽卡",
+   "x_subtype": "X4"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第124封信：牙刷和爆款——牙刷原则、牙刷的可靠性、爆款效应、格鲁夫爆款周期、爆款边界、三句话汇报，共6卡；佩奇布林权力背景史实归X4；与GG-U0119同源段双出处已登记"
+}

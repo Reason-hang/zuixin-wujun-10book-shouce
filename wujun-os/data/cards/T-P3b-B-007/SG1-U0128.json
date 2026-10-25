@@ -1,0 +1,176 @@
+{
+ "unit_id": "SG1-U0128",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商业上让用户满意的销售和服务恰恰是不给用户太多选择；多款式让用户挑花眼",
+   "quote": "不给用户太多的选择",
+   "anchor": {
+    "fingerprint": [
+     "不给用户太多的选择",
+     "挑花眼"
+    ],
+    "start_line": 7613,
+    "end_line": 7615,
+    "book_code": "SG1",
+    "sha1": "db3a6c4d743fe4972d71bd8fd2fbcaafcebae040"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "不给选择的产品哲学",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "iPhone无键盘例：先不习惯后习惯（7613）；这山望着那山高买了A想要B（7615）；Google产品功能难用等于没给选择（7619）；林璎概括乔布斯“少就是多”、少了就不可能有选择（7627，转述·林璎）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0128-01",
+   "unit_id": "SG1-U0128"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "何庭波：三星砍掉上百款手机只留几款，反而长期占据市场份额第一，华为学习此经验",
+   "quote": "市场份额第一的位置",
+   "anchor": {
+    "fingerprint": [
+     "何庭波",
+     "上百款手机砍到"
+    ],
+    "start_line": 7617,
+    "end_line": 7617,
+    "book_code": "SG1",
+    "sha1": "814779b3969221f50e191fb0a365c621df6d54fd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "三星砍产品线",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=何庭波（华为公司董事、海思总裁）；三星在苹果第三代时悟到不给选择的好处（7617）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0128-02",
+   "unit_id": "SG1-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "本田产品线短、只有标配没有选配，每款车最畅销且成本大降；通用产品线长无人能分清",
+   "quote": "使得成本可以大幅下降",
+   "anchor": {
+    "fingerprint": [
+     "本田",
+     "产品线特别短"
+    ],
+    "start_line": 7625,
+    "end_line": 7625,
+    "book_code": "SG1",
+    "sha1": "b00f56df22d2f13813ab72fd2ce2848a6c6fa0ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "短产品线降本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本田从小摩托车厂到全球最有影响力品牌只花一代人时间（7621）；选配升级包一大堆选项其实查不出差别（7623）；通用两款配置差不多贴不同商标（7625）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0128-03",
+   "unit_id": "SG1-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "管理上不给选择有利于提高管理效率和员工满意度；好事只给一个选择，避免好事办成坏事",
+   "quote": "不能把好事办成了坏事",
+   "anchor": {
+    "fingerprint": [
+     "管理的效率",
+     "好事办成了坏事"
+    ],
+    "start_line": 7629,
+    "end_line": 7633,
+    "book_code": "SG1",
+    "sha1": "7713bf50f180e52c099370536279ab4c4cc563c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D06-2"
+   ],
+   "concept_key": "好事只给一个选择",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "腾讯部门旅游案例：北海道vs普吉岛二选一改只留一个（7631）；两拨人互相羡慕都后悔、回来都不满意（7637）；吴军在Google给大家选择吃力不讨好的教训（7637）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0128-04",
+   "unit_id": "SG1-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "永远不可能找到所有人都方便的时间；核心人商量拍板定一个即可，来不了的是遗憾不是抱怨",
+   "quote": "定一个时间就好了",
+   "anchor": {
+    "fingerprint": [
+     "并不是一个好方法",
+     "群龙无首"
+    ],
+    "start_line": 7641,
+    "end_line": 7647,
+    "book_code": "SG1",
+    "sha1": "8358f0e25a753ef35116bc5f60c3db6836844799"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D03-1"
+   ],
+   "concept_key": "核心人拍板定时间",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "给几个时间选择看似照顾大家实非好方法（7641）；填表五花八门无法协调（7643）；有人拍板聚会才能搞起来、群龙无首永远停留在微信上（7645）；真来不了是自己的安排冲突（7649）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0128-05",
+   "unit_id": "SG1-U0128"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不给选择无法让100%满意没关系，完全排斥你产品的人从来不是潜在顾客；迎合换不来忠诚",
+   "quote": "从来不曾是你潜在的顾客",
+   "anchor": {
+    "fingerprint": [
+     "没有能力让所有人满意",
+     "适得其反"
+    ],
+    "start_line": 7651,
+    "end_line": 7653,
+    "book_code": "SG1",
+    "sha1": "9ca2efaca0c2dfa95243b4c47b599e15e806fea6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "不追求所有人满意",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "我们都不是神，没有能力让所有人满意（7651）；偏好与团队不一致且无不可替代才干者，换人是解脱（7653）；辛苦迎合每个顾客反而顾客不忠诚（7653）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0128-06",
+   "unit_id": "SG1-U0128"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第118封信：不给选择的商业与管理智慧——产品哲学、三星砍产品线（转述何庭波）、本田短产品线、好事只给一个选择、核心人拍板定时间、不追求所有人满意，共6卡"
+}

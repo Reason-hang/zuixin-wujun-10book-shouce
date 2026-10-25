@@ -1,0 +1,129 @@
+{
+ "unit_id": "SG1-U0141",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人生任何阶段只有一个根本就是生活；学习工作都只是生活的一部分，背离根本难成功幸福",
+   "quote": "都只有一个根本",
+   "anchor": {
+    "fingerprint": [
+     "背离了根本",
+     "一部分"
+    ],
+    "start_line": 8513,
+    "end_line": 8515,
+    "book_code": "SG1",
+    "sha1": "d7c095cd90f8286bc188dec304886d1bac45c6f2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "生活是根本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "学龄前玩耍、18-22岁学习、毕业后工作都是生活的组成而非全部（8515）；希望年轻读者与家长都记住“生活”二字（8515）；大学做什么围绕生活二字（8547）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0141-01",
+   "unit_id": "SG1-U0141"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大学四年坦诚相处最容易考察挚友，工作十年也做不到；平等基础上才能倾心交往",
+   "quote": "才能倾心交往",
+   "anchor": {
+    "fingerprint": [
+     "挚友",
+     "很难深交"
+    ],
+    "start_line": 8537,
+    "end_line": 8539,
+    "book_code": "SG1",
+    "sha1": "9779943677d16129e8693c01ba06d5d225b2b424"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "大学挚友易考察",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "四年有机会了解对方内心和性格每个细节（8537）；走出校门后“你的”“我的”分得清、彼此客气难深交（8539）；同班不论家境相对平等（8539）；对应格局《我们应该和什么样的人交朋友》",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0141-02",
+   "unit_id": "SG1-U0141"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多参加与学习科研无关的社会活动，是从父母的孩子成长为社会人的必经之路",
+   "quote": "成长为一个社会人的必经之路",
+   "anchor": {
+    "fingerprint": [
+     "社会活动",
+     "为自己的所有行为负责"
+    ],
+    "start_line": 8541,
+    "end_line": 8543,
+    "book_code": "SG1",
+    "sha1": "4b5a3d172fb978dc4069457a66ed1020248c3438"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "社会活动助成长",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "走出校门必须100%为自己所有行为负责、犯错须担责赔偿（8543）；没成熟到应付挑战则职业发展堪忧（8545）；“年轻人没经验”的开脱（8541）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0141-03",
+   "unit_id": "SG1-U0141"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "只分享确认通用的经验，把握不准通用性的经验宁可不说，以免误导别人",
+   "quote": "还误导别人",
+   "anchor": {
+    "fingerprint": [
+     "通用的经验",
+     "误导"
+    ],
+    "start_line": 8495,
+    "end_line": 8495,
+    "book_code": "SG1",
+    "sha1": "d36d6c03ba2ed93a07368f88990055f27f67702d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "通用经验才分享",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对求学工作经历的分享自我把关：不是舍不得说而是把握不准有用还是有害（8495）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0141-04",
+   "unit_id": "SG1-U0141"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0141",
+   "disposal": "X",
+   "reason": "大学谈一次恋爱、反对家长介绍与相亲、相亲像等价交换、恋爱失恋与成熟、家长怕孩子失败及“不能输在起跑线”等婚恋与亲子教育论述（8519-8523、8545），婚恋家庭与教育议题排除",
+   "x_subtype": "X5"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第131封信：在大学做什么——生活是根本、大学挚友易考察、社会活动助成长、通用经验才分享，共4卡；恋爱与相亲等婚恋论述归X5"
+}

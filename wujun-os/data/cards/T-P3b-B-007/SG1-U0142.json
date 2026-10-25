@@ -1,0 +1,240 @@
+{
+ "unit_id": "SG1-U0142",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大学该学的是未来生活所需的常识知识技能方法；为了生活而学习，不为专业而学习",
+   "quote": "为了生活而学习",
+   "anchor": {
+    "fingerprint": [
+     "常识、知识、技能和方法",
+     "专业"
+    ],
+    "start_line": 8585,
+    "end_line": 8587,
+    "book_code": "SG1",
+    "sha1": "f35df01ea341282368cff9056f8ae59c12ccbee8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-2"
+   ],
+   "concept_key": "为生活而学习",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "课表针对职业不针对生活（8585）；跨领域转型容易归因于此（8587）；即使给一个亿过好生活仍需知识技能、中乐透者绝大部分几年后返贫（8595）；规则⑪“学什么”归个人成长",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-01",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界上的事情都是做出来的不是说出来的；世上喜欢说的人多、愿意做事情的人少",
+   "quote": "都是做出来的，不是说出来的",
+   "anchor": {
+    "fingerprint": [
+     "付诸实践",
+     "喜欢说的人多"
+    ],
+    "start_line": 8609,
+    "end_line": 8609,
+    "book_code": "SG1",
+    "sha1": "e891067c430ae951994d3e1a33406e316545cfee"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "事是做出来的",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "特朗普毫无政治经验仍当选、重要一条是付诸实践（8609，X2侧例证）；政客企业家的话一半没落实（8609）；付诸行动的习惯靠长期培养、社会活动是最好的训练（8615）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-02",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爱说不爱做的人很多，这恰恰给了少数认真落实的实践者成功的机会",
+   "quote": "给了少数实践者成功的机会",
+   "anchor": {
+    "fingerprint": [
+     "爱说不爱做",
+     "实实在在地做了"
+    ],
+    "start_line": 8613,
+    "end_line": 8613,
+    "book_code": "SG1",
+    "sha1": "32a372710dea2db0ef2d8e42200528ee95db6c35"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "实践者机会",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "BAT说国际化十年未认真落实vs微软Google出大价钱认真办（8611，X2侧）；华为不说国际化实做、收入绝大多数来自海外（8613）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-03",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "表达思想与双向沟通是未来生活必要的能力；中国人是弱项，应该年轻时学会",
+   "quote": "都是未来生活必要的能力",
+   "anchor": {
+    "fingerprint": [
+     "表达和沟通上是弱项",
+     "事业有成"
+    ],
+    "start_line": 8621,
+    "end_line": 8621,
+    "book_code": "SG1",
+    "sha1": "c17d604af2304bcfaaf81694deb409d381202f63"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D02-2"
+   ],
+   "concept_key": "沟通表达必修",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "人生大部分时间用在通信上、通信三目的（8619）；能力越强生活工作越方便越容易成功（8621）；缺乏两种能力难事业有成家庭幸福（8621）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-04",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "表达友善和爱的能力必须学会——很多人表达好感适得其反，不会表达爱有钱也没用",
+   "quote": "因为他不知道如何表达爱",
+   "anchor": {
+    "fingerprint": [
+     "适得其反",
+     "表达友善"
+    ],
+    "start_line": 8625,
+    "end_line": 8625,
+    "book_code": "SG1",
+    "sha1": "07fc1726e89ecf3e6b716fd26eda0d00f8a8d1a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "表达友善与爱",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "小到个人大到国与国都需要（8625）；友善之上是爱：男女感情、爱慕慈爱欣赏都要懂表达（8625）；给一个亿也未必赢得芳心（8625）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-05",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "善于写作记录总结，才能让下次站在上次的基础上，获得叠加效应不断前进",
+   "quote": "这样才有叠加效应",
+   "anchor": {
+    "fingerprint": [
+     "叠加效应",
+     "写作课"
+    ],
+    "start_line": 8629,
+    "end_line": 8631,
+    "book_code": "SG1",
+    "sha1": "e22aed9dce080524f69773562246f8371ca939d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D02-2"
+   ],
+   "concept_key": "写作带来叠加",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "能沟通不能书面表达难做深入（8629）；记忆力有限、做第十次事记不清前九次细节、总重复错误（8631）；理工科开写作课、文科开逻辑课（8631）；缺乏逻辑难让人信服（8631）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-06",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科学研究上发现问题和解决问题同样重要甚至更重要；大学生缺发现问题的训练",
+   "quote": "发现问题和解决问题同样重要",
+   "anchor": {
+    "fingerprint": [
+     "发现问题",
+     "科学研究"
+    ],
+    "start_line": 8601,
+    "end_line": 8601,
+    "book_code": "SG1",
+    "sha1": "18445dd09f2f5cf4c2966e5cab135f1b62b7f046"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "发现问题更重要",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "想当科学家却没得到科学研究训练、更缺“发现问题”训练（8601）；想创业当老板却没锻炼领导力（8601）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-07",
+   "unit_id": "SG1-U0142"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大学是学习知识技能最好的时间：可塑性强且时间最灵活，工作后时间难自己支配",
+   "quote": "大学生们时间最灵活",
+   "anchor": {
+    "fingerprint": [
+     "可塑造性强",
+     "时间最灵活"
+    ],
+    "start_line": 8603,
+    "end_line": 8603,
+    "book_code": "SG1",
+    "sha1": "e064d3a88e2b2a29ad32f459db36c6c7f81c2e47"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "大学学习黄金期",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "18-22岁记忆力和理解力好（8603）；工作后时间难完全由自己支配（8603）；意识到要学的东西远不止课堂就不会荒废时间打游戏（8603）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0142-08",
+   "unit_id": "SG1-U0142"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0142",
+   "disposal": "X",
+   "reason": "BAT喊国际化十年未落实、特朗普竞选当选等2017年时点事件例证（8611-8613），依附当时事件，时效例证不入主干",
+   "x_subtype": "X2"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第132封信：在大学学什么——为生活而学习、事是做出来的、实践者机会、沟通表达必修、表达友善与爱、写作带来叠加、发现问题更重要、大学学习黄金期，共8卡；BAT等时点例证归X2"
+}

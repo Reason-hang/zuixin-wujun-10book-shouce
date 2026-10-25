@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG1-U0144",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "老师讲课水平与一流大学差距不大，能否学好课看自己的主动性；选择余地对本科生已够",
+   "quote": "就看自己的主动性了",
+   "anchor": {
+    "fingerprint": [
+     "主动性",
+     "自主选择的余地"
+    ],
+    "start_line": 8775,
+    "end_line": 8775,
+    "book_code": "SG1",
+    "sha1": "2fac6ea2c68279123be5364d3d6a643ebb761d71"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "二流大学靠主动",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "一流大学给予大选择权但多数学生被动拘束成按部就班的人（8757）；二流大学课程要求松、自主选择余地对本已足够（8775）；诺威格：两万多本科生中前1%说明有过人之处（8747，转述·诺威格）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0144-01",
+   "unit_id": "SG1-U0144"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "明确未来生活目标，主动围绕目标宽泛学习培养技能，而非被动接受学校安排的规划",
+   "quote": "尽可能宽泛地学习",
+   "anchor": {
+    "fingerprint": [
+     "生活目标",
+     "被动接受"
+    ],
+    "start_line": 8787,
+    "end_line": 8787,
+    "book_code": "SG1",
+    "sha1": "333e1fccf673bf7485c6800e76fb17a6e899bf99"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "围绕目标主动学习",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "二流大学一流战略总结（8761之后总结段，见8787）；吴军读博一半课程是数学课、论文多在电机系完成，二流工学院教育不逊最好工科大学（8773、8773）；清华选文科课、逃必修课、去北大蹭课（8767、8765）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0144-02",
+   "unit_id": "SG1-U0144"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "什么样的圈子决定什么样的命运：有心向上自能聚拢志趣相投者，营造精英小圈子",
+   "quote": "决定了什么样的命运",
+   "anchor": {
+    "fingerprint": [
+     "圈子",
+     "毕业率"
+    ],
+    "start_line": 8785,
+    "end_line": 8785,
+    "book_code": "SG1",
+    "sha1": "a97f7d21708d7d495aadad8431421af31b29b7b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-2"
+   ],
+   "concept_key": "圈子决定命运",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "伯克利前20%精英圈互相来往竞争又互励互学、与哈佛斯坦福差距很小（8781）；后20%圈子互相影响一起退学留级（8783）；择圈莫选只吃喝玩乐胸无大志者（8785）；哈佛1500名新生送二流大学成才率仍高——同侪环境是关键（8759）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0144-03",
+   "unit_id": "SG1-U0144"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "优秀学生与普通学生的区别主要体现在主动性：明确将来的生活、对课程外的事上心",
+   "quote": "主要还是体现在主动性上",
+   "anchor": {
+    "fingerprint": [
+     "课程以外的事情",
+     "领导欲望"
+    ],
+    "start_line": 8783,
+    "end_line": 8783,
+    "book_code": "SG1",
+    "sha1": "71fb49d472c244cf77cb7020931ccf2c5f1ed7ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "主动性区分精英",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "伯克利入学水平相差大、一年后自然分化出约20%精英圈（8781）；伯克利入学人数为哈佛斯坦福三到四倍故精英总数不少（8783）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0144-04",
+   "unit_id": "SG1-U0144"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0144",
+   "disposal": "X",
+   "reason": "一流与二流大学录取难度与成才率数据、伯克利前1%对哈佛录取、清华后10%对比、一流二流教授讲课水平、斯坦福查菲评价等教育制度议论与数据（8741-8755），教育议题排除；方法论已抽卡，诺威格（8747）与查菲（8753）转述已注",
+   "x_subtype": "X5"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第134封信：如何在二流大学接受一流教育——二流大学靠主动、围绕目标主动学习、圈子决定命运、主动性区分精英，共4卡；录取与成才率等教育制度议论归X5"
+}

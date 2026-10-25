@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0133",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好红酒只产自地中海式气候地区，约占地球陆地面积2%——顶级产出的稀缺源于自然约束",
+   "quote": "只占地球陆地面积的2%",
+   "anchor": {
+    "fingerprint": [
+     "地中海式气候",
+     "2%"
+    ],
+    "start_line": 7947,
+    "end_line": 7947,
+    "book_code": "SG1",
+    "sha1": "56f3fe464d11061322e9200b24ffa5a5b8644f34"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "气候约束造稀缺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "纬度30-40度大陆西岸、旱季雨季分明（7949）；地中海式气候区也是最适宜人类居住的地方（7959）；纳帕谷与硅谷气候相似（7961）；今日思考：地理条件和经济的关系（8013）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0133-01",
+   "unit_id": "SG1-U0133"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同一产区内朝向、坡度、土壤差异也造成葡萄质量巨大差别；上千年研究使因地制宜成熟",
+   "quote": "质量也会有很大差别",
+   "anchor": {
+    "fingerprint": [
+     "不同的坡度",
+     "上千年的研究"
+    ],
+    "start_line": 7975,
+    "end_line": 7975,
+    "book_code": "SG1",
+    "sha1": "192515d63e0e479bc26d49c807849a73e55576f6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "微观条件分层",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "并非所有地中海式气候区都适合种葡萄（7975）；玛雅卡玛斯山脊另一边适合白葡萄（7975）；长叶期雨水足不潮湿、结果期日照足、收获前不能下雨（7971）；雷阵雨地区卖相好味道不佳、个小味浓（7973）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0133-02",
+   "unit_id": "SG1-U0133"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0133",
+   "disposal": "X",
+   "reason": "红酒按浓度与陈化时间排序、开瓶保存与抽气泵使用、香槟不能抽真空、中国买家炒高黑皮诺等品鉴与生活科普（7983-7991），无支柱可归属的可迁移判断",
+   "x_subtype": "X8"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第123封信：红酒产区和种类——仅抽稀缺源于气候约束与微观条件分层2卡（科普为主的信按工单允许2-3卡）；品类排序、保存方法等品鉴生活科普归X8"
+}

@@ -1,0 +1,227 @@
+{
+ "unit_id": "SG1-U0131",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "时间（而不是时机）是你的朋友：找到稳定可持续复合增长的投资方法，靠时间积累",
+   "quote": "时间（而不是时机）是你的朋友",
+   "anchor": {
+    "fingerprint": [
+     "时间（而不是时机）",
+     "复合增长"
+    ],
+    "start_line": 7805,
+    "end_line": 7805,
+    "book_code": "SG1",
+    "sha1": "4658ca15a294694a074d7c2d34272c10a56770ce"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "时间是投资的朋友",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美股年均约8%（含分红）50年约50倍、两代人约500倍为时点例证（X2侧）；《家族财富》一书引出的第一件事（7797）；大多数人时间够长一点点进步结果可观（7809）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-01",
+   "unit_id": "SG1-U0131"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "绝大多数人不可能抓住时机，所谓抓住时机者多是运气好，其经验常是事后诸葛亮",
+   "quote": "事后诸葛亮",
+   "anchor": {
+    "fingerprint": [
+     "抓住时机",
+     "运气好"
+    ],
+    "start_line": 7807,
+    "end_line": 7807,
+    "book_code": "SG1",
+    "sha1": "6e34e1307fd38123f4e8162287334403205860bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "抓时机不可靠",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "除少数极幸运者，别的方法投资效果绝不会比稳定复利更好（7807）；换到别人身上就不太管用（7807）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-02",
+   "unit_id": "SG1-U0131"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在从容的时间里做一件事，会比在压力下做同样的事情做得好；投资与财富积累也是同理",
+   "quote": "在从容的时间里做一件事情",
+   "anchor": {
+    "fingerprint": [
+     "从容的时间",
+     "静下心来"
+    ],
+    "start_line": 7811,
+    "end_line": 7813,
+    "book_code": "SG1",
+    "sha1": "ce76918c3ffc8d9de9742450d7138181902a9d55"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "从容时间胜压力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "10分钟的题只给10分钟会手忙脚乱、给半小时反而提前完成（7811）；活80岁想到时间不够就乱方寸去赌、连续赌50年常竹篮打水一场空（7815）；对应C-SG1-U0131-01时间朋友论",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-03",
+   "unit_id": "SG1-U0131"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "《家族财富》：富过三代的家族恪守长期稳定回报的投资，衰败家族共同点是赌博式冒险投资",
+   "quote": "做非常冒险的投资",
+   "anchor": {
+    "fingerprint": [
+     "长期投资回报稳定",
+     "赌博式的投资"
+    ],
+    "start_line": 7823,
+    "end_line": 7823,
+    "book_code": "SG1",
+    "sha1": "06ec3b08f01ad7bfe94243c9f7cc8bf94c56c906"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "家族长青靠稳投资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=《家族财富》（Family Fortunes）一书；恪守股指基金类长期生意、时间足够长（7823）；一两次赌博式投资就让他们破产（7823）；对照吴军自己的两条启发（7831）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-04",
+   "unit_id": "SG1-U0131"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "《家族财富》：兴旺大家族注重把好价值观传承给后人，衰败家族只传财富不传价值观",
+   "quote": "将一种好的价值观传承给后人",
+   "anchor": {
+    "fingerprint": [
+     "价值观传承",
+     "富二代"
+    ],
+    "start_line": 7825,
+    "end_line": 7825,
+    "book_code": "SG1",
+    "sha1": "8a662963246c9f4ed891fc22b21a9d3fb172c092"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "传价值观非财富",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=《家族财富》一书；发家代吃苦耐劳善于经营的美德作为家族财富传下去（7825）；富二代讨人嫌因继承财富没继承吃苦耐劳精神（7825）；吴军取用见C-SG1-U0131-07",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-05",
+   "unit_id": "SG1-U0131"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "财富积累靠耐心和理性投资，就能快于同龄人；东一榔头西一棒子只会原地踏步",
+   "quote": "时间就是我们的朋友",
+   "anchor": {
+    "fingerprint": [
+     "耐心",
+     "东一榔头西一棒子"
+    ],
+    "start_line": 7831,
+    "end_line": 7831,
+    "book_code": "SG1",
+    "sha1": "852d56cfb419c76b39ddc3bc7c7ffe973b9000c8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D05-2"
+   ],
+   "concept_key": "耐心是秘诀",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被人问成功秘诀答耐心（7831）；没有运气暴富就多一点耐心给后代留基础（7831）；呼应《家族财富》规律一（C-SG1-U0131-04）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-06",
+   "unit_id": "SG1-U0131"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "价值观传承远比财富传承重要；钱是让孩子做想做的事情，不是让他无所事事",
+   "quote": "远远超过财富的传承",
+   "anchor": {
+    "fingerprint": [
+     "价值观传承的重要性",
+     "巴菲特"
+    ],
+    "start_line": 7833,
+    "end_line": 7833,
+    "book_code": "SG1",
+    "sha1": "516a0092b44880670071f313ea6f0e6be976db4f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1",
+    "D02-3"
+   ],
+   "concept_key": "价值观重于遗产",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特语（转述，7833）；美国富人不给后代留太多钱正因如此（7833）；可参《曾国藩家书》（7833）；书中原规律见C-SG1-U0131-05",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0131-07",
+   "unit_id": "SG1-U0131"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0131",
+   "disposal": "X",
+   "reason": "美股年均8%增长率、两代人500倍、华盛顿就职时100美元变20亿美元、170年48万倍等时点行情数据（7805-7809、7813），依附具体行情不入主干",
+   "x_subtype": "X2"
+  },
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0131",
+   "disposal": "X",
+   "reason": "书中“找一个好配偶很重要”及J.P.摩根家书、《品格之路》好妈妈作用等婚恋家庭论述（7827），婚恋议题排除；价值观传承方法论已抽卡",
+   "x_subtype": "X5"
+  },
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0131",
+   "disposal": "X",
+   "reason": "洛克菲勒/杜邦/摩根/克虏伯/轩尼诗/范德比尔特等家族两种发家途径与兴衰例举（7817-7819），纯家族史实梳理",
+   "x_subtype": "X4"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第121封信：家族财富——时间是投资的朋友、抓时机不可靠、从容胜压力、家族长青两规律（转述《家族财富》2卡）、耐心秘诀、价值观重于遗产，共7卡；行情数据归X2，配偶选择归X5，家族史实归X4"
+}

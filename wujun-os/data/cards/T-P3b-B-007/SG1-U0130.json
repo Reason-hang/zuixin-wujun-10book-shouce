@@ -1,0 +1,170 @@
+{
+ "unit_id": "SG1-U0130",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1G",
+ "batch_id": "T-P3b-B-007",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "贵族精神三根本：军事上的责任、维护地区治安的义务、社会活动时的体面，非物质享受",
+   "quote": "军事上的责任",
+   "anchor": {
+    "fingerprint": [
+     "安身立命的三个根本",
+     "体面"
+    ],
+    "start_line": 7759,
+    "end_line": 7759,
+    "book_code": "SG1",
+    "sha1": "4cf3cd3c42dfcf444462e5e667a6f9cd9c90164f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "贵族精神三根本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有钱后要做贵族的理解停在物质与享受层面、与贵族精神是两回事（7759）；荣誉感责任感与重诺（7761）；布什家几代服兵役任公职、小布什驾机降落航母鼓舞士气（7763）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0130-01",
+   "unit_id": "SG1-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "贵族气质与自信源于内心用责任和荣誉约束自己、外在从容优雅，是任何时候幸福生活的根本",
+   "quote": "用责任和荣誉对自己进行约束",
+   "anchor": {
+    "fingerprint": [
+     "从容、自律和优雅",
+     "幸福生活的根本"
+    ],
+    "start_line": 7765,
+    "end_line": 7765,
+    "book_code": "SG1",
+    "sha1": "0132e97efb92a66b805a26f9b690f6a8b284845a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "责任荣誉从容优雅",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "18世纪贵族生活讲究从容自律优雅、与钱多少关系不大（7765）；生活态度维度的展开见C-SG1-U0130-04；出门想到“责任、荣誉、从容、优雅”八字（7781）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0130-02",
+   "unit_id": "SG1-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对未来的期望是幸福来源：确定明年比今年好才有幸福感；对明天不确定则无法高兴",
+   "quote": "他就有幸福感",
+   "anchor": {
+    "fingerprint": [
+     "对未来的期望",
+     "双规"
+    ],
+    "start_line": 7771,
+    "end_line": 7771,
+    "book_code": "SG1",
+    "sha1": "6be591e390db2793c59ab4a3a31ba2574fe7b640"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福源于期望",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "位高权重腰缠万贯但知道明年可能被双规破产就无法高兴（7771）；今天很多上层人士没有幸福感因对明天不确定（7771）；幸福三维度框架见C-SG1-U0130-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0130-03",
+   "unit_id": "SG1-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从爱情婚姻、未来期望、生活态度三个维度看，幸福真的和物质文明的关系不是那么大",
+   "quote": "和物质文明的关系不是那么大",
+   "anchor": {
+    "fingerprint": [
+     "三个维度",
+     "物质文明"
+    ],
+    "start_line": 7775,
+    "end_line": 7775,
+    "book_code": "SG1",
+    "sha1": "c49abf0642659df80973b175fc6ab115c81ed4a5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "幸福与物质关系不大",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三维度：爱情婚姻（7767，X5侧）、对未来的期望（C-SG1-U0130-03）、生活态度（C-SG1-U0130-02）；同学近况验证：说的是被重视、恋爱、有时间做自己事而非奖金（7777）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0130-04",
+   "unit_id": "SG1-U0130"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "幸福生活才是根本，其他不过是达成目的的手段；科技进步应让人过上优雅从容的生活",
+   "quote": "幸福生活才是根本",
+   "anchor": {
+    "fingerprint": [
+     "优雅而从容的生活",
+     "手段"
+    ],
+    "start_line": 7779,
+    "end_line": 7779,
+    "book_code": "SG1",
+    "sha1": "a1ab517a9158512e89c3189d7860ce2d6275e649"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D01-2"
+   ],
+   "concept_key": "幸福是根本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对技术进步的期望：让更多人过上优雅从容的生活而不是没时间生活（7779）；工薪族物质生活已好于过去帝王但幸福另算（7743）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0130-05",
+   "unit_id": "SG1-U0130"
+  }
+ ],
+ "x_disposals": [
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0130",
+   "disposal": "X",
+   "reason": "建议大学生谈一次恋爱、“爱情几乎止于婚姻”及婚恋幸福论述（7767-7769），婚恋议题排除；三维度框架已抽卡",
+   "x_subtype": "X5"
+  },
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0130",
+   "disposal": "X",
+   "reason": "贵族作为历史阶层的兴衰史实：美国不曾有贵族、英国爵士头衔、罗斯柴尔德家族式微（7751-7757）、18世纪物质与寿命对比（7741），纯史实科普；其精神层面方法论已抽卡",
+   "x_subtype": "X4"
+  },
+  {
+   "_pairs": null,
+   "unit_id": "SG1-U0130",
+   "disposal": "X",
+   "reason": "中国顶级富商十几年惶恐不安、进过局子是普遍现象等时点性观察（7749），依附当下时点不入主干",
+   "x_subtype": "X2"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第120封信：贵族精神与幸福三维度——贵族精神三根本、责任荣誉从容优雅、期望与幸福感、幸福与物质关系不大、幸福是根本，共5卡；婚恋归X5，贵族兴衰史实归X4，富商观察归X2"
+}
