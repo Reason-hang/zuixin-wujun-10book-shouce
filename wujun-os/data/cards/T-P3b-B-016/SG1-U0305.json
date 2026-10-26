@@ -1,0 +1,182 @@
+{
+ "unit_id": "SG1-U0305",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "史实",
+   "claim_text": "阿希实验：三分之一受试者屈从明显错误的群体答案，且表现焦虑",
+   "quote": "屈从于明显错误的答案",
+   "anchor": {
+    "start_line": 21205,
+    "end_line": 21207,
+    "fingerprint": [
+     "同党",
+     "焦虑"
+    ],
+    "book_code": "SG1",
+    "sha1": "b1fe8ee5ecc5607f07c0443f8bd5a62afb9c0cde"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "阿希实验从众屈从",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=所罗门·阿希（美国社会心理学家，1952年实验）；'同党'按指示将7个答案说错（21205）；害怕被看成傻瓜而屈从又心有不甘（21205-21207）；实验背景为纳粹盲从之惑（21199）；社会压力使人丧失判断力是大众普遍接受的观点（21207）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0305-01",
+   "unit_id": "SG1-U0305"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "多伊奇与杰拉德：匿名下屈从比例仍一样高，人是在脑中被改变判断",
+   "quote": "被错误的答案洗脑了",
+   "anchor": {
+    "start_line": 21211,
+    "end_line": 21213,
+    "fingerprint": [
+     "匿名",
+     "洗脑"
+    ],
+    "book_code": "SG1",
+    "sha1": "c1722932fb90a2c56f8c3deafdd0e23c1cae74d2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "匿名实验洗脑机制",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=多伊奇、杰拉德（美国社会心理学家，1955年匿名按钮改进实验）；焦虑并非怕人说傻，而是发现自己做'错'时自责能力差（21213）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0305-02",
+   "unit_id": "SG1-U0305"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "心理学发现：人乐于信任多数人与权威观点，即使其明显自相矛盾",
+   "quote": "明显地自相矛盾",
+   "anchor": {
+    "start_line": 21215,
+    "end_line": 21215,
+    "fingerprint": [
+     "多数人",
+     "自相矛盾"
+    ],
+    "book_code": "SG1",
+    "sha1": "a3b9f5076a6c7f0abcb9c58c4e34342d0fff1ae5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "信任多数与权威",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=后续心理学家们；此前发生过类似错误的人更倾向放弃自己的判断（21215）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0305-03",
+   "unit_id": "SG1-U0305"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "产品上线第一周形不成瀑布效应，以后很难拿到较高市场占有率",
+   "quote": "瀑布效应",
+   "anchor": {
+    "start_line": 21223,
+    "end_line": 21223,
+    "fingerprint": [
+     "第一周",
+     "市场占有率"
+    ],
+    "book_code": "SG1",
+    "sha1": "e2b9cef206e27dca5dfe4500c3774974125f1487"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "第一周瀑布效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "瀑布效应=从众行为反过来影响商业、市场和舆论走向（21217）；畅销书作家回购新书维持排行榜（21221）；基金购进不看好股票营造选股形象、股价终回归价值（21225）；Google产品开发经验（21223）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0305-04",
+   "unit_id": "SG1-U0305"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多数人时常从众犯错，思维判断与大众对立面者是赢家，前提不凑热闹",
+   "quote": "站在对立面的是最后的胜利者",
+   "anchor": {
+    "start_line": 21239,
+    "end_line": 21239,
+    "fingerprint": [
+     "从众心理",
+     "凑热闹"
+    ],
+    "book_code": "SG1",
+    "sha1": "7e59704fad70866128b66acf4065b23910a1e0a0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "对立面者胜",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从众犯错给站在旁边捡漏的人成功机会（21239）；投资市场与职场皆然，注意是判断不是行动与大众对立（21239）；防从众五步见另卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0305-05",
+   "unit_id": "SG1-U0305"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "防从众五步：先动脑后动手、找客观信息、查逻辑、无反对声不做、预演回望",
+   "quote": "凡事先动脑，后动手",
+   "anchor": {
+    "start_line": 21241,
+    "end_line": 21253,
+    "fingerprint": [
+     "先动脑",
+     "逻辑是否成立",
+     "反对声音"
+    ],
+    "book_code": "SG1",
+    "sha1": "f9fcae83a741bfc17ad56d8c031f9d9fc649248c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "防从众五步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "动手能力差常因思想懒惰没想清楚就行动（21241）；2010美股抄底因无新闻支持下跌在逻辑上站不住脚（21245）；ST天一跌停与李天一案毫无逻辑关系（21247）；一片赞扬声之事以后专讲（21249）；福岛抢盐6个月后回望法（21251-21253）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0305-06",
+   "unit_id": "SG1-U0305"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0305",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016年中国股市熔断机制首日即触发、2010年5月6日美股闪电崩盘细节（宝洁瞬跌37%、道指分钟跌600点、取消六分钟交易）（21227-21237），依附具体时点事件的叙述与评论；从众机理已入K卡notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第293封阿希实验与从众：阿希实验屈从、匿名洗脑机制、信任多数与权威、第一周瀑布效应、对立面者胜、防从众五步；熔断与美股崩盘事件X2"
+}

@@ -1,0 +1,148 @@
+{
+ "unit_id": "SG1-U0303",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对方未必觉得你一定能办成；办不到别轻诺，答应不做才丢面子",
+   "quote": "千万不要轻易承诺",
+   "anchor": {
+    "start_line": 21015,
+    "end_line": 21017,
+    "fingerprint": [
+     "求了其他人",
+     "丢面子"
+    ],
+    "book_code": "SG1",
+    "sha1": "7056b96ab239ad3f59a9c13e4f59c8192abf7fea"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "拒绝不丢面子",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "不要把自己想得那么重要，对方通常还求了其他人（21015）；对方心理没那么脆弱、更清楚办成可能性小（21017）；明明做不到支支吾吾才误事，答应没办成反而断交情（21031）；买卧铺票轶事（21033-21037）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0303-01",
+   "unit_id": "SG1-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "请求分四类：不能帮尽早婉拒、不愿帮早通知、能成全力做、可能不成勿轻诺",
+   "quote": "把对方的请求分成四类",
+   "anchor": {
+    "start_line": 21019,
+    "end_line": 21027,
+    "fingerprint": [
+     "四类",
+     "委婉地拒绝"
+    ],
+    "book_code": "SG1",
+    "sha1": "0b98c93b8d2c7e1b251b985c10ce130b0d6fea1f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "请求四分法",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "第一时间拒绝给对方另想办法的时间是最大帮助（21029）；好面子打肿脸充胖子害死人（21031）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0303-02",
+   "unit_id": "SG1-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不愿帮就别勉强答应；模棱两可给对方备胎期望，反坑人家",
+   "quote": "以为有了一个备胎",
+   "anchor": {
+    "start_line": 21039,
+    "end_line": 21045,
+    "fingerprint": [
+     "千万不要勉强",
+     "模棱两可"
+    ],
+    "book_code": "SG1",
+    "sha1": "1b4fb5f28dd993577973d7fbdc3b65188f196341"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "拒绝忌模棱两可",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "同学朋友孩子暑期来硅谷住宿例：交情未到则干脆说明（21041-21043）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0303-03",
+   "unit_id": "SG1-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "答应帮忙前判断：难度X而能力面子有3X才答应，帮人重在成功率",
+   "quote": "能力和面子有3X",
+   "anchor": {
+    "start_line": 21051,
+    "end_line": 21053,
+    "fingerprint": [
+     "难度是X",
+     "成功率要高"
+    ],
+    "book_code": "SG1",
+    "sha1": "6c9b0ef7cf2e745e0edb5f228a98b7e69df0efe7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "3X保险系数",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "notes": "老领导女儿申霍普金斯例：难办但因情分全力办成（21049）；办事情会遇到想不到的麻烦，能力不及再告知则害人损交情（21053）；帮人不在于次数多而在于成功率要高（21053）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0303-04",
+   "unit_id": "SG1-U0303"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "帮忙五忌：不吹牛皮、不给廉价补偿、不帮求回报的忙、不帮违原则、不耍小聪明",
+   "quote": "切忌五件事",
+   "anchor": {
+    "start_line": 21065,
+    "end_line": 21083,
+    "fingerprint": [
+     "吹牛皮",
+     "指望回报",
+     "坚持原则"
+    ],
+    "book_code": "SG1",
+    "sha1": "3daec75c6c0c56bbd860288d26161ea3c64e9eda"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "帮忙五忌",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "面子是常量用一次少一次（21075）；唐雎'人有德于公子，公子不可忘；公子有德于人，公子不可不忘'（21077）；善良不等于没有原则，代考亲爹求也不能做（21079-21081）；公众人物吹牛被握把柄例（21069）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0303-05",
+   "unit_id": "SG1-U0303"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第291封体面拒绝：拒绝不丢面子、请求四分法、拒绝忌模棱两可、3X保险系数、帮忙五忌，沟通方法论全抽K"
+}

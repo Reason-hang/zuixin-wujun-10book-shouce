@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0313",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "计算机智能靠数据、算力与数学模型，与人脑获得智能方式不同",
+   "quote": "靠数据、计算能力和数学模型",
+   "anchor": {
+    "start_line": 21883,
+    "end_line": 21883,
+    "fingerprint": [
+     "智能时代",
+     "人工神经网络"
+    ],
+    "book_code": "SG1",
+    "sha1": "6f9f956bfa012a2d6b53bb1dd91525effdbe8afa"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "机器智能三要素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "深度人工神经网络里的'神经'两字与人脑没有半毛钱关系（21883）；苏德霍夫（2013诺奖）：今天AI和脑神经认知科学没有半毛钱关系（转述，21875）；计算机自主意识超过人这件事不会发生（21885）；AlphaGo后'模拟人的认知/控制人类'之问（21881）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0313-01",
+   "unit_id": "SG1-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "意识源于不断犯错的不确定进化；计算机本质确定可预知难有意识",
+   "quote": "从本质上讲它的操作还是确定的",
+   "anchor": {
+    "start_line": 21887,
+    "end_line": 21889,
+    "fingerprint": [
+     "自主意识",
+     "不确定的过程"
+    ],
+    "book_code": "SG1",
+    "sha1": "4437457c41038209a02ccd0a333d296a9d74c57a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "机器无自主意识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "意识获得是长期不断犯错进化的结果（21887）；基因复制不出错就没有今天的高等动物、刚出生婴儿也无自主意识（21889）；语言能力出现是基因出错结果、知识与信息传承可靠语言完成效率大增（21891）；FOXP2基因科学史归X4；程序不会自动出错得更好结果、没有出差错机会就没有进化可能（21901）；组织按惯性从不出错不变化就不会改进（21903）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0313-02",
+   "unit_id": "SG1-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "图灵机只解可计算问题；不可计算问题（如情感）计算再强也无解",
+   "quote": "只解决可计算的问题",
+   "anchor": {
+    "start_line": 21909,
+    "end_line": 21913,
+    "fingerprint": [
+     "图灵机",
+     "不可计算"
+    ],
+    "book_code": "SG1",
+    "sha1": "67bb370a1ecb57834b7d474a37655e657f2cfb98"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "图灵机边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "希尔伯特启发：问题分可计算与不可计算两类、图灵机只涉前者（21909）；AlphaGo与沃森从功能上讲都是图灵机、理论上无解者实践中依然无解（21911）；男女情感是不可计算问题例（21913）；希尔伯特还有似是而非无肯定无否定答案的问题（21915）；人的优势在错误引起变化+对不确定问题给出不可计算的答案，故人文博雅教育重要（21917）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0313-03",
+   "unit_id": "SG1-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI成功走空气动力学派：搞清智能问题背后的数学原理而非模仿人",
+   "quote": "空气动力学派",
+   "anchor": {
+    "start_line": 21919,
+    "end_line": 21921,
+    "fingerprint": [
+     "鸟飞派",
+     "莱特兄弟"
+    ],
+    "book_code": "SG1",
+    "sha1": "a965d7803d4607c856b5431ad7b1d57cf1ee13e0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "鸟飞派之辨",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "鸟飞派试图让计算机模仿人如当年模拟鸟、相信脑神经科学对AI有帮助者属鸟飞派（21919）；空气动力学派如莱特兄弟搞清原理实现与鸟不同的飞行、效果基本等价（21921）；今天AI沿后一条路（21921）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0313-04",
+   "unit_id": "SG1-U0313"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "照搬创业经验是鸟飞派难成；成事须弄清本质找自己的空气动力学",
+   "quote": "空气动力学",
+   "anchor": {
+    "start_line": 21923,
+    "end_line": 21923,
+    "fingerprint": [
+     "照猫画虎",
+     "本质"
+    ],
+    "book_code": "SG1",
+    "sha1": "9fad0637e478fa9bf3b7e46c5bb476a7d5f9563c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "本质探究而非模仿",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "听成功创业者传授经验很难复制（21923）；从表象模仿到本质探究（21925）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0313-05",
+   "unit_id": "SG1-U0313"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0313",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "科学史细节：FOXP2叉头框P2基因与牛津语言障碍家族研究、人类黑猩猩500万年分化、能唱歌的鸟蝙蝠该基因与人类相似、图灵受冯·诺依曼《量子力学的数学原理》与希尔伯特启发的学术史（21893-21909），科学史科普；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第301封智能时代：机器智能三要素、机器无自主意识、图灵机边界、鸟飞派之辨、本质探究而非模仿；FOXP2与图灵学术史X4"
+}

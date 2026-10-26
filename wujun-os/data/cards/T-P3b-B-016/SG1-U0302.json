@@ -1,0 +1,73 @@
+{
+ "unit_id": "SG1-U0302",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "《约翰·克利斯朵夫》塑造我的理想主义元素：人还是要有点理想的",
+   "quote": "人还是要有点理想的",
+   "anchor": {
+    "start_line": 20911,
+    "end_line": 20911,
+    "fingerprint": [
+     "理想主义",
+     "文明之光"
+    ],
+    "book_code": "SG1",
+    "sha1": "ef32c4a3fdd0d9e4df46bb7a3900714ed6974ec5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "读书塑造理想主义",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "该书也是促成写《文明之光》的原因之一（20911）；罗曼·罗兰笔下理想主义者的人生轨迹（20913-20915）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0302-01",
+   "unit_id": "SG1-U0302"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "《日瓦戈医生》让我认清什么是革命，从革命者变成改良者",
+   "quote": "从一个革命者变成了一个改良者",
+   "anchor": {
+    "start_line": 20923,
+    "end_line": 20923,
+    "fingerprint": [
+     "禁书",
+     "改良者"
+    ],
+    "book_code": "SG1",
+    "sha1": "1bf5edd507428240d5d7fe072bede06fe359c3c6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-3"
+   ],
+   "concept_key": "读书改造思想",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "《静静的顿河》同旨：还鼓吹革命的人应读这两本（20927）；前苏联禁书背景（20923）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0302-02",
+   "unit_id": "SG1-U0302"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0302",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "给大学生的书单（中）为书单推荐载体：西方文学15种与传记5种的书目、内容简介、文学手法赏析与译本点评（20857-20977），属推荐类载体非论点内容；仅吴军读书经历→判断两条入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第290封大学生书单中：书单推荐载体归X1，仅抽两条读书经历→判断（克利斯朵夫理想主义、日瓦戈医生革命者变改良者），生活品味类单元取2卡"
+}

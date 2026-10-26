@@ -1,0 +1,153 @@
+{
+ "unit_id": "SG1-U0307",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单位里最有效的意见表达方式是最传统的面对面交流与口头传播",
+   "quote": "面对面交流和口头传播",
+   "anchor": {
+    "start_line": 21349,
+    "end_line": 21349,
+    "fingerprint": [
+     "口头传播",
+     "最有效"
+    ],
+    "book_code": "SG1",
+    "sha1": "5f8439da2e9ff98d3ca2357e8f83c24b725d7906"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "面对面最有效",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "口头交流进化几万年植根于基因，熟人口头传递让人感到可信且有说服力（21365）；结尾重申面对面沟通最有效由基因决定（21405）；PageRank告诉我们决定性意见常来自权威（21347）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0307-01",
+   "unit_id": "SG1-U0307"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "希勒：94%的购股决定来自亲友推荐，面对面口头传递对决策影响最大",
+   "quote": "口头信息传递",
+   "anchor": {
+    "start_line": 21357,
+    "end_line": 21357,
+    "fingerprint": [
+     "希勒",
+     "94%"
+    ],
+    "book_code": "SG1",
+    "sha1": "06b5404181226f3db8ecb4a007a59fbf0773702b"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "口头传播影响决策",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "被转述者=罗伯特·希勒（诺贝尔经济学奖得主）；IBM并购莲花泄密口口相传链：秘书→丈夫→两朋友→各行各业（21351-21355）；传销有效同理、希拉里媒体轰炸敌不过特朗普现场拉票（21359）；黑色星期一每人传7人机构传20人（21361-21363）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0307-02",
+   "unit_id": "SG1-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "原则1：好消息当面通知或电话，报喜邮件只约当面汇报不写细节",
+   "quote": "好消息要当面通知对方",
+   "anchor": {
+    "start_line": 21369,
+    "end_line": 21379,
+    "fingerprint": [
+     "尤斯塔斯",
+     "当面汇报"
+    ],
+    "book_code": "SG1",
+    "sha1": "f5d699d77e33ad763fb94f0a815a49bb53883d15"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "六原则一好消息面谈",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "六原则拆卡之一（原则2-3见C-SG1-U0307-04、原则4-6见C-SG1-U0307-05）；尤斯塔斯给工程师换液晶屏逐个面谈立信誉例（21371-21375）；奖金要当面交到手里（21377）；招博士生/录取/接受Offer都电话口述不用冰冷邮件（21381-21383）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0307-03",
+   "unit_id": "SG1-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "原则2-3：坏消息按责任定；主观事面谈不留底，客观事用邮件存照",
+   "quote": "主观的事情要尽可能面对面沟通",
+   "anchor": {
+    "start_line": 21385,
+    "end_line": 21397,
+    "fingerprint": [
+     "解雇一个下属",
+     "立此存照"
+    ],
+    "book_code": "SG1",
+    "sha1": "32b6a524f7b522ba01e0f51fca35cc5366f36642"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "六原则二三主客分开",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "六原则拆卡之二，续卡 of C-SG1-U0307-03；分手不能微信扔一句话（21385）；主观写邮件两大害处：交互才能说清、留底将来被翻出（21389）；微信更随意、语音最不过脑（21391）；领导许诺提拔写邮件立此存照、与客户谈合作后请对方确认（21395-21397）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0307-04",
+   "unit_id": "SG1-U0307"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "原则4-6：涉法与说坏话不留文字，公私邮箱分开，约谈时间有讲究",
+   "quote": "一定不能有文字记录",
+   "anchor": {
+    "start_line": 21399,
+    "end_line": 21403,
+    "fingerprint": [
+     "公事和私事",
+     "约人说话的时间"
+    ],
+    "book_code": "SG1",
+    "sha1": "0fcd1fd7ba440d2c885c7f51c0ddcbc9d8a83efc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "六原则四五六留痕",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "六原则拆卡之三，续卡 of C-SG1-U0307-04；告状诉委屈也不留记录（21399）；单位邮箱掌握隐私、企业邮箱比个人邮箱安全（21401）；下属约老板晚一点或一早时间、老板饭后约下属显刻薄寡恩（21403）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0307-05",
+   "unit_id": "SG1-U0307"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0307",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2016年美国大选希拉里媒体轰炸敌不过特朗普现场拉票、1987年黑色星期一口头传谣细节（21359-21363），依附具体时点选举与股灾事件的例证叙述；可迁移的沟通方法论已全部入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第295封单位有效沟通：面对面最有效、口头传播影响决策、六原则拆三卡（好消息面谈/主客分开/留痕与约谈）；选举与股灾例X2"
+}

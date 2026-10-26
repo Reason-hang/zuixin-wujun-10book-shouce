@@ -1,0 +1,100 @@
+{
+ "unit_id": "SG1-U0309",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "马尔基尔：股市长期向上短期难测，最好方式是选好指数基金定投",
+   "quote": "选定好的指数基金定投",
+   "anchor": {
+    "start_line": 21537,
+    "end_line": 21537,
+    "fingerprint": [
+     "马尔基尔",
+     "难以预测"
+    ],
+    "book_code": "SG1",
+    "sha1": "8bf4cde5b163944ae8180e258f5b18922384d442"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "指数基金定投",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=马尔基尔（普林斯顿经济学教授，《漫步华尔街》作者）；任何人进入股市前都应读（21537）；四十多年市场表现都成证实理论的案例、再版11次、质疑者基金大多不存在（21539）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0309-01",
+   "unit_id": "SG1-U0309"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "《异类》：成功不靠智商靠万小时努力，还靠运气时机与见识",
+   "quote": "成功靠的不是智商",
+   "anchor": {
+    "start_line": 21581,
+    "end_line": 21583,
+    "fingerprint": [
+     "10000",
+     "运气和时机"
+    ],
+    "book_code": "SG1",
+    "sha1": "2e40c41f8928068c38feef4eb9723180e73cd46a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-1"
+   ],
+   "concept_key": "万小时与运气",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=格拉德威尔（《异类》作者）；尼古拉斯博士（校长）向家长推荐并传递见识对孩子成长的重要性（21581）；自信心如何帮助人成功（21583）；吴军评：作者的推理有理有据值得信赖（21583）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0309-02",
+   "unit_id": "SG1-U0309"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "哈耶克：计划经济必致极权通往奴役；福利社会是乌托邦",
+   "quote": "尊重市场规律的必要性",
+   "anchor": {
+    "start_line": 21545,
+    "end_line": 21545,
+    "fingerprint": [
+     "哈耶克",
+     "乌托邦"
+    ],
+    "book_code": "SG1",
+    "sha1": "3762aca8cf7abcaa280562475c7949485ffeb205"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "计划经济通往奴役",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=哈耶克（奥地利经济学派代表，《通往奴役之路》作者）；从理论上论证尊重市场规律，尊重市场规律的可迁移逻辑留卡；书单载体本体归X1",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0309-03",
+   "unit_id": "SG1-U0309"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0309",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "给大学生的书单（下）为书单推荐载体：经济3种（国富论/漫步华尔街/通往奴役之路）、科普4种（自私的基因/人类基因史/数学之美/生命是什么）、思维3种（异类/人性的弱点优点/宽容）及围城/洗澡/百年孤独补遗的书目介绍与内容赏析（21523-21611），推荐类载体非论点内容；仅三本书的核心转述判断入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第297封大学生书单下：书单载体归X1，仅抽三条书内核心转述判断（马尔基尔指数基金定投、异类万小时与运气、哈耶克通往奴役）"
+}

@@ -1,0 +1,133 @@
+{
+ "unit_id": "SG1-U0304",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李瑞江：医学瓶颈是把人类平均特征当成个体情况，忽视个体差异",
+   "quote": "忽视了个体之间巨大的差异",
+   "anchor": {
+    "start_line": 21133,
+    "end_line": 21133,
+    "fingerprint": [
+     "平均特征",
+     "个体之间巨大的差异"
+    ],
+    "book_code": "SG1",
+    "sha1": "8f4343c5b85006a18fc2ab811cf579a4ca57a840"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "平均值掩盖个体差异",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李瑞江（斯坦福医学院助理教授，精通医学与AI，21101）；癌症筛查万人十年周期仅约10人真受益、非筛查无用而是技术落后（21115-21127）；美国年1200万误诊、医疗事故列第三死因（21129-21131）；趋势展望本体归X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0304-01",
+   "unit_id": "SG1-U0304"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李瑞江：双盲试验60%疗效可能只对20%的人有用，平均掩盖差异",
+   "quote": "拔高了整个实验的结果",
+   "anchor": {
+    "start_line": 21135,
+    "end_line": 21139,
+    "fingerprint": [
+     "双盲试验",
+     "没有什么效果"
+    ],
+    "book_code": "SG1",
+    "sha1": "489a597772f0bbd20e9cd3150ea7401b3db7903f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "双盲试验的平均陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李瑞江；不能怪医生乱开药，他们也不知道对谁灵（21141）；十大处方药75%~95%用药者没什么效果（21139）；抗生素约一半情况不必要，给1万人用药才救了该用药的5000人（21143）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0304-02",
+   "unit_id": "SG1-U0304"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李瑞江：个性化治疗是唯一出路，需对内外两个层面做跟踪",
+   "quote": "个性化治疗是唯一的出路",
+   "anchor": {
+    "start_line": 21145,
+    "end_line": 21147,
+    "fingerprint": [
+     "跟踪",
+     "脑电波"
+    ],
+    "book_code": "SG1",
+    "sha1": "65bba88d223ef63bb5deaa93ba41830d58767652"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "个性化须先有跟踪",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李瑞江；外部跟踪=时刻记录体征，内部跟踪=基因与新陈代谢（21147-21153）；飞机发动机5000传感器日录1.2TB而人尚无此记录（吴子宁语，21149）；无跟踪仍用平均值治疗则再努力疗效也不好（21155）；趋势预测本体归X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0304-03",
+   "unit_id": "SG1-U0304"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "医生无奈非水平不高，是掌握的自身信息不足以找到最好疗法",
+   "quote": "不足以找到最好的治疗方法",
+   "anchor": {
+    "start_line": 21161,
+    "end_line": 21163,
+    "fingerprint": [
+     "无奈",
+     "宽容"
+    ],
+    "book_code": "SG1",
+    "sha1": "e36070d80a3add3881276e9bef939e5788c3622c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-2"
+   ],
+   "concept_key": "信息不足致医者无奈",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人类的认知经历曲折过程（21161）；应对医生多一分宽容（21163）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0304-04",
+   "unit_id": "SG1-U0304"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0304",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "医学史叙述：哈维血液循环论开创近代医学、阿司匹林与青霉素、双盲试验史、听诊器/血压计/心电图年代考（21107-21112, 21151），科学史科普；方法论判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0304",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "个性化医疗趋势展望：第四次工业革命对比、可穿戴设备与智能床垫普及愿景、Google/斯坦福万人与NIH百万人跟踪计划、'没到医院病因就找到'的前瞻预测（21103, 21151-21159），科技趋势预测本体；可迁移方法论（平均值陷阱与跟踪）已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第292封个性化医疗：平均值掩盖个体差异、双盲试验平均陷阱、个性化须先跟踪、医者无奈因信息不足；医学史X4、医疗趋势展望X6"
+}

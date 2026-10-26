@@ -1,0 +1,155 @@
+{
+ "unit_id": "SG1-U0308",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奢侈品定价七因素：材料/加工/运营/代言广告/库存销毁/价格预期/关税",
+   "quote": "库存和销毁成本",
+   "anchor": {
+    "start_line": 21493,
+    "end_line": 21497,
+    "fingerprint": [
+     "材料成本",
+     "关税",
+     "消费者对价格的预期"
+    ],
+    "book_code": "SG1",
+    "sha1": "9b2015c0302bc039d3ffa2d97bcda2d02cb0587c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "奢侈品定价七因素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "固定成本约零售价20%-25%，含材料/人工/工厂运营三细项（21429-21433）；欧意制造则成本升2/3、制造占售价30%-40%时几乎无法盈利（21449）；正牌不可能低价出售（21451）；LV持续提价制造'不买就亏'、比十年前涨近一倍（21487-21489）；中国关税高致比美国香港贵30%比法意贵40%（21491）；卖家总比买家精（21497）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0308-01",
+   "unit_id": "SG1-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MK中档卡位+名人代言利用占便宜心理，代言费转成消费者隐性成本",
+   "quote": "喜欢占便宜的心理",
+   "anchor": {
+    "start_line": 21457,
+    "end_line": 21463,
+    "fingerprint": [
+     "MK",
+     "隐性成本"
+    ],
+    "book_code": "SG1",
+    "sha1": "b4f31d838a1d70a0a3c96ca9acb8d75316355f2e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "占便宜心理定价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "中档品牌与奢侈品之间的尴尬价位原本少有人讨（21457）；朱莉/洛佩兹/伊万卡与两位第一夫人代言、高圆圆杨幂进中国（21459-21461）；中产以几分之一价钱买到'奢侈品'觉得赚到（21461-21463）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0308-02",
+   "unit_id": "SG1-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不降价销毁过季货与降价长库存，成本都转嫁给购买者；功能与保值难两全",
+   "quote": "转嫁到了被出售的商品头上",
+   "anchor": {
+    "start_line": 21465,
+    "end_line": 21471,
+    "fingerprint": [
+     "从来不降价",
+     "贬值"
+    ],
+    "book_code": "SG1",
+    "sha1": "a92f410f65eb13680b1b9a77f9d64028f7a6eb0f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "不降价与库存成本转嫁",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "法国一线不降价→价格高、策略简单，过季销毁（21467）；意大利品牌给长销售期、库存一年后奥特莱斯降价（21469）；夸手袋保值实为销毁/库存商品买单（21469）；功能上折扣价合算但二手贬值快，法系稀缺二手可比一手贵、iPhone同例（21471）；看中功能/保值/炫耀自选（21473）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0308-03",
+   "unit_id": "SG1-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "厂家人为制造稀缺维护价格：品牌被一两家集团控制后获得定价权",
+   "quote": "人为地制造出的稀缺性",
+   "anchor": {
+    "start_line": 21475,
+    "end_line": 21477,
+    "fingerprint": [
+     "不增产",
+     "定价权"
+    ],
+    "book_code": "SG1",
+    "sha1": "cb293cb246e9eef029a919ae45b507c99e2833b5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "人为稀缺与定价权",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "大部分奢侈品其实很容易增产但为维护价格不增产（21475）；过去独立运营还可能增产降价，被路威酩轩/古驰/瑞士钟表集团控制后禁止（21475-21477）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0308-04",
+   "unit_id": "SG1-U0308"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奥特莱斯淘到的是相对劣质商品；商业上买的总没有卖的精",
+   "quote": "买的总是没有卖的精",
+   "anchor": {
+    "start_line": 21485,
+    "end_line": 21485,
+    "fingerprint": [
+     "奥特莱斯",
+     "相对劣质的商品"
+    ],
+    "book_code": "SG1",
+    "sha1": "7757b3436cc5b08e47ffd052d8cec0431d278d18"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D09-2"
+   ],
+   "concept_key": "奥特莱斯陷阱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "香水出厂约5欧零售20-30欧、广告代言成本高于香水本身（21481）；过期香水回收销毁成本四五欧以上，故过期前送奥特莱斯或销毁维持高价（21483-21485）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0308-05",
+   "unit_id": "SG1-U0308"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0308",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "奢侈品成本结构与品牌案例细节：LV包成本拆解、鳄鱼皮三种来源与鳞片外观差异、沃特福德水晶与拉尔夫·劳伦产地定价、型号区隔奥特莱斯、香水贴牌产业链与王晓峰履历（21431-21449, 21479），行业案例叙述；定价机理判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第296封奢侈品定价：七因素清单、占便宜心理、不降价与库存转嫁、人为稀缺与定价权、奥特莱斯陷阱；成本案例细节X4"
+}

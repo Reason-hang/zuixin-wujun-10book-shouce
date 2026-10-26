@@ -1,0 +1,211 @@
+{
+ "unit_id": "SG1-U0299",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平均主义尝试失败源于慷他人之慨：道德再高尚也不该损害他人利益实现理想",
+   "quote": "以损害别人的利益",
+   "anchor": {
+    "start_line": 20597,
+    "end_line": 20597,
+    "fingerprint": [
+     "慷他人之慨",
+     "平均主义"
+    ],
+    "book_code": "SG1",
+    "sha1": "9cf1b9312c8919864fb5e55f599fc4b62b4c4df8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "理想不能慷他人之慨",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "苏联努力/中国计划经济/欧元区平均主义例（20597）；'王莽早生2000年放到今天能否成功'之辩持否定（20595）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-01",
+   "unit_id": "SG1-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "空谈平等者只动嘴皮，有权力慷他人之慨者付诸行动危害才大",
+   "quote": "有权力慷他人之慨",
+   "anchor": {
+    "start_line": 20605,
+    "end_line": 20607,
+    "fingerprint": [
+     "付诸行动",
+     "危害就大"
+    ],
+    "book_code": "SG1",
+    "sha1": "1fd76d2ea8cd5678be43b6065f548e046ce57639"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "权力放大理想之害",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "教授呼吁发基本工资却私下兜售避税妙方（20601）；扎克伯格等只能动嘴皮引起争议（20607）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-02",
+   "unit_id": "SG1-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真慈善如圣方济各：不站道德制高点、不慷他人之慨，用自己努力让世界更好",
+   "quote": "用自己的努力让世界变得更好",
+   "anchor": {
+    "start_line": 20639,
+    "end_line": 20639,
+    "fingerprint": [
+     "圣方济各",
+     "道德制高点"
+    ],
+    "book_code": "SG1",
+    "sha1": "99d94af1010f01eed9f6e9382a2af31c0c3829cc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "圣方济各行善范式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "方济各从不站道德制高点、不慷他人之慨、不自任判官（20627）；特蕾莎修女花钱出自本心故不算慷他人之慨（20609-20611）；信条三句：给予/原谅/死于旧我（20633-20637）；生平史实归X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-03",
+   "unit_id": "SG1-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "行善要选择方式并看到结果，不做撒胡椒面式的无效甚至负面帮助",
+   "quote": "撒胡椒面之后毫无效果",
+   "anchor": {
+    "start_line": 20641,
+    "end_line": 20641,
+    "fingerprint": [
+     "帮助他人",
+     "负面效果"
+    ],
+    "book_code": "SG1",
+    "sha1": "45a7a49b8712f1c94948c2f73008d871f944f2a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "行善须见结果",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "圣方济各行为带动吴军选择帮助方式并看到结果（20641）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-04",
+   "unit_id": "SG1-U0299"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "薛兆丰《商业是最大的慈善》：联合国救助非洲低效率；罗振宇：粮食救济毁掉当地农业",
+   "quote": "商业是最大的慈善",
+   "anchor": {
+    "start_line": 20645,
+    "end_line": 20645,
+    "fingerprint": [
+     "薛兆丰",
+     "粮食救济"
+    ],
+    "book_code": "SG1",
+    "sha1": "e56b3871d6bcc56d6b13d6d57d7c41799d6f668c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商业是最大的慈善",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=薛兆丰（专栏文章《商业是最大的慈善》）、罗振宇（《罗辑思维》节目）；吴军引此例说明好心办坏事普遍（20645）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-05",
+   "unit_id": "SG1-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过高福利造成不公平、鼓励懒惰：Google尚且关停精品餐厅，社会高福利毁国家",
+   "quote": "鼓励懒惰",
+   "anchor": {
+    "start_line": 20649,
+    "end_line": 20655,
+    "fingerprint": [
+     "日本料理餐厅",
+     "不公平",
+     "国家和社会毁掉"
+    ],
+    "book_code": "SG1",
+    "sha1": "6edf9088e87d332b31fb53aa482fbf0332130d92"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "过高福利毁组织",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "努力工作者排不上队、混事者白享寿司例（20651-20653）；Google员工素质极高尚且如此，推及全社会（20655）；人类本性千年不变（20649）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-06",
+   "unit_id": "SG1-U0299"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区别真理想商人与理想圈钱者：可以有自己的理想，但不要浪费我的钱",
+   "quote": "不要浪费我的钱",
+   "anchor": {
+    "start_line": 20657,
+    "end_line": 20657,
+    "fingerprint": [
+     "庞氏骗局",
+     "圈钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "b3175947fee6c7bcc7b40a6b47b110fd33ed6576"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "理想不花我的钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "以理想情怀忽悠者让人连庞氏骗局都看不出还替骗子辩护（20657）；'没有救世主，一切靠自己'结语（20659）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0299-07",
+   "unit_id": "SG1-U0299"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0299",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "圣方济各生平史实叙述：富二代出身、被俘获病、教堂悟道、助麻风病人转折、建痳风病院、兄弟会起源、生态环保始祖与世界动物日、封圣及2013年教皇方济各取名经过（20613-20631），人物史科普；其行善范式与吴军评述已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第287封对话王莽2：慷他人之慨之辨、圣方济各行善范式、行善须见结果、过高福利毁组织、识别理想圈钱者；圣方济各生平史实X4"
+}

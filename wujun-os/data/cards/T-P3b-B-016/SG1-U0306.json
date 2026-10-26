@@ -1,0 +1,185 @@
+{
+ "unit_id": "SG1-U0306",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇与布林：用指向网页的超链接数量与文字对网页作加权表决排序",
+   "quote": "重要性打一个分数",
+   "anchor": {
+    "start_line": 21279,
+    "end_line": 21287,
+    "fingerprint": [
+     "超链接",
+     "权重"
+    ],
+    "book_code": "SG1",
+    "sha1": "f1cd2d12fbd1966fee92ccefa759d51daffae7e7"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "网页排名加权表决",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=佩奇、布林（PageRank创始人）；一人一票不公平，须按影响力加权如脱不花0.3例（21281-21283）；同分冒充难、小权重累加不过大咖（21285）；大咖乱投票自身权重逐渐下降（21287）；布林解决权重计算、佩奇写程序（21289）；信息论解释见《数学之美》、解释传媒影响力来源使二人成美国工程院院士（21293）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0306-01",
+   "unit_id": "SG1-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大媒体值得信非因官方或自称公正，而是长期大众投票给的信任度",
+   "quote": "很高的信任度",
+   "anchor": {
+    "start_line": 21295,
+    "end_line": 21295,
+    "fingerprint": [
+     "订阅数量",
+     "转载数量"
+    ],
+    "book_code": "SG1",
+    "sha1": "96514032dc05980c37fbd72c4851deb1a47966ed"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "影响力来自投票",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "订阅数量与转载数量即大众投票，它们是大咖、支持它们的也是大咖（21295）；读者多但皆吃瓜群众则影响力不大，故事会例；白宫声音未必有人信、水门事件（21297）；媒体长期不中立公正则影响力下降，纽约时报例；公款订阅报纸基本没影响力（21299）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0306-02",
+   "unit_id": "SG1-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想让意见被重视：找单位里有人望的人背书，而非简单找一大堆人",
+   "quote": "找在单位里有人望的人",
+   "anchor": {
+    "start_line": 21301,
+    "end_line": 21305,
+    "fingerprint": [
+     "赫胥黎",
+     "大咖"
+    ],
+    "book_code": "SG1",
+    "sha1": "c85314b9a76342ce4c2cbdaa227f080ccb15877f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-3"
+   ],
+   "concept_key": "大咖背书",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "赫胥黎扮演给达尔文打分的大咖、道金斯亦背书（21301）；哥白尼日心说几乎无人打分、布鲁诺自身分数太低甚至负分、伽利略背书才受重视（21303-21305）；阿希实验加入高判断力同党更能影响他人（21307）；马化腾任正非就餐吸纳犹豫者例（21309）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0306-03",
+   "unit_id": "SG1-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单位好人缘是让最有影响力与信誉的人给你高度评价，精力别撒全民",
+   "quote": "最有影响力，以及最有信誉的人",
+   "anchor": {
+    "start_line": 21313,
+    "end_line": 21313,
+    "fingerprint": [
+     "人缘",
+     "李笑来"
+    ],
+    "book_code": "SG1",
+    "sha1": "dee9f59c1a0271b3f79488f0e368805b84147ae8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "人缘即大咖评分",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "人的精力有限做不到对所有人好；注意力分散是最大的浪费（李笑来语，转述）；影响力和信誉未必与职位有关（21313）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0306-04",
+   "unit_id": "SG1-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成为公认有影响力、客观公正者，你的一票才起作用；勿损长期信誉",
+   "quote": "提高自己在单位里意见的重要性",
+   "anchor": {
+    "start_line": 21315,
+    "end_line": 21317,
+    "fingerprint": [
+     "客观公正",
+     "长期信誉"
+    ],
+    "book_code": "SG1",
+    "sha1": "3ebc4cacf7820bcfe59963fc23c3d796608db1d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "自身权重经营",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "你给谁投票这一票都起作用，别人才会来找你拉票、将来通常回报你（21315）；需较长时间努力、有损长期信誉的事一定不要做（21317）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0306-05",
+   "unit_id": "SG1-U0306"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成为领导倚重的关键人物：公认有主见、看法被证实，不永远yes/no",
+   "quote": "以前的看法得到证实",
+   "anchor": {
+    "start_line": 21319,
+    "end_line": 21321,
+    "fingerprint": [
+     "关键人物",
+     "少说话"
+    ],
+    "book_code": "SG1",
+    "sha1": "af89925fb8f856241a277ca7f0b38fbea5d1a18e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "关键人物养成",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "notes": "领导推进事情要靠关键人物支持、决策听几个特定人意见（21319）；永远yes无存在必要、永远no则领导不再征求意见（21319）；少说话多观察同事上下级做事得失、专业知识必须（21321）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0306-06",
+   "unit_id": "SG1-U0306"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0306",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "Google创立与PageRank沿革史实：1997年研究生创业氛围、官网仅70%居搜索首位、斯坦福校园网站即Google前身、二人因排名算法成美国工程院院士（21273-21293），技术史叙述；算法思想与传播应用判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第294封网页排名与传播：加权表决、影响力来自投票、大咖背书、人缘即大咖评分、自身权重经营、关键人物养成；Google创业史X4"
+}

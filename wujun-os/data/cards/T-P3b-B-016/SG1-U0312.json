@@ -1,0 +1,154 @@
+{
+ "unit_id": "SG1-U0312",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1P",
+ "batch_id": "T-P3b-B-016",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "大企业坐拥资源错失机会，因用现有规矩把自己锁死",
+   "quote": "自己用现有的规矩将自己锁死了",
+   "anchor": {
+    "start_line": 21829,
+    "end_line": 21829,
+    "fingerprint": [
+     "错失了很多机会",
+     "会计的规矩"
+    ],
+    "book_code": "SG1",
+    "sha1": "cd372a2a66f762229d471cbfe5bb243a187e1931"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "规矩锁死大企业",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "粮库因会计规矩把养狗小事变得非常复杂（21829）；狗的会计问题寓言全篇归X8；先有的大公司做不成事之问（21799）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0312-01",
+   "unit_id": "SG1-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "个体户不受规矩约束以低成本高效率做事，蚂蚁胜大象一因",
+   "quote": "非常低的成本干了很有效率的事情",
+   "anchor": {
+    "start_line": 21831,
+    "end_line": 21831,
+    "fingerprint": [
+     "个体户",
+     "小蚂蚁"
+    ],
+    "book_code": "SG1",
+    "sha1": "f8f7885d827bd990fb79a33dc42ee655c87734d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "无规矩束缚之利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "老王不需要遵守财务制度、采用经济上对自己最有利的做法（21827-21831）；呼应第12、13封蚂蚁战胜大象（推荐阅读21853-21855）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0312-02",
+   "unit_id": "SG1-U0312"
+  },
+  {
+   "speaker": "史实",
+   "claim_text": "Google视频恪守规则年余仅几百万用户，YouTube圈用户上亿",
+   "quote": "16.5 亿美元",
+   "anchor": {
+    "start_line": 21833,
+    "end_line": 21837,
+    "fingerprint": [
+     "YouTube",
+     "版权合作"
+    ],
+    "book_code": "SG1",
+    "sha1": "c5e7db218af834e47432349aa6d3c6e42f5138b5"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "守规者败于破规者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "雅虎Google先与影视公司NBA谈版权合作、回顾NBA要9.99美元、用户线性增长推广一结束活跃用户下跌（21833-21835）；YouTube不顾现有规矩全球用户超1亿、Google花16.5亿美元收购（21837）；Google事后花大工夫规范化YouTube，雅虎微软退出视频市场（21839）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0312-03",
+   "unit_id": "SG1-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最早做网约车者因守规矩与不断协调而掉队，守规成失败原因",
+   "quote": "这恰恰是这家公司失败的原因",
+   "anchor": {
+    "start_line": 21841,
+    "end_line": 21843,
+    "fingerprint": [
+     "守规矩",
+     "优步"
+    ],
+    "book_code": "SG1",
+    "sha1": "8a1589099b41998c4952c9a9a848d395802353cf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "守规先行者掉队",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国内最早做网约车者从第二到第四、连神州租车都超越它（21841）；一开始就花大精力与有关部门沟通协调、创始人至今委屈（21843）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0312-04",
+   "unit_id": "SG1-U0312"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "规矩为做成事服务，规矩挡事则改规矩；做事不受约束不忘初心",
+   "quote": "需要修改的是规矩",
+   "anchor": {
+    "start_line": 21845,
+    "end_line": 21849,
+    "fingerprint": [
+     "财务制度",
+     "不忘初心"
+    ],
+    "book_code": "SG1",
+    "sha1": "8f91fcbea99ac01426a502c40f6e8e19464bce9b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D08-1"
+   ],
+   "concept_key": "规矩挡事则改规矩",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "养狗有合理性就应为它制定财务制度而非拒绝好方法（21845）；中国网约车规矩改变例；美国无明文规定但优步爱彼迎只争朝夕做起来、今后必遇法律挑战但要有能解决的信念（21847）；不是让你做规矩破坏者，而是做事不受规矩约束、不忘初心（21849）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0312-05",
+   "unit_id": "SG1-U0312"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0312",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "狗的会计问题寓言故事全篇叙述（21801-21827：藏獒计固定资产还是低值易耗品之争、奶粉入福利费还是招待费、咬人赔偿5000元、上户口1万元、小狗作国有孳息入账、病狗医药费成固定资产损失、最终改雇三保安），示例性寓言非史实、细节无可独立迁移判断，故不归X4；故事承载的'规矩锁死'机理已抽为K卡，X8从严使用并逐条说明"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第300封狗的会计问题：规矩锁死大企业、无规矩束缚之利、守规者败于破规者、守规先行者掉队、规矩挡事则改规矩；寓言故事X8"
+}
