@@ -2,7 +2,9 @@
 
 ## 触发条件（须同时满足）
 
-1. `logs/p4_step11_user_spotcheck_20.csv` 已填 `user_verdict`（或用户聊天授权「采纳提议稿」并已复制到该文件）。
+1. 用户聊天授权「采纳提议稿」后执行：  
+   `python3 scripts/p4_apply_step11_proposed.py --i-authorized`  
+   （将 `p4_step11_proposed_user_verdicts.csv` 复制为正式抽查表。）
 2. 用户已回复 **「确认骨架」**（步 13）；在 `logs/p4_step13_dictionary_change_report_20261026.md` 顶部追加一行：`user_confirmed_skeleton: yes @ <ISO时间>`。
 
 ## 命令（cwd = `wujun-os/wujun-os`）
