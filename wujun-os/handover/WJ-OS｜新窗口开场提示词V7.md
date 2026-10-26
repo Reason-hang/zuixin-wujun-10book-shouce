@@ -1,7 +1,7 @@
-# 新窗口开场提示词 V7-R4
+# 新窗口开场提示词 V7（定稿）
 
-> **版本**：V7-R4（2026-10-26）｜与 `handover/WJ-OS｜单Agent接手·P5-P7收口期｜项目交接文档V7.md` **§12 逐字同步**  
-> **用法**：从下方 `--- 开场提示词开始 ---` 到 `--- 开场提示词结束 ---` **整段复制**为新窗口第一条消息（含 `/goal` 行）。
+> **权威**：冷启动步骤以交接文档 **`handover/WJ-OS｜单Agent接手·P5-P7收口期｜项目交接文档V7.md` §4** 为准（恢复→核对→阅读→抽查→测验→闸门→复述）。  
+> **用法**：从 `--- 开场提示词开始 ---` 到 `--- 开场提示词结束 ---` **整段复制**为新窗口第一条消息（含 `/goal` 行）。
 
 --- 开场提示词开始 ---
 
@@ -32,27 +32,27 @@
 
 你是 WJ-OS 的**单 Cursor 主 Agent 接手**（双机双主 Agent 已收口；抽取与 GATE-D 已完成）。目标：按 v2 **§15.5.5–§15.5.8** 完成 **P5→P6→P7**，直至 Gate 可审计过关；**当前整体 V6 用户方案尚未完成**，不得宣称 M4 终局交付。
 
-## 第一步（冷启动恢复 A–J，缺一不开工；全文表见 V7 §4）
+## 第一步（七步：恢复→核对→阅读→抽查→测验→闸门→复述；详表 V7 §4 A–J）
 
 **禁止**凭对话摘要或压缩记忆开工；以仓库与命令输出为准。
 
-**A** `cd` 到上述路径 → `git pull --ff-only origin main`（含 V7-R4 及之后）。
+**A 恢复** `cd` 到上述路径 → `git pull --ff-only origin main`。
 
-**B 环境 / 哈希**（二选一，fail 即停）：  
+**B 核对·环境 / 哈希**（二选一，fail 即停）：  
 - **B1 常规**（本机已有 `src_frozen/`）：`make verify-pack`  
 - **B2 全量冷启动**（换机/无原文）：`cp <10本书zip> ./_打包吴军10本电子书.zip` → **`make restore-check`**（V1/V4 全链）
 
-**C 状态快照**：`make v6-roll-forward`（读 `logs/v6_roll_forward_check_latest.md`）；`make status`（**勿**单独信冻结的 `state/state.json`，实况以 gate_matrix / workboard / `journal_sg1` 尾行为准）。
+**C 核对·状态快照**：`make v6-roll-forward`（读 `logs/v6_roll_forward_check_latest.md`）；`make status`（**勿**单独信冻结的 `state/state.json`，实况以 gate_matrix / workboard / `journal_sg1` 尾行为准）。
 
-**D 权威阅读**（通读 V7 §0–§12，含 §1.5 执行形态）→ `spec/constraints.md` → `state/STATE.md` + `p5/p6_workboard` → `journal_sg1.md` 末 10 行 → `README.md`、`AGENTS.md`、一页状态 + gate_matrix + `p6_user_signoff_checklist`。V6/V5 双机档**仅考古**。
+**D 阅读**（通读 V7 §0–§11，含 §1.5、§4）→ `spec/constraints.md` → `state/STATE.md` + `p5/p6_workboard` → `journal_sg1.md` 末 10 行 → `README.md`、`AGENTS.md`、一页状态 + gate_matrix + `p6_user_signoff_checklist`。V6/V5 双机档**仅考古**。
 
-**E 信任校准**：从 `state/p4_freeze.json` 任选 **2 张** K 卡，对照 `src_frozen/` 复核锚点 + SHA1（不改卡、不重抽）。
+**E 抽查·信任校准**：从 `state/p4_freeze.json` 任选 **2 张** K 卡，对照 `src_frozen/` 复核锚点 + SHA1（不改卡、不重抽）。
 
-**F 复水测验**：自答 V7 **§10 十题全对**才可改 tracked；首条回复附自答摘要；可选 `spec/quiz.md` 12 题 ≥11。
+**F 测验·复水**：自答 V7 **§10 十题全对**才可改 tracked；首条回复附自答摘要；可选 `spec/quiz.md` 12 题 ≥11。
 
-**G 工程闸门**：`make pack`（若有未打包改动）→ **`make v6-engineering`**（必须 exit 0）。
+**G 闸门·工程**：`make pack`（若有未打包改动）→ **`make v6-engineering`**（必须 exit 0）。
 
-**H 复述待命**：报告唯一主 Agent、§10 全对、阶段/阻塞/签收路径、工程命令证据；**等用户「开始」或授权**再 apply 签收 / 改正式表。
+**H 复述·待命**：报告唯一主 Agent、§10 全对、阶段/阻塞/签收路径、工程命令证据；**等用户「开始」或授权**再 apply 签收 / 改正式表。
 
 （**I/J** 授权后分支与红线见 V7 §4、下文「开工序列」。）
 
