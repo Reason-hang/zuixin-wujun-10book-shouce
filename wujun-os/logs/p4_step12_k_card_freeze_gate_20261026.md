@@ -16,7 +16,7 @@
 
 ## 冻结动作（待步 11+13 后执行）
 
-1. 生成 `state/p4_k_card_freeze_manifest.sha256`（`data/cards/**` 全量哈希）。
+1. 运行 `python3 scripts/s17_k_card_freeze_manifest.py` → `state/p4_k_card_freeze_manifest.sha256` + `state/p4_freeze.json`。
 2. 在 `state/state_sg1.json` 或专用 `state/p4_freeze.json` 写入：`frozen_at`、`card_count`、`manifest_path`。
 3. CI/本地：`make verify-cards` 对比 manifest，变更需走 CHG 流程。
 
