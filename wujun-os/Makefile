@@ -8,6 +8,13 @@ restore-check: verify-pack freeze probe test status
 # GATE 骨架（T-00-04）：聚合全部确定性闸门，任一失败非零退出；lint（S17）随 P5 实现
 gates: verify-pack probe p0
 
+# P6 可复算子集（非全量 G0–G10）
+p6-subset:
+	$(PY) scripts/s15_check_all.py
+
+render-check:
+	$(PY) scripts/s18_render_check.py
+
 freeze:
 	$(PY) scripts/s00_freeze.py --zip "$(ZIP)" --out src_frozen --log logs/g0_inputs.md
 
@@ -22,6 +29,96 @@ status:
 
 verify-pack:
 	$(PY) scripts/verify_pack.py
+
+export-anchors:
+	$(PY) scripts/s12_export_anchor_ledger.py
+
+d3-export:
+	$(PY) scripts/s12_export_anchor_ledger.py
+	$(PY) scripts/s12_export_unit_disposal.py
+	$(PY) scripts/s12_export_k_claim_table.py
+	$(PY) scripts/s12_export_x_exclusion.py
+
+p6-spotcheck-v20:
+	$(PY) scripts/s12_export_p6_spotcheck_v20.py
+
+g-logs-index:
+	$(PY) scripts/s15_g_logs_index.py
+
+fact-source:
+	$(PY) scripts/s12_export_p7_fact_source.py
+
+p6-matrix:
+	$(PY) scripts/s16_p6_coverage_matrix.py
+
+ac36-sample:
+	$(PY) scripts/s13_ac36_sample_recall.py
+
+ac36-anchor-ping:
+	$(PY) scripts/s13_ac36_anchor_ping.py
+
+ac36-semantic-heuristic:
+	$(PY) scripts/s13_ac36_semantic_heuristic.py
+
+ac36-agent-draft:
+	$(PY) scripts/s13_ac36_agent_draft_column.py
+
+ac36-low-ngram-pack:
+	$(PY) scripts/s13_ac36_low_ngram_pack.py && $(PY) scripts/s13_ac36_fill_agent_verdicts.py
+
+g10-blind-agent-draft:
+	$(PY) scripts/s13_g10_blind_agent_draft.py
+
+p6-spotcheck-agent:
+	$(PY) scripts/s13_p6_spotcheck_agent_draft.py
+
+d4-snapshot:
+	$(PY) scripts/s15_export_d4_snapshot.py
+
+g9-subset:
+	$(PY) scripts/s12_g9_subset_check.py
+
+p6-adversarial-preflight:
+	$(PY) scripts/s17_p6_adversarial_preflight.py
+
+p6-user-prep:
+	$(MAKE) ac36-agent-draft ac36-low-ngram-pack g10-blind-agent-draft p6-spotcheck-agent p6-adversarial-preflight
+
+user-signoff-apply:
+	$(PY) scripts/s13_user_signoff_apply.py
+
+user-signoff-dry-run:
+	$(PY) scripts/s13_user_signoff_apply.py --dry-run --accept-text "$$(cat logs/user_signoff_example.txt)"
+
+p6-step-status:
+	$(PY) scripts/s17_p6_step_status.py
+
+v6-audit:
+	$(PY) scripts/s17_v6_completion_audit.py
+
+p7-preflight:
+	$(PY) scripts/s18_p7_preflight.py
+
+v6-engineering:
+	$(MAKE) test p6-subset p6-adversarial-preflight p7-preflight p6-step-status
+
+v6-roll-forward:
+	$(PY) scripts/s17_v6_roll_forward_check.py
+
+math-mapping-audit:
+	$(PY) scripts/s17_math_mapping_audit.py
+
+g10-blind-sample:
+	$(PY) scripts/s13_g10_blind_unit_sample.py
+
+p6-prep-artifacts:
+	$(MAKE) p6-matrix ac36-sample g10-blind-sample p6-spotcheck-v20 g-logs-index fact-source
+
+d07-comm-index:
+	$(PY) scripts/s17_d07_comm_cluster_index.py
+
+p6-scene-drill:
+	$(PY) scripts/s17_p6_scene_drill_index.py
 
 verify-anchors:
 	$(PY) scripts/anchor_tool.py verify --ledger "ledger/溯源与处置台账.md" --books-dir src_frozen

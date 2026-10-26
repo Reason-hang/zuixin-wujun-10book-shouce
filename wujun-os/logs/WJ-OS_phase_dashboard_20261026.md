@@ -1,32 +1,31 @@
-# WJ-OS 阶段看板（2026-10-26 · HEAD 见 `git log -1`）
+# WJ-OS 阶段看板（2026-10-26 · P4–P7 续作）
 
 ## 已完成（有证据）
 
 | 里程碑 | 证据 |
 |--------|------|
-| SG1 B-017~020 + 书验收 | `journal_sg1` JS1-021~025；`模糊点_SG1` |
-| GATE-D | 9019 卡；`logs/gate_d_summary_20261026.md` |
-| P4 封板 | 步 11–13 + 冻结 **1705** 卡；`p4_step12_freeze_summary_20261026.md` |
-| P4 步 10 κ | 120 张 κ=0.683；`s16_kappa.py` |
-| P5 十章片段 | ~**24** 核心卡 + **5** 工具；`00_使用说明与全景.md` v0.3 |
-| 场景入口 | **41** 条 `场景入口_汇总.md` |
-| 能力速查 | 思/做/沟 v0.2；学仍占位 |
+| SG1 B-017~020 + 书验收 + GATE-D | `journal_sg1` JS1-021~025；9019 卡 0 FAIL |
+| P4 K 卡冻结 | `state/p4_freeze.json`；1705 文件 |
+| P5 脚本 AC（除 M3） | `logs/p5_acceptance_gap_20261026.md`；`s15_check_all` 子集 |
+| P6 预备 | 十书 coverage；G10①/③；D3 `make d3-export`；S18 `make render-check`；`make g-logs-index`；抽查 20 张草稿 |
 
-## 须你回复（可边答边推进）
-
-见 **`logs/user_open_questions_20261026.md`**（M3 三问 / V5 五项 / P4-U1 / ★2）。
-
-## 进行中 / 待办
+## 硬阻塞（须你）
 
 | 项 | 动作 |
 |----|------|
-| P5 过关 | M3 试用、主手册合并、112 必检议题、三柱篇幅、工具 12–18 |
-| P6 | S15 G0–G10（`logs/p6_entry_criteria_20261026.md` 前置已满足冻结项） |
-| P7 | D1–D6 打包（`state/p7_workboard.md`） |
-| 风险跟进 | Step3 余近义对、V5 open_items、步11 unsure 摄影卡 → P6 抽检 |
+| **M3 步 11** | 填 `logs/m3_trial_feedback_20261026.md` → 聊天发「M3-桌面补：…」 |
+| ★2 / P4-U1 等 | `logs/user_open_questions_20261026.md` |
 
-## 建议下一工作包（P4 封板后）
+## 进行中
 
-1. 重点三柱加厚至 v0 L3 预算（D06 已 4 卡，D01/D02 各补 3–5 卡）
-2. D2 工具补至 8–12 个
-3. 启动 P6 步 1：`s15_check_all.py`（若仓库已有）
+| 项 | 说明 |
+|----|------|
+| P5 PASS | 仅差 M3 |
+| P6 全量 | G0–G9 **重跑**见 runbook；G10③ **无承接表 ~66%**（含承接表 strict 100% 见双口径报告）；G10② 盲抽未做 |
+| P7 | `state/p7_workboard.md` 待 P6 |
+
+## 一键自检
+
+```bash
+cd wujun-os && make test && make p6-subset && make g-logs-index && make fact-source
+```

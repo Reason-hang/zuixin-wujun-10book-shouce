@@ -122,7 +122,8 @@ def main():
         g.append(f'\n### {code} {lvl[code]}（{len(us)} 单元）\n\n| unit_id | 类型 | 汉字 | 标题 |\n|---|---|---|---|\n')
         for i, u in enumerate(us, 1):
             n = s01_probe.cjk(u['text'])
-            g.append(f'| {code}-U{i:04d} | {u["cls"]} | {n:,} | {u["title"][:60]} |\n')
+            title = u["title"][:60].replace("|", "｜")
+            g.append(f'| {code}-U{i:04d} | {u["cls"]} | {n:,} | {title} |\n')
     g.append('\n---\n'
              f'对账结论: **{"FAIL" if problems else "PASS"}**'
              + ('' if problems else '；分母三数 1,742 / 1,697 / 5,038,558 冻结，后续 P1 起以本文件为分母依据。\n'))

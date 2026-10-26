@@ -1,0 +1,8 @@
+# 方式 1：复制 logs/user_signoff_example.txt → user_signoff_authorization.txt → make user-signoff-apply
+# 方式 2：聊天两行直接灌入：
+#   python3 scripts/s13_user_signoff_apply.py --accept-text "$(printf '%s\n%s' 'M3-确认：…' 'P6-代签：AC36,G10,SPOTCHECK20')"
+
+M3-确认：接受 v0.9.1 题面改版；三题均部分，判定见 m3_trial_feedback 表。
+
+# 可选：将 Agent 草稿写入正式表（三选一或组合，逗号分隔）
+# P6-代签：AC36,G10,SPOTCHECK20

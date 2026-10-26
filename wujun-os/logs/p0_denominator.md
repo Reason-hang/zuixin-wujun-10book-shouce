@@ -1,6 +1,6 @@
 # P0 分母冻结记录
 
-- 冻结日期: 2026-10-24；冻结人: S08（scripts/s08_d5.py，可复跑）
+- 冻结日期: 2026-10-26；冻结人: S08（scripts/s08_d5.py，可复跑）
 - 源: `src_frozen`（SHA-256 见 spec/baseline_facts.json books[].sha256）
 
 | 分母 | 数值 | 基线 | 一致 |

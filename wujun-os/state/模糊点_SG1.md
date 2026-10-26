@@ -38,3 +38,7 @@
 
 1. **C-SG1-U0376-04**（摄影客观性 / D02-2）：`user_verdict=unsure`。手册不写死结论；P6 对抗审查可再抽。
 2. 其余 19 张：ok，已写入 `logs/p4_step11_user_spotcheck_20.csv`。
+
+## 七、P6 抽查（冻结 K 卡 · 不改 JSON）
+
+1. **C-JJ-UU0023-01**（`JJ-U0023.json`）：`claim_id` 双 `U` 笔误（应为 `C-JJ-U0023-01` 口径）；锚点仍 PASS；P6 步 11 **V-14** 已抽中。解冻改 ID 须走 P4 变更控制。

@@ -63,8 +63,27 @@ def main() -> int:
     ok, msg = run([sys.executable, "scripts/verify_pack.py"], "verify_pack")
     checks.append(("verify_pack (G0 包)", ok, msg))
 
+    ok, msg = run([sys.executable, "scripts/s15_p0_gate_check.py"], "p0_gate")
+    checks.append(("P0 G2–G8 日志", ok, msg))
+
+    ok, msg = run([sys.executable, "scripts/s12_g9_subset_check.py"], "g9_subset")
+    checks.append(("G9 单元↔卡子集", ok, msg))
+
+    ledger = ROOT / "ledger/溯源与处置台账.md"
+    if ledger.is_file():
+        ok, msg = run(
+            [sys.executable, "scripts/anchor_tool.py", "verify", "--ledger", str(ledger), "--books-dir", "src_frozen"],
+            "verify_anchors",
+        )
+        checks.append(("锚点全量 verify", ok, msg))
+    else:
+        checks.append(("锚点全量 verify", False, "missing ledger; run make export-anchors"))
+
     ok, msg = run([sys.executable, "scripts/s17_manual_lint.py"], "s17_manual_lint")
     checks.append(("S17 manual lint", ok, msg))
+
+    ok, msg = run([sys.executable, "scripts/s17_mapping_split_check.py"], "ac52_mapping")
+    checks.append(("AC-5.2 原著/映射分栏", ok, msg))
 
     ok, msg = run(
         [sys.executable, "scripts/s17_d1_merge_and_stats.py", "--no-merge"],
@@ -80,6 +99,42 @@ def main() -> int:
 
     ok, msg = run([sys.executable, "scripts/s17_coverage_stats.py"], "ac58_coverage")
     checks.append(("AC-5.8 议题 112", ok, msg))
+
+    ok, msg = run([sys.executable, "scripts/s17_tools_check.py"], "ac55_tools")
+    checks.append(("AC-5.5 行动工具", ok, msg))
+
+    ok, msg = run([sys.executable, "scripts/s18_render_check.py"], "s18_render")
+    checks.append(("S18 out/ 子集", ok, msg))
+
+    ac36 = ROOT / "out/覆盖与质检报告/AC36_抽检召回表_草稿.md"
+    if ac36.is_file():
+        ok, msg = run([sys.executable, "scripts/s13_ac36_anchor_ping.py"], "ac36_anchor")
+        checks.append(("AC-3.6 锚点复验", ok, msg))
+    else:
+        checks.append(("AC-3.6 锚点复验", False, "missing AC36 table; make ac36-sample"))
+
+    ok, msg = run([sys.executable, "scripts/s17_manual_dup_slide.py"], "p6_dup24")
+    checks.append(("P6 步8 24字滑窗", ok, msg))
+
+    ok, msg = run(
+        [sys.executable, "scripts/s13_kwscan.py", "--out", "logs/g10_kw.md"],
+        "g10_kwscan",
+    )
+    checks.append(("G10① 关键词反查", ok, msg))
+
+    run(
+        [sys.executable, "scripts/s13_sg3_highlight_recall.py"],
+        "g10_sg3_hz_seed",
+    )
+    run(
+        [sys.executable, "scripts/s13_sg3_carry_table.py"],
+        "g10_sg3_carry",
+    )
+    ok, msg = run(
+        [sys.executable, "scripts/s13_sg3_highlight_recall.py", "--strict"],
+        "g10_sg3_hz_strict",
+    )
+    checks.append(("G10③ 划重点 strict", ok, msg))
 
     cards = ROOT / "data/cards"
     if cards.is_dir() and (ROOT / "src_frozen").is_dir():
