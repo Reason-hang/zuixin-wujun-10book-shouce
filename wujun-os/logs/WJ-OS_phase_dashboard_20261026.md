@@ -7,15 +7,16 @@
 | SG1 B-017~020 + 书验收 | `journal_sg1` JS1-021~025；`模糊点_SG1` |
 | GATE-D | 9019 卡；`logs/gate_d_summary_20261026.md` |
 | P4 步 10 κ | 120 张 κ=0.683；`s16_kappa.py` |
-| P5 十章片段 | `out/D1_手册草稿/0*_*.md`；S17 lint 0 issues |
-| 场景入口 | 32+ 条 `场景入口_汇总.md` |
+| P5 十章片段 | ~**24** 核心卡 + **5** 工具；`00_使用说明与全景.md` v0.3 |
+| 场景入口 | **41** 条 `场景入口_汇总.md` |
+| 能力速查 | 思/做/沟 v0.2；学仍占位 |
 
 ## 阻塞（须用户）
 
 | 项 | 动作 |
 |----|------|
-| P4 步 11 | 回复：**步11：采纳提议稿；确认骨架** |
-| P4 步 12 | 授权后跑 runbook：`p4_apply_step11_proposed.py --i-authorized` → `s17_k_card_freeze_manifest.py` |
+| P4 步 11+13 | 回复：**步11：采纳提议稿；确认骨架**（见 `logs/p4_user_signoff_onepager_20261026.md`） |
+| P4 步 12 | 授权后：apply → confirm_skeleton → `s17_k_card_freeze_manifest.py` |
 | P5 过关 | M3 试用、主手册合并、112 必检议题、篇幅预算 |
 | P6 | S15 G0–G10、抽检、对抗审查（`state/p6_workboard.md`） |
 | P7 | D1–D6 打包（`state/p7_workboard.md`） |
