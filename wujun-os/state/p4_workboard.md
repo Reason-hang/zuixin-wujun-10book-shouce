@@ -12,7 +12,7 @@
 | 6–8 | L3/L2、三道门 | 🔄 | 步6–7 见上；步8 `logs/p4_step08_d10_three_gates_20261026.md`（D10 保留） |
 | 9 | 数量核对 | 🔄 | `logs/p4_step09_l2_l3_quantity_20261026.md`（L3 候选 61 超红线→合并门） |
 | 10 | 盲重标 κ≥0.6 | ✅ | 累计 **120** 张 κ=**0.683** PASS（`s16_kappa.py` 可复算） |
-| 11 | 用户抽查 20 张 | ⏳ | CSV + `logs/p4_step11_agent_review_20.csv`（15 ok / 5 review 预审） |
+| 11 | 用户抽查 20 张 | ⏳ | 正式 CSV 空；**提议稿** `p4_step11_proposed_user_verdicts.csv`（19 ok / 1 unsure） |
 | 12 | K 卡冻结 | ⏳ | `logs/p4_step12_k_card_freeze_gate_20261026.md`（步11 阻塞） |
 | 13 | 字典变更报告 + 用户确认骨架 | 🔄 | `logs/p4_step13_dictionary_change_report_20261026.md` |
 
