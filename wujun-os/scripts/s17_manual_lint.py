@@ -41,7 +41,7 @@ def main() -> None:
     root = Path(args.dir)
     all_issues: list[str] = []
     for md in sorted(root.glob("*.md")):
-        if md.name.startswith("00_"):
+        if md.name.startswith("00_") or md.name.startswith("D1_主手册合并稿"):
             continue
         all_issues.extend(lint_file(md))
     lines = ["# S17 manual lint 报告\n\n", f"扫描目录: `{args.dir}`\n\n"]

@@ -66,6 +66,12 @@ def main() -> int:
     ok, msg = run([sys.executable, "scripts/s17_manual_lint.py"], "s17_manual_lint")
     checks.append(("S17 manual lint", ok, msg))
 
+    ok, msg = run(
+        [sys.executable, "scripts/s17_d1_merge_and_stats.py", "--no-merge"],
+        "ac53_pillar_ratio",
+    )
+    checks.append(("AC-5.3 三柱占比", ok, msg))
+
     cards = ROOT / "data/cards"
     if cards.is_dir() and (ROOT / "src_frozen").is_dir():
         out = ROOT / "logs/s15_cards_verify_latest.md"
