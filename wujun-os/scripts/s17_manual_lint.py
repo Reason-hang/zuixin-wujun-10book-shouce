@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 CORE_MARK = "[核心卡]"
-FIELD_RE = re.compile(r"^\d+\.\s+\*\*")
+FIELD_RE = re.compile(r"^\s*\d+\.\s+\*\*", re.MULTILINE)
 CLAIM_RE = re.compile(r"C-[A-Z0-9]+-[A-Za-z0-9]+-?\d*")
 LONG_QUOTE_RE = re.compile(r"[「""][^」""]{16,}[」""]")
 
