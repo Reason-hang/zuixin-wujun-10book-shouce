@@ -1,0 +1,132 @@
+{
+ "unit_id": "SG1-U0293",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最大的危险是不知道危险的存在；意识到危险、有防范心理，出事概率就小很多",
+   "quote": "不知道危险的存在",
+   "anchor": {
+    "start_line": 20038,
+    "end_line": 20040,
+    "fingerprint": [
+     "防范心理",
+     "危险意识"
+    ],
+    "book_code": "SG1",
+    "sha1": "eb2858022d2875f4b831093f80084eb5915505ec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "危险意识是第一步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "霍普金斯学生入学前即有危险意识、到校后接受防范培训（20040）；同学在安全的硅谷工作两年失警惕、回校第一天被抢（20050）；有防范心理就是对任何事采用防御性思维（20052，参见第141封《风险意识》）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0293-01",
+   "unit_id": "SG1-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "远离危险要落实在地点与时间上：宁耽搁事情、错失机会，也不冒风险",
+   "quote": "也不要冒风险",
+   "anchor": {
+    "start_line": 20060,
+    "end_line": 20066,
+    "fingerprint": [
+     "面子",
+     "交通工具"
+    ],
+    "book_code": "SG1",
+    "sha1": "071171e96720085c6de7eff9413d57800966f7e5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "远离危险宁失机会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "危险街区永不去、开车经过不停车不摇窗（20056）；不坐外国同学「二把刀」的车（20058）；面子是别人的，命是自己的（20060）；深夜交作业宁扣分明天交、晚上不去加油站（20062-20064）；章莹颖因赶时间搭陌生人车出事（20066）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0293-02",
+   "unit_id": "SG1-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "安全规矩有它的道理，要严格遵守、不能有侥幸心理",
+   "quote": "不能有侥幸心理",
+   "anchor": {
+    "start_line": 20070,
+    "end_line": 20074,
+    "fingerprint": [
+     "安全带",
+     "规矩"
+    ],
+    "book_code": "SG1",
+    "sha1": "bc2163ca1e9d18c0f9b995c79cd36118bcd3218c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "严守规矩无侥幸",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "晚上回家叫护送服务别嫌麻烦、绿灯也要看车（20070）；系安全带使160km/h对撞死亡概率从90%降至10%、可延长人均寿命一周（20072-20074）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0293-03",
+   "unit_id": "SG1-U0293"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "防御性思维、远离危险、严守规矩和有效战术四条，适用于避免各种伤害和损失",
+   "quote": "避免各种伤害和损失",
+   "anchor": {
+    "start_line": 20086,
+    "end_line": 20086,
+    "fingerprint": [
+     "防御性思维",
+     "战术"
+    ],
+    "book_code": "SG1",
+    "sha1": "aec13164e7492c98b7f2d36b14f974ea44ab44ee"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "安全防范四条",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信方法论总结句（20086）；大部分人未必到美国读书但四条普适（20086）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0293-04",
+   "unit_id": "SG1-U0293"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0293",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "章莹颖失踪案案情、嫌犯锁定与聆讯进展、美国校园安全与FBI破案效率讨论（20004-20010），依附2017年时点的时事事件"
+  },
+  {
+   "unit_id": "SG1-U0293",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "巴尔的摩治安见闻五则（被抢概率、钉死的联排别墅、校园外三街区不安全等20018-20034）与防身战术细节（校警建议蛇形逃跑、给钱消灾、辣椒喷剂、路怒应对、门外脱鞋招贼要入乡随俗20076-20084），场景性描述无可迁移通则"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第281封信校园安全防范：危险意识/远离危险/严守规矩/四条总结四判断（D03-2风险意识主线）；章莹颖时事与治安见闻战术归X"
+}

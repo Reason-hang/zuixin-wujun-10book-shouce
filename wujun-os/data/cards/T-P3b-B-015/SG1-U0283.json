@@ -1,0 +1,111 @@
+{
+ "unit_id": "SG1-U0283",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把面子置于问题纠正之上的组织会百般遮掩问题，暴露时已大到难以收拾",
+   "quote": "大到难以收拾",
+   "anchor": {
+    "start_line": 18498,
+    "end_line": 18498,
+    "fingerprint": [
+     "遮掩",
+     "面子"
+    ],
+    "book_code": "SG1",
+    "sha1": "a267eb19eaae9cb8305005b374f290ae6b552525"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "面子文化掩盖问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "丰田刹车问题在美国立即召回即可、在日本因面子百般遮掩（18496-18498）；跳槽只能春季、为给原公司面子等半年（18500）；教授推荐学生公司必须录用否则双方没面子（18502）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0283-01",
+   "unit_id": "SG1-U0283"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "和日本人打交道，要特别顾及他们的面子",
+   "quote": "要特别顾及他们的面子",
+   "anchor": {
+    "start_line": 18514,
+    "end_line": 18514,
+    "fingerprint": [
+     "面子",
+     "打交道"
+    ],
+    "book_code": "SG1",
+    "sha1": "9cca5b134b4da47db6ec24d9b9c75de9d8be15d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "顾及对方面子",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "砍价先问能否砍、问店家能便宜多少而不能自己砍（18510）；讨价还价到酒桌前私下谈而非办公室（18512）；助理教授升迁靠大教授推荐、不够格先再干两年（18504-18508）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0283-02",
+   "unit_id": "SG1-U0283"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "日本人在衰退中找到心理平衡点：物价稳、节奏闲、环境好，辩证看待衰退",
+   "quote": "辩证地看待衰退",
+   "anchor": {
+    "start_line": 18544,
+    "end_line": 18544,
+    "fingerprint": [
+     "衰退",
+     "悠闲"
+    ],
+    "book_code": "SG1",
+    "sha1": "0e4b16467ac5dee3ec365d1e16d87d32179f87b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "享受衰退的平衡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "「享受衰退」一词与20多年物价只涨20%（18542）；衰退带来生活压力小、工作不忙、环境更好社会安定（18544）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0283-03",
+   "unit_id": "SG1-U0283"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0283",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "「残忍」天性的文化成因分析：日本禅宗只保留自力元素、对弱者缺乏同情、一休和尚与入佛界易进魔界难（18516-18528），以及明治维新与戊戌变法没有可比性的史学比较（18550），文化史科普；可迁移部分已并入其他卡 notes"
+  },
+  {
+   "unit_id": "SG1-U0283",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "日本家庭关系叙述：日本女人婚后相夫教子掌财权、男人零花钱少、孩子独立后离婚（18530-18538），婚恋家庭议题"
+  },
+  {
+   "unit_id": "SG1-U0283",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "日本经济能否再一次腾飞前途不乐观、已进入老龄社会的时点论断（18546），宏观趋势预测"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第273封信国民性·日本人下：面子掩盖问题/顾及面子/享受衰退三判断；文化成因分析、家庭婚恋与经济预测归X，国民性观察以文化叙述为主故3卡"
+}

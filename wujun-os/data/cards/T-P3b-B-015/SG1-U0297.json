@@ -1,0 +1,187 @@
+{
+ "unit_id": "SG1-U0297",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "评价成就应用效果与效率作尺度：班超以极低成本取得极大战绩无人能比",
+   "quote": "以如此低的成本取得如此大的战绩",
+   "anchor": {
+    "start_line": 20436,
+    "end_line": 20436,
+    "fingerprint": [
+     "粮饷",
+     "战绩"
+    ],
+    "book_code": "SG1",
+    "sha1": "95a8b19a0c973189ba207e2f2c5b5deb36bf4f34"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "效果效率之尺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "从效果、效率及个人智慧勇气看，中国历史上无武将与班超相提并论（20426）；几乎没耗费汉朝粮饷和军队（20436）；清初平定新疆动辄数十万大军倾全国之力、相形见绌（20438）；王夫之「班超之于西域，戏焉耳矣」（20440，转述）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0297-01",
+   "unit_id": "SG1-U0297"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏轼：匹夫见辱拔剑而斗不足为勇；大勇者卒然临之而不惊，无故加之而不怒",
+   "quote": "卒然临之而不惊",
+   "anchor": {
+    "start_line": 20448,
+    "end_line": 20448,
+    "fingerprint": [
+     "留侯论",
+     "匹夫"
+    ],
+    "book_code": "SG1",
+    "sha1": "313f18f27ab71c686daf0518499d41717895ca94"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "大勇不惊",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=苏轼（《留侯论》原文引录，20448）；吴军对勇敢的界定见同段相邻卡 C-SG1-U0297-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0297-02",
+   "unit_id": "SG1-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勇敢是不怕危险困难、果敢行动、办成别人不能干不敢干的事，非爱冒险或暴力",
+   "quote": "果敢行动",
+   "anchor": {
+    "start_line": 20448,
+    "end_line": 20448,
+    "fingerprint": [
+     "勇敢",
+     "冒险"
+    ],
+    "book_code": "SG1",
+    "sha1": "313f18f27ab71c686daf0518499d41717895ca94"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "勇敢的真正含义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "把勇敢理解为爱冒险甚至爱使用暴力是两回事（20448）；瑞琪儿为买冰箱堵系主任门并募款双管齐下、勇担责任果敢行动，无形中让作者变得勇敢（20450-20454）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0297-03",
+   "unit_id": "SG1-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勇敢体现在生活很多小地方，不必像班超那样涉险；社会多些勇敢的人会更好",
+   "quote": "多一些勇敢的人",
+   "anchor": {
+    "start_line": 20456,
+    "end_line": 20458,
+    "fingerprint": [
+     "闪光灯",
+     "失职"
+    ],
+    "book_code": "SG1",
+    "sha1": "09bff223625dcf1ec18972c1a325a3e6b985b8af"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "勇敢在小事",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "故宫提醒游客关闪光灯并指出管理员疏于管理是渎职、让其上级道歉改进（20456-20458）；游客其实都懂规矩、问题出在管理员失职（20456-20458）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0297-04",
+   "unit_id": "SG1-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "勇气是贵族精神的重要一项，今天人们重知识财富智慧而相对忽视勇气",
+   "quote": "相对忽视勇气",
+   "anchor": {
+    "start_line": 20460,
+    "end_line": 20460,
+    "fingerprint": [
+     "精英",
+     "贵族"
+    ],
+    "book_code": "SG1",
+    "sha1": "6ad0f972b7b3935534273bed8ee25ae3b0ff8c47"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "勇气精英气质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "具有勇气对成为精英的飞跃非常有帮助（20460）；欧洲旧贵族群体已不存在、但精神中勇气是重要一项（20460）；美国人尚武、约翰逊肯尼迪老布什主动参战例（20442-20446，史实）；中国历史上不缺聪明人、自宋之后缺乏勇气（20440）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0297-05",
+   "unit_id": "SG1-U0297"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "曹操式领袖与郭嘉式谋臣的主要差别在担当的勇气，成领袖勇气必不可少",
+   "quote": "担当的勇气",
+   "anchor": {
+    "start_line": 20462,
+    "end_line": 20462,
+    "fingerprint": [
+     "曹操",
+     "郭嘉"
+    ],
+    "book_code": "SG1",
+    "sha1": "5380fb2302de6ed585ad3bc6d22f95410b7f88c3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "领袖需担当勇气",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "世界上两种聪明人（20462）；参见第198封信《郭嘉和曹操：脑和手》（20472）；班超以书吏出身投笔从戎建万世功业、李贺诗写照（20464，史实收尾）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0297-06",
+   "unit_id": "SG1-U0297"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0297",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "班超生平战史：学问世家出身、投笔从戎、鄯善夜袭匈奴使团、收服西域数十国、王夫之评价与李贺诗（20428-20444、20464），人物传记史实；美国名人（约翰逊、肯尼迪兄弟、老布什）参战史实（20444-20446）已择要入卡5 notes"
+  },
+  {
+   "unit_id": "SG1-U0297",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "开篇「中国人勤劳却谈不上勇敢、飞机乘客玩手机无人管」的文化批评（20420），泛化议论无可迁移结论句"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第285封信对话班超：效果效率之尺/苏轼论勇(转述)/勇敢含义/勇敢在小事/勇气精英项/担当勇气定领袖六判断；人物战史与开篇泛论归X"
+}

@@ -1,0 +1,208 @@
+{
+ "unit_id": "SG1-U0289",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "外人可见的专业指标只覆盖一半能力考量，不能直接考量的暗处技能是必备的第二条腿",
+   "quote": "第二条腿",
+   "anchor": {
+    "start_line": 19680,
+    "end_line": 19682,
+    "fingerprint": [
+     "评价的指标",
+     "一条腿"
+    ],
+    "book_code": "SG1",
+    "sha1": "b8f82b460f9e0deea4e7014ab853aa16999cea14"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-1"
+   ],
+   "concept_key": "第二条腿",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人只有两条腿才能走得稳走得远、业余人士只训练第一条腿（19682）；体育评论员观察：技术实力与大家看到的成绩相差挺大（19670-19672）；对各行业专业人士无一不是如此（19678）；简介版见 SG1-U0288 第二条腿卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-01",
+   "unit_id": "SG1-U0289"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "评论员：好教练能规划训练比赛周期并把状态在重大比赛前调到顶点，只拼实力的是业余",
+   "quote": "调整到顶点",
+   "anchor": {
+    "start_line": 19672,
+    "end_line": 19676,
+    "fingerprint": [
+     "教练",
+     "业余运动员"
+    ],
+    "book_code": "SG1",
+    "sha1": "94b129104ef48f22288af751f5f34b2810a63645"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "赛前状态规划",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=体育评论员（媒体界人士，接触国家队运动员多、了解不为外人所知的情况，19670）；技术改进时机有讲究不能随便来（19674）；吴军琢磨后认可并推广至各行业专业人士（19678）；概括见 C-SG1-U0289-01",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-02",
+   "unit_id": "SG1-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程师往上走需产品意识与管理能力，此为第二条腿，没有这条腿走不远",
+   "quote": "工程师的第二条腿",
+   "anchor": {
+    "start_line": 19684,
+    "end_line": 19686,
+    "fingerprint": [
+     "五级",
+     "产品经理"
+    ],
+    "book_code": "SG1",
+    "sha1": "8c08394159a59883807919eb0f83f74149c08452"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "工程师第二条腿",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "五级工程师中独立完成工程任务仅算第五级、再往上需产品意识（19684，第54封）；好的工程师同时是产品经理，按德鲁克对知识型员工要求还需是管理者（19686）；米勒教授促成实验室合作、组织学术会议、开创计算解剖学为例（19688-19696）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-03",
+   "unit_id": "SG1-U0289"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李开复：不在学术界发展是因要做太多非学术的事，做不好就没有影响力",
+   "quote": "在学术界和社会上就没有影响力",
+   "anchor": {
+    "start_line": 19698,
+    "end_line": 19698,
+    "fingerprint": [
+     "李开复",
+     "评审"
+    ],
+    "book_code": "SG1",
+    "sha1": "d51a8b7d5a781715952cadaa34b586ba2bf8fd4f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "非学术事务定影响力",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=李开复；非学术的事包括学校基层管理（美国教授治校传统）、组织学术活动、组织会议、期刊文章评审（19698）；两种教授：有学术造诣且有社会地位者有两条腿、勉强完成教学科研者只有一条腿（19700）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-04",
+   "unit_id": "SG1-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "医生的第二条腿是对病人的关爱，医院面试会装作病人考察态度",
+   "quote": "对病人不耐烦",
+   "anchor": {
+    "start_line": 19706,
+    "end_line": 19712,
+    "fingerprint": [
+     "协和",
+     "关爱"
+    ],
+    "book_code": "SG1",
+    "sha1": "1de9751ecfbc5b5c9459d5fe8d15986ac17549b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "医者仁心第二条腿",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "林巧稚为救病人耽误面试仍被协和录取、因其看重对病人态度（19704-19706，史实背景）；邻居医生两次面试失败因对装病考官不耐烦、经当医生的母亲指导后获两所医院实习（19708-19714）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-05",
+   "unit_id": "SG1-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "商学院理论只是做生意的一条腿；先有职场常识与打交道经验，学商科才有意义",
+   "quote": "做生意的一条腿",
+   "anchor": {
+    "start_line": 19718,
+    "end_line": 19722,
+    "fingerprint": [
+     "商学院",
+     "工作经验"
+    ],
+    "book_code": "SG1",
+    "sha1": "6186a6ad5a36285922364cbbcd7df407a80349e3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "商学院非做生意充分条件",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "进商学院和做好生意没什么关系（19718）；美国仅极少学校设本科商科、本科只教经济学打基础（19720）；商学院只招有工作经验者回读，即先要求有第二条腿再回头补第一条腿（19722）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-06",
+   "unit_id": "SG1-U0289"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成功靠两条腿平衡；遇到事业天花板常常是第二条腿不够长",
+   "quote": "第二条腿不够长",
+   "anchor": {
+    "start_line": 19726,
+    "end_line": 19728,
+    "fingerprint": [
+     "明处",
+     "天花板"
+    ],
+    "book_code": "SG1",
+    "sha1": "cd7a7e40cb6fef2b8b282617843ae4f854a95f65"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "天花板在第二条腿",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "电影学院教授观察：业务尖子后来默默无闻、看不好的人反而红（19724）；第一条腿在明处、第二条腿在暗处不易衡量（19726）；专业越精深越需更长的第二条腿，《硅谷来信》目的即培养第二条腿（19728）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0289-07",
+   "unit_id": "SG1-U0289"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0289",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "人物轶事背景：约翰·霍普金斯任命米勒为系主任、贾里尼克派对只能吃生芹菜、米勒合并派对拉近实验室（19688-19694），及《外科风云》电视剧（19716）影视提及；已择要并入卡3/卡5 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第277封信第二条腿：定义/教练调状态(转述)/工程师/李开复(转述)/医生/商学院/天花板七判断；人物轶事归X4"
+}

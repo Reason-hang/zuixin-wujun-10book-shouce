@@ -1,0 +1,105 @@
+{
+ "unit_id": "SG1-U0286",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奢侈品两特征：高质量，以及作为非必需品的炫耀性消费（凡勃伦商品）",
+   "quote": "非必需品",
+   "anchor": {
+    "start_line": 18736,
+    "end_line": 18742,
+    "fingerprint": [
+     "高质量",
+     "凡勃伦"
+    ],
+    "book_code": "SG1",
+    "sha1": "769ba88ff97ea761b784037a5c8c6a661e79b22d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "奢侈品两特征",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "不求最好只求最贵的忽悠东西不算奢侈品（18736）；香水因不符需求弹性特征不算严格奢侈品（18724）；保时捷安全性例：该价位安全性是最基本要求根本不用担心、车轴用最好材料（18738-18740）；宾利兰博基尼炫耀高于性能、MK算不上奢侈品（18744）；徕卡限量版与红宝石哈苏（18746）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0286-01",
+   "unit_id": "SG1-U0286"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "雅各布斯：奢侈品是取悦自己的而不是向他人炫耀的，精髓在美感不在稀有用料",
+   "quote": "取悦自己的",
+   "anchor": {
+    "start_line": 18748,
+    "end_line": 18748,
+    "fingerprint": [
+     "炫耀",
+     "美感"
+    ],
+    "book_code": "SG1",
+    "sha1": "7d0098463fb0cf079af2bfeac5e0116ad2d1b243"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "奢侈品取悦自己",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=路易·威登总监、著名设计师马可·雅各布斯（18748）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0286-02",
+   "unit_id": "SG1-U0286"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奢侈品行业在欧洲兴起靠三基础：上流社会奢华传统、工匠精神传统、工业化进程",
+   "quote": "工匠精神的传统",
+   "anchor": {
+    "start_line": 18778,
+    "end_line": 18778,
+    "fingerprint": [
+     "上流社会",
+     "工业化"
+    ],
+    "book_code": "SG1",
+    "sha1": "adb8923d94423333355741fd9c1eafbd6e927e14"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "奢侈品兴起三基础",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "行业兴起的社会基础概括句（18778）；欧洲奢侈品行业二战前达到第一个顶峰（18778）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0286-03",
+   "unit_id": "SG1-U0286"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0286",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "奢侈品宫廷起源与品牌史：美第奇王后、路易十四、蓬巴杜夫人、安托瓦内特年花360万美元、约瑟芬、拿破仑三世皇后、宝玑塞夫勒作坊、路易威登旅行箱创业、香奈儿与古驰出身（18750-18778），品牌史科普；安托瓦内特每件首饰物有所值的亚当斯评价（18756）与肖邦评巴黎（18760）亦属史实轶闻"
+  },
+  {
+   "unit_id": "SG1-U0286",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "中国从现在到今后十年消费升级、奢侈品与大家距离越来越近（18720），依附时点的宏观趋势预测"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第276封信奢侈品诞生：两特征/取悦自己/兴起三基础三判断；品牌史科普与消费升级预测归X，故仅3卡"
+}

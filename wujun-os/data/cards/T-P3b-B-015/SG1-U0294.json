@@ -1,0 +1,237 @@
+{
+ "unit_id": "SG1-U0294",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机器产品缺个性；技术工程做到50-90分，最后几分要靠手工与艺术完成",
+   "quote": "最后几分要靠艺术来解决",
+   "anchor": {
+    "start_line": 20114,
+    "end_line": 20114,
+    "fingerprint": [
+     "手工",
+     "50-90"
+    ],
+    "book_code": "SG1",
+    "sha1": "5532fb492c5d7229bbaa37d6a2bed4bff536b77a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D10-1"
+   ],
+   "concept_key": "最后1%靠手工艺术",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "最后那1%常常还需手工才能完成（20114）；百达翡丽一表制作10个月、技师需15年以上经验（20110）；铂金包手工缝制、订货到交货一年多（20112）；尼桑GT-R出厂前手工调引擎、工程师签名担责（20126）；布加迪手工工序更多（20128）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-01",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "完全机器生产的产品缺乏个性；手工品质量有差异但下限高过工业品水平",
+   "quote": "工业品相对艺术品的通病",
+   "anchor": {
+    "start_line": 20116,
+    "end_line": 20122,
+    "fingerprint": [
+     "斯坦威",
+     "木头"
+    ],
+    "book_code": "SG1",
+    "sha1": "cb60192f0ef823982872f9c00d5cce2898f227c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-2"
+   ],
+   "concept_key": "个性化与品质下限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "雅马哈全世界一样、声音冷缺生气（20116-20118）；斯坦威全手工、每台都不一样甚至每块木头专门挑选（20120）；两台斯坦威质量不同但较差者仍高过工业品水平、表现与环境相关（20122）；卡瓦依Shigeru年产量不超200台、派技师上门调琴（20124）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-02",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最顶端非必需市场有限且受经济周期影响明显，业绩难快增长更难上市融资",
+   "quote": "更难以上市融资了",
+   "anchor": {
+    "start_line": 20130,
+    "end_line": 20132,
+    "fingerprint": [
+     "经济周期",
+     "家族经营"
+    ],
+    "book_code": "SG1",
+    "sha1": "830bf852c9e4375ff531936aa035e1b9ecc96082"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "顶端市场难增长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "追求最后1%品质者不在乎多花几倍价钱、市场仍有但与普通人无关（20130）；爱马仕成立160年后才上市、家族仍握绝对多数股票（20132）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-03",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "选择上市融资的奢侈品公司发展更稳定，纯家族经营失去很多机会",
+   "quote": "失去了很多机会",
+   "anchor": {
+    "start_line": 20136,
+    "end_line": 20138,
+    "fingerprint": [
+     "融资",
+     "罗斯柴尔德"
+    ],
+    "book_code": "SG1",
+    "sha1": "316c4283900d5c768900d48db2058e82f27e9be2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "上市融资更稳定",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二战后欧洲顶层消费力消失、家族企业经营难以为继，60年代起从股市融资以抗经济周期上下行（20136）；罗斯柴尔德家族最后一次错失机会即未在60年代上市（20138）；上市公司需较大市场基础、要扩大消费群体（20138）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-04",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "极致产品也能流水线生产，价格降半扩大客群，代价是品牌形象不那么高级",
+   "quote": "通过流水线生产的",
+   "anchor": {
+    "start_line": 20142,
+    "end_line": 20146,
+    "fingerprint": [
+     "356",
+     "法拉利"
+    ],
+    "book_code": "SG1",
+    "sha1": "ef667377d9c89ec787a15334e4209eef6b303ddf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "质量兼顾的第一步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "小保时捷为让非富豪的超跑迷买得起356向福特取经（20142-20144）；保时捷比类似性能法拉利便宜一半、发烧友也成顾客（20144）；品牌形象不如只做高端的品牌高级，但918 Spyder仍保持0-60英里最快加速记录（20146）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-05",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "哈耶克以多品牌分层建防火墙：高端机械表、中端石英竞争、低端走量不稀释高端",
+   "quote": "不会稀释高端品牌",
+   "anchor": {
+    "start_line": 20150,
+    "end_line": 20158,
+    "fingerprint": [
+     "Swatch",
+     "机械表"
+    ],
+    "book_code": "SG1",
+    "sha1": "59adb0d72e011c1d33809e409ca41586475e0a9f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "品牌分层防火墙",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "为救受日本石英表冲击的瑞士钟表业，1983年成立Swatch集团（20148-20150）；宝玑宝珀哈利温斯顿做高端机械表、欧米茄浪琴天梭做石英表对抗日本、Swatch打低端（20150）；防火墙内宝玑宝珀格拉苏蒂日本钟表无法竞争（20156）；缔造全球最大钟表帝国（20158）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-06",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "LVMH 靠大量并购品牌加推出大众买得起的产品扩张；品牌小东西利润率更高",
+   "quote": "利润率要远比它们的箱包高",
+   "anchor": {
+    "start_line": 20170,
+    "end_line": 20174,
+    "fingerprint": [
+     "并购",
+     "香水"
+    ],
+    "book_code": "SG1",
+    "sha1": "c23cfdf68a0f1390eb382491759cb25fb4686d4d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "并购加大众产品",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "香水化妆品小饰物与廉价箱包让大众消费（20170-20172）；路易威登1977年营业额仅1400万美元、2016年集团达100亿美元涨700倍（20168）；大牌坤包多已是中国制造、质量不考究已不算奢侈品（20174，托马斯说法）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-07",
+   "unit_id": "SG1-U0294"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "托马斯：今天大家花大钱买的奢侈品已不是当年欧洲贵族用的东西",
+   "quote": "失去光泽的",
+   "anchor": {
+    "start_line": 20176,
+    "end_line": 20176,
+    "fingerprint": [
+     "托马斯",
+     "贵族"
+    ],
+    "book_code": "SG1",
+    "sha1": "43a0701323f8e038f916eb6e3953687428f9606d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "奢侈品失去光泽",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=黛娜·托马斯（《奢侈的：奢侈品是如何失去光泽的》作者，18726-18732介绍，本系列奢侈品知识多以其书为准）；书名副标题即「奢侈品是如何失去光泽的」（20176）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0294-08",
+   "unit_id": "SG1-U0294"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0294",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "奢侈品行业史叙述：20世纪30年代法国30万工匠顶峰、二战后顶层家族消失与行业变局、酩悦轩尼诗合并及LVMH并购史、路易威登营业额对比（20134-20168），行业史科普；关键机理已择要入K卡 notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第282封信奢侈品进入百姓之家：最后1%手工/个性化与下限/顶端市场难增长/上市更稳定/流水线扩客群/品牌防火墙/并购加大众产品七卡+托马斯失去光泽转述卡；行业史归X4"
+}

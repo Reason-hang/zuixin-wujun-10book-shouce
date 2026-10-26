@@ -1,0 +1,159 @@
+{
+ "unit_id": "SG1-U0282",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事宁可慢，但不能停；日本工程师慢而不断，经过一段时间还是能出活儿",
+   "quote": "宁可慢，但不能停",
+   "anchor": {
+    "start_line": 18448,
+    "end_line": 18448,
+    "fingerprint": [
+     "宁可慢",
+     "出活儿"
+    ],
+    "book_code": "SG1",
+    "sha1": "acbae0680ba7a537859c6eaa3c6a7fd967927bc4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "宁可慢但不能停",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "日本办公室普遍工作方式（18448）；过于抠细节虽不符互联网节奏但能出活（18448）；行事风格由环境造就：美式长大的Ken合作顺畅（18454）；10年升资深工程师不算快也不算慢（18452）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0282-01",
+   "unit_id": "SG1-U0282"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "省略过程细节的快，出了问题查不出原因只能重来；细节留痕才可靠",
+   "quote": "根本查不出原因",
+   "anchor": {
+    "start_line": 18442,
+    "end_line": 18442,
+    "fingerprint": [
+     "细节过程",
+     "重新来一遍"
+    ],
+    "book_code": "SG1",
+    "sha1": "a8fb1f33c004fa1bde9c1120aeb8149d375027f0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "细节留痕可排查",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "对照面：Miso 把所有可能组合一一尝试、未要求的细节数据也能找出（18440）；中国工程师动作快但细节全省略（18442）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0282-02",
+   "unit_id": "SG1-U0282"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能容忍局部失败的文化，产品质量有保证，但公司层面创新困难、难产新公司",
+   "quote": "创新非常困难",
+   "anchor": {
+    "start_line": 18460,
+    "end_line": 18460,
+    "fingerprint": [
+     "国民性",
+     "新公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "fb60b8ba87f44cc8f8b162c19e84dbee16865a93"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "失败容忍度定创新",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "怕失败源于疏忽者要一辈子背失败者名声、觉得对不起大家（18458）；创业失败被社会打上失败者标签（18462）；80年代末起日本几乎没诞生新的有影响力的公司（18460）；法国同题判断见 SG1-U0285 失败不宽容卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0282-03",
+   "unit_id": "SG1-U0282"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做事慢而细的人不适合初创公司，在大公司能发挥作用；给这类人预留双倍时间",
+   "quote": "不适合在初创公司工作",
+   "anchor": {
+    "start_line": 18446,
+    "end_line": 18446,
+    "fingerprint": [
+     "乘以二",
+     "大公司"
+    ],
+    "book_code": "SG1",
+    "sha1": "d452c8524673366ebc6804481af9231e5a96d519"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "人岗匹配慢与快",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "交代任务暗自将完成时间乘以二（18446）；Miso 花一年做好产品获日方满意并得到提升（18444-18446）；管理日本员工要多鼓励胆子大进度快，对中国员工则要从容细致（18464）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0282-04",
+   "unit_id": "SG1-U0282"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与日本人交往，替对方做了事别让他背上报恩负担；受了恩惠则要报答",
+   "quote": "千万不要让他们背上报恩的负担",
+   "anchor": {
+    "start_line": 18476,
+    "end_line": 18476,
+    "fingerprint": [
+     "报恩",
+     "恩惠"
+    ],
+    "book_code": "SG1",
+    "sha1": "38c70cb87bcddfcbbe2f1f080c9be0d5cf395844"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "不让对方背报恩负担",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "日本人怕让对方有亏欠感，把花的心思讲得轻描淡写（18468-18470）；一旦觉得需报恩会不计代价不讲原则地报答（18472）；接待日本交换学生后被极周到回报例（18474）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0282-05",
+   "unit_id": "SG1-U0282"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0282",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "开篇三个原因中关于未来20多年中国公司全面国际化、能帮中国公司开拓海外市场者有好发展机会的论断（18426），依附2017年时点的趋势预测"
+  },
+  {
+   "unit_id": "SG1-U0282",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "书信引入与设问：成为前2%的人需了解各国习性、领导干部问一带一路策略、国内缺国民性读物及对读者提问（18420-18430、18480），引入语与互动语无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第272封信国民性·日本人上：宁可慢不能停/细节留痕/失败容忍度定创新/人岗匹配/报恩心态，文化观察承载可迁移做事与交往判断"
+}

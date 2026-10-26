@@ -1,0 +1,242 @@
+{
+ "unit_id": "SG1-U0285",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "以巴黎和旧上流社会推及整个法国是以偏概全；性感不等于风骚更不等于随意",
+   "quote": "巴黎不代表整个法国",
+   "anchor": {
+    "start_line": 18654,
+    "end_line": 18662,
+    "fingerprint": [
+     "浪漫",
+     "保守",
+     "优雅"
+    ],
+    "book_code": "SG1",
+    "sha1": "efe3e18acf11cc8f00bba94efcb542eefd3f397b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "以偏概全看法国",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：说到法国女人想到浪漫、想象不完全错（18654）；除巴黎外法国妇女在欧洲较保守、婚后规矩，天主教国家使然（18656）；法国女人优雅、举手投足有点勾人劲儿（18660）；鲁迅由胳膊想到私生子的跃进类比、Google法国女生着装例（18662）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-01",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "优雅是对距离感的准确把握：既要给别人留出空间，又不要太疏远怠慢别人",
+   "quote": "对距离感的准确把握",
+   "anchor": {
+    "start_line": 18664,
+    "end_line": 18664,
+    "fingerprint": [
+     "优雅",
+     "距离感"
+    ],
+    "book_code": "SG1",
+    "sha1": "a3d44b1681f2c873b7890e63e8f7a89b07e77c52"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "优雅即距离感",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：我问法国人如何理解优雅、其回答非常有启发（18664）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-02",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平等与自由矛盾时法国人倾向平等；收入差距小（CEO仅3-5倍）故普遍不如美国人努力",
+   "quote": "倾向于选择平等",
+   "anchor": {
+    "start_line": 18666,
+    "end_line": 18668,
+    "fingerprint": [
+     "自由",
+     "平等"
+    ],
+    "book_code": "SG1",
+    "sha1": "1bd0ef003d74714e684a2cbab89f7f677d3c1e17"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "平等优先于自由",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：自由平等博爱深入人心、历史上多次为自由上街（18666）；美国CEO收入为清洁工20倍以上、法国仅3到5倍（18668）；法国主流社会仇视商人和商业、酒吧谈生意被群起攻之（18670）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-03",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对平等的过分追求让商家失去商业上的效率，法国人宁愿如此",
+   "quote": "失去了商业上的效率",
+   "anchor": {
+    "start_line": 18672,
+    "end_line": 18676,
+    "fingerprint": [
+     "限购",
+     "中产阶级"
+    ],
+    "book_code": "SG1",
+    "sha1": "7456f6ff5bd6b4b44457ea70181b6a028edd606e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "平等牺牲商业效率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "奢侈品限购致借护照购买、店家门外设伏甄别（18672-18674）；不随意涨价要让中产阶级消费得起（18676）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-04",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对失败不宽容的国家难以诞生新的大公司；法国因平等诉求的冷嘲热讽，日本因质量洁癖",
+   "quote": "对失败的不宽容",
+   "anchor": {
+    "start_line": 18678,
+    "end_line": 18680,
+    "fingerprint": [
+     "新的大公司",
+     "冷嘲热讽"
+    ],
+    "book_code": "SG1",
+    "sha1": "dd9dc0ada0a53842a4fea859a934bd87d7698b5f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "失败不宽容难创新",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：诞生新的大公司非常困难、法日最差美以最好（18678）；失败者被看热闹和冷嘲热讽「就你能」（18680）；日本成因是质量洁癖带来的耻感（18680）；日本侧同题判断见 SG1-U0282 失败容忍度卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-05",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "法国工程师门槛高、专业地位高、深耕专业岗位，支撑其造出核电站飞机火箭高铁",
+   "quote": "法国从来不缺好的工程师",
+   "anchor": {
+    "start_line": 18682,
+    "end_line": 18686,
+    "fingerprint": [
+     "预科",
+     "核电站"
+    ],
+    "book_code": "SG1",
+    "sha1": "c3f137f82fafe7fe2760571ca1d2a2bbaac72b76"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "高门槛工程师立国",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：工艺不错但质量不好的印象是错觉、法国有工匠精神（18682）；两年预科加资格考试如美国医生律师（18684）；管理职务不涨薪故留专业岗、体制使无动力努力且无法裁员敬业靠自觉（18686）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-06",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "到法国前最好学点粗浅法语：前两句用法语算尊重对方，沟通会顺畅",
+   "quote": "最好学一点粗浅的法语",
+   "anchor": {
+    "start_line": 18692,
+    "end_line": 18694,
+    "fingerprint": [
+     "法语",
+     "尊重"
+    ],
+    "book_code": "SG1",
+    "sha1": "fa5fbb4b560b78907a466c3dcd00375b9d61bca6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "入乡先学语言",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：不讲法语法国人颇为冷酷、能说英语却不主动说（18692）；后面交流不下去他们会用英语交流（18694）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-07",
+   "unit_id": "SG1-U0285"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不能按自己的文化理解他人行为；性相近习相远，想到别人地盘受欢迎最好了解其文化",
+   "quote": "性相近，习相远",
+   "anchor": {
+    "start_line": 18696,
+    "end_line": 18700,
+    "fingerprint": [
+     "文化",
+     "和平相处"
+    ],
+    "book_code": "SG1",
+    "sha1": "96b096bf67f8f31f7e2acd7fea5dc6a092b41bff"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "按对方文化理解行为",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0224（同名概念键收敛，勿另立键）；映射条目：和在美国的法国人可深交、不会法语难以融入、擅交际的美国朋友亦然（18696）；法国人五组矛盾（浪漫/婚后规矩、追求自由/不给个人发展自由、好工程师/质量不敢恭维、奢侈品代名词/少用、能说英语/不说）（18698）；不必大惊小怪、文化和我们完全不同（18700）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0285-08",
+   "unit_id": "SG1-U0285"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0285",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "奢侈品非法国人必需品、法国街头少有人用、年轻人用奢侈品反显老气横秋（18690），生活品味观察无可迁移结论句"
+  },
+  {
+   "unit_id": "SG1-U0285",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "尾部推荐阅读（第130封红酒信）与读者互动设问（18702-18706），书信运营性载体"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第275封信国民性·矛盾的法国人：以偏概全/优雅即距离感/平等优先/平等牺牲效率/失败不宽容/工程师立国/入乡学语言/按对方文化理解八判断；本单元13段与GG-U0224双出处已逐卡登记"
+}

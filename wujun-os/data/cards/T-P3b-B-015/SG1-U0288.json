@@ -1,0 +1,128 @@
+{
+ "unit_id": "SG1-U0288",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1O",
+ "batch_id": "T-P3b-B-015",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世事多无法预测，善投资与办公司者靠正确反应而非当预言家",
+   "quote": "擅长作出正确反应的人",
+   "anchor": {
+    "start_line": 19370,
+    "end_line": 19370,
+    "fingerprint": [
+     "无法预测",
+     "预言家"
+    ],
+    "book_code": "SG1",
+    "sha1": "4d6a4d14b539cca4df4b726faabe61d96527a666"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "重反应不重预测",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "重预测与重反应两种做事方法（19366）；投资重反应者不太信运气、涨跌皆有应对（19368）；吴军本职做预测（统计与AI核心是预测）、生活与投资重反应（19370）；把希望寄托在正确预测上是缘木求鱼（19370）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0288-01",
+   "unit_id": "SG1-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好风投从大量创业者处归纳热点成趋势，而非先做预测再找对应创业者",
+   "quote": "归纳成未来的趋势",
+   "anchor": {
+    "start_line": 19398,
+    "end_line": 19400,
+    "fingerprint": [
+     "风险投资人",
+     "总结"
+    ],
+    "book_code": "SG1",
+    "sha1": "67435d6c6fc590952f881e1ba2e2bc22a22ae02d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-2"
+   ],
+   "concept_key": "从一线归纳趋势",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "市值最高五家公司老板谈未来趋势都是对手下同事建议的总结（19400）；专栏按几万用户反馈聚焦方向、末尾设思考题收集反馈（19396）；提纲是迟到的提纲、内容总结大家期望（19400）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0288-02",
+   "unit_id": "SG1-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专业实力之外，规划节奏、调整状态、防范意外构成进阶的第二条腿",
+   "quote": "第二条腿",
+   "anchor": {
+    "start_line": 19382,
+    "end_line": 19386,
+    "fingerprint": [
+     "运动员",
+     "通识教育"
+    ],
+    "book_code": "SG1",
+    "sha1": "aad743a8c766b3831906073ce21679964b4e285e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-1"
+   ],
+   "concept_key": "第二条腿",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "运动员靠实力加心理素质只算一条腿，教练规划一年训练比赛、重大比赛前调状态到顶点、防范补救意外是第二条腿（19382-19384）；中国大学缺通识教育致职场社会「缺一条腿」，两条腿才能走得稳走得远（19386）；详见第277封信（SG1-U0289）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0288-03",
+   "unit_id": "SG1-U0288"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工作与生活不割裂：工作是为了更好地生活，而不是牺牲生活",
+   "quote": "工作是为了更好地生活",
+   "anchor": {
+    "start_line": 19410,
+    "end_line": 19410,
+    "fingerprint": [
+     "割裂",
+     "牺牲生活"
+    ],
+    "book_code": "SG1",
+    "sha1": "f3f237186340539f33ef4580a17dea54d60f769d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "工作为更好生活",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "工作篇与生活篇两大主题不割裂（19410）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0288-04",
+   "unit_id": "SG1-U0288"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0288",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "专栏运营与目录载体：三来信原则、第四季度内容安排、可执行步骤亮点说明（19374-19418），及附录内容提纲精华版图片转录的全部信件索引（19420-19654），运营性载体只登记不抽取"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "特别来信重预测和重反应：重反应胜预测/从一线归纳趋势/第二条腿/工作为更好生活四判断；专栏运营与提纲索引归X1"
+}
