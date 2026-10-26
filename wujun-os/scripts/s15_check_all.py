@@ -72,6 +72,15 @@ def main() -> int:
     )
     checks.append(("AC-5.3 三柱占比", ok, msg))
 
+    ok, msg = run([sys.executable, "scripts/s17_scene_stats.py"], "ac54_scenes")
+    checks.append(("AC-5.4 场景 30–50", ok, msg))
+
+    ok, msg = run([sys.executable, "scripts/s17_ability_index_check.py"], "ac56_ability")
+    checks.append(("AC-5.6 能力速查", ok, msg))
+
+    ok, msg = run([sys.executable, "scripts/s17_coverage_stats.py"], "ac58_coverage")
+    checks.append(("AC-5.8 议题 112", ok, msg))
+
     cards = ROOT / "data/cards"
     if cards.is_dir() and (ROOT / "src_frozen").is_dir():
         out = ROOT / "logs/s15_cards_verify_latest.md"
