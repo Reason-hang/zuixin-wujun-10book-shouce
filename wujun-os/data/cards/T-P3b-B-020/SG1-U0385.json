@@ -1,0 +1,120 @@
+{
+ "unit_id": "SG1-U0385",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "业余删照片、专业挑照片；心态差异即记录与摄影之别",
+   "quote": "挑照片",
+   "anchor": {
+    "start_line": 28300,
+    "end_line": 28302,
+    "fingerprint": [
+     "删照片",
+     "记录"
+    ],
+    "book_code": "SG1",
+    "sha1": "641f9b9ebcc1a7cdce5ed1f333ae2e340c959534"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "挑片心态",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "28300-28302",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0385-01",
+   "unit_id": "SG1-U0385"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应尽可能保留原图Raw；JPEG丢失细微层次信息",
+   "quote": "保留原图",
+   "anchor": {
+    "start_line": 28304,
+    "end_line": 28306,
+    "fingerprint": [
+     "Raw",
+     "JPEG"
+    ],
+    "book_code": "SG1",
+    "sha1": "c383084f1790eabb9a2cafbd562c02fc66a41389"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "保留Raw原图",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "28304-28306",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0385-02",
+   "unit_id": "SG1-U0385"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：勿把颜色搞得过于绚丽；合成照亦不宜",
+   "quote": "过于绚丽",
+   "anchor": {
+    "start_line": 28330,
+    "end_line": 28332,
+    "fingerprint": [
+     "合成照",
+     "绚丽"
+    ],
+    "book_code": "SG1",
+    "sha1": "bb7f2cd45767370cd38b11fe5809a18674f8af98"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "后期处理边界",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=汤姆28328-28336；裁减重构图28314",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0385-03",
+   "unit_id": "SG1-U0385"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "练好关键在练习；须改掉记录习惯专注摄影",
+   "quote": "记录的习惯",
+   "anchor": {
+    "start_line": 28338,
+    "end_line": 28338,
+    "fingerprint": [
+     "练习",
+     "摄影"
+    ],
+    "book_code": "SG1",
+    "sha1": "4c842d4ce73ced90ddcaefe8683903af0c0d51d8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "练习改记录习惯",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "28338-28338",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0385-04",
+   "unit_id": "SG1-U0385"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第九讲：技巧与后期"
+}

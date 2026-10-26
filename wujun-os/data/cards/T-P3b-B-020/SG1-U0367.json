@@ -1,0 +1,256 @@
+{
+ "unit_id": "SG1-U0367",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对一般中产阶级家庭的孩子，建议先就业后择业",
+   "quote": "先就业后择业",
+   "anchor": {
+    "start_line": 26680,
+    "end_line": 26680,
+    "fingerprint": [
+     "先就业",
+     "择业"
+    ],
+    "book_code": "SG1",
+    "sha1": "d86db00ad6c72d1c01ae70471b935f2d722ba247"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "先就业后择业",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "富有人家可先择业后就业（26678）；就业与择业定义26670",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-01",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人只有经济上独立，才能在人格上独立",
+   "quote": "人格上独立",
+   "anchor": {
+    "start_line": 26682,
+    "end_line": 26690,
+    "fingerprint": [
+     "经济",
+     "人格"
+    ],
+    "book_code": "SG1",
+    "sha1": "d59593b479c4c18c2e56197b36f81059b77cf731"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D06-2"
+   ],
+   "concept_key": "经济独立与人格独立",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吃人嘴软拿人手短26686-26688；温哥华移民监阔太太26688-26690",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-02",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "年轻人搞不清适合做什么，须通过工作才有答案",
+   "quote": "通过工作才会有答案",
+   "anchor": {
+    "start_line": 26692,
+    "end_line": 26696,
+    "fingerprint": [
+     "工作",
+     "潜能"
+    ],
+    "book_code": "SG1",
+    "sha1": "237e23c654f027871f36f4e3b4f5740d6f62cef1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "工作探索职业适配",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "清华企协400会员事业多与当初所想不同26698-26700",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-03",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "李·艾柯卡：一心想做技术，后来发现自己更适合做销售",
+   "quote": "更适合做销售",
+   "anchor": {
+    "start_line": 26696,
+    "end_line": 26696,
+    "fingerprint": [
+     "艾柯卡",
+     "销售"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9b513f8d8eee51afe786e13f12e929859d17385"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "工作中发现真实适配",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=李·艾柯卡（福特/克莱斯勒前总裁）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-04",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想在未来做成事，知道怎么做很重要；国内新人最大问题是就业观、根源是不能认清自己",
+   "quote": "不能认清自己",
+   "anchor": {
+    "start_line": 26702,
+    "end_line": 26708,
+    "fingerprint": [
+     "就业观",
+     "认清"
+    ],
+    "book_code": "SG1",
+    "sha1": "e3b83f61a4cdf2d92e79e9b39a1afc825be8ef31"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D02-1"
+   ],
+   "concept_key": "就业观与自我认知",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "衡水式考试教育26706-26708；单位前辈否定书呆子想法26710-26714",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-05",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会不会因你在教育上投入就必须买单，须用手和脑证明特殊贡献才获报酬",
+   "quote": "手和脑",
+   "anchor": {
+    "start_line": 26716,
+    "end_line": 26718,
+    "fingerprint": [
+     "手和脑",
+     "买单"
+    ],
+    "book_code": "SG1",
+    "sha1": "490cfc21c5f2f1e71a7fb15db6f43625f174d1d4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "教育投入无社会买单",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "伯克利对学生讲话26716；美国约1/5毕业生两年内失业26718",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-06",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "任何经历只要善用都有价值；先走弯路与后走弯路时间一样长",
+   "quote": "都是有价值的",
+   "anchor": {
+    "start_line": 26720,
+    "end_line": 26724,
+    "fingerprint": [
+     "善用",
+     "弯路"
+    ],
+    "book_code": "SG1",
+    "sha1": "102ac599f31ee93f8c36ff52ac9acdf2b2fe4e50"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "经历善用与弯路",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清华学霸女生案例26724-26726；Google两位学霸不适应26728-26730",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-07",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第一份工作应有利于成长，工资高低在其次",
+   "quote": "工资高低在其次",
+   "anchor": {
+    "start_line": 26736,
+    "end_line": 26736,
+    "fingerprint": [
+     "成长",
+     "工资"
+    ],
+    "book_code": "SG1",
+    "sha1": "5ede6ab398fb2960317d99eaff35eca98d5e33f1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "首份工作重成长",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "详见第119封信26736",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-08",
+   "unit_id": "SG1-U0367"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先就业后择业：兴趣与工作矛盾时，可牺牲一点个人兴趣",
+   "quote": "牺牲一下个人兴趣",
+   "anchor": {
+    "start_line": 26742,
+    "end_line": 26742,
+    "fingerprint": [
+     "就业",
+     "兴趣"
+    ],
+    "book_code": "SG1",
+    "sha1": "76821951f7d44cbe5f8cfa634f27e69d4a409b34"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "就业优先于兴趣",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "四误解之三26742",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0367-09",
+   "unit_id": "SG1-U0367"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第355封：就业择业四条理由与四类就业误解"
+}

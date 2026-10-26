@@ -1,0 +1,261 @@
+{
+ "unit_id": "GG-U0119",
+ "book_code": "GG",
+ "extractor": "GAUD31",
+ "batch_id": "GATE-C-R29",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇认为好产品要有牙刷功能：让用户每天都用，久而久之养成习惯",
+   "quote": "要有牙刷的功能",
+   "anchor": {
+    "start_line": 7992,
+    "end_line": 7993,
+    "fingerprint": [
+     "牙刷",
+     "养成"
+    ],
+    "book_code": "GG",
+    "sha1": "16cd1e7200a9cef5a52ee9cde82e60e6bc6076bf"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "牙刷原则",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者：拉里·佩奇；以Google搜索为例；吴军评述见 C-GG-U0119-02",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-01",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙刷功能并非佩奇发明，宝洁、可口可乐一直如此；习惯养成后形成稳定生意",
+   "quote": "稳定的生意就形成了",
+   "anchor": {
+    "start_line": 7995,
+    "end_line": 7997,
+    "fingerprint": [
+     "宝洁",
+     "可口可乐"
+    ],
+    "book_code": "GG",
+    "sha1": "57136d8559723947de1c202255d3dab7f848c1bb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "习惯形成稳定生意",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与 C-GG-U0119-01 互引",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-02",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙刷式产品的可靠性稳定性至关重要，时灵时不灵就没人要",
+   "quote": "时灵时不灵的牙刷是不会有人要的",
+   "anchor": {
+    "start_line": 7999,
+    "end_line": 8000,
+    "fingerprint": [
+     "可靠性",
+     "稳定"
+    ],
+    "book_code": "GG",
+    "sha1": "6ba93d866c0e014573c15b6913a1c3268ec77817"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "牙刷的稳定性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google搜索在中国未做好被归因于服务无法稳定（案例性判断，带时点）",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-03",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "牙刷功能简单易被替代，需靠爆款周期性给用户惊喜、提醒存在",
+   "quote": "爆款",
+   "anchor": {
+    "start_line": 8001,
+    "end_line": 8007,
+    "fingerprint": [
+     "爆款效应",
+     "第二招"
+    ],
+    "book_code": "GG",
+    "sha1": "9b42fa5f48bb02bc9fc2766c5e63ba52278bfa8d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "爆款效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "佩奇所讲第二招；消费电子以一年为一个爆款周期；周期过长则被淡忘",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-04",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "职场可用牙刷加爆款：每周三句话汇报，每半年到一年拿出让老板惊喜的成果",
+   "quote": "总结成三句话",
+   "anchor": {
+    "start_line": 8009,
+    "end_line": 8009,
+    "fingerprint": [
+     "三句话",
+     "惊喜的成果"
+    ],
+    "book_code": "GG",
+    "sha1": "4e2f14071363f4bec8be38da234d6be541fbb008"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-2",
+    "D06-3"
+   ],
+   "concept_key": "职场牙刷与爆款",
+   "ability_tags": [
+    "做",
+    "沟"
+   ],
+   "notes": "吴军建议，非佩奇原话",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-05",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "凡事有始有终，组织也会死亡；硅谷公司不刻意拯救衰老公司而去找下一次机会",
+   "quote": "不介意公司的死亡",
+   "anchor": {
+    "start_line": 8012,
+    "end_line": 8013,
+    "fingerprint": [
+     "有生就有死",
+     "硅谷之谜"
+    ],
+    "book_code": "GG",
+    "sha1": "e30cc2083605deb0c9a253de2c4bb73b07d77368"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "组织终有一死",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军自己的观点，先于佩奇想法",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-06",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "佩奇以海蜇为喻：不断孕育新部门如新细胞，使其能脱离母体长大，逃脱大公司宿命",
+   "quote": "逃脱大公司的宿命",
+   "anchor": {
+    "start_line": 8014,
+    "end_line": 8018,
+    "fingerprint": [
+     "海蜇",
+     "Google风投"
+    ],
+    "book_code": "GG",
+    "sha1": "55000cdad4f3d6729262496c354e7255b84153df"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D08-1",
+    "D10-1"
+   ],
+   "concept_key": "海蜇式新业务孕育",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者：拉里·佩奇；末句提及Google风投、X实验室",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-07",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "佩奇自己做最需资源的新业务、成熟业务交给他人，避免新业务沦为IBM式边缘部门",
+   "quote": "公司基因决定论",
+   "anchor": {
+    "start_line": 8024,
+    "end_line": 8026,
+    "fingerprint": [
+     "公司基因决定论",
+     "IBM的个人电脑部门"
+    ],
+    "book_code": "GG",
+    "sha1": "b7708dfcfe9a95cc108f565af3a33a1e07119f31"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "公司基因决定论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军对佩奇安排的解读",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-08",
+   "unit_id": "GG-U0119"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "先接受公司终将死去，再考虑传承基因与文化，而非维持不死的公司",
+   "quote": "薪尽火传",
+   "anchor": {
+    "start_line": 8032,
+    "end_line": 8034,
+    "fingerprint": [
+     "公司真正能够传承的其实也只是基因",
+     "薪尽火传"
+    ],
+    "book_code": "GG",
+    "sha1": "75af375c8c046aa2f692b9a21953936f30738a32"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D01-2"
+   ],
+   "concept_key": "薪尽火传",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "节末总结句；类比家族传承精神财富",
+   "status": "已生成",
+   "claim_id": "C-GG-U0119-09",
+   "unit_id": "GG-U0119"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "牙刷与爆款、薪尽火传成卡；反垄断段为Google时点性叙述不单独成卡"
+}

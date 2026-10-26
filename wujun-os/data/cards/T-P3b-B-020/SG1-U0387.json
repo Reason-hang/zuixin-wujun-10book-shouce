@@ -1,0 +1,120 @@
+{
+ "unit_id": "SG1-U0387",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "垄断最大危害常非高价；中国电信与汽油价国际上并不贵",
+   "quote": "并非是高价格",
+   "anchor": {
+    "start_line": 28544,
+    "end_line": 28544,
+    "fingerprint": [
+     "垄断",
+     "高价格"
+    ],
+    "book_code": "SG1",
+    "sha1": "807a29b3fe7e1dcf57b2b4ba5da4d88a92fc3f33"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-2"
+   ],
+   "concept_key": "垄断误区非高价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "28538-28544两误区",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0387-01",
+   "unit_id": "SG1-U0387"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "真正可怕垄断是自然形成：降价一统市场使新企业进不去",
+   "quote": "自然形成的",
+   "anchor": {
+    "start_line": 28556,
+    "end_line": 28562,
+    "fingerprint": [
+     "垄断",
+     "降价"
+    ],
+    "book_code": "SG1",
+    "sha1": "48149cb56660305c3406b09249be029753d0ab88"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "自然垄断靠降价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "标准石油28560-28562；腾讯滴滴28566-28566",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0387-02",
+   "unit_id": "SG1-U0387"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无新从业者则顾客无第二选择，社会进步会放慢或停滞",
+   "quote": "第二个选择",
+   "anchor": {
+    "start_line": 28570,
+    "end_line": 28570,
+    "fingerprint": [
+     "竞争",
+     "进步"
+    ],
+    "book_code": "SG1",
+    "sha1": "6e68333d93e541a014bbd1b9ca7ed182dbfff799"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "垄断损竞争进步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "28570-28572政治诉求28572",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0387-03",
+   "unit_id": "SG1-U0387"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最可怕垄断总结：不断降价使无人能进入，社会活力消失",
+   "quote": "社会的活力",
+   "anchor": {
+    "start_line": 28584,
+    "end_line": 28584,
+    "fingerprint": [
+     "降价",
+     "活力"
+    ],
+    "book_code": "SG1",
+    "sha1": "b280ae9b5fc2bd50aab986efb45798a20dbe4ddd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "降价垄断亡活力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "28584-28586",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0387-04",
+   "unit_id": "SG1-U0387"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "彩蛋：最可怕垄断（1870-1890美国类比）"
+}

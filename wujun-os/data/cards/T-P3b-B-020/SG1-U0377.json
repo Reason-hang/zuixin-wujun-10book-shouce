@@ -1,0 +1,126 @@
+{
+ "unit_id": "SG1-U0377",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "围棋本质仍是计算问题；复杂度虽高但变化总数有限",
+   "quote": "计算问题",
+   "anchor": {
+    "start_line": 27620,
+    "end_line": 27622,
+    "fingerprint": [
+     "计算",
+     "有限"
+    ],
+    "book_code": "SG1",
+    "sha1": "a02adec922311e6fdbd8ff4e317b7d7662f6164f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "围棋即计算",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "AlphaGo Zero彩蛋27616；时效性见X2登记",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0377-01",
+   "unit_id": "SG1-U0377"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类棋谱含大量错误与噪音，未必是处理大数据的最佳策略",
+   "quote": "很多错误",
+   "anchor": {
+    "start_line": 27624,
+    "end_line": 27630,
+    "fingerprint": [
+     "噪音",
+     "棋谱"
+    ],
+    "book_code": "SG1",
+    "sha1": "6d604a44ec799407c3cecafd9e5c1bdd68d3f67b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "人棋谱含噪音",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "藏书类比27628-27628",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0377-02",
+   "unit_id": "SG1-U0377"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "机器学习问题常不需人类标记数据；数据够大时可自归类",
+   "quote": "自己作归类",
+   "anchor": {
+    "start_line": 27632,
+    "end_line": 27632,
+    "fingerprint": [
+     "机器学习",
+     "归类"
+    ],
+    "book_code": "SG1",
+    "sha1": "b33db7f65e1509572cc930ee0871f9d21642e422"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "大数据自归类",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "人脸识别27632-27632",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0377-03",
+   "unit_id": "SG1-U0377"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "计算机智能前提：问题须定义清楚；二义性问题计算机无能为力",
+   "quote": "定义清楚",
+   "anchor": {
+    "start_line": 27634,
+    "end_line": 27636,
+    "fingerprint": [
+     "二义性",
+     "无能为力"
+    ],
+    "book_code": "SG1",
+    "sha1": "645f05922ee5721e3852797caa33c1c694045262"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2"
+   ],
+   "concept_key": "问题定义与智能边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "恋爱选择反例27636-27636",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0377-04",
+   "unit_id": "SG1-U0377"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0377",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2017-10-19对AlphaGo Zero进展与围棋将被计算机解决时点之判断（27620-27622），属科技时效预测，P4终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "AlphaGo Zero千字评：计算机思维五点（27616时效判断登记X2）"
+}

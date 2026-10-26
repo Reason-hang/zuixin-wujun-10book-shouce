@@ -1,0 +1,92 @@
+{
+ "unit_id": "SG1-U0378",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：以记录为目的的照片通常无人回看第二遍",
+   "quote": "第二遍",
+   "anchor": {
+    "start_line": 27684,
+    "end_line": 27684,
+    "fingerprint": [
+     "记录",
+     "主题"
+    ],
+    "book_code": "SG1",
+    "sha1": "8e25d99c5a40dbaf5bc278b7e9add7594eed0128"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "记录照无回看",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=汤姆；27684",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0378-01",
+   "unit_id": "SG1-U0378"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从记录到摄影是给照片增加思想的过程，主题第一位",
+   "quote": "主题是第一位",
+   "anchor": {
+    "start_line": 27686,
+    "end_line": 27686,
+    "fingerprint": [
+     "摄影",
+     "主题"
+    ],
+    "book_code": "SG1",
+    "sha1": "2b3723b6e1f23f97e9822f300f1f2c72fe1ade86"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "主题赋予思想",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "河景裁切27676-27682",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0378-02",
+   "unit_id": "SG1-U0378"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "阴天可表现质感；勿强行照出晴天亮度否则必曝光过度",
+   "quote": "曝光过度",
+   "anchor": {
+    "start_line": 27714,
+    "end_line": 27714,
+    "fingerprint": [
+     "阴天",
+     "曝光"
+    ],
+    "book_code": "SG1",
+    "sha1": "9e4d950ec39ab9946e5a7f87a6c5f3c9bea65ece"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "阴天曝光策略",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "乌兹堡案例27696-27714",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0378-03",
+   "unit_id": "SG1-U0378"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第三讲：主题（27656-27683案例为主）"
+}

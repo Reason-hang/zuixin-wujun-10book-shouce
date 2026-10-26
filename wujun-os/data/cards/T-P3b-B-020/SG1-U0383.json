@@ -1,0 +1,92 @@
+{
+ "unit_id": "SG1-U0383",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "感染力照片首先要真实；过度修图会削弱共鸣",
+   "quote": "首先要真实",
+   "anchor": {
+    "start_line": 28130,
+    "end_line": 28132,
+    "fingerprint": [
+     "真实",
+     "感染力"
+    ],
+    "book_code": "SG1",
+    "sha1": "df2466bdfdceb481ea41f16634034084ff11bace"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "感染力需真实",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "地球升起28130-28132",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0383-01",
+   "unit_id": "SG1-U0383"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一张照片只能突出一个主题；忌讳一张图塞太多",
+   "quote": "一个主题",
+   "anchor": {
+    "start_line": 28134,
+    "end_line": 28134,
+    "fingerprint": [
+     "主题",
+     "照片"
+    ],
+    "book_code": "SG1",
+    "sha1": "4f126d5320058a2faf1e298412a5d3b2452f48c9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "一图一主题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第三讲呼应28134",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0383-02",
+   "unit_id": "SG1-U0383"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：风光照有感染力即观者看了想亲身去那个地方",
+   "quote": "亲身去那个",
+   "anchor": {
+    "start_line": 28146,
+    "end_line": 28146,
+    "fingerprint": [
+     "风光",
+     "汤姆"
+    ],
+    "book_code": "SG1",
+    "sha1": "06e238ee0d9ffe8952d2bfb9acb690464cae2866"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "风光感染力标准",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=汤姆；28154哗众取宠28154",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0383-03",
+   "unit_id": "SG1-U0383"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第八讲：感染力"
+}

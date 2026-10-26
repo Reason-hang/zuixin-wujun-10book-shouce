@@ -1,0 +1,148 @@
+{
+ "unit_id": "SG1-U0372",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "辞退等坏消息宜晚通知，痛苦宜短；提前通知会长期煎熬",
+   "quote": "坏消息要晚",
+   "anchor": {
+    "start_line": 27118,
+    "end_line": 27128,
+    "fingerprint": [
+     "坏消息",
+     "幸福学"
+    ],
+    "book_code": "SG1",
+    "sha1": "35deaf758c6048642dec75ba3a1f489b05fd087d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "坏消息晚告知",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "三种辞退做法27108-27118；裁员风声27126-27128",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0372-01",
+   "unit_id": "SG1-U0372"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好消息要早告诉对方；两个好消息应一个个说以叠加幸福感",
+   "quote": "要及早告诉对方",
+   "anchor": {
+    "start_line": 27134,
+    "end_line": 27140,
+    "fingerprint": [
+     "好消息",
+     "高兴"
+    ],
+    "book_code": "SG1",
+    "sha1": "57345d6a16fc09656a9b5fec47f707882bebc1a1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "好消息早且分拆",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "提拔与礼物27136-27138",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0372-02",
+   "unit_id": "SG1-U0372"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "两个坏消息宜一次告知；有好有坏先讲坏消息再讲好消息",
+   "quote": "Bad news first",
+   "anchor": {
+    "start_line": 27142,
+    "end_line": 27148,
+    "fingerprint": [
+     "坏消息",
+     "好消息"
+    ],
+    "book_code": "SG1",
+    "sha1": "bad6e381f9d64c06fbd04387c74bf639f873c3d1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "坏消息先原则",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "西方谚语27148",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0372-03",
+   "unit_id": "SG1-U0372"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "涨薪一次高兴；奖金年年可高兴；可把一好消息拆成多个",
+   "quote": "拆成两个",
+   "anchor": {
+    "start_line": 27154,
+    "end_line": 27154,
+    "fingerprint": [
+     "奖金",
+     "涨工资"
+    ],
+    "book_code": "SG1",
+    "sha1": "e0d3007827319ab0e6963f82fbe8cbaafb25bfa7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-2"
+   ],
+   "concept_key": "薪酬与幸福感拆分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "10%工资vs奖金27152-27154",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0372-04",
+   "unit_id": "SG1-U0372"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "每日重复的坏消息（如长通勤）比一次性坏消息更损幸福",
+   "quote": "每天都是个坏消息",
+   "anchor": {
+    "start_line": 27160,
+    "end_line": 27162,
+    "fingerprint": [
+     "坏消息",
+     "CBD"
+    ],
+    "book_code": "SG1",
+    "sha1": "f4d7be2c6feb657bd0991a67183be4de661ec358"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "重复坏事与适应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "CBD小房vs大兴27156-27162",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0372-05",
+   "unit_id": "SG1-U0372"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第360封：好坏消息告知技巧与幸福感"
+}

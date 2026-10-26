@@ -1,0 +1,174 @@
+{
+ "unit_id": "SG1-U0370",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "终身学习是成为一流大师的必要条件",
+   "quote": "终身学习",
+   "anchor": {
+    "start_line": 26962,
+    "end_line": 26962,
+    "fingerprint": [
+     "终身学习",
+     "一流"
+    ],
+    "book_code": "SG1",
+    "sha1": "cfae6762a04fc7825cce1db49b719ed77a532471"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "终身学习成一流",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "多明戈穆蒂波里尼26962-26962",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0370-01",
+   "unit_id": "SG1-U0370"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "终身学习重要，将有意识付诸实践、主动用所学做事更重要",
+   "quote": "主动用它们",
+   "anchor": {
+    "start_line": 26994,
+    "end_line": 26994,
+    "fingerprint": [
+     "付诸实践",
+     "做事"
+    ],
+    "book_code": "SG1",
+    "sha1": "8b3da9935e0869bb569c8a6a5e555bc799147634"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "学后实践",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "留言学多不见提高26994",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0370-02",
+   "unit_id": "SG1-U0370"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一流能从平凡显伟大；麻雀飞不到雄鹰高度",
+   "quote": "飞不到雄鹰",
+   "anchor": {
+    "start_line": 27014,
+    "end_line": 27016,
+    "fingerprint": [
+     "雄鹰",
+     "麻雀"
+    ],
+    "book_code": "SG1",
+    "sha1": "9ad2b1167c49858109d1031332c317521b634d9f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "一流高度不可及",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "俄谚语27016",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0370-03",
+   "unit_id": "SG1-U0370"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "成为公认一流须很长时间且不断努力；少年成名距一流尚远",
+   "quote": "不断努力",
+   "anchor": {
+    "start_line": 27018,
+    "end_line": 27018,
+    "fingerprint": [
+     "一流",
+     "方仲永"
+    ],
+    "book_code": "SG1",
+    "sha1": "458bc94bb3da6da5194443c350f07917bb4a0496"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "一流需长期努力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "高考前几名27018",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0370-04",
+   "unit_id": "SG1-U0370"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "罗曼·罗兰：要成为伟大，而不是显得伟大",
+   "quote": "而不是显得伟大",
+   "anchor": {
+    "start_line": 27022,
+    "end_line": 27022,
+    "fingerprint": [
+     "罗曼",
+     "伟大"
+    ],
+    "book_code": "SG1",
+    "sha1": "8776d78f1c5b3e9b5f331b5f6ab9b5158ed2fb73"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "成为伟大非显得伟大",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=罗曼·罗兰；一流职业生命持久27020-27020",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0370-05",
+   "unit_id": "SG1-U0370"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多明戈75岁仍维持极高水平；一流与二流区别在职业生命持久",
+   "quote": "维持极高的水平",
+   "anchor": {
+    "start_line": 26970,
+    "end_line": 26976,
+    "fingerprint": [
+     "多明戈",
+     "持久"
+    ],
+    "book_code": "SG1",
+    "sha1": "3223de8334bf4800e9ce53e9739535109bdf8e6b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "一流职业寿命长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "程序员vs架构师26978-26978",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0370-06",
+   "unit_id": "SG1-U0370"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第358封：一流二流区别与终身学习（下）"
+}

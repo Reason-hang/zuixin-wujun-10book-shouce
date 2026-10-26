@@ -1,0 +1,99 @@
+{
+ "unit_id": "SG1-U0384",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济制裁对非市场经济国家难奏效；尚无政权仅靠制裁被推翻",
+   "quote": "经济制裁",
+   "anchor": {
+    "start_line": 28190,
+    "end_line": 28190,
+    "fingerprint": [
+     "制裁",
+     "政权"
+    ],
+    "book_code": "SG1",
+    "sha1": "dccd3e12194e562c261617b3d0597060cb912d87"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "制裁局限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朝核28188-28192；时效28166-28247整体X2候选",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0384-01",
+   "unit_id": "SG1-U0384"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "特朗普真关心贸易平衡；施压会有但全面贸易战打不起来",
+   "quote": "打贸易战却不会",
+   "anchor": {
+    "start_line": 28214,
+    "end_line": 28214,
+    "fingerprint": [
+     "施压",
+     "贸易战"
+    ],
+    "book_code": "SG1",
+    "sha1": "543cf380db0ffb25c972e1163e5dde0934cf8d84"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "贸易战难全面开打",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "28216-28224两原因；28196真正关心贸易",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0384-02",
+   "unit_id": "SG1-U0384"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "印度－太平洋概念意在平衡太平洋力量、美国居中获利",
+   "quote": "印度－太平洋",
+   "anchor": {
+    "start_line": 28236,
+    "end_line": 28236,
+    "fingerprint": [
+     "平衡",
+     "获利"
+    ],
+    "book_code": "SG1",
+    "sha1": "9de93d1e48108343e4a0598912cf5339cce400a3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "印太地缘平衡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "英国欧陆平衡类比28230-28236",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0384-03",
+   "unit_id": "SG1-U0384"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0384",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2017-11-08对特朗普亚太行、朝核、贸易战与印太战略之预测性判断（28174-28238），时效政治评论P4终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "彩蛋：特朗普亚太行视角（28166-28247时政X2登记）"
+}

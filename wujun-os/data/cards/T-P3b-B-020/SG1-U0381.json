@@ -1,0 +1,92 @@
+{
+ "unit_id": "SG1-U0381",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：颜色要正；勿后期把颜色调得过分绚丽",
+   "quote": "颜色要正",
+   "anchor": {
+    "start_line": 27956,
+    "end_line": 27958,
+    "fingerprint": [
+     "颜色",
+     "色温"
+    ],
+    "book_code": "SG1",
+    "sha1": "9748543e05e8f9e593412883ba838e23416890c2"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "颜色要正",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=Tom Brichta（汤姆）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0381-01",
+   "unit_id": "SG1-U0381"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：颜色要有搭配对比；红绿相得益彰",
+   "quote": "搭配对比",
+   "anchor": {
+    "start_line": 27962,
+    "end_line": 27962,
+    "fingerprint": [
+     "对比",
+     "搭配"
+    ],
+    "book_code": "SG1",
+    "sha1": "48f3a5fa21a834b213afd1a85e245fff73b7556a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "色彩对比搭配",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "纽伦堡27964-27972",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0381-02",
+   "unit_id": "SG1-U0381"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专业摄影师偏好漫射或折射的自然光，不喜正面强光",
+   "quote": "自然光",
+   "anchor": {
+    "start_line": 27982,
+    "end_line": 27982,
+    "fingerprint": [
+     "漫射",
+     "自然光"
+    ],
+    "book_code": "SG1",
+    "sha1": "c3c4d31b65fdfbee7997b857fbc9be8bd039ad1b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "偏好漫射自然光",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "27982-27984；逆光照剪影见第27609封",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0381-03",
+   "unit_id": "SG1-U0381"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第六讲：光线与色彩"
+}

@@ -1,0 +1,119 @@
+{
+ "unit_id": "SG1-U0376",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：好照片第一要求是把相机端平，斜照损失大",
+   "quote": "把相机端平",
+   "anchor": {
+    "start_line": 27522,
+    "end_line": 27526,
+    "fingerprint": [
+     "端平",
+     "汤姆"
+    ],
+    "book_code": "SG1",
+    "sha1": "59bf055ecaff831d7198c1892e0ac05526054abd"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "端平为第一要求",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=Tom Brichta；旋转损失27526",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0376-01",
+   "unit_id": "SG1-U0376"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：曝光时间不超过焦距倒数；初学者宜更保守",
+   "quote": "不能超过",
+   "anchor": {
+    "start_line": 27546,
+    "end_line": 27548,
+    "fingerprint": [
+     "曝光",
+     "焦距"
+    ],
+    "book_code": "SG1",
+    "sha1": "3b46ca8392578b1dfdab2b40c38867c330555407"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "快门与焦距倒数",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=汤姆；三脚架27552-27554",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0376-02",
+   "unit_id": "SG1-U0376"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "汤姆：主题前1/3到后2/3距离内清晰，更远近处虚化",
+   "quote": "前 1/3",
+   "anchor": {
+    "start_line": 27556,
+    "end_line": 27556,
+    "fingerprint": [
+     "虚化",
+     "景深"
+    ],
+    "book_code": "SG1",
+    "sha1": "c45aee8b637a6f08a972924b304b69ada45221b1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "景深三分法",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=汤姆",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0376-03",
+   "unit_id": "SG1-U0376"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专业摄影师承认客观现实并在条件下创作，非强行记录一切细节",
+   "quote": "承认客观现实",
+   "anchor": {
+    "start_line": 27582,
+    "end_line": 27582,
+    "fingerprint": [
+     "客观",
+     "创作"
+    ],
+    "book_code": "SG1",
+    "sha1": "b26284fa75af4c63076b3047d7ceb6c5b9116a4c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "摄影承认客观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "逆光照剪影27584-27584",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0376-04",
+   "unit_id": "SG1-U0376"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第二讲：好照片基本技术要求（转述讲师）"
+}

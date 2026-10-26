@@ -1,0 +1,288 @@
+{
+ "unit_id": "FZ-U0007",
+ "book_code": "FZ",
+ "extractor": "GAUD31",
+ "batch_id": "GATE-C-R29",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "个人和企业要使成就最大化，都需要做减法而不是做加法",
+   "quote": "都需要做减法，而不是做加法",
+   "anchor": {
+    "start_line": 187,
+    "end_line": 187,
+    "fingerprint": [
+     "做减法",
+     "成就最大化"
+    ],
+    "book_code": "FZ",
+    "sha1": "6b97bd2eb74bbbae0f1c58ea01d5b28a0b4ff29e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "做减法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "本节总结句",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-01",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人天性喜欢多不喜欢少、偏爱加法，但很多事要靠做减法才能完成",
+   "quote": "要靠做减法才能完成",
+   "anchor": {
+    "start_line": 181,
+    "end_line": 181,
+    "fingerprint": [
+     "喜欢多不喜欢少",
+     "做减法"
+    ],
+    "book_code": "FZ",
+    "sha1": "f30f176861c24e247f00a9b1c1f690f53fd89180"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "人性偏爱加法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "为做减法提供反直觉前提",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-02",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "1996年乔布斯回苹果，把白板上14条产品线砍到只剩4条，救活苹果",
+   "quote": "只剩下4条",
+   "anchor": {
+    "start_line": 183,
+    "end_line": 183,
+    "fingerprint": [
+     "乔布斯",
+     "14条产品线"
+    ],
+    "book_code": "FZ",
+    "sha1": "6d97f27c6f9afb149adf317b3928bb7417996080"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "乔布斯砍产品线",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例，经迈克尔·穆勒回忆（被转述者：穆勒），吴军转述的史实案例；承载做减法的机理，母卡见 C-FZ-U0007-01",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-03",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "投入未过收益阈值则效果为零，同时做事过多会让每件事都做不成",
+   "quote": "超过一定的阈值后才能取得效果",
+   "anchor": {
+    "start_line": 193,
+    "end_line": 195,
+    "fingerprint": [
+     "阈值",
+     "所有的事情都做不成"
+    ],
+    "book_code": "FZ",
+    "sha1": "672bb9426649d4ccdd9e58e388cc8a4eb156f278"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "投入阈值",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "以锻炼、读书、课外特长班为例",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-04",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "朗道等级理论在几乎所有专业领域成立：每差一级，贡献差一个数量级",
+   "quote": "朗道的等级理论都成立",
+   "anchor": {
+    "start_line": 203,
+    "end_line": 205,
+    "fingerprint": [
+     "朗道",
+     "第一级",
+     "数量级"
+    ],
+    "book_code": "FZ",
+    "sha1": "86992359820dfe74a827bc6d82f030eed08cc32e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "朗道等级理论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朗道的五级划分为转述（被转述者：朗道），吴军判断其在信息技术等领域同样成立，并以谷歌工程师收入为例",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-05",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "与其在低水平上做多份工作或跨界，不如集中力量做一份高水平工作实现等级跃迁",
+   "quote": "不是在低水平上复制",
+   "anchor": {
+    "start_line": 207,
+    "end_line": 209,
+    "fingerprint": [
+     "斜杠青年",
+     "等级的跃迁"
+    ],
+    "book_code": "FZ",
+    "sha1": "fb81700a72759e13fe3d77468012b8c4b3c51841"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D03-1"
+   ],
+   "concept_key": "集中力量实现等级跃迁",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "几份简单工作顶不上一份有难度的工作",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-06",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "初创企业资源有限，铺大摊子几乎都失败，聚焦一点做到极致成功率更高",
+   "quote": "聚焦于一点",
+   "anchor": {
+    "start_line": 215,
+    "end_line": 215,
+    "fingerprint": [
+     "初创企业",
+     "把摊子铺得很大"
+    ],
+    "book_code": "FZ",
+    "sha1": "cdc11a7aff60c20179d88826040471a9fe5c9c6e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "初创企业聚焦",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "后文称投资人投前都会要求精简任务清单",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-07",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Zoom宁可少功能也要做好核心功能，视频会议核心指标超过微软Teams",
+   "quote": "它选择了做减法",
+   "anchor": {
+    "start_line": 221,
+    "end_line": 221,
+    "fingerprint": [
+     "Zoom",
+     "Teams"
+    ],
+    "book_code": "FZ",
+    "sha1": "a4bbaf0fa0e7aaf0b0fac8ed331e760584739468"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D08-1",
+    "D03-1"
+   ],
+   "concept_key": "Zoom的减法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "案例，对比微软一站式集成；母卡见 C-FZ-U0007-07",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-08",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "在不擅长领域扩张是大企业由盛转衰的开始；一个领域做到第一胜过十个领域二三名",
+   "quote": "是大企业由盛而衰的开始",
+   "anchor": {
+    "start_line": 223,
+    "end_line": 225,
+    "fingerprint": [
+     "由盛而衰",
+     "70-20-10"
+    ],
+    "book_code": "FZ",
+    "sha1": "801407cb01c2179d592e52998b2215ad423dd039"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "大企业扩张之忌与70-20-10",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "引《浪潮之巅》70-20-10定律：第一名拿走70%利润；半导体细分市场第一盈利第二打平其余亏损（吴子宁之说）",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-09",
+   "unit_id": "FZ-U0007"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做减法要问自己的目标是什么，与目标无关的事情就该删掉",
+   "quote": "通过做减法删掉",
+   "anchor": {
+    "start_line": 231,
+    "end_line": 231,
+    "fingerprint": [
+     "断舍离",
+     "目标"
+    ],
+    "book_code": "FZ",
+    "sha1": "9909a2a773ac1e9afe02ed8a5ff7c99252eb97ab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "舍弃与目标无关之事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "引山下英子《断舍离》原则（被转述者：山下英子）作类比，结论为吴军所下",
+   "status": "已生成",
+   "claim_id": "C-FZ-U0007-10",
+   "unit_id": "FZ-U0007"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "做减法为核心论点，个人与企业论证成卡"
+}

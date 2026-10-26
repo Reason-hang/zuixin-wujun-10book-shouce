@@ -1,0 +1,238 @@
+{
+ "unit_id": "GG-U0013",
+ "book_code": "GG",
+ "extractor": "GAUD31",
+ "batch_id": "GATE-C-R29",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "把事做好需要基线、极限与连接二者的路径，缺一即蛮干或纸上谈兵",
+   "quote": "是蛮干、傻干",
+   "anchor": {
+    "start_line": 1109,
+    "end_line": 1110,
+    "fingerprint": [
+     "三条线",
+     "第三条线"
+    ],
+    "book_code": "GG",
+    "sha1": "cb3c7fa0cf23434a1f73a18d37245531b6acc5fb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "做事三条边",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "总结句；三条边=基线、极限、连接路径",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-01",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工作应建立在已有知识基线之上，起点低于时代基线的努力价值极低",
+   "quote": "建立在这条线的基础上",
+   "anchor": {
+    "start_line": 1073,
+    "end_line": 1074,
+    "fingerprint": [
+     "基线",
+     "民间发明家"
+    ],
+    "book_code": "GG",
+    "sha1": "5444a8b713b987873582721fca8abbf222da1e72"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "基线",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "基线因人而异，专家高、新手低",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-02",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要把工作做好首先要提高基线，教育和培训的目的就是提高基线",
+   "quote": "首先就要提高基线",
+   "anchor": {
+    "start_line": 1084,
+    "end_line": 1087,
+    "fingerprint": [
+     "提高基线",
+     "散户投资"
+    ],
+    "book_code": "GG",
+    "sha1": "1990674009a2a068d66fccdab5a4f7de7f47ae5b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D02-2"
+   ],
+   "concept_key": "提高基线",
+   "ability_tags": [
+    "做",
+    "学"
+   ],
+   "notes": "含对大学生退学创业与散户投资的类比判断",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-03",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "莱特兄弟先学透凯利理论，再试验200多种翼形、做上千次风洞试验才上天",
+   "quote": "打造了一个风洞",
+   "anchor": {
+    "start_line": 1080,
+    "end_line": 1083,
+    "fingerprint": [
+     "乔治·凯利",
+     "200多种翼形",
+     "风洞"
+    ],
+    "book_code": "GG",
+    "sha1": "aa45f5892ebe5c9a911495c14eab9bf44c5629f2"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "莱特兄弟站在基线上",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例：说明非民间蛮干；母卡见 C-GG-U0013-02",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-04",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "专业人士与业余爱好者在工程上的差别在于是否了解极限的存在",
+   "quote": "是否了解极限的存在",
+   "anchor": {
+    "start_line": 1088,
+    "end_line": 1091,
+    "fingerprint": [
+     "极限",
+     "卡诺定理"
+    ],
+    "book_code": "GG",
+    "sha1": "16b1a58feeba9644b8f60d7aa2890cca2ec32032"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-3"
+   ],
+   "concept_key": "极限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "极限由理论给出、无法突破；以蒸汽机效率上限为例",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-05",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "工程师的工作就是找到或编织连接基线与极限的攀登绳索",
+   "quote": "找到或者编织攀登绳索",
+   "anchor": {
+    "start_line": 1095,
+    "end_line": 1098,
+    "fingerprint": [
+     "工程师",
+     "攀登绳索"
+    ],
+    "book_code": "GG",
+    "sha1": "7eee40c0cf7f914b99ecc4bbf76407f269c3bf56"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D04-3"
+   ],
+   "concept_key": "连接路径",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "越靠近难目标可选道路越少，故斜线上细下粗；以鸟巢工程为例",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-06",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "目标明确后只在通向目标的通道内行动，通道之外的事一律不做",
+   "quote": "通道之外，所有的事情都不要做",
+   "anchor": {
+    "start_line": 1103,
+    "end_line": 1104,
+    "fingerprint": [
+     "通道",
+     "行动步骤"
+    ],
+    "book_code": "GG",
+    "sha1": "4d4a6852aeeeb9045949b8372f73569c1f0ea8f5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1",
+    "D03-1"
+   ],
+   "concept_key": "通道内行动",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "L君案例中的原则表述",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-07",
+   "unit_id": "GG-U0013"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "L君先补上极限处欠缺的管理资金与创业经验，把过去的天花板变成新基础",
+   "quote": "把过去的天花板变成了后来的基础",
+   "anchor": {
+    "start_line": 1102,
+    "end_line": 1108,
+    "fingerprint": [
+     "L 君",
+     "天花板"
+    ],
+    "book_code": "GG",
+    "sha1": "70b1d761c6ef167d34721a52d724501d87f49232"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D05-1",
+    "D06-1"
+   ],
+   "concept_key": "天花板变基础",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "案例；原文称L君为化名；母卡见 C-GG-U0013-06、-07",
+   "status": "已生成",
+   "claim_id": "C-GG-U0013-08",
+   "unit_id": "GG-U0013"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "三条边方法论成卡；今日思考为读者作业不抽取"
+}

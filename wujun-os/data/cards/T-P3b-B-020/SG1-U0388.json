@@ -1,0 +1,120 @@
+{
+ "unit_id": "SG1-U0388",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IT行业极易形成垄断，传统行业则很难短期垄断",
+   "quote": "形成垄断",
+   "anchor": {
+    "start_line": 28600,
+    "end_line": 28600,
+    "fingerprint": [
+     "IT",
+     "垄断"
+    ],
+    "book_code": "SG1",
+    "sha1": "8df4e9119c559cc26fef6b3b87c9c3d62091742b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D04-1"
+   ],
+   "concept_key": "IT易垄断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软Google Facebook28600-28606",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0388-01",
+   "unit_id": "SG1-U0388"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IT垄断因通用性与耦合性：产品改变则生态须随之改变",
+   "quote": "耦合性",
+   "anchor": {
+    "start_line": 28620,
+    "end_line": 28630,
+    "fingerprint": [
+     "耦合",
+     "Windows"
+    ],
+    "book_code": "SG1",
+    "sha1": "54c73698ac1c1748bf75d5534321dbbd75539b54"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1"
+   ],
+   "concept_key": "IT耦合促垄断",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "28620-28634红旗OS28632",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0388-02",
+   "unit_id": "SG1-U0388"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IT物质成本极低，定价看技术附加值；可复制几乎不费力",
+   "quote": "物质成本",
+   "anchor": {
+    "start_line": 28636,
+    "end_line": 28646,
+    "fingerprint": [
+     "毛利率",
+     "附加值"
+    ],
+    "book_code": "SG1",
+    "sha1": "edd615f7bb8a0ecc60d249b1e17bbf1299ac3eb2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "软件低边际成本",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软80%毛利28646-28646",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0388-03",
+   "unit_id": "SG1-U0388"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济学理论与事实矛盾时，错的是理论不是事实",
+   "quote": "不是事实",
+   "anchor": {
+    "start_line": 28658,
+    "end_line": 28658,
+    "fingerprint": [
+     "理论",
+     "事实"
+    ],
+    "book_code": "SG1",
+    "sha1": "0890b661c5762d48f4b721f708d17059f998103d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "事实高于理论",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软240经济学家28658-28658",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0388-04",
+   "unit_id": "SG1-U0388"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "彩蛋：IT行业为何易垄断"
+}

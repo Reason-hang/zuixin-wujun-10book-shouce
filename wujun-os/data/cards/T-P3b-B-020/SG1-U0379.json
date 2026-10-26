@@ -1,0 +1,65 @@
+{
+ "unit_id": "SG1-U0379",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对摄影而言到达是好摄影的第一要素",
+   "quote": "第一要素",
+   "anchor": {
+    "start_line": 27750,
+    "end_line": 27750,
+    "fingerprint": [
+     "到达",
+     "摄影"
+    ],
+    "book_code": "SG1",
+    "sha1": "6569ef52a09af324b9a59525012dba371d993c6f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "到达第一要素",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "训练营共识27750；8844米手机27748",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0379-01",
+   "unit_id": "SG1-U0379"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "视角比构图、曝光色彩更重要；角度错了无法弥补",
+   "quote": "弥补的可能性",
+   "anchor": {
+    "start_line": 27764,
+    "end_line": 27764,
+    "fingerprint": [
+     "视角",
+     "构图"
+    ],
+    "book_code": "SG1",
+    "sha1": "e95640ecdc224b1010c3b361784d3128ebbe232a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "视角优先于构图",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "27794优先级链27794-27794",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0379-02",
+   "unit_id": "SG1-U0379"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第四讲：到达与视角（27740-27793以图例为主）"
+}

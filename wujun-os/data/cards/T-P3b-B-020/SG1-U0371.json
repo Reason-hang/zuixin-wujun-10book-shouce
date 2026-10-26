@@ -1,0 +1,148 @@
+{
+ "unit_id": "SG1-U0371",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "最容易丢朋友的方法：一起做事且事前利益分配不讲清楚",
+   "quote": "不讲清楚",
+   "anchor": {
+    "start_line": 27060,
+    "end_line": 27060,
+    "fingerprint": [
+     "利益",
+     "朋友"
+    ],
+    "book_code": "SG1",
+    "sha1": "1c02c79ecbc4ec0d62a2c889f128a937003f9d05"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D07-1"
+   ],
+   "concept_key": "合伙先讲利益",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "共患难难共富贵27060；Facebook股权27058",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0371-01",
+   "unit_id": "SG1-U0371"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "推荐先小人后君子：涉及利益先把话说清，缺诚意者不必交往",
+   "quote": "先小人，后君子",
+   "anchor": {
+    "start_line": 27088,
+    "end_line": 27088,
+    "fingerprint": [
+     "先小人",
+     "君子"
+    ],
+    "book_code": "SG1",
+    "sha1": "2b4680ede6095d057292ee41916ea7218f0ea912"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "先小人后君子",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "对比先君子后小人27088",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0371-02",
+   "unit_id": "SG1-U0371"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "莎士比亚：勿借钱给朋友，否则钱与朋友皆失",
+   "quote": "还会失去朋友",
+   "anchor": {
+    "start_line": 27072,
+    "end_line": 27072,
+    "fingerprint": [
+     "莎士比亚",
+     "借钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "1c6193998d2679caaeede95369a94cae290456e6"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "不借钱给朋友",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=莎士比亚；第082封信27072",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0371-03",
+   "unit_id": "SG1-U0371"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "借小钱：设定一周不还则不必还，以显说一不二、赢尊重",
+   "quote": "说一不二",
+   "anchor": {
+    "start_line": 27078,
+    "end_line": 27080,
+    "fingerprint": [
+     "一不二",
+     "尊重"
+    ],
+    "book_code": "SG1",
+    "sha1": "49966f619fff0aa067538f9a17bfaa02d912135b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2"
+   ],
+   "concept_key": "小钱借贷边界",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "200元案例27070-27072",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0371-04",
+   "unit_id": "SG1-U0371"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "轻诺：做不到却先答应，几次后朋友就丢了；丑话说到前面",
+   "quote": "丑话说到前面",
+   "anchor": {
+    "start_line": 27082,
+    "end_line": 27086,
+    "fingerprint": [
+     "轻诺",
+     "丑话"
+    ],
+    "book_code": "SG1",
+    "sha1": "2978f71b4de956e6b7ec327f38ba8066ab72a4c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-2",
+    "D06-2"
+   ],
+   "concept_key": "轻诺与预防针",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "Google内推27084-27086",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0371-05",
+   "unit_id": "SG1-U0371"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第359封：利益与轻诺致失友"
+}

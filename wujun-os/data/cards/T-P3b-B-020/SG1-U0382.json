@@ -1,0 +1,65 @@
+{
+ "unit_id": "SG1-U0382",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R5",
+ "batch_id": "T-P3b-B-020",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "黑白可滤除杂音、强化对比；杂乱或颜色不佳时可试黑白",
+   "quote": "不必要的杂音",
+   "anchor": {
+    "start_line": 28028,
+    "end_line": 28030,
+    "fingerprint": [
+     "黑白",
+     "杂音"
+    ],
+    "book_code": "SG1",
+    "sha1": "c60109b2e4d503b6b63d193aff505f58835e723a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "黑白滤杂强化对比",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "28028对比度28028；徕卡28026-28032",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0382-01",
+   "unit_id": "SG1-U0382"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "拍黑白时可更多关注构图轮廓光线以突出主题",
+   "quote": "主题突出出来",
+   "anchor": {
+    "start_line": 28066,
+    "end_line": 28066,
+    "fingerprint": [
+     "构图",
+     "光线"
+    ],
+    "book_code": "SG1",
+    "sha1": "8d396a189e2cae6df7b8b4c0fccd8dcde50782e0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "黑白重构图光线",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "28066-28066",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0382-02",
+   "unit_id": "SG1-U0382"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "徕卡第七讲：黑白摄影（28036-28064图例为主）"
+}
