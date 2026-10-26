@@ -1,0 +1,190 @@
+{
+ "unit_id": "SG1-U0321",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IT产业近两百年发展至今不放缓，其他产业高速发展一段后即趋平稳",
+   "quote": "看不到放缓的迹象",
+   "anchor": {
+    "start_line": 22561,
+    "end_line": 22565,
+    "fingerprint": [
+     "放缓的迹象",
+     "波音"
+    ],
+    "book_code": "SG1",
+    "sha1": "6394daf32b9614321c4e99d145ff14b704a57cf9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "IT发展不放缓",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "轮船两百年快不了多少、波音747是半个世纪前设计、癌症认识30年进步有限（22563）；信息领域不断带来惊喜，年轻人投身IT行业不担心没饭吃（22565）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0321-01",
+   "unit_id": "SG1-U0321"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "IT产品价格不断下降而性能提升，这一反常使其渗入社会生活方方面面",
+   "quote": "第一次出现的反常现象",
+   "anchor": {
+    "start_line": 22567,
+    "end_line": 22569,
+    "fingerprint": [
+     "价格在不断下降",
+     "反常现象"
+    ],
+    "book_code": "SG1",
+    "sha1": "10ff1be744acc3a65ed966256a7dd331b88d712e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2",
+    "D08-1"
+   ],
+   "concept_key": "IT价格反常下降",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "价格不断下降是IT渗入社会方方面面的根本原因（22567）；工业品生产率提高后绝对价格仍上涨、传统服务价格上涨更明显（22567）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0321-02",
+   "unit_id": "SG1-U0321"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "将一切问题变成数学问题是IT革命的核心，数学基因促其快速发展",
+   "quote": "数学的基因",
+   "anchor": {
+    "start_line": 22595,
+    "end_line": 22595,
+    "fingerprint": [
+     "变成数学问题",
+     "数学家的思维方式"
+    ],
+    "book_code": "SG1",
+    "sha1": "2da6015c78b1d4ddc1e6291e0bdd1062134a47ae"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D04-1"
+   ],
+   "concept_key": "数学是IT革命核心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "数学家思维方式是IT行业快速发展重要原因（22595）；史实链登记X4：巴贝奇差分机与埃达·拜伦（22575-22577）、数学+机械=智力（22579）、图灵可计算理论受希尔伯特启发（22581-22585）、香农数字逻辑电路（22587-22589）、莫奇莱艾克特与冯诺依曼通用结构（22591-22593）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0321-03",
+   "unit_id": "SG1-U0321"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "天才创新者贡献孤立且偶然；文化制度层面对创新理解正确则成批出现",
+   "quote": "就会成批出现",
+   "anchor": {
+    "start_line": 22609,
+    "end_line": 22611,
+    "fingerprint": [
+     "偶然性",
+     "成批出现"
+    ],
+    "book_code": "SG1",
+    "sha1": "abc94b1e4cbbe0b1c032386a19db61dfa437bede"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "制度催生成批创新",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=艾萨克森（《创新者》作者）；布什确立政府、大学和企业合作道路而非国家大型实验室，对计算机普及半导体互联网至关重要作用（22605）；欧洲政府主导模式致落后（22607）；在艾萨克森看来无美国人科技影响超布什（22609）；国家科研体制详评登记X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0321-04",
+   "unit_id": "SG1-U0321"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "读IT史收获在看问题的视角，它可以帮助提高认知水平",
+   "quote": "看问题的视角",
+   "anchor": {
+    "start_line": 22613,
+    "end_line": 22613,
+    "fingerprint": [
+     "认知水平",
+     "视角"
+    ],
+    "book_code": "SG1",
+    "sha1": "b2d5eeb9424024a1db5b6a7a9675de00532ecb3e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-1"
+   ],
+   "concept_key": "读史收获在视角",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《创新者》IT故事早已知道，感兴趣的是艾萨克森看问题的视角（22613）；经历→判断的读书方法示例",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0321-05",
+   "unit_id": "SG1-U0321"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "数学让IT纯粹而快速发展，但世界上还有数学之外的东西，故有其局限",
+   "quote": "数学之外的东西",
+   "anchor": {
+    "start_line": 22615,
+    "end_line": 22617,
+    "fingerprint": [
+     "数学基因",
+     "局限性"
+    ],
+    "book_code": "SG1",
+    "sha1": "a70463ac0d34595a58b9379ab5a5be78bf03d0f6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D01-1"
+   ],
+   "concept_key": "数学基因与IT边界",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "每个人可通过了解IT产业的数学基因知道IT的边界（22615）；存在不可计算问题、人能给出答案而计算机无能为力，了解计算本质就不必担心AI（22597-22599）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0321-06",
+   "unit_id": "SG1-U0321"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0321",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "IT技术史人物史实链：巴贝奇差分机与埃达·拜伦痴迷数学（22575-22577）、图灵受冯诺依曼量子力学数学基础与希尔伯特思想启发出可计算理论（22581-22585）、香农数字逻辑电路与20世纪最重要硕士论文（22587-22589）、莫奇莱艾克特只能解一道题与冯诺依曼改通用结构（22591-22593）、布什模拟计算机与曼哈顿计划背景（22603），纯技术史科普；数学基因判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0321",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "国家科研体制类论述：布什确立政府大学企业合作道路、欧洲政府主导模式致落后、布什对美国IT繁荣的体制归因（22605-22609）；可迁移的文化制度催生成批创新判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第309封信IT独特之处：发展不放缓/价格反常下降/数学基因/制度催生成批创新/读史收获在视角/数学基因与边界"
+}

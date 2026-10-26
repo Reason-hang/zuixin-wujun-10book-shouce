@@ -1,0 +1,244 @@
+{
+ "unit_id": "SG1-U0320",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股价围绕价值震荡且会长期大幅偏离，利用偏离挣钱是零和赌博难有永远赢家",
+   "quote": "零和的赌博游戏",
+   "anchor": {
+    "start_line": 22477,
+    "end_line": 22479,
+    "fingerprint": [
+     "偏离其价值",
+     "零和的赌博游戏"
+    ],
+    "book_code": "SG1",
+    "sha1": "61a20589bf59eeb409325b049682d4327b9c2eeb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "股价绕价值震荡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "价格会偏离价值非常远，被高估或低估（22477）；人为判断总有出错时候故难有永远赢家（22479）；长期看股价回归价值，长期走势不好预测也不必要预测（22481）；量化交易60年代起步80年代普及、做空与杠杆催生对冲基金（22483-22485）；共同基金不许做空以保护中小投资人（22487）；Global Alpha破产时点例登记X2（22489）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-01",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "量化交易回报取决于模型好坏与独有信号；学点机器学习就炒股是过高估计自己",
+   "quote": "过高估计自己的能力",
+   "anchor": {
+    "start_line": 22489,
+    "end_line": 22493,
+    "fingerprint": [
+     "数学模型",
+     "机器学习"
+    ],
+    "book_code": "SG1",
+    "sha1": "da563c74c6cfad48ba5c64211f7d489fbaf5852e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "量化回报两因素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "量化交易行业鲜有长期赢家（22489）；对冲基金从来最先尝试新技术，机器学习算法20年前早已使用（22491）；用真金白银炒股前先了解行业现状（22493）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-02",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "AI不会让股市平稳只会更动荡：同时代算法趋同，一家抛售各家跟抛",
+   "quote": "它只会让股市更动荡",
+   "anchor": {
+    "start_line": 22497,
+    "end_line": 22497,
+    "fingerprint": [
+     "算法其实差不多",
+     "动荡"
+    ],
+    "book_code": "SG1",
+    "sha1": "65633425503bf9e3be1bf12a9d61bc1eac21c685"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-2"
+   ],
+   "concept_key": "算法趋同放大动荡",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG1-U0318-07乔丹判断互证：机器操盘不消除波动；机理=同一时代大家算法差不多（22497）；美国股市大量交易由机器算法完成已十多年，时点事实登记X2（22495）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-03",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高频交易不靠预测靠最快技术抢单挣价差，速度军备竞赛投入巨大",
+   "quote": "交易的频率非常高",
+   "anchor": {
+    "start_line": 22499,
+    "end_line": 22509,
+    "fingerprint": [
+     "spread",
+     "光纤专线"
+    ],
+    "book_code": "SG1",
+    "sha1": "3e113ddab612269b12f625f01036c892d17e6b82"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D09-2"
+   ],
+   "concept_key": "高频交易挣速度钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "高频交易不太仰仗数学模型而靠最好IT技术达成交易（22501）；买卖价差spread一分钱由中间商挣（22505）；迅速下两单吃差价、单次量小利薄但机会多（22507）；芝加哥公司花一亿多美元改进光纤专线为提零点一秒抢单（22509，时点个案登记X2）；实际算法复杂一分钱几人来挣（22511）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-04",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "预设高于市价的限价卖出使股市稳定，按实时市价卖出易致下跌",
+   "quote": "整个股市就容易稳定",
+   "anchor": {
+    "start_line": 22513,
+    "end_line": 22517,
+    "fingerprint": [
+     "限价订单",
+     "市价订单"
+    ],
+    "book_code": "SG1",
+    "sha1": "7f72351b824dc30e1da3af2814ecae978b768aab"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "限价单稳定市场",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "两种报价：限价订单与市价订单（22513）；SEC返费鼓励限价单、市价单收万分之八SEC费（22517，费率细节登记X2）；机制设计思路可迁移",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-05",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "SEC费套利零差价靠极速，抢单竞争使股票烂手里、非一般人能操作",
+   "quote": "股票就可能烂在手里",
+   "anchor": {
+    "start_line": 22519,
+    "end_line": 22523,
+    "fingerprint": [
+     "SEC 返还",
+     "同时抢单"
+    ],
+    "book_code": "SG1",
+    "sha1": "d748c4040bfd42ab8f7ce85a6bf5c435c049d1e9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "零差价套利风险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "边按市价买进边设同价卖出赚SEC返还费、股票上一分钱不赚（22519）；零差价动作稍慢交易达不成（22521）；几家同时抢单则刚买进就被抢先卖出（22523）；高频挣钱非想象的多、投入大非一般人能操作（22523）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-06",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "现有区块链协议交易频率低难支撑大量交易；最有前途应用是支付流程",
+   "quote": "交易频率非常低",
+   "anchor": {
+    "start_line": 22525,
+    "end_line": 22533,
+    "fingerprint": [
+     "新一代区块链技术",
+     "挪用贷款"
+    ],
+    "book_code": "SG1",
+    "sha1": "a51cd64a8a4a802b7d14c4bc32474fb47620cc97"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-2",
+    "D08-1"
+   ],
+   "concept_key": "区块链支付应用",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "虚拟货币撮合外汇兑换看似有道理但比特币协议频率低实现不了大量交易（22525）；公司开发支持大交易量新一代区块链并已有进展（22527）；蚂蚁金服为众筹融资代表（22529）；警惕P2P打着金融科技名义玩庞氏骗局（22531）；区块链支付避免付款不及时挪用贷款、各方共享高信用公司低利率（22533）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-07",
+   "unit_id": "SG1-U0320"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "金融最有钱近最有动力采用新技术，但金融科技建议了解就好不要投机",
+   "quote": "了解一下就好，但是不要去投机",
+   "anchor": {
+    "start_line": 22535,
+    "end_line": 22535,
+    "fingerprint": [
+     "高风险的行业",
+     "投机"
+    ],
+    "book_code": "SG1",
+    "sha1": "63410a936f397e99ebc2895e15647fb09dae7fe8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "金融科技了解不投机",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "互联网与区块链将催生寻新金融机会的公司，同时金融是高风险行业（22535）；本信总结性建议",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0320-08",
+   "unit_id": "SG1-U0320"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0320",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "时点行情与个案细节：Global Alpha于2007-2008金融危机因杠杆破产（22489）、美国股市十多年前开始大量机器算法交易（22495）、SEC费万分之八（22517）、芝加哥公司一亿多美元光纤投入（22509）不入主干"
+  },
+  {
+   "unit_id": "SG1-U0320",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "虚拟货币取代央行货币的时点预测：近期20年内肯定不会、较长时间后一定会但无人能确定多长（22471-22473），由P4终裁"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第308封信量化交易与区块链：股价绕价值/量化两因素/算法趋同动荡/高频挣速度钱/限价单机制/套利风险/区块链支付/了解不投机"
+}

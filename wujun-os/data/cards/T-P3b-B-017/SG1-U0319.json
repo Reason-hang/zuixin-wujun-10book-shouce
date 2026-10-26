@@ -1,0 +1,188 @@
+{
+ "unit_id": "SG1-U0319",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "货币须有信誉担保，游戏币靠公司信誉，滥发贬值须用服务消耗托底",
+   "quote": "就会面临贬值的压力",
+   "anchor": {
+    "start_line": 22393,
+    "end_line": 22397,
+    "fingerprint": [
+     "信誉担保",
+     "贬值的压力"
+    ],
+    "book_code": "SG1",
+    "sha1": "ec187b2bb52b35a67d0994834f12be2f40d70643"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "货币的本质是信誉",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "游戏币本质是交易的结算方式，归类货币并不算错（22391）；发多贬值故无人囤积，腾讯须不断推新服务让用户消耗游戏币维持币值（22393）；Q币靠腾讯信誉担保维持兑人民币0.8-0.9，行情细节登记X2（22395）；昙花一现公司的游戏币成了无用符号（22397）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0319-01",
+   "unit_id": "SG1-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "去中心化虚拟货币无主权背书，靠加密算法与限量发行维持币值",
+   "quote": "发行量有限",
+   "anchor": {
+    "start_line": 22399,
+    "end_line": 22405,
+    "fingerprint": [
+     "区块链",
+     "加密可靠"
+    ],
+    "book_code": "SG1",
+    "sha1": "e37d7d7dd9d05a09a01db2ac6ef35638a791f9c3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D04-2"
+   ],
+   "concept_key": "去中心化货币三特点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三特点：无国家银行担保（22401）、加密可靠算法保障发行交易存储（22403）、无人背书故限量发行维持币值（22405）；正因限量价格被炒高（22405）；区块链介绍见智能时代与第226封来信（22399）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0319-02",
+   "unit_id": "SG1-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "去中心化货币不受监管但币集中在极少数人手里，难成通用货币",
+   "quote": "掌握在极少数人手里",
+   "anchor": {
+    "start_line": 22423,
+    "end_line": 22427,
+    "fingerprint": [
+     "去中心化",
+     "通用的货币"
+    ],
+    "book_code": "SG1",
+    "sha1": "a5d90c0d712d874a014597c33581309c55b88c57"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "去中心化利弊",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "交易只认证密码不认证个人身份故不被监管控制、可实现自由兑换（22423）；不限制发行量很快变成废物，比特币每4年减半总数有限（22425）；早期挖矿者轻而易举获得、后来者事倍功半（22427）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0319-03",
+   "unit_id": "SG1-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无主权背书的虚拟货币要有用途才有价值，否则一钱不值",
+   "quote": "关键就是要有用途",
+   "anchor": {
+    "start_line": 22429,
+    "end_line": 22431,
+    "fingerprint": [
+     "一钱不值",
+     "洗钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "27b8f121ad9a8e629d8710e0b4040b426023eaa6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "用途决定币值",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "比特币主要用途非支付而是洗钱与受限兑换，价值取决于两市场规模，时点判断登记X2（22429）；以太币用途=帮其他虚拟货币平台发币结算（22431）；用途清楚的比特币以太币值钱、大部分币用途不清晰（22439）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0319-04",
+   "unit_id": "SG1-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "虚拟货币挣钱两法：炒币如参与赌局，发币无应用则成庞氏骗局",
+   "quote": "庞氏骗局",
+   "anchor": {
+    "start_line": 22433,
+    "end_line": 22435,
+    "fingerprint": [
+     "开赌馆",
+     "庞氏骗局"
+    ],
+    "book_code": "SG1",
+    "sha1": "14e6c3efd09a489376e0fbabe3b04a0b90f72dcc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "炒币是赌局发币是赌馆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "炒作价格浮动极大每天可超10%，非常危险的游戏（22433，行情细节登记X2）；自己找理由发行虚拟货币=开赌馆（22433）；找不到合适应用所发币就是庞氏骗局（22435）；假币打着区块链幌子发行、投资前查政府网站清单（22445-22447）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0319-05",
+   "unit_id": "SG1-U0319"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "币值取决于背后应用是否发展；实则实之虚则虚之，无实只剩虚",
+   "quote": "取决于背后的实际应用",
+   "anchor": {
+    "start_line": 22441,
+    "end_line": 22449,
+    "fingerprint": [
+     "应用是否被看好",
+     "实则实之"
+    ],
+    "book_code": "SG1",
+    "sha1": "a362909449d508a467f04d894506d755f6a69604"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "实则实之虚则虚之",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有一点可肯定：币值升降取决于背后应用是否被看好是否发展（22441）；错过比特币以太币后追投超便宜新币的想法与赌博无异、赢钱概率比买彩票还小（22443）；没有背后的实就只剩虚（22449）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0319-06",
+   "unit_id": "SG1-U0319"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0319",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2017时点行情与标的细节：全球虚拟货币总价值800亿美元、比特币约450亿、以太币约200亿（22437）、Q币兑人民币0.8-0.9（22395）、币价每日浮动可超10%（22433）、比特币用途为洗钱与受限兑换的时点判断（22429）不入主干"
+  },
+  {
+   "unit_id": "SG1-U0319",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "比特币技术原理科普：私钥公钥与所有权转移机制、全网计算机记账与挖矿奖励机制（22407-22419）；货币与币值判断逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第307封信虚拟货币：货币本质信誉/去中心化三特点/利弊/用途定价值/赌局与骗局/实则实之虚则虚之"
+}

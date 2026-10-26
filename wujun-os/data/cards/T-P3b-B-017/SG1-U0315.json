@@ -1,0 +1,262 @@
+{
+ "unit_id": "SG1-U0315",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人和人、东西和东西之间的差别是数量级的差别",
+   "quote": "差别是数量级的差别",
+   "anchor": {
+    "start_line": 22029,
+    "end_line": 22029,
+    "fingerprint": [
+     "数量级"
+    ],
+    "book_code": "SG1",
+    "sha1": "29d51ca5ca288b3bbc780d0936422fd430853bcc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D04-2"
+   ],
+   "concept_key": "差别是数量级的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "盖茨马云不弯腰捡100美元钞票例（22029）；考试成绩差5分水平可差一个数量级（22031）；原厂精品与高仿货比货该扔（22033）；不建议用假货混真货圈子，被看破不说破但遭鄙视（22035-22037）；量级之差另见第54封五级工程师",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-01",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奢侈品比高档品只好一点点约20%，价格却可高出几倍",
+   "quote": "好一点点，大约20%",
+   "anchor": {
+    "start_line": 22041,
+    "end_line": 22043,
+    "fingerprint": [
+     "好一点点",
+     "高出几倍"
+    ],
+    "book_code": "SG1",
+    "sha1": "399a0f7af0e370a3649d53c370a9634e4d757606"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "奢侈品溢价逻辑",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "徕卡/蔡司/尼康镜头效果递减而价格7:2:1（22043）；香奈儿限量版与古驰手袋6:3:2（22045）；为最后一点性能花好几倍的钱",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-02",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "宁可多花时间做一本好书，不花大力气推广一本平庸的书",
+   "quote": "宁可多花点时间做一本好书",
+   "anchor": {
+    "start_line": 22049,
+    "end_line": 22051,
+    "fingerprint": [
+     "做一本好书",
+     "推广"
+    ],
+    "book_code": "SG1",
+    "sha1": "c138167730332da7550f6f16a8f34a8717f071b1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "产品力胜过大推广",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "两个画家故事：两天作画卖半年与半年作画半天卖，总时间相同收入悬殊（22049）；营销人士大投入方案推平庸书（22047）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-03",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "免费低价模式指望日后收费不会到来；无人有意愿付费只能说明产品做失败",
+   "quote": "只能说明产品做失败了",
+   "anchor": {
+    "start_line": 22053,
+    "end_line": 22057,
+    "fingerprint": [
+     "有意愿付费",
+     "慈善之心"
+    ],
+    "book_code": "SG1",
+    "sha1": "dbee736d0ad0995bb4ae567008d416ae85e27d9f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "无人付费即产品失败",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "互联网思维低价免费倒贴买流量推广（22053）；占大市场份额后收费这一天永远不会到来，因东西不值钱（22055）；某知名企业家劝古驰降价被评境界停留在廉价商品销售（22057）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-04",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奢侈品须对技术进步有免疫力，随技术进步性能不断提升的产品无法保值",
+   "quote": "对于技术进步有免疫力",
+   "anchor": {
+    "start_line": 22061,
+    "end_line": 22069,
+    "fingerprint": [
+     "技术进步",
+     "通货膨胀"
+    ],
+    "book_code": "SG1",
+    "sha1": "85360ccb5904e9d56671023b0d8d13752f8d4abd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D08-2"
+   ],
+   "concept_key": "对技术进步的免疫力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "斯坦威二手琴售价=当年新琴价加通胀（22061）；80年前斯坦威现售3万多美元（22063）；百达翡丽限量版卖到上百万美元（22065）；机理=工资增速快于通胀且可用上百年（22067）；数码相机智能手表汽车二手难维持原价（22069）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-05",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "摩尔定律驱动下电子产品做不成奢侈品，几年后只剩一个壳",
+   "quote": "几年后就剩一个壳了",
+   "anchor": {
+    "start_line": 22071,
+    "end_line": 22073,
+    "fingerprint": [
+     "摩尔定律",
+     "停产"
+    ],
+    "book_code": "SG1",
+    "sha1": "b1818429e5a233e4990ba37f1472ef3912f5f56f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "电子产品做不成奢侈品",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Apple Watch金表1-2万美元，事先推断卖不出去后停产（22071）；诺基亚Vertu奢侈品手机随威图破产应验（22073）；女星急售旧货行不收，越放越贱（22075）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-06",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "二手货流动性决定奢侈品新品销售难易与价格，缺流动性须靠品牌宣传",
+   "quote": "二手货的流动性非常重要",
+   "anchor": {
+    "start_line": 22077,
+    "end_line": 22089,
+    "fingerprint": [
+     "流动性",
+     "Lladro"
+    ],
+    "book_code": "SG1",
+    "sha1": "0a4c36b04b6f85789f3fc5aaa304090935676e42"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "二手流动性决定销售",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Lladro爱马仕徕卡Lalique二手易高价变现（22077）；LV卡地亚手袋缺流动性需做广告（22079）；宝格丽项链易转手、刻字个性化戒指难脱手（22081-22083）；毕加索夏加尔价格稳定易套现、小众画家卖画难（22085-22087）；瓷器大师缺流动性，须花大力气做品牌宣传（22089）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-07",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "二手流动性同样决定必需品定价：二手能保值流通则新品可卖高价",
+   "quote": "也适用于必需品的销售",
+   "anchor": {
+    "start_line": 22091,
+    "end_line": 22095,
+    "fingerprint": [
+     "教科书",
+     "半价收购"
+    ],
+    "book_code": "SG1",
+    "sha1": "4e01aefe4c3c94cb6a9bf76b4dc755aaf1e77a33"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-2"
+   ],
+   "concept_key": "二手价支撑新品价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《算法导论》美版99美元对中译本100元（22093）；学生5-6折转卖、书店半价收购、一本用3-4次（22095）；普通书二手仅原价1/10-1/5故新书售价有限（22095）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-08",
+   "unit_id": "SG1-U0315"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "奢侈品销售第三条件是有动听的故事可讲，主人不辟谣利于品牌传播",
+   "quote": "有故事可以讲",
+   "anchor": {
+    "start_line": 22097,
+    "end_line": 22099,
+    "fingerprint": [
+     "故事",
+     "品牌"
+    ],
+    "book_code": "SG1",
+    "sha1": "692bba4f6ab26e3064cd1fb79f064dcafadb4606"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "品牌需要好故事",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "香奈儿古驰普拉达故事有真有假从不辟谣（22097）；商业道理相通，奢侈品价高放大营销技巧（22099）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0315-09",
+   "unit_id": "SG1-U0315"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0315",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "具体价格行情与时点性商业事件不入主干：80年前斯坦威现售3万多美元（22063）、百达翡丽限量版上百万美元（22065）、Apple Watch金表停产（22071）、威图破产（22073）依附时点行情，可迁移判断逻辑已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第303封信奢侈品销售秘诀：量级差别/溢价逻辑/产品力胜推广/无人付费即失败/技术进步免疫力/电子产品难成奢侈品/二手流动性/二手价支撑新品价/品牌故事"
+}
