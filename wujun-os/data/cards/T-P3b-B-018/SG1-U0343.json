@@ -1,0 +1,85 @@
+{
+ "unit_id": "SG1-U0343",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "量入而出：过度举债无一例外破产；教堂靠捐款，有钱快建没钱停工，质量从不马虎",
+   "quote": "它们永远量入而出",
+   "anchor": {
+    "start_line": 24562,
+    "end_line": 24566,
+    "fingerprint": [
+     "量入而出",
+     "破产"
+    ],
+    "book_code": "SG1",
+    "sha1": "9c874800c13c5203706e7592d8b0214ef04dbd45"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-1"
+   ],
+   "concept_key": "量入而出",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军看米兰大教堂（历时近6个世纪，24558）和圣家族教堂后增加的新理解（24562）；以举债追求速度、一次性项目如奥运会常成财政负担（24564）；对中国举债搞建设的点评属X2/X6不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0343-01",
+   "unit_id": "SG1-U0343"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "达·芬奇用鸡蛋牛奶调颜料尝试新画法，当时好看但约50年后剥落，先天不足难保存",
+   "quote": "开始从墙上剥落了",
+   "anchor": {
+    "start_line": 24542,
+    "end_line": 24544,
+    "fingerprint": [
+     "鸡蛋和牛奶",
+     "发明家"
+    ],
+    "book_code": "SG1",
+    "sha1": "f4b938cb8a80f293225259f32693e08856908a1d"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "新技法先天不足的代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "达·芬奇首先是发明家，总把技术用到绘画（24542）；壁画通常用湿壁画一次完成不能修改（24540）；案例承载新方法未成熟的代价，史料经吴军转述",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0343-02",
+   "unit_id": "SG1-U0343"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0343",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "米兰艺术之旅游记叙述：志愿者地图、《最后的晚餐》参观预约、主教座堂外观与风格、圣莫里西奥教堂等景点介绍（24518-24560、24568-24600）以行程见闻为主体"
+  },
+  {
+   "unit_id": "SG1-U0343",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "《最后的晚餐》创作年代、毁损与修复史、米兰大教堂建筑风格史（24534-24558、24582-24584）纯史实科普"
+  },
+  {
+   "unit_id": "SG1-U0343",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "第332封预告与思考题（24600-24602）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第331封信：米兰游记X3为主，仅取量入而出与新技法代价2卡"
+}

@@ -1,0 +1,201 @@
+{
+ "unit_id": "SG1-U0346",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理解一群人的行为要找其核心价值观：知道美国人对幸福的看重，就能理解其很多行为",
+   "quote": "就能理解他们的很多行为",
+   "anchor": {
+    "start_line": 24854,
+    "end_line": 24854,
+    "fingerprint": [
+     "对幸福的看重",
+     "离婚率"
+    ],
+    "book_code": "SG1",
+    "sha1": "d7ee99afaedf02af81a6c110ba5bba9fa806b656"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "从核心价值观理解行为",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《独立宣言》是世界上唯一将追求幸福的权利写进立国文件的国家（24844-24846）；hold与self-evident译法辨析（24850-24852）属X8不入卡；离婚再婚举例属X5",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0346-01",
+   "unit_id": "SG1-U0346"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不理性地追求幸福虽吃了很多亏，一代代人仍努力追求，造就乐观豁达的性格",
+   "quote": "乐观豁达的性格特点",
+   "anchor": {
+    "start_line": 24878,
+    "end_line": 24878,
+    "fingerprint": [
+     "不理性地追求幸福",
+     "精神追求"
+    ],
+    "book_code": "SG1",
+    "sha1": "e538e118c7b8ecd038903a894da5025b3678cd69"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "追求幸福造就乐观",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国人喜欢花钱、下馆子、旅游，不讲究成本只要自己高兴（24876）；这样的生活方式让美国人吃亏（24878）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0346-02",
+   "unit_id": "SG1-U0346"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "离婚是大概率事件，所以婚前信托与财产声明必须提前做，大家都知道也就不见怪",
+   "quote": "离婚是大概率事件",
+   "anchor": {
+    "start_line": 24864,
+    "end_line": 24866,
+    "fingerprint": [
+     "信托",
+     "大概率事件"
+    ],
+    "book_code": "SG1",
+    "sha1": "b9cd23295f043fffde3abd4e9eb0dfddff47b0dd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D09-1"
+   ],
+   "concept_key": "大概率事件要提前制度安排",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "X5例外取其方法论：家族跨代/王朝信托写明谁能花多少，配偶婚前签不碰家族财产声明（24864）；中国人觉得伤感情（24866）；肯尼迪夫人杰奎琳例（24868）为婚姻议题案例不入卡；不构成财务建议",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0346-03",
+   "unit_id": "SG1-U0346"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "分歧无法一致时，找权威第三方裁决最简单最公正；遇纠纷别直接动火",
+   "quote": "权威的第三方裁决",
+   "anchor": {
+    "start_line": 24900,
+    "end_line": 24902,
+    "fingerprint": [
+     "第三方",
+     "警察的报告"
+    ],
+    "book_code": "SG1",
+    "sha1": "0bef1cc68c31c7d06e51be9ff36b8e2209a129d0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "第三方裁决解纷",
+   "ability_tags": [
+    "思",
+    "沟"
+   ],
+   "notes": "美国人打官司并非想告倒谁（24900）；撞车不吵架不道歉，叫警察拿报告，保险公司处理，不行上法庭（24902）；乐视讨债对比（24904-24906）属X2",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0346-04",
+   "unit_id": "SG1-U0346"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "美国公司多在一个行业做精深而非什么都做，与反垄断法律限制及厌恶国王的习俗有关",
+   "quote": "尽可能做得精深",
+   "anchor": {
+    "start_line": 24888,
+    "end_line": 24892,
+    "fingerprint": [
+     "反垄断",
+     "跨行业垄断"
+    ],
+    "book_code": "SG1",
+    "sha1": "ec6d6e851a7c15f2ea46e8a3924ed7cae5cb9c16"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "专注单一行业做精深",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "沃尔玛、家得宝申请给消费者发放小额贷款被驳回，因担心零售商成银行后控制消费者（24890）；对「国王」的反感致极端反垄断（24888）；领域直连不适用",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0346-05",
+   "unit_id": "SG1-U0346"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不崇拜权威：权威是小领域的国王，美国任何人在自己领域都没有那么大权威",
+   "quote": "权威其实是一个小领域的国王",
+   "anchor": {
+    "start_line": 24894,
+    "end_line": 24896,
+    "fingerprint": [
+     "院士",
+     "一把手"
+    ],
+    "book_code": "SG1",
+    "sha1": "6af9700df71b220a3fae1ef82f89088e5edcf263"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "不崇拜权威",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对比中国院士与单位「一把手」的权威（24894）；「神是人创造的，而非反过来」（24896）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0346-06",
+   "unit_id": "SG1-U0346"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0346",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "美国人离婚再婚、老科学家娶少妻无人管、杰奎琳再嫁奥纳西斯、女运动员嫁香港豪门花钱受限、底层发迹者婚姻被骗（24854-24874）属婚姻与亲密关系议题，仅取大概率事件方法论"
+  },
+  {
+   "unit_id": "SG1-U0346",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "美国立国与「国王」：五月花号公约、华盛顿/小罗斯福/特朗普与独裁担忧、总统道德楷模变化（24860、24880-24888）属政治与文明历史叙述"
+  },
+  {
+   "unit_id": "SG1-U0346",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《独立宣言》英文hold与self-evident译法辨析（24848-24852）及附录英文节选（24910）属翻译辨析，无可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0346",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "预告、推荐阅读与读者问题（24908、24912-24924）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第334封信：美国人（上），价值观与习俗叙述，取方法论6卡"
+}

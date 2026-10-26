@@ -1,0 +1,282 @@
+{
+ "unit_id": "SG1-U0332",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Chavrusa最关键两点是提问和逻辑：辩论中观点不重要，谁的结论更合逻辑谁赢",
+   "quote": "重要的是逻辑",
+   "anchor": {
+    "start_line": 23603,
+    "end_line": 23605,
+    "fingerprint": [
+     "观点不重要",
+     "提问和逻辑"
+    ],
+    "book_code": "SG1",
+    "sha1": "5c9d634bd5f5a03a959f18071c5541948f46270d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "提问与逻辑是学习的关键",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "notes": "Chavrusa=犹太人两人研读经典后辩论的学习法（23601）；《圣经》有无数种解释、只有更合理没有绝对正确（23603）；吴军因给圣荷西大学做顾问而了解（23599）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-01",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "获得知识尤其是新知时，提出好的问题比解决问题更重要",
+   "quote": "提出好的问题比解决问题更重要",
+   "anchor": {
+    "start_line": 23605,
+    "end_line": 23605,
+    "fingerprint": [
+     "提出好的问题",
+     "新知"
+    ],
+    "book_code": "SG1",
+    "sha1": "199cc004fc9deac388028f7df76d74eaf5a429c1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "好问题比解决问题重要",
+   "ability_tags": [
+    "思",
+    "学"
+   ],
+   "notes": "笛卡尔方法论中提问是获得新知的起点（23621，转述）；张首晟称清华/MIT教授与斯坦福教授唯一差距在提问（23621，转述）；吴军称后文还会再分析",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-02",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逻辑不会错：从前提出发、尊重结果，结果与想象不同时找到错误原因就是进步",
+   "quote": "逻辑是不会错的",
+   "anchor": {
+    "start_line": 23609,
+    "end_line": 23611,
+    "fingerprint": [
+     "前提",
+     "找到任何一个错误的原因"
+    ],
+    "book_code": "SG1",
+    "sha1": "61029522b966eace581e32efbfc49204c5d1863b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "尊重逻辑与结果，找错即进步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "犹太老师（贾里尼克、埃里克·布莱尔、雅让斯基等）治学强调不带过多主观假设（23607-23609），该原则源自这些老师做法，结论句为吴军归纳；错因可能是想象错/前提错/实验没做好（23611）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-03",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对未知的世界我们可能没有标准答案，教育只教找标准答案是遗憾",
+   "quote": "我们可能没有标准答案",
+   "anchor": {
+    "start_line": 23613,
+    "end_line": 23613,
+    "fingerprint": [
+     "标准答案",
+     "未知的世界"
+    ],
+    "book_code": "SG1",
+    "sha1": "0842c72971a75ba3b7ecad06b36a5f095a32f677"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "未知世界没有标准答案",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对比：中国强调直接传授灌输、考试成绩好，犹太人强调提问辩论与内在逻辑（23597-23599）；呼应U0345同名思路但概念键不同",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-04",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "一个天天挂在嘴边的词，反而常常说不清它的意思",
+   "quote": "天天挂在嘴边的词",
+   "anchor": {
+    "start_line": 23631,
+    "end_line": 23633,
+    "fingerprint": [
+     "勇气",
+     "说不清"
+    ],
+    "book_code": "SG1",
+    "sha1": "9c4b4bcb5d9123e728f380daeade8d6fb59735dd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "熟词说不清含义",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "苏格拉底追问政治家「什么是勇气」答不上来（23631）；政治家先答「危机时坚守岗位」，被反问「若正确决定是撤退呢」（23633）；归纳句为吴军",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-05",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "提不出问题的人，要么思想懒惰，要么听到的内容还没消化吸收",
+   "quote": "要么是思想懒惰",
+   "anchor": {
+    "start_line": 23623,
+    "end_line": 23623,
+    "fingerprint": [
+     "提不出问题的人",
+     "没有消化吸收"
+    ],
+    "book_code": "SG1",
+    "sha1": "8cb369c2b0deaa37148e62ac66187a54c6c88d1a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D01-1"
+   ],
+   "concept_key": "提不出问题的原因",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "notes": "能提出问题说明对主题有所了解，并帮助养成独立思考能力（23623）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-06",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底不灌输、装作不懂，用提问与反问让对方自己发现真理，自称智慧的助产师",
+   "quote": "智慧的助产师",
+   "anchor": {
+    "start_line": 23629,
+    "end_line": 23629,
+    "fingerprint": [
+     "苏格拉底",
+     "启发式的反问"
+    ],
+    "book_code": "SG1",
+    "sha1": "e51aa0288b6936da9df98ae557e2e84a5b76eadc"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4"
+   ],
+   "concept_key": "苏格拉底诘问法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=苏格拉底（古希腊哲学家）；后人概括为诘问法、影响很多教育家（23651）；吴军取用：与Chavrusa共同点见C-SG1-U0332-09",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-07",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "苏格拉底论勇气：做合理的事不论危险与否；危险时保持清醒镇定，反面是冲动失去理智",
+   "quote": "勇气是去做合理的事情",
+   "anchor": {
+    "start_line": 23637,
+    "end_line": 23637,
+    "fingerprint": [
+     "合理的事情",
+     "保持清醒的头脑"
+    ],
+    "book_code": "SG1",
+    "sha1": "5c6f6e9b21f4392370d95671890e6ff35ce5e2f5"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-4",
+    "D02-3"
+   ],
+   "concept_key": "苏格拉底论勇气",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=苏格拉底；吴军借此回应第285封《对话班超》对勇气的讨论（23649、23657）；苏格拉底赴死事迹属史实叙述不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-08",
+   "unit_id": "SG1-U0332"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "Chavrusa与诘问法都以质疑对方为出发点，但讲究逻辑而不是胡搅蛮缠",
+   "quote": "而不是胡搅蛮缠",
+   "anchor": {
+    "start_line": 23655,
+    "end_line": 23655,
+    "fingerprint": [
+     "质疑对方",
+     "逻辑"
+    ],
+    "book_code": "SG1",
+    "sha1": "1a20b4c0b25046a2ff65e10f192f1e9c2f4473c6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "质疑要讲逻辑不胡搅蛮缠",
+   "ability_tags": [
+    "思",
+    "沟"
+   ],
+   "notes": "吴军总结句（23655）；思考题之一要求找网络上「怼」的问题总结（23659）按X1记",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0332-09",
+   "unit_id": "SG1-U0332"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0332",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "苏格拉底62岁反对判十将军死刑、70岁被控不敬神拒绝逃跑赴死（23639-23647）为人物史实叙述，仅留勇气定义的转述卡"
+  },
+  {
+   "unit_id": "SG1-U0332",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "犹太人教育背景（人口0.2%出思想家商巨）、孩子好奇心被家长老师压抑等教育议题（23595、23625-23627）属教育与亲子，方法论部分已取提问卡"
+  },
+  {
+   "unit_id": "SG1-U0332",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "思考题（Chavrusa缺点、网络「怼」总结）与推荐阅读（23659-23667）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第320封信：Chavrusa与苏格拉底提问逻辑方法论9卡，史实/教育背景/互动入X处置"
+}

@@ -1,0 +1,251 @@
+{
+ "unit_id": "SG1-U0341",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "我们对事物的完整理解是拼凑起来的，大脑靠不动脑子的快捷方式处理信息",
+   "quote": "拼凑起来的",
+   "anchor": {
+    "start_line": 24340,
+    "end_line": 24342,
+    "fingerprint": [
+     "快捷方式",
+     "不动脑子"
+    ],
+    "book_code": "SG1",
+    "sha1": "55872d613a4c110b464a34ccfa3c0ddb23810ea0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "大脑的快捷方式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "眼睛光学上只注意约一度角真实图像，前方180度由脑合成（24334）；魔术师把戏借此得逞（24338）；爱因斯坦凹脸面具看成凸脸（24324-24332）；我们处理信息远没想象快，呼应第205封带宽（24340）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-01",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "骗术得逞不是人傻，而是骗子加入未知又似是而非的新概念，让快捷方式骗了自己",
+   "quote": "快捷方式骗了自己",
+   "anchor": {
+    "start_line": 24352,
+    "end_line": 24352,
+    "fingerprint": [
+     "似是而非",
+     "新概念"
+    ],
+    "book_code": "SG1",
+    "sha1": "004a7e5d7fe1028c4d020b25468a353e7e3cbf2a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "未知新概念触发快捷方式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "水变油逐层说辞：水可分解出氢气→催化剂不耗能→氘氚核聚变（24354-24364）；高中能量守恒与热力学第二定律可识破（24356）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-02",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "水变油类骗局的共同点是把简单问题复杂化，以触发受众的快捷方式",
+   "quote": "把简单的问题复杂化",
+   "anchor": {
+    "start_line": 24366,
+    "end_line": 24366,
+    "fingerprint": [
+     "共同的特点",
+     "金融衍生品"
+    ],
+    "book_code": "SG1",
+    "sha1": "6286d1f190eff5232739e82e2aa7d75f4b91afca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "简单问题复杂化是骗术特征",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国金融危机前金融衍生品说明书都如此（24366）；巴菲特原话转述见C-SG1-U0341-04，吴军概括见本卡（R1互引）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-03",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特拒绝推销的衍生品时说：它的招股书如此复杂，里面恐怕有诈",
+   "quote": "里面恐怕有诈",
+   "anchor": {
+    "start_line": 24366,
+    "end_line": 24366,
+    "fingerprint": [
+     "巴菲特",
+     "招股"
+    ],
+    "book_code": "SG1",
+    "sha1": "6286d1f190eff5232739e82e2aa7d75f4b91afca"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "复杂得离谱恐有诈",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特；吴军概括句见C-SG1-U0341-03（R1互引）；转述内容为巴菲特拒绝别人推销衍生品时的说法",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-04",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人常不好意思显得自己不懂，且过分自信超过自卑，所以不敢公开质疑",
+   "quote": "不好意思显得自己不懂",
+   "anchor": {
+    "start_line": 24370,
+    "end_line": 24374,
+    "fingerprint": [
+     "过分自信",
+     "不敢公开质疑"
+    ],
+    "book_code": "SG1",
+    "sha1": "4ea7b6abbfa5906a165d4b27aac5dec17ff3566d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-3"
+   ],
+   "concept_key": "不懂装懂与过分自信",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "心理学实验：70%-80%的人相信自己比别人聪明（应为50%），95%-98%认为自己道德比大众高尚（24372）；巴铁炒作人答「工程师最终能解决」让人不敢质疑（24378）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-05",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "明知可能是庞氏骗局仍参与，因自认比别人聪明能安全退出，常成最后接盘侠",
+   "quote": "最后一批接盘侠",
+   "anchor": {
+    "start_line": 24380,
+    "end_line": 24386,
+    "fingerprint": [
+     "庞氏骗局",
+     "安全退出"
+    ],
+    "book_code": "SG1",
+    "sha1": "7697defa5453d00849aa5110dd7391a434dadc01"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "自以为聪明的接盘侠",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "炒作虚拟货币者认为价值来自未来更高价接盘（24386）；麦道夫诈骗600亿美元（24388）仅作佐证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-06",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "识破骗局先追问：水变油问能量从哪来，虚拟货币问价值从哪来",
+   "quote": "问问价值从哪里来",
+   "anchor": {
+    "start_line": 24384,
+    "end_line": 24384,
+    "fingerprint": [
+     "能量从哪里来",
+     "庞氏骗局"
+    ],
+    "book_code": "SG1",
+    "sha1": "2580b6fcd6ab294abffcba8c75c76cdc8cdd290d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "追问能量与价值从哪来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军限定指毫无价值的虚拟货币，不含有价值可用于洗钱的比特币（24384）；不构成投资建议",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-07",
+   "unit_id": "SG1-U0341"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "识破水变油四要点：切断快捷方式；警惕简单问题复杂化；不懂不可耻不装懂；别觉得别人更傻",
+   "quote": "切断脑子里的快捷方式",
+   "anchor": {
+    "start_line": 24392,
+    "end_line": 24398,
+    "fingerprint": [
+     "不懂装懂",
+     "接盘侠"
+    ],
+    "book_code": "SG1",
+    "sha1": "767d36a614e1a3d18f491eab1fa0a62679d2f600"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "识破骗术四要点",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清单整体一卡（R3）；买乐视股票的人属于别人似乎都懂的情形（24396）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0341-08",
+   "unit_id": "SG1-U0341"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0341",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "王洪成水变油事件经过（20世纪80-90年代媒体报道、20万专家来信、被内参《水变油，永远的神话》戳穿，24344-24348）为事件史述"
+  },
+  {
+   "unit_id": "SG1-U0341",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "巴铁、乐视等具体事件点评与虚拟货币行情（24376-24378、24396-24400）属时点事件评论，取其可迁移判断后不再单列"
+  },
+  {
+   "unit_id": "SG1-U0341",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "原著配图说明、预告与读者问题（24320-24332、24400-24402）属载体与互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第329封信：水变油与认知误区，案例承载可迁移的反骗术判断，8卡"
+}

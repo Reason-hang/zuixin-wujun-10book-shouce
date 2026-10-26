@@ -1,0 +1,253 @@
+{
+ "unit_id": "SG1-U0342",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "靠借新债还旧债且永远还不上的游戏都是庞氏骗局，今天的包装用情怀与未来",
+   "quote": "借新债还旧债",
+   "anchor": {
+    "start_line": 24418,
+    "end_line": 24420,
+    "fingerprint": [
+     "庞氏骗局",
+     "情怀和未来"
+    ],
+    "book_code": "SG1",
+    "sha1": "4e297afd9669d197a7ba0ed8d4cf974d97b19b67"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "庞氏骗局的本质",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "媒体称乐视「筹了钱在做正事」不算庞氏骗局，吴军反驳（24418）；本卡不涉及对具体公司的时点评价",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-01",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高级庞氏骗局三特征：奢华场所建人脉与赚钱口碑；不断吸引新人；利润靠做账、现金流有问题",
+   "quote": "不断吸引新人进来",
+   "anchor": {
+    "start_line": 24422,
+    "end_line": 24430,
+    "fingerprint": [
+     "奢华的场所",
+     "现金流"
+    ],
+    "book_code": "SG1",
+    "sha1": "6da9a6f2e377ebb10198f580a1a149a6197098a9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "庞氏骗局三特征",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "清单整体一卡（R3）；口碑可以是派息或股票不断上涨（24422）；第三特征详见C-SG1-U0342-03",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-02",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好生意能自我造血；利润可做假账而现金流实打实，靠资本运作与新投资保现金的是庞氏骗局",
+   "quote": "现金流是实打实的",
+   "anchor": {
+    "start_line": 24426,
+    "end_line": 24430,
+    "fingerprint": [
+     "自我造血",
+     "现金流"
+    ],
+    "book_code": "SG1",
+    "sha1": "1e916bd8a9a26e9a29648a75468eff5fb6d4a686"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1",
+    "D09-2"
+   ],
+   "concept_key": "现金流比利润真实",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "好生意投资到一定程度后不再需要新投资，即使需要，原投资人看到前景也会继续投（24426）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-03",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "特斯拉累计融资约5亿美元就造出性能最好的电动车，乐视则过于投机取巧讲颠覆世界的神话",
+   "quote": "过于投机取巧",
+   "anchor": {
+    "start_line": 24454,
+    "end_line": 24456,
+    "fingerprint": [
+     "特斯拉",
+     "投机取巧"
+    ],
+    "book_code": "SG1",
+    "sha1": "65f81c310f06d35b06b11ce472512830e2ffd91c"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "改变世界不一定靠烧钱",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "特斯拉历轮融资：天使轮极少、第二轮1300万、第三轮4000万、第四轮4500万、第五轮4000万，Roadster交付时共1.87亿美元（24442-24452）；马斯克投入个人7000万（24452）；对比乐视属案例，具体融资数额为案例细节",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-04",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "公司破产清偿顺序：先高级债务、再债券、再优先股，普通股通常一分钱也拿不回",
+   "quote": "通常一分钱也拿不回",
+   "anchor": {
+    "start_line": 24492,
+    "end_line": 24492,
+    "fingerprint": [
+     "高级债务",
+     "优先股"
+    ],
+    "book_code": "SG1",
+    "sha1": "fe47fbe00489768eeda2368300e8f5d99248aa88"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "公司资本层级清偿顺序",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "资本层级自上而下：高级债务（Senior Debts有抵押/Senior Notes）→债券（Bonds/Notes）→优先股→普通股（24466-24490）；章首声明：不构成投资建议；中国上市公司可用股票抵押借款极其危险（24470）属X6不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-05",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "风险和回报成正比：最先被偿还的高级债务，利率通常较低",
+   "quote": "风险和回报是成正比的",
+   "anchor": {
+    "start_line": 24472,
+    "end_line": 24472,
+    "fingerprint": [
+     "高级债务",
+     "利率"
+    ],
+    "book_code": "SG1",
+    "sha1": "dcb7072a0ddd2de0c43522f923d9905b65578971"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "风险回报成正比",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "债券利率取决于公司信用评级，评级低则利息高（24476）；不构成投资建议",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-06",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "普通股最不安全：巴菲特投高盛、GE拿优先股；作者持花旗优先股在股价腰斩时本金未损",
+   "quote": "一分钱没有少地拿了回来",
+   "anchor": {
+    "start_line": 24494,
+    "end_line": 24494,
+    "fingerprint": [
+     "巴菲特",
+     "优先股"
+    ],
+    "book_code": "SG1",
+    "sha1": "e6a3e7bd70eb05489f281d94d8fb790626c902ba"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "优先股保护本金",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "巴菲特2008年投高盛与GE拿的都是优先股（24494，转述其动作）；花旗被政府救助、股票被稀释四倍、价格跌75%，而吴军的优先股一分没少（24494）；不构成投资建议",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-07",
+   "unit_id": "SG1-U0342"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "吴军求教口碑极好的业内CEO得知乐视是庞氏骗局，劝阻朋友加盟并卖出所投公司",
+   "quote": "这是一个庞氏骗局",
+   "anchor": {
+    "start_line": 24414,
+    "end_line": 24416,
+    "fingerprint": [
+     "口碑极好",
+     "加盟乐视"
+    ],
+    "book_code": "SG1",
+    "sha1": "e5347ac464e831aff4ee58fd4ff4693da736e9e0"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-2"
+   ],
+   "concept_key": "向可信行家求证以避险",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "被转述者=国内一家著名口碑极好的IT公司CEO（未具名），其理由原文未展开（24416）；案例承载「向可信行家求证」的避险方式",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0342-08",
+   "unit_id": "SG1-U0342"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0342",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "乐视资金链断裂事件、乐视若在美国会死得更快、债主查封、拖欠工资在中美的不同处理（24414、24432-24438、24496-24500）属针对当时新闻事件的评论"
+  },
+  {
+   "unit_id": "SG1-U0342",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "中美股市制度差异（美股无跌停停牌、中国「国家队」）与中国上市公司股票抵押借款风险（24436、24470）属宏观与制度时点判断"
+  },
+  {
+   "unit_id": "SG1-U0342",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与读者问题（24502-24506）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第330封信：乐视与资本层级，事件评论X2，取庞氏骗局特征与资本层级清偿等8卡（金融内容不构成投资建议）"
+}

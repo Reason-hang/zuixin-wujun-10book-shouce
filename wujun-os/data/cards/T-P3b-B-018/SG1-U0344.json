@@ -1,0 +1,57 @@
+{
+ "unit_id": "SG1-U0344",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "参观大教堂要先做准备，否则匆匆照张相就走，是浪费宝贵的旅游时间",
+   "quote": "要多少作点准备",
+   "anchor": {
+    "start_line": 24620,
+    "end_line": 24622,
+    "fingerprint": [
+     "匆匆照一张相",
+     "浪费时间"
+    ],
+    "book_code": "SG1",
+    "sha1": "4f915b3b681f6bb4cf69de8bd504c45bf3450238"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D05-1"
+   ],
+   "concept_key": "出行先做功课",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "X3例外取其方法论：先了解再去，避免外面照不全、里面太黑照不清（24620）；教堂看点清单与摄影技巧细节不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0344-01",
+   "unit_id": "SG1-U0344"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0344",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "教堂看点清单（建筑风格、彩窗、壁画雕塑、名人墓、管风琴）、摄影技巧（ISO、广角、端平相机、逆光顺光）、米兰治安注意与八处文化景点清单（24624-24706）以行程与攻略叙述为主体"
+  },
+  {
+   "unit_id": "SG1-U0344",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "哥特/文艺复兴/巴洛克/新古典主义建筑风格演变与圣吉奥万尼等教堂年代（24630-24640、24694-24696）纯史实科普"
+  },
+  {
+   "unit_id": "SG1-U0344",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "读者问题（24710）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第332封信：游历清单与摄影攻略，全篇X3，仅取出行先做准备1卡（方法论例外）"
+}

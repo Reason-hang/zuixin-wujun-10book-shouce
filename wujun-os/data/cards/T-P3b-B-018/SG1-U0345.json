@@ -1,0 +1,172 @@
+{
+ "unit_id": "SG1-U0345",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "平均值只在分布集中时有意义；两极分布的群体，平均分无法代表这群人",
+   "quote": "完全是两个世界里的人",
+   "anchor": {
+    "start_line": 24728,
+    "end_line": 24732,
+    "fingerprint": [
+     "正态分布",
+     "平均分"
+    ],
+    "book_code": "SG1",
+    "sha1": "887284f661581ec36e8694e9090764e7ef4303bf"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D04-1"
+   ],
+   "concept_key": "平均值失效于两极分布",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "日本人可用统计平均概括，美国不行（24728）；中学成绩分布0到100分且有大量零分时，70分均分无法判断升学率（24732）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0345-01",
+   "unit_id": "SG1-U0345"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "认识美国人的误区是拿本国国民的相似性去套；应细分人群，不同情况得不同结论",
+   "quote": "存在着巨大的差异性",
+   "anchor": {
+    "start_line": 24734,
+    "end_line": 24736,
+    "fingerprint": [
+     "相似性",
+     "细分"
+    ],
+    "book_code": "SG1",
+    "sha1": "aa2e29decb1b305223ea00ec74d352703caac48d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "细分人群而非套平均特性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "「美国人有礼貌」与「没礼貌」都是事实（24738）；说美国人存钱或不存钱都是以中国人思维理解，先要看说的是哪一群（24776）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0345-02",
+   "unit_id": "SG1-U0345"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有人用简单感性的数据吓人；比较贫富差距应看基尼系数等公认指标",
+   "quote": "使用简单而感性的数据",
+   "anchor": {
+    "start_line": 24780,
+    "end_line": 24786,
+    "fingerprint": [
+     "基尼系数",
+     "资不抵债"
+    ],
+    "book_code": "SG1",
+    "sha1": "6602e598e9cdb6d0fb31db4d4f1c896ffe2324ef"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "警惕感性数据看公认指标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "前1%财富超过后50%总和各国都差不多，是后面的人钱太少而非前面太多（24780）；美国最后20%资不抵债、资产总和为负（24780）；具体基尼系数数值属时点数据不入卡（24786）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0345-03",
+   "unit_id": "SG1-U0345"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "不要因为大量美国人做某事就说明没问题，要看是哪一类人；评判好坏应参考中上阶层",
+   "quote": "不要因为大量美国人吃",
+   "anchor": {
+    "start_line": 24796,
+    "end_line": 24796,
+    "fingerprint": [
+     "什么便宜吃什么",
+     "没有问题"
+    ],
+    "book_code": "SG1",
+    "sha1": "b36d0e110605b850bb28e91a88c03d0ce2206eec"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "多数人的选择不代表好",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "1/3的人不工作、4成人几乎没有资产，目标是吃饱什么便宜吃什么（24796）；判断食物好坏应参考中上阶层饮食（24800）；转基因利弊本身（24806）不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0345-04",
+   "unit_id": "SG1-U0345"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中国教育习惯单一思维、找标准答案，用它理解美国人会差十万八千里",
+   "quote": "喜欢找标准答案",
+   "anchor": {
+    "start_line": 24818,
+    "end_line": 24820,
+    "fingerprint": [
+     "单一的思维方式",
+     "十万八千里"
+    ],
+    "book_code": "SG1",
+    "sha1": "a2eace8cfb169b6c9d96c53a0ed1710ac18f3742"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "标准答案思维的局限",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与C-SG1-U0332-04同主题但概念键不同；与不同美国人交往，管用的方式对另一人可能无效（24820）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0345-05",
+   "unit_id": "SG1-U0345"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0345",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "美国政府穷企业富（苹果2500亿美元现金等）、美国贫富差距与家庭净资产分布、中美基尼系数、401K/IRA与失业率（24766-24774、24778-24790）属宏观经济数据与时点论断"
+  },
+  {
+   "unit_id": "SG1-U0345",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "美国人是否吃转基因食品、有机食品与Google食堂、美国人礼貌差异的细节（24792-24806、24812）属具体生活习惯描述，无独立可迁移结论"
+  },
+  {
+   "unit_id": "SG1-U0345",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "美国基础教育比中国好、中小学生辛苦（24808-24810）属教育制度比较"
+  },
+  {
+   "unit_id": "SG1-U0345",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与读者问题（24822-24826）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第333封信：对美国人认识的误区，国情数据X6，取分析方法论5卡"
+}

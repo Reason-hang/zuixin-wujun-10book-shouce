@@ -1,0 +1,169 @@
+{
+ "unit_id": "SG1-U0336",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谢安教子从不发火，以礼节教导但态度坚决，对善恶是非绝不含糊",
+   "quote": "善恶是非绝不含糊",
+   "anchor": {
+    "start_line": 23981,
+    "end_line": 23981,
+    "fingerprint": [
+     "从来不发火",
+     "以礼节"
+    ],
+    "book_code": "SG1",
+    "sha1": "4dea9a99ea4518dc243b2512bdf6c14702948887"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "教导：不发火而态度坚决",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "notes": "归属说明：D07-1（影响他人的方式）与D06-3摇摆，且属家族教育议题（X5），仅取方法论；P4裁定；吴军结论：谢家宰相多与谢安会教育子弟有关（23987）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0336-01",
+   "unit_id": "SG1-U0336"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谢安不强迫谢玄改习气，借游戏赢走香袋烧掉，保全自尊让对方自己明白",
+   "quote": "为了不伤他的自尊",
+   "anchor": {
+    "start_line": 23983,
+    "end_line": 23987,
+    "fingerprint": [
+     "香袋",
+     "自尊"
+    ],
+    "book_code": "SG1",
+    "sha1": "01254a01718f8e49470e2a4fb6308108ae0d4ea5"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-3"
+   ],
+   "concept_key": "保全自尊的纠错",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "谢玄年轻时是带香袋的公子哥，被烧香袋后感动，后成一代名将（23983-23987）；与C-SG1-U0336-01同属谢安教子，案例承载可迁移的纠错方式",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0336-02",
+   "unit_id": "SG1-U0336"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "中国人历史上不缺勇气；愿教好下一代，别让勇气只停留在键盘上和横店影视城里",
+   "quote": "停留在键盘上",
+   "anchor": {
+    "start_line": 23989,
+    "end_line": 23991,
+    "fingerprint": [
+     "勇气",
+     "横店影视城"
+    ],
+    "book_code": "SG1",
+    "sha1": "036568981785ffeea6f7e4aa1401323e794788a2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "勇气要落在行动上",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "呼应此前多封谈勇气的来信（23989）；「我们这一代似乎该为懦弱羞愧」（23991）为感慨性判断，E1",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0336-03",
+   "unit_id": "SG1-U0336"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "桓温鸿门宴上谢安从容就坐、当场赋诗，气势镇住对方，桓温到死不敢篡位",
+   "quote": "从容就坐",
+   "anchor": {
+    "start_line": 23977,
+    "end_line": 23979,
+    "fingerprint": [
+     "桓温",
+     "赋诗"
+    ],
+    "book_code": "SG1",
+    "sha1": "1b5d0384d8e454d9eaaa9b5f5f81299c4f7d26f5"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "临危不惧的定力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "373年事件；王坦之吓得哆嗦（23979）；另有淝水之战时与客人下棋的从容事例（23971）；史料经吴军转述，卡为吴军择取的案例（E3），仅取定力案例",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0336-04",
+   "unit_id": "SG1-U0336"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "谢道韫劝夫备战不听便亲自招募训练家丁御敌，被俘时护外孙，危难中不慌乱",
+   "quote": "大人们的事，跟孩子无关",
+   "anchor": {
+    "start_line": 23959,
+    "end_line": 23963,
+    "fingerprint": [
+     "孙恩",
+     "家丁"
+    ],
+    "book_code": "SG1",
+    "sha1": "f4d885697ea52cf73764a12b76777158dc5f30e4"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "危难中不慌乱亲自行动",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "公元399年孙恩之乱；王凝之迷信鬼兵退敌不备战（23959）；孙恩被气概折服放人（23963）；史料经吴军转述，卡为吴军择取的案例（E3）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0336-05",
+   "unit_id": "SG1-U0336"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0336",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "谢氏家族身世、咏絮典故、才女并称、谢安淝水之战与东山再起、谢道韫婚姻与寡居等人物史实（23931-23957、23965-23975）纯历史叙述"
+  },
+  {
+   "unit_id": "SG1-U0336",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《泰山吟》诗作赏析与「谢道韫是黛玉宝钗原型」文学推测（23945-23955）纯赏析无可迁移结论"
+  },
+  {
+   "unit_id": "SG1-U0336",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与读者问题（23993-23999）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第324封信：谢道韫，人物史实为主，仅取教子方式与临危定力等5卡（含2张史料案例卡E3）"
+}

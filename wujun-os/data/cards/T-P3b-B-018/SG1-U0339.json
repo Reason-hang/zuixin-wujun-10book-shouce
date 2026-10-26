@@ -1,0 +1,243 @@
+{
+ "unit_id": "SG1-U0339",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "起步阶段先发优势更重要（入场券），长期过程中个人努力更重要",
+   "quote": "个人努力在长期的过程中更重要",
+   "anchor": {
+    "start_line": 24144,
+    "end_line": 24144,
+    "fingerprint": [
+     "先发优势",
+     "入场券"
+    ],
+    "book_code": "SG1",
+    "sha1": "c84c87c9a69889342fd137c61f1b5715192398b9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-3"
+   ],
+   "concept_key": "先发优势与个人努力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "先发优势含出生、已获社会地位、学历、公司现有职级（24144）；个人成长与欧洲贵族衰落同理（24144）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-01",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "努力赶不上富二代，多因自以为努力其实远不够，另有思维方式问题",
+   "quote": "努力得远不够",
+   "anchor": {
+    "start_line": 24146,
+    "end_line": 24146,
+    "fingerprint": [
+     "富二代",
+     "思维方式有问题"
+    ],
+    "book_code": "SG1",
+    "sha1": "812c5f20e8b46127f32c34393ff527b1fcdb9610"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "努力不够与思维方式",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "回顾第50封《这个世界没有欠你什么》；命运与思维方式见此前谈命运的来信（24146）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-02",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "盘子再大，份额比例总和为定值，份额之争是此消彼长而非共赢",
+   "quote": "是一件此消彼长，并非共赢的事情",
+   "anchor": {
+    "start_line": 24180,
+    "end_line": 24180,
+    "fingerprint": [
+     "比例",
+     "常数"
+    ],
+    "book_code": "SG1",
+    "sha1": "5439d8d53affa1fd5388c6552b4149c6a54af55e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D04-1",
+    "D08-1"
+   ],
+   "concept_key": "份额之争此消彼长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "共赢确实存在，博弈论有完整理论，寻找平衡点优于零和（24150）；中国1978年占世界GDP约1%的举例与全球化具体论述属X6不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-03",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "高职级者不再做一线低端工作，靠分工甩脏活，专长过时后就提升不上去",
+   "quote": "看似低端的一线工作",
+   "anchor": {
+    "start_line": 24190,
+    "end_line": 24192,
+    "fingerprint": [
+     "提升两次",
+     "专长"
+    ],
+    "book_code": "SG1",
+    "sha1": "63c241f99295946ade5319e3ae11a2b8b1b5a116"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "高职级不做一线则专长过时",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "Google、微软绝大部分中层管理人员与高职级专业人员被提升两次后提不上去，原因是养成「欧洲国家心态」（24190-24192）；新人掌握关键工作后不再满足打工，老员工位置尴尬（24194）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-04",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "新人不要介意做脏活累活，没有这个起点就没有发展，但不能满足于一辈子做",
+   "quote": "不要介意做脏活、累活",
+   "anchor": {
+    "start_line": 24200,
+    "end_line": 24200,
+    "fingerprint": [
+     "脏活",
+     "没有这个起点"
+    ],
+    "book_code": "SG1",
+    "sha1": "e5f339898cf0d58d0e648e63c0b976e11375a36b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "新人不怕脏活累活",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全球化启发清单第1条；第2条：改变地位常需很长时间，多思考商人与亚洲国家如何改变地位（24202）并入此卡不另立",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-05",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "老板不能一直往上走时，可适当换老板或取而代之，多数人只想到后者",
+   "quote": "适当的时候换老板",
+   "anchor": {
+    "start_line": 24204,
+    "end_line": 24204,
+    "fingerprint": [
+     "取而代之",
+     "忽略第一条路"
+    ],
+    "book_code": "SG1",
+    "sha1": "2310fcc7bc7d52c4f9e095fbccc1364355c4d840"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "换老板或取而代之",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "全球化启发清单第3条；吴军强调很多人常常忽略「换老板」这条路",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-06",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "老本吃不了太久，名校光环只在拿入场券时有用，开始工作后能力更重要",
+   "quote": "能力就比光环重要了",
+   "anchor": {
+    "start_line": 24206,
+    "end_line": 24206,
+    "fingerprint": [
+     "名校毕业",
+     "不断地进步才是最重要的"
+    ],
+    "book_code": "SG1",
+    "sha1": "f5516fb9b75f6a2584c2fc73eb3042b487431220"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "老本终将耗尽",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "同键见C-SG1-U0338-01；过去的职级不会让工作更安全，不断进步才最重要（24206）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-07",
+   "unit_id": "SG1-U0339"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "干多干少结果差不多的公平要不得，这样的单位应趁早离开，这条船要沉",
+   "quote": "这种公平要不得",
+   "anchor": {
+    "start_line": 24208,
+    "end_line": 24210,
+    "fingerprint": [
+     "趁早离开",
+     "欧洲人的心态"
+    ],
+    "book_code": "SG1",
+    "sha1": "89515cce2c4cea99dc1cc1339fd8a99e4b45b8fd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "干多干少一样的单位要离开",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "全球化启发清单第5条；工作轻松不一定是好事（24208）；若自己有了欧洲人心态要敲响警钟（24210）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0339-08",
+   "unit_id": "SG1-U0339"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0339",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "欧洲衰落的两大原因（全球化信息化与左翼运动）、英国/德美全球化史、产能过剩与产业链低端转移、中国出口结构、韩国汽车、美国金融与IT行业受益等（24148-24188）属宏观与国际经济叙述及趋势预测"
+  },
+  {
+   "unit_id": "SG1-U0339",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "读者问题（24212）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第327封信：欧洲衰落对个人启示，宏观史述X6，取先发优势/职场五条启发等8卡"
+}

@@ -1,0 +1,195 @@
+{
+ "unit_id": "SG1-U0348",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "英国人说no就是no，先扬后抑，but之后才是真实想法，哪怕一点否定也是全盘否定",
+   "quote": "转折后的意思才是真实的想法",
+   "anchor": {
+    "start_line": 25062,
+    "end_line": 25062,
+    "fingerprint": [
+     "先扬后抑",
+     "but"
+    ],
+    "book_code": "SG1",
+    "sha1": "19d6217e2b8313f882850c9eaf0c6de2342a6457"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "转折词后才是真实意见",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "英国人说「no」不是讨价还价（25062）；购物忌讳砍价（25060）；哪怕有一点否定含义也表达100%否定",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0348-01",
+   "unit_id": "SG1-U0348"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "保守主义不等于守旧：只是自己管好自己的事并关注身边公共事务，不喜欢远大理想",
+   "quote": "不是通常所理解的守旧",
+   "anchor": {
+    "start_line": 25066,
+    "end_line": 25068,
+    "fingerprint": [
+     "保守主义",
+     "远大理想"
+    ],
+    "book_code": "SG1",
+    "sha1": "2cbb5f9c59f7f63dcd451b5562c1b1243bc132d2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "保守主义不等于守旧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "英国人表面行为保守，思想不拒绝新东西，有自己的判断（25066）；互联网与3G/4G领先举证属时点数据不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0348-02",
+   "unit_id": "SG1-U0348"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "多一事不如少一事：省去不必要的事，通过少做事提高效率，而不是把自己搞得特别忙",
+   "quote": "通过少做事情提高效率",
+   "anchor": {
+    "start_line": 25072,
+    "end_line": 25072,
+    "fingerprint": [
+     "多一事不如少一事",
+     "搞得特别忙"
+    ],
+    "book_code": "SG1",
+    "sha1": "0c333f17815eb155a88b0154497f53a4cc688a49"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "少做事提高效率",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "吴军自述「多少接受了英国人的态度」（25072）；决策链条短、不需层层汇报（25072）；Bill Byrne的话见C-SG1-U0348-04（R1互引）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0348-03",
+   "unit_id": "SG1-U0348"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "博尔恩：英国人省去很多不需要做的事和不需要开的会，这保证了效率",
+   "quote": "不需要开的会",
+   "anchor": {
+    "start_line": 25070,
+    "end_line": 25070,
+    "fingerprint": [
+     "博尔恩",
+     "保证了效率"
+    ],
+    "book_code": "SG1",
+    "sha1": "7e084420e75f5c05bba4098c11c3d4049746b68a"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D03-1",
+    "D05-1"
+   ],
+   "concept_key": "省去不必要的事保证效率",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=Bill Byrne（吴军过去同事，后在剑桥当教授，25070）；吴军归纳见C-SG1-U0348-03；英国人节奏慢在中国人看来有点懒惰但效率不低",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0348-04",
+   "unit_id": "SG1-U0348"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对难深交的人凡事公事公办，不必花太多时间深交",
+   "quote": "凡事干脆就公事公办",
+   "anchor": {
+    "start_line": 25052,
+    "end_line": 25052,
+    "fingerprint": [
+     "不会花太多时间",
+     "公事公办"
+    ],
+    "book_code": "SG1",
+    "sha1": "3094ddbfdfe2205f477d3d45b533f595aea41f4c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "难深交者公事公办",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "剑桥交换生一年交情止于一起喝酒、知道恋爱关系与爱好（25052）；与U0349「对事不对人」呼应",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0348-05",
+   "unit_id": "SG1-U0348"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对隐私话题要有分寸：不熟时年龄、婚恋、收入、健康、父母等不能问也不能主动谈",
+   "quote": "绝对不能问",
+   "anchor": {
+    "start_line": 25048,
+    "end_line": 25048,
+    "fingerprint": [
+     "隐私",
+     "经济状况"
+    ],
+    "book_code": "SG1",
+    "sha1": "a82ffed4501bf7f8726acf7235746470c36f15b6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "隐私话题的分寸",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "西方各国都介意，英国人极为在意（25050）；英国人慢热，开始沉默寡言，久处后变健谈（25050）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0348-06",
+   "unit_id": "SG1-U0348"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0348",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "英国人礼貌用语（please/thank you/excuse me/sorry）、饮食炸鱼薯条与下午茶、着装与秩序、吃饭规矩等具体习俗描述（25056-25058、25074-25078）无独立可迁移判断"
+  },
+  {
+   "unit_id": "SG1-U0348",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "英国人与美国移民构成、德语官方语言谣言、贵族与王室存废、英国人不认为自己是欧洲人与脱欧、英国在谷歌脸书的市场地位（25040-25044、25066、25080-25082）属文明历史与时点论断"
+  },
+  {
+   "unit_id": "SG1-U0348",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与读者问题（25086-25102）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第336封信：英国人，习俗描述为主，取沟通与效率判断6卡（含1转述卡）"
+}

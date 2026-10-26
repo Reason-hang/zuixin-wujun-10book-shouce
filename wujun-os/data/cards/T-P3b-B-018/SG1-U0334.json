@@ -1,0 +1,188 @@
+{
+ "unit_id": "SG1-U0334",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对大学生而言分数远没有技能重要，受教育的目的是获得技能而非分数",
+   "quote": "分数已经远没有技能重要了",
+   "anchor": {
+    "start_line": 23817,
+    "end_line": 23819,
+    "fingerprint": [
+     "获得技能",
+     "技能测试"
+    ],
+    "book_code": "SG1",
+    "sha1": "5d65e83da5aed539508477cd7ea3c66116754949"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "分数远没有技能重要",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "双出处：本段亦见 GG-U0230（同名概念键收敛，勿另立键）；用人单位技能测试已给出答案（23819）；高中生因高考看重分数情有可原（23817）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0334-01",
+   "unit_id": "SG1-U0334"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技能培养并非所有课程同等重要，要区别对待，专业基础课最为重要",
+   "quote": "专业基础课最为重要",
+   "anchor": {
+    "start_line": 23821,
+    "end_line": 23823,
+    "fingerprint": [
+     "一两个学分的小课",
+     "计算机算法"
+    ],
+    "book_code": "SG1",
+    "sha1": "0f18f70f86f8dbfa5d7ca40c61ba42aa2a3b7efd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "专业基础课最重要",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "双出处：本段亦见 GG-U0230（同名概念键收敛，勿另立键）；一两个学分的小课常因政策因素强加、对工作无用（23821）；举例计算机系统结构、算法课（23823）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0334-02",
+   "unit_id": "SG1-U0334"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要通过学术交流开拓视野，互联网上很容易找到行业最新最好的内容",
+   "quote": "要通过学术交流开拓视野",
+   "anchor": {
+    "start_line": 23825,
+    "end_line": 23825,
+    "fingerprint": [
+     "学术交流",
+     "互联网"
+    ],
+    "book_code": "SG1",
+    "sha1": "619d233ffade92e251fcbbe3630ad06356e02bf3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学术交流开拓视野",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "双出处：本段亦见 GG-U0230（同名概念键收敛，勿另立键）；对照：伯克利高年级本科生每周花8到10小时听学术报告或交流（23799）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0334-03",
+   "unit_id": "SG1-U0334"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "缺乏选择就缺乏学习的主动性；人总是喜欢买东西而不是被推销",
+   "quote": "缺乏了选择性",
+   "anchor": {
+    "start_line": 23783,
+    "end_line": 23783,
+    "fingerprint": [
+     "选课的余地",
+     "被推销"
+    ],
+    "book_code": "SG1",
+    "sha1": "1f505e756b146ff060ab2480d754ba66d93945db"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D07-1"
+   ],
+   "concept_key": "选择产生主动性",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0230（同名概念键收敛，勿另立键）；成因：中国过细的专业划分使选课余地小（23783）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0334-04",
+   "unit_id": "SG1-U0334"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "过分看重考试成绩，会让学生不关心考试以外的事，缺乏提升专业水平的积极性",
+   "quote": "不关心考试以外的事情",
+   "anchor": {
+    "start_line": 23797,
+    "end_line": 23797,
+    "fingerprint": [
+     "过分看重考试成绩",
+     "积极性"
+    ],
+    "book_code": "SG1",
+    "sha1": "2fc2de8f33783848eaa53d6f11b6af587fa627d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "唯分数导向削弱主动学习",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "notes": "双出处：本段亦见 GG-U0230（同名概念键收敛，勿另立键）；GG-U0230侧该段未成卡，键以本批为准",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0334-05",
+   "unit_id": "SG1-U0334"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "课上听不懂就要当场提问弄懂，否则一知半解，上课效果大打折扣",
+   "quote": "把所讲的内容搞懂",
+   "anchor": {
+    "start_line": 23807,
+    "end_line": 23807,
+    "fingerprint": [
+     "一知半解",
+     "课堂上提问"
+    ],
+    "book_code": "SG1",
+    "sha1": "50eb11b520c0c57d90436a322ced7a0c420be962"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "听不懂当场提问",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "双出处：本段亦见 GG-U0230（同名概念键收敛，勿另立键）；GG-U0230侧该段未成卡，键以本批为准；好学生课后再问，多数只能自学甚至放弃（23807）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0334-06",
+   "unit_id": "SG1-U0334"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0334",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "中美本科课程四差异对比（课程数量、考核方式、课堂自由度、成绩判定，23771-23811）为教育制度比较主体；是否出国读本科（23767、23827）属升学选择，同GG-U0230先例记X5"
+  },
+  {
+   "unit_id": "SG1-U0334",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与读者提问（23829-23837）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第322封信：中美本科课程差异，教育制度对比X5，取吴军个人学习方法论6卡并登记GG-U0230双出处"
+}

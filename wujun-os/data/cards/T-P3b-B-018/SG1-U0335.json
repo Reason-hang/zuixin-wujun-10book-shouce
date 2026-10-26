@@ -1,0 +1,250 @@
+{
+ "unit_id": "SG1-U0335",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "什么场合用什么语言，不能混着来；向人提请求更要注意措辞，写东西也要看场景",
+   "quote": "什么场合要用什么语言",
+   "anchor": {
+    "start_line": 23857,
+    "end_line": 23859,
+    "fingerprint": [
+     "不能混着来",
+     "请求"
+    ],
+    "book_code": "SG1",
+    "sha1": "2fb8a5461d8c0eb3d479e409a65fc15d46e28146"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "场合决定语言",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "读者留言「订阅者大部分是研究生」可能信口开河，是写论文大忌（23855）；请求中出现病句错别字，被请求者可能扔一边（23859）；论文、商业信函、法律文件语言各不相同（23859）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-01",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "论文里夸大研究重要性的大话是废话，只占篇幅，对录取没有帮助甚至有副作用",
+   "quote": "对论文的录取没有帮助",
+   "anchor": {
+    "start_line": 23877,
+    "end_line": 23877,
+    "fingerprint": [
+     "大话",
+     "占用宝贵的篇幅"
+    ],
+    "book_code": "SG1",
+    "sha1": "6b8d21bf3b0a6c22ef3ffb13368e0d292ab7f3e2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "大话废话无助于被接受",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "国内学者通病：过分强调重要性、不提供细节给难以对比的实验结果（23873-23875）；同行了解背景意义，发明发现是否重要看结果即可（23877）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-02",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学术研究99%是N+1的工作，解决了前人可改进之处本身就足够有意义",
+   "quote": "本身就足够有意义",
+   "anchor": {
+    "start_line": 23881,
+    "end_line": 23881,
+    "fingerprint": [
+     "前人的工作可以有改进之处",
+     "文献研究"
+    ],
+    "book_code": "SG1",
+    "sha1": "c5370c5e9bceb04b3ba5dd808c3bb0d8aada6af2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D01-1"
+   ],
+   "concept_key": "N+1工作",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "写论文第一件事是提N的工作并指出前人未完成处，既说明必要性也是对同行的认可（23881）；完成N+1后会有N+2，好论文最后写未完成工作（23901）；概念与见识篇N+1创新法同源，待P4核对",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-03",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "要证明N+1优于N，须先重复前人最成功的实验作基准，再比较自己的改进",
+   "quote": "从重复前人的实验开始的",
+   "anchor": {
+    "start_line": 23891,
+    "end_line": 23893,
+    "fingerprint": [
+     "基准",
+     "Baseline"
+    ],
+    "book_code": "SG1",
+    "sha1": "3036187c82269b94b87d7e7d09322344251f1a2f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D10-1"
+   ],
+   "concept_key": "先重复前人再改进",
+   "ability_tags": [
+    "做",
+    "思"
+   ],
+   "notes": "实验结果必须可重复正因如此（23891）；有经验导师指导博士生从重复前人实验开始（23893）；论文实验结果第一部分就是重复基准（23893）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-04",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "科研比较须用同行共享、一致的数据与工具，才是橘子比橘子而不是苹果比橘子",
+   "quote": "橘子和橘子的比较",
+   "anchor": {
+    "start_line": 23895,
+    "end_line": 23897,
+    "fingerprint": [
+     "可比性",
+     "同行也能够得到"
+    ],
+    "book_code": "SG1",
+    "sha1": "d736b4611a34591d9aed976493fa075f1b0c66f6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "可比性与公平比较",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军写《浪潮之巅》引用向SEC提供的数据而非二手报道（23897）；Google 2015年出资1亿美元建Baseline医疗基准平台（23899）仅作案例不单独成卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-05",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "论文的结构远比文字重要，结构不对文字再优美也无用；先达意准确，再谈文笔",
+   "quote": "结构远比文字重要",
+   "anchor": {
+    "start_line": 23903,
+    "end_line": 23907,
+    "fingerprint": [
+     "八股文",
+     "达意准确"
+    ],
+    "book_code": "SG1",
+    "sha1": "d575346ed22ff800a11f4d102c313865a09fdad4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "结构重于文字",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "学术界看重规矩，守规矩写出来必然是八股文（23903）；文笔优美是锦上添花（23907）；四个动词be/do/have/make不宜用属学术写作规范不入卡（23905）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-06",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "别人的数据和观点都要给出出处，对研究写作中给予帮助的人都要鸣谢",
+   "quote": "都要给出出处",
+   "anchor": {
+    "start_line": 23909,
+    "end_line": 23909,
+    "fingerprint": [
+     "鸣谢",
+     "出处"
+    ],
+    "book_code": "SG1",
+    "sha1": "123e3a96f21be88b55eef6cc69aeeb9385da908b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "引用出处与致谢",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军列为写论文的两个细节（23909）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-07",
+   "unit_id": "SG1-U0335"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "论文的结论应是前提假设和研究工作的自然结果，糟糕论文得不出想说的结论",
+   "quote": "自然结果",
+   "anchor": {
+    "start_line": 23889,
+    "end_line": 23889,
+    "fingerprint": [
+     "前提假设",
+     "得不到他们想说的结论"
+    ],
+    "book_code": "SG1",
+    "sha1": "1f88abd58e7b4ea0e95c9e0b81e22f35ec1dce91"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "结论须由前提自然推出",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "论文主体三细节之三：结论/做法与证据/结论自然结果（23885-23889）；人文需文献证据、自然科学需合理实验设置（23887）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0335-08",
+   "unit_id": "SG1-U0335"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0335",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "论文写作规范细节：中国学者投稿被拒原因、审稿经历、四个动词不宜用、综述与研究性论文区别（23863-23871、23905）属学术写作规范，取可迁移判断卡后其余排除"
+  },
+  {
+   "unit_id": "SG1-U0335",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言原文（23849-23851）为读者来信原文，不入卡"
+  },
+  {
+   "unit_id": "SG1-U0335",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与思考题（23913-23917）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第323封信：写科技论文，学术规范细节X8，取场合语言/N+1/基准可比性等可迁移判断8卡"
+}

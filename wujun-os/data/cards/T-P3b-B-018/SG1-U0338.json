@@ -1,0 +1,147 @@
+{
+ "unit_id": "SG1-U0338",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "光有软实力没有硬实力终被淘汰；个人老本如学历、家族财富不过是软实力，无硬实力撑腰会被吃光",
+   "quote": "这点老本就会被吃光",
+   "anchor": {
+    "start_line": 24126,
+    "end_line": 24128,
+    "fingerprint": [
+     "软实力",
+     "硬实力撑腰"
+    ],
+    "book_code": "SG1",
+    "sha1": "a9ecb44ecdaf70a8145d98d673ecc911ab9b3989"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "老本终将耗尽",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "由欧洲没落贵族类比而来；同键见C-SG1-U0339-07（名校光环只在入场券时有用）；中国软实力/硬实力的国家层面论述属X6不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0338-01",
+   "unit_id": "SG1-U0338"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对自己的判断用真金白银负责：判断欧洲衰落后卖掉几乎全部欧洲股票",
+   "quote": "用我的钱对我说的话负责任",
+   "anchor": {
+    "start_line": 24082,
+    "end_line": 24082,
+    "fingerprint": [
+     "空口说白话",
+     "卖掉"
+    ],
+    "book_code": "SG1",
+    "sha1": "6ffd08cfa52ef5386e4246fc079735e57e243274"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D02-3"
+   ],
+   "concept_key": "用真金白银为判断负责",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "「欧洲20年继续衰落」本身及抛售欧股属时效论断X2/X6不入主干，仅取「为判断负责」的逻辑（24080-24082）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0338-02",
+   "unit_id": "SG1-U0338"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "经济地位最终决定一切：底层掌握经济权后翻身，经济地位变化最终瓦解封建制度",
+   "quote": "经济地位最终决定一切",
+   "anchor": {
+    "start_line": 24084,
+    "end_line": 24086,
+    "fingerprint": [
+     "经济地位最终决定一切",
+     "底层人"
+    ],
+    "book_code": "SG1",
+    "sha1": "1d6491c93f9f4cd90d2373afd02497a0615b40bc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "经济地位决定一切",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "归属说明：D01-2（尺度/大局）与D08-1摇摆，且结论依附欧洲近代化历史叙事（X6/X4边缘），P4裁定；吴军称了解欧洲兴衰对我们颇有启发（24084）；同信后文：硬实力可改变软实力（24126）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0338-03",
+   "unit_id": "SG1-U0338"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "伯爵为急用钱以特权换现金，一步步让渡权利，最终失去信用与权力",
+   "quote": "签署了自己权力的死亡证书",
+   "anchor": {
+    "start_line": 24100,
+    "end_line": 24102,
+    "fingerprint": [
+     "打猎",
+     "现钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "b7b35be4dc202b32496682a55c1f8f18c5a137de"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D03-2",
+    "D08-1"
+   ],
+   "concept_key": "为急用钱让渡权利",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "十字军东征后骑士有财产无现钱，向放贷商人借钱并以庄园抵押（24094-24096）；先让打猎权，再让行会权，最后因「信用不佳」借不到钱（24100-24110）；史料经吴军转述，卡为吴军择取的案例（E3），仅取让渡权利",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0338-04",
+   "unit_id": "SG1-U0338"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0338",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "欧洲20年后继续衰落的判断、中国GDP增长与软实力国际地位议题（24080-24084、24126）属宏观趋势预测与时点论断"
+  },
+  {
+   "unit_id": "SG1-U0338",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "最近一次金融危机后卖掉欧洲股票等具体投资动作（24082）属时点性行情操作，不入主干"
+  },
+  {
+   "unit_id": "SG1-U0338",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "封建领主、十字军东征、法国大革命等欧洲近代化过程（24088-24124）为史实科普"
+  },
+  {
+   "unit_id": "SG1-U0338",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "全球化预告与读者问题（24130-24132）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第326封信：欧洲兴衰与经济地位，宏观与史实为主，取老本/为判断负责/经济地位决定一切/让渡权利共4卡"
+}

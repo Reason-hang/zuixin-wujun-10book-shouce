@@ -1,0 +1,112 @@
+{
+ "unit_id": "SG1-U0340",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "能否全面、完整地看问题和思考答案，决定了我们能有多大成就",
+   "quote": "决定了我们能有多大成就",
+   "anchor": {
+    "start_line": 24302,
+    "end_line": 24302,
+    "fingerprint": [
+     "广而深",
+     "全面、完整"
+    ],
+    "book_code": "SG1",
+    "sha1": "32a75a6431914fe23f8de73ee7f66bff3014f31d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D01-1"
+   ],
+   "concept_key": "全面而深刻地看问题",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军听斯宾塞讲座后的感悟，称其思考角度与研究方法「广而深」（24302）；思考题要求分析如何「全面而深刻」看问题（24304）按X1记",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0340-01",
+   "unit_id": "SG1-U0340"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "斯宾塞：全球化的问题并非它不好，而是发展太快，大家低估了它的负面影响",
+   "quote": "低估了它可能产生的负面影响",
+   "anchor": {
+    "start_line": 24300,
+    "end_line": 24300,
+    "fingerprint": [
+     "发展太快",
+     "负面影响"
+    ],
+    "book_code": "SG1",
+    "sha1": "a63f09bcb512f94b94ca5b83b3d35eb9ef61f06c"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "好事也有坏的一面",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=迈克尔·斯宾塞（斯坦福商学院名誉院长、2001年诺贝尔经济学奖得主，24226）；末句「任何事情哪怕再好也有坏的一面」为吴军补语（24300）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0340-02",
+   "unit_id": "SG1-U0340"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有机会听大师讲座就去，因为大师视野超出我们很多，看问题全面深刻",
+   "quote": "他们的视野常常超出我们很多",
+   "anchor": {
+    "start_line": 24248,
+    "end_line": 24248,
+    "fingerprint": [
+     "大师们的讲座",
+     "全面、深刻"
+    ],
+    "book_code": "SG1",
+    "sha1": "78af522a7a7845902239ada13624f03d2204c83c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "向大师学视野与角度",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "吴军称斯宾塞对全球化起源的解读找到了根本原因（24250）；该论断本身属X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0340-03",
+   "unit_id": "SG1-U0340"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0340",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "斯宾塞「四个三」对全球化起源、现状、问题、前景的转述（24230-24298）：资本商品自由流动、中产阶级消失、难民、知识产权、中国能否主导等属宏观经济与全球化趋势判断，默认X6"
+  },
+  {
+   "unit_id": "SG1-U0340",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "中美关税对比、中国货币超发与通胀、2016年YouGov调查、特朗普税率政策等具体数据与政策点评（24236、24262-24274、24292）属时点论断"
+  },
+  {
+   "unit_id": "SG1-U0340",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "思考题重复与推荐（24304-24306）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第328封信：斯宾塞全球化讲座转述，宏观趋势为主按X6排除，仅取看问题视角与向大师学习3卡"
+}

@@ -1,0 +1,202 @@
+{
+ "unit_id": "SG1-U0349",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R3",
+ "batch_id": "T-P3b-B-018",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "从人做的东西推断其背后的人的特点常有很大偏差；产品相似不等于国民特性相似",
+   "quote": "常常会有很大的偏差",
+   "anchor": {
+    "start_line": 25120,
+    "end_line": 25122,
+    "fingerprint": [
+     "爱屋及乌",
+     "国民特性"
+    ],
+    "book_code": "SG1",
+    "sha1": "d1530a8cc0e0978eff6396d82f5b44fdcbb99276"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "由产品推断人会偏差",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "德国与瑞士产品同样考究，但对外国人与世界的包容态度完全不同（25164）；人可能「爱屋及乌」（25120）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0349-01",
+   "unit_id": "SG1-U0349"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对事不对人：不因东西好就认定做的人好，也不因不喜欢某人而否定他所做的工作",
+   "quote": "凡事对事不对人",
+   "anchor": {
+    "start_line": 25168,
+    "end_line": 25168,
+    "fingerprint": [
+     "该买照样买",
+     "否定他所做的工作"
+    ],
+    "book_code": "SG1",
+    "sha1": "a483f4ea58ca96707759b2418be7a555e2c9ab4d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "对事不对人",
+   "ability_tags": [
+    "思",
+    "沟"
+   ],
+   "notes": "「如果不喜欢瑞士人，还买他们的东西吗」，吴军答「该买照样买」（25168）；在工作中后一点尤其重要（25168）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0349-02",
+   "unit_id": "SG1-U0349"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "因工作必须与不喜欢的人交往，对方也理性时，就放下成见就事论事",
+   "quote": "和他就事论事地交往",
+   "anchor": {
+    "start_line": 25170,
+    "end_line": 25170,
+    "fingerprint": [
+     "客观的原则",
+     "放下成见"
+    ],
+    "book_code": "SG1",
+    "sha1": "312036a7d34b410345b373077d325330a86bc81e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D07-2"
+   ],
+   "concept_key": "放下成见就事论事",
+   "ability_tags": [
+    "做",
+    "沟"
+   ],
+   "notes": "对事情的判断应遵循客观原则（25170）；与C-SG1-U0349-02呼应，前者讲对物与对人分开，本卡讲工作交往规则",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0349-03",
+   "unit_id": "SG1-U0349"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同事像瑞士人那样，一起把工作做好即可，别把个人好恶带进工作，只要对方守职业化规则",
+   "quote": "遵守职业化的规则",
+   "anchor": {
+    "start_line": 25172,
+    "end_line": 25172,
+    "fingerprint": [
+     "好同事",
+     "个人好恶"
+    ],
+    "book_code": "SG1",
+    "sha1": "09d12754e10babf7fbdfb41967adbb6146b12fc1"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "职业化规则下的同事相处",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "对照德国同事「既是好同事也能成为好朋友」（25172）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0349-04",
+   "unit_id": "SG1-U0349"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "德国人善于学习并愿改进不足：二战后深刻反思、不再有优越感，开放包容",
+   "quote": "善于学习的民族",
+   "anchor": {
+    "start_line": 25130,
+    "end_line": 25130,
+    "fingerprint": [
+     "改进自己的不足",
+     "反思"
+    ],
+    "book_code": "SG1",
+    "sha1": "6ffadda3a75b1c2c7a3cc351be0b87c9fa286b56"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "善于学习愿改进不足",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "德国人是今天欧洲人的典范，包容难民（25132）；二战史述不入卡",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0349-05",
+   "unit_id": "SG1-U0349"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同样认真守规矩，严守八小时不加班的瑞士团队，进度明显落后于下班后仍开会的以色列团队",
+   "quote": "进度明显快很多",
+   "anchor": {
+    "start_line": 25144,
+    "end_line": 25148,
+    "fingerprint": [
+     "八小时工作制",
+     "以色列"
+    ],
+    "book_code": "SG1",
+    "sha1": "1910a8c8e20a4ba5bf7f994005e9589b82096fa3"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D06-2"
+   ],
+   "concept_key": "认真守规矩不等于投入",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军2010-2012年同时负责Google苏黎世团队与以色列团队研发（25142-25146）；暗示瑞士团队负责人加把劲，对方称在瑞士很难让大家加班（25148）；案例承载职场投入度对比，非号召加班",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0349-06",
+   "unit_id": "SG1-U0349"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0349",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "瑞士人纠正他人打伞姿势、按喇叭、房东只租给瑞士人与德国人、高晓松火锅店被轰、办事效率低等习俗与逸事（25150-25164）无独立可迁移判断，仅取案例对比与对事不对人"
+  },
+  {
+   "unit_id": "SG1-U0349",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "二战后德国反思与德国人对世界文明贡献等历史叙述（25128-25138）纯人物与国民史述"
+  },
+  {
+   "unit_id": "SG1-U0349",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "瑞士2002年才加入联合国、难民问题深受其害等时点论断（25132、25166）"
+  },
+  {
+   "unit_id": "SG1-U0349",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "推荐阅读与读者问题（25174-25180）属运营互动内容"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第337封信：德国人与瑞士人对比，国民特性叙述中取对事不对人等6卡"
+}
