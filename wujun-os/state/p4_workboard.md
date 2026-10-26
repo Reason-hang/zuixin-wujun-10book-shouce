@@ -11,8 +11,8 @@
 | 5 | 支柱归属 + 判例 | 🔄 | `logs/p4_step05_d06_attribution_snapshot_20261026.md` |
 | 6–8 | L3/L2、三道门 | ⏳ | |
 | 9 | 数量核对 | ⏳ | |
-| 10 | 盲重标 κ≥0.6 | 🔄 | `logs/p4_step10_blind_relabel_manifest_20261026.csv`（450 张待重标） |
-| 11 | 用户抽查 20 张 | ⏳ | 需用户 |
+| 10 | 盲重标 κ≥0.6 | 🔄 | 批次1 n=60 κ=**0.771** PASS（pilot）；余 390 张待重标 |
+| 11 | 用户抽查 20 张 | ⏳ | `logs/p4_step11_user_spotcheck_20.csv`（待填 user_verdict） |
 | 12 | K 卡冻结 | ⏳ | |
 | 13 | 字典变更报告 + 用户确认骨架 | ⏳ | 需用户 |
 
