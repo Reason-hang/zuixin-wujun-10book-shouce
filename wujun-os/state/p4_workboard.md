@@ -7,11 +7,11 @@
 | 1 | P3 冻结快照 | ✅ | `logs/p4_step01_p3_freeze_20261026.md` |
 | 2 | 概念键归一（registry + 书内跨批合并队列） | 🔄 | `concept_keys.csv`；`data/rules/concept_key_aliases.yaml`（首批 3 簇） |
 | 3 | 近似卡对/键对候选 | ✅ 粗筛 | `logs/p4_step03_near_dup_pairs_20261026.md` |
-| 4 | 7 类关系 + 冲突台账 F 编号 | 🔄 | `ledger/p4_conflicts_ledger.md`（F-001~004） |
+| 4 | 7 类关系 + 冲突台账 F 编号 | 🔄 | `ledger/p4_conflicts_ledger.md`（F-001~044） |
 | 5 | 支柱归属 + 判例 | 🔄 | `logs/p4_step05_d06_attribution_snapshot_20261026.md` |
-| 6–8 | L3/L2、三道门 | ⏳ | |
+| 6–8 | L3/L2、三道门 | 🔄 | `logs/p4_step06_l3_growth_gate_full_20261026.md`（61 键）；`logs/p4_step07_thin_cluster_ability_20261026.md`（思/学/沟/做 均未触发薄簇） |
 | 9 | 数量核对 | ⏳ | |
-| 10 | 盲重标 κ≥0.6 | 🔄 | 批次1 n=60 κ=**0.771** PASS（pilot）；余 390 张待重标 |
+| 10 | 盲重标 κ≥0.6 | 🔄 | 累计 **120** 张 κ=**0.683** PASS；批次2 strict κ=0.590（单批未过线）；余 330 张可选补标 |
 | 11 | 用户抽查 20 张 | ⏳ | `logs/p4_step11_user_spotcheck_20.csv`（待填 user_verdict） |
 | 12 | K 卡冻结 | ⏳ | |
 | 13 | 字典变更报告 + 用户确认骨架 | ⏳ | 需用户 |
