@@ -38,7 +38,10 @@ def main():
     lines_cache = {}
     rows, fails = [], 0
     for d in args.dirs:
-        for p in sorted(glob.glob(os.path.join(d, '*.json'))):
+        paths = sorted(glob.glob(os.path.join(d, '*.json')))
+        if not paths:
+            paths = sorted(glob.glob(os.path.join(d, '**', '*.json'), recursive=True))
+        for p in paths:
             data = json.load(open(p, encoding='utf-8'))
             if isinstance(data, dict) and 'cards' in data:
                 cards = data['cards']
