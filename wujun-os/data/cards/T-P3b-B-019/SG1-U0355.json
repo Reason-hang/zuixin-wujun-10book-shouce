@@ -1,0 +1,216 @@
+{
+ "unit_id": "SG1-U0355",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对功利心者利用后抛弃的问题，简单回答是远离势利小人",
+   "quote": "远离势利小人",
+   "anchor": {
+    "start_line": 25656,
+    "end_line": 25656,
+    "fingerprint": [
+     "势利小人"
+    ],
+    "book_code": "SG1",
+    "sha1": "ade1a1ad77aba1aa57564ef01872edc114354dd5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "远离势利小人",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "回应读者对第173封'找一个长期对你好的人'难在现实使用的提问（25652-25654，读者原文不入卡，见X7）；小人识别与防范分上下两信，下信见第344封（25694、25702）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-01",
+   "unit_id": "SG1-U0355"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看似对你好的人，背后可能为一己之利不惜损害你和全局；要判断对方对自己好的目的，不被小恩惠蒙蔽",
+   "quote": "人不能被小恩惠所蒙蔽",
+   "anchor": {
+    "start_line": 25676,
+    "end_line": 25676,
+    "fingerprint": [
+     "费无忌",
+     "小恩惠"
+    ],
+    "book_code": "SG1",
+    "sha1": "4e84fc220187e5538d5d67ba2ec1e695142e10ef"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "辨别对方好意的目的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "费无忌案：不惜损害整个楚国利益换小利，楚平王的愚蠢在判断不清对方对自己好的目的（25676）；仅为前程拍领导马屁还不算太下贱、不完全算小人（25666）；如何避免糊涂明天详讲（25676）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-02",
+   "unit_id": "SG1-U0355"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "简单总结历史经验教训对提高判断力没有用：北宋后君王多读《资治通鉴》，昏君仍过半",
+   "quote": "对提高判断力是没有用的",
+   "anchor": {
+    "start_line": 25678,
+    "end_line": 25678,
+    "fingerprint": [
+     "资治通鉴",
+     "昏君"
+    ],
+    "book_code": "SG1",
+    "sha1": "b45f9966c7ff851d0752cbddbb9697b5c2e8af0a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "读史总结无助判断力",
+   "ability_tags": [
+    "思",
+    "学"
+   ],
+   "notes": "楚国春秋末期教训惨重，战国后期仍犯同样错误导致亡国（25678）；'读史以史为鉴'的反例论证",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-03",
+   "unit_id": "SG1-U0355"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小人常常不笨，以朋友形式出现，让主人觉得对自己特别好；君子不会服侍人，'亲贤臣远小人'很难做到",
+   "quote": "小人常常都不是笨人",
+   "anchor": {
+    "start_line": 25690,
+    "end_line": 25692,
+    "fingerprint": [
+     "小人",
+     "服侍人"
+    ],
+    "book_code": "SG1",
+    "sha1": "964f34a6ad6ca8c324f4de5aae2ca76b8500f86a"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "小人特征与难识别",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "小人不同于直接损害利益的'坏人''对头'，在人们吃大亏前常被当作至交（25692）；主人最终倒霉在这些看似很好的小人身上（25690）；引诸葛亮'亲贤臣，远小人'",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-04",
+   "unit_id": "SG1-U0355"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "春申君因利令智昏、轻信对自己好的门客李园而不设防，被伏杀且全家被灭",
+   "quote": "人总是利令智昏",
+   "anchor": {
+    "start_line": 25686,
+    "end_line": 25688,
+    "fingerprint": [
+     "春申君",
+     "李园"
+    ],
+    "book_code": "SG1",
+    "sha1": "31bf88abefd781941eac99b6c4164ec2c4211386"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "对自己好者不设防的代价",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "专名案例：李园献妹谋国舅位，春申君门人朱英劝除李园而不听（25688）；司马迁评'当断不断，反受其乱'（25688，转述评语，随案例保留于此）；春申君早已位极人臣仍起非分之想（25686）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-05",
+   "unit_id": "SG1-U0355"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "识别小人并不容易，但防范小人是可以做到的",
+   "quote": "防范小人是可以做到的",
+   "anchor": {
+    "start_line": 25694,
+    "end_line": 25694,
+    "fingerprint": [
+     "识别小人",
+     "防范小人"
+    ],
+    "book_code": "SG1",
+    "sha1": "05c3b24030dedfc4262dc6d82243f45138568607"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "小人难识别但可防范",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军自述遇到过小人但至今没被坑过（25694）；具体防范方法见下一信第344封（25694、25702）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-06",
+   "unit_id": "SG1-U0355"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "小人一旦开始做坏事就会坚决做到底，为掩盖前恶不断加码迫害",
+   "quote": "就会坚决做到底",
+   "anchor": {
+    "start_line": 25668,
+    "end_line": 25670,
+    "fingerprint": [
+     "费无忌",
+     "太子建"
+    ],
+    "book_code": "SG1",
+    "sha1": "ae7b09bf6377a366c3165b7246350589bd876a36"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "小人作恶坚决做到底",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "专名案例：费无忌得罪太子建后撺掇废太子，又连伍奢一并诬陷（25668-25670）；小人有'小人独有的创造力'（25662）；案例叙述细节归X4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0355-07",
+   "unit_id": "SG1-U0355"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0355",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "读者留言原文：'吴老师，感觉在现实中很难使用啊……ta得到想要的东西后又抛弃了冷淡了怎么办'（25654），读者提问原文不入主干；吴军回应已抽卡"
+  },
+  {
+   "unit_id": "SG1-U0355",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "春秋战国史实叙述：费无忌迎秦女与楚平王自娶、废太子、诬伍奢、伍子胥破楚鞭尸、战国四公子与春申君封赏、司马迁访故居（25658-25684），纯史实背景；可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第343封远离势利小人：读者提问+小人判断与春秋战国案例，7卡；读者来信为X7、楚国史实叙述为X4"
+}

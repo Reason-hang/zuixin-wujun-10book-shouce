@@ -1,0 +1,237 @@
+{
+ "unit_id": "SG1-U0354",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单位若无论能力业绩都不被淘汰，会挤满将死的个体，单位最终也会死掉",
+   "quote": "这个单位最终也会死掉",
+   "anchor": {
+    "start_line": 25566,
+    "end_line": 25566,
+    "fingerprint": [
+     "腐食者",
+     "淘汰"
+    ],
+    "book_code": "SG1",
+    "sha1": "4b34d7c344653ac7d332d6680af282c354dadcdb"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "淘汰机制维持单位活力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "承U0353'腐食者不可或缺'：没有腐食者就没有社会进步（25566）；个体被腐食者盯上并不愉快，裁员时无人愿被裁，但总有牺牲品（25568）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-01",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "老板地位取决于团队规模，一般不主动解雇下属；中层与公司利益冲突，基层与公司矛盾较小",
+   "quote": "取决于他的团队的规模",
+   "anchor": {
+    "start_line": 25572,
+    "end_line": 25578,
+    "fingerprint": [
+     "团队的规模",
+     "中层干部"
+    ],
+    "book_code": "SG1",
+    "sha1": "b8153a8edb2bc3949541257da77b24de604a2f29"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3"
+   ],
+   "concept_key": "老板地位取决于团队规模",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软朋友要把团队扩到1000人当副总裁（25574）；杰夫·迪恩的Google精英小团队是例外（25572）；吴军给公司把脉最常见建议是辞掉一些中层干部（25578）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-02",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "单位业绩几乎全来自极少数人，其余多数都可能成为腐食者目标；单位养庸人有结构性原因",
+   "quote": "来自于极少数人",
+   "anchor": {
+    "start_line": 25580,
+    "end_line": 25588,
+    "fingerprint": [
+     "极少数人",
+     "庸人",
+     "小九九"
+    ],
+    "book_code": "SG1",
+    "sha1": "2b4d6254cb7ad00f34c44f9937ab7fae97a77bb0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-1"
+   ],
+   "concept_key": "业绩集中于极少数人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "三个原因：为找最有用的10%-20%须招100%；上级要求淘汰差绩效而中层不愿缩编只能先扩张；最大贡献者每年变动故先保留（25584-25588）；不含情商太低、与所有同事处不好的员工（25590）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-03",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第一种易被盯上的人：被老板预设为淘汰指标者（绩效排名长期靠后），应及早找下家",
+   "quote": "存在的唯一价值就是被淘汰",
+   "anchor": {
+    "start_line": 25594,
+    "end_line": 25596,
+    "fingerprint": [
+     "末位淘汰",
+     "绩效评估"
+    ],
+    "book_code": "SG1",
+    "sha1": "6d38d33ffeefb821af9f7727ed400da80621538c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-1"
+   ],
+   "concept_key": "淘汰指标位上的人",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "末位淘汰常无明文，只通过管理层沟通传递（25594）；靠后未必是能力问题（25596）；五种人'本身没有什么过失'，是位置能力资历使然（25592）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-04",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第二种：因平权或人情被照顾进来、能力不达标者，同事反成腐食者，宜低调务实",
+   "quote": "他们在私下里是被歧视的",
+   "anchor": {
+    "start_line": 25598,
+    "end_line": 25602,
+    "fingerprint": [
+     "平权",
+     "人情关系"
+    ],
+    "book_code": "SG1",
+    "sha1": "f556392f2053c311915493f91d5b7b578c8bf2c6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-1"
+   ],
+   "concept_key": "被照顾进来者的处境",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "美国多因平权、中国多因人情关系（25598）；大家为自保需赶走他们，上司请走即名正言顺（25600）；建议夹着尾巴做人，做力所能及之事而非好高骛远（25602）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-05",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第三种：职级与产出不相称的资深人士，晋升停滞或业务转向后变鸡肋，需能力与职级同步提升",
+   "quote": "能力和职级同步提升",
+   "anchor": {
+    "start_line": 25604,
+    "end_line": 25612,
+    "fingerprint": [
+     "资深人士",
+     "鸡肋"
+    ],
+    "book_code": "SG1",
+    "sha1": "f817da9f7468ac6234119bd5e4888b9889a39fd8"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D06-3"
+   ],
+   "concept_key": "资深人士的脆弱性",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "新人要上位必挤走挡路者（25608）；职级提升太快、能力跟不上并非好事（25608）；早期互联网门户编辑出身从业者如今成部门调整牺牲品（25612）；日本公司30年死气沉沉因不淘汰无价值资深者（25614）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-06",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第四种：被安排做可有可无事（抢地盘类）的人，风吹草动即成目标；做未来用得上的研发则相对安全",
+   "quote": "对单位来讲都是可有可无的",
+   "anchor": {
+    "start_line": 25616,
+    "end_line": 25624,
+    "fingerprint": [
+     "抢地盘",
+     "可有可无"
+    ],
+    "book_code": "SG1",
+    "sha1": "5ad97aa9724d1346a9bb346ad25eca14c9fd76dd"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D06-2"
+   ],
+   "concept_key": "可有可无事务的人",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "只需10人的老板可能搞出100人团队并'创造'事情（25618）；老板安排的事按目的分两类：今后能派上用场（研发）vs 抢地盘或做给外人看（25622）；做后者的人自己要心里有数（25624）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-07",
+   "unit_id": "SG1-U0354"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "第五种：未证明价值的新人及刚转岗者，裁员首当其冲；换部门应挑单位景气时",
+   "quote": "最不得罪人的做法就是让新人离开",
+   "anchor": {
+    "start_line": 25626,
+    "end_line": 25628,
+    "fingerprint": [
+     "新人",
+     "景气"
+    ],
+    "book_code": "SG1",
+    "sha1": "0db0969af0f322d49aebf6ac26ca2528b661bd06"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D06-3"
+   ],
+   "concept_key": "新人与转岗者风险",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "单位迅速发展时新人安全（25626）；除非已想好淘汰对象，老板遇裁员压力最不得罪人的做法是让新人离开（25628）；全信结论：了解以上有助避免成为腐食对象（25630）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0354-08",
+   "unit_id": "SG1-U0354"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第342封五种容易被腐食者盯上的人：老板视角+五类人，8卡，承接U0353腐食者概念"
+}

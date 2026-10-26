@@ -1,0 +1,247 @@
+{
+ "unit_id": "SG1-U0353",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做空者如同腐食者，只攻击有问题的公司，不敢做空基础好、被普遍看好的公司",
+   "quote": "从不攻击健康的动物",
+   "anchor": {
+    "start_line": 25496,
+    "end_line": 25502,
+    "fingerprint": [
+     "做空",
+     "腐食者"
+    ],
+    "book_code": "SG1",
+    "sha1": "8b4fe15ebbd5ff5328d97c97dedfc73aaea61ee6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "腐食者只攻击不健康者",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "做多最多亏100%、做空理论上损失无穷，故做空须慎之又慎（25496，引第45封信）；腐食者三大特征：嗅觉灵敏、很少攻击健康者、胃液酸性强自身不得病（25476-25480）；问题公司长期缺透明度、做假账，腐食者率先发现（25500-25502）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-01",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "做空机构三板斧：找问题公司取证→写唱衰报告并做空→集体诉讼压住股价",
+   "quote": "就是三板斧",
+   "anchor": {
+    "start_line": 25514,
+    "end_line": 25522,
+    "fingerprint": [
+     "唱衰",
+     "集体诉讼"
+    ],
+    "book_code": "SG1",
+    "sha1": "6738d945fbf3e43fb98eb377721810ce8df3580d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "做空机构三板斧",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "浑水、香橼的做法（25514）；平仓买入会推高股价吃掉利润，故需第三步集体诉讼让股价低迷（25520-25522）；律师专找财务不清公司也是腐食者（25526）；对现金流强劲公司诉讼不伤筋动骨，问题公司则雪上加霜（25524）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-02",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "浑水派人蹲点数进出货车，据实物流量估算东方纸业收入夸大27倍，股价跌90%",
+   "quote": "派人到东方纸业门口蹲点",
+   "anchor": {
+    "start_line": 25504,
+    "end_line": 25506,
+    "fingerprint": [
+     "东方纸业",
+     "蹲点"
+    ],
+    "book_code": "SG1",
+    "sha1": "8b9b15cb49c39c9ab4a3a2047330b113902315b9"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "实地证据验证财报真伪",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "专名案例+可迁移机理：用实物流量交叉验证财报；东方纸业另有收购价值几十万美元小公司花上千万的财务问题（25504）；香橼创始人莱福特单人公司专找金玉其外败絮其中的公司（25508-25510）属案例细节",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-03",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "世界离不开腐食者：没有它们，自然界和社会都会充满不健康的东西",
+   "quote": "这个世界离不开腐食者",
+   "anchor": {
+    "start_line": 25528,
+    "end_line": 25530,
+    "fingerprint": [
+     "腐食者",
+     "尸体"
+    ],
+    "book_code": "SG1",
+    "sha1": "fa8fde6e495d5da0ee2c0db30c65457158933623"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "腐食者不可或缺",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军个人不喜欢腐食者，因'人都喜欢生而厌恶死'（庄子，25528）；空头最终目的盈利，但客观上对问题企业起揭露威慑作用，对股市健康利大于弊（25530）；与C-SG1-U0353-07同论证链",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-04",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "透明度诚信问题难靠监管解决，允许做空机构存在，腐食者倒逼个体变得更健康",
+   "quote": "个体不得不变得更健康",
+   "anchor": {
+    "start_line": 25534,
+    "end_line": 25536,
+    "fingerprint": [
+     "做空机构",
+     "透明度"
+    ],
+    "book_code": "SG1",
+    "sha1": "8ca8443ca700dbcf453c56fcd4edfe1b3a7ecd26"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D09-2"
+   ],
+   "concept_key": "腐食者倒逼个体变健康",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "含对中美股市制度的比较判断（美国允许裸空，中国保护本该死掉的公司，25532-25534），制度比较部分更近X6，仅留可迁移的'外部淘汰压力倒逼健康'；P4可复核归属",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-05",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会各领域都有腐食者，'墙倒众人推'；众人不撞南墙只落井下石，是人性恶也是社会需要",
+   "quote": "墙倒众人推",
+   "anchor": {
+    "start_line": 25538,
+    "end_line": 25540,
+    "fingerprint": [
+     "落井下石",
+     "腐食者"
+    ],
+    "book_code": "SG1",
+    "sha1": "0d5a5fe2174d04f02d1db9ce745b8636d9531577"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D07-2"
+   ],
+   "concept_key": "墙倒众人推",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国家可禁止做空股票但无法让其他领域腐食者消失，我们自己也偶尔扮演腐食者（25538）；众人如秃鹫不攻击健康者（25540）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-06",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "淘汰落伍机构与个体可释放社会资源；腐食者利大于弊，是督促我们变得更好的力量",
+   "quote": "利大于弊",
+   "anchor": {
+    "start_line": 25542,
+    "end_line": 25542,
+    "fingerprint": [
+     "社会的资源",
+     "督促"
+    ],
+    "book_code": "SG1",
+    "sha1": "2acff9639304c96aabe54a91fbabcb722e432381"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "淘汰释放资源",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "自然规则给腐食者应有地位，不必为其存在担心（25542）；与C-SG1-U0353-04互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-07",
+   "unit_id": "SG1-U0353"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应对腐食者的办法是让自己健康：公司现金足债务低则不被攻击，个人被认为将东山再起则受善待",
+   "quote": "让自己健康起来",
+   "anchor": {
+    "start_line": 25544,
+    "end_line": 25546,
+    "fingerprint": [
+     "现金储备",
+     "东山再起"
+    ],
+    "book_code": "SG1",
+    "sha1": "178cea8447d512db0d3ea69a4b3f9959f9ac0d82"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-3",
+    "D08-1"
+   ],
+   "concept_key": "让自己健康避开腐食者",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "公司层：有足够现金储备、没有太高债务，做空者从不攻击（25544）；个人层：单位里只是暂时落魄、必定东山再起者大家客气甚至帮忙，认定没出息者易成替罪羊（25546）；后续见SG1-U0354《五种容易被腐食者盯上的人》",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0353-08",
+   "unit_id": "SG1-U0353"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0353",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "做多/做空概念科普（25486-25494）：做多、做空定义与借股卖出再买回还股的机制，纯金融概念解释无判断"
+  },
+  {
+   "unit_id": "SG1-U0353",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "2011年浑水、香橼做空中国概念股、几年前做空东方纸业及香橼十余家中国公司被摘牌/暴跌等具体事件（25484、25502、25512）为时点事件载体，可迁移机理已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第341封腐食者的作用：自然腐食者类比社会腐食者，浑水/香橼做空案例，8卡；做空概念科普为X8、具体做空事件X2"
+}

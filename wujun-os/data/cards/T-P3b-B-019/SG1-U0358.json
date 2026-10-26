@@ -1,0 +1,127 @@
+{
+ "unit_id": "SG1-U0358",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类优势不在基因复杂，也不在制造使用工具：基因数量不如很多哺乳动物，黑猩猩也会造工具",
+   "quote": "唯一能制造和使用工具的动物",
+   "anchor": {
+    "start_line": 25904,
+    "end_line": 25906,
+    "fingerprint": [
+     "染色体",
+     "黑猩猩"
+    ],
+    "book_code": "SG1",
+    "sha1": "8a93dec1e13e9cf3c8c8d0cae5bfcecdd8ed1ce5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "修正人类中心偏见",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军自述过去也接受'人类唯一会制造使用工具'，后随黑猩猩野外研究深入而修正（25906）；每个物种都有各自适应环境的本领，甚至比人更好（25904）；基因发现人与黑猩猩、倭黑猩猩同属人科（25902）；信首自述相信语言天赋来自基因（25896）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0358-01",
+   "unit_id": "SG1-U0358"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "现代研究：人类区别于其他物种（含近亲）的根本只有两点——语言符号和对不存在事物的幻想",
+   "quote": "对不存在事物的幻想",
+   "anchor": {
+    "start_line": 25912,
+    "end_line": 25914,
+    "fingerprint": [
+     "语言符号",
+     "幻想"
+    ],
+    "book_code": "SG1",
+    "sha1": "260f254f9414ed7b8387e357847b2204496e5d87"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "人类特异在语言与幻想",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=现代研究者（泛指，未具名，25912）；动物可通过声音触觉气味交流，但唯人使用语言符号；语法使人能谈论没见过的事如幻觉梦境，一般认为这是创造力来源（25914）；吴军并未将其写成自己的原创判断",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0358-02",
+   "unit_id": "SG1-U0358"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "语言能力使现代智人更好分工合作、利用整体资源做成更大的事，尼安德特人群体力量不及",
+   "quote": "更好地分工合作",
+   "anchor": {
+    "start_line": 25932,
+    "end_line": 25932,
+    "fingerprint": [
+     "分工合作",
+     "尼安德特人"
+    ],
+    "book_code": "SG1",
+    "sha1": "1ea147e34378fb9bbb1f5bcb42e9b498c046e093"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-1"
+   ],
+   "concept_key": "语言促进分工合作",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "现代智人走出非洲时大型哺乳动物大量灭绝，说明有大规模捕杀能力；同样聪明的尼安德特人在欧洲生存多万年却没做到（25932）；基于FOXP2研究的推论（25928-25930）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0358-03",
+   "unit_id": "SG1-U0358"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "语言能力如此重要，沟通能力是生活、工作和两性关系中成功的最重要因素；真正成功的人在于善于沟通",
+   "quote": "真正成功的人，并非自身能力最强",
+   "anchor": {
+    "start_line": 25934,
+    "end_line": 25934,
+    "fingerprint": [
+     "沟通能力",
+     "善于沟通"
+    ],
+    "book_code": "SG1",
+    "sha1": "2d279ab774a7949af14741834e82e8ca0cbb3238"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "成功在于善于沟通",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "结论句（25934）；推荐阅读含第295封《如何在单位里进行有效的沟通》（25940）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0358-04",
+   "unit_id": "SG1-U0358"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0358",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "FOXP2（叉头框P2）基因科普：牛津大学KE家族研究、基因变化速度、碱基G变A致布罗卡斯区神经元减少、尼安德特人与蝙蝠鸣禽对比（25916-25930），及尼安德特人为何灭绝的悬疑铺垫（25908-25910），纯生物科学科普，无可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第346封人类语言能力来源：转述现代研究的人类特异点+吴军修正人类中心偏见/语言促分工/成功在沟通，4卡；FOXP2基因科普与尼安德特人灭绝悬疑归X8"
+}

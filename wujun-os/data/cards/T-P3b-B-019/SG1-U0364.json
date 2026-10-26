@@ -1,0 +1,258 @@
+{
+ "unit_id": "SG1-U0364",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理性是审慎思考后用现有知识、抛开偏见推出合逻辑的结论；三要素：有知识、无偏见、合乎逻辑",
+   "quote": "有知识，无偏见，合乎逻辑",
+   "anchor": {
+    "start_line": 26408,
+    "end_line": 26410,
+    "fingerprint": [
+     "理性",
+     "偏见"
+    ],
+    "book_code": "SG1",
+    "sha1": "eaffefff2172e40db309b7a1c07f9e52a4f3e26e"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理性三要素",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军自己的理解（26408）；很多科学工作者论战时带偏见'我懂你不懂'，违反理性原则（26410）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-01",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "理性与感情并不对立，感情丰富者也能学会理性；搞理工的人未必理性",
+   "quote": "并非搞理工的人就理性",
+   "anchor": {
+    "start_line": 26404,
+    "end_line": 26406,
+    "fingerprint": [
+     "感情",
+     "理工科教授们"
+    ],
+    "book_code": "SG1",
+    "sha1": "6710baf14060b137c6ab930e6c5e1fe627901727"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理性不等于无感情",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "感情来自天性/基因，再理性的人被化学物质控制时思考也非理性（26404）；吴军常建议演艺界朋友学一点理性思维；把需静下心讨论的问题拿到网上说事的理工科教授恰恰极不理性，吴军见过不少极为理性的文艺界人士（26406）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-02",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼数列实验：聪明学生多只用符合假设的例子验证，答成'奇数序列'，唯一答对者主动测试了反例",
+   "quote": "任何递增的数字序列",
+   "anchor": {
+    "start_line": 26420,
+    "end_line": 26424,
+    "fingerprint": [
+     "奇数",
+     "－1"
+    ],
+    "book_code": "SG1",
+    "sha1": "1019a0b00b0020706ac45c4ee76f07136e828b8d"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "证实偏误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼；教授给出前三个数1，3，5，学生问7、9、11、13、15均得'是'，多数据此认定'奇数序列'，教授纸片答案是'任何递增的数字序列'（26420-26422）；唯一做对的学生问了12与－1（26424）；卡尼曼先导：人常带偏见，尤其是被自己经验证实的偏见（26414）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-03",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有了几次经验就用越来越多符合规律的例子验证，越来越确信；所收集信息只是证据全局的一小部分",
+   "quote": "只不过是证据全局中很小的一部分",
+   "anchor": {
+    "start_line": 26426,
+    "end_line": 26432,
+    "fingerprint": [
+     "越来越确信",
+     "证据全局"
+    ],
+    "book_code": "SG1",
+    "sha1": "0ffed48f1b42ad98d470c78fd351321e7b5c616f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "证实偏误",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军在Google面试中用此题问研究生，大部分人犯同样错误，少数测偶数或0.5、10.3等小数得最佳答案（26428-26430）；科学家为证明无害不自觉找无害证据；今天很多成功者的经验与学生找出的片面规律没什么不同（26434）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-04",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人类自笛卡尔后科技突飞猛进，关键在找到一整套科学方法；它与本能不同但可学习掌握，这就是理性思维",
+   "quote": "一整套完整的科学方法",
+   "anchor": {
+    "start_line": 26436,
+    "end_line": 26438,
+    "fingerprint": [
+     "笛卡尔",
+     "瞎子摸象"
+    ],
+    "book_code": "SG1",
+    "sha1": "5fd3f0255577ca383d651204ff7203987a3219df"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理性思维可习得",
+   "ability_tags": [
+    "思",
+    "学"
+   ],
+   "notes": "科学方法详见《文明之光》（26436）；投资中没有理性思维如同瞎子摸象（26438）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-05",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼CRT测试：三道极简数学题，名校学生得分也很低，原因是缺乏常识导致直觉错误",
+   "quote": "缺乏常识是产生直觉错误的原因",
+   "anchor": {
+    "start_line": 26440,
+    "end_line": 26450,
+    "fingerprint": [
+     "CRT",
+     "睡莲"
+    ],
+    "book_code": "SG1",
+    "sha1": "c7aea0bcd38906b8317dd86d6e41233455fcfeae"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "认知反射测试与常识",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼；三题：球拍与球11美元、3人3小时3件衣服、睡莲第48天铺满池塘问何时铺满一半，常见错答1美元、6件、24天，正确答案0.5美元、12件、47天（26442-26448）；MIT平均不到2.5分，普林斯顿不到2分，密歇根仅1分（26448）；吴军补充：这三道题是中国小学练习题，但也部分说明美国大学生水平不行（26450）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-06",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "直觉先出再用计算证实，直觉错则往错处证实；所谓理性就是用知识体系而非感觉解决问题",
+   "quote": "就是要利用我们的知识体系",
+   "anchor": {
+    "start_line": 26452,
+    "end_line": 26458,
+    "fingerprint": [
+     "常识",
+     "知识体系"
+    ],
+    "book_code": "SG1",
+    "sha1": "ccda5807325c9bd91f30411c66ec4435025a2d38"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "理性用知识体系",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "以睡莲几何级数、缝衣服产量翻番说明常识的作用（26454-26456）；这些常识小学就学过，属知识体系一部分（26458）；与C-SG1-U0364-06互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-07",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "被庞氏骗局骗分两步：缺乏常识被人骗，缺乏理性精神自己找证据骗自己",
+   "quote": "缺乏理性的精神自己找证据骗自己",
+   "anchor": {
+    "start_line": 26460,
+    "end_line": 26462,
+    "fingerprint": [
+     "庞氏骗局",
+     "缺乏常识"
+    ],
+    "book_code": "SG1",
+    "sha1": "eaeef9f5f3adc40c902ad42bbbc17f4da1871c1c"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "被骗两步",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "有的人直觉对是因常识不同：知道庞氏骗局早晚完蛋者远离，仍有人觉得有人接盘能玩下去或崩盘前全身而退（26460）；结论段：缺乏理性思维，投资和买彩票赌博无异、工作也会随意，卡尼曼指出人类做到理性其实非常困难，但该理性时需要理性（26470）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-08",
+   "unit_id": "SG1-U0364"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "利益相关者几乎都不公正：科研人员几乎无一例外把自己领域排第一；科学家批评政治家未必是政治家错",
+   "quote": "这是利益使然",
+   "anchor": {
+    "start_line": 26466,
+    "end_line": 26468,
+    "fingerprint": [
+     "科技工作者",
+     "政治家"
+    ],
+    "book_code": "SG1",
+    "sha1": "df6cc1f326e9b67ab13ec14783032e9d3fd17162"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-1"
+   ],
+   "concept_key": "利益使然的不公正",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国家资源有限须排先后时，所有科技工作者不论威望都把自己领域排首位（26466）；政治家和财务主管必须排三六九等，受益者毕竟少数所以永远被科学家批评（26468）；理性另一要素是无偏见：投资中因某创始人几句话就喜欢一家公司多少有偏见（26464）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0364-09",
+   "unit_id": "SG1-U0364"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第352封卡尼曼经济学课（下）理性的作用：理性定义与三要素、证实偏误实验、CRT与常识、庞氏骗局两步，9卡（含卡尼曼实验E2×2）"
+}

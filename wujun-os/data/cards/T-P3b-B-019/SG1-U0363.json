@@ -1,0 +1,234 @@
+{
+ "unit_id": "SG1-U0363",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "股价下跌后抄底是错误对标：股市自愿成交无合算之说，下跌说明过去判断有误",
+   "quote": "股票价格没有什么合算不合算一说",
+   "anchor": {
+    "start_line": 26318,
+    "end_line": 26322,
+    "fingerprint": [
+     "抄底",
+     "对标"
+    ],
+    "book_code": "SG1",
+    "sha1": "412d4401a99640f667907aa5f17c34095b3ef753"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "错误对标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "对比效应：日本店价格是韩国店两倍，人会因'花一半钱吃类似的'选韩国店；Zara/H&M、同款手机便宜100元沾沾自喜（26312-26318）；吴军否决'估值两亿降到一亿就该投'：说明发展未达上一轮融资承诺，前一轮股价是错误对标（26322）；吴军说明细节部分以自己例子替代卡尼曼原例（26310）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-01",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "以前的价格或成功案例当锚点盲目类比毫无逻辑：错失雅虎后按流量1/100估值1/100",
+   "quote": "这种对标毫无逻辑",
+   "anchor": {
+    "start_line": 26326,
+    "end_line": 26330,
+    "fingerprint": [
+     "雅虎",
+     "泡沫"
+    ],
+    "book_code": "SG1",
+    "sha1": "e27b06eb9f9891813a87ec21f08d1c760d36daf6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "错误对标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "卡尼曼举互联网泡沫例（26326）；雅虎日浏览10亿次，某公司1000万次就被认为值其1/100（26328）；视频、团购、移动互联网、O2O泡沫期不动脑子的投资人和从业者同样如此（26330）；涨5倍后觉得不值、等降20%反而永失购买价位（26324）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-02",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "沉没成本已无法拿回，不应左右决策；发现项目无盈利能力应及早清算，能拿回多少是多少",
+   "quote": "能拿回多少钱是多少钱",
+   "anchor": {
+    "start_line": 26334,
+    "end_line": 26342,
+    "fingerprint": [
+     "沉没成本",
+     "协和效应"
+    ],
+    "book_code": "SG1",
+    "sha1": "f626f01338ac4c013c713eda52641eb6a0bafa19"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1",
+    "D09-2"
+   ],
+   "concept_key": "沉没成本",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "点了难吃又不健康的菜是硬吃还是扔（26334-26336）；淘宝买了不会穿的衣服舍不得扔（26336）；很多人为永远不盈利的投资追加成本，高价买股亏了舍不得卖（26340）；'给明显诈骗圈钱公司搞100亿救助基金'是典型沉没成本错误（26340）；协和效应=英法政府明知协和式飞机不盈利仍几十年填漏洞（26342）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-03",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "持有越久越有感情（带大的孩子越看越爱），使人舍不得卖掉烂股票",
+   "quote": "对这些股票产生了好感",
+   "anchor": {
+    "start_line": 26344,
+    "end_line": 26350,
+    "fingerprint": [
+     "继子",
+     "带孩子"
+    ],
+    "book_code": "SG1",
+    "sha1": "85febc7dd17daf36d0cee35a2e4ea9b5049388f5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "越看越爱偏见",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "个人投资者手里握着一堆当年错误对标买来的便宜货（26344）；美国继父母对继子继女视如己出，因带孩子时间长有感情；非婚生孩子的父亲没带过孩子毫无感情（26348-26350）；源自人类本能，除非非常理性难以避免（26352）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-04",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼：对自己投入多的东西会按感情而非市价定价（低收入者二手车要价高出市价）",
+   "quote": "很少考虑市场的价格",
+   "anchor": {
+    "start_line": 26352,
+    "end_line": 26360,
+    "fingerprint": [
+     "二手车",
+     "福特野马"
+    ],
+    "book_code": "SG1",
+    "sha1": "5f533e440c5077a9e2b9c80846b32f97f4baabc8"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "越看越爱偏见",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼；10年车龄15万公里福特野马市价3000-5000美元，低收入低学历者要价6000-10000美元（26354）；他们在车上花心思做改装、更多从感情出发（26356-26358）；高收入高学历更理性，只想淘汰旧车换新车（26360）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-05",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼：从业者投资自己所在行业，收益并不比外人投资该行业更高",
+   "quote": "并不比外面的人",
+   "anchor": {
+    "start_line": 26362,
+    "end_line": 26366,
+    "fingerprint": [
+     "马克·吐温",
+     "从业者"
+    ],
+    "book_code": "SG1",
+    "sha1": "2af494c60def9e0ac277293c6aa4dd5a78eae141"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "投资自己行业未必更安全",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼；吴军归因：'自己的孩子越看越爱'偏见使医药人买医药股、IT人买科技股、演员投拍影视剧（26362）；马克·吐温版税收入最高却投出版相关行业血本无归，却拒绝投资贝尔电话事业（26366，案例并入本卡）；与富足'最好的投资是自己的专业'（指投资自己的专业能力，非买本行业股票）不是同一命题，P4聚类时勿并键",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-06",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "天性使人贪便宜、错对标、偏爱自己孩子，使股市成为大多数人向少数冷静者输送利益的场所",
+   "quote": "输送利益的场所",
+   "anchor": {
+    "start_line": 26368,
+    "end_line": 26372,
+    "fingerprint": [
+     "过分自信",
+     "天性"
+    ],
+    "book_code": "SG1",
+    "sha1": "6bf36ca8afd87348d46073670b5073593bd52715"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "散户系统性劣势",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "选烂股→不舍得止损→不断填无底洞，散户大部分时间处于错误状态（26370）；这些毛病是天性使然，大部分人难以克服且过分自信（26372）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-07",
+   "unit_id": "SG1-U0363"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼与马尔基尔：个人投资除了指数定投，没有更好的方法",
+   "quote": "除了指数定投，没有更好的方法",
+   "anchor": {
+    "start_line": 26374,
+    "end_line": 26374,
+    "fingerprint": [
+     "马尔基尔",
+     "指数定投"
+    ],
+    "book_code": "SG1",
+    "sha1": "c6256c708d09db99097484fde9c590a50206a173"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "指数定投",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "被转述者=卡尼曼及其同事马尔基尔（Malkiel）；吴军转述其对个人投资的建议（26374）；卡尼曼关于定式思维、过度信息的内容留待下一信（26376）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0363-08",
+   "unit_id": "SG1-U0363"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第351封卡尼曼经济学课（中）：错误对标、沉没成本、'自己的孩子越看越爱'偏见、散户系统性劣势，8卡（含卡尼曼转述E2×3）"
+}

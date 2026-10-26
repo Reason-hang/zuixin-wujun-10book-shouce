@@ -1,0 +1,264 @@
+{
+ "unit_id": "SG1-U0352",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "稳定公司看利润增长，快速发展公司看自身营业额增长（非并购），后者利润易作假",
+   "quote": "自身营业额的增长",
+   "anchor": {
+    "start_line": 25390,
+    "end_line": 25390,
+    "fingerprint": [
+     "利润的成长",
+     "营业额"
+    ],
+    "book_code": "SG1",
+    "sha1": "faa2278e9902bfcf9a2359566f2eae25b3f6096b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "按公司类型看财报指标",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "互联网公司属快速发展类（25390）；中美财报差异：中国公司法下财报更易做假、美国猫腻吴军多能看出（25392）；信首的'少碰单个股票、选股拼体力不拼智慧'见25376-25378，李笑来'睡觉时财富自动增长'见25380",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-01",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "国内读财报先看审计意见；'带强调事项段'表示存疑，'标准无保留'也可能没看出造假",
+   "quote": "先要看看审计意见是什么",
+   "anchor": {
+    "start_line": 25396,
+    "end_line": 25402,
+    "fingerprint": [
+     "审计意见",
+     "带强调事项段"
+    ],
+    "book_code": "SG1",
+    "sha1": "ac3f61fb18c5da0e9b5dcbfe84ef8cdaab22c089"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "财报先看审计意见",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "美国造假成本高（司法+市场处罚、无跌停），多数财报不审计，不必看这一项（25398）；公司A 2016年强调事项段指关联交易（25400-25402）；具体公司为载体，判据可迁移",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-02",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "扣除关联交易看真实营业额；收入翻番全靠关联方，更可能是刻意做假账",
+   "quote": "来自于关联交易",
+   "anchor": {
+    "start_line": 25408,
+    "end_line": 25412,
+    "fingerprint": [
+     "关联交易",
+     "真正的销售额"
+    ],
+    "book_code": "SG1",
+    "sha1": "150ee9b7350d377e26d5895fb413128ad1258953"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "扣除关联交易看真实营收",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "公司A 2016年收入220亿中117亿来自关联交易，扣除后仅100亿出头，2015年反有110多亿（25408）；两种可能：关联公司真发展好（天方夜谭）或刻意做假账（25410-25412）；美国上市出现此情况股价一天跌2/3以上不奇怪（25414）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-03",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "应收账款占比过高有两种可能：卖给无支付能力者成坏账，或串通做假账；关联方欠款更可疑",
+   "quote": "应收账款太多",
+   "anchor": {
+    "start_line": 25420,
+    "end_line": 25424,
+    "fingerprint": [
+     "应收账款",
+     "朗讯"
+    ],
+    "book_code": "SG1",
+    "sha1": "a97ffc2c0ff1cfcc32ec8eaa5e3226e108147f4b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "应收账款异常的两种可能",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "公司A应收账款87亿占销售额40%，其中38亿来自关联公司（25418）；朗讯卖货给后来倒闭的互联网公司被并购为坏账案例（25420）；软件/IT服务因无需真发货易串通做假账（25422）；A公司两种都有可能，40%款收不回值得怀疑（25424）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-04",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "巴菲特：营业额和利润都不难作假，但现金流是真的，因此极度看重现金流",
+   "quote": "但是现金流是真的",
+   "anchor": {
+    "start_line": 25426,
+    "end_line": 25426,
+    "fingerprint": [
+     "巴菲特",
+     "现金流"
+    ],
+    "book_code": "SG1",
+    "sha1": "001de9bb57072a27b8c1cd1efc917e0fb2703961"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "现金流难造假",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=巴菲特；吴军在第43封信介绍巴菲特的智慧时所讲（25426）；吴军本人对经营/非经营现金流的应用判断见C-SG1-U0352-06",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-05",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "好公司现金流主要来自经营活动；非经营性现金流占比过高或靠举债度日是警讯",
+   "quote": "几乎清一色地来自于经营活动",
+   "anchor": {
+    "start_line": 25428,
+    "end_line": 25434,
+    "fingerprint": [
+     "经营活动",
+     "非经营活动的现金流"
+    ],
+    "book_code": "SG1",
+    "sha1": "7e75bd71a37decb9b1b24f4527437b4bf04d3882"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "现金流来源看竞争力",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "微软、苹果、Google现金流强劲且来自经营活动（25428）；IBM非经营现金流（专利官司、退休金投资、卖资产）占比高说明竞争力不如从前（25430）；中国某半导体公司现金流来自房地产与科研经费有问题（25432）；公司A靠融资贷款过日子（25434）；与C-SG1-U0352-05互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-06",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创始人减持套现说明自己对公司没有信心，愿景再好也应远离",
+   "quote": "说明他们自己对公司就没有信心",
+   "anchor": {
+    "start_line": 25440,
+    "end_line": 25440,
+    "fingerprint": [
+     "创始人",
+     "套现"
+    ],
+    "book_code": "SG1",
+    "sha1": "62ddd27e1682c56b983b2d9e9e146212bd344674"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "创始人套现是警讯",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "普通股清算次序排在债券之后（25438，承第330封信）；公司A创始人2015年卖股50多亿、借给公司约35亿、年底又收回30多亿（25440-25442）；哪怕创始人有情怀梦想大家也应远离（25444）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-07",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "邓锋：看创始人是否愿意把自己的钱投入自己的事业，否则忽悠别人出钱不合逻辑",
+   "quote": "将自己的钱投入到自己事业中",
+   "anchor": {
+    "start_line": 25446,
+    "end_line": 25446,
+    "fingerprint": [
+     "邓锋",
+     "创始人"
+    ],
+    "book_code": "SG1",
+    "sha1": "b3102900c041f9c826027c28de6df142bf873b3f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D08-1"
+   ],
+   "concept_key": "创始人是否自掏腰包",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=邓锋（北极光创投创始人）；吴军建议对初创企业用此标准衡量创始人（25446）；信末留问：是否认同邓锋原则（25460）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-08",
+   "unit_id": "SG1-U0352"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "比读懂财报更重要的是不迷信能驾驭个股，老老实实追求长期稳定的复合增长",
+   "quote": "追求长期稳定的复合增长",
+   "anchor": {
+    "start_line": 25450,
+    "end_line": 25450,
+    "fingerprint": [
+     "驾驭单支股票",
+     "复合增长"
+    ],
+    "book_code": "SG1",
+    "sha1": "eea9b1cb4bda9a6be7202d4991ee1c786e5ffb3f"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2"
+   ],
+   "concept_key": "长期稳定复合增长",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "全信结论句；开头论证：个股可能一时成长但不保证长期稳定、低买高卖卖后仍面临选股与风险，'拼体力而不是拼智慧'（25376-25378）；读不懂是知识问题，读懂还大规模投资是职业操守问题（引曾李青，25448）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0352-09",
+   "unit_id": "SG1-U0352"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0352",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "公司A具体财报数字与审计意见（2015/2016年营收、关联交易、应收账款、融资额等，25396-25444）为时点性案例载体，判断逻辑已抽入K卡；公司具体事件不入主干"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第340封比读懂财报更重要的事：以公司A为例的财报识别方法，E1财报判据+E2转述巴菲特/邓锋，共9卡"
+}

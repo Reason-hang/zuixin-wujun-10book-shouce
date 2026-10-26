@@ -1,0 +1,235 @@
+{
+ "unit_id": "SG1-U0356",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "识别小人第一条：小心无缘无故对我们特别好的人；直接使坏的人反而容易发现和防范",
+   "quote": "无缘无故对我们特别好的人",
+   "anchor": {
+    "start_line": 25718,
+    "end_line": 25720,
+    "fingerprint": [
+     "保健品",
+     "无缘无故"
+    ],
+    "book_code": "SG1",
+    "sha1": "bbfe986b077a9c3760775a12d7d0b2875ec6a03b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "小心无缘无故对你好的人",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "小人难识别因一开始会对你好；卖保健品给老人的传销/直销人员让老人觉得对他们特别好（25718）；费无忌、李园都让主人感觉非常好（25720）；并非对我们好的人都是小人，大部分是善良的Nice的人（25722）；承C-SG1-U0355-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-01",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "区分善良者与小人：善良者从你的最大利益对你好，小人利用弱点给小利而损害你根本利益",
+   "quote": "损害你最大的、根本的利益",
+   "anchor": {
+    "start_line": 25724,
+    "end_line": 25726,
+    "fingerprint": [
+     "善良的人",
+     "费无忌"
+    ],
+    "book_code": "SG1",
+    "sha1": "e8cc03afe0bbc40a1a9c6903cd62cecda68cf7c2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "看对方是否维护你的最大利益",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "二维看不清就进入三维的类比（25724）；费无忌案：楚王最大利益是国家长久，给楚国埋内乱隐患却看似替楚王着想（25726）；春申君最大利益是楚国稳定，覆巢之下无完卵（25728）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-02",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "有人以小恩小惠换你违反原则：利益归他，代价归你；被拉下水的官员多吃此亏",
+   "quote": "让我们做一些违反原则的事情",
+   "anchor": {
+    "start_line": 25730,
+    "end_line": 25730,
+    "fingerprint": [
+     "小恩小惠",
+     "官员"
+    ],
+    "book_code": "SG1",
+    "sha1": "0ed9323ba17d5a322728a9a29400f61dd3ccdc03"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-3"
+   ],
+   "concept_key": "小恩小惠换违反原则",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "这些人对我们好时根本没考虑我们的最大利益，只考虑自己（25730）；与C-SG1-U0356-02同论证链",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-03",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "看人不能只看他对你如何，还要看他对周围人如何；有求于你时人会格外殷勤，对别人不好者没用时也不会对你好",
+   "quote": "对别人不好的人",
+   "anchor": {
+    "start_line": 25738,
+    "end_line": 25740,
+    "fingerprint": [
+     "孟尝君",
+     "有求于你"
+    ],
+    "book_code": "SG1",
+    "sha1": "eb500a76dd561122f3083c7b98d717f01bfffdb7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "看他如何对待周围人",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第二点识别法（25732）；费无忌妒杀伯郤宛全家致伯嚭投吴复仇，楚王仍受其害（25734）；鬼谷子（转述）见庞涓来信不问候老师判为刻薄忘本，孙膑未听（25736）；孟尝君罢相后食客散尽仅冯驩留（25738）；第三点'物以类聚，人以群分'看周围都是什么人（25742，吴军未展开）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-04",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "防范小人首要戒贪：吃小人亏多因贪小利而忘了最大的利益，不贪则小人拿我们没办法",
+   "quote": "贪小利而忘记了自己最大的利益",
+   "anchor": {
+    "start_line": 25744,
+    "end_line": 25746,
+    "fingerprint": [
+     "戒贪",
+     "马化腾"
+    ],
+    "book_code": "SG1",
+    "sha1": "9c22798e1668048de0e7b45aad9ad67cf949888d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D03-1"
+   ],
+   "concept_key": "戒贪防小人",
+   "ability_tags": [
+    "做"
+   ],
+   "notes": "吴军一辈子遇小人不少但吃亏极少（25744）；马化腾（转述）称不贪就染不上电脑病毒，其电脑一次没染过（25746）；朋友案例（E3级，并入本卡）：大互联网公司高管从不贪下属巴结的出国旅行便宜，内斗被查黑材料时顺利过关反更受信任（25748）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-05",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对过分狎昵的亲密关系别太当回事，尤其别人有求于你时；知道人性此特点交往时留防范，吃亏不至于大亏",
+   "quote": "对过分狎昵的亲密关系太当回事",
+   "anchor": {
+    "start_line": 25750,
+    "end_line": 25750,
+    "fingerprint": [
+     "狎昵",
+     "冯驩"
+    ],
+    "book_code": "SG1",
+    "sha1": "9bf35a7d573dac604b7374b3256852690e3d4a01"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "狎昵关系不可太当真",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "孟尝君罢相门客散去、复相又回，冯驩言'富贵多士，贫贱寡友'（25750）；孟尝君待客如故但心里应有看法，廉颇同例，人性使然、中外皆同（25752）；莎士比亚《雅典的泰门》：钱花光后人人躲避，评'不把人想得那么好，后来也不会把人想得那么坏'（25754-25756）；结论句见25758",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-06",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "合作要就事论事、对事不对人：对方在事上守诺即可，公事公办并把丑话讲在前面",
+   "quote": "对事不对人",
+   "anchor": {
+    "start_line": 25760,
+    "end_line": 25764,
+    "fingerprint": [
+     "就事论事",
+     "丑话讲在前面"
+    ],
+    "book_code": "SG1",
+    "sha1": "2e9aebbd4d96dfb4719ecdf25330e25ca2663fac"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D05-1"
+   ],
+   "concept_key": "就事论事对事不对人",
+   "ability_tags": [
+    "做",
+    "沟"
+   ],
+   "notes": "人常因对方人不好就否定相关事，但事与人绝大多数情况可分开（25760）；对方缺点只要不在合作事上造成损失就不必嫉恶如仇（25762）；合作前过分狎昵、遇利益冲突就互相拆台，就事论事则做不成也不至于一辈子反目（25764）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-07",
+   "unit_id": "SG1-U0356"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "人性复杂，除个别小人外多数人不能简单以君子小人论处；防小人最好办法是戒贪",
+   "quote": "不能简单地以君子小人论处",
+   "anchor": {
+    "start_line": 25766,
+    "end_line": 25766,
+    "fingerprint": [
+     "君子小人",
+     "戒贪"
+    ],
+    "book_code": "SG1",
+    "sha1": "84a8c3a546ed0e793236da0bd7e933a35af0ac96"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D01-1"
+   ],
+   "concept_key": "人不能简单君子小人二分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "找不到只有正面没有反面的纸的类比（25766）；工作生活中防范小人保护自己仍有必要（25766）；与C-SG1-U0356-05互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0356-08",
+   "unit_id": "SG1-U0356"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第344封如何识别和防范小人：识别三点+防范三点+人性复杂结论，8卡；承接U0355小人判断"
+}

@@ -1,0 +1,272 @@
+{
+ "unit_id": "SG1-U0361",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "自学对少数人有效，大部分人效果一般；教授自学尚且做不好，别高估自己的学习能力和自觉性",
+   "quote": "不要高估自己的学习能力和自觉性",
+   "anchor": {
+    "start_line": 26134,
+    "end_line": 26136,
+    "fingerprint": [
+     "自己学习",
+     "自觉性"
+    ],
+    "book_code": "SG1",
+    "sha1": "cd9f7db7fcfdee075c39a6f8abcada1da6f7cb73"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "自学效果有限",
+   "ability_tags": [
+    "学"
+   ],
+   "notes": "终身学习第一方法；研究型教授因职业不得不自学；即便教课为主的教授知识更新也不快（26136）；极少数家庭可在家教中小学，北加州斯坦福教授家庭学校联盟例（26138），99%孩子在家读书等于放羊（26140）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-01",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "抱团集中培训是终身学习第二方法：没培训就当管理者走野路子；工作经验只造熟练工，培训才能担更重任",
+   "quote": "工作经验只能让你成为熟练工",
+   "anchor": {
+    "start_line": 26142,
+    "end_line": 26148,
+    "fingerprint": [
+     "野路子",
+     "集中培训"
+    ],
+    "book_code": "SG1",
+    "sha1": "94bb8b23140191a4602197f3c989c2fd51609649"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "抱团集中培训",
+   "ability_tags": [
+    "学",
+    "做"
+   ],
+   "notes": "凭资历或裙带上位的主管管理方法野路子，容易制造矛盾（26144）；西点军校只培养初级军官，晋升须进各兵种战争学院（26146，承第159封）；五年内没参加过集中培训的上班族已落伍，集体学习才有压力学完（26148）；'得到'式分散一年讲完的前提是常参加讨论发言（26150）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-02",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "培训收获不只取决于听讲，更在是否应用上；好培训有课后随访，只为挣钱的培训收完钱了事",
+   "quote": "是否将所学的内容应用上了",
+   "anchor": {
+    "start_line": 26152,
+    "end_line": 26152,
+    "fingerprint": [
+     "课后随访",
+     "收完钱就了事"
+    ],
+    "book_code": "SG1",
+    "sha1": "ad88e6862e8eb7cb0cc7b378673556bbfa5861d2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学以致用才掌握",
+   "ability_tags": [
+    "学",
+    "做"
+   ],
+   "notes": "与SG1-U0360'学以致用才掌握'同键互引；判别培训好坏的标志之一",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-03",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "通过继续教育与名校挂钩可增强自信、督促上进，是'有意义的虚荣'；名校毕业还需挂校名则是失败",
+   "quote": "这是一种有意义的虚荣",
+   "anchor": {
+    "start_line": 26164,
+    "end_line": 26164,
+    "fingerprint": [
+     "继续教育",
+     "自信心"
+    ],
+    "book_code": "SG1",
+    "sha1": "9d43b82d257eb14bb2a3b92a43d3b204d3234067"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1"
+   ],
+   "concept_key": "有意义的虚荣",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "继续教育目的之一：本科学校太烂想镀金，中美皆然（26162）；对从名校毕业者，毕业后还需把学校名字挂嘴边是失败（26164）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-04",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "想改行须下决心系统学习新专业；行业需完整知识体系与思维方式，非自学和短期培训能做到",
+   "quote": "需要理解这个行业的思维方式",
+   "anchor": {
+    "start_line": 26168,
+    "end_line": 26172,
+    "fingerprint": [
+     "知识体系",
+     "系统地学习新专业"
+    ],
+    "book_code": "SG1",
+    "sha1": "1eaf1e055cc0ffbe9f7345c2a41c3fe8ee6c0797"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1",
+    "D02-2"
+   ],
+   "concept_key": "改行须系统学习",
+   "ability_tags": [
+    "学",
+    "做"
+   ],
+   "notes": "对99%甚至更多的人，自学编程转工程师不现实，计算机专业毕业尚且大半成不了合格工程师（26168）；仅极少数1%或可行，须衡量自己（26170）；系统学习是最省时、最快最有效的方法（26170）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-05",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "参加继续教育（如MBA/EMBA）的重要目的是获得对事业有用的社交圈子；参与者已比宅家或重复工作者占竞争优势",
+   "quote": "有用的社交圈子",
+   "anchor": {
+    "start_line": 26176,
+    "end_line": 26180,
+    "fingerprint": [
+     "MBA",
+     "社交圈子"
+    ],
+    "book_code": "SG1",
+    "sha1": "36acfa59370fad09d6681bdc7857bc9fbadd7313"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D06-1"
+   ],
+   "concept_key": "继续教育换圈子",
+   "ability_tags": [
+    "沟",
+    "做"
+   ],
+   "notes": "国内一流MBA/EMBA课表大同小异、专业知识教授相对落伍、案例内容公开资料可得，但集中学习仍可高效获得常识（26176-26178）；'没赢得比赛是因为态度上没积极参与比赛'（26180）；继续教育目的之三：混朋友圈（26174）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-06",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "继续教育与一般高等教育的第一个不同在目的：前者针对性强、目的明确；想不清楚为什么学就别浪费时间金钱",
+   "quote": "想不清楚为什么学",
+   "anchor": {
+    "start_line": 26186,
+    "end_line": 26194,
+    "fingerprint": [
+     "目的不同",
+     "浪费时间和金钱"
+    ],
+    "book_code": "SG1",
+    "sha1": "e7b444cab2c8608fde114237c6ab3dabd1be9201"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-1",
+    "D02-2"
+   ],
+   "concept_key": "学前先想清目的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "18岁高中生难明白将来要干什么，一般高等教育是为将来打基础（26186）；清华经管本科生为混分数、脱产干部有工作需求听得津津有味（26188）；吴军工作五年后知道补什么而读博，与只为出国的同学目的不同（26190-26192，案例并入本卡）；信末总结：继续教育必须、目的明确、学以致用（26210）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-07",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "继续教育的学习方法不同：关键学了要主动使用；新学位不等于升迁，领导要看到你能做更多事",
+   "quote": "继续教育是一个边学边实践的过程",
+   "anchor": {
+    "start_line": 26198,
+    "end_line": 26204,
+    "fingerprint": [
+     "学位",
+     "方法和主动性"
+    ],
+    "book_code": "SG1",
+    "sha1": "bbaf1de75b9db4e250c471bdcaae97e0d07fbba9"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D06-1"
+   ],
+   "concept_key": "学位不等于升迁学要能用",
+   "ability_tags": [
+    "学",
+    "做"
+   ],
+   "notes": "三本毕业的年轻人读一本研究生后领导说'这一行靠做不靠读学位'（26200）；吴军：从镀金角度可满意，指望学位往桌上一放就升迁是理解错了（26202）；领导需看到有了新学位后做事方法和主动性有改变（26204）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-08",
+   "unit_id": "SG1-U0361"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "三十多岁与年轻人同学不必不好意思，只要目的明确就没有面子问题",
+   "quote": "只要目的明确",
+   "anchor": {
+    "start_line": 26206,
+    "end_line": 26208,
+    "fingerprint": [
+     "不好意思",
+     "老教授"
+    ],
+    "book_code": "SG1",
+    "sha1": "344241f46fcca3a8f8ebc1184e1084d8501358a5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D02-2"
+   ],
+   "concept_key": "学习不必顾面子",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "MIT有70岁老教授与20岁年轻人一同读新领域硕士（26208）；信末思考题：如何克服面子因素放下身段学习新东西（26216）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0361-09",
+   "unit_id": "SG1-U0361"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0361",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "继续教育产业与趋势：美国一流大学继续教育产业庞大、卡耐基-梅隆硅谷分校、沃顿旧金山校区、约翰·霍普金斯继续教育硕士多于全日制、中国继续教育产业将成长、未来知识淘汰更快故30岁以下需重点关注继续教育（26154-26158、26182），属教育产业与趋势预测，可迁移判断已入K卡"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第349封关于继续教育：终身学习三种方法+继续教育目的及与高等教育的不同，9卡；继续教育产业与趋势预测归X6"
+}

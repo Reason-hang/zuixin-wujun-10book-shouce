@@ -1,0 +1,165 @@
+{
+ "unit_id": "SG1-U0360",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "终身教育根本上看个人内在动力，与外在条件关系不大；人好逸恶劳，勤勉者靠后天觉悟克服",
+   "quote": "自己内在的动力",
+   "anchor": {
+    "start_line": 26108,
+    "end_line": 26110,
+    "fingerprint": [
+     "好逸恶劳",
+     "内在的动力"
+    ],
+    "book_code": "SG1",
+    "sha1": "89203a51d185fcf2e5f1fb55abd5517386f33e96"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2",
+    "D02-4"
+   ],
+   "concept_key": "学习靠内在动力",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "notes": "对新知的好奇并非所有人天性，一些人后天觉悟并主动克服好逸恶劳，有条件就如饥似渴地学习，与有没有MOOC关系不大（26108）；MOOC作用被高估（26110）；结论'人内在的动力依然是学有所成的关键'（26112）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0360-01",
+   "unit_id": "SG1-U0360"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "学了不有意识应用，过不久就忘；学而不用只有学以致用才能真正掌握，应用常需老师指导和实习",
+   "quote": "只有学以致用，才能真正掌握",
+   "anchor": {
+    "start_line": 26090,
+    "end_line": 26092,
+    "fingerprint": [
+     "学而不用",
+     "有意识地应用"
+    ],
+    "book_code": "SG1",
+    "sha1": "268994d8fa46de42a41a27c512fb33b6a49eafbe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "学以致用才掌握",
+   "ability_tags": [
+    "学",
+    "做"
+   ],
+   "notes": "吴军在'得到'App看到用户留言：学了很多东西，自己原来什么样今天还是什么样（26092）；原因可能更多是主观的（26092）；与SG1-U0361'培训收获在应用'同键互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0360-02",
+   "unit_id": "SG1-U0360"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "今天教育的矛盾不是找不到学习门路，而是很多人根本不打算学；对不想读书的人用什么工具都没用",
+   "quote": "用什么工具都没有用",
+   "anchor": {
+    "start_line": 26098,
+    "end_line": 26102,
+    "fingerprint": [
+     "不打算学习",
+     "计算机辅助教学"
+    ],
+    "book_code": "SG1",
+    "sha1": "9a363d7aaaeaf9b2d0031dc64f0f526247cb48d7"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-2"
+   ],
+   "concept_key": "工具无法替代学习意愿",
+   "ability_tags": [
+    "思",
+    "学"
+   ],
+   "notes": "个人电脑普及后孩子吵着买电脑学习结果变娱乐（26098）；计算机辅助教学下做不出数学题的孩子照样做不出（26100）；想学的人用MOOC获新知，不想学的花钱请他听北大清华公开课也未必听（26102）；100年前资源有限则任何知识传播方式都有帮助（26096）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0360-03",
+   "unit_id": "SG1-U0360"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MBA效应：毕业后薪资上涨有相当部分来自入学筛选——有上进心者不读MBA也会大幅涨薪；名校还筛掉了没潜力的人",
+   "quote": "5 年后工资照样会大幅度提高",
+   "anchor": {
+    "start_line": 26080,
+    "end_line": 26088,
+    "fingerprint": [
+     "MBA 效应",
+     "上进心"
+    ],
+    "book_code": "SG1",
+    "sha1": "576408c89fde891869e4693b87b149afbb6d94ea"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D06-1"
+   ],
+   "concept_key": "选择效应混淆因果",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "商学院用学前学后工资变化证明投资有效（26080）；国内MBA学生称读MBA为换朋友圈，不到教室同学同乐则白学（26084）；佐治亚理工MOOC学位持有者本就是想上进的人且被学校筛选一次，课程作用很难说（26088）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0360-04",
+   "unit_id": "SG1-U0360"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "MOOC可能让教育进一步分化：精英用它拉大与大众的距离，雪中送炭变成锦上添花，这是人性使然而非MOOC之错",
+   "quote": "最后却变成了锦上添花",
+   "anchor": {
+    "start_line": 26104,
+    "end_line": 26106,
+    "fingerprint": [
+     "精英",
+     "摆设"
+    ],
+    "book_code": "SG1",
+    "sha1": "39f94eceb29d9a794ac6561de5981617e32d1121"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1",
+    "D02-2"
+   ],
+   "concept_key": "工具普惠反拉大差距",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "只有少数精英和本来想进入精英阶层的人会利用这类工具，对更需教育的大众只是摆设（26104）；这不是MOOC本身错误而是人的天性（26106）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0360-05",
+   "unit_id": "SG1-U0360"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0360",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "MOOC现状数据与时点评论：Coursera 2000多门课、'学堂在线'1320门、80%听几次就不听、佐治亚理工在线硕士约4000张/年与学费约6000美元/学期、MOOC对全民教育贡献微乎其微（26032-26054），为2017年时点信息与技术评价"
+  },
+  {
+   "unit_id": "SG1-U0360",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "教育制度与名校议论：中国大学录取率与扩招、清华浙大招生数、名校稀缺、美国HYPMS录取率创新低、上名校的目的是名师同学与共同生活（26056-26076、26112）：属教育制度、升学与名校选择，按X5排除"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第348封MOOC能否帮助没机会上大学的人：以学习动力与学以致用、选择效应、技术普惠悖论为核心5卡；MOOC现状数据与名校稀缺等教育议论归X2/X5"
+}

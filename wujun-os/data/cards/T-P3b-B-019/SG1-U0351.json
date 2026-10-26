@@ -1,0 +1,72 @@
+{
+ "unit_id": "SG1-U0351",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "《指环》讴歌牺牲自我救世的英雄；德国英雄情结使其团结崛起，也导致后来纳粹崛起",
+   "quote": "导致了后来纳粹的崛起",
+   "anchor": {
+    "start_line": 25354,
+    "end_line": 25354,
+    "fingerprint": [
+     "英雄情结",
+     "纳粹"
+    ],
+    "book_code": "SG1",
+    "sha1": "594562c0f8c4ac843e35aca5ea6fd5d41387318d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "英雄情结与民族崛起",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "候选柱为弱归属：最接近D01-1（读懂民族行为），柱字典无DT-待判可用于写盘工具，P4可复核；《指环》主题总结（25354）；'热爱绚烂的生命，嘲笑死亡'与日本武士樱花相比、今天德国人心态已平和（25356）；承接25196处境对比法",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0351-01",
+   "unit_id": "SG1-U0351"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "剧中英雄不畏强暴的气概，是苦难中德意志民族的精神支柱；情节折射血统纯洁迷恋",
+   "quote": "德意志民族的精神支柱",
+   "anchor": {
+    "start_line": 25302,
+    "end_line": 25302,
+    "fingerprint": [
+     "不畏强暴的英雄气概",
+     "血统纯洁"
+    ],
+    "book_code": "SG1",
+    "sha1": "fbb1e5db2f17451da732eaa1ecb9b7a6dba4a1c0"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "艺术折射民族精神",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "候选柱为弱归属：最接近D01-1；吴军对剧情安排的解读（齐格琳德爱上哥哥并怀孕与日耳曼人对血统纯洁的迷恋有关，25302）；概念键与U0350'艺术读懂国民性'同族但结论句不同，未并键",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0351-02",
+   "unit_id": "SG1-U0351"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0351",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "《女武神》《齐格弗里德》《诸神的黄昏》三部歌剧剧情逐幕复述（25278-25352）、《星球大战》主题曲来源、忘情水情节类比电影（25280、25344）、推荐听《指环》的建议（25358），纯剧情赏析无可迁移结论句"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第339封《指环》下：以剧情复述为主的信，2卡（英雄情结与民族崛起、艺术折射民族精神）并在reason说明；剧情复述X8"
+}

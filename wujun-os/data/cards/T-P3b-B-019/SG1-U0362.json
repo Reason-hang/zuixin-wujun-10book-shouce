@@ -1,0 +1,236 @@
+{
+ "unit_id": "SG1-U0362",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1R4",
+ "batch_id": "T-P3b-B-019",
+ "cards": [
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼实验：数学上等价的问题，用'救活200人'还是'死400人'表述，多数人选择相反",
+   "quote": "人总是喜欢生而讨厌死",
+   "anchor": {
+    "start_line": 26236,
+    "end_line": 26242,
+    "fingerprint": [
+     "卡尼曼",
+     "期望值"
+    ],
+    "book_code": "SG1",
+    "sha1": "d9cfa44f249a65f23b691f6948414ed280d7d240"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "框架效应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼（2002年诺贝尔经济学奖，吴军十多年前听其普林斯顿讲座，26228）；600人瘟疫两种救治方案期望值相等，选保200人为主（26236），换成'400人丧命'后多数选1/3全救方案（26242）；卡尼曼研究认知（情绪心理）对经济行为的影响（26232）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-01",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼实验：同样结果，视为'白得50美元'则落袋为安，视为'被抢50美元'则宁可赌一把",
+   "quote": "宁可一拼",
+   "anchor": {
+    "start_line": 26246,
+    "end_line": 26254,
+    "fingerprint": [
+     "钢镚",
+     "保安"
+    ],
+    "book_code": "SG1",
+    "sha1": "b8a6040858a2191f96b60ceb6d65d23f67c11685"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1",
+    "D03-2"
+   ],
+   "concept_key": "收益框架保守损失框架冒险",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼；实验一给50美元，多数拒赌拿走（26248）；实验二给100美元，不赌则被拿走50，多数选赌（26252）；两种选择带走的钱期望完全相同，只因问法不同反应不同，是瘟疫例子的变种（26254）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-02",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "卡尼曼：散户倾向卖掉盈利股落袋为安，留住亏损股，以为不卖就不会亏损",
+   "quote": "以为只要不卖出，就不会亏损",
+   "anchor": {
+    "start_line": 26256,
+    "end_line": 26258,
+    "fingerprint": [
+     "落袋为安",
+     "散户"
+    ],
+    "book_code": "SG1",
+    "sha1": "495848a2bf03328aa525a5bfedab314590b36eb1"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D09-2",
+    "D03-2"
+   ],
+   "concept_key": "散户卖盈留亏",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者=卡尼曼；A、B公司各买1000美元，A涨到1500、B跌到500，多数散户卖A留B（26256-26258）；吴军本人的判断见C-SG1-U0362-04",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-03",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "下跌股通常更糟、续跌可能更大；散户卖好留烂200年亏钱，与智力无关；好投资人以事实为依据、不预设结果",
+   "quote": "对结果不作事先假设",
+   "anchor": {
+    "start_line": 26260,
+    "end_line": 26262,
+    "fingerprint": [
+     "思维定式",
+     "理工科思维"
+    ],
+    "book_code": "SG1",
+    "sha1": "504dc489514e05b91615042fdf51537291c386a6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D09-2",
+    "D01-1"
+   ],
+   "concept_key": "客观事实判断投资",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "股价不断上涨的公司通常在同行业有竞争性，继续上涨可能性更大（26260）；是人的思维定式使然，好投资人具有极为客观的理工科思维（26262）；与C-SG1-U0362-03互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-04",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "利用人们求赚怕亏的心理，用正向表述（如99% Fat Free）可让人更高兴，但要谨防被人利用",
+   "quote": "谨防别人使用这种方法",
+   "anchor": {
+    "start_line": 26264,
+    "end_line": 26268,
+    "fingerprint": [
+     "Fat Free",
+     "人际关际"
+    ],
+    "book_code": "SG1",
+    "sha1": "aa8a6561bb61a09362f097d7b046decaf91f542d"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1",
+    "D01-1"
+   ],
+   "concept_key": "正向框架话术与防范",
+   "ability_tags": [
+    "沟",
+    "思"
+   ],
+   "notes": "食品标'99% Fat Free'比'含1%脂肪'卖得好，甚至'98% Fat Free'都更好（26268）；吴军判断：这种方法会让我们失去判断（26268）；与C-SG1-U0362-06案例互引",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-05",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同一事实换正面表述（减产一成→抢救回九成）是沟通技巧而非投机取巧",
+   "quote": "事实没有错误，但是立场不对",
+   "anchor": {
+    "start_line": 26270,
+    "end_line": 26276,
+    "fingerprint": [
+     "洪灾",
+     "抢救回九成"
+    ],
+    "book_code": "SG1",
+    "sha1": "16cbdb4e61cff48746b86879a6b76be9b6f41aa2"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-1",
+    "D06-2"
+   ],
+   "concept_key": "正向框架话术与防范",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "专名案例（机关简报笑话）：吴军在国企工作时老人传授的官场经验；新来大学生写'粮食减产了一成'被领导改成'依然抢救回九成'（26272-26274）；吴军强调并非教人投机取巧，而是工作生活确有技巧（26276）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-06",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "逆境中少想损失多想所得更容易走出困境；高盛把亏损说成可抵税即是这种开导",
+   "quote": "少想点损失，多想点所得",
+   "anchor": {
+    "start_line": 26284,
+    "end_line": 26284,
+    "fingerprint": [
+     "逆境",
+     "开导"
+    ],
+    "book_code": "SG1",
+    "sha1": "f151abfcf575ddbe9430777ad242cff30d4f9ffe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "逆境多想所得",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "高盛基金经理将亏损说成能抵税：收入10万、亏5万、税率38%，少交1.9万但绝对损失仍有3.1万（26278-26280）；吴军评高盛比同业略好但长期不过市场平均，好在服务周到（26282-26284）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-07",
+   "unit_id": "SG1-U0362"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "创业失败常有，在彻底输掉前想想好的方面、振作并用剩余资源认真做事；但不接受教训则尝试再多也徒劳",
+   "quote": "在彻底输掉之前",
+   "anchor": {
+    "start_line": 26286,
+    "end_line": 26288,
+    "fingerprint": [
+     "创业公司",
+     "江东子弟"
+    ],
+    "book_code": "SG1",
+    "sha1": "242e24bd5cd87063475a8e7794c3fae70df746b2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4",
+    "D08-1"
+   ],
+   "concept_key": "输掉之前想想好的方面",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "杜牧评项羽'江东子弟多才俊，卷土重来未可知'（26288，转述引诗，并入本卡）；不要老想垓下之败，要想还有江东子弟；全信思考题：总结及人性特点如何应用于工作（26290）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0362-08",
+   "unit_id": "SG1-U0362"
+  }
+ ],
+ "x_disposals": [],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第350封卡尼曼经济学课（上）：框架效应、损失厌恶、散户行为、话术技巧与逆境心态，8卡；卡尼曼实验为E2转述"
+}
