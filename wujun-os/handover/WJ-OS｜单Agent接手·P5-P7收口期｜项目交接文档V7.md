@@ -1,6 +1,6 @@
 # WJ-OS｜单 Agent 接手·P5–P7 收口期｜项目交接文档 V7
 
-> **版本**：V7-R3（2026-10-26，pro Mac **单 Cursor 主 Agent** 换窗；非双机双主 Agent）  
+> **版本**：V7-R4（2026-10-26，pro Mac **单 Cursor 主 Agent** 换窗；非双机双主 Agent）  
 > **开场提示词**：与 `handover/WJ-OS｜新窗口开场提示词V7.md` **逐字同步**（§12 附录）  
 > **复水测验**：§10 十题全对才可开工（与 V5/V6 颗粒度对齐）  
 > **根源**：以 `handover/WJ-OS｜项目交接文档V6｜A线Agent执行·收官收口期.md` 为结构基线，并入 B 线 V6 历史与 **2026-10-26 单 Agent 实作进度**（非双机暂停快照 `71023db`）。  
@@ -24,6 +24,7 @@
 | 新窗口粘贴用提示词 | §12 + `handover/WJ-OS｜新窗口开场提示词V7.md`（须一致） |
 | **单 Cursor 主 Agent**（非双机） | §1.5 |
 | **复水测验（全对才开工）** | §10；`spec/quiz.md` 可选加深 |
+| **冷启动恢复（换窗/压缩后）** | §4（对齐 V1 `restore-check`、V5 §6、EP §6.3） |
 
 ---
 
@@ -127,17 +128,34 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 ---
 
-## 4. 新窗口第一动作（恢复清单）
+## 4. 新窗口冷启动恢复规程（开工前必做，缺一不开工）
 
-按顺序执行：
+> **不信对话摘要**；以仓库文件与命令输出为唯一真相（`spec/长任务稳定性与上下文工程方案.md` §6.3）。  
+> 沿革：V1「`make restore-check`」→ V4 §14「pull + restore-check + status + handover」→ V5 §6「读 state/journal + 抽卡抽查 + status + §9 测验」→ **V7 本表**（P5–P7，不再领 P3b 批工单）。
 
-1. `cd` 到 §0 仓库路径 → `git pull --ff-only origin main`
-2. 读 **`logs/WJ-OS_V6_status_for_user_20261026.md`** + **`logs/p6_user_signoff_checklist_20261026.md`**
-3. **复水测验**：自答 **§10 十题**（对照答案键），**全对才可动手**；首条回复附十题自答摘要；错题回读 V7/`spec/quiz.md` 后重答
-4. `make pack`（若本地有未打包改动）→ **`make v6-engineering`**（须 exit 0）
-5. **若用户已授权**：`make user-signoff-apply` → `make pack` → `make v6-engineering` → `make v6-audit`
-6. **若用户要先改 M3**：改 `m3_trial_feedback` / 需求文档 → lint/merge → 再收 `M3-确认`
-7. 未收 M3 前：可维护 P6 草稿、D4 快照，**不得** `UpdateGoal` complete 或宣称 V6/P7 终局
+| 步 | 动作 | 通过标准 / 备注 |
+|----|------|-----------------|
+| **A** | `cd` §0 路径 → `git pull --ff-only origin main` | 与 `origin/main` 一致 |
+| **B** | **环境 / 哈希核对**（二选一） | 任一路径 fail 即停，先修环境 |
+| B1 **常规**（本机已有 `src_frozen/`，推荐） | `make verify-pack` | exit 0；怀疑原文被改时再 `make freeze` |
+| B2 **全量冷启动**（换机、久未开、无 `src_frozen`） | 书籍 zip 复制为 `./_打包吴军10本电子书.zip` → **`make restore-check`**（= verify-pack + freeze + probe + test + status） | 全链 exit 0（见 V1/V4） |
+| **C** | **状态快照** | `make v6-roll-forward` → 读 `logs/v6_roll_forward_check_latest.md` |
+| | | `make status`：仅作渲染；**勿**把冻结的 `state/state.json`（J-143 快照）当 P5–P7 实况——以 `gate_matrix`、workboard、`journal_sg1` 尾行为准 |
+| **D** | **权威阅读顺序** | 能复述阶段与阻塞 |
+| | 1 | 本文 V7 **§0–§12**（含 §1.5 执行形态） |
+| | 2 | `spec/constraints.md`（HC 红线编号） |
+| | 3 | `state/STATE.md`、`state/p5_workboard.md`、`state/p6_workboard.md`（若有） |
+| | 4 | `state/journal_sg1.md` **末 10 行**（抽卡/GATE-D 史；总账本 `state/journal.md` 冻结至 J-148，考古用） |
+| | 5 | `logs/WJ-OS_V6_status_for_user_20261026.md`、`logs/WJ-OS_V6_gate_matrix_20261026.md`、`logs/p6_user_signoff_checklist_20261026.md` |
+| **E** | **信任校准抽查**（继承 V5 §6 第 4 步） | 从 `state/p4_freeze.json` 列出的路径任选 **2 张** K 卡 JSON，对照 `src_frozen/` **复核锚点行号 + SHA1**（不重抽、不改卡） |
+| **F** | **复水测验** | V7 **§10 十题全对**；首条回复附自答摘要；错则回读后再答。**禁止**测验未全对时改 tracked 文件 |
+| | 可选 | `spec/quiz.md` 抽 12 题 ≥11（EP/ST-1 加深） |
+| **G** | **工程闸门** | `make pack`（若本地有未打包改动）→ **`make v6-engineering`** exit 0 |
+| **H** | **复述并待命** | 向用户报告：唯一主 Agent 确认、§10 是否全对、阶段/阻塞/签收路径、`v6-engineering` 一行证据；**等用户「开始」或书面授权**再跑签收 apply / 改正式表 |
+| **I** | **授权后分支**（非冷启动必做） | 已授权：`make user-signoff-apply` → pack → `v6-engineering` → `v6-audit`；要先改 M3：改 trial/需求文档 → 相关 lint → 再收 `M3-确认` |
+| **J** | **红线** | 未收 M3 前不得 `UpdateGoal` complete 或宣称 V6/P7 终局；子集脚本绿 ≠ 人工签收 |
+
+**压缩 / 换 Agent**：视同冷启动，从 **A** 重做；摘要与仓库冲突时 **以仓库为准**，并在 `logs/` 留一条说明。
 
 ---
 
@@ -194,7 +212,7 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 ## 7. AI 自检清单（每轮结束）
 
-- [ ] **换窗首轮**：§10 复水十题已自答且全对（或已重答至全对）
+- [ ] **换窗首轮**：§4 冷启动 **A–H** 已做（含 verify-pack 或 restore-check、roll-forward、2 卡抽查、§10 全对）
 - [ ] `make pack`（若改过 tracked）且 `make v6-engineering` **exit 0**
 - [ ] 未改 `data/cards/` 除非用户明确解冻流程
 - [ ] `make p6-step-status` 与宣称的签收进度一致
@@ -272,17 +290,18 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 ① 协作模型从 **双 Agent** 转为 **pro Mac 单 Agent** 续作 P5–P7；② 阶段坐标更新为 **GATE-D/P4 后、M3 阻塞**；③ 增补工程命令 `v6-engineering` / `v7-preflight` / `v6-audit` / 签收 apply；④ V6 文件更名并标 **A/B 线 Agent 执行**；⑤ 明确 **暂停点与恢复第一动作**（§3–§4）。  
 ⑥ **V7-R2**：§1.5 执行形态表；开场提示词强调 **单 Cursor 主 Agent**；「分支 A/B」改为 **签收路径**；§12 与独立文件同步。  
-⑦ **V7-R3**：恢复 **§10 复水测验十题**；§4/开场词「全对才开工」；与 `spec/quiz.md` 可选加深。
+⑦ **V7-R3**：恢复 **§10 复水测验十题**；§4/开场词「全对才开工」；与 `spec/quiz.md` 可选加深。  
+⑧ **V7-R4**：§4 扩为 **冷启动恢复规程 A–J**（verify-pack / restore-check、roll-forward、status 口径、阅读顺序、2 卡锚点抽查、等「开始」）。
 
 ---
 
 ## 12. 新窗口开场提示词（一键复制）
 
-> 与 `handover/WJ-OS｜新窗口开场提示词V7.md`（V7-R3）**同一正文**。修改任一处时 **两处同改** 再提交。
+> 与 `handover/WJ-OS｜新窗口开场提示词V7.md`（V7-R4）**同一正文**。修改任一处时 **两处同改** 再提交。
 
 从下方 `text` 代码块 **整段复制** 为新 Cursor 窗口第一条消息（含 `/goal` 行）。
 
-<!-- SYNC:BEGIN opening-prompt-v7-r3 -->
+<!-- SYNC:BEGIN opening-prompt-v7-r4 -->
 
 ```text
 /goal 这是该项目的 GitHub 仓库 https://github.com/Reason-hang/zuixin-wujun-10book-shouce ，请先阅读仓库当前状态及关键文档（README、handover 下 **V7** 交接文档、spec/v2_方案.md 与工程化总纲）。本地工程根目录：
@@ -312,15 +331,29 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 你是 WJ-OS 的**单 Cursor 主 Agent 接手**（双机双主 Agent 已收口；抽取与 GATE-D 已完成）。目标：按 v2 **§15.5.5–§15.5.8** 完成 **P5→P6→P7**，直至 Gate 可审计过关；**当前整体 V6 用户方案尚未完成**，不得宣称 M4 终局交付。
 
-## 第一步（开工前必做，缺一不开工）
+## 第一步（冷启动恢复 A–J，缺一不开工；全文表见 V7 §4）
 
-1. `cd` 到上述 `wujun-os/wujun-os`，**通读** `handover/WJ-OS｜单Agent接手·P5-P7收口期｜项目交接文档V7.md`（现行权威，§0–§12）。
-2. **仅考古**（勿按双主 Agent 执行）：V6 A/B 档、V5 双机档——用于理解抽卡史与红线，**不是**你当前的身份与写集合。
-3. 读 `README.md`、`AGENTS.md`、`logs/WJ-OS_V6_status_for_user_20261026.md`、`logs/WJ-OS_V6_gate_matrix_20261026.md`。
-4. `git pull --ff-only origin main`（含 V7-R3 及之后提交）。
-5. **复水测验（开工闸门）**：自答 V7 **§10 十题**（答案键在 §10 文末），**十题全对**才可改仓库、跑 `user-signoff-apply` 或领 P5–P7 工单；首条回复须附 **十题自答摘要**；错题回读 V7/`spec/quiz.md` 后重答。可选加深：`spec/quiz.md` 抽 12 题 ≥11（EP 规程）。
-6. **`make pack`**（若本地有未打包改动）→ **`make v6-engineering`**（必须 exit 0；含 test、p6-subset、对抗预检、p7-preflight、p6-step-status）。
-7. 复述 V7 §4「恢复清单」、§10 是否全对、当前 **阻塞项**；经用户确认「开始」或已有授权后再改签收正式表。
+**禁止**凭对话摘要或压缩记忆开工；以仓库与命令输出为准。
+
+**A** `cd` 到上述路径 → `git pull --ff-only origin main`（含 V7-R4 及之后）。
+
+**B 环境 / 哈希**（二选一，fail 即停）：  
+- **B1 常规**（本机已有 `src_frozen/`）：`make verify-pack`  
+- **B2 全量冷启动**（换机/无原文）：`cp <10本书zip> ./_打包吴军10本电子书.zip` → **`make restore-check`**（V1/V4 全链）
+
+**C 状态快照**：`make v6-roll-forward`（读 `logs/v6_roll_forward_check_latest.md`）；`make status`（**勿**单独信冻结的 `state/state.json`，实况以 gate_matrix / workboard / `journal_sg1` 尾行为准）。
+
+**D 权威阅读**（通读 V7 §0–§12，含 §1.5 执行形态）→ `spec/constraints.md` → `state/STATE.md` + `p5/p6_workboard` → `journal_sg1.md` 末 10 行 → `README.md`、`AGENTS.md`、一页状态 + gate_matrix + `p6_user_signoff_checklist`。V6/V5 双机档**仅考古**。
+
+**E 信任校准**：从 `state/p4_freeze.json` 任选 **2 张** K 卡，对照 `src_frozen/` 复核锚点 + SHA1（不改卡、不重抽）。
+
+**F 复水测验**：自答 V7 **§10 十题全对**才可改 tracked；首条回复附自答摘要；可选 `spec/quiz.md` 12 题 ≥11。
+
+**G 工程闸门**：`make pack`（若有未打包改动）→ **`make v6-engineering`**（必须 exit 0）。
+
+**H 复述待命**：报告唯一主 Agent、§10 全对、阶段/阻塞/签收路径、工程命令证据；**等用户「开始」或授权**再 apply 签收 / 改正式表。
+
+（**I/J** 授权后分支与红线见 V7 §4、下文「开工序列」。）
 
 ## 项目与当前状态（2026-10-26 仓库实数）
 
@@ -429,7 +462,7 @@ P0–P3b 抽取 ✅ → SG1 B-017~020 + 单书验收 ✅ → **GATE-D ✅** → 
 请先复述：**确认你是本机唯一 Cursor 主 Agent（非双机双主 Agent）**、**§10 复水十题是否全对**、当前阶段、阻塞项、签收路径（已授权/未授权）、下一动作；**复水未全对不得动手**；全对后等用户说「开始」或按授权执行。
 ```
 
-<!-- SYNC:END opening-prompt-v7-r3 -->
+<!-- SYNC:END opening-prompt-v7-r4 -->
 
 ---
 
