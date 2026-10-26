@@ -1,7 +1,8 @@
 # WJ-OS｜单 Agent 接手·P5–P7 收口期｜项目交接文档 V7
 
-> **版本**：V7-R2（2026-10-26，pro Mac **单 Cursor 主 Agent** 换窗；非双机双主 Agent）  
-> **开场提示词**：与 `handover/WJ-OS｜新窗口开场提示词V7.md` **逐字同步**（§11 附录）  
+> **版本**：V7-R3（2026-10-26，pro Mac **单 Cursor 主 Agent** 换窗；非双机双主 Agent）  
+> **开场提示词**：与 `handover/WJ-OS｜新窗口开场提示词V7.md` **逐字同步**（§12 附录）  
+> **复水测验**：§10 十题全对才可开工（与 V5/V6 颗粒度对齐）  
 > **根源**：以 `handover/WJ-OS｜项目交接文档V6｜A线Agent执行·收官收口期.md` 为结构基线，并入 B 线 V6 历史与 **2026-10-26 单 Agent 实作进度**（非双机暂停快照 `71023db`）。  
 > **权威优先级**：**本文 V7** > `spec/v2_方案.md` + `spec/工程化总纲.md` > `logs/WJ-OS_V6_gate_matrix_20261026.md` > V6 历史档 > journal  
 > **适用对象**：下一窗口 **唯一主 Agent**（≤2 子 Agent；**禁止** `composer-2.5-fast` 子代理，见 `state/agent_preferences.md`）  
@@ -20,8 +21,9 @@
 | 验收标准 + AI 自检 | §6–§7 |
 | 基于 V6、结合最新状态 | 全文；V6 双档见 §1.3 |
 | V6 命名区分 A/B Agent | `项目交接文档V6｜A线Agent执行·…` / `…｜B线Agent执行·…` |
-| 新窗口粘贴用提示词 | §11 + `handover/WJ-OS｜新窗口开场提示词V7.md`（须一致） |
+| 新窗口粘贴用提示词 | §12 + `handover/WJ-OS｜新窗口开场提示词V7.md`（须一致） |
 | **单 Cursor 主 Agent**（非双机） | §1.5 |
+| **复水测验（全对才开工）** | §10；`spec/quiz.md` 可选加深 |
 
 ---
 
@@ -130,11 +132,12 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 按顺序执行：
 
 1. `cd` 到 §0 仓库路径 → `git pull --ff-only origin main`
-2. `make pack`（若本地有未打包改动）→ **`make v6-engineering`**（须 exit 0）
-3. 读 **`logs/WJ-OS_V6_status_for_user_20261026.md`** + **`logs/p6_user_signoff_checklist_20261026.md`**
-4. **若用户已授权**：`make user-signoff-apply` → `make pack` → `make v6-engineering` → `make v6-audit`
-5. **若用户要先改 M3**：改 `m3_trial_feedback` / 需求文档 → lint/merge → 再收 `M3-确认`
-6. 未收 M3 前：可维护 P6 草稿、D4 快照，**不得** `UpdateGoal` complete 或宣称 V6/P7 终局
+2. 读 **`logs/WJ-OS_V6_status_for_user_20261026.md`** + **`logs/p6_user_signoff_checklist_20261026.md`**
+3. **复水测验**：自答 **§10 十题**（对照答案键），**全对才可动手**；首条回复附十题自答摘要；错题回读 V7/`spec/quiz.md` 后重答
+4. `make pack`（若本地有未打包改动）→ **`make v6-engineering`**（须 exit 0）
+5. **若用户已授权**：`make user-signoff-apply` → `make pack` → `make v6-engineering` → `make v6-audit`
+6. **若用户要先改 M3**：改 `m3_trial_feedback` / 需求文档 → lint/merge → 再收 `M3-确认`
+7. 未收 M3 前：可维护 P6 草稿、D4 快照，**不得** `UpdateGoal` complete 或宣称 V6/P7 终局
 
 ---
 
@@ -191,6 +194,7 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 ## 7. AI 自检清单（每轮结束）
 
+- [ ] **换窗首轮**：§10 复水十题已自答且全对（或已重答至全对）
 - [ ] `make pack`（若改过 tracked）且 `make v6-engineering` **exit 0**
 - [ ] 未改 `data/cards/` 除非用户明确解冻流程
 - [ ] `make p6-step-status` 与宣称的签收进度一致
@@ -231,20 +235,54 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 ---
 
-## 10. V7 相对 V6 的修订记录
+## 10. 复水测验（开工前自答，十题全对才可动手）
 
-① 协作模型从 **双 Agent** 转为 **pro Mac 单 Agent** 续作 P5–P7；② 阶段坐标更新为 **GATE-D/P4 后、M3 阻塞**；③ 增补工程命令 `v6-engineering` / `v7-preflight` / `v6-audit` / 签收 apply；④ V6 文件更名并标 **A/B 线 Agent 执行**；⑤ 明确 **暂停点与恢复第一动作**（§3–§4）。  
-⑥ **V7-R2**：§1.5 执行形态表；开场提示词强调 **单 Cursor 主 Agent**；「分支 A/B」改为 **签收路径**；§11 与独立文件同步。
+> 与 V5 §9 / V6 §8.1 同颗粒度，内容针对 **P5–P7 单 Cursor 主 Agent**。答卷写入首条回复；**错一题不得**改签收正式表、`user-signoff-apply`、或宣称 gate 过关。答错回读本文 §1–§9 与 `spec/quiz.md` 后重答。  
+> 可选加深（EP/ST-1）：`spec/quiz.md` 题库抽 12 题 ≥11 正确。
+
+**题目**
+
+1. 本 Cursor 窗口有几个**主 Agent**？能否按 V5/V6 **双机两主 Agent** 同时 `git push` 收编？
+2. 当前**阶段坐标**（P4 之后）？**首要阻塞**是什么？
+3. P4 冻结后能否**默认**改 `data/cards/`？若必须改，走什么流程？
+4. Gate-P5 **步 11** 过关产物文件名？缺什么不得标步 11 ✅？
+5. `make user-signoff-apply` 的前置授权是什么？能否用 Agent 草稿列冒充 P6 **终签**？
+6. 工程绿链**一键命令**？改 tracked 文件后**必先**执行？
+7. 对外宣称「V6 整体完成」前必跑什么？未完成时 **exit 1** 是否一定代表工程坏了？
+8. 列出至少 **3 项**本阶段**禁写**路径。
+9. 子代理**禁止**使用的模型 slug？
+10. `make p6-subset` 全绿能否替代 P6 **步 7/10/11 人工签收**？GATE-D 后全库 K 卡约多少张？
+
+**答案键**（自答后对照；勿在首答前偷看）
+
+1. **仅 1 个**主 Agent（§1.5）；**不能**双主 Agent 并行 push；Task 子代理≠第二主会话。  
+2. **P5 步 11 M3 🔄** 为主阻塞；P6 人工签收、P7 终版 🔄（§2）。  
+3. **不能**默认改；须用户明确 **P4 解冻**流程（§1.3）。  
+4. `logs/m3_user_signoff_record.md`；无 `M3-确认`/授权文件不得 ✅（§5.1）。  
+5. `logs/user_signoff_authorization.txt` 或用户聊天 **exact** 授权句 + 明示执行 apply；**不能**冒充终签（§1.2）。  
+6. `make v6-engineering`；**先 `make pack`**（§6）。  
+7. `make v6-audit` 逐项 ✅；exit 1 在未完工时 **为预期**（§6）。  
+8. 例：`src_frozen/`、`data/cards/`（冻结）、`data/gold/`、`logs/g6.md`（§1.3、开场禁写表）。  
+9. **`composer-2.5-fast`**（`state/agent_preferences.md`）。  
+10. **不能**替代人工签收；约 **9019** 张、GATE-D **0 FAIL**（§2.1）。
 
 ---
 
-## 11. 新窗口开场提示词（一键复制）
+## 11. V7 相对 V6 的修订记录
 
-> 与 `handover/WJ-OS｜新窗口开场提示词V7.md`（V7-R2）**同一正文**。修改任一处时 **两处同改** 再提交。
+① 协作模型从 **双 Agent** 转为 **pro Mac 单 Agent** 续作 P5–P7；② 阶段坐标更新为 **GATE-D/P4 后、M3 阻塞**；③ 增补工程命令 `v6-engineering` / `v7-preflight` / `v6-audit` / 签收 apply；④ V6 文件更名并标 **A/B 线 Agent 执行**；⑤ 明确 **暂停点与恢复第一动作**（§3–§4）。  
+⑥ **V7-R2**：§1.5 执行形态表；开场提示词强调 **单 Cursor 主 Agent**；「分支 A/B」改为 **签收路径**；§12 与独立文件同步。  
+⑦ **V7-R3**：恢复 **§10 复水测验十题**；§4/开场词「全对才开工」；与 `spec/quiz.md` 可选加深。
+
+---
+
+## 12. 新窗口开场提示词（一键复制）
+
+> 与 `handover/WJ-OS｜新窗口开场提示词V7.md`（V7-R3）**同一正文**。修改任一处时 **两处同改** 再提交。
 
 从下方 `text` 代码块 **整段复制** 为新 Cursor 窗口第一条消息（含 `/goal` 行）。
 
-<!-- SYNC:BEGIN opening-prompt-v7-r2 -->
+<!-- SYNC:BEGIN opening-prompt-v7-r3 -->
 
 ```text
 /goal 这是该项目的 GitHub 仓库 https://github.com/Reason-hang/zuixin-wujun-10book-shouce ，请先阅读仓库当前状态及关键文档（README、handover 下 **V7** 交接文档、spec/v2_方案.md 与工程化总纲）。本地工程根目录：
@@ -276,12 +314,13 @@ P0–P3b 抽取 ✅ → GATE-D ✅ → P4 K 卡冻结 ✅
 
 ## 第一步（开工前必做，缺一不开工）
 
-1. `cd` 到上述 `wujun-os/wujun-os`，**通读** `handover/WJ-OS｜单Agent接手·P5-P7收口期｜项目交接文档V7.md`（现行权威，§0–§11）。
+1. `cd` 到上述 `wujun-os/wujun-os`，**通读** `handover/WJ-OS｜单Agent接手·P5-P7收口期｜项目交接文档V7.md`（现行权威，§0–§12）。
 2. **仅考古**（勿按双主 Agent 执行）：V6 A/B 档、V5 双机档——用于理解抽卡史与红线，**不是**你当前的身份与写集合。
 3. 读 `README.md`、`AGENTS.md`、`logs/WJ-OS_V6_status_for_user_20261026.md`、`logs/WJ-OS_V6_gate_matrix_20261026.md`。
-4. `git pull --ff-only origin main`（最新提交应含 V7 交接，如 `d2d0c15` 及之后）。
-5. **`make pack`**（若本地有未打包改动）→ **`make v6-engineering`**（必须 exit 0；含 test、p6-subset、对抗预检、p7-preflight、p6-step-status）。
-6. 复述 V7 §4「恢复清单」与当前 **阻塞项**，经用户确认或已有授权后再改签收正式表。
+4. `git pull --ff-only origin main`（含 V7-R3 及之后提交）。
+5. **复水测验（开工闸门）**：自答 V7 **§10 十题**（答案键在 §10 文末），**十题全对**才可改仓库、跑 `user-signoff-apply` 或领 P5–P7 工单；首条回复须附 **十题自答摘要**；错题回读 V7/`spec/quiz.md` 后重答。可选加深：`spec/quiz.md` 抽 12 题 ≥11（EP 规程）。
+6. **`make pack`**（若本地有未打包改动）→ **`make v6-engineering`**（必须 exit 0；含 test、p6-subset、对抗预检、p7-preflight、p6-step-status）。
+7. 复述 V7 §4「恢复清单」、§10 是否全对、当前 **阻塞项**；经用户确认「开始」或已有授权后再改签收正式表。
 
 ## 项目与当前状态（2026-10-26 仓库实数）
 
@@ -387,10 +426,10 @@ P0–P3b 抽取 ✅ → SG1 B-017~020 + 单书验收 ✅ → **GATE-D ✅** → 
 
 遇用户授权、验收争议、需改 `spec/` 或解冻 P4，**立即停下汇报**，勿自行降门槛。
 
-请先复述：**确认你是本机唯一 Cursor 主 Agent（非双机双主 Agent）**、当前阶段、阻塞项、签收路径（已授权/未授权）、下一动作；再执行。
+请先复述：**确认你是本机唯一 Cursor 主 Agent（非双机双主 Agent）**、**§10 复水十题是否全对**、当前阶段、阻塞项、签收路径（已授权/未授权）、下一动作；**复水未全对不得动手**；全对后等用户说「开始」或按授权执行。
 ```
 
-<!-- SYNC:END opening-prompt-v7-r2 -->
+<!-- SYNC:END opening-prompt-v7-r3 -->
 
 ---
 
