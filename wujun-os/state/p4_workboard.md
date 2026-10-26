@@ -5,13 +5,13 @@
 | 步 | 动作 | 状态 | 产出路径 |
 |---|------|------|----------|
 | 1 | P3 冻结快照 | ✅ | `logs/p4_step01_p3_freeze_20261026.md` |
-| 2 | 概念键归一（registry + 书内跨批合并队列） | 🔄 | `concept_keys.csv`；`logs/p4_step02_concept_key_merge_queue_20261026.md` |
-| 3 | 近似卡对/键对候选 | 🔄 | `logs/p4_step03_near_dup_pairs_20261026.md` |
-| 4 | 7 类关系 + 冲突台账 F 编号 | ⏳ | `ledger/` 待建 |
-| 5 | 支柱归属 + 判例 | ⏳ | |
+| 2 | 概念键归一（registry + 书内跨批合并队列） | 🔄 | `concept_keys.csv`；`data/rules/concept_key_aliases.yaml`（首批 3 簇） |
+| 3 | 近似卡对/键对候选 | ✅ 粗筛 | `logs/p4_step03_near_dup_pairs_20261026.md` |
+| 4 | 7 类关系 + 冲突台账 F 编号 | 🔄 | `ledger/p4_conflicts_ledger.md`（F-001~004） |
+| 5 | 支柱归属 + 判例 | 🔄 | `logs/p4_step05_d06_attribution_snapshot_20261026.md` |
 | 6–8 | L3/L2、三道门 | ⏳ | |
 | 9 | 数量核对 | ⏳ | |
-| 10 | 盲重标 κ≥0.6 | ⏳ | |
+| 10 | 盲重标 κ≥0.6 | 🔄 | `logs/p4_step10_blind_relabel_manifest_20261026.csv`（450 张待重标） |
 | 11 | 用户抽查 20 张 | ⏳ | 需用户 |
 | 12 | K 卡冻结 | ⏳ | |
 | 13 | 字典变更报告 + 用户确认骨架 | ⏳ | 需用户 |

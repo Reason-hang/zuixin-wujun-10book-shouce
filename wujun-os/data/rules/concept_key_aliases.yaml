@@ -1,0 +1,22 @@
+# P4 概念键别名表（v2 §15.8「一键一概念」）
+# 规则：卡上 concept_key 暂不批量改写；成稿/P4 聚合时以 canonical 为准。
+# 更新须走 §15.13 变更控制；本文件为配置文件，非脚本硬编码。
+
+version: "2026-10-26"
+entries:
+  - canonical: 做减法比做加法重要
+    aliases:
+      - 初创公司做减法
+      - 初创聚焦做减法
+    relation: 同义重复
+    note: 富足/来信案例与创业聚焦表述收敛（P4 step2 裁决）
+
+  - canonical: 成功才是成功之母
+    aliases: []
+    relation: 跨书复用
+    note: 已跨 FZ/GG/GJ/JS/SG1/SG3；保持单键，书内批内重复 notes 互引
+
+  - canonical: 命即看问题与做事方法
+    aliases: []
+    relation: 批内重复
+    note: SG1 U0324/U0325 同键两卡，P4 保留不拆
