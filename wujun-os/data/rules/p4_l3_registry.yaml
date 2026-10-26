@@ -1,0 +1,229 @@
+# P4 L3 注册表（合并门后草案，v2 §5.3.3）
+
+version: "2026-10-26"
+l3_nodes:
+  - canonical_concept_key: "CK-2014"
+    primary_pillar: "TBD"
+    member_keys: ["CK-2014", "CK-2015", "CK-2016", "CK-2024", "CK-2025", "CK-2026", "CK-2027", "CK-2028", "CK-2029", "CK-2020", "CK-2021", "CK-2022", "CK-2023", "CK-2017", "CK-2018", "CK-2019"]
+    card_count: 51
+    unit_count: 2
+  - canonical_concept_key: "成功才是成功之母"
+    primary_pillar: "TBD"
+    member_keys: ["成功才是成功之母", "成功是成功之母"]
+    card_count: 9
+    unit_count: 2
+  - canonical_concept_key: "以正合以奇胜"
+    primary_pillar: "TBD"
+    member_keys: ["以正合以奇胜"]
+    card_count: 5
+    unit_count: 1
+  - canonical_concept_key: "向死而生"
+    primary_pillar: "TBD"
+    member_keys: ["向死而生"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "尽人事听天命"
+    primary_pillar: "TBD"
+    member_keys: ["尽人事听天命"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "朗道等级"
+    primary_pillar: "TBD"
+    member_keys: ["朗道等级"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "奥卡姆剃刀"
+    primary_pillar: "TBD"
+    member_keys: ["奥卡姆剃刀"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "反应比预测重要"
+    primary_pillar: "TBD"
+    member_keys: ["反应比预测重要"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "文明特征是理解行为的钥匙"
+    primary_pillar: "TBD"
+    member_keys: ["文明特征是理解行为的钥匙"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "生活是具体的"
+    primary_pillar: "TBD"
+    member_keys: ["生活是具体的"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "做到极致"
+    primary_pillar: "TBD"
+    member_keys: ["做到极致"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "人生是一条河"
+    primary_pillar: "TBD"
+    member_keys: ["人生是一条河"]
+    card_count: 4
+    unit_count: 1
+  - canonical_concept_key: "太初有为"
+    primary_pillar: "TBD"
+    member_keys: ["太初有为"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "态度决定命运"
+    primary_pillar: "TBD"
+    member_keys: ["态度决定命运"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "杀鸡用牛刀"
+    primary_pillar: "TBD"
+    member_keys: ["杀鸡用牛刀"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "牙刷原则"
+    primary_pillar: "TBD"
+    member_keys: ["牙刷原则"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "爆款效应"
+    primary_pillar: "TBD"
+    member_keys: ["爆款效应"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "薪尽火传"
+    primary_pillar: "TBD"
+    member_keys: ["薪尽火传"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "时间是朋友时机不是"
+    primary_pillar: "TBD"
+    member_keys: ["时间是朋友时机不是"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "经历变经验"
+    primary_pillar: "TBD"
+    member_keys: ["经历变经验"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "CK-1012"
+    primary_pillar: "TBD"
+    member_keys: ["CK-1012"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "CK-1015"
+    primary_pillar: "TBD"
+    member_keys: ["CK-1015"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "商业是最好的慈善"
+    primary_pillar: "TBD"
+    member_keys: ["商业是最好的慈善"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "市场永远是对的"
+    primary_pillar: "TBD"
+    member_keys: ["市场永远是对的"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "对事不对人"
+    primary_pillar: "TBD"
+    member_keys: ["对事不对人"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "问心无愧稳得报酬"
+    primary_pillar: "TBD"
+    member_keys: ["问心无愧稳得报酬"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "相关不等于因果"
+    primary_pillar: "TBD"
+    member_keys: ["相关不等于因果"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "沟通以确认为准"
+    primary_pillar: "TBD"
+    member_keys: ["沟通以确认为准"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "效率与少做事"
+    primary_pillar: "TBD"
+    member_keys: ["效率与少做事"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "大气"
+    primary_pillar: "TBD"
+    member_keys: ["大气"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "解释清楚是生意"
+    primary_pillar: "TBD"
+    member_keys: ["解释清楚是生意"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "海恩法则"
+    primary_pillar: "TBD"
+    member_keys: ["海恩法则"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "一生五件事"
+    primary_pillar: "TBD"
+    member_keys: ["一生五件事"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "戒贪防小人"
+    primary_pillar: "TBD"
+    member_keys: ["戒贪防小人"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "信息换能量"
+    primary_pillar: "TBD"
+    member_keys: ["信息换能量"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "第三眼美女"
+    primary_pillar: "TBD"
+    member_keys: ["第三眼美女"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "保守主义渐进改良"
+    primary_pillar: "TBD"
+    member_keys: ["保守主义渐进改良"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "前提加逻辑皆合理"
+    primary_pillar: "TBD"
+    member_keys: ["前提加逻辑皆合理"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "看不见的手"
+    primary_pillar: "TBD"
+    member_keys: ["看不见的手"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "投资就是投人"
+    primary_pillar: "TBD"
+    member_keys: ["投资就是投人"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "边界内做事"
+    primary_pillar: "TBD"
+    member_keys: ["边界内做事"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "财富靠赚不靠攒"
+    primary_pillar: "TBD"
+    member_keys: ["财富靠赚不靠攒"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "一通百通"
+    primary_pillar: "TBD"
+    member_keys: ["一通百通"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "拿破仑重法典轻军功"
+    primary_pillar: "TBD"
+    member_keys: ["拿破仑重法典轻军功"]
+    card_count: 3
+    unit_count: 1
+  - canonical_concept_key: "辛苦不等于痛苦"
+    primary_pillar: "TBD"
+    member_keys: ["辛苦不等于痛苦"]
+    card_count: 3
+    unit_count: 1

@@ -12,9 +12,21 @@ entries:
     note: 富足/来信案例与创业聚焦表述收敛（P4 step2 裁决）
 
   - canonical: 成功才是成功之母
-    aliases: []
-    relation: 跨书复用
-    note: 已跨 FZ/GG/GJ/JS/SG1/SG3；保持单键，书内批内重复 notes 互引
+    aliases:
+      - 成功是成功之母
+    relation: 同义重复
+    note: 增长门两键合并为单 L3（P4 step9 合并门）
+
+  - canonical: CK-2014
+    aliases:
+      - CK-2015
+      - CK-2016
+      - CK-2017
+      - CK-2018
+      - CK-2019
+      - CK-2020
+    relation: 占位键簇
+    note: CK-20xx 批内占位键手册侧合并；卡上键保留溯源，见 p4_l3_registry
 
   - canonical: 命即看问题与做事方法
     aliases: []
