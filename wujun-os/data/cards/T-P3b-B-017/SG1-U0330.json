@@ -1,0 +1,119 @@
+{
+ "unit_id": "SG1-U0330",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q3",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "见识的前提是“见”即亲身经历，读万卷书还不够，还要行万里路",
+   "quote": "仅仅读万卷书还不够",
+   "anchor": {
+    "start_line": 23473,
+    "end_line": 23475,
+    "fingerprint": [
+     "见识",
+     "行万里路"
+    ],
+    "book_code": "SG1",
+    "sha1": "2bdd0a9a2dfff59f7b785acb5f948b6b381d5496"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2",
+    "D02-2"
+   ],
+   "concept_key": "见识始于亲见",
+   "ability_tags": [
+    "学",
+    "思"
+   ],
+   "notes": "吴军称自己经常讲“见识”二字（23475）；行万里路时一开始都去大城市或旅游热点，但世界上除了大都市还有很多其他地方可去（23475）；游记主体为X3，仅取此方法论判断",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0330-01",
+   "unit_id": "SG1-U0330"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "旅游目的是到处转转，转多了才懂许多人想法期盼与全球化受益者相差甚远",
+   "quote": "当自己转多了",
+   "anchor": {
+    "start_line": 23473,
+    "end_line": 23473,
+    "fingerprint": [
+     "See Around",
+     "相差甚远"
+    ],
+    "book_code": "SG1",
+    "sha1": "5ab4f5a361865ce30135c8b47c2516f4e47f3ded"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D01-2"
+   ],
+   "concept_key": "多见才懂他人期盼",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军称旅游最直接的目的是 See Around（23473）；对象为受益于全球化的中国人、德国人、美国精英与世界上很多人的差异；奥地利等国对全球化兴趣不大的论述属X6，不入卡（23469-23471）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0330-02",
+   "unit_id": "SG1-U0330"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "各地自然灾害都不少，重要的是学会和自然相处并在灾后站起来",
+   "quote": "学会和自然相处",
+   "anchor": {
+    "start_line": 23401,
+    "end_line": 23403,
+    "fingerprint": [
+     "灾备预算",
+     "发洪水"
+    ],
+    "book_code": "SG1",
+    "sha1": "7598a15035f326b0ee00b9638bc2568273f8bfc3"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-4"
+   ],
+   "concept_key": "灾后重新站起来",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "起因是帕绍多瑙河洪水与德国灾备预算按100%修复（23401）；吴军顺带批评中国南方发洪水时网上抱怨谩骂（23403）；旁带评论，单独成卡以保留“与自然相处”口径；该条为游记信中的附带判断，可由P4判定是否并入D02-4",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0330-03",
+   "unit_id": "SG1-U0330"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0330",
+   "disposal": "X",
+   "x_subtype": "X3",
+   "reason": "第318封多瑙河之旅帕绍与林茨游记主体：三河城、大学城、圣史提芬大教堂管风琴、布谷钟与格拉苏蒂手表、林茨风貌与名人（23397-23467），以行程见闻景观叙述为主体"
+  },
+  {
+   "unit_id": "SG1-U0330",
+   "disposal": "X",
+   "x_subtype": "X4",
+   "reason": "帕绍与林茨城市史：凯尔特罗马封建、1225城市权、帕绍合约、1662大火、二战市长开城投降美军与苏军交接、林茨哈布斯堡中心、开普勒布鲁克纳希特勒（23405-23415, 23449-23461），纯史实科普"
+  },
+  {
+   "unit_id": "SG1-U0330",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "奥地利产业结构、生物医药与大数据发展、欧盟一体化与全球化对各国工业的影响（23467-23471），属宏观经济与国家层面论述，无个人层面可迁移结论"
+  },
+  {
+   "unit_id": "SG1-U0330",
+   "disposal": "X",
+   "x_subtype": "X1",
+   "reason": "原著配图与图注（23419-23465）及文末特色小镇思考题（23477）属载体与互动，不入论点"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第318封多瑙河之旅帕绍林茨：游记X3为主，仅取见识始于亲见、See Around、与自然相处3卡；城市史X4、欧盟全球化X6"
+}

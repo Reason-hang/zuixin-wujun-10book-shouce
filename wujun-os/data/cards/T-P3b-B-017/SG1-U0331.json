@@ -1,0 +1,256 @@
+{
+ "unit_id": "SG1-U0331",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q3",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "权利与生俱来；被允许做的许多事不是权利，而是他人或社会给予的特权",
+   "quote": "权利这东西是与生俱来的",
+   "anchor": {
+    "start_line": 23529,
+    "end_line": 23529,
+    "fingerprint": [
+     "特权",
+     "恩赐"
+    ],
+    "book_code": "SG1",
+    "sha1": "29cc26e7fb5a4733245d63cd2d2e82a569edafc5"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "权利与特权之分",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "《独立宣言》开篇句为第三方引文（23525-23527，X7，不入卡）；基本权利为生命权、自由权、追求幸福的权利，可衍生言论自由等；特权包括开车、接受高等教育（成绩不够可被拒绝）、娱乐与搭乘交通工具（23529）；归属在D02-3与D07-2之间摇摆，P4裁定",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-01",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "特权不同于天赋权利，可随时收回；违规即吊销驾照，没有驾照不能开车",
+   "quote": "是可以随时收回的",
+   "anchor": {
+    "start_line": 23531,
+    "end_line": 23533,
+    "fingerprint": [
+     "驾车不是权利",
+     "吊销"
+    ],
+    "book_code": "SG1",
+    "sha1": "108688353e5338be846591e24c085d30bfd6e6fc"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "特权可随时收回",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "美国驾驶手册开篇：“驾车不是权利，而是特权”（23531）；各州DMV和警察随时可吊销违规者驾照，哪怕生活不便也不能上路（23533）；美国手册引文为原著表述，未核验",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-02",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "许多人分不清权利与特权：不争取自己的权利，却为被剥夺的特权闹事",
+   "quote": "却为了被剥夺的特权而闹事",
+   "anchor": {
+    "start_line": 23535,
+    "end_line": 23535,
+    "fingerprint": [
+     "搞不清楚",
+     "不去争取"
+    ],
+    "book_code": "SG1",
+    "sha1": "4468f9e8045364b1f20aa2e23f8e5957652947ad"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "权利特权混淆",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "家长应教育孩子懂得权利与特权，将来可成为好公民（23523）；开篇六件事为思考引子，不入卡（23491-23501）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-03",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "银行信用额度是可随时降为零的特权；失业无收入者还不上贷款概率大",
+   "quote": "信用额度是一种特权",
+   "anchor": {
+    "start_line": 23537,
+    "end_line": 23541,
+    "fingerprint": [
+     "没有了工作",
+     "坏账"
+    ],
+    "book_code": "SG1",
+    "sha1": "24e0fbaa44b26023479b466a38fe003e16f5c03b"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D09-1"
+   ],
+   "concept_key": "信用额度是特权",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "银行有权不给信用卡、不提供贷款，也有权降信用额度为零（23537）；美国失业后信用卡没了、房屋可能被收走，之前的金融便利不过是可随时丢失的特权（23539）；银行要替储户负责避免坏账（23541）；以建设银行降低乐视员工信用额度为引（时事，不入主干）；仅为吴军对银行逻辑的说明，不构成投资或金融建议（HC-25）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-04",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "乘机是特权，仅六类情形可拒载；其余购票准时者凭合约有权乘机，违约要赔",
+   "quote": "飞机票是乘客和航空公司的合约",
+   "anchor": {
+    "start_line": 23543,
+    "end_line": 23559,
+    "fingerprint": [
+     "特定情况",
+     "违约"
+    ],
+    "book_code": "SG1",
+    "sha1": "f608b35e5891657b37aa16080101da6e7996db4a"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D07-2"
+   ],
+   "concept_key": "合约内是权利合约外是特权",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "六类可拒载情形（国际惯例）：无合适ID、拒绝安检搜身、可能伤害他人或毁坏设施、酒精药物控制下、穿着妨碍他人、妨碍空乘公务（23547-23557）；吃安眠药者属第四类，硬要从经济舱坐到商务舱者属第六类（23561）；条文细节为原著表述，未核验；提取的可迁移机理是“合约划定权利边界，边界外是对方给予的特权”",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-05",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "社会文明进步以人人是合格公民为前提；抱怨政府者离文明与精英更远，买假货应找电商或法院",
+   "quote": "离文明社会就远了一步",
+   "anchor": {
+    "start_line": 23565,
+    "end_line": 23567,
+    "fingerprint": [
+     "合格公民",
+     "假货"
+    ],
+    "book_code": "SG1",
+    "sha1": "2e06dc62bcf4d270589e357452dcc8462923d7e4"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-2",
+    "D02-3"
+   ],
+   "concept_key": "合格公民与文明社会",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "国家不能像商鞅靠暴政维持秩序（23565）；对电商买假货者的实务建议：找电商或法院，而非政府（23567）；涉及政府职责的论述带政治色彩，P4裁定是否归X6",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-06",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "无论出身与经历多卑贱，都要使自己高尚起来",
+   "quote": "都要使自己高尚起来",
+   "anchor": {
+    "start_line": 23519,
+    "end_line": 23519,
+    "fingerprint": [
+     "精英阶层",
+     "卑贱"
+    ],
+    "book_code": "SG1",
+    "sha1": "dfa65ebe8809d7e22cfb6d68448007f87a09af04"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "出身卑贱也要高尚",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军坦言“如何进入精英阶层其实我也不知道”，但这一条是清楚的（23519）；钟子期樵夫、《儒林外史》四位高洁之士为佐证（23521）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-07",
+   "unit_id": "SG1-U0331"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "捍卫权利时也珍惜特权，不对社会和他人提无理要求，才被尊重、才有机会步入精英阶层",
+   "quote": "我们会珍惜我们所获得的特权",
+   "anchor": {
+    "start_line": 23569,
+    "end_line": 23571,
+    "fingerprint": [
+     "保守主义",
+     "无理的要求"
+    ],
+    "book_code": "SG1",
+    "sha1": "24fd035a930e8f43f10f95bdb698f496e93dbeba"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-2"
+   ],
+   "concept_key": "捍卫权利珍惜特权",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军称作为保守主义者会捍卫自己的权利，同时用行动改良社会（23569，详见第98、99封）；“当今还要加一条”为本信新增（23571）；当每个人有较高公民意识时，苏格拉底的悲剧才能避免（23571）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0331-08",
+   "unit_id": "SG1-U0331"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0331",
+   "disposal": "X",
+   "x_subtype": "X6",
+   "reason": "苏格拉底之死、柏拉图《理想国》精英政体、洛克民权思想、法国启蒙与美国代议制的政治思想史叙述（23505-23517），为国家政体层面与文明史对象；可迁移的权利特权与公民意识判断已入K卡，哲学评述部分P4可复核是否应入D01-4"
+  },
+  {
+   "unit_id": "SG1-U0331",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "《独立宣言》开篇引文原文（23525-23527）为第三方引文，无吴军评述的部分不入卡；吴军对关键词权利的解读已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0331",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "医生按流程救治无责、医学与死神对决从未赢过、医生只能治病不能救命（23563），属医学与医疗纠纷类内容，不入卡以免形成医疗建议（HC-25）"
+  },
+  {
+   "unit_id": "SG1-U0331",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "家长培养孩子志趣高尚、沉迷手机游戏与教育权利特权观念的亲子教育内容（23523）；唯一可迁移判断“懂得权利与特权可成为好公民”已并入C-SG1-U0331-03的notes"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第319封权利和特权：权利特权之分、特权可收回、信用额度与机票合约案例、合格公民、出身卑贱也要高尚、捍卫权利珍惜特权；政治思想史X6、宣言引文X7、医疗X8"
+}

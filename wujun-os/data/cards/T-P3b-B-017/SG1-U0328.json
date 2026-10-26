@@ -1,0 +1,249 @@
+{
+ "unit_id": "SG1-U0328",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q3",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "消费者真正关心放心与价格，新模式成败看是否提效降本，不在有无售货员",
+   "quote": "有没有售货员不是问题的核心",
+   "anchor": {
+    "start_line": 23223,
+    "end_line": 23229,
+    "fingerprint": [
+     "没有假货",
+     "降低了成本"
+    ],
+    "book_code": "SG1",
+    "sha1": "02130b60e11a3688d74d59b1633687045f381541"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D08-1"
+   ],
+   "concept_key": "消费者关心价格与放心",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "领域直连（零售）；网购兴起因价格低、省时间而非因为酷（23223）；无售货员商店可能因损毁与偷盗使价格反而上升（23225）；美国有无人计价柜台但仍需保安监控（23229）；总括条见“新的商业模式是否可行，要看能否让东西更便宜、购物更方便”（23271）；对话中大妈观点由吴军转述并认同，本卡取吴军论断",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-01",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "技术是手段而非目的，不能为了技术而研发技术",
+   "quote": "技术从来都是手段而不是目的",
+   "anchor": {
+    "start_line": 23231,
+    "end_line": 23231,
+    "fingerprint": [
+     "为了技术而研发技术",
+     "刚需"
+    ],
+    "book_code": "SG1",
+    "sha1": "e9dadf19f3188f94e4a40a932f7e7de9187936a2"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1"
+   ],
+   "concept_key": "技术是手段不是目的",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "吴军批评科技记者混淆目的与手段（23231）；总括条（23273）；与爱迪生案例互引（见 C-SG1-U0328-04）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-02",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "需求是刚需不等于解决方案是刚需，不因用了新技术就成刚需",
+   "quote": "解决方案并不一定是刚需",
+   "anchor": {
+    "start_line": 23231,
+    "end_line": 23235,
+    "fingerprint": [
+     "FDA",
+     "无售货员的超市"
+    ],
+    "book_code": "SG1",
+    "sha1": "e23d17b988febb08c1d51755d5971fe484d3995b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "刚需不等于方案刚需",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "FDA每年勒令下架一批药，大部分因为没有用途：治病是刚需但药未必（23233）；购物是刚需，无售货员超市未必（23235）；刷卡手机支付不省略花钱本身，过好日子本质是获得更多钱而非方便花钱（23235，总括条23275）；FDA事实为原著表述，未经本批核验",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-03",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爱迪生自动投票机碰壁后领悟：技术须有用有市场，从发明家转向企业家思维",
+   "quote": "技术还需要有用，有市场",
+   "anchor": {
+    "start_line": 23243,
+    "end_line": 23249,
+    "fingerprint": [
+     "自动投票机",
+     "企业家的思维方式"
+    ],
+    "book_code": "SG1",
+    "sha1": "1642970798caef783875804caa1a24950054e6a0"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D10-1",
+    "D08-1"
+   ],
+   "concept_key": "有用有市场的技术",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "爱迪生第一个专利自动投票机被议员拒绝：议会需给少数派足够时间说服他人，决策流程不需加快（23245-23247）；什么时候采用自动化、什么时候不需要，不能仅考虑技术因素（23241）；真正留名的大发明家（爱迪生、贝尔、西门子）都不是为发明而发明（23253）；此故事来源为爱迪生本人所述，吴军转述，原著未给出出处",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-04",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "改变本身不是目的，改变有好坏，变好才是目的",
+   "quote": "变好才是目的",
+   "anchor": {
+    "start_line": 23255,
+    "end_line": 23257,
+    "fingerprint": [
+     "朱利安尼",
+     "奥巴马"
+    ],
+    "book_code": "SG1",
+    "sha1": "870c99560ce816e86859ee93d29a50feacffdcfe"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-1"
+   ],
+   "concept_key": "变好而非改变",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朱利安尼批评奥巴马竞选口号“改变”（转述第三方，23257）；吴军断言“事实证明投奥巴马票的绝大部分人八年后变得更加贫穷”属时点论断，不入主干；总括条（23277）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-05",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "30多岁为改命转学编程几乎不会更好：需近万小时刻意练习与特殊思维方式",
+   "quote": "为了改变而改变",
+   "anchor": {
+    "start_line": 23259,
+    "end_line": 23263,
+    "fingerprint": [
+     "刻意练习",
+     "特殊的思维方式"
+    ],
+    "book_code": "SG1",
+    "sha1": "443d8dc53447546f809681e38b27b39d0f0acaca"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D06-1"
+   ],
+   "concept_key": "为改变而改变的转行",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "回应读者30多岁事业一般是否学编程（23259）；吴军承认极个别人可能有计算机天赋但可能性小（23261）；多数科班计算机从业者尚未掌握其思维精髓，何况30多岁改行者（23263）；“近万小时刻意练习”为吴军口径，原著未给来源；读者提问为引子，不作论点",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-06",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "论战中抛出“你不懂”“不是专家”类话，说服别人的努力已败九成",
+   "quote": "努力就已经失败了九成",
+   "anchor": {
+    "start_line": 23237,
+    "end_line": 23239,
+    "fingerprint": [
+     "你又不是这方面的专家",
+     "时代的发展潮流"
+    ],
+    "book_code": "SG1",
+    "sha1": "eeb236750165d1ab3eaca3a780c001eed8aeae68"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D07-1"
+   ],
+   "concept_key": "你不懂话术说服已败",
+   "ability_tags": [
+    "沟"
+   ],
+   "notes": "此类话常是败下阵来之前最后说的话（23237）；“九成”为吴军比喻，无量化依据；具体到事件，时代潮流不是记者说了算（23239）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-07",
+   "unit_id": "SG1-U0328"
+  },
+  {
+   "speaker": "转述·第三方",
+   "claim_text": "爱因斯坦：真理就是在经验面前站得住脚的东西；吴军取用以重经验验证",
+   "quote": "在经验面前站得住脚",
+   "anchor": {
+    "start_line": 23265,
+    "end_line": 23267,
+    "fingerprint": [
+     "朴素的道理",
+     "不断被验证过"
+    ],
+    "book_code": "SG1",
+    "sha1": "41cbe954801ccbe89ecde4f62b6b3df4de9cb09f"
+   },
+   "evidence_level": "E2",
+   "pillar_candidates": [
+    "D01-1"
+   ],
+   "concept_key": "经验检验真理",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "被转述者：爱因斯坦（原著引语，未注明出处，以正文为准）；吴军据此评大妈不懂高科技却懂得经验中不断被验证的朴素道理，记者的想法则需要在经验面前验证（23265-23267）；总括条（23279）；吴军概括句与原话并存，互引同一论证链",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0328-08",
+   "unit_id": "SG1-U0328"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0328",
+   "disposal": "X",
+   "x_subtype": "X7",
+   "reason": "记者与大妈对话原文（23209-23213）为转述自微信的第三方引文，无吴军评述的部分不入卡；吴军评述已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0328",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "阿里巴巴无人超市发布及记者夸大解读、马云与百度负责人对比（23215-23221）以及奥巴马2008竞选结果（23257），依附2017年时点事件评论，离开该时点失效"
+  },
+  {
+   "unit_id": "SG1-U0328",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "美国超市从好莱坞明星到企业高管偷盗小商品轶事（23227）为佐证性个人见闻，无独立可迁移判断"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第316封明白的大妈和糊涂的记者：消费者关心价格、技术是手段、刚需与方案、爱迪生案例、变好而非改变、经验检验；对话原文X7、无人超市时评X2"
+}

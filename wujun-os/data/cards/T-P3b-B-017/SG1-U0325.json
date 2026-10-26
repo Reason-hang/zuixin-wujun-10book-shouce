@@ -1,0 +1,284 @@
+{
+ "unit_id": "SG1-U0325",
+ "book_code": "SG1",
+ "extractor": "EXT-SG1Q3",
+ "batch_id": "T-P3b-B-017",
+ "cards": [
+  {
+   "speaker": "吴军本人",
+   "claim_text": "命无非是看问题与做事的方法，运气只带来一时不确定，这两点决定命运",
+   "quote": "命无非是人看问题的方法",
+   "anchor": {
+    "start_line": 22939,
+    "end_line": 22939,
+    "fingerprint": [
+     "根本点",
+     "不确定"
+    ],
+    "book_code": "SG1",
+    "sha1": "ff47f91331dcdfe94069f7d602b8cfa260e2801b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "命即看问题与做事方法",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "与第312封同一论断的重述（见 C-SG1-U0324-02），批内同名概念键；“如何看待世界、如何做事”是人骨子里的两个根本点（22939）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-01",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "命一半取决于大环境，我们能控制的只有看问题与做事的方法",
+   "quote": "我们能控制的是自己",
+   "anchor": {
+    "start_line": 22947,
+    "end_line": 22949,
+    "fingerprint": [
+     "王莽时期",
+     "不由我们控制"
+    ],
+    "book_code": "SG1",
+    "sha1": "ba2a070057bfe5ac063c70ea72869fbe5cdf9c27"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "环境不可控方法可控",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "王莽/东汉末年做刀下鬼概率大，改革开放中国日子越来越好是大概率，文革时期难免痞气（22947）；环境不由我们控制，可控的是自己的方法（22949）；与 C-SG1-U0325-01 互补",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-02",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "所有看问题做事的方法都可概括为对挨耳光的反应：扇回去、认怂、冷静分析",
+   "quote": "对挨了一耳光的反应",
+   "anchor": {
+    "start_line": 22949,
+    "end_line": 22953,
+    "fingerprint": [
+     "一巴掌扇回去",
+     "认怂",
+     "冷静分析"
+    ],
+    "book_code": "SG1",
+    "sha1": "d30a59f71c1b17d16807d622b5cce1c51216613b"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D03-1"
+   ],
+   "concept_key": "挨耳光的三种反应",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "第三种反应的展开：也许我们真该被扇就接受教训，若对方是混蛋就叫警察或找其家长老板（22953）；两位美国人答案是叫警察，中国人口头多答下泻药整治，实际多认怂或扇回去（22955）；“巴掌”可代表客观现实（22957）；考试没考好的三种反应对照（22959-22965）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-03",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "对巴掌的处理方式一辈子有一致性：扇回去者一辈子扇人，认怂者一辈子认怂",
+   "quote": "处理的方法非常有一致性",
+   "anchor": {
+    "start_line": 22967,
+    "end_line": 22967,
+    "fingerprint": [
+     "扇回去",
+     "认怂"
+    ],
+    "book_code": "SG1",
+    "sha1": "d334c71bc53c1ea3fe56684d04453ccb45922cf6"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3"
+   ],
+   "concept_key": "反应模式一辈子一致",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "袁腾飞轶事里的红卫兵妈妈、爱管老公老婆吵架爆料者、许多生意人皆属扇回去型（22969）；此为吴军经验归纳，原著未给统计证据",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-04",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "常扇人耳光者并不命好，栽一次跟头即破产进局子，须按防御心理收敛行事",
+   "quote": "并非命就是最好的",
+   "anchor": {
+    "start_line": 22971,
+    "end_line": 22979,
+    "fingerprint": [
+     "安东尼",
+     "防御心理"
+    ],
+    "book_code": "SG1",
+    "sha1": "610d7b0816b33fd4c2c26c79a12289f148358c46"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D03-2",
+    "D07-2"
+   ],
+   "concept_key": "扇回去型的风险",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "扇回去者看似无往不利，但会遇到更强者（拳王约书亚）；很多商人栽一次跟头要么破产要么进局子（22971）；文革一代霸道者在改革开放时被“老天爷回敬耳光”（22973）；黑社会头子出狱聚众庆祝获刑5年一事属时事，仅作旁证（22977-22979）；“最会做生意的从来不是回敬别人巴掌的人”为吴军断言，无证据（22975）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-05",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "挨打后认怂（忍着、寄望孩子读书翻身）既打不动对方又再挨一巴掌，命运就此注定",
+   "quote": "既没有打动对方",
+   "anchor": {
+    "start_line": 22983,
+    "end_line": 22987,
+    "fingerprint": [
+     "偏心眼",
+     "没本事"
+    ],
+    "book_code": "SG1",
+    "sha1": "443af5bd7e7a5819f17cf54904a980d29e4dd518"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-3"
+   ],
+   "concept_key": "认怂型的命运",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "举例：领导偏心眼只想自己更勤恳打动对方（22983）、家长说“我们没本事你好好读书”（22985-22987）；东亚人挨耳光后认怂偏多（22981）；亚裔在美国大学录取中认怂的说法与平权法案属政治议题，不入卡（22989）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-06",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "同学三人命运迥异，在于对巴掌的反应：冷静想原因、找适合自己办法者命好",
+   "quote": "找到一个适合自己的办法",
+   "anchor": {
+    "start_line": 22993,
+    "end_line": 23001,
+    "fingerprint": [
+     "部委",
+     "出国",
+     "认怂"
+    ],
+    "book_code": "SG1",
+    "sha1": "562214f1d2e66e5ca657ccdbf567ff009d99bc59"
+   },
+   "evidence_level": "E3",
+   "pillar_candidates": [
+    "D02-3",
+    "D06-1"
+   ],
+   "concept_key": "冷静分析找出路",
+   "ability_tags": [
+    "思",
+    "做"
+   ],
+   "notes": "A君被系里老教授打压后转入部委，今成为掌握科研经费的人；C君因分房不公冷静想后选择出国成为著名学者；B君唠叨抱怨认怂，命运早已注定（22995-23001）；案例人物均匿名；“进入官场”仅为A君个人出路，吴军并未建议所有人效仿",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-07",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "爱批评别人却不能接受批评，是把巴掌扇回去，总觉得自己对很难进步",
+   "quote": "不能接受别人的批评",
+   "anchor": {
+    "start_line": 23005,
+    "end_line": 23005,
+    "fingerprint": [
+     "自以为是",
+     "很难进步"
+    ],
+    "book_code": "SG1",
+    "sha1": "738088cafd19e02d6e709a24aa79b4f1d632b283"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D07-1"
+   ],
+   "concept_key": "拒绝批评难进步",
+   "ability_tags": [
+    "思",
+    "学"
+   ],
+   "notes": "由说话和态度可判断属哪种人（23005）；夫妻家庭关系中的“巴掌”属X5，不入卡（23003）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-08",
+   "unit_id": "SG1-U0325"
+  },
+  {
+   "speaker": "吴军本人",
+   "claim_text": "被扇耳光常有原因，也许别人扇得对；人生命运就在对这一巴掌的态度",
+   "quote": "也许别人真扇得对",
+   "anchor": {
+    "start_line": 23007,
+    "end_line": 23009,
+    "fingerprint": [
+     "打醒了",
+     "对这一巴掌的态度"
+    ],
+    "book_code": "SG1",
+    "sha1": "6fa8b0e67f6ddb584c1537fd1c84d5ae24384665"
+   },
+   "evidence_level": "E1",
+   "pillar_candidates": [
+    "D02-3",
+    "D02-4"
+   ],
+   "concept_key": "被扇或是被打醒",
+   "ability_tags": [
+    "思"
+   ],
+   "notes": "朋友抑郁时要吃药，被人“打了一巴掌”打醒后几年前彻底好了（23007）；属个人轶事，不得读作医疗建议（HC-25）；末句为全信结论句（23009）",
+   "status": "已生成",
+   "claim_id": "C-SG1-U0325-09",
+   "unit_id": "SG1-U0325"
+  }
+ ],
+ "x_disposals": [
+  {
+   "unit_id": "SG1-U0325",
+   "disposal": "X",
+   "x_subtype": "X8",
+   "reason": "袁腾飞课堂轶事（22941-22945）、刘震云阿Q与祥林嫂之说（22991）、考试撕卷子例（22961），均为引入或佐证的个人轶事，无独立可迁移判断，已并入K卡notes"
+  },
+  {
+   "unit_id": "SG1-U0325",
+   "disposal": "X",
+   "x_subtype": "X5",
+   "reason": "夫妻与婆媳家庭关系中的巴掌（23003）、逼孩子读书的亚裔家长与美国大学录取歧视及平权法案议题（22985-22989），属家庭与教育制度议题；可迁移的认怂判断已入K卡"
+  },
+  {
+   "unit_id": "SG1-U0325",
+   "disposal": "X",
+   "x_subtype": "X2",
+   "reason": "黑社会头子出狱聚众庆祝获刑5年的当时新闻（22977-22979），离开该时点失效，仅作旁证"
+  }
+ ],
+ "unit_disposal": "K",
+ "unit_disposal_reason": "第313封一巴掌扇出的命运：命=看问题做事方法、对挨耳光的三种反应及后果、三位同学命运案例；轶事X8、家庭教育X5、时事X2"
+}
